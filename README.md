@@ -14,7 +14,7 @@ To Contribute:
 
 ***Don't wanna do all that?*** **Fill out [this Google Form](https://bit.ly/3d5O76c) and we'll add it for you!**
 
-## The List
+## [The List](https://bit.ly/3d5O76c)
 
 | Name  |  Location |  Notes |
 |---|---|-------------|
@@ -30,3 +30,5 @@ To Contribute:
 |[Morgan Stanley](https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/user-2429102/xf-3786f0ce9359/candidate/so/pm/1/pl/1/opp/9768-2021-Technology-Summer-Analyst-Program-New-York/en-GB) | New York| Technology Summer Analyst|
 |[Parson's](https://www.linkedin.com/jobs/view/computer-engineering-intern-summer-2021-at-parsons-corporation-1780539757/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)| Centreville, Denver, Augusta | CoE internship |
 |[Qualcomm](https://jobs.qualcomm.com/public/jobDetails.xhtml?requisitionId=1982304)| San Diego, Santa Clara, San Jose, Boulder, Austin| Software Engineering|
+
+[Add more postings here!](https://bit.ly/3d5O76c)
