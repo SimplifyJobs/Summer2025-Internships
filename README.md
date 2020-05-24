@@ -12,4 +12,4 @@ To Contribute:
 
 | Name  |  Location |  Notes |
 |---|---|-------------|
-|  [IMC Trading](https://imc.wd5.myworkdayjobs.com/invitation/job/Chicago/Quant-Trader-Intern---Summer-2020_REQ-00550) |  Chicago | Min. GPA 3.5, prefers Python programming skills xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx|
+|  [DRW](https://drw.com/careers/listings/?language=English&category=Campus&location=Chicago) |  Chicago | DRW Software Development, Quant Trader, Quant Research Intern|
