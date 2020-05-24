@@ -1,5 +1,5 @@
 # Summer 2021 Internships
-The Summer 2021 Internship season has begun! Use this repo to share and keep track of any undergraduate internships in quant, SWE, and PM. 
+The Summer 2021 Internship season has begun! Use this repo to share and keep track of any undergraduate internships in quant, SWE, and PM. Looking for new grad positions? Check [here](https://github.com/Pitt-CSC/NewGrad-2021).
 
 Need interview prep? Check out Yangshun Tay's [Tech Interview Handbook](https://yangshun.github.io/tech-interview-handbook/) for help!
 
