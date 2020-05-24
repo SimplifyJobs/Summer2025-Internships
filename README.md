@@ -14,7 +14,7 @@ To Contribute:
 
 ***Don't wanna do all that?*** **Fill out [this Google Form](https://bit.ly/3d5O76c) and we'll add it for you!**
 
-## [The List](https://bit.ly/3d5O76c)
+## The List
 
 | Name  |  Location |  Notes |
 |---|---|-------------|
