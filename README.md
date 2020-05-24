@@ -12,4 +12,7 @@ To Contribute:
 
 | Name  |  Location |  Notes |
 |---|---|-------------|
-|  [DRW](https://drw.com/careers/listings/?language=English&category=Campus&location=Chicago) |  Chicago | DRW Software Development, Quant Trader, Quant Research Intern|
+|[DRW](https://drw.com/careers/listings/?language=English&category=Campus&location=Chicago) |  Chicago | Software Development, Quant Trader, Quant Research Intern|
+| [Citadel](https://www.citadel.com/careers/open-positions/positions-for-students/)| Chicago, New York, other global locations |  SWE, Quant Research, Trader Intern|
+| [Hudson River Trading](https://www.hudsonrivertrading.com/careers/) | New York, Chicago | Software Engineering, Mid-Frequency Algo Intern|
+| [IMC Trading](https://careers.imc.com/us/en/c/internships-jobs)| Chicago | Hardware Engineering, Software Engineering, Quant Trading intern |
