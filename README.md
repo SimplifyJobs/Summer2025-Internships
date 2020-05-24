@@ -14,7 +14,7 @@ To Contribute:
 |---|---|-------------|
 |[American Express](https://jobs.americanexpress.com/jobs/20001627?lang=en-us)|Phoenix, AZ, Ft. Lauderdale, FL, and New York, NY.| Software Engineering|
 |[Apple](https://jobs.apple.com/en-us/search?location=united-states-USA&team=internships-STDNT-INTRN)| Cupertino, CS| Currently just ML/AI intern but expect more to open as time goes|
-|[Citadel](https://www.citadel.com/careers/open-positions/positions-for-students/)| Chicago, New York, other global locations |  SWE, Quant Research, Trader Intern|
+|[Citadel](https://www.citadel.com/careers/open-positions/positions-for-students/)| Chicago, New York, other global locations | ***Fall*** SWE, Quant Research, Trader Intern|
 |[Datadog](https://www.datadoghq.com/careers/detail/?gh_jid=1839108&gh_src=8363eca61)| New York, Paris| Currently Fall, will turn to summer postings soon |
 |[DRW](https://drw.com/careers/listings/?language=English&category=Campus&location=Chicago) |  Chicago | Software Development, Quant Trader, Quant Research Intern|
 |[Five Rings Capital](https://fiverings.com/apply/)| New York | Quant Trading, Quant Research, Software Development|
