@@ -8,7 +8,7 @@ To Contribute:
 2. Edit README.md and add your posting!
 3. Submit a Pull Request!
 
-Don't wanna do all that? Fill out [this Google Form](https://bit.ly/3d5O76c) and we'll add it for you! 
+**Don't wanna do all that? Fill out [this Google Form](https://bit.ly/3d5O76c) and we'll add it for you!**
 
 ## The List
 
