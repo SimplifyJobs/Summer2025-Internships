@@ -31,4 +31,4 @@ To Contribute:
 |[Parson's](https://www.linkedin.com/jobs/view/computer-engineering-intern-summer-2021-at-parsons-corporation-1780539757/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)| Centreville, Denver, Augusta | CoE internship |
 |[Qualcomm](https://jobs.qualcomm.com/public/jobDetails.xhtml?requisitionId=1982304)| San Diego, Santa Clara, San Jose, Boulder, Austin| Software Engineering|
 
-[Add more postings here!](https://bit.ly/3d5O76c)
+Contribute by submitting a pull request or [filling out this form](https://bit.ly/3d5O76c)!
