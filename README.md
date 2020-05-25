@@ -1,12 +1,10 @@
 # Summer 2021 Internships
 The Summer 2021 Internship season has begun! Use this repo to share and keep track of any internships in quant, SWE, and PM. Thanks to [elaine-zheng](https://github.com/elaine-zheng/summer2020internships) for the inspiration! For interview prep check out Yangshun Tay's [Tech Interview Handbook](https://yangshun.github.io/tech-interview-handbook/) for help!
 
-To Contribute:
-1. Fork this repository
-2. Edit README.md and add your posting!
-3. Submit a Pull Request!
 
-***Don't wanna do all that?*** **Fill out [this Google Form](https://bit.ly/3d5O76c) and we'll add it for you!**
+**Check out our new grad repo [here](https://github.com/Pitt-CSC/NewGrad-2021).**
+
+Contribute by submitting a pull request or [filling out this form](https://bit.ly/3d5O76c)!
 
 ## The List
 
@@ -25,7 +23,5 @@ To Contribute:
 |[Parson's](https://www.linkedin.com/jobs/view/computer-engineering-intern-summer-2021-at-parsons-corporation-1780539757/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)| Centreville, Denver, Augusta | CoE internship |
 |[Qualcomm](https://jobs.qualcomm.com/public/jobDetails.xhtml?requisitionId=1982304)| San Diego, Santa Clara, San Jose, Boulder, Austin| Software Engineering|
 
-Contribute by submitting a pull request or [filling out this form](https://bit.ly/3d5O76c)!
 
-**Looking for new grad positions? Check out our new grad repo [here](https://github.com/Pitt-CSC/NewGrad-2021).**
 
