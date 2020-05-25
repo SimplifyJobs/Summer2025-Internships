@@ -16,6 +16,7 @@ Check out our New Grad repo [here](https://github.com/Pitt-CSC/NewGrad-2021).
 |[Datadog](https://www.datadoghq.com/careers/detail/?gh_jid=1839108&gh_src=8363eca61)| New York, Paris| Currently Fall, will turn to summer postings soon |
 |[DRW](https://drw.com/careers/listings/?language=English&category=Campus&location=Chicago) |  Chicago | Software Development, Quant Trader, Quant Research Intern|
 |[Five Rings Capital](https://fiverings.com/apply/)| New York | Quant Trading, Quant Research, Software Development|
+|[Global Springs](https://www.globalexperiences.com/students/internships-abroad)| Barcelona, Spain, Ireland, France, Italy, London, USA | Graphic Design, NGO, Software Engineer, Education |
 |[Hudson River Trading](https://www.hudsonrivertrading.com/careers/) | New York, Chicago | Software Engineering, Mid-Frequency Algo Intern|
 |[IMC Trading](https://careers.imc.com/us/en/c/internships-jobs)| Chicago | Hardware Engineering, Software Engineering, Quant Trading intern |
 |[Jump Trading](https://www.jumptrading.com/apply.html?gh_jid=1550536) | Chicago | Tech Ops Engineer|
