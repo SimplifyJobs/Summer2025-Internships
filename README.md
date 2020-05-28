@@ -11,7 +11,7 @@ Check out our New Grad repo [here](https://github.com/Pitt-CSC/NewGrad-2021).
 | Name  |  Location |  Notes |
 |---|---|-------------|
 |[American Express](https://jobs.americanexpress.com/jobs/20001627?lang=en-us)|Phoenix, AZ, Ft. Lauderdale, FL, and New York, NY.| |
-|[Amazon](https://www.amazon.jobs/en/jobs/1134386/software-development-engineer-internship-fall-winter-2020-united-states)| Seattle, WA| Fall/Winter 2020 but will open up Summer 2021 soon|
+|[Amazon](https://www.amazon.jobs/en/jobs/1134386/software-development-engineer-internship-fall-winter-2020-united-states)| Seattle, WA| Fall/Winter 2020 but will turn to Summer 2021 soon|
 |[Apple](https://jobs.apple.com/en-us/search?location=united-states-USA&team=internships-STDNT-INTRN)| Cupertino, CA| Currently just ML/AI intern but expect more to open as time goes|
 |[BlackStone](https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/New-York/Data-Science---2021-Summer-Analyst_10792)| New York, NY | Data Science Summer Analyst |
 |[Citadel](https://www.citadel.com/careers/open-positions/positions-for-students/)| Chicago, New York, other global locations | ***Fall*** SWE, Quant Research, Trader Intern|
