@@ -23,7 +23,7 @@ Check out our New Grad repo [here](https://github.com/Pitt-CSC/NewGrad-2021).
 |[Morgan Stanley](https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/user-2429102/xf-3786f0ce9359/candidate/so/pm/1/pl/1/opp/9768-2021-Technology-Summer-Analyst-Program-New-York/en-GB) | New York| |
 |[Parson's](https://www.linkedin.com/jobs/view/computer-engineering-intern-summer-2021-at-parsons-corporation-1780539757/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)| Centreville, Denver, Augusta |  |
 |[Qualcomm](https://jobs.qualcomm.com/public/jobDetails.xhtml?requisitionId=1982304)| San Diego, Santa Clara, San Jose, Boulder, Austin| |
-|[Microsoft](https://careers.microsoft.com/us/en/job/795773/Intern-opportunities-for-undergraduate-students-Technical-Account-Manager-Summer-of-2021-Start-Dates?jobsource=linkedin&utm_source=linkedin&utm_medium=linkedin&utm_campaign=linkedin-feed)| Las Colinas, Charlotte, Bellevue| |
+|[Microsoft](https://careers.microsoft.com/us/en/job/795773/Intern-opportunities-for-undergraduate-students-Technical-Account-Manager-Summer-of-2021-Start-Dates?jobsource=linkedin&utm_source=linkedin&utm_medium=linkedin&utm_campaign=linkedin-feed)| Las Colinas, TX Charlotte, NC, Bellevue, WA| | Currently just Technical Acc. Manager Intern|
 
 
 
