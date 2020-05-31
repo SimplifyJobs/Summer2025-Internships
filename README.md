@@ -16,6 +16,7 @@ Check out our New Grad repo [here](https://github.com/Pitt-CSC/NewGrad-2021).
 |[BlackStone](https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/New-York/Data-Science---2021-Summer-Analyst_10792)| New York, NY | Data Science Summer Analyst |
 |[Bridgewater Associate](https://boards.greenhouse.io/bridgewater89/jobs/4076389002)| Westport, CT |  |
 |[Citadel](https://www.citadel.com/careers/open-positions/positions-for-students/)| Chicago, New York, other global locations | ***Fall*** SWE, Quant Research, Trader Intern|
+|[Credit Suisse](https://tas-creditsuisse.taleo.net/careersection/campus/jobdetail.ftl?job=150202&lang=en) | New York, NY | |
 |[Datadog](https://www.datadoghq.com/careers/detail/?gh_jid=1839108&gh_src=8363eca61)| New York, Paris| Currently Fall, will turn to summer postings soon |
 |[DRW](https://drw.com/careers/listings/?language=English&category=Campus&location=Chicago) |  Chicago | Software Development, Quant Trader, Quant Research Intern|
 |[Five Rings Capital](https://fiverings.com/apply/)| New York | Quant Trading, Quant Research, Software Development|
