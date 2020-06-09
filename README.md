@@ -10,7 +10,6 @@ Check out our New Grad repo [here](https://github.com/Pitt-CSC/NewGrad-2021).
 
 | Name  |  Location |  Notes |
 |---|---|-------------|
-|[American Express](https://jobs.americanexpress.com/jobs/20001627?lang=en-us)|Phoenix, AZ, Ft. Lauderdale, FL, and New York, NY.| |
 |[Amazon](https://www.amazon.jobs/en/jobs/1134386/software-development-engineer-internship-fall-winter-2020-united-states)| Seattle, WA| Fall/Winter 2020 but will turn to Summer 2021 soon|
 |[Ansys](https://careers.ansys.com/job/San-Jose-Fall-2020-AND-Spring-Summer-2021-Intern%2C-Machine-Learning-Intern-CA-95134/651299500/?utm_source=LINKEDIN&utm_medium=referrer)| Austin, TX | Fal, Spring, Summer internships|
 |[Apple](https://jobs.apple.com/en-us/search?location=united-states-USA&team=internships-STDNT-INTRN)| Cupertino, CA| Currently just ML/AI intern but expect more to open as time goes|
@@ -31,6 +30,7 @@ Check out our New Grad repo [here](https://github.com/Pitt-CSC/NewGrad-2021).
 |[Qualcomm](https://jobs.qualcomm.com/public/jobDetails.xhtml?requisitionId=1982304)| San Diego, Santa Clara, San Jose, Boulder, Austin| |
 
 
-Thanks to the following contributors! Fill [this survey](https://bit.ly/3d5O76c) or make a [Pull Request](https://github.com/susam/gitpr#create-pull-request) if you'd like to contribute too!
+Thanks to the following contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too!
 * [trhiana](https://github.com/trhiana)
 * [aaronw4ng](https://github.com/aaronw4ng)
+* [zarif98](https://github.com/zarif98)
