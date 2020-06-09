@@ -15,6 +15,7 @@ Check out our New Grad repo [here](https://github.com/Pitt-CSC/NewGrad-2021).
 |[Ansys](https://careers.ansys.com/job/San-Jose-Fall-2020-AND-Spring-Summer-2021-Intern%2C-Machine-Learning-Intern-CA-95134/651299500/?utm_source=LINKEDIN&utm_medium=referrer)| Austin, TX | Fal, Spring, Summer internships|
 |[Apple](https://jobs.apple.com/en-us/search?location=united-states-USA&team=internships-STDNT-INTRN)| Cupertino, CA| Currently just ML/AI intern but expect more to open as time goes|
 |[BlackStone](https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/New-York/Data-Science---2021-Summer-Analyst_10792)| New York, NY | Data Science Summer Analyst |
+|[BlackRock](https://blackrock.tal.net/vx/lang-en-GB/mobile-0/brand-3/xf-fb4e3bf3ac65/candidate/so/pm/1/pl/1/opp/3907-Summer-Analyst-Program-Americas/en-GB) | New York, NY| Summer Analyst |
 |[Bridgewater Associate](https://boards.greenhouse.io/bridgewater89/jobs/4076389002)| Westport, CT |  |
 |[Citadel](https://www.citadel.com/careers/open-positions/positions-for-students/)| Chicago, New York, other global locations | ***Fall*** SWE, Quant Research, Trader Intern|
 |[Credit Suisse](https://tas-creditsuisse.taleo.net/careersection/campus/jobdetail.ftl?job=150202&lang=en) | New York, NY | |
