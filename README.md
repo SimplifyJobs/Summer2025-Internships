@@ -4,7 +4,7 @@ The Summer 2021 Internship season has begun! Use this repo to share and keep tra
 
 Check out our New Grad repo [here](https://github.com/Pitt-CSC/NewGrad-2021).
 
-**Contribute by submitting a pull request or [filling out this form](https://bit.ly/3d5O76c)!**
+**Contribute by submitting a [pull request](https://github.com/susam/gitpr#create-pull-request) or [filling out this form](https://bit.ly/3d5O76c)!**
 
 ## The List
 
@@ -31,6 +31,6 @@ Check out our New Grad repo [here](https://github.com/Pitt-CSC/NewGrad-2021).
 |[Qualcomm](https://jobs.qualcomm.com/public/jobDetails.xhtml?requisitionId=1982304)| San Diego, Santa Clara, San Jose, Boulder, Austin| |
 
 
-Thanks to [trhiana](https://github.com/trhiana) for contributing! Fill [this survey] if you'd like to contribute too
-
-
+Thanks to the following contributors! Fill [this survey](https://bit.ly/3d5O76c) or make a [Pull Request](https://github.com/susam/gitpr#create-pull-request) if you'd like to contribute too!
+* [trhiana](https://github.com/trhiana)
+* [aaronw4ng](https://github.com/aaronw4ng)
