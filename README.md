@@ -1,5 +1,5 @@
 # Summer 2021 Internships
-The Summer 2021 Internship season has begun! Use this repo to share and keep track of any internships in quant, SWE, and PM. Thanks to [elaine-zheng](https://github.com/elaine-zheng/summer2020internships) for the inspiration! For interview prep check out Yangshun Tay's [Tech Interview Handbook](https://yangshun.github.io/tech-interview-handbook/) for help!
+The Summer 2021 Internship season has begun! Use this repo to share and keep track of any internships in quant, SWE, and PM. Thanks to [elaine-zheng](https://github.com/elaine-zheng/summer2020internships) for the inspiration! For interview prep check out Yangshun Tay's [Tech Interview Handbook](https://yangshun.github.io/tech-interview-handbook/)!
 
 
 Check out our New Grad repo [here](https://github.com/Pitt-CSC/NewGrad-2021).
