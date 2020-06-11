@@ -17,7 +17,6 @@ Check out our New Grad repo [here](https://github.com/Pitt-CSC/NewGrad-2021).
 |[Bridgewater Associate](https://boards.greenhouse.io/bridgewater89/jobs/4076389002)| Westport, CT |  |
 |[Citadel](https://www.citadel.com/careers/open-positions/positions-for-students/)| Chicago, New York, other global locations | ***Fall*** SWE, Quant Research, Trader Intern|
 |[Credit Suisse](https://tas-creditsuisse.taleo.net/careersection/campus/jobdetail.ftl?job=150202&lang=en) | New York, NY | |
-|[Datadog](https://www.datadoghq.com/careers/detail/?gh_jid=1839108&gh_src=8363eca61)| New York, Paris| Currently Fall, will turn to summer postings soon |
 |[D.E. Shaw](https://www.deshaw.com/careers/software-developer-intern-new-york-4018) | New York | |
 |[DRW](https://drw.com/careers/listings/?language=English&category=Campus&location=Chicago) |  Chicago | Software Development, Quant Trader, Quant Research Intern|
 |[Five Rings Capital](https://fiverings.com/apply/)| New York | Quant Trading, Quant Research, Software Development|
