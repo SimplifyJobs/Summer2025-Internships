@@ -12,6 +12,7 @@ Check out our New Grad repo [here](https://github.com/Pitt-CSC/NewGrad-2021).
 |---|---|-------------|
 |[Amazon](https://www.amazon.jobs/en/jobs/1134386/software-development-engineer-internship-fall-winter-2020-united-states)| Seattle, WA| Fall/Winter 2020 but will turn to Summer 2021 soon|
 |[Apple](https://jobs.apple.com/en-us/search?location=united-states-USA&team=internships-STDNT-INTRN)| Cupertino, CA| Currently just ML/AI intern but expect more to open as time goes|
+|[Bessemer Venture Partners](https://www.bvp.com/bessemer-fellows)| US | Fellowship Program |
 |[BlackRock](https://blackrock.tal.net/vx/lang-en-GB/mobile-0/brand-3/xf-fb4e3bf3ac65/candidate/so/pm/1/pl/1/opp/3907-Summer-Analyst-Program-Americas/en-GB) | New York, NY| Summer Analyst |
 |[BlackStone](https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/New-York/Data-Science---2021-Summer-Analyst_10792)| New York, NY | Data Science Summer Analyst |
 |[Bridgewater Associate](https://boards.greenhouse.io/bridgewater89/jobs/4076389002)| Westport, CT |  |
