@@ -23,6 +23,7 @@ Check out our New Grad repo [here](https://github.com/Pitt-CSC/NewGrad-2021).
 |[D.E. Shaw](https://www.deshaw.com/careers/software-developer-intern-new-york-4018) | New York | |
 |[DRW](https://drw.com/careers/listings/?language=English&category=Campus&location=Chicago) |  Chicago | Software Development, Quant Trader, Quant Research Intern|
 |[Five Rings Capital](https://fiverings.com/apply/)| New York | Quant Trading, Quant Research, Software Development|
+|[Goldman Sachs](https://www.goldmansachs.com/careers/students/programs/americas/summer-analyst-program.html)| Atlanta - Boston - Buenos Aires - Calgary - Cedar Rapids - Chicago - Dallas - Houston - Jersey City - Los Angeles - Mexic City - Miami - New York - Philadelphia - Salt Lake City - San Francisco - Santiago - Sao Paulo - Seattle - Toronto - Washington, D.C., - Wilmington ||
 |[Hudson River Trading](https://www.hudsonrivertrading.com/careers/) | New York, Chicago | |
 |[IMC Trading](https://careers.imc.com/us/en/c/internships-jobs)| Chicago | Hardware Engineering, Software Engineering, Quant Trading intern |
 |[Microsoft](https://careers.microsoft.com/us/en/job/795773/Intern-opportunities-for-undergraduate-students-Technical-Account-Manager-Summer-of-2021-Start-Dates?jobsource=linkedin&utm_source=linkedin&utm_medium=linkedin&utm_campaign=linkedin-feed)| Las Colinas, TX Charlotte, NC, Bellevue, WA| Currently just Technical Acc. Manager Intern|
