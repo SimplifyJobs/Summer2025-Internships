@@ -11,7 +11,6 @@ Check out our New Grad repo [here](https://github.com/Pitt-CSC/NewGrad-2021).
 | Name  |  Location |  Notes |
 |---|---|-------------|
 |[Akuna Capital](https://akunacapital.com/careers?&experience=intern&department=&location=&search_term=#careers)| Boston, Chicago, International Locations | |
-|[Amazon](https://www.amazon.jobs/en/jobs/1134386/software-development-engineer-internship-fall-winter-2020-united-states)| Seattle, WA| Fall/Winter 2020 but will turn to Summer 2021 soon|
 |[Apple](https://jobs.apple.com/en-us/search?location=united-states-USA&team=internships-STDNT-INTRN)| Cupertino, CA| Currently just ML/AI intern but expect more to open as time goes|
 |[Bessemer Venture Partners](https://www.bvp.com/bessemer-fellows)| US | Fellowship Program |
 |[BlackRock](https://blackrock.tal.net/vx/lang-en-GB/mobile-0/brand-3/xf-fb4e3bf3ac65/candidate/so/pm/1/pl/1/opp/3907-Summer-Analyst-Program-Americas/en-GB) | New York, NY| Summer Analyst |
@@ -28,7 +27,6 @@ Check out our New Grad repo [here](https://github.com/Pitt-CSC/NewGrad-2021).
 |[Goldman Sachs](https://www.goldmansachs.com/careers/students/programs/americas/summer-analyst-program.html)| Atlanta - Boston - Buenos Aires - Calgary - Cedar Rapids - Chicago - Dallas - Houston - Jersey City - Los Angeles - Mexic City - Miami - New York - Philadelphia - Salt Lake City - San Francisco - Santiago - Sao Paulo - Seattle - Toronto - Washington, D.C., - Wilmington ||
 |[Hudson River Trading](https://www.hudsonrivertrading.com/careers/) | New York, Chicago | |
 |[IMC Trading](https://careers.imc.com/us/en/c/internships-jobs)| Chicago | Hardware Engineering, Software Engineering, Quant Trading intern |
-|[Microsoft](https://careers.microsoft.com/us/en/job/795773/Intern-opportunities-for-undergraduate-students-Technical-Account-Manager-Summer-of-2021-Start-Dates?jobsource=linkedin&utm_source=linkedin&utm_medium=linkedin&utm_campaign=linkedin-feed)| Las Colinas, TX Charlotte, NC, Bellevue, WA| Currently just Technical Acc. Manager Intern|
 |[Morgan Stanley](https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/user-2429102/xf-3786f0ce9359/candidate/so/pm/1/pl/1/opp/9768-2021-Technology-Summer-Analyst-Program-New-York/en-GB) | New York| |
 |[Parson's](https://www.linkedin.com/jobs/view/computer-engineering-intern-summer-2021-at-parsons-corporation-1780539757/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)| Centreville, Denver, Augusta |  |
 |[Pimco](https://careers.pimco.com/careers/FolderDetail/2021-Summer-Tech-Intern-Software-Engineering/28731)| Austin, Newport Beach| |
