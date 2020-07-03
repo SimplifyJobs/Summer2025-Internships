@@ -13,14 +13,15 @@ Check out our New Grad repo [here](https://github.com/Pitt-CSC/NewGrad-2021).
 |[Akuna Capital](https://akunacapital.com/careers?&experience=intern&department=&location=&search_term=#careers)| Boston, Chicago, International Locations | |
 |[Apple](https://jobs.apple.com/en-us/search?location=united-states-USA&team=internships-STDNT-INTRN)| Cupertino, CA| Currently just ML/AI intern but expect more to open as time goes|
 |[Bessemer Venture Partners](https://www.bvp.com/bessemer-fellows)| US | Fellowship Program |
-|[BlackRock](https://blackrock.tal.net/vx/lang-en-GB/mobile-0/brand-3/xf-fb4e3bf3ac65/candidate/so/pm/1/pl/1/opp/3907-Summer-Analyst-Program-Americas/en-GB) | New York, NY| Summer Analyst |
+|[BlackRock](https://blackrock.tal.net/vx/lang-en-GB/mobile-0/brand-3/xf-fb4e3bf3ac65/candidate/so/pm/1/pl/1/opp/3907-Summer-Analyst-Program-Americas/en-GB) | New York, NY|  |
 |[Bridgewater Associate](https://boards.greenhouse.io/bridgewater89/jobs/4076389002)| Westport, CT |  |
-|[Citadel](https://www.citadel.com/careers/open-positions/positions-for-students/)| Chicago, New York, other global locations | SWE, Quant Research, Trader Intern|
+|[Citadel](https://www.citadel.com/careers/open-positions/positions-for-students/)| Chicago, New York, other global locations | |
 |[Cisco](https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-Bachelor-s-Intern-United-States/1295250?source=Cisco+Jobs+Career+Site&tags=CDC+SnNG+students-and-new-graduate-programs)|San Jose, Seattle, RTP, San Francisco, Richardson, Austin, Fulton, Cambridge, Boxborough, Richfield, Alpharetta| |
 |[Cisco Meraki](https://jobs.cisco.com/jobs/ProjectDetail/Full-Stack-Engineer-Summer-2021-Internship-Meraki/1295858?source=LinkedIn)|San Fransisco|Full stack experience|
 |[Credit Suisse](https://tas-creditsuisse.taleo.net/careersection/campus/jobdetail.ftl?job=150202&lang=en) | New York, NY | |
 |[D.E. Shaw](https://www.deshaw.com/careers/software-developer-intern-new-york-4018) | New York | |
 |[DRW](https://drw.com/careers/listings/?language=English&category=Campus&location=Chicago) |  Chicago | Software Development, Quant Trader, Quant Research Intern|
+|[Facebook](https://www.facebook.com/careers/jobs/654496918442526/)| Various | |
 |[Five Rings Capital](https://fiverings.com/apply/)| New York | Quant Trading, Quant Research, Software Development|
 |[General Motors](https://search-careers.gm.com/job/GENEA0084JR000005397ENUS/Controls-and-Software-Engineer-Intern-Global-Product-Group)| Michigan | |
 |[Goldman Sachs](https://www.goldmansachs.com/careers/students/programs/americas/summer-analyst-program.html)| Atlanta - Boston - Buenos Aires - Calgary - Cedar Rapids - Chicago - Dallas - Houston - Jersey City - Los Angeles - Mexic City - Miami - New York - Philadelphia - Salt Lake City - San Francisco - Santiago - Sao Paulo - Seattle - Toronto - Washington, D.C., - Wilmington ||
