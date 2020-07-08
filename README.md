@@ -1,5 +1,5 @@
 # Summer 2021 Internships 
-Use this repo to share and keep track of any tech-related internships. Don't know where to start? Check out the [Zero to Offer](https://pittcs.wiki/zero-to-offer/) program! For interview prep use Yangshun Tay's [Tech Interview Handbook](https://yangshun.github.io/tech-interview-handbook/).
+Use this repo to share and keep track of any tech-related internships. For interview prep use Yangshun Tay's [Tech Interview Handbook](https://yangshun.github.io/tech-interview-handbook/).
 
 ### **HELP US IMPROVE THIS REPOSITORY BY FILLING OUT [THIS POLL](https://pitt.co1.qualtrics.com/jfe/form/SV_0VD00iKfbqspNKl)!** Should take less than one minute. :) 
 
