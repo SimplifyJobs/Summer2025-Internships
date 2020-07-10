@@ -25,7 +25,7 @@ Check out our New Grad repo [here](https://github.com/Pitt-CSC/NewGrad-2021).
 |[Five Rings Capital](https://fiverings.com/apply/)| New York | Quant Trading, Quant Research, Software Development|
 |[General Motors](https://search-careers.gm.com/job/GENEA0084JR000005397ENUS/Controls-and-Software-Engineer-Intern-Global-Product-Group)| Michigan | |
 |[Goldman Sachs](https://www.goldmansachs.com/careers/students/programs/americas/summer-analyst-program.html)| Atlanta - Boston - Buenos Aires - Calgary - Cedar Rapids - Chicago - Dallas - Houston - Jersey City - Los Angeles - Mexic City - Miami - New York - Philadelphia - Salt Lake City - San Francisco - Santiago - Sao Paulo - Seattle - Toronto - Washington, D.C., - Wilmington ||
-|[Hudson River Trading](https://www.hudsonrivertrading.com/careers/) | New York, Chicago | |
+|[Hudson River Trading](https://www.hudsonrivertrading.com/careers/) | New York, Chicago | Software Engineering, Mid-Frequency Algo|
 |[IMC Trading](https://careers.imc.com/us/en/c/internships-jobs)| Chicago | Hardware Engineering, Software Engineering, Quant Trading intern |
 |[Morgan Stanley](https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/user-2429102/xf-3786f0ce9359/candidate/so/pm/1/pl/1/opp/9768-2021-Technology-Summer-Analyst-Program-New-York/en-GB) | New York| |
 |[Pimco](https://careers.pimco.com/careers/FolderDetail/2021-Summer-Tech-Intern-Software-Engineering/28731)| Austin, Newport Beach| |
