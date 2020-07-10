@@ -7,7 +7,7 @@ Seperator = ","
 
 lines = open(InputFileName,"r").readlines()
 outputfile = open(OutputFileName, "w")
-outputfile.write("Name" + Seperator + "Link" + Seperator + "Notes\n")
+outputfile.write("Name" + Seperator + "Link" + Seperator + "Location" + Seperator + "Notes\n")
 
 # delete unneeded lines
 for _ in range(len(lines)):
@@ -20,11 +20,12 @@ for _ in range(len(lines)):
 # generate table
 for line in lines:
     l = line.split('|')
-    
+
     if len(l) > 1:
+        location = "\"" + l[2] + "\""
         notes = "\"" + l[3] + "\""
         company = l[1].split('](') 
         name = company[0][1:]
         link = company[1][0:-1]
         
-        outputfile.write(name + Seperator + link + Seperator + notes + "\n")
+        outputfile.write(name + Seperator + link + Seperator + location + Seperator + notes + "\n")
