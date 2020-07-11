@@ -1,5 +1,5 @@
 # Summer 2021 Internships 
-Use this repo to share and keep track of any tech-related internships. For a [Google Sheet version (that remains in sync) click here](https://docs.google.com/spreadsheets/d/126GcV-xVw7pZ3FIZnP2M_plDbcLwfS7HTs9ZqJHaReg/edit#gid=0)! For interview prep use Yangshun Tay's [Tech Interview Handbook](https://yangshun.github.io/tech-interview-handbook/).
+Use this repo to share and keep track of any tech-related internships. For a [Google Sheet version (that remains in sync) click here](https://docs.google.com/spreadsheets/d/1bJq7YQV19TWyzPCBeQi5P4uOm8uiAAm2AHCnVNGRIDg/edit#gid=0)! For interview prep use Yangshun Tay's [Tech Interview Handbook](https://yangshun.github.io/tech-interview-handbook/).
 
 Check out our New Grad repo [here](https://github.com/Pitt-CSC/NewGrad-2021).
 
