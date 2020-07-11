@@ -9,7 +9,6 @@ Check out our New Grad repo [here](https://github.com/Pitt-CSC/NewGrad-2021).
 
 | Name  |  Location |  Notes |
 |---|---|-------------|
-|[Test Postings](google.com)| Pittsburgh | THIS IS A TEST PLEASE IGNORE | 
 |[Akuna Capital](https://akunacapital.com/careers?&experience=intern&department=&location=&search_term=#careers)| Boston, Chicago, International Locations | |
 |[Apple](https://jobs.apple.com/en-us/search?location=united-states-USA&team=internships-STDNT-INTRN)| Cupertino, CA| Currently just ML/AI intern but expect more to open as time goes|
 |[Bessemer Venture Partners](https://www.bvp.com/bessemer-fellows)| US | Fellowship Program |
