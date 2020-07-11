@@ -25,13 +25,13 @@ Check out our New Grad repo [here](https://github.com/Pitt-CSC/NewGrad-2021).
 |[Goldman Sachs](https://www.goldmansachs.com/careers/students/programs/americas/summer-analyst-program.html)| Atlanta - Boston - Buenos Aires - Calgary - Cedar Rapids - Chicago - Dallas - Houston - Jersey City - Los Angeles - Mexic City - Miami - New York - Philadelphia - Salt Lake City - San Francisco - Santiago - Sao Paulo - Seattle - Toronto - Washington, D.C., - Wilmington ||
 |[Hudson River Trading](https://www.hudsonrivertrading.com/careers/) | New York, Chicago | Software Engineering, Mid-Frequency Algo|
 |[IMC Trading](https://careers.imc.com/us/en/c/internships-jobs)| Chicago | Hardware Engineering, Software Engineering, Quant Trading intern |
+|[Jane Street](https://www.janestreet.com/join-jane-street/position/4787572002/)| New York | |
 |[Morgan Stanley](https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/user-2429102/xf-3786f0ce9359/candidate/so/pm/1/pl/1/opp/9768-2021-Technology-Summer-Analyst-Program-New-York/en-GB) | New York| |
 |[Pimco](https://careers.pimco.com/careers/FolderDetail/2021-Summer-Tech-Intern-Software-Engineering/28731)| Austin, Newport Beach| |
 |[Qualcomm](https://jobs.qualcomm.com/public/jobDetails.xhtml?requisitionId=1982304)| San Diego, Santa Clara, San Jose, Boulder, Austin| |
-|[Zoom](https://zoom.wd5.myworkdayjobs.com/en-US/Zoom/job/San-Jose-CA/Web-Java-Full-Stack-Developer-Intern_R604)| San Jose | |
 |[TD Bank](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=25404&siteid=5601&jobid=2610199&codes=UE4#jobDetails=2610199_5601)| NYC| | 
 |[Tower Research](https://www.tower-research.com/open-positions/?gh_jid=2238182) | Chicago, New York | |
-|[Jane Street](https://www.janestreet.com/join-jane-street/position/4787572002/)| New York | |
+|[Zoom](https://zoom.wd5.myworkdayjobs.com/en-US/Zoom/job/San-Jose-CA/Web-Java-Full-Stack-Developer-Intern_R604)| San Jose | |
 
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too!
 * [zarif98](https://github.com/zarif98)
