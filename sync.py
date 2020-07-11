@@ -42,7 +42,7 @@ gc = gspread.service_account(filename=GOOGLE_CREDENTIALS_FILE)
 sh = gc.open_by_key('1bJq7YQV19TWyzPCBeQi5P4uOm8uiAAm2AHCnVNGRIDg')
 sheet = sh.get_worksheet(0)
 
-sheet.update('A5', parsed_sheet_data, raw=False)
+sheet.update('A7', parsed_sheet_data, raw=False)
 
 
 
