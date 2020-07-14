@@ -36,6 +36,7 @@ Check out our New Grad repo [here](https://github.com/Pitt-CSC/NewGrad-2021).
 |[NASA JPL](https://jpl.jobs/jobs/2019-11133-Software-Computing-Systems-Summer-Intern)| California | |
 |[PDT Partners](https://www.pdtpartners.com/jobs.html?gh_jid=1372119)| New York | |
 |[Point72](https://careers.point72.com/CSJobDetail?jobName=2021-academy-summer-internship-new-york&jobCode=CPA-0005726&retURL=/CSCareerSearch)| New York | Analyst Academy|
+|[Bracebridge Capital](https://chu.tbe.taleo.net/chu02/ats/careers/v2/viewRequisition?org=BRACEBRIDGE_CAPITAL&cws=41&rid=227&source=LinkedIn&src=LinkedIn&gns=LinkedIn)|Boston||
 
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too!
 * [zarif98](https://github.com/zarif98)
