@@ -37,9 +37,12 @@ Check out our New Grad repo [here](https://github.com/Pitt-CSC/NewGrad-2021).
 |[PDT Partners](https://www.pdtpartners.com/jobs.html?gh_jid=1372119)| New York | |
 |[Point72](https://careers.point72.com/CSJobDetail?jobName=2021-academy-summer-internship-new-york&jobCode=CPA-0005726&retURL=/CSCareerSearch)| New York | Analyst Academy|
 |[Bracebridge Capital](https://chu.tbe.taleo.net/chu02/ats/careers/v2/viewRequisition?org=BRACEBRIDGE_CAPITAL&cws=41&rid=227&source=LinkedIn&src=LinkedIn&gns=LinkedIn)|Boston||
+|[Jump Trading](https://www.jumptrading.com/apply.html?gh_jid=1847191)| Chicago | |
+|[BNP Paribas](https://bnppus.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/xf-e678f51d2aa2/candidate/so/pm/1/pl/2/opp/376-2021-Summer-Analyst-Internship-Technology/en-GB#)| New York | |
 
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too!
 * [zarif98](https://github.com/zarif98)
+* [Priyandubey](https://github.com/Priyandubey)
 * [FerruccioSisti](https://github.com/FerruccioSisti)
 * [samjoffe](https://github.com/samjoffe)
 * [MattChen2000](https://github.com/MattChen2000)
