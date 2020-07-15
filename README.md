@@ -40,8 +40,10 @@ Check out our New Grad repo [here](https://github.com/Pitt-CSC/NewGrad-2021).
 |[Jump Trading](https://www.jumptrading.com/apply.html?gh_jid=1847191)| Chicago | |
 |[BNP Paribas](https://bnppus.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/xf-e678f51d2aa2/candidate/so/pm/1/pl/2/opp/376-2021-Summer-Analyst-Internship-Technology/en-GB#)| New York | |
 |[Belvedere Trading](https://belvederetrading.applicantstack.com/x/detail/a2sa4x0tugum/aa1b?noia=1)| Chicago | |
+|[RBC](https://jobs.rbc.com/ca/en/job/258305/Technology-Summer-Analyst-Program-2021) | Jersey City | |
 
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too!
+* [shubhra-bedi](https://github.com/shubhra-bedi)
 * [zarif98](https://github.com/zarif98)
 * [tuankiet65](https://github.com/tuankiet65)
 * [Priyandubey](https://github.com/Priyandubey)
