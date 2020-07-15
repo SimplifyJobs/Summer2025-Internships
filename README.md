@@ -42,6 +42,7 @@ Check out our New Grad repo [here](https://github.com/Pitt-CSC/NewGrad-2021).
 
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too!
 * [zarif98](https://github.com/zarif98)
+* [tuankiet65](https://github.com/tuankiet65)
 * [Priyandubey](https://github.com/Priyandubey)
 * [FerruccioSisti](https://github.com/FerruccioSisti)
 * [samjoffe](https://github.com/samjoffe)
