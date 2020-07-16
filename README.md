@@ -45,7 +45,6 @@ Check out our New Grad repo [here](https://github.com/Pitt-CSC/NewGrad-2021).
 |[Arrowstreet Capital](https://arrowstreetcapital.wd5.myworkdayjobs.com/en-US/Arrowstreet/jobs) | Boston | Quantitative Developer, Data Science, Research Systems, Research Associate |
 
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too!
-* [samjoffe](https://github.com/samjoffe)
 * [shubhra-bedi](https://github.com/shubhra-bedi)
 * [zarif98](https://github.com/zarif98)
 * [tuankiet65](https://github.com/tuankiet65)
