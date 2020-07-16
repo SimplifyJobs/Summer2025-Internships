@@ -48,6 +48,7 @@ Check out our New Grad repo [here](https://github.com/Pitt-CSC/NewGrad-2021).
 |[Prudential](https://www.ziprecruiter.com/ojob/e4b4d5edf87bebf3e7ecd53db41778d3?utm_campaign=google_jobs_apply&utm_medium=organic&utm_source=google_jobs_apply) | Newark, NJ | Application period 1 ends September 1st, period 2 ends October 1st |
 
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too!
+* [greyfertich](https://github.com/greyfertich)
 * [shubhra-bedi](https://github.com/shubhra-bedi)
 * [zarif98](https://github.com/zarif98)
 * [tuankiet65](https://github.com/tuankiet65)
