@@ -28,7 +28,6 @@ Check out our New Grad repo [here](https://github.com/Pitt-CSC/NewGrad-2021).
 |[Morgan Stanley](https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/user-2429102/xf-3786f0ce9359/candidate/so/pm/1/pl/1/opp/9768-2021-Technology-Summer-Analyst-Program-New-York/en-GB) | New York| |
 |[Pimco](https://careers.pimco.com/careers/FolderDetail/2021-Summer-Tech-Intern-Software-Engineering/28731)| Austin, Newport Beach| |
 |[Qualcomm](https://qualcomm.wd5.myworkdayjobs.com/en-US/External/job/San-Diego/Software-Engineering-Internship--Summer-2021-_1982304)| San Diego, Santa Clara, San Jose, Boulder, Austin| |
-|[Zoom](https://zoom.wd5.myworkdayjobs.com/en-US/Zoom/job/San-Jose-CA/Web-Java-Full-Stack-Developer-Intern_R604)| San Jose | |
 |[TD Bank](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=25404&siteid=5601&jobid=2610199&codes=UE4#jobDetails=2610199_5601)| NYC| | 
 |[Tower Research](https://www.tower-research.com/open-positions/?gh_jid=2238182) | Chicago, New York | |
 |[Jane Street](https://www.janestreet.com/join-jane-street/position/4787572002/)| New York | |
@@ -47,6 +46,7 @@ Check out our New Grad repo [here](https://github.com/Pitt-CSC/NewGrad-2021).
 |[Discover](https://jobs.discover.com/job/11209494/2021-business-technology-internship-program-houston-undergraduate-houston-tx/) | Houston | |
 |[Prudential](https://www.ziprecruiter.com/ojob/e4b4d5edf87bebf3e7ecd53db41778d3?utm_campaign=google_jobs_apply&utm_medium=organic&utm_source=google_jobs_apply) | Newark, NJ | Application period 1 ends September 1st, period 2 ends October 1st |
 |[Neeva](https://jobs.lever.co/neeva/6111dabf-6e9c-4230-b780-d879f7bf63f3)| Mountain View, CA | | 
+|[Squarepoint Capital](https://www.squarepoint-capital.com/job#462517) | NY, London, Singapore, Montreal | |
 
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too!
 * [greyfertich](https://github.com/greyfertich)
