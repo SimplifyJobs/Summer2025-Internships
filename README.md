@@ -49,6 +49,7 @@ Check out our New Grad repo [here](https://github.com/Pitt-CSC/NewGrad-2021).
 |[Squarepoint Capital](https://www.squarepoint-capital.com/job#462517) | NY, London, Singapore, Montreal | |
 
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too!
+* [nchan9](https://github.com/nchan9)
 * [greyfertich](https://github.com/greyfertich)
 * [shubhra-bedi](https://github.com/shubhra-bedi)
 * [zarif98](https://github.com/zarif98)
