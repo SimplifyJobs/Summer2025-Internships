@@ -70,4 +70,4 @@ Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), 
 * [zmwang622](https://github.com/zmwang622)
 
 
-Thanks to [elaine-zheng](https://github.com/elaine-zheng/summer2020internships) for the inspiration!
+Thanks to [elaine-zheng](https://github.com/elaine-zheng/summer2020internships) 🐐 for the inspiration!
