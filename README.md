@@ -15,7 +15,7 @@ Check out our New Grad repo [here](https://github.com/Pitt-CSC/NewGrad-2021).
 |[BlackRock](https://blackrock.tal.net/vx/lang-en-GB/mobile-0/brand-3/xf-fb4e3bf3ac65/candidate/so/pm/1/pl/1/opp/3907-Summer-Analyst-Program-Americas/en-GB) | New York, NY|  |
 |[Bridgewater Associate](https://boards.greenhouse.io/bridgewater89/jobs/4076389002)| Westport, CT |  |
 |[Citadel](https://www.citadel.com/careers/open-positions/positions-for-students/)| Chicago, New York, other global locations | |
-|[Cisco](https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-Bachelor-s-Intern-United-States/1295250?source=Cisco+Jobs+Career+Site&tags=CDC+SnNG+students-and-new-graduate-programs)|San Jose, Seattle, RTP, San Francisco, Richardson, Austin, Fulton, Cambridge, Boxborough, Richfield, Alpharetta| |
+|[Cisco](https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-Bachelor-s-Intern-United-States/1295250?source=Pitt+CSC&tags=CDC+SnNG+students-and-new-graduate-programs)|San Jose, Seattle, RTP, San Francisco, Richardson, Austin, Fulton, Cambridge, Boxborough, Richfield, Alpharetta| |
 |[Credit Suisse](https://tas-creditsuisse.taleo.net/careersection/campus/jobdetail.ftl?job=150202&lang=en) | New York, NY | |
 |[D.E. Shaw](https://www.deshaw.com/careers/software-developer-intern-new-york-4018) | New York | |
 |[DRW](https://drw.com/careers/listings/?language=English&category=Campus&location=Chicago) |  Chicago | Software Development, Quant Trader, Quant Research Intern|
@@ -35,7 +35,7 @@ Check out our New Grad repo [here](https://github.com/Pitt-CSC/NewGrad-2021).
 |[NASA JPL](https://jpl.jobs/jobs/2019-11133-Software-Computing-Systems-Summer-Intern)| California | |
 |[PDT Partners](https://www.pdtpartners.com/jobs.html?gh_jid=1372119)| New York | |
 |[Point72](https://careers.point72.com/CSJobDetail?jobName=2021-academy-summer-internship-new-york&jobCode=CPA-0005726&retURL=/CSCareerSearch)| New York | Analyst Academy|
-|[Bracebridge Capital](https://chu.tbe.taleo.net/chu02/ats/careers/v2/viewRequisition?org=BRACEBRIDGE_CAPITAL&cws=41&rid=227&source=LinkedIn&src=LinkedIn&gns=LinkedIn)|Boston||
+|[Bracebridge Capital](https://chu.tbe.taleo.net/chu02/ats/careers/v2/viewRequisition?org=BRACEBRIDGE_CAPITAL&cws=41&rid=227&source=PittCSC&src=PittCSC&gns=PittCSC)|Boston||
 |[Jump Trading](https://www.jumptrading.com/apply.html?gh_jid=1847191)| Chicago | |
 |[BNP Paribas](https://bnppus.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/xf-e678f51d2aa2/candidate/so/pm/1/pl/2/opp/376-2021-Summer-Analyst-Internship-Technology/en-GB#)| New York | |
 |[Belvedere Trading](https://belvederetrading.applicantstack.com/x/detail/a2sa4x0tugum/aa1b?noia=1)| Chicago | |
@@ -44,8 +44,8 @@ Check out our New Grad repo [here](https://github.com/Pitt-CSC/NewGrad-2021).
 |[Arrowstreet Capital](https://arrowstreetcapital.wd5.myworkdayjobs.com/en-US/Arrowstreet/jobs) | Boston | Quantitative Developer, Data Science, Research Systems, Research Associate |
 |[Paypal](https://jobsearch.paypal-corp.com/en-US/search?keywords=%22software%20engineer%20intern%22&location=&facetcountry=us) | Various | |
 |[Discover](https://jobs.discover.com/job/11209494/2021-business-technology-internship-program-houston-undergraduate-houston-tx/) | Houston | |
-|[Prudential](https://www.ziprecruiter.com/ojob/e4b4d5edf87bebf3e7ecd53db41778d3?utm_campaign=google_jobs_apply&utm_medium=organic&utm_source=google_jobs_apply) | Newark, NJ | Application period 1 ends September 1st, period 2 ends October 1st |
-|[Neeva](https://jobs.lever.co/neeva/6111dabf-6e9c-4230-b780-d879f7bf63f3)| Mountain View, CA | | 
+|[Prudential](https://jobs.prudential.com/job-description.php?jobReqNo=TA%200002M&IsThisACampusRequisition=Yes) | Newark, NJ | Application period 1 ends September 1st, period 2 ends October 1st |
+|[Neeva](https://jobs.lever.co/neeva/6111dabf-6e9c-4230-b780-d879f7bf63f3/apply?lever-source=PittCSC)| Mountain View, CA | | 
 |[Squarepoint Capital](https://www.squarepoint-capital.com/job#462517) | NY, London, Singapore, Montreal | |
 |[Cambly](https://jobs.lever.co/cambly/96ea4732-5f6a-4027-9695-20cbb650bede/apply?lever-source=PittCSC) | San Francisco | |
 
