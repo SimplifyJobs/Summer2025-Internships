@@ -47,7 +47,7 @@ Check out our New Grad repo [here](https://github.com/Pitt-CSC/NewGrad-2021).
 |[Prudential](https://www.ziprecruiter.com/ojob/e4b4d5edf87bebf3e7ecd53db41778d3?utm_campaign=google_jobs_apply&utm_medium=organic&utm_source=google_jobs_apply) | Newark, NJ | Application period 1 ends September 1st, period 2 ends October 1st |
 |[Neeva](https://jobs.lever.co/neeva/6111dabf-6e9c-4230-b780-d879f7bf63f3)| Mountain View, CA | | 
 |[Squarepoint Capital](https://www.squarepoint-capital.com/job#462517) | NY, London, Singapore, Montreal | |
-|[Cambly](https://jobs.lever.co/cambly/96ea4732-5f6a-4027-9695-20cbb650bede/apply?lever-source=LinkedIn) | San Francisco | |
+|[Cambly](https://jobs.lever.co/cambly/96ea4732-5f6a-4027-9695-20cbb650bede/apply?lever-source=PittCSC) | San Francisco | |
 
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too!
 * [nchan9](https://github.com/nchan9)
