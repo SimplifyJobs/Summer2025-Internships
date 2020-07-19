@@ -50,6 +50,7 @@ Check out our New Grad repo [here](https://github.com/Pitt-CSC/NewGrad-2021).
 |[Cambly](https://jobs.lever.co/cambly/96ea4732-5f6a-4027-9695-20cbb650bede/apply?lever-source=PittCSC) | San Francisco | |
 
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too!
+* [samjoffe](https://github.com/samjoffe)
 * [nchan9](https://github.com/nchan9)
 * [greyfertich](https://github.com/greyfertich)
 * [shubhra-bedi](https://github.com/shubhra-bedi)
@@ -57,7 +58,6 @@ Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), 
 * [tuankiet65](https://github.com/tuankiet65)
 * [Priyandubey](https://github.com/Priyandubey)
 * [FerruccioSisti](https://github.com/FerruccioSisti)
-* [samjoffe](https://github.com/samjoffe)
 * [MattChen2000](https://github.com/MattChen2000)
 * [jain1407](https://github.com/jain1407)
 * [gitgm3hta](https://github.com/gitgm3hta)
