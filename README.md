@@ -1,11 +1,11 @@
-# Summer 2021 Internships 
-Use this repo to share and keep track of any tech-related internships. For a [Google Sheet version of this repo (that remains in sync with this table) click here](https://docs.google.com/spreadsheets/d/1bJq7YQV19TWyzPCBeQi5P4uOm8uiAAm2AHCnVNGRIDg/edit#gid=0)! For more tips on the intership process check out the [Zero to Offer progam here](https://pittcswiki.netlify.app/zero-to-offer).
+# Summer 2021 Internships ☀️👩‍💻
+Use this repo to share and keep track of any tech-related internships. For a [Google Sheet 📝 version of this repo (that remains in sync with this table) click here](https://docs.google.com/spreadsheets/d/1bJq7YQV19TWyzPCBeQi5P4uOm8uiAAm2AHCnVNGRIDg/edit#gid=0)! For more tips on the intership process check out the [Zero to Offer 📈 progam here](https://www.pittcs.wiki/zero-to-offer).
 
-Check out our New Grad repo [here](https://github.com/Pitt-CSC/NewGrad-2021).
+🎓 Check out our New Grad repo [here](https://github.com/Pitt-CSC/NewGrad-2021).
 
-**Contribute by submitting a [pull request](https://github.com/susam/gitpr#create-pull-request) or [filling out this form](https://bit.ly/3d5O76c)!**
+🤗 **Contribute by submitting a [pull request](https://github.com/susam/gitpr#create-pull-request) or [filling out this form](https://bit.ly/3d5O76c)!** 🤗
 
-## The List 
+## The List 👔 
 
 | Name  |  Location |  Notes |
 |---|---|-------------|
@@ -50,7 +50,8 @@ Check out our New Grad repo [here](https://github.com/Pitt-CSC/NewGrad-2021).
 |[Cambly](https://jobs.lever.co/cambly/96ea4732-5f6a-4027-9695-20cbb650bede/apply?lever-source=PittCSC) | San Francisco | |
 |[Nuro](https://nuro.ai/careersitem?gh_jid=2256734&gh_src=pittcsc) | Mountain View | Have more [hardware internships here](https://nuro.ai/careers) |
 
-Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too!
+🐐 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too!
+
 * [samjoffe](https://github.com/samjoffe)
 * [nchan9](https://github.com/nchan9)
 * [greyfertich](https://github.com/greyfertich)
@@ -72,4 +73,4 @@ Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), 
 * [zmwang622](https://github.com/zmwang622)
 
 
-Thanks to [elaine-zheng](https://github.com/elaine-zheng/summer2020internships) 🐐 for the inspiration!
+Thanks to [elaine-zheng](https://github.com/elaine-zheng/summer2020internships) 🙏 for the inspiration!
