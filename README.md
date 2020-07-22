@@ -51,9 +51,11 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Nuro](https://nuro.ai/careersitem?gh_jid=2256734&gh_src=pittcsc) | Mountain View | Have more [hardware internships here](https://nuro.ai/careers) |
 |[Two Sigma](https://careers.twosigma.com/careers/JobDetail?jobId=6666&source=PittCSC)| New York NY | |
 |[Zapata Computing](https://zapata.bamboohr.com/jobs/view.php?id=67&source=pittcsc) | Boston, MA| |
+|[Disney](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25348&siteid=5048&PageType=JobDetails&jobid=765527#jobDetails=765527_5048) | Various | |
 
 🐐 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too!
 
+* [coffeeologist](https://github.com/coffeeologist)
 * [rashmi-ravishankar](https://github.com/rashmi-ravishankar)
 * [BaruYogesh](https://github.com/BaruYogesh)
 * [samjoffe](https://github.com/samjoffe)
