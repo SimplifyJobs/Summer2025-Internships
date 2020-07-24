@@ -52,7 +52,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Two Sigma](https://careers.twosigma.com/careers/JobDetail?jobId=6666&source=PittCSC)| New York NY | |
 |[Zapata Computing](https://zapata.bamboohr.com/jobs/view.php?id=67&source=pittcsc) | Boston, MA| |
 
-🐐 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too!
+Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too! 🙏 
 
 * [coffeeologist](https://github.com/coffeeologist)
 * [rashmi-ravishankar](https://github.com/rashmi-ravishankar)
@@ -78,4 +78,4 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 * [zmwang622](https://github.com/zmwang622)
 
 
-Thanks to [elaine-zheng](https://github.com/elaine-zheng/summer2020internships) 🙏 for the inspiration!
+Thanks to [elaine-zheng](https://github.com/elaine-zheng/summer2020internships) 🐐 for the inspiration!
