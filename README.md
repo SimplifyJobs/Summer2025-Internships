@@ -55,8 +55,9 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Abbvie](https://careers.abbvie.com/abbvie/jobs/2005191?lang=en-us&previousLocale=en-US) | Chicago | |
 |[Optiver](https://www.optiver.com/na/en/job-opportunities/Campus/all/Chicago/) | Chicago | |
 |[Amazon](https://www.amazonuniversity.jobs/jobdescription?jobid=1204415)| Various | |
-Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too! 🙏 
 
+
+Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too! 🙏 
 * [bwaits2](https://github.com/bwaits2)
 * [garciajess](https://github.com/garciajess)
 * [zejunliu](https://github.com/zejunliu)
