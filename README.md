@@ -81,6 +81,7 @@ Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), 
 * [azharichenko](https://github.com/azharichenko)
 * [varughese](https://github.com/varughese)
 * [zmwang622](https://github.com/zmwang622)
+* [rubywerman](https://github.com/rubywerman)
 
 
 Thanks to [elaine-zheng](https://github.com/elaine-zheng/summer2020internships) 🐐 for the inspiration!
