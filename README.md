@@ -31,7 +31,6 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Tower Research](https://www.tower-research.com/open-positions/?gh_jid=2238182) | Chicago, New York | |
 |[Jane Street](https://www.janestreet.com/join-jane-street/position/4787572002/)| New York | |
 |[NASA](https://nasa.force.com/s/login/)| Various | |
-|[NASA JPL](https://jpl.jobs/jobs/2019-11133-Software-Computing-Systems-Summer-Intern)| California | |
 |[PDT Partners](https://www.pdtpartners.com/jobs.html?gh_jid=1372119)| New York | |
 |[Point72](https://careers.point72.com/CSJobDetail?jobName=2021-academy-summer-internship-new-york&jobCode=CPA-0005726&retURL=/CSCareerSearch)| New York | Analyst Academy|
 |[Bracebridge Capital](https://chu.tbe.taleo.net/chu02/ats/careers/v2/viewRequisition?org=BRACEBRIDGE_CAPITAL&cws=41&rid=227&source=PittCSC&src=PittCSC&gns=PittCSC)|Boston||
@@ -82,6 +81,7 @@ Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), 
 * [azharichenko](https://github.com/azharichenko)
 * [varughese](https://github.com/varughese)
 * [zmwang622](https://github.com/zmwang622)
+* [rubywerman](https://github.com/rubywerman)
 
 
 Thanks to [elaine-zheng](https://github.com/elaine-zheng/summer2020internships) 🐐 for the inspiration!
