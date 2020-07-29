@@ -27,7 +27,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[IMC Trading](https://careers.imc.com/us/en/c/internships-jobs)| Chicago | Hardware Engineering, Software Engineering, Quant Trading intern |
 |[Morgan Stanley](https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/user-2429102/xf-3786f0ce9359/candidate/so/pm/1/pl/1/opp/9768-2021-Technology-Summer-Analyst-Program-New-York/en-GB) | New York| |
 |[Pimco](https://careers.pimco.com/careers/SearchJobs/?listFilterMode=1&794=%5B%7B%22%24JSNType%22%3A%22dataset_Option%22%2C%22value%22%3A%7B%22id%22%3A1262%2C%22name%22%3Anull%7D%7D%5D&794_format=659)| Austin, Newport Beach| Software Engineering, Data Science |
-|[TD Bank](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=25404&siteid=5601&jobid=2610199&codes=UE4#jobDetails=2610199_5601)| NYC| | 
+|[TD Bank](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=25404&siteid=5601&jobid=2610199&codes=UE4#jobDetails=2610199_5601)| NYC| |
 |[Tower Research](https://www.tower-research.com/open-positions/?gh_jid=2238182) | Chicago, New York | |
 |[Jane Street](https://www.janestreet.com/join-jane-street/position/4787572002/)| New York | |
 |[NASA](https://nasa.force.com/s/login/)| Various | |
@@ -43,7 +43,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Paypal](https://jobsearch.paypal-corp.com/en-US/search?keywords=%22software%20engineer%20intern%22&location=&facetcountry=us) | Various | |
 |[Discover](https://jobs.discover.com/job/11209494/2021-business-technology-internship-program-houston-undergraduate-houston-tx/) | Houston | |
 |[Prudential](https://jobs.prudential.com/job-description.php?jobReqNo=TA%200002M&IsThisACampusRequisition=Yes) | Newark, NJ | Application period 1 ends September 1st, period 2 ends October 1st |
-|[Neeva](https://jobs.lever.co/neeva/6111dabf-6e9c-4230-b780-d879f7bf63f3/apply?lever-source=PittCSC)| Mountain View, CA | | 
+|[Neeva](https://jobs.lever.co/neeva/6111dabf-6e9c-4230-b780-d879f7bf63f3/apply?lever-source=PittCSC)| Mountain View, CA | |
 |[Squarepoint Capital](https://www.squarepoint-capital.com/job#462517) | NY, London, Singapore, Montreal | |
 |[Cambly](https://jobs.lever.co/cambly/96ea4732-5f6a-4027-9695-20cbb650bede/apply?lever-source=PittCSC) | San Francisco | |
 |[Nuro](https://nuro.ai/careersitem?gh_jid=2256734&gh_src=pittcsc) | Mountain View | Have more [hardware internships here](https://nuro.ai/careers) |
@@ -51,12 +51,14 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Zapata Computing](https://zapata.bamboohr.com/jobs/view.php?id=67&source=pittcsc) | Boston, MA| |
 |[National Security Agency](https://apply.intelligencecareers.gov/job-description/1145701?fbclid=IwAR0m_4RIc9BsP0VvR4kN139YN4IMN63xIfOKob3pnv6nWKqit3ZFjD4SOFE) | Fort Meade, MD | The application period runs from 1 May - 15 October 2020 |
 |[MealMe](https://www.mealme.ai/careers) |  | |
-|[Vanguard](https://www.vanguardjobs.com/job-search-results/?keyword=%2211050430%22%20OR%20%2211050428%22%20OR%20%2211050431%22%20OR%20%2211050429%22) | Malvern, PA or Charlotte, NC || 
+|[Vanguard](https://www.vanguardjobs.com/job-search-results/?keyword=%2211050430%22%20OR%20%2211050428%22%20OR%20%2211050431%22%20OR%20%2211050429%22) | Malvern, PA or Charlotte, NC ||
 |[Abbvie](https://careers.abbvie.com/abbvie/jobs/2005191?lang=en-us&previousLocale=en-US) | Chicago | |
 |[Optiver](https://www.optiver.com/na/en/job-opportunities/Campus/all/Chicago/) | Chicago | |
-
+|[Amazon](amazonuniversity.jobs/communitylogin?JobId=1204415&ref=PittCSC)| Various |  |
 
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too! 🙏 
+
+* [qhb1001](https://github.com/qhb1001)
 * [bwaits2](https://github.com/bwaits2)
 * [garciajess](https://github.com/garciajess)
 * [zejunliu](https://github.com/zejunliu)
