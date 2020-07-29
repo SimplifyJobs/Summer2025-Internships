@@ -11,7 +11,6 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |---|---|-------------|
 |[Akuna Capital](https://akunacapital.com/careers?&experience=intern&department=&location=&search_term=#careers)| Boston, Chicago, International Locations | |
 |[Apple](https://jobs.apple.com/en-us/search?location=united-states-USA&team=internships-STDNT-INTRN)| Cupertino, CA| |
-|[Amazon](https://www.google.com/search?q=amazon+internship&rlz=1C5CHFA_enUS870US870&oq=amazon+intern&aqs=chrome.0.0j69i57j0l4j69i65l2.2040j1j4&sourceid=chrome&ie=UTF-8&ibp=htl;jobs&sa=X&ved=2ahUKEwjM0setufHqAhXsGDQIHRzkDiMQp4wCMAN6BAgLEAE#fpstate=tldetail&htivrt=jobs&htiq=amazon+internship&htidocid=ANYoKNPayBSE0CdCAAAAAA%3D%3D&sxsrf=ALeKk03UUhZlaeEQl0ROxz3xs7uvmiEKtg:1595990883829)| US | |
 |[Bessemer Venture Partners](https://www.bvp.com/bessemer-fellows)| US | Fellowship Program |
 |[BlackRock](https://blackrock.tal.net/vx/lang-en-GB/mobile-0/brand-3/xf-fb4e3bf3ac65/candidate/so/pm/1/pl/1/opp/3907-Summer-Analyst-Program-Americas/en-GB) | New York, NY|  |
 |[Bridgewater Associate](https://boards.greenhouse.io/bridgewater89/jobs/4076389002)| Westport, CT |  |
@@ -55,9 +54,11 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Vanguard](https://www.vanguardjobs.com/job-search-results/?keyword=%2211050430%22%20OR%20%2211050428%22%20OR%20%2211050431%22%20OR%20%2211050429%22) | Malvern, PA or Charlotte, NC ||
 |[Abbvie](https://careers.abbvie.com/abbvie/jobs/2005191?lang=en-us&previousLocale=en-US) | Chicago | |
 |[Optiver](https://www.optiver.com/na/en/job-opportunities/Campus/all/Chicago/) | Chicago | |
-
+|[Amazon](amazonuniversity.jobs/communitylogin?JobId=1204415&ref=PittCSC)| Various |  |
 
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too! 🙏 
+
+* [qhb1001](https://github.com/qhb1001)
 * [bwaits2](https://github.com/bwaits2)
 * [garciajess](https://github.com/garciajess)
 * [zejunliu](https://github.com/zejunliu)
