@@ -54,7 +54,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Vanguard](https://www.vanguardjobs.com/job-search-results/?keyword=%2211050430%22%20OR%20%2211050428%22%20OR%20%2211050431%22%20OR%20%2211050429%22) | Malvern, PA or Charlotte, NC ||
 |[Abbvie](https://careers.abbvie.com/abbvie/jobs/2005191?lang=en-us&previousLocale=en-US) | Chicago | |
 |[Optiver](https://www.optiver.com/na/en/job-opportunities/Campus/all/Chicago/) | Chicago | |
-|[Amazon](amazonuniversity.jobs/communitylogin?JobId=1204415&ref=PittCSC)| Various |  |
+|[Amazon](https://www.amazonuniversity.jobs/communitylogin?JobId=1204415&ref=NSBE)| Various |  |
 |[BASF](https://basf.jobs/light_green_NA/job/Florham-Park-Professional-Development-Program-%28PDP%29-Internship-Data-Science-Summer-2021-NJ-07932/611553501/?feedId=111101&src=PittCSC)| New Jersey | Data Science Internship |
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too! 🙏 
 
