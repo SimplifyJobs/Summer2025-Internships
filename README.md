@@ -51,7 +51,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Zapata Computing](https://zapata.bamboohr.com/jobs/view.php?id=67&source=pittcsc) | Boston, MA| |
 |[National Security Agency](https://apply.intelligencecareers.gov/job-description/1145701?fbclid=IwAR0m_4RIc9BsP0VvR4kN139YN4IMN63xIfOKob3pnv6nWKqit3ZFjD4SOFE) | Fort Meade, MD | The application period runs from 1 May - 15 October 2020 |
 |[MealMe](https://www.mealme.ai/careers) |  | |
-|[Vanguard](https://www.vanguardjobs.com/job-search-results/?keyword=%2211050430%22%20OR%20%2211050428%22%20OR%20%2211050431%22%20OR%20%2211050429%22) | Malvern, PA or Charlotte, NC ||
+|[Vanguard](https://www.vanguardjobs.com/job-search-results/?keyword=%2211050430%22%20OR%20%2211050428%22%20OR%20%2211050431%22%20OR%20%2211050429%22) | Malvern, PA or Charlotte, NC | See issues [25](https://github.com/Pitt-CSC/Summer2021-Internships/issues/25) and [30](https://github.com/Pitt-CSC/Summer2021-Internships/issues/30)|
 |[Abbvie](https://careers.abbvie.com/abbvie/jobs/2005191?lang=en-us&previousLocale=en-US) | Chicago | |
 |[Optiver](https://www.optiver.com/na/en/job-opportunities/Campus/all/Chicago/) | Chicago | |
 |[BASF](https://basf.jobs/light_green_NA/job/Florham-Park-Professional-Development-Program-%28PDP%29-Internship-Data-Science-Summer-2021-NJ-07932/611553501/?feedId=111101&src=PittCSC)| New Jersey | Data Science Internship |
