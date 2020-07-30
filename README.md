@@ -5,7 +5,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 
 🤗  **Contribute by submitting a [pull request](https://github.com/susam/gitpr#create-pull-request) or [filling out this form](https://bit.ly/3d5O76c)!**  🤗
 
-## The List 👔 
+## The List 👔
 
 | Name  |  Location |  Notes |
 |---|---|-------------|
@@ -55,8 +55,9 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Abbvie](https://careers.abbvie.com/abbvie/jobs/2005191?lang=en-us&previousLocale=en-US) | Chicago | |
 |[Optiver](https://www.optiver.com/na/en/job-opportunities/Campus/all/Chicago/) | Chicago | |
 |[BASF](https://basf.jobs/light_green_NA/job/Florham-Park-Professional-Development-Program-%28PDP%29-Internship-Data-Science-Summer-2021-NJ-07932/611553501/?feedId=111101&src=PittCSC)| New Jersey | Data Science Internship |
+|[Carrier](https://jobs.carrier.com/job/-/-/29289/16924633)| Syracuse, NY | Software Engineering Internship|
 
-Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too! 🙏 
+Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too! 🙏
 
 * [qhb1001](https://github.com/qhb1001)
 * [bwaits2](https://github.com/bwaits2)
