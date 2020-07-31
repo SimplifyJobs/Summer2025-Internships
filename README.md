@@ -59,6 +59,17 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Moody's Analytics](https://careers.moodys.com/jobs/18781BR-2021-engineering-and-technology-summer-internship-new-york-omaha-san-francisco-waltham-west-chester/) | NY, SF, Omaha, Waltham, West Chester | Engineering and Tech Internship|
 |[Amazon](https://www.amazon.jobs/en/jobs/1204415/software-development-engineer-internship-summer-2021-us?ref=PittCSC) | Various | |
 |[Citrix](https://jobs.citrix.com/job/R22175/Software-Engineer-Intern-2021?utm_campaign=pittcsc&utm_source=pittcsc&utm_medium=organic) | Florida | |
+|[Central Intelligence Agency (CIA)](https://www.cia.gov/careers/student-opportunities/undergraduate-internships.html) | Washington, D.C. | Must be US Citizen (Dual-Citizens are eligible) |
+|[AT&T](https://www.att.jobs/students) | Various US | Lots of categories. (Security, Research, Technology), Application not yet open |
+|[Verizon](https://www.verizon.com/about/work/search/students-internships-and-co-op/jobs) | NJ, GA, VA, CA, TX, FL, NY, AZ, CO, DC | Internships and Co-Ops |
+|[Federal Bureau of Investigation (FBI)](https://www.fbijobs.gov/students/undergrad) | [Various](https://www.fbi.gov/contact-us/field-offices) | Must be a US Citizen (Must Renounce Non-US if Dual-Citizen) |
+|[Bank of America](https://campus.bankofamerica.com/teams/technology_operations.html) | US & Canada | |
+|[Aflac](https://www.aflac.com/careers/university-relations/aflac-internship-program.aspx) | Columbus, GA; Colombia, SC; New York, NY | |
+|[State Farm](https://findjobs.statefarm.com/Listjobs/All/search/SF-Employment%20Type/internship) | US | Not open yet |
+|[Equifax](https://careers.equifax.com/global/en/c/internships-coops-jobs) | US & Canada | Applications will open fall 2020 |
+|[PwC](https://www.pwc.com/us/en/careers/entry-level/internships.html) | Various | |
+|[KPMG](https://www.kpmgcampus.com/campus/ourOpportunities#internships) | Various | Various CS involved fields (Taxes, Auditing, Advisory, Security) |
+|[Deloitte](https://www2.deloitte.com/us/en/pages/careers/articles/join-deloitte-undergraduate-degree-opportunities.html?icid=nav2_join-deloitte-undergraduate-degree-opportunities) | Various | |
 
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too! 🙏
 
@@ -92,6 +103,7 @@ Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), 
 * [varughese](https://github.com/varughese)
 * [zmwang622](https://github.com/zmwang622)
 * [rubywerman](https://github.com/rubywerman)
+* [stefantobler](https://stefantobler.com)
 
 
 Thanks to [elaine-zheng](https://github.com/elaine-zheng/summer2020internships) 🐐 for the inspiration!
