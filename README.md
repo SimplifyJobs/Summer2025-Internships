@@ -59,6 +59,9 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Moody's Analytics](https://careers.moodys.com/jobs/18781BR-2021-engineering-and-technology-summer-internship-new-york-omaha-san-francisco-waltham-west-chester/) | NY, SF, Omaha, Waltham, West Chester | Engineering and Tech Internship|
 |[Amazon](https://www.amazon.jobs/en/jobs/1204415/software-development-engineer-internship-summer-2021-us?ref=PittCSC) | Various | |
 |[Citrix](https://jobs.citrix.com/job/R22175/Software-Engineer-Intern-2021?utm_campaign=pittcsc&utm_source=pittcsc&utm_medium=organic) | Florida | |
+|[Central Intelligence Agency (CIA)](https://www.cia.gov/careers/student-opportunities/undergraduate-internship-co-op-program-software-engineer.html) | Washington, D.C. | Must be US Citizen (Dual-Citizens are eligible) |
+|[Bank of America](https://campus.bankofamerica.com/careers/Global-Technology-Summer-Analyst-Program-US.html) | US & Canada | |
+
 
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too! 🙏
 
@@ -92,6 +95,7 @@ Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), 
 * [varughese](https://github.com/varughese)
 * [zmwang622](https://github.com/zmwang622)
 * [rubywerman](https://github.com/rubywerman)
+* [stefantobler](https://stefantobler.com)
 
 
 Thanks to [elaine-zheng](https://github.com/elaine-zheng/summer2020internships) 🐐 for the inspiration!
