@@ -62,6 +62,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too! 🙏
 
+* [agamjolly](https://github.com/agamjolly)
 * [iiradia](https://github.com/iiradia)
 * [baoalvin1](https://github.com/baoalvin1)
 * [qhb1001](https://github.com/qhb1001)
