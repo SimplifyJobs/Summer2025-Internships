@@ -62,7 +62,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Central Intelligence Agency (CIA)](https://www.cia.gov/careers/student-opportunities/undergraduate-internship-co-op-program-software-engineer.html) | Washington, D.C. | Must be US Citizen (Dual-Citizens are eligible) |
 |[Bank of America](https://campus.bankofamerica.com/careers/Global-Technology-Summer-Analyst-Program-US.html) | US & Canada | |
 |[Databricks](https://databricks.com/company/careers/open-positions/job?gh_jid=4780022002&gh_src=62a881d62#grnhse_app) | San Francisco | |
-
+|[Honeywell](https://careers.honeywell.com/us/en/job/HONEUSREQ238487EXTERNALENUS/Computer-Software-Engineer-Computer-Science-Summer-2021-Intern-Co-Op?utm_source=PittCSC)| Various | | 
 
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too! 🙏
 
