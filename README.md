@@ -55,7 +55,6 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Abbvie](https://careers.abbvie.com/abbvie/jobs/2005191?lang=en-us&previousLocale=en-US) | Chicago | |
 |[Optiver](https://www.optiver.com/na/en/job-opportunities/Campus/all/Chicago/) | Chicago | |
 |[BASF](https://basf.jobs/light_green_NA/job/Florham-Park-Professional-Development-Program-%28PDP%29-Internship-Data-Science-Summer-2021-NJ-07932/611553501/?feedId=111101&src=PittCSC)| New Jersey | Data Science Internship |
-|[Carrier](https://jobs.carrier.com/job/-/-/29289/16924633)| Syracuse, NY | Software Engineering Internship|
 |[Moody's Analytics](https://careers.moodys.com/jobs/18781BR-2021-engineering-and-technology-summer-internship-new-york-omaha-san-francisco-waltham-west-chester/) | NY, SF, Omaha, Waltham, West Chester | Engineering and Tech Internship|
 |[Amazon](https://www.amazon.jobs/en/jobs/1204415/software-development-engineer-internship-summer-2021-us?ref=PittCSC) | Various | |
 |[Citrix](https://jobs.citrix.com/job/R22175/Software-Engineer-Intern-2021?utm_campaign=pittcsc&utm_source=pittcsc&utm_medium=organic) | Florida | |
