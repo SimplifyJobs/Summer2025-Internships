@@ -38,7 +38,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[BNP Paribas](https://bnppus.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/xf-e678f51d2aa2/candidate/so/pm/1/pl/2/opp/376-2021-Summer-Analyst-Internship-Technology/en-GB#)| New York | |
 |[Belvedere Trading](https://belvederetrading.applicantstack.com/x/detail/a2sa4x0tugum/aa1b?noia=1)| Chicago | |
 |[RBC](https://jobs.rbc.com/ca/en/job/258305/Technology-Summer-Analyst-Program-2021) | Jersey City | |
-|[Intel](https://jobs.intel.com/ShowJob/Id/2535307/Software-Engineer-Undergraduate-Intern)| Oregon | Posting might be 2020, if it is please let us know by making an issue!|
+|[Intel](https://jobs.intel.com/ShowJob/Id/2535307/Software-Engineer-Undergraduate-Intern)| Oregon | |
 |[Arrowstreet Capital](https://arrowstreetcapital.wd5.myworkdayjobs.com/en-US/Arrowstreet/jobs) | Boston | Quantitative Developer, Data Science, Research Systems, Research Associate |
 |[Paypal](https://jobsearch.paypal-corp.com/en-US/search?keywords=%22software%20engineer%20intern%22&location=&facetcountry=us) | Various | |
 |[Discover](https://jobs.discover.com/job/11209494/2021-business-technology-internship-program-houston-undergraduate-houston-tx/) | Houston | |
@@ -67,7 +67,8 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Qualtrics](https://www.qualtrics.com/careers/us/en/job/151240/Software-Engineering-Intern-Summer-2021-Seattle-WA?utm_source=PittCSC) | Seattle, Provo | Separate links for Seattle and [Provo](https://www.qualtrics.com/careers/us/en/job/QUALUS87166EXTERNALENUS/Software-Engineering-Intern-Summer-2021-Provo-UT?utm_source=PittCSC) 
 |[Scale AI](https://jobs.lever.co/scaleai/c82fd6f5-daa9-42b5-8183-4af35c33ca03/apply?lever-source=PittCSC) | San Francisco, CA | "Intern SWE" position | 
 |[JP Morgan](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210013662/?utm_medium=jobshare&utm_source=PittCSC) | Various | International students on F-1 Visa may not be considered |
-|[NASA JPL](https://jpl.jobs/jobs/2020-12296-Software-Engineering-Summer-Internships) | Pasadena, California | 
+|[NASA JPL](https://jpl.jobs/jobs/2020-12296-Software-Engineering-Summer-Internships) | Pasadena, California | |
+|[Duolingo](https://boards.greenhouse.io/duolingo/jobs/4811990002?gh_src=66ceac2e2us) | Pittsburgh, PA | |
 
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too! 🙏
 
