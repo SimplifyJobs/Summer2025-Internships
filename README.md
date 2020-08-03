@@ -63,6 +63,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Bank of America](https://campus.bankofamerica.com/careers/Global-Technology-Summer-Analyst-Program-US.html) | US & Canada | |
 |[Honeywell](https://careers.honeywell.com/us/en/job/HONEUSREQ238487EXTERNALENUS/Computer-Software-Engineer-Computer-Science-Summer-2021-Intern-Co-Op?utm_source=PittCSC)| Various | | 
 |[Palantir](https://jobs.lever.co/palantir/?commitment=Internship&src=PittCSC) | Various | |
+|[Chick-fil-a](https://careers-chickfila.icims.com/jobs/8344/2021-digital-transformation-and-technology-software-engineering-summer-intern/job) | Atlanta | |
 
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too! 🙏
 
