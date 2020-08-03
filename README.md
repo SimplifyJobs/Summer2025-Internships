@@ -66,8 +66,8 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Chick-fil-a](https://careers-chickfila.icims.com/jobs/8344/2021-digital-transformation-and-technology-software-engineering-summer-intern/job) | Atlanta | |
 |[Robinhood](https://careers.robinhood.com/openings?gh_jid=2214478&gh_src=PittCSC) | Menlo Park, CA | More [positions](https://boards.greenhouse.io/robinhood?gh_src=PittCSC) here, two application max |
 |[Qualtrics](https://www.qualtrics.com/careers/us/en/job/151240/Software-Engineering-Intern-Summer-2021-Seattle-WA?utm_source=PittCSC) | Seattle, Provo | Separate links for Seattle and [Provo](https://www.qualtrics.com/careers/us/en/job/QUALUS87166EXTERNALENUS/Software-Engineering-Intern-Summer-2021-Provo-UT?utm_source=PittCSC) 
-| [Scale AI](https://scale.com/careers/c82fd6f5-daa9-42b5-8183-4af35c33ca03) | San Francisco, CA | "Intern SWE" position | 
-
+|[Scale AI](https://jobs.lever.co/scaleai/c82fd6f5-daa9-42b5-8183-4af35c33ca03/apply?lever-source=PittCSC) | San Francisco, CA | "Intern SWE" position | 
+|[JP Morgan](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210013662/?utm_medium=jobshare&utm_source=PittCSC) | Various | |
 
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too! 🙏
 
