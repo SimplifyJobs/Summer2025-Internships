@@ -71,6 +71,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Duolingo](https://boards.greenhouse.io/duolingo/jobs/4811990002?gh_src=PittCSC) | Pittsburgh, PA | |
 |[Red Ventures](https://www.ziprecruiter.com/c/Red-Ventures/Job/The-2021-Launch-Program:-Software-Engineer-Intern/-in-Charlotte,NC?jid=c5d675813af41711&utm_source=PittCSC)| Charlotte, NC | |
 |[Bloomberg](https://careers.bloomberg.com/job/detail/84159) | New York, NY | |
+
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too! 🙏
 
 * [Abhishek-AC](https://github.com/Abhishek-AC)
