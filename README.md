@@ -77,6 +77,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Cisco Meraki](https://jobs.cisco.com/jobs/ProjectDetail/Full-Stack-Engineer-Summer-2021-Internship-Meraki/1299493) | San Francisco | |
 |[UnifyID](https://jobs.lever.co/unify/dca0a7bd-41ab-4f24-a1c3-3176520f7437) | Redmond City, CA | More Internships [here](https://unify.id/careers/#open-positions) |
 |[SimpliSafe](https://boards.greenhouse.io/simplisafe/jobs/2256322?utm_source=PittCSC) | Boston | |
+|[Capital One](https://campus.capitalone.com/job/mclean/technology-internship-program-summer-2021/1786/17009506) | Various | |
 
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too! 🙏
 
@@ -117,6 +118,7 @@ Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), 
 * [stefantobler](https://stefantobler.com)
 * [danerwilliams](https://github.com/danerwilliams)
 * [ankasengupta](https://github.com/ankasengupta)
+* [kimjuyounglisa](https://github.com/kimjuyounglisa)
 
 
 Thanks to [elaine-zheng](https://github.com/elaine-zheng/summer2020internships) 🐐 for the inspiration!
