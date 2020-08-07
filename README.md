@@ -73,7 +73,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Bloomberg](https://careers.bloomberg.com/job/detail/84159) | New York, NY | |
 |[Texas Instruments](https://careers.ti.com/job/11279389/software-engineering-intern-dallas-tx/) | Dallas, TX | |
 |[Los Alamos National Laboratory](https://jobszp1.lanl.gov/OA_HTML/OA.jsp?page=/oracle/apps/irc/candidateSelfService/webui/VisVacDispPG&OAHP=IRC_EXT_SITE_VISITOR_APPL&OASF=IRC_VIS_VAC_DISPLAY&akRegionApplicationId=821&transactionid=1759536200&retainAM=N&addBreadCrumb=RP&p_svid=81425&p_spid=3628350)| Los Alamos, NM| |
-|[Coursera](https://jobs.lever.co/coursera/79db349e-159d-4697-bdd6-b292011a9ce3/apply?lever-source=PittCSC) | Mountain View | | 
+|[Coursera](https://jobs.lever.co/coursera/79db349e-159d-4697-bdd6-b292011a9ce3/apply?lever-source=PittCSC) | Mountain View | Coursera opens and closes the app at random intervals. If its closed for now check again later! | 
 |[Cisco Meraki](https://jobs.cisco.com/jobs/ProjectDetail/Full-Stack-Engineer-Summer-2021-Internship-Meraki/1299493) | San Francisco | |
 
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too! 🙏
