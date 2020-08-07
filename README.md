@@ -76,6 +76,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Coursera](https://jobs.lever.co/coursera/79db349e-159d-4697-bdd6-b292011a9ce3/apply?lever-source=PittCSC) | Mountain View | Coursera opens and closes the app at random intervals. If its closed for now check again later! | 
 |[Cisco Meraki](https://jobs.cisco.com/jobs/ProjectDetail/Full-Stack-Engineer-Summer-2021-Internship-Meraki/1299493) | San Francisco | |
 |[UnifyID](https://jobs.lever.co/unify/dca0a7bd-41ab-4f24-a1c3-3176520f7437) | Redmond City, CA | More Internships [here](https://unify.id/careers/#open-positions) |
+|[SimpliSafe](https://boards.greenhouse.io/simplisafe/jobs/2256322?utm_source=PittCSC) | Boston | |
 
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too! 🙏
 
