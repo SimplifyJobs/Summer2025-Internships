@@ -75,7 +75,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Los Alamos National Laboratory](https://jobszp1.lanl.gov/OA_HTML/OA.jsp?page=/oracle/apps/irc/candidateSelfService/webui/VisVacDispPG&OAHP=IRC_EXT_SITE_VISITOR_APPL&OASF=IRC_VIS_VAC_DISPLAY&akRegionApplicationId=821&transactionid=1759536200&retainAM=N&addBreadCrumb=RP&p_svid=81425&p_spid=3628350)| Los Alamos, NM| |
 |[Coursera](https://jobs.lever.co/coursera/79db349e-159d-4697-bdd6-b292011a9ce3/apply?lever-source=PittCSC) | Mountain View | Coursera opens and closes the app at random intervals. If its closed for now check again later! | 
 |[Cisco Meraki](https://jobs.cisco.com/jobs/ProjectDetail/Full-Stack-Engineer-Summer-2021-Internship-Meraki/1299493) | San Francisco | |
-|[UnifyID](https://jobs.lever.co/unify/dca0a7bd-41ab-4f24-a1c3-3176520f7437) | Redmond City, CA | More Internships [here](https://unify.id/careers/#open-positions) |
+|[UnifyID](https://jobs.lever.co/unify/dca0a7bd-41ab-4f24-a1c3-3176520f7437) | Redwood City, CA | More Internships [here](https://unify.id/careers/#open-positions) |
 |[SimpliSafe](https://boards.greenhouse.io/simplisafe/jobs/2256322?utm_source=PittCSC) | Boston | |
 |[Capital One](https://campus.capitalone.com/job/mclean/technology-internship-program-summer-2021/1786/17009506) | Various | |
 |[Lockheed Martin](https://www.lockheedmartinjobs.com/job/orlando/software-engineer-intern-orlando-fl/694/16990046) | Various | |
