@@ -81,6 +81,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Lockheed Martin](https://www.lockheedmartinjobs.com/job/orlando/software-engineer-intern-orlando-fl/694/16990046) | Various | |
 |[General Mills](https://careers.generalmills.com/job/11290990/) | Minneapolis, MN | |
 |[Wells Fargo](https://www.wellsfargojobs.com/job/-/-/1251/17013739?utm_source=PittCSC&utm_medium=organic&utm_campaign=PittCSC) | Various | |
+|[Valkyrie Trading](https://www.valkyrietrading.com/careers/software-engineer-intern-summer-2021/) | Chicago, IL | |
 
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too! 🙏
 
