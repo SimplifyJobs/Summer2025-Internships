@@ -78,6 +78,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[UnifyID](https://jobs.lever.co/unify/dca0a7bd-41ab-4f24-a1c3-3176520f7437) | Redmond City, CA | More Internships [here](https://unify.id/careers/#open-positions) |
 |[SimpliSafe](https://boards.greenhouse.io/simplisafe/jobs/2256322?utm_source=PittCSC) | Boston | |
 |[Capital One](https://campus.capitalone.com/job/mclean/technology-internship-program-summer-2021/1786/17009506) | Various | |
+|[Amazon](https://scholarshipscorner.website/amazon-summer-internship-2021/)| Seattle, Washington| |
 
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too! 🙏
 
@@ -119,6 +120,7 @@ Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), 
 * [danerwilliams](https://github.com/danerwilliams)
 * [ankasengupta](https://github.com/ankasengupta)
 * [kimjuyounglisa](https://github.com/kimjuyounglisa)
+* [Yash-567](https://github.com/Yash-567)
 
 
 Thanks to [elaine-zheng](https://github.com/elaine-zheng/summer2020internships) for the inspiration! 🐐 
