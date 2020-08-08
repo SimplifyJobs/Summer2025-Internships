@@ -78,7 +78,9 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[UnifyID](https://jobs.lever.co/unify/dca0a7bd-41ab-4f24-a1c3-3176520f7437) | Redmond City, CA | More Internships [here](https://unify.id/careers/#open-positions) |
 |[SimpliSafe](https://boards.greenhouse.io/simplisafe/jobs/2256322?utm_source=PittCSC) | Boston | |
 |[Capital One](https://campus.capitalone.com/job/mclean/technology-internship-program-summer-2021/1786/17009506) | Various | |
-|[Lockheed Martin](https://www.lockheedmartinjobs.com/job/orlando/software-engineer-intern-orlando-fl/694/16990046) | Various | More will be open hopefully! |
+|[Lockheed Martin](https://www.lockheedmartinjobs.com/job/orlando/software-engineer-intern-orlando-fl/694/16990046) | Various | |
+|[General Mills](https://careers.generalmills.com/job/11290990/) | Minneapolis, MN | |
+|[Wells Fargo](https://www.wellsfargojobs.com/job/-/-/1251/17013739?utm_source=PittCSC&utm_medium=organic&utm_campaign=PittCSC) | Various | |
 
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too! 🙏
 
