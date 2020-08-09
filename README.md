@@ -88,9 +88,11 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Cargill](https://cargill.taleo.net/careersection/10240/jobdetail.ftl?tz=GMT-05%3A00&job=UNI05923&utm_source=PittCSC)| Hopkins, MN | |
 |[Raytheon](https://jobs.rtx.com/job/cedar-rapids/software-engineering-intern-summer-2021/4679/17012124?utm_source=PittCSC)| Cedar Rapids, IA | |
 |[AT&T](https://att.taleo.net/careersection/10169/jobdetail.ftl?lang=en&job=2028403)| Various US locations | Technology Development Program |
+|[PayPal](https://jobsearch.paypal-corp.com/en-US/job/software-engineer-intern/J3V2166L9PJ45TF9HJ8) | NY | |
 
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too! 🙏
 
+* [ApurvShah007](https://github.com/ApurvShah007)
 * [Sherlemious](https://github.com/Sherlemious)
 * [JackGoldsworth](https://github.com/JackGoldsworth)
 * [anh212](https://github.com/anh212)
