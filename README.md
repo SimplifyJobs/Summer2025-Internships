@@ -87,6 +87,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Motorola](https://motorolasolutions.zrapply.com/en-US/Careers/job/Schaumburg-IL/Software-Engineer_R7477?utm_source=PittCSC) | Schaumberg, IL | |
 |[Cargill](https://cargill.taleo.net/careersection/10240/jobdetail.ftl?tz=GMT-05%3A00&job=UNI05923&utm_source=PittCSC)| Hopkins, MN | |
 |[Raytheon](https://jobs.rtx.com/job/cedar-rapids/software-engineering-intern-summer-2021/4679/17012124?utm_source=PittCSC)| Cedar Rapids, IA | |
+|[AT&T](https://att.taleo.net/careersection/10169/jobdetail.ftl?lang=en&job=2028403)| Various US locations | Technology Development Program |
 
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too! 🙏
 
