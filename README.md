@@ -84,7 +84,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Valkyrie Trading](https://jobs.lever.co/valkyrietrading/2da1578a-7a20-41db-83bd-cb16e4e8a112?utm_campaign=PittCSC&utm_source=PittCSC&utm_medium=organic) | Chicago, IL | |
 |[IBM](https://careers.ibm.com/ShowJob/Id/961831/Front-End-Developer-Summer-Intern-2021/?lang=en) | Various | [Backend position here](https://careers.ibm.com/ShowJob/Id/961980/Back-End-Developer-Summer-Intern-2021/?lang=en)|
 |[BNY Mellon](https://jobs.bnymellon.com/jobs/2007833) | New York, Pittsburgh, Jersey City | |
-
+|[Motorola](https://motorolasolutions.zrapply.com/en-US/Careers/job/Schaumburg-IL/Software-Engineer_R7477?utm_source=PittCSC) | Schaumberg, IL | |
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too! 🙏
 
 * [Sherlemious](https://github.com/Sherlemious)
