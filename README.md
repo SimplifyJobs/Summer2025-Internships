@@ -11,7 +11,6 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |---|---|-------------|
 |[Akuna Capital](https://akunacapital.com/careers?&experience=intern&department=&location=&search_term=#careers)| Boston, Chicago, International Locations | |
 |[Apple](https://jobs.apple.com/en-us/search?location=united-states-USA&team=internships-STDNT-INTRN)| Cupertino, CA| |
-|[Bessemer Venture Partners](https://www.bvp.com/bessemer-fellows)| US | Fellowship Program |
 |[BlackRock](https://blackrock.tal.net/vx/lang-en-GB/mobile-0/brand-3/xf-fb4e3bf3ac65/candidate/so/pm/1/pl/1/opp/3907-Summer-Analyst-Program-Americas/en-GB) | New York, NY|  |
 |[Bridgewater Associate](https://boards.greenhouse.io/bridgewater89/jobs/4076389002)| Westport, CT |  |
 |[Citadel](https://www.citadel.com/careers/open-positions/positions-for-students/)| Chicago, New York, other global locations | |
@@ -27,7 +26,6 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[IMC Trading](https://careers.imc.com/us/en/c/internships-jobs)| Chicago | Hardware Engineering, Software Engineering, Quant Trading intern |
 |[Morgan Stanley](https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/user-2429102/xf-3786f0ce9359/candidate/so/pm/1/pl/1/opp/9768-2021-Technology-Summer-Analyst-Program-New-York/en-GB) | New York| |
 |[Pimco](https://careers.pimco.com/careers/SearchJobs/?listFilterMode=1&794=%5B%7B%22%24JSNType%22%3A%22dataset_Option%22%2C%22value%22%3A%7B%22id%22%3A1262%2C%22name%22%3Anull%7D%7D%5D&794_format=659)| Austin, Newport Beach| Software Engineering, Data Science |
-|[TD Bank](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=25404&siteid=5601&jobid=2610199&codes=UE4#jobDetails=2610199_5601)| NYC| |
 |[Tower Research](https://www.tower-research.com/open-positions/?gh_jid=2238182&gh_src=PittCSC) | Chicago, New York | |
 |[Jane Street](https://www.janestreet.com/join-jane-street/position/4787572002/)| New York | |
 |[NASA](https://nasa.force.com/s/login/)| Various | |
