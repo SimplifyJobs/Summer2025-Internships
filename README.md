@@ -59,7 +59,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Central Intelligence Agency (CIA)](https://www.cia.gov/careers/student-opportunities/undergraduate-internship-co-op-program-software-engineer.html) | Washington, D.C. | Must be US Citizen (Dual-Citizens are eligible) |
 |[Bank of America](https://campus.bankofamerica.com/careers/Global-Technology-Summer-Analyst-Program-US.html) | US & Canada | |
 |[Honeywell](https://careers.honeywell.com/us/en/job/HONEUSREQ238487EXTERNALENUS/Computer-Software-Engineer-Computer-Science-Summer-2021-Intern-Co-Op?utm_source=PittCSC)| Various | | 
-|[Palantir](https://jobs.lever.co/palantir/?commitment=Internship&src=PittCSC) | Various | |
+|[Palantir](https://jobs.lever.co/palantir/?commitment=Internship&src=PittCSC) | Various | [Forward Deployed here](https://jobs.lever.co/palantir/a580fa16-06b0-4e4d-a597-60b7cd5b7ea1) |
 |[Chick-fil-a](https://careers-chickfila.icims.com/jobs/8344/2021-digital-transformation-and-technology-software-engineering-summer-intern/job) | Atlanta | |
 |[Robinhood](https://careers.robinhood.com/openings?gh_jid=2214478&gh_src=PittCSC) | Menlo Park, CA | More [positions](https://boards.greenhouse.io/robinhood?gh_src=PittCSC) here, two application max |
 |[Qualtrics](https://www.qualtrics.com/careers/us/en/job/151240/Software-Engineering-Intern-Summer-2021-Seattle-WA?utm_source=PittCSC) | Seattle, Provo | Separate links for Seattle and [Provo](https://www.qualtrics.com/careers/us/en/job/QUALUS87166EXTERNALENUS/Software-Engineering-Intern-Summer-2021-Provo-UT?utm_source=PittCSC) 
