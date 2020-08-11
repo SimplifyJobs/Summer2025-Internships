@@ -88,6 +88,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Dropbox](https://www.dropbox.com/jobs/listing/2265990?gh_jid=2265990) | San Francisco | |
 |[Platform9](https://hire.withgoogle.com/public/jobs/platform9com/view/P_AAAAAADAAF5OEdk-bHtkWY) | Mountain View | |
 |[HubSpot](https://www.hubspot.com/careers/jobs/807207?hubs_signup-cta=careers-apply) | Cambridge, MA | |
+|[Stripe](https://stripe.com/jobs/search?s=intern) | Seattle, NYC, San Francisco | |
 
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too! 🙏
 
