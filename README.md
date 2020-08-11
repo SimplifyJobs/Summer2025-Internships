@@ -90,6 +90,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[HubSpot](https://www.hubspot.com/careers/jobs/807207?hubs_signup-cta=careers-apply) | Cambridge, MA | |
 |[Stripe](https://stripe.com/jobs/search?s=intern) | Seattle, NYC, San Francisco | |
 |[Zipline](https://flyzipline.com/careers/job/4114464003?gh_jid=4114464003) | San Francisco | |
+|[General Electrics](https://careers.geappliances.com/job/REQ-6539/Software-Engineering-Co-op) | Louisville, KY | |
 
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too! 🙏
 
