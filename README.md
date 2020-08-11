@@ -22,7 +22,6 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Five Rings Capital](https://fiverings.com/apply/)| New York | Quant Trading, Quant Research, Software Development|
 |[General Motors](https://search-careers.gm.com/job/GENEA0084JR000005397ENUS/Controls-and-Software-Engineer-Intern-Global-Product-Group)| Michigan | |
 |[Goldman Sachs](https://www.goldmansachs.com/careers/students/programs/americas/summer-analyst-program.html)| Various  ||
-|[Google](https://careers.google.com/jobs/results/?company=Google&company=Google%20Fiber&company=YouTube&employment_type=INTERN)| Various | Software Engineering, Research, UX, Technical Program Management |
 |[Hudson River Trading](https://www.hudsonrivertrading.com/careers/) | New York, Chicago | Software Engineering, Mid-Frequency Algo|
 |[IMC Trading](https://careers.imc.com/us/en/c/internships-jobs)| Chicago | Hardware Engineering, Software Engineering, Quant Trading intern |
 |[Morgan Stanley](https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/user-2429102/xf-3786f0ce9359/candidate/so/pm/1/pl/1/opp/9768-2021-Technology-Summer-Analyst-Program-New-York/en-GB) | New York| |
@@ -92,7 +91,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Stripe](https://stripe.com/jobs/search?s=intern) | Seattle, NYC, San Francisco | |
 |[Zipline](https://flyzipline.com/careers/job/4114464003?gh_jid=4114464003) | San Francisco | |
 |[Citi](https://citi.avature.net/careers/ProjectDetail/Dallas-Texas-United-States-NAM-Global-Consumer-Technology-Summer-Analyst-Dallas-North-America-2021-/10675) | North America | |
-
+|[Google](https://careers.google.com/jobs/results/141314623220392646-software-engineering-intern-as-bs-ms-2021/?company=Google&company=Google%20Fiber&company=YouTube&employment_type=INTERN)| Various | Software Engineering |
 
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too! 🙏
 
