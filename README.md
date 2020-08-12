@@ -91,6 +91,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Zipline](https://flyzipline.com/careers/job/4114464003?gh_jid=4114464003) | San Francisco | |
 |[Citi](https://citi.avature.net/careers/ProjectDetail/Dallas-Texas-United-States-NAM-Global-Consumer-Technology-Summer-Analyst-Dallas-North-America-2021-/10675) | North America | |
 |[Google](https://careers.google.com/jobs/results/141314623220392646-software-engineering-intern-as-bs-ms-2021/?company=Google&company=Google%20Fiber&company=YouTube&employment_type=INTERN)| Various | Software Engineering |
+|[Qualcomm](https://qualcomm.wd5.myworkdayjobs.com/en-US/External/job/San-Diego/IT-Internship---Summer-2021_3001435)| San Diego | Also available [Hardware Engineering](https://qualcomm.wd5.myworkdayjobs.com/en-US/External/job/San-Diego/Hardware-Engineering-Internship--Summer-2021-_3001376), [Systems Engineering](https://qualcomm.wd5.myworkdayjobs.com/en-US/External/job/San-Diego/Systems-Engineering-Internship--Summer-2021-_3001377), and [Embedded Software Engineering](https://qualcomm.wd5.myworkdayjobs.com/en-US/External/job/San-Diego/Embedded-Software-Engineering-Internship--Summer-2021-_3001371) |
 
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too! 🙏
 
@@ -136,6 +137,6 @@ Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), 
 * [ankasengupta](https://github.com/ankasengupta)
 * [kimjuyounglisa](https://github.com/kimjuyounglisa)
 * [Leundai](https://github.com/Leundai)
-
+* [aidev1065](https://github.com/aidev1065)
 
 Thanks to [elaine-zheng](https://github.com/elaine-zheng/summer2020internships) for the inspiration! 🐐 
