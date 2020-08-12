@@ -36,7 +36,6 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[BNP Paribas](https://bnppus.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/xf-e678f51d2aa2/candidate/so/pm/1/pl/2/opp/376-2021-Summer-Analyst-Internship-Technology/en-GB#)| New York | |
 |[Belvedere Trading](https://belvederetrading.applicantstack.com/x/detail/a2sa4x0tugum/aa1b?noia=1)| Chicago | |
 |[RBC](https://jobs.rbc.com/ca/en/job/258305/Technology-Summer-Analyst-Program-2021) | Jersey City | |
-|[Intel](https://jobs.intel.com/ShowJob/Id/2535307/Software-Engineer-Undergraduate-Intern)| Oregon | |
 |[Arrowstreet Capital](https://arrowstreetcapital.wd5.myworkdayjobs.com/en-US/Arrowstreet/jobs) | Boston | Quantitative Developer, Data Science, Research Systems, Research Associate |
 |[Paypal](https://jobsearch.paypal-corp.com/en-US/search?keywords=%22software%20engineer%20intern%22&location=&facetcountry=us) | Various | |
 |[Discover](https://jobs.discover.com/job/11209494/2021-business-technology-internship-program-houston-undergraduate-houston-tx/) | Houston | |
