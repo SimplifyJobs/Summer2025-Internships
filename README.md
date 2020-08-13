@@ -94,6 +94,9 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 | [MLH](https://fellowship.mlh.io/) | Various Remote | [Explorer](https://fellowship.mlh.io/programs/explorer) and [Open Source](https://fellowship.mlh.io/programs/open-source) Fellowships, Fall, Spring, Summer available |
 |[MasterCard](https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/Arlington-Virginia/Software-Development-Engineer-Intern--Summer-2021-_R-111190?source=PittCSC) | Arlington, VA | |
 |[Vail Systems](http://jobs.jobvite.com/careers/vailsystems/job/oJyfdfwt/apply?__jvst=PittCSC)| Chicago, Illinois | |
+|[Medtronic](https://jobs.medtronic.com/jobs/computer-science-internship%E2%80%93summer-2021-81742)| Minneapolis, Minnesota | |
+|[Clever](https://clever.com/about/careers/detail?gh_jid=6194)| San Francisco, CA | |
+
 
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too! 🙏
 
