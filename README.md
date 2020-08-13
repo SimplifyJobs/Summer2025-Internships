@@ -93,6 +93,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Qualcomm](https://qualcomm.wd5.myworkdayjobs.com/en-US/External/job/San-Diego/IT-Internship---Summer-2021_3001435)| San Diego | Also available [Hardware Engineering](https://qualcomm.wd5.myworkdayjobs.com/en-US/External/job/San-Diego/Hardware-Engineering-Internship--Summer-2021-_3001376), [Systems Engineering](https://qualcomm.wd5.myworkdayjobs.com/en-US/External/job/San-Diego/Systems-Engineering-Internship--Summer-2021-_3001377), and [Embedded Software Engineering](https://qualcomm.wd5.myworkdayjobs.com/en-US/External/job/San-Diego/Embedded-Software-Engineering-Internship--Summer-2021-_3001371) |
 | [MLH](https://fellowship.mlh.io/) | Various Remote | [Explorer](https://fellowship.mlh.io/programs/explorer) and [Open Source](https://fellowship.mlh.io/programs/open-source) Fellowships, Fall, Spring, Summer available |
 |[Norton](https://nortonlifelock.wd1.myworkdayjobs.com/en-US/careers/job/USA---California-Culver-City/Software-Engineer-Intern_50027) | Culver City, Cali | |
+|[MasterCard](https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/Arlington-Virginia/Software-Development-Engineer-Intern--Summer-2021-_R-111190?source=PittCSC) | Arlington, VA | |
 
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too! 🙏
 
