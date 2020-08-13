@@ -95,7 +95,6 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Norton](https://nortonlifelock.wd1.myworkdayjobs.com/en-US/careers/job/USA---California-Culver-City/Software-Engineer-Intern_50027) | Culver City, Cali | |
 |[MasterCard](https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/Arlington-Virginia/Software-Development-Engineer-Intern--Summer-2021-_R-111190?source=PittCSC) | Arlington, VA | |
 |[Vail Systems](http://jobs.jobvite.com/careers/vailsystems/job/oJyfdfwt/apply?__jvst=PittCSC)| Chicago, Illinois | |
-|~~[TEST](google.com)~~ | ~~TEST~~ | **Closed** |
 
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too! 🙏
 
