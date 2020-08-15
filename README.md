@@ -100,6 +100,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Workiva](https://workiva.wd1.myworkdayjobs.com/en-US/careers/job/Scottsdale/Summer-2021---Software-Engineering-Intern_R560?source=PittCSC) | Scottsdale, AZ | |
 |[Figma](https://jobs.lever.co/figma/4fe2557e-3ac3-49ea-8330-9e6c49493f8e) | San Francisco, CA | |
 |[Patreon](https://boards.greenhouse.io/patreon/jobs/2294211) | San Francisco, CA | |
+|[Kohl's](https://careers.kohls.com/internships/technology-jobs#software-engineer-intern) | Milwaukee, Milpitas | Various positions|  
 
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too! 🙏
 
