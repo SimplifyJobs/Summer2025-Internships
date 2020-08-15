@@ -78,7 +78,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[General Mills](https://careers.generalmills.com/job/11290990/) | Minneapolis, MN | |
 |[Wells Fargo](https://www.wellsfargojobs.com/job/-/-/1251/17013739?utm_source=PittCSC&utm_medium=organic&utm_campaign=PittCSC) | Various | |
 |[Valkyrie Trading](https://jobs.lever.co/valkyrietrading/2da1578a-7a20-41db-83bd-cb16e4e8a112?utm_campaign=PittCSC&utm_source=PittCSC&utm_medium=organic) | Chicago, IL | |
-|[IBM](https://careers.ibm.com/ShowJob/Id/961831/Front-End-Developer-Summer-Intern-2021/?lang=en) | Various | [Backend position here](https://careers.ibm.com/ShowJob/Id/961980/Back-End-Developer-Summer-Intern-2021/?lang=en)|
+|[IBM](https://careers.ibm.com/ShowJob/Id/961831/Front-End-Developer-Summer-Intern-2021/?lang=en) | Various | [Backend position here](https://careers.ibm.com/ShowJob/Id/961980/Back-End-Developer-Summer-Intern-2021/?lang=en) <br/>[Frontend position here](https://careers.ibm.com/ShowJob/Id/961831/Front-End-Developer-Summer-Intern-2021/?lang=en)|
 |[BNY Mellon](https://jobs.bnymellon.com/jobs/2007833) | New York, Pittsburgh, Jersey City | |
 |[Motorola](https://motorolasolutions.zrapply.com/en-US/Careers/job/Schaumburg-IL/Software-Engineer_R7477?utm_source=PittCSC) | Schaumburg, IL | |
 |[Cargill](https://cargill.taleo.net/careersection/10240/jobdetail.ftl?tz=GMT-05%3A00&job=UNI05923&utm_source=PittCSC)| Hopkins, MN | |
