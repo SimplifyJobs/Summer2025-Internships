@@ -99,6 +99,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Salesforce](https://salesforce.wd1.myworkdayjobs.com/en-US/Futureforce_Internships/job/California---San-Francisco/Summer-2021-Intern---Software-Engineer_JR68839?d=cta-summer-view-sjb-1) | Various | |
 |[Workiva](https://workiva.wd1.myworkdayjobs.com/en-US/careers/job/Scottsdale/Summer-2021---Software-Engineering-Intern_R560?source=PittCSC) | Scottsdale, AZ | |
 |[Figma](https://jobs.lever.co/figma/4fe2557e-3ac3-49ea-8330-9e6c49493f8e) | San Francisco, CA | |
+|[Patreon](https://boards.greenhouse.io/patreon/jobs/2294211) | San Francisco, CA | |
 
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too! 🙏
 
@@ -147,5 +148,6 @@ Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), 
 * [Leundai](https://github.com/Leundai)
 * [aidev1065](https://github.com/aidev1065)
 * [zhixiangteoh](https://github.com/zhixiangteoh)
+* [christopherhui](https://github.com/christopherhui)
 
 Thanks to [elaine-zheng](https://github.com/elaine-zheng/summer2020internships) for the inspiration! 🐐
