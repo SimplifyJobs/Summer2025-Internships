@@ -98,6 +98,8 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Figma](https://jobs.lever.co/figma/4fe2557e-3ac3-49ea-8330-9e6c49493f8e) | San Francisco, CA | |
 |[Patreon](https://boards.greenhouse.io/patreon/jobs/2294211) | San Francisco, CA | |
 |[Kohl's](https://careers.kohls.com/internships/technology-jobs#software-engineer-intern) | Milwaukee, Milpitas | Various positions|  
+|[Unilever](https://unilever.taleo.net/careersection/external/jobdetail.ftl?lang=en&searchExpanded=true&job=200003FN) | Englewood Cliffs, NJ | More positions [here](https://unilever.taleo.net/careersection/external/jobsearch.ftl)|
+|[Twitch](https://boards.greenhouse.io/twitch/jobs/4827849002) | San Francisco, CA | |
 
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too! 🙏
 
