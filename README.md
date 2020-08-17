@@ -102,6 +102,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Twitch](https://boards.greenhouse.io/twitch/jobs/4827849002) | San Francisco, CA | |
 |[Zillow](https://careers.zillowgroup.com/ShowJob/JobId/458252/SoftwareDevelopmentEngineerIntern)| Irvine, New York, Seattle | |
 |[McKinsey](https://www.mckinsey.com/careers/search-jobs/jobs/analystintern-softwareengineerdataengineerdatascientist-campusstudents-41875)| Boston, Chicago, New Jersey, NYC, SF| |
+
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too! 🙏
 
 * [simranthomas](https://github.com/simranthomas)
