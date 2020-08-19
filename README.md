@@ -107,8 +107,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Benchling](https://www.benchling.com/careers/?gh_jid=2298068&gh_src=PittCSC#detail)| San Fran, Boston | |
 |[3M](https://3m.wd1.myworkdayjobs.com/en-US/Search/job/US-New-York-Albany/Software-Engineer-Intern_R01018495) | Albany| |
 |[Target](https://jobs.target.com/job/-/-/1118/17057382)| Minneapolis | |
-|[Emerson](https://emerson.taleo.net/
-careersection/autosol/jobdetail.ftl?job=20005735&lang=en&media_id=46825)| Austin,TX| |
+|[Emerson](https://emerson.taleo.net/careersection/autosol/jobdetail.ftl?job=20005735&lang=en&media_id=46825)| Austin,TX| |
 |[Applied Intuition](https://jobs.lever.co/applied/c22805d5-2006-4867-bb32-671951b17206) | Mountain View | |
 |[Tableau](https://salesforce.wd1.myworkdayjobs.com/en-US/Tableau/job/Washington---Seattle/Summer-2021-Intern---Software-Engineer---Tableau_JR68842-2?source=PittCSC) | Seattle, Palo Alto | |
 
