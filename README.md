@@ -103,11 +103,12 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Microsoft](https://careers.microsoft.com/us/en/job/870957/Internship-Opportunities-for-Students-Software-Engineer) | Various | [PM](https://careers.microsoft.com/us/en/job/870958/Internship-Opportunities-for-Students-Program-Manager) and [Explore](https://careers.microsoft.com/us/en/job/870951/Internship-Opportunities-for-Students-Explore-Program)
 |[NetApp](https://jobs.netapp.com/job/Sunnyvale-Intern-Software-&-QA-Engineer-CA-94089/668051300/) | Various | [Advanced Technology Group](https://jobs.netapp.com/job/Research-Triangle-Park-Intern-Advanced-Technology-Group-1-NC-27709/667086400/) and [IT](https://jobs.netapp.com/job/Research-Triangle-Park-Intern-Information-Technology-NC-27709/667086100/) |
 |[Twitch](https://boards.greenhouse.io/twitch/jobs/4827849002?gh_src=PittCSC)| Seattle, Irvine, San Francisco | |
-|[Snap](https://wd1.myworkdaysite.com/recruiting/snapchat/snap/job/Los-Angeles-California/Software-Engineer-Intern---Fall-2021--August-17---Sept-4-_R0014581)| Los Angeles, Seattle, San Francisco, New York, Mountain View | |
+|[Snap](https://wd1.myworkdaysite.com/recruiting/snapchat/snap/job/Los-Angeles-California/Software-Engineer-Intern---Fall-2021--August-17---Sept-4-_R0014581)| Los Angeles, Seattle, San Francisco, New York, Mountain View | Toronto application available [here](https://wd1.myworkdaysite.com/en-US/recruiting/snapchat/snap/job/Toronto-Canada/Software-Engineer-Intern---Fall-2021--August-17---Sept-4-_R0014582). |
 |[Benchling](https://www.benchling.com/careers/?gh_jid=2298068&gh_src=PittCSC#detail)| San Fran, Boston | |
 |[3M](https://3m.wd1.myworkdayjobs.com/en-US/Search/job/US-New-York-Albany/Software-Engineer-Intern_R01018495) | Albany| |
 |[Target](https://jobs.target.com/job/-/-/1118/17057382)| Minneapolis | |
-|[Emerson](https://emerson.taleo.net/careersection/autosol/jobdetail.ftl?job=20005735&lang=en&media_id=46825)| Austin,TX| |
+|[Emerson](https://emerson.taleo.net/
+careersection/autosol/jobdetail.ftl?job=20005735&lang=en&media_id=46825)| Austin,TX| |
 |[Applied Intuition](https://jobs.lever.co/applied/c22805d5-2006-4867-bb32-671951b17206) | Mountain View | |
 |[Tableau](https://salesforce.wd1.myworkdayjobs.com/en-US/Tableau/job/Washington---Seattle/Summer-2021-Intern---Software-Engineer---Tableau_JR68842-2?source=PittCSC) | Seattle, Palo Alto | |
 
@@ -160,5 +161,6 @@ Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), 
 * [zhixiangteoh](https://github.com/zhixiangteoh)
 * [christopherhui](https://github.com/christopherhui)
 * [jamiepinheiro](https://github.com/jamiepinheiro)
+* [michaelfromyeg](https://github.com/michaelfromyeg)
 
 Thanks to [elaine-zheng](https://github.com/elaine-zheng/summer2020internships) for the inspiration! 🐐
