@@ -64,7 +64,6 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Qualtrics](https://www.qualtrics.com/careers/us/en/job/QUALUS87166EXTERNALENUS/Software-Engineering-Intern-Summer-2021-Provo-UT?utm_source=PittCSC) | Seattle, Provo | [Seattle](https://www.qualtrics.com/careers/us/en/job/151240/Software-Engineering-Intern-Summer-2021-Seattle-WA)  |
 |[Scale AI](https://jobs.lever.co/scaleai/c82fd6f5-daa9-42b5-8183-4af35c33ca03/apply?lever-source=PittCSC) | San Francisco, CA | "Intern SWE" position | 
 |[JP Morgan](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210013662/?utm_medium=jobshare&utm_source=PittCSC) | Various | International students on F-1 Visa may not be considered |
-|[NASA JPL](https://jpl.jobs/jobs/2020-12296-Software-Engineering-Summer-Internships) | Pasadena, California | |
 |[Duolingo](https://boards.greenhouse.io/duolingo/jobs/4811990002?gh_src=PittCSC) | Pittsburgh, PA | |
 |[Red Ventures](https://careers.redventures.com/application/position/2250124?gh_jid=2250124&gh_src=PittCSC)| Charlotte, NC | |
 |[Texas Instruments](https://careers.ti.com/job/11279389/software-engineering-intern-dallas-tx/) | Dallas, TX | |
