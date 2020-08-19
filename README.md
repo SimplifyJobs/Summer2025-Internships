@@ -92,20 +92,20 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[MasterCard](https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/Arlington-Virginia/Software-Development-Engineer-Intern--Summer-2021-_R-111190?source=PittCSC) | Arlington, VA | |
 |[Vail Systems](http://jobs.jobvite.com/careers/vailsystems/job/oJyfdfwt/apply?__jvst=PittCSC)| Chicago, Illinois | |
 |[Medtronic](https://jobs.medtronic.com/jobs/computer-science-internship%E2%80%93summer-2021-81742)| Minneapolis, Minnesota | |
-|[Clever](https://clever.com/about/careers/detail?gh_jid=6194)| San Francisco, CA | |
+|[Clever](https://clever.com/about/careers/detail?gh_jid=6194&gh_src=PittCSC)| San Francisco, CA | |
 |[Salesforce](https://salesforce.wd1.myworkdayjobs.com/en-US/Futureforce_Internships/job/California---San-Francisco/Summer-2021-Intern---Software-Engineer_JR68839?d=cta-summer-view-sjb-1) | Various | |
 |[Workiva](https://workiva.wd1.myworkdayjobs.com/en-US/careers/job/Scottsdale/Summer-2021---Software-Engineering-Intern_R560?source=PittCSC) | Scottsdale, AZ | |
 |[Figma](https://jobs.lever.co/figma/4fe2557e-3ac3-49ea-8330-9e6c49493f8e) | San Francisco, CA | |
-|[Patreon](https://boards.greenhouse.io/patreon/jobs/2294211) | San Francisco, CA | |
+|[Patreon](https://boards.greenhouse.io/patreon/jobs/2294211?gh_src=PittCSC) | San Francisco, CA | |
 |[Kohl's](https://careers.kohls.com/internships/technology-jobs#software-engineer-intern) | Milwaukee, Milpitas | Various positions|  
 |[Unilever](https://unilever.taleo.net/careersection/external/jobdetail.ftl?lang=en&searchExpanded=true&job=200003FN) | Englewood Cliffs, NJ | More positions [here](https://unilever.taleo.net/careersection/external/jobsearch.ftl)|
 |[Zillow](https://careers.zillowgroup.com/ShowJob/JobId/458252/SoftwareDevelopmentEngineerIntern)| Irvine, New York, Seattle | |
 |[McKinsey](https://www.mckinsey.com/careers/search-jobs/jobs/analystintern-softwareengineerdataengineerdatascientist-campusstudents-41875)| Boston, Chicago, New Jersey, NYC, SF| |
 |[Microsoft](https://careers.microsoft.com/us/en/job/870957/Internship-Opportunities-for-Students-Software-Engineer) | Various | [PM](https://careers.microsoft.com/us/en/job/870958/Internship-Opportunities-for-Students-Program-Manager) and [Explore](https://careers.microsoft.com/us/en/job/870951/Internship-Opportunities-for-Students-Explore-Program)
 |[NetApp](https://jobs.netapp.com/job/Sunnyvale-Intern-Software-&-QA-Engineer-CA-94089/668051300/) | Various | [Advanced Technology Group](https://jobs.netapp.com/job/Research-Triangle-Park-Intern-Advanced-Technology-Group-1-NC-27709/667086400/) and [IT](https://jobs.netapp.com/job/Research-Triangle-Park-Intern-Information-Technology-NC-27709/667086100/) |
-|[Twitch](https://boards.greenhouse.io/twitch/jobs/4827849002)| Seattle, Irvine, San Francisco | |
+|[Twitch](https://boards.greenhouse.io/twitch/jobs/4827849002?gh_src=PittCSC)| Seattle, Irvine, San Francisco | |
 |[Snap](https://wd1.myworkdaysite.com/recruiting/snapchat/snap/job/Los-Angeles-California/Software-Engineer-Intern---Fall-2021--August-17---Sept-4-_R0014581)| Los Angeles, Seattle, San Francisco, New York, Mountain View | |
-|[Benchling](https://www.benchling.com/careers/?gh_jid=2298068#detail)| San Fran, Boston | |
+|[Benchling](https://www.benchling.com/careers/?gh_jid=2298068&gh_src=PittCSC#detail)| San Fran, Boston | |
 |[3M](https://3m.wd1.myworkdayjobs.com/en-US/Search/job/US-New-York-Albany/Software-Engineer-Intern_R01018495）| Albany| |
 |[Target](https://jobs.target.com/job/-/-/1118/17057382)| Minneapolis | |
 |[Emerson](https://emerson.taleo.net/careersection/autosol/jobdetail.ftl?job=20005735&lang=en&media_id=46825)| Austin,TX| |
