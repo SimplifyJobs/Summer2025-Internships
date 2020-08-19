@@ -109,6 +109,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[3M](https://3m.wd1.myworkdayjobs.com/en-US/Search/job/US-New-York-Albany/Software-Engineer-Intern_R01018495) | Albany| |
 |[Target](https://jobs.target.com/job/-/-/1118/17057382)| Minneapolis | |
 |[Emerson](https://emerson.taleo.net/careersection/autosol/jobdetail.ftl?job=20005735&lang=en&media_id=46825)| Austin,TX| |
+|[Applied Intuition](https://jobs.lever.co/applied/c22805d5-2006-4867-bb32-671951b17206) | Mountain View | |
 
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too! 🙏
 
