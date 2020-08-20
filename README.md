@@ -111,6 +111,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Applied Intuition](https://jobs.lever.co/applied/c22805d5-2006-4867-bb32-671951b17206) | Mountain View | |
 |[Tableau](https://salesforce.wd1.myworkdayjobs.com/en-US/Tableau/job/Washington---Seattle/Summer-2021-Intern---Software-Engineer---Tableau_JR68842-2?source=PittCSC) | Seattle, Palo Alto | |
 |[Qumulo](https://qumulo.com/company/jobs/?gh_jid=2290046)| Seattle | |
+|[Intuitive](https://careers.intuitive.com/jobs/201638?lang=en-us)| Sunnyvale | |
 
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too! 🙏
 
