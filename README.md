@@ -113,6 +113,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Qumulo](https://qumulo.com/company/jobs/?gh_jid=2290046)| Seattle | |
 |[Intuitive](https://careers.intuitive.com/jobs/201638?lang=en-us)| Sunnyvale | |
 |[Fidelity Investments](https://jobs.fidelity.com/ShowJob/Id/967682/Summer-2021-Undergraduate-Technical-Internship/)|Jersey City, NJ; Boston, MA; Merrimack, NH; Smithfield, RI; Durham, NC; and Westlake, TX | |
+|[General Electric](https://jobs.gecareers.com/global/en/job/3495072/Digital-Technology-Intern-2021)| Various| |
 
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too! 🙏
 
@@ -165,5 +166,6 @@ Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), 
 * [christopherhui](https://github.com/christopherhui)
 * [jamiepinheiro](https://github.com/jamiepinheiro)
 * [michaelfromyeg](https://github.com/michaelfromyeg)
+* [tuankiet65](https://github.com/tuankiet65)
 
 Thanks to [elaine-zheng](https://github.com/elaine-zheng/summer2020internships) for the inspiration! 🐐
