@@ -115,7 +115,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Fidelity Investments](https://jobs.fidelity.com/ShowJob/Id/967682/Summer-2021-Undergraduate-Technical-Internship/)|Jersey City, NJ; Boston, MA; Merrimack, NH; Smithfield, RI; Durham, NC; and Westlake, TX | |
 |[General Electric](https://jobs.gecareers.com/global/en/job/3495072/Digital-Technology-Intern-2021)| Various| |
 |[Raytheon](https://jobs.rtx.com/search-jobs) | Various | Click on Filter > Job Type > Intern, US Citizenship required|
-|[Johnson & Johnson](https://jobs.jnj.com/jobs/0438200814?lang=en-us) | Various | |
+|[Johnson & Johnson](https://jobs.jnj.com/jobs/0438200814?lang=en-us) | Horsham, Pennsylvania; West Chester, Pennsylvania; Various | |
 
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too! 🙏
 
