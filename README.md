@@ -117,6 +117,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Raytheon](https://jobs.rtx.com/search-jobs) | Various | Click on Filter > Job Type > Intern, US Citizenship required|
 |[Johnson & Johnson](https://jobs.jnj.com/jobs/0438200814?lang=en-us) | Horsham, Pennsylvania; West Chester, Pennsylvania; Various | |
 |[ARM](https://careers.peopleclick.com/careerscp/client_arm/external/en-us/gateway.do?functionName=viewFromLink&jobPostId=47304&localeCode=en-us) | Austin, TX; San Jose, CA; Boston, MA | |
+|[Amazon Web Services (Cleared)](https://www.amazon.jobs/en/jobs/1247269/2021-winter-software-development-engineer-intern-sea) | Seattle, WA & Arlington Area, VA | Requires US Citizenship and Clearance. Virginia Posting [here](https://www.amazon.jobs/en/jobs/1247291/2021-summer-software-development-engineer-intern-was)|
 
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too! 🙏
 
