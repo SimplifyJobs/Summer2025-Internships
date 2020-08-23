@@ -123,6 +123,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Church of Latter Day Saints](https://careersearch.churchofjesuschrist.org/public/jobdetail.aspx?jobid=261905) | Utah | Must be a Mormon |
 |[SIG](https://careers.sig.com/job/SUSQA004Y4604/Trading-Intern) | Bala Cynwyd, PA | Trading |
 |[Stonebranch](https://www.stonebranch.com/careers/job-detail/software-engineer-intern-6/) | Alpharetta, GA | |
+|[Samsara](https://www.linkedin.com/jobs/view/1985200182)| San Francisco | |
 
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too! 🙏
 
@@ -180,5 +181,6 @@ Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), 
 * [tuankiet65](https://github.com/tuankiet65)
 * [StefanTobler](https://github.com/StefanTobler)
 * [SahilSudhir](https://github.com/Pantharex)
+* [Sahir1234](https://github.com/Sahir1234)
 
 Thanks to [elaine-zheng](https://github.com/elaine-zheng/summer2020internships) for the inspiration! 🐐
