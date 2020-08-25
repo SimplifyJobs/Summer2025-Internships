@@ -127,6 +127,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Walmart](https://careers.walmart.com/us/jobs/WD298108-summer-2021-tech-internship)| Bentonville, AR | |
 |[Wolverine Trading](https://chu.tbe.taleo.net/chu01/ats/careers/v2/viewRequisition?org=WOLVE&cws=37&rid=310) | Chicago, IL | |
 |[Coupang](https://boards.greenhouse.io/coupang/jobs/2080981) | Mountain View, California | |
+|[Coinbase](https://www.coinbase.com/careers/positions/1724656) | San Francisco, California | Remote |
 
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too! 🙏
 
@@ -185,5 +186,6 @@ Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), 
 * [StefanTobler](https://github.com/StefanTobler)
 * [SahilSudhir](https://github.com/Pantharex)
 * [Sahir1234](https://github.com/Sahir1234)
+* [mneskovic](https://github.com/mneskovic)
 
 Thanks to [elaine-zheng](https://github.com/elaine-zheng/summer2020internships) for the inspiration! 🐐
