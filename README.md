@@ -194,5 +194,6 @@ Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), 
 * [SahilSudhir](https://github.com/Pantharex)
 * [Sahir1234](https://github.com/Sahir1234)
 * [mneskovic](https://github.com/mneskovic)
+* [prithvikannan](https://github.com/prithvikannan)
 
 Thanks to [elaine-zheng](https://github.com/elaine-zheng/summer2020internships) for the inspiration! 🐐
