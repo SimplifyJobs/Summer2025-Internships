@@ -135,6 +135,10 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Bloomberg](https://careers.bloomberg.com/job/detail/84150) | New York |   |
 |[FactSet](https://factset.wd1.myworkdayjobs.com/en-US/FactSetCareers/job/New-York-NY-USA/Software-Engineering-Internship---US-Campus_R7759) | NY, Chicago, Boston, Norwalk, Austin | |
 |[Asana](https://asana.com/jobs/apply/2256911/intern--software-engineering-) | SF, NYC | |
+|[MasterCard](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/New-York-City-New-York/Software-Development-Engineer-Intern--Summer-2021_R-113651-1/?source=PittCSC) | NYC, Arlington | [Arlington](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Arlington-Virginia/Software-Development-Engineer-Intern--Summer-2021_R-111347-1/?source=PittCSC)| 
+|[XPOLogistics](https://jobs.xpo.com/US/job/Portland-Software-Development-Intern-OR-97209/669686500/?utm_source=PittCSC) | Portland, OR | |
+
+
 
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too! 🙏
 
