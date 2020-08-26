@@ -133,6 +133,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Nvidia](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Austin/Software-Engineering-Intern--Developer-Tools---Summer-2021_JR1933363-1)| Austin, Westford, Redmond, Champaign, Santa Clara | |
 |[Plaid](https://plaid.com/job/?id=4e0c92e3-4c27-44a1-8d9d-be4fa18f987c) | San Fran |  Apply by API |
 |[Bloomberg](https://careers.bloomberg.com/job/detail/84150) | New York |   |
+|[FactSet](https://factset.wd1.myworkdayjobs.com/en-US/FactSetCareers/job/New-York-NY-USA/Software-Engineering-Internship---US-Campus_R7759) | NY, Chicago, Boston, Norwalk, Austin | |
 
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too! 🙏
 
