@@ -96,7 +96,6 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Figma](https://jobs.lever.co/figma/4fe2557e-3ac3-49ea-8330-9e6c49493f8e) | San Francisco, CA | |
 |[Patreon](https://boards.greenhouse.io/patreon/jobs/2294211?gh_src=PittCSC) | San Francisco, CA | |
 |[Kohl's](https://careers.kohls.com/internships/technology-jobs#software-engineer-intern) | Milwaukee, Milpitas | Various positions|  
-|[Unilever](https://unilever.taleo.net/careersection/external/jobdetail.ftl?lang=en&searchExpanded=true&job=200003FN) | Englewood Cliffs, NJ | More positions [here](https://unilever.taleo.net/careersection/external/jobsearch.ftl)|
 |[Zillow](https://careers.zillowgroup.com/ShowJob/JobId/458252/SoftwareDevelopmentEngineerIntern)| Irvine, New York, Seattle | |
 |[McKinsey](https://www.mckinsey.com/careers/search-jobs/jobs/analystintern-softwareengineerdataengineerdatascientist-campusstudents-41875)| Boston, Chicago, New Jersey, NYC, SF| |
 |[Microsoft](https://careers.microsoft.com/us/en/job/870957/Internship-Opportunities-for-Students-Software-Engineer) | Various | [PM](https://careers.microsoft.com/us/en/job/870958/Internship-Opportunities-for-Students-Program-Manager) and [Explore](https://careers.microsoft.com/us/en/job/870951/Internship-Opportunities-for-Students-Explore-Program)
