@@ -87,7 +87,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Google](https://careers.google.com/jobs/results/141314623220392646-software-engineering-intern-as-bs-ms-2021/?company=Google&company=Google%20Fiber&company=YouTube&employment_type=INTERN)| Various | Software Engineering |
 |[Qualcomm](https://qualcomm.wd5.myworkdayjobs.com/en-US/External/job/San-Diego/IT-Internship---Summer-2021_3001435)| San Diego | Also available [Hardware Engineering](https://qualcomm.wd5.myworkdayjobs.com/en-US/External/job/San-Diego/Hardware-Engineering-Internship--Summer-2021-_3001376), [Systems Engineering](https://qualcomm.wd5.myworkdayjobs.com/en-US/External/job/San-Diego/Systems-Engineering-Internship--Summer-2021-_3001377), and [Embedded Software Engineering](https://qualcomm.wd5.myworkdayjobs.com/en-US/External/job/San-Diego/Embedded-Software-Engineering-Internship--Summer-2021-_3001371) |
 | [MLH](https://fellowship.mlh.io/) | Various Remote | [Explorer](https://fellowship.mlh.io/programs/explorer) and [Open Source](https://fellowship.mlh.io/programs/open-source) Fellowships, Fall, Spring, Summer available & [MLH Coach](https://mlh.io/coaches) positons now available (optional if you want to help others)|
-|[MasterCard](https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/Arlington-Virginia/Software-Development-Engineer-Intern--Summer-2021-_R-111190?source=PittCSC) | Arlington, VA | |
+|[MasterCard](https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/Arlington-Virginia/Software-Development-Engineer-Intern--Summer-2021-_R-111190?source=PittCSC) | Arlington, VA | | Open to all students |
 |[Vail Systems](http://jobs.jobvite.com/careers/vailsystems/job/oJyfdfwt/apply?__jvst=PittCSC)| Chicago, Illinois | |
 |[Medtronic](https://jobs.medtronic.com/jobs/computer-science-internship%E2%80%93summer-2021-81742)| Minneapolis, Minnesota | |
 |[Clever](https://clever.com/about/careers/detail?gh_jid=6194&gh_src=PittCSC)| San Francisco, CA | |
@@ -133,7 +133,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Bloomberg](https://careers.bloomberg.com/job/detail/84150) | New York |   |
 |[FactSet](https://factset.wd1.myworkdayjobs.com/en-US/FactSetCareers/job/New-York-NY-USA/Software-Engineering-Internship---US-Campus_R7759) | NY, Chicago, Boston, Norwalk, Austin | |
 |[Asana](https://asana.com/jobs/apply/2256911/intern--software-engineering-) | SF, NYC | |
-|[MasterCard](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/New-York-City-New-York/Software-Development-Engineer-Intern--Summer-2021_R-113651-1/?source=PittCSC) | NYC, Arlington | [Arlington](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Arlington-Virginia/Software-Development-Engineer-Intern--Summer-2021_R-111347-1/?source=PittCSC)| 
+|[MasterCard](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/New-York-City-New-York/Software-Development-Engineer-Intern--Summer-2021_R-113651-1/?source=PittCSC) | NYC, Arlington | [Arlington](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Arlington-Virginia/Software-Development-Engineer-Intern--Summer-2021_R-111347-1/?source=PittCSC)| Open to students enrolled in a bachelor’s degree program | 
 |[XPOLogistics](https://jobs.xpo.com/US/job/Portland-Software-Development-Intern-OR-97209/669686500/?utm_source=PittCSC) | Portland, OR | |
 
 
