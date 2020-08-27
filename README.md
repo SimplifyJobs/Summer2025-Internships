@@ -139,6 +139,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Dell](https://dell.wd1.myworkdayjobs.com/ExternalNonPublic/job/Austin-Texas-United-States/Undergraduate-Intern--Software-Engineer_R068404)| Austin, TX | |
 |[Epic Games](https://epicgames.wd5.myworkdayjobs.com/en-US/Epic_Games/job/Cary-NC/Epic-Games-Programming-Internships_R2792-2)| Cary, NC | |
 |[Ocient](http://www.ocient.com/careers?gh_jid=4105471003&gh_src=PittCSC) | Chicago, IL | |
+|[Anduril](https://jobs.lever.co/anduril/d15840b6-081b-4d4c-95ed-008d681b4f7f?utm_source=PittCSC)| Seattle, [Irvine](https://jobs.lever.co/anduril/a2d2991b-7106-4909-a0e0-b14f2d8d1ace?utm_source=PittCSC), [Boston](https://jobs.lever.co/anduril/7ccb543a-a233-4db9-8c1e-1cb8e5b27cd4?utm_source=PittCSC) |  Perception Intern [here](https://jobs.lever.co/anduril/9312d9f4-ce3b-43b8-b870-d86bfc838135)|
 
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too! 🙏
 
