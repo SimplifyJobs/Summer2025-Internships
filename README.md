@@ -138,6 +138,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[eBay](https://jobs.ebayinc.com/job/-/-/403/1006890272?source=PittCSC)| San Jose, Austin, Bellevue, New York, Portland | |
 |[Dell](https://dell.wd1.myworkdayjobs.com/ExternalNonPublic/job/Austin-Texas-United-States/Undergraduate-Intern--Software-Engineer_R068404)| Austin, TX | |
 |[Epic Games](https://epicgames.wd5.myworkdayjobs.com/en-US/Epic_Games/job/Cary-NC/Epic-Games-Programming-Internships_R2792-2)| Cary, NC | |
+|[Amazon](https://www.amazon.jobs/en/jobs/1229331/security-engineer-internship-summer-2021-us) | Various | Security Engineering |
 
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too! 🙏
 
