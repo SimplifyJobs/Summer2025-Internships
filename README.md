@@ -52,7 +52,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Optiver](https://www.optiver.com/na/en/job-opportunities/Campus/all/Chicago/) | Chicago | |
 |[BASF](https://basf.jobs/light_green_NA/job/Florham-Park-Professional-Development-Program-%28PDP%29-Internship-Data-Science-Summer-2021-NJ-07932/611553501/?feedId=111101&src=PittCSC)| New Jersey | Data Science Internship |
 |[Moody's Analytics](https://careers.moodys.com/jobs/18781BR-2021-engineering-and-technology-summer-internship-new-york-omaha-san-francisco-waltham-west-chester/) | NY, SF, Omaha, Waltham, West Chester | Engineering and Tech Internship|
-|[Amazon](https://www.amazon.jobs/en/jobs/1204415/software-development-engineer-internship-summer-2021-us?ref=PittCSC) | Various | |
+|[Amazon](https://www.amazon.jobs/en/jobs/1204415/software-development-engineer-internship-summer-2021-us?ref=PittCSC) | Various | [Security Engineering](https://www.amazon.jobs/en/jobs/1229331/security-engineer-internship-summer-2021-us)|
 |[Citrix](https://jobs.citrix.com/job/R22175/Software-Engineer-Intern-2021?utm_campaign=pittcsc&utm_source=pittcsc&utm_medium=organic) | Florida | |
 |[Central Intelligence Agency (CIA)](https://www.cia.gov/careers/student-opportunities/undergraduate-internship-co-op-program-software-engineer.html) | Washington, D.C. | Must be US Citizen (Dual-Citizens are eligible) |
 |[Bank of America](https://campus.bankofamerica.com/careers/Global-Technology-Summer-Analyst-Program-US.html) | US & Canada | |
@@ -138,7 +138,6 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[eBay](https://jobs.ebayinc.com/job/-/-/403/1006890272?source=PittCSC)| San Jose, Austin, Bellevue, New York, Portland | |
 |[Dell](https://dell.wd1.myworkdayjobs.com/ExternalNonPublic/job/Austin-Texas-United-States/Undergraduate-Intern--Software-Engineer_R068404)| Austin, TX | |
 |[Epic Games](https://epicgames.wd5.myworkdayjobs.com/en-US/Epic_Games/job/Cary-NC/Epic-Games-Programming-Internships_R2792-2)| Cary, NC | |
-|[Amazon](https://www.amazon.jobs/en/jobs/1229331/security-engineer-internship-summer-2021-us) | Various | Security Engineering |
 
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too! 🙏
 
