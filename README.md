@@ -143,6 +143,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Marvell](https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Software-Engineer---Flash-Firmware-Intern_2001010?source=PittCSC)| Santa Clara, CA | |
 |[Sony](https://boards.greenhouse.io/sonyinteractiveentertainmentplaystation/jobs/2309169)| Santa Monica | |
 |[Cubist](https://careers.point72.com/CSJobDetail?jobName=2021-cubist-software-engineering-internship-program&jobCode=CSS-0004136)| NY | |
+|[MongoDB](https://www.mongodb.com/careers/jobs/2309781) | NY, SF, Austin | |
 
 
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too! 🙏
