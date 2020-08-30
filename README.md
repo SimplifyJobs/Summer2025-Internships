@@ -145,7 +145,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Cubist](https://careers.point72.com/CSJobDetail?jobName=2021-cubist-software-engineering-internship-program&jobCode=CSS-0004136)| NY | |
 |[MongoDB](https://www.mongodb.com/careers/jobs/2309781) | NY, SF, Austin | |
 |[HP](https://careers.hpe.com/job/Hewlett-Packard-Enterprise-San-Jose-California/118653859) | San Jose | |
-
+|[Wayfair](https://www.wayfair.com/careers/job/priority-period---software-engineer-intern---summer-2021-/4848614002/apply?utm_source=PittCSC) | Boston |  |
 
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too! 🙏
 
