@@ -155,6 +155,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[CrowdStrike](https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Irvine-CA/Software-Engineer-Internship--Summer-2021-_R1556)| Irvine, Kirkland, Sunnyvale, Minneapolis| |
 |[Osisoft](https://osisoft.wd1.myworkdayjobs.com/en-US/osisoft_careers/job/San-Leandro-California-USA/Software-Developer-Intern---Summer-2021_R002670) | San Leandro, Scottsdale, Philadelphia, Johnson City| |
 |[Datadog](https://www.datadoghq.com/careers/detail/?gh_jid=2265934)| Boston, NYC | |
+|[Tanium](https://www.tanium.com/careers/2291604)| Remote, Morrisville, NC | |
 
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too! 🙏
 
@@ -217,5 +218,7 @@ Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), 
 * [mneskovic](https://github.com/mneskovic)
 * [prithvikannan](https://github.com/prithvikannan)
 * [sunschong](https://github.com/sunschong)
+* [priyansdesai](https://github.com/priyansdesai)
+
 
 Thanks to [elaine-zheng](https://github.com/elaine-zheng/summer2020internships) for the inspiration! 🐐
