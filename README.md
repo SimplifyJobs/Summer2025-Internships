@@ -150,6 +150,8 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[WillowTree](https://willowtreeapps.com/careers/jobs/4698742002/software-engineer-intern) | Charlottesville, Columbus, Durham | |
 |[Textron](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=284652)| Maryland | Cyber Engineering |  |
 |[Playstation](https://boards.greenhouse.io/sonyinteractiveentertainmentplaystation/jobs/2316732/) | Various in CA | More positions [here](https://www.playstation.com/en-us/corporate/about/careers/internships/) |
+|[ServiceNow](https://jobs.jobvite.com/careers/servicenow/job/oFfedfw5?__jvsd=PittCSC) | Various | |
+
 
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too! 🙏
 
