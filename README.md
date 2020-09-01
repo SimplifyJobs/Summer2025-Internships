@@ -117,7 +117,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[SurveyMonkey](https://www.wayup.com/i-Internet-j-Software-Engineer-Intern-Summer-2021-SurveyMonkey-601778092934439/) | San Mateo, Portland, Seattle  | |
 |[Tesla](https://www.tesla.com/careers/job/software-fullstackengineeringinternshipspringand-orsummer2021-68849)|Fremont, Palo Alto, Bellevue, others| More [here](https://www.tesla.com/careers/search#/?keyword=intern&department=3&region=5) |
 |[Church of Latter Day Saints](https://careersearch.churchofjesuschrist.org/public/jobdetail.aspx?jobid=261905) | Utah | Must be a Mormon |
-|[SIG](https://careers.sig.com/job/SUSQA004Y4604/Trading-Intern) | Bala Cynwyd, PA | Trading |
+|[SIG](https://careers.sig.com/job/SUSQA004Y4604/Trading-Intern) | Bala Cynwyd, PA | Trading, SWE [here](https://careers.sig.com/job/SUSQA004Y4957/Software-Engineering-Internship-Program) |
 |[Stonebranch](https://www.stonebranch.com/careers/job-detail/software-engineer-intern-6/) | Alpharetta, GA | |
 |[Mathworks](https://www.mathworks.com/company/jobs/opportunities/10071-edg-intern-bachelor-computer-science-majors?keywords=intern&location%5B%5D=US) | Natick, MA | |
 |[Samsara](https://www.linkedin.com/jobs/view/1987007094) | San Francisco | Software Engineering |
