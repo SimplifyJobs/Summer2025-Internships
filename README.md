@@ -160,8 +160,16 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Lyft](https://boards.greenhouse.io/lyft/jobs/4832208002?gh_jid=4832208002)| San Francisco, CA | |
 |[Nutanix](https://nutanix.eightfold.ai/careers?pid=1637065&domain=nutanix.com)| San Jose, CA | |
 |[Etsy](https://www.etsy.com/careers/job/743999718641018) | Brooklyn, NY | |
+|[Virtu Financial](https://boards.greenhouse.io/virtu/jobs/4792595002) | NYC | |
+|[Ginkgo Bioworks](https://jobs.lever.co/ginkgobioworks/300da5c1-6eb1-4a47-94ef-15280250ac8a/apply?lever-source=PittCSC) | Boston, MA | |
+|[Home Depot](https://careers.homedepot.com/job/11374524/software-engineer-intern-atlanta-atlanta-ga/) | Atlanta, GA | |
+|[Lowes](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=25239&siteid=5014&jobid=6674182#jobDetails=6674182_5014) | Mooresville| |
+|[Path AI](https://www.pathai.com/careers/4851472002?gh_jid=4851472002) | Boston, MA | |
+
+
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too! 🙏
 
+* [spencerng](https://github.com/spencerng)
 * [julianzhao0101](https://github.com/julianzhao0101)
 * [Gopal6600](https://github.com/Gopal6600)
 * [arpansahoo](https://github.com/arpansahoo)
