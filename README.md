@@ -166,6 +166,8 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Lowes](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=25239&siteid=5014&jobid=6674182#jobDetails=6674182_5014) | Mooresville| |
 |[Path AI](https://www.pathai.com/careers/4851472002?gh_jid=4851472002) | Boston, MA | |
 |[Splunk](https://www.splunk.com/en_us/careers/jobs/technical-residency-internship-summer-16138.html) | San Fran | |
+|[Washington Post](https://docs.google.com/forms/d/e/1FAIpQLScwbYDTH-tE5yobarHzuYBqCGRVg6CTn01KCFaM9mG-4Ty_kA/viewform) | DC | Publishing Tools Internship [here](https://docs.google.com/forms/d/e/1FAIpQLSck3QDvOkBap9sbpVWaDDTw2UfzCPHq_Cx7bfySRtoMeH6-jg/viewform)|
+
 
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too! 🙏
 
