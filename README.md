@@ -84,7 +84,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Stripe](https://stripe.com/jobs/search?s=intern) | Seattle, NYC, San Francisco | |
 |[Zipline](https://flyzipline.com/careers/job/4114464003?gh_jid=4114464003) | San Francisco | |
 |[Citi](https://citi.avature.net/careers/ProjectDetail/Dallas-Texas-United-States-NAM-Global-Consumer-Technology-Summer-Analyst-Dallas-North-America-2021-/10675) | North America | |
-|[Google](https://careers.google.com/jobs/results/141314623220392646-software-engineering-intern-as-bs-ms-2021/?company=Google&company=Google%20Fiber&company=YouTube&employment_type=INTERN)| Various | Software Engineering |
+|Google| Various | **Closed**, see issue [#120](https://github.com/Pitt-CSC/Summer2021-Internships/issues/120) |
 |[Qualcomm](https://qualcomm.wd5.myworkdayjobs.com/en-US/External/job/San-Diego/IT-Internship---Summer-2021_3001435)| San Diego | Also available [Hardware Engineering](https://qualcomm.wd5.myworkdayjobs.com/en-US/External/job/San-Diego/Hardware-Engineering-Internship--Summer-2021-_3001376), [Systems Engineering](https://qualcomm.wd5.myworkdayjobs.com/en-US/External/job/San-Diego/Systems-Engineering-Internship--Summer-2021-_3001377), and [Embedded Software Engineering](https://qualcomm.wd5.myworkdayjobs.com/en-US/External/job/San-Diego/Embedded-Software-Engineering-Internship--Summer-2021-_3001371) |
 | [MLH](https://fellowship.mlh.io/) | Various Remote | [Explorer](https://fellowship.mlh.io/programs/explorer) and [Open Source](https://fellowship.mlh.io/programs/open-source) Fellowships, Fall, Spring, Summer available & [MLH Coach](https://mlh.io/coaches) positons now available (optional if you want to help others)|
 |[MasterCard](https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/Arlington-Virginia/Software-Development-Engineer-Intern--Summer-2021-_R-111190?source=PittCSC) | Arlington, VA | | Open to all students |
@@ -118,7 +118,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[SurveyMonkey](https://www.wayup.com/i-Internet-j-Software-Engineer-Intern-Summer-2021-SurveyMonkey-601778092934439/) | San Mateo, Portland, Seattle  | |
 |[Tesla](https://www.tesla.com/careers/job/software-fullstackengineeringinternshipspringand-orsummer2021-68849)|Fremont, Palo Alto, Bellevue, others| More [here](https://www.tesla.com/careers/search#/?keyword=intern&department=3&region=5) |
 |[Church of Latter Day Saints](https://careersearch.churchofjesuschrist.org/public/jobdetail.aspx?jobid=261905) | Utah | Must be a Mormon |
-|[SIG](https://careers.sig.com/job/SUSQA004Y4604/Trading-Intern) | Bala Cynwyd, PA | Trading |
+|[SIG](https://careers.sig.com/job/SUSQA004Y4604/Trading-Intern) | Bala Cynwyd, PA | Trading, SWE [here](https://careers.sig.com/job/SUSQA004Y4957/Software-Engineering-Internship-Program) |
 |[Stonebranch](https://www.stonebranch.com/careers/job-detail/software-engineer-intern-6/) | Alpharetta, GA | |
 |[Mathworks](https://www.mathworks.com/company/jobs/opportunities/10071-edg-intern-bachelor-computer-science-majors?keywords=intern&location%5B%5D=US) | Natick, MA | |
 |[Samsara](https://www.linkedin.com/jobs/view/1987007094) | San Francisco | Software Engineering |
@@ -139,15 +139,41 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Dell](https://dell.wd1.myworkdayjobs.com/ExternalNonPublic/job/Austin-Texas-United-States/Undergraduate-Intern--Software-Engineer_R068404)| Austin, TX | |
 |[Epic Games](https://epicgames.wd5.myworkdayjobs.com/en-US/Epic_Games/job/Cary-NC/Epic-Games-Programming-Internships_R2792-2)| Cary, NC | |
 |[Ocient](http://www.ocient.com/careers?gh_jid=4105471003&gh_src=PittCSC) | Chicago, IL | |
-|[Anduril](https://jobs.lever.co/anduril/d15840b6-081b-4d4c-95ed-008d681b4f7f?utm_source=PittCSC)| Seattle, [Irvine](https://jobs.lever.co/anduril/a2d2991b-7106-4909-a0e0-b14f2d8d1ace?utm_source=PittCSC), [Boston](https://jobs.lever.co/anduril/7ccb543a-a233-4db9-8c1e-1cb8e5b27cd4?utm_source=PittCSC) |  Perception Intern [here](https://jobs.lever.co/anduril/9312d9f4-ce3b-43b8-b870-d86bfc838135)|
+|[Anduril](https://jobs.lever.co/anduril/d15840b6-081b-4d4c-95ed-008d681b4f7f?utm_source=PittCSC)| Seattle, [Irvine](https://jobs.lever.co/anduril/a2d2991b-7106-4909-a0e0-b14f2d8d1ace?utm_source=PittCSC), [Boston](https://jobs.lever.co/anduril/7ccb543a-a233-4db9-8c1e-1cb8e5b27cd4?utm_source=PittCSC) |  Perception Intern [here](https://jobs.lever.co/anduril/9312d9f4-ce3b-43b8-b870-d86bfc838135); U.S. Person status may be required|
 |[Marvell](https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Software-Engineer---Flash-Firmware-Intern_2001010?source=PittCSC)| Santa Clara, CA | |
 |[Sony](https://boards.greenhouse.io/sonyinteractiveentertainmentplaystation/jobs/2309169)| Santa Monica | |
 |[Cubist](https://careers.point72.com/CSJobDetail?jobName=2021-cubist-software-engineering-internship-program&jobCode=CSS-0004136)| NY | |
 |[MongoDB](https://www.mongodb.com/careers/jobs/2309781) | NY, SF, Austin | |
+|[HP](https://careers.hpe.com/job/Hewlett-Packard-Enterprise-San-Jose-California/118653859) | San Jose | |
+|[Wayfair](https://www.wayfair.com/careers/job/priority-period---software-engineer-intern---summer-2021-/4848614002/apply?utm_source=PittCSC) | Boston |  |
+|[Appian](https://www.appian.com/careers/search/job/?gh_jid=2266649&job_name=software-engineer-intern&location=mclean-virginia) | Mclean, VA | |
+|[Yext](https://boards.greenhouse.io/yext/jobs/2301556) | NYC, DC | |
+|[WillowTree](https://willowtreeapps.com/careers/jobs/4698742002/software-engineer-intern) | Charlottesville, Columbus, Durham | |
+|[Textron](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=284652)| Maryland | Cyber Engineering |  |
+|[Playstation](https://boards.greenhouse.io/sonyinteractiveentertainmentplaystation/jobs/2316732/) | Various in CA | More positions [here](https://www.playstation.com/en-us/corporate/about/careers/internships/) |
+|[ServiceNow](https://jobs.jobvite.com/careers/servicenow/job/oFfedfw5?__jvsd=PittCSC) | Various | |
+|[Stryker](https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Kalamazoo-Michigan/Summer-Internship-2021-Computer-Science--Computer-Engineering--Software-Michigan_R436511-1)| Michigan | |
+|[CrowdStrike](https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Irvine-CA/Software-Engineer-Internship--Summer-2021-_R1556)| Irvine, Kirkland, Sunnyvale, Minneapolis| |
+|[Osisoft](https://osisoft.wd1.myworkdayjobs.com/en-US/osisoft_careers/job/San-Leandro-California-USA/Software-Developer-Intern---Summer-2021_R002670) | San Leandro, Scottsdale, Philadelphia, Johnson City| |
+|[Datadog](https://www.datadoghq.com/careers/detail/?gh_jid=2265934)| Boston, NYC | |
+|[Tanium](https://www.tanium.com/careers/2291604)| Remote, Morrisville, NC | |
+|[Lyft](https://boards.greenhouse.io/lyft/jobs/4832208002?gh_jid=4832208002)| San Francisco, CA | |
+|[Nutanix](https://nutanix.eightfold.ai/careers?pid=1637065&domain=nutanix.com)| San Jose, CA | |
+|[Etsy](https://www.etsy.com/careers/job/743999718641018) | Brooklyn, NY | |
+|[Virtu Financial](https://boards.greenhouse.io/virtu/jobs/4792595002) | NYC | |
+|[Ginkgo Bioworks](https://jobs.lever.co/ginkgobioworks/300da5c1-6eb1-4a47-94ef-15280250ac8a/apply?lever-source=PittCSC) | Boston, MA | |
+|[Home Depot](https://careers.homedepot.com/job/11374524/software-engineer-intern-atlanta-atlanta-ga/) | Atlanta, GA | |
+|[Lowes](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=25239&siteid=5014&jobid=6674182#jobDetails=6674182_5014) | Mooresville| |
+|[Path AI](https://www.pathai.com/careers/4851472002?gh_jid=4851472002) | Boston, MA | |
+|[Splunk](https://www.splunk.com/en_us/careers/jobs/technical-residency-internship-summer-16138.html) | San Fran | |
+|[Washington Post](https://docs.google.com/forms/d/e/1FAIpQLScwbYDTH-tE5yobarHzuYBqCGRVg6CTn01KCFaM9mG-4Ty_kA/viewform) | DC | Publishing Tools Internship [here](https://docs.google.com/forms/d/e/1FAIpQLSck3QDvOkBap9sbpVWaDDTw2UfzCPHq_Cx7bfySRtoMeH6-jg/viewform)|
 
 
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too! 🙏
 
+* [spencerng](https://github.com/spencerng)
+* [julianzhao0101](https://github.com/julianzhao0101)
+* [Gopal6600](https://github.com/Gopal6600)
 * [arpansahoo](https://github.com/arpansahoo)
 * [gabriel-flynn](https://github.com/gabriel-flynn)
 * [arjun-dureja](https://github.com/arjun-dureja)
@@ -205,5 +231,8 @@ Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), 
 * [Sahir1234](https://github.com/Sahir1234)
 * [mneskovic](https://github.com/mneskovic)
 * [prithvikannan](https://github.com/prithvikannan)
+* [sunschong](https://github.com/sunschong)
+* [priyansdesai](https://github.com/priyansdesai)
+
 
 Thanks to [elaine-zheng](https://github.com/elaine-zheng/summer2020internships) for the inspiration! 🐐
