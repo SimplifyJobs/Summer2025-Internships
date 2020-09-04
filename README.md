@@ -174,7 +174,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Domo](https://boards.greenhouse.io/domo/jobs/2318147) | American Fork, UT | |
 |[Statefarm](https://findjobs.statefarm.com/ShowJob/Id/460685/Intern%20%20%20Technology) | Various | |
 |[Samsung](https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/3900-N-Capital-of-Texas-Hwy-Austin-TX-USA/Software-Engineering-Intern_R31357) | Austin, San Jose | |
-
+|[TikTok](https://careers.tiktok.com/position/detail/6867794967172745486) | Singapore | |
 
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too! 🙏
 
