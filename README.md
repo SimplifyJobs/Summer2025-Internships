@@ -156,7 +156,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[CrowdStrike](https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Irvine-CA/Software-Engineer-Internship--Summer-2021-_R1556)| Irvine, Kirkland, Sunnyvale, Minneapolis| |
 |[Osisoft](https://osisoft.wd1.myworkdayjobs.com/en-US/osisoft_careers/job/San-Leandro-California-USA/Software-Developer-Intern---Summer-2021_R002670) | San Leandro, Scottsdale, Philadelphia, Johnson City| |
 |[Datadog](https://www.datadoghq.com/careers/detail/?gh_jid=2265934)| Boston, NYC | |
-|[Tanium](https://www.tanium.com/careers/2291604)| Remote, Morrisville, NC | |
+|Tanium| Remote, Morrisville, NC | **Closed**|
 |[Lyft](https://boards.greenhouse.io/lyft/jobs/4832208002?gh_jid=4832208002)| San Francisco, CA | |
 |[Nutanix](https://nutanix.eightfold.ai/careers?pid=1637065&domain=nutanix.com)| San Jose, CA | |
 |[Etsy](https://www.etsy.com/careers/job/743999718641018) | Brooklyn, NY | |
