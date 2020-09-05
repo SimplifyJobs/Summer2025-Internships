@@ -165,7 +165,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Home Depot](https://careers.homedepot.com/job/11374524/software-engineer-intern-atlanta-atlanta-ga/) | Atlanta, GA | |
 |[Lowes](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=25239&siteid=5014&jobid=6674182#jobDetails=6674182_5014) | Mooresville| |
 |[Path AI](https://www.pathai.com/careers/4851472002?gh_jid=4851472002) | Boston, MA | |
-|[Splunk](https://www.splunk.com/en_us/careers/jobs/technical-residency-internship-summer-16138.html) | San Fran | |
+|[Splunk](https://www.splunk.com/en_us/careers/jobs/technical-residency-internship-summer-16138.html) | San Fran | Software Engineering [here](https://www.splunk.com/en_us/careers/jobs/software-engineer-intern-summer-16168.html) |
 |[Washington Post](https://docs.google.com/forms/d/e/1FAIpQLScwbYDTH-tE5yobarHzuYBqCGRVg6CTn01KCFaM9mG-4Ty_kA/viewform) | DC | Publishing Tools Internship [here](https://docs.google.com/forms/d/e/1FAIpQLSck3QDvOkBap9sbpVWaDDTw2UfzCPHq_Cx7bfySRtoMeH6-jg/viewform)|
 |[Thomson Reuters](https://jobs.thomsonreuters.com/ShowJob/Id/461138/Associate%20Software%20Engineer%20Intern%20%20%20Summer%202021) | Carrollton, TX | |
 |[Gatik](https://jobs.lever.co/gatik/363a3a47-a59c-49a3-9007-b1389db38969/apply?lever-source=PittCSC)|Palo Alto, CA | |
@@ -180,6 +180,8 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Plexus](https://plexus.wd5.myworkdayjobs.com/en-US/Plexus_Careers/job/Raleigh-NC/Intern---Software-Engineer---Summer-2021_R009830?source=PittCSC) | Raleigh, NC | |
 |[Goodyear](https://jobs.goodyear.com/job/San-Francisco-Global-Technology-Software-Engineering-Intern%2C-New-Ventures-Group-San-Francisco%2C-CA-CA-94101/673042000/?feedId=235900&utm_source=PittCSC) | SF | |
 |[KnowBe4](https://www.knowbe4.com/jobs?gh_jid=4858556002) | Clearwater, Florida | | 
+|[Gap](https://www.gapinc.com/en-us/jobs/33/85/undergrad-summer-internship-software-engineering?src=JB-10340&rx_source=PittCSC) | SF | |
+|[American Express](https://jobs.americanexpress.com/jobs/20006515?lang=en-us&previousLocale=en-US) | Various | |
 
 
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too! 🙏
