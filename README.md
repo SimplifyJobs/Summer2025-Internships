@@ -182,6 +182,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[KnowBe4](https://www.knowbe4.com/jobs?gh_jid=4858556002) | Clearwater, Florida | | 
 |[Gap](https://www.gapinc.com/en-us/jobs/33/85/undergrad-summer-internship-software-engineering?src=JB-10340&rx_source=PittCSC) | SF | |
 |[American Express](https://jobs.americanexpress.com/jobs/20006515?lang=en-us&previousLocale=en-US) | Various | |
+|[Postmates](https://join.postmates.com/careers?pid=1528316) | Remote | |
 
 
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too! 🙏
@@ -249,6 +250,6 @@ Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), 
 * [prithvikannan](https://github.com/prithvikannan)
 * [sunschong](https://github.com/sunschong)
 * [priyansdesai](https://github.com/priyansdesai)
-
+* [carolksun](https://github.com/carolksun)
 
 Thanks to [elaine-zheng](https://github.com/elaine-zheng/summer2020internships) for the inspiration! 🐐
