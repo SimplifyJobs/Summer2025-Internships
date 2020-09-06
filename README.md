@@ -183,7 +183,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Gap](https://www.gapinc.com/en-us/jobs/33/85/undergrad-summer-internship-software-engineering?src=JB-10340&rx_source=PittCSC) | SF | |
 |[American Express](https://jobs.americanexpress.com/jobs/20006515?lang=en-us&previousLocale=en-US) | Various | |
 |[Postmates](https://join.postmates.com/careers?pid=1528316) | Remote | |
-
+|[Silicon Labs](https://jobs.jobvite.com/silabs/job/oyymdfwp) | Austin, TX | |
 
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too! 🙏
 
