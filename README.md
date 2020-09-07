@@ -185,10 +185,11 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Silicon Labs](https://jobs.jobvite.com/silabs/job/oyymdfwp) | Austin, TX | |
 |[Blackstone](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Campus_Careers/job/New-York/XMLNAME-2021-Software-Developer-Summer-Analyst_12259) | NYC | |
 |[PEAK6](https://boards.greenhouse.io/capitalmanagement/jobs/2260071) | Chicago, IL | for those who identify as female, also have PM and trading intern positions|
+|[Oracle](https://oracle.taleo.net/careersection/3/jobdetail.ftl?job=20000POC) | Various | |
 
 
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too! 🙏
-
+* [phucks0612](https://github.com/phucks0612)
 * [slingam00](https://github.com/slingam00)
 * [spencerng](https://github.com/spencerng)
 * [julianzhao0101](https://github.com/julianzhao0101)
