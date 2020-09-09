@@ -190,6 +190,8 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Nike](https://jobs.nike.com/job/URSRCTECHUI21?from=PittCSC) | Beaverton, Oregon | |
 |[Uber](https://www.uber.com/global/en/careers/list/62848/) | SF | |
 |[iCims](https://careers.icims.com/jobs/22732?) | Holmdel, NJ | |
+|[Databricks](https://databricks.com/company/careers/open-positions/job?gh_jid=4780022002) | SF | |
+
 
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too! 🙏
 * [wcygan](https://github.com/wcygan)
