@@ -192,6 +192,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[iCims](https://careers.icims.com/jobs/22732?) | Holmdel, NJ | |
 
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too! 🙏
+* [wcygan](https://github.com/wcygan)
 * [phucks0612](https://github.com/phucks0612)
 * [slingam00](https://github.com/slingam00)
 * [spencerng](https://github.com/spencerng)
