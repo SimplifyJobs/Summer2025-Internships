@@ -188,6 +188,8 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Oracle](https://oracle.taleo.net/careersection/3/jobdetail.ftl?job=20000POC) | Various | |
 |[Verizon](https://www.verizon.com/about/work/jobs/5558860-software-development-summer-2021-internship) | San Jose, CA| |
 |[Nike](https://jobs.nike.com/job/URSRCTECHUI21?from=PittCSC) | Beaverton, Oregon | |
+|[Uber](https://www.uber.com/global/en/careers/list/62848/) | SF | |
+|[iCims](https://careers.icims.com/jobs/22732?) | Holmdel, NJ | |
 
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too! 🙏
 * [phucks0612](https://github.com/phucks0612)
