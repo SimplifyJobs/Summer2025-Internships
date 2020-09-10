@@ -196,6 +196,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Mitchell](https://careers-mitchell.icims.com/jobs/search?ss=1&searchKeyword=software+intern) | Coppell, Irvine, San Diego | |
 |[CME Group](https://jobs.cmegroup.com/jobs/5571787-software-engineering-internship-summer-2021?bid=305#start) | Chicago, IL | |
 |[Squarespace](https://www.squarespace.com/careers/jobs/2329528) | NYC | |
+|[Teradata](https://careers.teradata.com/jobs/208208/software-engineering-intern?sid=773&utm_source=PittCSC&utm_medium=jobslots&utm_campaign=linkedin_jobslots&source=773)| San Diego, CA | |
 
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too! 🙏
 * [wcygan](https://github.com/wcygan)
