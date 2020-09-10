@@ -191,7 +191,10 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Uber](https://www.uber.com/global/en/careers/list/62848/) | SF | |
 |[iCims](https://careers.icims.com/jobs/22732?) | Holmdel, NJ | |
 |[Databricks](https://databricks.com/company/careers/open-positions/job?gh_jid=4780022002) | SF | |
-
+|[Twilio](https://boards.greenhouse.io/twilio/jobs/2316944?utm_source=PittCSC) | SF | |
+|[C3.ai](https://boards.greenhouse.io/c3iot/jobs/4086849002?gh_src=PittCSC) | Redwood City, CA | |
+|[Mitchell](https://careers-mitchell.icims.com/jobs/search?ss=1&searchKeyword=software+intern) | Coppell, Irvine, San Diego | |
+|[CME Group](https://jobs.cmegroup.com/jobs/5571787-software-engineering-internship-summer-2021?bid=305#start) | Chicago, IL | |
 
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too! 🙏
 * [wcygan](https://github.com/wcygan)
