@@ -199,6 +199,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Teradata](https://careers.teradata.com/jobs/208210/software-engineering-intern)| San Diego, CA | |
 |[Thrivent](https://thrivent.wd5.myworkdayjobs.com/en-US/external/job/WI---Appleton/Software-Developer-Internship--Summer-2021_REQ-21517)| Appleton, WI; Minneapolis, MN
 |[Garmin](https://careers-us.garmin.com/us/en/job/200017Q/Software-Engineer-Intern-Brea-CA-Summer-2021) | Brea, CA | |
+|[memSQL](https://boards.greenhouse.io/memsql/jobs/2328598) | SF, Seattle | |
 
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too! 🙏
 * [wcygan](https://github.com/wcygan)
