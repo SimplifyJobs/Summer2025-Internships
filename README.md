@@ -268,5 +268,6 @@ Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), 
 * [priyansdesai](https://github.com/priyansdesai)
 * [carolksun](https://github.com/carolksun)
 * [amanuel2](https://github.com/amanuel2)
+* [camless](https://github.com/camless)
 
 Thanks to [elaine-zheng](https://github.com/elaine-zheng/summer2020internships) for the inspiration! 🐐
