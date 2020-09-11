@@ -190,7 +190,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Nike](https://jobs.nike.com/job/URSRCTECHUI21?from=PittCSC) | Beaverton, Oregon | |
 |[Uber](https://www.uber.com/global/en/careers/list/62848/) | SF | |
 |[iCims](https://careers.icims.com/jobs/22732?) | Holmdel, NJ | |
-|[Databricks](https://databricks.com/company/careers/open-positions/job?gh_jid=4780022002) | SF | |
+|[Databricks](https://databricks.com/company/careers/open-positions/job?gh_jid=4780022002) | SF |[Winter 2021 here](https://databricks.com/company/careers/open-positions/job?gh_jid=4868921002&gh_src=62a881d62#grnhse_app) |
 |[Twilio](https://boards.greenhouse.io/twilio/jobs/2316944?utm_source=PittCSC) | SF | |
 |[C3.ai](https://boards.greenhouse.io/c3iot/jobs/4086849002?gh_src=PittCSC) | Redwood City, CA | |
 |[Mitchell](https://careers-mitchell.icims.com/jobs/search?ss=1&searchKeyword=software+intern) | Coppell, Irvine, San Diego | |
