@@ -141,7 +141,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Ocient](http://www.ocient.com/careers?gh_jid=4105471003&gh_src=PittCSC) | Chicago, IL | Ocient is building the world's largest database. Ocient is looking for Software Engineers and Software Engineering Interns. |
 |[Anduril](https://jobs.lever.co/anduril/d15840b6-081b-4d4c-95ed-008d681b4f7f?utm_source=PittCSC)| Seattle, [Irvine](https://jobs.lever.co/anduril/a2d2991b-7106-4909-a0e0-b14f2d8d1ace?utm_source=PittCSC), [Boston](https://jobs.lever.co/anduril/7ccb543a-a233-4db9-8c1e-1cb8e5b27cd4?utm_source=PittCSC) |  Perception Intern [here](https://jobs.lever.co/anduril/9312d9f4-ce3b-43b8-b870-d86bfc838135); U.S. Person status may be required|
 |[Marvell](https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Software-Engineer---Flash-Firmware-Intern_2001010?source=PittCSC)| Santa Clara, CA | |
-|[Sony](https://boards.greenhouse.io/sonyinteractiveentertainmentplaystation/jobs/2309169)| Santa Monica | |
+|[Sony](https://boards.greenhouse.io/sonyinteractiveentertainmentplaystation/jobs/2309169)| Santa Monica |[Research Intern](https://sonyglobal.wd1.myworkdayjobs.com/en-US/SonyGlobalCareers/job/San-Jose/Intern---Advanced-Computer-Vision---Graphics-Research_JR-102445)| |
 |[Cubist](https://careers.point72.com/CSJobDetail?jobName=2021-cubist-software-engineering-internship-program&jobCode=CSS-0004136)| NY | |
 |[MongoDB](https://www.mongodb.com/careers/jobs/2309781) | NY, SF, Austin | |
 |[HP](https://careers.hpe.com/job/Hewlett-Packard-Enterprise-San-Jose-California/118653859) | San Jose | |
