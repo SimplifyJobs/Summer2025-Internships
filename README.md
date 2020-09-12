@@ -205,6 +205,10 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Activision](https://careers.activision.com/job/ACPUUSR003077EXTERNAL/Web-Development-Intern?utm_source=pittcsc) | Santa Monica | |
 |[Veeva](https://jobs.lever.co/veeva/066ef3bb-a24d-4c56-8f2b-2f3d1fcfafc8) | Pleasanton, CA | |
 |[SpaceX](https://boards.greenhouse.io/spacex/jobs/4867821002?gh_jid=4867821002) | Various | |
+|[InfoTech](https://recruiting.ultipro.com/INF1010INFT/JobBoard/a1f626ce-9a88-4c30-86ee-6562ee8ea030//OpportunityDetail?opportunityId=e61387c1-8afd-4373-9852-1e35d441ba85) | Gainesville, FL | |
+|[Tanium](https://www.tanium.com/careers/2291599?gh_jid=2291599) | Remote | |
+|[TuSimple](https://boards.greenhouse.io/tusimplerelocationjobs/jobs/4872685002) | Boston | MS/PhD|
+|[Cognite](https://apply.workable.com/cognite/j/577B0208A9/) | Houston | |
 
 
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too! 🙏
