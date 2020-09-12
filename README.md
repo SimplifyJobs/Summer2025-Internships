@@ -201,7 +201,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Garmin](https://careers-us.garmin.com/us/en/job/200017Q/Software-Engineer-Intern-Brea-CA-Summer-2021) | Brea, CA | |
 |[memSQL](https://boards.greenhouse.io/memsql/jobs/2328598) | SF, Seattle | |
 |[ASML](https://www.asml.com/en/careers/find-your-job/1/8/6/software-engineering-intern-san-joseasml-req18667?utm_source=PittCSC)| San Jose | |
-|[Sezzle](https://sezzle.com/careers?gh_jid=4170192003&gh_src=a2342cf63us)| Minneapolis, MN | |
+|[Sezzle](https://sezzle.com/careers?gh_jid=4170192003)| Minneapolis, MN | |
 
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too! 🙏
 * [5CoolKids](https://github.com/5CoolKids)
