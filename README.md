@@ -202,6 +202,10 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[memSQL](https://boards.greenhouse.io/memsql/jobs/2328598) | SF, Seattle | |
 |[ASML](https://www.asml.com/en/careers/find-your-job/1/8/6/software-engineering-intern-san-joseasml-req18667?utm_source=PittCSC)| San Jose | |
 |[Sezzle](https://sezzle.com/careers?gh_jid=4170192003)| Minneapolis, MN | |
+|[Activision](https://careers.activision.com/job/ACPUUSR003077EXTERNAL/Web-Development-Intern?utm_source=pittcsc) | Santa Monica | |
+|[Veeva](https://jobs.lever.co/veeva/066ef3bb-a24d-4c56-8f2b-2f3d1fcfafc8) | Pleasanton, CA | |
+|[SpaceX](https://boards.greenhouse.io/spacex/jobs/4867821002?gh_jid=4867821002) | Various | |
+
 
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too! 🙏
 * [5CoolKids](https://github.com/5CoolKids)
