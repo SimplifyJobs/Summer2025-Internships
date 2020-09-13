@@ -209,6 +209,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Tanium](https://www.tanium.com/careers/2291599?gh_jid=2291599) | Remote | |
 |[TuSimple](https://boards.greenhouse.io/tusimplerelocationjobs/jobs/4872685002) | Boston | MS/PhD|
 |[Cognite](https://apply.workable.com/cognite/j/577B0208A9/) | Houston | |
+|[Slack](https://slack.com/careers/2322106/software-engineering-internship) | Remote | |
 
 
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too! 🙏
