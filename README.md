@@ -212,6 +212,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Slack](https://slack.com/careers/2322106/software-engineering-internship) | Remote | |
 |[DoorDash](https://boards.greenhouse.io/doordash/jobs/2333469/) | SF | |
 |[Waymo](https://waymo.com/joinus/2331718/) | Mtn View | Trucking pos [here](https://waymo.com/joinus/2331572/) | 
+|[Pure Storage](https://boards.greenhouse.io/purestorage/jobs/2322782/) | Mountain View | Software Engineering |
 
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too! 🙏
 * [5CoolKids](https://github.com/5CoolKids)
