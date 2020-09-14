@@ -221,6 +221,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Viasat](https://careers.viasat.com/careers/FolderDetail/Software-Engineer-Intern/5765) | Carlsbad, CA | Must be a U.S. citizen, lawful permanent resident of the U.S., protected individual, or eligible to obtain the required authorizations from the U.S. Department of State |
 |[Barclays](https://joinus.barclays/americas/internships/developer-summer-analyst) | Whippany, NJ | More positions [here](https://barclays.taleo.net/careersection/12/jobsearch.ftl?lang=en_GB)|
 |[Anyscale](https://jobs.lever.co/anyscale/31505685-4719-44c5-b7d1-e8409b233da5) | SF | |
+|[Paylocity](https://www.paylocity.com/careers/career-opportunities/early-career/?jobId=4130) | Schaumberg, IL | Data Science [here](https://www.paylocity.com/careers/career-opportunities/early-career/?jobId=4175) | |
 
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too! 🙏
 * [5CoolKids](https://github.com/5CoolKids)
