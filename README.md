@@ -218,6 +218,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Lucid](https://jobs.lever.co/golucid/299bbfd0-f189-4777-97da-b97b1aaa6052) | Salt Lake City ,UT | |
 |[Addepar](https://boards.greenhouse.io/addepar1/jobs/4796909002) | Remote | |
 |[Deliverr](https://deliverr.com/career/?gh_jid=4003370003) | SF | |
+|[Viasat](https://careers.viasat.com/careers/FolderDetail/Software-Engineer-Intern/5765) | Carlsbad, CA | |
 
 
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too! 🙏
