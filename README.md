@@ -204,7 +204,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Sezzle](https://sezzle.com/careers?gh_jid=4170192003)| Minneapolis, MN | |
 |[Activision](https://careers.activision.com/job/ACPUUSR003077EXTERNAL/Web-Development-Intern?utm_source=pittcsc) | Santa Monica | |
 |[Veeva](https://jobs.lever.co/veeva/066ef3bb-a24d-4c56-8f2b-2f3d1fcfafc8) | Pleasanton, CA | |
-|[SpaceX](https://boards.greenhouse.io/spacex/jobs/4867821002?gh_jid=4867821002) | Various | |
+|[SpaceX](https://boards.greenhouse.io/spacex/jobs/4867821002?gh_jid=4867821002) | Various |Must be a U.S. citizen, lawful permanent resident of the U.S., protected individual, or eligible to obtain the required authorizations from the U.S. Department of State|
 |[InfoTech](https://recruiting.ultipro.com/INF1010INFT/JobBoard/a1f626ce-9a88-4c30-86ee-6562ee8ea030//OpportunityDetail?opportunityId=e61387c1-8afd-4373-9852-1e35d441ba85) | Gainesville, FL | |
 |[Tanium](https://www.tanium.com/careers/2291599?gh_jid=2291599) | Remote | |
 |[TuSimple](https://boards.greenhouse.io/tusimplerelocationjobs/jobs/4872685002) | Boston | MS/PhD|
