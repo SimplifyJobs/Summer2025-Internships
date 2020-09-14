@@ -125,7 +125,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Walmart](https://careers.walmart.com/us/jobs/WD298108-summer-2021-tech-internship)| Bentonville, AR | |
 |[Wolverine Trading](https://chu.tbe.taleo.net/chu01/ats/careers/v2/viewRequisition?org=WOLVE&cws=37&rid=310) | Chicago, IL | |
 |[Coupang](https://boards.greenhouse.io/coupang/jobs/2080981) | Mountain View, California | |
-|[Coinbase](https://www.coinbase.com/careers/positions/1724656) | Remote  | |
+|Coinbase| Remote  | Closed |
 |[Toyota](https://www.toyotaconnected.com/job?gh_jid=4421992002&did=4040990002) | Plano, TX | |
 |[Verkada](https://jobs.lever.co/verkada/be7c6f86-62ec-45e7-b1ad-6af6b4acd38d) | San Mateo, CA | Front End, [Back End](https://jobs.lever.co/verkada/fcfb0cde-9e89-4be9-8df5-e35e11430297), [Comp Vision](https://jobs.lever.co/verkada/be4d736c-9319-4223-b9f2-9f892bf67d85), [Embedded Systems](https://jobs.lever.co/verkada/170f77fc-25c2-4594-8844-6e89c1f0ef91), [Mobile Engineering](https://jobs.lever.co/verkada/c58803d1-33ef-44af-a519-921b19e7691f)|
 |[Nvidia](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Austin/Software-Engineering-Intern--Developer-Tools---Summer-2021_JR1933363-1)| Austin, Westford, Redmond, Champaign, Santa Clara | |
