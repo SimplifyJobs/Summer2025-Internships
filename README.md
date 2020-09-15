@@ -42,7 +42,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Neeva](https://jobs.lever.co/neeva/6111dabf-6e9c-4230-b780-d879f7bf63f3/apply?lever-source=PittCSC)| Mountain View, CA | |
 |[Squarepoint Capital](https://www.squarepoint-capital.com/job#462517) | NY, London, Singapore, Montreal | |
 |[Cambly](https://jobs.lever.co/cambly/96ea4732-5f6a-4027-9695-20cbb650bede/apply?lever-source=PittCSC) | San Francisco | |
-|Nuro | Mountain View | Closed ~~Have more internships here ~~ |
+|Nuro | Mountain View | Closed Have more internships here  |
 |[Two Sigma](https://careers.twosigma.com/careers/JobDetail?jobId=6666&source=PittCSC)| New York NY | |
 |[Zapata Computing](https://zapata.bamboohr.com/jobs/view.php?id=67&source=pittcsc) | Boston, MA| |
 |[National Security Agency](https://apply.intelligencecareers.gov/job-description/1145701?fbclid=IwAR0m_4RIc9BsP0VvR4kN139YN4IMN63xIfOKob3pnv6nWKqit3ZFjD4SOFE) | Fort Meade, MD | The application period runs from 1 May - 15 October 2020 |
@@ -212,7 +212,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Slack](https://slack.com/careers/2322106/software-engineering-internship) | Remote | |
 |[DoorDash](https://boards.greenhouse.io/doordash/jobs/2333469/) | SF | |
 |[Waymo](https://waymo.com/joinus/2331718/) | Mtn View | Trucking pos [here](https://waymo.com/joinus/2331572/) | 
-|[Pure Storage](https://boards.greenhouse.io/purestorage/jobs/2322782/) | Mountain View | Software Engineering |
+|Pure Storage | Mountain View | **Closed** Software Engineering |
 |[New Relic](https://jobs.jobvite.com/newrelic/job/oi9pdfwN) | Portland | |
 |[Kensho](https://jobs.lever.co/kensho/6d510556-b646-4af6-aad5-227625d9727d) | Cambridge | [Front End](https://jobs.lever.co/kensho/312ae842-2798-4021-b76f-33e11c504d71), [Query Infrastructure](https://jobs.lever.co/kensho/f1d84d9a-c754-4f7f-97d4-b87443fb2e60) |
 |[Lucid](https://jobs.lever.co/golucid/299bbfd0-f189-4777-97da-b97b1aaa6052) | Salt Lake City ,UT | |
