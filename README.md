@@ -217,7 +217,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Kensho](https://jobs.lever.co/kensho/6d510556-b646-4af6-aad5-227625d9727d) | Cambridge | [Front End](https://jobs.lever.co/kensho/312ae842-2798-4021-b76f-33e11c504d71), [Query Infrastructure](https://jobs.lever.co/kensho/f1d84d9a-c754-4f7f-97d4-b87443fb2e60) |
 |[Lucid](https://jobs.lever.co/golucid/299bbfd0-f189-4777-97da-b97b1aaa6052) | Salt Lake City ,UT | |
 |[Addepar](https://boards.greenhouse.io/addepar1/jobs/4796909002) | Remote | |
-|[Deliverr](https://deliverr.com/career/?gh_jid=4003370003) | SF | |
+| Deliverr | SF | |
 |[Viasat](https://careers.viasat.com/careers/FolderDetail/Software-Engineer-Intern/5765) | Carlsbad, CA | Must be a U.S. citizen, lawful permanent resident of the U.S., protected individual, or eligible to obtain the required authorizations from the U.S. Department of State |
 |[Barclays](https://joinus.barclays/americas/internships/developer-summer-analyst) | Whippany, NJ | More positions [here](https://barclays.taleo.net/careersection/12/jobsearch.ftl?lang=en_GB)|
 |[Anyscale](https://jobs.lever.co/anyscale/31505685-4719-44c5-b7d1-e8409b233da5) | SF | |
