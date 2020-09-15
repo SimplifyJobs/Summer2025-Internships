@@ -223,6 +223,9 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Anyscale](https://jobs.lever.co/anyscale/31505685-4719-44c5-b7d1-e8409b233da5) | SF | |
 |[Paylocity](https://www.paylocity.com/careers/career-opportunities/early-career/?jobId=4130) | Schaumberg, IL | Data Science [here](https://www.paylocity.com/careers/career-opportunities/early-career/?jobId=4175) | |
 |[Pinterest](https://www.pinterestcareers.com/jobs/software-engineering-intern-palo-alto-california-united-states) | San Francisco, Palo Alto, Seattle, Toronto | | 
+|[Starbucks](https://starbucks.taleo.net/careersection/1000222intern/jobdetail.ftl?job=200004140) | Scottsdale, AZ | |
+|[esri](https://www.esri.com/careers/software-development-and-engineering-2021-internships-13003 | Redlands Vienna, VA Denver Arlington Portland (Maine and Oregon) | |
+
 
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too! 🙏
 * [5CoolKids](https://github.com/5CoolKids)
