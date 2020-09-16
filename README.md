@@ -224,9 +224,12 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Paylocity](https://www.paylocity.com/careers/career-opportunities/early-career/?jobId=4130) | Schaumberg, IL | Data Science [here](https://www.paylocity.com/careers/career-opportunities/early-career/?jobId=4175) | |
 |[Pinterest](https://www.pinterestcareers.com/jobs/software-engineering-intern-palo-alto-california-united-states) | San Francisco, Palo Alto, Seattle, Toronto | | 
 |[esri](https://www.esri.com/careers/software-development-and-engineering-2021-internships-13003) | Redlands Vienna, VA Denver Arlington Portland (Maine and Oregon) | |
-
+|[NextDoor](https://about.nextdoor.com/careers-list/?gh_jid=2337637) | SF | |
+|[Gusto](https://boards.greenhouse.io/gusto/jobs/2315797) | SF, Devner, NYC | |
+|[Dick's](https://www.dickssportinggoods.jobs/jobs/11371261/software-engineering-intern-summer-2021-coraopolis-pa/?src=PittCSC) | Pittsburgh | |
 
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too! 🙏
+* [warfororks](https://github.com/warfororks)
 * [5CoolKids](https://github.com/5CoolKids)
 * [wcygan](https://github.com/wcygan)
 * [phucks0612](https://github.com/phucks0612)
