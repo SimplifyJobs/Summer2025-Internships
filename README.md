@@ -227,6 +227,9 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[NextDoor](https://about.nextdoor.com/careers-list/?gh_jid=2337637) | SF | |
 |[Gusto](https://boards.greenhouse.io/gusto/jobs/2315797) | SF, Devner, NYC | |
 |[Dick's](https://www.dickssportinggoods.jobs/jobs/11371261/software-engineering-intern-summer-2021-coraopolis-pa/?src=PittCSC) | Pittsburgh | |
+|[SK Hynix](http://jobs.jobvite.com/careers/sk-hynix-memory-solutions/job/ohapbfwL/) | San Jose | |
+|[AutoDesk](https://autodesk.wd1.myworkdayjobs.com/en-US/uni/job/California-USA---Remote/Intern--Software-Engineer_20WD43226-1)| California, Michigan, Massachusetts, Oregon | |
+
 
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too! 🙏
 * [warfororks](https://github.com/warfororks)
