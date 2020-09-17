@@ -229,6 +229,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Dick's](https://www.dickssportinggoods.jobs/jobs/11371261/software-engineering-intern-summer-2021-coraopolis-pa/?src=PittCSC) | Pittsburgh | |
 |[SK Hynix](http://jobs.jobvite.com/careers/sk-hynix-memory-solutions/job/ohapbfwL/) | San Jose | |
 |[AutoDesk](https://autodesk.wd1.myworkdayjobs.com/en-US/uni/job/California-USA---Remote/Intern--Software-Engineer_20WD43226-1)| California, Michigan, Massachusetts, Oregon | |
+|[Strava](https://boards.greenhouse.io/strava/jobs/2336808) | San Francisco | iOS, [Android](https://boards.greenhouse.io/strava/jobs/2336822), [Platform](https://boards.greenhouse.io/strava/jobs/2336973), [Server](https://boards.greenhouse.io/strava/jobs/2336895) positions | |
 |[Riot Games](https://www.riotgames.com/en/work-with-us/job/2337878/software-engineer-intern-los-angeles-usa)| Los Angeles | More positions [here](https://www.riotgames.com/en/university-programs) |
 
 
