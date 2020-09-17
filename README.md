@@ -29,7 +29,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Jane Street](https://www.janestreet.com/join-jane-street/position/4787572002/)| New York | |
 |[NASA](https://nasa.force.com/s/login/)| Various | Requires US Citizenship |
 |[PDT Partners](https://www.pdtpartners.com/jobs.html?gh_jid=1372119)| New York | |
-|[Point72](https://careers.point72.com/CSJobDetail?jobName=2021-academy-summer-internship-new-york&jobCode=CPA-0005726&retURL=/CSCareerSearch)| New York | Analyst Academy|
+|Point72 | New York | **Closed** Analyst Academy|
 |Bracebridge Capital|Boston|Closed|
 |[Jump Trading](https://www.jumptrading.com/apply.html?gh_jid=1847191)| Chicago | |
 |[BNP Paribas](https://bnppus.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/xf-e678f51d2aa2/candidate/so/pm/1/pl/2/opp/376-2021-Summer-Analyst-Internship-Technology/en-GB#)| New York | |
@@ -121,7 +121,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[SIG](https://careers.sig.com/job/SUSQA004Y4604/Trading-Intern) | Bala Cynwyd, PA | Trading, SWE [here](https://careers.sig.com/job/SUSQA004Y4957/Software-Engineering-Internship-Program) |
 |[Stonebranch](https://www.stonebranch.com/careers/job-detail/software-engineer-intern-6/) | Alpharetta, GA | |
 |[Mathworks](https://www.mathworks.com/company/jobs/opportunities/10071-edg-intern-bachelor-computer-science-majors?keywords=intern&location%5B%5D=US) | Natick, MA | |
-|[Samsara](https://www.linkedin.com/jobs/view/1987007094) | San Francisco | Software Engineering |
+|[Samsara](https://boards.greenhouse.io/samsara/jobs/1818392?gh_src=PittCSC) | San Francisco | Software Engineering |
 |[Walmart](https://careers.walmart.com/us/jobs/WD298108-summer-2021-tech-internship)| Bentonville, AR | |
 |[Wolverine Trading](https://chu.tbe.taleo.net/chu01/ats/careers/v2/viewRequisition?org=WOLVE&cws=37&rid=310) | Chicago, IL | |
 |[Coupang](https://boards.greenhouse.io/coupang/jobs/2080981) | Mountain View, California | |
