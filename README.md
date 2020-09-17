@@ -82,7 +82,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |Platform9| Mountain View | **Closed** |
 |[HubSpot](https://www.hubspot.com/careers/jobs/807207?hubs_signup-cta=careers-apply) | Cambridge, MA | |
 |[Stripe](https://stripe.com/jobs/search?s=intern) | Seattle, NYC, San Francisco | |
-|[Zipline](https://flyzipline.com/careers/job/4114464003?gh_jid=4114464003) | San Francisco | |
+|Zipline | San Francisco | **Closed** |
 |[Citi](https://citi.avature.net/careers/ProjectDetail/Dallas-Texas-United-States-NAM-Global-Consumer-Technology-Summer-Analyst-Dallas-North-America-2021-/10675) | North America | |
 |Google| Various | **Closed**, see issue [#120](https://github.com/Pitt-CSC/Summer2021-Internships/issues/120) |
 |[Qualcomm](https://qualcomm.wd5.myworkdayjobs.com/en-US/External/job/San-Diego/IT-Internship---Summer-2021_3001435)| San Diego | Also available [Hardware Engineering](https://qualcomm.wd5.myworkdayjobs.com/en-US/External/job/San-Diego/Hardware-Engineering-Internship--Summer-2021-_3001376), [Systems Engineering](https://qualcomm.wd5.myworkdayjobs.com/en-US/External/job/San-Diego/Systems-Engineering-Internship--Summer-2021-_3001377), and [Embedded Software Engineering](https://qualcomm.wd5.myworkdayjobs.com/en-US/External/job/San-Diego/Embedded-Software-Engineering-Internship--Summer-2021-_3001371) |
