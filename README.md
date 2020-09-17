@@ -92,7 +92,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Medtronic](https://jobs.medtronic.com/jobs/computer-science-internship%E2%80%93summer-2021-81742)| Minneapolis, Minnesota | |
 |[Clever](https://clever.com/about/careers/detail?gh_jid=6194&gh_src=PittCSC)| San Francisco, CA | |
 |[Salesforce](https://salesforce.wd1.myworkdayjobs.com/en-US/Futureforce_Internships/job/California---San-Francisco/Summer-2021-Intern---Software-Engineer_JR68839?d=cta-summer-view-sjb-1) | Various | |
-|[Workiva](https://workiva.wd1.myworkdayjobs.com/en-US/careers/job/Scottsdale/Summer-2021---Software-Engineering-Intern_R560?source=PittCSC) | Scottsdale, AZ | |
+|[Workiva](https://workiva.wd1.myworkdayjobs.com/en-US/careers/job/Scottsdale/Summer-2021---Software-Engineering-Intern_R560?source=PittCSC) | Scottsdale, AZ | Must be authorized to work in the United States and not require sponsorship now or in the future|
 |[Figma](https://jobs.lever.co/figma/4fe2557e-3ac3-49ea-8330-9e6c49493f8e) | San Francisco, CA | |
 |[Patreon](https://boards.greenhouse.io/patreon/jobs/2294211?gh_src=PittCSC) | San Francisco, CA | |
 |[Kohl's](https://careers.kohls.com/internships/technology-jobs#software-engineer-intern) | Milwaukee, Milpitas | Various positions|  
@@ -121,7 +121,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[SIG](https://careers.sig.com/job/SUSQA004Y4604/Trading-Intern) | Bala Cynwyd, PA | Trading, SWE [here](https://careers.sig.com/job/SUSQA004Y4957/Software-Engineering-Internship-Program) |
 |[Stonebranch](https://www.stonebranch.com/careers/job-detail/software-engineer-intern-6/) | Alpharetta, GA | |
 |[Mathworks](https://www.mathworks.com/company/jobs/opportunities/10071-edg-intern-bachelor-computer-science-majors?keywords=intern&location%5B%5D=US) | Natick, MA | |
-|[Samsara](https://boards.greenhouse.io/samsara/jobs/1818392?gh_src=PittCSC) | San Francisco, [Atlanta](https://boards.greenhouse.io/samsara/jobs/1818452?t=PittCSC) | Software Engineering, [Data Science](https://boards.greenhouse.io/samsara/jobs/2308649?t=PittCSC) |
+|[Samsara](https://boards.greenhouse.io/samsara/jobs/1818392?gh_src=PittCSC) | San Francisco | Software Engineering |
 |[Walmart](https://careers.walmart.com/us/jobs/WD298108-summer-2021-tech-internship)| Bentonville, AR | |
 |[Wolverine Trading](https://chu.tbe.taleo.net/chu01/ats/careers/v2/viewRequisition?org=WOLVE&cws=37&rid=310) | Chicago, IL | |
 |[Coupang](https://boards.greenhouse.io/coupang/jobs/2080981) | Mountain View, California | |
