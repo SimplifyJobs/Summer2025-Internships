@@ -233,6 +233,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Riot Games](https://www.riotgames.com/en/work-with-us/job/2337878/software-engineer-intern-los-angeles-usa)| Los Angeles | More positions [here](https://www.riotgames.com/en/university-programs) |
 |[GoDaddy](https://boards.greenhouse.io/godaddyevents/jobs/4168469003) | Tempe | |
 |[TerraSim, Inc.](https://apply.workable.com/bohemia-interactive-simulations-inc/j/3822C827D7/) | Pittsburgh | |
+|[Indeed](https://indeed.avature.net/SWEintern) | Various | |
 
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too! 🙏
 * [warfororks](https://github.com/warfororks)
