@@ -113,7 +113,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[General Electric](https://jobs.gecareers.com/global/en/job/3495072/Digital-Technology-Intern-2021)| Various| |
 |[Raytheon](https://jobs.rtx.com/search-jobs) | Various | Click on Filter > Job Type > Intern, US Citizenship required|
 |[Johnson & Johnson](https://jobs.jnj.com/jobs/0438200814?lang=en-us) | Horsham, Pennsylvania; West Chester, Pennsylvania; Various | Permanent Work Authorization in the US required|
-|[ARM](https://careers.peopleclick.com/careerscp/client_arm/external/en-us/gateway.do?functionName=viewFromLink&jobPostId=47304&localeCode=en-us) | Austin, TX; San Jose, CA; Boston, MA | |
+|ARM| Austin, TX; San Jose, CA; Boston, MA | Closed |
 |[Amazon Web Services](https://www.amazon.jobs/en/jobs/1247291/2021-summer-software-development-engineer-intern-was) | Virginia | Requires US Citizenship and Clearance. [Seattle](https://www.amazon.jobs/en/jobs/1246606/2021-summer-software-development-engineer-intern-sea)|
 |[SurveyMonkey](https://www.wayup.com/i-Internet-j-Software-Engineer-Intern-Summer-2021-SurveyMonkey-601778092934439/) | San Mateo, Portland, Seattle  | |
 |[Tesla](https://www.tesla.com/careers/job/software-fullstackengineeringinternshipspringand-orsummer2021-68849)|Fremont, Palo Alto, Bellevue, others| More [here](https://www.tesla.com/careers/search#/?keyword=intern&department=3&region=5) |
