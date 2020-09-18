@@ -18,6 +18,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Credit Suisse](https://tas-creditsuisse.taleo.net/careersection/campus/jobdetail.ftl?job=150202&lang=en) | New York, NY | |
 |[D.E. Shaw](https://www.deshaw.com/careers/software-developer-intern-new-york-4018) | New York | |
 |[DRW](https://drw.com/careers/listings/?language=English&category=Campus&location=Chicago) |  Chicago | Software Development, Quant Trader, Quant Research Intern|
+|[Epic Systems](https://epic.avature.net/Careers/FolderDetail/Software-Developer-Intern---Summer-2021/19231) |  Minneapolis, Madison, Rochester,MN | Software Engineering Intern|
 |[Facebook](https://www.facebook.com/careers/jobs/654496918442526/)| Various | |
 |[Five Rings Capital](https://fiverings.com/apply/)| New York | Quant Trading, Quant Research, Software Development|
 |[Goldman Sachs](https://www.goldmansachs.com/careers/students/programs/americas/summer-analyst-program.html)| Various  ||
