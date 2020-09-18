@@ -238,6 +238,9 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Credera](https://www.credera.com/careers/students/jobs/2266638) | Various | |
 |[Toast](https://careers.toasttab.com/?url=job&gh_jid=2340306) | Boston, MA | |
 |[Spotify](https://www.spotifyjobs.com/job/full-stack-engineer-summer-internship/) | [New York](https://jobs.lever.co/spotify/?commitment=Internship&location=New%20York%2C%20NY&department=Students), [Boston](https://jobs.lever.co/spotify/?commitment=Internship&location=Boston%2C%20MA&department=Students) | |
+|[Smith Micro](https://jobs.lever.co/smithmicro/47b315f1-e798-4139-abd1-35da544a02b3)|Pittsburgh, PA|Mobile Applications, Enterprise and Consumer software|
+|[Cadence](https://www.cadence.com/en_US/home/company/careers/interns-and-new-grads.html)| San Jose CA, Pittsburgh PA, Boston MA| Software and Electrical Engineering services| 
+
 
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too! 🙏
 * [warfororks](https://github.com/warfororks)
@@ -312,5 +315,6 @@ Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), 
 * [camless](https://github.com/camless)
 * [ayoung19](https://github.com/ayoung19)
 * [aabosh](https://github.com/aabosh)
+* [maxgravitte](https://github.com/maxgravitte)
 
 Thanks to [elaine-zheng](https://github.com/elaine-zheng/summer2020internships) for the inspiration! 🐐
