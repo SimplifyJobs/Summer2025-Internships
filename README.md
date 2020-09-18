@@ -80,7 +80,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Cargill](https://cargill.taleo.net/careersection/10240/jobdetail.ftl?tz=GMT-05%3A00&job=UNI05923&utm_source=PittCSC)| Hopkins, MN | |
 |[Dropbox](https://www.dropbox.com/jobs/listing/2265990?gh_jid=2265990) | San Francisco | |
 |Platform9| Mountain View | **Closed** |
-|[HubSpot](https://www.hubspot.com/careers/jobs/807207?hubs_signup-cta=careers-apply) | Cambridge, MA | |
+|[HubSpot](https://www.hubspot.com/careers/jobs/2319369?hubs_signup-cta=careers-apply) | Cambridge, MA | |
 |[Stripe](https://stripe.com/jobs/search?s=intern) | Seattle, NYC, San Francisco | |
 |Zipline | San Francisco | **Closed** |
 |[Citi](https://citi.avature.net/careers/ProjectDetail/Dallas-Texas-United-States-NAM-Global-Consumer-Technology-Summer-Analyst-Dallas-North-America-2021-/10675) | North America | |
