@@ -224,14 +224,14 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Paylocity](https://www.paylocity.com/careers/career-opportunities/early-career/?jobId=4130) | Schaumberg, IL | Data Science [here](https://www.paylocity.com/careers/career-opportunities/early-career/?jobId=4175) | |
 |[Pinterest](https://www.pinterestcareers.com/jobs/software-engineering-intern-palo-alto-california-united-states) | San Francisco, Palo Alto, Seattle, Toronto | | 
 |[esri](https://www.esri.com/careers/software-development-and-engineering-2021-internships-13003) | Redlands Vienna, VA Denver Arlington Portland (Maine and Oregon) | |
-|[NextDoor](https://about.nextdoor.com/careers-list/?gh_jid=2337637) | SF | |
+| NextDoor | SF | |
 |[Gusto](https://boards.greenhouse.io/gusto/jobs/2315797) | SF, Devner, NYC | |
 |[Dick's](https://www.dickssportinggoods.jobs/jobs/11371261/software-engineering-intern-summer-2021-coraopolis-pa/?src=PittCSC) | Pittsburgh | |
 |[SK Hynix](http://jobs.jobvite.com/careers/sk-hynix-memory-solutions/job/ohapbfwL/) | San Jose | |
 |[AutoDesk](https://autodesk.wd1.myworkdayjobs.com/en-US/uni/job/California-USA---Remote/Intern--Software-Engineer_20WD43226-1)| California, Michigan, Massachusetts, Oregon | |
 |[Strava](https://boards.greenhouse.io/strava/jobs/2336808) | San Francisco | iOS, [Android](https://boards.greenhouse.io/strava/jobs/2336822), [Platform](https://boards.greenhouse.io/strava/jobs/2336973), [Server](https://boards.greenhouse.io/strava/jobs/2336895) positions | |
 |[Riot Games](https://www.riotgames.com/en/work-with-us/job/2337878/software-engineer-intern-los-angeles-usa)| Los Angeles | More positions [here](https://www.riotgames.com/en/university-programs) |
-|[GoDaddy](https://boards.greenhouse.io/godaddyevents/jobs/4168469003) | Tempe | |
+|GoDaddy| Tempe | |
 |[TerraSim, Inc.](https://apply.workable.com/bohemia-interactive-simulations-inc/j/3822C827D7/) | Pittsburgh | US Citizenship required|
 |[Indeed](https://indeed.avature.net/SWEintern) | Various | |
 |[Epic Systems](https://epic.avature.net/Careers/FolderDetail/Software-Developer-Intern---Summer-2021/19231) |  Minneapolis, Madison, Rochester,MN | Software Engineering Intern|
