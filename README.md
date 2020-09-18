@@ -186,7 +186,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Blackstone](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Campus_Careers/job/New-York/XMLNAME-2021-Software-Developer-Summer-Analyst_12259) | NYC | |
 |[PEAK6](https://boards.greenhouse.io/capitalmanagement/jobs/2260071) | Chicago, IL | for those who identify as female, also have PM and trading intern positions|
 |[Oracle](https://oracle.taleo.net/careersection/3/jobdetail.ftl?job=20000POC) | Various | |
-|[Verizon](https://www.verizon.com/about/work/jobs/5558860-software-development-summer-2021-internship) | San Jose, CA| |
+|[Verizon](https://www.verizon.com/about/work/jobs/5558860-software-development-summer-2021-internship) | San Jose, CA| Requires authorization to work in the U.S. without restrictions or need for future sponsorship|
 |[Nike](https://jobs.nike.com/job/URSRCTECHUI21?from=PittCSC) | Beaverton, Oregon | |
 |[Uber](https://www.uber.com/global/en/careers/list/62848/) | SF | |
 |[iCims](https://careers.icims.com/jobs/22732?) | Holmdel, NJ | |
