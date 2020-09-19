@@ -26,6 +26,7 @@ jobs:
     - shell: bash
       env:
         CREDS: ${{ secrets.GOOGLE_SHEETS_API_JSON }}
+        PASS: ${{ secrets.EMAIL_PASSWORD }}
       run: |
         echo "$CREDS" > gcred.json
     # Send Email
