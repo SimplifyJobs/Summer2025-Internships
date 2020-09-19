@@ -242,6 +242,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Cadence](https://www.cadence.com/en_US/home/company/careers/interns-and-new-grads.html)| San Jose CA, Pittsburgh PA, Boston MA| Software and Electrical Engineering services| 
 |[Ford](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25385&siteid=5311&PageType=searchResults&SearchType=linkquery&LinkID=3974233#jobDetails=496624_5311)| Dearborn, MI| | 
 |[ThoughtSpot](https://www.thoughtspot.com/careers-listing?gh_jid=2330567) | Sunnyvale, CA | |
+|[Unity](https://careers.unity.com/position/calling-all-2020-grace-hopper-conference/2282055?gh_src=ilfw6o) | San Francisco, CA | For GHC Attendees |
 
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too! 🙏
 * [bwubrian](https://github.com/bwubrian)
