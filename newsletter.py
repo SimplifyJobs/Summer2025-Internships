@@ -5,7 +5,7 @@ from bs4 import BeautifulSoup
 import os
 
 GOOGLE_CREDENTIALS_FILE = './gcred.json'
-POSTING_SHEET_ID = "1TxQ_LSjOokvNnxyjlUpewA9Iq7F7Uknv0a6mh8dOQOk"
+EMAIL_SHEET_ID = "1TxQ_LSjOokvNnxyjlUpewA9Iq7F7Uknv0a6mh8dOQOk"
 
 def parse_markdown_to_html_table():
     """ Parse README.md, convert to HTML, return table """
@@ -18,7 +18,7 @@ def parse_markdown_to_html_table():
 print("Connecting to Google Sheet...")
 gc = gspread.service_account(filename=GOOGLE_CREDENTIALS_FILE)
 
-sh = gc.open_by_key(POSTING_SHEET_ID)
+sh = gc.open_by_key('1bJq7YQV19TWyzPCBeQi5P4uOm8uiAAm2AHCnVNGRIDg')
 posting_sheet = sh.get_worksheet(0)
 
 # parse the table from the google sheet
@@ -45,6 +45,7 @@ import smtplib, ssl
 from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
 
+sh = gc.open_by_key(EMAIL_SHEET_ID)
 email_sheet = sh.get_worksheet(1)
 names = email_sheet.col_values(2)[1:]
 sub_emails = email_sheet.col_values(3)[1:]
