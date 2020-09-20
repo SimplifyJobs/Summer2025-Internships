@@ -243,6 +243,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Ford](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25385&siteid=5311&PageType=searchResults&SearchType=linkquery&LinkID=3974233#jobDetails=496624_5311)| Dearborn, MI| | 
 |[ThoughtSpot](https://www.thoughtspot.com/careers-listing?gh_jid=2330567) | Sunnyvale, CA | |
 |[Blizzard](https://careers.blizzard.com/global/en/job/R003243/Software-Engineering-Internship) | Irvine, CA | [SRE](https://careers.blizzard.com/global/en/job/R003244/Site-Reliability-Engineering-Internship), [Data Science](https://careers.blizzard.com/global/en/job/R003193/Data-Science-Internship), [Security](https://careers.blizzard.com/global/en/job/R003289/Security-Engineering-Internship), [Game Dev](https://careers.blizzard.com/global/en/job/R003252/Game-Development-Engineering-Internship) |
+|[Spectrum](https://jobs.spectrum.com/job/greenwood-village/2021-summer-intern-engineering/4673/17260817) | Greenwood Village, CO | |
 
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too! 🙏
 * [bwubrian](https://github.com/bwubrian)
