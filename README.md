@@ -171,7 +171,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Gatik](https://jobs.lever.co/gatik/363a3a47-a59c-49a3-9007-b1389db38969/apply?lever-source=PittCSC)|Palo Alto, CA | |
 |[Cockroach Labs](https://www.cockroachlabs.com/careers/job/?gh_jid=2156732) | NYC | |
 |[Roblox](https://corp.roblox.com/careers/listing/?gh_jid=2311474)|San Mateo, CA | |
-|[Domo](https://boards.greenhouse.io/domo/jobs/2318147) | American Fork, UT | |
+|Domo| American Fork, UT | |
 |[Statefarm](https://findjobs.statefarm.com/ShowJob/Id/460685/Intern%20%20%20Technology) | Various | |
 |[Samsung](https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/3900-N-Capital-of-Texas-Hwy-Austin-TX-USA/Software-Engineering-Intern_R31357) | Austin, San Jose | |
 |[Expedia](https://lifeatexpediagroup.com/jobs/job?jobid=R-55588) | Seattle, WA | |
@@ -234,7 +234,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |GoDaddy| Tempe | |
 |[TerraSim, Inc.](https://apply.workable.com/bohemia-interactive-simulations-inc/j/3822C827D7/) | Pittsburgh | US Citizenship required|
 |[Indeed](https://indeed.avature.net/SWEintern) | Various | |
-|[Epic Systems](https://epic.avature.net/Careers/FolderDetail/Software-Developer-Intern---Summer-2021/19231) |  Minneapolis, Madison, Rochester,MN | Software Engineering Intern|
+|[Epic Systems](https://epic.avature.net/Careers/FolderDetail/Software-Developer-Intern---Summer-2021/19231) |  Minneapolis, Madison, Rochester,MN | Must be eligible to work in the United States without visa sponsorship |
 |[Credera](https://www.credera.com/careers/students/jobs/2266638) | Various | |
 |[Toast](https://careers.toasttab.com/?url=job&gh_jid=2340306) | Boston, MA | |
 |[Spotify](https://www.spotifyjobs.com/job/full-stack-engineer-summer-internship/) | [New York](https://jobs.lever.co/spotify/?commitment=Internship&location=New%20York%2C%20NY&department=Students), [Boston](https://jobs.lever.co/spotify/?commitment=Internship&location=Boston%2C%20MA&department=Students) | |
