@@ -152,7 +152,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Textron](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=284652)| Maryland | Cyber Engineering |  |
 |[Playstation](https://boards.greenhouse.io/sonyinteractiveentertainmentplaystation/jobs/2316732/) | Various in CA | More positions [here](https://www.playstation.com/en-us/corporate/about/careers/internships/) |
 |[ServiceNow](https://jobs.jobvite.com/careers/servicenow/job/oFfedfw5?__jvsd=PittCSC) | Various | |
-|[Stryker](https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Kalamazoo-Michigan/Summer-Internship-2021-Computer-Science--Computer-Engineering--Software-Michigan_R436511-1)| Michigan | |
+|[Stryker](https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Kalamazoo-Michigan/Summer-Internship-2021-Computer-Science--Computer-Engineering--Software-Michigan_R436511-1)| Michigan |Must be permanent resident of the U.S. or U.S. citizen |
 |[CrowdStrike](https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Irvine-CA/Software-Engineer-Internship--Summer-2021-_R1556)| Irvine, Kirkland, Sunnyvale, Minneapolis| |
 |[Osisoft](https://osisoft.wd1.myworkdayjobs.com/en-US/osisoft_careers/job/San-Leandro-California-USA/Software-Developer-Intern---Summer-2021_R002670) | San Leandro, Scottsdale, Philadelphia, Johnson City| |
 |[Datadog](https://www.datadoghq.com/careers/detail/?gh_jid=2265934)| Boston, NYC | |
