@@ -149,7 +149,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Appian](https://www.appian.com/careers/search/job/?gh_jid=2266649&job_name=software-engineer-intern&location=mclean-virginia) | Mclean, VA | |
 |[Yext](https://boards.greenhouse.io/yext/jobs/2301556) | NYC, DC | |
 |[WillowTree](https://willowtreeapps.com/careers/jobs/4698742002/software-engineer-intern) | Charlottesville, Columbus, Durham | |
-|[Textron](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=284652)| Maryland | Cyber Engineering |  |
+|[Textron](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=284652)| Maryland | Cyber Engineering, [Software Engineering](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=1019418) |
 |[Playstation](https://boards.greenhouse.io/sonyinteractiveentertainmentplaystation/jobs/2316732/) | Various in CA | More positions [here](https://www.playstation.com/en-us/corporate/about/careers/internships/) |
 |[ServiceNow](https://jobs.jobvite.com/careers/servicenow/job/oFfedfw5?__jvsd=PittCSC) | Various | |
 |[Stryker](https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Kalamazoo-Michigan/Summer-Internship-2021-Computer-Science--Computer-Engineering--Software-Michigan_R436511-1)| Michigan |Must be permanent resident of the U.S. or U.S. citizen |
