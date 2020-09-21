@@ -84,7 +84,6 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Stripe](https://stripe.com/jobs/search?s=intern) | Seattle, NYC, San Francisco | |
 |Zipline | San Francisco | **Closed** |
 |[Citi](https://citi.avature.net/careers/ProjectDetail/Dallas-Texas-United-States-NAM-Global-Consumer-Technology-Summer-Analyst-Dallas-North-America-2021-/10675) | North America | |
-|[Google](https://careers.google.com/jobs/results/93981708417671878-software-engineering-intern-bachelors-summer-2021/)| Various | [STEP (First Year)](https://careers.google.com/jobs/results/134007951758107334-step-intern-first-year-student-summer-2021/) [STEP (Second Year)](https://careers.google.com/jobs/results/93605726980580038-step-intern-second-year-student-summer-2021/)|
 |[Qualcomm](https://qualcomm.wd5.myworkdayjobs.com/en-US/External/job/San-Diego/IT-Internship---Summer-2021_3001435)| San Diego | Also available [Hardware Engineering](https://qualcomm.wd5.myworkdayjobs.com/en-US/External/job/San-Diego/Hardware-Engineering-Internship--Summer-2021-_3001376), [Systems Engineering](https://qualcomm.wd5.myworkdayjobs.com/en-US/External/job/San-Diego/Systems-Engineering-Internship--Summer-2021-_3001377), and [Embedded Software Engineering](https://qualcomm.wd5.myworkdayjobs.com/en-US/External/job/San-Diego/Embedded-Software-Engineering-Internship--Summer-2021-_3001371) |
 |[MLH](https://fellowship.mlh.io/) | Various Remote | [Explorer](https://fellowship.mlh.io/programs/explorer) and [Open Source](https://fellowship.mlh.io/programs/open-source) Fellowships, Fall, Spring, Summer available (UPDATE: Externships now available for Fall, Spring and Summer! Refer [MLH externships](https://fellowship.mlh.io/programs/externship) site for more info) & [MLH Coach](https://mlh.io/coaches) positons now available (optional if you want to help others)|
 |[MasterCard](https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/Arlington-Virginia/Software-Development-Engineer-Intern--Summer-2021-_R-111190?source=PittCSC) | Arlington, VA | Open to all students |
@@ -247,6 +246,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Code42](https://jobs.jobvite.com/code42/job/oOTudfw8) | Broomfield, CO | |
 |[KeepTruckin](https://boards.greenhouse.io/keeptruckin/jobs/4877625002) | SF, CA | |
 |[Zynga](https://jobs.jobvite.com/zynga/job/o73vdfwC) | SF, CA | |
+|[Google](https://careers.google.com/jobs/results/93981708417671878-software-engineering-intern-bachelors-summer-2021/)| Various | [STEP (First Year)](https://careers.google.com/jobs/results/134007951758107334-step-intern-first-year-student-summer-2021/) [STEP (Second Year)](https://careers.google.com/jobs/results/93605726980580038-step-intern-second-year-student-summer-2021/)|
 
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too! 🙏
 * [bwubrian](https://github.com/bwubrian)
