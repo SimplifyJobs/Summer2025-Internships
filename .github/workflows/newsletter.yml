@@ -5,7 +5,7 @@ name: Internship Newsletter
 
 on:
   schedule:
-    - cron: '* * * * MON'
+    - cron: '0 1 * * 1'
 
 jobs:
   build:
