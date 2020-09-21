@@ -29,6 +29,7 @@ jobs:
         PASS: ${{ secrets.EMAIL_PASSWORD }}
       run: |
         echo "$CREDS" > gcred.json
+        echo "$PASS" > pass.txt
     # Send Email
     - name: Send Email
       run: python newsletter.py
