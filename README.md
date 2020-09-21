@@ -77,7 +77,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[IBM](https://careers.ibm.com/ShowJob/Id/961831/Front-End-Developer-Summer-Intern-2021/?lang=en) | Various | [Backend position here](https://careers.ibm.com/ShowJob/Id/961980/Back-End-Developer-Summer-Intern-2021/?lang=en)|
 |[BNY Mellon](https://jobs.bnymellon.com/jobs/2007833) | New York, Pittsburgh, Jersey City | |
 |[Motorola](https://motorolasolutions.zrapply.com/en-US/Careers/job/Schaumburg-IL/Software-Engineer_R7477?utm_source=PittCSC) | Schaumburg, IL | |
-|[Cargill](https://cargill.taleo.net/careersection/10240/jobdetail.ftl?tz=GMT-05%3A00&job=UNI05923&utm_source=PittCSC)| Hopkins, MN | |
+|Cargill| Hopkins, MN | **Closed** |
 |[Dropbox](https://www.dropbox.com/jobs/listing/2265990?gh_jid=2265990) | San Francisco | |
 |Platform9| Mountain View | **Closed** |
 |[HubSpot](https://www.hubspot.com/careers/jobs/2319369?hubs_signup-cta=careers-apply) | Cambridge, MA | |
