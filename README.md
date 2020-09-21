@@ -247,7 +247,6 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Code42](https://jobs.jobvite.com/code42/job/oOTudfw8) | Broomfield, CO | |
 |[KeepTruckin](https://boards.greenhouse.io/keeptruckin/jobs/4877625002) | SF, CA | |
 |[Zynga](https://jobs.jobvite.com/zynga/job/o73vdfwC) | SF, CA | |
-|[TextIQ](https://www.textiq.com/careers/?gh_jid=4842589002#hs_cos_wrapper_module_1553757191638347) | Vancounver, NYC | |
 
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too! 🙏
 * [bwubrian](https://github.com/bwubrian)
