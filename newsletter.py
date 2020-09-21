@@ -2,7 +2,7 @@ from datetime import datetime,date,timedelta
 import gspread
 import markdown2
 from bs4 import BeautifulSoup
-import os
+# import os
 
 GOOGLE_CREDENTIALS_FILE = './gcred.json'
 EMAIL_SHEET_ID = "1TxQ_LSjOokvNnxyjlUpewA9Iq7F7Uknv0a6mh8dOQOk"
@@ -60,7 +60,16 @@ latest_postings = [str(posting) for posting in latest_postings]
 
 sender_email = "pittcsc.internships@gmail.com"
 receiver_emails = emails
-password = os.environ['PASS'] 
+
+def get_password():
+    pass_word = None
+    with open("pass.txt") as reader: 
+        pass_word = reader.read()
+    return pass_word
+
+password = get_password()
+
+
 
 message = MIMEMultipart("alternative")
 message["Subject"] = f'{today} CSC Internship Newsletter' 
