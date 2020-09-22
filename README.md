@@ -223,7 +223,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Paylocity](https://www.paylocity.com/careers/career-opportunities/early-career/?jobId=4130) | Schaumberg, IL | Data Science [here](https://www.paylocity.com/careers/career-opportunities/early-career/?jobId=4175) | |
 |[Pinterest](https://www.pinterestcareers.com/jobs/software-engineering-intern-palo-alto-california-united-states) | San Francisco, Palo Alto, Seattle, Toronto | | 
 |[esri](https://www.esri.com/careers/software-development-and-engineering-2021-internships-13003) | Redlands Vienna, VA Denver Arlington Portland (Maine and Oregon) | |
-| NextDoor | SF | |
+| [NextDoor](https://about.nextdoor.com/careers-list/?gh_jid=2337637) | SF | |
 |[Gusto](https://boards.greenhouse.io/gusto/jobs/2315797) | SF, Denver, NYC | |
 |[Dick's](https://www.dickssportinggoods.jobs/job-search-results/?category[]=Students%20%26%20Recent%20Grads) | Pittsburgh, Nationwide | Data Science, Software Engineering, UX Design. Prefer juniors. |
 |[SK Hynix](http://jobs.jobvite.com/careers/sk-hynix-memory-solutions/job/ohapbfwL/) | San Jose | |
@@ -247,6 +247,13 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[KeepTruckin](https://boards.greenhouse.io/keeptruckin/jobs/4877625002) | SF, CA | |
 |[Zynga](https://jobs.jobvite.com/zynga/job/o73vdfwC) | SF, CA | |
 |[Google](https://careers.google.com/jobs/results/93981708417671878-software-engineering-intern-bachelors-summer-2021/)| Various | [STEP (First Year)](https://careers.google.com/jobs/results/134007951758107334-step-intern-first-year-student-summer-2021/) [STEP (Second Year)](https://careers.google.com/jobs/results/93605726980580038-step-intern-second-year-student-summer-2021/)|
+|[Better.com](https://boards.greenhouse.io/better/jobs/2346546) | NYC | |
+|[Chan Zuckerberg Initiative](https://boards.greenhouse.io/embed/job_app?token=2334600) | Redwood City, CA | |
+|[Sleep Number](https://sleepnumber.wd5.myworkdayjobs.com/en-US/sleepnumber/job/San-Jose-CA/Algorithm-Software-Engineering-Internship---Sleep-Number-Labs_R7296) | San Jose, CA | |
+|[Blend](https://jobs.lever.co/blendlabs/2a469512-a8c2-44fa-a260-ef3ae0c90db7) | SF, CA | |
+|[Wealthfront](https://jobs.lever.co/wealthfront/0603035b-4d32-4306-8592-bd8df7ddbafc) | Palo Alto, CA | |
+|[Marvell](https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Software-Engineer-Intern_2001165) | Santa Clara | |
+
 
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too! 🙏
 * [bwubrian](https://github.com/bwubrian)
