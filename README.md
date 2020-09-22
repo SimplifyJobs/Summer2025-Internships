@@ -255,7 +255,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Marvell](https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Software-Engineer-Intern_2001165) | Santa Clara | |
 |[Zoox](https://jobs.lever.co/zoox/7fb6bff6-9eea-46b6-8b92-c7229d40dc7b) | Foster City, CA | |
 |[DrChrono](https://jobs.lever.co/drchrono/21582edc-3f0d-47fd-981b-9dbe7a07939a/) | Sunnyvale, CA | |
-|[Intel](https://jobs.intel.com/ShowJob/Id/2612860/Software%20Engineer%20Intern) | Phoenix, AZ | |
+|[Intel](https://jobs.intel.com/ShowJob/Id/2612870/Software-Engineer-Intern) | Phoenix, AZ | |
 
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too! 🙏
 * [bwubrian](https://github.com/bwubrian)
