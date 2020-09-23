@@ -240,7 +240,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Smith Micro](https://jobs.lever.co/smithmicro/47b315f1-e798-4139-abd1-35da544a02b3)|Pittsburgh, PA|Mobile Applications, Enterprise and Consumer software|
 |[Cadence](https://www.cadence.com/en_US/home/company/careers/interns-and-new-grads.html)| San Jose CA, Pittsburgh PA, Boston MA| Software and Electrical Engineering services| 
 |[Ford](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25385&siteid=5311&PageType=searchResults&SearchType=linkquery&LinkID=3974233#jobDetails=496624_5311)| Dearborn, MI| | 
-|[ThoughtSpot](https://www.thoughtspot.com/careers-listing?gh_jid=2330567) | Sunnyvale, CA | |
+|ThoughtSpot | Sunnyvale, CA | **Closed** |
 |[Blizzard](https://careers.blizzard.com/global/en/job/R003243/Software-Engineering-Internship) | Irvine, CA | [SRE](https://careers.blizzard.com/global/en/job/R003244/Site-Reliability-Engineering-Internship), [Data Science](https://careers.blizzard.com/global/en/job/R003193/Data-Science-Internship), [Security](https://careers.blizzard.com/global/en/job/R003289/Security-Engineering-Internship), [Game Dev](https://careers.blizzard.com/global/en/job/R003252/Game-Development-Engineering-Internship) |
 |[Spectrum](https://jobs.spectrum.com/job/greenwood-village/2021-summer-intern-engineering/4673/17260817) | Greenwood Village, CO | |
 |[Code42](https://jobs.jobvite.com/code42/job/oOTudfw8) | Broomfield, CO | |
