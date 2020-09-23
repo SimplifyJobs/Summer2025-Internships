@@ -227,7 +227,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Gusto](https://boards.greenhouse.io/gusto/jobs/2315797) | SF, Denver, NYC | |
 |[Dick's](https://www.dickssportinggoods.jobs/job-search-results/?category[]=Students%20%26%20Recent%20Grads) | Pittsburgh, Nationwide | Data Science, Software Engineering, UX Design. Prefer juniors. |
 |[SK Hynix](http://jobs.jobvite.com/careers/sk-hynix-memory-solutions/job/ohapbfwL/) | San Jose | |
-|[AutoDesk](https://autodesk.wd1.myworkdayjobs.com/en-US/uni/job/California-USA---Remote/Intern--Software-Engineer_20WD43226-1)| California, Michigan, Massachusetts, Oregon | |
+|AutoDesk| California, Michigan, Massachusetts, Oregon | **Closed** |
 |[Strava](https://boards.greenhouse.io/strava/jobs/2336808) | San Francisco | iOS, [Android](https://boards.greenhouse.io/strava/jobs/2336822), [Platform](https://boards.greenhouse.io/strava/jobs/2336973), [Server](https://boards.greenhouse.io/strava/jobs/2336895) positions | |
 |[Riot Games](https://www.riotgames.com/en/work-with-us/job/2337878/software-engineer-intern-los-angeles-usa)| Los Angeles | More positions [here](https://www.riotgames.com/en/university-programs) |
 |GoDaddy| Tempe | **Closed** |
