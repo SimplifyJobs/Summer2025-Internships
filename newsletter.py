@@ -102,15 +102,16 @@ html = f"""\
             {' '.join(latest_postings)}
         </tbody>
     </table>
+    <p> More job postings <a href="https://github.com/Pitt-CSC/Summer2021-Internships">here</a>! </p>
   </body>
-  <p> Best, <br>Pitt CSC 
-  
+  <p> Best, <br>Pitt CSC<br>
+  <a href="https://pittcsc.org/">pittcsc.org</a>
+  <br>
   <br>
   <br>
   <br>
   <a href="https://forms.gle/b7c1Eh3geFMJwor87">Unsubscribe Here</a>
   </p>
-
 </html>
 """
 
