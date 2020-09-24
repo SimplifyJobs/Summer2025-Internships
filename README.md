@@ -259,6 +259,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Cloudflare](https://boards.greenhouse.io/cloudflare/jobs/2348769?gh_jid=2348769) | Austin, Champaign, Kirkland, San Fran | |
 |[Kleiner Perkins](https://boards.greenhouse.io/2021kpfellows/jobs/4877715002) | Bay Area | |
 |[Sentry](https://boards.greenhouse.io/sentry/jobs/2347712) | SF | |
+|[Under Armour](https://www.wayup.com/i-Internet-j-Software-Hardware-Engineering-Rookie-2021-Summer-Intern-Under-Armour-208948438685274/) | San Francisco, Baltimore, Austin | |
 
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too! 🙏
 * [bwubrian](https://github.com/bwubrian)
