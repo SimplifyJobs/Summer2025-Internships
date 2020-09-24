@@ -262,6 +262,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Under Armour](https://www.wayup.com/i-Internet-j-Software-Hardware-Engineering-Rookie-2021-Summer-Intern-Under-Armour-208948438685274/) | San Francisco, Baltimore, Austin | |
 |[Pocket Gem](https://boards.greenhouse.io/pocketgems/jobs/2334655) | SF | |
 |[Kiva](https://boards.greenhouse.io/kivaorg/jobs/2349814?gh_jid=2349814)| Remote | |
+|[MainOne](https://www.opportunitiesforafricans.com/mainone-technical-support-internship-2020/)| Nigeria | |
 
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too! 🙏
 * [bwubrian](https://github.com/bwubrian)
@@ -338,5 +339,6 @@ Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), 
 * [ayoung19](https://github.com/ayoung19)
 * [aabosh](https://github.com/aabosh)
 * [maxgravitte](https://github.com/maxgravitte)
+* [LoisChoji](https://github.com/LoisChoji)
 
 Thanks to [elaine-zheng](https://github.com/elaine-zheng/summer2020internships) for the inspiration! 🐐
