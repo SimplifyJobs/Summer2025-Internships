@@ -265,7 +265,6 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Chewy](https://www.chewy.com/jobs/position/2353210?gh_jid=2353210&gh_jid=2353210)| Boston, MA | |
 |[Hewlett Packard](https://careers.hpe.com/job/Hewlett-Packard-Enterprise-Andover-Massachusetts/120569623) | Andover, Mass | |
 |[Convoy](https://jobs.lever.co/convoy/88456c0b-02e8-4f63-a96f-b2eead9b2555)| Seattle, WA | |
-|[Teradata](https://careers.teradata.com/jobs/208210/software-engineering-intern?sid=773) | San Diego, CA | |
 |[Blue Origin](https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Kent-WA/Summer-2021-Internship--Avionics-Software_R5000?mode=job) | Kent, WA ; Merritt Island, FL | |
 |[Teamworthy Ventures](https://boards.greenhouse.io/teamworthy/jobs/4163159003) | NYC | |
 
