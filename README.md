@@ -271,7 +271,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Vatic Labs](http://www.vaticlabs.ai/careers/2341264/?gh_jid=2341264) | NYC | |
 |[Cerner](https://careers.cerner.com/job/67087BR) | Kansas City, MO | |
 |[Real-Time Innovations](https://boards.greenhouse.io/rti/jobs/2337803)| Sunnyvale, CA;Denver,CO | |
-
+|[Adobe](https://adobe.wd5.myworkdayjobs.com/en-US/external_university/job/San-Jose/Software-Technology-Intern_R100901)|San Jose | |
 
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too! 🙏
 * [bwubrian](https://github.com/bwubrian)
