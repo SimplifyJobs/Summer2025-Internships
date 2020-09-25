@@ -266,6 +266,9 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Hewlett Packard](https://careers.hpe.com/job/Hewlett-Packard-Enterprise-Andover-Massachusetts/120569623) | Andover, Mass | |
 |[Convoy](https://jobs.lever.co/convoy/88456c0b-02e8-4f63-a96f-b2eead9b2555)| Seattle, WA | |
 |[Teradata](https://careers.teradata.com/jobs/208210/software-engineering-intern?sid=773) | San Diego, CA | |
+|[Blue Origin](https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Kent-WA/Summer-2021-Internship--Avionics-Software_R5000?mode=job) | Kent, WA ; Merritt Island, FL | |
+|[Teamworthy Ventures](https://boards.greenhouse.io/teamworthy/jobs/4163159003) | NYC | |
+
 
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too! 🙏
 * [bwubrian](https://github.com/bwubrian)
