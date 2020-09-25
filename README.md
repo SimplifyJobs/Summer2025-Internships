@@ -264,7 +264,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Kiva](https://boards.greenhouse.io/kivaorg/jobs/2349814?gh_jid=2349814)| Remote | |
 |[Chewy](https://www.chewy.com/jobs/position/2353210?gh_jid=2353210&gh_jid=2353210)| Boston, MA | |
 |[Convoy](https://jobs.lever.co/convoy/88456c0b-02e8-4f63-a96f-b2eead9b2555)| Seattle, WA | |
-|[Blue Origin](https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Kent-WA/Summer-2021-Internship--Avionics-Software_R5000?mode=job) | Kent, WA ; Merritt Island, FL | |
+|[Blue Origin](https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Kent-WA/Summer-2021-Internship--Avionics-Software_R5000?mode=job) | Kent, WA ; Merritt Island, FL | Must be a U.S. citizen or national, U.S. permanent resident (current Green Card holder), or lawfully admitted into the U.S. as a refugee or granted asylum.|
 |[Teamworthy Ventures](https://boards.greenhouse.io/teamworthy/jobs/4163159003) | NYC | |
 |[Redfin](https://redfin.wd1.myworkdayjobs.com/en-US/redfin_careers/job/WA---Seattle/Software-Developer--Intern_31254) | Seattle, Frisco, San Francisco | |
 
