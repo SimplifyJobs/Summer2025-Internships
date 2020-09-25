@@ -267,7 +267,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Blue Origin](https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Kent-WA/Summer-2021-Internship--Avionics-Software_R5000?mode=job) | Kent, WA ; Merritt Island, FL | |
 |[Teamworthy Ventures](https://boards.greenhouse.io/teamworthy/jobs/4163159003) | NYC | |
 |[Redfin](https://redfin.wd1.myworkdayjobs.com/en-US/redfin_careers/job/WA---Seattle/Software-Developer--Intern_31254) | Seattle, Frisco, San Francisco | |
-|[Poshmark](https://poshmark.com/careers) | Redwood City | Android, iOS, Big Data, Infrastructure, Full Stack, DevOps, Web App |
+|[Poshmark](https://boards.greenhouse.io/poshmark/jobs/2354571) | Redwood City | Android, [iOS](https://boards.greenhouse.io/poshmark/jobs/2350507), [Big Data](https://boards.greenhouse.io/poshmark/jobs/2351485), [Infrastructure](https://boards.greenhouse.io/poshmark/jobs/2350447), [Full Stack](https://boards.greenhouse.io/poshmark/jobs/2349686), [DevOps](https://boards.greenhouse.io/poshmark/jobs/2350481), [Web App](https://boards.greenhouse.io/poshmark/jobs/2351446) |
 
 
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too! 🙏
