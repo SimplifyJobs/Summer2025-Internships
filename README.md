@@ -272,6 +272,8 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Cerner](https://careers.cerner.com/job/67087BR) | Kansas City, MO | |
 |[Real-Time Innovations](https://boards.greenhouse.io/rti/jobs/2337803)| Sunnyvale, CA;Denver,CO | |
 |[Adobe](https://adobe.wd5.myworkdayjobs.com/en-US/external_university/job/Boston/Software-Development-Intern--Adobe-Sign-Enterprise_R100956-1)|San Jose | |
+|[Snowflake](https://careers.snowflake.com/us/en/job/4867943002/Software-Engineer-Intern-Front-End-Summer-2021) | San Mateo, CA | [Core Engineering](https://careers.snowflake.com/us/en/job/4889064002/Software-Engineer-Intern-Core-Engineering-Summer-2021), [Infrastructure Automation](https://careers.snowflake.com/us/en/job/4867934002/Software-Engineer-Intern-Infrastructure-Automation-Summer-2021) |
+
 
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too! 🙏
 * [bwubrian](https://github.com/bwubrian)
