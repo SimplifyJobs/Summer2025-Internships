@@ -277,7 +277,8 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Oshkosh Corporation](https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Hagerstown-Maryland-United-States/Software-Engineering-Intern--Summer-2021-_R487)| Hagerstown, MD | |
 |[Duck Creek Technologies](https://duckcreek.wd1.myworkdayjobs.com/en-US/duckcreek-linkedin/job/Basking-Ridge-NJ/Software-Engineering-Intern_REQID51798)| Basking Ridge, NJ | |
 |[Chemours](https://chemours.wd5.myworkdayjobs.com/Chemours/job/US---DE---Wilmington-Headquarters/Software-Developer-Summer-Intern_JR5427)| Wilmington, DE | |
-
+|[Audible](https://www.amazon.jobs/en/jobs/1274977/audible-software-development-engineer-internship) | Trenton, NJ | |
+|[EA](https://ea.gr8people.com/jobs/162586/summer-2021-software-engineering-internship-bs-ms) | Various | |
 
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too! 🙏
 * [bwubrian](https://github.com/bwubrian)
