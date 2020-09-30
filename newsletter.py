@@ -27,9 +27,8 @@ dates = posting_sheet.col_values(4)
 today = date.today()
 start_delta = timedelta(weeks=1)
 last_week = today - start_delta
-print(last_week)
 
-# figure out the ones in the table that have been added within the last wekk
+# figure out the ones in the table that have been added within the last week
 posting_index = -1
 for i, date in reversed(list(enumerate(dates))):
     if date == '':
@@ -40,94 +39,97 @@ for i, date in reversed(list(enumerate(dates))):
         posting_index = i + 1
         break
 
-# email the list out to people
-import smtplib, ssl
-from email.mime.text import MIMEText
-from email.mime.multipart import MIMEMultipart
+if posting_index != len(dates):
+    # email the list out to people
+    import smtplib, ssl
+    from email.mime.text import MIMEText
+    from email.mime.multipart import MIMEMultipart
 
-sh = gc.open_by_key(EMAIL_SHEET_ID)
-email_sheet = sh.get_worksheet(1)
-names = email_sheet.col_values(2)[1:]
-sub_emails = email_sheet.col_values(3)[1:]
+    sh = gc.open_by_key(EMAIL_SHEET_ID)
+    email_sheet = sh.get_worksheet(1)
+    names = email_sheet.col_values(2)[1:]
+    subscription_emails = email_sheet.col_values(3)[1:]
 
-unsubscribed = sh.get_worksheet(1).col_values(1)[1:]
+    unsubscribed = sh.get_worksheet(1).col_values(1)[1:]
 
-emails = list(set(sub_emails) - set(unsubscribed))
+    emails = list(set(subscription_emails) - set(unsubscribed))
 
-table = parse_markdown_to_html_table()
-latest_postings = table.find("tbody").find_all("tr")[posting_index - 7:]
-latest_postings = [str(posting) for posting in latest_postings]
+    table = parse_markdown_to_html_table()
+    latest_postings = table.find("tbody").find_all("tr")[posting_index - 7:]
+    latest_postings = [str(posting) for posting in latest_postings]
 
-sender_email = "pittcsc.internships@gmail.com"
-receiver_emails = emails
+    sender_email = "pittcsc.internships@gmail.com"
+    receiver_emails = emails
 
-def get_password():
-    pass_word = None
-    with open("pass.txt") as reader: 
-        pass_word = reader.read()
-    return pass_word
+    def get_password():
+        pass_word = None
+        with open("pass.txt") as reader: 
+            pass_word = reader.read()
+        return pass_word
 
-password = get_password()
+    password = get_password()
 
 
 
-message = MIMEMultipart("alternative")
-message["Subject"] = f'{today} CSC Internship Newsletter' 
-message["From"] = sender_email
+    message = MIMEMultipart("alternative")
+    message["Subject"] = f'{today} CSC Internship Newsletter' 
+    message["From"] = sender_email
 
-# Create the plain-text and HTML version of your message
-text = """\
-Hi,
+    # Create the plain-text and HTML version of your message
+    text = """\
+    Hi,
 
-If you are seeing this, please open the email in HTML.
+    If you are seeing this, please open the email in HTML.
 
-Best,
-Pitt CSC
-"""
-html = f"""\
-<html>
-  <p> Hi,  <br><br>
-  Here are this week's CSC internship postings. Good luck! <br> 
-  </p>
-  <body>
-    <table style="border: 1px solid black" >
-        <thead style="border: 1px solid black">
-            <tr style="border: 1px solid black">
-                <th style="border: 1px solid black">Name</th>
-                <th style="border: 1px solid black">Location</th>
-                <th style="border: 1px solid black">Notes</th>
-            </tr>
-        </thead>
-        <tbody style="border: 1px solid black">
-            {' '.join(latest_postings)}
-        </tbody>
-    </table>
-    <p> More job postings <a href="https://github.com/Pitt-CSC/Summer2021-Internships">here</a>! </p>
-  </body>
-  <p> Best, <br>Pitt CSC<br>
-  <a href="https://pittcsc.org/">pittcsc.org</a>
-  <br>
-  <br>
-  <br>
-  <br>
-  <a href="https://forms.gle/b7c1Eh3geFMJwor87">Unsubscribe Here</a>
-  </p>
-</html>
-"""
+    Best,
+    Pitt CSC
 
-# Turn these into plain/html MIMEText objects
-part1 = MIMEText(text, "plain")
-part2 = MIMEText(html, "html")
+    Unsubscribe Link: https://forms.gle/b7c1Eh3geFMJwor87 
+    """
+    html = f"""\
+    <html>
+    <p> Hi,  <br><br>
+    Here are this week's CSC internship postings. Good luck! <br> 
+    </p>
+    <body>
+        <table style="border: 1px solid black" >
+            <thead style="border: 1px solid black">
+                <tr style="border: 1px solid black">
+                    <th style="border: 1px solid black">Name</th>
+                    <th style="border: 1px solid black">Location</th>
+                    <th style="border: 1px solid black">Notes</th>
+                </tr>
+            </thead>
+            <tbody style="border: 1px solid black">
+                {' '.join(latest_postings)}
+            </tbody>
+        </table>
+        <p> More job postings <a href="https://github.com/Pitt-CSC/Summer2021-Internships">here</a>! </p>
+    </body>
+    <p> Best, <br>Pitt CSC<br>
+    <a href="https://pittcsc.org/">pittcsc.org</a>
+    <br>
+    <br>
+    <br>
+    <br>
+    <a href="https://forms.gle/b7c1Eh3geFMJwor87">Unsubscribe Here</a>
+    </p>
+    </html>
+    """
 
-# Add HTML/plain-text parts to MIMEMultipart message
-# The email client will try to render the last part first
-message.attach(part1)
-message.attach(part2)
+    # Turn these into plain/html MIMEText objects
+    part1 = MIMEText(text, "plain")
+    part2 = MIMEText(html, "html")
 
-# Create secure connection with server and send email
-context = ssl.create_default_context()
-with smtplib.SMTP_SSL("smtp.gmail.com", 465, context=context) as server:
-    server.login(sender_email, password)
-    server.sendmail(
-        sender_email, receiver_emails, message.as_string()
-    )
+    # Add HTML/plain-text parts to MIMEMultipart message
+    # The email client will try to render the last part first
+    message.attach(part1)
+    message.attach(part2)
+
+    # Create secure connection with server and send email
+    context = ssl.create_default_context()
+    with smtplib.SMTP_SSL("smtp.gmail.com", 465, context=context) as server:
+        server.login(sender_email, password)
+        server.sendmail(
+            sender_email, receiver_emails, message.as_string()
+        )
