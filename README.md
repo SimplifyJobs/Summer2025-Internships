@@ -287,6 +287,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Ultimate Software](https://recruiting.ultipro.com/usg1006/JobBoard/dfc53730-57d1-3460-336f-ddafabd108f3//OpportunityDetail?opportunityId=7f5ef8ac-0077-433b-b96b-5a63c8c7693e)| Ft. Lauderdale, FL Atlanta, GA | |
 
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too! 🙏
+* [ray7yu](https://github.com/ray7yu)
 * [kaleidoscoperope](https://github.com/kaleidoscoperope)
 * [bwubrian](https://github.com/bwubrian)
 * [warfororks](https://github.com/warfororks)
