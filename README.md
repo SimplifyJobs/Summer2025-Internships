@@ -282,7 +282,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Okta](https://www.okta.com/company/careers/engineering-it/software-engineer-intern-us-and-canada-2182535/) | SF, San Jose,  Bellevue, Toronto | |
 |[Domeyard LP](https://boards.greenhouse.io/domeyard/jobs/1079185) | Boston | |
 |[McDonald's](https://jobs.smartrecruiters.com/oneclick-ui/company/McDonaldsCorporation/publication/3af1fbaf-b763-4898-b8c0-b62084481d3d?dcr_id=DCRA1) | Chicago | |
-
+|[OfferUp](https://about.offerup.com/careers/internship/software-development-engineer-intern-summer-2021/) | Various | |
 
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too! 🙏
 * [kaleidoscoperope](https://github.com/kaleidoscoperope)
