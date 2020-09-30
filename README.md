@@ -371,5 +371,6 @@ Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), 
 * [aabosh](https://github.com/aabosh)
 * [maxgravitte](https://github.com/maxgravitte)
 * [jphui](https://jhui.gq)
+* [fatimazali](https://github.com/fatimazali)
 
 Thanks to [elaine-zheng](https://github.com/elaine-zheng/summer2020internships) for the inspiration! 🐐
