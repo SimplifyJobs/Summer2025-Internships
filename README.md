@@ -276,7 +276,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Helbiz](https://jobs.lever.co/helbiz/a5b81ae4-2e13-457a-8146-0d0c93aa11c0/apply)| New York City, NY | |
 |[Oshkosh Corporation](https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Hagerstown-Maryland-United-States/Software-Engineering-Intern--Summer-2021-_R487)| Hagerstown, MD | |
 |[Duck Creek Technologies](https://duckcreek.wd1.myworkdayjobs.com/en-US/duckcreek-linkedin/job/Basking-Ridge-NJ/Software-Engineering-Intern_REQID51798)| Basking Ridge, NJ | |
-|[Chemours](https://chemours.wd5.myworkdayjobs.com/Chemours/job/US---DE---Wilmington-Headquarters/Software-Developer-Summer-Intern_JR5427)| Wilmington, DE | |
+|[Chemours](https://chemours.wd5.myworkdayjobs.com/Chemours/job/US---DE---Wilmington-Headquarters/Software-Developer-Summer-Intern_JR5427)| Wilmington, DE |Candidates who now or in the future require sponsorship for employment (i.e., H1-B visa, F-1 visa (OPT), TN visa or any other non-immigrant status) are ineligible |
 |[Audible](https://www.amazon.jobs/en/jobs/1274977/audible-software-development-engineer-internship) | Trenton, NJ | |
 |[EA](https://ea.gr8people.com/jobs/162586/summer-2021-software-engineering-internship-bs-ms) | Various | |
 |[Okta](https://www.okta.com/company/careers/engineering-it/software-engineer-intern-us-and-canada-2182535/) | SF, San Jose,  Bellevue, Toronto | |
