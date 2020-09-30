@@ -286,6 +286,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Spreetail](https://jobs.lever.co/spreetail/9f706e9a-eb7e-4d2e-b435-e53caef950b3) | Lincoln, NE |  [Data Management](https://jobs.lever.co/spreetail/70d970ff-0a90-4d16-9cb2-7e2aa9cf6449) |
 |[Ultimate Software](https://recruiting.ultipro.com/usg1006/JobBoard/dfc53730-57d1-3460-336f-ddafabd108f3//OpportunityDetail?opportunityId=7f5ef8ac-0077-433b-b96b-5a63c8c7693e)| Ft. Lauderdale, FL Atlanta, GA | |
 |[Cree](https://cree.wd5.myworkdayjobs.com/en-US/EXT/job/Durham-NC/Software-Development-Engineer-Intern_20-713) | Durham, NC | |
+|[Reddit](https://boards.greenhouse.io/reddit/jobs/2324527) | SF | |
 
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too! 🙏
 * [ray7yu](https://github.com/ray7yu)
