@@ -1,7 +1,8 @@
 # Summer 2021 Internships ☀️👩‍💻
 Use this repo to share and keep track of any tech-related internships. For a [Google Sheet 📝 version of this repo (that remains in sync with this table) click here](https://docs.google.com/spreadsheets/d/1bJq7YQV19TWyzPCBeQi5P4uOm8uiAAm2AHCnVNGRIDg/edit#gid=0)! For more tips on the internship process check out the [Zero to Offer 📈 program here](https://www.pittcs.wiki/zero-to-offer).
 
-📫 Want internship postings in your inbox? Join the internship newsletter [here](https://forms.gle/khRdKEm9AXaFAZg97)!
+
+📫  Want weekly internship postings in your inbox? Join the internship newsletter [here](https://forms.gle/khRdKEm9AXaFAZg97)!
 
 🎓 Check out our New Grad repo [here](https://github.com/Pitt-CSC/NewGrad-2021).
 
