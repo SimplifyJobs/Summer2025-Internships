@@ -292,8 +292,10 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Reddit](https://boards.greenhouse.io/reddit/jobs/2324527) | SF | |
 |[HashiCorp](https://www.hashicorp.com/job/2366164) | Remote | |
 |[Affirm](https://boards.greenhouse.io/affirm/jobs/4124922003) | SF | |
+|[Hulu](https://careers.hulu.com/job/santa-monica/software-developer-intern-mobile/27593/17538603) | Santa Monica | Mobile, [Front End](https://careers.hulu.com/job/santa-monica/software-developer-intern-front-end/27593/17546517), [Back End](https://careers.hulu.com/job/santa-monica/software-developer-intern-back-end/27593/17538604)|
 
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too! 🙏
+* [ctcuff](https://github.com/ctcuff)
 * [JasperCheung](https://github.com/JasperCheung)
 * [ray7yu](https://github.com/ray7yu)
 * [kaleidoscoperope](https://github.com/kaleidoscoperope)
