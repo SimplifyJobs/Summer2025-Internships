@@ -306,7 +306,8 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[ADP](https://jobs.adp.com/job/11426853/summer-2021-technology-internships-lifion-new-york-ny/)| Various | [Application Development](https://jobs.adp.com/job/11379792/summer-2021-technology-internship-application-development-may-2022-grads-alpharetta-ga/) and more [here](https://jobs.adp.com/job-search-results/?keyword=2021&language=en). |
 |[Schonfeld](https://boards.greenhouse.io/schonfeld)| NYC | [DevOps](https://boards.greenhouse.io/schonfeld/jobs/2344543), [Software Engineering](https://boards.greenhouse.io/schonfeld/jobs/2344512), [Cybersecurity](https://boards.greenhouse.io/schonfeld/jobs/2344530), [Support Engineering](https://boards.greenhouse.io/schonfeld/jobs/2344552) |
 |[Sierra Nevada Corporation](https://www.sncorp.com/careers/open-positions/position-details/R0011529)| Centennial, CO | Software Engineering, [Test Engineering](https://www.sncorp.com/careers/open-positions/position-details/R0011664) positions are available. Applicant must be a U.S. citizen. |
-
+|[Docusign](https://www.docusign.com/company/careers/open?gh_jid=2369556) | SF | |
+|[Avanade](https://careers.avanade.com/jobsenusurl/JobDetail/Intern-Software-Engineer-Northeast/19319)| Boston, NYC, Philadelphia| |
 
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too! 🙏
 * [GintasS](https://github.com/GintasS) 🐐
