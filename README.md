@@ -14,17 +14,14 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |---|---|-------------|
 |[Akuna Capital](https://akunacapital.com/careers?&experience=intern&department=&location=&search_term=#careers)| Boston, Chicago, International Locations | |
 |[Apple](https://jobs.apple.com/en-us/search?location=united-states-USA&team=internships-STDNT-INTRN)| Cupertino, CA| |
-|[B/E Aerospace](https://jobs.collinsaerospace.com/search-jobs/2021?orgIds=1738&kt=1)| Various | Software Engineering, Data Analytics and other positions are available. Must be a U.S. Citizen. |
 |[BlackRock](https://blackrock.tal.net/vx/lang-en-GB/mobile-0/brand-3/xf-fb4e3bf3ac65/candidate/so/pm/1/pl/1/opp/3907-Summer-Analyst-Program-Americas/en-GB) | New York, NY|  |
 |[Bridgewater Associate](https://boards.greenhouse.io/bridgewater89/jobs/4076389002)| Westport, CT |  |
 |[Citadel](https://www.citadel.com/careers/open-positions/positions-for-students/)| Chicago, New York, other global locations | |
 |[Cisco](https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-Bachelor-s-Intern-United-States/1295250?source=Pitt+CSC&tags=CDC+SnNG+students-and-new-graduate-programs)|San Jose, Seattle, RTP, San Francisco, Richardson, Austin, Fulton, Cambridge, Boxborough, Richfield, Alpharetta| |
 |[Credit Suisse](https://tas-creditsuisse.taleo.net/careersection/campus/jobdetail.ftl?job=150202&lang=en) | New York, NY | |
-|[Collins Aerospace](https://jobs.collinsaerospace.com/search-jobs/2021?orgIds=1738&kt=1)| Various | Software Engineering, Data Analytics and other positions are available. Must be authorized to work in the U.S. without sponsorship now or in the future. |
 |[D.E. Shaw](https://www.deshaw.com/careers/software-developer-intern-new-york-4018) | New York | |
 |[DRW](https://drw.com/careers/listings/?language=English&category=Campus&location=Chicago) |  Chicago | Software Development, Quant Trader, Quant Research Intern|
 |[Facebook](https://www.facebook.com/careers/jobs/654496918442526/)| Various | |
-|[Fanatics](https://www.facebook.com/careers/jobs/654496918442526/)| Various | Data Engineering, Technology Intern positions are available. |
 |[Five Rings Capital](https://fiverings.com/apply/)| New York | Quant Trading, Quant Research, Software Development|
 |[Goldman Sachs](https://www.goldmansachs.com/careers/students/programs/americas/summer-analyst-program.html)| Various  ||
 |[Hudson River Trading](https://www.hudsonrivertrading.com/careers/) | New York, Chicago | Software Engineering, Mid-Frequency Algo|
@@ -122,7 +119,6 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Amazon Web Services](https://www.amazon.jobs/en/jobs/1247291/2021-summer-software-development-engineer-intern-was) | Virginia | Requires US Citizenship and Clearance. [Seattle](https://www.amazon.jobs/en/jobs/1246606/2021-summer-software-development-engineer-intern-sea)|
 |[SurveyMonkey](https://www.wayup.com/i-Internet-j-Software-Engineer-Intern-Summer-2021-SurveyMonkey-601778092934439/) | San Mateo, Portland, Seattle  | |
 |[Tesla](https://www.tesla.com/careers/job/software-fullstackengineeringinternshipspringand-orsummer2021-68849)|Fremont, Palo Alto, Bellevue, others| More [here](https://www.tesla.com/careers/search#/?keyword=intern&department=3&region=5) |
-|[T-Mobile](https://www.tmobile.careers/job-search?a=2021)| Various | Software Engineering, Data Analyst and other positions are available. Must be authorized to work in the U.S. on a permanent basis without requiring sponsorship. |
 |[Church of Latter Day Saints](https://careersearch.churchofjesuschrist.org/public/jobdetail.aspx?jobid=261905) | Utah | Must be a Mormon |
 |[SIG](https://careers.sig.com/job/SUSQA004Y4604/Trading-Intern) | Bala Cynwyd, PA | Trading, SWE [here](https://careers.sig.com/job/SUSQA004Y4957/Software-Engineering-Internship-Program) |
 |Stonebranch | Alpharetta, GA | |
@@ -173,7 +169,6 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |Path AI | Boston, MA | **Closed** |
 |[Splunk](https://www.splunk.com/en_us/careers/jobs/technical-residency-internship-summer-16138.html) | San Fran | Software Engineering [here](https://www.splunk.com/en_us/careers/jobs/software-engineer-intern-summer-16168.html) |
 |[Washington Post](https://docs.google.com/forms/d/e/1FAIpQLScwbYDTH-tE5yobarHzuYBqCGRVg6CTn01KCFaM9mG-4Ty_kA/viewform) | DC | Publishing Tools Internship [here](https://docs.google.com/forms/d/e/1FAIpQLSck3QDvOkBap9sbpVWaDDTw2UfzCPHq_Cx7bfySRtoMeH6-jg/viewform)|
-|[Thomson Reuters](https://jobs.thomsonreuters.com/ShowJob/Id/461138/Associate%20Software%20Engineer%20Intern%20%20%20Summer%202021) | Carrollton, TX | |
 |[Gatik](https://jobs.lever.co/gatik/363a3a47-a59c-49a3-9007-b1389db38969/apply?lever-source=PittCSC)|Palo Alto, CA | |
 |[Cockroach Labs](https://www.cockroachlabs.com/careers/job/?gh_jid=2156732) | NYC | |
 |[Roblox](https://corp.roblox.com/careers/listing/?gh_jid=2311474)|San Mateo, CA | |
@@ -190,7 +185,6 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[American Express](https://jobs.americanexpress.com/jobs/20006515?lang=en-us&previousLocale=en-US) | Various | |
 |[Silicon Labs](https://jobs.jobvite.com/silabs/job/oyymdfwp) | Austin, TX | |
 |[Blackstone](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Campus_Careers/job/New-York/XMLNAME-2021-Software-Developer-Summer-Analyst_12259) | NYC | |
-|[BlackBerry](https://bb.wd3.myworkdayjobs.com/Student/jobs)| Various | Software Development, Data Science, Test, Security positions are available. Also includes winter internships. |
 |[PEAK6](https://boards.greenhouse.io/capitalmanagement/jobs/2260071) | Chicago, IL | for those who identify as female, also have PM and trading intern positions|
 |[Oracle](https://oracle.taleo.net/careersection/3/jobdetail.ftl?job=20000POC) | Various | |
 |[Verizon](https://www.verizon.com/about/work/jobs/5558860-software-development-summer-2021-internship) | San Jose, CA| Requires authorization to work in the U.S. without restrictions or need for future sponsorship|
@@ -281,10 +275,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Cerner](https://careers.cerner.com/job/67087BR) | Kansas City, MO | |
 |[Real-Time Innovations](https://boards.greenhouse.io/rti/jobs/2337803)| Sunnyvale, CA;Denver,CO | |
 |[Adobe](https://adobe.wd5.myworkdayjobs.com/en-US/external_university/job/Boston/Software-Development-Intern--Adobe-Sign-Enterprise_R100956-1)|San Jose | |
-|[ADP](https://jobs.adp.com/job-search-results/?keyword=2021&language=en)| Various | Application Development positions are available. |
 |[Snowflake](https://careers.snowflake.com/us/en/job/4867943002/Software-Engineer-Intern-Front-End-Summer-2021) | San Mateo, CA | [Core Engineering](https://careers.snowflake.com/us/en/job/4889064002/Software-Engineer-Intern-Core-Engineering-Summer-2021), [Infrastructure Automation](https://careers.snowflake.com/us/en/job/4867934002/Software-Engineer-Intern-Infrastructure-Automation-Summer-2021) |
-|[Schonfeld](https://boards.greenhouse.io/schonfeld)| NYC | DevOps, Software Engineering, Cybersecurity positions are available. |
-|[Sierra Nevada Corporation](https://www.sncorp.com/careers/open-positions/)| Various | Software Engineering, Test Engineering positions are available. Applicant must be a U.S. citizen. |
 |[Helbiz](https://jobs.lever.co/helbiz/a5b81ae4-2e13-457a-8146-0d0c93aa11c0/apply)| New York City, NY | |
 |[Oshkosh Corporation](https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Hagerstown-Maryland-United-States/Software-Engineering-Intern--Summer-2021-_R487)| Hagerstown, MD | |
 |[Duck Creek Technologies](https://duckcreek.wd1.myworkdayjobs.com/en-US/duckcreek-linkedin/job/Basking-Ridge-NJ/Software-Engineering-Intern_REQID51798)| Basking Ridge, NJ | |
@@ -303,10 +294,20 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Affirm](https://boards.greenhouse.io/affirm/jobs/4124922003) | SF | |
 |[Hulu](https://careers.hulu.com/job/santa-monica/software-developer-intern-mobile/27593/17538603) | Santa Monica | Mobile, [Front End](https://careers.hulu.com/job/santa-monica/software-developer-intern-front-end/27593/17546517), [Back End](https://careers.hulu.com/job/santa-monica/software-developer-intern-back-end/27593/17538604)|
 |[Twitter](https://urapplication2021.splashthat.com/) | Remote | |
-|[Transamerica](https://careers.transamerica.com/listjobs/all/search/2021)| Various | Data science, Information Security and other positions are available. |
 |[Oscar Health](https://boards.greenhouse.io/embed/job_app?token=2354915) | NYC | |
 |[Red Hat](https://us-redhat.icims.com/jobs/81433/software-engineering%2c-intern/job?hub=7&mobile=false&width=1140&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240) | Remote | |
 |[Zebra Technologies](https://early-careers-zebra.icims.com/jobs/90588/2021-summer-internship---computer-vision/job?mobile=false&width=1241&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240) | NY | |
+|[B/E Aerospace](https://jobs.collinsaerospace.com/search-jobs/2021?orgIds=1738&kt=1)| Various | Software Engineering, Data Analytics and other positions are available. Must be a U.S. Citizen. |
+|[Collins Aerospace](https://jobs.collinsaerospace.com/search-jobs/2021?orgIds=1738&kt=1)| Various | Software Engineering, Data Analytics and other positions are available. Must be authorized to work in the U.S. without sponsorship now or in the future. |
+|[Fanatics](https://www.facebook.com/careers/jobs/654496918442526/)| Various | Data Engineering, Technology Intern positions are available. |
+|[T-Mobile](https://www.tmobile.careers/job-search?a=2021)| Various | Software Engineering, Data Analyst and other positions are available. Must be authorized to work in the U.S. on a permanent basis without requiring sponsorship. |
+|[BlackBerry](https://bb.wd3.myworkdayjobs.com/Student/jobs)| Various | Software Development, Data Science, Test, Security positions are available. Also includes winter internships. |
+|[Transamerica](https://careers.transamerica.com/listjobs/all/search/2021)| Various | Data science, Information Security and other positions are available. |
+|[Thomson Reuters](https://jobs.thomsonreuters.com/ShowJob/Id/461138/Associate%20Software%20Engineer%20Intern%20%20%20Summer%202021) | Carrollton, TX | |
+|[ADP](https://jobs.adp.com/job-search-results/?keyword=2021&language=en)| Various | Application Development positions are available. |
+|[Schonfeld](https://boards.greenhouse.io/schonfeld)| NYC | DevOps, Software Engineering, Cybersecurity positions are available. |
+|[Sierra Nevada Corporation](https://www.sncorp.com/careers/open-positions/)| Various | Software Engineering, Test Engineering positions are available. Applicant must be a U.S. citizen. |
+
 
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too! 🙏
 * [ctcuff](https://github.com/ctcuff)
