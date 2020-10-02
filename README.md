@@ -252,7 +252,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Google](https://careers.google.com/jobs/results/93981708417671878-software-engineering-intern-bachelors-summer-2021/)| Various | [STEP (First Year)](https://careers.google.com/jobs/results/134007951758107334-step-intern-first-year-student-summer-2021/) [STEP (Second Year)](https://careers.google.com/jobs/results/93605726980580038-step-intern-second-year-student-summer-2021/)|
 |[Better.com](https://boards.greenhouse.io/better/jobs/2346546) | NYC | |
 |[Chan Zuckerberg Initiative](https://boards.greenhouse.io/embed/job_app?token=2334600) | Redwood City, CA | |
-|[Sleep Number](https://sleepnumber.wd5.myworkdayjobs.com/en-US/sleepnumber/job/San-Jose-CA/Algorithm-Software-Engineering-Internship---Sleep-Number-Labs_R7296) | San Jose, CA | |
+|[Sleep Number]() | San Jose, CA | **Closed** |
 |[Blend](https://jobs.lever.co/blendlabs/2a469512-a8c2-44fa-a260-ef3ae0c90db7) | SF, CA | |
 |[Wealthfront](https://jobs.lever.co/wealthfront/0603035b-4d32-4306-8592-bd8df7ddbafc) | Palo Alto, CA | |
 |[Marvell](https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Software-Engineer-Intern_2001165) | Santa Clara | |
