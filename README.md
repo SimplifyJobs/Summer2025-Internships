@@ -169,7 +169,6 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |Path AI | Boston, MA | **Closed** |
 |[Splunk](https://www.splunk.com/en_us/careers/jobs/technical-residency-internship-summer-16138.html) | San Fran | Software Engineering [here](https://www.splunk.com/en_us/careers/jobs/software-engineer-intern-summer-16168.html) |
 |[Washington Post](https://docs.google.com/forms/d/e/1FAIpQLScwbYDTH-tE5yobarHzuYBqCGRVg6CTn01KCFaM9mG-4Ty_kA/viewform) | DC | Publishing Tools Internship [here](https://docs.google.com/forms/d/e/1FAIpQLSck3QDvOkBap9sbpVWaDDTw2UfzCPHq_Cx7bfySRtoMeH6-jg/viewform)|
-|[Thomson Reuters](https://jobs.thomsonreuters.com/ShowJob/Id/461138/Associate%20Software%20Engineer%20Intern%20%20%20Summer%202021) | Carrollton, TX | |
 |[Gatik](https://jobs.lever.co/gatik/363a3a47-a59c-49a3-9007-b1389db38969/apply?lever-source=PittCSC)|Palo Alto, CA | |
 |[Cockroach Labs](https://www.cockroachlabs.com/careers/job/?gh_jid=2156732) | NYC | |
 |[Roblox](https://corp.roblox.com/careers/listing/?gh_jid=2311474)|San Mateo, CA | |
@@ -269,6 +268,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Convoy](https://jobs.lever.co/convoy/88456c0b-02e8-4f63-a96f-b2eead9b2555)| Seattle, WA | |
 |[Blue Origin](https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Kent-WA/Summer-2021-Internship--Avionics-Software_R5000?mode=job) | Kent, WA ; Merritt Island, FL | Must be a U.S. citizen or national, U.S. permanent resident (current Green Card holder), or lawfully admitted into the U.S. as a refugee or granted asylum.|
 |[Teamworthy Ventures](https://boards.greenhouse.io/teamworthy/jobs/4163159003) | NYC | |
+|[Thomson Reuters](https://jobs.thomsonreuters.com/ListJobs/All/Search/jobtitle/2021/)| Eagan-Minnesota-United States of America | No visa-sponsorships available. DevOps, Software Engineering, Database and other positions are available. |
 |[Redfin](https://redfin.wd1.myworkdayjobs.com/en-US/redfin_careers/job/WA---Seattle/Software-Developer--Intern_31254) | Seattle, Frisco, San Francisco | |
 |[Poshmark](https://boards.greenhouse.io/poshmark/jobs/2354571) | Redwood City | Android, [iOS](https://boards.greenhouse.io/poshmark/jobs/2350507), [Big Data](https://boards.greenhouse.io/poshmark/jobs/2351485), [Infrastructure](https://boards.greenhouse.io/poshmark/jobs/2350447), [Full Stack](https://boards.greenhouse.io/poshmark/jobs/2349686), [DevOps](https://boards.greenhouse.io/poshmark/jobs/2350481), [Web App](https://boards.greenhouse.io/poshmark/jobs/2351446) |
 |[Vatic Labs](http://www.vaticlabs.ai/careers/2341264/?gh_jid=2341264) | NYC | |
@@ -297,8 +297,19 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Oscar Health](https://boards.greenhouse.io/embed/job_app?token=2354915) | NYC | |
 |[Red Hat](https://us-redhat.icims.com/jobs/81433/software-engineering%2c-intern/job?hub=7&mobile=false&width=1140&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240) | Remote | |
 |[Zebra Technologies](https://early-careers-zebra.icims.com/jobs/90588/2021-summer-internship---computer-vision/job?mobile=false&width=1241&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240) | NY | |
+|[Collins Aerospace](https://jobs.collinsaerospace.com/search-jobs/2021?orgIds=1738&kt=1)| Various | Software Engineering, Data Analytics and other positions are available. Must be authorized to work in the U.S. without sponsorship now or in the future. |
+|[Fanatics](https://jobs.lever.co/fanatics?commitment=Hourly&team=Technology/)| Various | Data Engineering, Technology Intern positions are available. |
+|[T-Mobile](https://www.tmobile.careers/job-details/engineering/150678BR-2021-software-engineerdeveloper-internship--product-and-technology)| Various | Software Engineering, [Data Analyst](https://www.tmobile.careers/job-details/engineering/150664BR-2021-data-analyst-internship--product-and-technology) and [IT](https://www.tmobile.careers/job-search?f=Information%20Technology&a=2021&dd=f). Must be authorized to work in the U.S. on a permanent basis without requiring sponsorship. |
+|[BlackBerry](https://bb.wd3.myworkdayjobs.com/Student/jobs)| Various | Software Development, Data Science, Test, Security positions are available. Also includes winter internships. |
+|[Transamerica](https://careers.transamerica.com/ShowJob/Id/2616602/Technology-Rotational-Internship-(Summer-2021)/)| Various | [Data science](https://careers.transamerica.com/ShowJob/Id/2617593/Data-Science-Internship-(Summer-2021)/), [Information Security](https://careers.transamerica.com/ShowJob/Id/2617594/Information-Security-Internship-(Summer-2021)/) and other positions are available. |
+|[Thomson Reuters](https://jobs.thomsonreuters.com/ListJobs/ByKeyword/intern) | Various | |
+|[ADP](https://jobs.adp.com/job/11426853/summer-2021-technology-internships-lifion-new-york-ny/)| Various | [Application Development](https://jobs.adp.com/job/11379792/summer-2021-technology-internship-application-development-may-2022-grads-alpharetta-ga/) and more [here](https://jobs.adp.com/job-search-results/?keyword=2021&language=en). |
+|[Schonfeld](https://boards.greenhouse.io/schonfeld)| NYC | [DevOps](https://boards.greenhouse.io/schonfeld/jobs/2344543), [Software Engineering](https://boards.greenhouse.io/schonfeld/jobs/2344512), [Cybersecurity](https://boards.greenhouse.io/schonfeld/jobs/2344530), [Support Engineering](https://boards.greenhouse.io/schonfeld/jobs/2344552) |
+|[Sierra Nevada Corporation](https://www.sncorp.com/careers/open-positions/position-details/R0011529)| Centennial, CO | Software Engineering, [Test Engineering](https://www.sncorp.com/careers/open-positions/position-details/R0011664) positions are available. Applicant must be a U.S. citizen. |
+
 
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too! 🙏
+* [GintasS](https://github.com/GintasS) 🐐
 * [ctcuff](https://github.com/ctcuff)
 * [JasperCheung](https://github.com/JasperCheung)
 * [ray7yu](https://github.com/ray7yu)
@@ -355,7 +366,7 @@ Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), 
 * [rubywerman](https://github.com/rubywerman)
 * [stefantobler](https://stefantobler.com)
 * [danerwilliams](https://github.com/danerwilliams)
-* [ankasengupta](https://github.com/ankasengupta)
+* [ankasengupta](https://github.com/ankasengupta) 🐐
 * [kimjuyounglisa](https://github.com/kimjuyounglisa)
 * [Leundai](https://github.com/Leundai)
 * [aidev1065](https://github.com/aidev1065)
