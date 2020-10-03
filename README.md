@@ -308,6 +308,8 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Sierra Nevada Corporation](https://www.sncorp.com/careers/open-positions/position-details/R0011529)| Centennial, CO | Software Engineering, [Test Engineering](https://www.sncorp.com/careers/open-positions/position-details/R0011664) positions are available. Applicant must be a U.S. citizen. |
 |[Docusign](https://www.docusign.com/company/careers/open?gh_jid=2369556) | SF | |
 |[Avanade](https://careers.avanade.com/jobsenusurl/JobDetail/Intern-Software-Engineer-Northeast/19319)| Boston, NYC, Philadelphia| |
+|[Rubrik](https://boards.greenhouse.io/rubrik/jobs/2331219?s=LinkedIn&source=LinkedIn)| Palo Alto, CA (Remote) | |
+
 
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too! 🙏
 * [GintasS](https://github.com/GintasS) 🐐
