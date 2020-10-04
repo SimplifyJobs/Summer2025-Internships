@@ -317,6 +317,9 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Saturn Systems](https://saturnsystems.catsone.com/careers/1421-General/jobs/12769333-Programmer-Internships-for-2021)| Duluth, MN | Programmer Internships are available. |
 |[Volvo Group](https://xjobs.brassring.com/TGnewUI/Search/Home/Home?partnerid=25079&siteid=5171#keyWordSearch=2021)| Various | Programming Support, Digital & IT positions are available. |
 |[AMD](https://jobs.amd.com/go/Internships-&-Co-op-Opportunities/2567200/?q=&q2=&alertId=&locationsearch=&title=2021&location=)| Various | Autonomous Vehichle, Test Engineer and other positions are available. |
+|[Relativity](https://jobs.lever.co/relativity/d9de3b6b-a94d-4c7c-8023-6778e2023db4/apply) | Chicago | |
+|[Group One Trading](https://group1.applicantpro.com/jobs/1537030.html) | Chicago | |
+
 
 
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too! 🙏
