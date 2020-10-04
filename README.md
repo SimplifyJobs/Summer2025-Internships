@@ -327,7 +327,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[CACI International](https://careers.caci.com/ListJobs?keyword=2021&&Page=1&SortOrder=desc&SortField=AddedOn)| Various | Software Engineering, Information Technology, Cyber Security and other positions are available. The ability to obtain/maintain a clearance (U.S. Citizenship required). |
 |[C.H Robinson](https://jobs.chrobinson.com/search-jobs/2021/209/1)| Eden Prairie, Minnesota | Software Engineering positions are available. |
 |[Anthem](https://anthemcareers.ttcportals.com/search/jobs?q=2021&cfm10=&location=)| Various | Developer, Data Analyst positions are available. |
-|[NRC Health](https://jobs.jobvite.com/nrchealth/job/oduidfwW)| Lincoln, Nebraska | IT positions are available.  |
+|[NRC Health](https://jobs.jobvite.com/nrchealth/job/oduidfwW)| Lincoln, Nebraska | IT positions are available. |
 |[UBS](https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5131&PageType=searchResults&SearchType=linkquery&LinkID=6166#Location=United%20States&keyWordSearch=2021&locationSearch=)| Various | Analyst positions are available. |
 
 
