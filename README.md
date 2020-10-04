@@ -319,6 +319,16 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[AMD](https://jobs.amd.com/go/Internships-&-Co-op-Opportunities/2567200/?q=&q2=&alertId=&locationsearch=&title=2021&location=)| Various | Autonomous Vehichle, Test Engineer and other positions are available. |
 |[Relativity](https://jobs.lever.co/relativity/d9de3b6b-a94d-4c7c-8023-6778e2023db4/apply) | Chicago | |
 |[Group One Trading](https://group1.applicantpro.com/jobs/1537030.html) | Chicago | |
+|[Aegon](https://careers.aegon.com/en/vacancies/?query=2021&page=1)| Denver | Information Security, Technology Rotational, Data Science positions are available. |
+|[Text-Em-All](https://www.text-em-all.com/careers)| Frisco, TX | Software Engineering positions are available. The positions are temporarily remote. |
+|[Xactware](https://careers.smartrecruiters.com/Verisk?search=2021)| Jersey City, NJ.; White Plains, NY; Houston, TX; Boston, MA; Lehi, UT, and San Francisco, CA | Software Engineering, Full Stack, Data Management, Cloud positions are available. All candidates must have eligibility to work permanently in the U.S. |
+|[Hallmark Cards](https://careers.hallmark.com/search/?q=2021&locationsearch=)| Kansas City, MO | Analytics, Information Technology positions are available. Will only hire individuals lawfully authorized to work in the United States. |
+|[Steelcase](https://careers.steelcase.com/external/SearchJobs/2021)| East Windsor, CT, Grand Rapids, MI | Software Development, Data Science positions are available. Must be authorized to work in the US without future need of sponsorship. |
+|[CACI International](https://careers.caci.com/ListJobs?keyword=2021&&Page=1&SortOrder=desc&SortField=AddedOn)| Various | Software Engineering, Information Technology, Cyber Security and other positions are available. The ability to obtain/maintain a clearance (U.S. Citizenship required). |
+|[C.H Robinson](https://jobs.chrobinson.com/search-jobs/2021/209/1)| Eden Prairie, Minnesota | Software Engineering positions are available. |
+|[Anthem](https://anthemcareers.ttcportals.com/search/jobs?q=2021&cfm10=&location=)| Various | Developer, Data Analyst positions are available. |
+|[NRC Health](https://jobs.jobvite.com/nrchealth/job/oduidfwW)| Lincoln, Nebraska | IT positions are available.  |
+|[UBS](https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5131&PageType=searchResults&SearchType=linkquery&LinkID=6166#Location=United%20States&keyWordSearch=2021&locationSearch=)| Various | Analyst positions are available. |
 
 
 
