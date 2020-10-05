@@ -329,15 +329,16 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Anthem](https://anthemcareers.ttcportals.com/search/information-technology/jobs?q=2021)| Various | Developer, Data Analyst positions are available. |
 |[NRC Health](https://jobs.jobvite.com/nrchealth/job/oduidfwW)| Lincoln, Nebraska | IT positions are available. |
 |[UBS](https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5131&PageType=searchResults&SearchType=linkquery&LinkID=6166#keyWordSearch=&locationSearch=&Function%20Category=Information%20Technology%20(IT))| Various | Analyst positions are available. |
+
 |[The Lubrizol Corporation](https://jobs.lubrizol.com/search/?q=2021&utm_source=CSSearchWidget&startrow=1) | Various | Data Scientist, Developer, Information Security and other positions are available. Fall internships are also available. Must be authorized to work in the United States without requiring work authorization sponsorship by our company for this position now or in the future. |
 |[Liberty Mutual Insurance](https://jobs.libertymutualgroup.com/search-jobs/?keyword=2021)| Various | TechStart Summer Internship Program is available. Cyber Security, Data Analyst and other positions are available. |
 |[Syneos Health Clinical Solutions](https://incresearch.taleo.net/careersection/ex/jobsearch.ftl?lang=en)| Morrisville, NC | Data Science, API Development, Oracle EBS Technical and other positions are available. |
 |[Advance Auto Parts](https://www.advanceautoparts.jobs/en-US/search?keywords=2021&location=)| Raleigh, NC | Data Science, DevOps, IT Security positions are available. |
 |[OSI Group](https://osigroup.jobs.net/en-US/search?keywords=2021&location=)| Various | QA, Engineering positions are available. |
 |[Nokia](https://careers.nokia.com/jobs/search/25402806)| Various | Enablement Engineer, Data Science, Networking and other positions are available. |
-|[GEICO](https://geico.referrals.selectminds.com/)| Chevy Chase, Maryland | Data Science, Digital Experience (UX/UI), Technology positions are available. GEICO conducts drug screens and background checks on applicants who accept employment offers. |
-|[Avalara](https://www.avalara.com/us/en/about/jobs/job-openings.html)| Various | [Engineering positions](https://www.avalara.com/us/en/about/jobs/job-details.o07EdfwI.html) are available. Wnter internships are available too. |
-|[Lenovo](https://lenovocareers.com/#search)| Morrisville, NC | Data Scince & Analytics, Data Visualization, Workstation - Engineering and other positions are available. |
+|[GEICO](https://geico.referrals.selectminds.com/jobs/technology-development-program-infrastructure-engineer-2021-11969/)| Chevy Chase, Maryland | Data Science, [Digital Experience (UX/UI)](https://geico.referrals.selectminds.com/jobs/digital-experience-ux-ui-internship-summer-2021-11980), Technology positions are available. GEICO conducts drug screens and background checks on applicants who accept employment offers. |
+|[Avalara](https://www.avalara.com/us/en/about/jobs/job-details.o07EdfwI.html)| Various | [Engineering positions](https://www.avalara.com/us/en/about/jobs/job-details.o07EdfwI.html) are available. Wnter internships are available too. |
+|[Lenovo](https://lenovoworldwide.rolepoint.com/?shorturl=YJvM8#job/ahBzfnJvbGVwb2ludC1wcm9kchALEgNKb2IYgIDIu5zQ7gkM)| Morrisville, NC | Data Scince & Analytics, [Data Visualization](https://lenovoworldwide.rolepoint.com/?shorturl=YJvM8#job/ahBzfnJvbGVwb2ludC1wcm9kchALEgNKb2IYgIDI45yE-AgM), Workstation - Engineering and other positions are available. |
 |[Haven Life](https://boards.greenhouse.io/havenlife/jobs/4903938002)| New York, NY | [Full Stack Developer](https://boards.greenhouse.io/havenlife/jobs/4903938002) intern position is available. |
 
 
