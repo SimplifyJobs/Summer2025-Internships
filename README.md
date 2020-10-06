@@ -341,7 +341,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Haven Life](https://boards.greenhouse.io/havenlife/jobs/4903938002)| New York, NY | [Full Stack Developer](https://boards.greenhouse.io/havenlife/jobs/4903938002) intern position is available. |
 [MagView Software Developer Intern](https://www.magview.com/software-developer-intern/) | Fulton, MD | intern position is available. |
 |[Vectra AI](https://www.vectra.ai/about/careers?gh_jid=851956)| CA , Boston | Data Science and Data Engineer internships |
-
+|[Niantic](https://boards.greenhouse.io/niantic/jobs/4905785002) | Remote | |
 
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too! 🙏
 * [GintasS](https://github.com/GintasS) 🐐
