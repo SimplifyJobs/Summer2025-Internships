@@ -18,7 +18,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Bridgewater Associate](https://boards.greenhouse.io/bridgewater89/jobs/4076389002)| Westport, CT |  |
 |[Citadel](https://www.citadel.com/careers/open-positions/positions-for-students/)| Chicago, New York, other global locations | |
 |[Cisco](https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-Bachelor-s-Intern-United-States/1295250?source=Pitt+CSC&tags=CDC+SnNG+students-and-new-graduate-programs)|San Jose, Seattle, RTP, San Francisco, Richardson, Austin, Fulton, Cambridge, Boxborough, Richfield, Alpharetta| |
-|[Credit Suisse](https://tas-creditsuisse.taleo.net/careersection/campus/jobdetail.ftl?job=150202&lang=en) | New York, NY | |
+|Credit Suisse | New York, NY | **Closed**|
 |[D.E. Shaw](https://www.deshaw.com/careers/software-developer-intern-new-york-4018) | New York | |
 |[DRW](https://drw.com/careers/listings/?language=English&category=Campus&location=Chicago) |  Chicago | Software Development, Quant Trader, Quant Research Intern|
 |[Facebook](https://www.facebook.com/careers/jobs/654496918442526/)| Various | |
@@ -339,6 +339,8 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Avalara](https://www.avalara.com/us/en/about/jobs/job-details.o07EdfwI.html)| Various | [Engineering positions](https://www.avalara.com/us/en/about/jobs/job-details.o07EdfwI.html) are available. Wnter internships are available too. |
 |[Lenovo](https://lenovoworldwide.rolepoint.com/?shorturl=YJvM8#job/ahBzfnJvbGVwb2ludC1wcm9kchALEgNKb2IYgIDIu5zQ7gkM)| Morrisville, NC | Data Scince & Analytics, [Data Visualization](https://lenovoworldwide.rolepoint.com/?shorturl=YJvM8#job/ahBzfnJvbGVwb2ludC1wcm9kchALEgNKb2IYgIDI45yE-AgM), Workstation - Engineering and other positions are available. |
 |[Haven Life](https://boards.greenhouse.io/havenlife/jobs/4903938002)| New York, NY | [Full Stack Developer](https://boards.greenhouse.io/havenlife/jobs/4903938002) intern position is available. |
+[MagView Software Developer Intern](https://www.magview.com/software-developer-intern/) | Fulton, MD | intern position is available. |
+|[Vectra AI](https://www.vectra.ai/about/careers?gh_jid=851956)| CA , Boston | Data Science and Data Engineer internships |
 
 
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too! 🙏
