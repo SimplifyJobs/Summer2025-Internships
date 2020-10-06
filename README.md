@@ -343,6 +343,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Vectra AI](https://www.vectra.ai/about/careers?gh_jid=851956)| CA , Boston | Data Science and Data Engineer internships |
 |[Niantic](https://boards.greenhouse.io/niantic/jobs/4905785002) | Remote | |
 |[SiriusXM](https://jobs.jobvite.com/careers/siriusxm/job/ojxEdfwr/apply) | Atlanta, Oakland, Dallas| |
+|[Khan Academy](https://boards.greenhouse.io/khanacademy/jobs/2369770)| US + Canada | |
 |[Rocket Central](https://www.myrocketcareer.com/ListJobs/JobTitle/2021)| Detroit, MI | System Engineer, Data Scientist, Data Analyst, Software Engineer and other positions are available. |
 |[Hitachi ABB Power Grids](https://www.hitachiabb-powergrids.com/career/open-jobs?filter-search=2021&filter-country=US&filter-page=1)| Various | Various positions are available. All majors encouraged to apply. Candidate must already have a work authorization that would permit them to work for Hitachi ABB Power Grids in the United States. |
 |[U.S. Cellular](https://www.uscellular.jobs/search-results?keywords=2021)| Various | Infrastructure Engineering & Automation, Database Administration, Enterprise Security and other positions are available. |
@@ -353,7 +354,6 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[UPS](https://www.jobs-ups.com/search-jobs/2021/United%20States/1187/1/2/6252001/39x76/-98x5/15/2)| Atlanta, GA | [Computer Science](https://www.jobs-ups.com/job/atlanta/ups-global-cs-interns-2021-kennesaw-state-univ/1187/17508589) internships are available. |
 |[Dairy Farmers of America](https://recruiting.adp.com/srccar/public/RTI.home?c=1104941&d=DFA)| Various | [WEB Development](https://recruiting.adp.com/srccar/public/RTI.home?c=1104941&d=DFA), [QA](https://recruiting.adp.com/srccar/public/RTI.home?c=1104941&d=DFA) positions are available. |
 |[PenFed Credit Union](https://penfed.dejobs.org/jobs/?q=2021)| McLean, Virginia | [IT](https://penfed.dejobs.org/mclean-va/it-intern-summer-2021/D6198D2D61D8468B8D2B592A18E379A6/job/), [Quantitative & Data Analytics](https://penfed.dejobs.org/mclean-va/quantitative-and-data-analytics-intern-summer-2021/0C1C9EA4403B4F969913C8F91D24483E/job/) positions are available. |
-[Khan Academy](https://boards.greenhouse.io/khanacademy/jobs/2369770)| US + Canada | |
 
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too! 🙏
 * [GintasS](https://github.com/GintasS) 🐐
