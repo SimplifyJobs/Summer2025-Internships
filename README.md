@@ -343,6 +343,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Vectra AI](https://www.vectra.ai/about/careers?gh_jid=851956)| CA , Boston | Data Science and Data Engineer internships |
 |[Niantic](https://boards.greenhouse.io/niantic/jobs/4905785002) | Remote | |
 |[SiriusXM](https://jobs.jobvite.com/careers/siriusxm/job/ojxEdfwr/apply) | Atlanta, Oakland, Dallas| |
+|[Khan Academy](https://boards.greenhouse.io/khanacademy/jobs/2369770)| US + Canada | |
 
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too! 🙏
 * [GintasS](https://github.com/GintasS) 🐐
@@ -427,5 +428,6 @@ Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), 
 * [maxgravitte](https://github.com/maxgravitte)
 * [jphui](https://jhui.gq)
 * [fatimazali](https://github.com/fatimazali)
+* [Gamebot2](https://gamebot2.com)
 
 Thanks to [elaine-zheng](https://github.com/elaine-zheng/summer2020internships) for the inspiration! 🐐
