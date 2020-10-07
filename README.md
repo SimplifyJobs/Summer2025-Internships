@@ -354,8 +354,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[UPS](https://www.jobs-ups.com/search-jobs/2021/United%20States/1187/1/2/6252001/39x76/-98x5/15/2)| Atlanta, GA | [Computer Science](https://www.jobs-ups.com/job/atlanta/ups-global-cs-interns-2021-kennesaw-state-univ/1187/17508589) internships are available. |
 |[Dairy Farmers of America](https://recruiting.adp.com/srccar/public/RTI.home?c=1104941&d=DFA)| Various | [WEB Development](https://recruiting.adp.com/srccar/public/RTI.home?c=1104941&d=DFA), [QA](https://recruiting.adp.com/srccar/public/RTI.home?c=1104941&d=DFA) positions are available. |
 |[PenFed Credit Union](https://penfed.dejobs.org/jobs/?q=2021)| McLean, Virginia | [IT](https://penfed.dejobs.org/mclean-va/it-intern-summer-2021/D6198D2D61D8468B8D2B592A18E379A6/job/), [Quantitative & Data Analytics](https://penfed.dejobs.org/mclean-va/quantitative-and-data-analytics-intern-summer-2021/0C1C9EA4403B4F969913C8F91D24483E/job/) positions are available. |
-|[JP Morgan Chase & Co.](https://lnkd.in/ekj94tT)|Various || Data engineer, Software engineer positions are available. |
-
+|[KPMG](https://lnkd.in/eeKyJwt) | India | Software engineer internships are available. |
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too! 🙏
 * [GintasS](https://github.com/GintasS) 🐐
 * [hjs2000cn](https://github.com/hjs2000cn)
@@ -440,5 +439,6 @@ Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), 
 * [jphui](https://jhui.gq)
 * [fatimazali](https://github.com/fatimazali)
 * [Gamebot2](https://gamebot2.com)
+* [Sukanya1607](https://github.com/Sukanya1607)
 
 Thanks to [elaine-zheng](https://github.com/elaine-zheng/summer2020internships) for the inspiration! 🐐
