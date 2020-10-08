@@ -367,6 +367,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Formlab](https://careers.formlabs.com/job/1864950/apply/) | Somerville, MA | [Embedded Software](https://careers.formlabs.com/job/2382212/apply/), [UI Software](https://careers.formlabs.com/job/2381971/apply/),[Web Dev](https://careers.formlabs.com/job/2382215/apply/) |
 |[Quip](https://salesforce.wd1.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Summer-2021-Intern---Software-Engineer--Quip-_JR73678) | SF | |
 |[Sofi](https://jobs.jobvite.com/sofi/job/oLcEdfwy)| SF, Seattle, Utah | | 
+|[Kellogg's](https://kelloggs.taleo.net/careersection/2/jobdetail.ftl?job=INF001571)| Battle Creek, MI ; Oak Brook, IL | | 
 
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too! 🙏
 * [GintasS](https://github.com/GintasS) 🐐
