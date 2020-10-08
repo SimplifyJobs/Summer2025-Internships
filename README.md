@@ -378,8 +378,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Credit Karma](https://www.creditkarma.com/careers/jobs/university/software-engineering-intern-2021)| Charlotte, NC | [Software Engineering](https://www.creditkarma.com/careers/jobs/university/software-engineering-intern-2021) Intern position is available. |
 |[Carrier](https://jobs.carrier.com/search-jobs/2021)| Pittsford, Syracuse, New York | [Web/UI Video Software Development](https://jobs.carrier.com/job/pittsford/web-ui-video-software-development-engineer-spring-2021-co-op/29289/17087511), [Engineering](https://jobs.carrier.com/job/syracuse/engineering-intern-co-op/29289/17570372), [DevOps](https://jobs.carrier.com/job/pittsford/devops-engineer-spring-2021-co-op/29289/17114509) and other positions are available. |
 |[TikTok](https://careers.tiktok.com/position?type=3)| Various | [Backend](https://careers.tiktok.com/position/detail/6867794967172745486), [Frontend](https://careers.tiktok.com/position/detail/6867794967173400846) | 
-
-
+|[Booz Allen](https://careers.boozallen.com/careers/JobDetail/Annapolis-Junction-Data-Science-Intern-R0091880/31448?uid=5FioJR6DtYxLDT2g)| Annapolis Junction, MD | [Data Science](https://careers.boozallen.com/careers/JobDetail/Annapolis-Junction-Data-Science-Intern-R0091880/31448?uid=5FioJR6DtYxLDT2g) Internship position is available. Ability to obtain a security clearance required. | 
 
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too! 🙏
 * [GintasS](https://github.com/GintasS) 🐐
