@@ -389,7 +389,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[PactSafe](https://pactsafe-inc.breezy.hr/p/a9aa7bcdd706-software-engineer-summer-2021-intern)| Indianapolis, IN | [Software Engineering](https://pactsafe-inc.breezy.hr/p/a9aa7bcdd706-software-engineer-summer-2021-intern) Intern position is available. |
 |[3M](https://3m.wd1.myworkdayjobs.com/Search/1/refreshFacet/318c8bb6f553100021d223d9780d30be)| Maplewood, MN | [IT](https://3m.wd1.myworkdayjobs.com/en-US/Search/job/US-Minnesota-Maplewood/Internship---IT-Intern-for-Summer-2021_R01014692), [Data Science](https://3m.wd1.myworkdayjobs.com/en-US/Search/job/US-Minnesota-Maplewood/XMLNAME-2021-Undergraduate-Data-Science-Intern_R01020023) positions are available. 3M provides eligible interns with temporary housing and round-trip travel reimbursement in accordance with current policy. Must be legally authorized to work in country of employment without sponsorship for employment visa status (e.g., H1B status). |
 |[MFS Investment Management](https://mfs.wd1.myworkdayjobs.com/MFS-Careers/0/refreshFacet/318c8bb6f553100021d223d9780d30be)| Boston, MA | [IT](https://mfs.wd1.myworkdayjobs.com/en-US/MFS-Careers/job/Boston/Information-Technology-Summer-Internships--Summer-2021-_MFS-200274) internship positions are available. All applicants must be authorized to work in the United States. |
-
+|[FlatIron Health](https://flatiron.com/careers/open-positions/2263862) | NYC | |
 
 
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too! 🙏
