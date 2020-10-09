@@ -225,7 +225,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Paylocity](https://www.paylocity.com/careers/career-opportunities/early-career/?jobId=4130) | Schaumberg, IL | Data Science [here](https://www.paylocity.com/careers/career-opportunities/early-career/?jobId=4175) | |
 |[Pinterest](https://www.pinterestcareers.com/jobs/software-engineering-intern-palo-alto-california-united-states) | San Francisco, Palo Alto, Seattle, Toronto | | 
 |[esri](https://www.esri.com/careers/software-development-and-engineering-2021-internships-13003) | Redlands Vienna, VA Denver Arlington Portland (Maine and Oregon) | |
-| [NextDoor](https://about.nextdoor.com/careers-list/?gh_jid=2337637) | SF | |
+|NextDoor | SF | |
 |[Gusto](https://boards.greenhouse.io/gusto/jobs/2315797) | SF, Denver, NYC | |
 |[Dick's](https://www.dickssportinggoods.jobs/job-search-results/?category[]=Students%20%26%20Recent%20Grads) | Pittsburgh, Nationwide | Data Science, Software Engineering, UX Design. Prefer juniors. |
 |[SK Hynix](http://jobs.jobvite.com/careers/sk-hynix-memory-solutions/job/ohapbfwL/) | San Jose | |
