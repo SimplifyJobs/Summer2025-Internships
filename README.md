@@ -269,7 +269,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Blue Origin](https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Kent-WA/Summer-2021-Internship--Avionics-Software_R5000?mode=job) | Kent, WA ; Merritt Island, FL | Must be a U.S. citizen or national, U.S. permanent resident (current Green Card holder), or lawfully admitted into the U.S. as a refugee or granted asylum.|
 |[Teamworthy Ventures](https://boards.greenhouse.io/teamworthy/jobs/4163159003) | NYC | |
 |[Thomson Reuters](https://jobs.thomsonreuters.com/ListJobs/All/Search/jobtitle/2021/)| Eagan-Minnesota-United States of America | No visa-sponsorships available. DevOps, Software Engineering, Database and other positions are available. |
-|[Redfin](https://redfin.wd1.myworkdayjobs.com/en-US/redfin_careers/job/WA---Seattle/Software-Developer--Intern_31254) | Seattle, Frisco, San Francisco | |
+|Redfin| Seattle, Frisco, San Francisco | Closed |
 |[Poshmark](https://boards.greenhouse.io/poshmark/jobs/2354571) | Redwood City | Android, [iOS](https://boards.greenhouse.io/poshmark/jobs/2350507), [Big Data](https://boards.greenhouse.io/poshmark/jobs/2351485), [Infrastructure](https://boards.greenhouse.io/poshmark/jobs/2350447), [Full Stack](https://boards.greenhouse.io/poshmark/jobs/2349686), [DevOps](https://boards.greenhouse.io/poshmark/jobs/2350481), [Web App](https://boards.greenhouse.io/poshmark/jobs/2351446) |
 |[Vatic Labs](http://www.vaticlabs.ai/careers/2341264/?gh_jid=2341264) | NYC | |
 |[Cerner](https://careers.cerner.com/job/67087BR) | Kansas City, MO | |
