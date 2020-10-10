@@ -391,6 +391,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[MFS Investment Management](https://mfs.wd1.myworkdayjobs.com/MFS-Careers/0/refreshFacet/318c8bb6f553100021d223d9780d30be)| Boston, MA | [IT](https://mfs.wd1.myworkdayjobs.com/en-US/MFS-Careers/job/Boston/Information-Technology-Summer-Internships--Summer-2021-_MFS-200274) internship positions are available. All applicants must be authorized to work in the United States. |
 |[FlatIron Health](https://flatiron.com/careers/open-positions/2263862) | NYC | |
 |[PetSmart](https://careers.petsmart.com/student-interns/jobs?keywords=Software&page=1&sortBy=relevance&categories=Students) | Phoenix, Arizona | [IT Engineering Internship](https://careers.petsmart.com/student-interns/jobs/2162?lang=en-us) and [IT Analyst Internship](https://careers.petsmart.com/student-interns/jobs/2163?lang=en-us) available. |
+|[BP](https://www.bp.com/en/global/corporate/careers/students-and-graduates/locations/united-states/graduate-programs.html) | Chicago, Illinois; Houston, Texas | [Software Engineer Intern](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=25078&siteid=5106&jobid=137494&utm_source=BP_CMT&utm_medium=Organic&utm_campaign=CMT_Recruitment) opportunity. Software Engineering, Platform Engineering, Security Engineering, Solution Architecture specializations are available. No sponsorship available for this position. |
 
 
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too! 🙏
@@ -477,5 +478,6 @@ Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), 
 * [jphui](https://jhui.gq)
 * [fatimazali](https://github.com/fatimazali)
 * [Gamebot2](https://gamebot2.com)
+* [rosescript](https://github.com/rosescript)
 
 Thanks to [elaine-zheng](https://github.com/elaine-zheng/summer2020internships) for the inspiration! 🐐
