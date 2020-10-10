@@ -402,6 +402,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Kiewit](https://kiewitcareers.kiewit.com/search/?q=2021&q2=&alertId=&locationsearch=&title=Summer+2021&shifttype=&department=&location=US)| Omaha, NE | [Software Engineer](https://kiewitcareers.kiewit.com/job/Omaha-Software-Engineer-Intern-Kiewit-Technology-Group-NE-68046/675934800/) Intern position is available. |
 |[Perspecta](https://careers.perspecta.com/jobs?keywords=2021&page=1)| Silver Spring, MD; Basking Ridge, NJ | [Cyber](https://careers.perspecta.com/jobs/101311?lang=en-us) Internship positions are available. U.S. Citizens strongly preferred - permanent residents may be considered if highly qualified. |
 |[Bristol Myers Squibb](https://www.bms.com/ca/en/job-seekers/job-search-results.html?country=united%20states%20of%20america&category=intern/co-op/student/flex&keyword=2021&page=1)| Tampa, FL | [Cloud Operations Engineering](https://www.bms.com/ca/en/job-seekers/job-search-results/job-details.html?requisitionId=R1529838), [Data Science](https://www.bms.com/ca/en/job-seekers/job-search-results/job-details.html?requisitionId=R1529835) positions are available. Candidates must be available to be onsite at the BMS- Tampa, FL location for the year internship. |
+|[Wells Fargo](https://www.wellsfargojobs.com/technology-earlycareers) | Various | Full-time program also available. |
 
 
 
@@ -490,5 +491,6 @@ Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), 
 * [fatimazali](https://github.com/fatimazali)
 * [Gamebot2](https://gamebot2.com)
 * [rosescript](https://github.com/rosescript)
+* [jshin313](https://github.com/jshin313)
 
 Thanks to [elaine-zheng](https://github.com/elaine-zheng/summer2020internships) for the inspiration! 🐐
