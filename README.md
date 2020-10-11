@@ -171,7 +171,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Splunk](https://www.splunk.com/en_us/careers/jobs/technical-residency-internship-summer-16138.html) | San Fran | Software Engineering [here](https://www.splunk.com/en_us/careers/jobs/software-engineer-intern-summer-16168.html) |
 |[Washington Post](https://docs.google.com/forms/d/e/1FAIpQLScwbYDTH-tE5yobarHzuYBqCGRVg6CTn01KCFaM9mG-4Ty_kA/viewform) | DC | Publishing Tools Internship [here](https://docs.google.com/forms/d/e/1FAIpQLSck3QDvOkBap9sbpVWaDDTw2UfzCPHq_Cx7bfySRtoMeH6-jg/viewform)|
 |[Gatik](https://jobs.lever.co/gatik/363a3a47-a59c-49a3-9007-b1389db38969/apply?lever-source=PittCSC)|Palo Alto, CA | |
-|[Cockroach Labs](https://www.cockroachlabs.com/careers/job/?gh_jid=2156732) | NYC | |
+|[Cockroach Labs](https://www.cockroachlabs.com/careers/job/?gh_jid=2156732) | NYC | **Closed** |
 |[Roblox](https://corp.roblox.com/careers/listing/?gh_jid=2311474)|San Mateo, CA | |
 |Domo| American Fork, UT | |
 |[Statefarm](https://findjobs.statefarm.com/ShowJob/Id/460685/Intern%20%20%20Technology) | Various | |
