@@ -403,6 +403,9 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Perspecta](https://careers.perspecta.com/jobs?keywords=2021&page=1)| Silver Spring, MD; Basking Ridge, NJ | [Cyber](https://careers.perspecta.com/jobs/101311?lang=en-us) Internship positions are available. U.S. Citizens strongly preferred - permanent residents may be considered if highly qualified. |
 |[Bristol Myers Squibb](https://www.bms.com/ca/en/job-seekers/job-search-results.html?country=united%20states%20of%20america&category=intern/co-op/student/flex&keyword=2021&page=1)| Tampa, FL | [Cloud Operations Engineering](https://www.bms.com/ca/en/job-seekers/job-search-results/job-details.html?requisitionId=R1529838), [Data Science](https://www.bms.com/ca/en/job-seekers/job-search-results/job-details.html?requisitionId=R1529835) positions are available. Candidates must be available to be onsite at the BMS- Tampa, FL location for the year internship. |
 |[L'Oréal](https://careers.loreal.com/en_US/jobs/JobDetail/2021-L-Oreal-USA-Summer-Internship-Information-Technology-Undergraduate/89141?source=Indeed)| New York, NY | Information Technology Undergraduate, applications close Friday, December 4, 2020. Legally authorized to work in the US on a fulltime, permanent, and ongoing basis without requiring sponsorship now or in the future. |
+|[U.S. Bank](https://usbank.taleo.net/careersection/10000/jobsearch.ftl?lang=en&keyword=2021%20undergraduate%20summer%20internship%20technology) | Various | Software Development, Data Analytics, Digital Engagement, Business Analyst, and other positions are available. |
+|[Comcast](https://jobs.comcast.com/jobs/description/regular?job_id=221340&external_or_internal=external) | Atlanta, GA | Machine Learning, Information Security, Application Development Internship positions are available. Must be authorized to work in the USA. |
+
 
 
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too! 🙏
@@ -490,5 +493,6 @@ Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), 
 * [fatimazali](https://github.com/fatimazali)
 * [Gamebot2](https://gamebot2.com)
 * [rosescript](https://github.com/rosescript)
+* [jshin313](https://github.com/jshin313)
 
 Thanks to [elaine-zheng](https://github.com/elaine-zheng/summer2020internships) for the inspiration! 🐐
