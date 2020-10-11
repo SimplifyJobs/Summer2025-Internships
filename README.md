@@ -20,6 +20,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Cisco](https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-Bachelor-s-Intern-United-States/1295250?source=Pitt+CSC&tags=CDC+SnNG+students-and-new-graduate-programs)|San Jose, Seattle, RTP, San Francisco, Richardson, Austin, Fulton, Cambridge, Boxborough, Richfield, Alpharetta| |
 |[Cisco](https://jobs.cisco.com/jobs/ProjectDetail/Site-Reliability-Engineer-Summer-2021-Internship-Bachelors-Meraki/1301278) | Site Reliability Engineer May - August 2021, full-time | |
 |Credit Suisse | New York, NY | **Closed**|
+|[L'Oréal](https://careers.loreal.com/en_US/jobs/JobDetail/2021-L-Oreal-USA-Summer-Internship-Information-Technology-Undergraduate/89141?source=Indeed)| New York, NY | Information Technology Undergraduate, applications close Friday, December 4, 2020.
 |[D.E. Shaw](https://www.deshaw.com/careers/software-developer-intern-new-york-4018) | New York | |
 |[DRW](https://drw.com/careers/listings/?language=English&category=Campus&location=Chicago) |  Chicago | Software Development, Quant Trader, Quant Research Intern|
 |[Facebook](https://www.facebook.com/careers/jobs/654496918442526/)| Various | |
