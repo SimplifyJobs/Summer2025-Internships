@@ -214,7 +214,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[DoorDash](https://boards.greenhouse.io/doordash/jobs/2333469/) | SF | |
 |[Waymo](https://waymo.com/joinus/2331718/) | Mtn View | Trucking pos [here](https://waymo.com/joinus/2331572/) | 
 |Pure Storage | Mountain View | **Closed** Software Engineering |
-|[New Relic](https://jobs.jobvite.com/newrelic/job/oi9pdfwN) | Portland | |
+|New Relic | Portland | **Closed** |
 |[Kensho](https://jobs.lever.co/kensho/6d510556-b646-4af6-aad5-227625d9727d) | Cambridge | [Front End](https://jobs.lever.co/kensho/312ae842-2798-4021-b76f-33e11c504d71), [Query Infrastructure](https://jobs.lever.co/kensho/f1d84d9a-c754-4f7f-97d4-b87443fb2e60) |
 |[Lucid](https://jobs.lever.co/golucid/299bbfd0-f189-4777-97da-b97b1aaa6052) | Salt Lake City ,UT | |
 |Addepar | Remote | **Closed** |
