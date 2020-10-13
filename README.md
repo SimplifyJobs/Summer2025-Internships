@@ -418,6 +418,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[State Farm](https://findjobs.statefarm.com/Listjobs/All/search/keyword/Intern)| Champaign, IL; Athens, GA | [Technology Rotational (RDC)](https://findjobs.statefarm.com/ShowJob/JobId/458399/InternTechnologyRDCSummer2021), [Intern - ED&A- Pre-MAGNet Program @ University of Georgia](https://findjobs.statefarm.com/ShowJob/JobId/465285/InternEDAPreMAGNetProgramUniversityofGeorgiaSummer2021) Intern positions are available. |
 |[Vistaprint](https://jobs.vistaprint.com/Vistaprint/job/Boston-Software-Engineering-Intern-%28Summer-2021%29-MA-02111/682900400/) | Boston, MA | |
 [Atlassian](https://www.atlassian.com/company/careers/all-jobs?team=&location=&search=2021)| San Francisco, NYC, Mountain View, Austin, Remotely | [Frontend Software Engineer](https://www.atlassian.com/company/careers/detail/ca928061-7c96-424d-b1ac-c9fdccdd7524), [Software Engineer](https://www.atlassian.com/company/careers/detail/ab59a0cd-c07d-4daf-8d9e-d5dd340308f4) Intern positions are available. Not eligible for Visa sponsorship. Unfortunately, we do not offer U.S. work visa sponsorship to F-1 or J-1 students at this time. |
+[United Health Group](https://careers.unitedhealthgroup.com/search-jobs?kw=interns&sp=&re=US&jf=20&sf=8) | Various Locations | Technology Development Internship |
 
 
 
