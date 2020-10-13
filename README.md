@@ -411,7 +411,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[E. & J. Gallo Winery](https://careers.gallo.com/search/?q=2021&q2=&alertId=&locationsearch=&title=2021&location=)| Modesto, CA | [Data Analyst/Scientist](https://careers.gallo.com/job/Modesto-DA-Intern-2021-3-months-CA-95354/670380000/), [Business System Analyst](https://careers.gallo.com/job/Modesto-BSA-Intern-2021-3-months-CA-95354/670378700/) Intern positions are available. Gallo does not sponsor for employment based visas for this position now or in the future. |
 |[Duquesne Light Company](https://career4.successfactors.com/career?career%5fns=job%5flisting&company=Duquesne&navBarLevel=JOB%5fSEARCH&rcm%5fsite%5flocale=en%5fUS&career_job_req_id=12880&selected_lang=en_US&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&_s.crb=7TmQE6vsBa1F4rZpkPGieRGoItHHMjLdyAZfIX4e%2bz8%3d)| Pittsburgh, PA | Software Engineer, Systems Analyst, Information Security Analyst (Cyber Security Operations) and other intern positions are available. |
 |[Cubic](https://cubic.wd1.myworkdayjobs.com/en-US/cubic_USA_careers/job/USA-Boston-MA/Software-Engineering-Intern--Boston_REQ_24892)| Boston, MA | Software Engineering Intern |
-
+[United Health Group](https://careers.unitedhealthgroup.com/search-jobs?kw=interns&sp=&re=US&jf=20&sf=8) | Various Locations | Technology Development Internship |
 
 
 
