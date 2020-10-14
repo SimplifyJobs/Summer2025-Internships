@@ -237,7 +237,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Indeed](https://indeed.avature.net/SWEintern) | Various | |
 |[Epic Systems](https://epic.avature.net/Careers/FolderDetail/Software-Developer-Intern---Summer-2021/19231) |  Minneapolis, Madison, Rochester,MN | Must be eligible to work in the United States without visa sponsorship |
 |Credera | Various | |
-|[Toast]| Boston, MA | Closed |
+|Toast| Boston, MA | Closed |
 |[Spotify](https://www.spotifyjobs.com/job/full-stack-engineer-summer-internship/) | [New York](https://jobs.lever.co/spotify/?commitment=Internship&location=New%20York%2C%20NY&department=Students), [Boston](https://jobs.lever.co/spotify/?commitment=Internship&location=Boston%2C%20MA&department=Students) | |
 |[Smith Micro](https://jobs.lever.co/smithmicro/47b315f1-e798-4139-abd1-35da544a02b3)|Pittsburgh, PA|Mobile Applications, Enterprise and Consumer software|
 |[Cadence](https://www.cadence.com/en_US/home/company/careers/interns-and-new-grads.html)| San Jose CA, Pittsburgh PA, Boston MA| Software and Electrical Engineering services| 
