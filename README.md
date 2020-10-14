@@ -203,7 +203,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[memSQL](https://boards.greenhouse.io/memsql/jobs/2328598) | SF, Seattle | |
 |[ASML](https://www.asml.com/en/careers/find-your-job/1/8/6/software-engineering-intern-san-joseasml-req18667?utm_source=PittCSC)| San Jose | |
 |Sezzle| Minneapolis, MN | **Closed** |
-|[Activision](https://careers.activision.com/job/ACPUUSR003077EXTERNAL/Web-Development-Intern?utm_source=pittcsc) | Santa Monica | |
+|[Activision](https://careers.activision.com/job/ACPUUSR003077EXTERNAL/Web-Development-Intern?utm_source=pittcsc) | Santa Monica, CA and Vancouver, BC | Canada Position [here](https://careers.activision.com/job/ACPUUSR003096EXTERNAL/Software-Development-Internship?utm_source=pittcsc) in Vancouver, BC |
 |[Veeva](https://jobs.lever.co/veeva/066ef3bb-a24d-4c56-8f2b-2f3d1fcfafc8) | Pleasanton, CA | |
 |[SpaceX](https://boards.greenhouse.io/spacex/jobs/4867821002?gh_jid=4867821002) | Various |Must be a U.S. citizen, lawful permanent resident of the U.S., protected individual, or eligible to obtain the required authorizations from the U.S. Department of State|
 |[InfoTech](https://recruiting.ultipro.com/INF1010INFT/JobBoard/a1f626ce-9a88-4c30-86ee-6562ee8ea030//OpportunityDetail?opportunityId=e61387c1-8afd-4373-9852-1e35d441ba85) | Gainesville, FL | |
