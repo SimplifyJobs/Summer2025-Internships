@@ -174,7 +174,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Roblox](https://corp.roblox.com/careers/listing/?gh_jid=2311474)|San Mateo, CA | |
 |Domo| American Fork, UT | |
 |[Statefarm](https://findjobs.statefarm.com/ShowJob/Id/460685/Intern%20%20%20Technology) | Various | |
-|[Samsung](https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/3900-N-Capital-of-Texas-Hwy-Austin-TX-USA/Software-Engineering-Intern_R31357) | Austin, San Jose | |
+|[Samsung](https://sec.wd3.myworkdayjobs.com/Samsung_Careers) | Austin, San Jose | Software Engineering Position **Closed** but other positions are still available |
 |[Expedia](https://lifeatexpediagroup.com/jobs/job?jobid=R-55588) | Seattle, WA | |
 |[Fivestars](https://www.fivestars.com/careers/?gh_jid=2324334) | SF | |
 |PeachPay | Ames, Iowa | Closed |
