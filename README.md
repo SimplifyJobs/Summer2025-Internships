@@ -178,7 +178,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Expedia](https://lifeatexpediagroup.com/jobs/job?jobid=R-55588) | Seattle, WA | |
 |[Fivestars](https://www.fivestars.com/careers/?gh_jid=2324334) | SF | |
 |PeachPay | Ames, Iowa | Closed |
-|[Plexus] | Raleigh, NC | **Closed** |
+|Plexus | Raleigh, NC | **Closed** |
 |[Goodyear](https://jobs.goodyear.com/job/San-Francisco-Global-Technology-Software-Engineering-Intern%2C-New-Ventures-Group-San-Francisco%2C-CA-CA-94101/673042000/?feedId=235900&utm_source=PittCSC) | SF | |
 |[KnowBe4](https://www.knowbe4.com/jobs?gh_jid=4858556002) | Clearwater, Florida | | 
 |[Gap](https://www.gapinc.com/en-us/jobs/33/85/undergrad-summer-internship-software-engineering?src=JB-10340&rx_source=PittCSC) | SF | |
