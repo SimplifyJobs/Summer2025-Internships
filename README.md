@@ -130,7 +130,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Coinbase](https://www.coinbase.com/careers/positions/1724656)| Remote  |  |
 |[Toyota](https://www.toyotaconnected.com/job?gh_jid=4421992002&did=4040990002) | Plano, TX | |
 |[Verkada](https://jobs.lever.co/verkada/be7c6f86-62ec-45e7-b1ad-6af6b4acd38d) | San Mateo, CA | Front End, [Back End](https://jobs.lever.co/verkada/fcfb0cde-9e89-4be9-8df5-e35e11430297), [Comp Vision](https://jobs.lever.co/verkada/be4d736c-9319-4223-b9f2-9f892bf67d85), [Embedded Systems](https://jobs.lever.co/verkada/170f77fc-25c2-4594-8844-6e89c1f0ef91), [Mobile Engineering](https://jobs.lever.co/verkada/c58803d1-33ef-44af-a519-921b19e7691f)|
-|[Nvidia](https://nvidia.wd5.myworkdayjobs.com/en-US/UniversityJobs/job/US-CA-Santa-Clara/Software-Intern--GPU-Communication-Libraries_JR1934897)| Austin, Westford, Redmond, Champaign, Santa Clara | |
+|[Nvidia](https://nvidia.wd5.myworkdayjobs.com/en-US/UniversityJobs/job/US-CA-Santa-Clara/Software-Intern--GPU-Communication-Libraries_JR1934897)| Austin, Westford, Redmond, Champaign, Santa Clara | More [here](https://nvidia.wd5.myworkdayjobs.com/UniversityJobs/10/refreshFacet/318c8bb6f553100021d223d9780d30be)|
 |[Plaid](https://plaid.com/job/?id=4e0c92e3-4c27-44a1-8d9d-be4fa18f987c) | San Fran |  Apply by API |
 |[Bloomberg](https://careers.bloomberg.com/job/detail/84150) | New York |   |
 |[FactSet](https://factset.wd1.myworkdayjobs.com/en-US/FactSetCareers/job/New-York-NY-USA/Software-Engineering-Internship---US-Campus_R7759) | NY, Chicago, Boston, Norwalk, Austin | |
