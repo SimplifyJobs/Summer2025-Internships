@@ -422,9 +422,8 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Florida Blue](https://careers.floridablue.com/us/en/job/22240/2021-IT-Summer-Internship-Program)| Remote, United States | Infrastructure; Front End Design, Development, and Innovation; Cybersecurity; Application Development; Data Science/Analytics Intern positions are available. |
 |[Avient Corporation](https://polyone.referrals.selectminds.com/jobs/it-intern-2021-2471)| Avon Lake, Ohio | |
 |[Unum](https://unum.wd1.myworkdayjobs.com/en-US/External/job/USA---TN---Chattanooga/IT-Summer-Internship-2021_816555-1)| Chattanooga, TN; Portland, ME; Atlanta, GA; Columbia, SC | |
-|[Blizzard Entertainment](https://careers.blizzard.com/global/en/search-results?keywords=2021)| Irvine, CA; Austin, TX | [Software Engineering](https://careers.blizzard.com/global/en/search-results?keywords=2021), [Data Science](https://careers.blizzard.com/global/en/job/R003193/Data-Science-Internship), [Game Development](https://careers.blizzard.com/global/en/job/R003244/Site-Reliability-Engineering-Internship) and other Internship positions are available. |
 |[PathAI](https://www.pathai.com/careers/?gh_jid=4851472002)| Boston, MA | Machine Learning Internship position is available. |
-
+|[LinkedIn](https://www.linkedin.com/jobs/view/2184303072/) | Sunnyvale | |
 
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too! 🙏
 * [GintasS](https://github.com/GintasS) 🐐
