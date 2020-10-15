@@ -429,6 +429,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Equitable](https://equitable.taleo.net/careersection/eqh_1/jobdetail.ftl?job=200004DE&tz=GMT%2B03%3A00&tzname=Europe%2FVilnius)| Charlotte, NC | |
 |[Micron Technology](https://jobs.micron.com/search/?createNewAlert=false&q=2021&locationsearch=US)| Various | [IT Software Engineer](https://jobs.micron.com/job/Boise-Intern-IT-Software-Engineer-1-ID-83701/669629700/), [Data Science](https://jobs.micron.com/job/Boise-Intern-Data-Science-%28Summer-2021%29-ID-83701/675266600/), [IT Full Stack Software Engineer](https://jobs.micron.com/job/Boise-Intern-IT-Full-Stack-Software-Engineer-ID-83701/670310800/) and other Intern positions are available. |
 |[Clever](https://clever.com/about/careers/software-engineering-internship)| San Francisco, CA; Durham, NC or Remote anywhere in the Continental U.S. | |
+|[Ridgeline](https://boards.greenhouse.io/ridgeline/jobs/4126398003) | Incline Village, NV | |
 
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too! 🙏
 * [GintasS](https://github.com/GintasS) 🐐
