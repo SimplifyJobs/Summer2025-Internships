@@ -431,6 +431,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Clever](https://clever.com/about/careers/software-engineering-internship)| San Francisco, CA; Durham, NC or Remote anywhere in the Continental U.S. | |
 |[Ridgeline](https://boards.greenhouse.io/ridgeline/jobs/4126398003) | Incline Village, NV | |
 |[Cruise](https://boards.greenhouse.io/cruise/jobs/2365741?gh_jid=2365741) | SF | Other [internships](https://www.getcruise.com/careers/jobs?department=2bGFusPlaxpzEPHPIb2QLK) as well|
+|[Confluent](https://jobs.lever.co/confluent/17c08395-28cd-4737-9db6-452bab4720be) | Mountain View | [Front end](https://jobs.lever.co/confluent/7dfa6977-59d6-4c00-9c52-b27d2ce8a001) |
 
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too! 🙏
 * [GintasS](https://github.com/GintasS) 🐐
