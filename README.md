@@ -432,6 +432,13 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Cruise](https://boards.greenhouse.io/cruise/jobs/2365741?gh_jid=2365741) | SF | Other [internships](https://www.getcruise.com/careers/jobs?department=2bGFusPlaxpzEPHPIb2QLK) as well|
 |[Confluent](https://jobs.lever.co/confluent/17c08395-28cd-4737-9db6-452bab4720be) | Mountain View | [Front end](https://jobs.lever.co/confluent/7dfa6977-59d6-4c00-9c52-b27d2ce8a001) |
 | [Mark 43](https://www.mark43.com/list-job/?gh_jid=1335587&gh_src=da71ca841) | New York, NY; Toronto, ON | [Toronto](https://www.mark43.com/list-job/?gh_jid=1335584). Not sponsering J-1 or F-1 visas for NY location this summer. |
+| [Motional](https://jobs.lever.co/motional/22326665-0162-400b-838f-64871e36c7fe/apply) | Pittsburgh, PA | |
+| [Kitu Systems](https://www.linkedin.com/jobs/view/2192517109/?eBP=JOB_SEARCH_ORGANIC&refId=9f47083c-64ed-4a2f-b349-f0c5a1506f2f&trackingId=l5MFx6scK0aPtuzjltsi7w%3D%3D&trk=flagship3_search_srp_jobs) | Irvine, CA | Apply through third party site |
+| [Bubble](https://boards.greenhouse.io/bubble/jobs/4806477002) | New York, NY | Currently remote |
+| [Bohemia Interative Simulations](https://apply.workable.com/bohemia-interactive-simulations-inc/j/3822C827D7/) | Pittsburgh, PA | |
+| [Nuance](https://www.nuance.com/about-us/careers/job-description.html//Software-Engineer-Intern/45452) | Burlington, Massachusetts | Remote | 
+
+
 
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too! 🙏
 * [GintasS](https://github.com/GintasS) 🐐
