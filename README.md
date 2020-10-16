@@ -30,7 +30,6 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Pimco](https://careers.pimco.com/careers/SearchJobs/?listFilterMode=1&794=%5B%7B%22%24JSNType%22%3A%22dataset_Option%22%2C%22value%22%3A%7B%22id%22%3A1262%2C%22name%22%3Anull%7D%7D%5D&794_format=659)| Austin, Newport Beach| Software Engineering, Data Science |
 |[Tower Research](https://www.tower-research.com/open-positions/?gh_jid=2238182&gh_src=PittCSC) | Chicago, New York | |
 |[Jane Street](https://www.janestreet.com/join-jane-street/position/4787572002/)| New York | |
-|[NASA](https://nasa.force.com/s/login/)| Various | Requires US Citizenship |
 |[PDT Partners](https://www.pdtpartners.com/jobs.html?gh_jid=1372119)| New York | |
 |Point72 | New York | **Closed** Analyst Academy|
 |Bracebridge Capital|Boston|Closed|
