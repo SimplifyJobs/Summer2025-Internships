@@ -522,5 +522,6 @@ Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), 
 * [rosescript](https://github.com/rosescript)
 * [jshin313](https://github.com/jshin313)
 * [EParmar18](https://github.com/EParmar18)
+* [CuriousIbrahim](https://github.com/CuriousIbrahim)
 
 Thanks to [elaine-zheng](https://github.com/elaine-zheng/summer2020internships) for the inspiration! 🐐
