@@ -448,6 +448,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[United Airlines](https://careers.united.com/job/11700503/intern-digital-technology-summer-2021-chicago-il/)| Chicago, IL | Must be legally authorized to work in the United States for any employer without sponsorship. |
 |[Lytx](https://lytx.wd1.myworkdayjobs.com/Lytx/0/refreshFacet/318c8bb6f553100021d223d9780d30be)| San Diego, CA | [Machine Learning](https://lytx.wd1.myworkdayjobs.com/en-US/Lytx/job/Office---San-Diego-CA/Machine-Learning-Engineer-Intern--Summer-2021-_R-1165), [Embedded Software Automation Engineer](https://lytx.wd1.myworkdayjobs.com/en-US/Lytx/job/Office---San-Diego-CA/Embedded-Software-Automation-Engineer-Intern_R-1164), [Systems/Data Engineer](https://lytx.wd1.myworkdayjobs.com/en-US/Lytx/job/Office---San-Diego-CA/Systems-Data-Engineer-Intern--Summer-2021-_R-1166) and other Intern positions are available. Must be already located in San Diego for the 2021 summer. |
 |[Ingredion](https://ingredion.wd1.myworkdayjobs.com/IngredionCareers/0/refreshFacet/318c8bb6f553100021d223d9780d30be)| Westchester, IL | [Data Engineer](https://ingredion.wd1.myworkdayjobs.com/en-US/IngredionCareers/job/Westchester-IL/Data-Engineer-Intern---Azure--MicroSoft---Summer-2021-_Req-13354), [Power BI Developer](https://ingredion.wd1.myworkdayjobs.com/en-US/IngredionCareers/job/Westchester-IL/Power-BI-Developer-Intern--Summer-2021-_Req-13352) Intern positions are available. Candidates must possess unrestricted authorization to work in the United States. |
+|[Adidas](https://careers.adidas-group.com/teams/students/internships-students#2021-portland-internships)| Portland, OR | Application process opens: January |
 
 
 
@@ -540,5 +541,6 @@ Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), 
 * [jshin313](https://github.com/jshin313)
 * [EParmar18](https://github.com/EParmar18)
 * [CuriousIbrahim](https://github.com/CuriousIbrahim)
+* [Kur0Leo](https://github.com/Kur0Leo)
 
 Thanks to [elaine-zheng](https://github.com/elaine-zheng/summer2020internships) for the inspiration! 🐐
