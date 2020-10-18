@@ -537,7 +537,7 @@ Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), 
 * [maxgravitte](https://github.com/maxgravitte)
 * [jphui](https://jhui.gq)
 * [fatimazali](https://github.com/fatimazali)
-* [Gamebot2](https://gamebot2.com)
+* [Gamebot2](https://github.com/Gamebot2)
 * [rosescript](https://github.com/rosescript)
 * [jshin313](https://github.com/jshin313)
 * [EParmar18](https://github.com/EParmar18)
