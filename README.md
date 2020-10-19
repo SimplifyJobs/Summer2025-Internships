@@ -102,7 +102,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Microsoft](https://careers.microsoft.com/us/en/job/870957/Internship-Opportunities-for-Students-Software-Engineer) | Various | [PM](https://careers.microsoft.com/us/en/job/870958/Internship-Opportunities-for-Students-Program-Manager) and [Explore](https://careers.microsoft.com/us/en/job/870951/Internship-Opportunities-for-Students-Explore-Program)
 |[NetApp](https://jobs.netapp.com/job/Sunnyvale-Intern-Software-&-QA-Engineer-CA-94089/668051300/) | Various | [Advanced Technology Group](https://jobs.netapp.com/job/Research-Triangle-Park-Intern-Advanced-Technology-Group-1-NC-27709/667086400/) and [IT](https://jobs.netapp.com/job/Research-Triangle-Park-Intern-Information-Technology-NC-27709/667086100/) |
 |[Twitch](https://boards.greenhouse.io/twitch/jobs/4827849002?gh_src=PittCSC)| Seattle, Irvine, San Francisco | |
-|[Snap](https://wd1.myworkdaysite.com/recruiting/snapchat/snap/job/Los-Angeles-California/Software-Engineer-Intern-Summer-2021--Application-Window--2--Sep-28th---Oct-2nd-_R0015005)| Los Angeles, Seattle, San Francisco, New York, Mountain View | |
+|Snap| Los Angeles, Seattle, San Francisco, New York, Mountain View | **Closed**|
 |[Benchling](https://www.benchling.com/careers/?gh_jid=2298068&gh_src=PittCSC#detail)| San Fran, Boston | |
 |[Target](https://jobs.target.com/job/-/-/1118/17057382)| Minneapolis | |
 |[Emerson](https://emerson.taleo.net/careersection/autosol/jobdetail.ftl?job=20005735&lang=en&media_id=46825)| Austin,TX| |
