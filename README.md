@@ -463,6 +463,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Pella Corporation](https://careers.pella.com/jobs/information-technology-intern-summer-2021-2975) | Pella, IA | |
 |[Zendesk](https://jobs.zendesk.com/us/en/job/R13853/Software-Development-Intern) | California, [Wisconsin](https://jobs.zendesk.com/us/en/job/R13868/Software-Development-Intern) | |
 |[Mailchimp](https://boards.greenhouse.io/mailchimp/jobs/2331177) | Atlanta | |
+[Prifina](https://roadmaptalent.com/jobs/prifina-software-engineering-intern/) | New York, NY | Remote Internship |
 
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too! 🙏
 * [GintasS](https://github.com/GintasS) 🐐
