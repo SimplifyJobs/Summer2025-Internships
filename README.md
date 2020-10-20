@@ -456,6 +456,12 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Zurich North America](https://zurich.taleo.net/careersection/zurich_ext_zna_en/jobsearch.ftl?lang=en&radiusType=K&location=14970752267&searchExpanded=true&radius=1&portal=8270752267)| Schaumburg, IL | [IT Test Automation](https://zurich.taleo.net/careersection/zurich_ext_cs/jobdetail.ftl?job=200004IH&tz=GMT%2B03%3A00), [Data Science](https://zurich.taleo.net/careersection/zurich_ext_cs/jobdetail.ftl?job=200004UZ&tz=GMT%2B03%3A00), [Data Management](https://zurich.taleo.net/careersection/zurich_ext_cs/jobdetail.ftl?job=200004HW&tz=GMT%2B03%3A00) Intern positions are available. Must be legally eligible to work in the U.S indefinitely. |
 |[Amcor](https://www.amcor.com/careers/job-search?keyword=2021)| Oshkosh, WI | We verify the identity and employment authorization of individuals hired for employment in the United States. |
 |[Brze](https://boards.greenhouse.io/braze/jobs/840086?gh_jid=840086) | NY | |
+|[AffiniPay](https://recruitingbypaycor.com/career/JobIntroduction.action?clientId=8a7883c6640b53f8016413af17602f6a&id=8a78879e6d98ce17016da76b9cd734f5&source=&lang=en) | Austin, TX | |
+|[Owens Corning](https://jobs.owenscorning.com/job/toledo/information-services-intern-2021/868/17170060)| Toledo, OH | |
+|[Lincoln Financial Group](https://jobs.lincolnfinancial.com/search/?q=2021)| Various | |
+|[Meijer](https://meijer.wd5.myworkdayjobs.com/Meijer/0/refreshFacet/318c8bb6f553100021d223d9780d30be)| Grand Rapids, MI | |
+|[Pella Corporation](https://careers.pella.com/jobs/information-technology-intern-summer-2021-2975) | Pella, IA | |
+
 
 
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too! 🙏
