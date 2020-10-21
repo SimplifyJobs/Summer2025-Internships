@@ -464,6 +464,13 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Zendesk](https://jobs.zendesk.com/us/en/job/R13853/Software-Development-Intern) | California, [Wisconsin](https://jobs.zendesk.com/us/en/job/R13868/Software-Development-Intern) | |
 |[Mailchimp](https://boards.greenhouse.io/mailchimp/jobs/2331177) | Atlanta | |
 [Prifina](https://roadmaptalent.com/jobs/prifina-software-engineering-intern/) | New York, NY | Remote Internship |
+|[WW (formerly Weight Watchers)](https://www.weightwatchers.com/us/corporate-careers?p=jobs%2F)| New York; San Francisco, CA | Software Engineering, Mobile Engineering, Data Science and other Intern positions are available. |
+|[Rock Central](https://www.myrocketcareer.com/ListJobs/JobTitle/2021)| Detroit, MI | |
+|[MUFG](https://jobs.mufgamericas.com/search-jobs/2021/29757-30166/1)| Tempe, AZ; Charlotte, NC; Dallas, TX | You are able to furnish proof of citizenship, permanent residency or work in the U.S. |
+|[The Climate Corporation](https://climate.eightfold.ai/careers?pid=2038576&query=2021&domain=climate.com)| San Francisco, CA; Seattle, WA; St. Louis, MO; Chicago, IL | |
+|[CAS](https://jobs.acs.org/search/?createNewAlert=false&q=2021&locationsearch=)| Columbus, OH | Candidates for this position must be authorized to work in the United States and not require work authorization sponsorship by our company for this position now or in the future. |
+
+
 
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too! 🙏
 * [GintasS](https://github.com/GintasS) 🐐
