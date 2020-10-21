@@ -455,6 +455,20 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Baird](https://bairdcareers.com/career-search/?keyword=2021&zip=&distance=20.0&country=United%20States%20of%20America&state=&office=&career_areas=&spage=1)| Milwaukee, WI | [Compliance Data Analytics](https://bairdcareers.com/career-search/posting/internship---compliance-data-analytics-year-round-immediate-start-/8270BR), [IT Software Developer](https://bairdcareers.com/career-search/posting/internship---it-software-developer-year-round-/8220BR), [IT Service Desk](https://bairdcareers.com/career-search/posting/internship---it-service-desk-year-round-/8218BR/) and other Intern positions are available. |
 |[Zurich North America](https://zurich.taleo.net/careersection/zurich_ext_zna_en/jobsearch.ftl?lang=en&radiusType=K&location=14970752267&searchExpanded=true&radius=1&portal=8270752267)| Schaumburg, IL | [IT Test Automation](https://zurich.taleo.net/careersection/zurich_ext_cs/jobdetail.ftl?job=200004IH&tz=GMT%2B03%3A00), [Data Science](https://zurich.taleo.net/careersection/zurich_ext_cs/jobdetail.ftl?job=200004UZ&tz=GMT%2B03%3A00), [Data Management](https://zurich.taleo.net/careersection/zurich_ext_cs/jobdetail.ftl?job=200004HW&tz=GMT%2B03%3A00) Intern positions are available. Must be legally eligible to work in the U.S indefinitely. |
 |[Amcor](https://www.amcor.com/careers/job-search?keyword=2021)| Oshkosh, WI | We verify the identity and employment authorization of individuals hired for employment in the United States. |
+|[Braze](https://boards.greenhouse.io/braze/jobs/840086?gh_jid=840086) | NY | |
+|[AffiniPay](https://recruitingbypaycor.com/career/JobIntroduction.action?clientId=8a7883c6640b53f8016413af17602f6a&id=8a78879e6d98ce17016da76b9cd734f5&source=&lang=en) | Austin, TX | |
+|[Owens Corning](https://jobs.owenscorning.com/job/toledo/information-services-intern-2021/868/17170060)| Toledo, OH | |
+|[Lincoln Financial Group](https://jobs.lincolnfinancial.com/search/?q=2021)| Various | |
+|[Meijer](https://meijer.wd5.myworkdayjobs.com/Meijer/0/refreshFacet/318c8bb6f553100021d223d9780d30be)| Grand Rapids, MI | |
+|[Pella Corporation](https://careers.pella.com/jobs/information-technology-intern-summer-2021-2975) | Pella, IA | |
+|[Zendesk](https://jobs.zendesk.com/us/en/job/R13853/Software-Development-Intern) | California, [Wisconsin](https://jobs.zendesk.com/us/en/job/R13868/Software-Development-Intern) | |
+|[Mailchimp](https://boards.greenhouse.io/mailchimp/jobs/2331177) | Atlanta | |
+[Prifina](https://roadmaptalent.com/jobs/prifina-software-engineering-intern/) | New York, NY | Remote Internship |
+|[WW (formerly Weight Watchers)](https://www.weightwatchers.com/us/corporate-careers?p=jobs%2F)| New York; San Francisco, CA | Software Engineering, Mobile Engineering, Data Science and other Intern positions are available. |
+|[Rock Central](https://www.myrocketcareer.com/ListJobs/JobTitle/2021)| Detroit, MI | |
+|[MUFG](https://jobs.mufgamericas.com/search-jobs/2021/29757-30166/1)| Tempe, AZ; Charlotte, NC; Dallas, TX | You are able to furnish proof of citizenship, permanent residency or work in the U.S. |
+|[The Climate Corporation](https://climate.eightfold.ai/careers?pid=2038576&query=2021&domain=climate.com)| San Francisco, CA; Seattle, WA; St. Louis, MO; Chicago, IL | |
+|[CAS](https://jobs.acs.org/search/?createNewAlert=false&q=2021&locationsearch=)| Columbus, OH | Candidates for this position must be authorized to work in the United States and not require work authorization sponsorship by our company for this position now or in the future. |
 
 
 
