@@ -469,7 +469,11 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[MUFG](https://jobs.mufgamericas.com/search-jobs/2021/29757-30166/1)| Tempe, AZ; Charlotte, NC; Dallas, TX | You are able to furnish proof of citizenship, permanent residency or work in the U.S. |
 |[The Climate Corporation](https://climate.eightfold.ai/careers?pid=2038576&query=2021&domain=climate.com)| San Francisco, CA; Seattle, WA; St. Louis, MO; Chicago, IL | |
 |[CAS](https://jobs.acs.org/search/?createNewAlert=false&q=2021&locationsearch=)| Columbus, OH | Candidates for this position must be authorized to work in the United States and not require work authorization sponsorship by our company for this position now or in the future. |
-
+|[Charles Schwab](https://career-schwab.icims.com/jobs/search?ss=1&searchKeyword=2021&searchRelation=keyword_all)| Austin, Westlake TX; Phoenix, AZ; Chicago, IL; San Francisco, CA; Raleigh, NC | |
+|[General Dynamics Information Technology](https://www.gdit.com/careers/job/fd643998b/2021-technical-internships/)| Falls Church, VA; Shreveport/Bossier City, LA; Washington, D.C; Rockville, Annapolis Junction MD; San Antonio, TX | Currently pursuing an Associate’s, Bachelor’s or Master’s degree from a United States-based college or university with an IT related major. |
+|[Phillips 66](https://phillips66.jobs/jobs/?q=2021)| Various | Legally authorized to work in the job posting country. |
+|[RubensteinTech](https://rubensteintech.applytojob.com/apply/LHjGXtPEzd/Web-Software-Engineering-Intern-Summer-2021)| New York, NY | |
+|[Staples](https://careers.staples.com/ShowJob/JobId/986154/CybersecurityInternshipSummer2021)| Framingham, MA | Cybersecurity Intern position is available. Staples will not sponsor candidates for work visas of any kind, now or in the future, for this position. |
 
 
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too! 🙏
