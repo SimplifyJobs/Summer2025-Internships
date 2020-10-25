@@ -475,6 +475,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[RubensteinTech](https://rubensteintech.applytojob.com/apply/LHjGXtPEzd/Web-Software-Engineering-Intern-Summer-2021)| New York, NY | |
 |[Staples](https://careers.staples.com/ShowJob/JobId/986154/CybersecurityInternshipSummer2021)| Framingham, MA | Cybersecurity Intern position is available. Staples will not sponsor candidates for work visas of any kind, now or in the future, for this position. |
 |[Unity](https://careers.unity.com/position/backend-software-engineer-intern/2408090) | SF | |
+|[Nintendo](https://careers.nintendo.com/job-openings/listing/2000000084.html?src=CWS-10000)| Redmond, WA | [Other intern positions avaialable](https://careers.nintendo.com/job-openings/) |
 
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too! 🙏
 * [GintasS](https://github.com/GintasS) 🐐
