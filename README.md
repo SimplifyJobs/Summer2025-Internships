@@ -481,6 +481,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Matco Tools](https://careers.vontier.com/us/en/search-results?keywords=2021)| Various | [Web Developer](https://careers.vontier.com/us/en/job/MAT001987/Web-Developer-Intern-Co-Op-Summer-2021), [Firmware Engineer](https://careers.vontier.com/us/en/job/GLO000187/Firmware-Engineering-Intern-Summer-2021), [Software Engineering](https://careers.vontier.com/us/en/job/GLO000184/Software-Engineering-Intern-Summer-2021) Intern positions are available. |
 |[InfluxData](https://www.influxdata.com/careers/)| Remote | |
 |[Carnegie Robotics](https://carnegierobotics.com/hiring)| Pittsburgh, PA | |
+|[Electronic Arts](https://www.ea.com/careers/students) | Redwood City, CA; Austin, TX; Orlando, FL; Seattle, WA; Los Angeles, CA | |
 
 
 
