@@ -444,7 +444,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 | [NI (National Instruments)](https://pef.fa.us1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/requisitions/preview/1240/?keyword=2021)| Austin, TX | NI does NOT petition for H-1B status from student visas for full-time or intern hires, thus cannot accept candidates for this position who are on a student visa and have Curriculum Practical Training (CPT), Optional Practical Training (OPT), or academic training. |
 | [Aurora](https://aurora.tech/jobs/4910063002?gh_jid=4910063002) | Palo Alto, SF, Pittsburgh | |
 |[Lark Health](https://boards.greenhouse.io/larkhealth)| Mountain View, CA | [Data Analyst](https://boards.greenhouse.io/larkhealth/jobs/4891889002), [Backend Engineer](https://boards.greenhouse.io/larkhealth/jobs/4891818002), [Mobile Engineer](https://boards.greenhouse.io/larkhealth/jobs/4891825002) and other Intern positions are available. |
-|[Speedway Motors](https://speedwaymotors.bamboohr.com/jobs/view.php?id=134)| Lincoln, NE | |
+|Speedway Motors| Lincoln, NE | Closed |
 |[United Airlines](https://careers.united.com/job/11700503/intern-digital-technology-summer-2021-chicago-il/)| Chicago, IL | Must be legally authorized to work in the United States for any employer without sponsorship. |
 |[Lytx](https://lytx.wd1.myworkdayjobs.com/Lytx/0/refreshFacet/318c8bb6f553100021d223d9780d30be)| San Diego, CA | [Machine Learning](https://lytx.wd1.myworkdayjobs.com/en-US/Lytx/job/Office---San-Diego-CA/Machine-Learning-Engineer-Intern--Summer-2021-_R-1165), [Embedded Software Automation Engineer](https://lytx.wd1.myworkdayjobs.com/en-US/Lytx/job/Office---San-Diego-CA/Embedded-Software-Automation-Engineer-Intern_R-1164), [Systems/Data Engineer](https://lytx.wd1.myworkdayjobs.com/en-US/Lytx/job/Office---San-Diego-CA/Systems-Data-Engineer-Intern--Summer-2021-_R-1166) and other Intern positions are available. Must be already located in San Diego for the 2021 summer. |
 |[Ingredion](https://ingredion.wd1.myworkdayjobs.com/IngredionCareers/0/refreshFacet/318c8bb6f553100021d223d9780d30be)| Westchester, IL | [Data Engineer](https://ingredion.wd1.myworkdayjobs.com/en-US/IngredionCareers/job/Westchester-IL/Data-Engineer-Intern---Azure--MicroSoft---Summer-2021-_Req-13354), [Power BI Developer](https://ingredion.wd1.myworkdayjobs.com/en-US/IngredionCareers/job/Westchester-IL/Power-BI-Developer-Intern--Summer-2021-_Req-13352) Intern positions are available. Candidates must possess unrestricted authorization to work in the United States. |
@@ -481,6 +481,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Matco Tools](https://careers.vontier.com/us/en/search-results?keywords=2021)| Various | [Web Developer](https://careers.vontier.com/us/en/job/MAT001987/Web-Developer-Intern-Co-Op-Summer-2021), [Firmware Engineer](https://careers.vontier.com/us/en/job/GLO000187/Firmware-Engineering-Intern-Summer-2021), [Software Engineering](https://careers.vontier.com/us/en/job/GLO000184/Software-Engineering-Intern-Summer-2021) Intern positions are available. |
 |[InfluxData](https://www.influxdata.com/careers/)| Remote | |
 |[Carnegie Robotics](https://carnegierobotics.com/hiring)| Pittsburgh, PA | |
+|[Electronic Arts](https://www.ea.com/careers/students) | Redwood City, CA; Austin, TX; Orlando, FL; Seattle, WA; Los Angeles, CA | |
 
 
 
@@ -574,5 +575,6 @@ Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), 
 * [EParmar18](https://github.com/EParmar18)
 * [CuriousIbrahim](https://github.com/CuriousIbrahim)
 * [Kur0Leo](https://github.com/Kur0Leo)
+* [GarlicDebug](https://github.com/GarlicDebug)
 
 Thanks to [elaine-zheng](https://github.com/elaine-zheng/summer2020internships) for the inspiration! 🐐
