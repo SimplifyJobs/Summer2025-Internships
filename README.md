@@ -469,6 +469,18 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[MUFG](https://jobs.mufgamericas.com/search-jobs/2021/29757-30166/1)| Tempe, AZ; Charlotte, NC; Dallas, TX | You are able to furnish proof of citizenship, permanent residency or work in the U.S. |
 |[The Climate Corporation](https://climate.eightfold.ai/careers?pid=2038576&query=2021&domain=climate.com)| San Francisco, CA; Seattle, WA; St. Louis, MO; Chicago, IL | |
 |[CAS](https://jobs.acs.org/search/?createNewAlert=false&q=2021&locationsearch=)| Columbus, OH | Candidates for this position must be authorized to work in the United States and not require work authorization sponsorship by our company for this position now or in the future. |
+|[Charles Schwab](https://career-schwab.icims.com/jobs/search?ss=1&searchKeyword=2021&searchRelation=keyword_all)| Austin, Westlake TX; Phoenix, AZ; Chicago, IL; San Francisco, CA; Raleigh, NC | |
+|[General Dynamics Information Technology](https://www.gdit.com/careers/job/fd643998b/2021-technical-internships/)| Falls Church, VA; Shreveport/Bossier City, LA; Washington, D.C; Rockville, Annapolis Junction MD; San Antonio, TX | Currently pursuing an Associate’s, Bachelor’s or Master’s degree from a United States-based college or university with an IT related major. |
+|[Phillips 66](https://phillips66.jobs/jobs/?q=2021)| Various | Legally authorized to work in the job posting country. |
+|[RubensteinTech](https://rubensteintech.applytojob.com/apply/LHjGXtPEzd/Web-Software-Engineering-Intern-Summer-2021)| New York, NY | |
+|[Staples](https://careers.staples.com/ShowJob/JobId/986154/CybersecurityInternshipSummer2021)| Framingham, MA | Cybersecurity Intern position is available. Staples will not sponsor candidates for work visas of any kind, now or in the future, for this position. |
+|[Unity](https://careers.unity.com/position/backend-software-engineer-intern/2408090) | SF | |
+|[Nintendo](https://careers.nintendo.com/job-openings/listing/2000000084.html?src=CWS-10000)| Redmond, WA | [Other intern positions avaialable](https://careers.nintendo.com/job-openings/) |
+|[Esri](https://www.esri.com/en-us/about/careers/job-search?q=2021)| Various | [IT](https://www.esri.com/careers/information-technology-2021-internships-13005), [Software Development and Engineering](https://www.esri.com/careers/software-development-and-engineering-2021-internships-13003) Intern positions are available. Must have ability to obtain work authorization in the United States in 2021. |
+|[CAS](https://jobs.acs.org/search/?createNewAlert=false&q=2021&locationsearch=)| Columbus, OH | [Technology](https://jobs.acs.org/job/Columbus-Technology-Intern-Summer-2021-OH-43202/679619000/), [DAI](https://jobs.acs.org/job/Columbus-DAI-Intern-OH-43202/680119500/) Intern positions are available. Candidates for this position must be authorized to work in the United States and not require work authorization sponsorship by our company for this position now or in the future. |
+|[Matco Tools](https://careers.vontier.com/us/en/search-results?keywords=2021)| Various | [Web Developer](https://careers.vontier.com/us/en/job/MAT001987/Web-Developer-Intern-Co-Op-Summer-2021), [Firmware Engineer](https://careers.vontier.com/us/en/job/GLO000187/Firmware-Engineering-Intern-Summer-2021), [Software Engineering](https://careers.vontier.com/us/en/job/GLO000184/Software-Engineering-Intern-Summer-2021) Intern positions are available. |
+|[InfluxData](https://www.influxdata.com/careers/)| Remote | |
+|[Carnegie Robotics](https://carnegierobotics.com/hiring)| Pittsburgh, PA | |
 
 
 
