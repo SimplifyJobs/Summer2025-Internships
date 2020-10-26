@@ -575,5 +575,6 @@ Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), 
 * [EParmar18](https://github.com/EParmar18)
 * [CuriousIbrahim](https://github.com/CuriousIbrahim)
 * [Kur0Leo](https://github.com/Kur0Leo)
+* [GarlicDebug](https://github.com/GarlicDebug)
 
 Thanks to [elaine-zheng](https://github.com/elaine-zheng/summer2020internships) for the inspiration! 🐐
