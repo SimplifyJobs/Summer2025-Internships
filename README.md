@@ -482,6 +482,8 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[InfluxData](https://www.influxdata.com/careers/)| Remote | |
 |[Carnegie Robotics](https://carnegierobotics.com/hiring)| Pittsburgh, PA | |
 |[Electronic Arts](https://www.ea.com/careers/students) | Redwood City, CA; Austin, TX; Orlando, FL; Seattle, WA; Los Angeles, CA | |
+|[Intel](https://intel.wd1.myworkdayjobs.com/External/8/refreshFacet/318c8bb6f553100021d223d9780d30be) | Hillsboro, OR; Fulsolm, CA; Phoenix, AZ; Portland, OR; San Francisco, CA | |
+
 
 
 
