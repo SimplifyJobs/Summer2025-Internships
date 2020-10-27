@@ -483,8 +483,8 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Carnegie Robotics](https://carnegierobotics.com/hiring)| Pittsburgh, PA | |
 |[Electronic Arts](https://www.ea.com/careers/students) | Redwood City, CA; Austin, TX; Orlando, FL; Seattle, WA; Los Angeles, CA | |
 |[Intel](https://intel.wd1.myworkdayjobs.com/External/8/refreshFacet/318c8bb6f553100021d223d9780d30be) | Hillsboro, OR; Fulsolm, CA; Phoenix, AZ; Portland, OR; San Francisco, CA | |
-
-
+|[Disney](https://jobs.disneycareers.com/job/glendale/digital-media-intern-corporate-communications-remote-spring-2021/391/17730674
+) | Glendale, CA | Digital Media Intern |
 
 
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too! 🙏
