@@ -486,6 +486,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Deutsche Bank](https://www.db.com/careers/en/grad/role-search/job_search_results.html#career_level=11) | New York, NY; Cary, NC | Some positions will not provide sponsorship for work visa. |
 |[HackNY](https://hackny.org/fellows-program)|New York City, NY | |
 |[PepsiCo](https://www.pepsicojobs.com/student/jobs/213146BR?lang=en-us) | Plano, TX; Purchase/White Plains, NY | Project Coordination, Development, Data Analytics, Business Analyst, and Information Security positions are available. Must have the "indefinite right to work in the United States." Not Eligible for Relocation. |
+|[Mutual of Omaha](https://www.mutualofomaha.com/careers/jobs/detail/497505)| Omaha, NE | Closes November 4th. |
 
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too! 🙏
 * [GintasS](https://github.com/GintasS) 🐐
