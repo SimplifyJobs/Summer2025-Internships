@@ -488,6 +488,9 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[PepsiCo](https://www.pepsicojobs.com/student/jobs/213146BR?lang=en-us) | Plano, TX; Purchase/White Plains, NY | Project Coordination, Development, Data Analytics, Business Analyst, and Information Security positions are available. Must have the "indefinite right to work in the United States." Not Eligible for Relocation. |
 |[Mutual of Omaha](https://www.mutualofomaha.com/careers/jobs/detail/497505)| Omaha, NE | Closes November 4th. |
 |[CBRE](https://cbre.referrals.selectminds.com/jobs/software-engineer-intern-78131?src=JB-10160)| Dallas, Texas | Software Engineer Intern |
+|[Restaurant Brands International](https://boards.greenhouse.io/rbicampus/)| Miami, FL | [Software Engineering](https://boards.greenhouse.io/rbicampus/jobs/4844891002), [Machine Learning](https://boards.greenhouse.io/rbicampus/jobs/4844875002) and other Intern positions are available. |
+|[OppLoans](https://www.opploans.com/careers/#joblisting) | Chicago, IL | Various tracks are available. |
+|[Baker Hughes](https://careers.bakerhughes.com/global/en/search-results?keywords=2021)| Houston, TX | Must be geographically mobile due to location availability of role. |
 
 
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too! 🙏
