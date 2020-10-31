@@ -491,7 +491,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Restaurant Brands International](https://boards.greenhouse.io/rbicampus/)| Miami, FL | [Software Engineering](https://boards.greenhouse.io/rbicampus/jobs/4844891002), [Machine Learning](https://boards.greenhouse.io/rbicampus/jobs/4844875002) and other Intern positions are available. |
 |[OppLoans](https://www.opploans.com/careers/#joblisting) | Chicago, IL | Various tracks are available. |
 |[Baker Hughes](https://careers.bakerhughes.com/global/en/search-results?keywords=2021)| Houston, TX | Must be geographically mobile due to location availability of role. Must be able to legally work in the country that you are applying in, without company sponsorship or time restriction. |
-
+|[PerBlue](https://perblue.recruiterbox.com/jobs/fk0qyuj/) | Madison, Wisconson | |
 
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too! 🙏
 * [GintasS](https://github.com/GintasS) 🐐
