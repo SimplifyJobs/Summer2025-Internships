@@ -492,6 +492,8 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[OppLoans](https://www.opploans.com/careers/#joblisting) | Chicago, IL | Various tracks are available. |
 |[Baker Hughes](https://careers.bakerhughes.com/global/en/search-results?keywords=2021)| Houston, TX | Must be geographically mobile due to location availability of role. Must be able to legally work in the country that you are applying in, without company sponsorship or time restriction. |
 |[PerBlue](https://perblue.recruiterbox.com/jobs/fk0qyuj/) | Madison, Wisconson | |
+|[Sabre Corporation](https://jobs.sabre.com/job/Southlake-Software-Engineer-Intern-Summer-2021-TX-75063/688127700/?feedId=220100&utm_source=LinkedInJobPostings&utm_campaign=Sabre_Linkedin)| Southlake, TX | Software Engineer Intern |
+|[QGenda](https://qgenda.applytojob.com/apply/v4bYdyojr5/Software-Engineer-Internship-Spring-2021)| Atlanta, GA | Software Engineer Intern |
 
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too! 🙏
 * [GintasS](https://github.com/GintasS) 🐐
