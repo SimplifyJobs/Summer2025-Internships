@@ -492,6 +492,8 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[OppLoans](https://www.opploans.com/careers/#joblisting) | Chicago, IL | Various tracks are available. |
 |[Baker Hughes](https://careers.bakerhughes.com/global/en/search-results?keywords=2021)| Houston, TX | Must be geographically mobile due to location availability of role. Must be able to legally work in the country that you are applying in, without company sponsorship or time restriction. |
 |[PerBlue](https://perblue.recruiterbox.com/jobs/fk0qyuj/) | Madison, Wisconson | |
+|[Sabre Corporation](https://jobs.sabre.com/search/?createNewAlert=false&q=2021&locationsearch=&optionsFacetsDD_title=&optionsFacetsDD_location=&optionsFacetsDD_department=)| Southlake, TX | [Software Engineer](https://jobs.sabre.com/job/Southlake-Software-Engineer-Intern-Summer-2021-TX-75063/688127700/), [UX Strategy](https://jobs.sabre.com/job/Southlake-Contributor-Intern-TX-Refer-to-j/685692700/), [UX Research](https://jobs.sabre.com/job/Southlake-UX-Research-Intern-2021-Summer-TX-75063/687556000/) Intern positions are available. |
+|[QGenda](https://qgenda.applytojob.com/apply/v4bYdyojr5/Software-Engineer-Internship-Spring-2021)| Atlanta, GA | Software Engineer Intern |
 
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too! 🙏
 * [GintasS](https://github.com/GintasS) 🐐
