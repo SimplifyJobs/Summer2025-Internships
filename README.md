@@ -518,6 +518,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Trello](https://neuvoo.com/view/?id=c3d561739d98&source=linkedin&utm_source=partner&utm_medium=linkedin&puid=3aedcdcdfaccddcb3deagddf3de98ddd7dd7ca)| San Francisco, CA | Not eligible for Visa sponsorship. Unfortunately, we do not offer U.S. work visa sponsorship to F-1 or J-1 students at this time. |
 |[X, the moonshot factory](https://x.company/careers-at-x/)| Mountain View, CA; Remote | [Software Engineering](https://x.company/careers-at-x/4957848002/), [Tech For Good Intern, Everyday Robot Project](https://x.company/careers-at-x/4958949002/) Intern positions are available. Formerly known as Google X. |
 |[O-I](https://careers.peopleclick.com/careerscp/client_endevis/external/en-us/search.do)| Perrysburg, OH | Must be authorized to work in the U.S. on a full-time basis. (O-I does not sponsor working visas for internships or co-ops). |
+|[Square](https://www.smartrecruiters.com/Square/743999724513159)|San Francisco, CA| |
 
 
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too! 🙏
