@@ -523,8 +523,8 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Equifax](https://careers.equifax.com/global/en/search-results?keywords=2021)| St. Louis, MO | Various opportunities are available, from Java developer to Software Engineering Intern. |
 |[Keysight Technologies](https://jobs.keysight.com/search/?q=Intern&startrow=15)| Various | [Software Development](https://jobs.keysight.com/job/Austin-Intern-Tech-I-TX-73301/680767800/), [Firmware Engineer](https://jobs.keysight.com/job/Santa-Rosa-Firmware-Engineer-Intern-CA-95401/685500800/), [Software System Test](https://jobs.keysight.com/job/Austin-Software-System-Test-Intern-TX-73301/675991100/) and other Intern positions are available.Some positions may involve access to export-controlled information, US Citizenship or Permanent Residency may be Required. |
 |[Canoo](https://canoo.breezy.hr/p/21cf88205677-embedded-software-intern)| Torrance, CA | [Software Operations](https://canoo.breezy.hr/p/3895df44f6cb-software-operations-intern) |
-|[Continental](https://www.continental-jobs.com/index.php?ac=search_result&search_criterion_keyword%5B%5D=Intern&search_criterion_country%5B%5D=50&search_criterion_language%5B%5D=EN&search_criterion_channel%5B%5D=12&language=2)| Auburn Hills, MI | |
-|[Gotion](http://www.gotion.com/careers/#job-listing)| Fremont, California | |
+|[Continental](https://www.continental-jobs.com/index.php?ac=search_result&search_criterion_keyword%5B%5D=Intern&search_criterion_activity_level%5B%5D=3&search_criterion_country%5B%5D=50&search_criterion_language%5B%5D=EN&search_criterion_channel%5B%5D=12&language=2)| Auburn Hills, MI | |
+|[Gotion](http://www.gotion.com/careers/#job-listing)| Fremont, CA | |
 |[Ball Aerospace](https://jobs.ball.com/aerospace/search/?createNewAlert=false&q=2021&locationsearch=)| Albuquerque, NM; Various CO | Only Fall 2021 Internships are available. US citizenship may be required. Relocation may be available. |
 
 
