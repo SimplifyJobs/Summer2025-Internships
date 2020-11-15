@@ -526,7 +526,11 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Continental](https://www.continental-jobs.com/index.php?ac=search_result&search_criterion_keyword%5B%5D=Intern&search_criterion_activity_level%5B%5D=3&search_criterion_country%5B%5D=50&search_criterion_language%5B%5D=EN&search_criterion_channel%5B%5D=12&language=2)| Auburn Hills, MI | |
 |[Gotion](http://www.gotion.com/careers/#job-listing)| Fremont, CA | |
 |[Ball Aerospace](https://jobs.ball.com/aerospace/search/?createNewAlert=false&q=2021&locationsearch=)| Albuquerque, NM; Various CO | Only Fall 2021 Internships are available. US citizenship may be required. Relocation may be available. |
-
+|[American Family Insurance](https://amfam.wd1.myworkdayjobs.com/Careers/0/refreshFacet/318c8bb6f553100021d223d9780d30be)| De Pere, Madison, WI; Overland Park, KS; Florida; Remote | Offer to selected candidate will be made contingent on the results of applicable background checks. |
+|[Caterpillar](https://caterpillarcareers.ttcportals.com/search/jobs/in/country/united-states?q=2021)| Various IL | This employer is not currently hiring foreign national applicants that require or will require sponsorship tied to a specific employer, such as H, L, TN, F, J, E, O. |
+|[Summit Credit Union](https://recruiting.ultipro.com/SUM1007SUMCU/JobBoard/e30746ba-96e7-4dbb-8472-b4993f78eb75/OpportunityDetail?opportunityId=32d1cee2-4925-4292-a744-f8a60d0189e7)| Cottage Grove, WI | |
+|[Pearson](https://pearson.jobs/usa/jobs/?q=Intern&r=25)| Various | [Developer](https://pearson.jobs/san-antonio-tx/intern-developer/0972374041C94E1B947186616087DCB7/job/), [Security Engineering](https://pearson.jobs/san-antonio-tx/intern-security-engineering/736C6F5D5D7F4964AC0CF927F00DBDF5/job/), [Site Reliability Engineer](https://pearson.jobs/iowa-city-ia/intern-sre-site-reliability-engineer/6C1B5E88A1344DDE86B2EB38AE060EFC/job/) and other Intern positions are available. Some positions may require interns to be within driving distance of office location. |
+|[Aldridge Electric](https://aldridge.csod.com/ux/ats/careersite/9/home?c=aldridge&sq=2021&country=us)| Libertyville, IL | |
 
 
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too! 🙏
