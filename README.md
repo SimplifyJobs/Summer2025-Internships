@@ -531,6 +531,13 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Summit Credit Union](https://recruiting.ultipro.com/SUM1007SUMCU/JobBoard/e30746ba-96e7-4dbb-8472-b4993f78eb75/OpportunityDetail?opportunityId=32d1cee2-4925-4292-a744-f8a60d0189e7)| Cottage Grove, WI | |
 |[Pearson](https://pearson.jobs/usa/jobs/?q=Intern&r=25)| Various | [Developer](https://pearson.jobs/san-antonio-tx/intern-developer/0972374041C94E1B947186616087DCB7/job/), [Security Engineering](https://pearson.jobs/san-antonio-tx/intern-security-engineering/736C6F5D5D7F4964AC0CF927F00DBDF5/job/), [Site Reliability Engineer](https://pearson.jobs/iowa-city-ia/intern-sre-site-reliability-engineer/6C1B5E88A1344DDE86B2EB38AE060EFC/job/) and other Intern positions are available. Some positions may require interns to be within driving distance of office location. |
 |[Aldridge Electric](https://aldridge.csod.com/ux/ats/careersite/9/home?c=aldridge&sq=2021&country=us)| Libertyville, IL | |
+|[Veritiv](https://careers.veritivcorp.com/us/en/search-results?keywords=2021&from=10&s=1)| Exton, PA; Atlanta, Norcross, GA | |
+|[KeHE Distributors](https://careers.kehe.com/us/en/search-results?keywords=2021)| Naperville, IL | |
+|[KLA](https://kla.wd1.myworkdayjobs.com/Search/2/refreshFacet/318c8bb6f553100021d223d9780d30be)| Ann Arbor, MI; Milpitas, CA | |
+|[Aerojet Rocketdyne](https://jobs4-aerojet-rocketdyne.icims.com/jobs/search?ics_keywords=2021)| Canoga Park, CA; Huntsville, AL | [Software Engineering - Canoga Park, CA](https://jobs4-aerojet-rocketdyne.icims.com/jobs/17166/job), [Software Engineering - Huntsville, AL](https://jobs4-aerojet-rocketdyne.icims.com/jobs/17141/job) Intern positions are available. Requires U.S. Citizenship, U.S. Permanent Residency or other status as a U.S. Person. Must be able to satisfy federal government requirements for access to government information and having dual citizenship may preclude you from being able to meet this requirement. |
+|[H.B. Fuller](https://jobs.hbfuller.com/job/vadnais-heights/it-operations-support-intern/541/2321939616)| Vadnais Heights, MN | |
+
+
 
 
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too! 🙏
