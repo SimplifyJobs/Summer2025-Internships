@@ -536,8 +536,11 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[KLA](https://kla.wd1.myworkdayjobs.com/Search/2/refreshFacet/318c8bb6f553100021d223d9780d30be)| Ann Arbor, MI; Milpitas, CA | |
 |[Aerojet Rocketdyne](https://jobs4-aerojet-rocketdyne.icims.com/jobs/search?ics_keywords=2021)| Canoga Park, CA; Huntsville, AL | [Software Engineering - Canoga Park, CA](https://jobs4-aerojet-rocketdyne.icims.com/jobs/17166/job), [Software Engineering - Huntsville, AL](https://jobs4-aerojet-rocketdyne.icims.com/jobs/17141/job) Intern positions are available. Requires U.S. Citizenship, U.S. Permanent Residency or other status as a U.S. Person. Must be able to satisfy federal government requirements for access to government information and having dual citizenship may preclude you from being able to meet this requirement. |
 |[H.B. Fuller](https://jobs.hbfuller.com/job/vadnais-heights/it-operations-support-intern/541/2321939616)| Vadnais Heights, MN | |
-
-
+|[VMware](https://careers.vmware.com/main/jobs?keywords=2021&page=1&sortBy=relevance&location=United%20States&woe=12&stretchUnit=MILES&stretch=50)| Various | Various positions are available. Job positions may not eligible for employment-based immigration sponsored by VMware. |
+|[F&G](https://www.fglife.com/about/careers.html)| Des Moines, IA | |
+|[Alaska Airlines](https://alaskaair.jobs/jobs/?q=2021)| Seattle, WA | Various positions are available. Must be authorized to work in the U.S. |
+|[Pacific Scientific Energetic Materials](https://careers.fortive.com/search-results?keywords=2021)| Chandler, AZ; Hollister, CA | |
+|[Anaren](https://www.ttmtech.com/careers/careers_search.aspx?gnk=job&gni=8a78859f7475f51a017492c3ae77757d&lang=en)| Syracuse, NY | |
 
 
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too! 🙏
