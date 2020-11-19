@@ -541,6 +541,12 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Alaska Airlines](https://alaskaair.jobs/jobs/?q=2021)| Seattle, WA | Various positions are available. Must be authorized to work in the U.S. |
 |[Pacific Scientific Energetic Materials](https://careers.fortive.com/search-results?keywords=2021)| Chandler, AZ; Hollister, CA | |
 |[Anaren](https://www.ttmtech.com/careers/careers_search.aspx?gnk=job&gni=8a78859f7475f51a017492c3ae77757d&lang=en)| Syracuse, NY | |
+|[Chatham Financial](https://www.chathamfinancial.com/careers/jobs)| Kennett Square, PA; Denver, CO | [Software Developer](https://www.chathamfinancial.com/careers/jobs/software-development-internship-2021-2298460), [Information Security Analyst](https://www.chathamfinancial.com/careers/jobs/information-security-summer-analyst-2021-2431324) and other Intern positions are available. |
+|[Orchard](https://boards.greenhouse.io/perch1/jobs/4867481002)| New York, NY | |
+|[Remitly](https://www.remitly.com/us/en/careers/2421662?from=engineering&gh_jid=2421662)| Seattle, WA | Remitly is an E-Verify Employer. |
+|[Teradyne](https://jobs.teradyne.com/search/?createNewAlert=false&q=2021&optionsFacetsDD_customfield1=&optionsFacetsDD_dept=)| North Reading, MA | |
+|[Citizens Bank](https://jobs.citizensbank.com/search-jobs/2021/288/1?fl=6252001&glat=54.6872&glon=25.2797)| Various | Please note that U.S. Immigration sponsorship or work visa may not be available for some positions, so candidates must have permanent authorization to work in the U.S. |
+
 
 
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too! 🙏
