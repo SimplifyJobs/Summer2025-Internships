@@ -549,9 +549,9 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Sumo Logic](https://boards.greenhouse.io/sumologic/jobs/2440650?t=45c8c7f91) | Redwood City, CA | [Backend](https://boards.greenhouse.io/sumologic/jobs/2454426?t=45c8c7f91), [Backend Advanced Analytics](https://boards.greenhouse.io/sumologic/jobs/2456436) |
 |[Syngenta](https://syngenta.taleo.net/careersection/unitedstates/jobdetail.ftl?job=18021262)| Greensboro, NC | |
 |[Celanese](https://career-celanese.icims.com/jobs/10602/data-analyst-intern--in-information-technology/job?hub=11)| Irving, TX | Must be elegible to work in the U.S. with no restrictions. |
-|[Hilti](https://careers.hilti.com/en/search/jobs/2021?f%5B0%5D=sm_field_country%3AUS&f%5B1%5D=im_field_job_department%3A256)| Plano, TX; Tulsa, OK | Eligible to work in the US permanently without sponsorship. Positions may require applicants to be willing to relocate nationally. |
+|[Hilti](https://careers.hilti.com/en/search/jobs/2021?f%5B0%5D=sm_field_country%3AUS&f%5B1%5D=im_field_job_department%3A256)| Plano, TX; Tulsa, OK | Must be eligible to work in the US permanently without sponsorship. Positions may require applicants to be willing to relocate nationally. |
 |[First Solar](https://firstsolar.wd1.myworkdayjobs.com/en-US/FirstSolar/job/Perrysburg-Facility/CLIP-Integration-Intern--Summer-2021-_REQ-007617)| Perrysburg, OH | |
-|[FedEx Services](https://careers.fedex.com/servicescareers/jobs?keywords=2021)| Pittsburgh, PA; Lakeland, FL | Various positions are available. Relocation assistance may not available. |
+|[FedEx Services](https://careers.fedex.com/servicescareers/jobs?keywords=2021)| Pittsburgh, PA; Lakeland, FL | Various positions are available. Relocation assistance may not be available. |
 
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too! 🙏
 * [GintasS](https://github.com/GintasS) 🐐
