@@ -546,7 +546,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Remitly](https://www.remitly.com/us/en/careers/2421662?from=engineering&gh_jid=2421662)| Seattle, WA | Remitly is an E-Verify Employer. |
 |[Teradyne](https://jobs.teradyne.com/search/?createNewAlert=false&q=2021&optionsFacetsDD_customfield1=&optionsFacetsDD_dept=)| North Reading, MA | |
 |[Citizens Bank](https://jobs.citizensbank.com/search-jobs/2021/288/1?fl=6252001&glat=54.6872&glon=25.2797)| Various | Please note that U.S. Immigration sponsorship or work visa may not be available for some positions, so candidates must have permanent authorization to work in the U.S. |
-
+|[Sumo Logic](https://boards.greenhouse.io/sumologic/jobs/2440650?t=45c8c7f91) | Redwood City, CA | [Backend](https://boards.greenhouse.io/sumologic/jobs/2454426?t=45c8c7f91), [Backend Advanced Analytics](https://boards.greenhouse.io/sumologic/jobs/2456436) |
 
 
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too! 🙏
