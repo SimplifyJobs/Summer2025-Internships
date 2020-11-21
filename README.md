@@ -220,7 +220,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Anyscale](https://jobs.lever.co/anyscale/31505685-4719-44c5-b7d1-e8409b233da5) | SF | |
 |[Paylocity](https://www.paylocity.com/careers/career-opportunities/early-career/?jobId=4130) | Schaumberg, IL | Data Science [here](https://www.paylocity.com/careers/career-opportunities/early-career/?jobId=4175) | |
 |[Pinterest](https://www.pinterestcareers.com/jobs/software-engineering-intern-palo-alto-california-united-states) | San Francisco, Palo Alto, Seattle, Toronto | | 
-|[esri](https://www.esri.com/careers/software-development-and-engineering-2021-internships-13003) | Redlands Vienna, VA Denver Arlington Portland (Maine and Oregon) | |
+|[Esri](https://www.esri.com/careers/software-development-and-engineering-2021-internships-13003) | Redlands Vienna, VA Denver Arlington Portland (Maine and Oregon) | |
 |NextDoor | SF | |
 |[Gusto](https://boards.greenhouse.io/gusto/jobs/2315797) | SF, Denver, NYC | |
 |[Dick's](https://www.dickssportinggoods.jobs/job-search-results/?category[]=Students%20%26%20Recent%20Grads) | Pittsburgh, Nationwide | Data Science, Software Engineering, UX Design. Prefer juniors. |
@@ -552,6 +552,13 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Hilti](https://careers.hilti.com/en/search/jobs/2021?f%5B0%5D=sm_field_country%3AUS&f%5B1%5D=im_field_job_department%3A256)| Plano, TX; Tulsa, OK | Must be eligible to work in the US permanently without sponsorship. Positions may require applicants to be willing to relocate nationally. |
 |[First Solar](https://firstsolar.wd1.myworkdayjobs.com/en-US/FirstSolar/job/Perrysburg-Facility/CLIP-Integration-Intern--Summer-2021-_REQ-007617)| Perrysburg, OH | |
 |[FedEx Services](https://careers.fedex.com/servicescareers/jobs?keywords=2021)| Pittsburgh, PA; Lakeland, FL | Various positions are available. Relocation assistance may not be available. |
+|[Thermo Fisher Scientific](https://jobs.thermofisher.com/global/en/search-results?m=3&keywords=2021)| Various | [Software Scientist](https://jobs.thermofisher.com/global/en/job/136284BR/Summer-2021-Software-Scientist-Internship) Intern position is available.  |
+|[DraftKings](https://careers.draftkings.com/apply?id=a878b814-fffa-40d6-b501-f504c9287180&title=software-engineering-intern---summer-2021)| Boston, MA | |
+|[Cvent](https://www.cvent.com/en/careers/open-positions)| Tysons Corner, VA | |
+|[Reservoir Labs](https://www.reservoir.com/careers/?gh_jid=4894598002)| New York, NY | Currently Reservoir Labs is operating remotely. Should on-site work resume by Summer 2021, this role is intended to be held out of Reservoir Labs' New York office. |
+|[Wing](https://wing.com/careers/)| Remote | [Software Engineer Intern, Android](https://wing.com/careers/4955776002/), [Software Engineer Intern, Computer Vision, Perception](https://wing.com/careers/4953878002/), [Software Engineer Intern, Front End](https://wing.com/careers/4953784002/) and other Intern positions are available. Participation in the internship program requires that you are located in the United States for the duration of the internship program. Individuals applying for this position will not be eligible for immigration sponsorship. |
+
+
 
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too! 🙏
 * [GintasS](https://github.com/GintasS) 🐐
