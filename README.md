@@ -560,7 +560,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Beyond Limits](https://www.beyond.ai/careers/open-positions/?job_category=Internships)| Glendale, CA | Must be legally authorized to work in the U.S. Must be able to provide own housing and transportation to/from job site throughout the duration of internship assignment. |
 |[Karat](https://boards.greenhouse.io/karat/jobs/4252508002)| Seattle, WA | |
 |[Roche](https://www.roche.com/careers/jobs/jobsearch.htm?keywords=2021&countryCodes=US)| Santa Clara, Pleasanton CA | Majority of internships are currently planned to be virtual with the option for interns to work remotely from within U.S. Borders. |
-|[Qorvo](https://www.qorvo.com/careers/job-search)| Greensboro, NC | Some positions are part of a business units that contracts with the US government, so qualified candidates must be U.S. persons (generally a US citizen or green card holder). Individuals holding temporary visas, such as F-1 or H-1B, are not U.S. persons. Some positions may require to be capable of obtaining US Secret Clearance. |
+|[Qorvo](https://www.qorvo.com/careers/job-search)| Greensboro, NC | Some positions are part of a business units that contract with the US government, so qualified candidates must be U.S. persons (generally a US citizen or green card holder). Individuals holding temporary visas, such as F-1 or H-1B, are not U.S. persons. Some positions may require to be capable of obtaining US Secret Clearance. |
 |[Blackbaud](https://blackbaud.wd1.myworkdayjobs.com/ExternalCareers/0/refreshFacet/318c8bb6f553100021d223d9780d30be)| Remote | |
 
 
