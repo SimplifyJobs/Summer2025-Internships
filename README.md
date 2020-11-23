@@ -562,7 +562,11 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Roche](https://www.roche.com/careers/jobs/jobsearch.htm?keywords=2021&countryCodes=US)| Santa Clara, Pleasanton CA | Majority of internships are currently planned to be virtual with the option for interns to work remotely from within U.S. Borders. |
 |[Qorvo](https://www.qorvo.com/careers/job-search)| Greensboro, NC | Some positions are part of business units that contract with the US government, so qualified candidates must be U.S. persons (generally a US citizen or green card holder). Individuals holding temporary visas, such as F-1 or H-1B, are not U.S. persons. Some positions may require applicant to be capable of obtaining US Secret Clearance. |
 |[Blackbaud](https://blackbaud.wd1.myworkdayjobs.com/ExternalCareers/0/refreshFacet/318c8bb6f553100021d223d9780d30be)| Remote | |
-
+|[NASA Jet Propulsion Laboratory](https://jpl.jobs/job-search?preselected=60,61,62,67,68,70)| Pasadena, CA | Must have ability to obtain work authorization. |
+|[FLIR Systems](https://flir.wd1.myworkdayjobs.com/en-US/flircareers/job/US---Chelmsford-MA/Software-Engineering-Intern_REQ14821-1)| Chelmsford, MA |  |
+|[McAfee](https://careers.mcafee.com/job/plano/cybersecurity-technical-support-engineer-intern/731/17956783)| Plano, TX | Must be able to commute to Plano, TX (when the office is open). Relocation Assistance is not provided. (we may be in the office then). Must be authorized to work without visa (CPT) restrictions. |
+|[Modern Woodmen of America](https://recruiting.ultipro.com/MOD1003MWA/JobBoard/8990acfc-04f3-d65f-0565-a772e1a0157b/OpportunityDetail?opportunityId=60c2431d-d9fe-4557-9b2a-9db622e5dcc1)| Rock Island, IL | |
+|[Pluralsight](https://pluralsight.wd1.myworkdayjobs.com/Careers/0/refreshFacet/318c8bb6f553100021d223d9780d30be)| Draper, UT | |
 
 
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too! 🙏
