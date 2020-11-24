@@ -188,7 +188,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Uber](https://www.uber.com/global/en/careers/list/62848/) | SF | |
 |iCims | Holmdel, NJ | **Closed** |
 |[Databricks](https://databricks.com/company/careers/open-positions/job?gh_jid=4780022002) | SF | |
-|Twilio | SF |  **Closed**|
+|[Twilio](https://boards.greenhouse.io/twilio)| San Francisco, CA; Denver, CO | |
 |[C3.ai](https://boards.greenhouse.io/c3iot/jobs/4086849002?gh_src=PittCSC) | Redwood City, CA | |
 |[Mitchell](https://careers-mitchell.icims.com/jobs/search?ss=1&searchKeyword=software+intern) | Coppell, Irvine, San Diego | |
 |[CME Group](https://jobs.cmegroup.com/jobs/5571787-software-engineering-internship-summer-2021?bid=305#start) | Chicago, IL | |
@@ -567,6 +567,12 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[McAfee](https://careers.mcafee.com/job/plano/cybersecurity-technical-support-engineer-intern/731/17956783)| Plano, TX | Must be able to commute to Plano, TX (when the office is open). Relocation Assistance is not provided. (we may be in the office then). Must be authorized to work without visa (CPT) restrictions. |
 |[Modern Woodmen of America](https://recruiting.ultipro.com/MOD1003MWA/JobBoard/8990acfc-04f3-d65f-0565-a772e1a0157b/OpportunityDetail?opportunityId=60c2431d-d9fe-4557-9b2a-9db622e5dcc1)| Rock Island, IL | |
 |[Pluralsight](https://pluralsight.wd1.myworkdayjobs.com/Careers/0/refreshFacet/318c8bb6f553100021d223d9780d30be)| Draper, UT | |
+|[GrammaTech](https://careers-grammatech.icims.com/jobs/search) | Ithaca, NY | |
+|[Inmar Intelligence](https://inmar.wd1.myworkdayjobs.com/inmarcareers/0/refreshFacet/318c8bb6f553100021d223d9780d30be)| Winston Salem, NC | |
+|[Western Alliance Bank](https://westernalliancebank.wd5.myworkdayjobs.com/en-US/WAB/job/Phoenix-AZ/Summer-Intern-2021--Phoenix--Data-Analyst-Financial-Crimes_R1458)| Phoenix, AZ | |
+|[Argo AI](https://www.argo.ai/join-us/)| Metro Detroit, MI; Palo Alto, CA; Pittsburgh, PA or potentially Remote | Various positions are available. If COVID-19 prevents us from doing so, internships will be conducted remotely. |
+
+
 
 
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too! 🙏
