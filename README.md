@@ -132,7 +132,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[FactSet](https://factset.wd1.myworkdayjobs.com/en-US/FactSetCareers/job/New-York-NY-USA/Software-Engineering-Internship---US-Campus_R7759) | NY, Chicago, Boston, Norwalk, Austin | |
 |[Asana](https://asana.com/jobs/apply/2256911/intern--software-engineering-) | SF, NYC | |
 |[MasterCard](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/New-York-City-New-York/Software-Development-Engineer-Intern--Summer-2021_R-113651-1/?source=PittCSC) | NYC, Arlington | [Arlington](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Arlington-Virginia/Software-Development-Engineer-Intern--Summer-2021_R-111347-1/?source=PittCSC),  Open to students enrolled in a bachelor’s degree program | 
-|[XPOLogistics](https://jobs.xpo.com/US/job/Portland-Software-Development-Intern-OR-97209/669686500/?utm_source=PittCSC) | Portland, OR | |
+|[XPO Logistics](https://jobs.xpo.com/US/job/Portland-Software-Development-Intern-OR-97209/669686500/?utm_source=PittCSC) | Portland, OR | |
 |[eBay](https://jobs.ebayinc.com/job/-/-/403/1006890272?source=PittCSC)| San Jose, Austin, Bellevue, New York, Portland | |
 |[Dell](https://dell.wd1.myworkdayjobs.com/ExternalNonPublic/2/refreshFacet/318c8bb6f553100021d223d9780d30be)| Round Rock, Austin, TX | In some positions, applicants must be legally authorized to work in the United States. |
 |[Epic Games](https://epicgames.wd5.myworkdayjobs.com/en-US/Epic_Games/job/Cary-NC/Epic-Games-Programming-Internships_R2792-2)| Cary, NC | |
@@ -571,7 +571,11 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Inmar Intelligence](https://inmar.wd1.myworkdayjobs.com/inmarcareers/0/refreshFacet/318c8bb6f553100021d223d9780d30be)| Winston Salem, NC | |
 |[Western Alliance Bank](https://westernalliancebank.wd5.myworkdayjobs.com/en-US/WAB/job/Phoenix-AZ/Summer-Intern-2021--Phoenix--Data-Analyst-Financial-Crimes_R1458)| Phoenix, AZ | |
 |[Argo AI](https://www.argo.ai/join-us/)| Metro Detroit, MI; Palo Alto, CA; Pittsburgh, PA or potentially Remote | Various positions are available. If COVID-19 prevents us from doing so, internships will be conducted remotely. |
-
+|[Illumio](https://www.illumio.com/career-openings)| Sunnyvale, CA | [Data Platform Back-End](http://www.illumio.com/career-openings?gh_jid=4968525002), [Front-End](http://www.illumio.com/career-openings?gh_jid=4961070002), [QA](http://www.illumio.com/career-openings?gh_jid=4961040002) and other Intern positions are available. Some positions may require to have authorization to work in the United States. |
+|[Gecko Robotics](https://www.geckorobotics.com/company/careers)| Pittsburgh, PA | |
+|[LabCorp](https://allenai.org/careers#current-openings)| San Diego, CA; Burlington, Durham, NC; Town of Westborough, MA | Various positions are available. Remote participation in the internship is also a possibility. |
+|[SeatGeek](https://seatgeek.com/jobs/125938)| NYC | |
+|[MicroStrategy](https://www.smartrecruiters.com/MicroStrategy1/743999724898333-software-engineering-intern-multiple-openings-)| Tysons Corner, VA | Various teams and technologies are available. |
 
 
 
