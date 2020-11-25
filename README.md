@@ -573,7 +573,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Argo AI](https://www.argo.ai/join-us/)| Metro Detroit, MI; Palo Alto, CA; Pittsburgh, PA or potentially Remote | Various positions are available. If COVID-19 prevents us from doing so, internships will be conducted remotely. |
 |[Illumio](https://www.illumio.com/career-openings)| Sunnyvale, CA | [Data Platform Back-End](http://www.illumio.com/career-openings?gh_jid=4968525002), [Front-End](http://www.illumio.com/career-openings?gh_jid=4961070002), [QA](http://www.illumio.com/career-openings?gh_jid=4961040002) and other Intern positions are available. Some positions may require to have authorization to work in the United States. |
 |[Gecko Robotics](https://www.geckorobotics.com/company/careers)| Pittsburgh, PA | |
-|[LabCorp](https://allenai.org/careers#current-openings)| San Diego, CA; Burlington, Durham, NC; Town of Westborough, MA | Various positions are available. Remote participation in the internship is also a possibility. |
+|[LabCorp](https://jobs.labcorp.com/search-jobs/2021/668/1)| San Diego, CA; Burlington, Durham, NC; Town of Westborough, MA; Remote | Various positions are available. Remote participation in the internship is also a possibility. |
 |[SeatGeek](https://seatgeek.com/jobs/125938)| NYC | |
 |[MicroStrategy](https://www.smartrecruiters.com/MicroStrategy1/743999724898333-software-engineering-intern-multiple-openings-)| Tysons Corner, VA | Various teams and technologies are available. |
 
