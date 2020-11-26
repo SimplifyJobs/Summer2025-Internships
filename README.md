@@ -576,7 +576,11 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[LabCorp](https://jobs.labcorp.com/search-jobs/2021/668/1)| San Diego, CA; Burlington, Durham, NC; Town of Westborough, MA; Remote | Various positions are available. Remote participation in the internship is also a possibility. |
 |[SeatGeek](https://seatgeek.com/jobs/125938)| NYC | |
 |[MicroStrategy](https://www.smartrecruiters.com/MicroStrategy1/743999724898333-software-engineering-intern-multiple-openings-)| Tysons Corner, VA | Various teams and technologies are available. |
-
+|[DriveTime](https://jobs.drivetime.com/jobs?page_size=50&page_number=1&keyword=Internship&sort_by=score&sort_order=DESC)| Tempe, AZ | [Application Developer](https://jobs.drivetime.com/application-developer-internship/job/13839205), [Data Science](https://jobs.drivetime.com/data-science-internship/job/13839201), [Database Developer](https://jobs.drivetime.com/database-developer-internship/job/13839204) and other Intern positions are available. Hiring is contingent upon successful completion of our background and drug screening process. |
+|[Rockland Trust](https://rocklandtrust.taleo.net/careersection/ex/jobdetail.ftl?job=200000DN)| Plymouth, MA | |
+|[HCSS](https://careers.hcss.com/data-analyst-intern_2461513/)| Houston, TX | This is NOT a contract position, and at this time we are NOT sponsoring H1-B Visas. You will work remotely during COVID with the need to relocate to Houston post-COVID (relocation assistance may be possible). |
+|[Bose Corporation](https://boseallaboutme.wd1.myworkdayjobs.com/Bose_Careers/0/refreshFacet/318c8bb6f553100021d223d9780d30be)| Boston, MA; Remote | |
+|[Interactive Brokers](https://boards.greenhouse.io/ibkr/jobs/4952920002)| Greenwich, CT | |
 
 
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too! 🙏
