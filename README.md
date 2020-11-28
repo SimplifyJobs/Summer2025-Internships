@@ -196,7 +196,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Teradata](https://careers.teradata.com/jobs/208210/software-engineering-intern)| San Diego, CA | |
 |[Thrivent](https://thrivent.wd5.myworkdayjobs.com/en-US/external/job/WI---Appleton/Software-Developer-Internship--Summer-2021_REQ-21517)| Appleton, WI; Minneapolis, MN
 |[Garmin](https://careers-us.garmin.com/us/en/job/200017Q/Software-Engineer-Intern-Brea-CA-Summer-2021) | Brea, CA | |
-|memSQL| SF, Seattle | **Closed** |
+|[MemSQL](https://boards.greenhouse.io/singlestore/jobs/2328598)| SF, Seattle | |
 |[ASML](https://www.asml.com/en/careers/find-your-job/1/8/6/software-engineering-intern-san-joseasml-req18667?utm_source=PittCSC)| San Jose | |
 |Sezzle| Minneapolis, MN | **Closed** |
 |[Activision](https://careers.activision.com/job/ACPUUSR003077EXTERNAL/Web-Development-Intern?utm_source=pittcsc)| Santa Monica, CA;Vancouver, BC | [Canada Position](https://careers.activision.com/job/ACPUUSR003096EXTERNAL/Software-Development-Internship?utm_source=pittcsc) |
@@ -581,6 +581,11 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[HCSS](https://careers.hcss.com/data-analyst-intern_2461513/)| Houston, TX | This is NOT a contract position, and at this time we are NOT sponsoring H1-B Visas. You will work remotely during COVID with the need to relocate to Houston post-COVID (relocation assistance may be possible). |
 |[Bose Corporation](https://boseallaboutme.wd1.myworkdayjobs.com/Bose_Careers/0/refreshFacet/318c8bb6f553100021d223d9780d30be)| Boston, MA; Remote | |
 |[Interactive Brokers](https://boards.greenhouse.io/ibkr/jobs/4952920002)| Greenwich, CT | |
+|[SPX Corporation](https://career8.successfactors.com/career?company=SPX&career%5fns=job%5flisting%5fsummary&navBarLevel=JOB%5fSEARCH&_s.crb=2JEVoX%2fgKmjFyzQVAEEWVoTEknRgXDFqNTxY4ZDhcQ0%3d)| East Stroudsburg, PA | Must be a US Citizen or have legal US working status. |
+|[Jack Henry & Associates](https://jackhenry.avature.net/careers/SearchJobs/2021?jobRecordsPerPage=6&)| Elizabethtown, Louisville, KY; Remote | [IPay Software Engineer](https://jackhenry.avature.net/careers/JobDetail/iPay-Software-Engineer-Intern-2021/8409), [Network Engineer](https://jackhenry.avature.net/careers/JobDetail/Network-Engineer-Intern-2021/8466) and other Intern positions are available. Applicant must meet legal requirements to work in the U.S. for an indefinite period of time. |
+|[Asurion](https://careers.asurion.com//ListJobs?CloudSearchValue=2021&prefilters=none&CloudSearchLocation=none)| Nashville, TN; Remote | Various positions are available. |
+|[Harris Computer](https://harriscomputer.wd3.myworkdayjobs.com/en-US/1/job/Albany-New-York/Software-Development-Intern_R0009298-4)| Albany, NY |  |
+
 
 
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too! 🙏
