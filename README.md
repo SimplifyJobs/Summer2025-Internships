@@ -585,6 +585,11 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Jack Henry & Associates](https://jackhenry.avature.net/careers/SearchJobs/2021?jobRecordsPerPage=6&)| Elizabethtown, Louisville, KY; Remote | [IPay Software Engineer](https://jackhenry.avature.net/careers/JobDetail/iPay-Software-Engineer-Intern-2021/8409), [Network Engineer](https://jackhenry.avature.net/careers/JobDetail/Network-Engineer-Intern-2021/8466) and other Intern positions are available. Applicant must meet legal requirements to work in the U.S. for an indefinite period of time. |
 |[Asurion](https://careers.asurion.com//ListJobs?CloudSearchValue=2021&prefilters=none&CloudSearchLocation=none)| Nashville, TN; Remote | Various positions are available. |
 |[Harris Computer](https://harriscomputer.wd3.myworkdayjobs.com/en-US/1/job/Albany-New-York/Software-Development-Intern_R0009298-4)| Albany, NY |  |
+|[Yale University](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25053&siteid=5248&PageType=JobDetails&jobid=1445244)| New Haven, CT | All candidates for employment will be subject to pre-employment background screening for this position, which may include motor vehicle, DOT certification, drug testing and credit checks based on the position description and job requirements. |
+|[Charles River Development](https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Burlington-Massachusetts/Summer-2021-Software-Engineering-Internship--Charles-River-Development--Intern_R-651363)| Burlington, MA | |
+|[William Blair](https://williamblair.avature.net/careers/SearchJobs/2021)| Chicago, IL | |
+|[Ericsson](https://jobs.ericsson.com/search/?createNewAlert=false&q=Internship&locationsearch=United+States&optionsFacetsDD_customfield1=)| Plano, TX | Various positions are available.  |
+|[Mathematica](https://careers.mathematica.org/search-jobs/2021/727/1?fl=6252001)| Various; Remote | COVID-19 accommodations: This internship will be offered remotely with the option to work in one of our offices if they are open in summer 2021. |
 
 
 
