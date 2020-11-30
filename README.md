@@ -590,6 +590,13 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[William Blair](https://williamblair.avature.net/careers/SearchJobs/2021)| Chicago, IL | |
 |[Ericsson](https://jobs.ericsson.com/search/?createNewAlert=false&q=Internship&locationsearch=United+States&optionsFacetsDD_customfield1=)| Plano, TX | Various positions are available.  |
 |[Mathematica](https://careers.mathematica.org/search-jobs/2021/727/1?fl=6252001)| Various; Remote | COVID-19 accommodations: This internship will be offered remotely with the option to work in one of our offices if they are open in summer 2021. |
+|[Quantlab](https://www.quantlab.com/careers)| Houston, TX; Remote | Internships may also be 100% virtual. |
+|[Tapad](https://www.tapad.com/careers/openings?gh_jid=2415752)| NYC | |
+|[Wish](https://www.wish.com/careers/jobs)| SF; Remote | |
+|[Equinix](https://equinix.wd1.myworkdayjobs.com/External/0/refreshFacet/318c8bb6f553100021d223d9780d30be)| Sunnyvale, Redwood City, CA; Remote | |
+|[Banco Santander](https://careers.santander.com/search-jobs/2021%3Futm_source%3Dsantander.com%26utm_medium%3Dreferral%26utm_campaign%3Dcareer)| Dallas, TX; Boston, MA | |
+
+
 
 
 
