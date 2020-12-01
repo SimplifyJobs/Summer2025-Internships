@@ -595,7 +595,11 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Wish](https://www.wish.com/careers/jobs)| SF; Remote | |
 |[Equinix](https://equinix.wd1.myworkdayjobs.com/External/0/refreshFacet/318c8bb6f553100021d223d9780d30be)| Sunnyvale, Redwood City, CA; Remote | |
 |[Banco Santander](https://careers.santander.com/search-jobs/2021%3Futm_source%3Dsantander.com%26utm_medium%3Dreferral%26utm_campaign%3Dcareer)| Dallas, TX; Boston, MA | |
-
+|[Alteryx](https://alteryx.wd5.myworkdayjobs.com/en-US/AlteryxCareers/job/Boston-Massachusetts/Software-Engineer-Intern--Summer-2021-_R3042-1)| Remote | Must be legally authorized to work in the U.S. and should not require visa sponsorship now or in the future. |
+|[Dexcom](https://careers.dexcom.com/careers?pid=2024253&query=2021&domain=dexcom.com)| San Diego, CA; Portland, OR | |
+|[Voya Financial](https://godirect.wd5.myworkdayjobs.com/en-US/voya_jobs/job/CT---Windsor-One-Orange-Way/Summer-2021-Information-Technology-Summer-Intern_JR0022813?_ga=2.3231408.1603606280.1606849401-1231342794.1606849401)| Windsor, CT | |
+|[Lockton Companies](https://lockton.referrals.selectminds.com/jobs/information-technology-intern-2564)| Kansas City, MO | Applicant must be able to legally work in the United States. |
+|[Peterbilt Motors Company](https://jobs.paccar.com/search/?q=2021&q2=&alertId=&locationsearch=&title=&location=US&department=&date=&facility=)| Denton, TX | Various positions are available. |
 
 
 
