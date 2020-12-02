@@ -600,7 +600,9 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Voya Financial](https://godirect.wd5.myworkdayjobs.com/en-US/voya_jobs/job/CT---Windsor-One-Orange-Way/Summer-2021-Information-Technology-Summer-Intern_JR0022813?_ga=2.3231408.1603606280.1606849401-1231342794.1606849401)| Windsor, CT | |
 |[Lockton Companies](https://lockton.referrals.selectminds.com/jobs/information-technology-intern-2564)| Kansas City, MO | Applicant must be able to legally work in the United States. |
 |[Peterbilt Motors Company](https://jobs.paccar.com/search/?q=2021&q2=&alertId=&locationsearch=&title=&location=US&department=&date=&facility=)| Denton, TX | Various positions are available. |
-
+|[Box](https://careers.box.com/us/en/job/2519095/Software-Engineering-Intern-Summer-2021)| Redwood City, CA | The internship is 12-weeks long and will begin on a remote basis, with the possibility of working in our Redwood City, CA headquarters depending on circumstances with COVID-19 next summer 2021. |
+|[Apptio](https://www.apptio.com/company/careers/job-openings?gh_jid=2454266)| Bellevue, WA | Local to WA state candidate preferred. |
+|[URBN](https://career4.successfactors.com/career?career%5fns=job%5flisting&company=URBN&navBarLevel=JOB%5fSEARCH&rcm%5fsite%5flocale=en%5fUS&site=VjItakNiUTR0TXNKeEgvN2plaVNWZkx6QT09&career_job_req_id=115126&selected_lang=en_US&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&_s.crb=lmC7XuAqVAPNJvSCq%2b9LIFc3C%2fMpuZRaC65TboJSg94%3d)| Philadelphia, PA | |
 
 
 
