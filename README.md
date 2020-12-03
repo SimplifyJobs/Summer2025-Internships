@@ -113,7 +113,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Johnson & Johnson](https://jobs.jnj.com/jobs/0438200814?lang=en-us) | Horsham, Pennsylvania; West Chester, Pennsylvania; Various | Permanent Work Authorization in the US required|
 |ARM| Austin, TX; San Jose, CA; Boston, MA | Closed |
 |[Amazon Web Services](https://www.amazon.jobs/en/search?offset=0&result_limit=10&sort=relevant&category=software-development&business_category[]=amazon-web-services&distanceType=Mi&radius=24km&latitude=&longitude=&loc_group_id=&loc_query=&base_query=2021&city=&country=&region=&county=&query_options=&) | Virginia | Requires US Citizenship and Clearance. |
-|SurveyMonkey| San Mateo, Portland, Seattle  | **Closed** |
+|[SurveyMonkey](https://www.surveymonkey.com/careers/2466488-data-science-intern-summer-2021/)| San Mateo, CA | |
 |[Tesla](https://www.tesla.com/careers/job/software-fullstackengineeringinternshipspringand-orsummer2021-68849)|Fremont, Palo Alto, Bellevue, others| More [here](https://www.tesla.com/careers/search#/?keyword=intern&department=3&region=5) |
 |[Church of Latter Day Saints](https://careersearch.churchofjesuschrist.org/public/jobdetail.aspx?jobid=261905) | Utah | Must be a Mormon |
 |[SIG](https://careers.sig.com/job/SUSQA004Y4604/Trading-Intern) | Bala Cynwyd, PA | Trading, SWE [here](https://careers.sig.com/job/SUSQA004Y4957/Software-Engineering-Internship-Program) |
@@ -603,6 +603,10 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Box](https://careers.box.com/us/en/job/2519095/Software-Engineering-Intern-Summer-2021)| Redwood City, CA | The internship is 12-weeks long and will begin on a remote basis, with the possibility of working in our Redwood City, CA headquarters depending on circumstances with COVID-19 next summer 2021. |
 |[Apptio](https://www.apptio.com/company/careers/job-openings?gh_jid=2454266)| Bellevue, WA | Local to WA state candidate preferred. |
 |[URBN](https://career4.successfactors.com/career?career%5fns=job%5flisting&company=URBN&navBarLevel=JOB%5fSEARCH&rcm%5fsite%5flocale=en%5fUS&site=VjItakNiUTR0TXNKeEgvN2plaVNWZkx6QT09&career_job_req_id=115126&selected_lang=en_US&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&_s.crb=lmC7XuAqVAPNJvSCq%2b9LIFc3C%2fMpuZRaC65TboJSg94%3d)| Philadelphia, PA | |
+|[PTC](https://careers.ptc.com/TGnewUI/Search/Home/Home?partnerid=2&siteid=5213#keyWordSearch=2021&locationSearch=)| Boston, MA | |
+|[American Century Investments](https://americancentury.wd5.myworkdayjobs.com/AmericanCenturyInvestments/0/refreshFacet/318c8bb6f553100021d223d9780d30be)| Kansas City, MO; NYC | |
+|[HARMAN](https://jobs.harman.com/search-jobs/2021/United%20States?orgIds=23226&kt=1&alp=6252001&alt=2)| Novi, MI | Highly prefer candidates who live within a commutable distance. Successfully complete a background investigation and drug screen as a condition of employment. |
+|[Academy Sports + Outdoors](https://academy.wd1.myworkdayjobs.com/en-US/Careers/job/Headquarters---Katy-TX/XMLNAME-2021-Summer-Internship_R192716)| Katy, TX | Candidates must be open to relocation (Internship will take place at Katy, TX HC). Candidates must also be open to full time employment upon internship completion. |
 
 
 
