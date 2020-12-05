@@ -607,6 +607,12 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[American Century Investments](https://americancentury.wd5.myworkdayjobs.com/AmericanCenturyInvestments/0/refreshFacet/318c8bb6f553100021d223d9780d30be)| Kansas City, MO; NYC | |
 |[HARMAN](https://jobs.harman.com/search-jobs/2021/United%20States?orgIds=23226&kt=1&alp=6252001&alt=2)| Novi, MI | Highly prefer candidates who live within a commutable distance. Successfully complete a background investigation and drug screen as a condition of employment. |
 |[Academy Sports + Outdoors](https://academy.wd1.myworkdayjobs.com/en-US/Careers/job/Headquarters---Katy-TX/XMLNAME-2021-Summer-Internship_R192716)| Katy, TX | Candidates must be open to relocation (Internship will take place at Katy, TX HC). Candidates must also be open to full time employment upon internship completion. |
+|[Mouser Electronics](https://phf.tbe.taleo.net/phf03/ats/careers/v2/viewRequisition?org=MOUSER&cws=40&rid=10398)| Mansfield, TX | |
+|[Enthought](https://jobs.lever.co/enthought/cf87b6ce-77a6-465d-afeb-1280343d417a)| Austin, TX | |
+|[BMO Harris Bank](https://jobs.bmoharris.com/us/en/search-results?keywords=2021)| Chicago, IL | |
+|[UCAR]](https://ucar.wd5.myworkdayjobs.com/en-US/UCAR_Careers/job/Foothills-Lab-4/XMLNAME-2021-Unidata-Summer-Internship_REQ-2020-258-1)| Boulder, CO | UCAR/NCAR will not sponsor a work visa to fill this position. A pre-employment screening is conducted in conjunction with an offer for employment. |
+|[Danfoss](https://jobs.danfoss.com/job/Loves-Park-Embedded-Software-Engineering-Intern-IL-61111/520963902/)| Loves Park, IL | |
+
 
 
 
