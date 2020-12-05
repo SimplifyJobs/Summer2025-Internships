@@ -610,7 +610,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Mouser Electronics](https://phf.tbe.taleo.net/phf03/ats/careers/v2/viewRequisition?org=MOUSER&cws=40&rid=10398)| Mansfield, TX | |
 |[Enthought](https://jobs.lever.co/enthought/cf87b6ce-77a6-465d-afeb-1280343d417a)| Austin, TX | |
 |[BMO Harris Bank](https://jobs.bmoharris.com/us/en/search-results?keywords=2021)| Chicago, IL | |
-|[UCAR]](https://ucar.wd5.myworkdayjobs.com/en-US/UCAR_Careers/job/Foothills-Lab-4/XMLNAME-2021-Unidata-Summer-Internship_REQ-2020-258-1)| Boulder, CO | UCAR/NCAR will not sponsor a work visa to fill this position. A pre-employment screening is conducted in conjunction with an offer for employment. |
+|[UCAR](https://ucar.wd5.myworkdayjobs.com/en-US/UCAR_Careers/job/Foothills-Lab-4/XMLNAME-2021-Unidata-Summer-Internship_REQ-2020-258-1)| Boulder, CO | UCAR/NCAR will not sponsor a work visa to fill this position. A pre-employment screening is conducted in conjunction with an offer for employment. |
 |[Danfoss](https://jobs.danfoss.com/job/Loves-Park-Embedded-Software-Engineering-Intern-IL-61111/520963902/)| Loves Park, IL | |
 
 
