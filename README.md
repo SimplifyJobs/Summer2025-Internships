@@ -612,7 +612,11 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[BMO Harris Bank](https://jobs.bmoharris.com/us/en/search-results?keywords=2021)| Chicago, IL | |
 |[UCAR](https://ucar.wd5.myworkdayjobs.com/en-US/UCAR_Careers/job/Foothills-Lab-4/XMLNAME-2021-Unidata-Summer-Internship_REQ-2020-258-1)| Boulder, CO | UCAR/NCAR will not sponsor a work visa to fill this position. A pre-employment screening is conducted in conjunction with an offer for employment. |
 |[Danfoss](https://jobs.danfoss.com/job/Loves-Park-Embedded-Software-Engineering-Intern-IL-61111/520963902/)| Loves Park, IL | |
-
+|[Williams-Sonoma](https://ehac.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions?keyword=2021)| San Jose, San Francisco, CA | |
+|[Standard Industries](https://gafsgi.wd5.myworkdayjobs.com/Standard_Careers/0/refreshFacet/318c8bb6f553100021d223d9780d30be)| NY | Must be eligible to work in the U.S. without need for employer-sponsored visa (work permit). |
+|[Arthrex](https://careers.arthrex.com/job/Naples-IT-Intern-FL-34108/697061300/)| Naples, FL | |
+|[Marshfield Clinic Health System](https://marshfieldclinichealthsystems.wd5.myworkdayjobs.com/en-US/External/job/Marshfield-WI/IT-Intern---Security-Health-Plan-IS-Development_R-0009444)| Marshfield, WI | |
+|[BCG Digital Ventures](https://boards.greenhouse.io/bcgdv/jobs/4964861002?gh_jid=4964861002)| NY | |
 
 
 
