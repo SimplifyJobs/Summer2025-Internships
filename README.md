@@ -323,7 +323,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[CACI International](https://careers.caci.com/ListJobs?keyword=2021&&Page=1&SortOrder=desc&SortField=AddedOn)| Various | Software Engineering, Information Technology, Cyber Security and other positions are available. The ability to obtain/maintain a clearance (U.S. Citizenship required). |
 |[C.H Robinson](https://jobs.chrobinson.com/job/eden-prairie/engineering-product-manager-intern-june-2021-start/209/17375359)| Eden Prairie, Minnesota | Engineering Product Manager Intern position is available. |
 |[Anthem](https://anthemcareers.ttcportals.com/search/information-technology/jobs?q=2021)| Various | Developer, Data Analyst positions are available. |
-|NRC Health| Lincoln, Nebraska | **Closed** |
+|[NRC Health](https://jobs.jobvite.com/nrchealth/job/oduidfwW)| Lincoln, NE | This role will be remote with a potential for in-person activities. |
 |[UBS](https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5131&PageType=searchResults&SearchType=linkquery&LinkID=6166#keyWordSearch=&locationSearch=&Function%20Category=Information%20Technology%20(IT))| Various | Analyst positions are available. |
 |[The Lubrizol Corporation](https://jobs.lubrizol.com/search/?q=2021&utm_source=CSSearchWidget&startrow=1) | Various | Data Scientist, Developer, Information Security and other positions are available. Fall internships are also available. Must be authorized to work in the United States without requiring work authorization sponsorship by our company for this position now or in the future. |
 |[Liberty Mutual Insurance](https://jobs.libertymutualgroup.com/search-jobs/?keyword=2021)| Various | TechStart Summer Internship Program is available. Cyber Security, Data Analyst and other positions are available. |
@@ -617,6 +617,10 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Arthrex](https://careers.arthrex.com/job/Naples-IT-Intern-FL-34108/697061300/)| Naples, FL | |
 |[Marshfield Clinic Health System](https://marshfieldclinichealthsystems.wd5.myworkdayjobs.com/en-US/External/job/Marshfield-WI/IT-Intern---Security-Health-Plan-IS-Development_R-0009444)| Marshfield, WI | |
 |[BCG Digital Ventures](https://boards.greenhouse.io/bcgdv/jobs/4964861002?gh_jid=4964861002)| NY | |
+|[Echo Global Logistics](https://echo.wd1.myworkdayjobs.com/en-US/Echo_Logistics/job/Chicago-IL/Software-Engineering-Intern---Chicago_R221)| Chicago, IL | |
+|[Janus Henderson Investors](https://career8.successfactors.com/career?career%5fns=job%5flisting&company=Janus&navBarLevel=JOB%5fSEARCH&rcm%5fsite%5flocale=en%5fUS&career_job_req_id=20811&selected_lang=en_US&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&_s.crb=xTV4Or09uhlTS43fufyIQXO2FFzas4HbmWHpxUOdROY%3d)| Denver, CO | |
+|[Entegris](https://globalcareers-entegrisinc.icims.com/jobs/search?ss=1&searchKeyword=2021)| Various | |
+|[F5](https://f5.recsolu.com/jobs/DMiS39kMrH1Hb3_AY4JvNg)| Seattle, WA | |
 
 
 
