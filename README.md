@@ -621,6 +621,11 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Janus Henderson Investors](https://career8.successfactors.com/career?career%5fns=job%5flisting&company=Janus&navBarLevel=JOB%5fSEARCH&rcm%5fsite%5flocale=en%5fUS&career_job_req_id=20811&selected_lang=en_US&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&_s.crb=xTV4Or09uhlTS43fufyIQXO2FFzas4HbmWHpxUOdROY%3d)| Denver, CO | |
 |[Entegris](https://globalcareers-entegrisinc.icims.com/jobs/search?ss=1&searchKeyword=2021)| Various | |
 |[F5](https://f5.recsolu.com/jobs/DMiS39kMrH1Hb3_AY4JvNg)| Seattle, WA | |
+|[Netflix](https://jobs.netflix.com/search?q=2021)| Los Gatos, CA; Remote | [Data Engineering](https://jobs.netflix.com/jobs/40242907), [Analytics Engineering](https://jobs.netflix.com/jobs/40242270) Intern positions are available. |
+|[Visa](https://usa.visa.com/careers.html)| Various | |
+|[SPA](https://careers-spa.icims.com/jobs/search?ics_keywords=2021)| Alexandria, VA | The candidate must be a US Citizen with the ability to obtain a DoD Secret clearance. |
+|[Proofpoint](https://proofpoint.wd5.myworkdayjobs.com/en-US/ProofpointCareers/job/Draper-UT/Software-Engineer-Part-Time-Intern---Undergrad_R4508)| Draper, UT | |
+|[Ogilvy](https://uscareers-ogilvy.icims.com/jobs/7994/2021-summer-internship-program/job?hub=15)| Various | |
 
 
 
