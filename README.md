@@ -626,6 +626,12 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[SPA](https://careers-spa.icims.com/jobs/search?ics_keywords=2021)| Alexandria, VA | The candidate must be a US Citizen with the ability to obtain a DoD Secret clearance. |
 |[Proofpoint](https://proofpoint.wd5.myworkdayjobs.com/en-US/ProofpointCareers/job/Draper-UT/Software-Engineer-Part-Time-Intern---Undergrad_R4508)| Draper, UT | |
 |[Ogilvy](https://uscareers-ogilvy.icims.com/jobs/7994/2021-summer-internship-program/job?hub=15)| Various | |
+|[Publicis Sapient](https://jobs.smartrecruiters.com/PublicisGroupe/743999726273814-engineering-summer-internship-class-of-2022?trid=fabf8f5c-18fc-43ce-ba06-84dac34b9203)| Various | |
+|[John Deere](https://jobs.deere.com/search/?q=&q2=&alertId=&title=2021&department=&location=US&date=)| Moline, IL; Various | [Data Science & Analytics](https://jobs.deere.com/job/Moline-Data-Science-&-Analytics-Summer-Intern-2021a-IL-61265/673424600/), [Software Enginerring & IT Security](https://jobs.deere.com/job/Moline-IT-Software-Engineering-&-Cyber-Security-Summer-Intern-2021a-IL-61265/673262400/) Intern positions are available. We have internship locations across the United States so you must be willing to relocate and travel domestically. Work Statement: US Visa sponsorship is not available for this position. |
+|[Impira](https://impira.com/careers?gh_jid=4269035002)| San Francisco, CA | |
+|[Bill.com](https://jobs.lever.co/bill)| Remote, USA | [Machine Learning](https://jobs.lever.co/bill/c9603d02-9526-4d36-be1a-9792deec29e5), [Software Engineering](https://jobs.lever.co/bill/18473b24-ab2e-4b69-8814-3d5b2ca6d415) Intern positions are available. |
+|[Revantage](https://www.revantage.com/americas/careers/#careers)| Chicago, IL | |
+
 
 
 
