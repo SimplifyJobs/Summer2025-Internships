@@ -631,7 +631,11 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Impira](https://impira.com/careers?gh_jid=4269035002)| San Francisco, CA | |
 |[Bill.com](https://jobs.lever.co/bill)| Remote, USA | [Machine Learning](https://jobs.lever.co/bill/c9603d02-9526-4d36-be1a-9792deec29e5), [Software Engineering](https://jobs.lever.co/bill/18473b24-ab2e-4b69-8814-3d5b2ca6d415) Intern positions are available. |
 |[Revantage](https://www.revantage.com/americas/careers/#careers)| Chicago, IL | |
-
+|[Tapestry](https://careers.tapestry.com/job/New-York-Summer-IT-&-Data-Science-Internships-NY/694868700/)| NYC | |
+|[Ciena](https://careers.ciena.com/us/en/search-results?m=3&keywords=Intern)| Various | [Software Development](https://careers.ciena.com/us/en/job/R014303/Summer-Intern-Software-Development), [Cloud Engineering](https://careers.ciena.com/us/en/job/R014326/Friends-and-Family-Cloud-Engineering-Inter) Intern positions are available. |
+|[Boehringer Ingelheim](https://tas-boehringer.taleo.net/careersection/global+template+career+section+28external29/jobsearch.ftl?lang=en#)| Ridgefield, CT | [IT RDM Chromatography Systems](https://tas-boehringer.taleo.net/careersection/global+template+career+section+28external29/jobdetail.ftl?job=2011001), [Data Systems](https://tas-boehringer.taleo.net/careersection/global+template+career+section+28external29/jobdetail.ftl?job=2010827&tz=GMT%2B02%3A00), [IT Business Analyst & Web Developer](https://tas-boehringer.taleo.net/careersection/global+template+career+section+28external29/jobdetail.ftl?job=2012230&tz=GMT%2B02%3A00) and other Intern positions are available. Must be legally authorized to work in the United States without restriction. Must be willing to take a drug test and post-offer physical (if required). |
+|[Frontier Technology](https://www.influxdata.com/careers/)| Colorado Springs, CO; Beverly, MA | [Software Developer/Systems Engineer](https://careers-fti-net.icims.com/jobs/3221/job), [Software Developer/Engineer](https://careers-fti-net.icims.com/jobs/3188/job) Intern positions are available. Must be a U.S. Citizen and be able to obtain and maintain a government security clearance. |
+|[CommScope](https://jobs.commscope.com/search/?q=&q2=&alertId=&title=Intern&location=&department=&date=)| Various | |
 
 
 
