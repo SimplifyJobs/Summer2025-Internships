@@ -641,6 +641,11 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Juniper Networks](https://careers.juniper.net/careers/careers/#/jobdescription?jid=946276)| Westford, MA | In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification form upon hire. |
 |[Brother](https://careers.brother-usa.com/job/BROTUSP-100017en_US/Summer-2021-Internship-Program)| Various | |
 |[Rubrik](https://www.rubrik.com/en/company/careers/departments/job.2458231.56313)| Palo Alto, CA | |
+|[Air Products](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25091&siteid=5105&PageType=JobDetails&jobid=702696)|  Allentown, PA | |
+|[edX](https://boards.greenhouse.io/edx/jobs/2449873)| Cambridge, MA; Remote | |
+|[One Medical](https://www.onemedical.com/careers/all-departments/2532004/)| San Francisco, CA | |
+|[a.i. solutions](https://recruiting.ultipro.com/AIS1000AISI/JobBoard/b22b728d-47a6-4550-9005-01c83b9a527f/OpportunityDetail?opportunityId=d6a3ca93-3152-4e78-b63a-45c217f0aa8e)| Lanham, Telework, MD | U.S. citizenship is required. |
+|[RingCentral](https://www.ringcentral.com/whyringcentral/job-description.html?c=3097f0332cf201e572dbfafccc00da62&location=Belmont,%20California,%20USA&department=Internships%20%26%20University%20Recruiting#toContent)| Belmont, CA | |
 
 
 
