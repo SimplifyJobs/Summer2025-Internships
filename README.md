@@ -646,6 +646,11 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[One Medical](https://www.onemedical.com/careers/all-departments/2532004/)| San Francisco, CA | |
 |[a.i. solutions](https://recruiting.ultipro.com/AIS1000AISI/JobBoard/b22b728d-47a6-4550-9005-01c83b9a527f/OpportunityDetail?opportunityId=d6a3ca93-3152-4e78-b63a-45c217f0aa8e)| Lanham, Telework, MD | U.S. citizenship is required. |
 |[RingCentral](https://www.ringcentral.com/whyringcentral/job-description.html?c=3097f0332cf201e572dbfafccc00da62&location=Belmont,%20California,%20USA&department=Internships%20%26%20University%20Recruiting#toContent)| Belmont, CA | |
+|[Arthur AI](https://boards.greenhouse.io/arthurai/jobs/4278024003?t=bea0d56c3us)| NYC | |
+|[Uline](https://www.uline.jobs/JobDetails?culture=en&jobid=3887BR&jobtitle=Software-Developer-Internship---Paid)| Pleasant Prairie, WI | All new hires must complete a pre-employment drug screen. |
+|[Homesite Insurance](https://careers-grammatech.icims.com/jobs/search)| Boston, MA; Seattle, WA | [Software Engineer](https://amfam.wd1.myworkdayjobs.com/en-US/HomesiteCareers/job/MA---Boston/Software-Engineer-Intern_R18297-2), [Data Scientist](https://amfam.wd1.myworkdayjobs.com/en-US/HomesiteCareers/job/MA---Boston/Data-Scientist-Intern_R19138-2), [Database/Python Developer](https://amfam.wd1.myworkdayjobs.com/en-US/HomesiteCareers/job/MA---Boston/Database-Python-Developer-Intern_R18932-1) and other Intern positions are available. |
+|[MITRE](https://mitre.wd5.myworkdayjobs.com/MITRE/1/refreshFacet/318c8bb6f553100021d223d9780d30be)| Various | Various positions are available. 70% of MITRE's full-time jobs require US government security clearances, therefore many internships require that the candidates be clearable. |
+|[Castleton Commodities](https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Stamford-CT/Data-Science--Summer-Intern-_2020-2625-1)| Stamford, CT | |
 
 
 
