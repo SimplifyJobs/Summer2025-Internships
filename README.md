@@ -302,7 +302,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[ADP](https://jobs.adp.com/job-search-results/?keyword=2021&language=en)| Various | [Application Development](https://jobs.adp.com/job/11379792/summer-2021-technology-internship-application-development-may-2022-grads-alpharetta-ga/) and more [here](https://jobs.adp.com/job-search-results/?keyword=2021&language=en). |
 |[Schonfeld](https://boards.greenhouse.io/schonfeld)| NYC | [DevOps](https://boards.greenhouse.io/schonfeld/jobs/2344543), [Software Engineering](https://boards.greenhouse.io/schonfeld/jobs/2344512), [Cybersecurity](https://boards.greenhouse.io/schonfeld/jobs/2344530), [Support Engineering](https://boards.greenhouse.io/schonfeld/jobs/2344552) |
 |[Sierra Nevada Corporation](https://www.sncorp.com/careers/open-positions/?Search=2021)| Various | Applicant must be a U.S. citizen. |
-|Docusign| SF | Closed |
+|[Docusign](https://www.docusign.com/company/careers/open?gh_jid=2535507)| Seattle, WA; Remote | This role is not eligible for sponsorship or CPT. |
 |[Avanade](https://careers.avanade.com/jobsenus/SearchJobs/intern?3_56_3=19946&3_67_3=194784)| Boston, NYC, Philadelphia| |
 |[Merck](https://jobs.merck.com/us/en/job/R76119/2021-Database-Programming-Intern)| Various | Database Programming, [Data Science](https://jobs.merck.com/us/en/job/R72491/2021-Data-Science-Intern) and [other positions](https://jobs.merck.com/us/en/search-results?keywords=2021) are available. No visa sponsorship. |
 |Tokyo Electron| Various | **Closed** |
@@ -651,7 +651,10 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Homesite Insurance](https://amfam.wd1.myworkdayjobs.com/HomesiteCareers)| Boston, MA; Seattle, WA | [Software Engineer](https://amfam.wd1.myworkdayjobs.com/en-US/HomesiteCareers/job/MA---Boston/Software-Engineer-Intern_R18297-2), [Data Scientist](https://amfam.wd1.myworkdayjobs.com/en-US/HomesiteCareers/job/MA---Boston/Data-Scientist-Intern_R19138-2), [Database/Python Developer](https://amfam.wd1.myworkdayjobs.com/en-US/HomesiteCareers/job/MA---Boston/Database-Python-Developer-Intern_R18932-1) and other Intern positions are available. |
 |[MITRE](https://mitre.wd5.myworkdayjobs.com/MITRE/1/refreshFacet/318c8bb6f553100021d223d9780d30be)| Various | Various positions are available. 70% of MITRE's full-time jobs require US government security clearances, therefore many internships require that the candidates be clearable. |
 |[Castleton Commodities](https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Stamford-CT/Data-Science--Summer-Intern-_2020-2625-1)| Stamford, CT | |
-
+|[Siemens Healthineers](https://jobs.siemens.com/healthineers/jobs?page=1&keywords=2021&sortBy=relevance&location=United%20States&woe=12&stretchUnit=MILES&stretch=0)| Knoxville, TN; Walpole, MA | No housing stipend or relocation will be offered for some positions. |
+|[Caissa](https://caissallc.com/careers/#!)| NYC | |
+|[WePay](https://go.wepay.com/posting/?jobId=97bfaef8-56ab-419d-afb9-007256b5f38c)| Redwood City, CA | |
+|[Datavant](https://boards.greenhouse.io/datavant/jobs/4117677002)| San Francisco, CA | |
 
 
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too! 🙏
