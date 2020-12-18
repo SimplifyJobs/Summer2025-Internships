@@ -670,6 +670,11 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Ro](https://jobs.lever.co/ro/92598b00-3ccc-43b8-aff2-21b7add3d0ce)| NYC; Remote | Various positions are available. |
 |[Inspire Brands](https://careers.inspirebrands.com/us/en/search-results?keywords=2021&s=1)| Atlanta, GA; Oklahoma City, OK | [IT Data Engineering](https://careers.inspirebrands.com/us/en/job/JR7191/Summer-2021-Intern-IT-Data-Engineering), [Data Science](https://careers.inspirebrands.com/us/en/job/JR7188/Summer-2021-Intern-Data-Science), [Media Analytics](https://careers.inspirebrands.com/us/en/job/JR7230/Summer-2021-Intern-Media-Analytics) and other Intern positions are available. |
 |[WP Engine](https://wpengine.eightfold.ai/careers?pid=2206635&query=2021&domain=wpengine.com)| Austin, TX; Omaha, NE | |
+|[Edgenuity](https://www.talent.com/view?id=de792aad7c7a&source=linkedin&utm_medium=linkedin)| Scottsdale, AZ | |
+|[Schnuck Markets](https://schnucks.wd5.myworkdayjobs.com/SchnucksCareers/0/refreshFacet/318c8bb6f553100021d223d9780d30be)| St. Louis, Mo | |
+|[Colony Brands](https://sjobs.brassring.com/TGnewUI/Search/Home/Home?partnerid=26513&siteid=5661#keyWordSearch=2021&locationSearch=)| IA; WI; MO; WI | [Cloud Engineering](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=26513&siteid=5661&PageType=JobDetails&jobid=644341), [Data Analyst](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=26513&siteid=5661&PageType=JobDetails&jobid=643956#jobDetails=643956_5661), [Web Developer](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=26513&siteid=5661&PageType=JobDetails&jobid=643964#jobDetails=643964_5661) and other Intern positions are available. |
+|[Torch Technologies](https://torchtechnologies.hua.hrsmart.com/hr/ats/Posting/view/2708)| Huntsville, AL | |
+|[Wells Enterprises](https://wells.taleo.net/careersection/2/jobdetail.ftl?job=2000001190&tz=GMT%2B02%3A00&tzname=Europe%2FVilnius)| Le Mars, IA | |
 
 
 
