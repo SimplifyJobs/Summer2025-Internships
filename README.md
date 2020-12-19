@@ -675,7 +675,11 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Colony Brands](https://sjobs.brassring.com/TGnewUI/Search/Home/Home?partnerid=26513&siteid=5661#keyWordSearch=2021&locationSearch=)| IA; WI; MO | [Cloud Engineering](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=26513&siteid=5661&PageType=JobDetails&jobid=644341), [Data Analyst](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=26513&siteid=5661&PageType=JobDetails&jobid=643956#jobDetails=643956_5661), [Web Developer](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=26513&siteid=5661&PageType=JobDetails&jobid=643964#jobDetails=643964_5661) and other Intern positions are available. |
 |[Torch Technologies](https://torchtechnologies.hua.hrsmart.com/hr/ats/Posting/view/2708)| Huntsville, AL | |
 |[Wells Enterprises](https://wells.taleo.net/careersection/2/jobdetail.ftl?job=2000001190)| Le Mars, IA | |
-
+|[Pendo.io](https://www.pendo.io/careers/)| Raleigh, NC | [Data Analytics](https://boards.greenhouse.io/pendo/jobs/4997538002), [Security Engineering](https://boards.greenhouse.io/pendo/jobs/5002558002), [Software Engineer](https://boards.greenhouse.io/pendo/jobs/4998501002) Intern positions are available. |
+|[Second Spectrum](https://jobs.lever.co/secondspectrum/47e1b768-0f6b-4760-8c40-c5f69062c867)| Los Angeles, CA | This internship is currently scheduled to be remote. This may be changed to an onsite internship in the future pending COVID updates. |
+|[WarnerMedia](https://www.warnermediacareers.com/job/seattle/virtual-hbomax-software-engineering-intern-summer-2021/1174/18301065)| Remote | Relocation is not provided. |
+|[CQL](https://www.cqlcorp.com/careers/software-developer-internship/)| Ann Arbor, Grand Rapids MI | |
+|[FutureSense](https://neuvoo.com/view/?id=d9fa47d3d341&oapply=org_v2020-12&source=joveo_bulk2&utm_source=partner&utm_medium=joveo_bulk2&puid=gadc3de7gada3aeffddc3de93aec3dedbaacdd9d4dacfdafaea33def3debfed3gbdb8bddacdcaed3fddf8ddagd)| Chicago, IL | |
 
 
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too! 🙏
