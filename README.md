@@ -685,6 +685,11 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Henkel](https://www.henkel.com/careers/jobs-and-application#selectFilterByParameter=select_34828_0_Career_Level_18682_Career%20Level=Students&select_34828_5_Functional_Area_18674_Functional%20Area=Engineering%3BIT&)| Various | [Data Science](https://www.henkel.com/careers/jobs-and-application/1139612-1139612) and other Intern positions are available. |
 |[Evidation Health](https://evidation.com/careers)| Santa Barbara, Santa Barbara, CA; US Remote | |
 |[Covance](https://careers.covance.com/global/en/search-results?s=1)| Various | [Data Science](https://careers.covance.com/global/en/job/51232/Data-Science-Intern), [IT Quality Assurance](https://careers.covance.com/global/en/job/52401/IT-Quality-Assurance-Intern) and other Intern positions are available. |
+|[Dominion Energy](https://careers.dominionenergy.com/job/RICHMOND-Intern-IT-Emerging-Technologies-%28Richmond%2C-VA%29-VA-23219/699014700/)| Richmond, VA | Certain positions at Dominion Energy may involve access to information and technology subject to export controls under U.S. law, this may result in Dominion Energy limiting its consideration of certain applicants. |
+|[JLL](https://jll.wd1.myworkdayjobs.com/en-US/jllcareers/job/Richmond-VA/XMLNAME-2021-Summer-Intern--Technology--VA_REQ126996?utm_source=jll&utm_medium=referral&utm_campaign=us_careers&utm_content=explore_opportunities)| Richmond, VA | We do not offer relocation assistance or housing for our internship program. |
+|[SelectQuote Benefits](https://www.selectquotecareer.com/?#positions)| Overland Park, KS | [App Dev](https://www.selectquotecareer.com/p/fde45042fd64-information-technology-internship-app-dev), [Business intelligence, ETL, Data Science](https://www.selectquotecareer.com/p/465a91e48fb8-information-technology-internship-business-intelligence-etl-and-data-science), [DevOps and Infrastructure](https://www.selectquotecareer.com/p/5178d0b1ac01-information-technology-internship-devops-and-infrastructure) and other Intern positions are available. |
+|[Arrow Electronics](https://careers.arrow.com/us/en/job/R181822/IT-Intern)| Remote | |
+|[FCA Fiat Chrysler Automobiles](https://careers.fcagroup.com/job/11390451/2021-information-technology-intern-digital-technology-leader-auburn-hills-mi/)| Auburn Hills, MI | |
 
 
 
