@@ -690,6 +690,11 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[SelectQuote Benefits](https://www.selectquotecareer.com/?#positions)| Overland Park, KS | [App Dev](https://www.selectquotecareer.com/p/fde45042fd64-information-technology-internship-app-dev), [Business intelligence, ETL, Data Science](https://www.selectquotecareer.com/p/465a91e48fb8-information-technology-internship-business-intelligence-etl-and-data-science), [DevOps and Infrastructure](https://www.selectquotecareer.com/p/5178d0b1ac01-information-technology-internship-devops-and-infrastructure) and other Intern positions are available. |
 |[Arrow Electronics](https://careers.arrow.com/us/en/job/R181822/IT-Intern)| Remote | |
 |[FCA Fiat Chrysler Automobiles](https://careers.fcagroup.com/job/11390451/2021-information-technology-intern-digital-technology-leader-auburn-hills-mi/)| Auburn Hills, MI | |
+|[The TCW Group](https://careers-tcw.icims.com/jobs/1524/job)| Los Angeles, CA | |
+|[PwC](https://jobs.us.pwc.com/search-jobs/2021/932/1?fl=6252001,4566966)| Various | [Innovation Engineer](https://jobs.us.pwc.com/job/denver/innovation-engineer-intern-summer-2021/932/18301165), [Automation CoE Intern](https://jobs.us.pwc.com/job/new-york/automation-coe-intern-summer-2021/932/18301168), [Innovation Technology Development](https://jobs.us.pwc.com/job/dallas/innovation-technology-development-intern-summer-2021/932/18301212) Intern positions are available. |
+|[Interstate Batteries](https://interstate.wd1.myworkdayjobs.com/InterstateBatteries-Careers/1/refreshFacet/318c8bb6f553100021d223d9780d30be)| Dallas, TX | [Software Developer](https://interstate.wd1.myworkdayjobs.com/en-US/InterstateBatteries-Careers/job/US-TX-Dallas/Software-Development-Intern_REQ-3446), [IT Support Analyst](https://interstate.wd1.myworkdayjobs.com/en-US/InterstateBatteries-Careers/job/US-TX-Dallas/IT-Support-Analyst-Intern_REQ-3466) Intern positions are available. Must have lodging in the DFW area. |
+|[Kroll Bond Rating Agency](https://boards.greenhouse.io/krollbondratingagency/jobs/4827176002)| Manhattan, NYC; Remote | |
+|[Barkback](http://smrtr.co/1w44Mj0)| Santa Barbara, CA | You must be able to work from our amazing office located in downtown Santa Barbara. |
 
 
 
