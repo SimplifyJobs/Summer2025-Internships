@@ -705,6 +705,12 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[KSM Consulting](https://jobs.smartrecruiters.com/KSMConsulting/743999721588428-summer-2021-internship)| Indianapolis, IN | |
 |[LogicGate](https://www.logicgate.com/about-us/join-the-team/#positions)| Chicago, IL | |
 |[Centauri](https://phg.tbe.taleo.net/phg01/ats/careers/v2/searchResults?org=INTEGRITYAPPLICATIONS&cws=37)| Ann Arbor, MI; Fairborn, Beavercreek OH | [Technical Intern](https://phg.tbe.taleo.net/phg01/ats/careers/v2/viewRequisition?org=INTEGRITYAPPLICATIONS&cws=37&rid=5015), [Summer Intern](https://phg.tbe.taleo.net/phg01/ats/careers/v2/viewRequisition?org=INTEGRITYAPPLICATIONS&cws=37&rid=4906). Must be a US citizen. May be required to obtain a security clearance based upon project. |
+|[Noblis](https://careers.noblis.org/listings)| Various | [Technical Summer Intern](https://jobs-noblis.icims.com/jobs/8726/2021-technical%2c-summer-intern/job) and other Intern positions are available. U.S. citizenship or U.S. permanent residency status is required. |
+|[NFL](https://nfl.taleo.net/careersection/nfl_ex/jobsearch.ftl)| NYC | Football Data & Analytics, Network Engineer, Software Automation and other Intern positions are available. Some positions require applicants to be legally permitted to work in the United States and international students must have all visas and employment authorizations before the start of the internship. |
+|[Unqork](https://boards.greenhouse.io/internatunqork?t=d892b6fa2)| Remote | [Analytics](https://boards.greenhouse.io/internatunqork/jobs/4646243002?t=d892b6fa2), [Engineering (Components)](https://boards.greenhouse.io/internatunqork/jobs/4993155002?t=d892b6fa2), [Engineering (Data)](https://boards.greenhouse.io/internatunqork/jobs/4645662002?t=d892b6fa2) and other Intern positions are available. |
+|[Amobee](https://www.amobee.com/company/careers/listing/department/)| Various | [Software Engineering / Data Science](https://www.amobee.com/company/careers/internship-summer-2021-software-engineering-data-science-2/) and other Intern positions are available. |
+|[Norfolk Southern Corporation](https://jobs.nscorp.com/search/?createNewAlert=false&q=2021&locationsearch=&optionsFacetsDD_dept=&optionsFacetsDD_customfield1=&optionsFacetsDD_customfield2=&optionsFacetsDD_customfield3=)| Atlanta, GA | [Data Science & Analytics](https://jobs.nscorp.com/job/Atlanta-Summer-2021-Data-Science-and-Analytics-Intern-%28Legal-Operations%29-GA-30309/699742000/) and other Intern positions are available. |
+
 
 
 
