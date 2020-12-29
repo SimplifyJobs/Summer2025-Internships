@@ -725,7 +725,11 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[NISC](https://boards.greenhouse.io/nisc)| Lake St. Louis, MO; Mandan, ND; Cedar Rapids, IA | [Database Conversion Programming](https://boards.greenhouse.io/nisc/jobs/2530733), [Software Development](https://boards.greenhouse.io/nisc/jobs/2338464) and other Intern positions are available. |
 |[Corsair](https://phg.tbe.taleo.net/phg02/ats/careers/v2/viewRequisition?org=CORSAIRMEMORY&cws=37&rid=5952)| Fremont, CA | |
 |[Quantum Health](https://jobs.jobvite.com/quantum-health/search?c=&l=&t=&q=Intern)| Dublin, OH | [IT - Application Developer](https://jobs.jobvite.com/quantum-health/job/oUxfefwE), [IT - QA Ensurance](https://jobs.jobvite.com/quantum-health/job/opwfefw8), [Data Engineering](https://jobs.jobvite.com/quantum-health/job/ocFfefw4) and other Intern positions are available. Some positions require applicants to be legally authorized to work in the United States on a permanent and ongoing future basis without requiring sponsorship. |
-
+|[The Boring Company](https://jobs.lever.co/boringcompany/41bed6a1-0d01-4fe1-88e2-c1f2c685bf1f)| Las Vegas, NV | |
+|[Cboe Global Markets](https://cboe.wd1.myworkdayjobs.com/External_Career_CBOE/0/refreshFacet/318c8bb6f553100021d223d9780d30be)| NYC; Various | [North American Equities](https://cboe.wd1.myworkdayjobs.com/en-US/External_Career_CBOE/job/New-York-NY/Internship---North-American-Equities_R-1109), [Market Data & Access Services](https://cboe.wd1.myworkdayjobs.com/en-US/External_Career_CBOE/job/New-York-NY/Internship---Market-Data---Member-Services_R-1111) and other Intern positions are available. |
+|[First United Bank](https://jobs.lever.co/ro/92598b00-3ccc-43b8-aff2-21b7add3d0ce)| NYC; Remote | Various positions are available. |
+|[TransUnion](https://transunion.wd5.myworkdayjobs.com/en-US/transunion/job/Chicago-Illinois/Data-Science---Analytics-Internship--Summer-2020-_19006431)| Chicago, IL | |
+|[Inovalon](https://www.inovalon.com/careers/openings/)| Bowie, MD, Canonsburg, PA | [Cyber Security & Security Operations](https://www.inovalon.com/job/?gh_jid=4258188003), [Software Engineering (.NET)/C#](https://www.inovalon.com/job/?gh_jid=4273220003) and other Intern positions are available. |
 
 
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too! 🙏
