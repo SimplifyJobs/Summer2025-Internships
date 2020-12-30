@@ -27,34 +27,34 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Pimco](https://careers.pimco.com/careers/SearchJobs/?listFilterMode=1&794=%5B%7B%22%24JSNType%22%3A%22dataset_Option%22%2C%22value%22%3A%7B%22id%22%3A1262%2C%22name%22%3Anull%7D%7D%5D&794_format=659)| Austin, Newport Beach| Software Engineering, Data Science |
 |[Tower Research](https://www.tower-research.com/open-positions/?gh_jid=2238182&gh_src=PittCSC) | Chicago, New York | |
 |[Jane Street](https://www.janestreet.com/join-jane-street/internships/)| New York | |
-|[PDT Partners](https://www.pdtpartners.com/jobs.html?gh_jid=1372119)| New York | |
+|PDT Partners| New York | **Closed** |
 |Point72 | New York | **Closed** Analyst Academy|
 |Bracebridge Capital|Boston|Closed|
-|[Jump Trading](https://www.jumptrading.com/apply.html?gh_jid=1847191)| Chicago | |
+|Jump Trading| Chicago | **Closed** |
 |BNP Paribas| New York | **Closed** |
 |[Belvedere Trading](https://belvederetrading.applicantstack.com/x/detail/a2sa4x0tugum/aa1b?noia=1)| Chicago | |
-|[RBC](https://jobs.rbc.com/ca/en/job/258305/Technology-Summer-Analyst-Program-2021) | Jersey City | |
+|RBC| Jersey City | **Closed** |
 |[Arrowstreet Capital](https://arrowstreetcapital.wd5.myworkdayjobs.com/en-US/Arrowstreet/jobs) | Boston | Quantitative Developer, Data Science, Research Systems, Research Associate |
 |[Paypal](https://jobsearch.paypal-corp.com/en-US/search?keywords=%22software%20engineer%20intern%22&location=&facetcountry=us) | Various | |
 |Discover| Houston | **Closed** |
 |Prudential| Newark, NJ | **Closed** |
 |Neeva| Mountain View, CA | **Closed** |
-|[Squarepoint Capital](https://www.squarepoint-capital.com/job#462517) | NY, London, Singapore, Montreal | |
+|Squarepoint Capital | NY, London, Singapore, Montreal | **Closed** |
 |[Cambly](https://jobs.lever.co/cambly/96ea4732-5f6a-4027-9695-20cbb650bede/apply) | San Francisco | |
 |Nuro | Mountain View | Closed Have more internships here  |
 |[Two Sigma](https://careers.twosigma.com/careers/JobDetail?jobId=6666&source=PittCSC)| New York NY | |
 |Zapata Computing | Boston, MA| **Closed**|
-|[National Security Agency](https://apply.intelligencecareers.gov/job-description/1145701?fbclid=IwAR0m_4RIc9BsP0VvR4kN139YN4IMN63xIfOKob3pnv6nWKqit3ZFjD4SOFE) | Fort Meade, MD | The application period runs from 1 May - 15 October 2020 |
+|National Security Agency | Fort Meade, MD | **Closed** |
 |[MealMe](https://www.mealme.ai/careers) |  | Also has Fall internships |
 |[Vanguard](https://www.vanguardjobs.com/job-search-results/?keyword=%2211050430%22%20OR%20%2211050428%22%20OR%20%2211050431%22%20OR%20%2211050429%22) | Malvern, PA or Charlotte, NC | See issues [25](https://github.com/Pitt-CSC/Summer2021-Internships/issues/25) and [30](https://github.com/Pitt-CSC/Summer2021-Internships/issues/30)|
 |[Abbvie](https://careers.abbvie.com/abbvie/jobs/2005191?lang=en-us&previousLocale=en-US) | Chicago | |
 |Optiver| Chicago | **Closed** |
-|[BASF](https://basf.jobs/light_green_NA/job/Florham-Park-Professional-Development-Program-%28PDP%29-Internship-Data-Science-Summer-2021-NJ-07932/611553501/?feedId=111101&src=PittCSC)| New Jersey | Data Science Internship |
+|BASF| New Jersey | **Closed** |
 |[Moody's Analytics](https://careers.moodys.com/jobs/18781BR-2021-engineering-and-technology-summer-internship-new-york-omaha-san-francisco-waltham-west-chester/) | NY, SF, Omaha, Waltham, West Chester | Engineering and Tech Internship|
 |[Amazon](https://www.amazon.jobs/en/jobs/1204415/software-development-engineer-internship-summer-2021-us?ref=PittCSC) | Various | [Security Engineering](https://www.amazon.jobs/en/jobs/1229331/security-engineer-internship-summer-2021-us)|
 |[Citrix](https://jobs.citrix.com/job/R22175/Software-Engineer-Intern-2021?utm_campaign=pittcsc&utm_source=pittcsc&utm_medium=organic) | Florida | |
 |Central Intelligence Agency (CIA) | Washington, D.C. | **Closed** Must be US Citizen (Dual-Citizens are eligible) |
-|[Bank of America](https://campus.bankofamerica.com/careers/Global-Technology-Summer-Analyst-Program-US.html) | US & Canada | |
+| Bank of America| US & Canada | **Closed** |
 |[Honeywell](https://careers.honeywell.com/us/en/job/HONEUSREQ238487EXTERNALENUS/Computer-Software-Engineer-Computer-Science-Summer-2021-Intern-Co-Op?utm_source=PittCSC)| Various | |
 |[Palantir](https://jobs.lever.co/palantir/72018fcf-e777-4696-956c-a764966a4c75/apply) | Various | Forward Deployed [here](https://jobs.lever.co/palantir/a580fa16-06b0-4e4d-a597-60b7cd5b7ea1) |
 |Chick-fil-a | Atlanta | **Closed**|
@@ -62,14 +62,14 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Qualtrics](https://www.qualtrics.com/careers/us/en/job/QUALUS87166EXTERNALENUS/Software-Engineering-Intern-Summer-2021-Provo-UT?utm_source=PittCSC) | Seattle, Provo | [Seattle](https://www.qualtrics.com/careers/us/en/job/QUALUS151240EXTERNALENUS/Software-Engineering-Intern-Summer-2021-Seattle-WA?utm_source=PittCSC)  |
 |[Scale AI]| San Francisco, CA | **Closed** |
 |[JP Morgan](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210013662/?utm_medium=jobshare&utm_source=PittCSC) | Various | International students on F-1 Visa may not be considered |
-|[Duolingo](https://boards.greenhouse.io/duolingo/jobs/4867820002) | Pittsburgh, PA | [Duolingo Thrive (For second years)](https://boards.greenhouse.io/duolingo/jobs/4901748002) |
+|[Duolingo](https://boards.greenhouse.io/duolingo/jobs/4867820002) | Pittsburgh, PA | **Duolingo Thrive is closed** |
 |Red Ventures| Charlotte, NC | **Closed** |
 |Texas Instruments | Dallas, TX | **Closed** |
 |[Los Alamos National Laboratory](https://jobszp1.lanl.gov/OA_HTML/OA.jsp?page=/oracle/apps/irc/candidateSelfService/webui/VisVacDispPG&OAHP=IRC_EXT_SITE_VISITOR_APPL&OASF=IRC_VIS_VAC_DISPLAY&akRegionApplicationId=821&transactionid=1759536200&retainAM=N&addBreadCrumb=RP&p_svid=81425&p_spid=3628350)| Los Alamos, NM| |
 |Coursera | Mountain View | **Closed** |
 |[Cisco Meraki](https://jobs.cisco.com/jobs/SearchJobs/2021%20Meraki?listFilterMode=1&21178=%5B169482%5D&21178_format=6020) | Chicago, IL; San Francisco | |
 |UnifyID | Redwood City, CA | **Closed** |
-|[Capital One](https://campus.capitalone.com/job/mclean/technology-internship-program-summer-2021/1786/17009506) | Various | |
+|Capital One| Various | **Closed** |
 |[Lockheed Martin](https://www.lockheedmartinjobs.com/search-jobs/2021/United%20States/694/1/2/6252001/39x76/-98x5/50/2) | Various | US Citizenship required |
 |General Mills| Minneapolis, MN | |
 |[Valkyrie Trading](https://jobs.lever.co/valkyrietrading/2da1578a-7a20-41db-83bd-cb16e4e8a112/apply) | Chicago, IL | |
@@ -79,15 +79,15 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |Cargill| Hopkins, MN | **Closed** |
 |[Dropbox](https://www.dropbox.com/jobs/listing/2265990?gh_jid=2265990) | San Francisco | |
 |Platform9| Mountain View | **Closed** |
-|[HubSpot](https://www.hubspot.com/careers/jobs/2319369?hubs_signup-cta=careers-apply) | Cambridge, MA | |
-|[Stripe](https://stripe.com/jobs/search?s=intern) | Seattle, NYC, San Francisco | |
+|HubSpot | Cambridge, MA | **Closed** |
+|Stripe | Seattle, NYC, San Francisco | **Closed** |
 |Zipline | San Francisco | **Closed** |
 |[Citi](https://citi.avature.net/careers/ProjectDetail/Dallas-Texas-United-States-NAM-Global-Consumer-Technology-Summer-Analyst-Dallas-North-America-2021-/10675) | North America | |
 |[Qualcomm](https://qualcomm.wd5.myworkdayjobs.com/en-US/External/job/San-Diego/IT-Internship---Summer-2021_3001435)| San Diego | Also available [Hardware Engineering](https://qualcomm.wd5.myworkdayjobs.com/en-US/External/job/San-Diego/Hardware-Engineering-Internship--Summer-2021-_3001376), [Systems Engineering](https://qualcomm.wd5.myworkdayjobs.com/en-US/External/job/San-Diego/Systems-Engineering-Internship--Summer-2021-_3001377), and [Embedded Software Engineering](https://qualcomm.wd5.myworkdayjobs.com/en-US/External/job/San-Diego/Embedded-Software-Engineering-Internship--Summer-2021-_3001371) |
 |[MLH](https://fellowship.mlh.io/) | Various Remote | [Explorer](https://fellowship.mlh.io/programs/explorer) and [Open Source](https://fellowship.mlh.io/programs/open-source) Fellowships, Fall, Spring, Summer available (UPDATE: Externships now available for Fall, Spring and Summer! Refer [MLH externships](https://fellowship.mlh.io/programs/externship) site for more info) & [MLH Coach](https://mlh.io/coaches) positons now available (optional if you want to help others)|
 |[MasterCard](https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/Arlington-Virginia/Software-Development-Engineer-Intern--Summer-2021-_R-111190?source=PittCSC) | Arlington, VA | Open to all students |
-|[Vail Systems](http://jobs.jobvite.com/careers/vailsystems/job/oJyfdfwt/apply?__jvst=PittCSC)| Chicago, Illinois | |
-|[Medtronic](https://jobs.medtronic.com/jobs/computer-science-internship%E2%80%93summer-2021-81742)| Minneapolis, Minnesota | |
+|Vail Systems| Chicago, Illinois | **Closed** |
+|Medtronic| Minneapolis, Minnesota | **Closed** |
 |[Clever](https://clever.com/about/careers/detail?gh_jid=6194&gh_src=PittCSC)| San Francisco, CA | |
 |[Salesforce](https://salesforce.wd1.myworkdayjobs.com/Futureforce_Internships/1/refreshFacet/318c8bb6f553100021d223d9780d30be) | Various | [Software Engineer](https://salesforce.wd1.myworkdayjobs.com/en-US/Futureforce_Internships/job/California---San-Francisco/Summer-2021-Intern---Software-Engineer--MuleSoft_JR72336-1), [Software Engineer(Security)](https://salesforce.wd1.myworkdayjobs.com/en-US/Futureforce_Internships/job/California---San-Francisco/Summer-2021-Intern-Software-Engineer--Security-_JR70210), [Software Engineer, Business Technology(IT)](https://salesforce.wd1.myworkdayjobs.com/en-US/Futureforce_Internships/job/Texas---Dallas/Summer-2021-Intern---Software-Engineer--Business-Technology--IT-_JR74858-2) and other intern positions are available. Winter internships are available too. |
 |Workiva| Scottsdale, AZ |**Closed** Must be authorized to work in the United States and not require sponsorship now or in the future |
@@ -100,12 +100,12 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[NetApp](https://jobs.netapp.com/job/Sunnyvale-Intern-Software-&-QA-Engineer-CA-94089/668051300/) | Various | [Advanced Technology Group](https://jobs.netapp.com/job/Research-Triangle-Park-Intern-Advanced-Technology-Group-1-NC-27709/667086400/) and [IT](https://jobs.netapp.com/job/Research-Triangle-Park-Intern-Information-Technology-NC-27709/667086100/) |
 |[Twitch](https://boards.greenhouse.io/twitch/jobs/4827849002?gh_src=PittCSC)| Seattle, Irvine, San Francisco | |
 |Snap| Los Angeles, Seattle, San Francisco, New York, Mountain View | **Closed**|
-|[Benchling](https://www.benchling.com/careers/?gh_jid=2298068&gh_src=PittCSC#detail)| San Fran, Boston | |
+|Benchling| San Fran, Boston | **Closed** |
 |[Target](https://jobs.target.com/job/-/-/1118/17057382)| Minneapolis | |
-|[Emerson](https://emerson.taleo.net/careersection/autosol/jobdetail.ftl?job=20005735&lang=en&media_id=46825)| Austin,TX| |
+|Emerson| Austin,TX| **Closed** |
 |[Applied Intuition](https://jobs.lever.co/applied/c22805d5-2006-4867-bb32-671951b17206/apply) | Mountain View | |
-|[Tableau](https://salesforce.wd1.myworkdayjobs.com/en-US/Tableau/job/Washington---Seattle/Summer-2021-Intern---Software-Engineer---Tableau_JR68842-2?source=PittCSC) | Seattle, Palo Alto | |
-|[Qumulo](https://qumulo.com/company/jobs/?gh_jid=2290046)| Seattle | |
+|Tableau | Seattle, Palo Alto | **Closed** |
+|Qumulo| Seattle | **Closed** |
 |[Intuitive](https://careers.intuitive.com/jobs/201638?lang=en-us)| Sunnyvale | |
 |Fidelity Investments | Jersey City, NJ; Boston, MA; Merrimack, NH; Smithfield, RI; Durham, NC; and Westlake, TX | **Closed** |
 |[General Electric](https://jobs.gecareers.com/global/en/job/3495072/Digital-Technology-Intern-2021)| Various| |
@@ -823,5 +823,6 @@ Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), 
 * [CuriousIbrahim](https://github.com/CuriousIbrahim)
 * [Kur0Leo](https://github.com/Kur0Leo)
 * [GarlicDebug](https://github.com/GarlicDebug)
+* [Howardma31](https://github.com/Howardma31)
 
 Thanks to [elaine-zheng](https://github.com/elaine-zheng/summer2020internships) for the inspiration! 🐐
