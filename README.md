@@ -38,7 +38,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Paypal](https://jobsearch.paypal-corp.com/en-US/search?keywords=%22software%20engineer%20intern%22&location=&facetcountry=us) | Various | |
 |Discover| Houston | **Closed** |
 |Prudential| Newark, NJ | **Closed** |
-|[Neeva]| Mountain View, CA | **Closed** |
+|Neeva| Mountain View, CA | **Closed** |
 |[Squarepoint Capital](https://www.squarepoint-capital.com/job#462517) | NY, London, Singapore, Montreal | |
 |[Cambly](https://jobs.lever.co/cambly/96ea4732-5f6a-4027-9695-20cbb650bede/apply) | San Francisco | |
 |Nuro | Mountain View | Closed Have more internships here  |
@@ -63,12 +63,12 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Scale AI]| San Francisco, CA | **Closed** |
 |[JP Morgan](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210013662/?utm_medium=jobshare&utm_source=PittCSC) | Various | International students on F-1 Visa may not be considered |
 |[Duolingo](https://boards.greenhouse.io/duolingo/jobs/4867820002) | Pittsburgh, PA | [Duolingo Thrive (For second years)](https://boards.greenhouse.io/duolingo/jobs/4901748002) |
-|[Red Ventures]| Charlotte, NC | **Closed** |
+|Red Ventures| Charlotte, NC | **Closed** |
 |Texas Instruments | Dallas, TX | **Closed** |
 |[Los Alamos National Laboratory](https://jobszp1.lanl.gov/OA_HTML/OA.jsp?page=/oracle/apps/irc/candidateSelfService/webui/VisVacDispPG&OAHP=IRC_EXT_SITE_VISITOR_APPL&OASF=IRC_VIS_VAC_DISPLAY&akRegionApplicationId=821&transactionid=1759536200&retainAM=N&addBreadCrumb=RP&p_svid=81425&p_spid=3628350)| Los Alamos, NM| |
 |Coursera | Mountain View | **Closed** |
 |[Cisco Meraki](https://jobs.cisco.com/jobs/SearchJobs/2021%20Meraki?listFilterMode=1&21178=%5B169482%5D&21178_format=6020) | Chicago, IL; San Francisco | |
-|[UnifyID] | Redwood City, CA | **Closed** |
+|UnifyID | Redwood City, CA | **Closed** |
 |[Capital One](https://campus.capitalone.com/job/mclean/technology-internship-program-summer-2021/1786/17009506) | Various | |
 |[Lockheed Martin](https://www.lockheedmartinjobs.com/search-jobs/2021/United%20States/694/1/2/6252001/39x76/-98x5/50/2) | Various | US Citizenship required |
 |General Mills| Minneapolis, MN | |
