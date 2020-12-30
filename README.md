@@ -60,7 +60,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |Chick-fil-a | Atlanta | **Closed**|
 |[Robinhood](https://boards.greenhouse.io/robinhood/jobs/2214472?t=PittCSC) | Menlo Park, CA | More [positions](https://boards.greenhouse.io/robinhood?gh_src=PittCSC) here, two application max |
 |[Qualtrics](https://www.qualtrics.com/careers/us/en/job/QUALUS87166EXTERNALENUS/Software-Engineering-Intern-Summer-2021-Provo-UT?utm_source=PittCSC) | Seattle, Provo | [Seattle](https://www.qualtrics.com/careers/us/en/job/QUALUS151240EXTERNALENUS/Software-Engineering-Intern-Summer-2021-Seattle-WA?utm_source=PittCSC)  |
-|[Scale AI]| San Francisco, CA | **Closed** |
+|Scale AI| San Francisco, CA | **Closed** |
 |[JP Morgan](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210013662/?utm_medium=jobshare&utm_source=PittCSC) | Various | International students on F-1 Visa may not be considered |
 |[Duolingo](https://boards.greenhouse.io/duolingo/jobs/4867820002) | Pittsburgh, PA | **Duolingo Thrive is closed** |
 |Red Ventures| Charlotte, NC | **Closed** |
@@ -159,7 +159,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Nutanix](https://nutanix.eightfold.ai/careers?pid=1637065&domain=nutanix.com)| San Jose, CA | |
 |[Etsy](https://www.etsy.com/careers/job/743999718641018) | Brooklyn, NY | |
 |[Virtu Financial](https://boards.greenhouse.io/virtu/jobs/4792595002) | NYC | |
-|[Ginkgo Bioworks] | Boston, MA | **Closed** |
+|Ginkgo Bioworks | Boston, MA | **Closed** |
 |Home Depot| Atlanta, GA | **Closed** |
 |[Lowes](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=25239&siteid=5014&jobid=6674182#jobDetails=6674182_5014) | Mooresville| |
 |Path AI | Boston, MA | **Closed** |
@@ -212,7 +212,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |Pure Storage | Mountain View | **Closed** Software Engineering |
 |New Relic | Portland | **Closed** |
 |[Kensho](https://jobs.lever.co/kensho/6d510556-b646-4af6-aad5-227625d9727d/apply) | Cambridge | [Front End](https://jobs.lever.co/kensho/312ae842-2798-4021-b76f-33e11c504d71), [Query Infrastructure](https://jobs.lever.co/kensho/f1d84d9a-c754-4f7f-97d4-b87443fb2e60) |
-|[Lucid] | Salt Lake City ,UT | **Closed** |
+|Lucid | Salt Lake City ,UT | **Closed** |
 |Addepar | Remote | **Closed** |
 | Deliverr | SF | |
 |[Viasat](https://careers.viasat.com/careers/FolderDetail/Software-Engineer-Intern/5765) | Carlsbad, CA | Must be a U.S. citizen, lawful permanent resident of the U.S., protected individual, or eligible to obtain the required authorizations from the U.S. Department of State |
