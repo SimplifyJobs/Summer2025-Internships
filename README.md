@@ -261,7 +261,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Pocket Gems](https://boards.greenhouse.io/pocketgems/jobs/2334655) | SF | |
 |[Kiva](https://boards.greenhouse.io/kivaorg/jobs/2349814?gh_jid=2349814)| Remote | |
 |[Chewy](https://www.chewy.com/jobs/position/2353210?gh_jid=2353210&gh_jid=2353210)| Boston, MA | |
-|[Convoy]| Seattle, WA | **Closed** |
+|Convoy| Seattle, WA | **Closed** |
 |[Blue Origin](https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Kent-WA/Summer-2021-Internship--Avionics-Software_R5000?mode=job) | Kent, WA ; Merritt Island, FL | Must be a U.S. citizen or national, U.S. permanent resident (current Green Card holder), or lawfully admitted into the U.S. as a refugee or granted asylum.|
 |[Teamworthy Ventures](https://boards.greenhouse.io/teamworthy/jobs/4163159003) | NYC | |
 |[Thomson Reuters](https://jobs.thomsonreuters.com/ListJobs/All/Search/jobtitle/2021/)| Eagan-Minnesota-United States of America | No visa-sponsorships available. DevOps, Software Engineering, Database and other positions are available. |
@@ -278,11 +278,11 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Chemours](https://chemours.wd5.myworkdayjobs.com/Chemours/job/US---DE---Wilmington-Headquarters/Software-Developer-Summer-Intern_JR5427)| Wilmington, DE |Candidates who now or in the future require sponsorship for employment (i.e., H1-B visa, F-1 visa (OPT), TN visa or any other non-immigrant status) are ineligible |
 |[Audible](https://www.amazon.jobs/en/jobs/1274977/audible-software-development-engineer-internship) | Trenton, NJ | |
 |[EA](https://ea.gr8people.com/jobs/162586/summer-2021-software-engineering-internship-bs-ms) | Various | |
-|[Okta| SF, San Jose,  Bellevue, Toronto | **Closed** |
+|Okta| SF, San Jose,  Bellevue, Toronto | **Closed** |
 |[Domeyard LP](https://boards.greenhouse.io/domeyard/jobs/1079185) | Boston | |
 |[McDonald's](https://jobs.smartrecruiters.com/oneclick-ui/company/McDonaldsCorporation/publication/3af1fbaf-b763-4898-b8c0-b62084481d3d?dcr_id=DCRA1) | Chicago | |
 |OfferUp| Various | **Closed** |
-|[Spreetail] | Lincoln, NE |  **Closed** |
+|Spreetail | Lincoln, NE |  **Closed** |
 |[Ultimate Software](https://recruiting.ultipro.com/usg1006/JobBoard/dfc53730-57d1-3460-336f-ddafabd108f3//OpportunityDetail?opportunityId=7f5ef8ac-0077-433b-b96b-5a63c8c7693e)| Ft. Lauderdale, FL Atlanta, GA | |
 |[Cree](https://cree.wd5.myworkdayjobs.com/en-US/EXT/job/Durham-NC/Software-Development-Engineer-Intern_20-713) | Durham, NC | |
 |[Reddit](https://boards.greenhouse.io/reddit/jobs/2324527) | SF | |
@@ -294,7 +294,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Red Hat](https://us-redhat.icims.com/jobs/81433/software-engineering%2c-intern/job?hub=7&mobile=false&width=1140&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240) | Remote | |
 |[Zebra Technologies](https://early-careers-zebra.icims.com/jobs/90588/2021-summer-internship---computer-vision/job?mobile=false&width=1241&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240) | NY | |
 |[Collins Aerospace](https://jobs.collinsaerospace.com/search-jobs/2021?orgIds=1738&kt=1)| Various | Software Engineering, Data Analytics and other positions are available. Must be authorized to work in the U.S. without sponsorship now or in the future. |
-|[Fanatics]| Various | **Closed** |
+|Fanatics| Various | **Closed** |
 |[T-Mobile](https://www.tmobile.careers/job-details/engineering/150678BR-2021-software-engineerdeveloper-internship--product-and-technology)| Various | Software Engineering, [Data Analyst](https://www.tmobile.careers/job-details/engineering/150664BR-2021-data-analyst-internship--product-and-technology) and [IT](https://www.tmobile.careers/job-search?f=Information%20Technology&a=2021&dd=f). Must be authorized to work in the U.S. on a permanent basis without requiring sponsorship. |
 |[BlackBerry](https://bb.wd3.myworkdayjobs.com/Student/jobs)| Various | Software Development, Data Science, Test, Security positions are available. Also includes winter internships. |
 |Transamerica| Various | **Closed** Data science, Information Security, and other positions are available. |
@@ -313,7 +313,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Saturn Systems](https://saturnsystems.catsone.com/careers/1421-General/jobs/12769333-Programmer-Internships-for-2021)| Duluth, MN | Programmer Internships are available. |
 |[Volvo Group](https://xjobs.brassring.com/TGnewUI/Search/Home/Home?partnerid=25079&siteid=5171#keyWordSearch=2021)| Various | Programming Support, Digital & IT positions are available. |
 |[AMD](https://jobs.amd.com/go/Internships-&-Co-op-Opportunities/2567200/?q=&q2=&alertId=&locationsearch=&title=2021&location=)| Various | Autonomous Vehichle, Test Engineer and other positions are available. |
-|[Relativity] | Chicago | **Closed** |
+|Relativity| Chicago | **Closed** |
 |[Group One Trading](https://group1.applicantpro.com/jobs/1537030.html) | Chicago | |
 |[Aegon](https://careers.aegon.com/en/vacancies/united-states/denver/other/data-science-internship-summer-2021/)| Denver | [Information Security](https://careers.aegon.com/en/vacancies/united-states/denver/other/information-security-internship-summer-2021/), [Technology Rotational](https://careers.aegon.com/en/vacancies/united-states/denver/administration/technology-rotational-internship-summer-2021/), Data Science positions are available. |
 |[Text-Em-All](https://callemall.applytojob.com/apply/YIO6hArmDY/Software-Engineering-Internship-SpringSummer-2021)| Frisco, TX | Software Engineering positions are available. The positions are temporarily remote. |
