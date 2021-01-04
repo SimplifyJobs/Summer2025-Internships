@@ -730,6 +730,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Swiss Re](https://careers.swissre.com/search/?createNewAlert=false&q=2021&locationsearch=&optionsFacetsDD_shifttype=&optionsFacetsDD_customfield2=&optionsFacetsDD_location=&optionsFacetsDD_customfield4=&optionsFacetsDD_customfield5=)| Armonk, NY | [DevOps & Cloud Engineer](https://careers.swissre.com/job/Armonk-NY-10504/637584601/), [Data Engineering](https://careers.swissre.com/job/Armonk-Data-Analytics-Summer-Intern-NY-10504/637586101/) Intern positions are available. |
 |[TransUnion](https://transunion.wd5.myworkdayjobs.com/en-US/transunion/job/Chicago-Illinois/Data-Science---Analytics-Internship--Summer-2020-_19006431)| Chicago, IL | |
 |[Inovalon](https://www.inovalon.com/careers/openings/)| Bowie, MD, Canonsburg, PA | [Cyber Security & Security Operations](https://www.inovalon.com/job/?gh_jid=4258188003), [Software Engineering (.NET)/C#](https://www.inovalon.com/job/?gh_jid=4273220003) and other Intern positions are available. |
+|[Chobani](https://jobs.jobvite.com/chobani/job/ooegefwQ)| Remote (USA) | Information Security Intern |
 
 
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too! 🙏
