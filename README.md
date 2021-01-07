@@ -731,10 +731,12 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[TransUnion](https://transunion.wd5.myworkdayjobs.com/en-US/transunion/job/Chicago-Illinois/Data-Science---Analytics-Internship--Summer-2020-_19006431)| Chicago, IL | |
 |[Inovalon](https://www.inovalon.com/careers/openings/)| Bowie, MD, Canonsburg, PA | [Cyber Security & Security Operations](https://www.inovalon.com/job/?gh_jid=4258188003), [Software Engineering (.NET)/C#](https://www.inovalon.com/job/?gh_jid=4273220003) and other Intern positions are available. |
 |[Chobani](https://jobs.jobvite.com/chobani/job/ooegefwQ)| Remote (USA) | Information Security Intern |
+|[Liquidnet](https://liquidnet.wd1.myworkdayjobs.com/Liquidnet/5/refreshFacet/318c8bb6f553100021d223d9780d30be)| New York | [Web Development Intern](https://liquidnet.wd1.myworkdayjobs.com/en-US/Liquidnet/job/New-York/Web-Development-Intern---Summer-2021_R-00906), [Global Trading Technology Development Intern](https://liquidnet.wd1.myworkdayjobs.com/en-US/Liquidnet/job/New-York/Global-Trading-Technology-Development-Intern---Summer-2021_R-00905), [Product Intern](https://liquidnet.wd1.myworkdayjobs.com/en-US/Liquidnet/job/New-York/Product-Intern--Equities---Summer-2021_R-00914), [ETS Infrastructure Intern](https://liquidnet.wd1.myworkdayjobs.com/en-US/Liquidnet/job/New-York/ETS-Infrastructure-Intern---Summer-2021_R-00910), [Data Science Intern](https://liquidnet.wd1.myworkdayjobs.com/en-US/Liquidnet/job/New-York/Data-Science-Intern---Summer-2021_R-00903) and other positions |
 
 
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too! 🙏
 * [GintasS](https://github.com/GintasS) 🐐
+* [ankasengupta](https://github.com/ankasengupta) 🐐
 * [ShreyShah977](https://github.com/ShreyShah977)
 * [hjs2000cn](https://github.com/hjs2000cn)
 * [ctcuff](https://github.com/ctcuff)
@@ -793,7 +795,6 @@ Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), 
 * [rubywerman](https://github.com/rubywerman)
 * [stefantobler](https://stefantobler.com)
 * [danerwilliams](https://github.com/danerwilliams)
-* [ankasengupta](https://github.com/ankasengupta) 🐐
 * [kimjuyounglisa](https://github.com/kimjuyounglisa)
 * [Leundai](https://github.com/Leundai)
 * [aidev1065](https://github.com/aidev1065)
