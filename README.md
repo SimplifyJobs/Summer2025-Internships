@@ -14,6 +14,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Apple](https://jobs.apple.com/en-us/search?location=united-states-USA&team=internships-STDNT-INTRN)| Cupertino, CA| |
 |[BlackRock](https://blackrock.tal.net/vx/lang-en-GB/mobile-0/brand-3/xf-fb4e3bf3ac65/candidate/so/pm/1/pl/1/opp/3907-Summer-Analyst-Program-Americas/en-GB) | New York, NY|  |
 |[Bridgewater Associate](https://boards.greenhouse.io/bridgewater89/jobs/4076389002)| Westport, CT |  |
+|[ByteDance/TikTok](https://careers.tiktok.com/position?project=6854152751179303182&type=3&current=1&limit=100)| Remote | Remote allowed in CA/WA/IL/NY/FL/DC/VA/TN/TX/MI. Referral code: VC7FSRM |
 |[Citadel](https://www.citadel.com/careers/open-positions/positions-for-students/)| Chicago, New York, other global locations | |
 |Cisco| San Jose, Seattle, RTP, San Francisco, Richardson, Austin, Fulton, Cambridge, Boxborough, Richfield, Alpharetta | **Closed** Network Support Engineer, Site Reliability Engineer, Software Engineer Intern positions are available. Able to legally live and work in the country for which you’re applying, without visa support or sponsorship. |
 |Credit Suisse | New York, NY | **Closed**|
