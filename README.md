@@ -737,6 +737,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[West Monroe](https://www.wayup.com/i-Management-Consulting-j-Consulting-Intern-Technology-Software-Engineering-West-Monroe-343650435193811/)| Chicago, IL | Must be legally authorized to work in the United States without limitation |
 |[T. Rowe Price](https://troweprice.wd5.myworkdayjobs.com/en-US/TRowePrice/job/Owings-Mills-MD/XMLNAME-2021-Summer-Internship--Global-Technology_48156)| Owings Mills, MD | Global Technology Internship |
 |[Nasdaq](https://www.wayup.com/organizations/nasdaq-8jvMa5/)| Boston, MA ; New York, NY ; Rockville, MD | [SWE](https://www.wayup.com/i-Internet-j-2021-Summer-Internship-Software-Engineering-Intern-Nasdaq-6474413560062/), [Data Science](https://www.wayup.com/i-Internet-j-2021-Summer-Internship-Data-Science-Intern-Nasdaq-627868139928711/), [Information Security](https://www.wayup.com/i-Internet-j-2021-Summer-Internship-Information-Security-Intern-Nasdaq-435398399318626/), [Technical Operations Analysis](https://www.wayup.com/i-Internet-j-2021-Summer-Technical-Operations-Analysis-Intern-Nasdaq-52267876827468/) internships and more |
+|[Flexport](https://boards.greenhouse.io/flexport/jobs/2551356)|San Francsico, [Chicago](https://boards.greenhouse.io/flexport/jobs/2545484), [Bellevue](https://boards.greenhouse.io/flexport/jobs/2551354)|Software Engineering Internship|
 
 
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too! 🙏
@@ -831,5 +832,6 @@ Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), 
 * [Kur0Leo](https://github.com/Kur0Leo)
 * [GarlicDebug](https://github.com/GarlicDebug)
 * [Howardma31](https://github.com/Howardma31)
+* [aakash1104](https://github.com/aakash1104)
 
 Thanks to [elaine-zheng](https://github.com/elaine-zheng/summer2020internships) for the inspiration! 🐐
