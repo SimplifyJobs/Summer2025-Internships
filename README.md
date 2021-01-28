@@ -740,6 +740,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Flexport](https://boards.greenhouse.io/flexport/jobs/2551356)|San Francsico, [Chicago](https://boards.greenhouse.io/flexport/jobs/2545484), [Bellevue](https://boards.greenhouse.io/flexport/jobs/2551354)|Software Engineering Internship|
 [Wealthsimple](https://jobs.lever.co/wealthsimple/331907f7-49bb-4a60-ad94-8df989e9de0e)|Toronto or Remote (Canada)|[Software Engineering Co-op](https://jobs.lever.co/wealthsimple/331907f7-49bb-4a60-ad94-8df989e9de0e)|
 [Pixlee](https://www.pixlee.com/careers?gh_jid=2266918&gh_src=57e563321us)|Toronto|[Software Engineering](https://www.pixlee.com/careers?gh_jid=2266918&gh_src=57e563321us) Co-op|
+[BMO](https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/Software-Developer--Summer-2021--Co-op-Internship----12-Months_R200016601-2)|Toronto|[Software Developer](https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/Software-Developer--Summer-2021--Co-op-Internship----12-Months_R200016601-2) Internship starts in the summer, but is 12 months long|
 
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too! 🙏
 * [GintasS](https://github.com/GintasS) 🐐
