@@ -741,6 +741,10 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 [Wealthsimple](https://jobs.lever.co/wealthsimple/331907f7-49bb-4a60-ad94-8df989e9de0e)|Toronto or Remote (Canada)|[Software Engineering Co-op](https://jobs.lever.co/wealthsimple/331907f7-49bb-4a60-ad94-8df989e9de0e)|
 [Pixlee](https://www.pixlee.com/careers?gh_jid=2266918&gh_src=57e563321us)|Toronto|[Software Engineering](https://www.pixlee.com/careers?gh_jid=2266918&gh_src=57e563321us) Co-op|
 [BMO](https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/Software-Developer--Summer-2021--Co-op-Internship----12-Months_R200016601-2)|Toronto|[Software Developer](https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/Software-Developer--Summer-2021--Co-op-Internship----12-Months_R200016601-2) Internship starts in the summer, but is 12 months long|
+|[Verizon Media](https://vzbuilders.wd5.myworkdayjobs.com/careers/9/refreshFacet/318c8bb6f553100021d223d9780d30be?source=Linkedin)| Dulles, VA; Champaign, IL | [Software Engineering](https://vzbuilders.wd5.myworkdayjobs.com/en-US/careers/job/US---Dulles/Software-Engineering-Intern_JR0015107?source=Linkedin), [Research Scientist](https://vzbuilders.wd5.myworkdayjobs.com/en-US/careers/job/US---Champaign/Research-Scientist-Intern_JR0015136?source=Linkedin), [Backend Engineer](https://vzbuilders.wd5.myworkdayjobs.com/en-US/careers/job/US---Champaign/Backend-Engineer-Summer-Intern--Data-Team_JR0015196?source=Linkedin) and other Intern positions are available. |
+
+
+
 
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too! 🙏
 * [GintasS](https://github.com/GintasS) 🐐
