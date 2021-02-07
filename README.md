@@ -744,6 +744,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Verizon Media](https://vzbuilders.wd5.myworkdayjobs.com/careers/9/refreshFacet/318c8bb6f553100021d223d9780d30be?source=Linkedin)| Dulles, VA; Champaign, IL | [Software Engineering](https://vzbuilders.wd5.myworkdayjobs.com/en-US/careers/job/US---Dulles/Software-Engineering-Intern_JR0015107?source=Linkedin), [Research Scientist](https://vzbuilders.wd5.myworkdayjobs.com/en-US/careers/job/US---Champaign/Research-Scientist-Intern_JR0015136?source=Linkedin), [Backend Engineer](https://vzbuilders.wd5.myworkdayjobs.com/en-US/careers/job/US---Champaign/Backend-Engineer-Summer-Intern--Data-Team_JR0015196?source=Linkedin) and other Intern positions are available. |
 |[ClickTime](https://www.linkup.com/search/results?keyword=Software+Development+Intern+%28Summer+2021%29&location=&all=&none=&title_contains=&company=&company_ids=)| Various | [Software Development](https://www.linkup.com/details/7e9fcb37c17a9dd12ee1e14e5c9d2ca4), [DevOps](https://www.linkup.com/details/bf195428efa2ee10a2327b0cc80feea4), [BioStatistics](https://www.linkup.com/details/ff9a8a5b9ae2bccb17cd5cdb7a47161c) and other Intern positions are available. |
 |[Podium](https://boards.greenhouse.io/podium81/jobs/1980037?t=8b0de3d81)| Lehi, UT; Remote | Applicant must have authorization to work in the United States. |
+|[Cox Automotive](https://jobs.coxenterprises.com/job/12238391/software-engineering-intern-austin-tx/)| Remote (US) | Internship is not eligible for sponsorship. |
 
 
 
