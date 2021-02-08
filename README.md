@@ -745,6 +745,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[ClickTime](https://www.linkup.com/search/results?keyword=Software+Development+Intern+%28Summer+2021%29&location=&all=&none=&title_contains=&company=&company_ids=)| Various | [Software Development](https://www.linkup.com/details/7e9fcb37c17a9dd12ee1e14e5c9d2ca4), [DevOps](https://www.linkup.com/details/bf195428efa2ee10a2327b0cc80feea4), [BioStatistics](https://www.linkup.com/details/ff9a8a5b9ae2bccb17cd5cdb7a47161c) and other Intern positions are available. |
 |[Podium](https://boards.greenhouse.io/podium81/jobs/1980037?t=8b0de3d81)| Lehi, UT; Remote | Applicant must have authorization to work in the United States. |
 |[Cox Automotive](https://jobs.coxenterprises.com/job/12238391/software-engineering-intern-austin-tx/)| Remote (US) | This is an advertisement for multiple jobs that will be posted soon. Internship is not eligible for sponsorship. |
+|[Miso Robotics](https://misorobotics.applytojob.com/)| Pasadena, CA | [Software Engineering](https://misorobotics.applytojob.com/apply/hVVZGkWneE/Software-Engineer-Intern), [Machine Learning Engineer](https://misorobotics.applytojob.com/apply/13wGgT1gGz/Machine-Learning-Engineer-Intern) and other Intern positions are available. |
 
 
 
