@@ -746,7 +746,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Podium](https://boards.greenhouse.io/podium81/jobs/1980037?t=8b0de3d81)| Lehi, UT; Remote | Applicant must have authorization to work in the United States. |
 |[Cox Automotive](https://jobs.coxenterprises.com/job/12238391/software-engineering-intern-austin-tx/)| Remote (US) | This is an advertisement for multiple jobs that will be posted soon. Internship is not eligible for sponsorship. |
 |[Miso Robotics](https://misorobotics.applytojob.com/)| Pasadena, CA | [Software Engineering](https://misorobotics.applytojob.com/apply/hVVZGkWneE/Software-Engineer-Intern), [Machine Learning Engineer](https://misorobotics.applytojob.com/apply/13wGgT1gGz/Machine-Learning-Engineer-Intern) and other Intern positions are available. |
-
+|[ChronoSphere](https://boards.greenhouse.io/chronosphere/jobs/4318564003) | Seattle, NYC, Remote | |
 
 
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too! 🙏
