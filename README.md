@@ -748,6 +748,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Miso Robotics](https://misorobotics.applytojob.com/)| Pasadena, CA | [Software Engineering](https://misorobotics.applytojob.com/apply/hVVZGkWneE/Software-Engineer-Intern), [Machine Learning Engineer](https://misorobotics.applytojob.com/apply/13wGgT1gGz/Machine-Learning-Engineer-Intern) and other Intern positions are available. |
 |[ChronoSphere](https://boards.greenhouse.io/chronosphere/jobs/4318564003) | Seattle, NYC, Remote | |
 |[Intuit](https://jobs.intuit.com/job/plano/software-engineer-intern/27595/18612287)| Mountain View, San Diego, CA; Plano, TX | |
+|[MiTek](https://mii.wd5.myworkdayjobs.com/MiTek/0/refreshFacet/318c8bb6f553100021d223d9780d30be)| Greenwood Village, CO; Chesterfield, MO | [Software Developer](https://mii.wd5.myworkdayjobs.com/en-US/MiTek/job/Greenwood-Village-CO-USA/Software-Engineer-Intern---Summer-2021_R00454), [IT Application Security](https://mii.wd5.myworkdayjobs.com/en-US/MiTek/job/Greenwood-Village-CO-USA/IT-Application-Security-Intern_R00468-2), [Software Quality Analyst](https://mii.wd5.myworkdayjobs.com/en-US/MiTek/job/Greenwood-Village-CO-USA/Software-Quality-Analyst-Intern_R00452-1) and other Intern positions are available. |
 
 
 
