@@ -749,6 +749,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[ChronoSphere](https://boards.greenhouse.io/chronosphere/jobs/4318564003) | Seattle, NYC, Remote | |
 |[Intuit](https://jobs.intuit.com/job/plano/software-engineer-intern/27595/18612287)| Mountain View, San Diego, CA; Plano, TX | |
 |[MiTek](https://mii.wd5.myworkdayjobs.com/MiTek/0/refreshFacet/318c8bb6f553100021d223d9780d30be)| Greenwood Village, CO; Chesterfield, MO | [Software Developer](https://mii.wd5.myworkdayjobs.com/en-US/MiTek/job/Greenwood-Village-CO-USA/Software-Engineer-Intern---Summer-2021_R00454), [IT Application Security](https://mii.wd5.myworkdayjobs.com/en-US/MiTek/job/Greenwood-Village-CO-USA/IT-Application-Security-Intern_R00468-2), [Software Quality Analyst](https://mii.wd5.myworkdayjobs.com/en-US/MiTek/job/Greenwood-Village-CO-USA/Software-Quality-Analyst-Intern_R00452-1) and other Intern positions are available. |
+|[Bandwidth](https://www.bandwidth.com/careers/internship/) | Seattle, NYC, Remote |[SDE](https://www.bandwidth.com/careers/openings/?gh_jid=2433277), [PM](https://www.bandwidth.com/careers/openings/?gh_jid=2472465), [IT](https://www.bandwidth.com/careers/openings/?gh_jid=2612412), [Business Analytics](https://www.bandwidth.com/careers/openings/?gh_jid=2472412) and other internship positions available |
 
 
 
