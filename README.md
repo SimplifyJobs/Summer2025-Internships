@@ -104,7 +104,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |Snap| Los Angeles, Seattle, San Francisco, New York, Mountain View | **Closed**|
 |Benchling| San Fran, Boston | **Closed** |
 |[Target](https://jobs.target.com/job/-/-/1118/17057382)| Minneapolis | |
-|Emerson| Austin,TX| **Closed** |
+|[Emerson]| Austin,TX| **Closed** |
 |[Applied Intuition](https://jobs.lever.co/applied/c22805d5-2006-4867-bb32-671951b17206/apply) | Mountain View | |
 |Tableau | Seattle, Palo Alto | **Closed** |
 |Qumulo| Seattle | **Closed** |
@@ -750,7 +750,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Intuit](https://jobs.intuit.com/job/plano/software-engineer-intern/27595/18612287)| Mountain View, San Diego, CA; Plano, TX | |
 |[MiTek](https://mii.wd5.myworkdayjobs.com/MiTek/0/refreshFacet/318c8bb6f553100021d223d9780d30be)| Greenwood Village, CO; Chesterfield, MO | [Software Developer](https://mii.wd5.myworkdayjobs.com/en-US/MiTek/job/Greenwood-Village-CO-USA/Software-Engineer-Intern---Summer-2021_R00454), [IT Application Security](https://mii.wd5.myworkdayjobs.com/en-US/MiTek/job/Greenwood-Village-CO-USA/IT-Application-Security-Intern_R00468-2), [Software Quality Analyst](https://mii.wd5.myworkdayjobs.com/en-US/MiTek/job/Greenwood-Village-CO-USA/Software-Quality-Analyst-Intern_R00452-1) and other Intern positions are available. |
 |[Bandwidth](https://www.bandwidth.com/careers/internship/) | Raleigh, NC |[SDE](https://www.bandwidth.com/careers/openings/?gh_jid=2433277), [PM](https://www.bandwidth.com/careers/openings/?gh_jid=2472465), [IT](https://www.bandwidth.com/careers/openings/?gh_jid=2612412), [Business Analytics](https://www.bandwidth.com/careers/openings/?gh_jid=2472412) and other internship positions available |
-
+|[Palo Alto Networks](https://jobs.paloaltonetworks.com/job-search-results/?keyword=Intern&compliment=Americas)| Santa Clara, CA | [Software Intern SDWAN](https://jobs.paloaltonetworks.com/job/11959619/intern-software-intern-sdwan-santa-clara-ca/), [Security Software Engineer](https://jobs.paloaltonetworks.com/job/12186469/intern-security-software-engineer-santa-clara-ca/), [Automation Engineer](https://jobs.paloaltonetworks.com/job/12012103/intern-automation-engineer-santa-clara-ca/) and other Intern positions are available. Applicant must have the authorization to work within the United States. |
 
 
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too! 🙏
