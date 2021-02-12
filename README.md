@@ -753,6 +753,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Palo Alto Networks](https://jobs.paloaltonetworks.com/job-search-results/?keyword=Intern&compliment=Americas)| Santa Clara, CA | [Software Intern SDWAN](https://jobs.paloaltonetworks.com/job/11959619/intern-software-intern-sdwan-santa-clara-ca/), [Security Software Engineer](https://jobs.paloaltonetworks.com/job/12186469/intern-security-software-engineer-santa-clara-ca/), [Automation Engineer](https://jobs.paloaltonetworks.com/job/12012103/intern-automation-engineer-santa-clara-ca/) and other Intern positions are available. Applicant must have the authorization to work within the United States. |
 |[Weights & Biases](https://www.diversifytech.co/job-board/machine-learning-engineer---intern-weights--biases)| Remote - Anywhere | Feb 22 - Deadline to apply |
 |[Teampay](https://boards.greenhouse.io/teampay/jobs/5068771002) | New York, NY | |
+|[Medisend](https://www.linkedin.com/jobs/view/2378294159/) | Remote / San Francisco Bay Area | |
 
 
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too! 🙏
