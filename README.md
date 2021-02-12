@@ -68,7 +68,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |Red Ventures| Charlotte, NC | **Closed** |
 |Texas Instruments | Dallas, TX | **Closed** |
 |[Los Alamos National Laboratory](https://jobszp1.lanl.gov/OA_HTML/OA.jsp?page=/oracle/apps/irc/candidateSelfService/webui/VisVacDispPG&OAHP=IRC_EXT_SITE_VISITOR_APPL&OASF=IRC_VIS_VAC_DISPLAY&akRegionApplicationId=821&transactionid=1759536200&retainAM=N&addBreadCrumb=RP&p_svid=81425&p_spid=3628350)| Los Alamos, NM| |
-|Coursera | Mountain View | **Closed** |
+|[Coursera](https://jobs.lever.co/coursera/361ef85d-9b6e-4225-9e05-809adb33eceb) | Remote - USA | |
 |[Cisco Meraki](https://jobs.cisco.com/jobs/SearchJobs/2021%20Meraki?listFilterMode=1&21178=%5B169482%5D&21178_format=6020) | Chicago, IL; San Francisco | |
 |UnifyID | Redwood City, CA | **Closed** |
 |Capital One| Various | **Closed** |
