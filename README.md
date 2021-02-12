@@ -754,6 +754,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Weights & Biases](https://www.diversifytech.co/job-board/machine-learning-engineer---intern-weights--biases)| Remote - Anywhere | Feb 22 - Deadline to apply |
 |[Teampay](https://boards.greenhouse.io/teampay/jobs/5068771002) | New York, NY | |
 |[Medisend](https://www.linkedin.com/jobs/view/2378294159/) | Remote / San Francisco Bay Area | |
+|[Peloton](https://boards.greenhouse.io/peloton/jobs/2666691) | New York, NY | |
 
 
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too! 🙏
