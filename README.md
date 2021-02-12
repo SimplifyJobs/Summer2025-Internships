@@ -757,7 +757,6 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Peloton](https://boards.greenhouse.io/peloton/jobs/2666691) | New York, NY | |
 |[Surescripts](https://surescripts.wd1.myworkdayjobs.com/en-US/surescriptscareers/job/Raleigh-North-Carolina/Software-Engineering-Intern_REQ1277) | Raleigh, NC | |
 |[Charito](https://jobs.lever.co/chartio/141f51a4-4603-443e-823b-b77d479cfb99?utm_source=linkup&utm_medium=referrer) | San Francisco, CA | |
-|[Brain Corp](https://www.braincorp.com/company/careers/job/?id=4936125002) | San Diego, CA | |
 
 
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too! 🙏
