@@ -759,6 +759,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Charito](https://jobs.lever.co/chartio/141f51a4-4603-443e-823b-b77d479cfb99?utm_source=linkup&utm_medium=referrer) | San Francisco, CA | |
 |[Lob](https://www.lob.com/careers/job?2613767)| Various; Remote | Applicant must be eligible to work in the United States. Lob is not able to sponsor Visas for this role. |
 |[Medidata](https://jobs.jobvite.com/medidata-solutions/job/or0oefwN/apply) | New York, NY; San Francisco, CA; Iselin, New Jersey | |
+|[Myst AI](https://jobs.lever.co/myst.ai/)| San Francisco, CA | [Data Science](https://jobs.lever.co/myst.ai/0b00ce01-a6d2-42c6-a06d-a4629cfbe7a4), [Software Engineering](https://jobs.lever.co/myst.ai/a8213a4b-e210-43a7-83ed-05771c178b15) Intern positions are available. |
 
 
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too! 🙏
