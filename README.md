@@ -230,7 +230,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |AutoDesk| California, Michigan, Massachusetts, Oregon | **Closed** |
 |[Strava](https://boards.greenhouse.io/strava/jobs/2336808) | San Francisco | iOS, [Android](https://boards.greenhouse.io/strava/jobs/2336822), [Platform](https://boards.greenhouse.io/strava/jobs/2336973), [Server](https://boards.greenhouse.io/strava/jobs/2336895) positions | |
 |[Riot Games](https://www.riotgames.com/en/work-with-us/job/2337878/software-engineer-intern-los-angeles-usa)| Los Angeles | More positions [here](https://www.riotgames.com/en/university-programs) |
-|GoDaddy| Tempe | **Closed** |
+|[GoDaddy](https://boards.greenhouse.io/eventsandinterns)| Kirkland, WA | [SDE](https://boards.greenhouse.io/eventsandinterns/jobs/4180310003), [PM](https://boards.greenhouse.io/eventsandinterns/jobs/4176462003), [UX](https://boards.greenhouse.io/eventsandinterns/jobs/4168260003), [Business Analytics](https://boards.greenhouse.io/eventsandinterns/jobs/4276354003) and other positions |
 |[TerraSim, Inc.](https://apply.workable.com/bohemia-interactive-simulations-inc/j/3822C827D7/) | Pittsburgh | US Citizenship required|
 |[Indeed](https://indeed.avature.net/SWEintern) | Various | |
 |[Epic Systems](https://epic.avature.net/Careers/FolderDetail/Software-Developer-Intern---Summer-2021/19231) |  Minneapolis, Madison, Rochester,MN | Must be eligible to work in the United States without visa sponsorship |
