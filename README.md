@@ -481,7 +481,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[InfluxData](https://www.influxdata.com/careers/)| Remote | |
 |[Carnegie Robotics](https://carnegierobotics.com/hiring)| Pittsburgh, PA | |
 |[Electronic Arts](https://www.ea.com/careers/students) | Redwood City, CA; Austin, TX; Orlando, FL; Seattle, WA; Los Angeles, CA | |
-|[Disney](https://jobs.disneycareers.com/search-jobs/2021?orgIds=391-27721-28802-28648-28833-28834-28840-28843-28842-28841-28851&kt=1&afc=26715) | Glendale, CA | [Digital Media Intern](https://jobs.disneycareers.com/job/glendale/digital-media-intern-corporate-communications-remote-spring-2021/391/17730674). Must possess unrestricted work authorization. |
+|[Disney](https://jobs.disneycareers.com/search-jobs/2021?orgIds=391-27721-28802-28648-28833-28834-28840-28843-28842-28841-28851&kt=1&afc=26715) | Remote (USA) | [Software Engineering Intern](https://jobs.disneycareers.com/job/united-states/software-engineering-intern-remote-summer-2021/391/18763472?cid=19883&ck_subscriber_id=1030949092&utm_source=convertkit&utm_medium=email&utm_campaign=Student+Edition+Issue+%2313%20-%205306209)|
 |[Deutsche Bank](https://www.db.com/careers/en/grad/role-search/job_search_results.html#career_level=11) | New York, NY; Cary, NC | Some positions will not provide sponsorship for work visa. |
 |[HackNY](https://hackny.org/fellows-program)|New York City, NY | |
 |[PepsiCo](https://www.pepsicojobs.com/student/jobs/213146BR?lang=en-us) | Plano, TX; Purchase/White Plains, NY | Project Coordination, Development, Data Analytics, Business Analyst, and Information Security positions are available. Must have the "indefinite right to work in the United States." Not Eligible for Relocation. |
