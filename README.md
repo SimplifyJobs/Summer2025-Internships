@@ -1,6 +1,8 @@
 # Summer 2021 Internships ☀️👩‍💻
 Use this repo to share and keep track of any tech-related internships. For a [Google Sheet 📝 version of this repo (that remains in sync with this table) click here](https://docs.google.com/spreadsheets/d/1bJq7YQV19TWyzPCBeQi5P4uOm8uiAAm2AHCnVNGRIDg/edit#gid=0)! For more tips on the internship process check out the [Zero to Offer 📈 program here](https://www.pittcs.wiki/zero-to-offer).
 
+🙏 Like this repo? Donate to [Pitt CSC](https://www.pittdayofgiving.com/campaigns/pitt-computer-science-club-in-sci#/)! 🙏
+
 🎓 Check out our New Grad repo [here](https://github.com/Pitt-CSC/NewGrad-2021).
 
 🤗 **Contribute by submitting a [pull request](https://github.com/susam/gitpr#create-pull-request) or [filling out this form](https://bit.ly/3d5O76c)!**  🤗
@@ -762,7 +764,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Myst AI](https://jobs.lever.co/myst.ai/)| San Francisco, CA | [Data Science](https://jobs.lever.co/myst.ai/0b00ce01-a6d2-42c6-a06d-a4629cfbe7a4), [Software Engineering](https://jobs.lever.co/myst.ai/a8213a4b-e210-43a7-83ed-05771c178b15) Intern positions are available. |
 |[Tinder](https://jobs.lever.co/matchgroup/290d9f50-b41a-4f98-bb09-f640a43369d5) | Los Angeles, CA | Machine Learning, [Security](https://jobs.lever.co/matchgroup/fee1e1ae-62e0-48a5-a97e-8b49572a9f24) |
 |[Ibotta](https://ibotta.ruutly.com/job/2640088)| Denver, CO; Remote | Applicants must be currently authorized to work in the United States on a full-time basis. |
-
+|[Donate to PittCSC!](https://www.pittdayofgiving.com/campaigns/pitt-computer-science-club-in-sci#/) | Remote | There's no minimum donation! |
 
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too! 🙏
 * [GintasS](https://github.com/GintasS) 🐐
