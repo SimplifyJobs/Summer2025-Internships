@@ -753,6 +753,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Palo Alto Networks](https://jobs.paloaltonetworks.com/job-search-results/?keyword=Intern&compliment=Americas)| Santa Clara, CA | [Software Intern SDWAN](https://jobs.paloaltonetworks.com/job/11959619/intern-software-intern-sdwan-santa-clara-ca/), [Security Software Engineer](https://jobs.paloaltonetworks.com/job/12186469/intern-security-software-engineer-santa-clara-ca/), [Automation Engineer](https://jobs.paloaltonetworks.com/job/12012103/intern-automation-engineer-santa-clara-ca/) and other Intern positions are available. Applicant must have the authorization to work within the United States. |
 |[Lob](https://www.lob.com/careers/job?2613767)| Various; Remote | Applicant must be eligible to work in the United States. Lob is not able to sponsor Visas for this role. |
 |[Myst AI](https://jobs.lever.co/myst.ai/)| San Francisco, CA | [Data Science](https://jobs.lever.co/myst.ai/0b00ce01-a6d2-42c6-a06d-a4629cfbe7a4), [Software Engineering](https://jobs.lever.co/myst.ai/a8213a4b-e210-43a7-83ed-05771c178b15) Intern positions are available. |
+|[Ibotta](https://ibotta.ruutly.com/job/2640088)| Denver, CO; Remote | Applicants must be currently authorized to work in the United States on a full-time basis. |
 
 
 
