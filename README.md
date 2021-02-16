@@ -68,7 +68,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |Red Ventures| Charlotte, NC | **Closed** |
 |Texas Instruments | Dallas, TX | **Closed** |
 |[Los Alamos National Laboratory](https://jobszp1.lanl.gov/OA_HTML/OA.jsp?page=/oracle/apps/irc/candidateSelfService/webui/VisVacDispPG&OAHP=IRC_EXT_SITE_VISITOR_APPL&OASF=IRC_VIS_VAC_DISPLAY&akRegionApplicationId=821&transactionid=1759536200&retainAM=N&addBreadCrumb=RP&p_svid=81425&p_spid=3628350)| Los Alamos, NM| |
-|Coursera | Mountain View | **Closed** |
+|[Coursera](https://jobs.lever.co/coursera/361ef85d-9b6e-4225-9e05-809adb33eceb) | Remote - USA | |
 |[Cisco Meraki](https://jobs.cisco.com/jobs/SearchJobs/2021%20Meraki?listFilterMode=1&21178=%5B169482%5D&21178_format=6020) | Chicago, IL; San Francisco | |
 |UnifyID | Redwood City, CA | **Closed** |
 |Capital One| Various | **Closed** |
@@ -230,7 +230,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |AutoDesk| California, Michigan, Massachusetts, Oregon | **Closed** |
 |[Strava](https://boards.greenhouse.io/strava/jobs/2336808) | San Francisco | iOS, [Android](https://boards.greenhouse.io/strava/jobs/2336822), [Platform](https://boards.greenhouse.io/strava/jobs/2336973), [Server](https://boards.greenhouse.io/strava/jobs/2336895) positions | |
 |[Riot Games](https://www.riotgames.com/en/work-with-us/job/2337878/software-engineer-intern-los-angeles-usa)| Los Angeles | More positions [here](https://www.riotgames.com/en/university-programs) |
-|GoDaddy| Tempe | **Closed** |
+|[GoDaddy](https://boards.greenhouse.io/eventsandinterns)| Kirkland, WA | [SDE](https://boards.greenhouse.io/eventsandinterns/jobs/4180310003), [PM](https://boards.greenhouse.io/eventsandinterns/jobs/4176462003), [UX](https://boards.greenhouse.io/eventsandinterns/jobs/4168260003), [Business Analytics](https://boards.greenhouse.io/eventsandinterns/jobs/4276354003) and other positions |
 |[TerraSim, Inc.](https://apply.workable.com/bohemia-interactive-simulations-inc/j/3822C827D7/) | Pittsburgh | US Citizenship required|
 |[Indeed](https://indeed.avature.net/SWEintern) | Various | |
 |[Epic Systems](https://epic.avature.net/Careers/FolderDetail/Software-Developer-Intern---Summer-2021/19231) |  Minneapolis, Madison, Rochester,MN | Must be eligible to work in the United States without visa sponsorship |
@@ -481,7 +481,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[InfluxData](https://www.influxdata.com/careers/)| Remote | |
 |[Carnegie Robotics](https://carnegierobotics.com/hiring)| Pittsburgh, PA | |
 |[Electronic Arts](https://www.ea.com/careers/students) | Redwood City, CA; Austin, TX; Orlando, FL; Seattle, WA; Los Angeles, CA | |
-|[Disney](https://jobs.disneycareers.com/search-jobs/2021?orgIds=391-27721-28802-28648-28833-28834-28840-28843-28842-28841-28851&kt=1&afc=26715) | Glendale, CA | [Digital Media Intern](https://jobs.disneycareers.com/job/glendale/digital-media-intern-corporate-communications-remote-spring-2021/391/17730674). Must possess unrestricted work authorization. |
+|[Disney](https://jobs.disneycareers.com/search-jobs/2021?orgIds=391-27721-28802-28648-28833-28834-28840-28843-28842-28841-28851&kt=1&afc=26715) | Remote (USA) | [Software Engineering Intern](https://jobs.disneycareers.com/job/united-states/software-engineering-intern-remote-summer-2021/391/18763472?cid=19883&ck_subscriber_id=1030949092&utm_source=convertkit&utm_medium=email&utm_campaign=Student+Edition+Issue+%2313%20-%205306209)|
 |[Deutsche Bank](https://www.db.com/careers/en/grad/role-search/job_search_results.html#career_level=11) | New York, NY; Cary, NC | Some positions will not provide sponsorship for work visa. |
 |[HackNY](https://hackny.org/fellows-program)|New York City, NY | |
 |[PepsiCo](https://www.pepsicojobs.com/student/jobs/213146BR?lang=en-us) | Plano, TX; Purchase/White Plains, NY | Project Coordination, Development, Data Analytics, Business Analyst, and Information Security positions are available. Must have the "indefinite right to work in the United States." Not Eligible for Relocation. |
@@ -626,7 +626,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Netflix](https://jobs.netflix.com/search?q=2021)| Los Gatos, CA; Remote | [Data Engineering](https://jobs.netflix.com/jobs/40242907), [Analytics Engineering](https://jobs.netflix.com/jobs/40242270) Intern positions are available. |
 |[Visa](https://usa.visa.com/careers.html)| Various | |
 |[SPA](https://careers-spa.icims.com/jobs/search?ics_keywords=2021)| Alexandria, VA | The candidate must be a US Citizen with the ability to obtain a DoD Secret clearance. |
-|[Proofpoint](https://proofpoint.wd5.myworkdayjobs.com/en-US/ProofpointCareers/job/Draper-UT/Software-Engineer-Part-Time-Intern---Undergrad_R4508)| Draper, UT | |
+|[Proofpoint](https://proofpoint.wd5.myworkdayjobs.com/en-US/ProofpointCareers/job/Draper-UT/Software-Engineer-Part-Time-Intern---Undergrad_R4508)| Draper, UT ; Durham, NC | [Data Science Here](https://proofpoint.wd5.myworkdayjobs.com/en-US/ProofpointCareers/job/Durham-North-Carolina/Data-Science-Summer-Intern---Undergraduate_R4668) |
 |[Ogilvy](https://uscareers-ogilvy.icims.com/jobs/7994/2021-summer-internship-program/job?hub=15)| Various | |
 |[Publicis Sapient](https://jobs.smartrecruiters.com/PublicisGroupe/743999726273814-engineering-summer-internship-class-of-2022?trid=fabf8f5c-18fc-43ce-ba06-84dac34b9203)| Various | |
 |[John Deere](https://jobs.deere.com/search/?q=&q2=&alertId=&title=2021&department=&location=US&date=)| Moline, IL; Various | [Data Science & Analytics](https://jobs.deere.com/job/Moline-Data-Science-&-Analytics-Summer-Intern-2021a-IL-61265/673424600/), [Software Enginerring & IT Security](https://jobs.deere.com/job/Moline-IT-Software-Engineering-&-Cyber-Security-Summer-Intern-2021a-IL-61265/673262400/) Intern positions are available. We have internship locations across the United States so you must be willing to relocate and travel domestically. Work Statement: US Visa sponsorship is not available for this position. |
@@ -751,10 +751,17 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[MiTek](https://mii.wd5.myworkdayjobs.com/MiTek/0/refreshFacet/318c8bb6f553100021d223d9780d30be)| Greenwood Village, CO; Chesterfield, MO | [Software Developer](https://mii.wd5.myworkdayjobs.com/en-US/MiTek/job/Greenwood-Village-CO-USA/Software-Engineer-Intern---Summer-2021_R00454), [IT Application Security](https://mii.wd5.myworkdayjobs.com/en-US/MiTek/job/Greenwood-Village-CO-USA/IT-Application-Security-Intern_R00468-2), [Software Quality Analyst](https://mii.wd5.myworkdayjobs.com/en-US/MiTek/job/Greenwood-Village-CO-USA/Software-Quality-Analyst-Intern_R00452-1) and other Intern positions are available. |
 |[Bandwidth](https://www.bandwidth.com/careers/internship/) | Raleigh, NC |[SDE](https://www.bandwidth.com/careers/openings/?gh_jid=2433277), [PM](https://www.bandwidth.com/careers/openings/?gh_jid=2472465), [IT](https://www.bandwidth.com/careers/openings/?gh_jid=2612412), [Business Analytics](https://www.bandwidth.com/careers/openings/?gh_jid=2472412) and other internship positions available |
 |[Palo Alto Networks](https://jobs.paloaltonetworks.com/job-search-results/?keyword=Intern&compliment=Americas)| Santa Clara, CA | [Software Intern SDWAN](https://jobs.paloaltonetworks.com/job/11959619/intern-software-intern-sdwan-santa-clara-ca/), [Security Software Engineer](https://jobs.paloaltonetworks.com/job/12186469/intern-security-software-engineer-santa-clara-ca/), [Automation Engineer](https://jobs.paloaltonetworks.com/job/12012103/intern-automation-engineer-santa-clara-ca/) and other Intern positions are available. Applicant must have the authorization to work within the United States. |
+|[Weights & Biases](https://www.diversifytech.co/job-board/machine-learning-engineer---intern-weights--biases)| Remote - Anywhere | Feb 22 - Deadline to apply |
+|[Teampay](https://boards.greenhouse.io/teampay/jobs/5068771002) | New York, NY | |
+|[Medisend](https://www.linkedin.com/jobs/view/2378294159/) | Remote / San Francisco Bay Area | |
+|[Peloton](https://boards.greenhouse.io/peloton/jobs/2666691) | New York, NY | |
+|[Surescripts](https://surescripts.wd1.myworkdayjobs.com/en-US/surescriptscareers/job/Raleigh-North-Carolina/Software-Engineering-Intern_REQ1277) | Raleigh, NC | |
+|[Charito](https://jobs.lever.co/chartio/141f51a4-4603-443e-823b-b77d479cfb99?utm_source=linkup&utm_medium=referrer) | San Francisco, CA | |
 |[Lob](https://www.lob.com/careers/job?2613767)| Various; Remote | Applicant must be eligible to work in the United States. Lob is not able to sponsor Visas for this role. |
+|[Medidata](https://jobs.jobvite.com/medidata-solutions/job/or0oefwN/apply) | New York, NY; San Francisco, CA; Iselin, New Jersey | |
 |[Myst AI](https://jobs.lever.co/myst.ai/)| San Francisco, CA | [Data Science](https://jobs.lever.co/myst.ai/0b00ce01-a6d2-42c6-a06d-a4629cfbe7a4), [Software Engineering](https://jobs.lever.co/myst.ai/a8213a4b-e210-43a7-83ed-05771c178b15) Intern positions are available. |
+|[Tinder](https://jobs.lever.co/matchgroup/290d9f50-b41a-4f98-bb09-f640a43369d5) | Los Angeles, CA | Machine Learning, [Security](https://jobs.lever.co/matchgroup/fee1e1ae-62e0-48a5-a97e-8b49572a9f24) |
 |[Ibotta](https://ibotta.ruutly.com/job/2640088)| Denver, CO; Remote | Applicants must be currently authorized to work in the United States on a full-time basis. |
-
 
 
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too! 🙏
