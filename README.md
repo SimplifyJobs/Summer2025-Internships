@@ -34,7 +34,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |PDT Partners| New York | **Closed** |
 |Point72 | New York | **Closed** Analyst Academy|
 |Bracebridge Capital|Boston|Closed|
-|Jump Trading| Chicago | **Closed** |
+|[Jump Trading](https://www.jumptrading.com/jobs.html)| Chicago |[Tech Ops](https://www.jumptrading.com/apply.html?gh_jid=1848604), [Production](https://www.jumptrading.com/apply.html?gh_jid=2297249), [FPGA](https://www.jumptrading.com/apply.html?gh_jid=2406074) and other positions available |
 |BNP Paribas| New York | **Closed** |
 |[Belvedere Trading](https://belvederetrading.applicantstack.com/x/detail/a2sa4x0tugum/aa1b?noia=1)| Chicago | |
 |RBC| Jersey City | **Closed** |
