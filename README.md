@@ -765,6 +765,8 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Tinder](https://jobs.lever.co/matchgroup/290d9f50-b41a-4f98-bb09-f640a43369d5) | Los Angeles, CA | Machine Learning, [Security](https://jobs.lever.co/matchgroup/fee1e1ae-62e0-48a5-a97e-8b49572a9f24), [Data Engineering](https://jobs.lever.co/matchgroup/2e13655d-964d-4508-9526-41a3b3bdb2c3) |
 |[Ibotta](https://ibotta.ruutly.com/job/2640088)| Denver, CO; Remote | Applicants must be currently authorized to work in the United States on a full-time basis. |
 |[Donate to PittCSC!](https://www.pittdayofgiving.com/campaigns/pitt-computer-science-club-in-sci#/) | Remote | There's no minimum donation and the club with the most donation wins a grant! |
+|[HBO](https://www.showbizjobs.com/internships/hbo-summer-virtual-intern-software-engineer-in-new-york/jid-d8v42m/amp) | Remote | |
+|[CVS Health](https://jobs.cvshealth.com/search-results?CloudSearchValue=undergrad%20intern&CloudSearchLocation=none&CloudSearchRadius=20&radiusUnit=Miles&prefilters=none) | Remote | [SWE](https://jobs.cvshealth.com/ShowJob/JobId/1037929/Software-Engineering-Internship-Undergrad), [IT Architecture](https://jobs.cvshealth.com/ShowJob/JobId/1012410/ITArchitectureInternshipUndergraduate), [Digital](https://jobs.cvshealth.com/ShowJob/JobId/1049438/DigitalInternshipUndergrad) and more positions available |
 
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too! 🙏
 * [GintasS](https://github.com/GintasS) 🐐
