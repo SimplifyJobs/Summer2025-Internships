@@ -1,8 +1,6 @@
 # Summer 2021 Internships ☀️👩‍💻
 Use this repo to share and keep track of any tech-related internships. For a [Google Sheet 📝 version of this repo (that remains in sync with this table) click here](https://docs.google.com/spreadsheets/d/1bJq7YQV19TWyzPCBeQi5P4uOm8uiAAm2AHCnVNGRIDg/edit#gid=0)! For more tips on the internship process check out the [Zero to Offer 📈 program here](https://www.pittcs.wiki/zero-to-offer).
 
-🙏 Like this repo? Donate to [Pitt CSC](https://www.pittdayofgiving.com/campaigns/pitt-computer-science-club-in-sci#/)! 🙏
-
 🎓 Check out our New Grad repo [here](https://github.com/Pitt-CSC/NewGrad-2021).
 
 🤗 **Contribute by submitting a [pull request](https://github.com/susam/gitpr#create-pull-request) or [filling out this form](https://bit.ly/3d5O76c)!**  🤗
@@ -764,13 +762,12 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Myst AI](https://jobs.lever.co/myst.ai/)| San Francisco, CA | [Data Science](https://jobs.lever.co/myst.ai/0b00ce01-a6d2-42c6-a06d-a4629cfbe7a4), [Software Engineering](https://jobs.lever.co/myst.ai/a8213a4b-e210-43a7-83ed-05771c178b15) Intern positions are available. |
 |[Tinder](https://jobs.lever.co/matchgroup/290d9f50-b41a-4f98-bb09-f640a43369d5) | Los Angeles, CA | Machine Learning, [Security](https://jobs.lever.co/matchgroup/fee1e1ae-62e0-48a5-a97e-8b49572a9f24), [Data Engineering](https://jobs.lever.co/matchgroup/2e13655d-964d-4508-9526-41a3b3bdb2c3) |
 |[Ibotta](https://ibotta.ruutly.com/job/2640088)| Denver, CO; Remote | Applicants must be currently authorized to work in the United States on a full-time basis. |
-|[Donate to PittCSC!](https://www.pittdayofgiving.com/campaigns/pitt-computer-science-club-in-sci#/) | Remote | There's no minimum donation and the club with the most donation wins a grant! |
 |[HBO](https://www.showbizjobs.com/internships/hbo-summer-virtual-intern-software-engineer-in-new-york/jid-d8v42m/amp) | Remote | |
 |[CVS Health](https://jobs.cvshealth.com/search-results?CloudSearchValue=undergrad%20intern&CloudSearchLocation=none&CloudSearchRadius=20&radiusUnit=Miles&prefilters=none) | Remote | [SWE](https://jobs.cvshealth.com/ShowJob/JobId/1037929/Software-Engineering-Internship-Undergrad), [IT Architecture](https://jobs.cvshealth.com/ShowJob/JobId/1012410/ITArchitectureInternshipUndergraduate), [Digital](https://jobs.cvshealth.com/ShowJob/JobId/1049438/DigitalInternshipUndergrad) and more positions available |
 |[Blue Cross Blue Shield of Massachusetts](https://bcbsma.wd5.myworkdayjobs.com/BCBSMA/1/refreshFacet/318c8bb6f553100021d223d9780d30be?source=Linkedin)| Remote | [Automation](https://bcbsma.wd5.myworkdayjobs.com/en-US/BCBSMA/job/Boston/Automation-Summer-Intern_R03658-1), [Security (IT)](https://bcbsma.wd5.myworkdayjobs.com/en-US/BCBSMA/job/Quincy/Security-Summer-Intern_R03651-1), [Data Engineer](https://bcbsma.wd5.myworkdayjobs.com/en-US/BCBSMA/job/Quincy/Data-Engineer-Summer-Intern_R03661-1) and other Intern positions are available. Must be able to work remotely during hours that align to BCBSMA’s workday. |
 |[Sailthru](https://boards.greenhouse.io/sailthru/jobs/2926837)| New York (Remote) | |
 |[Glassdoor](https://www.glassdoor.com/Jobs/Glassdoor-Jobs-E100431.htm)| Remote | [Machine Learning](https://www.glassdoor.com/job-listing/machine-learning-intern-glassdoor-JV_IC1139761_KO0,23_KE24,33.htm?jl=4007383231&pos=103&ao=1001675&s=21&guid=00000177d0a061eb8682d7cd4b8e0dff&src=GD_JOB_AD&ei=100431&t=ESR&extid=2&exst=E&ist=L&ast=EL&vt=w&slr=true&ea=1&cs=1_5f96761b&cb=1614112908981&jobListingId=4007383231&ctt=1614113869844&srs=EI_JOBS), [Data Engineering](https://www.glassdoor.com/partner/jobListing.htm?pos=105&ao=1001675&s=21&guid=00000177d0a061eb8682d7cd4b8e0dff&src=GD_JOB_AD&ei=100431&t=ESR&extid=2&exst=E&ist=L&ast=EL&vt=w&slr=true&ea=1&cs=1_7385207f&cb=1614112909010&jobListingId=4006472254), [Software Engineer](https://www.glassdoor.com/partner/jobListing.htm?pos=107&ao=1001675&s=21&guid=00000177d0a061eb8682d7cd4b8e0dff&src=GD_JOB_AD&ei=100431&t=ESR&extid=2&exst=E&ist=L&ast=EL&vt=w&slr=true&ea=1&cs=1_0ebf5007&cb=1614112909058&jobListingId=4010646191) and other Intern positions are available. |
-
+|[Petal](https://jobs.lever.co/petalcard/26e73f8f-affc-4db1-8468-920873f443d5) | NYC/Remote | |
 
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too! 🙏
 * [GintasS](https://github.com/GintasS) 🐐
