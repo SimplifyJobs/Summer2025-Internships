@@ -26,7 +26,7 @@ def parse_html_table(table):
     return result + filler_rows
 
 def html_to_spreadsheet_cell(html_element):
-    """ Parse HTML elmement, like <a href=www.google.com>Google</a> to =HYPERLINK(www.google.com, Google) """
+    """ Parse HTML element, like <a href=www.google.com>Google</a> to =HYPERLINK(www.google.com, Google) """
     link = html_element.find("a")
     if link:
         return '=HYPERLINK("{}", "{}")'.format(link['href'], link.contents[0])
