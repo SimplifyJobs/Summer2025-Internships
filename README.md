@@ -215,7 +215,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |New Relic | Portland | **Closed** |
 |[Kensho](https://jobs.lever.co/kensho/6d510556-b646-4af6-aad5-227625d9727d/apply) | Cambridge | [Front End](https://jobs.lever.co/kensho/312ae842-2798-4021-b76f-33e11c504d71), [Query Infrastructure](https://jobs.lever.co/kensho/f1d84d9a-c754-4f7f-97d4-b87443fb2e60) |
 |Lucid | Salt Lake City ,UT | **Closed** |
-|Addepar | Remote | **Closed** |
+|[Addepar](https://boards.greenhouse.io/addepar1?t=31a4a9852)| Remote, USA | [SRE Tools](https://boards.greenhouse.io/addepar1/jobs/5140174002?t=31a4a9852), [Software Engineer (Data Engineering)](https://boards.greenhouse.io/addepar1/jobs/5140213002?t=31a4a9852), [Software Engineer - Webcore](https://boards.greenhouse.io/addepar1/jobs/5140304002?t=31a4a9852) and other Intern positions are available. |
 | Deliverr | SF | |
 |[Viasat](https://careers.viasat.com/careers/FolderDetail/Software-Engineer-Intern/5765) | Carlsbad, CA | Must be a U.S. citizen, lawful permanent resident of the U.S., protected individual, or eligible to obtain the required authorizations from the U.S. Department of State |
 |[Barclays](https://joinus.barclays/americas/internships/developer-summer-analyst) | Whippany, NJ | More positions [here](https://barclays.taleo.net/careersection/12/jobsearch.ftl?lang=en_GB)|
@@ -770,7 +770,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Petal](https://jobs.lever.co/petalcard/26e73f8f-affc-4db1-8468-920873f443d5) | NYC/Remote | |
 |[Applied Systems](https://globalcareers-appliedsystems.icims.com/jobs/search?ss=1&searchKeyword=Intern)| Remote | [Software Developer](https://canada-appliedsystems.icims.com/jobs/3656/software-development-intern/job?hub=15), [Software Developer In Test](https://canada-appliedsystems.icims.com/jobs/3655/software-engineer-in-test-intern/job?hub=15) Intern positions are available. Interested applicants must reside in the United States or Canada. Some positions require applicant to be authorized to work in the United States without sponsorship. |
 |[Cresta](https://jobs.lever.co/cresta/f8aa52ad-0dc8-43e1-b5ba-526e3971f053) | SF | ML Internship|
-|[Truera](https://jobs.lever.co/ailens/58160497-fcba-41d8-b952-67832c34df94) | Remote | Front End|
+|[Truera](https://jobs.lever.co/ailens/58160497-fcba-41d8-b952-67832c34df94) | Remote | Front End |
 
 
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too! 🙏
