@@ -771,6 +771,8 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Applied Systems](https://globalcareers-appliedsystems.icims.com/jobs/search?ss=1&searchKeyword=Intern)| Remote | [Software Developer](https://canada-appliedsystems.icims.com/jobs/3656/software-development-intern/job?hub=15), [Software Developer In Test](https://canada-appliedsystems.icims.com/jobs/3655/software-engineer-in-test-intern/job?hub=15) Intern positions are available. Interested applicants must reside in the United States or Canada. Some positions require applicant to be authorized to work in the United States without sponsorship. |
 |[Cresta](https://jobs.lever.co/cresta/f8aa52ad-0dc8-43e1-b5ba-526e3971f053) | SF | ML Internship|
 |[Truera](https://jobs.lever.co/ailens/58160497-fcba-41d8-b952-67832c34df94) | Remote | Front End |
+|[Mindgrub](https://www.mindgrub.com/careers) | Baltimore, MD | Web Developer (Intern), Mobile Developer (Intern), UX Designer(Intern) |
+|[Washington Post](https://washpost.wd5.myworkdayjobs.com/en-US/washingtonpostcareers/job/DC-Washington-TWP-Headquarters/XMLNAME-2021-Summer-Intern_JR-90272151) | Washington DC | SWE Summer Intern 2021 |
 
 
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too! 🙏
