@@ -775,6 +775,9 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Truera](https://jobs.lever.co/ailens/58160497-fcba-41d8-b952-67832c34df94) | Remote | Front End |
 |[Mindgrub](https://www.mindgrub.com/careers) | Baltimore, MD | Web Developer (Intern), Mobile Developer (Intern), UX Designer(Intern) |
 |[Washington Post](https://washpost.wd5.myworkdayjobs.com/en-US/washingtonpostcareers/job/DC-Washington-TWP-Headquarters/XMLNAME-2021-Summer-Intern_JR-90272151) | Washington DC | SWE Summer Intern 2021 |
+|[Malwarebytes](https://jobs.malwarebytes.com/job/2967812) | Clearwater, FL | |
+|[NimbleRx](https://jobs.lever.co/nimblerx/1c84caa8-e995-4239-a172-2e6a223c829c) | Redwood City, CA| |
+|[Cohesity](https://www.cohesity.com/company/careers/open-positions/?gh_jid=2640898) | San Jose, CA| |
 
 
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too! 🙏
