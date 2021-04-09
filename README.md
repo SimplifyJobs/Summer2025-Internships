@@ -778,7 +778,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Malwarebytes](https://jobs.malwarebytes.com/job/2967812) | Clearwater, FL | |
 |[NimbleRx](https://jobs.lever.co/nimblerx/1c84caa8-e995-4239-a172-2e6a223c829c) | Redwood City, CA| |
 |[Cohesity](https://www.cohesity.com/company/careers/open-positions/?gh_jid=2640898) | San Jose, CA| |
-
+|[Waybridge](https://waybridge.com/careers?gh_jid=4409662003) | Remote | |
 
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too! 🙏
 * [GintasS](https://github.com/GintasS) 🐐
