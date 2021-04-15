@@ -18,6 +18,7 @@ And we're back 😤🎉! Use this repo to share and keep track of any tech-relat
 | [PWC](https://jobs.us.pwc.com/job/pittsburgh/start-intern-summer-2022/932/18302534) | Various | |
 | [AQR](https://careers.aqr.com/jobs/university-open-positions/greenwich-ct/2022-summer-internship-express-interest/2194349?lang=en_us#/) | Greenwich, CT | Interest Form |
 | [IBM](https://careers.ibm.com/job/12596436/research-internship-summer-2022-undergraduate-austin-tx) | Austin | Research Internship|
+| [IBM](https://www.linkedin.com/jobs/view/nsbe-back-end-developer-summer-intern-2022-at-ibm-2482257609?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | New York | NSBE Back End Developer Summer Intern|
 | [Point72](https://careers.point72.com/CSJobDetail?jobName=2022-point72-academy-summer-internship-program-new-york&jobCode=CPA-0007359) | NYC | |
 | [Optiver](https://www.optiver.com/working-at-optiver/career-opportunities/4995300002/) | Chicago | Interest Forms for: Tech, [Trading](https://www.optiver.com/working-at-optiver/career-opportunities/4929322002/)|
 | [Caterpillar](https://caterpillarcareers.ttcportals.com/jobs/6533463-2022-engineering-summer-intern-product-development?tm_job=R0000026191&tm_event=view&tm_company=2539&bid=370&src=SNS-100100) | Illinois | |
