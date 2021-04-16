@@ -24,6 +24,6 @@ And we're back 😤🎉! Use this repo to share and keep track of any tech-relat
 |[Schneider Downs](https://schneiderdowns.csod.com/ats/careersite/JobDetails.aspx?id=474&site=4) | Pittsburgh, PA | IT Intern |
 |[JPMorgan Chase & Co.](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions?keyword=2022&location=United%20States&locationId=300000000289738&locationLevel=country) | Various | Summer Analyst |
 |[GE](https://jobs.gecareers.com/global/en/search-results) | Various | [GE Aviation Aviation Systems](https://jobs.gecareers.com/global/en/job/R3560419/GE-Aviation-Aviation-Systems-Intern-Summer-2022), [GE Gas Power Digital Technology](https://jobs.gecareers.com/global/en/job/R3558732/Gas-Power-Digital-Technology-Intern-2022) and other Intern positions are available. Some roles are restricted to U.S. persons only or whose who are legally authorized to work in the United States. |
-|[Second Order Effects](https://boards.greenhouse.io/soeffects/jobs/4311435003) | El Segundo, CA | Applicant must be a U.S. citizen, lawful permanent resident of the U.S., protected individual as defined by 8 U.S.C. 1324b(a)(3), or eligible to obtain the required authorizations from the U.S. Department of State. |
+|[Second Order Effects](https://boards.greenhouse.io/soeffects/jobs/4311435003) | El Segundo, CA | Applicant must be a U.S. citizen or eligible to obtain the required authorizations from the U.S. Department of State. |
 
 
