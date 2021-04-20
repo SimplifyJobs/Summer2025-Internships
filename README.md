@@ -27,4 +27,5 @@ And we're back 😤🎉! Use this repo to share and keep track of any tech-relat
 |[Second Order Effects](https://boards.greenhouse.io/soeffects/jobs/4311435003) | El Segundo, CA | Applicant must be a U.S. citizen or eligible to obtain the required authorizations from the U.S. Department of State. |
 |[Greylock Techfair](https://cvent.me/eXBPyw?RefId=AppSubmitted) | n/a | Not an internship but a great opportunity to network with top unicorns/startups! Some companies only hire through the Techfair | 
 |[Morgan Stanley](https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/user-3168256/xf-a7aeef94da1e/candidate/so/pm/1/pl/1/opp/11401) | NYC | Technology Summer Analyst Program | 
+|[IMC Trading](https://careers.imc.com/us/en/job/REQ-01185/Quant-Trader-Intern-Summer-2022) | Chicago | Quant Trading |
 
