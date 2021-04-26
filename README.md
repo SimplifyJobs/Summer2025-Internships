@@ -29,3 +29,4 @@ And we're back 😤🎉! Use this repo to share and keep track of any tech-relat
 |[Morgan Stanley](https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/user-3168256/xf-a7aeef94da1e/candidate/so/pm/1/pl/1/opp/11401) | NYC | Technology Summer Analyst Program | 
 |[IMC Trading](https://careers.imc.com/us/en/job/REQ-01185/Quant-Trader-Intern-Summer-2022) | Chicago | Quant Trading |
 |[Cockroach Labs](https://www.cockroachlabs.com/careers/job/?gh_jid=3067803) | NYC | Fall 2021, Winter 2022, Summer 2022 are all options |
+|[Microsoft](https://careers.microsoft.com/us/en/job/878029/Intern-Opportunities-for-Students-Norway-Software-Engineering-Summer-2022) | Norway | Software Engineering Internship |
