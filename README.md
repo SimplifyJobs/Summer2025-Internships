@@ -30,3 +30,4 @@ And we're back 😤🎉! Use this repo to share and keep track of any tech-relat
 |[IMC Trading](https://careers.imc.com/us/en/job/REQ-01185/Quant-Trader-Intern-Summer-2022) | Chicago | Quant Trading |
 |[Cockroach Labs](https://www.cockroachlabs.com/careers/job/?gh_jid=3067803) | NYC | Fall 2021, Winter 2022, Summer 2022 are all options |
 |[Bessemer Ventures Fellowship](https://www.bvp.com/bessemer-fellows) | Various | |
+|[Audible](https://amazon.jobs/en/jobs/1463969/audible-software-development-engineer-internship-summer-2022) | Newark, NJ | Software Development Internship |
