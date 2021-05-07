@@ -31,3 +31,4 @@ And we're back 😤🎉! Use this repo to share and keep track of any tech-relat
 |[Cockroach Labs](https://www.cockroachlabs.com/careers/job/?gh_jid=3067803) | NYC | Fall 2021, Winter 2022, Summer 2022 are all options |
 |[Bessemer Ventures Fellowship](https://www.bvp.com/bessemer-fellows) | Various | |
 |[Audible](https://amazon.jobs/en/jobs/1463969/audible-software-development-engineer-internship-summer-2022) | Newark, NJ | Software Development Internship |
+[Capital One](https://campus.capitalone.com/job/-/-/1786/19333514) | Various | Must attend a Capital One Software Engineering Summit |
