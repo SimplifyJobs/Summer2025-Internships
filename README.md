@@ -15,7 +15,7 @@ And we're back 😤🎉! Use this repo to share and keep track of any tech-relat
 | [Bridgewater Associates](https://boards.greenhouse.io/bridgewater89/jobs/4076389002) | Westport, CT | |
 | [Credit Suisse](https://tas-creditsuisse.taleo.net/careersection/campus/moresearch.ftl) | Raleigh, NYC | Search `"2022 Americas Technology Summer Analyst Program"`|
 | [BlackStone](https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/New-York/XMLNAME-2022-Summer-Analyst---Blackstone-Data-Science_15158) | NYC | Data Science |
-| [PWC](https://jobs.us.pwc.com/job/pittsburgh/start-intern-summer-2022/932/18302534) | Various | |
+| PWC | | **Closed** |
 | [AQR](https://careers.aqr.com/jobs/university-open-positions/greenwich-ct/2022-summer-internship-express-interest/2194349?lang=en_us#/) | Greenwich, CT | Interest Form |
 | [Optiver](https://www.optiver.com/working-at-optiver/career-opportunities/4995300002/) | Chicago | Interest Forms for: Tech, [Trading](https://www.optiver.com/working-at-optiver/career-opportunities/4929322002/)|
 | [Caterpillar](https://caterpillarcareers.ttcportals.com/jobs/6533463-2022-engineering-summer-intern-product-development?tm_job=R0000026191&tm_event=view&tm_company=2539&bid=370&src=SNS-100100) | Illinois | |
