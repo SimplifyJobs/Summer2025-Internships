@@ -1,8 +1,6 @@
 # Summer 2022 Internships by Pitt CSC 🤿👩‍💻
 And we're back 😤🎉! Use this repo to share and keep track of any tech-related internships. Huge shout-out to [GintasS](https://github.com/GintasS) for being an absolute beast last year. 
 
-👴 Check out Summer 2021's list [here](https://github.com/pittcsc/Summer2022-Internships/tree/552701f413a0ad84a90164b03e7eee9c902ab37a) 👴
-
  📈 For more tips on the internship process check out the [Zero to Offer program here](https://www.pittcs.wiki/zero-to-offer).  📈
 
 🤗 **Contribute by submitting a [pull request](https://github.com/susam/gitpr#create-pull-request) or [filling out this form](https://bit.ly/3d5O76c)!**  🤗
