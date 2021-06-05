@@ -32,3 +32,4 @@ And we're back 😤🎉! Use this repo to share and keep track of any tech-relat
 |[Susquehanna (SIG)](https://careers.sig.com/job/5439/Software-Engineering-Internship-Program-Summer-2022) | Bala Cynwyd, PA | Software Engineering Internship. Visa sponsorship is available for this position. |
 |[Five Rings](https://jobs.jobvite.com/fiverings/job/o5vBffwa) | NYC | Software, Trading, Research Internships |
 |[Akuna Capital](https://akunacapital.com/careers?&experience=intern&search_term=#careers) | Chicago, Boston | Software, Trading, Quant Internships. Legal authorization to work in the U.S. is required. |
+|[D. E. Shaw](https://www.deshaw.com/careers/software-developer-intern-new-york-4239) | NYC | Software, Trading, Quant, System Internships |
