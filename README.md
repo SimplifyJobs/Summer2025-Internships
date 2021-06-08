@@ -23,7 +23,6 @@ And we're back 😤🎉! Use this repo to share and keep track of any tech-relat
 |[Second Order Effects](https://boards.greenhouse.io/soeffects/jobs/4311435003) | El Segundo, CA | Applicant must be a U.S. citizen or eligible to obtain the required authorizations from the U.S. Department of State. |
 |[Greylock Techfair](https://cvent.me/eXBPyw?RefId=AppSubmitted) | n/a | Not an internship but a great opportunity to network with top unicorns/startups! Some companies only hire through the Techfair | 
 |[Morgan Stanley](https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/user-3168256/xf-a7aeef94da1e/candidate/so/pm/1/pl/1/opp/11401) | NYC | Technology Summer Analyst Program | 
-|[Cockroach Labs](https://www.cockroachlabs.com/careers/job/?gh_jid=3067803) | NYC | Fall 2021, Winter 2022, Summer 2022 are all options |
 |[Bessemer Ventures Fellowship](https://www.bvp.com/bessemer-fellows) | Various | |
 |[Audible](https://amazon.jobs/en/jobs/1463969/audible-software-development-engineer-internship-summer-2022) | Newark, NJ | Software Development Internship |
 [Capital One](https://campus.capitalone.com/job/-/-/1786/19333514) | Various | Must attend a Capital One Software Engineering Summit |
