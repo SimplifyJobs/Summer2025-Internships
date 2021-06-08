@@ -33,3 +33,4 @@ And we're back 😤🎉! Use this repo to share and keep track of any tech-relat
 |[Akuna Capital](https://akunacapital.com/careers?&experience=intern&search_term=#careers) | Chicago, Boston | Software, Trading, Quant Internships. Legal authorization to work in the U.S. is required. |
 |[D. E. Shaw](https://www.deshaw.com/careers/software-developer-intern-new-york-4239) | NYC | Software, Trading, Quant, System Internships |
 |[Toyota Connected](https://www.toyotaconnected.com/job?gh_jid=4421992002&did=4040990002) | Plano, Texas | Software Engineering Summer Intern
+|[Vanguard](https://www.vanguardjobs.com/job-search-results/?keyword=college%20to%20corporate&level[]=Student%20%26%20Recent%20Graduates) | Various | App Dev, Security & IT internships
