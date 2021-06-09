@@ -34,4 +34,4 @@ And we're back 😤🎉! Use this repo to share and keep track of any tech-relat
 |[D. E. Shaw](https://www.deshaw.com/careers/software-developer-intern-new-york-4239) | NYC | Software, Trading, Quant, System Internships |
 |[Toyota Connected](https://www.toyotaconnected.com/job?gh_jid=4421992002&did=4040990002) | Plano, Texas | Software Engineering Summer Intern
 |[Vanguard](https://www.vanguardjobs.com/job-search-results/?keyword=college%20to%20corporate&level[]=Student%20%26%20Recent%20Graduates) | Various | App Dev, Security & IT internships
-|[Salesforce](https://www.salesforce.com/company/careers/university-recruiting/summer-internship/) | Various | Software Engineering, Security. Must be attending a University in North America. |
+|[Salesforce](https://salesforce.wd1.myworkdayjobs.com/Futureforce_Internships?d=cta-summer-explore-sjb-1) | Various | Software Engineering, Security. Must be attending a University in North America. |
