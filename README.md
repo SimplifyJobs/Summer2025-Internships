@@ -14,7 +14,7 @@ And we're back 😤🎉! Use this repo to share and keep track of any tech-relat
 | [Credit Suisse](https://tas-creditsuisse.taleo.net/careersection/campus/moresearch.ftl) | Raleigh, NYC | Search `"2022 Americas Technology Summer Analyst Program"`|
 | [BlackStone](https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/New-York/XMLNAME-2022-Summer-Analyst---Blackstone-Data-Science_15158) | NYC | Data Science |
 | PWC | | **Closed** |
-| [AQR](https://careers.aqr.com/jobs/university-open-positions/greenwich-ct/2022-summer-internship-express-interest/2194349?lang=en_us#/) | Greenwich, CT | Interest Form |
+| [AQR](https://careers.aqr.com/jobs/department/university-jobs#/) | Greenwich, CT | Research, Portfolio Implementation |
 | [Optiver](https://www.optiver.com/working-at-optiver/career-opportunities/4995300002/) | Chicago | Interest Forms for: Tech, [Trading](https://www.optiver.com/working-at-optiver/career-opportunities/4929322002/)|
 | [Caterpillar](https://caterpillarcareers.ttcportals.com/jobs/6533463-2022-engineering-summer-intern-product-development?tm_job=R0000026191&tm_event=view&tm_company=2539&bid=370&src=SNS-100100) | Illinois | |
 |[Schneider Downs](https://schneiderdowns.csod.com/ats/careersite/JobDetails.aspx?id=474&site=4) | Pittsburgh, PA | IT Intern |
