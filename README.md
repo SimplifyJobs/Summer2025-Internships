@@ -39,7 +39,7 @@ And we're back 😤🎉! Use this repo to share and keep track of any tech-relat
 |[Arrowstreet Capital](https://arrowstreetcapital.wd5.myworkdayjobs.com/Arrowstreet/0/refreshFacet/318c8bb6f553100021d223d9780d30be) | Boston, MA | Quant | 
 |[Asana](https://boards.greenhouse.io/earlycareerprograms/jobs/3198333) | San Francisco, CA | SWE Internship | 
 |[Target](https://jobs.target.com/job/-/-/1118/9468869552) | Minneapolis, MN | |
-|[BNP Paribas](https://bnppus.tal.net/vx/lang-en-GB/mobile-0/appcentre-ext/brand-4/xf-5db317b8ad85/candidate/jobboard/vacancy/2/adv/?ftq=2022) | Various | Various |
+|[BNP Paribas](https://bnppus.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/xf-e138f59a0427/candidate/so/pm/1/pl/2/opp/489-2022-Summer-Analyst-Internship-Technology/en-GB) | Various | Other positions [here](https://bnppus.tal.net/vx/lang-en-GB/mobile-0/appcentre-ext/brand-4/xf-5db317b8ad85/candidate/jobboard/vacancy/2/adv/?ftq=2022) |
 
 **We love our contributors ❤️❤️** 
 
