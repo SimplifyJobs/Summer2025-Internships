@@ -33,13 +33,12 @@ And we're back 😤🎉! Use this repo to share and keep track of any tech-relat
 |[D. E. Shaw](https://www.deshaw.com/careers/software-developer-intern-new-york-4239) | NYC | Software, Trading, Quant, System Internships |
 |[Toyota Connected](https://www.toyotaconnected.com/job?gh_jid=4421992002&did=4040990002) | Plano, Texas | Software Engineering Summer Intern
 |[Vanguard](https://www.vanguardjobs.com/job-search-results/?keyword=college%20to%20corporate&level[]=Student%20%26%20Recent%20Graduates) | Various | App Dev, Security & IT internships
-|[Salesforce](https://salesforce.wd1.myworkdayjobs.com/Futureforce_Internships?d=cta-summer-explore-sjb-1) | Various | Software Engineering, Security. Must be attending a University in North America. |
+|[Salesforce](https://salesforce.wd1.myworkdayjobs.com/en-US/Futureforce_Internships/job/California---San-Francisco/Summer-2022-Intern---Software-Engineer_JR100559?d=cta-summer-view-sjb-1) | Various | Software Engineering, Security. Must be attending a University in North America. |
 |[RBC Capital Markets](https://jobs.rbc.com/ca/en/job/RBCAA0088327043EXTERNALENCA/2022-Technology-Summer-Analyst-Program) | NYC | |
 |[Arrowstreet Capital](https://arrowstreetcapital.wd5.myworkdayjobs.com/Arrowstreet/0/refreshFacet/318c8bb6f553100021d223d9780d30be) | Boston, MA | Quant | 
 |[Asana](https://boards.greenhouse.io/earlycareerprograms/jobs/3198333) | San Francisco, CA | SWE Internship | 
 |[Target](https://jobs.target.com/job/-/-/1118/9468869552) | Minneapolis, MN | |
 |[BNP Paribas](https://bnppus.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/xf-e138f59a0427/candidate/so/pm/1/pl/2/opp/489-2022-Summer-Analyst-Internship-Technology/en-GB) | Various | Other positions [here](https://bnppus.tal.net/vx/lang-en-GB/mobile-0/appcentre-ext/brand-4/xf-5db317b8ad85/candidate/jobboard/vacancy/2/adv/?ftq=2022) |
-|[Salesforce](https://salesforce.wd1.myworkdayjobs.com/en-US/Futureforce_Internships/job/California---San-Francisco/Summer-2022-Intern---Software-Engineer_JR100559?d=cta-summer-view-sjb-1) | Various | SWE |
 
 **We love our contributors ❤️❤️** 
 
