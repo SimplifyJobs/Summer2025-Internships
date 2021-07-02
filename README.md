@@ -2,10 +2,10 @@
 And we're back 😤🎉! Use this repo to share and keep track of any tech-related internships. Huge shout-out to [GintasS](https://github.com/GintasS) for being an absolute beast last year. 
 
  📈 For more tips on the internship process check out the [Zero to Offer program here](https://www.pittcs.wiki/zero-to-offer).  📈
+ 
+🎓 Check out our New Grad repo [here](https://github.com/coderQuad/New-Grad-Positions-2022).
 
-🤗 **Contribute by submitting a [pull request](https://github.com/susam/gitpr#create-pull-request) or [filling out this form](https://bit.ly/3d5O76c)!**  🤗
-
-[New Grad 2022 Listing](https://github.com/coderQuad/New-Grad-Positions-2022)
+🤗 **Contribute by submitting a [pull request](https://github.com/susam/gitpr#create-pull-request) or [filling out this form](https://bit.ly/3d5O76c)!**  🤗
 
 ## The List 👔
 
