@@ -50,6 +50,9 @@ And we're back 😤🎉! Use this repo to share and keep track of any tech-relat
 |[Two Sigma](https://careers.twosigma.com/careers/JobDetail?jobId=8471) | NYC | SWE Internship | 
 |[Cigna](https://jobs.cigna.com/us/en/job/21012002/Cigna-Technology-Early-Career-Development-Program-TECDP-Summer-Intern-2022-Evergreen) | Various | Application Developer, Infrastructure Engineer, Network Engineer and other Intern positions are available. Internship is open only to individuals who are eligible for employment in the United States and who would not require visa sponsorship now or in the future. | 
 |[Bracebridge Capital](https://phh.tbe.taleo.net/phh02/ats/careers/v2/viewRequisition?org=BRACEBRIDGE_CAPITAL&cws=41&rid=246) | Boston, MA | Investment Analyst position is available. |
+|[Federated Insurance](https://careers-federatedinsurance.icims.com/jobs/3098/it-systems-developer-intern---summer-2022/job?mode=job&iis=SOURCE&iisn=LinkedIn&mobile=false&width=1887&height=500&bga=true&needsRedirect=false&jan1offset=120&jun1offset=180) | Owatonna, MN | IT-Systems Developer Intern position is available. | 
+
+
 
 **We love our contributors ❤️❤️** 
 
