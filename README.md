@@ -47,6 +47,7 @@ And we're back 😤🎉! Use this repo to share and keep track of any tech-relat
 |[Goldman Sachs](https://www.goldmansachs.com/careers/students/programs/americas/summer-analyst-program.html)| Various| Summer Analyst Program |
 |[BlackRock](https://blackrock.tal.net/vx/lang-en-GB/mobile-0/brand-3/xf-362ee664293b/candidate/so/pm/1/pl/1/opp/4821-Summer-Analyst-Program-Americas/en-GB)| Various| Summer Analyst Program Note: Requires CodeVue(Programming Test+Video recording) submission up to 96 Hours after application submission. |
 |[Bank of America](https://bankcampuscareers.tal.net/vx/brand-4/candidate/so/pm/1/pl/1/opp/7140-Global-Technology-Summer-Analyst-Program-2022/en-GB)| Various| Global Technology Summer Analyst Program |
+|[Two Sigma](https://careers.twosigma.com/careers/JobDetail?jobId=8471) | NYC | SWE Internship | 
 
 **We love our contributors ❤️❤️** 
 
@@ -73,3 +74,4 @@ Fill [this form](https://bit.ly/3d5O76c) or make a [pull request](https://github
 * [ankasengupta](https://github.com/ankasengupta)
 * [yiyangiliu](https://github.com/yiyangiliu)
 * [monishshah18](https://github.com/monishshah18)
+* [Josh0823](https://github.com/Josh0823)
