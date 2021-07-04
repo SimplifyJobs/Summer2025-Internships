@@ -12,7 +12,6 @@ And we're back 😤🎉! Use this repo to share and keep track of any tech-relat
 | Name  |  Location |  Notes |
 |---|---|-------------|
 | [Amazon](https://www.amazon.jobs/en/jobs/1557929/software-development-engineer-internship-summer-2022-us) | Seattle, Washington | SWE Intern (2022 summer) |
-| [Amazon AWS](https://www.amazon.jobs/en/jobs/1612067/software-development-engineer-intern-summer-2022-us) | Arlington Area, VA | SDE Intern (2022 summer) |
 | [Hudson River Trading](https://www.hudsonrivertrading.com/careers/job/?gh_jid=3015374) | NYC, Chicago, London | SWE, [Algo Internship](https://www.hudsonrivertrading.com/careers/job/?gh_jid=3008603) |
 | [Bridgewater Associates](https://boards.greenhouse.io/bridgewater89/jobs/4076389002) | Westport, CT | |
 | [Credit Suisse](https://tas-creditsuisse.taleo.net/careersection/campus/moresearch.ftl) | Raleigh, NYC | Search `"2022 Americas Technology Summer Analyst Program"`|
@@ -53,7 +52,7 @@ And we're back 😤🎉! Use this repo to share and keep track of any tech-relat
 |[Bracebridge Capital](https://phh.tbe.taleo.net/phh02/ats/careers/v2/viewRequisition?org=BRACEBRIDGE_CAPITAL&cws=41&rid=246) | Boston, MA | Investment Analyst position is available. |
 |[Federated Insurance](https://careers-federatedinsurance.icims.com/jobs/3098/it-systems-developer-intern---summer-2022/job?mode=job&iis=SOURCE&iisn=LinkedIn&mobile=false&width=1887&height=500&bga=true&needsRedirect=false&jan1offset=120&jun1offset=180) | Owatonna, MN | IT-Systems Developer Intern position is available. | 
 |[US Ventures](https://usventure.wd1.myworkdayjobs.com/USVExternal/job/WI---Green-Bay/Software-Engineering-Intern_REQ-007655) | Green Bay, WI | |
-
+| [Amazon AWS](https://www.amazon.jobs/en/search?offset=0&result_limit=10&sort=relevant&cities%5B%5D=Arlington%2C%20Virginia%2C%20USA&cities%5B%5D=Nashville%2C%20Tennessee%2C%20USA&cities%5B%5D=Seattle%2C%20Washington%2C%20USA&cities%5B%5D=Herndon%2C%20Virginia%2C%20USA&distanceType=Mi&radius=24km&latitude=&longitude=&loc_group_id=&loc_query=&base_query=Summer%202022&city=&country=&region=&county=&query_options=&) | Various | [Software Development Engineer](https://www.amazon.jobs/en/jobs/1612067/software-development-engineer-intern-summer-2022-us), [Cloud Support Associate](https://www.amazon.jobs/en/jobs/1608042/cloud-support-associate-intern-summer-2022-us), [Assoc Customer Solutions Manager](https://www.amazon.jobs/en/jobs/1609945/assoc-customer-solutions-manager-intern-summer-2022-us) and other Intern positions are available. |
 
 **We love our contributors ❤️❤️** 
 
