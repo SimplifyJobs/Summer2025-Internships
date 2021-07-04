@@ -12,6 +12,7 @@ And we're back 😤🎉! Use this repo to share and keep track of any tech-relat
 | Name  |  Location |  Notes |
 |---|---|-------------|
 | [Amazon](https://www.amazon.jobs/en/jobs/1557929/software-development-engineer-internship-summer-2022-us) | Seattle, Washington | SWE Intern (2022 summer) |
+| [Amazon AWS](https://www.amazon.jobs/en/jobs/1612067/software-development-engineer-intern-summer-2022-us) | Arlington Area, VA | SDE Intern (2022 summer) |
 | [Hudson River Trading](https://www.hudsonrivertrading.com/careers/job/?gh_jid=3015374) | NYC, Chicago, London | SWE, [Algo Internship](https://www.hudsonrivertrading.com/careers/job/?gh_jid=3008603) |
 | [Bridgewater Associates](https://boards.greenhouse.io/bridgewater89/jobs/4076389002) | Westport, CT | |
 | [Credit Suisse](https://tas-creditsuisse.taleo.net/careersection/campus/moresearch.ftl) | Raleigh, NYC | Search `"2022 Americas Technology Summer Analyst Program"`|
