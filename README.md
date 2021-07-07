@@ -61,6 +61,8 @@ And we're back 😤🎉! Use this repo to share and keep track of any tech-relat
 
 Fill [this form](https://bit.ly/3d5O76c) or make a [pull request](https://github.com/susam/gitpr#create-pull-request) to help contribute.
 * [GintasS](https://github.com/gintass)
+* [frankhee](https://github.com/frankhee)
+* [kstonekuan](https://github.com/kstonekuan)
 * [itscrystalli](https://github.com/itscrystalli)
 * [LeonSo7](https://github.com/LeonSo7)
 * [deltaprophet](https://github.com/deltaprophet)
