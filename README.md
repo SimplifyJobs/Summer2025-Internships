@@ -54,6 +54,7 @@ And we're back 😤🎉! Use this repo to share and keep track of any tech-relat
 | [Amazon/AWS](https://www.amazon.jobs/en/search?base_query=Summer+2022&loc_query=&latitude=&longitude=&loc_group_id=&invalid_location=false&country=&city=&region=&county=) | Various | [Software Development Engineer](https://www.amazon.jobs/en/jobs/1612067/software-development-engineer-intern-summer-2022-us), [Cloud Support Associate](https://www.amazon.jobs/en/jobs/1608042/cloud-support-associate-intern-summer-2022-us), [Assoc Customer Solutions Manager](https://www.amazon.jobs/en/jobs/1609945/assoc-customer-solutions-manager-intern-summer-2022-us) and other Intern positions are available. |
 |[Palantir](https://jobs.lever.co/palantir?commitment=Internship)| DC, NYC, Palo Alto, Seattle | SWE and Forward Deployed Engineer |
 |[Tableau](https://salesforce.wd1.myworkdayjobs.com/en-US/Tableau/job/Washington---Seattle/Summer-2022-Intern---Tableau-Software-Engineer_JR103736) | Seattle, Austin, Palo Alto, SF | |
+|[McKinsey](https://www.mckinsey.com/careers/search-jobs/jobs/analystintern-softwareengineerdataengineerdatascientist-campusstudents-41875) | Boston, Chicago, New Jersey, New York City, San Francisco | Analyst Intern - Software Engineer / Data Engineer / Data Scientist |
 
 
 
@@ -85,3 +86,4 @@ Fill [this form](https://bit.ly/3d5O76c) or make a [pull request](https://github
 * [yiyangiliu](https://github.com/yiyangiliu)
 * [monishshah18](https://github.com/monishshah18)
 * [Josh0823](https://github.com/Josh0823)
+* [HTian1997](https://github.com/HTian1997)
