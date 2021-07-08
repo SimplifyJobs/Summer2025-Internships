@@ -55,9 +55,7 @@ And we're back 😤🎉! Use this repo to share and keep track of any tech-relat
 |[Palantir](https://jobs.lever.co/palantir?commitment=Internship)| DC, NYC, Palo Alto, Seattle | SWE and Forward Deployed Engineer |
 |[Tableau](https://salesforce.wd1.myworkdayjobs.com/en-US/Tableau/job/Washington---Seattle/Summer-2022-Intern---Tableau-Software-Engineer_JR103736) | Seattle, Austin, Palo Alto, SF | |
 |[McKinsey](https://www.mckinsey.com/careers/search-jobs/jobs/analystintern-softwareengineerdataengineerdatascientist-campusstudents-41875) | Boston, Chicago, New Jersey, New York City, San Francisco | Analyst Intern - Software Engineer / Data Engineer / Data Scientist |
-|[Nvidia](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/0/refreshFacet/318c8bb6f553100021d223d9780d30be?source=jobboardlinkedin) | US, MI, Remote | High-Performance Computing Engineer Intern position is available. |
-
-
+|[Nvidia](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-MI-Remote/High-Performance-Computing-Engineer-Intern---Summer-2022_JR1943862-2?source=jobboardlinkedin) | US, MI, Remote | Search `2022` for more positions |
 
 **We love our contributors ❤️❤️** 
 
