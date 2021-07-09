@@ -56,6 +56,7 @@ And we're back 😤🎉! Use this repo to share and keep track of any tech-relat
 |[Tableau](https://salesforce.wd1.myworkdayjobs.com/en-US/Tableau/job/Washington---Seattle/Summer-2022-Intern---Tableau-Software-Engineer_JR103736) | Seattle, Austin, Palo Alto, SF | |
 |[McKinsey](https://www.mckinsey.com/careers/search-jobs/jobs/analystintern-softwareengineerdataengineerdatascientist-campusstudents-41875) | Boston, Chicago, New Jersey, New York City, San Francisco | Analyst Intern - Software Engineer / Data Engineer / Data Scientist |
 |[Nvidia](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-MI-Remote/High-Performance-Computing-Engineer-Intern---Summer-2022_JR1943862-2?source=jobboardlinkedin) | US, MI, Remote | Search `2022` for more positions |
+|[Cisco](https://jobs.cisco.com/jobs/SearchJobs/Summer%202022) | Chicago, IL; San Francisco, CA | [Network Support Engineer](https://jobs.cisco.com/jobs/ProjectDetail/Network-Support-Engineer-Intern-Summer-2022-Internship-Bachelors-Meraki/1339621?source=LinkedIn), [Full Stack Engineer](https://jobs.cisco.com/jobs/ProjectDetail/Full-Stack-Engineer-Summer-2022-Internship-Bachelors-Meraki/1339633?source=LinkedIn), [Product Software Engineer](https://jobs.cisco.com/jobs/ProjectDetail/Product-Software-Engineer-Summer-2022-Internship-Meraki/1339636?source=LinkedIn) Intern positions are available. |
 
 **We love our contributors ❤️❤️** 
 
