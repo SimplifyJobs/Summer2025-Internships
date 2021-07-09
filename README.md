@@ -58,6 +58,7 @@ And we're back 😤🎉! Use this repo to share and keep track of any tech-relat
 |[Nvidia](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-MI-Remote/High-Performance-Computing-Engineer-Intern---Summer-2022_JR1943862-2?source=jobboardlinkedin) | US, MI, Remote | Search `2022` for more positions |
 |[Cisco](https://jobs.cisco.com/jobs/SearchJobs/Summer%202022) | Chicago, IL; San Francisco, CA | [Network Support Engineer](https://jobs.cisco.com/jobs/ProjectDetail/Network-Support-Engineer-Intern-Summer-2022-Internship-Bachelors-Meraki/1339621?source=LinkedIn), [Full Stack Engineer](https://jobs.cisco.com/jobs/ProjectDetail/Full-Stack-Engineer-Summer-2022-Internship-Bachelors-Meraki/1339633?source=LinkedIn), [Product Software Engineer](https://jobs.cisco.com/jobs/ProjectDetail/Product-Software-Engineer-Summer-2022-Internship-Meraki/1339636?source=LinkedIn) Intern positions are available. |
 |[Tower Research Capital](https://www.tower-research.com/open-positions) | Chicago, NYC | Quant Intern positions are available. | 
+|[Jane Street](https://www.janestreet.com/join-jane-street/position/5281396002/) | NYC | Software Engineer | 
 
 **We love our contributors ❤️❤️** 
 
