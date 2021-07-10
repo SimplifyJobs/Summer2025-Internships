@@ -59,7 +59,7 @@ And we're back 😤🎉! Use this repo to share and keep track of any tech-relat
 |[Cisco](https://jobs.cisco.com/jobs/SearchJobs/Summer%202022) | Chicago, IL; San Francisco, CA | [Network Support Engineer](https://jobs.cisco.com/jobs/ProjectDetail/Network-Support-Engineer-Intern-Summer-2022-Internship-Bachelors-Meraki/1339621?source=LinkedIn), [Full Stack Engineer](https://jobs.cisco.com/jobs/ProjectDetail/Full-Stack-Engineer-Summer-2022-Internship-Bachelors-Meraki/1339633?source=LinkedIn), [Product Software Engineer](https://jobs.cisco.com/jobs/ProjectDetail/Product-Software-Engineer-Summer-2022-Internship-Meraki/1339636?source=LinkedIn) Intern positions are available. |
 |[Tower Research Capital](https://www.tower-research.com/open-positions) | Chicago, NYC | Quant Intern positions are available. | 
 |[Jane Street](https://www.janestreet.com/join-jane-street/position/5281396002/) | NYC | Software Engineer | 
-|[PayPal](https://jobsearch.paypal-corp.com/en-US/search?keywords=intern&facetcountry=us&location=&facetcategory=internship) | Various | Software Engineer Intern, Product Manager Intern, Product Manager MBA Intern, Risk Management Intern, Finance & Accounting Intern, Data Analyst Intern | 
+|[PayPal](https://jobsearch.paypal-corp.com/en-US/search?keywords=intern&facetcountry=us&location=&facetcategory=internship) | Various | Software Engineer Intern, Product Manager Intern, Product Manager MBA Intern, Risk Management Intern, Finance & Accounting Intern, Data Analyst Intern positions are available. Must reside in the U.S. during the Summer internship program and must be able to obtain authorization to work in the U.S. for the summer. | 
 
 **We love our contributors ❤️❤️** 
 
