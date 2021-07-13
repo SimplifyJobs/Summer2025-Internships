@@ -63,7 +63,7 @@ And we're back 😤🎉! Use this repo to share and keep track of any tech-relat
 |[Barclays](https://search.jobs.barclays/search-jobs/Summer%202022/United%20States/22545/1/2/6252001/39x76/-98x5/0/2) | Various | QA, Developer Analyst, Data Analytics and other Intern positions are available. Some positions require unrestricted U.S. work authorization. | 
 |[Lenovo](https://jobs.lenovo.com/en_US/careers/SearchJobs/Summer%202022?8635=%5B488%5D&8635_format=3279&listFilterMode=1&jobRecordsPerPage=10&) | Various | Server Hardware Development, Software Development and other Intern positions are available. | 
 |[Belvedere Trading](http://www.belvederetrading.com/jobs/) | Chicago | Software Engineer Intern (Summer and Winter), Junior Hybrid Trader Intern and Junior Trader intern positions are available. | 
-|[Raymond Corporation](https://recruiting.adp.com/srccar/public/nghome.guid?c=1127807&d=ExternalCareerSite&prc=RMPOD1#/) | Greene, NY | Telematics, Embedded Systems and other Intern positions are available. Spring internships are available too. | 
+|[Raymond Corporation](https://recruiting.adp.com/srccar/public/nghome.guid?c=1127807&d=ExternalCareerSite&prc=RMPOD1#/) | Greene, NY | Telematics, Embedded Systems and other Co-op positions are available. Spring Co-op positions are available too. | 
 
 **We love our contributors ❤️❤️** 
 
