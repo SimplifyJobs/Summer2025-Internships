@@ -67,11 +67,13 @@ And we're back 😤🎉! Use this repo to share and keep track of any tech-relat
 |[DRW](https://drw.com/careers/job/1829227) | Chicago | |
 |[Oracle](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/102463/?utm_medium=jobshare) | Various | More positions [here](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions?keyword=Student%20%252F%20Intern&location=United%20States&locationId=300000000149325&locationLevel=country) |
 |[Citadel Securities](https://www.citadelsecurities.com/careers/details/software-engineer-intern-us) | Chicago, NYC | |
+|[Microsoft](https://careers.microsoft.com/students/us/en/job/1085294/Software-Engineering-Intern-Opportunities) | Various |
 
 **We love our contributors ❤️❤️** 
 
 Fill [this form](https://bit.ly/3d5O76c) or make a [pull request](https://github.com/susam/gitpr#create-pull-request) to help contribute.
 * [GintasS](https://github.com/gintass)
+* [jessicatweneboah](https://github.com/jessicatweneboah)
 * [ksapru](https://github.com/ksapru)
 * [petecao](https://github.com/petecao)
 * [MetricVoid](https://github.com/MetricVoid)
