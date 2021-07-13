@@ -11,6 +11,7 @@ And we're back 😤🎉! Use this repo to share and keep track of any tech-relat
 
 | Name  |  Location |  Notes |
 |---|---|-------------|
+| [MITRE] (https://www.mitre.org/careers/student-programs/early-high-school-internships) | San Diego, Bedford, McLean, Colardo Springs, [ML/DL Internship]
 | [Hudson River Trading](https://www.hudsonrivertrading.com/careers/job/?gh_jid=3015374) | NYC, Chicago, London | SWE, [Algo Internship](https://www.hudsonrivertrading.com/careers/job/?gh_jid=3008603) |
 | [Bridgewater Associates](https://boards.greenhouse.io/bridgewater89/jobs/4076389002) | Westport, CT | |
 | [Credit Suisse](https://tas-creditsuisse.taleo.net/careersection/campus/moresearch.ftl) | Raleigh, NYC | Search `"2022 Americas Technology Summer Analyst Program"`|
