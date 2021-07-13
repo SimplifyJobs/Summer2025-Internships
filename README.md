@@ -66,7 +66,7 @@ And we're back 😤🎉! Use this repo to share and keep track of any tech-relat
 |[Raymond Corporation](https://recruiting.adp.com/srccar/public/nghome.guid?c=1127807&d=ExternalCareerSite&prc=RMPOD1#/) | Greene, NY | Telematics, Embedded Systems and other Co-op positions are available. Spring Co-op positions are available too. | 
 |[DRW](https://drw.com/careers/job/1829227) | Chicago | |
 |[Oracle](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/102463/?utm_medium=jobshare) | Various | More positions [here](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions?keyword=Student%20%252F%20Intern&location=United%20States&locationId=300000000149325&locationLevel=country) |
-|[Citadel Securities](https://www.citadelsecurities.com/careers/details/software-engineer-intern-us/&utm_medium=organic) | Chicago, NYC | |
+|[Citadel Securities](https://www.citadelsecurities.com/careers/details/software-engineer-intern-us) | Chicago, NYC | |
 
 **We love our contributors ❤️❤️** 
 
