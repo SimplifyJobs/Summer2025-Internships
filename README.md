@@ -65,7 +65,7 @@ And we're back 😤🎉! Use this repo to share and keep track of any tech-relat
 |[Belvedere Trading](http://www.belvederetrading.com/jobs/) | Chicago | Software Engineer Intern (Summer and Winter), Junior Hybrid Trader Intern and Junior Trader intern positions are available. | 
 |[Raymond Corporation](https://recruiting.adp.com/srccar/public/nghome.guid?c=1127807&d=ExternalCareerSite&prc=RMPOD1#/) | Greene, NY | Telematics, Embedded Systems and other Co-op positions are available. Spring Co-op positions are available too. | 
 |[DRW](https://drw.com/careers/job/1829227) | Chicago | |
-|[Oracle](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/102463/?utm_medium=jobshare) | Various | More positions [here](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions?keyword=Student%20%252F%20Intern&location=United%20States&locationId=300000000149325&locationLevel=country) |
+|[Oracle](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/102463/?utm_medium=jobshare) | Various | More positions [here](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions?keyword=Student%20%252F%20Intern&location=United%20States&locationId=300000000149325&locationLevel=country). Must be currently living in Bozeman, Montana or surrounding areas. |
 |[Citadel Securities](https://www.citadelsecurities.com/careers/details/software-engineer-intern-us) | Chicago, NYC | |
 |[Microsoft](https://careers.microsoft.com/students/us/en/job/1085294/Software-Engineering-Intern-Opportunities) | Various |
 
