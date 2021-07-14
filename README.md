@@ -69,6 +69,8 @@ And we're back 😤🎉! Use this repo to share and keep track of any tech-relat
 |[Citadel Securities](https://www.citadelsecurities.com/careers/details/software-engineer-intern-us) | Chicago, NYC | |
 |[Microsoft](https://careers.microsoft.com/students/us/en/job/1085294/Software-Engineering-Intern-Opportunities) | Various |
 |[Aldridge Electric](https://aldridge.csod.com/ux/ats/careersite/9/home?c=aldridge) | Libertyville, IL | [IT](https://aldridge.csod.com/ux/ats/careersite/9/home/requisition/553?c=aldridge), [Developer](https://aldridge.csod.com/ux/ats/careersite/9/home/requisition/550?c=aldridge), [Agile](https://aldridge.csod.com/ux/ats/careersite/9/home/requisition/549?c=aldridge) Intern positions are available. |
+|[VMware](https://careers.vmware.com/internships/jobs/R2115680?lang=en-us) | Various | Intern - Member of Technical Staff - Software Engineering. |
+
 
 **We love our contributors ❤️❤️** 
 
