@@ -68,6 +68,7 @@ And we're back 😤🎉! Use this repo to share and keep track of any tech-relat
 |[Oracle](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/102463/?utm_medium=jobshare) | Various | More positions [here](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions?keyword=Student%20%252F%20Intern&location=United%20States&locationId=300000000149325&locationLevel=country). Must be currently living in Bozeman, Montana or surrounding areas. |
 |[Citadel Securities](https://www.citadelsecurities.com/careers/details/software-engineer-intern-us) | Chicago, NYC | |
 |[Microsoft](https://careers.microsoft.com/students/us/en/job/1085294/Software-Engineering-Intern-Opportunities) | Various |
+|[Aldridge Electric](https://aldridge.csod.com/ux/ats/careersite/9/home?c=aldridge) | Libertyville, IL | [IT](https://aldridge.csod.com/ux/ats/careersite/9/home/requisition/553?c=aldridge), [Developer](https://aldridge.csod.com/ux/ats/careersite/9/home/requisition/550?c=aldridge), [Agile](https://aldridge.csod.com/ux/ats/careersite/9/home/requisition/549?c=aldridge) Intern positions are available. |
 
 **We love our contributors ❤️❤️** 
 
