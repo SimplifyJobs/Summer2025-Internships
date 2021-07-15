@@ -71,7 +71,7 @@ And we're back 😤🎉! Use this repo to share and keep track of any tech-relat
 |[Aldridge Electric](https://aldridge.csod.com/ux/ats/careersite/9/home?c=aldridge) | Libertyville, IL | [IT](https://aldridge.csod.com/ux/ats/careersite/9/home/requisition/553?c=aldridge), [Developer](https://aldridge.csod.com/ux/ats/careersite/9/home/requisition/550?c=aldridge), [Agile](https://aldridge.csod.com/ux/ats/careersite/9/home/requisition/549?c=aldridge) Intern positions are available. |
 |[VMware](https://careers.vmware.com/internships/jobs/R2115680?lang=en-us) | Various | Intern - Member of Technical Staff - Software Engineering. |
 |[Fifth Third Bank](https://fifththird.wd5.myworkdayjobs.com/en-US/53careers/job/Cincinnati-OH/IT-Leadership-Program---Summer-2022---Cincinnati_R21485?source=LinkedIn) | Cincinnati, OH | IT Leadership Program. |
-|[Red Ventures] (https://careers.redventures.com/positions.html?team=college&office=&brand=) | Various | Various Positions related to Software Engineer, Business Analyst Internships |
+|[Red Ventures](https://careers.redventures.com/positions.html?team=college&office=&brand=) | Various | Various Positions related to Software Engineer, Business Analyst Internships |
 
 **We love our contributors ❤️❤️** 
 
