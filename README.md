@@ -73,6 +73,7 @@ And we're back 😤🎉! Use this repo to share and keep track of any tech-relat
 |[Fifth Third Bank](https://fifththird.wd5.myworkdayjobs.com/en-US/53careers/job/Cincinnati-OH/IT-Leadership-Program---Summer-2022---Cincinnati_R21485?source=LinkedIn) | Cincinnati, OH | IT Leadership Program. |
 |[Red Ventures](https://careers.redventures.com/positions.html?team=college&office=&brand=) | Various | Various Positions related to Software Engineer, Business Analyst Internships |
 |[Prudential Financial](https://prudential.eightfold.ai/careers?query=2022&domain=prudential.com&pid=7785614&hl=en) | Newark, NJ | [Coding & Software Development](https://prudential.eightfold.ai/careers?pid=7768293&query=2022&domain=prudential.com&hl=en), [IT](https://prudential.eightfold.ai/careers?pid=7769005&query=2022&domain=prudential.com), [Data & Business Analyst](https://prudential.eightfold.ai/careers?pid=7771140&query=2022&domain=prudential.com&hl=en) Intern positions are available. Successful candidates must possess the requisite US employment authorization to be eligible for consideration. |
+|[Pimco](https://careers.pimco.com/careers/FolderDetail/2022-Summer-Tech-Intern-Software-Engineering/30309) | Austin, TX and Newport Beach, CA | | 
 
 **We love our contributors ❤️❤️** 
 
