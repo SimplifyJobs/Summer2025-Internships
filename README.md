@@ -77,7 +77,6 @@ And we're back 😤🎉! Use this repo to share and keep track of any tech-relat
 |[Collins Aerospace](https://jobs.collinsaerospace.com/job/richardson/software-engineering-intern-summer-2022/1738/11043862816) | Richardson, TX | Software Engineering Intern position is available. Must be a U.S Citizen. Must have or be capable of obtaining a US Department of Defense (DoD) security clearance. |
 |[IMC](https://careers.imc.com/us/en/c/internships-jobs) | Chicago, IL | SWE and Quant Roles available. |
 |[Dick's Sporting Goods](https://www.dickssportinggoods.jobs/jobs/13316339/2022-corporate-internships-training-programs-pre-application-coraopolis-pa/?src=11663) | Coraopolis, PA | Interest form for SWE roles. |
-|[Box](https://boards.greenhouse.io/boxinc/jobs/3294124) | Redwood City, CA | SWE Internship. |
 |[Citi Bank](https://jobs.citi.com/job/-/-/287/9929719696) | New York City, NY | Quantitative Analysis | |
 
 **We love our contributors ❤️❤️** 
