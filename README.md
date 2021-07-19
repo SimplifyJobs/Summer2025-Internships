@@ -46,7 +46,7 @@ And we're back 😤🎉! Use this repo to share and keep track of any tech-relat
 |[Goldman Sachs](https://www.goldmansachs.com/careers/students/programs/americas/summer-analyst-program.html)| Various| Summer Analyst Program |
 |[BlackRock](https://blackrock.tal.net/vx/lang-en-GB/mobile-0/brand-3/xf-362ee664293b/candidate/so/pm/1/pl/1/opp/4821-Summer-Analyst-Program-Americas/en-GB)| Various| Summer Analyst Program Note: Requires CodeVue(Programming Test+Video recording) submission up to 96 Hours after application submission. |
 |[Bank of America](https://bankcampuscareers.tal.net/vx/brand-4/candidate/so/pm/1/pl/1/opp/7140-Global-Technology-Summer-Analyst-Program-2022/en-GB)| Various| Global Technology Summer Analyst Program |
-|[Two Sigma](https://careers.twosigma.com/careers/JobDetail?jobId=8471) | NYC | SWE Internship | 
+|[Two Sigma](https://careers.twosigma.com/careers/JobDetail?jobId=8471) | Houston, NYC | SWE Internship and Quant Research roles. | 
 |[Cigna](https://jobs.cigna.com/us/en/job/21012002/Cigna-Technology-Early-Career-Development-Program-TECDP-Summer-Intern-2022-Evergreen) | Various | Application Developer, Infrastructure Engineer, Network Engineer and other Intern positions are available. Internship is open only to individuals who are eligible for employment in the United States and who would not require visa sponsorship now or in the future. | 
 |[Bracebridge Capital](https://phh.tbe.taleo.net/phh02/ats/careers/v2/viewRequisition?org=BRACEBRIDGE_CAPITAL&cws=41&rid=246) | Boston, MA | Investment Analyst position is available. |
 |[Federated Insurance](https://careers-federatedinsurance.icims.com/jobs/3098/it-systems-developer-intern---summer-2022/job?mode=job&iis=SOURCE&iisn=LinkedIn&mobile=false&width=1887&height=500&bga=true&needsRedirect=false&jan1offset=120&jun1offset=180) | Owatonna, MN | IT-Systems Developer Intern position is available. | 
@@ -76,6 +76,8 @@ And we're back 😤🎉! Use this repo to share and keep track of any tech-relat
 |[Pimco](https://careers.pimco.com/careers/FolderDetail/2022-Summer-Tech-Intern-Software-Engineering/30309) | Austin, TX and Newport Beach, CA | | 
 |[Collins Aerospace](https://jobs.collinsaerospace.com/job/richardson/software-engineering-intern-summer-2022/1738/11043862816) | Richardson, TX | Software Engineering Intern position is available. Must be a U.S Citizen. Must have or be capable of obtaining a US Department of Defense (DoD) security clearance. |
 |[IMC](https://careers.imc.com/us/en/c/internships-jobs) | Chicago, IL | SWE and Quant Roles available. |
+|[Dick's Sporting Goods](https://www.dickssportinggoods.jobs/jobs/13316339/2022-corporate-internships-training-programs-pre-application-coraopolis-pa/?src=11663) | Coraopolis, PA | Interest form for SWE roles. |
+|[Citi Bank](https://jobs.citi.com/job/-/-/287/9929719696) | New York City, NY | Quantitative Analysis | Requires unrestricted U.S. work authorization. |
 
 **We love our contributors ❤️❤️** 
 
