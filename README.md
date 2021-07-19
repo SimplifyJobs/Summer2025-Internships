@@ -75,7 +75,7 @@ And we're back 😤🎉! Use this repo to share and keep track of any tech-relat
 |[Prudential Financial](https://prudential.eightfold.ai/careers?query=2022&domain=prudential.com&pid=7785614&hl=en) | Newark, NJ | [Coding & Software Development](https://prudential.eightfold.ai/careers?pid=7768293&query=2022&domain=prudential.com&hl=en), [IT](https://prudential.eightfold.ai/careers?pid=7769005&query=2022&domain=prudential.com), [Data & Business Analyst](https://prudential.eightfold.ai/careers?pid=7771140&query=2022&domain=prudential.com&hl=en) Intern positions are available. Successful candidates must possess the requisite US employment authorization to be eligible for consideration. |
 |[Pimco](https://careers.pimco.com/careers/FolderDetail/2022-Summer-Tech-Intern-Software-Engineering/30309) | Austin, TX and Newport Beach, CA | |
 |[Collins Aerospace](https://jobs.collinsaerospace.com/job/richardson/software-engineering-intern-summer-2022/1738/11043862816) | Richardson, TX | Software Engineering Intern position is available. Must be a U.S Citizen. Must have or be capable of obtaining a US Department of Defense (DoD) security clearance. |
-|[IMC](https://careers.imc.com/us/en/c/internships-jobs) | Chicago, IL | SWE and Quant Roles available. | 
+|[IMC](https://careers.imc.com/us/en/c/internships-jobs) | Chicago, IL | SWE and Quant Roles available. |
 
 **We love our contributors ❤️❤️**
 
