@@ -40,7 +40,7 @@ And we're back 😤🎉! Use this repo to share and keep track of any tech-relat
 |[Asana](https://boards.greenhouse.io/earlycareerprograms/jobs/3198333) | San Francisco, CA | SWE Internship | 
 | <del>Target</del> | | **Closed** |
 |[BNP Paribas](https://bnppus.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/xf-e138f59a0427/candidate/so/pm/1/pl/2/opp/489-2022-Summer-Analyst-Internship-Technology/en-GB) | Various | Other positions [here](https://bnppus.tal.net/vx/lang-en-GB/mobile-0/appcentre-ext/brand-4/xf-5db317b8ad85/candidate/jobboard/vacancy/2/adv/?ftq=2022) |
-|[MealMe](https://www.mealme.ai/software-internship) | Not displayed | |
+|[MealMe](https://www.mealme.ai/software-internship) | Not displayed | Fill in [this](https://docs.google.com/forms/d/e/1FAIpQLSe8ha3s9nER_hxWzCloXQGVCrPrGukDow5Ku7KMku9aHkn4fQ/viewform) form to apply |
 |[Apple](https://jobs.apple.com/en-us/details/200253195/software-engineering-internship?team=STDNT) | Cupertino, CA | |
 |[Facebook](https://www.facebook.com/careers/v2/jobs/946116176191468/)| Various| SWE Internship/Co-op |
 |[Goldman Sachs](https://www.goldmansachs.com/careers/students/programs/americas/summer-analyst-program.html)| Various| Summer Analyst Program |
