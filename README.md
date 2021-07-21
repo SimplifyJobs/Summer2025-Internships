@@ -78,6 +78,8 @@ And we're back 😤🎉! Use this repo to share and keep track of any tech-relat
 |[IMC](https://careers.imc.com/us/en/c/internships-jobs) | Chicago, IL | SWE and Quant Roles available. |
 |[Dick's Sporting Goods](https://www.dickssportinggoods.jobs/jobs/13316339/2022-corporate-internships-training-programs-pre-application-coraopolis-pa/?src=11663) | Coraopolis, PA | Interest form for SWE roles. |
 |[Citi Bank](https://jobs.citi.com/job/-/-/287/9929719696) | New York City, NY | Quantitative Analysis | Requires unrestricted U.S. work authorization. |
+|[Congra Brands](https://conagra.eightfold.ai/careers?pid=8120153&domain=conagra.com) | Omaha, NE | Software Development Intern - Future Opportunities |
+
 
 **We love our contributors ❤️❤️** 
 
