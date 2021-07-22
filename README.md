@@ -79,7 +79,7 @@ And we're back 😤🎉! Use this repo to share and keep track of any tech-relat
 |[Dick's Sporting Goods](https://www.dickssportinggoods.jobs/jobs/13316339/2022-corporate-internships-training-programs-pre-application-coraopolis-pa/?src=11663) | Coraopolis, PA | Interest form for SWE roles. |
 |[Citi Bank](https://jobs.citi.com/job/-/-/287/9929719696) | New York City, NY | Quantitative Analysis | Requires unrestricted U.S. work authorization. |
 |[Congra Brands](https://conagra.eightfold.ai/careers?pid=8120153&domain=conagra.com) | Omaha, NE | Software Development Intern - Future Opportunities. |
-|[P&G](https://www.pgcareers.com/job/-/-/936/11203437296) | Cincinnati, OH | Software Engineer/Data Engineer Internship  |
+|[P&G](https://www.pgcareers.com/search-jobs?k=Intern&ascf=[{%27key%27:%27custom_fields.Language%27,%27value%27:%27English%27},]&alp=6252001&alt=2) | Variuos | Software Engineer/Data Engineer, IT Analytics and Insights and other Intern positions are available. |
 
 
 **We love our contributors ❤️❤️** 
