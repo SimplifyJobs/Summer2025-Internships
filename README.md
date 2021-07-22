@@ -14,7 +14,7 @@ And we're back 😤🎉! Use this repo to share and keep track of any tech-relat
 | [Hudson River Trading](https://www.hudsonrivertrading.com/careers/job/?gh_jid=3015374) | NYC, Chicago, London | SWE, [Algo Internship](https://www.hudsonrivertrading.com/careers/job/?gh_jid=3008603) |
 | [Bridgewater Associates](https://boards.greenhouse.io/bridgewater89/jobs/4076389002) | Westport, CT | |
 | [Credit Suisse](https://tas-creditsuisse.taleo.net/careersection/campus/moresearch.ftl) | Raleigh, NYC | Search `"2022 Americas Technology Summer Analyst Program"`|
-| [<del>BlackStone</del>] | | **Closed** |
+| <del>BlackStone</del> | | **Closed** |
 | <del>PWC</del> | | **Closed** |
 | [AQR](https://careers.aqr.com/jobs/department/university-jobs#/) | Greenwich, CT | Research, Portfolio Implementation |
 | [Optiver](https://www.optiver.com/working-at-optiver/career-opportunities/4995300002/) | Chicago | Interest Forms for: Tech, [Trading](https://www.optiver.com/working-at-optiver/career-opportunities/4929322002/)|
