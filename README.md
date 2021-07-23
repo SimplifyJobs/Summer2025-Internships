@@ -81,7 +81,7 @@ And we're back 😤🎉! Use this repo to share and keep track of any tech-relat
 |[Conagra Brands](https://conagra.eightfold.ai/careers?pid=8120153&domain=conagra.com) | Omaha, NE | Software Development Intern - Future Opportunities. |
 |[P&G](https://www.pgcareers.com/search-jobs?k=Intern&ascf=[{%27key%27:%27custom_fields.Language%27,%27value%27:%27English%27},]&alp=6252001&alt=2) | Various | Software Engineer/Data Engineer, IT Analytics and Insights and other Intern positions are available. |
 |[Raytheon Technologies ](https://jobs.rtx.com/job/cedar-rapids/software-engineer-intern-summer-2022/4679/11354754720)|Cedar Rapids, IA|Collins Aerospace: Software Engineer Intern. Must be a U.S. Citizen|
-
+|[RSM](https://jobs.rsmus.com/ListJobs?Keyword=Summer+2022) | Various | [Technology - Business Apps](https://jobs.rsmus.com/ShowJob/JobId/498233/2022SummerConsultingInternTechnologyBusinessAppsNAV), [Data & Analytics Business Intelligence](https://jobs.rsmus.com/ShowJob/JobId/499037/2022SummerConsultingInternTechnologyDataAnalyticsBusinessIntelligence), [Application Development - NetSuite](https://jobs.rsmus.com/ShowJob/JobId/508905/2022SummerConsultingInternApplicationDevelopmentNetSuite) and other Intern positions are available. |
 
 **We love our contributors ❤️❤️** 
 
