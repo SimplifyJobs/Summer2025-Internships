@@ -41,7 +41,6 @@ And we're back 😤🎉! Use this repo to share and keep track of any tech-relat
 | <del>Target</del> | | **Closed** |
 |[BNP Paribas](https://bnppus.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/xf-e138f59a0427/candidate/so/pm/1/pl/2/opp/489-2022-Summer-Analyst-Internship-Technology/en-GB) | Various | Other positions [here](https://bnppus.tal.net/vx/lang-en-GB/mobile-0/appcentre-ext/brand-4/xf-5db317b8ad85/candidate/jobboard/vacancy/2/adv/?ftq=2022) |
 |[MealMe](https://www.mealme.ai/software-internship) | Not displayed | See positions [here](https://www.mealme.ai/careers) |
-|[Apple](https://jobs.apple.com/en-us/details/200253195/software-engineering-internship?team=STDNT) | Cupertino, CA | ![SWE](https://jobs.apple.com/en-us/details/200253195/software-engineering-internship?team=STDNT), ![ML/AI](https://jobs.apple.com/en-us/details/200253211/machine-learning-ai-internship?team=STDNT) |
 |[Facebook](https://www.facebook.com/careers/v2/jobs/946116176191468/)| Various| SWE Internship/Co-op |
 |[Goldman Sachs](https://www.goldmansachs.com/careers/students/programs/americas/summer-analyst-program.html)| Various| Summer Analyst Program |
 |[BlackRock](https://blackrock.tal.net/vx/lang-en-GB/mobile-0/brand-3/xf-362ee664293b/candidate/so/pm/1/pl/1/opp/4821-Summer-Analyst-Program-Americas/en-GB)| Various| Summer Analyst Program Note: Requires CodeVue(Programming Test+Video recording) submission up to 96 Hours after application submission. |
@@ -80,6 +79,7 @@ And we're back 😤🎉! Use this repo to share and keep track of any tech-relat
 |[Citi Bank](https://jobs.citi.com/job/-/-/287/9929719696) | New York City, NY | Quantitative Analysis | Requires unrestricted U.S. work authorization. |
 |[Congra Brands](https://conagra.eightfold.ai/careers?pid=8120153&domain=conagra.com) | Omaha, NE | Software Development Intern - Future Opportunities. |
 |[P&G](https://www.pgcareers.com/search-jobs?k=Intern&ascf=[{%27key%27:%27custom_fields.Language%27,%27value%27:%27English%27},]&alp=6252001&alt=2) | Various | Software Engineer/Data Engineer, IT Analytics and Insights and other Intern positions are available. |
+|[Apple](https://jobs.apple.com/en-us/details/200253195/software-engineering-internship?team=STDNT) | Cupertino, CA | ![SWE](https://jobs.apple.com/en-us/details/200253195/software-engineering-internship?team=STDNT), ![ML/AI](https://jobs.apple.com/en-us/details/200253211/machine-learning-ai-internship?team=STDNT) |
 
 
 **We love our contributors ❤️❤️** 
