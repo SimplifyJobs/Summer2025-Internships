@@ -69,6 +69,7 @@ And we're back 😤🎉! Use this repo to share and keep track of any tech-relat
 |[Citadel Securities](https://www.citadelsecurities.com/careers/details/software-engineer-intern-us) | Chicago, NYC | |
 |[Microsoft](https://careers.microsoft.com/students/us/en/job/1085294/Software-Engineering-Intern-Opportunities) | Various |
 |[Micro Focus](https://jobs.microfocus.com/global/en) | Houston, TX |  [Intern: Software Engineering](https://jobs.microfocus.com/global/en/job/MICRGLOBAL7020354EXTERNAL/Intern-Software-Engineering?utm_source=linkedin&utm_medium=phenom-feeds&jobboardid=653) | 
+|[Arrive Logistics](https://jobs.lever.co/arrivelogistics) | Austin, TX | [Software Engineering Intern](https://jobs.lever.co/arrivelogistics/bb313218-4977-4604-9cc5-aed2cdd5015f) |
 |[Aldridge Electric](https://aldridge.csod.com/ux/ats/careersite/9/home?c=aldridge) | Libertyville, IL | [IT](https://aldridge.csod.com/ux/ats/careersite/9/home/requisition/553?c=aldridge), [Developer](https://aldridge.csod.com/ux/ats/careersite/9/home/requisition/550?c=aldridge), [Agile](https://aldridge.csod.com/ux/ats/careersite/9/home/requisition/549?c=aldridge) Intern positions are available. |
 |[VMware](https://careers.vmware.com/internships/jobs/R2115680?lang=en-us) | Various | Intern - Member of Technical Staff - Software Engineering. |
 |[Fifth Third Bank](https://fifththird.wd5.myworkdayjobs.com/en-US/53careers/job/Cincinnati-OH/IT-Leadership-Program---Summer-2022---Cincinnati_R21485?source=LinkedIn) | Cincinnati, OH | IT Leadership Program. |
