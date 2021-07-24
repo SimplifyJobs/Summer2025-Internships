@@ -73,14 +73,15 @@ And we're back 😤🎉! Use this repo to share and keep track of any tech-relat
 |[Red Ventures](https://careers.redventures.com/positions.html?team=college&office=&brand=) | Various | Various Positions related to Software Engineer, Business Analyst Internships |
 |[Prudential Financial](https://prudential.eightfold.ai/careers?query=2022&domain=prudential.com&pid=7785614&hl=en) | Newark, NJ | [Coding & Software Development](https://prudential.eightfold.ai/careers?pid=7768293&query=2022&domain=prudential.com&hl=en), [IT](https://prudential.eightfold.ai/careers?pid=7769005&query=2022&domain=prudential.com), [Data & Business Analyst](https://prudential.eightfold.ai/careers?pid=7771140&query=2022&domain=prudential.com&hl=en) Intern positions are available. Successful candidates must possess the requisite US employment authorization to be eligible for consideration. |
 |[Pimco](https://careers.pimco.com/careers/FolderDetail/2022-Summer-Tech-Intern-Software-Engineering/30309) | Austin, TX and Newport Beach, CA | | 
-|[Collins Aerospace](https://jobs.collinsaerospace.com/job/richardson/software-engineering-intern-summer-2022/1738/11043862816) | Richardson, TX | Software Engineering Intern position is available. Must be a U.S Citizen. Must have or be capable of obtaining a US Department of Defense (DoD) security clearance. |
+|<del>Collins Aerospace</del> |  | **Closed** |
 |[IMC](https://careers.imc.com/us/en/c/internships-jobs) | Chicago, IL | SWE and Quant Roles available. |
 |[Dick's Sporting Goods](https://www.dickssportinggoods.jobs/jobs/13316339/2022-corporate-internships-training-programs-pre-application-coraopolis-pa/?src=11663) | Coraopolis, PA | Interest form for SWE roles. |
 |[Citi Bank](https://jobs.citi.com/job/-/-/287/9929719696) | New York City, NY | Quantitative Analysis | Requires unrestricted U.S. work authorization. |
-|[Congra Brands](https://conagra.eightfold.ai/careers?pid=8120153&domain=conagra.com) | Omaha, NE | Software Development Intern - Future Opportunities. |
+|[Conagra Brands](https://conagra.eightfold.ai/careers?pid=8120153&domain=conagra.com) | Omaha, NE | Software Development Intern - Future Opportunities. |
 |[P&G](https://www.pgcareers.com/search-jobs?k=Intern&ascf=[{%27key%27:%27custom_fields.Language%27,%27value%27:%27English%27},]&alp=6252001&alt=2) | Various | Software Engineer/Data Engineer, IT Analytics and Insights and other Intern positions are available. |
+|[Raytheon Technologies ](https://jobs.rtx.com/job/cedar-rapids/software-engineer-intern-summer-2022/4679/11354754720)|Cedar Rapids, IA|Collins Aerospace: Software Engineer Intern. Must be a U.S. Citizen|
+|[RSM](https://jobs.rsmus.com/ListJobs?Keyword=Summer+2022) | Various | [Technology - Business Apps](https://jobs.rsmus.com/ShowJob/JobId/498233/2022SummerConsultingInternTechnologyBusinessAppsNAV), [Data & Analytics Business Intelligence](https://jobs.rsmus.com/ShowJob/JobId/499037/2022SummerConsultingInternTechnologyDataAnalyticsBusinessIntelligence), [Application Development - NetSuite](https://jobs.rsmus.com/ShowJob/JobId/508905/2022SummerConsultingInternApplicationDevelopmentNetSuite) and other Intern positions are available. |
 |[Apple](https://jobs.apple.com/en-us/details/200253195/software-engineering-internship?team=STDNT) | Cupertino, CA | ![SWE](https://jobs.apple.com/en-us/details/200253195/software-engineering-internship?team=STDNT), ![ML/AI](https://jobs.apple.com/en-us/details/200253211/machine-learning-ai-internship?team=STDNT) |
-
 
 **We love our contributors ❤️❤️** 
 
