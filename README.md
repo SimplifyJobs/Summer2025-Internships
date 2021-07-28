@@ -84,7 +84,7 @@ And we're back 😤🎉! Use this repo to share and keep track of any tech-relat
 |[RSM](https://jobs.rsmus.com/ListJobs?Keyword=Summer+2022) | Various | [Technology - Business Apps](https://jobs.rsmus.com/ShowJob/JobId/498233/2022SummerConsultingInternTechnologyBusinessAppsNAV), [Data & Analytics Business Intelligence](https://jobs.rsmus.com/ShowJob/JobId/499037/2022SummerConsultingInternTechnologyDataAnalyticsBusinessIntelligence), [Application Development - NetSuite](https://jobs.rsmus.com/ShowJob/JobId/508905/2022SummerConsultingInternApplicationDevelopmentNetSuite) and other Intern positions are available. |
 |[Freddie Mac](https://careers.freddiemac.com/us/en/job/JR3553/Computer-Science-Intern-Summer-2022) |  McLean, VA | Computer Science Intern position is available. |
 |[Nestle](https://nestleusa.taleo.net/careersection/5/jobdetail.ftl?job=21005338&src=SNS-102) | Arlington, VA | Data Science Intern position is available. |
-|[Uber](https://university-uber.icims.com/jobs/105602/job?iis=marketing&iisn=Linkedin&iisp=paid&linkedin_sponsored=sponsored&rx_campaign=Linkedin1&rx_group=1462&rx_job=105602&rx_medium=post&rx_r=none&rx_source=Linkedin&rx_ts=20210728T061122Z&rx_viewer=089897d5cdb311eba50ceda1d02b06f0047c84175202479dbce1bed9c924a5c2&mobile=false&width=1030&height=500&bga=true&needsRedirect=false&jan1offset=480&jun1offset=480) | San Francisco, CA | SWE Internship |
+|[Uber](https://university-uber.icims.com/jobs/105602/job) | San Francisco, CA | SWE Internship |
 
 **We love our contributors ❤️❤️** 
 
