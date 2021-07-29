@@ -85,6 +85,7 @@ And we're back 😤🎉! Use this repo to share and keep track of any tech-relat
 |[Freddie Mac](https://careers.freddiemac.com/us/en/job/JR3553/Computer-Science-Intern-Summer-2022) |  McLean, VA | Computer Science Intern position is available. |
 |[Nestle](https://nestleusa.taleo.net/careersection/5/jobdetail.ftl?job=21005338&src=SNS-102) | Arlington, VA | Data Science Intern position is available. |
 |[Uber](https://university-uber.icims.com/jobs/105602/job) | San Francisco, CA | SWE Internship |
+|[L3Harris Technologies](https://careers.l3harris.com/job/greenville/software-engineering-intern-co-op-greenville-tx-summer-fall-co-op-and-summer-internship-2022/4832/11663221136) | Greenville, TX | SWE Intern position is available. Please be aware many of our positions require the ability to obtain a security clearance. In addition, applicants who accept a conditional offer of employment may be subject to government security investigation(s) and must meet eligibility requirements for access to classified information. |
 
 **We love our contributors ❤️❤️** 
 
