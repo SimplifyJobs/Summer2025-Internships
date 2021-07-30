@@ -86,6 +86,7 @@ And we're back 😤🎉! Use this repo to share and keep track of any tech-relat
 |[Nestle](https://nestleusa.taleo.net/careersection/5/jobdetail.ftl?job=21005338&src=SNS-102) | Arlington, VA | Data Science Intern position is available. |
 |<del>Uber</del> | San Francisco, CA | **Closed** |
 |[L3Harris Technologies](https://careers.l3harris.com/job/greenville/software-engineering-intern-co-op-greenville-tx-summer-fall-co-op-and-summer-internship-2022/4832/11663221136) | Greenville, TX | SWE Intern position is available. Summer/Fall Co Op is also available. Please be aware many of our positions require the ability to obtain a security clearance. In addition, applicants who accept a conditional offer of employment may be subject to government security investigation(s) and must meet eligibility requirements for access to classified information. |
+|[PEAK6](http://careers.peak6.com/jobs/campus/chicago-il-united-states/software-engineering-internship-for-women-summer-2022/3343572)| Chicago, IL | Software Engineering Internship for Women. |
 
 **We love our contributors ❤️❤️** 
 
