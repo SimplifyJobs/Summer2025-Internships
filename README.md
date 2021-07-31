@@ -90,6 +90,7 @@ And we're back 😤🎉! Use this repo to share and keep track of any tech-relat
 | [Citrix](https://citrix.wd1.myworkdayjobs.com/en-US/CitrixCareers/job/Software-Engineer-Intern---Summer-2022_R27641) | Various | Software Engineer Intern position is available. |
 |[Qualtrics](https://www.qualtrics.com/careers/us/en/job/600473/Software-Development-Engineer-in-Test-Summer-Intern) | Seattle, WA; Provo, UT | [Software Development Engineer in Test](https://www.qualtrics.com/careers/us/en/job/600473/Software-Development-Engineer-in-Test-Summer-Intern), [Software Test Engineer](https://www.qualtrics.com/careers/us/en/job/2271786/Software-Test-Engineer-Intern) and other Intern positions are available. Must be legally authorized to work in job location without Qualtrics sponsorship now or in the future. |
 |[Virtu Financial](https://boards.greenhouse.io/virtu/jobs/5432329002) | NYC | Developer Intern position is available. |
+|[Pacific Northwest National Laboratory](https://pnnl.jobs/richland-wa/masters-intern-high-performance-computing/6CE1FC7221534EA78AC79CA68C59799C/job/)|Richland, WA| Masters Intern, [PhD Intern](https://pnnl.jobs/richland-wa/phd-intern-high-performance-computing/B3330AA65DDB44B38BF91F87BFF5A40C/job/)|
 
 
 **We love our contributors ❤️❤️** 
