@@ -94,6 +94,7 @@ And we're back 😤🎉! Use this repo to share and keep track of any tech-relat
 |[MathWorks](https://www.mathworks.com/company/jobs/opportunities/10071-edg-intern-bachelor-computer-science-majors?keywords=intern&location%5B%5D=US) | Natick, MA | |
 |[Redfin](https://redfin.wd1.myworkdayjobs.com/redfin_careers/job/WA---Seattle/Software-Developer-Internship---Ada-Developers_40898) | Seattle, WA | |
 |[Quantco](https://jobs.lever.co/quantco-/d3f46e52-c120-4b25-aee6-bc743daaf6d7?lever-origin=applied&lever-source%5B%5D=GitHub) | Global | |
+|[Virgin Orbit](https://careers-virginorbit.icims.com/jobs/6289/2022-summer-internship---multiple-departments/job?mobile=false&width=1168&height=500&bga=true&needsRedirect=false&jan1offset=-480&jun1offset=-420) | Long Beach, CA | |
 
 **We love our contributors ❤️❤️** 
 
