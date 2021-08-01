@@ -92,7 +92,7 @@ And we're back 😤🎉! Use this repo to share and keep track of any tech-relat
 |[Virtu Financial](https://boards.greenhouse.io/virtu/jobs/5432329002) | NYC | Developer Intern position is available. |
 |[Applied Intuition](https://jobs.lever.co/applied/c22805d5-2006-4867-bb32-671951b17206) | SF | |
 |[MathWorks](https://www.mathworks.com/company/jobs/opportunities/10071-edg-intern-bachelor-computer-science-majors?keywords=intern&location%5B%5D=US) | Natick, MA | |
-
+|[Redfin](https://redfin.wd1.myworkdayjobs.com/redfin_careers/job/WA---Seattle/Software-Developer-Internship---Ada-Developers_40898) | Seattle, WA | |
 
 **We love our contributors ❤️❤️** 
 
