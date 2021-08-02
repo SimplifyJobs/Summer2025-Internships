@@ -95,6 +95,7 @@ And we're back 😤🎉! Use this repo to share and keep track of any tech-relat
 |[Redfin](https://redfin.wd1.myworkdayjobs.com/redfin_careers/job/WA---Seattle/Software-Developer-Internship---Ada-Developers_40898) | Seattle, WA | |
 |[Quantco](https://jobs.lever.co/quantco-/d3f46e52-c120-4b25-aee6-bc743daaf6d7?lever-origin=applied&lever-source%5B%5D=GitHub) | Global | |
 |[Virgin Orbit](https://careers-virginorbit.icims.com/jobs/6289/2022-summer-internship---multiple-departments/job?mobile=false&width=1168&height=500&bga=true&needsRedirect=false&jan1offset=-480&jun1offset=-420) | Long Beach, CA | |
+|[Crestron](https://careers-crestron.icims.com/jobs/6959/intern---summer-2022-%28all-departments%29/login?mobile=false&width=1010&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240) | NJ, NY, Plano, TX | |
 
 **We love our contributors ❤️❤️** 
 
