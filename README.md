@@ -95,12 +95,17 @@ And we're back 😤🎉! Use this repo to share and keep track of any tech-relat
 |[Redfin](https://redfin.wd1.myworkdayjobs.com/redfin_careers/job/WA---Seattle/Software-Developer-Internship---Ada-Developers_40898) | Seattle, WA | |
 |[Quantco](https://jobs.lever.co/quantco-/d3f46e52-c120-4b25-aee6-bc743daaf6d7?lever-origin=applied&lever-source%5B%5D=GitHub) | Global | |
 |[Virgin Orbit](https://careers-virginorbit.icims.com/jobs/6289/2022-summer-internship---multiple-departments/job?mobile=false&width=1168&height=500&bga=true&needsRedirect=false&jan1offset=-480&jun1offset=-420) | Long Beach, CA | |
+|[JP Morgan](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210139653) | Various | |
+|[Dropbox](https://www.dropbox.com/jobs/listing/3335410) | Remote | |
+
 
 **We love our contributors ❤️❤️** 
 
 Fill [this form](https://bit.ly/3d5O76c) or make a [pull request](https://github.com/susam/gitpr#create-pull-request) to help contribute.
 * [GintasS](https://github.com/gintass)
 * [zhixiangteoh](https://github.com/zhixiangteoh)
+* [CDFalcon](https://github.com/CDFalcon)
+* [Carlwasinfected](https://github.com/Carlwasinfected)
 * [jessicatweneboah](https://github.com/jessicatweneboah)
 * [ksapru](https://github.com/ksapru)
 * [petecao](https://github.com/petecao)
