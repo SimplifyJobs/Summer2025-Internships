@@ -1,5 +1,5 @@
 # Summer 2022 Internships by Pitt CSC 🤿👩‍💻
-And we're back 😤🎉! Use this repo to share and keep track of any tech-related internships. Huge shout-out to [GintasS](https://github.com/GintasS) for being an absolute beast last year. 
+Use this repo to share and keep track of tech internships for Summer 2022. List maintained by [the Pitt Computer Science Club](https://pittcsc.org/), join in discussions [here](https://github.com/pittcsc/Summer2022-Internships/discussions)! 
 
  📈 For more tips on the internship process check out the [Zero to Offer program here](https://www.pittcs.wiki/zero-to-offer).  📈
  
@@ -80,7 +80,7 @@ And we're back 😤🎉! Use this repo to share and keep track of any tech-relat
 |[Citi Bank](https://jobs.citi.com/job/-/-/287/9929719696) | New York City, NY | Quantitative Analysis | Requires unrestricted U.S. work authorization. |
 |[Conagra Brands](https://conagra.eightfold.ai/careers?pid=8120153&domain=conagra.com) | Omaha, NE | Software Development Intern - Future Opportunities. |
 |[P&G](https://www.pgcareers.com/search-jobs?k=Intern&ascf=[{%27key%27:%27custom_fields.Language%27,%27value%27:%27English%27},]&alp=6252001&alt=2) | Various | Software Engineer/Data Engineer, IT Analytics and Insights and other Intern positions are available. |
-|[Raytheon Technologies ](https://jobs.rtx.com/job/cedar-rapids/software-engineer-intern-summer-2022/4679/11354754720)|Cedar Rapids, IA|Collins Aerospace: Software Engineer Intern. Must be a U.S. Citizen|
+|<del>Raytheon Technologies</del>|Cedar Rapids, IA| **Closed** |
 |[RSM](https://jobs.rsmus.com/ListJobs?Keyword=Summer+2022) | Various | [Technology - Business Apps](https://jobs.rsmus.com/ShowJob/JobId/498233/2022SummerConsultingInternTechnologyBusinessAppsNAV), [Data & Analytics Business Intelligence](https://jobs.rsmus.com/ShowJob/JobId/499037/2022SummerConsultingInternTechnologyDataAnalyticsBusinessIntelligence), [Application Development - NetSuite](https://jobs.rsmus.com/ShowJob/JobId/508905/2022SummerConsultingInternApplicationDevelopmentNetSuite) and other Intern positions are available. |
 |[Freddie Mac](https://careers.freddiemac.com/us/en/job/JR3553/Computer-Science-Intern-Summer-2022) |  McLean, VA | Computer Science Intern position is available. |
 |[Nestle](https://nestleusa.taleo.net/careersection/5/jobdetail.ftl?job=21005338&src=SNS-102) | Arlington, VA | Data Science Intern position is available. |
@@ -90,12 +90,23 @@ And we're back 😤🎉! Use this repo to share and keep track of any tech-relat
 | [Citrix](https://citrix.wd1.myworkdayjobs.com/en-US/CitrixCareers/job/Software-Engineer-Intern---Summer-2022_R27641) | Various | Software Engineer Intern position is available. |
 |[Qualtrics](https://www.qualtrics.com/careers/us/en/job/600473/Software-Development-Engineer-in-Test-Summer-Intern) | Seattle, WA; Provo, UT | [Software Development Engineer in Test](https://www.qualtrics.com/careers/us/en/job/600473/Software-Development-Engineer-in-Test-Summer-Intern), [Software Test Engineer](https://www.qualtrics.com/careers/us/en/job/2271786/Software-Test-Engineer-Intern) and other Intern positions are available. Must be legally authorized to work in job location without Qualtrics sponsorship now or in the future. |
 |[Virtu Financial](https://boards.greenhouse.io/virtu/jobs/5432329002) | NYC | Developer Intern position is available. |
+|[Applied Intuition](https://jobs.lever.co/applied/c22805d5-2006-4867-bb32-671951b17206) | SF | |
+|[MathWorks](https://www.mathworks.com/company/jobs/opportunities/search?%3Fjob_type_id%255b%255d=1755&posting_org_id%5B%5D=1&posting_team_id%5B%5D=18&posting_team_id%5B%5D=22&posting_team_id%5B%5D=21&posting_team_id%5B%5D=20&job_type_id%5B%5D=1755) | Natick, MA | |
+|[Redfin](https://redfin.wd1.myworkdayjobs.com/redfin_careers/job/WA---Seattle/Software-Developer-Internship---Ada-Developers_40898) | Seattle, WA | |
+|[Quantco](https://jobs.lever.co/quantco-/d3f46e52-c120-4b25-aee6-bc743daaf6d7?lever-origin=applied&lever-source%5B%5D=GitHub) | Global | |
+|[Virgin Orbit](https://careers-virginorbit.icims.com/jobs/6289/2022-summer-internship---multiple-departments/job?mobile=false&width=1168&height=500&bga=true&needsRedirect=false&jan1offset=-480&jun1offset=-420) | Long Beach, CA | |
+|[Crestron](https://careers-crestron.icims.com/jobs/6959/intern---summer-2022-%28all-departments%29/job) | Rockleigh, NJ, NY, Plano, TX | |
+|[JP Morgan](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210139653) | Various | |
+|[Dropbox](https://www.dropbox.com/jobs/listing/3335410) | Remote | |
 
 
 **We love our contributors ❤️❤️** 
 
 Fill [this form](https://bit.ly/3d5O76c) or make a [pull request](https://github.com/susam/gitpr#create-pull-request) to help contribute.
 * [GintasS](https://github.com/gintass)
+* [zhixiangteoh](https://github.com/zhixiangteoh)
+* [CDFalcon](https://github.com/CDFalcon)
+* [Carlwasinfected](https://github.com/Carlwasinfected)
 * [jessicatweneboah](https://github.com/jessicatweneboah)
 * [ksapru](https://github.com/ksapru)
 * [petecao](https://github.com/petecao)
