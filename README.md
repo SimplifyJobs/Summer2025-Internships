@@ -101,8 +101,8 @@ Use this repo to share and keep track of tech internships for Summer 2022. List 
 |[Johnson Controls](https://johnsoncontrols.referrals.selectminds.com/jobs/software-engineer-graduate-intern-121188) | Irvine, CA | |
 |[HubSpot](https://www.hubspot.com/careers/jobs/2319369) | Remote | |
 |[Clever](https://clever.com/about/careers/detail?gh_jid=6194) | San Francisco, CA; Remote in US | Software Engineering Intern |
+|[Robinhood](https://robinhood.com/us/en/careers/openings/) | Menlo Park, CA | [Android Engineer](https://robinhood.com/us/en/careers/openings/?gh_jid=3335146), [Backend Engineer](https://robinhood.com/us/en/careers/openings/?gh_jid=3339166), [Data Scientist, Analytics](https://robinhood.com/us/en/careers/openings/?gh_jid=3335157) and other Intern positions are available. Winter and Fall internships are available too! |
 |[Walmart](https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/US-AR-BENTONVILLE-Home-Office-ISD-Office---DGTC/XMLNAME-2022-Summer-Intern--Software-Engineer-II_R-682495)| Multiple Locations | There are positions at different experience levels |
-
 
 **We love our contributors ❤️❤️** 
 
@@ -140,3 +140,4 @@ Fill [this form](https://bit.ly/3d5O76c) or make a [pull request](https://github
 * [monishshah18](https://github.com/monishshah18)
 * [Josh0823](https://github.com/Josh0823)
 * [HTian1997](https://github.com/HTian1997)
+* [DeveloperRyan](https://www.github.com/developerryan)
