@@ -103,6 +103,7 @@ Use this repo to share and keep track of tech internships for Summer 2022. List 
 |[Clever](https://clever.com/about/careers/detail?gh_jid=6194) | San Francisco, CA; Remote in US | Software Engineering Intern |
 |[Robinhood](https://robinhood.com/us/en/careers/openings/) | Menlo Park, CA | [Android Engineer](https://robinhood.com/us/en/careers/openings/?gh_jid=3335146), [Backend Engineer](https://robinhood.com/us/en/careers/openings/?gh_jid=3339166), [Data Scientist, Analytics](https://robinhood.com/us/en/careers/openings/?gh_jid=3335157) and other Intern positions are available. Winter and Fall internships are available too! |
 |[Jina AI](https://jobs.lever.co/jina-ai?commitment=Internship) | Remote | [Open Source Evangelist](https://jobs.lever.co/jina-ai/09706cea-24db-4636-966b-756ede597229)|
+|[TomTom](https://www.tomtom.com/careers/jobdetails/JOB_POSTING-3-20772/software-engineering-intern/) |Lebanon, USA | Software Engineering Intern|
 
 **We love our contributors ❤️❤️** 
 
@@ -141,3 +142,4 @@ Fill [this form](https://bit.ly/3d5O76c) or make a [pull request](https://github
 * [Josh0823](https://github.com/Josh0823)
 * [HTian1997](https://github.com/HTian1997)
 * [DeveloperRyan](https://www.github.com/developerryan)
+* [Martje55555](https://github.com/Martje55555)
