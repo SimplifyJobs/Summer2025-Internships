@@ -106,7 +106,7 @@ Use this repo to share and keep track of tech internships for Summer 2022. List 
 |[TomTom](https://www.tomtom.com/careers/jobdetails/JOB_POSTING-3-20772/software-engineering-intern/) |Lebanon, USA | Software Engineering Intern|
 |[Walmart](https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/US-AR-BENTONVILLE-Home-Office-ISD-Office---DGTC/XMLNAME-2022-Summer-Intern--Software-Engineer-II_R-682495)| Various | [Data Engineer III](https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/US-AR-BENTONVILLE-Home-Office-ISD-Office---DGTC/XMLNAME-2022-Summer-Intern--Data-Engineer-III_R-685463), [Software Engineer III](https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/US-AR-BENTONVILLE-Home-Office-ISD-Office---DGTC/XMLNAME-2022-Summer-Intern--Software-Engineer-III_R-682538), [Software Engineer II](https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/US-AR-BENTONVILLE-Home-Office-ISD-Office---DGTC/XMLNAME-2022-Summer-Intern--Software-Engineer-II_R-682495) Intern positions are available. |
 |[Duolingo](https://boards.greenhouse.io/duolingo/jobs/5422890002?gh_src=977bb0612us) | Pittsburgh, PA | Software Engineering Intern |
-
+|[Nuro.ai](https://www.nuro.ai/careersitem?gh_jid=3356175) | Mountain View, CA | Software Engineer Intern |
 
 **We love our contributors ❤️❤️** 
 
