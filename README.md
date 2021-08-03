@@ -100,6 +100,7 @@ Use this repo to share and keep track of tech internships for Summer 2022. List 
 |[Cargill](https://careers.cargill.com/search-jobs/Summer%202022/United%20States/23251/1/2/6252001/39x76/-98x5/50/2) | Wayzata, Hopkins, MN | [Trading Data & Analytics](https://careers.cargill.com/job/wayzata/trading-data-and-analytics-intern-summer-2022/23251/11677499248), [Trading Technology](https://careers.cargill.com/job/hopkins/trading-technology-internship-summer-2022/23251/11677499280) Intern positions. Must have a right to work in the U.S. that is not based solely on possession of a student visa or a visa sponsored by a third-party employer. |
 |[Johnson Controls](https://johnsoncontrols.referrals.selectminds.com/jobs/software-engineer-graduate-intern-121188) | Irvine, CA | |
 |[HubSpot](https://www.hubspot.com/careers/jobs/2319369) | Remote | |
+|[Robinhood](https://robinhood.com/us/en/careers/openings/?gh_jid=3339166&gh_src=ed898e781us) |Menlo Park, CA| Different positions [here](https://robinhood.com/us/en/careers/openings/?gh_src=ed898e781us) |
 
 **We love our contributors ❤️❤️** 
 
