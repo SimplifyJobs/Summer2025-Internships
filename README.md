@@ -17,7 +17,7 @@ Use this repo to share and keep track of tech internships for Summer 2022. List 
 | <del>BlackStone</del> | | **Closed** |
 | <del>PWC</del> | | **Closed** |
 | [AQR](https://careers.aqr.com/jobs/department/university-jobs#/) | Greenwich, CT | Research, Portfolio Implementation |
-| [Optiver](https://www.optiver.com/working-at-optiver/career-opportunities/4995300002/) | Chicago | Interest Forms for: Tech, [Trading](https://www.optiver.com/working-at-optiver/career-opportunities/4929322002/)|
+| [Optiver](https://www.optiver.com/working-at-optiver/career-opportunities/?filter-level=internship) | Various | Positions in Software Engineering and Trading. Will not sponsor individuals for employment authorization for these job openings. |
 | [Caterpillar](https://caterpillarcareers.ttcportals.com/jobs/6533463-2022-engineering-summer-intern-product-development?tm_job=R0000026191&tm_event=view&tm_company=2539&bid=370&src=SNS-100100) | Illinois | |
 |[Schneider Downs](https://schneiderdowns.csod.com/ats/careersite/JobDetails.aspx?id=474&site=4) | Pittsburgh, PA | IT Intern, Cybersecurity Intern. |
 |[GE](https://jobs.gecareers.com/global/en/search-results) | Various | [GE Aviation Aviation Systems](https://jobs.gecareers.com/global/en/job/R3560419/GE-Aviation-Aviation-Systems-Intern-Summer-2022), [GE Gas Power Digital Technology](https://jobs.gecareers.com/global/en/job/R3558732/Gas-Power-Digital-Technology-Intern-2022) and other Intern positions are available. Some roles are restricted to U.S. persons only or those who are legally authorized to work in the United States. |
@@ -105,6 +105,7 @@ Use this repo to share and keep track of tech internships for Summer 2022. List 
 |[Jina AI](https://jobs.lever.co/jina-ai?commitment=Internship) | Remote | [Open Source Evangelist](https://jobs.lever.co/jina-ai/09706cea-24db-4636-966b-756ede597229)|
 |[TomTom](https://www.tomtom.com/careers/jobdetails/JOB_POSTING-3-20772/software-engineering-intern/) |Lebanon, USA | Software Engineering Intern|
 |[Walmart](https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/US-AR-BENTONVILLE-Home-Office-ISD-Office---DGTC/XMLNAME-2022-Summer-Intern--Software-Engineer-II_R-682495)| Various | [Data Engineer III](https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/US-AR-BENTONVILLE-Home-Office-ISD-Office---DGTC/XMLNAME-2022-Summer-Intern--Data-Engineer-III_R-685463), [Software Engineer III](https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/US-AR-BENTONVILLE-Home-Office-ISD-Office---DGTC/XMLNAME-2022-Summer-Intern--Software-Engineer-III_R-682538), [Software Engineer II](https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/US-AR-BENTONVILLE-Home-Office-ISD-Office---DGTC/XMLNAME-2022-Summer-Intern--Software-Engineer-II_R-682495) Intern positions are available. |
+|[Duolingo](https://boards.greenhouse.io/duolingo/jobs/5422890002?gh_src=977bb0612us) | Pittsburgh, PA | Software Engineering Intern |
 |[Nuro.ai](https://www.nuro.ai/careersitem?gh_jid=3356175) | Mountain View, CA | Software Engineer Intern |
 
 **We love our contributors ❤️❤️** 
@@ -145,3 +146,4 @@ Fill [this form](https://bit.ly/3d5O76c) or make a [pull request](https://github
 * [HTian1997](https://github.com/HTian1997)
 * [DeveloperRyan](https://www.github.com/developerryan)
 * [Martje55555](https://github.com/Martje55555)
+* [kvfp](https://github.com/kvfp)
