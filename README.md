@@ -20,7 +20,6 @@ Use this repo to share and keep track of tech internships for Summer 2022. List 
 | [Optiver](https://www.optiver.com/working-at-optiver/career-opportunities/4995300002/) | Chicago | Interest Forms for: Tech, [Trading](https://www.optiver.com/working-at-optiver/career-opportunities/4929322002/)|
 | [Caterpillar](https://caterpillarcareers.ttcportals.com/jobs/6533463-2022-engineering-summer-intern-product-development?tm_job=R0000026191&tm_event=view&tm_company=2539&bid=370&src=SNS-100100) | Illinois | |
 |[Schneider Downs](https://schneiderdowns.csod.com/ats/careersite/JobDetails.aspx?id=474&site=4) | Pittsburgh, PA | IT Intern, Cybersecurity Intern. |
-|[JPMorgan Chase & Co.](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions?keyword=2022&location=United%20States&locationId=300000000289738&locationLevel=country) | Various | Summer Analyst |
 |[GE](https://jobs.gecareers.com/global/en/search-results) | Various | [GE Aviation Aviation Systems](https://jobs.gecareers.com/global/en/job/R3560419/GE-Aviation-Aviation-Systems-Intern-Summer-2022), [GE Gas Power Digital Technology](https://jobs.gecareers.com/global/en/job/R3558732/Gas-Power-Digital-Technology-Intern-2022) and other Intern positions are available. Some roles are restricted to U.S. persons only or those who are legally authorized to work in the United States. |
 |[Second Order Effects](https://boards.greenhouse.io/soeffects/jobs/4311435003) | El Segundo, CA | Applicant must be a U.S. citizen or eligible to obtain the required authorizations from the U.S. Department of State. |
 |[Morgan Stanley](https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/user-3168256/xf-a7aeef94da1e/candidate/so/pm/1/pl/1/opp/11401) | NYC | Technology Summer Analyst Program. Note: Requires HireVue submission up to 72 hours after application submission.  | 
@@ -52,7 +51,7 @@ Use this repo to share and keep track of tech internships for Summer 2022. List 
 |[Federated Insurance](https://careers-federatedinsurance.icims.com/jobs/3098/it-systems-developer-intern---summer-2022/job?mode=job&iis=SOURCE&iisn=LinkedIn&mobile=false&width=1887&height=500&bga=true&needsRedirect=false&jan1offset=120&jun1offset=180) | Owatonna, MN | IT-Systems Developer Intern position is available. | 
 |[US Ventures](https://usventure.wd1.myworkdayjobs.com/USVExternal/job/WI---Green-Bay/Software-Engineering-Intern_REQ-007655) | Green Bay, WI | |
 | [Amazon/AWS](https://www.amazon.jobs/en/search?base_query=Summer+2022&loc_query=&latitude=&longitude=&loc_group_id=&invalid_location=false&country=&city=&region=&county=) | Various | [Software Development Engineer](https://www.amazon.jobs/en/jobs/1557929/software-development-engineer-internship-summer-2022-us), [Cloud Support Associate](https://www.amazon.jobs/en/jobs/1608042/cloud-support-associate-intern-summer-2022-us), [Assoc Customer Solutions Manager](https://www.amazon.jobs/en/jobs/1609945/assoc-customer-solutions-manager-intern-summer-2022-us) and other Intern positions are available. |
-|[Palantir](https://jobs.lever.co/palantir?commitment=Internship)| DC, NYC, Palo Alto, Seattle | SWE and Forward Deployed Engineer |
+|<del>Palantir<del>| | **Closed** |
 |[Tableau](https://salesforce.wd1.myworkdayjobs.com/en-US/Tableau/job/Washington---Seattle/Summer-2022-Intern---Tableau-Software-Engineer_JR103736) | Seattle, Austin, Palo Alto, SF | |
 |[McKinsey](https://www.mckinsey.com/careers/search-jobs/jobs/analystintern-softwareengineerdataengineerdatascientist-campusstudents-41875) | Boston, Chicago, New Jersey, New York City, San Francisco | Analyst Intern - Software Engineer / Data Engineer / Data Scientist |
 |[Nvidia](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-MI-Remote/High-Performance-Computing-Engineer-Intern---Summer-2022_JR1943862-2?source=jobboardlinkedin) | US, MI, Remote | Search `2022` for more positions |
@@ -96,8 +95,16 @@ Use this repo to share and keep track of tech internships for Summer 2022. List 
 |[Quantco](https://jobs.lever.co/quantco-/d3f46e52-c120-4b25-aee6-bc743daaf6d7?lever-origin=applied&lever-source%5B%5D=GitHub) | Global | |
 |[Virgin Orbit](https://careers-virginorbit.icims.com/jobs/6289/2022-summer-internship---multiple-departments/job?mobile=false&width=1168&height=500&bga=true&needsRedirect=false&jan1offset=-480&jun1offset=-420) | Long Beach, CA | |
 |[Crestron](https://careers-crestron.icims.com/jobs/6959/intern---summer-2022-%28all-departments%29/job) | Rockleigh, NJ, NY, Plano, TX | |
-|[JP Morgan](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210139653) | Various | |
+|[JP Morgan](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210139653) | Various | More positions [here](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions?keyword=2022&location=United%20States&locationId=300000000289738&locationLevel=country)|
 |[Dropbox](https://www.dropbox.com/jobs/listing/3335410) | Remote | |
+|[Cargill](https://careers.cargill.com/search-jobs/Summer%202022/United%20States/23251/1/2/6252001/39x76/-98x5/50/2) | Wayzata, Hopkins, MN | [Trading Data & Analytics](https://careers.cargill.com/job/wayzata/trading-data-and-analytics-intern-summer-2022/23251/11677499248), [Trading Technology](https://careers.cargill.com/job/hopkins/trading-technology-internship-summer-2022/23251/11677499280) Intern positions. Must have a right to work in the U.S. that is not based solely on possession of a student visa or a visa sponsored by a third-party employer. |
+|[Johnson Controls](https://johnsoncontrols.referrals.selectminds.com/jobs/software-engineer-graduate-intern-121188) | Irvine, CA | |
+|[HubSpot](https://www.hubspot.com/careers/jobs/2319369) | Remote | |
+|[Clever](https://clever.com/about/careers/detail?gh_jid=6194) | San Francisco, CA; Remote in US | Software Engineering Intern |
+|[Robinhood](https://robinhood.com/us/en/careers/openings/) | Menlo Park, CA | [Android Engineer](https://robinhood.com/us/en/careers/openings/?gh_jid=3335146), [Backend Engineer](https://robinhood.com/us/en/careers/openings/?gh_jid=3339166), [Data Scientist, Analytics](https://robinhood.com/us/en/careers/openings/?gh_jid=3335157) and other Intern positions are available. Winter and Fall internships are available too! |
+|[Jina AI](https://jobs.lever.co/jina-ai?commitment=Internship) | Remote | [Open Source Evangelist](https://jobs.lever.co/jina-ai/09706cea-24db-4636-966b-756ede597229)|
+|[TomTom](https://www.tomtom.com/careers/jobdetails/JOB_POSTING-3-20772/software-engineering-intern/) |Lebanon, USA | Software Engineering Intern|
+|[Walmart](https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/US-AR-BENTONVILLE-Home-Office-ISD-Office---DGTC/XMLNAME-2022-Summer-Intern--Software-Engineer-II_R-682495)| Various | [Data Engineer III](https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/US-AR-BENTONVILLE-Home-Office-ISD-Office---DGTC/XMLNAME-2022-Summer-Intern--Data-Engineer-III_R-685463), [Software Engineer III](https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/US-AR-BENTONVILLE-Home-Office-ISD-Office---DGTC/XMLNAME-2022-Summer-Intern--Software-Engineer-III_R-682538), [Software Engineer II](https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/US-AR-BENTONVILLE-Home-Office-ISD-Office---DGTC/XMLNAME-2022-Summer-Intern--Software-Engineer-II_R-682495) Intern positions are available. |
 
 
 **We love our contributors ❤️❤️** 
@@ -136,3 +143,5 @@ Fill [this form](https://bit.ly/3d5O76c) or make a [pull request](https://github
 * [monishshah18](https://github.com/monishshah18)
 * [Josh0823](https://github.com/Josh0823)
 * [HTian1997](https://github.com/HTian1997)
+* [DeveloperRyan](https://www.github.com/developerryan)
+* [Martje55555](https://github.com/Martje55555)
