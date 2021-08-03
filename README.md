@@ -100,7 +100,7 @@ Use this repo to share and keep track of tech internships for Summer 2022. List 
 |[Cargill](https://careers.cargill.com/search-jobs/Summer%202022/United%20States/23251/1/2/6252001/39x76/-98x5/50/2) | Wayzata, Hopkins, MN | [Trading Data & Analytics](https://careers.cargill.com/job/wayzata/trading-data-and-analytics-intern-summer-2022/23251/11677499248), [Trading Technology](https://careers.cargill.com/job/hopkins/trading-technology-internship-summer-2022/23251/11677499280) Intern positions. Must have a right to work in the U.S. that is not based solely on possession of a student visa or a visa sponsored by a third-party employer. |
 |[Johnson Controls](https://johnsoncontrols.referrals.selectminds.com/jobs/software-engineer-graduate-intern-121188) | Irvine, CA | |
 |[HubSpot](https://www.hubspot.com/careers/jobs/2319369) | Remote | |
-|[Walmart](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/6/refreshFacet/318c8bb6f553100021d223d9780d30be)| Multiple Locations | There are positions at different experience levels |
+|[Walmart](https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/US-AR-BENTONVILLE-Home-Office-ISD-Office---DGTC/XMLNAME-2022-Summer-Intern--Software-Engineer-II_R-682495)| Multiple Locations | There are positions at different experience levels |
 
 **We love our contributors ❤️❤️** 
 
