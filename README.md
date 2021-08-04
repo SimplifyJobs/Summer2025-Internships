@@ -109,6 +109,7 @@ Use this repo to share and keep track of tech internships for Summer 2022. List 
 |[Nuro.ai](https://www.nuro.ai/careersitem?gh_jid=3356175) | Mountain View, CA | Software Engineer Intern |
 |[Capital One](https://campus.capitalone.com/job/mclean/technology-internship-program-summer-2022/1786/19643592) | Various | [Master's Data Science Internship](https://campus.capitalone.com/job/-/-/1786/19642559) | 
  |[Hyperscience](https://jobs.lever.co/hyperscience/c136b270-1682-4ac7-82d8-83992b596d6c) | NEW YORK CITY, NY | Software Engineering Intern, [Maching learning Intern](https://jobs.lever.co/hyperscience/0d9aff24-1f5c-4477-848b-e0366ebaff44) Note: Visa Sponsorship Not available |
+ | [Jump Trading LLC](https://www.jumptrading.com/apply.html?gh_jid=2939637) | Chicago, IL | Software Engineer Intern
 
 **We love our contributors ❤️❤️** 
 
