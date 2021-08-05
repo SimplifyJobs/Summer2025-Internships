@@ -57,7 +57,7 @@ Use this repo to share and keep track of tech internships for Summer 2022. List 
 |[Nvidia](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-MI-Remote/High-Performance-Computing-Engineer-Intern---Summer-2022_JR1943862-2?source=jobboardlinkedin) | US, MI, Remote | Search `2022` for more positions |
 |[Cisco](https://jobs.cisco.com/jobs/SearchJobs/Summer%202022) | Chicago, IL; San Francisco, CA | [Network Support Engineer](https://jobs.cisco.com/jobs/ProjectDetail/Network-Support-Engineer-Intern-Summer-2022-Internship-Bachelors-Meraki/1339621?source=LinkedIn), [Full Stack Engineer](https://jobs.cisco.com/jobs/ProjectDetail/Full-Stack-Engineer-Summer-2022-Internship-Bachelors-Meraki/1339633?source=LinkedIn), [Product Software Engineer](https://jobs.cisco.com/jobs/ProjectDetail/Product-Software-Engineer-Summer-2022-Internship-Meraki/1339636?source=LinkedIn) Intern positions are available. |
 |[Tower Research Capital](https://www.tower-research.com/open-positions) | Chicago, NYC | Quant Intern positions are available. | 
-|[Jane Street](https://www.janestreet.com/join-jane-street/position/5281396002/) | NYC | Software Engineer | 
+|[Jane Street](https://www.janestreet.com/join-jane-street/position/5416966002/) | NYC | Software Engineer | 
 |[PayPal](https://jobsearch.paypal-corp.com/en-US/search?keywords=intern&facetcountry=us&location=&facetcategory=internship) | Various | Software Engineer Intern, Product Manager Intern, Product Manager MBA Intern, Risk Management Intern, Finance & Accounting Intern, Data Analyst Intern positions are available. Must reside in the U.S. during the Summer internship program and must be able to obtain authorization to work in the U.S. for the summer. | 
 |[Barclays](https://search.jobs.barclays/search-jobs/Summer%202022/United%20States/22545/1/2/6252001/39x76/-98x5/0/2) | Various | QA, Developer Analyst, Data Analytics and other Intern positions are available. Some positions require unrestricted U.S. work authorization. | 
 |[Lenovo](https://jobs.lenovo.com/en_US/careers/SearchJobs/Summer%202022?8635=%5B488%5D&8635_format=3279&listFilterMode=1&jobRecordsPerPage=10&) | Various | Server Hardware Development, Software Development and other Intern positions are available. | 
@@ -93,7 +93,7 @@ Use this repo to share and keep track of tech internships for Summer 2022. List 
 |[MathWorks](https://www.mathworks.com/company/jobs/opportunities/search?%3Fjob_type_id%255b%255d=1755&posting_org_id%5B%5D=1&posting_team_id%5B%5D=18&posting_team_id%5B%5D=22&posting_team_id%5B%5D=21&posting_team_id%5B%5D=20&job_type_id%5B%5D=1755) | Natick, MA | |
 |[Redfin](https://redfin.wd1.myworkdayjobs.com/redfin_careers/job/WA---Seattle/Software-Developer-Internship---Ada-Developers_40898) | Seattle, WA | |
 |[Quantco](https://jobs.lever.co/quantco-/d3f46e52-c120-4b25-aee6-bc743daaf6d7?lever-origin=applied&lever-source%5B%5D=GitHub) | Global | |
-|[Virgin Orbit](https://careers-virginorbit.icims.com/jobs/6289/2022-summer-internship---multiple-departments/job?mobile=false&width=1168&height=500&bga=true&needsRedirect=false&jan1offset=-480&jun1offset=-420) | Long Beach, CA | |
+|[Virgin Orbit](https://careers-virginorbit.icims.com/jobs/6289/2022-summer-internship---multiple-departments/job?mobile=false&width=1168&height=500&bga=true&needsRedirect=false&jan1offset=-480&jun1offset=-420) | Long Beach, CA | Applicant must be a U.S. citizen, lawful permanent resident of the U.S., protected individual as defined by ITAR (22 CFR §120.15) or eligible to obtain the required authorizations from the U.S. Department of State. |
 |[Crestron](https://careers-crestron.icims.com/jobs/6959/intern---summer-2022-%28all-departments%29/job) | Rockleigh, NJ, NY, Plano, TX | |
 |[JP Morgan](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210139653) | Various | More positions [here](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions?keyword=2022&location=United%20States&locationId=300000000289738&locationLevel=country)|
 |[Dropbox](https://www.dropbox.com/jobs/listing/3335410) | Remote | |
@@ -112,6 +112,7 @@ Use this repo to share and keep track of tech internships for Summer 2022. List 
 | [Jump Trading LLC](https://www.jumptrading.com/apply.html?gh_jid=2939637) | Chicago, IL | Software Engineer Intern |
 |[Cox Automotive](https://jobs.coxenterprises.com/job/13505197/2022-summer-intern-draper-ut/) | Draper, UT | Software Engineer Intern |
 |[IBM](https://krb-sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=26059&siteid=5016&PageType=JobDetails&jobid=458529#jobDetails=458529_5016) | Various | DevOps Engineer Intern |
+|[Affirm](https://boards.greenhouse.io/affirm/jobs/4650433003?gh_src=689c81d53us)| Remote | Software Engineering Intern |
 
 **We love our contributors ❤️❤️** 
 
