@@ -111,6 +111,7 @@ Use this repo to share and keep track of tech internships for Summer 2022. List 
  |[Hyperscience](https://jobs.lever.co/hyperscience/c136b270-1682-4ac7-82d8-83992b596d6c) | NEW YORK CITY, NY | Software Engineering Intern, [Maching learning Intern](https://jobs.lever.co/hyperscience/0d9aff24-1f5c-4477-848b-e0366ebaff44) Note: Visa Sponsorship Not available |
 | [Jump Trading LLC](https://www.jumptrading.com/apply.html?gh_jid=2939637) | Chicago, IL | Software Engineer Intern |
 |[Cox Automotive](https://jobs.coxenterprises.com/job/13505197/2022-summer-intern-draper-ut/) | Draper, UT | Software Engineer Intern |
+|[Affirm](https://boards.greenhouse.io/affirm/jobs/4650433003?gh_src=689c81d53us)| Remote | Software Engineering Intern |
 
 **We love our contributors ❤️❤️** 
 
