@@ -116,6 +116,7 @@ Use this repo to share and keep track of tech internships for Summer 2022. List 
 |[Okta](https://www.okta.com/company/careers/engineering/software-engineer-intern-us-and-canada-3338724/)| San Francisco, San Jose, CA; Bellevue, WA | Software Engineer Intern | 
 |[Pearson](https://pearson.jobs/usa/jobs/?q=Intern)| Durham, NC; San Antonio, TX | Software Engineer Intern. Different technology areas are available. |
 |[Commerce Bank](https://commercebank.wd1.myworkdayjobs.com/en-US/CommerceJobs/job/MO---Kansas-City-DowntownPlaza---Kansas-City---KC-Downtown-Trust-Building-922-Walnut-64106/Software-Development-Intern---Summer-2022_28788) | Kansas City, MO | Software Development Intern. Interns must be eligible to work in the United States without sponsorship. |
+|[Garmin](https://careers-us.garmin.com/us/en/internship-jobs) | Olathe, KS | [Software Engineer Intern - Embedded](https://careers-us.garmin.com/us/en/job/21001ET/Software-Engineer-Intern-Embedded-HQ-Olathe-KS), [Software Engineer Intern - Mobile](https://careers-us.garmin.com/us/en/job/21001G1/Software-Engineer-Intern-Mobile-HQ-Olathe-KS), [Software Engineer Intern - Web Development/DevOps](https://careers-us.garmin.com/us/en/job/21001G0/Software-Engineer-Intern-Web-Development-DevOps-HQ-Olathe-KS) positions are available. |
 
 **We love our contributors ❤️❤️** 
 
