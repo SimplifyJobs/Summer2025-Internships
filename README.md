@@ -114,6 +114,7 @@ Use this repo to share and keep track of tech internships for Summer 2022. List 
 |[IBM](https://krb-sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=26059&siteid=5016&PageType=JobDetails&jobid=458529#jobDetails=458529_5016) | Various | DevOps Engineer Intern |
 |[Affirm](https://boards.greenhouse.io/affirm/jobs/4650433003?gh_src=689c81d53us)| Remote | Software Engineering Intern |
 |[Okta](https://www.okta.com/company/careers/engineering/software-engineer-intern-us-and-canada-3338724/)| San Francisco, San Jose, CA; Bellevue, WA | Software Engineer Intern | 
+|[Pearson](https://pearson.jobs/durham-nc/intern-software-engineer/AC27CDADC71241BFA37C81DEFAFD8547/job/)| Durham, NC | Software Engineer Intern |
 
 **We love our contributors ❤️❤️** 
 
@@ -154,3 +155,4 @@ Fill [this form](https://bit.ly/3d5O76c) or make a [pull request](https://github
 * [DeveloperRyan](https://www.github.com/developerryan)
 * [Martje55555](https://github.com/Martje55555)
 * [kvfp](https://github.com/kvfp)
+* [ducdoan510](https://github.com/ducdoan510)
