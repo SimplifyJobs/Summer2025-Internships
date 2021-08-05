@@ -115,6 +115,7 @@ Use this repo to share and keep track of tech internships for Summer 2022. List 
 |[Affirm](https://boards.greenhouse.io/affirm/jobs/4650433003?gh_src=689c81d53us)| Remote | Software Engineering Intern |
 |[Okta](https://www.okta.com/company/careers/engineering/software-engineer-intern-us-and-canada-3338724/)| San Francisco, San Jose, CA; Bellevue, WA | Software Engineer Intern | 
 |[Pearson](https://pearson.jobs/usa/jobs/?q=Intern)| Durham, NC; San Antonio, TX | Software Engineer Intern. Different technology areas are available. |
+|[Commerce Bank](https://commercebank.wd1.myworkdayjobs.com/en-US/CommerceJobs/job/MO---Kansas-City-DowntownPlaza---Kansas-City---KC-Downtown-Trust-Building-922-Walnut-64106/Software-Development-Intern---Summer-2022_28788) | Kansas City, MO | Software Development Intern. Interns must be eligible to work in the United States without sponsorship. |
 
 **We love our contributors ❤️❤️** 
 
