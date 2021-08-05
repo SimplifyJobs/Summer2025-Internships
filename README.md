@@ -114,7 +114,7 @@ Use this repo to share and keep track of tech internships for Summer 2022. List 
 |[IBM](https://krb-sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=26059&siteid=5016&PageType=JobDetails&jobid=458529#jobDetails=458529_5016) | Various | DevOps Engineer Intern |
 |[Affirm](https://boards.greenhouse.io/affirm/jobs/4650433003?gh_src=689c81d53us)| Remote | Software Engineering Intern |
 |[Okta](https://www.okta.com/company/careers/engineering/software-engineer-intern-us-and-canada-3338724/)| San Francisco, San Jose, CA; Bellevue, WA | Software Engineer Intern | 
-|[Garmin](https://careers-us.garmin.com/us/en/internship-jobs) | Olathe, KS | Various Software Engineering Intern Roles |
+|[Garmin](https://careers-us.garmin.com/us/en/internship-jobs) | Olathe, KS | [Software Engineer Intern - Embedded](https://careers-us.garmin.com/us/en/job/21001ET/Software-Engineer-Intern-Embedded-HQ-Olathe-KS), [Software Engineer Intern - Mobile](https://careers-us.garmin.com/us/en/job/21001G1/Software-Engineer-Intern-Mobile-HQ-Olathe-KS), [Software Engineer Intern - Web Development/DevOps](https://careers-us.garmin.com/us/en/job/21001G0/Software-Engineer-Intern-Web-Development-DevOps-HQ-Olathe-KS) positions are available. |
 
 **We love our contributors ❤️❤️** 
 
