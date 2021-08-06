@@ -119,6 +119,7 @@ Use this repo to share and keep track of tech internships for Summer 2022. List 
 |[Garmin](https://careers-us.garmin.com/us/en/internship-jobs) | Olathe, KS | [Software Engineer Intern - Embedded](https://careers-us.garmin.com/us/en/job/21001ET/Software-Engineer-Intern-Embedded-HQ-Olathe-KS), [Software Engineer Intern - Mobile](https://careers-us.garmin.com/us/en/job/21001G1/Software-Engineer-Intern-Mobile-HQ-Olathe-KS), [Software Engineer Intern - Web Development/DevOps](https://careers-us.garmin.com/us/en/job/21001G0/Software-Engineer-Intern-Web-Development-DevOps-HQ-Olathe-KS) Intern positions are available. |
 |[Medtronic](https://jobs.medtronic.com/jobs/search/106431002) | Various | [Computer Science Intern](https://jobs.medtronic.com/jobs/computer-science-summer-2022-intern-%E2%80%93-undergraduate-103075), [Computer Engineering Intern](https://jobs.medtronic.com/jobs/computer-engineering-summer-2022-intern-%E2%80%93-undergraduate-103074). Must be legally authorized to work in the U.S. on a full-time basis and don't require sponsorship in the future for an employment visa. |
 |[Aechelon Technology](https://jobs.lever.co/aechelon/0d491d1a-4e50-4380-950c-41eef676acda/apply) | Overland Park, KS | Software Engineer Intern. Must be legally authorized to work in the U.S. on a full-time basis and don't require sponsorship in the future for an employment visa. |
+|[Stripe](https://stripe.com/jobs/listing/software-engineering-intern/3368543) | San Francisco, Seattle, New York City | Software Engineer Intern |
 
 **We love our contributors ❤️❤️** 
 
@@ -160,3 +161,4 @@ Fill [this form](https://bit.ly/3d5O76c) or make a [pull request](https://github
 * [Martje55555](https://github.com/Martje55555)
 * [kvfp](https://github.com/kvfp)
 * [ducdoan510](https://github.com/ducdoan510)
+* [ZhiYingSun](https://github.com/ZhiYingSun)
