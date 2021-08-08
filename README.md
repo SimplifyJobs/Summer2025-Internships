@@ -15,7 +15,7 @@ Use this repo to share and keep track of tech internships for Summer 2022. List 
 | [Bridgewater Associates](https://boards.greenhouse.io/bridgewater89/jobs/4076389002) | Westport, CT | |
 | [Credit Suisse](https://tas-creditsuisse.taleo.net/careersection/campus/moresearch.ftl) | Raleigh, NYC | Search `"2022 Americas Technology Summer Analyst Program"`|
 | <del>BlackStone</del> | | **Closed** |
-| <del>PWC</del> | | **Closed** |
+| [PWC](https://jobs.us.pwc.com/search-jobs/Summer%202022/United%20States/932/1/2/6252001/39x76/-98x5/25/2) | Various | [Technology Consulting](https://jobs.us.pwc.com/job/los-angeles/technology-consulting-intern-summer-2022/932/12073994960) Intern position is available. |
 | [AQR](https://careers.aqr.com/jobs/department/university-jobs#/) | Greenwich, CT | Research, Portfolio Implementation |
 | [Optiver](https://www.optiver.com/working-at-optiver/career-opportunities/?filter-level=internship) | Various | Positions in Software Engineering and Trading. Will not sponsor individuals for employment authorization for these job openings. |
 | [Caterpillar](https://caterpillarcareers.ttcportals.com/jobs/6533463-2022-engineering-summer-intern-product-development?tm_job=R0000026191&tm_event=view&tm_company=2539&bid=370&src=SNS-100100) | Illinois | |
