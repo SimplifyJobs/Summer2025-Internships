@@ -120,7 +120,7 @@ Use this repo to share and keep track of tech internships for Summer 2022. List 
 |[Medtronic](https://jobs.medtronic.com/jobs/search/106431002) | Various | [Computer Science Intern](https://jobs.medtronic.com/jobs/computer-science-summer-2022-intern-%E2%80%93-undergraduate-103075), [Computer Engineering Intern](https://jobs.medtronic.com/jobs/computer-engineering-summer-2022-intern-%E2%80%93-undergraduate-103074). Must be legally authorized to work in the U.S. on a full-time basis and don't require sponsorship in the future for an employment visa. |
 |[Aechelon Technology](https://jobs.lever.co/aechelon/0d491d1a-4e50-4380-950c-41eef676acda/apply) | Overland Park, KS | Software Engineer Intern. Must be legally authorized to work in the U.S. on a full-time basis and don't require sponsorship in the future for an employment visa. |
 |[Stripe](https://stripe.com/jobs/listing/software-engineering-intern/3368543) | San Francisco, Seattle, New York City | Software Engineer Intern |
-|[UnitedHealth Group](https://careers.unitedhealthgroup.com/job-search-results/?level[]=Student%20Internships) | La Crosse, Wisconsin | Software Engineer Intern, IT Intern, Finance Intern |
+|[UnitedHealth Group](https://careers.unitedhealthgroup.com/job-search-results/?level[]=Student%20Internships) | La Crosse, Wisconsin | Software Engineer Intern, IT Intern. Must be eligible to work in the U.S. without company sponsorship, now or in the future. |
 
 **We love our contributors ❤️❤️** 
 
