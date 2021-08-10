@@ -123,6 +123,7 @@ Use this repo to share and keep track of tech internships for Summer 2022. List 
 |[UnitedHealth Group](https://careers.unitedhealthgroup.com/job-search-results/?level[]=Student%20Internships) | La Crosse, Wisconsin | Software Engineer Intern, IT Intern. Must be eligible to work in the U.S. without company sponsorship, now or in the future. |
 |[SAP](https://jobs.sap.com/job/Palo-Alto-SAP-iXp-Intern-Software-Development-Summer-2022-CA-94304/702066001) | Various, virtual, in-person | Software Development Intern |
 |[Samsara](https://boards.greenhouse.io/samsara/jobs/3328844) | San Francisco, CA; Atlanta, GA | Software Engineering Intern |
+|[Cox Automotive](https://jobs.coxenterprises.com/job/13505197/2022-summer-intern-draper-ut/) | Salt Lake City, Utah | Software Engineer Intern (for undergrad, must have a least 2 years in college) |
 
 **We love our contributors ❤️❤️** 
 
