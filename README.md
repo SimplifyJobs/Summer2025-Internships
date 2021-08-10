@@ -111,7 +111,7 @@ Use this repo to share and keep track of tech internships for Summer 2022. List 
  |[Hyperscience](https://jobs.lever.co/hyperscience/c136b270-1682-4ac7-82d8-83992b596d6c) | NYC | Software Engineering Intern, [Machine Learning Intern](https://jobs.lever.co/hyperscience/0d9aff24-1f5c-4477-848b-e0366ebaff44) Note: Visa sponsorship is not available. |
 | [Jump Trading LLC](https://www.jumptrading.com/apply.html?gh_jid=2939637) | Chicago, IL | Software Engineer Intern |
 |[Cox Automotive](https://jobs.coxenterprises.com/job/13505197/2022-summer-intern-draper-ut/) | Draper, UT | Software Engineer Intern |
-|[IBM](https://krb-sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=26059&siteid=5016&PageType=JobDetails&jobid=458529#jobDetails=458529_5016) | Various | DevOps Engineer Intern |
+|[IBM](https://www.ibm.com/us-en/employment/entrylevel/#jobs?%23jobs=&job-category=Software%2520Development%2520%2526%2520Support&experience=Intern) | Various | Various positions |
 |[Affirm](https://boards.greenhouse.io/affirm/jobs/4650433003?gh_src=689c81d53us)| Remote | Software Engineering Intern |
 |[Okta](https://www.okta.com/company/careers/engineering/software-engineer-intern-us-and-canada-3338724/)| San Francisco, San Jose, CA; Bellevue, WA | Software Engineer Intern | 
 |[Pearson](https://pearson.jobs/usa/jobs/?q=Intern)| Durham, NC; San Antonio, TX | Software Engineer Intern. Different technology areas are available. |
