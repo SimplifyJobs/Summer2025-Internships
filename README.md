@@ -103,7 +103,7 @@ Use this repo to share and keep track of tech internships for Summer 2022. List 
 |[Clever](https://clever.com/about/careers/detail?gh_jid=6194) | San Francisco, CA; Remote in US | Software Engineering Intern |
 |[Robinhood](https://robinhood.com/us/en/careers/openings/) | Menlo Park, CA | [Android Engineer](https://robinhood.com/us/en/careers/openings/?gh_jid=3335146), [Backend Engineer](https://robinhood.com/us/en/careers/openings/?gh_jid=3339166), [Data Scientist, Analytics](https://robinhood.com/us/en/careers/openings/?gh_jid=3335157) and other Intern positions are available. Winter and Fall internships are available too! |
 |[Jina AI](https://jobs.lever.co/jina-ai?commitment=Internship) | Remote | [Open Source Evangelist](https://jobs.lever.co/jina-ai/09706cea-24db-4636-966b-756ede597229)|
-|[TomTom](https://www.tomtom.com/careers/jobdetails/JOB_POSTING-3-20772/software-engineering-intern/) |Lebanon, USA | Software Engineering Intern|
+| <del>TomTom</del> | | **Closed** |
 |[Walmart](https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/US-AR-BENTONVILLE-Home-Office-ISD-Office---DGTC/XMLNAME-2022-Summer-Intern--Software-Engineer-II_R-682495)| Various | [Data Engineer III](https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/US-AR-BENTONVILLE-Home-Office-ISD-Office---DGTC/XMLNAME-2022-Summer-Intern--Data-Engineer-III_R-685463), [Software Engineer III](https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/US-AR-BENTONVILLE-Home-Office-ISD-Office---DGTC/XMLNAME-2022-Summer-Intern--Software-Engineer-III_R-682538), [Software Engineer II](https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/US-AR-BENTONVILLE-Home-Office-ISD-Office---DGTC/XMLNAME-2022-Summer-Intern--Software-Engineer-II_R-682495) Intern positions are available. |
 |[Duolingo](https://boards.greenhouse.io/duolingo/jobs/5422890002?gh_src=977bb0612us) | Pittsburgh, PA | Software Engineering Intern |
 |[Nuro.ai](https://www.nuro.ai/careersitem?gh_jid=3356175) | Mountain View, CA | Software Engineer Intern |
@@ -111,7 +111,7 @@ Use this repo to share and keep track of tech internships for Summer 2022. List 
  |[Hyperscience](https://jobs.lever.co/hyperscience/c136b270-1682-4ac7-82d8-83992b596d6c) | NYC | Software Engineering Intern, [Machine Learning Intern](https://jobs.lever.co/hyperscience/0d9aff24-1f5c-4477-848b-e0366ebaff44) Note: Visa sponsorship is not available. |
 | [Jump Trading LLC](https://www.jumptrading.com/apply.html?gh_jid=2939637) | Chicago, IL | Software Engineer Intern |
 |[Cox Automotive](https://jobs.coxenterprises.com/job/13505197/2022-summer-intern-draper-ut/) | Draper, UT | Software Engineer Intern |
-|[IBM](https://krb-sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=26059&siteid=5016&PageType=JobDetails&jobid=458529#jobDetails=458529_5016) | Various | DevOps Engineer Intern |
+|[IBM](https://www.ibm.com/us-en/employment/entrylevel/#jobs?%23jobs=&job-category=Software%2520Development%2520%2526%2520Support&experience=Intern) | Various | Various positions |
 |[Affirm](https://boards.greenhouse.io/affirm/jobs/4650433003?gh_src=689c81d53us)| Remote | Software Engineering Intern |
 |[Okta](https://www.okta.com/company/careers/engineering/software-engineer-intern-us-and-canada-3338724/)| San Francisco, San Jose, CA; Bellevue, WA | Software Engineer Intern | 
 |[Pearson](https://pearson.jobs/usa/jobs/?q=Intern)| Durham, NC; San Antonio, TX | Software Engineer Intern. Different technology areas are available. |
@@ -123,7 +123,11 @@ Use this repo to share and keep track of tech internships for Summer 2022. List 
 |[UnitedHealth Group](https://careers.unitedhealthgroup.com/job-search-results/?level[]=Student%20Internships) | La Crosse, Wisconsin | Software Engineer Intern, IT Intern. Must be eligible to work in the U.S. without company sponsorship, now or in the future. |
 |[SAP](https://jobs.sap.com/job/Palo-Alto-SAP-iXp-Intern-Software-Development-Summer-2022-CA-94304/702066001) | Various, virtual, in-person | Software Development Intern |
 |[Samsara](https://boards.greenhouse.io/samsara/jobs/3328844) | San Francisco, CA; Atlanta, GA | Software Engineering Intern |
+<<<<<<< HEAD
 |[TikTok](https://careers.tiktok.com/position?keywords=&category=&location=&project=&type=3&job_hot_flag=&current=1&limit=10)/[ByteDance](https://jobs.bytedance.com/en/position?keywords=&category=6704215862603155720&location=&project=&type=3&job_hot_flag=&current=1&limit=10) | Various | Software Engineer Intern, Computer Engineer Intern, NLP Engineer Intern and Big Data Engineer Intern positions are available |
+=======
+|[Datadog](https://www.datadoghq.com/careers/detail/?gh_jid=3339295&gh_src=8363eca61) | Boston, Madrid, New York, Paris | Software Engineering Intern |
+>>>>>>> 677d8a5ab124954550012fbf3eee3e57268a346c
 
 **We love our contributors ❤️❤️** 
 
@@ -166,3 +170,4 @@ Fill [this form](https://bit.ly/3d5O76c) or make a [pull request](https://github
 * [kvfp](https://github.com/kvfp)
 * [ducdoan510](https://github.com/ducdoan510)
 * [ZhiYingSun](https://github.com/ZhiYingSun)
+* [rohantib](https://github.com/rohantib)
