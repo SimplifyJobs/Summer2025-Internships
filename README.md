@@ -130,7 +130,7 @@ Use this repo to share and keep track of tech internships for Summer 2022. List 
 |[Truera](https://truera.talentify.io/job/software-engineer-intern-redwood-city-california-truera-d5338d3d-f480-464f-a351-40f4c49b4177?utm_source=linkedin_organic&utm_medium=Xml&tdd=dDEsaDM1LGo3cGY1cCxlcHJvNjEwZDNhMmE1ZWZmMDUzODk1MTUxMg) | Redwood, CA | Software Engineer Intern, [Machine Learning Intern](https://truera.talentify.io/job/machine-learning-intern-bellevue-washington-truera-44c2f914-b13e-4512-839e-d9204e172570?utm_source=linkedin_organic&utm_medium=Xml&tdd=dDEsaDM1LGo3cGY1YSxlcHJvNjEwZDNhMmE1ZWZmMDUzODk1MTUxMg) |
 |[TD Banks](https://jobs.td.com/en/job/13581186/2022-summer-analyst-software-engineer-new-york-ny/) | New York | Software Engineer Intern. Must be a U.S. Citizen. |
 |[Neocis](https://www.neocis.com/careers/?gnk=job&gni=8a7887a87acffd16017b30a8f2a86cac) | Miami, FL | Software Engineering Intern |
-
+|[Convoy](https://jobs.lever.co/convoy/27c772ba-2da3-4854-bb74-94f94eeb8d2f) | Seattle, WA | Software Engineer Intern |
 **We love our contributors ❤️❤️** 
 
 Fill [this form](https://bit.ly/3d5O76c) or make a [pull request](https://github.com/susam/gitpr#create-pull-request) to help contribute.
