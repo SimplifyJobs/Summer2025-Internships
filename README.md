@@ -1,5 +1,5 @@
-# Summer 2022 Internships by Pitt CSC 🤿👩‍💻
-Use this repo to share and keep track of tech internships for Summer 2022. List maintained by [the Pitt Computer Science Club](https://pittcsc.org/), join in discussions [here](https://github.com/pittcsc/Summer2022-Internships/discussions)! 
+# Summer 2022 Tech Internships by Pitt CSC 🤿👩‍💻
+Use this repo to share and keep track of software, tech, CS, PM, quant internships for Summer 2022. List maintained by [the Pitt Computer Science Club](https://pittcsc.org/)! 
 
  📈 For more tips on the internship process check out the [Zero to Offer program here](https://www.pittcs.wiki/zero-to-offer).  📈
  
@@ -110,7 +110,7 @@ Use this repo to share and keep track of tech internships for Summer 2022. List 
 |[Capital One](https://campus.capitalone.com/job/mclean/technology-internship-program-summer-2022/1786/19643592) | Various | [Master's Data Science Internship](https://campus.capitalone.com/job/-/-/1786/19642559) | 
  |[Hyperscience](https://jobs.lever.co/hyperscience/c136b270-1682-4ac7-82d8-83992b596d6c) | NYC | Software Engineering Intern, [Machine Learning Intern](https://jobs.lever.co/hyperscience/0d9aff24-1f5c-4477-848b-e0366ebaff44) Note: Visa sponsorship is not available. |
 | [Jump Trading LLC](https://www.jumptrading.com/apply.html?gh_jid=2939637) | Chicago, IL | Software Engineer Intern |
-|[Cox Automotive](https://jobs.coxenterprises.com/job/13505197/2022-summer-intern-draper-ut/) | Draper, UT | Software Engineer Intern |
+| <del>Cox Automotive</del> | | **Closed** |
 |[IBM](https://www.ibm.com/us-en/employment/entrylevel/#jobs?%23jobs=&job-category=Software%2520Development%2520%2526%2520Support&experience=Intern) | Various | Various positions |
 |[Affirm](https://boards.greenhouse.io/affirm/jobs/4650433003?gh_src=689c81d53us)| Remote | Software Engineering Intern |
 |[Okta](https://www.okta.com/company/careers/engineering/software-engineer-intern-us-and-canada-3338724/)| San Francisco, San Jose, CA; Bellevue, WA | Software Engineer Intern | 
@@ -129,6 +129,9 @@ Use this repo to share and keep track of tech internships for Summer 2022. List 
 |[Air Products](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25091&siteid=5105&PageType=JobDetails&jobid=721744#jobDetails=721744_5105) | Allentown, PA | SUMMER INTERN - DIGITAL TECHNOLOGY / IT SPECIALIST |
 |[Truera](https://truera.talentify.io/job/software-engineer-intern-redwood-city-california-truera-d5338d3d-f480-464f-a351-40f4c49b4177?utm_source=linkedin_organic&utm_medium=Xml&tdd=dDEsaDM1LGo3cGY1cCxlcHJvNjEwZDNhMmE1ZWZmMDUzODk1MTUxMg) | Redwood, CA | Software Engineer Intern, [Machine Learning Intern](https://truera.talentify.io/job/machine-learning-intern-bellevue-washington-truera-44c2f914-b13e-4512-839e-d9204e172570?utm_source=linkedin_organic&utm_medium=Xml&tdd=dDEsaDM1LGo3cGY1YSxlcHJvNjEwZDNhMmE1ZWZmMDUzODk1MTUxMg) |
 |[TD Banks](https://jobs.td.com/en/job/13581186/2022-summer-analyst-software-engineer-new-york-ny/) | New York | Software Engineer Intern. Must be a U.S. Citizen. |
+|[Neocis](https://www.neocis.com/careers/?gnk=job&gni=8a7887a87acffd16017b30a8f2a86cac) | Miami, FL | Software Engineering Intern |
+|[Convoy](https://jobs.lever.co/convoy/27c772ba-2da3-4854-bb74-94f94eeb8d2f) | Seattle, WA | Software Engineer Intern |
+|[Anduril](https://jobs.lever.co/anduril/d15840b6-081b-4d4c-95ed-008d681b4f7f) | Seattle, WA | Software Engineering Intern, US Citizen only |
 
 **We love our contributors ❤️❤️** 
 
