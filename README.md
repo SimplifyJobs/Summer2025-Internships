@@ -131,6 +131,7 @@ Use this repo to share and keep track of tech internships for Summer 2022. List 
 |[TD Banks](https://jobs.td.com/en/job/13581186/2022-summer-analyst-software-engineer-new-york-ny/) | New York | Software Engineer Intern. Must be a U.S. Citizen. |
 |[Neocis](https://www.neocis.com/careers/?gnk=job&gni=8a7887a87acffd16017b30a8f2a86cac) | Miami, FL | Software Engineering Intern |
 |[Convoy](https://jobs.lever.co/convoy/27c772ba-2da3-4854-bb74-94f94eeb8d2f) | Seattle, WA | Software Engineer Intern |
+|[Anduril](https://jobs.lever.co/anduril/d15840b6-081b-4d4c-95ed-008d681b4f7f) | Seattle, WA | Software Engineering Intern, US Citizen only |
 
 **We love our contributors ❤️❤️** 
 
