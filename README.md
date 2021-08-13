@@ -50,7 +50,7 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[Bracebridge Capital](https://phh.tbe.taleo.net/phh02/ats/careers/v2/viewRequisition?org=BRACEBRIDGE_CAPITAL&cws=41&rid=246) | Boston, MA | Investment Analyst position is available. |
 |[Federated Insurance](https://careers-federatedinsurance.icims.com/jobs/3098/it-systems-developer-intern---summer-2022/job?mode=job&iis=SOURCE&iisn=LinkedIn&mobile=false&width=1887&height=500&bga=true&needsRedirect=false&jan1offset=120&jun1offset=180) | Owatonna, MN | IT-Systems Developer Intern position is available. | 
 |[US Ventures](https://usventure.wd1.myworkdayjobs.com/USVExternal/job/WI---Green-Bay/Software-Engineering-Intern_REQ-007655) | Green Bay, WI | |
-| [Amazon/AWS](https://www.amazon.jobs/en/search?base_query=Summer+2022&loc_query=&latitude=&longitude=&loc_group_id=&invalid_location=false&country=&city=&region=&county=) | Various | [Software Development Engineer](https://www.amazon.jobs/en/jobs/1557929/software-development-engineer-internship-summer-2022-us), [Cloud Support Associate](https://www.amazon.jobs/en/jobs/1608042/cloud-support-associate-intern-summer-2022-us), [Assoc Customer Solutions Manager](https://www.amazon.jobs/en/jobs/1609945/assoc-customer-solutions-manager-intern-summer-2022-us) and other Intern positions are available. |
+| [Amazon/AWS](https://www.amazon.jobs/en/search?base_query=Summer+2022&loc_query=&latitude=&longitude=&loc_group_id=&invalid_location=false&country=&city=&region=&county=) | Various | [Software Development Engineer](https://www.amazon.jobs/en/jobs/1557929/software-development-engineer-internship-summer-2022-us), [Cloud Support Associate](https://www.amazon.jobs/en/jobs/1608042/cloud-support-associate-intern-summer-2022-us), [Assoc Customer Solutions Manager](https://www.amazon.jobs/en/jobs/1609945/assoc-customer-solutions-manager-intern-summer-2022-us), [Quality Assurance Engineer](https://www.amazon.jobs/en/jobs/1628670/quality-assurance-engineer-internship-summer-2022-us) and other Intern positions are available. |
 |[Palantir](https://jobs.lever.co/palantir?commitment=Internship)| Various | [Forward Deployed Software Engineer](https://jobs.lever.co/palantir/e6ff8bf2-135e-474d-ad37-24f490ae1dd2), [Software Engineer](https://jobs.lever.co/palantir/bdcfb29f-4f27-42de-933f-7f83a359b9f0), [Palantir Path](https://jobs.lever.co/palantir/667ad245-0eb8-44da-b29c-791c2fa081d3) Intern positions are available. |
 |[Tableau](https://salesforce.wd1.myworkdayjobs.com/en-US/Tableau/job/Washington---Seattle/Summer-2022-Intern---Tableau-Software-Engineer_JR103736) | Seattle, Austin, Palo Alto, SF | |
 |[McKinsey](https://www.mckinsey.com/careers/search-jobs/jobs/analystintern-softwareengineerdataengineerdatascientist-campusstudents-41875) | Boston, Chicago, New Jersey, New York City, San Francisco | Analyst Intern - Software Engineer / Data Engineer / Data Scientist |
@@ -131,9 +131,13 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[TD Banks](https://jobs.td.com/en/job/13581186/2022-summer-analyst-software-engineer-new-york-ny/) | New York | Software Engineer Intern. Must be a U.S. Citizen. |
 |[Neocis](https://www.neocis.com/careers/?gnk=job&gni=8a7887a87acffd16017b30a8f2a86cac) | Miami, FL | Software Engineering Intern |
 |[Convoy](https://jobs.lever.co/convoy/27c772ba-2da3-4854-bb74-94f94eeb8d2f) | Seattle, WA | Software Engineer Intern |
+|[Visa](https://jobs.smartrecruiters.com/Visa/743999765849108-undergrad-intern-technology-multiple-locations?trid=623f64f4-c657-499b-989f-16ab0ccee0d9)| Foster City, CA; San Francisco, CA; Palo Alto, CA; Ashburn, VA; Bellevue, WA; Austin, TX; Highlands Ranch, CO; Atlanta, GA | [Masters/PhD Intern - Technology](https://jobs.smartrecruiters.com/Visa/743999765850221-masters-phd-intern-technology-multiple-locations) |
 |[Anduril](https://jobs.lever.co/anduril/d15840b6-081b-4d4c-95ed-008d681b4f7f) | Seattle, WA | Software Engineering Intern, US Citizen only |
 |[Verkada](https://jobs.lever.co/verkada) | San Mateo, CA | [Backend Software Engineering](https://jobs.lever.co/verkada/8b7f4818-9994-469a-a485-d12d273bff13), [Computer Vision Engineering](https://jobs.lever.co/verkada/857d9e45-626a-44c0-bc8c-4d80bf8dc641), [Embedded Software Engineering](https://jobs.lever.co/verkada/67d4b6d7-7a59-4c8a-a411-d484e0f79e68) and other Intern positions are available. Winter internships are available too. |
-
+|[Steelcase](https://careers.steelcase.com/careers/FolderDetail/Software-Development-Intern/3892) | East Windsor, CT | Software Development Intern |
+|[Kapwing](https://jobs.lever.co/kapwing/0e525c6e-9287-4621-9487-0d658e432d1d) | San Francisco, CA | Full-Stack Software Engineering Intern, Undergrad only |
+|[F5 Network](https://f5.recsolu.com/jobs/n2w62aZ-ProSaIPCmlgSMA) | Seattle, WA | Software Engineering Intern |
+|[Wabtec](https://wabtec.wd1.myworkdayjobs.com/wabtec_careers/10/refreshFacet/318c8bb6f553100021d223d9780d30be) | Various | LEAD Information Technology Intern, Engineering Intern |
 
 **We love our contributors ❤️❤️** 
 
@@ -177,3 +181,5 @@ Fill [this form](https://bit.ly/3d5O76c) or make a [pull request](https://github
 * [ducdoan510](https://github.com/ducdoan510)
 * [ZhiYingSun](https://github.com/ZhiYingSun)
 * [rohantib](https://github.com/rohantib)
+* [mgayatri77](https://github.com/mgayatri77)
+
