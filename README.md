@@ -135,7 +135,7 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[Anduril](https://jobs.lever.co/anduril/d15840b6-081b-4d4c-95ed-008d681b4f7f) | Seattle, WA | Software Engineering Intern, US Citizen only |
 |[Verkada](https://jobs.lever.co/verkada) | San Mateo, CA | [Backend Software Engineering](https://jobs.lever.co/verkada/8b7f4818-9994-469a-a485-d12d273bff13), [Computer Vision Engineering](https://jobs.lever.co/verkada/857d9e45-626a-44c0-bc8c-4d80bf8dc641), [Embedded Software Engineering](https://jobs.lever.co/verkada/67d4b6d7-7a59-4c8a-a411-d484e0f79e68) and other Intern positions are available. Winter internships are available too. |
 |[Steelcase](https://careers.steelcase.com/careers/FolderDetail/Software-Development-Intern/3892) | East Windsor, CT | Software Development Intern |
-|[Wabtec](https://wabtec.wd1.myworkdayjobs.com/en-US/wabtec_careers/job/Pittsburgh-PA/LEAD-Information-Technology-Intern_R0045195-1) | Various | LEAD Information Technology Intern |
+|[Wabtec](https://wabtec.wd1.myworkdayjobs.com/wabtec_careers/10/refreshFacet/318c8bb6f553100021d223d9780d30be) | Various | LEAD Information Technology Intern, Engineering Intern |
 
 **We love our contributors ❤️❤️** 
 
