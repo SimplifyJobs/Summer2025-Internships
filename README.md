@@ -139,6 +139,7 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[F5 Network](https://f5.recsolu.com/jobs/n2w62aZ-ProSaIPCmlgSMA) | Seattle, WA | Software Engineering Intern |
 |[Wabtec](https://wabtec.wd1.myworkdayjobs.com/wabtec_careers/10/refreshFacet/318c8bb6f553100021d223d9780d30be) | Various | LEAD Information Technology Intern, Engineering Intern |
 |[Crown Equipment Corporation](https://us-careers.crown.com/job/New-Bremen-Software-Development-Co-Op-Fall-2021-1-OH-45869/776092500/) | New Bremen, OH | Software Development Co-Op |
+|[Lyft](https://www.lyft.com/careers#openings?search=intern) | New York, NY; Seattle, WA; San Francisco, CA | Software Engineer Intern, Frontend; Software Engineer Intern, Generalist. (Search "Intern") |
 
 **We love our contributors ❤️❤️** 
 
@@ -183,4 +184,6 @@ Fill [this form](https://bit.ly/3d5O76c) or make a [pull request](https://github
 * [ZhiYingSun](https://github.com/ZhiYingSun)
 * [rohantib](https://github.com/rohantib)
 * [mgayatri77](https://github.com/mgayatri77)
+* [scheng](https://github.com/scheng)
+
 
