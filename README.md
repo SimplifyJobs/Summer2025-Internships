@@ -138,6 +138,7 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[Kapwing](https://jobs.lever.co/kapwing/0e525c6e-9287-4621-9487-0d658e432d1d) | San Francisco, CA | Full-Stack Software Engineering Intern, Undergrad only |
 |[F5 Network](https://f5.recsolu.com/jobs/n2w62aZ-ProSaIPCmlgSMA) | Seattle, WA | Software Engineering Intern |
 |[Wabtec](https://wabtec.wd1.myworkdayjobs.com/wabtec_careers/10/refreshFacet/318c8bb6f553100021d223d9780d30be) | Various | LEAD Information Technology Intern, Engineering Intern |
+|[Crown Equipment Corporation](https://us-careers.crown.com/job/New-Bremen-Software-Development-Co-Op-Fall-2021-1-OH-45869/776092500/) | New Bremen, OH | Software Development Co-Op |
 
 **We love our contributors ❤️❤️** 
 
