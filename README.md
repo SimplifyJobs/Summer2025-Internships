@@ -140,6 +140,8 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[Wabtec](https://wabtec.wd1.myworkdayjobs.com/wabtec_careers/10/refreshFacet/318c8bb6f553100021d223d9780d30be) | Various | LEAD Information Technology Intern, Engineering Intern |
 |[Crown Equipment Corporation](https://us-careers.crown.com/job/New-Bremen-Software-Development-Co-Op-Fall-2021-1-OH-45869/776092500/) | New Bremen, OH | Software Development Co-Op |
 |[Lyft](https://www.lyft.com/careers#openings?search=intern) | New York, NY; Seattle, WA; San Francisco, CA | Search `"Intern"` - Software Engineer Intern, Frontend; Software Engineer Intern, Generalist. |
+|[Johnson & Johnson](https://jobs.jnj.com/jobs?keywords=Summer%202022&sortBy=relevance&page=1&location=United%20States&woe=12&stretchUnit=MILES&stretch=10) | Various | [R&D](https://jobs.jnj.com/jobs/2105903794W?lang=en-us&previousLocale=en-US), [Technology](https://jobs.jnj.com/jobs/2105956194W?lang=en-us&previousLocale=en-US) Intern positions are available. Candidates must be legally authorized to work in the U.S. and must not require sponsorship for employment visa status now, or in the future. |
+
 
 **We love our contributors ❤️❤️** 
 
