@@ -143,7 +143,7 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[Johnson & Johnson](https://jobs.jnj.com/jobs?keywords=Summer%202022&sortBy=relevance&page=1&location=United%20States&woe=12&stretchUnit=MILES&stretch=10) | Various | [R&D](https://jobs.jnj.com/jobs/2105903794W?lang=en-us&previousLocale=en-US), [Technology](https://jobs.jnj.com/jobs/2105956194W?lang=en-us&previousLocale=en-US) Intern positions are available. Candidates must be legally authorized to work in the U.S. and must not require sponsorship for employment visa status now, or in the future. |
 |[3M](https://3m.wd1.myworkdayjobs.com/en-US/Search/job/US-Minnesota-Maplewood/Internship---Undergraduate-Data-Science---Engineering-Intern_R01050492-1) | Maplewood, MN | Undergraduate Data Science & Engineering Intern, [Graduate Data Science & Engineering Intern](https://3m.wd1.myworkdayjobs.com/en-US/Search/job/US-Minnesota-Maplewood/Internship---Graduate-Data-Science---Engineering-Intern_R01050459-1). Some positions require candidate to be legally authorized to work in country of employment without sponsorship for employment visa status (e.g., H1B status). |
 |[Twitch](https://boards.greenhouse.io/twitch/jobs/5471047002) | San Francisco, CA | Engineering Intern (undergrads graduating in 2023/24 only) |
-
+|[Snackpass](https://boards.greenhouse.io/snackpass/jobs/4088786004) | New York, San Francisco, Los Angeles, or remote | Data Engineer Intern |
 
 **We love our contributors ❤️❤️** 
 
