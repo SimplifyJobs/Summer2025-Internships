@@ -145,7 +145,7 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[Twitch](https://boards.greenhouse.io/twitch/jobs/5471047002) | San Francisco, CA | Engineering Intern (undergrads graduating in 2023/24 only) |
 |[Verisk](https://jobs.smartrecruiters.com/Verisk/743999766697992-data-science-internship-2022-summer-internship-program-cr-) | Jersey City, NJ; White Plains, NY; Boston, MA; Lehi, UT | Data Science Intern |
 |[Snackpass](https://boards.greenhouse.io/snackpass/jobs/4088786004) | New York, San Francisco, Los Angeles, or remote | Data Engineer Intern |
-
+|[Roblox](https://corp.roblox.com/careers/listing/?gh_jid=3376216)| Software Engineer Intern
 **We love our contributors ❤️❤️** 
 
 Fill [this form](https://bit.ly/3d5O76c) or make a [pull request](https://github.com/susam/gitpr#create-pull-request) to help contribute.
