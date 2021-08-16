@@ -83,6 +83,8 @@ And we're back 😤🎉! Use this repo to share and keep track of any tech-relat
 |[Raytheon Technologies ](https://jobs.rtx.com/job/cedar-rapids/software-engineer-intern-summer-2022/4679/11354754720)|Cedar Rapids, IA|Collins Aerospace: Software Engineer Intern. Must be a U.S. Citizen|
 |[RSM](https://jobs.rsmus.com/ListJobs?Keyword=Summer+2022) | Various | [Technology - Business Apps](https://jobs.rsmus.com/ShowJob/JobId/498233/2022SummerConsultingInternTechnologyBusinessAppsNAV), [Data & Analytics Business Intelligence](https://jobs.rsmus.com/ShowJob/JobId/499037/2022SummerConsultingInternTechnologyDataAnalyticsBusinessIntelligence), [Application Development - NetSuite](https://jobs.rsmus.com/ShowJob/JobId/508905/2022SummerConsultingInternApplicationDevelopmentNetSuite) and other Intern positions are available. |
 |[Freddie Mac](https://careers.freddiemac.com/us/en/job/JR3553/Computer-Science-Intern-Summer-2022) |  McLean, VA | Computer Science Intern position is available. |
+|[Figma](https://jobs.lever.co/figma/76c46a06-91fd-4792-8907-9fe42aff1f26) |  San Francisco, CA and New York, NY | Software Engineer Intern (2022). |
+
 
 **We love our contributors ❤️❤️** 
 
