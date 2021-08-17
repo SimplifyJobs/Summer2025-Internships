@@ -146,13 +146,15 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[Verisk](https://jobs.smartrecruiters.com/Verisk/743999766697992-data-science-internship-2022-summer-internship-program-cr-) | Jersey City, NJ; White Plains, NY; Boston, MA; Lehi, UT | Data Science Intern |
 |[Snackpass](https://boards.greenhouse.io/snackpass/jobs/4088786004) | New York, San Francisco, Los Angeles, or remote | Data Engineer Intern |
 |[Roblox](https://corp.roblox.com/careers/listing/?gh_jid=3376216) | San Mateo, CA | Software Engineering Intern |
-|[Formlabs](https://careers.formlabs.com/internships/#job-listings) | Somerville, MA | Desktop SWE Intern, Embedded SWE Intern, Python SWE Intern and Web Developer Intern positions are available |
 |[Peraton](https://careers.peraton.com/job-details/13556879/systems-software-engineering-intern-chantilly-va/#job-description) | Chantilly, VA | Systems/Software Engineering Intern. Candidates must be legally authorized to work in the U.S. and must not require sponsorship for employment visa status now, or in the future. |
 |[Noblis](https://careers.noblis.org/listings)| Various | Search `"2022"` - Multiple Location Openings. |
 |[Appian Corp](https://boards.greenhouse.io/appian/jobs/3359486) | McLean, Virginia | Software Engineer Intern, for undergrad student only |
 |[Figma](https://jobs.lever.co/figma/76c46a06-91fd-4792-8907-9fe42aff1f26) |  San Francisco, CA and New York, NY | Software Engineer Intern (2022). |
 |[Rippling](https://www.rippling.com/careers/4614520003) | San Francisco, CA; or Remote | Software Engineering Intern |
 |[Principal Financial Group](https://careers-principal.icims.com/jobs/31700/software-engineer---data-engineer-internship-%28summer-2022%29/job) |Charlotte, NC and Des Moines, IA | Software Engineer / Data Engineer Internship(Summer 2022) Won't sponsor F1-CPT F1-OPT H-1 right now|
+|[Gem](https://boards.greenhouse.io/zensourcer/jobs/4945378002) | San Francisco, CA | Software Engineering Intern |
+|[Veeva](https://jobs.lever.co/veeva/8d206bef-9caa-41cb-a68d-410912f04865?lever-source=Veeva-Career-Site)|Columbus, Ohio and Pleasanton, CA | Software Engineer Intern |
+|[Persona](https://boards.greenhouse.io/persona/jobs/4665734003) | SF | |
 
 **We love our contributors ❤️❤️** 
 
@@ -198,5 +200,6 @@ Fill [this form](https://bit.ly/3d5O76c) or make a [pull request](https://github
 * [rohantib](https://github.com/rohantib)
 * [mgayatri77](https://github.com/mgayatri77)
 * [scheng](https://github.com/scheng)
+* [leundai](https://github.com/leundai)
 
 
