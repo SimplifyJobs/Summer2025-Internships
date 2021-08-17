@@ -152,6 +152,7 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[Figma](https://jobs.lever.co/figma/76c46a06-91fd-4792-8907-9fe42aff1f26) |  San Francisco, CA and New York, NY | Software Engineer Intern (2022). |
 |[Rippling](https://www.rippling.com/careers/4614520003) | San Francisco, CA; or Remote | Software Engineering Intern |
 |[Principal Financial Group](https://careers-principal.icims.com/jobs/31700/software-engineer---data-engineer-internship-%28summer-2022%29/job) |Charlotte, NC and Des Moines, IA | Software Engineer / Data Engineer Internship(Summer 2022) |
+|[Gem](https://boards.greenhouse.io/zensourcer/jobs/4945378002) | San Francisco, CA | Software Engineering Intern |
 |[Veeva](https://jobs.lever.co/veeva/8d206bef-9caa-41cb-a68d-410912f04865?lever-source=Veeva-Career-Site)|Columbus, Ohio and Pleasanton, CA | Software Engineer Intern |
 |[Persona](https://boards.greenhouse.io/persona/jobs/4665734003) | SF | |
 
@@ -199,5 +200,6 @@ Fill [this form](https://bit.ly/3d5O76c) or make a [pull request](https://github
 * [rohantib](https://github.com/rohantib)
 * [mgayatri77](https://github.com/mgayatri77)
 * [scheng](https://github.com/scheng)
+* [leundai](https://github.com/leundai)
 
 
