@@ -156,6 +156,7 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[Veeva](https://jobs.lever.co/veeva/8d206bef-9caa-41cb-a68d-410912f04865?lever-source=Veeva-Career-Site)|Columbus, Ohio and Pleasanton, CA | Software Engineer Intern |
 |[Persona](https://boards.greenhouse.io/persona/jobs/4665734003) | SF | |
 |[Guardian Life](https://guardian.taleo.net/careersection/gl_ex/jobsearch.ftl) | Various | Multiple openings related to Software Engineering, Cloud, Data Analytics, Cybersecurity. Applicants must be eligible to work in the U.S. without company sponsorship, now or in the future, for employment-based work authorization. |
+|[Daktronics](https://careers-daktronics.icims.com/jobs/4474/software-design-intern/job) | Brookings, South Dakota | 7-Month Internship cycle,January 10 – August 12, 2022 and May 16 – December 16, 2022. Applicants must be eligible to work in the U.S. without company sponsorship, now or in the future, for employment-based work authorization. |
 
 **We love our contributors ❤️❤️** 
 
