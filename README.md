@@ -158,6 +158,7 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[Guardian Life](https://guardian.taleo.net/careersection/gl_ex/jobsearch.ftl) | Various | Multiple openings related to Software Engineering, Cloud, Data Analytics, Cybersecurity. Applicants must be eligible to work in the U.S. without company sponsorship, now or in the future, for employment-based work authorization. |
 |[Honda](https://hondana.taleo.net/careersection/ah_ext/jobdetail.ftl?job=AHM0005QF&tz=GMT-05%3A00&tzname=America%2FChicago) | Various | Information Services Co-op/Intern, [Data Analytics Co-op/Intern](https://hondana.taleo.net/careersection/ah_ext/jobdetail.ftl?job=AHM0005QI&tz=GMT-05%3A00&tzname=America%2FChicago). Sponsorship for employment visa status for these positions is unavailable. |
 |[Daktronics](https://careers-daktronics.icims.com/jobs/4474/software-design-intern/job) | Brookings, South Dakota | 7-Month Internship cycle,January 10 – August 12, 2022 and May 16 – December 16, 2022. Applicants must be eligible to work in the U.S. without company sponsorship, now or in the future, for employment-based work authorization. |
+|[AArete](https://www.aarete.com/join-our-team/open-positions/) | Chicago, IL | [Consulting](https://jobs.jobvite.com/aarete/job/omvCgfwt), [Data Analytics](https://jobs.jobvite.com/aarete/job/owwCgfwE), [Technology](https://jobs.jobvite.com/aarete/job/oTPDgfwl) Intern positions are available. |
 
 
 **We love our contributors ❤️❤️** 
