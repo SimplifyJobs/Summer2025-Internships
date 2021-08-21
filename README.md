@@ -166,6 +166,7 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[OnPrem Solution Partners](https://jobs.lever.co/onprem.com/2dd1038b-211e-4caf-b9fd-f66ac6bb6117) | Austin, TX | Engineering Intern. Applicants for employment in the US must have work authorization that does not now or in the future require sponsorship of a visa for employment authorization in the United States. | 
 |[Belcan](https://belcanjobs.smartsearchonline.com/careersv2/jobdetails.asp?jo_num=314636) | Cedar Rapids, IA; Platteville, WI | Software Engineering Technician |
 |[Battelle](https://jobs.battelle.org/ShowJob/JobId/3047957/Cyber%20Engineer%20Intern%20(Summer%202022)) | Chantilly, VA | Cyber Engineer Intern. Must be a sole US citizen with the ability to obtain and maintain a US government security clearance. |
+|[Unilever](https://careers.unilever.com/job/united-states/information-technology-internship-2022/34155/12738361792) | United States; Remote | Information Technology Intern |
 
 **We love our contributors ❤️❤️** 
 
