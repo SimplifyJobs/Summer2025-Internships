@@ -73,7 +73,7 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[Red Ventures](https://careers.redventures.com/positions.html?team=college&office=&brand=) | Various | Various Positions related to Software Engineer, Business Analyst Internships |
 |[Prudential Financial](https://prudential.eightfold.ai/careers?query=2022&domain=prudential.com&pid=7785614&hl=en) | Newark, NJ | [Coding & Software Development](https://prudential.eightfold.ai/careers?pid=7768293&query=2022&domain=prudential.com&hl=en), [IT](https://prudential.eightfold.ai/careers?pid=7769005&query=2022&domain=prudential.com), [Data & Business Analyst](https://prudential.eightfold.ai/careers?pid=7771140&query=2022&domain=prudential.com&hl=en) Intern positions are available. Successful candidates must possess the requisite US employment authorization to be eligible for consideration. |
 |[Pimco](https://careers.pimco.com/careers/FolderDetail/2022-Summer-Tech-Intern-Software-Engineering/30309) | Austin, TX and Newport Beach, CA | | 
-|<del>Collins Aerospace</del> |  | **Closed** |
+|[Collins Aerospace](https://jobs.collinsaerospace.com/job/cedar-rapids/software-engineering-intern-summer-2022/1738/12891351808) | Cedar Rapids, Iowa | SWE |
 |[IMC](https://careers.imc.com/us/en/c/internships-jobs) | Chicago, IL | SWE and Quant Roles available. |
 |[Dick's Sporting Goods](https://www.dickssportinggoods.jobs/jobs/13316339/2022-corporate-internships-training-programs-pre-application-coraopolis-pa/?src=11663) | Coraopolis, PA | Interest form for SWE roles. |
 |[Citi Bank](https://jobs.citi.com/job/-/-/287/9929719696) | New York City, NY | Quantitative Analysis | Requires unrestricted U.S. work authorization. |
@@ -209,5 +209,5 @@ Fill [this form](https://bit.ly/3d5O76c) or make a [pull request](https://github
 * [mgayatri77](https://github.com/mgayatri77)
 * [scheng](https://github.com/scheng)
 * [leundai](https://github.com/leundai)
-
+* [davidteather](https://github.com/davidteather)
 
