@@ -163,7 +163,7 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[Quip](https://salesforce.wd1.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Summer-2022-Intern---Software-Engineer--Quip-_JR109626) | SF | Salesforce Subsidary |
 |[Urban Outfitters](https://career4.successfactors.com/career?career_ns=job_listing&company=URBN&navBarLevel=JOB_SEARCH&rcm_site_locale=en_US&career_job_req_id=146603) | Philadelphia, PA | Software Engineer Intern, IT Intern |
 |[Innovative Systems](http://career.innovativesystems.com/apply/pEU3iGangp/InternCoopSUMMER-2022-Software-Engineering) | Pittsburgh, PA | Software Engineering Intern |
-|[Unilever](https://careers.unilever.com/job/united-states/information-technology-internship-2022/34155/12738361792) | Remote | Information Technology Intern |
+|[Unilever](https://careers.unilever.com/job/united-states/information-technology-internship-2022/34155/12738361792) | United States; Remote | Information Technology Intern |
 
 **We love our contributors ❤️❤️** 
 
