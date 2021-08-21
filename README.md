@@ -163,6 +163,8 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[Quip](https://salesforce.wd1.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Summer-2022-Intern---Software-Engineer--Quip-_JR109626) | SF | Salesforce Subsidary |
 |[Urban Outfitters](https://career4.successfactors.com/career?career_ns=job_listing&company=URBN&navBarLevel=JOB_SEARCH&rcm_site_locale=en_US&career_job_req_id=146603) | Philadelphia, PA | Software Engineer Intern, IT Intern |
 |[Innovative Systems](http://career.innovativesystems.com/apply/pEU3iGangp/InternCoopSUMMER-2022-Software-Engineering) | Pittsburgh, PA | Software Engineering Intern |
+|[OnPrem Solution Partners](https://jobs.lever.co/onprem.com/2dd1038b-211e-4caf-b9fd-f66ac6bb6117) | Austin, TX | Engineering Intern. Applicants for employment in the US must have work authorization that does not now or in the future require sponsorship of a visa for employment authorization in the United States. | 
+|[Belcan](https://belcanjobs.smartsearchonline.com/careersv2/jobdetails.asp?jo_num=314636) | Cedar Rapids, IA; Platteville, WI | Software Engineering Technician |
 |[Battelle](https://jobs.battelle.org/ShowJob/JobId/3047957/Cyber%20Engineer%20Intern%20(Summer%202022)) | Chantilly, VA | Cyber Engineer Intern. Must be a sole US citizen with the ability to obtain and maintain a US government security clearance. |
 
 **We love our contributors ❤️❤️** 
