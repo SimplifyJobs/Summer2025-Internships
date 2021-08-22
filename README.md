@@ -170,6 +170,7 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[Battelle](https://jobs.battelle.org/ShowJob/JobId/3047957/Cyber%20Engineer%20Intern%20(Summer%202022)) | Chantilly, VA | Cyber Engineer Intern. Must be a sole US citizen with the ability to obtain and maintain a US government security clearance. |
 |[Unilever](https://careers.unilever.com/job/united-states/information-technology-internship-2022/34155/12738361792) | United States; Remote | Information Technology Intern |
 |[Silicon Labs](https://jobs.jobvite.com/silabs/job/oa8EgfwW) | Austin, TX; Boston, MA | [Applications Engineering](https://jobs.jobvite.com/silabs/job/olSDgfwQ), [Validation Engineering](https://jobs.jobvite.com/silabs/job/oQFEgfw9), [Software Engineering](https://jobs.jobvite.com/silabs/job/oa8EgfwW), [Product Test Engineering](https://jobs.jobvite.com/silabs/job/o38EgfwP) Intern positions are available. |
+|[Zoom](https://zoom.wd5.myworkdayjobs.com/Zoom/4/refreshFacet/318c8bb6f553100021d223d9780d30be) | Various | [Front-end](https://zoom.wd5.myworkdayjobs.com/en-US/Zoom/job/Remote--CA---Bay-Area/XMLNAME-2022-Front-End-Developer--Intern-_R5735) Intern position is available. | 
 
 **We love our contributors ❤️❤️** 
 
