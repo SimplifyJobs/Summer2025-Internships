@@ -172,6 +172,8 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[Silicon Labs](https://jobs.jobvite.com/silabs/job/oa8EgfwW) | Austin, TX; Boston, MA | [Applications Engineering](https://jobs.jobvite.com/silabs/job/olSDgfwQ), [Validation Engineering](https://jobs.jobvite.com/silabs/job/oQFEgfw9), [Software Engineering](https://jobs.jobvite.com/silabs/job/oa8EgfwW), [Product Test Engineering](https://jobs.jobvite.com/silabs/job/o38EgfwP) Intern positions are available. |
 |[Zoom](https://zoom.wd5.myworkdayjobs.com/Zoom/4/refreshFacet/318c8bb6f553100021d223d9780d30be) | Various | [Front-End](https://zoom.wd5.myworkdayjobs.com/en-US/Zoom/job/Remote--CA---Bay-Area/XMLNAME-2022-Front-End-Developer--Intern-_R5735) Intern position is available. | 
 |[Zebra Technologies](https://early-careers-zebra.icims.com/jobs/search?ss=1&searchKeyword=2022) | Various | Multiple Intern Openings. Must be authorized to work in the U.S. on a permanent basis without requiring sponsorship. |
+|[TuSimple](https://boards.greenhouse.io/tusimpleinternship) | Tucson, AZ; San Diego, CA | |
+|[Ocient](https://www.ocient.com/jobs/?gh_jid=4578168003) | Chicago, IL | |
 
 **We love our contributors ❤️❤️** 
 
