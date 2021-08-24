@@ -176,7 +176,7 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[Ocient](https://www.ocient.com/jobs/?gh_jid=4578168003) | Chicago, IL | |
 |[Texas Instruments](https://careers.ti.com/job/13584684/software-engineering-intern-dallas-tx/) | Dallas, TX | |
 |[Amazon Robotics](https://www.amazon.jobs/en/jobs/1650024/software-development-engineer-intern-amazon-robotics-summer-2022) | Boston, MA | |
-|[Wells Fargo](https://www.wellsfargojobs.com/job/-/-/1251/13073148992) | Various | Technology Analyst Program.Must be authorized to work in the U.S. on a permanent basis without requiring sponsorship. |
+|[Wells Fargo](https://www.wellsfargojobs.com/job/-/-/1251/13073148992) | Various | Technology Internship Program. Must be authorized to work in the U.S. on a permanent basis without requiring sponsorship. |
 
 **We love our contributors ❤️❤️** 
 
