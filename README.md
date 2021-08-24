@@ -176,6 +176,7 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[Ocient](https://www.ocient.com/jobs/?gh_jid=4578168003) | Chicago, IL | |
 |[Texas Instruments](https://careers.ti.com/job/13584684/software-engineering-intern-dallas-tx/) | Dallas, TX | |
 |[Amazon Robotics](https://www.amazon.jobs/en/jobs/1650024/software-development-engineer-intern-amazon-robotics-summer-2022) | Boston, MA | |
+|[Plaid](https://plaid.com/careers/openings/university/new-york/software-engineer-intern-nyc/) | NYC, NY | Position also avaliable in San Francisco and Salt Lake City |
 
 **We love our contributors ❤️❤️** 
 
@@ -223,4 +224,5 @@ Fill [this form](https://bit.ly/3d5O76c) or make a [pull request](https://github
 * [scheng](https://github.com/scheng)
 * [leundai](https://github.com/leundai)
 * [davidteather](https://github.com/davidteather)
+* [therealsharath](https://github.com/therealsharath)
 
