@@ -166,7 +166,7 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[Urban Outfitters](https://career4.successfactors.com/career?career_ns=job_listing&company=URBN&navBarLevel=JOB_SEARCH&rcm_site_locale=en_US&career_job_req_id=146603) | Philadelphia, PA | Software Engineer Intern, IT Intern |
 |[Innovative Systems](http://career.innovativesystems.com/apply/pEU3iGangp/InternCoopSUMMER-2022-Software-Engineering) | Pittsburgh, PA | Software Engineering Intern |
 |[OnPrem Solution Partners](https://jobs.lever.co/onprem.com/2dd1038b-211e-4caf-b9fd-f66ac6bb6117) | Austin, TX | Engineering Intern. Applicants for employment in the US must have work authorization that does not now or in the future require sponsorship of a visa for employment authorization in the United States. | 
-| <del>Belcan</del> | **Closed** |
+| <del>Belcan</del> | | **Closed** |
 |[Battelle](https://jobs.battelle.org/ShowJob/JobId/3047957/Cyber%20Engineer%20Intern%20(Summer%202022)) | Chantilly, VA | Cyber Engineer Intern. Must be a sole US citizen with the ability to obtain and maintain a US government security clearance. |
 |[Unilever](https://careers.unilever.com/job/united-states/information-technology-internship-2022/34155/12738361792) | United States; Remote | Information Technology Intern |
 |[Silicon Labs](https://jobs.jobvite.com/silabs/job/oa8EgfwW) | Austin, TX; Boston, MA | [Applications Engineering](https://jobs.jobvite.com/silabs/job/olSDgfwQ), [Validation Engineering](https://jobs.jobvite.com/silabs/job/oQFEgfw9), [Software Engineering](https://jobs.jobvite.com/silabs/job/oa8EgfwW), [Product Test Engineering](https://jobs.jobvite.com/silabs/job/o38EgfwP) Intern positions are available. |
