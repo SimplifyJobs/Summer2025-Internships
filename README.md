@@ -161,12 +161,12 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[Honda](https://hondana.taleo.net/careersection/ah_ext/jobdetail.ftl?job=AHM0005QF&tz=GMT-05%3A00&tzname=America%2FChicago) | Various | Information Services Co-op/Intern, [Data Analytics Co-op/Intern](https://hondana.taleo.net/careersection/ah_ext/jobdetail.ftl?job=AHM0005QI&tz=GMT-05%3A00&tzname=America%2FChicago). Sponsorship for employment visa status for these positions is unavailable. |
 |[Daktronics](https://careers-daktronics.icims.com/jobs/4474/software-design-intern/job) | Brookings, South Dakota | 7-Month Internship cycle,January 10 – August 12, 2022 and May 16 – December 16, 2022. Applicants must be eligible to work in the U.S. without company sponsorship, now or in the future, for employment-based work authorization. |
 |[AArete](https://www.aarete.com/join-our-team/open-positions/) | Chicago, IL | [Consulting](https://jobs.jobvite.com/aarete/job/omvCgfwt), [Data Analytics](https://jobs.jobvite.com/aarete/job/owwCgfwE), [Technology](https://jobs.jobvite.com/aarete/job/oTPDgfwl) Intern positions are available. |
-|[Snap](https://snap.com/en-US/jobs?types=Intern)| Los Angles, CA | Software Engineer Intern
+|<del>Snap</del>| |  **Closed** |
 |[Quip](https://salesforce.wd1.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Summer-2022-Intern---Software-Engineer--Quip-_JR109626) | SF | Salesforce Subsidary |
 |[Urban Outfitters](https://career4.successfactors.com/career?career_ns=job_listing&company=URBN&navBarLevel=JOB_SEARCH&rcm_site_locale=en_US&career_job_req_id=146603) | Philadelphia, PA | Software Engineer Intern, IT Intern |
 |[Innovative Systems](http://career.innovativesystems.com/apply/pEU3iGangp/InternCoopSUMMER-2022-Software-Engineering) | Pittsburgh, PA | Software Engineering Intern |
 |[OnPrem Solution Partners](https://jobs.lever.co/onprem.com/2dd1038b-211e-4caf-b9fd-f66ac6bb6117) | Austin, TX | Engineering Intern. Applicants for employment in the US must have work authorization that does not now or in the future require sponsorship of a visa for employment authorization in the United States. | 
-|[Belcan](https://belcanjobs.smartsearchonline.com/careersv2/jobdetails.asp?jo_num=314636) | Cedar Rapids, IA; Platteville, WI | Software Engineering Technician |
+| <del>Belcan</del> | **Closed** |
 |[Battelle](https://jobs.battelle.org/ShowJob/JobId/3047957/Cyber%20Engineer%20Intern%20(Summer%202022)) | Chantilly, VA | Cyber Engineer Intern. Must be a sole US citizen with the ability to obtain and maintain a US government security clearance. |
 |[Unilever](https://careers.unilever.com/job/united-states/information-technology-internship-2022/34155/12738361792) | United States; Remote | Information Technology Intern |
 |[Silicon Labs](https://jobs.jobvite.com/silabs/job/oa8EgfwW) | Austin, TX; Boston, MA | [Applications Engineering](https://jobs.jobvite.com/silabs/job/olSDgfwQ), [Validation Engineering](https://jobs.jobvite.com/silabs/job/oQFEgfw9), [Software Engineering](https://jobs.jobvite.com/silabs/job/oa8EgfwW), [Product Test Engineering](https://jobs.jobvite.com/silabs/job/o38EgfwP) Intern positions are available. |
@@ -180,6 +180,7 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[DataBricks](https://databricks.com/company/careers/open-positions/job?gh_jid=5488591002) | San Francisco, CA | Software Engineer Intern |
 |[Pinterest](https://www.pinterestcareers.com/job/13690769/software-engineering-intern-2022-seattle-wa/) | Seattle, San Francisco, Palo Alto | Software Engineering Intern |
 |[Plaid](https://plaid.com/careers/openings/all-departments/all-locations/?role=software%20engineer%20-%20intern) | New York, San Francisco, Salt Lake City | | 
+|[Mastercard](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/40/refreshFacet/318c8bb6f553100021d223d9780d30be) | New York, Virginia, Missouri | Software Engineer Intern. Must be authorized to work in the U.S. on a permanent basis without requiring sponsorship. |
 |[Bloomberg](https://careers.bloomberg.com/job/detail/93579) | Princeton, NJ | Global Data Summer Internship. Legal authorization to work full-time in the United States. |
 
 **We love our contributors ❤️❤️** 
