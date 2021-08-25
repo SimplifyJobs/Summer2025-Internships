@@ -14,7 +14,7 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 | Name  |  Location |  Notes |
 |---|---|-------------|
 | [Hudson River Trading](https://www.hudsonrivertrading.com/careers/job/?gh_jid=3015374) | NYC, Chicago, London, Austin | SWE, [Algo Internship](https://www.hudsonrivertrading.com/careers/job/?gh_jid=3008603) |
-| [Bridgewater Associates](https://boards.greenhouse.io/bridgewater89/jobs/4076389002) | Westport, CT | |
+| <del>Bridgewater Associates</del> | | **Closed** |
 | [Credit Suisse](https://tas-creditsuisse.taleo.net/careersection/campus/moresearch.ftl) | Raleigh, NYC | Search `"2022 Americas Technology Summer Analyst Program"`|
 | <del>BlackStone</del> | | **Closed** |
 | [PWC](https://jobs.us.pwc.com/search-jobs/Summer%202022/United%20States/932/1/2/6252001/39x76/-98x5/25/2) | Various | [Technology Consulting](https://jobs.us.pwc.com/job/los-angeles/technology-consulting-intern-summer-2022/932/12073994960) Intern position is available. |
@@ -177,6 +177,8 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[Texas Instruments](https://careers.ti.com/job/13584684/software-engineering-intern-dallas-tx/) | Dallas, TX | |
 |[Amazon Robotics](https://www.amazon.jobs/en/jobs/1650024/software-development-engineer-intern-amazon-robotics-summer-2022) | Boston, MA | |
 |[Wells Fargo](https://www.wellsfargojobs.com/job/des-moines/2022-wells-fargo-technology-internship-program/1251/13073149088) | Various | Technology Internship Program. Must be authorized to work in the U.S. on a permanent basis without requiring sponsorship. |
+|[DataBricks](https://databricks.com/company/careers/open-positions/job?gh_jid=5488591002) | San Francisco, CA | Software Engineer Intern |
+|[Pinterest](https://www.pinterestcareers.com/job/13690769/software-engineering-intern-2022-seattle-wa/) | Seattle, San Francisco, Palo Alto | Software Engineering Intern |
 
 **We love our contributors ❤️❤️** 
 
@@ -224,4 +226,5 @@ Fill [this form](https://bit.ly/3d5O76c) or make a [pull request](https://github
 * [scheng](https://github.com/scheng)
 * [leundai](https://github.com/leundai)
 * [davidteather](https://github.com/davidteather)
+* [danmoop](https://github.com/danmoop)
 
