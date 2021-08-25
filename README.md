@@ -177,8 +177,8 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[Texas Instruments](https://careers.ti.com/job/13584684/software-engineering-intern-dallas-tx/) | Dallas, TX | |
 |[Amazon Robotics](https://www.amazon.jobs/en/jobs/1650024/software-development-engineer-intern-amazon-robotics-summer-2022) | Boston, MA | |
 |[Wells Fargo](https://www.wellsfargojobs.com/job/des-moines/2022-wells-fargo-technology-internship-program/1251/13073149088) | Various | Technology Internship Program. Must be authorized to work in the U.S. on a permanent basis without requiring sponsorship. |
-|[DataBricks](https://databricks.com/company/careers/open-positions/job?gh_jid=5488591002) | San Francisco, CA | Software Engineer Intern
-|[Pinterest](https://www.pinterestcareers.com/job/13690769/software-engineering-intern-2022-seattle-wa/) | Seattle, San Francisco, Palo Alto | Software Engineering Intern
+|[DataBricks](https://databricks.com/company/careers/open-positions/job?gh_jid=5488591002) | San Francisco, CA | Software Engineer Intern |
+|[Pinterest](https://www.pinterestcareers.com/job/13690769/software-engineering-intern-2022-seattle-wa/) | Seattle, San Francisco, Palo Alto | Software Engineering Intern |
 
 **We love our contributors ❤️❤️** 
 
