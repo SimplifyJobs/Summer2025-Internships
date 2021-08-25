@@ -181,6 +181,7 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[Pinterest](https://www.pinterestcareers.com/job/13690769/software-engineering-intern-2022-seattle-wa/) | Seattle, San Francisco, Palo Alto | Software Engineering Intern |
 |[Plaid](https://plaid.com/careers/openings/all-departments/all-locations/?role=software%20engineer%20-%20intern) | New York, San Francisco, Salt Lake City | | 
 |[Mastercard](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/40/refreshFacet/318c8bb6f553100021d223d9780d30be) | New York, Virginia, Missouri | Software Engineer Intern. Must be authorized to work in the U.S. on a permanent basis without requiring sponsorship. |
+|[Bloomberg](https://careers.bloomberg.com/job/detail/93579) | Princeton, NJ | Global Data Summer Internship. Legal authorization to work full-time in the United States. |
 
 **We love our contributors ❤️❤️** 
 
