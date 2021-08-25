@@ -93,7 +93,7 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[Virtu Financial](https://boards.greenhouse.io/virtu/jobs/5432329002) | NYC | Developer Intern position is available. |
 |[Applied Intuition](https://jobs.lever.co/applied/c22805d5-2006-4867-bb32-671951b17206) | SF | |
 |[MathWorks](https://www.mathworks.com/company/jobs/opportunities/search?%3Fjob_type_id%255b%255d=1755&posting_org_id%5B%5D=1&posting_team_id%5B%5D=18&posting_team_id%5B%5D=22&posting_team_id%5B%5D=21&posting_team_id%5B%5D=20&job_type_id%5B%5D=1755) | Natick, MA | |
-| <del>Redfin</del> | Seattle, WA | **Closed** |
+|[Redfin](https://redfin.wd1.myworkdayjobs.com/en-US/redfin_careers/job/WA---Seattle/Software-Engineer---2022-Internship_41345) | Seattle, WA; San Francisco, CA; Plano, TX | Software Engineer Intern |
 |[Quantco](https://jobs.lever.co/quantco-/d3f46e52-c120-4b25-aee6-bc743daaf6d7?lever-origin=applied&lever-source%5B%5D=GitHub) | Global | |
 |[Virgin Orbit](https://careers-virginorbit.icims.com/jobs/6289/2022-summer-internship---multiple-departments/job?mobile=false&width=1168&height=500&bga=true&needsRedirect=false&jan1offset=-480&jun1offset=-420) | Long Beach, CA | Applicant must be a U.S. citizen, lawful permanent resident of the U.S., protected individual as defined by ITAR (22 CFR §120.15) or eligible to obtain the required authorizations from the U.S. Department of State. |
 |[Crestron](https://careers-crestron.icims.com/jobs/6959/intern---summer-2022-%28all-departments%29/job) | Rockleigh, NJ, NY, Plano, TX | |
