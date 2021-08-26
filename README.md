@@ -184,6 +184,7 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[Bloomberg](https://careers.bloomberg.com/job/detail/93579) | Princeton, NJ | Global Data Summer Internship. Legal authorization to work full-time in the United States. |
 |[Twilio](https://boards.greenhouse.io/twilio/jobs/3409885)| Various | Software Engineer Intern |
 |[Factset](https://factset.wd1.myworkdayjobs.com/en-US/FactSetCareers/job/New-York-NY-USA/Software-Engineer-Intern---Americas-Campus--Summer-2022-_R12001) | Various | Software Engineer Intern. Only for Undergraduates. |
+|[Leidos](https://careers.leidos.com/search/intern/jobs) | Various | |
 
 **We love our contributors ❤️❤️**
 
