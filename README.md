@@ -185,6 +185,7 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[Twilio](https://boards.greenhouse.io/twilio/jobs/3409885)| Various | Software Engineer Intern |
 |[Factset](https://factset.wd1.myworkdayjobs.com/en-US/FactSetCareers/job/New-York-NY-USA/Software-Engineer-Intern---Americas-Campus--Summer-2022-_R12001) | Various | Software Engineer Intern. Only for Undergraduates. |
 |[Leidos](https://careers.leidos.com/search/intern/jobs) | Various | |
+|[Quantcast](https://jobs.lever.co/quantcast/f56c1fd6-432b-4fa5-933c-34cdc22ad55d) | SF | Software Engineering Intern |
 
 **We love our contributors ❤️❤️**
 
