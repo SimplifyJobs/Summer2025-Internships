@@ -156,7 +156,7 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[Principal Financial Group](https://careers-principal.icims.com/jobs/31700/software-engineer---data-engineer-internship-%28summer-2022%29/job) |Charlotte, NC and Des Moines, IA | Software Engineer / Data Engineer Internship(Summer 2022) Won't sponsor F1-CPT F1-OPT H-1 right now|
 |[Gem](https://boards.greenhouse.io/zensourcer/jobs/4945378002) | San Francisco, CA | Software Engineering Intern |
 |[Veeva](https://jobs.lever.co/veeva/8d206bef-9caa-41cb-a68d-410912f04865?lever-source=Veeva-Career-Site)|Columbus, Ohio and Pleasanton, CA | Software Engineer Intern |
-|[Persona](https://boards.greenhouse.io/persona/jobs/4665734003) | SF | |
+|<del>Persona</del> | | Closed |
 |[Guardian Life](https://guardian.taleo.net/careersection/gl_ex/jobsearch.ftl) | Various | Multiple openings related to Software Engineering, Cloud, Data Analytics, Cybersecurity. Applicants must be eligible to work in the U.S. without company sponsorship, now or in the future, for employment-based work authorization. |
 |[Honda](https://hondana.taleo.net/careersection/ah_ext/jobdetail.ftl?job=AHM0005QF&tz=GMT-05%3A00&tzname=America%2FChicago) | Various | Information Services Co-op/Intern, [Data Analytics Co-op/Intern](https://hondana.taleo.net/careersection/ah_ext/jobdetail.ftl?job=AHM0005QI&tz=GMT-05%3A00&tzname=America%2FChicago). Sponsorship for employment visa status for these positions is unavailable. |
 |[Daktronics](https://careers-daktronics.icims.com/jobs/4474/software-design-intern/job) | Brookings, South Dakota | 7-Month Internship cycle,January 10 – August 12, 2022 and May 16 – December 16, 2022. Applicants must be eligible to work in the U.S. without company sponsorship, now or in the future, for employment-based work authorization. |
@@ -184,8 +184,17 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[Bloomberg](https://careers.bloomberg.com/job/detail/93579) | Princeton, NJ | Global Data Summer Internship. Legal authorization to work full-time in the United States. |
 |[Twilio](https://boards.greenhouse.io/twilio/jobs/3409885)| Various | Software Engineer Intern |
 |[Factset](https://factset.wd1.myworkdayjobs.com/en-US/FactSetCareers/job/New-York-NY-USA/Software-Engineer-Intern---Americas-Campus--Summer-2022-_R12001) | Various | Software Engineer Intern. Only for Undergraduates. |
-|[Leidos](https://careers.leidos.com/search/intern/jobs) | Various | |
+|[Leidos](https://careers.leidos.com/search/intern/jobs) | Various | US Citizenship required for Software Developer Intern |
+|[Broadway Technology](https://jobs.lever.co/broadwaytechnology/2048b077-9404-4ab0-8dc9-9022ab90a711) | New York, NY | Software Engineer Intern |
+|[Asurion](https://careers.asurion.com/ShowJob/Id/11450/Software%20Engineer%20Intern) | Nashville, TN | Software Engineering Intern (for rising juniors and seniors)|
+|[Yext](https://boards.greenhouse.io/yext/jobs/3406424) | Washington, D.C | Software Engineering Intern |
+|[PatientCo](https://jobs.lever.co/patientcolife/2dfa196b-65c9-49ba-963f-5c0956cd870d) | Atlanta | Software Engineer Co-op |
+|[24G](https://www.24g.com/careers) | Troy, MI | Search for Engineering Intern in this career page |
+|[ServiceNow](https://jobs.smartrecruiters.com/ServiceNow/743999768965759-software-engineering-internship) | Santa Clara, CA | Software Engineering Intern, Various Positions available |
+|[Quantcast](https://jobs.lever.co/quantcast/f56c1fd6-432b-4fa5-933c-34cdc22ad55d) | SF | Software Engineering Intern |
 |[U.S Bank](https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/Atlanta-GA/XMLNAME-2022-Undergraduate-Summer-Internship-Program---Software-Development_2021-0043490) | Various | Software Development Intern. Only for Undergraduates.|
+
+
 
 **We love our contributors ❤️❤️**
 
