@@ -194,6 +194,7 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[Quantcast](https://jobs.lever.co/quantcast/f56c1fd6-432b-4fa5-933c-34cdc22ad55d) | SF | Software Engineering Intern |
 |[U.S Bank](https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/Atlanta-GA/XMLNAME-2022-Undergraduate-Summer-Internship-Program---Software-Development_2021-0043490) | Various | Software Development Intern. Only for Undergraduates.|
 |[NetApp](https://netapp.eightfold.ai/careers?pid=8617938&seniority=Intern&domain=netapp.com&triggerGoButton=false) | Various | |
+|[FireEye](https://www.fireeye.com/company/jobs.html) | Various | [Mandiant Information Security](https://jobs.smartrecruiters.com/FireEyeInc1/743999768661855), [Mandiant Incident Response](https://jobs.smartrecruiters.com/FireEyeInc1/743999768673869), [Reverse Engineering](https://jobs.smartrecruiters.com/FireEyeInc1/743999768674573) and other Intern positions are available. Some positions require applicant to be eligible to work in the US without sponsorship. |
 
 
 **We love our contributors ❤️❤️**
