@@ -191,6 +191,7 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[PatientCo](https://jobs.lever.co/patientcolife/2dfa196b-65c9-49ba-963f-5c0956cd870d) | Atlanta | Software Engineer Co-op |
 |[24G](https://www.24g.com/careers) | Troy, MI | Search for Engineering Intern in this career page |
 |[ServiceNow](https://jobs.smartrecruiters.com/ServiceNow/743999768965759-software-engineering-internship) | Santa Clara, CA | Software Engineering Intern, Various Positions available |
+|[Quantcast](https://jobs.lever.co/quantcast/f56c1fd6-432b-4fa5-933c-34cdc22ad55d) | SF | Software Engineering Intern |
 
 
 
