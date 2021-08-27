@@ -192,6 +192,7 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[24G](https://www.24g.com/careers) | Troy, MI | Search for Engineering Intern in this career page |
 |[ServiceNow](https://jobs.smartrecruiters.com/ServiceNow/743999768965759-software-engineering-internship) | Santa Clara, CA | Software Engineering Intern, Various Positions available |
 |[Quantcast](https://jobs.lever.co/quantcast/f56c1fd6-432b-4fa5-933c-34cdc22ad55d) | SF | Software Engineering Intern |
+|[U.S Bank](https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/Atlanta-GA/XMLNAME-2022-Undergraduate-Summer-Internship-Program---Software-Development_2021-0043490) | Various | Software Development Intern. Only for Undergraduates.|
 
 
 
