@@ -190,7 +190,7 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[Yext](https://boards.greenhouse.io/yext/jobs/3406424) | Washington, D.C | Software Engineering Intern |
 |[PatientCo](https://jobs.lever.co/patientcolife/2dfa196b-65c9-49ba-963f-5c0956cd870d) | Atlanta | Software Engineer Co-op |
 |[24G](https://www.24g.com/careers) | Troy, MI | Search for Engineering Intern in this career page |
-
+|[ServiceNow](https://jobs.smartrecruiters.com/ServiceNow/743999768965759-software-engineering-internship) | Santa Clara, CA | Software Engineering Intern, Various Positions available |
 
 
 
