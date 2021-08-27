@@ -187,6 +187,8 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[Leidos](https://careers.leidos.com/search/intern/jobs) | Various | US Citizenship required for Software Developer Intern |
 |[Broadway Technology](https://jobs.lever.co/broadwaytechnology/2048b077-9404-4ab0-8dc9-9022ab90a711) | New York, NY | Software Engineer Intern |
 |[Asurion](https://careers.asurion.com/ShowJob/Id/11450/Software%20Engineer%20Intern) | Nashville, TN | Software Engineering Intern (for rising juniors and seniors)|
+|[Yext](https://boards.greenhouse.io/yext/jobs/3406424) | Washington, D.C | Software Engineering Intern |
+
 
 
 
