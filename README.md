@@ -189,6 +189,7 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[Asurion](https://careers.asurion.com/ShowJob/Id/11450/Software%20Engineer%20Intern) | Nashville, TN | Software Engineering Intern (for rising juniors and seniors)|
 |[Yext](https://boards.greenhouse.io/yext/jobs/3406424) | Washington, D.C | Software Engineering Intern |
 |[PatientCo](https://jobs.lever.co/patientcolife/2dfa196b-65c9-49ba-963f-5c0956cd870d) | Atlanta | Software Engineer Co-op |
+|[24G](https://www.24g.com/careers) | Troy, MI | Search for Engineering Intern in this career page |
 
 
 
