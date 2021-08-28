@@ -199,6 +199,7 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[Blend](https://boards.greenhouse.io/blend/jobs/4092887004) | Remote, US | Software Engineer Intern |
 |[Motional](https://boards.greenhouse.io/motional/jobs/4680547003) | Boston, MA | Embedded Software Engineer |
 |[Hudl](https://boards.greenhouse.io/hudl) | Lincoln, NE | [Software Quality Analyst](https://boards.greenhouse.io/hudl/jobs/3415809), [Software Development](https://boards.greenhouse.io/hudl/jobs/3355652) Intern positions are available. |
+|[OSISoft](https://osisoft.wd1.myworkdayjobs.com/en-US/osisoft_careers/job/San-Leandro-California-USA/Software-Development-Intern---US_R003277) | San Leandro, California; Johnson City, Tennessee; Philadelphia, Pennsylvania; Scottsdale, Arizona | Software Development Intern |
 
 **We love our contributors ❤️❤️**
 
