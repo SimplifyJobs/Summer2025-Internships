@@ -198,7 +198,8 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[Uline](https://www.uline.jobs/JobDetails?culture=en&jobid=5648BR&jobtitle=Data-Engineer-Internship---Summer-2022)| Pleasant Prairie, Wisconsin | Data Engineer Internship |
 |[Blend](https://boards.greenhouse.io/blend/jobs/4092887004) | Remote, US | Software Engineer Intern |
 |[Motional](https://boards.greenhouse.io/motional/jobs/4680547003) | Boston, MA | Embedded Software Engineer |
-|[Hudl](https://boards.greenhouse.io/hudl/jobs/3415809) | Lincoln, NE | [Software Quality Analyst](https://boards.greenhouse.io/hudl/jobs/3415809), [Software Development](https://boards.greenhouse.io/hudl/jobs/3355652) Intern positions are available. |
+|[Hudl](https://boards.greenhouse.io/hudl) | Lincoln, NE | [Software Quality Analyst](https://boards.greenhouse.io/hudl/jobs/3415809), [Software Development](https://boards.greenhouse.io/hudl/jobs/3355652) Intern positions are available. |
+|[OSISoft](https://osisoft.wd1.myworkdayjobs.com/en-US/osisoft_careers/job/San-Leandro-California-USA/Software-Development-Intern---US_R003277) | San Leandro, California; Johnson City, Tennessee; Philadelphia, Pennsylvania; Scottsdale, Arizona | Software Development Intern |
 |[Valkyrie Trading](https://valkyrie-trading.talentify.io/job/software-engineer-intern-summer-2022-chicago-illinois-valkyrie-trading-4da392d5-e1f9-4d0f-8574-aa95e2966875) | Chicago / Illinois | Software Engineer Intern |
 
 **We love our contributors ❤️❤️**
