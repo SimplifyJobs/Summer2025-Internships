@@ -104,7 +104,7 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[HubSpot](https://www.hubspot.com/careers/jobs/2319369) | Remote | |
 |[Clever](https://clever.com/about/careers/detail?gh_jid=6194) | San Francisco, CA; Remote in US | Software Engineering Intern |
 |[Robinhood](https://robinhood.com/us/en/careers/openings/) | Menlo Park, CA | [Android Engineer](https://robinhood.com/us/en/careers/openings/?gh_jid=3335146), [Backend Engineer](https://robinhood.com/us/en/careers/openings/?gh_jid=3339166), [Data Scientist, Analytics](https://robinhood.com/us/en/careers/openings/?gh_jid=3335157) and other Intern positions are available. Winter and Fall internships are available too! |
-|[Jina AI](https://jobs.lever.co/jina-ai?commitment=Internship) | Remote | [Open Source Evangelist](https://jobs.lever.co/jina-ai/09706cea-24db-4636-966b-756ede597229)|
+|<del>Jina AI</del>| | **Closed** |
 | <del>TomTom</del> | | **Closed** |
 |[Walmart](https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/US-AR-BENTONVILLE-Home-Office-ISD-Office---DGTC/XMLNAME-2022-Summer-Intern--Software-Engineer-II_R-682495)| Various | [Data Engineer III](https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/US-AR-BENTONVILLE-Home-Office-ISD-Office---DGTC/XMLNAME-2022-Summer-Intern--Data-Engineer-III_R-685463), [Software Engineer III](https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/US-AR-BENTONVILLE-Home-Office-ISD-Office---DGTC/XMLNAME-2022-Summer-Intern--Software-Engineer-III_R-682538), [Software Engineer II](https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/US-AR-BENTONVILLE-Home-Office-ISD-Office---DGTC/XMLNAME-2022-Summer-Intern--Software-Engineer-II_R-682495) Intern positions are available. |
 |[Duolingo](https://boards.greenhouse.io/duolingo/jobs/5422890002?gh_src=977bb0612us) | Pittsburgh, PA | SWE Intern, [Data Science Intern](https://boards.greenhouse.io/duolingo/jobs/5445806002), [Associate PM Intern](https://boards.greenhouse.io/duolingo/jobs/5445799002) |
@@ -117,7 +117,7 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[Affirm](https://boards.greenhouse.io/affirm/jobs/4650433003?gh_src=689c81d53us)| Remote | Software Engineering Intern |
 |[Okta](https://www.okta.com/company/careers/engineering/software-engineer-intern-us-and-canada-3338724/)| San Francisco, San Jose, CA; Bellevue, WA | Software Engineer Intern |
 |[Pearson](https://pearson.jobs/usa/jobs/?q=Intern)| Durham, NC; San Antonio, TX | Software Engineer Intern. Different technology areas are available. |
-|[Commerce Bank](https://commercebank.wd1.myworkdayjobs.com/en-US/CommerceJobs/job/MO---Kansas-City-DowntownPlaza---Kansas-City---KC-Downtown-Trust-Building-922-Walnut-64106/Software-Development-Intern---Summer-2022_28788) | Kansas City, MO | Software Development Intern. Interns must be eligible to work in the United States without sponsorship. |
+|<del>Commerce Bank</del> | | **Closed** |
 |[Garmin](https://careers-us.garmin.com/us/en/internship-jobs) | Olathe, KS | [Software Engineer Intern - Embedded](https://careers-us.garmin.com/us/en/job/21001ET/Software-Engineer-Intern-Embedded-HQ-Olathe-KS), [Software Engineer Intern - Mobile](https://careers-us.garmin.com/us/en/job/21001G1/Software-Engineer-Intern-Mobile-HQ-Olathe-KS), [Software Engineer Intern - Web Development/DevOps](https://careers-us.garmin.com/us/en/job/21001G0/Software-Engineer-Intern-Web-Development-DevOps-HQ-Olathe-KS) Intern positions are available. |
 |[Medtronic](https://jobs.medtronic.com/jobs/search/106431002) | Various | [Computer Science Intern](https://jobs.medtronic.com/jobs/computer-science-summer-2022-intern-%E2%80%93-undergraduate-103075), [Computer Engineering Intern](https://jobs.medtronic.com/jobs/computer-engineering-summer-2022-intern-%E2%80%93-undergraduate-103074). Must be legally authorized to work in the U.S. on a full-time basis and don't require sponsorship in the future for an employment visa. |
 |[Aechelon Technology](https://jobs.lever.co/aechelon/0d491d1a-4e50-4380-950c-41eef676acda/apply) | Overland Park, KS | Software Engineer Intern. Must be legally authorized to work in the U.S. on a full-time basis and don't require sponsorship in the future for an employment visa. |
@@ -156,7 +156,7 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[Principal Financial Group](https://careers-principal.icims.com/jobs/31700/software-engineer---data-engineer-internship-%28summer-2022%29/job) |Charlotte, NC and Des Moines, IA | Software Engineer / Data Engineer Internship(Summer 2022) Won't sponsor F1-CPT F1-OPT H-1 right now|
 |[Gem](https://boards.greenhouse.io/zensourcer/jobs/4945378002) | San Francisco, CA | Software Engineering Intern |
 |[Veeva](https://jobs.lever.co/veeva/8d206bef-9caa-41cb-a68d-410912f04865?lever-source=Veeva-Career-Site)|Columbus, Ohio and Pleasanton, CA | Software Engineer Intern |
-|[Persona](https://boards.greenhouse.io/persona/jobs/4665734003) | SF | |
+|<del>Persona</del> | | Closed |
 |[Guardian Life](https://guardian.taleo.net/careersection/gl_ex/jobsearch.ftl) | Various | Multiple openings related to Software Engineering, Cloud, Data Analytics, Cybersecurity. Applicants must be eligible to work in the U.S. without company sponsorship, now or in the future, for employment-based work authorization. |
 |[Honda](https://hondana.taleo.net/careersection/ah_ext/jobdetail.ftl?job=AHM0005QF&tz=GMT-05%3A00&tzname=America%2FChicago) | Various | Information Services Co-op/Intern, [Data Analytics Co-op/Intern](https://hondana.taleo.net/careersection/ah_ext/jobdetail.ftl?job=AHM0005QI&tz=GMT-05%3A00&tzname=America%2FChicago). Sponsorship for employment visa status for these positions is unavailable. |
 |[Daktronics](https://careers-daktronics.icims.com/jobs/4474/software-design-intern/job) | Brookings, South Dakota | 7-Month Internship cycle,January 10 – August 12, 2022 and May 16 – December 16, 2022. Applicants must be eligible to work in the U.S. without company sponsorship, now or in the future, for employment-based work authorization. |
@@ -178,13 +178,24 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[Amazon Robotics](https://www.amazon.jobs/en/jobs/1650024/software-development-engineer-intern-amazon-robotics-summer-2022) | Boston, MA | |
 |[Wells Fargo](https://www.wellsfargojobs.com/job/des-moines/2022-wells-fargo-technology-internship-program/1251/13073149088) | Various | Technology Internship Program. Must be authorized to work in the U.S. on a permanent basis without requiring sponsorship. |
 |[DataBricks](https://databricks.com/company/careers/open-positions/job?gh_jid=5488591002) | San Francisco, CA | Software Engineer Intern |
-|[Pinterest](https://www.pinterestcareers.com/job/13690769/software-engineering-intern-2022-seattle-wa/) | Seattle, San Francisco, Palo Alto | Software Engineering Intern |
+|<del>Pinterest</del>| | **Closed** |
 |[Plaid](https://plaid.com/careers/openings/all-departments/all-locations/?role=software%20engineer%20-%20intern) | New York, San Francisco, Salt Lake City | |
 |[Mastercard](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/40/refreshFacet/318c8bb6f553100021d223d9780d30be) | New York, Virginia, Missouri | Software Engineer Intern. Must be authorized to work in the U.S. on a permanent basis without requiring sponsorship. |
 |[Bloomberg](https://careers.bloomberg.com/job/detail/93579) | Princeton, NJ | Global Data Summer Internship. Legal authorization to work full-time in the United States. |
 |[Twilio](https://boards.greenhouse.io/twilio/jobs/3409885)| Various | Software Engineer Intern |
 |[Factset](https://factset.wd1.myworkdayjobs.com/en-US/FactSetCareers/job/New-York-NY-USA/Software-Engineer-Intern---Americas-Campus--Summer-2022-_R12001) | Various | Software Engineer Intern. Only for Undergraduates. |
 |[Leidos](https://careers.leidos.com/search/intern/jobs) | Various | |
+|[Broadway Technology](https://jobs.lever.co/broadwaytechnology/2048b077-9404-4ab0-8dc9-9022ab90a711) | New York, NY | Software Engineer Intern |
+|[Asurion](https://careers.asurion.com/ShowJob/Id/11450/Software%20Engineer%20Intern) | Nashville, TN | Software Engineering Intern (for rising juniors and seniors)|
+|[Yext](https://boards.greenhouse.io/yext/jobs/3406424) | Washington, D.C | Software Engineering Intern |
+|[PatientCo](https://jobs.lever.co/patientcolife/2dfa196b-65c9-49ba-963f-5c0956cd870d) | Atlanta | Software Engineer Co-op |
+|[24G](https://www.24g.com/careers) | Troy, MI | Search for Engineering Intern in this career page |
+|[ServiceNow](https://jobs.smartrecruiters.com/ServiceNow/743999768965759-software-engineering-internship) | Santa Clara, CA | Software Engineering Intern, Various Positions available |
+|[Quantcast](https://jobs.lever.co/quantcast/f56c1fd6-432b-4fa5-933c-34cdc22ad55d) | SF | Software Engineering Intern |
+|[U.S Bank](https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/Atlanta-GA/XMLNAME-2022-Undergraduate-Summer-Internship-Program---Software-Development_2021-0043490) | Various | Software Development Intern. Only for Undergraduates.|
+|[NetApp](https://netapp.eightfold.ai/careers?pid=8617938&seniority=Intern&domain=netapp.com&triggerGoButton=false) | Various | |
+|[FireEye](https://www.fireeye.com/company/jobs.html) | Various | [Mandiant Information Security](https://jobs.smartrecruiters.com/FireEyeInc1/743999768661855), [Mandiant Incident Response](https://jobs.smartrecruiters.com/FireEyeInc1/743999768673869), [Reverse Engineering - Malware Analysis](https://jobs.smartrecruiters.com/FireEyeInc1/743999768674573) and other Intern positions are available. Some positions require applicant to be eligible to work in the US without sponsorship. |
+|[Uline](https://www.uline.jobs/JobDetails?culture=en&jobid=5648BR&jobtitle=Data-Engineer-Internship---Summer-2022)| Pleasant Prairie, Wisconsin | Data Engineer Internship |
 |[Hudl](https://boards.greenhouse.io/hudl/jobs/3355652) | Lincoln, Nebraska | Software Development Intern |
 
 **We love our contributors ❤️❤️**
