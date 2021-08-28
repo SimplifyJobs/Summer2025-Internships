@@ -199,6 +199,7 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[Blend](https://boards.greenhouse.io/blend/jobs/4092887004) | Remote, US | Software Engineer Intern |
 |[Motional](https://boards.greenhouse.io/motional/jobs/4680547003) | Boston, MA | Embedded Software Engineer |
 |[Hudl](https://boards.greenhouse.io/hudl) | Lincoln, NE | [Software Quality Analyst](https://boards.greenhouse.io/hudl/jobs/3415809), [Software Development](https://boards.greenhouse.io/hudl/jobs/3355652) Intern positions are available. |
+|[ZS Associates](https://jobs.zs.com/jobs/10083?lang=en-us) | NYC, Boston, Philadelphia, Princeton (NJ), Evanstone (IL), SF (CA), Thousand Oaks (CA) | [Business Technology Solutions Associate - Intern](https://jobs.zs.com/jobs/10083?lang=en-us). Accepts OPT/CPT and will sponsor a work visa in the future. |
 
 **We love our contributors ❤️❤️**
 
@@ -247,3 +248,4 @@ Fill [this form](https://bit.ly/3d5O76c) or make a [pull request](https://github
 * [leundai](https://github.com/leundai)
 * [davidteather](https://github.com/davidteather)
 * [danmoop](https://github.com/danmoop)
+* [qc542](https://github.com/qc542)
