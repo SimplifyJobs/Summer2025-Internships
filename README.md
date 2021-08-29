@@ -204,6 +204,7 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[Valkyrie Trading](https://valkyrie-trading.talentify.io/job/software-engineer-intern-summer-2022-chicago-illinois-valkyrie-trading-4da392d5-e1f9-4d0f-8574-aa95e2966875) | Chicago / Illinois | Software Engineer Intern |
 |[Revantage](https://careers-revantage.icims.com/jobs/2847/technology%2c-summer-intern-2022/job?mobile=false&width=930&height=500&bga=true&needsRedirect=false&jan1offset=120&jun1offset=180) | Chicago, IL | Technology Intern |
 |[ZS Associates](https://jobs.zs.com/jobs/10083?lang=en-us) | Various | [Business Technology Solutions Associate - Intern](https://jobs.zs.com/jobs/10083?lang=en-us). Accepts OPT/CPT and will sponsor a work visa in the future. |
+|[Deutsche Bank](https://db.recsolu.com/external/requisitions/ULPvn7Fziuz8V-HRdZC0Sg) | NYC | Analyst Programme - Technology, Data and Innovation. Accepts CPT and OPT and will sponsor a work visa in the future. |
 
 
 
