@@ -13,20 +13,20 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 
 | Name  |  Location |  Notes |
 |---|---|-------------|
-| [Hudson River Trading](https://www.hudsonrivertrading.com/careers/job/?gh_jid=3015374) | NYC, Chicago, London, Austin | SWE, [Algo Internship](https://www.hudsonrivertrading.com/careers/job/?gh_jid=3008603) |
-| <del>Bridgewater Associates</del> | | **Closed** |
-| [Credit Suisse](https://tas-creditsuisse.taleo.net/careersection/campus/moresearch.ftl) | Raleigh, NYC | Search `"2022 Americas Technology Summer Analyst Program"`|
-| <del>BlackStone</del> | | **Closed** |
+|[Hudson River Trading](https://www.hudsonrivertrading.com/careers/job/?gh_jid=3015374) | NYC, Chicago, London, Austin | SWE, [Algo Internship](https://www.hudsonrivertrading.com/careers/job/?gh_jid=3008603) |
+|<del>Bridgewater Associates</del> | | **Closed** |
+|[Credit Suisse](https://tas-creditsuisse.taleo.net/careersection/campus/moresearch.ftl) | Raleigh, NYC | Search `"2022 Americas Technology Summer Analyst Program"`|
+|<del>BlackStone</del> | | **Closed** |
 | [PWC](https://jobs.us.pwc.com/search-jobs/Summer%202022/United%20States/932/1/2/6252001/39x76/-98x5/25/2) | Various | [Technology Consulting](https://jobs.us.pwc.com/job/los-angeles/technology-consulting-intern-summer-2022/932/12073994960) Intern position is available. |
-| [AQR](https://careers.aqr.com/jobs/department/university-jobs#/) | Greenwich, CT | Research, Portfolio Implementation |
-| [Optiver](https://www.optiver.com/working-at-optiver/career-opportunities/?filter-level=internship) | Various | Positions in Software Engineering and Trading. Will not sponsor individuals for employment authorization for these job openings. |
-| [Caterpillar](https://careers.caterpillar.com/en/jobs/job/r0000061559-2022-engineering-summer-intern/) | Illinois | The internship is open only to individuals who are eligible for employment in the United States and who would not require visa sponsorship now or in the future. |
+|[AQR](https://careers.aqr.com/jobs/department/university-jobs#/) | Greenwich, CT | Research, Portfolio Implementation |
+|[Optiver](https://www.optiver.com/working-at-optiver/career-opportunities/?filter-level=internship) | Various | Positions in Software Engineering and Trading. Will not sponsor individuals for employment authorization for these job openings. |
+|[Caterpillar](https://careers.caterpillar.com/en/jobs/job/r0000061559-2022-engineering-summer-intern/) | Illinois | The internship is open only to individuals who are eligible for employment in the United States and who would not require visa sponsorship now or in the future. |
 |[Schneider Downs](https://schneiderdowns.csod.com/ats/careersite/JobDetails.aspx?id=474&site=4) | Pittsburgh, PA | IT Intern, Cybersecurity Intern. |
 |[GE](https://jobs.gecareers.com/global/en/search-results) | Various | [GE Aviation Aviation Systems](https://jobs.gecareers.com/global/en/job/R3560419/GE-Aviation-Aviation-Systems-Intern-Summer-2022), [GE Gas Power Digital Technology](https://jobs.gecareers.com/global/en/job/R3558732/Gas-Power-Digital-Technology-Intern-2022) and other Intern positions are available. Some roles are restricted to U.S. persons only or those who are legally authorized to work in the United States. |
 |[Second Order Effects](https://boards.greenhouse.io/soeffects/jobs/4311435003) | El Segundo, CA | Applicant must be a U.S. citizen or eligible to obtain the required authorizations from the U.S. Department of State. |
 |[Morgan Stanley](https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/user-3168256/xf-a7aeef94da1e/candidate/so/pm/1/pl/1/opp/11401) | NYC | Technology Summer Analyst Program. Note: Requires HireVue submission up to 72 hours after application submission.  |
 |[Bessemer Ventures Fellowship](https://www.bvp.com/bessemer-fellows) | Various | |
-| <del>Audible</del> | |  **Closed** |
+|<del>Audible</del> | |  **Closed** |
 |[KeyBank](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/1/refreshFacet/318c8bb6f553100021d223d9780d30be?source=Keydotcom) | Various | [Enterprise Security](https://keybank.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Plymouth-Meeting-PA/Summer-2022-Key-Technology--Operations---Services--Internship--Enterprise-Security-Track-_R-755?source=Keydotcom), [Enterprise Payments](https://keybank.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Cleveland-OH/XMLNAME-2022-Enterprise-Payments-Summer--Intern_R-743?source=Keydotcom), [Technology](https://keybank.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Buffalo-NY/Summer-2022-Key-Technology--Operations---Services--Internship--Technology-Track-_R-751?source=Keydotcom) and other Intern positions are available. Some positions may NOT be eligible for employment visa sponsorship for non-U.S. citizens. |
 |[General Motors](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/0/refreshFacet/318c8bb6f553100021d223d9780d30be)| Warren, MI | [Hardware Engineering](https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/Global-Product-Development---Hardware-Engineering-Internship-Program_JR-000045485), [Software Engineering](https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/Global-Product-Development---Software-Engineering-Internship-Program_JR-000045488) Intern positions are available. Please only apply if you do not need sponsorship to work in the United States now or in the future. We are unable to consider candidates who require sponsorship. |
 |[Susquehanna (SIG)](https://careers.sig.com/job/5439/Software-Engineering-Internship-Program-Summer-2022) | Bala Cynwyd, PA | Software Engineering Internship. Visa sponsorship is available for this position. |
@@ -175,7 +175,8 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[TuSimple](https://boards.greenhouse.io/tusimpleinternship) | Tucson, AZ; San Diego, CA | |
 |[Ocient](https://www.ocient.com/jobs/?gh_jid=4578168003) | Chicago, IL | |
 |[Texas Instruments](https://careers.ti.com/job/13584684/software-engineering-intern-dallas-tx/) | Dallas, TX | |
-|[Amazon Robotics](https://www.amazon.jobs/en/jobs/1650024/software-development-engineer-intern-amazon-robotics-summer-2022) | Boston, MA | |
+|[
+Robotics](https://www.amazon.jobs/en/jobs/1650024/software-development-engineer-intern-amazon-robotics-summer-2022) | Boston, MA | |
 |[Wells Fargo](https://www.wellsfargojobs.com/job/des-moines/2022-wells-fargo-technology-internship-program/1251/13073149088) | Various | Technology Internship Program. Must be authorized to work in the U.S. on a permanent basis without requiring sponsorship. |
 |[DataBricks](https://databricks.com/company/careers/open-positions/job?gh_jid=5488591002) | San Francisco, CA | Software Engineer Intern |
 |<del>Pinterest</del>| | **Closed** |
@@ -207,7 +208,8 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[AvidXchange](https://us60.dayforcehcm.com/CandidatePortal/en-us/avidxchange?q=Intern) | Charlotte, NC | [Software Engineering](https://us60.dayforcehcm.com/CandidatePortal/en-us/avidxchange/Posting/View/5047), [Information Security](https://us60.dayforcehcm.com/CandidatePortal/en-us/avidxchange/Posting/View/5046) and other Intern positions are available. |
 |[ZS Associates](https://jobs.zs.com/jobs/10083?lang=en-us) | Various | [Business Technology Solutions Associate - Intern](https://jobs.zs.com/jobs/10083?lang=en-us). Accepts OPT/CPT and will sponsor a work visa in the future. |
 |[Deutsche Bank](https://db.recsolu.com/external/requisitions/ULPvn7Fziuz8V-HRdZC0Sg) | NYC | Analyst Programme - Technology, Data and Innovation. Accepts CPT and OPT and will sponsor a work visa in the future. |
-
+|[General Dynamics Mission Systems](https://gdmissionsystems.com/careers/software-intern-may-2022-pittsburgh-pa-usa-2021-49966-opportunity) | Pittsburg, PA | Software and other Intern positions are available. US Citizenship is required. |
+|[Rivian](https://boards.greenhouse.io/rivian/jobs/4674393003) | Palo Alto, CA | |
 
 **We love our contributors ❤️❤️**
 
