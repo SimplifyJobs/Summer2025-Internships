@@ -203,7 +203,7 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[OSISoft](https://osisoft.wd1.myworkdayjobs.com/en-US/osisoft_careers/job/San-Leandro-California-USA/Software-Development-Intern---US_R003277) | San Leandro, California; Johnson City, Tennessee; Philadelphia, Pennsylvania; Scottsdale, Arizona | Software Development Intern |
 |[Valkyrie Trading](https://valkyrie-trading.talentify.io/job/software-engineer-intern-summer-2022-chicago-illinois-valkyrie-trading-4da392d5-e1f9-4d0f-8574-aa95e2966875) | Chicago / Illinois | Software Engineer Intern |
 |[Revantage](https://careers-revantage.icims.com/jobs/2847/technology%2c-summer-intern-2022/job?mobile=false&width=930&height=500&bga=true&needsRedirect=false&jan1offset=120&jun1offset=180) | Chicago, IL | Technology Intern |
-|[General Dynamics Mission Systems](https://gdmissionsystems.com/careers/software-intern-may-2022-pittsburgh-pa-usa-2021-49966-opportunity) | Pittsburg, PA | Software Intern. US Citizenship is required. |
+|[General Dynamics Mission Systems](https://gdmissionsystems.com/careers/software-intern-may-2022-pittsburgh-pa-usa-2021-49966-opportunity) | Pittsburg, PA | Software and other Intern positions are available. US Citizenship is required. |
 
 
 
