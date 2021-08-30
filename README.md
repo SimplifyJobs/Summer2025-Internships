@@ -204,7 +204,7 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[Valkyrie Trading](https://valkyrie-trading.talentify.io/job/software-engineer-intern-summer-2022-chicago-illinois-valkyrie-trading-4da392d5-e1f9-4d0f-8574-aa95e2966875) | Chicago / Illinois | Software Engineer Intern |
 |[Revantage](https://careers-revantage.icims.com/jobs/2847/technology%2c-summer-intern-2022/job?mobile=false&width=930&height=500&bga=true&needsRedirect=false&jan1offset=120&jun1offset=180) | Chicago, IL | Technology Intern |
 |[Chick-fil-a](https://careers-chickfila.icims.com/jobs/search?ss=1&searchKeyword=Intern) | Atlanta, GA | [Digital Transformation and Technology](https://careers-chickfila.icims.com/jobs/10180/2022-digital-transformation-and-technology-summer-intern/job), [Software Engineering](https://careers-chickfila.icims.com/jobs/10181/2022-software-engineering-summer-intern/job?in_iframe=1) Intern positions are available. |
-
+|[AvidXchange](https://us60.dayforcehcm.com/CandidatePortal/en-us/avidxchange?q=Intern) | Charlotte, NC | [Software Engineering](https://us60.dayforcehcm.com/CandidatePortal/en-us/avidxchange/Posting/View/5047), [Information Security](https://us60.dayforcehcm.com/CandidatePortal/en-us/avidxchange/Posting/View/5046) and other Intern positions are available. |
 
 
 **We love our contributors ❤️❤️**
