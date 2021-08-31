@@ -209,6 +209,7 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[Deutsche Bank](https://db.recsolu.com/external/requisitions/ULPvn7Fziuz8V-HRdZC0Sg) | NYC | Analyst Programme - Technology, Data and Innovation. Accepts CPT and OPT and will sponsor a work visa in the future. |
 |[General Dynamics Mission Systems](https://gdmissionsystems.com/careers/software-intern-may-2022-pittsburgh-pa-usa-2021-49966-opportunity) | Pittsburg, PA | Software and other Intern positions are available. US Citizenship is required. |
 |[Rivian](https://boards.greenhouse.io/rivian/jobs/4674393003) | Palo Alto, CA | |
+|[DoorDash](https://boards.greenhouse.io/doordash/jobs/3393160?gh_jid=3393160) | Various | Software Engineer Intern |
 
 **We love our contributors ❤️❤️**
 
