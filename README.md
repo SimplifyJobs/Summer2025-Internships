@@ -211,6 +211,8 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[Rivian](https://boards.greenhouse.io/rivian/jobs/4674393003) | Palo Alto, CA | |
 |[DoorDash](https://boards.greenhouse.io/doordash/jobs/3393160?gh_jid=3393160) | Various | Software Engineer Intern |
 |[Mr. Cooper Group](https://careers.mrcooper.com/search/jobs?q=intern) | Dallas, TX | Various Intern Roles. Software Engineer, Devops, Data, Machine Learning. |
+|[UIPath](https://www.uipath.com/company/careers/americas/bellevue/engineering-development/software-engineer-intern)| Bellevue, WA | |
+|[Uber](https://www.uber.com/global/en/careers/list/107068/) | NYC, Seattle, SF, Sunnyvale | |
 
 **We love our contributors ❤️❤️**
 
