@@ -149,7 +149,7 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[Snackpass](https://boards.greenhouse.io/snackpass/jobs/4088786004) | New York, San Francisco, Los Angeles, or remote | Data Engineer Intern |
 |[Roblox](https://corp.roblox.com/careers/listing/?gh_jid=3376216) | San Mateo, CA | Software Engineering Intern |
 |[Peraton](https://careers.peraton.com/job-details/13556879/systems-software-engineering-intern-chantilly-va/#job-description) | Chantilly, VA | Systems/Software Engineering Intern. Candidates must be legally authorized to work in the U.S. and must not require sponsorship for employment visa status now, or in the future. |
-|[Noblis](https://careers.noblis.org/listings)| Various | Search `"2022"` - Multiple Location Openings. |
+|[Noblis](https://careers.noblis.org/listings)| Various | Search `"2022"` - Multiple Location Openings. U.S. citizenship or permanent residency required. |
 |[Appian Corp](https://boards.greenhouse.io/appian/jobs/3359486) | McLean, Virginia | Software Engineer Intern, for undergrad student only |
 |[Figma](https://jobs.lever.co/figma/76c46a06-91fd-4792-8907-9fe42aff1f26) |  San Francisco, CA and New York, NY | Software Engineer Intern (2022). |
 |[Rippling](https://www.rippling.com/careers/4614520003) | San Francisco, CA; or Remote | Software Engineering Intern |
