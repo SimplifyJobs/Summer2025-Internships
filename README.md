@@ -210,6 +210,7 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[General Dynamics Mission Systems](https://gdmissionsystems.com/careers/software-intern-may-2022-pittsburgh-pa-usa-2021-49966-opportunity) | Pittsburg, PA | Software and other Intern positions are available. US Citizenship is required. |
 |[Rivian](https://boards.greenhouse.io/rivian/jobs/4674393003) | Palo Alto, CA | |
 |[DoorDash](https://boards.greenhouse.io/doordash/jobs/3393160?gh_jid=3393160) | Various | Software Engineer Intern |
+|[Cohu](https://phg.tbe.taleo.net/phg04/ats/careers/v2/viewRequisition?org=DELTAD&cws=45&rid=662) | Poway, California (San Diego) | Software Engineer Intern and Machine Vision/Image Processing |
 
 **We love our contributors ❤️❤️**
 
