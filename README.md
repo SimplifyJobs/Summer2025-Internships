@@ -212,7 +212,7 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[Mr. Cooper Group](https://careers.mrcooper.com/search/jobs?q=intern) | Dallas, TX | Various Intern Roles. Software Engineer, Devops, Data, Machine Learning. Will not sponsor work visas for some positions. |
 |[UIPath](https://www.uipath.com/company/careers/americas/bellevue/engineering-development/software-engineer-intern)| Bellevue, WA | |
 |[Uber](https://www.uber.com/global/en/careers/list/107068/) | NYC, Seattle, SF, Sunnyvale | |
-|[Workiva](https://workiva.wd1.myworkdayjobs.com/en-US/careers/job/Ames/XMLNAME-2022-Summer---Software-Engineer-Intern_R2987) | Various Locations | Software Engineer Intern |
+|[Workiva](https://workiva.wd1.myworkdayjobs.com/en-US/careers/job/Ames/XMLNAME-2022-Summer---Software-Engineer-Intern_R2987) | Various Locations | Software Engineer Intern. Will not sponsor work visas now or in the future. |
 |[SingleStore](https://boards.greenhouse.io/singlestore/jobs/3436980) | Raleigh, NC | Software Engineer Intern |
 |[Vail Systems](https://vail-systems.talentify.io/job/web-software-engineer-intern-summer-2022-chicago-illinois-vail-systems-owrkgfwh) | Chicago, Illinois | Web Software Engineer Intern |
 |[Domeyard](https://boards.greenhouse.io/domeyard/jobs/1079185) | Boston, MA | Software Engineer Internship. Will sponsor work visas after your graduation. |
