@@ -219,6 +219,7 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[Vermeer](https://vermeer.wd5.myworkdayjobs.com/en-US/externalcareersite/job/Pella-Iowa-USA---Corporate-Office/Embedded-Software-Engineer-Intern---May-2022_REQ-9742) | Pella, Iowa | Embedded Software Engineer Intern | 
 |[Federal Reserve System](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Kansas-City-MO/Software-Engineer-Intern---Summer-2022_R-0000002222) | Kansas City, MO; Denver, CO; Omaha, NE | Software Engineer Intern |
 |[WeRide.ai](https://jobs.lever.co/weride/95da0930-7a3e-48fd-80b1-3bf3338a5b56) | San Jose, CA | Software Engineer Intern (Spring/Summer)| 
+
 **We love our contributors ❤️❤️**
 
 Fill [this form](https://bit.ly/3d5O76c) or make a [pull request](https://github.com/susam/gitpr#create-pull-request) to help contribute.
