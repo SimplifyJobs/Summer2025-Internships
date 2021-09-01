@@ -221,6 +221,7 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[WeRide.ai](https://jobs.lever.co/weride/95da0930-7a3e-48fd-80b1-3bf3338a5b56) | San Jose, CA | Software Engineer Intern (Spring/Summer)| 
 |[Mutual of Omaha](https://www.mutualofomaha.com/careers/jobs/detail/499408) | Omaha, NE or Remote | Information Technology Intern (Software, SRE, or Data Science based)|
 |[TikTok](https://careers.tiktok.com/position?keywords=&category=&location=CT_157%2CCT_75&project=&type=3&job_hot_flag=&current=1&limit=10) | Seattle , WA; San Francisco, CA | Lots of positions |
+|[Microfocus](https://jobs.microfocus.com/global/en/job/7021218/Systems-Software-Engineer-Intern-at-Vertica-Summer-2022) | Cambridge | Systems Software Engineer Intern |
 
 **We love our contributors ❤️❤️**
 
