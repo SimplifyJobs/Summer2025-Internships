@@ -85,7 +85,6 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[RSM](https://jobs.rsmus.com/ListJobs?Keyword=Summer+2022) | Various | [Technology - Business Apps](https://jobs.rsmus.com/ShowJob/JobId/498233/2022SummerConsultingInternTechnologyBusinessAppsNAV), [Data & Analytics Business Intelligence](https://jobs.rsmus.com/ShowJob/JobId/499037/2022SummerConsultingInternTechnologyDataAnalyticsBusinessIntelligence), [Application Development - NetSuite](https://jobs.rsmus.com/ShowJob/JobId/508905/2022SummerConsultingInternApplicationDevelopmentNetSuite) and other Intern positions are available. |
 |[Freddie Mac](https://careers.freddiemac.com/us/en/job/JR3553/Computer-Science-Intern-Summer-2022) |  McLean, VA | Computer Science Intern position is available. |
 |[Nestle](https://nestleusa.taleo.net/careersection/5/jobdetail.ftl?job=21005338&src=SNS-102) | Arlington, VA | Data Science Intern position is available. |
-|<del>Uber</del> | San Francisco, CA | **Closed** |
 |[L3Harris Technologies](https://careers.l3harris.com/job/greenville/software-engineering-intern-co-op-greenville-tx-summer-fall-co-op-and-summer-internship-2022/4832/11663221136) | Greenville, TX | SWE Intern position is available. Summer/Fall Co Op is also available. Please be aware many of our positions require the ability to obtain a security clearance. In addition, applicants who accept a conditional offer of employment may be subject to government security investigation(s) and must meet eligibility requirements for access to classified information. |
 |[PEAK6](http://careers.peak6.com/jobs/campus/chicago-il-united-states/software-engineering-internship-for-women-summer-2022/3343572)| Chicago, IL | Software Engineering Internship for Women. |
 | [Citrix](https://citrix.wd1.myworkdayjobs.com/en-US/CitrixCareers/job/Software-Engineer-Intern---Summer-2022_R27641) | Various | Software Engineer Intern position is available. |
@@ -213,6 +212,7 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[Mr. Cooper Group](https://careers.mrcooper.com/search/jobs?q=intern) | Dallas, TX | Various Intern Roles. Software Engineer, Devops, Data, Machine Learning. |
 |[UIPath](https://www.uipath.com/company/careers/americas/bellevue/engineering-development/software-engineer-intern)| Bellevue, WA | |
 |[Uber](https://www.uber.com/global/en/careers/list/107068/) | NYC, Seattle, SF, Sunnyvale | |
+|[Vail Systems](https://vail-systems.talentify.io/job/web-software-engineer-intern-summer-2022-chicago-illinois-vail-systems-owrkgfwh) | Chicago, Illinois | Web Software Engineer Intern |
 |[Domeyard](https://boards.greenhouse.io/domeyard/jobs/1079185) | Boston, MA | Software Engineer Internship |
 |[Vermeer](https://vermeer.wd5.myworkdayjobs.com/en-US/externalcareersite/job/Pella-Iowa-USA---Corporate-Office/Embedded-Software-Engineer-Intern---May-2022_REQ-9742) | Pella, Iowa | Embedded Software Engineer Intern | 
 |[Federal Reserve System](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Kansas-City-MO/Software-Engineer-Intern---Summer-2022_R-0000002222) | Kansas City, MO; Denver, CO; Omaha, NE | Software Engineer Intern |
