@@ -216,7 +216,7 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[SingleStore](https://boards.greenhouse.io/singlestore/jobs/3436980) | Raleigh, NC | Software Engineer Intern |
 |[Vail Systems](https://vail-systems.talentify.io/job/web-software-engineer-intern-summer-2022-chicago-illinois-vail-systems-owrkgfwh) | Chicago, Illinois | Web Software Engineer Intern |
 |[Domeyard](https://boards.greenhouse.io/domeyard/jobs/1079185) | Boston, MA | Software Engineer Internship |
-|[Vermeer](https://vermeer.wd5.myworkdayjobs.com/en-US/externalcareersite/job/Pella-Iowa-USA---Corporate-Office/Embedded-Software-Engineer-Intern---May-2022_REQ-9742) | Pella, Iowa | Embedded Software Engineer Intern | 
+|[Vermeer](https://vermeer.wd5.myworkdayjobs.com/en-US/externalcareersite/job/Pella-Iowa-USA---Corporate-Office/Embedded-Software-Engineer-Intern---May-2022_REQ-9742) | Pella, Iowa | Embedded Software Engineer Intern. Only accept students majoring in CE, EE, Electronics or Machine Control (CS is excluded). | 
 |[Federal Reserve System](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Kansas-City-MO/Software-Engineer-Intern---Summer-2022_R-0000002222) | Kansas City, MO; Denver, CO; Omaha, NE | Software Engineer Intern |
 |[WeRide.ai](https://jobs.lever.co/weride/95da0930-7a3e-48fd-80b1-3bf3338a5b56) | San Jose, CA | Software Engineer Intern (Spring/Summer)| 
 
