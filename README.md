@@ -172,8 +172,8 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[Zoom](https://zoom.wd5.myworkdayjobs.com/Zoom/4/refreshFacet/318c8bb6f553100021d223d9780d30be) | Various | [Front-End](https://zoom.wd5.myworkdayjobs.com/en-US/Zoom/job/Remote--CA---Bay-Area/XMLNAME-2022-Front-End-Developer--Intern-_R5735) Intern position is available. Does not sponsor visas |
 |[Zebra Technologies](https://early-careers-zebra.icims.com/jobs/search?ss=1&searchKeyword=2022) | Various | Multiple Intern Openings. Must be authorized to work in the U.S. on a permanent basis without requiring sponsorship. |
 |[TuSimple](https://boards.greenhouse.io/tusimpleinternship) | Tucson, AZ; San Diego, CA | |
-|[Ocient](https://www.ocient.com/jobs/?gh_jid=4578168003) | Chicago, IL | |
-|[Texas Instruments](https://careers.ti.com/job/13584684/software-engineering-intern-dallas-tx/) | Dallas, TX | |
+|[Ocient](https://www.ocient.com/jobs/?gh_jid=4578168003) | Chicago, IL | Intern - Software Engineer. Applicants must have work authorization for the duration of the internship. |
+|[Texas Instruments](https://careers.ti.com/job/13584684/software-engineering-intern-dallas-tx/) | Dallas, TX | Software Engineer Intern. Applicants must have work authorization for the duration of the internship. |
 |[Amazon Robotics](https://www.amazon.jobs/en/jobs/1650024/software-development-engineer-intern-amazon-robotics-summer-2022) | Boston, MA | |
 |[Wells Fargo](https://www.wellsfargojobs.com/job/des-moines/2022-wells-fargo-technology-internship-program/1251/13073149088) | Various | Technology Internship Program. Must be authorized to work in the U.S. on a permanent basis without requiring sponsorship. |
 |[DataBricks](https://databricks.com/company/careers/open-positions/job?gh_jid=5488591002) | San Francisco, CA | Software Engineer Intern |
@@ -196,10 +196,10 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[FireEye](https://www.fireeye.com/company/jobs.html) | Various | [Mandiant Information Security](https://jobs.smartrecruiters.com/FireEyeInc1/743999768661855), [Mandiant Incident Response](https://jobs.smartrecruiters.com/FireEyeInc1/743999768673869), [Reverse Engineering - Malware Analysis](https://jobs.smartrecruiters.com/FireEyeInc1/743999768674573) and other Intern positions are available. Some positions require applicant to be eligible to work in the US without sponsorship. |
 |[Uline](https://www.uline.jobs/JobDetails?culture=en&jobid=5648BR&jobtitle=Data-Engineer-Internship---Summer-2022)| Pleasant Prairie, Wisconsin | Data Engineer Internship |
 |[Blend](https://boards.greenhouse.io/blend/jobs/4092887004) | Remote, US | Software Engineer Intern |
-|[Motional](https://boards.greenhouse.io/motional/jobs/4680547003) | Boston, MA | Embedded Software Engineer |
+| <del>Motional</del> | | **Closed** |
 |[Hudl](https://boards.greenhouse.io/hudl) | Lincoln, NE | [Software Quality Analyst](https://boards.greenhouse.io/hudl/jobs/3415809), [Software Development](https://boards.greenhouse.io/hudl/jobs/3355652) Intern positions are available. |
 |[Paylocity](https://2000recruiting.paylocity.com/Recruiting/Jobs/Details/8708) | Remote, US | Software Engineer Intern |
-|[OSISoft](https://osisoft.wd1.myworkdayjobs.com/en-US/osisoft_careers/job/San-Leandro-California-USA/Software-Development-Intern---US_R003277) | San Leandro, California; Johnson City, Tennessee; Philadelphia, Pennsylvania; Scottsdale, Arizona | Software Development Intern |
+|[OSISoft](https://osisoft.wd1.myworkdayjobs.com/en-US/osisoft_careers/job/San-Leandro-California-USA/Software-Development-Intern---US_R003277) | San Leandro, California; Johnson City, Tennessee; Philadelphia, Pennsylvania; Scottsdale, Arizona | Software Development Intern. Will not sponsor work visas now or in the future. |
 |[Valkyrie Trading](https://valkyrie-trading.talentify.io/job/software-engineer-intern-summer-2022-chicago-illinois-valkyrie-trading-4da392d5-e1f9-4d0f-8574-aa95e2966875) | Chicago / Illinois | Software Engineer Intern |
 |[Revantage](https://careers-revantage.icims.com/jobs/2847/technology%2c-summer-intern-2022/job?mobile=false&width=930&height=500&bga=true&needsRedirect=false&jan1offset=120&jun1offset=180) | Chicago, IL | Technology Intern |
 |[Chick-fil-a](https://careers-chickfila.icims.com/jobs/search?ss=1&searchKeyword=Intern) | Atlanta, GA | [Digital Transformation and Technology](https://careers-chickfila.icims.com/jobs/10180/2022-digital-transformation-and-technology-summer-intern/job), [Software Engineering](https://careers-chickfila.icims.com/jobs/10181/2022-software-engineering-summer-intern/job?in_iframe=1) Intern positions are available. |
@@ -225,6 +225,10 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[Linkedin](https://www.linkedin.com/jobs/search/?currentJobId=2705883159&f_C=1337&f_E=1&geoId=90000084&keywords=linkedin&location=San%20Francisco%20Bay%20Area&position=1&pageNum=0) | Sunnyvale, CA | Software Engineer Intern, UI Engineer Intern, Machine Learning Intern, SRE Internship |
 |[Wipfli](https://careers-wipfli.icims.com/jobs/4095/custom-development-internships%2c-summer-2022/job) | Minneapolis, MN; Milwaukee, WI | Custom Development Intern |
 |[Ford Motor Company](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25385&siteid=5311&PageType=JobDetails&jobid=548716#jobDetails=548716_5311) | Dearborn | Information Technology Software Engineering Intern. Search `"Intern"` as many different positions are there. |
+|[DraftKings](https://www.linkedin.com/jobs/search/?currentJobId=2701625846&geoId=103644278&keywords=draftkings&location=United%20States) | Boston, MA | Software Engineer Intern |
+|[CrowdStrike](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Software-Engineer-Intern---Summer-2022--Remote-_R4777?source=tmp_link&dclid=CP_OnNu34PICFU3mKAUduAIMIA) | Sunnyvale, CA; Irvine, CA; Kirkland, WA; Minneapolis, MN; Remote | Software Engineer Intern, [Data Science and Data Engineering Intern](https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Remote/Data-Science-and-Data-Engineering-Internship---Summer-2022--Remote-_R4773?source=tmp_link&dclid=CP_OnNu34PICFU3mKAUduAIMIA) |
+|[Riot Games](https://www.riotgames.com/en/work-with-us/job/3385811/software-engineering-intern-los-angeles-usa) | Los Angeles, CA| |
+|[John Hopkins APL](https://prdtss.jhuapl.edu/StudentsandRecentGraduates/jobs/2022-technical-college-internship-program-1875) | Laurel, MD | |
 
 **We love our contributors ❤️❤️**
 
