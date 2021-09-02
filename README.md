@@ -224,6 +224,10 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[Microfocus](https://jobs.microfocus.com/global/en/job/7021218/Systems-Software-Engineer-Intern-at-Vertica-Summer-2022) | Various | Systems Software Engineer Intern |
 |[Linkedin](https://www.linkedin.com/jobs/search/?currentJobId=2705883159&f_C=1337&f_E=1&geoId=90000084&keywords=linkedin&location=San%20Francisco%20Bay%20Area&position=1&pageNum=0) | Sunnyvale, CA | Software Engineer Intern, UI Engineer Intern, Machine Learning Intern, SRE Internship |
 |[Wipfli](https://careers-wipfli.icims.com/jobs/4095/custom-development-internships%2c-summer-2022/job) | Minneapolis, MN; Milwaukee, WI | Custom Development Intern |
+|[DraftKings](https://www.linkedin.com/jobs/search/?currentJobId=2701625846&geoId=103644278&keywords=draftkings&location=United%20States) | Boston, MA | Software Engineer Intern |
+|[CrowdStrike](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Software-Engineer-Intern---Summer-2022--Remote-_R4777?source=tmp_link&dclid=CP_OnNu34PICFU3mKAUduAIMIA) | Sunnyvale, CA; Irvine, CA; Kirkland, WA; Minneapolis, MN; Remote | Software Engineer Intern, [Data Science and Data Engineering Intern](https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Remote/Data-Science-and-Data-Engineering-Internship---Summer-2022--Remote-_R4773?source=tmp_link&dclid=CP_OnNu34PICFU3mKAUduAIMIA) |
+|[Riot Games](https://www.riotgames.com/en/work-with-us/job/3385811/software-engineering-intern-los-angeles-usa) | Los Angeles, CA| |
+|[John Hopkins APL](https://prdtss.jhuapl.edu/StudentsandRecentGraduates/jobs/2022-technical-college-internship-program-1875) | Laurel, MD | |
 
 **We love our contributors ❤️❤️**
 
