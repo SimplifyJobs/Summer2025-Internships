@@ -172,7 +172,7 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[Zoom](https://zoom.wd5.myworkdayjobs.com/Zoom/4/refreshFacet/318c8bb6f553100021d223d9780d30be) | Various | [Front-End](https://zoom.wd5.myworkdayjobs.com/en-US/Zoom/job/Remote--CA---Bay-Area/XMLNAME-2022-Front-End-Developer--Intern-_R5735) Intern position is available. Does not sponsor visas |
 |[Zebra Technologies](https://early-careers-zebra.icims.com/jobs/search?ss=1&searchKeyword=2022) | Various | Multiple Intern Openings. Must be authorized to work in the U.S. on a permanent basis without requiring sponsorship. |
 |[TuSimple](https://boards.greenhouse.io/tusimpleinternship) | Tucson, AZ; San Diego, CA | |
-|[Ocient](https://www.ocient.com/jobs/?gh_jid=4578168003) | Chicago, IL | |
+|[Ocient](https://www.ocient.com/jobs/?gh_jid=4578168003) | Chicago, IL | Intern - Software Engineer. Applicants must have work authorization for the duration of the internship. |
 |[Texas Instruments](https://careers.ti.com/job/13584684/software-engineering-intern-dallas-tx/) | Dallas, TX | Software Engineer Intern. Applicants must have work authorization for the duration of the internship. |
 |[Amazon Robotics](https://www.amazon.jobs/en/jobs/1650024/software-development-engineer-intern-amazon-robotics-summer-2022) | Boston, MA | |
 |[Wells Fargo](https://www.wellsfargojobs.com/job/des-moines/2022-wells-fargo-technology-internship-program/1251/13073149088) | Various | Technology Internship Program. Must be authorized to work in the U.S. on a permanent basis without requiring sponsorship. |
