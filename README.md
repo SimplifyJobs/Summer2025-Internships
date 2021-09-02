@@ -154,7 +154,7 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[Rippling](https://www.rippling.com/careers/4614520003) | San Francisco, CA; or Remote | Software Engineering Intern |
 |[Principal Financial Group](https://careers-principal.icims.com/jobs/31700/software-engineer---data-engineer-internship-%28summer-2022%29/job) |Charlotte, NC and Des Moines, IA | Software Engineer / Data Engineer Internship(Summer 2022) Won't sponsor F1-CPT F1-OPT H-1 right now|
 |[Gem](https://boards.greenhouse.io/zensourcer/jobs/4945378002) | San Francisco, CA | Software Engineering Intern |
-|[Veeva](https://jobs.lever.co/veeva/8d206bef-9caa-41cb-a68d-410912f04865?lever-source=Veeva-Career-Site)|Columbus, Ohio and Pleasanton, CA | Software Engineer Intern |
+|[Veeva](https://jobs.lever.co/veeva/8d206bef-9caa-41cb-a68d-410912f04865?lever-source=Veeva-Career-Site)|Columbus, Ohio and Pleasanton, CA | Software Engineer Intern. Will not sponsor work visas now or in the future. |
 |<del>Persona</del> | | Closed |
 |[Guardian Life](https://guardian.taleo.net/careersection/gl_ex/jobsearch.ftl) | Various | Multiple openings related to Software Engineering, Cloud, Data Analytics, Cybersecurity. Applicants must be eligible to work in the U.S. without company sponsorship, now or in the future, for employment-based work authorization. |
 |[Honda](https://hondana.taleo.net/careersection/ah_ext/jobdetail.ftl?job=AHM0005QF&tz=GMT-05%3A00&tzname=America%2FChicago) | Various | Information Services Co-op/Intern, [Data Analytics Co-op/Intern](https://hondana.taleo.net/careersection/ah_ext/jobdetail.ftl?job=AHM0005QI&tz=GMT-05%3A00&tzname=America%2FChicago). Sponsorship for employment visa status for these positions is unavailable. |
