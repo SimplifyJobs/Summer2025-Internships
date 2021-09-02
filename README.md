@@ -196,7 +196,7 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[FireEye](https://www.fireeye.com/company/jobs.html) | Various | [Mandiant Information Security](https://jobs.smartrecruiters.com/FireEyeInc1/743999768661855), [Mandiant Incident Response](https://jobs.smartrecruiters.com/FireEyeInc1/743999768673869), [Reverse Engineering - Malware Analysis](https://jobs.smartrecruiters.com/FireEyeInc1/743999768674573) and other Intern positions are available. Some positions require applicant to be eligible to work in the US without sponsorship. |
 |[Uline](https://www.uline.jobs/JobDetails?culture=en&jobid=5648BR&jobtitle=Data-Engineer-Internship---Summer-2022)| Pleasant Prairie, Wisconsin | Data Engineer Internship |
 |[Blend](https://boards.greenhouse.io/blend/jobs/4092887004) | Remote, US | Software Engineer Intern |
-|[Motional](https://boards.greenhouse.io/motional/jobs/4680547003) | Boston, MA | Embedded Software Engineer |
+| <del>Motional</del> | | **Closed** |
 |[Hudl](https://boards.greenhouse.io/hudl) | Lincoln, NE | [Software Quality Analyst](https://boards.greenhouse.io/hudl/jobs/3415809), [Software Development](https://boards.greenhouse.io/hudl/jobs/3355652) Intern positions are available. |
 |[Paylocity](https://2000recruiting.paylocity.com/Recruiting/Jobs/Details/8708) | Remote, US | Software Engineer Intern |
 |[OSISoft](https://osisoft.wd1.myworkdayjobs.com/en-US/osisoft_careers/job/San-Leandro-California-USA/Software-Development-Intern---US_R003277) | San Leandro, California; Johnson City, Tennessee; Philadelphia, Pennsylvania; Scottsdale, Arizona | Software Development Intern |
