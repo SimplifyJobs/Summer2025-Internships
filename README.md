@@ -220,7 +220,7 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[Federal Reserve System](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Kansas-City-MO/Software-Engineer-Intern---Summer-2022_R-0000002222) | Kansas City, MO; Denver, CO; Omaha, NE | Software Engineer Intern |
 |[WeRide.ai](https://jobs.lever.co/weride/95da0930-7a3e-48fd-80b1-3bf3338a5b56) | San Jose, CA | Software Engineer Intern (Spring/Summer)| 
 |[Mutual of Omaha](https://www.mutualofomaha.com/careers/jobs/detail/499408) | Omaha, NE or Remote | Information Technology Intern (Software, SRE, or Data Science based)|
-|[TikTok](https://careers.tiktok.com/position?keywords=&category=&location=CT_157%2CCT_75&project=&type=3&job_hot_flag=&current=1&limit=10) | Seattle , WA; San Francisco, CA | Lots of positions |
+|[TikTok](https://careers.tiktok.com/position?keywords=&category=&location=CT_157%2CCT_75&project=&type=3&job_hot_flag=&current=1&limit=10) | Seattle , WA; San Francisco, CA | Lots of positions. For some positions, only PhD candidates are eligible. |
 
 **We love our contributors ❤️❤️**
 
