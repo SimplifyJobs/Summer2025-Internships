@@ -161,7 +161,7 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[Daktronics](https://careers-daktronics.icims.com/jobs/4474/software-design-intern/job) | Brookings, South Dakota | 7-Month Internship cycle,January 10 – August 12, 2022 and May 16 – December 16, 2022. Applicants must be eligible to work in the U.S. without company sponsorship, now or in the future, for employment-based work authorization. |
 |[AArete](https://www.aarete.com/join-our-team/open-positions/) | Chicago, IL | [Consulting](https://jobs.jobvite.com/aarete/job/omvCgfwt), [Data Analytics](https://jobs.jobvite.com/aarete/job/owwCgfwE), [Technology](https://jobs.jobvite.com/aarete/job/oTPDgfwl) Intern positions are available. |
 |<del>Snap</del>| |  **Closed** |
-|[Quip](https://salesforce.wd1.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Summer-2022-Intern---Software-Engineer--Quip-_JR109626) | SF | Salesforce Subsidary |
+|<del>Quip</del> | | **Closed** |
 |[Urban Outfitters](https://career4.successfactors.com/career?career_ns=job_listing&company=URBN&navBarLevel=JOB_SEARCH&rcm_site_locale=en_US&career_job_req_id=146603) | Philadelphia, PA | Software Engineer Intern, IT Intern |
 |[Innovative Systems](http://career.innovativesystems.com/apply/pEU3iGangp/InternCoopSUMMER-2022-Software-Engineering) | Pittsburgh, PA | Software Engineering Intern |
 |[OnPrem Solution Partners](https://jobs.lever.co/onprem.com/2dd1038b-211e-4caf-b9fd-f66ac6bb6117) | Austin, TX | Engineering Intern. Applicants for employment in the US must have work authorization that does not now or in the future require sponsorship of a visa for employment authorization in the United States. |
