@@ -238,6 +238,8 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[TJX](https://jobs.tjx.com/job/Marlborough-Software-Engineer-Intern-%28Summer-2022%29-MA-01752/785333500/) | Marlborough, MA | Software Engineer Intern; For Sophomore and Junior students |
 |[Textron](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=292821) | Fort Worth, TX | Electrical/Computer/Software Engineer |
 |[Discovery Inc](https://discovery1.jibeapply.com/careers-home/jobs/27023?lang=en-us) | New York, New York; Bellevue, Washington; Knoxville, Tennessee | Software Engineer Intern; Must be a rising Junior or Senior |
+|[Novetta](https://boards.greenhouse.io/novetta/jobs/5459496002) | McLean, Virginia | Machine Learning Intern |
+
 
 **We love our contributors ❤️❤️**
 
