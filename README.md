@@ -241,6 +241,7 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[Novetta](https://boards.greenhouse.io/novetta) | McLean, Reeston VA | Machine Learning Intern, Cloud Software Development Intern. |
 |[NASA Jet Propulsion Laboratory](https://www.jpl.jobs/search-results?keywords=Intern) | Pasadena, CA | Multiple Positions |
 |[McDonald's](https://mcdonalds.jibeapply.com/main/jobs/406000018219483?lang=en-us) | Chicago, IL | Global Technology Internship |
+|[Schonfeld](https://boards.greenhouse.io/schonfeld/jobs/3433508) | NY | Software Engineer, [Quant Research](https://boards.greenhouse.io/schonfeld/jobs/3447220) |
 
 **We love our contributors ❤️❤️**
 
