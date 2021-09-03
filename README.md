@@ -230,6 +230,7 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[Riot Games](https://www.riotgames.com/en/work-with-us/job/3385811/software-engineering-intern-los-angeles-usa) | Los Angeles, CA| |
 |[John Hopkins APL](https://prdtss.jhuapl.edu/StudentsandRecentGraduates/jobs/2022-technical-college-internship-program-1875) | Laurel, MD | 2022 Technical College Internship Program. US citizenship is required for security clearance. |
 |[Sealed Air Corporation](https://jobs.sealedair.com/job/Charlotte-Software-Engineering-Intern-Summer-2022-NC-28208/785037600/) | Charlotte, NC | Software Engineering Intern |
+|[Ampere](https://amperecomputing.com/apply/?p=job/oxfMgfwy&%3Fnl=1) | Portland, OR, Santa Clara, CA, and Raleigh, NC | Software Engineer Intern |
 
 **We love our contributors ❤️❤️**
 
