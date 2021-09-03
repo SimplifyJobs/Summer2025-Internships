@@ -229,17 +229,17 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[CrowdStrike](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Software-Engineer-Intern---Summer-2022--Remote-_R4777?source=tmp_link&dclid=CP_OnNu34PICFU3mKAUduAIMIA) | Sunnyvale, CA; Irvine, CA; Kirkland, WA; Minneapolis, MN; Remote | Software Engineer Intern, [Data Science and Data Engineering Intern](https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Remote/Data-Science-and-Data-Engineering-Internship---Summer-2022--Remote-_R4773?source=tmp_link&dclid=CP_OnNu34PICFU3mKAUduAIMIA) |
 |[Riot Games](https://www.riotgames.com/en/work-with-us/job/3385811/software-engineering-intern-los-angeles-usa) | Los Angeles, CA| |
 |[John Hopkins APL](https://prdtss.jhuapl.edu/StudentsandRecentGraduates/jobs/2022-technical-college-internship-program-1875) | Laurel, MD | 2022 Technical College Internship Program. US citizenship is required for security clearance. |
-|[Sealed Air Corporation](https://jobs.sealedair.com/job/Charlotte-Software-Engineering-Intern-Summer-2022-NC-28208/785037600/) | Charlotte, NC | Software Engineering Intern |
-|[Ampere](https://amperecomputing.com/apply/?p=job/oxfMgfwy&%3Fnl=1) | Portland, OR, Santa Clara, CA, and Raleigh, NC | Software Engineer Intern |
+|[Sealed Air Corporation](https://jobs.sealedair.com/search/?createNewAlert=false&q=Summer+2022&locationsearch=United+States) | Charlotte, NC | Software Engineering Intern, Applications Engineering, Data Science Engineering and other Intern positions are available. Some positions require applicant to be permanent US resident or US Citizen or National. |
+|[Ampere](https://amperecomputing.com/apply/?p=job/oxfMgfwy&%3Fnl=1) | Various | Software Engineer Intern, Hardware Engineering Intern. |
 |[Schonfeld](https://boards.greenhouse.io/schonfeld?t=e73f47fb1) | New York, NY; Miami, FL | Multiple Positions |
 |[Vise](https://boards.greenhouse.io/viseai/jobs/4695791003) | New York, NY | Software Engineering Intern |
 |[Thomson Reuters](https://jobs.thomsonreuters.com/job/13745981/software-engineer-intern-summer-2022-eagan-mn/) | Eagan, MN | Software Engineer Intern |
 |[Viasat](https://careers.viasat.com/careers/FolderDetail/Software-Engineer-Intern/8431) | Germantown, MD | Software Engineer Intern, US Citizenship is required |
-|[TJX](https://jobs.tjx.com/job/Marlborough-Software-Engineer-Intern-%28Summer-2022%29-MA-01752/785333500/) | Marlborough, MA | Software Engineer Intern; For Sophomore and Junior students |
+|[TJX](https://jobs.tjx.com/job/Marlborough-Software-Engineer-Intern-%28Summer-2022%29-MA-01752/785333500/) | Marlborough, MA | Multiple Positions; For Sophomore and Junior students |
 |[Textron](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=292821) | Fort Worth, TX | Electrical/Computer/Software Engineer |
-|[Discovery Inc](https://discovery1.jibeapply.com/careers-home/jobs/27023?lang=en-us) | New York, New York; Bellevue, Washington; Knoxville, Tennessee | Software Engineer Intern; Must be a rising Junior or Senior |
-|[Novetta](https://boards.greenhouse.io/novetta/jobs/5459496002) | McLean, Virginia | Machine Learning Intern |
-|[NASA Jet Propulsion Laboratory](https://www.jpl.jobs/job/JJPLUSR712EXTERNALENUS/2022-Summer-Internship-Software-Engineering) | Pasadena, CA | Software Engineer, Multiple Positions |
+|[Discovery Inc](https://discovery1.jibeapply.com/careers-home/jobs/27023?lang=en-us) | Various | Software Engineer Intern; Must be a rising Junior or Senior |
+|[Novetta](https://boards.greenhouse.io/novetta/jobs/5459496002) | McLean, Reeston VA | Machine Learning Intern, Cloud Software Development Intern. |
+|[NASA Jet Propulsion Laboratory](https://www.jpl.jobs/search-results?keywords=Intern) | Pasadena, CA | Multiple Positions |
 |[McDonald's](https://mcdonalds.jibeapply.com/main/jobs/406000018219483?lang=en-us) | Chicago, IL | Global Technology Internship |
 
 **We love our contributors ❤️❤️**
