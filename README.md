@@ -241,6 +241,7 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[Novetta](https://boards.greenhouse.io/novetta) | McLean, Reeston VA | Machine Learning Intern, Cloud Software Development Intern. |
 |[NASA Jet Propulsion Laboratory](https://www.jpl.jobs/search-results?keywords=Intern) | Pasadena, CA | Multiple Positions |
 |[McDonald's](https://mcdonalds.jibeapply.com/main/jobs/406000018219483?lang=en-us) | Chicago, IL | Global Technology Internship |
+|[MongoDB](https://www.mongodb.com/careers/jobs/3336092) | New York, Austin, SF | Software Engineering Intern |
 
 **We love our contributors ❤️❤️**
 
