@@ -229,6 +229,7 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[CrowdStrike](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Software-Engineer-Intern---Summer-2022--Remote-_R4777?source=tmp_link&dclid=CP_OnNu34PICFU3mKAUduAIMIA) | Sunnyvale, CA; Irvine, CA; Kirkland, WA; Minneapolis, MN; Remote | Software Engineer Intern, [Data Science and Data Engineering Intern](https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Remote/Data-Science-and-Data-Engineering-Internship---Summer-2022--Remote-_R4773?source=tmp_link&dclid=CP_OnNu34PICFU3mKAUduAIMIA) |
 |[Riot Games](https://www.riotgames.com/en/work-with-us/job/3385811/software-engineering-intern-los-angeles-usa) | Los Angeles, CA| |
 |[John Hopkins APL](https://prdtss.jhuapl.edu/StudentsandRecentGraduates/jobs/2022-technical-college-internship-program-1875) | Laurel, MD | 2022 Technical College Internship Program. US citizenship is required for security clearance. |
+|[Sealed Air Corporation](https://jobs.sealedair.com/job/Charlotte-Software-Engineering-Intern-Summer-2022-NC-28208/785037600/) | Charlotte, NC | Software Engineering Intern |
 
 **We love our contributors ❤️❤️**
 
