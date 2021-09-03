@@ -239,7 +239,6 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[Textron](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=292821) | Fort Worth, TX | Electrical/Computer/Software Engineer |
 |[Discovery Inc](https://discovery1.jibeapply.com/careers-home/jobs/27023?lang=en-us) | New York, New York; Bellevue, Washington; Knoxville, Tennessee | Software Engineer Intern; Must be a rising Junior or Senior |
 |[Novetta](https://boards.greenhouse.io/novetta/jobs/5459496002) | McLean, Virginia | Machine Learning Intern |
-|[FireEye](https://jobs.smartrecruiters.com/FireEyeInc1/743999769749336) | Reston, VA | Research Engineer Intern |
 |[NASA Jet Propulsion Laboratory](https://www.jpl.jobs/job/JJPLUSR712EXTERNALENUS/2022-Summer-Internship-Software-Engineering) | Pasadena, CA | Software Engineer, Multiple Positions |
 |[McDonald's](https://mcdonalds.jibeapply.com/main/jobs/406000018219483?lang=en-us) | Chicago, IL | Global Technology Internship |
 
