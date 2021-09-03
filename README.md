@@ -233,6 +233,7 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[Ampere](https://amperecomputing.com/apply/?p=job/oxfMgfwy&%3Fnl=1) | Portland, OR, Santa Clara, CA, and Raleigh, NC | Software Engineer Intern |
 |[Schonfeld](https://boards.greenhouse.io/schonfeld?t=e73f47fb1) | New York, NY; Miami, FL | Multiple Positions |
 |[Vise](https://boards.greenhouse.io/viseai/jobs/4695791003) | New York, NY | Software Engineering Intern |
+|[Thomson Reuters](https://jobs.thomsonreuters.com/job/13745981/software-engineer-intern-summer-2022-eagan-mn/) | Eagan, MN | Software Engineer Intern |
 
 **We love our contributors ❤️❤️**
 
