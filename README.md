@@ -245,7 +245,6 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[QVC](https://careers.qurateretailgroup.com/job-search-results/?keyword=2022) | Various | Multiple Openings. |
 |[DriveTime](https://jobs.drivetime.com/jobs?page_size=50&page_number=1&keyword=internship&sort_by=score&sort_order=DESC) | Tempe, AZ | Application Developer, Database Developer, Data Science Developer |
 |[Plexus](https://plexus.wd5.myworkdayjobs.com/en-US/Plexus_Careers/job/Neenah-WI/Intern---Software-Engineer---Summer-2022_R014354) | Neenah, WI | Software Engineer Intern. Few Other Openings too Available.|
-
 |[Waymo](https://waymo.com/careers/#software-internships) | Multiple Locations | Software Internships|
 
 **We love our contributors ❤️❤️**
