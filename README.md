@@ -239,7 +239,7 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[Textron](https://textron.taleo.net/careersection/textron/moresearch.ftl) | Fort Worth, TX | Electrical/Computer/Software Engineer |
 |[Discovery Inc](https://discovery1.jibeapply.com/careers-home/jobs/27023?lang=en-us) | Various | Software Engineer Intern; Must be a rising Junior or Senior |
 |[Novetta](https://boards.greenhouse.io/novetta) | McLean, Reeston VA | Machine Learning Intern, Cloud Software Development Intern. |
-|[NASA Jet Propulsion Laboratory](https://www.jpl.jobs/search-results?keywords=Intern) | Pasadena, CA | Multiple Positions |
+|[NASA Jet Propulsion Laboratory](https://www.jpl.jobs/search-results?keywords=Intern) | Pasadena, CA | Multiple Positions. Citizens of "designated countries" are not eligible unless they are US Permanent Residents. |
 |[McDonald's](https://mcdonalds.jibeapply.com/main/jobs/406000018219483?lang=en-us) | Chicago, IL | Global Technology Internship |
 |[MongoDB](https://www.mongodb.com/careers/departments/college-students) | New York, Austin, SF | Software Engineering Intern |
 |[QVC](https://careers.qurateretailgroup.com/job-search-results/?keyword=2022) | Various | Multiple Openings. |
