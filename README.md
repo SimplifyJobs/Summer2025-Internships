@@ -250,6 +250,7 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[Geico](https://careers.geico.com/us/en/job/R0027183/Summer-Technology-Internship) | Chevy Chase, Maryland | Summer Technology Internship |
 |[Indeed](https://ur-careers-indeed.icims.com/jobs/32369/job) | Remote | Software Developer Engineer Intern. Accepts CPT/OPT and will sponsor a work visa in the future. |
 |[LightBox](https://lightbox.secure.force.com/careers/fRecruit__ApplyJob?vacancyNo=VN097&) | New York, NY; Shelton, CT | Intern, R&D / Python & Data Science. Accepts CPT/OPT and will sponsor a work visa in the future. |
+|[MarketAxess Corporation](https://jobs.smartrecruiters.com/MarketAxess/743999768888675-data-software-engineering-intern-2022) | New York, NY | Data Software Engineer Intern. Accepts CPT/OPT and will sponsor a work visa in the future. |
 
 **We love our contributors ❤️❤️**
 
