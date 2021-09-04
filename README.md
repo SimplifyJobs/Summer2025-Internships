@@ -248,6 +248,8 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[Slack](https://slack.com/intl/en-ca/careers/university-recruiting#openings) | Toronto (Canada), San Francisco (USA) | Software Engineer Internship | 
 |[Waymo](https://waymo.com/careers/#software-internships) | Multiple Locations | Software Internships|
 |[Geico](https://careers.geico.com/us/en/job/R0027183/Summer-Technology-Internship) | Chevy Chase, Maryland | Summer Technology Internship |
+|[HP](https://jobs.hp.com/en-us/showjob/jobid/14161/softwareengineerinternship?prefilters=none&CloudSearchLocation=none&CloudSearchValue=none) | Spring(Texas), Fort Collins(Colorado) | Software Engineering Internship |
+
 
 **We love our contributors ❤️❤️**
 
