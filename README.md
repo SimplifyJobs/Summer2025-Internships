@@ -297,3 +297,4 @@ Fill [this form](https://bit.ly/3d5O76c) or make a [pull request](https://github
 * [davidteather](https://github.com/davidteather)
 * [danmoop](https://github.com/danmoop)
 * [qc542](https://github.com/qc542)
+* [bekadeveloper](https://github.com/bekadeveloper)
