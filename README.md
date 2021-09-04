@@ -211,7 +211,7 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[DoorDash](https://boards.greenhouse.io/doordash/jobs/3393160?gh_jid=3393160) | Various | Software Engineer Intern |
 |[Mr. Cooper Group](https://careers.mrcooper.com/search/jobs?q=intern) | Dallas, TX | Various Intern Roles. Software Engineer, Devops, Data, Machine Learning. Will not sponsor work visas for some positions. |
 |[UIPath](https://www.uipath.com/company/careers/americas/bellevue/engineering-development/software-engineer-intern)| Bellevue, WA | |
-|[Uber](https://www.uber.com/global/en/careers/list/107068/) | NYC, Seattle, SF, Sunnyvale | |
+|[Uber](https://www.uber.com/global/en/careers/list/107068/) | NYC, Seattle, SF, Sunnyvale | Software Engineer Internship, [STAR Internship Program](https://university-uber.icims.com/jobs/107178/job?mobile=false&width=1030&height=500&bga=true&needsRedirect=false&jan1offset=-360&jun1offset=-300) |
 |[Workiva](https://workiva.wd1.myworkdayjobs.com/en-US/careers/job/Ames/XMLNAME-2022-Summer---Software-Engineer-Intern_R2987) | Various Locations | Software Engineer Intern. Will not sponsor work visas now or in the future. |
 |[SingleStore](https://boards.greenhouse.io/singlestore/jobs/3436980) | Raleigh, NC | Software Engineer Intern |
 |[Vail Systems](https://vail-systems.talentify.io/job/web-software-engineer-intern-summer-2022-chicago-illinois-vail-systems-owrkgfwh) | Chicago, Illinois | Web Software Engineer Intern |
@@ -247,6 +247,7 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[Plexus](https://plexus.wd5.myworkdayjobs.com/en-US/Plexus_Careers/job/Neenah-WI/Intern---Software-Engineer---Summer-2022_R014354) | Neenah, WI | Software Engineer Intern. Few Other Openings too Available.|
 |[Slack](https://slack.com/intl/en-ca/careers/university-recruiting#openings) | Toronto (Canada), San Francisco (USA) | Software Engineer Internship | 
 |[Waymo](https://waymo.com/careers/#software-internships) | Multiple Locations | Software Internships|
+|[Geico](https://careers.geico.com/us/en/job/R0027183/Summer-Technology-Internship) | Chevy Chase, Maryland | Summer Technology Internship |
 
 **We love our contributors ❤️❤️**
 
@@ -297,3 +298,4 @@ Fill [this form](https://bit.ly/3d5O76c) or make a [pull request](https://github
 * [davidteather](https://github.com/davidteather)
 * [danmoop](https://github.com/danmoop)
 * [qc542](https://github.com/qc542)
+* [bekadeveloper](https://github.com/bekadeveloper)
