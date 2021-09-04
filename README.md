@@ -247,6 +247,7 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[Plexus](https://plexus.wd5.myworkdayjobs.com/en-US/Plexus_Careers/job/Neenah-WI/Intern---Software-Engineer---Summer-2022_R014354) | Neenah, WI | Software Engineer Intern. Few Other Openings too Available.|
 |[Slack](https://slack.com/intl/en-ca/careers/university-recruiting#openings) | Toronto (Canada), San Francisco (USA) | Software Engineer Internship | 
 |[Waymo](https://waymo.com/careers/#software-internships) | Multiple Locations | Software Internships|
+|[Geico](https://careers.geico.com/us/en/job/R0027183/Summer-Technology-Internship) | Chevy Chase, Maryland | Summer Technology Internship |
 
 **We love our contributors ❤️❤️**
 
