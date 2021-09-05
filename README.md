@@ -251,6 +251,8 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[Indeed](https://ur-careers-indeed.icims.com/jobs/32369/job) | Remote | Software Developer Engineer Intern. Accepts CPT/OPT and will sponsor a work visa in the future. |
 |[LightBox](https://lightbox.secure.force.com/careers/fRecruit__ApplyJob?vacancyNo=VN097&) | New York, NY; Shelton, CT | Intern, R&D / Python & Data Science. Accepts CPT/OPT and will sponsor a work visa in the future. |
 |[MarketAxess Corporation](https://jobs.smartrecruiters.com/MarketAxess/743999768888675-data-software-engineering-intern-2022) | New York, NY | Data Software Engineer Intern. Accepts CPT/OPT and will sponsor a work visa in the future. |
+|[HP](https://jobs.hp.com/en-us/showjob/jobid/14161/softwareengineerinternship?prefilters=none&CloudSearchLocation=none&CloudSearchValue=none) | Spring(Texas), Fort Collins(Colorado) | Software Engineering Internship |
+|[Xylem](https://jobs.jobvite.com/xylem/job/o3pCgfw4?__jvst=Job%20Board&__jvsd=LinkedIn) | Atlanta, GA; Morrisville, NC; Morton Grave, IL; Seneca Falls, NY | Software Engineer Intern |
 
 **We love our contributors ❤️❤️**
 
