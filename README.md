@@ -257,6 +257,7 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[Xylem](https://jobs.jobvite.com/xylem/job/o3pCgfw4?__jvst=Job%20Board&__jvsd=LinkedIn) | Atlanta, GA; Morrisville, NC; Morton Grave, IL; Seneca Falls, NY | Software Engineer Intern, [Data Science Intern](https://jobs.jobvite.com/xylem/job/ojqCgfwl?__jvst=Job%20Board&__jvsd=LinkedIn) |
 |[Chicago Trading Company](https://ctc.recsolu.com/external/requisitions/97wN1n3TSPbNX8XM5ubNYw) | Chicago, IL | Technology Intern, [Quant Trading Analyst Intern](https://ctc.recsolu.com/external/requisitions/9t6dGDg9NGl6aL31KAaEYw) |
 |[American Express](https://aexp.eightfold.ai/careers?pid=8868871&query=21021239&domain=aexp.com&triggerGoButton=false) | New York, NY | Finance Data Science Summer Internship. Accepts CPT/OPT and will sponsor a work visa in the future. |
+|[Dimensional Fund Advisors](https://dimensional.wd5.myworkdayjobs.com/en-US/DFA_Campus/job/Austin/Internship-in-Technology-Software-Engineer--Undergraduate---Masters-_2021-6068) | Austin, TX | Internship in Technology-Software Engineer. Accepts CPT/OPT and will sponsor a work visa in the future. |
 
 **We love our contributors ❤️❤️**
 
