@@ -51,7 +51,7 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[Cigna](https://jobs.cigna.com/us/en/job/21012002/Cigna-Technology-Early-Career-Development-Program-TECDP-Summer-Intern-2022-Evergreen) | Various | Application Developer, Infrastructure Engineer, Network Engineer and other Intern positions are available. The internship is open only to individuals who are eligible for employment in the United States and who would not require visa sponsorship now or in the future. |
 |[Bracebridge Capital](https://phh.tbe.taleo.net/phh02/ats/careers/v2/viewRequisition?org=BRACEBRIDGE_CAPITAL&cws=41&rid=246) | Boston, MA | Investment Analyst position is available. |
 |[Federated Insurance](https://careers-federatedinsurance.icims.com/jobs/3098/it-systems-developer-intern---summer-2022/job?mode=job&iis=SOURCE&iisn=LinkedIn&mobile=false&width=1887&height=500&bga=true&needsRedirect=false&jan1offset=120&jun1offset=180) | Owatonna, MN | IT-Systems Developer Intern position is available. |
-|[US Ventures](https://usventure.wd1.myworkdayjobs.com/USVExternal/job/WI---Green-Bay/Software-Engineering-Intern_REQ-007655) | Green Bay, WI | |
+|[US Ventures](https://careers.usventure.com/us/en/job/USVEUSREQ007946/Software-Engineering-Intern) | Green Bay, WI | |
 |[Amazon/AWS](https://www.amazon.jobs/en/search?base_query=Summer+2022&loc_query=&latitude=&longitude=&loc_group_id=&invalid_location=false&country=&city=&region=&county=) | Various | [Software Development Engineer](https://www.amazon.jobs/en/jobs/1557929/software-development-engineer-internship-summer-2022-us), [Cloud Support Associate](https://www.amazon.jobs/en/jobs/1608042/cloud-support-associate-intern-summer-2022-us), [Assoc Customer Solutions Manager](https://www.amazon.jobs/en/jobs/1609945/assoc-customer-solutions-manager-intern-summer-2022-us), [Quality Assurance Engineer](https://www.amazon.jobs/en/jobs/1628670/quality-assurance-engineer-internship-summer-2022-us), [Big Data SDE](https://www.amazon.jobs/en/jobs/1673627/summer-2022-software-development-engineer-intern-big-data) and other Intern positions are available. |
 |[Palantir](https://jobs.lever.co/palantir?commitment=Internship)| Various | [Forward Deployed Software Engineer](https://jobs.lever.co/palantir/e6ff8bf2-135e-474d-ad37-24f490ae1dd2), [Software Engineer](https://jobs.lever.co/palantir/bdcfb29f-4f27-42de-933f-7f83a359b9f0), [Palantir Path](https://jobs.lever.co/palantir/667ad245-0eb8-44da-b29c-791c2fa081d3) Intern positions are available. |
 |[Tableau](https://salesforce.wd1.myworkdayjobs.com/en-US/Tableau/job/Washington---Seattle/Summer-2022-Intern---Tableau-Software-Engineer_JR103736) | Seattle, Austin, Palo Alto, SF | |
@@ -205,7 +205,7 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[Chick-fil-a](https://careers-chickfila.icims.com/jobs/search?ss=1&searchKeyword=Intern) | Atlanta, GA | [Digital Transformation and Technology](https://careers-chickfila.icims.com/jobs/10180/2022-digital-transformation-and-technology-summer-intern/job), [Software Engineering](https://careers-chickfila.icims.com/jobs/10181/2022-software-engineering-summer-intern/job?in_iframe=1) Intern positions are available. |
 |[AvidXchange](https://us60.dayforcehcm.com/CandidatePortal/en-us/avidxchange?q=Intern) | Charlotte, NC | [Software Engineering](https://us60.dayforcehcm.com/CandidatePortal/en-us/avidxchange/Posting/View/5047), [Information Security](https://us60.dayforcehcm.com/CandidatePortal/en-us/avidxchange/Posting/View/5046) and other Intern positions are available. |
 |[ZS Associates](https://jobs.zs.com/jobs/10083?lang=en-us) | Various | [Business Technology Solutions Associate - Intern](https://jobs.zs.com/jobs/10083?lang=en-us). Accepts OPT/CPT and will sponsor a work visa in the future. |
-|[Deutsche Bank](https://db.recsolu.com/external/requisitions/ULPvn7Fziuz8V-HRdZC0Sg) | NYC | Analyst Programme - Technology, Data and Innovation. Accepts CPT and OPT and will sponsor a work visa in the future. |
+|[Deutsche Bank](https://db.recsolu.com/external/requisitions/746pSGx3ZsPZq4Y1Ve8vig) | NYC | Analyst Internship Programme - Technology, Data and Innovation. Accepts CPT and OPT and will sponsor a work visa in the future. |
 |[General Dynamics Mission Systems](https://gdmissionsystems.com/careers/software-intern-may-2022-pittsburgh-pa-usa-2021-49966-opportunity) | Pittsburg, PA | Software and other Intern positions are available. US Citizenship is required. |
 |[Rivian](https://boards.greenhouse.io/rivian/jobs/4674393003) | Palo Alto, CA | |
 |[DoorDash](https://boards.greenhouse.io/doordash/jobs/3393160?gh_jid=3393160) | Various | Software Engineer Intern |
@@ -236,10 +236,10 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[Thomson Reuters](https://jobs.thomsonreuters.com/job/13745981/software-engineer-intern-summer-2022-eagan-mn/) | Eagan, MN | Software Engineer Intern |
 |[Viasat](https://careers.viasat.com/careers/FolderDetail/Software-Engineer-Intern/8431) | Germantown, MD | Software Engineer Intern, US Citizenship is required |
 |[TJX](https://jobs.tjx.com/search/?createNewAlert=false&q=Summer+2022&locationsearch=&optionsFacetsDD_country=&optionsFacetsDD_location=&optionsFacetsDD_dept=&optionsFacetsDD_customfield5=&optionsFacetsDD_customfield2=) | Marlborough, MA | Multiple Positions; For Sophomore and Junior students |
-|[Textron](https://textron.taleo.net/careersection/textron/moresearch.ftl) | Fort Worth, TX | Electrical/Computer/Software Engineer |
+|[Textron](https://textron.taleo.net/careersection/textron/moresearch.ftl) | Fort Worth, TX | Electrical/Computer/Software Engineer. US citizenship required for security clearance. |
 |[Discovery Inc](https://discovery1.jibeapply.com/careers-home/jobs/27023?lang=en-us) | Various | Software Engineer Intern; Must be a rising Junior or Senior |
-|[Novetta](https://boards.greenhouse.io/novetta) | McLean, Reeston VA | Machine Learning Intern, Cloud Software Development Intern. |
-|[NASA Jet Propulsion Laboratory](https://www.jpl.jobs/search-results?keywords=Intern) | Pasadena, CA | Multiple Positions |
+|[Novetta](https://boards.greenhouse.io/novetta) | McLean, Reeston VA | Machine Learning Intern, Cloud Software Development Intern. US citizenship required. |
+|[NASA Jet Propulsion Laboratory](https://www.jpl.jobs/search-results?keywords=Intern) | Pasadena, CA | Multiple Positions. Citizens of "designated countries" are not eligible unless they are US Permanent Residents. |
 |[McDonald's](https://mcdonalds.jibeapply.com/main/jobs/406000018219483?lang=en-us) | Chicago, IL | Global Technology Internship |
 |[MongoDB](https://www.mongodb.com/careers/jobs/3336092) | New York, Austin, SF | Software Engineering Intern |
 |[QVC](https://careers.qurateretailgroup.com/job-search-results/?keyword=2022) | Various | Multiple Openings. |
@@ -248,13 +248,19 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[Slack](https://slack.com/intl/en-ca/careers/university-recruiting#openings) | Toronto (Canada), San Francisco (USA) | Software Engineer Internship | 
 |[Waymo](https://waymo.com/careers/#software-internships) | Multiple Locations | Software Internships|
 |[Geico](https://careers.geico.com/us/en/job/R0027183/Summer-Technology-Internship) | Chevy Chase, Maryland | Summer Technology Internship |
+|[Indeed](https://ur-careers-indeed.icims.com/jobs/32369/job) | Remote | Software Developer Engineer Intern. Accepts CPT/OPT and will sponsor a work visa in the future. |
+|[LightBox](https://lightbox.secure.force.com/careers/fRecruit__ApplyJob?vacancyNo=VN097&) | New York, NY; Shelton, CT | Intern, R&D / Python & Data Science. Accepts CPT/OPT and will sponsor a work visa in the future. |
+|[MarketAxess Corporation](https://jobs.smartrecruiters.com/MarketAxess/743999768888675-data-software-engineering-intern-2022) | New York, NY | Data Software Engineer Intern. Accepts CPT/OPT and will sponsor a work visa in the future. |
+|[HP](https://jobs.hp.com/en-us/showjob/jobid/14161/softwareengineerinternship?prefilters=none&CloudSearchLocation=none&CloudSearchValue=none) | Spring(Texas), Fort Collins(Colorado) | Software Engineering Internship |
+|[Xylem](https://jobs.jobvite.com/xylem/job/o3pCgfw4?__jvst=Job%20Board&__jvsd=LinkedIn) | Atlanta, GA; Morrisville, NC; Morton Grave, IL; Seneca Falls, NY | Software Engineer Intern |
 |[HP](https://jobs.hp.com/en-us/showjob/jobid/14161/softwareengineerinternship?prefilters=none&CloudSearchLocation=none&CloudSearchValue=none) | Spring(Texas), Fort Collins(Colorado) | Software Engineering Internship |
 |[Xylem](https://jobs.jobvite.com/xylem/job/o3pCgfw4?__jvst=Job%20Board&__jvsd=LinkedIn) | Atlanta, GA; Morrisville, NC; Morton Grave, IL; Seneca Falls, NY | Software Engineer Intern, [Data Science Intern](https://jobs.jobvite.com/xylem/job/ojqCgfwl?__jvst=Job%20Board&__jvsd=LinkedIn) |
 |[Chicago Trading Company](https://ctc.recsolu.com/external/requisitions/97wN1n3TSPbNX8XM5ubNYw) | Chicago, IL | Technology Intern, [Quant Trading Analyst Intern](https://ctc.recsolu.com/external/requisitions/9t6dGDg9NGl6aL31KAaEYw) |
+|[American Express](https://aexp.eightfold.ai/careers?pid=8868871&query=21021239&domain=aexp.com&triggerGoButton=false) | New York, NY | Finance Data Science Summer Internship. Accepts CPT/OPT and will sponsor a work visa in the future. |
+|[Dimensional Fund Advisors](https://dimensional.wd5.myworkdayjobs.com/en-US/DFA_Campus/job/Austin/Internship-in-Technology-Software-Engineer--Undergraduate---Masters-_2021-6068) | Austin, TX | Internship in Technology-Software Engineer. Accepts CPT/OPT and will sponsor a work visa in the future. |
 |[Anyscale](https://jobs.lever.co/anyscale/31505685-4719-44c5-b7d1-e8409b233da5) | San Francisco, CA | Software Engineer Intern |
 |[Snorkel AI](https://jobs.lever.co/snorkel/7a7f4d24-2d31-4d52-8077-313eba2b58e6) | Palo Alto, CA | Engineering Intern |
 |[Netflix](https://jobs.netflix.com/jobs/119544498) | Los Gatos, California | [Machine Learning Intern](https://jobs.netflix.com/jobs/119544498), [Analytics Engineering Intern, Data Science and Engineering](https://jobs.netflix.com/jobs/118471558) Note: for MS/PhD only |
-
 
 **We love our contributors ❤️❤️**
 
