@@ -252,7 +252,6 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[Xylem](https://jobs.jobvite.com/xylem/job/o3pCgfw4?__jvst=Job%20Board&__jvsd=LinkedIn) | Atlanta, GA; Morrisville, NC; Morton Grave, IL; Seneca Falls, NY | Software Engineer Intern, [Data Science Intern](https://jobs.jobvite.com/xylem/job/ojqCgfwl?__jvst=Job%20Board&__jvsd=LinkedIn) |
 |[Chicago Trading Company](https://ctc.recsolu.com/external/requisitions/97wN1n3TSPbNX8XM5ubNYw) | Chicago, IL | Technology Intern, [Quant Trading Analyst Intern](https://ctc.recsolu.com/external/requisitions/9t6dGDg9NGl6aL31KAaEYw) |
 |[Anyscale](https://jobs.lever.co/anyscale/31505685-4719-44c5-b7d1-e8409b233da5) | San Francisco, CA | Software Engineer Intern |
-
 |[Snorkel AI](https://jobs.lever.co/snorkel/7a7f4d24-2d31-4d52-8077-313eba2b58e6) | Palo Alto, CA | Engineering Intern |
 
 **We love our contributors ❤️❤️**
