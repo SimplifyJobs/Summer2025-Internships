@@ -238,7 +238,7 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[TJX](https://jobs.tjx.com/search/?createNewAlert=false&q=Summer+2022&locationsearch=&optionsFacetsDD_country=&optionsFacetsDD_location=&optionsFacetsDD_dept=&optionsFacetsDD_customfield5=&optionsFacetsDD_customfield2=) | Marlborough, MA | Multiple Positions; For Sophomore and Junior students |
 |[Textron](https://textron.taleo.net/careersection/textron/moresearch.ftl) | Fort Worth, TX | Electrical/Computer/Software Engineer. US citizenship required for security clearance. |
 |[Discovery Inc](https://discovery1.jibeapply.com/careers-home/jobs/27023?lang=en-us) | Various | Software Engineer Intern; Must be a rising Junior or Senior |
-|[Novetta](https://boards.greenhouse.io/novetta) | McLean, Reeston VA | Machine Learning Intern, Cloud Software Development Intern. US citizenship required. |
+|[Novetta](https://boards.greenhouse.io/novetta) | McLean, Reeston VA | Machine Learning Intern, Cloud Software Development Intern. Applicants must be eligible for US security clearance;​ all clearances require US citizenship.|
 |[NASA Jet Propulsion Laboratory](https://www.jpl.jobs/search-results?keywords=Intern) | Pasadena, CA | Multiple Positions. Citizens of "designated countries" are not eligible unless they are US Permanent Residents. |
 |[McDonald's](https://mcdonalds.jibeapply.com/main/jobs/406000018219483?lang=en-us) | Chicago, IL | Global Technology Internship |
 |[MongoDB](https://www.mongodb.com/careers/jobs/3336092) | New York, Austin, SF | Software Engineering Intern |
@@ -313,3 +313,4 @@ Fill [this form](https://bit.ly/3d5O76c) or make a [pull request](https://github
 * [qc542](https://github.com/qc542)
 * [bekadeveloper](https://github.com/bekadeveloper)
 * [Eurus-Holmes](https://github.com/Eurus-Holmes)
+* [ch2ohch2oh](https://github.com/ch2ohch2oh)
