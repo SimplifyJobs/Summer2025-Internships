@@ -261,7 +261,6 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[Netflix](https://jobs.netflix.com/jobs/119544498) | Los Gatos, California | [Machine Learning Intern](https://jobs.netflix.com/jobs/119544498), [Analytics Engineering Intern, Data Science and Engineering](https://jobs.netflix.com/jobs/118471558) Note: for MS/PhD only |
 |[Slalom](https://jobs.slalom.com//#/post/a0h1R00000Bq2XgQAJ) | Detroit, MI | Software Engineer Intern - Summer 2022 |
 |[Charles Schwab](https://jobs.schwabjobs.com/job/-/-/33727/13744870816?mode=job&iis=Indeed&iisn=IndeedOrganic) | Various | 2022 Technology Internship |
-
 |[Pella](https://careers.pella.com/jobs/information-technology-intern-summer-2022-4417?src=JB-10080) | Pella, IA | Information Technology Intern / Summer 2022 |
 
 **We love our contributors ❤️❤️**
