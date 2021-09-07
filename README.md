@@ -39,7 +39,7 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[RBC Capital Markets](https://jobs.rbc.com/ca/en/job/RBCAA0088327043EXTERNALENCA/2022-Technology-Summer-Analyst-Program) | NYC | |
 |[Arrowstreet Capital](https://arrowstreetcapital.wd5.myworkdayjobs.com/Arrowstreet/0/refreshFacet/318c8bb6f553100021d223d9780d30be) | Boston, MA | Quant |
 |[Asana](https://boards.greenhouse.io/earlycareerprograms/jobs/3198333) | San Francisco, CA | SWE Internship, [SWE Internship (Class of 2024)](https://boards.greenhouse.io/earlycareerprograms/jobs/3215532) |
-| <del>Target</del> | | **Closed** |
+|[Target](https://jobs.target.com/job/brooklyn-park/software-engineering-internship-summer-2022/1118/13300878224) | Brooklyn Park, MN | Software Engineering Internship |
 |[BNP Paribas](https://bnppus.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/xf-e138f59a0427/candidate/so/pm/1/pl/2/opp/489-2022-Summer-Analyst-Internship-Technology/en-GB) | Various | Other positions [here](https://bnppus.tal.net/vx/lang-en-GB/mobile-0/appcentre-ext/brand-4/xf-5db317b8ad85/candidate/jobboard/vacancy/2/adv/?ftq=2022) |
 |[MealMe](https://www.mealme.ai/software-internship) | Not displayed | See positions [here](https://www.mealme.ai/careers) |
 |[Apple](https://jobs.apple.com/en-us/details/200253195/software-engineering-internship?team=STDNT) | Cupertino, CA | [ML/AI Internship](https://jobs.apple.com/en-us/details/200253211/machine-learning-ai-internship?team=STDNT) |
