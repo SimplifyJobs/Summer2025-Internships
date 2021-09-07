@@ -259,6 +259,7 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[Anyscale](https://jobs.lever.co/anyscale/31505685-4719-44c5-b7d1-e8409b233da5) | San Francisco, CA | Software Engineer Intern |
 |[Snorkel AI](https://jobs.lever.co/snorkel/7a7f4d24-2d31-4d52-8077-313eba2b58e6) | Palo Alto, CA | Engineering Intern |
 |[Netflix](https://jobs.netflix.com/jobs/119544498) | Los Gatos, California | [Machine Learning Intern](https://jobs.netflix.com/jobs/119544498), [Analytics Engineering Intern, Data Science and Engineering](https://jobs.netflix.com/jobs/118471558) Note: for MS/PhD only |
+|[Charles Schwab](https://jobs.schwabjobs.com/job/-/-/33727/13744870816?mode=job&iis=Indeed&iisn=IndeedOrganic) | Various | 2022 Technology Internship |
 
 **We love our contributors ❤️❤️**
 
