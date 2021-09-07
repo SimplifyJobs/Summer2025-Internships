@@ -39,7 +39,7 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[RBC Capital Markets](https://jobs.rbc.com/ca/en/job/RBCAA0088327043EXTERNALENCA/2022-Technology-Summer-Analyst-Program) | NYC | |
 |[Arrowstreet Capital](https://arrowstreetcapital.wd5.myworkdayjobs.com/Arrowstreet/0/refreshFacet/318c8bb6f553100021d223d9780d30be) | Boston, MA | Quant |
 |[Asana](https://boards.greenhouse.io/earlycareerprograms/jobs/3198333) | San Francisco, CA | SWE Internship, [SWE Internship (Class of 2024)](https://boards.greenhouse.io/earlycareerprograms/jobs/3215532) |
-| <del>Target</del> | | **Closed** |
+|[Target](https://jobs.target.com/job/brooklyn-park/software-engineering-internship-summer-2022/1118/13300878224) | Brooklyn Park, MN | Software Engineering Internship |
 |[BNP Paribas](https://bnppus.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/xf-e138f59a0427/candidate/so/pm/1/pl/2/opp/489-2022-Summer-Analyst-Internship-Technology/en-GB) | Various | Other positions [here](https://bnppus.tal.net/vx/lang-en-GB/mobile-0/appcentre-ext/brand-4/xf-5db317b8ad85/candidate/jobboard/vacancy/2/adv/?ftq=2022) |
 |[MealMe](https://www.mealme.ai/software-internship) | Not displayed | See positions [here](https://www.mealme.ai/careers) |
 |[Apple](https://jobs.apple.com/en-us/details/200253195/software-engineering-internship?team=STDNT) | Cupertino, CA | [ML/AI Internship](https://jobs.apple.com/en-us/details/200253211/machine-learning-ai-internship?team=STDNT) |
@@ -169,7 +169,7 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[Battelle](https://jobs.battelle.org/ShowJob/JobId/3047957/Cyber%20Engineer%20Intern%20(Summer%202022)) | Chantilly, VA | Cyber Engineer Intern. Must be a sole US citizen with the ability to obtain and maintain a US government security clearance. |
 |<del>Unilever</del> | United States; Remote | **Closed** Information Technology Intern |
 |[Silicon Labs](https://jobs.jobvite.com/silabs/job/oa8EgfwW) | Austin, TX; Boston, MA | [Applications Engineering](https://jobs.jobvite.com/silabs/job/olSDgfwQ), [Validation Engineering](https://jobs.jobvite.com/silabs/job/oQFEgfw9), [Software Engineering](https://jobs.jobvite.com/silabs/job/oa8EgfwW), [Product Test Engineering](https://jobs.jobvite.com/silabs/job/o38EgfwP) Intern positions are available. |
-|[Zoom](https://zoom.wd5.myworkdayjobs.com/Zoom/4/refreshFacet/318c8bb6f553100021d223d9780d30be) | Various | [Front-End](https://zoom.wd5.myworkdayjobs.com/en-US/Zoom/job/Remote--CA---Bay-Area/XMLNAME-2022-Front-End-Developer--Intern-_R5735) Intern position is available. Does not sponsor visas |
+|[Zoom](https://zoom.wd5.myworkdayjobs.com/Zoom/1/refreshFacet/318c8bb6f553100021d223d9780d30be) | Various | Search `2022` for multiple positions. Does not sponsor visas |
 |[Zebra Technologies](https://early-careers-zebra.icims.com/jobs/search?ss=1&searchKeyword=2022) | Various | Multiple Intern Openings. Must be authorized to work in the U.S. on a permanent basis without requiring sponsorship. |
 |[TuSimple](https://boards.greenhouse.io/tusimpleinternship) | Tucson, AZ; San Diego, CA | |
 |[Ocient](https://www.ocient.com/jobs/?gh_jid=4578168003) | Chicago, IL | Intern - Software Engineer. Applicants must have work authorization for the duration of the internship. |
@@ -252,8 +252,6 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[LightBox](https://lightbox.secure.force.com/careers/fRecruit__ApplyJob?vacancyNo=VN097&) | New York, NY; Shelton, CT | Intern, R&D / Python & Data Science. Accepts CPT/OPT and will sponsor a work visa in the future. |
 |[MarketAxess Corporation](https://jobs.smartrecruiters.com/MarketAxess/743999768888675-data-software-engineering-intern-2022) | New York, NY | Data Software Engineer Intern. Accepts CPT/OPT and will sponsor a work visa in the future. |
 |[HP](https://jobs.hp.com/en-us/showjob/jobid/14161/softwareengineerinternship?prefilters=none&CloudSearchLocation=none&CloudSearchValue=none) | Spring(Texas), Fort Collins(Colorado) | Software Engineering Internship |
-|[Xylem](https://jobs.jobvite.com/xylem/job/o3pCgfw4?__jvst=Job%20Board&__jvsd=LinkedIn) | Atlanta, GA; Morrisville, NC; Morton Grave, IL; Seneca Falls, NY | Software Engineer Intern |
-|[HP](https://jobs.hp.com/en-us/showjob/jobid/14161/softwareengineerinternship?prefilters=none&CloudSearchLocation=none&CloudSearchValue=none) | Spring(Texas), Fort Collins(Colorado) | Software Engineering Internship |
 |[Xylem](https://jobs.jobvite.com/xylem/job/o3pCgfw4?__jvst=Job%20Board&__jvsd=LinkedIn) | Atlanta, GA; Morrisville, NC; Morton Grave, IL; Seneca Falls, NY | Software Engineer Intern, [Data Science Intern](https://jobs.jobvite.com/xylem/job/ojqCgfwl?__jvst=Job%20Board&__jvsd=LinkedIn) |
 |[Chicago Trading Company](https://ctc.recsolu.com/external/requisitions/97wN1n3TSPbNX8XM5ubNYw) | Chicago, IL | Technology Intern, [Quant Trading Analyst Intern](https://ctc.recsolu.com/external/requisitions/9t6dGDg9NGl6aL31KAaEYw) |
 |[American Express](https://aexp.eightfold.ai/careers?pid=8868871&query=21021239&domain=aexp.com&triggerGoButton=false) | New York, NY | Finance Data Science Summer Internship. Accepts CPT/OPT and will sponsor a work visa in the future. |
@@ -262,6 +260,7 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[Snorkel AI](https://jobs.lever.co/snorkel/7a7f4d24-2d31-4d52-8077-313eba2b58e6) | Palo Alto, CA | Engineering Intern |
 |[Netflix](https://jobs.netflix.com/jobs/119544498) | Los Gatos, California | [Machine Learning Intern](https://jobs.netflix.com/jobs/119544498), [Analytics Engineering Intern, Data Science and Engineering](https://jobs.netflix.com/jobs/118471558) Note: for MS/PhD only |
 |[Slalom](https://jobs.slalom.com//#/post/a0h1R00000Bq2XgQAJ) | Detroit, MI | Software Engineer Intern - Summer 2022 |
+|[Charles Schwab](https://jobs.schwabjobs.com/job/-/-/33727/13744870816?mode=job&iis=Indeed&iisn=IndeedOrganic) | Various | 2022 Technology Internship |
 
 **We love our contributors ❤️❤️**
 
