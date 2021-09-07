@@ -262,7 +262,7 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[Slalom](https://jobs.slalom.com//#/post/a0h1R00000Bq2XgQAJ) | Detroit, MI | Software Engineer Intern - Summer 2022 |
 |[Charles Schwab](https://jobs.schwabjobs.com/job/-/-/33727/13744870816?mode=job&iis=Indeed&iisn=IndeedOrganic) | Various | 2022 Technology Internship |
 |[Pella](https://careers.pella.com/jobs/information-technology-intern-summer-2022-4417?src=JB-10080) | Pella, IA | Information Technology Intern / Summer 2022 |
-| [Ultimate Kronos Group](https://careers.ukg.com/careers/JobDetail/Software-Engineer-Intern-Spring-Summer-2022/31061?source=Internet%20-%20LinkedIn%20-%20Sponsored) | Remote | Software Engineer Intern |
+|[Ultimate Kronos Group](https://careers.ukg.com/careers/JobDetail/Software-Engineer-Intern-Spring-Summer-2022/31061) | Remote | Software Engineer Intern |
 
 **We love our contributors ❤️❤️**
 
