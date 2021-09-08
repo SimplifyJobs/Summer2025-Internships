@@ -267,6 +267,7 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[Squarespace](https://www.squarespace.com/careers/jobs/3401380) | New York, NY | Software Engineer Intern (Backend, Frontend and Internal Infra) |
 |[Publicis Sapient](https://jobs.smartrecruiters.com/ni/PublicisGroupe/1548e7ef-897d-4135-977f-fa400b69e548-software-engineer-intern-class-of-2023) | Various | Junior Software Engineer Intern. Must be legally authorized to work without the need of sponsorship. |
 |[ASML](https://www.asml.com/en/careers/internships?query=Summer%202022) | Wilton, CT; San Diego, CA | Software Engineering, Software Development Intern positions are available. |
+|[Aloft](https://jobs.lever.co/aloft/b6356f0c-fc09-4103-879d-537adf5185b0) | Seattle, WA | Software Engineering Intern |
 
 **We love our contributors ❤️❤️**
 
