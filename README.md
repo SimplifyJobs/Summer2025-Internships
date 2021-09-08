@@ -268,6 +268,7 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[Publicis Sapient](https://jobs.smartrecruiters.com/ni/PublicisGroupe/1548e7ef-897d-4135-977f-fa400b69e548-software-engineer-intern-class-of-2023) | Various | Junior Software Engineer Intern. Must be legally authorized to work without the need of sponsorship. |
 |[Nike](https://jobs.nike.com/job/URSRCTECHGI22?apstr=src%3DJB-11022) | Beaverton, OR | Graduate Global Technology Internship |
 |[ASML](https://www.asml.com/en/careers/internships?query=Summer%202022) | Wilton, CT; San Diego, CA | Software Engineering, Software Development Intern positions are available. |
+|[Honeywell](https://honeywell.csod.com/ux/ats/careersite/1/home/requisition/293327?c=honeywell) | Not Specified (US) | Software Engineer Intern/Co-Op
 |[CACI](https://careers.caci.com/global/en/job/CACIGLOBAL253045EXTERNALENGLOBAL/Software-Engineering-Intern-Summer-2022?utm_source=linkedin&utm_medium=phenom-feeds) | Various | Software Engineering Intern – Summer 2022 |
 
 **We love our contributors ❤️❤️**
