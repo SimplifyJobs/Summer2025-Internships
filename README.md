@@ -264,7 +264,6 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[Pella](https://careers.pella.com/jobs/information-technology-intern-summer-2022-4417?src=JB-10080) | Pella, IA | Information Technology Intern / Summer 2022 |
 |[Ultimate Kronos Group](https://careers.ukg.com/careers/JobDetail/Software-Engineer-Intern-Spring-Summer-2022/31061) | Remote | Software Engineer Intern |
 |[Dell](https://dell.wd1.myworkdayjobs.com/ExternalNonPublic/job/Round-Rock-Texas-United-States/Software-Engineering-Intern_R128527) | Round Rock, Seattle, Santa Clara, Hopkinton, Research Triangle Park | Software Engineer Intern |
-
 |[Squarespace](https://www.squarespace.com/careers/jobs/3401380) | New York, NY | Software Engineer Intern (Backend, Frontend and Internal Infra) |
 
 **We love our contributors ❤️❤️**
