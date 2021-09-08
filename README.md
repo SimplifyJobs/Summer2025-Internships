@@ -263,6 +263,7 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[Charles Schwab](https://jobs.schwabjobs.com/job/-/-/33727/13744870816?mode=job&iis=Indeed&iisn=IndeedOrganic) | Various | 2022 Technology Internship |
 |[Pella](https://careers.pella.com/jobs/information-technology-intern-summer-2022-4417?src=JB-10080) | Pella, IA | Information Technology Intern / Summer 2022 |
 |[Ultimate Kronos Group](https://careers.ukg.com/careers/JobDetail/Software-Engineer-Intern-Spring-Summer-2022/31061) | Remote | Software Engineer Intern |
+|[Dell](https://dell.wd1.myworkdayjobs.com/ExternalNonPublic/job/Round-Rock-Texas-United-States/Software-Engineering-Intern_R128527) | Round Rock, Seattle, Santa Clara, Hopkinton, Research Triangle Park | Software Engineer Intern |
 
 **We love our contributors ❤️❤️**
 
@@ -317,3 +318,4 @@ Fill [this form](https://bit.ly/3d5O76c) or make a [pull request](https://github
 * [Eurus-Holmes](https://github.com/Eurus-Holmes)
 * [ch2ohch2oh](https://github.com/ch2ohch2oh)
 * [Pochetes](https://github.com/Pochetes)
+* [allen-tran](https://github.com/allen-tran)
