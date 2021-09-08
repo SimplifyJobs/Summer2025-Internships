@@ -263,6 +263,7 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[Charles Schwab](https://jobs.schwabjobs.com/job/-/-/33727/13744870816?mode=job&iis=Indeed&iisn=IndeedOrganic) | Various | 2022 Technology Internship |
 |[Pella](https://careers.pella.com/jobs/information-technology-intern-summer-2022-4417?src=JB-10080) | Pella, IA | Information Technology Intern / Summer 2022 |
 |[Ultimate Kronos Group](https://careers.ukg.com/careers/JobDetail/Software-Engineer-Intern-Spring-Summer-2022/31061) | Remote | Software Engineer Intern |
+|[Publicis Sapient](https://jobs.smartrecruiters.com/ni/PublicisGroupe/1548e7ef-897d-4135-977f-fa400b69e548-software-engineer-intern-class-of-2023) | Various | Junior Software Engineer Intern. Must be legally authorized to work without the need of sponsorship. |
 
 **We love our contributors ❤️❤️**
 
