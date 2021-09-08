@@ -266,6 +266,7 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[Dell](https://dell.wd1.myworkdayjobs.com/ExternalNonPublic/job/Round-Rock-Texas-United-States/Software-Engineering-Intern_R128527) | Round Rock, Seattle, Santa Clara, Hopkinton, Research Triangle Park | Software Engineer Intern |
 |[Squarespace](https://www.squarespace.com/careers/jobs/3401380) | New York, NY | Software Engineer Intern (Backend, Frontend and Internal Infra) |
 |[Publicis Sapient](https://jobs.smartrecruiters.com/ni/PublicisGroupe/1548e7ef-897d-4135-977f-fa400b69e548-software-engineer-intern-class-of-2023) | Various | Junior Software Engineer Intern. Must be legally authorized to work without the need of sponsorship. |
+|[Nike](https://jobs.nike.com/job/URSRCTECHGI22?apstr=src%3DJB-11022) | Beaverton, OR | Graduate Global Technology Internship |
 |[ASML](https://www.asml.com/en/careers/internships?query=Summer%202022) | Wilton, CT; San Diego, CA | Software Engineering, Software Development Intern positions are available. |
 
 **We love our contributors ❤️❤️**
