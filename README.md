@@ -273,6 +273,7 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[CACI](https://careers.caci.com/global/en/job/CACIGLOBAL253045EXTERNALENGLOBAL/Software-Engineering-Intern-Summer-2022?utm_source=linkedin&utm_medium=phenom-feeds) | Various | Software Engineering Intern – Summer 2022 |
 | [Docugami](https://boards.greenhouse.io/docugami/jobs/4014838003?gh_src=87b451fa3) | Kirkland, WA | Software Engineering Intern |
 | [Porsche Digital](https://jobs.porsche.com/index.php?ac=jobad&id=28017) | Atlanta, GA | Software Engineer Intern |
+| [Kimley-Horn](https://student-gradcareers-kimley-horn.icims.com/jobs/3658/software-developer-intern/job?mobile=false&width=1365&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240) | Raleigh, NC | Software Developer Intern |
 
 **We love our contributors ❤️❤️**
 
