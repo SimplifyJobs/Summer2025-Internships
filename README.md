@@ -271,6 +271,7 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[Relativity](https://jobs.lever.co/relativity/93da9a81-2d64-4783-a731-93e2fd12e697?lever-source=LinkedInJobs) | Remote | Software Engineer Intern |
 |[Honeywell](https://honeywell.csod.com/ux/ats/careersite/1/home/requisition/293327?c=honeywell) | Not Specified (US) | Software Engineer Intern/Co-Op
 |[CACI](https://careers.caci.com/global/en/job/CACIGLOBAL253045EXTERNALENGLOBAL/Software-Engineering-Intern-Summer-2022?utm_source=linkedin&utm_medium=phenom-feeds) | Various | Software Engineering Intern – Summer 2022 |
+|[Hilti North America](https://careers.us.hilti.com/en-us/jobs/software-developer-intern) | Plano, TX | Software Developer Intern |
 
 **We love our contributors ❤️❤️**
 
