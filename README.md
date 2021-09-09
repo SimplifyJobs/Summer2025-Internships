@@ -275,7 +275,7 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[Battelle](https://jobs.battelle.org/job/13816598/software-engineering-intern-summer-2022-columbus-oh/) | Columbus, OH | Software Engineering Intern |
 |[C3.AI](https://boards.greenhouse.io/c3iot/jobs/4086849002) | Redwood, CA | Software Engineer Intern |
 |[Duke Energy Corporation](https://dukeenergy.wd1.myworkdayjobs.com/en-US/search/job/Charlotte-NC/XMLNAME-2022-Summer-Internship---Information-Technology_R17327-1) | Charlotte, NC | Information Technology Intern |
-|[Workriva](https://workiva.wd1.myworkdayjobs.com/en-US/careers/job/Ames/XMLNAME-2022-Summer---Software-Engineer-Intern_R2987?source=Linkedin) | Ames, Chicago, Scottsdale, Bozeman, Missoula, Denver, Remote | Software Engineer Intern |
+|[Workiva](https://workiva.wd1.myworkdayjobs.com/en-US/careers/job/Ames/XMLNAME-2022-Summer---Software-Engineer-Intern_R2987) | Ames, Chicago, Scottsdale, Bozeman, Missoula, Denver, Remote | Software Engineer Intern |
 
 **We love our contributors ❤️❤️**
 
