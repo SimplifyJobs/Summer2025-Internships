@@ -266,8 +266,16 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[Dell](https://dell.wd1.myworkdayjobs.com/ExternalNonPublic/job/Round-Rock-Texas-United-States/Software-Engineering-Intern_R128527) | Round Rock, Seattle, Santa Clara, Hopkinton, Research Triangle Park | Software Engineer Intern |
 |[Squarespace](https://www.squarespace.com/careers/jobs/3401380) | New York, NY | Software Engineer Intern (Backend, Frontend and Internal Infra) |
 |[Publicis Sapient](https://jobs.smartrecruiters.com/ni/PublicisGroupe/1548e7ef-897d-4135-977f-fa400b69e548-software-engineer-intern-class-of-2023) | Various | Junior Software Engineer Intern. Must be legally authorized to work without the need of sponsorship. |
+|[Nike](https://jobs.nike.com/job/URSRCTECHGI22?apstr=src%3DJB-11022) | Beaverton, OR | Graduate Global Technology Internship |
 |[ASML](https://www.asml.com/en/careers/internships?query=Summer%202022) | Wilton, CT; San Diego, CA | Software Engineering, Software Development Intern positions are available. |
 |[Aloft](https://jobs.lever.co/aloft/b6356f0c-fc09-4103-879d-537adf5185b0) | Seattle, WA | Software Engineering Intern |
+|[Relativity](https://jobs.lever.co/relativity/93da9a81-2d64-4783-a731-93e2fd12e697?lever-source=LinkedInJobs) | Remote | Software Engineer Intern |
+|[Honeywell](https://honeywell.csod.com/ux/ats/careersite/1/home/requisition/293327?c=honeywell) | Not Specified (US) | Software Engineer Intern/Co-Op
+|[CACI](https://careers.caci.com/global/en/job/CACIGLOBAL253045EXTERNALENGLOBAL/Software-Engineering-Intern-Summer-2022?utm_source=linkedin&utm_medium=phenom-feeds) | Various | Software Engineering Intern – Summer 2022 |
+|[Hilti North America](https://careers.us.hilti.com/en-us/jobs/software-developer-intern) | Plano, TX | Software Developer Intern |
+|[Battelle](https://jobs.battelle.org/job/13816598/software-engineering-intern-summer-2022-columbus-oh/) | Columbus, OH | Software Engineering Intern |
+|[C3.AI](https://boards.greenhouse.io/c3iot/jobs/4086849002) | Redwood, CA | Software Engineer Intern |
+|[Duke Energy Corporation](https://dukeenergy.wd1.myworkdayjobs.com/en-US/search/job/Charlotte-NC/XMLNAME-2022-Summer-Internship---Information-Technology_R17327-1) | Charlotte, NC | Information Technology Intern |
 
 **We love our contributors ❤️❤️**
 
