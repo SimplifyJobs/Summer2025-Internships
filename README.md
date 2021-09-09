@@ -272,7 +272,7 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[Honeywell](https://honeywell.csod.com/ux/ats/careersite/1/home/requisition/293327?c=honeywell) | Not Specified (US) | Software Engineer Intern/Co-Op
 |[CACI](https://careers.caci.com/global/en/job/CACIGLOBAL253045EXTERNALENGLOBAL/Software-Engineering-Intern-Summer-2022?utm_source=linkedin&utm_medium=phenom-feeds) | Various | Software Engineering Intern – Summer 2022 |
 | [Docugami](https://boards.greenhouse.io/docugami/jobs/4014838003?gh_src=87b451fa3) | Kirkland, WA | Software Engineering Intern |
-
+| [Porsche Digital](https://jobs.porsche.com/index.php?ac=jobad&id=28017) | Atlanta, GA | Software Engineer Intern |
 
 **We love our contributors ❤️❤️**
 
