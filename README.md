@@ -274,7 +274,6 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[Hilti North America](https://careers.us.hilti.com/en-us/jobs/software-developer-intern) | Plano, TX | Software Developer Intern |
 |[Battelle](https://jobs.battelle.org/job/13816598/software-engineering-intern-summer-2022-columbus-oh/) | Columbus, OH | Software Engineering Intern |
 |[C3.AI](https://boards.greenhouse.io/c3iot/jobs/4086849002) | Redwood, CA | Software Engineer Intern |
-
 |[Duke Energy Corporation](https://dukeenergy.wd1.myworkdayjobs.com/en-US/search/job/Charlotte-NC/XMLNAME-2022-Summer-Internship---Information-Technology_R17327-1) | Charlotte, NC | Information Technology Intern |
 **We love our contributors ❤️❤️**
 
