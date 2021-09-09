@@ -271,7 +271,8 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[Relativity](https://jobs.lever.co/relativity/93da9a81-2d64-4783-a731-93e2fd12e697?lever-source=LinkedInJobs) | Remote | Software Engineer Intern |
 |[Honeywell](https://honeywell.csod.com/ux/ats/careersite/1/home/requisition/293327?c=honeywell) | Not Specified (US) | Software Engineer Intern/Co-Op
 |[CACI](https://careers.caci.com/global/en/job/CACIGLOBAL253045EXTERNALENGLOBAL/Software-Engineering-Intern-Summer-2022?utm_source=linkedin&utm_medium=phenom-feeds) | Various | Software Engineering Intern – Summer 2022 |
-|[Duke Energy Corporation](https://dukeenergy.wd1.myworkdayjobs.com/en-US/search/job/Charlotte-NC/XMLNAME-2022-Summer-Internship---Information-Technology_R17327-1) | Charlotte,NC | Information Technology Intern |
+
+|[Duke Energy Corporation](https://dukeenergy.wd1.myworkdayjobs.com/en-US/search/job/Charlotte-NC/XMLNAME-2022-Summer-Internship---Information-Technology_R17327-1) | Charlotte, NC | Information Technology Intern |
 **We love our contributors ❤️❤️**
 
 Fill [this form](https://bit.ly/3d5O76c) or make a [pull request](https://github.com/susam/gitpr#create-pull-request) to help contribute.
