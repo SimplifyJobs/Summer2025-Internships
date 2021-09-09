@@ -276,6 +276,7 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[C3.AI](https://boards.greenhouse.io/c3iot/jobs/4086849002) | Redwood, CA | Software Engineer Intern |
 |[Duke Energy Corporation](https://dukeenergy.wd1.myworkdayjobs.com/en-US/search/job/Charlotte-NC/XMLNAME-2022-Summer-Internship---Information-Technology_R17327-1) | Charlotte, NC | Information Technology Intern |
 |[Workiva](https://workiva.wd1.myworkdayjobs.com/en-US/careers/job/Ames/XMLNAME-2022-Summer---Software-Engineer-Intern_R2987) | Ames, Chicago, Scottsdale, Bozeman, Missoula, Denver, Remote | Software Engineer Intern |
+| [Nutrien](https://retailcareers-nutrien.icims.com/jobs/14787/intern%2c-digital-agronomy-and-data-science/job?mode=job&iis=Job+Posting&iisn=LinkedIn&mobile=false&width=1140&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240) | Champaign, IL | Data Science Intern |
 
 **We love our contributors ❤️❤️**
 
