@@ -275,6 +275,8 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[Battelle](https://jobs.battelle.org/job/13816598/software-engineering-intern-summer-2022-columbus-oh/) | Columbus, OH; Chantilly, VA | Software Engineering Intern, [Cyber Engineer Intern](https://jobs.battelle.org/ShowJob/JobId/3047957/Cyber%20Engineer%20Intern%20(Summer%202022)), [Data Science Intern](https://jobs.battelle.org/job/13806048/data-science-intern-summer-2022-columbus-oh/) |
 |[C3.AI](https://boards.greenhouse.io/c3iot/jobs/4086849002) | Redwood, CA | Software Engineer Intern |
 |[Duke Energy Corporation](https://dukeenergy.wd1.myworkdayjobs.com/en-US/search/job/Charlotte-NC/XMLNAME-2022-Summer-Internship---Information-Technology_R17327-1) | Charlotte, NC | Information Technology Intern |
+|[Workiva](https://workiva.wd1.myworkdayjobs.com/en-US/careers/job/Ames/XMLNAME-2022-Summer---Software-Engineer-Intern_R2987) | Ames, Chicago, Scottsdale, Bozeman, Missoula, Denver, Remote | Software Engineer Intern |
+|[ByteDance](https://www.linkedin.com/jobs/view/2709287898/) | Mountain View, CA | Software Engineer Intern |
 |[Nutrien](https://retailcareers-nutrien.icims.com/jobs/14787/intern%2c-digital-agronomy-and-data-science/job?mode=job&iis=Job+Posting&iisn=LinkedIn&mobile=false&width=1140&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240) | Champaign, IL | Data Science Intern |
 |[Expedia](https://expedia.wd5.myworkdayjobs.com/search/job/Austin-Domain-11---HomeAway/Intern---Software-Development-Engineer---Austin_R-64062/?source=handshakesourced) | Austin, TX; Chicago, IL; Seattle, WA | Software Development Engineer Intern |
 
