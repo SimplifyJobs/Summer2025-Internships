@@ -166,7 +166,6 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[Innovative Systems](http://career.innovativesystems.com/apply/pEU3iGangp/InternCoopSUMMER-2022-Software-Engineering) | Pittsburgh, PA | Software Engineering Intern |
 |[OnPrem Solution Partners](https://jobs.lever.co/onprem.com/2dd1038b-211e-4caf-b9fd-f66ac6bb6117) | Austin, TX | Engineering Intern. Applicants for employment in the US must have work authorization that does not now or in the future require sponsorship of a visa for employment authorization in the United States. |
 | <del>Belcan</del> | | **Closed** |
-|[Battelle](https://jobs.battelle.org/ShowJob/JobId/3047957/Cyber%20Engineer%20Intern%20(Summer%202022)) | Chantilly, VA | Cyber Engineer Intern. Must be a sole US citizen with the ability to obtain and maintain a US government security clearance. |
 |<del>Unilever</del> | United States; Remote | **Closed** Information Technology Intern |
 |[Silicon Labs](https://jobs.jobvite.com/silabs/job/oa8EgfwW) | Austin, TX; Boston, MA | [Applications Engineering](https://jobs.jobvite.com/silabs/job/olSDgfwQ), [Validation Engineering](https://jobs.jobvite.com/silabs/job/oQFEgfw9), [Software Engineering](https://jobs.jobvite.com/silabs/job/oa8EgfwW), [Product Test Engineering](https://jobs.jobvite.com/silabs/job/o38EgfwP) Intern positions are available. |
 |[Zoom](https://zoom.wd5.myworkdayjobs.com/Zoom/1/refreshFacet/318c8bb6f553100021d223d9780d30be) | Various | Search `2022` for multiple positions. Does not sponsor visas |
@@ -273,10 +272,12 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[Honeywell](https://honeywell.csod.com/ux/ats/careersite/1/home/requisition/293327?c=honeywell) | Not Specified (US) | Software Engineer Intern/Co-Op
 |[CACI](https://careers.caci.com/global/en/job/CACIGLOBAL253045EXTERNALENGLOBAL/Software-Engineering-Intern-Summer-2022?utm_source=linkedin&utm_medium=phenom-feeds) | Various | Software Engineering Intern – Summer 2022 |
 |[Hilti North America](https://careers.us.hilti.com/en-us/jobs/software-developer-intern) | Plano, TX | Software Developer Intern |
-|[Battelle](https://jobs.battelle.org/job/13816598/software-engineering-intern-summer-2022-columbus-oh/) | Columbus, OH | Software Engineering Intern |
+|[Battelle](https://jobs.battelle.org/job/13816598/software-engineering-intern-summer-2022-columbus-oh/) | Columbus, OH; Chantilly, VA | Software Engineering Intern, [Cyber Engineer Intern](https://jobs.battelle.org/ShowJob/JobId/3047957/Cyber%20Engineer%20Intern%20(Summer%202022)), [Data Science Intern](https://jobs.battelle.org/job/13806048/data-science-intern-summer-2022-columbus-oh/) |
 |[C3.AI](https://boards.greenhouse.io/c3iot/jobs/4086849002) | Redwood, CA | Software Engineer Intern |
 |[Duke Energy Corporation](https://dukeenergy.wd1.myworkdayjobs.com/en-US/search/job/Charlotte-NC/XMLNAME-2022-Summer-Internship---Information-Technology_R17327-1) | Charlotte, NC | Information Technology Intern |
 |[Workiva](https://workiva.wd1.myworkdayjobs.com/en-US/careers/job/Ames/XMLNAME-2022-Summer---Software-Engineer-Intern_R2987) | Ames, Chicago, Scottsdale, Bozeman, Missoula, Denver, Remote | Software Engineer Intern |
+| [Nutrien](https://retailcareers-nutrien.icims.com/jobs/14787/intern%2c-digital-agronomy-and-data-science/job?mode=job&iis=Job+Posting&iisn=LinkedIn&mobile=false&width=1140&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240) | Champaign, IL | Data Science Intern |
+| [Expedia](https://expedia.wd5.myworkdayjobs.com/search/job/Austin-Domain-11---HomeAway/Intern---Software-Development-Engineer---Austin_R-64062/?source=handshakesourced) | Austin, TX; Chicago, IL; Seattle, WA | Software Development Engineer Intern |
 
 **We love our contributors ❤️❤️**
 
