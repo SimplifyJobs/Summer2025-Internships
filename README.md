@@ -279,8 +279,9 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[ByteDance](https://www.linkedin.com/jobs/view/2709287898/) | Mountain View, CA | Software Engineer Intern |
 |[Nutrien](https://retailcareers-nutrien.icims.com/jobs/14787/intern%2c-digital-agronomy-and-data-science/job?mode=job&iis=Job+Posting&iisn=LinkedIn&mobile=false&width=1140&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240) | Champaign, IL | Data Science Intern |
 |[Expedia](https://expedia.wd5.myworkdayjobs.com/search/job/Austin-Domain-11---HomeAway/Intern---Software-Development-Engineer---Austin_R-64062/?source=handshakesourced) | Austin, TX; Chicago, IL; Seattle, WA | Software Development Engineer Intern |
-| [Intel](https://jobs.intel.com/ShowJob/Id/3056085/Automation%20Software%20Engineer%20Graduate%20Intern) | Phoenix, AZ | Automation Software Engineer Graduate Intern, must be pursuing Masters/PHD |
-| [Pocket Gems](https://www.linkedin.com/jobs/view/2709728782/?refId=850a8614-492f-334e-b8ad-37c793af3dc9)| San Francisco, CA | Software Engineer Intern |
+|[Intel](https://jobs.intel.com/ShowJob/Id/3056085/Automation%20Software%20Engineer%20Graduate%20Intern) | Phoenix, AZ | Automation Software Engineer Graduate Intern, must be pursuing Masters/PHD |
+|[Pocket Gems](https://www.linkedin.com/jobs/view/2709728782/?refId=850a8614-492f-334e-b8ad-37c793af3dc9)| San Francisco, CA | Software Engineer Intern |
+|[Neeva](https://jobs.lever.co/neeva/1fa8aa94-c787-4dc6-b487-d254a91dcca6) | Mountain View, CA | |
 
 **We love our contributors ❤️❤️**
 
