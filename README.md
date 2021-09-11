@@ -290,6 +290,8 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[Kiva](https://boards.greenhouse.io/kivaorg/jobs/3458616) | Remote | Software Engineering Intern |
 |[OppFi](https://boards.greenhouse.io/opploans/jobs/4701555003) | Chicago, IL; Remote | Software Engineering Internship |
 |[KnowBe4](https://boards.greenhouse.io/knowbe4/jobs/5514774002) | Clearwater, FL | Software Engineer Intern - Frontend, [Software Engineer in Test](https://boards.greenhouse.io/knowbe4/jobs/5514917002) |
+|[Nutanix](https://nutanix.eightfold.ai/careers?pid=8981941&domain=nutanix.com) | San Jose, CA | Software Engineer |
+|[Blue Cross Blue Shield of Michigan](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/3444) | Detroit, MI | Information Technology/Computer Science Intern |
 
 **We love our contributors ❤️❤️**
 
