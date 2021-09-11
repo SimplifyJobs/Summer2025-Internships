@@ -288,6 +288,7 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[Genesis](https://apply.workable.com/genesistrading/j/0C77F4818A/) | New York, NY | Software Engineer Intern |
 |[Chan Zuckerberg Initiative](https://boards.greenhouse.io/embed/job_app?token=3445587) | Redwood City, CA | Software Engineer Intern |
 |[Kiva](https://boards.greenhouse.io/kivaorg/jobs/3458616) | Remote | Software Engineering Intern |
+|[OppFi](https://boards.greenhouse.io/opploans/jobs/4701555003) | Chicago, IL; Remote | Software Engineering Internship |
 
 **We love our contributors ❤️❤️**
 
