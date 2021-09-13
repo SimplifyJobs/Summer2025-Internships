@@ -281,6 +281,7 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[Intel](https://jobs.intel.com/ShowJob/Id/3056085/Automation%20Software%20Engineer%20Graduate%20Intern) | Phoenix, AZ | Automation Software Engineer Graduate Intern, must be pursuing Masters/PHD |
 |[Pocket Gems](https://www.linkedin.com/jobs/view/2709728782/?refId=850a8614-492f-334e-b8ad-37c793af3dc9)| San Francisco, CA | Software Engineer Intern |
 |[Neeva](https://jobs.lever.co/neeva/1fa8aa94-c787-4dc6-b487-d254a91dcca6) | Mountain View, CA | |
+|[SpaceX](https://boards.greenhouse.io/spacex/jobs/5526757002) | Multiple Locations | Software Engineer Inter/Coop; US Citizen Only |
 |[Sentry](https://boards.greenhouse.io/sentry/jobs/3462747?s=LinkedIn&source=LinkedIn) | San Francisco, CA | Software Engineer Intern |
 |[New Relic](https://jobs.jobvite.com/careers/newrelic/job/ohpNgfwt) | Portland, OR; San Francisco, CA; Atlanta, GA | Undergrad Software Engineer Intern |
 |[Abrigo](http://jobs.jobvite.com/bankerstoolbox/job/ojfMgfwk) | Raleigh, NC;  Austin, TX | Software Engineering Intern |
