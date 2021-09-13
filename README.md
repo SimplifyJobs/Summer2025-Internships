@@ -294,6 +294,7 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[Nutanix](https://nutanix.eightfold.ai/careers?pid=8981941&domain=nutanix.com) | San Jose, CA | Software Engineer |
 |[Blue Cross Blue Shield of Michigan](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/3444) | Detroit, MI | Information Technology/Computer Science Intern |
 |[Bentley](https://jobs.bentley.com/job/Exton-Software-Development-Summer-Intern-PA-19341/787689500/) | Multiple Locations | Software Developer |
+|[Shure Inc](https://careers-shure.icims.com/jobs/2389/application-software-engineering-intern/job) | Niles, IL | Application Software Development Intern, [Embedded Software Development Intern](https://careers-shure.icims.com/jobs/2299/embedded-software-development-intern/job), [Cloud Software Development Intern](https://careers-shure.icims.com/jobs/2349/cloud-software-development-intern/job), [Software Development Intern - Devops](https://careers-shure.icims.com/jobs/2378/software-development-intern-%2528devops%2529/job), [Automated Test Engineering Software Intern](https://careers-shure.icims.com/jobs/2335/automated-test-engineering-software-intern/job) |
 
 **We love our contributors ❤️❤️**
 
