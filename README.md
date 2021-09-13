@@ -294,6 +294,8 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[Nutanix](https://nutanix.eightfold.ai/careers?pid=8981941&domain=nutanix.com) | San Jose, CA | Software Engineer |
 |[Blue Cross Blue Shield of Michigan](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/3444) | Detroit, MI | Information Technology/Computer Science Intern |
 |[Bentley](https://jobs.bentley.com/job/Exton-Software-Development-Summer-Intern-PA-19341/787689500/) | Multiple Locations | Software Developer |
+| [Vectorworks](https://careers-vectorworks.icims.com/jobs/1714/software-engineer-intern-%28summer-2022%29/job?mobile=false&width=980&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240)| Columbia, MD; Remote | Software Engineer Intern |
+
 
 **We love our contributors ❤️❤️**
 
