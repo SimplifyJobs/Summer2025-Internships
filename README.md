@@ -298,6 +298,7 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[X By 2](https://jobs.lever.co/xby2/06041915-a5d6-4741-9ba0-c297d0638a40) | Metro Detroit | Software Engineer Intern |
 |[Trimble](https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---CO-Westminster/Software-Engineering-Intern--Summer-2022_R34868) | Westminster, CO | Software Engineering Intern |
 |[Victoria's Secret](https://www.linkedin.com/jobs/view/2699248828/?refId=49f31cc5-1be0-4cd1-b9b4-dcf7f00228b9) | Columbus, OH | Technology Internship, multiple positions available |
+|[Gordian](https://fortive.taleo.net/careersection/external/jobdetail.ftl?job=TEK010120) | Beaverton, OR | Engineering Intern |
 
 **We love our contributors ❤️❤️**
 
