@@ -302,6 +302,7 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[Gordian](https://fortive.taleo.net/careersection/external/jobdetail.ftl?job=TEK010120) | Beaverton, OR | Engineering Intern |
 |[Ginkgo Bioworks](https://jobs.lever.co/ginkgobioworks/f5cd6b3d-e074-40d6-994f-1cf39f469342) | Remote; Boston, MA | Software Engineering Intern |
 |[Vectorworks](https://careers-vectorworks.icims.com/jobs/1714/software-engineer-intern-%28summer-2022%29/job?mobile=false&width=980&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240)| Columbia, MD; Remote | Software Engineer Intern |
+|[Cloudera](https://cloudera.wd5.myworkdayjobs.com/cldr_ur/job/US-California-Santa-Clara-HQ/Software-Engineering-Intern--Summer-2022_211436) | Santa Clara, CA | |
 
 **We love our contributors ❤️❤️**
 
