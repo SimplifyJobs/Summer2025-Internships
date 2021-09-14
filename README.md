@@ -305,6 +305,7 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[Cloudera](https://cloudera.wd5.myworkdayjobs.com/cldr_ur/job/US-California-Santa-Clara-HQ/Software-Engineering-Intern--Summer-2022_211436) | Santa Clara, CA | Software Engineering Intern |
 | [Aegon](https://careers.aegon.com/en/vacancies/united-states/denver/administration/data-science-intern-summer-2022/) | Denver, CO | Data Science Intern |
 | [TransAmerica](http://careers.transamerica.com/ShowJob/Id/3087958/Data-Science-Intern-(Summer-2022)/) | Denver, CO | Data Science Intern |
+| [Playstation](https://boards.greenhouse.io/sonyinteractiveentertainmentplaystation/jobs/3473563/?t=b8y5ha) | San Francisco, CA; San Diego, CA; San Mateo, CA| Software Engineer Intern, [Software Development Engineer in Test Intern](https://boards.greenhouse.io/sonyinteractiveentertainmentplaystation/jobs/3470463/?t=b8y5ha) |
 
 **We love our contributors ❤️❤️**
 
