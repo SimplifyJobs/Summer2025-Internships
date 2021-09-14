@@ -301,6 +301,7 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[Victoria's Secret](https://www.linkedin.com/jobs/view/2699248828/?refId=49f31cc5-1be0-4cd1-b9b4-dcf7f00228b9) | Columbus, OH | Technology Internship, multiple positions available |
 |[Gordian](https://fortive.taleo.net/careersection/external/jobdetail.ftl?job=TEK010120) | Beaverton, OR | Engineering Intern |
 |[Ginkgo Bioworks](https://jobs.lever.co/ginkgobioworks/f5cd6b3d-e074-40d6-994f-1cf39f469342) | Remote; Boston, MA | Software Engineering Intern |
+|[Vectorworks](https://careers-vectorworks.icims.com/jobs/1714/software-engineer-intern-%28summer-2022%29/job?mobile=false&width=980&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240)| Columbia, MD; Remote | Software Engineer Intern |
 
 **We love our contributors ❤️❤️**
 
