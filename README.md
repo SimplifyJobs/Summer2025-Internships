@@ -302,7 +302,7 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[Ginkgo Bioworks](https://jobs.lever.co/ginkgobioworks/f5cd6b3d-e074-40d6-994f-1cf39f469342) | Remote; Boston, MA | Software Engineering Intern |
 |[C.H. Robinson](https://jobs.chrobinson.com/job/-/-/209/14149862144) | Remote | Software Engineer Intern |
 |[Baxter International](https://jobs.baxter.com/job/-/-/152/14153460144) | Round Lake, IL | Software Engineering Intern |
-
+|[iRobot](https://irobot.wd5.myworkdayjobs.com/en-US/iRobot/job/US-MA-Bedford/Summer-2022--Software-Robot-Applications-Intern_R2426) | Bedford, MA | Software Robot Applications Intern |
 
 **We love our contributors ❤️❤️**
 
