@@ -301,6 +301,8 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[Gordian](https://fortive.taleo.net/careersection/external/jobdetail.ftl?job=TEK010120) | Beaverton, OR | Engineering Intern |
 |[Ginkgo Bioworks](https://jobs.lever.co/ginkgobioworks/f5cd6b3d-e074-40d6-994f-1cf39f469342) | Remote; Boston, MA | Software Engineering Intern |
 |[C.H. Robinson](https://jobs.chrobinson.com/job/-/-/209/14149862144) | Remote | Software Engineer Intern |
+|[Baxter International](https://jobs.baxter.com/job/-/-/152/14153460144) | Round Lake, IL | Software Engineering Intern |
+
 
 **We love our contributors ❤️❤️**
 
