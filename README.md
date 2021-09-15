@@ -305,6 +305,7 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[iRobot](https://irobot.wd5.myworkdayjobs.com/en-US/iRobot/job/US-MA-Bedford/Summer-2022--Software-Robot-Applications-Intern_R2426) | Bedford, MA | Software Robot Applications Intern |
 |[Northwestern Mutual](https://careers.northwesternmutual.com/corporate-careers/job/software-engineering-internship-summer-2022-milwaukee-wi-corporate-jr-26747/) | Milwaukee, WI | Software Engineering Intern, Undergrad only|
 |[Flatiron](https://flatiron.com/careers/open-positions/3400041) | New York, NY | Software Engineer Intern |
+|[EquipmentShare](https://www.linkedin.com/jobs/view/2706565512/) | Remote; Columbia, MO | Software Engineer Intern |
 
 **We love our contributors ❤️❤️**
 
