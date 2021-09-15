@@ -315,6 +315,8 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 | [TransAmerica](http://careers.transamerica.com/ShowJob/Id/3087958/Data-Science-Intern-(Summer-2022)/) | Denver, CO | Data Science Intern |
 | [Samsung](https://boards.greenhouse.io/samsungsemiconductor/jobs/4712888003) | San Jose, CA | Software Intern |
 | [Playstation](https://boards.greenhouse.io/sonyinteractiveentertainmentplaystation/jobs/3473563/?t=b8y5ha) | San Francisco, CA; San Diego, CA; San Mateo, CA| Software Engineer Intern, [Software Development Engineer in Test Intern](https://boards.greenhouse.io/sonyinteractiveentertainmentplaystation/jobs/3470463/?t=b8y5ha) |
+| [Toast](https://boards.greenhouse.io/embed/job_app?token=3461147&gh_src=dbd19ebc1&s=LinkedIn&source=LinkedIn) | Boston, MA | Software Engineer Intern |
+| [Avanade](https://careers.avanade.com/jobsenusurl/JobDetail/Intern-Software-Engineer-Summer-2022/37475?source=LinkedIn) | Atlanta, GA; Dallas, TX; Houston, TX; Raleigh, NC | Software Engineer Intern |
 
 **We love our contributors ❤️❤️**
 
