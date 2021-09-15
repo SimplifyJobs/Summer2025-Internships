@@ -210,7 +210,7 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[DoorDash](https://boards.greenhouse.io/doordash/jobs/3393160?gh_jid=3393160) | Various | Software Engineer Intern |
 |[Mr. Cooper Group](https://careers.mrcooper.com/search/jobs?q=intern) | Dallas, TX | Various Intern Roles. Software Engineer, Devops, Data, Machine Learning. Will not sponsor work visas for some positions. |
 |[UIPath](https://www.uipath.com/company/careers/americas/bellevue/engineering-development/software-engineer-intern)| Bellevue, WA | |
-|[Uber](https://www.uber.com/global/en/careers/list/107068/) | NYC, Seattle, SF, Sunnyvale | Software Engineer Internship, [STAR Internship Program](https://university-uber.icims.com/jobs/107178/job?mobile=false&width=1030&height=500&bga=true&needsRedirect=false&jan1offset=-360&jun1offset=-300) |
+|[Uber](https://www.uber.com/global/en/careers/list/107068/) | NYC, Seattle, SF, Sunnyvale | Software Engineer Internship, [STAR Internship Program](https://university-uber.icims.com/jobs/107178/job?mobile=false&width=1030&height=500&bga=true&needsRedirect=false&jan1offset=-360&jun1offset=-300), [PhD Internship - Applied Scientist](https://www.uber.com/global/en/careers/list/107484/) |
 |[Workiva](https://workiva.wd1.myworkdayjobs.com/en-US/careers/job/Ames/XMLNAME-2022-Summer---Software-Engineer-Intern_R2987) | Various Locations | Software Engineer Intern, [Data Science Intern](https://workiva.wd1.myworkdayjobs.com/en-US/careers/job/USA---Remote/XMLNAME-2022-Summer---Data-Science-Intern_R2934?source=Linkedin). Will not sponsor work visas now or in the future. |
 |[SingleStore](https://boards.greenhouse.io/singlestore/jobs/3436980) | Raleigh, NC | Software Engineer Intern |
 |[Vail Systems](https://vail-systems.talentify.io/job/web-software-engineer-intern-summer-2022-chicago-illinois-vail-systems-owrkgfwh) | Chicago, Illinois | Web Software Engineer Intern |
@@ -294,6 +294,7 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[Nutanix](https://nutanix.eightfold.ai/careers?pid=8981941&domain=nutanix.com) | San Jose, CA | Software Engineer |
 |[Blue Cross Blue Shield of Michigan](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/3444) | Detroit, MI | Information Technology/Computer Science Intern |
 |[Bentley](https://jobs.bentley.com/job/Exton-Software-Development-Summer-Intern-PA-19341/787689500/) | Multiple Locations | Software Developer |
+|[Google](https://careers.google.com/jobs/results/?employment_type=INTERN) | Multiple Locations (USA and Canada) | STEP and Software Engineering internships |
 |[Shure Inc](https://careers-shure.icims.com/jobs/2389/application-software-engineering-intern/job) | Niles, IL | Application Software Development Intern, [Embedded Software Development Intern](https://careers-shure.icims.com/jobs/2299/embedded-software-development-intern/job), [Cloud Software Development Intern](https://careers-shure.icims.com/jobs/2349/cloud-software-development-intern/job), [Software Development Intern - Devops](https://careers-shure.icims.com/jobs/2378/software-development-intern-%2528devops%2529/job), [Automated Test Engineering Software Intern](https://careers-shure.icims.com/jobs/2335/automated-test-engineering-software-intern/job) |
 |[X By 2](https://jobs.lever.co/xby2/06041915-a5d6-4741-9ba0-c297d0638a40) | Metro Detroit | Software Engineer Intern |
 |[Trimble](https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---CO-Westminster/Software-Engineering-Intern--Summer-2022_R34868) | Westminster, CO | Software Engineering Intern |
@@ -306,6 +307,10 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[Northwestern Mutual](https://careers.northwesternmutual.com/corporate-careers/job/software-engineering-internship-summer-2022-milwaukee-wi-corporate-jr-26747/) | Milwaukee, WI | Software Engineering Intern, Undergrad only|
 |[Flatiron](https://flatiron.com/careers/open-positions/3400041) | New York, NY | Software Engineer Intern |
 |[EquipmentShare](https://www.linkedin.com/jobs/view/2706565512/) | Remote; Columbia, MO | Software Engineer Intern |
+|[Vectorworks](https://careers-vectorworks.icims.com/jobs/1714/software-engineer-intern-%28summer-2022%29/job?mobile=false&width=980&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240)| Columbia, MD; Remote | Software Engineer Intern |
+|[Cloudera](https://cloudera.wd5.myworkdayjobs.com/cldr_ur/job/US-California-Santa-Clara-HQ/Software-Engineering-Intern--Summer-2022_211436) | Santa Clara, CA | Software Engineering Intern |
+| [Aegon](https://careers.aegon.com/en/vacancies/united-states/denver/administration/data-science-intern-summer-2022/) | Denver, CO | Data Science Intern |
+| [TransAmerica](http://careers.transamerica.com/ShowJob/Id/3087958/Data-Science-Intern-(Summer-2022)/) | Denver, CO | Data Science Intern |
 
 **We love our contributors ❤️❤️**
 
