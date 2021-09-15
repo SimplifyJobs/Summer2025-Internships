@@ -301,8 +301,16 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[Victoria's Secret](https://www.linkedin.com/jobs/view/2699248828/?refId=49f31cc5-1be0-4cd1-b9b4-dcf7f00228b9) | Columbus, OH | Technology Internship, multiple positions available |
 |[Gordian](https://fortive.taleo.net/careersection/external/jobdetail.ftl?job=TEK010120) | Beaverton, OR | Engineering Intern |
 |[Ginkgo Bioworks](https://jobs.lever.co/ginkgobioworks/f5cd6b3d-e074-40d6-994f-1cf39f469342) | Remote; Boston, MA | Software Engineering Intern |
-|[Vectorworks](https://careers-vectorworks.icims.com/jobs/1714/software-engineer-intern-%28summer-2022%29/job?mobile=false&width=980&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240)| Columbia, MD; Remote | Software Engineer Intern |
 |[Cloudera](https://cloudera.wd5.myworkdayjobs.com/cldr_ur/job/US-California-Santa-Clara-HQ/Software-Engineering-Intern--Summer-2022_211436) | Santa Clara, CA | Software Engineering Intern |
+|[Aegon](https://careers.aegon.com/en/vacancies/united-states/denver/administration/data-science-intern-summer-2022/) | Denver, CO | Data Science Intern |
+|[TransAmerica](http://careers.transamerica.com/ShowJob/Id/3087958/Data-Science-Intern-(Summer-2022)/) | Denver, CO | Data Science Intern |
+|[C.H. Robinson](https://jobs.chrobinson.com/job/-/-/209/14149862144) | Remote | Software Engineer Intern |
+|[Baxter International](https://jobs.baxter.com/job/-/-/152/14153460144) | Round Lake, IL | Software Engineering Intern |
+|[iRobot](https://irobot.wd5.myworkdayjobs.com/en-US/iRobot/job/US-MA-Bedford/Summer-2022--Software-Robot-Applications-Intern_R2426) | Bedford, MA | Software Robot Applications Intern |
+|[Northwestern Mutual](https://careers.northwesternmutual.com/corporate-careers/job/software-engineering-internship-summer-2022-milwaukee-wi-corporate-jr-26747/) | Milwaukee, WI | Software Engineering Intern, Undergrad only|
+|[Flatiron](https://flatiron.com/careers/open-positions/3400041) | New York, NY | Software Engineer Intern |
+|[EquipmentShare](https://www.linkedin.com/jobs/view/2706565512/) | Remote; Columbia, MO | Software Engineer Intern |
+|[Vectorworks](https://careers-vectorworks.icims.com/jobs/1714/software-engineer-intern-%28summer-2022%29/job?mobile=false&width=980&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240)| Columbia, MD; Remote | Software Engineer Intern |
 | [Aegon](https://careers.aegon.com/en/vacancies/united-states/denver/administration/data-science-intern-summer-2022/) | Denver, CO | Data Science Intern |
 | [TransAmerica](http://careers.transamerica.com/ShowJob/Id/3087958/Data-Science-Intern-(Summer-2022)/) | Denver, CO | Data Science Intern |
 | [Playstation](https://boards.greenhouse.io/sonyinteractiveentertainmentplaystation/jobs/3473563/?t=b8y5ha) | San Francisco, CA; San Diego, CA; San Mateo, CA| Software Engineer Intern, [Software Development Engineer in Test Intern](https://boards.greenhouse.io/sonyinteractiveentertainmentplaystation/jobs/3470463/?t=b8y5ha) |
