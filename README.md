@@ -319,7 +319,7 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 | [McKesson](https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/Atlanta-Metro/Software-Engineering-Intern---Summer-2022_JR0049473-1?source=Linkedin)| Atlanta, GA | Software Engineering Intern |
 | [Toast](https://boards.greenhouse.io/embed/job_app?token=3461147&gh_src=dbd19ebc1&s=LinkedIn&source=LinkedIn) | Boston, MA | Software Engineer Intern |
 | [Avanade](https://careers.avanade.com/jobsenusurl/JobDetail/Intern-Software-Engineer-Summer-2022/37475?source=LinkedIn) | Atlanta, GA; Dallas, TX; Houston, TX; Raleigh, NC | Software Engineer Intern |
-
+| [Intuit](https://jobs.intuit.com/category/interns-and-new-college-grads-jobs/27595/71554/1) | Mountain View, California; San Diego, California | Software Engineer Intern |
 **We love our contributors ❤️❤️**
 
 Fill [this form](https://bit.ly/3d5O76c) or make a [pull request](https://github.com/susam/gitpr#create-pull-request) to help contribute.
@@ -374,3 +374,4 @@ Fill [this form](https://bit.ly/3d5O76c) or make a [pull request](https://github
 * [ch2ohch2oh](https://github.com/ch2ohch2oh)
 * [Pochetes](https://github.com/Pochetes)
 * [allen-tran](https://github.com/allen-tran)
+* [BaoLongNguyenUMD](https://github.com/BaoLongNguyenUMD)
