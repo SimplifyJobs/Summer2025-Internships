@@ -316,10 +316,11 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 | [Samsung](https://boards.greenhouse.io/samsungsemiconductor/jobs/4712888003) | San Jose, CA | Software Intern |
 | [Playstation](https://boards.greenhouse.io/sonyinteractiveentertainmentplaystation/jobs/3473563/?t=b8y5ha) | San Francisco, CA; San Diego, CA; San Mateo, CA| Software Engineer Intern, [Software Development Engineer in Test Intern](https://boards.greenhouse.io/sonyinteractiveentertainmentplaystation/jobs/3470463/?t=b8y5ha) |
 | [Genesys](https://genesys.referrals.selectminds.com/jobs/software-engineer-intern-7563?src=JB-10380) | Indianapolis, IN; Durham, NC | Software Engineer Intern |
-| [McKesson](https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/Atlanta-Metro/Software-Engineering-Intern---Summer-2022_JR0049473-1?source=Linkedin)| Atlanta, GA | Software Engineering Intern |
+| [McKesson](https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/Atlanta-Metro/Software-Engineering-Intern---Summer-2022_JR0049473-1?source=Linkedin)| Atlanta, GA | Software Engineering Intern. Requires permanent work authorization in the US. |
 | [Toast](https://boards.greenhouse.io/embed/job_app?token=3461147&gh_src=dbd19ebc1&s=LinkedIn&source=LinkedIn) | Boston, MA | Software Engineer Intern |
 | [Avanade](https://careers.avanade.com/jobsenusurl/JobDetail/Intern-Software-Engineer-Summer-2022/37475?source=LinkedIn) | Atlanta, GA; Dallas, TX; Houston, TX; Raleigh, NC | Software Engineer Intern |
 | [Intuit](https://jobs.intuit.com/category/interns-and-new-college-grads-jobs/27595/71554/1) | Mountain View, California; San Diego, California | Software Engineer Intern |
+
 **We love our contributors ❤️❤️**
 
 Fill [this form](https://bit.ly/3d5O76c) or make a [pull request](https://github.com/susam/gitpr#create-pull-request) to help contribute.
