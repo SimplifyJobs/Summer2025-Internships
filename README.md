@@ -325,7 +325,7 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[Gap](https://www.gapinc.com/en-us/careers/job-search?query=GapTech&currentPage=1&sort=score) | San Francisco, CA | GapTech Software Engineering Internship Program. Front End, Back End, TechOps and Clound Engineering tracks are available. |
 |[Checkr](https://boards.greenhouse.io/checkr/jobs/3472399) | San Francisco, CA; Denver, CO; Orlando, FL; Remote | Software Engineering Intern. |
 |[Intuitive](https://careers.intuitive.com/us/en/job/214284/Computer-Science-Computer-Engineering-Intern) | Sunnyvale, CA | Computer Science/Computer Engineering Intern. |
-
+|[Twitter](https://jobs.smartrecruiters.com/ni/Twitter2/f6205ccb-ee15-4669-b8f4-0b773c974c02-2022-engineering-internships-north-america-latin-america) | San Francisco, CA | SWE, Machine Learning, Data Science internships and more! |
 
 
 **We love our contributors ❤️❤️**
