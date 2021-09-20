@@ -326,6 +326,7 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[Checkr](https://boards.greenhouse.io/checkr/jobs/3472399) | San Francisco, CA; Denver, CO; Orlando, FL; Remote | Software Engineering Intern. |
 |[Intuitive](https://careers.intuitive.com/us/en/job/214284/Computer-Science-Computer-Engineering-Intern) | Sunnyvale, CA | Computer Science/Computer Engineering Intern. |
 |[Twitter](https://jobs.smartrecruiters.com/ni/Twitter2/f6205ccb-ee15-4669-b8f4-0b773c974c02-2022-engineering-internships-north-america-latin-america) | San Francisco, CA | SWE, Machine Learning, Data Science internships and more! |
+|[Workday](https://workday.wd5.myworkdayjobs.com/en-US/Workday_University_Careers) | Various | SDE, SDET, Application, BA, Product, etc. |
 
 
 **We love our contributors ❤️❤️**
@@ -383,3 +384,4 @@ Fill [this form](https://bit.ly/3d5O76c) or make a [pull request](https://github
 * [Pochetes](https://github.com/Pochetes)
 * [allen-tran](https://github.com/allen-tran)
 * [BaoLongNguyenUMD](https://github.com/BaoLongNguyenUMD)
+* [nimeshnischal](https://github.com/nimeshnischal)
