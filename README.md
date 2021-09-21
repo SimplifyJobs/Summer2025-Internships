@@ -329,7 +329,7 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[Workday](https://workday.wd5.myworkdayjobs.com/en-US/Workday_University_Careers) | Various | SDE, SDET, Application, BA, Product, etc. |
 |[Epic Games](https://www.epicgames.com/site/en-US/students) | US | Various intern positions in software engineering, game design, analytics, etc.|
 |[Rivian](https://rivian.com/careers?department=internships) | US, Canada | Software Engineering Intern (scroll to bottom of page to view intern openings) |
-|[Pacific Northwest National Laboratory (PNLL)](https://pnnl.jobs/jobs/?q=Intern) | US | Various positions  (search intern to view intern openings) |
+|[Pacific Northwest National Laboratory (PNNL)](https://pnnl.jobs/jobs/?q=Intern) | US | Various positions  (search intern to view intern openings) |
 
 
 **We love our contributors ❤️❤️**
