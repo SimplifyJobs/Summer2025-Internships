@@ -329,7 +329,8 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[Workday](https://workday.wd5.myworkdayjobs.com/en-US/Workday_University_Careers) | Various | SDE, SDET, Application, BA, Product, etc. |
 |[Epic Games](https://www.epicgames.com/site/en-US/students) | US | Various intern positions in software engineering, game design, analytics, etc.|
 |[Pacific Northwest National Laboratory (PNNL)](https://pnnl.jobs/jobs/?q=Intern) | US | Various positions  (search intern to view intern openings) |
-|[Instabase](https://instabase.com/careers/?gh_jid=5498192002) | SF; Menlo Park; New York City | Backend, FullStack, ML
+|[Instabase](https://instabase.com/careers/?gh_jid=5498192002) | SF; Menlo Park; New York City | Backend, FullStack, ML | 
+|[Red Hat](https://global-redhat.icims.com/jobs/89903/software-engineering-internship/job?hub=7&%26%3Fmode=job&%26iis=Job%2BBoard&%26iisn=LinkedIn%2BPosting) | Remote | Software Engineering Internship |
 
 **We love our contributors ❤️❤️**
 
