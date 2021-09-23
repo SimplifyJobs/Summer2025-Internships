@@ -331,6 +331,7 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[Pacific Northwest National Laboratory (PNNL)](https://pnnl.jobs/jobs/?q=Intern) | US | Various positions  (search intern to view intern openings) |
 |[Instabase](https://instabase.com/careers/?gh_jid=5498192002) | SF; Menlo Park; New York City | Backend, FullStack, ML | 
 |[Red Hat](https://global-redhat.icims.com/jobs/89903/software-engineering-internship/job?hub=7&%26%3Fmode=job&%26iis=Job%2BBoard&%26iisn=LinkedIn%2BPosting) | Remote | Software Engineering Internship |
+|[DataChat](https://datachat.bamboohr.com/jobs/view.php?id=26&source=aWQ9MTk%3D) | Madison, WI | Software Engineer Internship |
 
 **We love our contributors ❤️❤️**
 
@@ -388,3 +389,4 @@ Fill [this form](https://bit.ly/3d5O76c) or make a [pull request](https://github
 * [allen-tran](https://github.com/allen-tran)
 * [BaoLongNguyenUMD](https://github.com/BaoLongNguyenUMD)
 * [nimeshnischal](https://github.com/nimeshnischal)
+* [tson1111](https://github.com/tson1111)
