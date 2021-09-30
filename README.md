@@ -336,6 +336,7 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 [HashiCorp](https://www.hashicorp.com/job/3473291?gh_src=a8bc2ad21) | United States (Remote) | Software Engineering Intern |
 [Brex](https://www.brex.com/careers/engineering/5568153002?gh_jid=5568153002) | United States (Remote) | Software Engineering Intern |
 [Atlassian](https://jobs.lever.co/atlassian/d1ff09b6-1405-450b-8765-ed8306a4e411?trid=1e0b9127-2df6-4b3d-8bc4-d81ae332a601) | Mountain View, US | Software Engineer Intern. Will not sponsor individuals for employment authorization for this job opening.
+[Square](https://www.linkedin.com/jobs/view/2732493793/?alternateChannel=search&refId=C8WsJaUKNyt4SRN%2BX3Lucw%3D%3D&trackingId=KYFQ7%2Fwoml%2BardWGZF3w8A%3D%3D) | San Francisco, CA; Remote | Software Engineer Intern (Winter and Summer 2022)
 
 **We love our contributors ❤️❤️**
 
@@ -394,3 +395,4 @@ Fill [this form](https://bit.ly/3d5O76c) or make a [pull request](https://github
 * [BaoLongNguyenUMD](https://github.com/BaoLongNguyenUMD)
 * [nimeshnischal](https://github.com/nimeshnischal)
 * [tson1111](https://github.com/tson1111)
+* [matthewbrown77](https://www.github.com/matthewbrown77)
