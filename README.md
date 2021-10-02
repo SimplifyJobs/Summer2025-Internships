@@ -345,6 +345,7 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[Voleon](https://jobs.lever.co/voleon/fddcbfab-7541-45ca-8014-295804d47ed8) | Austin | Software Engineer Intern |
 |[Alteryx](https://alteryx.wd5.myworkdayjobs.com/en-US/AlteryxCareers/job/Irvine-California/Software-Engineer-Intern--Summer-2022-_R5679) | Irvine, CA | Software Engineer Intern |
 |[Aurora](https://aurora.tech/jobs/2022-summer-internship-software-engineering-control-5571701002) | Moutain View, Pittburgh | Software Engineer, Control |
+|[Analog Devices](https://career4.successfactors.com/career?career_ns=job_listing&company=analogdeviP1&navBarLevel=JOB_SEARCH&rcm_site_locale=en_US&career_job_req_id=24763) | Colorado | Full Stack Developer Internship | 
 
 **We love our contributors ❤️❤️**
 
