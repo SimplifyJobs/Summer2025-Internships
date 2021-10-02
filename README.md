@@ -146,7 +146,7 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[3M](https://3m.wd1.myworkdayjobs.com/en-US/Search/job/US-Minnesota-Maplewood/Internship---Undergraduate-Data-Science---Engineering-Intern_R01050492-1) | Maplewood, MN | Undergraduate Data Science & Engineering Intern, [Graduate Data Science & Engineering Intern](https://3m.wd1.myworkdayjobs.com/en-US/Search/job/US-Minnesota-Maplewood/Internship---Graduate-Data-Science---Engineering-Intern_R01050459-1). Some positions require candidate to be legally authorized to work in country of employment without sponsorship for employment visa status (e.g., H1B status). |
 |[Twitch](https://boards.greenhouse.io/twitch/jobs/5471047002#application) | San Francisco, CA | Engineering Intern |
 |[Verisk](https://jobs.smartrecruiters.com/Verisk/743999766697992-data-science-internship-2022-summer-internship-program-cr-) | Jersey City, NJ; White Plains, NY; Boston, MA; Lehi, UT | Data Science Intern |
-|[Snackpass](https://boards.greenhouse.io/snackpass/jobs/4088786004) | New York, San Francisco, Los Angeles, or remote | Data Engineer Intern |
+|[Snackpass](https://boards.greenhouse.io/snackpass/jobs/4088786004) | New York, San Francisco, Los Angeles, or remote | Data Engineer Intern, [Software Engineer Intern](https://boards.greenhouse.io/snackpass/jobs/4136830004?gh_src=a4465bd04us) |
 |[Roblox](https://corp.roblox.com/careers/listing/?gh_jid=3376216) | San Mateo, CA | Software Engineering Intern, [Data Science Intern](https://corp.roblox.com/careers/listing/?gh_jid=3461439) |
 |[Peraton](https://careers.peraton.com/job-details/13556879/systems-software-engineering-intern-chantilly-va/#job-description) | Chantilly, VA | Systems/Software Engineering Intern. Candidates must be legally authorized to work in the U.S. and must not require sponsorship for employment visa status now, or in the future. |
 |[Noblis](https://careers.noblis.org/listings)| Various | Search `"2022"` - Multiple Location Openings. U.S. citizenship or permanent residency required. |
@@ -339,6 +339,16 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 [Square](https://www.linkedin.com/jobs/view/2732493793/?alternateChannel=search&refId=C8WsJaUKNyt4SRN%2BX3Lucw%3D%3D&trackingId=KYFQ7%2Fwoml%2BardWGZF3w8A%3D%3D) | San Francisco, CA; Remote | Software Engineer Intern (Winter and Summer 2022) |
 [T-Mobile](https://www.tmobile.careers/job-details/13873490/uofmagenta-internship-network-technology-assoc-software-engineer-bellevue-wa/) | Various | Associate Software Engineer Intern |
 [American Airlines](https://jobs.aa.com/job/Ft-Worth-Software-Developer-Intern-TX-76101/789451500/) | Dallas, TX | Software Developer Intern |
+|[Second Spectrum](https://secondspectrum.recruitee.com/o/software-engineering-intern-summer-2022) | Remote | Software Engineer Intern |
+|[Bankers Healthcare Group](https://jobs.lever.co/bhg-inc/3916c46c-c64c-4f4a-9e02-bc362e864d3d) | Remote | Data Analytics Intern |
+|[FanDuel](https://boards.greenhouse.io/fanduel/jobs/3518333?gh_src=ba823b7b1us) | New York | Data Analytics Intern |
+|[Voleon](https://jobs.lever.co/voleon/fddcbfab-7541-45ca-8014-295804d47ed8) | Austin | Software Engineer Intern |
+|[Alteryx](https://alteryx.wd5.myworkdayjobs.com/en-US/AlteryxCareers/job/Irvine-California/Software-Engineer-Intern--Summer-2022-_R5679) | Irvine, CA | Software Engineer Intern |
+|[Aurora](https://aurora.tech/jobs/2022-summer-internship-software-engineering-control-5571701002) | Moutain View, Pittburgh | Software Engineer, Control |
+|[Analog Devices](https://career4.successfactors.com/career?career_ns=job_listing&company=analogdeviP1&navBarLevel=JOB_SEARCH&rcm_site_locale=en_US&career_job_req_id=24763) | Colorado | Full Stack Developer Internship | 
+|[Addepar](https://boards.greenhouse.io/addepar1) | Remote | Multiple positions, go to company job pages and scroll to Interns and New Grads |
+|[Cloudflare](https://www.linkedin.com/jobs/view/2731828665/?refId=059ebc88-fd1b-4a31-a6ef-3227a140cbeb) | Austin, TX | Data Engineering and Analytics |
+
 **We love our contributors ❤️❤️**
 
 Fill [this form](https://bit.ly/3d5O76c) or make a [pull request](https://github.com/susam/gitpr#create-pull-request) to help contribute.
