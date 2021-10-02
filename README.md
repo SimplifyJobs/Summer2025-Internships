@@ -339,6 +339,9 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 [Square](https://www.linkedin.com/jobs/view/2732493793/?alternateChannel=search&refId=C8WsJaUKNyt4SRN%2BX3Lucw%3D%3D&trackingId=KYFQ7%2Fwoml%2BardWGZF3w8A%3D%3D) | San Francisco, CA; Remote | Software Engineer Intern (Winter and Summer 2022) |
 [T-Mobile](https://www.tmobile.careers/job-details/13873490/uofmagenta-internship-network-technology-assoc-software-engineer-bellevue-wa/) | Various | Associate Software Engineer Intern |
 [American Airlines](https://jobs.aa.com/job/Ft-Worth-Software-Developer-Intern-TX-76101/789451500/) | Dallas, TX | Software Developer Intern |
+|[Second Spectrum](https://secondspectrum.recruitee.com/o/software-engineering-intern-summer-2022) | Remote | Software Engineer Intern |
+
+
 **We love our contributors ❤️❤️**
 
 Fill [this form](https://bit.ly/3d5O76c) or make a [pull request](https://github.com/susam/gitpr#create-pull-request) to help contribute.
