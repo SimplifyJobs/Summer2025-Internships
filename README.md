@@ -343,6 +343,8 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[Bankers Healthcare Group](https://jobs.lever.co/bhg-inc/3916c46c-c64c-4f4a-9e02-bc362e864d3d) | Remote | Data Analytics Intern |
 |[FanDuel](https://boards.greenhouse.io/fanduel/jobs/3518333?gh_src=ba823b7b1us) | New York | Data Analytics Intern |
 |[Voleon](https://jobs.lever.co/voleon/fddcbfab-7541-45ca-8014-295804d47ed8) | Austin | Software Engineer Intern |
+|[Alteryx](https://alteryx.wd5.myworkdayjobs.com/en-US/AlteryxCareers/job/Irvine-California/Software-Engineer-Intern--Summer-2022-_R5679) | Irvine, CA | Software Engineer Intern |
+
 
 **We love our contributors ❤️❤️**
 
