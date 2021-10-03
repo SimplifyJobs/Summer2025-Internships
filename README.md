@@ -116,6 +116,7 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |<del>Cox Automotive</del> | | **Closed** |
 |[IBM](https://www.ibm.com/us-en/employment/entrylevel/#jobs?%23jobs=&job-category=Software%2520Development%2520%2526%2520Support&experience=Intern) | Various | Various positions |
 |[Affirm](https://boards.greenhouse.io/affirm/jobs/4650433003?gh_src=689c81d53us)| Remote | Software Engineering Intern |
+|[Chapter](https://angel.co/company/chapter-7/jobs/995035-software-engineer-intern)| NYC or Remote | Software Engineering Intern |
 |[Okta](https://www.okta.com/company/careers/engineering/software-engineer-intern-us-and-canada-3338724/)| San Francisco, San Jose, CA; Bellevue, WA | Software Engineer Intern; [Auth0 SWE](https://www.okta.com/company/careers/engineering/software-engineer-intern-auth0-3514615/) |
 |[Pearson](https://pearson.jobs/usa/jobs/?q=Intern)| Durham, NC; San Antonio, TX | Software Engineer Intern. Different technology areas are available. |
 |<del>Commerce Bank</del> | | **Closed** |
