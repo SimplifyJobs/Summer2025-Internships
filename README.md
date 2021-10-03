@@ -351,6 +351,7 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[Cambly](https://jobs.lever.co/cambly/a965ee9f-3a17-4c20-a17b-8b7a0e4be158) | San Francisco | Software Engineer Intern |
 |[Qumulo](https://qumulo.com/company/jobs/?gh_jid=3434199) | Seattle, WA | Software Development Engineer |
 |[Pendo](https://boards.greenhouse.io/pendo/jobs/5549592002) | Raleigh, NC | Software Engineering Intern |
+|[PathAI](https://www.linkedin.com/jobs/view/2719073327/) | Boston, MA | Biomedical Data Scientist | 
 
 **We love our contributors ❤️❤️**
 
