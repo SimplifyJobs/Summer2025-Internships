@@ -305,7 +305,6 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |<del> Cloudera </del> | Santa Clara, CA | **Temporarily Closed** Software Engineering Intern |
 |[Aegon](https://careers.aegon.com/en/vacancies/united-states/denver/administration/data-science-intern-summer-2022/) | Denver, CO | Data Science Intern |
 |[TransAmerica](http://careers.transamerica.com/ShowJob/Id/3087958/Data-Science-Intern-(Summer-2022)/) | Denver, CO | Data Science Intern |
-|[C.H. Robinson](https://jobs.chrobinson.com/job/-/-/209/14149862144) | Remote | Software Engineer Intern |
 |[Baxter International](https://jobs.baxter.com/job/-/-/152/14153460144) | Round Lake, IL | Software Engineering Intern |
 |[iRobot](https://irobot.wd5.myworkdayjobs.com/en-US/iRobot/job/US-MA-Bedford/Summer-2022--Software-Robot-Applications-Intern_R2426) | Bedford, MA | Software Robot Applications Intern |
 |[Northwestern Mutual](https://careers.northwesternmutual.com/corporate-careers/job/software-engineering-internship-summer-2022-milwaukee-wi-corporate-jr-26747/) | Milwaukee, WI | Software Engineering Intern, Undergrad only|
