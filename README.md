@@ -355,6 +355,7 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[Pendo](https://boards.greenhouse.io/pendo/jobs/5549592002) | Raleigh, NC | Software Engineering Intern |
 |[PathAI](https://www.linkedin.com/jobs/view/2719073327/) | Boston, MA | Biomedical Data Scientist | 
 |[Reddit](https://boards.greenhouse.io/reddit/jobs/3458837) | Remote - US | Software Engineering Intern | 
+|[Bodo.ai](https://jobs.lever.co/bodo/f95f11b7-9089-4072-a217-473ad82b6e8f) | PITTSBURGH, PA | Software Engineer, Cloud Infrastructure (Intern) |
 
 **We love our contributors ❤️❤️**
 
