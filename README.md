@@ -357,6 +357,8 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[Reddit](https://boards.greenhouse.io/reddit/jobs/3458837) | Remote - US | Software Engineering Intern | 
 |[Bodo.ai](https://jobs.lever.co/bodo/f95f11b7-9089-4072-a217-473ad82b6e8f) | PITTSBURGH, PA | Software Engineer, Cloud Infrastructure (Intern) |
 |[GitLab](https://boards.greenhouse.io/gitlab/jobs/5197819002) | Remote | Engineering Internship |
+|[Lumen Technologies](https://jobs.lumen.com/global/en/job/262143/Intern-Software-Engineer-Summer-2022-CO-or-Remote-US) | Remote | Software Engineer |
+|[Yahoo](https://vzbuilders.wd5.myworkdayjobs.com/careers/job/US---Dulles/Software-Engineering-Intern_JR0017135) | Dulles, VA | Software Engineering Intern |
 
 **We love our contributors ❤️❤️**
 
