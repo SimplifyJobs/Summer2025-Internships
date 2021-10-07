@@ -356,6 +356,7 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[PathAI](https://www.linkedin.com/jobs/view/2719073327/) | Boston, MA | Biomedical Data Scientist | 
 |[Reddit](https://boards.greenhouse.io/reddit/jobs/3458837) | Remote - US | Software Engineering Intern | 
 |[Bodo.ai](https://jobs.lever.co/bodo/f95f11b7-9089-4072-a217-473ad82b6e8f) | PITTSBURGH, PA | Software Engineer, Cloud Infrastructure (Intern) |
+|[GitLab](https://boards.greenhouse.io/gitlab/jobs/5197819002) | Remote | Engineering Internship |
 
 **We love our contributors ❤️❤️**
 
@@ -415,3 +416,4 @@ Fill [this form](https://bit.ly/3d5O76c) or make a [pull request](https://github
 * [nimeshnischal](https://github.com/nimeshnischal)
 * [tson1111](https://github.com/tson1111)
 * [matthewbrown77](https://www.github.com/matthewbrown77)
+* [nikhilkala](https://www.github.com/nikhilkala)
