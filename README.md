@@ -94,7 +94,7 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[Qualtrics](https://www.qualtrics.com/careers/us/en/job/600473/Software-Development-Engineer-in-Test-Summer-Intern) | Seattle, WA; Provo, UT | [Software Development Engineer in Test](https://www.qualtrics.com/careers/us/en/job/600473/Software-Development-Engineer-in-Test-Summer-Intern), [Software Test Engineer](https://www.qualtrics.com/careers/us/en/job/2271786/Software-Test-Engineer-Intern) and other Intern positions are available. Must be legally authorized to work in job location without Qualtrics sponsorship now or in the future. |
 |[Virtu Financial](https://boards.greenhouse.io/virtu/jobs/5432329002) | NYC | Developer Intern position is available. |
 |[Applied Intuition](https://jobs.lever.co/applied/c22805d5-2006-4867-bb32-671951b17206) | SF | |
-|[MathWorks](https://www.mathworks.com/company/jobs/opportunities/search?%3Fjob_type_id%255b%255d=1755&posting_org_id%5B%5D=1&posting_team_id%5B%5D=18&posting_team_id%5B%5D=22&posting_team_id%5B%5D=21&posting_team_id%5B%5D=20&job_type_id%5B%5D=1755) | Natick, MA | Engineering Development Group Internship and others. |
+|<del>MathWorks</del> | |  **Closed** |
 |[Redfin](https://redfin.wd1.myworkdayjobs.com/en-US/redfin_careers/job/WA---Seattle/Software-Engineer---2022-Internship_41345) | Seattle, WA; San Francisco, CA; Plano, TX | Software Engineer Intern |
 |[Quantco](https://jobs.lever.co/quantco-/d3f46e52-c120-4b25-aee6-bc743daaf6d7?lever-origin=applied&lever-source%5B%5D=GitHub) | Global | |
 |[Virgin Orbit](https://careers-virginorbit.icims.com/jobs/6289/2022-summer-internship---multiple-departments/job?mobile=false&width=1168&height=500&bga=true&needsRedirect=false&jan1offset=-480&jun1offset=-420) | Long Beach, CA | Applicant must be a U.S. citizen, lawful permanent resident of the U.S., protected individual as defined by ITAR (22 CFR §120.15) or eligible to obtain the required authorizations from the U.S. Department of State. |
@@ -338,7 +338,7 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 [HashiCorp](https://www.hashicorp.com/job/3473291?gh_src=a8bc2ad21) | United States (Remote) | Software Engineering Intern |
 [Brex](https://www.brex.com/careers/engineering/5568153002?gh_jid=5568153002) | United States (Remote) | Software Engineering Intern |
 [Atlassian](https://jobs.lever.co/atlassian/d1ff09b6-1405-450b-8765-ed8306a4e411?trid=1e0b9127-2df6-4b3d-8bc4-d81ae332a601) | Mountain View, US | Software Engineer Intern. Will not sponsor individuals for employment authorization for this job opening. |
-[Square](https://www.linkedin.com/jobs/view/2732493793/?alternateChannel=search&refId=C8WsJaUKNyt4SRN%2BX3Lucw%3D%3D&trackingId=KYFQ7%2Fwoml%2BardWGZF3w8A%3D%3D) | San Francisco, CA; Remote | Software Engineer Intern (Winter and Summer 2022) |
+|<del>Square</del> | |  **Closed** |
 [T-Mobile](https://www.tmobile.careers/job-details/13873490/uofmagenta-internship-network-technology-assoc-software-engineer-bellevue-wa/) | Various | Associate Software Engineer Intern |
 [American Airlines](https://jobs.aa.com/job/Ft-Worth-Software-Developer-Intern-TX-76101/789451500/) | Dallas, TX | Software Developer Intern |
 |[Second Spectrum](https://secondspectrum.recruitee.com/o/software-engineering-intern-summer-2022) | Remote | Software Engineer Intern |
