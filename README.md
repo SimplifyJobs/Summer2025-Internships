@@ -361,6 +361,8 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[Yahoo](https://vzbuilders.wd5.myworkdayjobs.com/careers/job/US---Dulles/Software-Engineering-Intern_JR0017135) | Dulles, VA | Software Engineering Intern |
 |[Unisys](https://jobs.unisys.com/us/en/job/REQ527714/Software-Engineer-Intern) | Irvine, CA or Meagean, MI| Software Engineer Intern |
 |[MailChimp](https://boards.greenhouse.io/mailchimp/jobs/3494609) | Atlanta, GA | Android Intern, [IOS Intern](https://boards.greenhouse.io/mailchimp/jobs/3494608) |
+|[Adobe](https://adobe.wd5.myworkdayjobs.com/en-US/external_university/details/XMLNAME-2022-Intern---Software-Development-Intern_R116000?q=intern) | San Jose, CA | Software Development Intern |
+
 
 
 **We love our contributors ❤️❤️**
