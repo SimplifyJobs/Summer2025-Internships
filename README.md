@@ -363,7 +363,7 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[MailChimp](https://boards.greenhouse.io/mailchimp/jobs/3494609) | Atlanta, GA | Android Intern, [IOS Intern](https://boards.greenhouse.io/mailchimp/jobs/3494608) |
 |[Adobe](https://adobe.wd5.myworkdayjobs.com/en-US/external_university/details/XMLNAME-2022-Intern---Software-Development-Intern_R116000?q=intern) | San Jose, CA | Software Development Intern |
 |[Flexport](https://boards.greenhouse.io/flexport/jobs/3470041) | San Francisco, CA; Bellevue, WA; Chicago, IL | Software Engineering Intern |
-
+|[Airbnb](https://careers.airbnb.com/positions/3515684/) | San Francisco, CA | Software Engineer Intern |
 
 **We love our contributors ❤️❤️**
 
