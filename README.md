@@ -338,7 +338,7 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 [HashiCorp](https://www.hashicorp.com/job/3473291?gh_src=a8bc2ad21) | United States (Remote) | Software Engineering Intern |
 [Brex](https://www.brex.com/careers/engineering/5568153002?gh_jid=5568153002) | United States (Remote) | Software Engineering Intern |
 [Atlassian](https://jobs.lever.co/atlassian/d1ff09b6-1405-450b-8765-ed8306a4e411?trid=1e0b9127-2df6-4b3d-8bc4-d81ae332a601) | Mountain View, US | Software Engineer Intern. Will not sponsor individuals for employment authorization for this job opening. |
-|<del>Square</del> | San Francisco, CA | **Closed** <del>Software Engineer Intern</del> |
+|<del>Square</del> |  | **Closed** |
 [T-Mobile](https://www.tmobile.careers/job-details/13873490/uofmagenta-internship-network-technology-assoc-software-engineer-bellevue-wa/) | Various | Associate Software Engineer Intern |
 |<del>American Airlines</del> | | **Closed** |
 |[Second Spectrum](https://secondspectrum.recruitee.com/o/software-engineering-intern-summer-2022) | Remote | Software Engineer Intern |
