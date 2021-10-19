@@ -18,7 +18,7 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |<del>Bridgewater Associates</del> | | **Closed** |
 |[Credit Suisse](https://tas-creditsuisse.taleo.net/careersection/campus/moresearch.ftl) | Raleigh, NYC | Search `"2022 Americas Technology Summer Analyst Program"`, for Sophomores and Juniors only |
 |<del>BlackStone</del> | | **Closed** |
-|[PWC](https://jobs.us.pwc.com/search-jobs/Summer%202022/United%20States/932/1/2/6252001/39x76/-98x5/25/2) | Various | [Technology Consulting](https://jobs.us.pwc.com/job/los-angeles/technology-consulting-intern-summer-2022/932/12073994960) Intern position is available. |
+|<del>PWC</del> | | **Closed** |
 |[AQR](https://careers.aqr.com/jobs/department/university-jobs#/) | Greenwich, CT | Research, Portfolio Implementation |
 |[Optiver](https://www.optiver.com/working-at-optiver/career-opportunities/?filter-level=internship) | Various | Positions in Software Engineering and Trading. Will not sponsor individuals for employment authorization for these job openings. |
 |[Caterpillar](https://careers.caterpillar.com/en/jobs/job/r0000061559-2022-engineering-summer-intern/) | Illinois | The internship is open only to individuals who are eligible for employment in the United States and who would not require visa sponsorship now or in the future. |
@@ -427,3 +427,4 @@ Fill [this form](https://bit.ly/3d5O76c) or make a [pull request](https://github
 * [nikhilkala](https://www.github.com/nikhilkala)
 * [ayoung19](https://github.com/ayoung19)
 * [alexypdu](https://github.com/alexypdu)
+* [yiyiyimu](https://github.com/yiyiyimu)
