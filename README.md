@@ -181,7 +181,7 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[Wells Fargo](https://www.wellsfargojobs.com/job/des-moines/2022-wells-fargo-technology-internship-program/1251/13073149088) | Various | Technology Internship Program. Must be authorized to work in the U.S. on a permanent basis without requiring sponsorship. |
 |[DataBricks](https://databricks.com/company/careers/open-positions/job?gh_jid=5488591002) | San Francisco, CA | Software Engineer Intern |
 |[Pinterest](https://www.pinterestcareers.com/job/13690769/software-engineering-intern-usa-seattle-wa/)| Seattle, Palo Alto, San Francisco | Software Engineer Intern |
-|[Plaid](https://plaid.com/careers/openings/all-departments/all-locations/?role=software%20engineer%20-%20intern) | New York, San Francisco, Salt Lake City | |
+|[Plaid](https://plaid.com/careers/openings/all-departments/all-locations/?role=software%20engineer%20-%20intern) | New York, San Francisco, Salt Lake City | Software Engineer - Intern |
 |[Mastercard](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/40/refreshFacet/318c8bb6f553100021d223d9780d30be) | New York, Virginia, Missouri | Software Engineer Intern. Must be authorized to work in the U.S. on a permanent basis without requiring sponsorship. |
 |[Bloomberg](https://careers.bloomberg.com/job/detail/93579) | Princeton, NJ | Global Data Summer Internship. Legal authorization to work full-time in the United States. |
 |[Twilio](https://boards.greenhouse.io/twilio/jobs/3409885)| Various | Software Engineer Intern |
