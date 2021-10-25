@@ -370,6 +370,7 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[Rokt](https://www.linkedin.com/jobs/search/?currentJobId=2758103719&geoId=103644278&keywords=rokt&location=United%20States) | New York, NY | Software Engineer Intern and Other plenty of jobs|
 |[Olive](https://www.linkedin.com/jobs/view/2740510063/) | Columnbus, OH | Software Engineer Intern and Other plenty of jobs|
 |[Duquesne Light](https://career4.successfactors.com/career?career_ns=job_listing&company=Duquesne&navBarLevel=JOB_SEARCH&rcm_site_locale=en_US&career_job_req_id=14995&selected_lang=en_US&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&browserTimeZone=America/New_York&_s.crb=jH3kSRQhREyfjLqs4Le6Uw3mtTJtDQwXZQ%2bjjrQi%2fHQ%3d) | Hybrid in Pittsburgh or Remote | SWE, IT, Security, and more |
+|[Vistaprint](https://jobs.vistaprint.com/Vistaprint/job/Boston-Software-Engineer-Intern-Remote-MA-02111/805429800/?feedId=281100&utm_source=LinkedInJobPostings&utm_campaign=Vistaprint_LinkedIn) | Remote | Software Engineer Intern |
 
 
 **We love our contributors ❤️❤️**
