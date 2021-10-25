@@ -364,6 +364,11 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[Adobe](https://adobe.wd5.myworkdayjobs.com/en-US/external_university/details/XMLNAME-2022-Intern---Software-Development-Intern_R116000?q=intern) | San Jose, CA | Software Development Intern |
 |[Flexport](https://boards.greenhouse.io/flexport/jobs/3470041) | San Francisco, CA; Bellevue, WA; Chicago, IL | Software Engineering Intern |
 |<del>Airbnb</del> | San Francisco, CA | **Closed** <del>Software Engineer Intern</del> |
+|[Ping Identity](https://recruit.hirebridge.com/v3/Jobs/JobDetails.aspx?cid=7647&jid=560331&locvalue=1011) | Denver, CO | Software Engineer Intern |
+|[Certik](https://jobs.lever.co/certik/cc4bc2b7-ee87-43be-81c9-09c8b0411a7e/apply?lever-source=LinkedInJobs) | New York, NY | Software Engineer Intern |
+|[Roku](https://www.roku.com/jobs/position/3586451/software-engineer-intern-web) | San Jose, CA | Software Engineer Intern |
+|[Rokt](https://www.linkedin.com/jobs/search/?currentJobId=2758103719&geoId=103644278&keywords=rokt&location=United%20States) | New York, NY | Software Engineer Intern and Other plenty of jobs|
+|[Olive](https://www.linkedin.com/jobs/view/2740510063/) | Columnbus, OH | Software Engineer Intern and Other plenty of jobs|
 
 
 **We love our contributors ❤️❤️**
