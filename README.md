@@ -364,7 +364,7 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[Adobe](https://adobe.wd5.myworkdayjobs.com/en-US/external_university/details/XMLNAME-2022-Intern---Software-Development-Intern_R116000?q=intern) | San Jose, CA | Software Development Intern |
 |[Flexport](https://boards.greenhouse.io/flexport/jobs/3470041) | San Francisco, CA; Bellevue, WA; Chicago, IL | Software Engineering Intern |
 |<del>Airbnb</del> | San Francisco, CA | **Closed** <del>Software Engineer Intern</del> |
-
+|[Ping Identity](https://recruit.hirebridge.com/v3/Jobs/JobDetails.aspx?cid=7647&jid=560331&locvalue=1011) | Denver, CO | Software Engineer Intern |
 
 **We love our contributors ❤️❤️**
 
