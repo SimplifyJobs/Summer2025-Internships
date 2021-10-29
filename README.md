@@ -356,7 +356,7 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[PathAI](https://www.linkedin.com/jobs/view/2719073327/) | Boston, MA | Biomedical Data Scientist | 
 |[Reddit](https://boards.greenhouse.io/reddit/jobs/3458837) | Remote - US | Software Engineering Intern | 
 |[Bodo.ai](https://jobs.lever.co/bodo/f95f11b7-9089-4072-a217-473ad82b6e8f) | PITTSBURGH, PA | Software Engineer, Cloud Infrastructure (Intern) |
-|<del>GitLab</del> | Remote | **Closed** <del>Engineering Internship</del> |
+|<del>GitLab</del> | Remote | **Closed** |
 |[Lumen Technologies](https://jobs.lumen.com/global/en/job/262143/Intern-Software-Engineer-Summer-2022-CO-or-Remote-US) | Remote | Software Engineer |
 |[Yahoo](https://vzbuilders.wd5.myworkdayjobs.com/careers/job/US---Dulles/Software-Engineering-Intern_JR0017135) | Dulles, VA | Software Engineering Intern |
 |[Unisys](https://jobs.unisys.com/us/en/job/REQ527714/Software-Engineer-Intern) | Irvine, CA or Meagean, MI| Software Engineer Intern |
@@ -436,3 +436,4 @@ Fill [this form](https://bit.ly/3d5O76c) or make a [pull request](https://github
 * [ayoung19](https://github.com/ayoung19)
 * [alexypdu](https://github.com/alexypdu)
 * [yiyiyimu](https://github.com/yiyiyimu)
+* [raymondwzeng](https://github.com/raymondwzeng)
