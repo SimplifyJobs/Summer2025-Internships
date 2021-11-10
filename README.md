@@ -289,8 +289,8 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[New Relic](https://jobs.jobvite.com/careers/newrelic/job/ohpNgfwt) | Portland, OR; San Francisco, CA; Atlanta, GA | Undergrad Software Engineer Intern |
 |[Abrigo](http://jobs.jobvite.com/bankerstoolbox/job/ojfMgfwk) | Raleigh, NC;  Austin, TX | Software Engineering Intern |
 |[Allegion](https://allegion.wd5.myworkdayjobs.com/en-US/careers/job/Carmel-IN/Summer-Intern---Software-Engineer_JR19365) | Carmel, IN | Software Engineer, [Web Developer](https://allegion.wd5.myworkdayjobs.com/en-US/careers/job/Carmel-IN/Summer-Intern---Web-Developer_JR19357-1), [Cloud/Software Administrator](https://allegion.wd5.myworkdayjobs.com/en-US/careers/job/Carmel-IN/Sumer-Intern---Cloud-Software-Administrator_JR19409-1), [Quality Engineer](https://allegion.wd5.myworkdayjobs.com/en-US/careers/job/Carmel-IN/Sumer-Intern---Cloud-Software-Administrator_JR19409-1) |
-|[Genesis](https://apply.workable.com/genesistrading/j/0C77F4818A/) | New York, NY | Software Engineer Intern |
-|[Chan Zuckerberg Initiative](https://boards.greenhouse.io/embed/job_app?token=3445587) | Redwood City, CA | Software Engineer Intern |
+|~~Genesis~~  |  | Closed |
+|~~Chan Zuckerberg Initiative~~ |  | Closed |
 |[Kiva](https://boards.greenhouse.io/kivaorg/jobs/3458616) | Remote | Software Engineering Intern |
 |[OppFi](https://boards.greenhouse.io/opploans/jobs/4701555003) | Chicago, IL; Remote | Software Engineering Internship |
 |[KnowBe4](https://boards.greenhouse.io/knowbe4/jobs/5514774002) | Clearwater, FL | Software Engineer Intern - Frontend, [Software Engineer in Test](https://boards.greenhouse.io/knowbe4/jobs/5514917002) |
