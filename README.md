@@ -1,6 +1,25 @@
 # Summer 2022 Tech Internships by Pitt CSC 🤿👩‍💻
 Use this repo to share and keep track of software, tech, CS, PM, quant internships for Summer 2022. List maintained by [the Pitt Computer Science Club](https://pittcsc.org/)!
 
+---
+
+<div align="center">
+	<p>
+		<a href="https://simplify.jobs/?utm_source=pittcsc&utm_medium=internships_repo">
+			<b>Applying to internships?</b>
+			<br>
+			Autofill all your applications in a single click.
+			<br>
+			<div>
+				<img src="https://res.cloudinary.com/dpeo4xcnc/image/upload/v1636594918/simplify_pittcsc.png" width="450"  alt="Simplify">
+			</div>
+		</a>
+		<sub><i>Stop manually re-entering your information. Simplify’s extension helps you autofill internship applications on millions of sites.</i></sub>
+	</p>
+</div>
+
+---
+
 :warning: **This repository is only for internships/co-ops in the United States, Canada or for Remote positions:earth_americas:.**
 
  📈 For tips on the internship process check out the [Zero to Offer program here](https://www.pittcs.wiki/zero-to-offer).  📈
