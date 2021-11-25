@@ -123,7 +123,7 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[Cargill](https://careers.cargill.com/search-jobs/Summer%202022/United%20States/23251/1/2/6252001/39x76/-98x5/50/2) | Wayzata, Hopkins, MN | [Software Engineering Intern](https://careers.cargill.com/job/hopkins/software-engineering-internship-summer-2022/23251/12058424688), [Trading Data & Analytics](https://careers.cargill.com/job/wayzata/trading-data-and-analytics-intern-summer-2022/23251/11677499248), [Trading Technology](https://careers.cargill.com/job/hopkins/trading-technology-internship-summer-2022/23251/11677499280) Intern positions. Must have a right to work in the U.S. that is not based solely on possession of a student visa or a visa sponsored by a third-party employer. |
 |<del>Johnson Controls</del>| | **Closed** |
 |<del>HubSpot</del>| | **Closed** |
-|[Clever](https://clever.com/about/careers/detail?gh_jid=6194) | San Francisco, CA; Remote in US | Software Engineering Intern |
+|<del>Clever</del> | |  **Closed** |
 |[Robinhood](https://robinhood.com/us/en/careers/openings/) | Menlo Park, CA | [Android Engineer](https://robinhood.com/us/en/careers/openings/?gh_jid=3335146), [Backend Engineer](https://robinhood.com/us/en/careers/openings/?gh_jid=3339166), [Data Scientist, Analytics](https://robinhood.com/us/en/careers/openings/?gh_jid=3335157) and other Intern positions are available. Winter and Fall internships are available too! |
 |<del>Jina AI</del>| | **Closed** |
 | <del>TomTom</del> | | **Closed** |
