@@ -392,6 +392,7 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[Regeneron Pharmaceuticals](https://careers.regeneron.com/search-results?keywords=Computer%20Science) | Rensselaer, NY; Tarrytown, NY | IT Intern |
 |[Tesla](https://www.tesla.com/careers/search/?country=US&department=5&type=3) | Palo Alto, CA; <br> Fremont, CA | Various Software and Engineering internships for Spring and Summer 2022 |
 |[Replicon](https://www.replicon.com/job-description/?gnk=job&gni=8a78879e7ce7e84d017d0a4f28470a0e) | Remote | Software Developer Internship |
+|[Circle](https://www.circle.com/en/careers-detail/software-engineer-intern) | Remote | Software Engineer Intern (Backend) |
 
 
 
