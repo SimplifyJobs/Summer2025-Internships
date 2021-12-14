@@ -387,7 +387,7 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[Rokt](https://www.linkedin.com/jobs/search/?currentJobId=2758103719&geoId=103644278&keywords=rokt&location=United%20States) | New York, NY | Software Engineer Intern and Other plenty of jobs|
 |[Olive](https://www.linkedin.com/jobs/view/2740510063/) | Columnbus, OH | Software Engineer Intern and Other plenty of jobs|
 |[Duquesne Light](https://career4.successfactors.com/career?career_ns=job_listing&company=Duquesne&navBarLevel=JOB_SEARCH&rcm_site_locale=en_US&career_job_req_id=14995&selected_lang=en_US&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&browserTimeZone=America/New_York&_s.crb=jH3kSRQhREyfjLqs4Le6Uw3mtTJtDQwXZQ%2bjjrQi%2fHQ%3d) | Hybrid in Pittsburgh or Remote | SWE, IT, Security, and more |
-|<del>Vistaprint</del> | Remote | **Closed** <del>Software Engineer Intern</del> |
+|<del>Vistaprint</del> | | **Closed** |
 |[Snowflake](https://careers.snowflake.com/us/en/job/SNCOUS5362467002EXTERNALENUS/Software-Engineer-Intern-Summer-2022?utm_source=linkedin&utm_medium=phenom-feeds&gh_src=ed5543a62) | San Mateo, California | Software Engineer Intern | 
 |[Regeneron Pharmaceuticals](https://careers.regeneron.com/search-results?keywords=Computer%20Science) | Rensselaer, NY; Tarrytown, NY | IT Intern |
 |[Tesla](https://www.tesla.com/careers/search/?country=US&department=5&type=3) | Palo Alto, CA; <br> Fremont, CA | Various Software and Engineering internships for Spring and Summer 2022 |
