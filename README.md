@@ -393,6 +393,10 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[Tesla](https://www.tesla.com/careers/search/?country=US&department=5&type=3) | Palo Alto, CA; <br> Fremont, CA | Various Software and Engineering internships for Spring and Summer 2022 |
 |[Replicon](https://www.replicon.com/job-description/?gnk=job&gni=8a78879e7ce7e84d017d0a4f28470a0e) | Remote | Software Developer Internship |
 |[Circle](https://www.circle.com/en/careers-detail/software-engineer-intern) | Remote | Software Engineer Intern (Backend) |
+|[Spotify](https://jobs.lever.co/spotify/20da58c1-8a06-41f8-89d8-4be6f90820d5/apply?lever-source=LinkedIn) | New York, NY | Web Engineering Intern (Consumer and Platform) |
+|[Justworks](https://boards.greenhouse.io/justworks/jobs/3757126) | New York, NY | Software Engineering Intern |
+|[Braze](https://boards.greenhouse.io/braze/jobs/840086?gh_jid=840086) | New York, NY | Software Engineering Intern |
+|[Cohesity](https://www.cohesity.com/company/careers/open-positions/?gh_jid=3539641) | San Jose, CA | Software Engineering Intern |
 
 
 
