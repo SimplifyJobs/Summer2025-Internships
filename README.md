@@ -397,6 +397,12 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[Justworks](https://boards.greenhouse.io/justworks/jobs/3757126) | New York, NY | Software Engineering Intern |
 |[Braze](https://boards.greenhouse.io/braze/jobs/840086?gh_jid=840086) | New York, NY | Software Engineering Intern |
 |[Cohesity](https://www.cohesity.com/company/careers/open-positions/?gh_jid=3539641) | San Jose, CA | Software Engineering Intern |
+|[Autodesk](https://autodesk.wd1.myworkdayjobs.com/uni/1/refreshFacet/318c8bb6f553100021d223d9780d30be) | California, Massachusetts, Portland | Software Engineering (Different Teams) |
+|[Equifax](https://careers.equifax.com/en/jobs/job/j00127738-software-engineering-intern/) | St. Louis, USA | Software Engineering Intern |
+|[Copart](https://recruiting.adp.com/srccar/public/RTI.home?c=1214601&d=ExternalCareerSite#/) | Dallas, TX | Software Engineering Intern |
+|[Home Depot](https://careers.peopleclick.com/careerscp/client_homedepot/external/en_US/jobDetails.do?functionName=getJobDetail&jobPostId=382762&localeCode=en-us) | Austin, TX | Software Engineering Intern |
+|[Mark43](https://mark43.com/list-job/?gh_jid=1335587)| New York, NY | Software Engineering Intern |
+|[Lucid](https://boards.greenhouse.io/lucidsoftware/jobs/4106334004?ref=levels.fyi) | Salt Lake City, Utah | QA Intern |
 
 
 
