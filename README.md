@@ -95,7 +95,7 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[Aldridge Electric](https://aldridge.csod.com/ux/ats/careersite/9/home?c=aldridge) | Libertyville, IL | [IT](https://aldridge.csod.com/ux/ats/careersite/9/home/requisition/553?c=aldridge), [Developer](https://aldridge.csod.com/ux/ats/careersite/9/home/requisition/550?c=aldridge), [Agile](https://aldridge.csod.com/ux/ats/careersite/9/home/requisition/549?c=aldridge) Intern positions are available. |
 |<del>VMware</del> | Various | **Closed** | 
 | <del> Fifth Third Bank </del> |  | **Closed** |
-|[Red Ventures](https://careers.redventures.com/positions.html?team=college&office=&brand=) | Various | Various Positions related to Software Engineer, Business Analyst Internships |
+|[Red Ventures](https://careers.redventures.com/positions.html?team=college&office=&brand=) | Various | Various [Positions](https://www.redventures.com/careers/programs/launch) related to Software Engineer, Business Analyst Internships |
 | <del> Prudential Financial </del> |  | **Closed** |
 |[Pimco](https://careers.pimco.com/careers/FolderDetail/2022-Summer-Tech-Intern-Software-Engineering/30309) | Austin, TX and Newport Beach, CA | |
 |[Collins Aerospace](https://jobs.collinsaerospace.com/search-jobs/Summer%202022?orgIds=1738&kt=1) | Various | SWE, Data Science and other Intern positions are available. Some positions require applicant to be a U.S Citizen/Permanent Resident “Green Card” holder. |
