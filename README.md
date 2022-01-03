@@ -314,7 +314,7 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[KnowBe4](https://boards.greenhouse.io/knowbe4/jobs/5514774002) | Clearwater, FL | Software Engineer Intern - Frontend, [Software Engineer in Test](https://boards.greenhouse.io/knowbe4/jobs/5514917002) |
 |[Nutanix](https://nutanix.eightfold.ai/careers?pid=8981941&domain=nutanix.com) | San Jose, CA | Software Engineer |
 |[Blue Cross Blue Shield of Michigan](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/3444) | Detroit, MI | Information Technology/Computer Science Intern |
-|[Bentley](https://jobs.bentley.com/job/Exton-Software-Development-Summer-Intern-PA-19341/787689500/) | Multiple Locations | Software Developer |
+| <del> Bentley </del> |  | **Closed** |
 |[Google](https://careers.google.com/jobs/results/?employment_type=INTERN) | Multiple Locations (USA and Canada) | STEP and Software Engineering internships |
 |[Shure Inc](https://careers-shure.icims.com/jobs/2389/application-software-engineering-intern/job) | Niles, IL | Application Software Development Intern, [Embedded Software Development Intern](https://careers-shure.icims.com/jobs/2299/embedded-software-development-intern/job), [Cloud Software Development Intern](https://careers-shure.icims.com/jobs/2349/cloud-software-development-intern/job), [Software Development Intern - Devops](https://careers-shure.icims.com/jobs/2378/software-development-intern-%2528devops%2529/job), [Automated Test Engineering Software Intern](https://careers-shure.icims.com/jobs/2335/automated-test-engineering-software-intern/job) |
 |[X By 2](https://jobs.lever.co/xby2/06041915-a5d6-4741-9ba0-c297d0638a40) | Metro Detroit | Software Engineer Intern |
@@ -388,7 +388,7 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[Olive](https://www.linkedin.com/jobs/view/2740510063/) | Columnbus, OH | Software Engineer Intern and Other plenty of jobs|
 | <del> Duquesne Light </del> |  | **Closed** |
 |<del>Vistaprint</del> | | **Closed** |
-|[Snowflake](https://careers.snowflake.com/us/en/job/SNCOUS5362467002EXTERNALENUS/Software-Engineer-Intern-Summer-2022?utm_source=linkedin&utm_medium=phenom-feeds&gh_src=ed5543a62) | San Mateo, California | Software Engineer Intern | 
+|<del>Snowflake</del> | | **Closed** |
 |[Regeneron Pharmaceuticals](https://careers.regeneron.com/search-results?keywords=Computer%20Science) | Rensselaer, NY; Tarrytown, NY | IT Intern |
 |[Tesla](https://www.tesla.com/careers/search/?country=US&department=5&type=3) | Palo Alto, CA; <br> Fremont, CA | Various Software and Engineering internships for Spring and Summer 2022 |
 |[Replicon](https://www.replicon.com/job-description/?gnk=job&gni=8a78879e7ce7e84d017d0a4f28470a0e) | Remote | Software Developer Internship |
