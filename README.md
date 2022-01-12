@@ -32,7 +32,7 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 
 | Name  |  Location |  Notes |
 |---|---|-------------|
-|[Expensify](https://we.are.expensify.com/) | Anywhere | Full stack software engineering internship - remote work and visa sponsorship available. |
+|[Expensify](https://we.are.expensify.com/apply#workwithus) | Anywhere | Full stack software engineering internship - remote work and visa sponsorship available. |
 |[Motional](https://motional.com/careers) | Boston, Pittsburgh, Santa Monica, Singapore | A self driving car company.|
 |<del>Gusto</del> | | **Closed** |
 |[Hudson River Trading](https://www.hudsonrivertrading.com/careers/job/?gh_jid=3015374) | NYC, Chicago, London, Austin | SWE, [Algo Internship](https://www.hudsonrivertrading.com/careers/job/?gh_jid=3008603) |
