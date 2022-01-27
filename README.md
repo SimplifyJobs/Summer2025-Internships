@@ -330,7 +330,7 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 | <del> iRobot </del> |  | **Closed** |
 |[Northwestern Mutual](https://careers.northwesternmutual.com/corporate-careers/job/software-engineering-internship-summer-2022-milwaukee-wi-corporate-jr-26747/) | Milwaukee, WI | Software Engineering Intern, Undergrad only|
 |[Flatiron](https://flatiron.com/careers/open-positions/3400041) | New York, NY | Software Engineer Intern |
-|[EquipmentShare](https://www.linkedin.com/jobs/view/2706565512/) | Remote; Columbia, MO | Software Engineer Intern |
+|<del> Equipment Share </del> |  | **Closed** |
 |[Vectorworks](https://careers-vectorworks.icims.com/jobs/1714/software-engineer-intern-%28summer-2022%29/job?mobile=false&width=980&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240)| Columbia, MD; Remote | Software Engineer Intern |
 |  <del> Aegon </del> |  | **Closed** |
 | [TransAmerica](http://careers.transamerica.com/ShowJob/Id/3087958/Data-Science-Intern-(Summer-2022)/) | Denver, CO | Data Science Intern |
