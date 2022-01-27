@@ -404,8 +404,6 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[Home Depot](https://careers.peopleclick.com/careerscp/client_homedepot/external/en_US/jobDetails.do?functionName=getJobDetail&jobPostId=382762&localeCode=en-us) | Austin, TX | Software Engineering Intern |
 |[Mark43](https://mark43.com/list-job/?gh_jid=1335587)| New York, NY | Software Engineering Intern |
 |[Lucid](https://boards.greenhouse.io/lucidsoftware/jobs/4106334004?ref=levels.fyi) | Salt Lake City, Utah | QA Intern |
-|[Less Annoying CRM](https://lessannoyingcrm.com/careers) | St. Louis, MO | Full stack software engineering internship, as well as coding fellowship for underrepresnted groups in tech. |
-
 
 
 **We love our contributors ❤️❤️**
