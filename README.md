@@ -110,7 +110,7 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[Freddie Mac](https://careers.freddiemac.com/us/en/job/JR3553/Computer-Science-Intern-Summer-2022) |  McLean, VA | Computer Science Intern position is available. Will not sponsor work visas now or in the future. |
 |<del> Nestle </del> | | **Closed** |
 |[L3Harris Technologies](https://careers.l3harris.com/job/greenville/software-engineering-intern-co-op-greenville-tx-summer-fall-co-op-and-summer-internship-2022/4832/11663221136) | Greenville, TX | SWE Intern position is available. Summer/Fall Co Op is also available. Please be aware many of our positions require the ability to obtain a security clearance (US citizenship required). In addition, applicants who accept a conditional offer of employment may be subject to government security investigation(s) and must meet eligibility requirements for access to classified information. |
-|[PEAK6](http://careers.peak6.com/jobs/campus/chicago-il-united-states/software-engineering-internship-for-women-summer-2022/3343572)| Chicago, IL | Software Engineering Internship for Women. |
+| <del> Peak6 </del> | | **Closed** |
 |<del> Citrix </del>| Various | **Closed** |
 |[Qualtrics](https://www.qualtrics.com/careers/us/en/job/600473/Software-Development-Engineer-in-Test-Summer-Intern) | Seattle, WA; Provo, UT | [Software Development Engineer in Test](https://www.qualtrics.com/careers/us/en/job/600473/Software-Development-Engineer-in-Test-Summer-Intern), [Software Test Engineer](https://www.qualtrics.com/careers/us/en/job/2271786/Software-Test-Engineer-Intern) and other Intern positions are available. Must be legally authorized to work in job location without Qualtrics sponsorship now or in the future. |
 |[Virtu Financial](https://boards.greenhouse.io/virtu/jobs/5432329002) | NYC | Developer Intern position is available. |
@@ -130,7 +130,7 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |<del>Jina AI</del>| | **Closed** |
 | <del>TomTom</del> | | **Closed** |
 |[Walmart](https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/US-AR-BENTONVILLE-Home-Office-ISD-Office---DGTC/XMLNAME-2022-Summer-Intern--Software-Engineer-II_R-682495)| Various | [Data Engineer III](https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/US-AR-BENTONVILLE-Home-Office-ISD-Office---DGTC/XMLNAME-2022-Summer-Intern--Data-Engineer-III_R-685463), [Software Engineer III](https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/US-AR-BENTONVILLE-Home-Office-ISD-Office---DGTC/XMLNAME-2022-Summer-Intern--Software-Engineer-III_R-682538), [Software Engineer II](https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/US-AR-BENTONVILLE-Home-Office-ISD-Office---DGTC/XMLNAME-2022-Summer-Intern--Software-Engineer-II_R-682495) Intern positions are available. |
-|[Duolingo](https://boards.greenhouse.io/duolingo/jobs/5422890002?gh_src=977bb0612us) | Pittsburgh, PA | SWE Intern, [Data Science Intern](https://boards.greenhouse.io/duolingo/jobs/5445806002), [Associate PM Intern](https://boards.greenhouse.io/duolingo/jobs/5445799002) |
+|Duolingo | | **Closed** |
 |[Nuro.ai](https://www.nuro.ai/careersitem?gh_jid=3356175) | Mountain View, CA | Software Engineer Intern |
 |[Capital One](https://campus.capitalone.com/job/mclean/technology-internship-program-summer-2022/1786/11941383104) | Various | [Master's Data Science Internship](https://campus.capitalone.com/job/-/-/1786/19642559) |
  | <del> Hyperscience </del>|  | **Closed** |
@@ -385,8 +385,8 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[Ping Identity](https://recruit.hirebridge.com/v3/Jobs/JobDetails.aspx?cid=7647&jid=560331&locvalue=1011) | Denver, CO | Software Engineer Intern |
 | <del> Certik </del> |  | **Closed** |
 |[Roku](https://www.roku.com/jobs/position/3586451/software-engineer-intern-web) | San Jose, CA | Software Engineer Intern |
-|[Rokt](https://www.linkedin.com/jobs/search/?currentJobId=2758103719&geoId=103644278&keywords=rokt&location=United%20States) | New York, NY | Software Engineer Intern and Other plenty of jobs|
-|[Olive](https://www.linkedin.com/jobs/view/2740510063/) | Columnbus, OH | Software Engineer Intern and Other plenty of jobs|
+| <del> Rokt </del> | | **Closed** |
+| <del> Olive </del> | | **Closed** |
 | <del> Duquesne Light </del> |  | **Closed** |
 |<del>Vistaprint</del> | | **Closed** |
 |<del>Snowflake</del> | | **Closed** |
@@ -403,7 +403,7 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[Copart](https://recruiting.adp.com/srccar/public/RTI.home?c=1214601&d=ExternalCareerSite#/) | Dallas, TX | Software Engineering Intern |
 |[Home Depot](https://careers.peopleclick.com/careerscp/client_homedepot/external/en_US/jobDetails.do?functionName=getJobDetail&jobPostId=382762&localeCode=en-us) | Austin, TX | Software Engineering Intern |
 |[Mark43](https://mark43.com/list-job/?gh_jid=1335587)| New York, NY | Software Engineering Intern |
-|[Lucid](https://boards.greenhouse.io/lucidsoftware/jobs/4106334004?ref=levels.fyi) | Salt Lake City, Utah | QA Intern |
+| <del> Lucid </del> | | **Closed** |
 
 
 **We love our contributors ❤️❤️**
