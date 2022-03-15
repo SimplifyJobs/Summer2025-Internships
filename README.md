@@ -185,7 +185,7 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[AArete](https://www.aarete.com/join-our-team/open-positions/) | Chicago, IL | [Consulting](https://jobs.jobvite.com/aarete/job/omvCgfwt), [Data Analytics](https://jobs.jobvite.com/aarete/job/owwCgfwE), [Technology](https://jobs.jobvite.com/aarete/job/oTPDgfwl) Intern positions are available. |
 |<del>Snap</del>| |  **Closed** |
 |<del>Quip</del> | | **Closed** |
-|[Chime](https://www.chime.com/job-openings/?gh_jid=5515397002&utm_campaign=Startup%20Search&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-9XhX9zcu2JolU8VqdOy_qmxiRt8FWMVz94kH84te5zkRWsEAp88eiRckaLlfvHb-vUmnGA) | San Francisco, CA | Software Engineer |
+|[Chime](https://www.chime.com/job-openings/?gh_jid=5515397002&utm_campaign=Startup%20Search&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-9XhX9zcu2JolU8VqdOy_qmxiRt8FWMVz94kH84te5zkRWsEAp88eiRckaLlfvHb-vUmnGA), [Growth Product Analytics] (https://www.careers.chime.com/job/5950138002?gh_jid=5950138002) | San Francisco, CA | Multiple Positions | 
 | <del> Urban Outfitters </del> |  | **Closed** |
 |[Innovative Systems](http://career.innovativesystems.com/apply/pEU3iGangp/InternCoopSUMMER-2022-Software-Engineering) | Pittsburgh, PA | Software Engineering Intern |
 |[OnPrem Solution Partners](https://jobs.lever.co/onprem.com/2dd1038b-211e-4caf-b9fd-f66ac6bb6117) | Austin, TX | Engineering Intern. Applicants for employment in the US must have work authorization that does not now or in the future require sponsorship of a visa for employment authorization in the United States. |
