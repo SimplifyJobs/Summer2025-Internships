@@ -232,10 +232,10 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[ZS Associates](https://jobs.zs.com/jobs/10083?lang=en-us) | Various | [Business Technology Solutions Associate - Intern](https://jobs.zs.com/jobs/10083?lang=en-us). Accepts OPT/CPT and will sponsor a work visa in the future. |
 |[Deutsche Bank](https://db.recsolu.com/external/requisitions/746pSGx3ZsPZq4Y1Ve8vig) | NYC | Analyst Internship Programme - Technology, Data and Innovation. Accepts CPT and OPT and will sponsor a work visa in the future. |
 |<del> General Dynamics Mission Systems </del>| | **Closed** |
-|[Rivian](https://boards.greenhouse.io/rivian/jobs/4674393003) | Palo Alto, CA | |
+|[Rivian](https://boards.greenhouse.io/rivian) | Palo Alto, CA | Software Engineering Intern |
 |[DoorDash](https://boards.greenhouse.io/doordash/jobs/3393160?gh_jid=3393160) | Various | Software Engineer Intern |
 |[Mr. Cooper Group](https://careers.mrcooper.com/search/jobs?q=intern) | Dallas, TX | Various Intern Roles. Software Engineer, Devops, Data, Machine Learning. Will not sponsor work visas for some positions. |
-|[UIPath](https://www.uipath.com/company/careers/americas/bellevue/engineering-development/software-engineer-intern)| Bellevue, WA | |
+|[UIPath](https://www.uipath.com/company/careers/americas/bellevue/engineering-development/software-engineer-intern)| Bellevue, WA | RPA Developer |
 |<del>Uber</del> |  | **Closed** |
 |<del>Workiva></del> |  | **Closed** |
 |[SingleStore](https://boards.greenhouse.io/singlestore/jobs/3436980) | Raleigh, NC | Software Engineer Intern |
@@ -290,7 +290,7 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[Dell](https://dell.wd1.myworkdayjobs.com/ExternalNonPublic/job/Round-Rock-Texas-United-States/Software-Engineering-Intern_R128527) | Round Rock, Seattle, Santa Clara, Hopkinton, Research Triangle Park | Software Engineer Intern |
 |[Squarespace](https://www.squarespace.com/careers/jobs/3401380) | New York, NY | Software Engineer Intern (Backend, Frontend and Internal Infra) |
 |[Publicis Sapient](https://jobs.smartrecruiters.com/ni/PublicisGroupe/1548e7ef-897d-4135-977f-fa400b69e548-software-engineer-intern-class-of-2023) | Various | Junior Software Engineer Intern. Must be legally authorized to work without the need of sponsorship. |
-|[Nike](https://jobs.nike.com/job/URSRCTECHGI22?apstr=src%3DJB-11022) | Beaverton, OR | Graduate Global Technology Internship |
+| <del> Nike </del> | | **Closed** |
 |[ASML](https://www.asml.com/en/careers/internships?query=Summer%202022) | Wilton, CT; San Diego, CA | Software Engineering, Software Development Intern positions are available. |
 |[Aloft](https://jobs.lever.co/aloft/b6356f0c-fc09-4103-879d-537adf5185b0) | Seattle, WA | Software Engineering Intern |
 |[Relativity](https://jobs.lever.co/relativity/93da9a81-2d64-4783-a731-93e2fd12e697?lever-source=LinkedInJobs) | Remote | Software Engineer Intern |
@@ -304,7 +304,7 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[Nutrien](https://retailcareers-nutrien.icims.com/jobs/14787/intern%2c-digital-agronomy-and-data-science/job?mode=job&iis=Job+Posting&iisn=LinkedIn&mobile=false&width=1140&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240) | Champaign, IL | Data Science Intern |
 | <del> Expedia </del> |  | **Closed** |
 | <del> Intel </del> |  | **Closed** |
-|[Pocket Gems](https://www.linkedin.com/jobs/view/2709728782/?refId=850a8614-492f-334e-b8ad-37c793af3dc9)| San Francisco, CA | Software Engineer Intern |
+| <del>Pocket Gems</del>| | **Closed** |
 | <del> Neeva </del> |  | **Closed** |
 |[SpaceX](https://boards.greenhouse.io/spacex/jobs/5526757002) | Multiple Locations | Software Engineer Inter/Coop; US Citizen Only |
 | <del> Sentry </del> |  | **Closed** |
@@ -345,15 +345,15 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 | [Intuit](https://jobs.intuit.com/category/interns-and-new-college-grads-jobs/27595/71554/1) | Mountain View, California; San Diego, California | Software Engineer Intern |
 |[Optum](https://careers.unitedhealthgroup.com/job-search-results/?keyword=Intern&parent_category[]=Optum&location=United%20States&country=US&radius=25) | Various| Various tracks are available. For most positions, sponsorship is not available. |
 |[Splunk](https://www.splunk.com/en_us/careers/search-jobs.html?keyword=Summer%202022) | Remote | Solutions Engineering, Product Security, Software Engineering and other Intern positions are available. |
-|[Gap](https://www.gapinc.com/en-us/careers/job-search?query=GapTech&currentPage=1&sort=score) | San Francisco, CA | GapTech Software Engineering Internship Program. Front End, Back End, TechOps and Clound Engineering tracks are available. |
+| <del> [Gap](https://www.gapinc.com/en-us/careers/job-search?query=intern&currentPage=1&sort=score) </del> | | **Closed** |
 | <del> Checkr </del> |  | **Closed** |
 |[Intuitive](https://careers.intuitive.com/us/en/job/214284/Computer-Science-Computer-Engineering-Intern) | Sunnyvale, CA | Computer Science/Computer Engineering Intern. |
 |[Twitter](https://jobs.smartrecruiters.com/ni/Twitter2/f6205ccb-ee15-4669-b8f4-0b773c974c02-2022-engineering-internships-north-america-latin-america) | San Francisco, CA | SWE, Machine Learning, Data Science internships and more! |
 |[Workday](https://workday.wd5.myworkdayjobs.com/en-US/Workday_University_Careers) | Various | SDE, SDET, Application, BA, Product, etc. |
-|<del>Epic Games</del> | | **Closed** |
+|[Epic Games](https://boards.greenhouse.io/epicgames?t=8942a4004us)| Various | Various positions  (search intern to view intern openings) |
 |[Pacific Northwest National Laboratory (PNNL)](https://pnnl.jobs/jobs/?q=Intern) | US | Various positions  (search intern to view intern openings) |
-|[Instabase](https://instabase.com/careers/?gh_jid=5498192002) | SF; Menlo Park; New York City | Backend, FullStack, ML | 
-|[Red Hat](https://global-redhat.icims.com/jobs/89903/software-engineering-internship/job?hub=7&%26%3Fmode=job&%26iis=Job%2BBoard&%26iisn=LinkedIn%2BPosting) | Remote | Software Engineering Internship |
+| <del> Instabase </del> | | **Closed** | 
+| <del> Red Hat </del> | | **Closed** |
 | <del> DataChat </del> |  | **Closed** |
  <del> HashiCorp </del> |  | **Closed** |
 [Brex](https://www.brex.com/careers/engineering/5568153002?gh_jid=5568153002) | United States (Remote) | Software Engineering Intern |
@@ -366,47 +366,47 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |<del>FanDuel</del> | | **Closed** |
 |[Voleon](https://jobs.lever.co/voleon/fddcbfab-7541-45ca-8014-295804d47ed8) | Austin | Software Engineer Intern |
 |[Alteryx](https://alteryx.wd5.myworkdayjobs.com/en-US/AlteryxCareers/job/Irvine-California/Software-Engineer-Intern--Summer-2022-_R5679) | Irvine, CA | Software Engineer Intern |
-|[Aurora](https://aurora.tech/jobs/2022-summer-internship-software-engineering-control-5571701002) | Moutain View, Pittburgh | Software Engineer, Control |
+|[Aurora](https://aurora.tech/careers) | Moutain View, San Francisco, Pittsburgh | Search for "internship" |
 | <del> Analog Devices </del> |  | **Closed** | 
 |[Addepar](https://boards.greenhouse.io/addepar1) | Remote | Multiple positions, go to company job pages and scroll to Interns and New Grads |
 |[Cloudflare](https://www.cloudflare.com/careers/jobs/) | Remote | Software Engineer Intern, Data Engineering and Analytics |
-|[Cambly](https://jobs.lever.co/cambly/a965ee9f-3a17-4c20-a17b-8b7a0e4be158) | San Francisco | Software Engineer Intern |
-|[Qumulo](https://qumulo.com/company/jobs/?gh_jid=3434199) | Seattle, WA | Software Development Engineer |
+| <del> Cambly </del> | | **Closed** |
+| <del> Qumulo </del> | | **Closed** |
 |[Pendo](https://boards.greenhouse.io/pendo/jobs/5549592002) | Raleigh, NC | Software Engineering Intern |
-|[PathAI](https://www.linkedin.com/jobs/view/2719073327/) | Boston, MA | Biomedical Data Scientist | 
-|[Reddit](https://boards.greenhouse.io/reddit/jobs/3458837) | Remote - US | Software Engineering Intern | 
-|[Bodo.ai](https://jobs.lever.co/bodo/f95f11b7-9089-4072-a217-473ad82b6e8f) | PITTSBURGH, PA | Software Engineer, Cloud Infrastructure (Intern) |
+| <del> PathAI </del> | | **Closed** | 
+| <del> Reddit </del> | | **Closed** | 
+| <del> Bodo.ai </del> | | **Closed** |
 |<del>GitLab</del> | Remote | **Closed** |
-|<del>[Lumen Technologies](https://jobs.lumen.com/global/en/job/262143/Intern-Software-Engineer-Summer-2022-CO-or-Remote-US)</del> | Remote | **Closed** |
+|<del> Lumen Technologies </del> | | **Closed** |
 | <del> Yahoo </del> |  | **Closed** |
-|[Unisys](https://jobs.unisys.com/us/en/job/REQ527714/Software-Engineer-Intern) | Irvine, CA or Meagean, MI| Software Engineer Intern |
-|[MailChimp](https://boards.greenhouse.io/mailchimp/jobs/3494609) | Atlanta, GA | Android Intern, [IOS Intern](https://boards.greenhouse.io/mailchimp/jobs/3494608) |
-|[Adobe](https://adobe.wd5.myworkdayjobs.com/en-US/external_university/details/XMLNAME-2022-Intern---Software-Development-Intern_R116000?q=intern) | San Jose, CA | Software Development Intern |
-|[Flexport](https://boards.greenhouse.io/flexport/jobs/3470041) | San Francisco, CA; Bellevue, WA; Chicago, IL | Software Engineering Intern |
-|<del>Airbnb</del> | San Francisco, CA | **Closed** <del>Software Engineer Intern</del> |
+|[Unisys](https://jobs.unisys.com/us/en/c/early-careersstudents-jobs?from=10&s=1) | Irvine, CA or Meagean, MI| Software Engineer Intern |
+| <del> MailChimp </del> | | **Closed** |
+|[Adobe](https://adobe.wd5.myworkdayjobs.com/en-US/external_university/details/XMLNAME-2022-Intern---Software-Development-Intern_R116000?jobFamilyGroup=591af8b812fa10737b43a1662896f01c&timeType=262714769a02100a80d2a64ac4e040c0&workerSubType=3ba4ecdf4893100b2f8d08d56d8d6c8e) | San Jose, CA | Software Development Intern |
+| <del> Flexport </del> | | **Closed** |
+|<del>Airbnb</del> | | **Closed** |
 |[Ping Identity](https://recruit.hirebridge.com/v3/Jobs/JobDetails.aspx?cid=7647&jid=560331&locvalue=1011) | Denver, CO | Software Engineer Intern |
 | <del> Certik </del> |  | **Closed** |
-|[Roku](https://www.roku.com/jobs/position/3586451/software-engineer-intern-web) | San Jose, CA | Software Engineer Intern |
+|[Roku](https://www.roku.com/jobs/listing?search=Software&dept=Internships) | San Jose, CA | Software Engineer Intern |
 | <del> Rokt </del> | | **Closed** |
 | <del> Olive </del> | | **Closed** |
 | <del> Duquesne Light </del> |  | **Closed** |
 |<del>Vistaprint</del> | | **Closed** |
 |<del>Snowflake</del> | | **Closed** |
 |[Regeneron Pharmaceuticals](https://careers.regeneron.com/search-results?keywords=Computer%20Science) | Rensselaer, NY; Tarrytown, NY | IT Intern |
-|[Tesla](https://www.tesla.com/careers/search/?country=US&department=5&type=3) | Palo Alto, CA; <br> Fremont, CA | Various Software and Engineering internships for Spring and Summer 2022 |
+|[Tesla](https://www.tesla.com/careers/search/?query=Summer&department=3&type=3&region=5&country=US) | Palo Alto, CA; <br> Fremont, CA | Various Software and Engineering internships for Spring and Summer 2022 |
 |[Replicon](https://www.replicon.com/job-description/?gnk=job&gni=8a78879e7ce7e84d017d0a4f28470a0e) | Remote | Software Developer Internship |
-|[Circle](https://www.circle.com/en/careers-detail/software-engineer-intern) | Remote | Software Engineer Intern (Backend) |
-|[Spotify](https://jobs.lever.co/spotify/20da58c1-8a06-41f8-89d8-4be6f90820d5/apply?lever-source=LinkedIn) | New York, NY | Web Engineering Intern (Consumer and Platform) |
-|[Justworks](https://boards.greenhouse.io/justworks/jobs/3757126) | New York, NY | Software Engineering Intern |
+| <del> Circle </del> | | **Closed** |
+| <del> Spotify </del> | | **Closed** |
+| <del> Justworks </del> | | **Closed** |
 |[Braze](https://boards.greenhouse.io/braze/jobs/840086?gh_jid=840086) | New York, NY | Software Engineering Intern |
-|[Cohesity](https://www.cohesity.com/company/careers/open-positions/?gh_jid=3539641) | San Jose, CA | Software Engineering Intern |
+| <del> Cohesity </del> | | **Closed** |
 |[Autodesk](https://autodesk.wd1.myworkdayjobs.com/uni/1/refreshFacet/318c8bb6f553100021d223d9780d30be) | California, Massachusetts, Portland | Software Engineering (Different Teams) |
-|[Equifax](https://careers.equifax.com/en/jobs/job/j00127738-software-engineering-intern/) | St. Louis, USA | Software Engineering Intern |
+| <del> Equifax </del> | | **Closed** |
 |[Copart](https://recruiting.adp.com/srccar/public/RTI.home?c=1214601&d=ExternalCareerSite#/) | Dallas, TX | Software Engineering Intern |
-| <del> Home Depot <del> | | **Closed** |
+| <del> Home Depot </del> | | **Closed** |
 |[Mark43](https://mark43.com/list-job/?gh_jid=1335587)| New York, NY | Software Engineering Intern |
 | <del> Lucid </del> | | **Closed** |
-|[Volley](https://jobs.lever.co/volleythat/33b48dfc-c8ef-4a4f-b48a-8b34795cd0d7) | San Francisco, CA | Software Engineering Intern |
+| <del> Volley </del> | | **Closed** |
 
 
 **We love our contributors ❤️❤️**
