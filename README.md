@@ -176,7 +176,7 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[Noblis](https://careers.noblis.org/listings)| Various | Search `"2022"` - Multiple Location Openings. U.S. citizenship or permanent residency required. |
 |[Appian Corp](https://boards.greenhouse.io/appian/jobs/3359486) | McLean, Virginia | Software Engineer Intern, for undergrad student only |
 |[Figma](https://jobs.lever.co/figma/76c46a06-91fd-4792-8907-9fe42aff1f26) |  San Francisco, CA and New York, NY | Software Engineer Intern (2022). |
-|[Rippling](https://www.rippling.com/careers/4614520003) | San Francisco, CA; or Remote | Software Engineering Intern |
+| <del> Rippling </del> | | **Closed**|
 | <del> Principal Financial Group </del> | | **Closed**|
 |[Gem](https://boards.greenhouse.io/zensourcer/jobs/4945378002) | San Francisco, CA | Software Engineering Intern |
 |[Veeva](https://jobs.lever.co/veeva/8d206bef-9caa-41cb-a68d-410912f04865?lever-source=Veeva-Career-Site)|Columbus, Ohio and Pleasanton, CA | Software Engineer Intern. Will not sponsor work visas now or in the future. |
@@ -220,10 +220,10 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[NetApp](https://netapp.eightfold.ai/careers?pid=8617938&seniority=Intern&domain=netapp.com&triggerGoButton=false) | Various | |
 | <del> FireEye </del> |  | **Closed** |
 |[Uline](https://www.uline.jobs/JobDetails?culture=en&jobid=5648BR&jobtitle=Data-Engineer-Internship---Summer-2022)| Pleasant Prairie, Wisconsin | Data Engineer Internship |
-|[Blend](https://boards.greenhouse.io/blend/jobs/4092887004) | Remote, US | Software Engineer Intern |
+| <del> Blend </del> | | **Closed**|
 | <del>Motional</del> | | **Closed** |
 |[Hudl](https://boards.greenhouse.io/hudl) | Lincoln, NE | [Software Quality Analyst](https://boards.greenhouse.io/hudl/jobs/3415809), [Software Development](https://boards.greenhouse.io/hudl/jobs/3355652) Intern positions are available. |
-|[Paylocity](https://2000recruiting.paylocity.com/Recruiting/Jobs/Details/8708) | Remote, US | Software Engineer Intern |
+| <del> Paylocity </del> | | **Closed**|
 |[OSISoft](https://osisoft.wd1.myworkdayjobs.com/en-US/osisoft_careers/job/San-Leandro-California-USA/Software-Development-Intern---US_R003277) | San Leandro, California; Johnson City, Tennessee; Philadelphia, Pennsylvania; Scottsdale, Arizona | Software Development Intern. Will not sponsor work visas now or in the future. |
 |[Valkyrie Trading](https://valkyrie-trading.talentify.io/job/software-engineer-intern-summer-2022-chicago-illinois-valkyrie-trading-4da392d5-e1f9-4d0f-8574-aa95e2966875) | Chicago / Illinois | Software Engineer Intern |
 |[Revantage](https://careers-revantage.icims.com/jobs/2847/technology%2c-summer-intern-2022/job?mobile=false&width=930&height=500&bga=true&needsRedirect=false&jan1offset=120&jun1offset=180) | Chicago, IL | Technology Intern |
@@ -251,7 +251,7 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[Wipfli](https://careers-wipfli.icims.com/jobs/4095/custom-development-internships%2c-summer-2022/job) | Minneapolis, MN; Milwaukee, WI | Custom Development Intern |
 |[Ford Motor Company](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25385&siteid=5311&PageType=JobDetails&jobid=548716#jobDetails=548716_5311) | Dearborn | Information Technology Software Engineering Intern. Search `"Intern"` as many different positions are there. |
 |<del>DraftKings</del> | | **Closed** |
-|[CrowdStrike](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Software-Engineer-Intern---Summer-2022--Remote-_R4777?source=tmp_link&dclid=CP_OnNu34PICFU3mKAUduAIMIA) | Sunnyvale, CA; Irvine, CA; Kirkland, WA; Minneapolis, MN; Remote | Software Engineer Intern, [Data Science and Data Engineering Intern](https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Remote/Data-Science-and-Data-Engineering-Internship---Summer-2022--Remote-_R4773?source=tmp_link&dclid=CP_OnNu34PICFU3mKAUduAIMIA) |
+|<del> CrowdStrike </del> | | **Closed**|
 |[Riot Games](https://www.riotgames.com/en/work-with-us/job/3385811/software-engineering-intern-los-angeles-usa) | Los Angeles, CA| |
 |[John Hopkins APL](https://prdtss.jhuapl.edu/StudentsandRecentGraduates/jobs/2022-technical-college-internship-program-1875) | Laurel, MD | 2022 Technical College Internship Program. US citizenship is required for security clearance. |
 |[Sealed Air Corporation](https://jobs.sealedair.com/search/?createNewAlert=false&q=Summer+2022&locationsearch=United+States) | Charlotte, NC | Software Engineering Intern, Applications Engineering, Data Science Engineering and other Intern positions are available. Some positions require applicant to be permanent US resident or US Citizen or National. |
