@@ -57,7 +57,7 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[D. E. Shaw](https://www.deshaw.com/careers/software-developer-intern-new-york-4239) | NYC | Software, Trading, Quant, System Internships |
 |<del>Toyota Connected</del> | Plano, Texas | **Closed**
 |[Vanguard](https://www.vanguardjobs.com/job-search-results/?keyword=college%20to%20corporate&level[]=Student%20%26%20Recent%20Graduates) | Various | App Dev, Security & IT internships
-|[<del>Salesforce</del>]| | **Closed** |
+|<del>Salesforce</del>| | **Closed** |
 |[RBC Capital Markets](https://jobs.rbc.com/ca/en/job/RBCAA0088327043EXTERNALENCA/2022-Technology-Summer-Analyst-Program) | NYC | |
 |[Arrowstreet Capital](https://arrowstreetcapital.wd5.myworkdayjobs.com/Arrowstreet/0/refreshFacet/318c8bb6f553100021d223d9780d30be) | Boston, MA | Quant |
 |<del>Asana</del> | | **Closed** |
@@ -77,7 +77,7 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[Cadre](https://boards.greenhouse.io/cadre) | NYC | Product |
 |[Amazon/AWS](https://www.amazon.jobs/en/search?base_query=Summer+2022&loc_query=&latitude=&longitude=&loc_group_id=&invalid_location=false&country=&city=&region=&county=) | Various | [Software Development Engineer](https://www.amazon.jobs/en/jobs/1557929/software-development-engineer-internship-summer-2022-us), [Cloud Support Associate](https://www.amazon.jobs/en/jobs/1608042/cloud-support-associate-intern-summer-2022-us), [Assoc Customer Solutions Manager](https://www.amazon.jobs/en/jobs/1609945/assoc-customer-solutions-manager-intern-summer-2022-us), [Quality Assurance Engineer](https://www.amazon.jobs/en/jobs/1628670/quality-assurance-engineer-internship-summer-2022-us), [Security Engineer](https://www.amazon.jobs/en/jobs/1628641/security-engineer-internship-summer-2022-us) and other Intern positions are available. |
 |[Palantir](https://jobs.lever.co/palantir?commitment=Internship)| Various | [Forward Deployed Software Engineer](https://jobs.lever.co/palantir/e6ff8bf2-135e-474d-ad37-24f490ae1dd2), [Software Engineer](https://jobs.lever.co/palantir/bdcfb29f-4f27-42de-933f-7f83a359b9f0), [Palantir Path](https://jobs.lever.co/palantir/667ad245-0eb8-44da-b29c-791c2fa081d3) Intern positions are available. |
-|[<del>Tableau</del>]| | **Closed** |
+|<del>Tableau</del>| | **Closed** |
 |<del>McKinsey</del> | | **Closed** |
 |[Nvidia](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-MI-Remote/High-Performance-Computing-Engineer-Intern---Summer-2022_JR1943862-2?source=jobboardlinkedin) | US, MI, Remote | Search `2022` for more positions |
 |[Cisco](https://jobs.cisco.com/jobs/SearchJobs/Summer%202022) | Chicago, IL; San Francisco, CA | [Network Support Engineer](https://jobs.cisco.com/jobs/ProjectDetail/Network-Support-Engineer-Intern-Summer-2022-Internship-Bachelors-Meraki/1339621?source=LinkedIn), [Product Software Engineer](https://jobs.cisco.com/jobs/ProjectDetail/Product-Software-Engineer-Summer-2022-Internship-Meraki/1339636?source=LinkedIn) Intern positions are available. |
