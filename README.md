@@ -322,7 +322,7 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[Shure Inc](https://careers-shure.icims.com/jobs/2389/application-software-engineering-intern/job) | Niles, IL | Application Software Development Intern, [Embedded Software Development Intern](https://careers-shure.icims.com/jobs/2299/embedded-software-development-intern/job), [Cloud Software Development Intern](https://careers-shure.icims.com/jobs/2349/cloud-software-development-intern/job), [Software Development Intern - Devops](https://careers-shure.icims.com/jobs/2378/software-development-intern-%2528devops%2529/job), [Automated Test Engineering Software Intern](https://careers-shure.icims.com/jobs/2335/automated-test-engineering-software-intern/job) |
 |[X By 2](https://jobs.lever.co/xby2/06041915-a5d6-4741-9ba0-c297d0638a40) | Metro Detroit | Software Engineer Intern |
 | <del> Trimble </del> |  | **Closed** |
-|[Victoria's Secret](https://www.linkedin.com/jobs/view/2699248828/?refId=49f31cc5-1be0-4cd1-b9b4-dcf7f00228b9) | Columbus, OH | Technology Internship, multiple positions available |
+|<del> Victoria's Secret <del> | | **Closed** |
 |[Gordian](https://fortive.taleo.net/careersection/external/jobdetail.ftl?job=TEK010120) | Beaverton, OR | Engineering Intern |
 |[Ginkgo Bioworks](https://jobs.lever.co/ginkgobioworks/f5cd6b3d-e074-40d6-994f-1cf39f469342) | Remote; Boston, MA | Software Engineering Intern |
 |<del> Cloudera </del> | Santa Clara, CA | **Temporarily Closed** Software Engineering Intern |
