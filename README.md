@@ -134,8 +134,8 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[Walmart](https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/US-AR-BENTONVILLE-Home-Office-ISD-Office---DGTC/XMLNAME-2022-Summer-Intern--Software-Engineer-II_R-682495)| Various | [Data Engineer III](https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/US-AR-BENTONVILLE-Home-Office-ISD-Office---DGTC/XMLNAME-2022-Summer-Intern--Data-Engineer-III_R-685463), [Software Engineer III](https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/US-AR-BENTONVILLE-Home-Office-ISD-Office---DGTC/XMLNAME-2022-Summer-Intern--Software-Engineer-III_R-682538), [Software Engineer II](https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/US-AR-BENTONVILLE-Home-Office-ISD-Office---DGTC/XMLNAME-2022-Summer-Intern--Software-Engineer-II_R-682495) Intern positions are available. |
 |Duolingo | | **Closed** |
 |[Nuro.ai](https://www.nuro.ai/careersitem?gh_jid=3356175) | Mountain View, CA | Software Engineer Intern |
-|[Capital One](https://campus.capitalone.com/job/mclean/technology-internship-program-summer-2022/1786/11941383104) | Various | [Master's Data Science Internship](https://campus.capitalone.com/job/-/-/1786/19642559) |
- | <del> Hyperscience </del>|  | **Closed** |
+| <del> Capital One </del>|  | **Closed** |
+| <del> Hyperscience </del>|  | **Closed** |
 |[Jump Trading LLC](https://www.jumptrading.com/apply.html?gh_jid=2939637) | Chicago, IL | Software Engineer Intern |
 |<del>Cox Automotive</del> | | **Closed** |
 |[IBM](https://www.ibm.com/us-en/employment/entrylevel/#jobs?%23jobs=&job-category=Software%2520Development%2520%2526%2520Support&experience=Intern) | Various | Various positions including [Data Science intern](https://careers.ibm.com/job/13522697/data-scientist-intern-summer-2022-remote/?codes=IBM_CareerWebSite), [Front End Developer intern](https://careers.ibm.com/job/13542747/front-end-developer-intern-summer-2022-remote/?codes=IBM_CareerWebSite) |
