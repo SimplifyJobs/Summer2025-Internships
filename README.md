@@ -174,8 +174,8 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[Roblox](https://corp.roblox.com/careers/listing/?gh_jid=3376216) | San Mateo, CA | Software Engineering Intern, [Data Science Intern](https://corp.roblox.com/careers/listing/?gh_jid=3461439) |
 | <del> Peraton </del> |  | **Closed** |
 |[Noblis](https://careers.noblis.org/listings)| Various | Search `"2022"` - Multiple Location Openings. U.S. citizenship or permanent residency required. |
-|[Appian Corp](https://boards.greenhouse.io/appian/jobs/3359486) | McLean, Virginia | Software Engineer Intern, for undergrad student only |
-|[Figma](https://jobs.lever.co/figma/76c46a06-91fd-4792-8907-9fe42aff1f26) |  San Francisco, CA and New York, NY | Software Engineer Intern (2022). |
+|<del>Appian Corp</del> | | **Closed** |
+|<del>Figma</del> | | **Closed** |
 | <del> Rippling </del> | | **Closed**|
 | <del> Principal Financial Group </del> | | **Closed**|
 |[Gem](https://boards.greenhouse.io/zensourcer/jobs/4945378002) | San Francisco, CA | Software Engineering Intern |
@@ -187,7 +187,7 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[AArete](https://www.aarete.com/join-our-team/open-positions/) | Chicago, IL | [Consulting](https://jobs.jobvite.com/aarete/job/omvCgfwt), [Data Analytics](https://jobs.jobvite.com/aarete/job/owwCgfwE), [Technology](https://jobs.jobvite.com/aarete/job/oTPDgfwl) Intern positions are available. |
 |<del>Snap</del>| |  **Closed** |
 |<del>Quip</del> | | **Closed** |
-|[Chime](https://www.chime.com/job-openings/?gh_jid=5515397002&utm_campaign=Startup%20Search&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-9XhX9zcu2JolU8VqdOy_qmxiRt8FWMVz94kH84te5zkRWsEAp88eiRckaLlfvHb-vUmnGA)| San Francisco, CA | SWE, Analytics Positions | 
+|<del>Chime</del>| | **Closed** | 
 | <del> Urban Outfitters </del> |  | **Closed** |
 |[Innovative Systems](http://career.innovativesystems.com/apply/pEU3iGangp/InternCoopSUMMER-2022-Software-Engineering) | Pittsburgh, PA | Software Engineering Intern |
 |[OnPrem Solution Partners](https://jobs.lever.co/onprem.com/2dd1038b-211e-4caf-b9fd-f66ac6bb6117) | Austin, TX | Engineering Intern. Applicants for employment in the US must have work authorization that does not now or in the future require sponsorship of a visa for employment authorization in the United States. |
@@ -202,8 +202,8 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |<del>Amazon Robotics</del> | | **Closed** |
 |<del>Wells Fargo</del> | | **Closed** |
 |[DataBricks](https://databricks.com/company/careers/open-positions/job?gh_jid=5488591002) | San Francisco, CA | Software Engineer Intern |
-|[Pinterest](https://www.pinterestcareers.com/job/13690769/software-engineering-intern-usa-seattle-wa/)| Seattle, Palo Alto, San Francisco | Software Engineer Intern |
-|[Plaid](https://plaid.com/careers/openings/all-departments/all-locations/?role=software%20engineer%20-%20intern) | New York, San Francisco, Salt Lake City | Software Engineer - Intern |
+|<del>Pinterest</del>| | **Closed** |
+|<del>Plaid</del> | | **Closed** |
 |[Mastercard](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/40/refreshFacet/318c8bb6f553100021d223d9780d30be) | New York, Virginia, Missouri | Software Engineer Intern. Must be authorized to work in the U.S. on a permanent basis without requiring sponsorship. |
 |<del>Bloomberg</del>| | **Closed** |
 |[Twilio](https://boards.greenhouse.io/twilio/jobs/3409885)| Various | Software Engineer Intern |
@@ -230,7 +230,7 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[Chick-fil-a](https://careers-chickfila.icims.com/jobs/search?ss=1&searchKeyword=Intern) | Atlanta, GA | [Digital Transformation and Technology](https://careers-chickfila.icims.com/jobs/10180/2022-digital-transformation-and-technology-summer-intern/job), [Software Engineering](https://careers-chickfila.icims.com/jobs/10181/2022-software-engineering-summer-intern/job?in_iframe=1) Intern positions are available. |
 |[AvidXchange](https://us60.dayforcehcm.com/CandidatePortal/en-us/avidxchange?q=Intern) | Charlotte, NC | [Software Engineering](https://us60.dayforcehcm.com/CandidatePortal/en-us/avidxchange/Posting/View/5047), [Information Security](https://us60.dayforcehcm.com/CandidatePortal/en-us/avidxchange/Posting/View/5046) and other Intern positions are available. |
 |[ZS Associates](https://jobs.zs.com/jobs/10083?lang=en-us) | Various | [Business Technology Solutions Associate - Intern](https://jobs.zs.com/jobs/10083?lang=en-us). Accepts OPT/CPT and will sponsor a work visa in the future. |
-|[Deutsche Bank](https://db.recsolu.com/external/requisitions/746pSGx3ZsPZq4Y1Ve8vig) | NYC | Analyst Internship Programme - Technology, Data and Innovation. Accepts CPT and OPT and will sponsor a work visa in the future. |
+|<del>Deutsche Bank</del> | | **Closed** |
 |<del> General Dynamics Mission Systems </del>| | **Closed** |
 |<del>Rivian</del> | | **Closed** |
 |[DoorDash](https://boards.greenhouse.io/doordash/jobs/3393160?gh_jid=3393160) | Various | Software Engineer Intern |
