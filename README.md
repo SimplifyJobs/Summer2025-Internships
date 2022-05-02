@@ -35,7 +35,7 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[Expensify](https://we.are.expensify.com/apply#workwithus) | Anywhere | Full stack software engineering internship - remote work and visa sponsorship available. |
 |[Motional](https://motional.com/careers) | Boston, Pittsburgh, Santa Monica, Singapore | A self driving car company.|
 |<del>Gusto</del> | | **Closed** |
-|[Hudson River Trading](https://www.hudsonrivertrading.com/careers/job/?gh_jid=3015374) | NYC, Chicago, London, Austin | SWE, [Algo Internship](https://www.hudsonrivertrading.com/careers/job/?gh_jid=3008603) |
+|<del>Hudson River Trading</del> | | **Closed** |
 |<del>Bridgewater Associates</del> | | **Closed** |
 |<del>Credit Suisse</del> | | **Closed** |
 |<del>BlackStone</del> | | **Closed** |
@@ -51,14 +51,14 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |<del>Audible</del> | |  **Closed** |
 |[KeyBank](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/1/refreshFacet/318c8bb6f553100021d223d9780d30be?source=Keydotcom) | Various | [Enterprise Security](https://keybank.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Plymouth-Meeting-PA/Summer-2022-Key-Technology--Operations---Services--Internship--Enterprise-Security-Track-_R-755?source=Keydotcom), [Enterprise Payments](https://keybank.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Cleveland-OH/XMLNAME-2022-Enterprise-Payments-Summer--Intern_R-743?source=Keydotcom), [Technology](https://keybank.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Buffalo-NY/Summer-2022-Key-Technology--Operations---Services--Internship--Technology-Track-_R-751?source=Keydotcom) and other Intern positions are available. Some positions may NOT be eligible for employment visa sponsorship for non-U.S. citizens. |
 |[General Motors](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/0/refreshFacet/318c8bb6f553100021d223d9780d30be)| Warren, MI | [Hardware Engineering](https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/Global-Product-Development---Hardware-Engineering-Internship-Program_JR-000045485), [Software Engineering](https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/Global-Product-Development---Software-Engineering-Internship-Program_JR-000045488) Intern positions are available. Please only apply if you do not need sponsorship to work in the United States now or in the future. We are unable to consider candidates who require sponsorship. |
-|[Susquehanna (SIG)](https://careers.sig.com/job/5439/Software-Engineering-Internship-Program-Summer-2022) | Bala Cynwyd, PA | Software Engineering Internship. Visa sponsorship is available for this position. |
-|[Five Rings](https://fiverings.avature.net/careers/SearchJobs/?splitLocationSearch_country=233&524=534&524_format=523&listFilterMode=1&folderRecordsPerPage=6&) | NYC | Software, Trading, Research Internships |
+|<del>Susquehanna (SIG)</del> | | **Closed** |
+|<del>Five Rings</del> | | **Closed** |
 |[Akuna Capital](https://akunacapital.com/careers?&experience=intern&search_term=#careers) | Chicago, Boston | Software, Trading, Quant Internships. Legal authorization to work in the U.S. is required. |
 |[D. E. Shaw](https://www.deshaw.com/careers/software-developer-intern-new-york-4239) | NYC | Software, Trading, Quant, System Internships |
 |<del>Toyota Connected</del> | Plano, Texas | **Closed**
 |[Vanguard](https://www.vanguardjobs.com/job-search-results/?keyword=college%20to%20corporate&level[]=Student%20%26%20Recent%20Graduates) | Various | App Dev, Security & IT internships
-|[Salesforce](https://salesforce.wd1.myworkdayjobs.com/en-US/Futureforce_Internships/job/California---San-Francisco/Summer-2022-Intern---Software-Engineer_JR100559?d=cta-summer-view-sjb-1)| Various | Software Engineering Intern |
-|[RBC Capital Markets](https://jobs.rbc.com/ca/en/job/RBCAA0088327043EXTERNALENCA/2022-Technology-Summer-Analyst-Program) | NYC | |
+|<del>Salesforce</del>| | **Closed** |
+|<del>RBC Capital Markets</del> | | **Closed** |
 |[Arrowstreet Capital](https://arrowstreetcapital.wd5.myworkdayjobs.com/Arrowstreet/0/refreshFacet/318c8bb6f553100021d223d9780d30be) | Boston, MA | Quant |
 |<del>Asana</del> | | **Closed** |
 |<del>Target</del> | | **Closed** |
@@ -67,7 +67,7 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[Apple](https://jobs.apple.com/en-us/details/200253195/software-engineering-internship?team=STDNT) | Cupertino, CA | [ML/AI Internship](https://jobs.apple.com/en-us/details/200253211/machine-learning-ai-internship?team=STDNT) |
 |[Meta](https://www.facebook.com/careers/v2/jobs/946116176191468/)| Various| SWE Internship/Co-op, [FBU](https://www.facebook.com/careers/FBUEngineering) |
 |[Goldman Sachs](https://www.goldmansachs.com/careers/students/programs/americas/summer-analyst-program.html)| Various| Summer Analyst Program |
-|[BlackRock](https://blackrock.tal.net/vx/lang-en-GB/mobile-0/brand-3/xf-362ee664293b/candidate/so/pm/1/pl/1/opp/4821-Summer-Analyst-Program-Americas/en-GB)| Various| Summer Analyst Program Note: Requires CodeVue (Programming Test + Video recording) submission up to 96 hours after application submission. |
+|<del>BlackRock</del>| | **Closed** |
 |[Bank of America](https://bankcampuscareers.tal.net/vx/brand-4/candidate/so/pm/1/pl/1/opp/7140-Global-Technology-Summer-Analyst-Program-2022/en-GB)| Various| **Closed** |
 |[Two Sigma](https://careers.twosigma.com/careers/JobDetail?jobId=8471) | Houston, NYC | SWE Internship and Quant Research roles. |
 | <del> Cigna </del> |  | **Closed** |
@@ -232,7 +232,7 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[ZS Associates](https://jobs.zs.com/jobs/10083?lang=en-us) | Various | [Business Technology Solutions Associate - Intern](https://jobs.zs.com/jobs/10083?lang=en-us). Accepts OPT/CPT and will sponsor a work visa in the future. |
 |[Deutsche Bank](https://db.recsolu.com/external/requisitions/746pSGx3ZsPZq4Y1Ve8vig) | NYC | Analyst Internship Programme - Technology, Data and Innovation. Accepts CPT and OPT and will sponsor a work visa in the future. |
 |<del> General Dynamics Mission Systems </del>| | **Closed** |
-|[Rivian](https://boards.greenhouse.io/rivian) | Palo Alto, CA | Software Engineering Intern |
+|<del>Rivian</del> | | **Closed** |
 |[DoorDash](https://boards.greenhouse.io/doordash/jobs/3393160?gh_jid=3393160) | Various | Software Engineer Intern |
 |[Mr. Cooper Group](https://careers.mrcooper.com/search/jobs?q=intern) | Dallas, TX | Various Intern Roles. Software Engineer, Devops, Data, Machine Learning. Will not sponsor work visas for some positions. |
 |[UIPath](https://www.uipath.com/company/careers/americas/bellevue/engineering-development/software-engineer-intern)| Bellevue, WA | RPA Developer |
@@ -252,7 +252,7 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[Ford Motor Company](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25385&siteid=5311&PageType=JobDetails&jobid=548716#jobDetails=548716_5311) | Dearborn | Information Technology Software Engineering Intern. Search `"Intern"` as many different positions are there. |
 |<del>DraftKings</del> | | **Closed** |
 |<del> CrowdStrike </del> | | **Closed**|
-|[Riot Games](https://www.riotgames.com/en/work-with-us/job/3385811/software-engineering-intern-los-angeles-usa) | Los Angeles, CA| |
+|<del>Riot Games</del> | | **Closed** |
 |[John Hopkins APL](https://prdtss.jhuapl.edu/StudentsandRecentGraduates/jobs/2022-technical-college-internship-program-1875) | Laurel, MD | 2022 Technical College Internship Program. US citizenship is required for security clearance. |
 |[Sealed Air Corporation](https://jobs.sealedair.com/search/?createNewAlert=false&q=Summer+2022&locationsearch=United+States) | Charlotte, NC | Software Engineering Intern, Applications Engineering, Data Science Engineering and other Intern positions are available. Some positions require applicant to be permanent US resident or US Citizen or National. |
 |[Ampere](https://amperecomputing.com/apply/) | Various | Software Engineer Intern, Hardware Engineering Intern. |
