@@ -32,6 +32,7 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 
 | Name  |  Location |  Notes |
 |---|---|-------------|
+|[Teachers Pay Teachers](https://boards.greenhouse.io/teacherspayteachers/jobs/4105276) | NYC or remote | Full stack software engineering internship - remote OK
 |[Expensify](https://we.are.expensify.com/apply#workwithus) | Anywhere | Full stack software engineering internship - remote work and visa sponsorship available. |
 |[Motional](https://motional.com/careers) | Boston, Pittsburgh, Santa Monica, Singapore | A self driving car company.|
 |<del>Gusto</del> | | **Closed** |
