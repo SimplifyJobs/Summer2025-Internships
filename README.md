@@ -39,3 +39,4 @@ Make a [pull request](https://github.com/susam/gitpr#create-pull-request) to hel
 * [owini](https://github.com/owini)
 * [GintasS](https://github.com/gintass)
 * [EParmar18](https://github.com/EParmar18)
+* [itscrystalli](https://github.com/itscrystalli)
