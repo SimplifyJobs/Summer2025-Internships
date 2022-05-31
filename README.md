@@ -31,7 +31,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 |[Greylock Techfair](https://cvent.me/RLRe57?RefId=refWC2021) | Virtual | Not an internship but a great career fair, Learn more [here](https://greylock.com/university-programs/)!|
 |[AQR](https://careers.aqr.com/jobs/university-open-positions/greenwich-ct/2023-summer-internship-express-interest/2194349?gh_jid=2194349#/) | Greenwich, CT | |
 |[Credit Suisse](https://tas-creditsuisse.taleo.net/careersection/campus/moresearch.ftl)|Raleigh, NC; NYC, NY| Search for `2023 Americas Technology Summer Analyst`|
-
+|[Amazon Robotics](https://www.amazon.jobs/en/jobs/1999770/amazon-robotics-software-development-engineer-sde-intern-summer-2023) | Greater Boston, MA | |
 
 **We love our contributors ❤️❤️**
 
