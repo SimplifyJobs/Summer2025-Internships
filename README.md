@@ -408,7 +408,7 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[Mark43](https://mark43.com/list-job/?gh_jid=1335587)| New York, NY | Software Engineering Intern |
 | <del> Lucid </del> | | **Closed** |
 | <del> Volley </del> | | **Closed** |
-|[Streamforge]([https://boards.greenhouse.io/teacherspayteachers/jobs/4105276](https://angel.co/l/2vvkF3)) | Remote | Videogames + Influencer Marketing + Twitch Streaming + YouTubers / Software Engineer Position + Social Media Position |
+|[Streamforge](https://angel.co/l/2vvkF3) | Remote | Videogames + Influencer Marketing + Twitch Streaming + YouTubers / [Software Engineer Position](https://angel.co/l/2vvkF3) & [Social Media Position](https://angel.co/l/2wM3eh) |
 
 **We love our contributors ❤️❤️**
 
