@@ -8,7 +8,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 		Thanks for a great two years!
 	</h3>
 	<p>
-		<img src="https://api.star-history.com/svg?repos=pittcsc/Summer2022-Internships&type=Date" width="600"  alt="Star History">
+		<img src="https://api.star-history.com/svg?repos=pittcsc/Summer2022-Internships&type=Date" width="500"  alt="Star History">
 	</p>
 	<sub><i>Want to reach millions of CS students? Email pittcsc@gmail.com for advertisement opportunities!</i></sub>
 </div>
