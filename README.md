@@ -33,6 +33,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 |[Credit Suisse](https://tas-creditsuisse.taleo.net/careersection/campus/moresearch.ftl)|Raleigh, NC; NYC, NY| Search for `2023 Americas Technology Summer Analyst`|
 |[Citi](https://jobs.citi.com/job/new-york/quantitative-analysis-summer-analyst-north-america-2023/287/28553736048)|New York, New York| Quantitative Analysis|
 |[Amazon Robotics](https://www.amazon.jobs/en/jobs/1999770/amazon-robotics-software-development-engineer-sde-intern-summer-2023) | Greater Boston, MA | |
+|[SIG](https://careers.sig.com/job/6289/Trading-Intern-Summer-2023-Expression-of-Interest) | Philadelphia, PA | Quant Trading Expression of Interest|
 
 **We love our contributors ❤️❤️**
 
