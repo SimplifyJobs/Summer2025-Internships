@@ -25,7 +25,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 
 | Name  |  Location |  Notes |
 |---|---|-------------|
-|[Optiver](https://www.optiver.com/working-at-optiver/career-opportunities/5881273002/) | Chicago, IL | Interest |
+|[Optiver](https://www.optiver.com/working-at-optiver/career-opportunities/5881273002/) | Europe (Amsterdam) | Interest |
 |[Bridgewater Associates](https://boards.greenhouse.io/bridgewater89/jobs/4076389002) | Westport, CT | |
 |[Five Rings](https://fiverings.avature.net/careers/FolderDetail/New-York-New-York-United-States-Quantitative-Trading-Intern-Summer-2023/586) | NYC, NY | |
 |[Greylock Techfair](https://cvent.me/RLRe57?RefId=refWC2021) | Virtual | Not an internship but a great career fair, Learn more [here](https://greylock.com/university-programs/)!|
@@ -40,3 +40,4 @@ Make a [pull request](https://github.com/susam/gitpr#create-pull-request) to hel
 * [GintasS](https://github.com/gintass)
 * [EParmar18](https://github.com/EParmar18)
 * [itscrystalli](https://github.com/itscrystalli)
+* [gryder8](https://github.com/gryder8/) 
