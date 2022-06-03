@@ -51,6 +51,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 |[Amazon Robotics](https://www.amazon.jobs/en/jobs/1999770/amazon-robotics-software-development-engineer-sde-intern-summer-2023) | Greater Boston, MA | |
 |[SIG](https://careers.sig.com/job/6289/Trading-Intern-Summer-2023-Expression-of-Interest) | Philadelphia, PA | Quant Trading Expression of Interest|
 |[Morgan Stanley](https://morganstanley.tal.net/vx/candidate/apply/12954) | NYC, NY | Technology Summer Analyst |
+|[Naval Nuclear Lab](https://navalnuclearlab.energy.gov/job-search/job-detail/?job-id=28984)  | West Mifflin, PA | Software Engineering |                                                                           
 
 **We love our contributors ❤️❤️**
 
@@ -60,3 +61,4 @@ Make a [pull request](https://github.com/susam/gitpr#create-pull-request) to hel
 * [EParmar18](https://github.com/EParmar18)
 * [itscrystalli](https://github.com/itscrystalli)
 * [saimaduri](https://github.com/saimaduri)
+* [JacksonLeb](https://github.com/JacksonLeb)
