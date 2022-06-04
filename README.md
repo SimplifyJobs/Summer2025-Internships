@@ -29,8 +29,6 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 
 ---
 
----
-
 :warning: **This repository is only for internships/co-ops in the United States, Canada or for Remote positions:earth_americas:.**
 
 🧠 For tips on the internship process check out the [Zero to Offer](https://www.pittcs.wiki/zero-to-offer) 🧠
