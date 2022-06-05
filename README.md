@@ -49,6 +49,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 |[Amazon Robotics](https://www.amazon.jobs/en/jobs/1999770/amazon-robotics-software-development-engineer-sde-intern-summer-2023) | Greater Boston, MA | |
 |[SIG](https://careers.sig.com/job/6289/Trading-Intern-Summer-2023-Expression-of-Interest) | Philadelphia, PA | Quant Trading Expression of Interest|
 |[Morgan Stanley](https://morganstanley.tal.net/vx/candidate/apply/12954) | NYC, NY | Technology Summer Analyst |
+|[Volvo](https://xjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=25079&siteid=5171&AReq=122435BR&codes=LinkedIn#jobDetails=731164_5171) | Flexible | |
                                                                         
 
 **We love our contributors ❤️❤️**
