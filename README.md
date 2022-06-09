@@ -54,10 +54,9 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Optiver](https://www.optiver.com/working-at-optiver/career-opportunities/5674025002/)                                                                                       | Chicago, IL                          | Interest                                                                                                 |
 | [SIG](https://careers.sig.com/job/6289/Trading-Intern-Summer-2023-Expression-of-Interest)                                                                                    | Philadelphia, PA                     | Quant Trading Expression of Interest                                                                     |
 | [Volvo](https://xjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=25079&siteid=5171&AReq=122435BR&codes=LinkedIn#jobDetails=731164_5171) | Flexible                             |                                                                                                          |
+| [Apple](https://jobs.apple.com/en-us/details/200389054/software-engineering-internship?team=SDNT)                                                                            | Cupertino, CA                                  | SWE                                                                                                   |
 | [Apple](https://jobs.apple.com/en-us/details/200389054/software-engineering-internship?team=STDNT)                                                                           |
-Cupertino, CA                        | SWE                                                                                                      |
-| [Apple](https://jobs.apple.com/en-us/details/200389042/hardware-technology-internship?team=STDNT)                                                                           |
-Cupertino, CA                        | Hardware   
+Cupertino, CA                        | Hardware                                                                                                     |
 
 
                                                                         
