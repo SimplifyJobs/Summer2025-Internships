@@ -52,6 +52,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Greylock Techfair](https://cvent.me/RLRe57?RefId=refWC2021)                                                                                                                 | Virtual                              | Not an internship but a great career fair, Learn more [here](https://greylock.com/university-programs/)! |
 | [Morgan Stanley](https://morganstanley.tal.net/vx/candidate/apply/12954)                                                                                                     | NYC, NY                              | Technology Summer Analyst                                                                                |
 | [Optiver](https://www.optiver.com/working-at-optiver/career-opportunities/5674025002/)                                                                                       | Chicago, IL                          | Interest                                                                                                 |
+| [Putnam Investments](https://putnam.referrals.selectminds.com/college/jobs/software-engineer-summer-internship-for-summer-2023-665) | Boston, MA  |
 | [SIG](https://careers.sig.com/job/6289/Trading-Intern-Summer-2023-Expression-of-Interest)                                                                                    | Philadelphia, PA                     | Quant Trading Expression of Interest                                                                     |
 | [Volvo](https://xjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=25079&siteid=5171&AReq=122435BR&codes=LinkedIn#jobDetails=731164_5171) | Flexible                             |                                                                                                          |
 | [Apple](https://jobs.apple.com/en-us/details/200389054/software-engineering-internship?team=SDNT)                                                                            | Cupertino, CA                                  | SWE                                                                                                   |
@@ -71,3 +72,4 @@ Make a [pull request](https://github.com/susam/gitpr#create-pull-request) to hel
 * [JacksonLeb](https://github.com/JacksonLeb)
 * [tailaiwang](https://github.com/tailaiwang/)
 * [siddhantdubey](https://github.com/siddhantdubey)
+* [Verse](https://github.com/Verse1)
