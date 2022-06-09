@@ -41,6 +41,8 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ | -------------------------------------------------------------------------------------------------------- |
 | [Akuna Capital](https://akunacapital.com/careers?&experience=intern&search_term=#careers)                                                                                    | Chicago, IL; Austin, TX; Boston, MA | Quant Trading, SWE                                                                                       |
 | [Amazon Robotics](https://www.amazon.jobs/en/jobs/1999770/amazon-robotics-software-development-engineer-sde-intern-summer-2023)                                              | Greater Boston, MA                   |                                                                                                          |
+| [Apple](https://jobs.apple.com/en-us/details/200389054/software-engineering-internship?team=SDNT)                                                                            | Cupertino, CA                                  | SWE                                                                                                   |
+| [Apple](https://jobs.apple.com/en-us/details/200389042/hardware-technology-internship?team=STDNT)                                                                           |Cupertino, CA                        | Hardware                                                                                                     |
 | [AQR](https://careers.aqr.com/jobs/university-open-positions/greenwich-ct/2023-summer-internship-express-interest/2194349?gh_jid=2194349#/)                                  | Greenwich, CT                        |                                                                                                          |
 | [Bridgewater Associates](https://boards.greenhouse.io/bridgewater89/jobs/4076389002)                                                                                         | Westport, CT                         |                                                                                                          |
 | [Capstone Investment Advisors](https://www.linkedin.com/jobs/view/2023-summer-internship-software-engineer-nyc-at-capstone-investment-advisors-3105833413/)                                                             | NYC, NY                              | SWE
@@ -55,12 +57,9 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Putnam Investments](https://putnam.referrals.selectminds.com/college/jobs/software-engineer-summer-internship-for-summer-2023-665) | Boston, MA  |
 | [SIG](https://careers.sig.com/job/6289/Trading-Intern-Summer-2023-Expression-of-Interest)                                                                                    | Philadelphia, PA                     | Quant Trading Expression of Interest                                                                     |
 | [Volvo](https://xjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=25079&siteid=5171&AReq=122435BR&codes=LinkedIn#jobDetails=731164_5171) | Flexible                             |                                                                                                          |
-| [Apple](https://jobs.apple.com/en-us/details/200389054/software-engineering-internship?team=SDNT)                                                                            | Cupertino, CA                                  | SWE                                                                                                   |
-| [Apple](https://jobs.apple.com/en-us/details/200389042/hardware-technology-internship?team=STDNT)                                                                           |Cupertino, CA                        | Hardware                                                                                                     |
 
 
-                                                                        
-
+                                                                       
 **We love our contributors ❤️❤️**
 
 Make a [pull request](https://github.com/susam/gitpr#create-pull-request) to help contribute.
