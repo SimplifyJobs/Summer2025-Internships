@@ -45,6 +45,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Apple](https://jobs.apple.com/en-us/details/200389042/hardware-technology-internship?team=STDNT)                                                                           |Cupertino, CA                        | Hardware                                                                                                     |
 | [AQR](https://careers.aqr.com/jobs/university-open-positions/greenwich-ct/2023-summer-internship-express-interest/2194349?gh_jid=2194349#/)                                  | Greenwich, CT                        |                                                                                                          |
 | [Bridgewater Associates](https://boards.greenhouse.io/bridgewater89/jobs/4076389002)                                                                                         | Westport, CT                         |                                                                                                          |
+| [Bristol Myers Squibb](https://careers.bms.com/jobs/R1546751?lang=en-us)                                                                                         | Tampa, FL                         |  Data Science                          								|
 | [Capstone Investment Advisors](https://www.linkedin.com/jobs/view/2023-summer-internship-software-engineer-nyc-at-capstone-investment-advisors-3105833413/)                                                             | NYC, NY                              | SWE
 | [Citadel](https://www.citadel.com/careers/details/equities-citadel-associate-program-summer-internship-2023-us/)                                                             | NYC, NY                              | Equities Research (SWE and Trader Roles open July)                                                       |
 | [Citi](https://jobs.citi.com/job/new-york/quantitative-analysis-summer-analyst-north-america-2023/287/28553736048)                                                           | New York, New York                   | Quantitative Analysis                                                                                    |
@@ -76,3 +77,4 @@ Make a [pull request](https://github.com/susam/gitpr#create-pull-request) to hel
 * [Verse](https://github.com/Verse1)
 * [chrsdavis](https://github.com/chrsdavis)
 * [KartavyaSharma](https://github.com/KartavyaSharma)
+* [teetajp](https://github.com/teetajp)
