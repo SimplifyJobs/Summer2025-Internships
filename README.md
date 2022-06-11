@@ -54,6 +54,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Goldman Sachs](https://www.goldmansachs.com/careers/students/programs/americas/summer-analyst-program.html)                                                                 | Global                               | Summer Analyst (SWE Roles open July 1st)                                                                 |
 | [Greylock Techfair](https://cvent.me/RLRe57?RefId=refWC2021)                                                                                                                 | Virtual                              | Not an internship but a great career fair, Learn more [here](https://greylock.com/university-programs/)! |
 | [Grindr](https://boards.greenhouse.io/grindr/jobs/4245049) | Remote                               | Rising Senior/Masters. Web.                                                                              |
+| [Lime](https://jobs.lever.co/lime/3b0ca0f8-3087-4062-b462-2ed967bc36c8) | San Francisco, CA                               | SWE, Rising Senior                                                                              |
 | [Morgan Stanley](https://morganstanley.tal.net/vx/candidate/apply/12954)                                                                                                     | NYC, NY                              | Technology Summer Analyst                                                                                |
 | [Optiver](https://www.optiver.com/working-at-optiver/career-opportunities/5674025002/)                                                                                       | Chicago, IL                          | Interest                                                                                                 |
 | [Putnam Investments](https://putnam.referrals.selectminds.com/college/jobs/software-engineer-summer-internship-for-summer-2023-665) | Boston, MA  |
@@ -75,4 +76,6 @@ Make a [pull request](https://github.com/susam/gitpr#create-pull-request) to hel
 * [siddhantdubey](https://github.com/siddhantdubey)
 * [Verse](https://github.com/Verse1)
 * [chrsdavis](https://github.com/chrsdavis)
+* [hwuiwon](https://github.com/hwuiwon)
 * [KartavyaSharma](https://github.com/KartavyaSharma)
+
