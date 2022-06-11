@@ -49,6 +49,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Citadel](https://www.citadel.com/careers/details/equities-citadel-associate-program-summer-internship-2023-us/)                                                             | NYC, NY                              | Equities Research (SWE and Trader Roles open July)                                                       |
 | [Citi](https://jobs.citi.com/job/new-york/quantitative-analysis-summer-analyst-north-america-2023/287/28553736048)                                                           | New York, New York                   | Quantitative Analysis                                                                                    |
 | [Credit Suisse](https://tas-creditsuisse.taleo.net/careersection/campus/moresearch.ftl)                                                                                      | Raleigh, NC; NYC, NY                 | Search for `2023 Americas Technology Summer Analyst`                                                     |
+| [D. E. Shaw & Co.](https://www.deshaw.com/careers/software-developer-intern-new-york-4470)																					| New York City, NY | Quant Development, SWE, Technologist Intern
 | [Five Rings](https://fiverings.avature.net/careers/FolderDetail/New-York-New-York-United-States-Quantitative-Trading-Intern-Summer-2023/586)                                 | NYC, NY                              |                                                                                                          |
 | [Goldman Sachs](https://www.goldmansachs.com/careers/students/programs/americas/summer-analyst-program.html)                                                                 | Global                               | Summer Analyst (SWE Roles open July 1st)                                                                 |
 | [Greylock Techfair](https://cvent.me/RLRe57?RefId=refWC2021)                                                                                                                 | Virtual                              | Not an internship but a great career fair, Learn more [here](https://greylock.com/university-programs/)! |
@@ -76,3 +77,5 @@ Make a [pull request](https://github.com/susam/gitpr#create-pull-request) to hel
 * [Verse](https://github.com/Verse1)
 * [chrsdavis](https://github.com/chrsdavis)
 * [hwuiwon](https://github.com/hwuiwon)
+* [KartavyaSharma](https://github.com/KartavyaSharma)
+
