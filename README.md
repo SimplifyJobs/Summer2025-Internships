@@ -50,18 +50,19 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Citadel](https://www.citadel.com/careers/details/equities-citadel-associate-program-summer-internship-2023-us/)                                                             | NYC, NY                              | Equities Research (SWE and Trader Roles open July)                                                       |
 | [Citi](https://jobs.citi.com/job/new-york/quantitative-analysis-summer-analyst-north-america-2023/287/28553736048)                                                           | New York, New York                   | Quantitative Analysis                                                                                    |
 | [Credit Suisse](https://tas-creditsuisse.taleo.net/careersection/campus/moresearch.ftl)                                                                                      | Raleigh, NC; NYC, NY                 | Search for `2023 Americas Technology Summer Analyst`                                                     |
-| [D. E. Shaw & Co.](https://www.deshaw.com/careers/software-developer-intern-new-york-4470)																					| New York City, NY | Quant Development, SWE, Technologist Intern
+| [D. E. Shaw & Co.](https://www.deshaw.com/careers/internships)													       | New York City, NY | [Software Development](https://www.deshaw.com/careers/software-developer-intern-new-york-4470) (Front-Office SWE), [Systems Technologist](https://www.deshaw.com/careers/systems-technologist-intern-new-york-4484) (Back-Office SWE), Trading, SysAdmin, etc roles also available.
 | [Five Rings](https://fiverings.avature.net/careers/FolderDetail/New-York-New-York-United-States-Quantitative-Trading-Intern-Summer-2023/586)                                 | NYC, NY                              |                                                                                                          |
 | [Futureforce Tech Summit](https://salesforce.wd1.myworkdayjobs.com/en-US/Futureforce_Internships/job/California---San-Francisco/Futureforce-Tech-Equality-Summit---Software-Engineer-Internship-for-Summer-2023_JR153733-4)                                 | San Francisco, CA                              |  Career fair for Salesforce, Slack, and Tableau (Deadline is 17 June 2022)                                                                                           |
 | [Goldman Sachs](https://www.goldmansachs.com/careers/students/programs/americas/summer-analyst-program.html)                                                                 | Global                               | Summer Analyst (SWE Roles open July 1st)                                                                 |
 | [Greylock Techfair](https://cvent.me/RLRe57?RefId=refWC2021)                                                                                                                 | Virtual                              | Not an internship but a great career fair, Learn more [here](https://greylock.com/university-programs/)! |
 | [Grindr](https://boards.greenhouse.io/grindr/jobs/4245049) | Remote                               | Rising Senior/Masters. Web.                                                                              |
+| [Lime](https://jobs.lever.co/lime/3b0ca0f8-3087-4062-b462-2ed967bc36c8) | San Francisco, CA                               | SWE, Rising Senior                                                                              |
 | [Morgan Stanley](https://morganstanley.tal.net/vx/candidate/apply/12954)                                                                                                     | NYC, NY                              | Technology Summer Analyst                                                                                |
 | [Optiver](https://www.optiver.com/working-at-optiver/career-opportunities/5674025002/)                                                                                       | Chicago, IL                          | Interest                                                                                                 |
 | [Putnam Investments](https://putnam.referrals.selectminds.com/college/jobs/software-engineer-summer-internship-for-summer-2023-665) | Boston, MA  |
 | [SIG](https://careers.sig.com/job/6289/Trading-Intern-Summer-2023-Expression-of-Interest)                                                                                    | Philadelphia, PA                     | Quant Trading Expression of Interest                                                                     |
 | [Volvo](https://xjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=25079&siteid=5171&AReq=122435BR&codes=LinkedIn#jobDetails=731164_5171) | Flexible                             |                                                                                                          |
-
+| [Ge Appliances](https://careers.geappliances.com/jobs/8799376-summer-2023-information-technology-intern?bid=370&tm_company=44906&tm_event=view&tm_job=REQ-11837)      | Louisville, KY  | IT Intern    |                                                                                           |
 
                                                                        
 **We love our contributors ❤️❤️**
@@ -77,5 +78,8 @@ Make a [pull request](https://github.com/susam/gitpr#create-pull-request) to hel
 * [siddhantdubey](https://github.com/siddhantdubey)
 * [Verse](https://github.com/Verse1)
 * [chrsdavis](https://github.com/chrsdavis)
+* [hwuiwon](https://github.com/hwuiwon)
 * [KartavyaSharma](https://github.com/KartavyaSharma)
+* [adityaxdiwakar](https://github.com/adityaxdiwakar)
+* [rxiao8](https://github.com/rxiao8)
 * [teetajp](https://github.com/teetajp)
