@@ -58,6 +58,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Grindr](https://boards.greenhouse.io/grindr/jobs/4245049) | Remote                               | Rising Senior/Masters. Web.                                                                              |
 | [Iomaxis](https://www.clearancejobs.com/jobs/6504814/software-engineer-intern?utm_source=linkedin-cj-organic&utm_medium=jobfeed&utm_campaign=url&_ccid=1655348950763kci9hixse) | Arlington, VA | SWE |
 | [Lime](https://jobs.lever.co/lime/3b0ca0f8-3087-4062-b462-2ed967bc36c8) | San Francisco, CA                               | SWE, Rising Senior                                                                              |
+| [LinkedIn](https://www.linkedin.com/jobs/search/?currentJobId=3120059964&f_C=1337%2C39939%2C2587638%2C9202023%2C290903&geoId=92000000&keywords=intern) | Sunnyvale, CA (Hybrid)                               | SWE, UI, Mobile                                                                             |
 | [Morgan Stanley](https://morganstanley.tal.net/vx/candidate/apply/12954)                                                                                                     | NYC, NY                              | Technology Summer Analyst                                                                                |
 | [Optiver](https://www.optiver.com/working-at-optiver/career-opportunities/5674025002/)                                                                                       | Chicago, IL                          | Interest                                                                                                 |
 | [Procter & Gamble](https://www.pgcareers.com/job/cincinnati/information-technology-emerging-leaders-2023-internship-sophomore/936/12490612416)                                                                                                     | Cincinnati, OH                              | Information Technology
@@ -86,3 +87,4 @@ Make a [pull request](https://github.com/susam/gitpr#create-pull-request) to hel
 * [rxiao8](https://github.com/rxiao8)
 * [teetajp](https://github.com/teetajp)
 * [ziyue5](https://github.com/ziyue5)
+* [JodyZ0202](https://github.com/JodyZ0203)
