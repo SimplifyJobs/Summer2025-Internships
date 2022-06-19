@@ -67,6 +67,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Putnam Investments](https://putnam.referrals.selectminds.com/college/jobs/software-engineer-summer-internship-for-summer-2023-665) | Boston, MA  |
 | [SIG](https://careers.sig.com/job/6289/Trading-Intern-Summer-2023-Expression-of-Interest)                                                                                    | Philadelphia, PA                     | Quant Trading Expression of Interest                                                                     |
 | [Volvo](https://xjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=25079&siteid=5171&AReq=122435BR&codes=LinkedIn#jobDetails=731164_5171) | Flexible                             |                                                                                                          |
+| [Voloridge Investment Management](https://www.voloridge.com/join-our-team)                                                                                                     | South Florida                              | Quant Hedge Fund: Quant, SWE, & Finance roles    
 | [Ge Appliances](https://careers.geappliances.com/jobs/8799376-summer-2023-information-technology-intern?bid=370&tm_company=44906&tm_event=view&tm_job=REQ-11837)      | Louisville, KY  | IT Intern    |                                                                                           |
 
                                                                        
@@ -90,4 +91,5 @@ Make a [pull request](https://github.com/susam/gitpr#create-pull-request) to hel
 * [teetajp](https://github.com/teetajp)
 * [ziyue5](https://github.com/ziyue5)
 * [JodyZ0202](https://github.com/JodyZ0203)
+* [hhaney](https://github.com/hhaney)
 * [moalr](https://github.com/MohammedAl-Rasheed)
