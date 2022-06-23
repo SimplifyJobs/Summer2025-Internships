@@ -60,7 +60,6 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [John Deere](https://jobs.deere.com/job/Moline-IT-Software-Engineering-&-Cyber-Security-Summer-Intern-2023a-IL-61265/897788700/) | Moline, IL        | IT - Software Engineering & Cyber Security                                             |
 | [KeyBanks](https://keybank.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/401-Plymouth-Road-Suite-600-Plymouth-Meeting-PA/Summer-2023-Key-Technology--Operations---Services-Internship--Enterprise-Secruity-Track-_R-10996?codes=IND)      | Plymouth, PA  | Key Technology, Operations & Services Internship (Enterprise Security Track)   |                                                         |
 | [KPMG](https://www.kpmgcampus.com/campus/JobDetail?jobId=85891&utm_medium=%22mcloud-jobads%22&utm_campaign=&utm_content=Technology%20Assurance%20Audit%20Intern%20%7C%20Dallas%20Summer%202023&utm_term=85891&utm_source=Indeed&srcCat=Internet&specSrc=Indeed)      | Louisville, KY  | Technology Assurance Audit Intern    |                                                                                           |
-| [Lime](https://jobs.lever.co/lime/3b0ca0f8-3087-4062-b462-2ed967bc36c8) | San Francisco, CA                               | SWE, Rising Senior                                                                              |
 | [Morgan Stanley](https://morganstanley.tal.net/vx/candidate/apply/12954)                                                                                                     | NYC, NY                              | Technology Summer Analyst                                                                                |
 | [Mircosoft Neurodiversity Hiring Program](https://careers.microsoft.com/us/en/job/1374256/Neurodiversity-Hiring-Program-Intern-Opportunities-for-Students-Software-Engineer)	| Redmond, WA	| Software Engineer	| 
 | [NRO](https://nro.applytojob.com/apply/3JDdLgnQ4F/Summer-2023-NRO-Cadre-Student-Internship-Program) | Chantilly, VA | NRO Cadre Student Internship Program |
@@ -69,8 +68,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Putnam Investments](https://putnam.referrals.selectminds.com/college/jobs/software-engineer-summer-internship-for-summer-2023-665) | Boston, MA  |
 | [SIG](https://careers.sig.com/job/6289/Trading-Intern-Summer-2023-Expression-of-Interest)                                                                                    | Philadelphia, PA                     | Quant Trading Expression of Interest                                                                     |
 | [Volvo](https://xjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=25079&siteid=5171&AReq=122435BR&codes=LinkedIn#jobDetails=731164_5171) | Flexible                             |                                                                                                          |
-| [Voloridge Investment Management](https://www.voloridge.com/join-our-team)                                                                                                     | South Florida                              | Quant Hedge Fund: Quant, SWE, & Finance roles    
-
+| [Voloridge Investment Management](https://www.voloridge.com/join-our-team)| South Florida | Quant Hedge Fund: Quant, SWE, & Finance roles | 
                                                                        
 **We love our contributors ❤️❤️**
 
