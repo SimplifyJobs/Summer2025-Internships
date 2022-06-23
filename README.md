@@ -61,6 +61,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [KeyBanks](https://keybank.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/401-Plymouth-Road-Suite-600-Plymouth-Meeting-PA/Summer-2023-Key-Technology--Operations---Services-Internship--Enterprise-Secruity-Track-_R-10996?codes=IND)      | Plymouth, PA  | Key Technology, Operations & Services Internship (Enterprise Security Track)   |                                                         |
 | [KPMG](https://www.kpmgcampus.com/campus/JobDetail?jobId=85891&utm_medium=%22mcloud-jobads%22&utm_campaign=&utm_content=Technology%20Assurance%20Audit%20Intern%20%7C%20Dallas%20Summer%202023&utm_term=85891&utm_source=Indeed&srcCat=Internet&specSrc=Indeed)      | Louisville, KY  | Technology Assurance Audit Intern    |                                                                                           |
 | [Morgan Stanley](https://morganstanley.tal.net/vx/candidate/apply/12954)                                                                                                     | NYC, NY                              | Technology Summer Analyst                                                                                |
+| [Mircosoft Neurodiversity Hiring Program](https://careers.microsoft.com/us/en/job/1374256/Neurodiversity-Hiring-Program-Intern-Opportunities-for-Students-Software-Engineer)	| Redmond, WA	| Software Engineer	| 
 | [NRO](https://nro.applytojob.com/apply/3JDdLgnQ4F/Summer-2023-NRO-Cadre-Student-Internship-Program) | Chantilly, VA | NRO Cadre Student Internship Program |
 | [Optiver](https://www.optiver.com/working-at-optiver/career-opportunities/5674025002/)                                                                                       | Chicago, IL                          | Interest                                                                                                 |
 | [Procter & Gamble](https://www.pgcareers.com/job/cincinnati/information-technology-emerging-leaders-2023-internship-sophomore/936/12490612416)                                                                                                     | Cincinnati, OH                              | Information Technology
@@ -91,3 +92,4 @@ Make a [pull request](https://github.com/susam/gitpr#create-pull-request) to hel
 * [JodyZ0202](https://github.com/JodyZ0203)
 * [hhaney](https://github.com/hhaney)
 * [moalr](https://github.com/MohammedAl-Rasheed)
+* [BrotherOrange](https://github.com/BrotherOrange)
