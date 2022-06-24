@@ -68,8 +68,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [SIG](https://careers.sig.com/job/6289/Trading-Intern-Summer-2023-Expression-of-Interest)                                                                                    | Philadelphia, PA                     | Quant Trading Expression of Interest                                                                     |
 | [Volvo](https://xjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=25079&siteid=5171&AReq=122435BR&codes=LinkedIn#jobDetails=731164_5171) | Flexible                             |                                                                                                          |
 | [Voloridge Investment Management](https://www.voloridge.com/join-our-team)| South Florida | Quant Hedge Fund: Quant, SWE, & Finance roles | 
-| [Mircosoft](https://careers.microsoft.com/us/en/job/1374256/Neurodiversity-Hiring-Program-Intern-Opportunities-for-Students-Software-Engineer)	| Redmond, WA	| Neurodiversity Hiring Program Software Engineer	| 
-
+| [Microsoft](https://careers.microsoft.com/us/en/job/1374256/Neurodiversity-Hiring-Program-Intern-Opportunities-for-Students-Software-Engineer)	| Redmond, WA	| Neurodiversity Hiring Program Software Engineer	| 
 | [Cisco (Meraki)](https://jobs.cisco.com/jobs/ProjectDetail/Full-Stack-Software-Engineer-Intern-Summer-2023-Meraki/1368018?source=Cisco+Jobs+Career+Site&tags=CDC+SnNG+interview-tips) | San Francisco | Full Stack Software Engineer Intern |
 
 | [Amazon](https://www.amazon.jobs/en/jobs/2110678/software-development-engineer-internship-2023-us)                                                                           | Multiple Locations in United States                                | SDE Intern                                                                                                   |
