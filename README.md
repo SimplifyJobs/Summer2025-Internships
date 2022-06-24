@@ -59,6 +59,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Grindr](https://boards.greenhouse.io/grindr/jobs/4245049) | Remote                               | Rising Senior/Masters. Web.                                                                              |
 | [Iomaxis](https://www.clearancejobs.com/jobs/6504814/software-engineer-intern?utm_source=linkedin-cj-organic&utm_medium=jobfeed&utm_campaign=url&_ccid=1655348950763kci9hixse) | Arlington, VA | SWE |
 | [John Deere](https://jobs.deere.com/job/Moline-IT-Software-Engineering-&-Cyber-Security-Summer-Intern-2023a-IL-61265/897788700/) | Moline, IL        | IT - Software Engineering & Cyber Security                                             |
+| [JPMorgan Chase Bank](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210231155/) | New York, NY        | Corporate & Investment Bank Markets Summer Analyst Program - e-Trading (Deadline: 09/30/2022)        |
 | [KeyBanks](https://keybank.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/401-Plymouth-Road-Suite-600-Plymouth-Meeting-PA/Summer-2023-Key-Technology--Operations---Services-Internship--Enterprise-Secruity-Track-_R-10996?codes=IND)      | Plymouth, PA  | Key Technology, Operations & Services Internship (Enterprise Security Track)   |                                                         |
 | [KPMG](https://www.kpmgcampus.com/campus/JobDetail?jobId=85891&utm_medium=%22mcloud-jobads%22&utm_campaign=&utm_content=Technology%20Assurance%20Audit%20Intern%20%7C%20Dallas%20Summer%202023&utm_term=85891&utm_source=Indeed&srcCat=Internet&specSrc=Indeed)      | Louisville, KY  | Technology Assurance Audit Intern    |                                                                                           |
 | [Morgan Stanley](https://morganstanley.tal.net/vx/candidate/apply/12954)                                                                                                     | NYC, NY                              | Technology Summer Analyst                                                                                |
@@ -95,3 +96,4 @@ Make a [pull request](https://github.com/susam/gitpr#create-pull-request) to hel
 * [moalr](https://github.com/MohammedAl-Rasheed)
 * [BrotherOrange](https://github.com/BrotherOrange)
 * [gsnsg](https://github.com/gsnsg)
+* [chen0gao](https://github.com/chen0gao)
