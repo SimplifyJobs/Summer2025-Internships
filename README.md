@@ -73,27 +73,9 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Amazon](https://www.amazon.jobs/en/jobs/2110678/software-development-engineer-internship-2023-us)                                                                           | Multiple Locations in United States                                | SDE Intern                                                                                                   |
 
 
-**We love our contributors ❤️❤️**
-
+## We love our contributors ❤️❤️
 Make a [pull request](https://github.com/susam/gitpr#create-pull-request) to help contribute.
-* [owini](https://github.com/owini)
-* [GintasS](https://github.com/gintass)
-* [EParmar18](https://github.com/EParmar18)
-* [itscrystalli](https://github.com/itscrystalli)
-* [saimaduri](https://github.com/saimaduri)
-* [JacksonLeb](https://github.com/JacksonLeb)
-* [tailaiwang](https://github.com/tailaiwang/)
-* [siddhantdubey](https://github.com/siddhantdubey)
-* [Verse](https://github.com/Verse1)
-* [chrsdavis](https://github.com/chrsdavis)
-* [hwuiwon](https://github.com/hwuiwon)
-* [KartavyaSharma](https://github.com/KartavyaSharma)
-* [adityaxdiwakar](https://github.com/adityaxdiwakar)
-* [rxiao8](https://github.com/rxiao8)
-* [teetajp](https://github.com/teetajp)
-* [ziyue5](https://github.com/ziyue5)
-* [JodyZ0202](https://github.com/JodyZ0203)
-* [hhaney](https://github.com/hhaney)
-* [moalr](https://github.com/MohammedAl-Rasheed)
-* [BrotherOrange](https://github.com/BrotherOrange)
-* [gsnsg](https://github.com/gsnsg)
+<a href="https://github.com/pittcsc/Summer2023-Internships/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=pittcsc/Summer2023-Internships&columns=24&max=480" />
+</a>
+
