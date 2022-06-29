@@ -72,6 +72,8 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Microsoft](https://careers.microsoft.com/us/en/job/1374256/Neurodiversity-Hiring-Program-Intern-Opportunities-for-Students-Software-Engineer)	| Redmond, WA	| Neurodiversity Hiring Program Software Engineer	| 
 | [Cisco (Meraki)](https://jobs.cisco.com/jobs/ProjectDetail/Full-Stack-Software-Engineer-Intern-Summer-2023-Meraki/1368018?source=Cisco+Jobs+Career+Site&tags=CDC+SnNG+interview-tips) | San Francisco | Full Stack Software Engineer Intern |
 | [Amazon](https://www.amazon.jobs/en/jobs/2110678/software-development-engineer-internship-2023-us)                                                                           | Multiple Locations in United States                                | SDE Intern                                                                                                   |
+| [Intel](https://jobs.intel.com/ShowJob/Id/3462300/Undergrad-Software-Engineer-Intern)                                                                           | Hillsboro, OR                               | Undergrad SWE Intern                                                                                                 |
+| [Two Sigma](https://www.twosigma.com/careers/internships/)                                                                                    | New York, NY                     | Quant Research
 
 
 ## We love our contributors ❤️❤️
