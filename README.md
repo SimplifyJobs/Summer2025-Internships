@@ -74,6 +74,9 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Bessemer Fellowship Program](https://www.bvp.com/bessemer-fellows) | TBD  | Matching third year college students with tech companies |
 | [Intel](https://jobs.intel.com/ShowJob/Id/3462300/Undergrad-Software-Engineer-Intern)                                                                           | Hillsboro, OR                               | Undergrad SWE Intern                                                                                                 |
 | [Two Sigma](https://www.twosigma.com/careers/internships/](https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Quantitative-Researcher-Internship/10972))                                                                                    | New York, NY                     | Quant Research |
+| [IMC](https://imc.wd5.myworkdayjobs.com/en-US/invitation/jobs/details/Software-Engineer-Intern----Summer-2023_REQ-01961)                                                                                    | Chicago                     | SDE Intern |
+
+
 
 
 ## We love our contributors ❤️❤️
