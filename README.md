@@ -73,11 +73,9 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Amazon](https://www.amazon.jobs/en/jobs/2110678/software-development-engineer-internship-2023-us)                                                                           | Multiple Locations in United States                                | SDE Intern                                                                                                   |
 | [Bessemer Fellowship Program](https://www.bvp.com/bessemer-fellows) | TBD  | Matching third year college students with tech companies |
 | [Intel](https://jobs.intel.com/ShowJob/Id/3462300/Undergrad-Software-Engineer-Intern)                                                                           | Hillsboro, OR                               | Undergrad SWE Intern                                                                                                 |
+| [BlackRock](https://blackrock.tal.net/vx/lang-en-GB/mobile-0/brand-3/xf-ab3ba52a6a61/wid-1/candidate/so/pm/1/pl/1/opp/6075-Summer-Internship-Program-Americas/en-GB)         | Multiple Locations in United States                                | Select Business Area -> Technology, Business Division -> Software Engineering in the application             |
 | [Two Sigma](https://www.twosigma.com/careers/internships/](https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Quantitative-Researcher-Internship/10972))                                                                                    | New York, NY                     | Quant Research |
 | [IMC](https://imc.wd5.myworkdayjobs.com/en-US/invitation/jobs/details/Software-Engineer-Intern----Summer-2023_REQ-01961)                                                                                    | Chicago                     | SDE Intern |
-
-
-
 
 ## We love our contributors ❤️❤️
 Make a [pull request](https://github.com/susam/gitpr#create-pull-request) to help contribute.
