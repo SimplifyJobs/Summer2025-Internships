@@ -46,7 +46,6 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [AQR](https://careers.aqr.com/jobs/university-open-positions/greenwich-ct/2023-summer-internship-express-interest/2194349?gh_jid=2194349#/)                                  | Greenwich, CT                        |                                                                                                          |
 | [Bridgewater Associates](https://boards.greenhouse.io/bridgewater89/jobs/4076389002)                                                                                         | Westport, CT                         |                                                                                                          |
 | [Bristol Myers Squibb](https://careers.bms.com/jobs/R1546751?lang=en-us)                                                                                         | Tampa, FL                         |  Data Science          
-| [Bessemer Fellowship Program](https://www.bvp.com/bessemer-fellows)                                                                                         | Unkown                      |  Unkown     
 | [Capstone Investment Advisors](https://www.linkedin.com/jobs/view/2023-summer-internship-software-engineer-nyc-at-capstone-investment-advisors-3105833413/)                                                             | NYC, NY                              | SWE
 | [Citadel](https://www.citadel.com/careers/details/equities-citadel-associate-program-summer-internship-2023-us/)                                                             | NYC, NY                              | Equities Research (SWE and Trader Roles open July)                                                       |
 | [Citi](https://jobs.citi.com/job/new-york/quantitative-analysis-summer-analyst-north-america-2023/287/28553736048)                                                           | New York, New York                   | Quantitative Analysis                                                                                    |
@@ -72,6 +71,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Microsoft](https://careers.microsoft.com/us/en/job/1374256/Neurodiversity-Hiring-Program-Intern-Opportunities-for-Students-Software-Engineer)	| Redmond, WA	| Neurodiversity Hiring Program Software Engineer	| 
 | [Cisco (Meraki)](https://jobs.cisco.com/jobs/ProjectDetail/Full-Stack-Software-Engineer-Intern-Summer-2023-Meraki/1368018?source=Cisco+Jobs+Career+Site&tags=CDC+SnNG+interview-tips) | San Francisco | Full Stack Software Engineer Intern |
 | [Amazon](https://www.amazon.jobs/en/jobs/2110678/software-development-engineer-internship-2023-us)                                                                           | Multiple Locations in United States                                | SDE Intern                                                                                                   |
+| [Bessemer Fellowship Program](https://www.bvp.com/bessemer-fellows) | TBD  | Matching third year college students with tech companies |
 
 
 ## We love our contributors ❤️❤️
