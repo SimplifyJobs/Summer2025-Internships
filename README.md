@@ -81,6 +81,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Applied Intuition](https://jobs.lever.co/applied/c22805d5-2006-4867-bb32-671951b17206)                                                                                    | Mountain View, CA                     | Software Engineer                                                                          |   
 | [Palantir](https://jobs.lever.co/palantir/7d69cf8a-06fd-4f05-bd84-27149db29c4d)| New York, NY | Software Engineer Intern|
 | [Tower Research Capital](https://www.tower-research.com/open-positions)                                                                                    | New York, NY, Chicago, IL                    | Quantitative Trader, Quantitative Developer                                                                          | |  
+| [Citadel](https://www.citadel.com/careers/open-positions/positions-for-students/?keyword=Intern)| Chicago,New York | Software Engineer Intern and Quant Research Analyst|
 
 ## We love our contributors ❤️❤️
 Make a [pull request](https://github.com/susam/gitpr#create-pull-request) to help contribute.
