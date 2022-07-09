@@ -83,6 +83,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Tower Research Capital](https://www.tower-research.com/open-positions)                                                                                    | New York, NY, Chicago, IL                    | Quantitative Trader, Quantitative Developer                                                                          | |  
 | [Citadel](https://www.citadel.com/careers/open-positions/positions-for-students/?keyword=Intern)| Chicago, New York | Software Engineer Intern and Quant Research Analyst|
 | [Salesforce](https://salesforce.wd1.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Summer-2023-Intern---Software-Engineer_JR155116-2)| Multiple Locations in United States| SWE Intern |
+| [Neocis](https://www.neocis.com/careers/?gnk=job&gni=8a7887ac81818f790181a70be60322fb&lang=en)| Miami, FL | Software Engineering Internship |
 
 ## We love our contributors ❤️❤️
 Make a [pull request](https://github.com/susam/gitpr#create-pull-request) to help contribute.
