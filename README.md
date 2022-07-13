@@ -87,8 +87,6 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Ocient](https://boards.greenhouse.io/ocient39/jobs/5213072003)| Remote | Software Engineer Internship
 | [Roblox](https://jobs.roblox.com/careers?query=Roblox&seniority=Intern&pid=137451477074&domain=roblox.com)| San Mateo, CA | Software Engineer Intern
 
-
-
 ## We love our contributors ❤️❤️
 Make a [pull request](https://github.com/susam/gitpr#create-pull-request) to help contribute.
 <a href="https://github.com/pittcsc/Summer2023-Internships/graphs/contributors">
