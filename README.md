@@ -85,6 +85,9 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Neocis](https://www.neocis.com/careers/?gnk=job&gni=8a7887ac81818f790181a70be60322fb&lang=en)| Miami, FL | Software Engineering Internship |
 | [Hewlett Packard Enterprise](https://careers.hpe.com/us/en/search-results?keywords=software%20intern) | Multiple Locations in United States | Software Developer Intern, Software Engineering Intern
 | [Ocient](https://boards.greenhouse.io/ocient39/jobs/5213072003)| Remote | Software Engineer Internship
+| [Roblox](https://jobs.roblox.com/careers?query=Roblox&seniority=Intern&pid=137451477074&domain=roblox.com)| San Mateo, CA | Software Engineer Intern
+
+
 
 ## We love our contributors ❤️❤️
 Make a [pull request](https://github.com/susam/gitpr#create-pull-request) to help contribute.
