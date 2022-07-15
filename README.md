@@ -88,7 +88,6 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Oracle](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/175530?utm_medium=jobboard&utm_source=LinkedIn) | United States | Software Engineer Intern - Corporate Architecture
 | [Blackstone](https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/details/XMLNAME-2023-Blackstone-Technology-and-Innovations--Software-Developer-Summer-Analyst--New-York-_23913) | Miami, New York | Software Developer Summer Analyst |
 | [Northrop Grumman](https://www.northropgrumman.com/jobs/Melbourne-----Florida/Administrative-Services/R10055512/2023-intern-software-engineer/) | Melbourne, FL | Software Engineer Intern |
-|
 ## We love our contributors ❤️❤️
 Make a [pull request](https://github.com/susam/gitpr#create-pull-request) to help contribute.
 <a href="https://github.com/pittcsc/Summer2023-Internships/graphs/contributors">
