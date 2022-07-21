@@ -92,6 +92,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Oracle](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions?keyword=engineering+intern) | United States | Multiple Software Engineer Interns - Corporate Architecture/Analytics Cloud/DB and Systems/Netsuite, etc.
 | [Lockheed Martin](https://www.lockheedmartinjobs.com/search-jobs/ALL?orgIds=694&alp=ALL&alt=0&ascf=[{%22Key%22:%22job_status%22,%22Value%22:%22Co-op%2fSummer+Intern%22}]&) | Colorado, Pennsylvania | [Software Engineer Asc - Intern](https://www.lockheedmartinjobs.com/job/king-of-prussia/software-engineer-asc-intern/694/16648313536), [Software Engineer - College Student](https://www.lockheedmartinjobs.com/job/littleton/software-engineer-college-student/694/32480808864) (must be a US Citizen for consideration)
 | [Freddie Mac](https://careers.freddiemac.com/us/en/job/JR7788/Multifamily-Software-Developer-Intern-Hybrid-or-Remote-Work-Schedule) | McLean, VA (Remote Available) | Multifamily Software Developer Intern
+| [Jane Street](https://www.janestreet.com/join-jane-street/position/6213528002/) | New York | Software Engineer Summer Internship 2023
 ## We love our contributors ❤️❤️
 Make a [pull request](https://github.com/susam/gitpr#create-pull-request) to help contribute.
 <a href="https://github.com/pittcsc/Summer2023-Internships/graphs/contributors">
