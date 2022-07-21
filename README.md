@@ -87,13 +87,14 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Ocient](https://boards.greenhouse.io/ocient39/jobs/5213072003)| Remote | Software Engineer Internship
 | [Blackstone](https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/details/XMLNAME-2023-Blackstone-Technology-and-Innovations--Software-Developer-Summer-Analyst--New-York-_23913) | Miami, New York | Software Developer Summer Analyst |
 | [Kodiak](https://jobs.lever.co/kodiak?commitment=Intern) | Mountain View, CA | [Software Engineering Internship](https://jobs.lever.co/kodiak/3b6b45b7-0b31-45cc-bcd5-4720cd5ae913), [Deep Learning for Computer Vision Internship](https://jobs.lever.co/kodiak/34ed52b0-6cf5-4cd6-aef6-af42ff89f261) |
-| Northrop Grumman | Melbourne, FL | **Closed** |
 | [Northrop Grumman](https://www.northropgrumman.com/jobs/Roy-----Utah/Administrative-Services/R10056335/2023-software-engineering-intern-roy-ut/) | Roy, Utah | Software Engineer Intern
 | [Oracle](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions?keyword=engineering+intern) | United States | Multiple Software Engineer Interns - Corporate Architecture/Analytics Cloud/DB and Systems/Netsuite, etc.
 | [Lockheed Martin](https://www.lockheedmartinjobs.com/search-jobs/ALL?orgIds=694&alp=ALL&alt=0&ascf=[{%22Key%22:%22job_status%22,%22Value%22:%22Co-op%2fSummer+Intern%22}]&) | Colorado, Pennsylvania | [Software Engineer Asc - Intern](https://www.lockheedmartinjobs.com/job/king-of-prussia/software-engineer-asc-intern/694/16648313536), [Software Engineer - College Student](https://www.lockheedmartinjobs.com/job/littleton/software-engineer-college-student/694/32480808864) (must be a US Citizen for consideration)
 | [Freddie Mac](https://careers.freddiemac.com/us/en/job/JR7788/Multifamily-Software-Developer-Intern-Hybrid-or-Remote-Work-Schedule) | McLean, VA (Remote Available) | Multifamily Software Developer Intern
 | [Jane Street](https://www.janestreet.com/join-jane-street/position/6213528002/) | New York | Software Engineer Summer Internship 2023
-| [Asana](https://boards.greenhouse.io/earlycareerprograms) | San Francisco, New York City, Vancouver | Summer 2023 Engineering Internship|[Streamforge](https://angel.co/l/2vvkF3) | Remote | Videogames + Influencer Marketing + Twitch Streaming + YouTubers / [Software Engineer Position Summer 2023](https://angel.co/l/2vvkF3) |
+| [Asana](https://boards.greenhouse.io/earlycareerprograms) | San Francisco, New York City, Vancouver | Summer 2023 Engineering Internship|
+| [Streamforge](https://angel.co/l/2vvkF3) | Remote | Videogames + Influencer Marketing + Twitch Streaming + YouTubers / [Software Engineer Position Summer 2023](https://angel.co/l/2vvkF3) |
+
 ## We love our contributors ❤️❤️
 Make a [pull request](https://github.com/susam/gitpr#create-pull-request) to help contribute.
 <a href="https://github.com/pittcsc/Summer2023-Internships/graphs/contributors">
