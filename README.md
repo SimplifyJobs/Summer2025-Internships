@@ -94,6 +94,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Jane Street](https://www.janestreet.com/join-jane-street/position/6213528002/) | New York | Software Engineer Summer Internship 2023
 | [Asana](https://boards.greenhouse.io/earlycareerprograms) | San Francisco, New York City, Vancouver | Summer 2023 Engineering Internship|
 | [Streamforge](https://angel.co/l/2vvkF3) | Remote | Videogames + Influencer Marketing + Twitch Streaming + YouTubers / [Software Engineer Position Summer 2023](https://angel.co/l/2vvkF3) |
+| [Seven Eight Capital](https://boards.greenhouse.io/seveneightcapital/jobs/4477864002)| New York, Boston, Samford | Software Engineer Internship
 
 ## We love our contributors ❤️❤️
 Make a [pull request](https://github.com/susam/gitpr#create-pull-request) to help contribute.
