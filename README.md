@@ -98,6 +98,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Virtu Financial](https://boards.greenhouse.io/virtu/jobs/5432329002)| New York, NY | Internship - Developer (10 weeks Summer 2023)
 | [Prudential](https://prudential.eightfold.ai/careers?pid=12393231&Job%20Category=Technology&location_country=US&early_talent=Summer%20Internships&domain=prudential.com)| Newark, NJ | Software Engineering Summer Internship Program
 | [PDT Partners](https://boards.greenhouse.io/pdtpartners/jobs/4423823)| New York, NY | Software Engineering Internship (10 weeks Summer 2023)
+| [Code 2040](https://www.code2040.org/fellows-program| Undecided | Software Engineering Internship Fellowship (9 weeks Summer 2023)
 
 
 ## We love our contributors ❤️❤️
