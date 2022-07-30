@@ -102,6 +102,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Code 2040](https://www.code2040.org/fellows-program) | Various | Software Engineering Internship Fellowship (9 weeks Summer 2023) |
 | [Vanta](https://boards.greenhouse.io/vanta/jobs/5868552002) | New York, NY | SWE Internship
 | [Pixar Animation Studios](https://jobs.disneycareers.com/job/emeryville/software-research-and-development-intern-summer-2023/391/33430076960) | Emeryville, CA | Software Engineer Intern (no visa sponsorship)
+| [PWC](https://jobs.us.pwc.com/job/-/-/932/33431414672?utm_source=linkedin.com&utm_campaign=core_media&utm_medium=social_media&utm_content=job_posting&ss=paid&dclid=CMnKgLT2oPkCFUExYgodkPgMsQ) | Various | Technology Consulting Intern (No H1B available)
 
 
 ## We love our contributors ❤️❤️
