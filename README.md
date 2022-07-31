@@ -87,12 +87,12 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Blackstone](https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/details/XMLNAME-2023-Blackstone-Technology-and-Innovations--Software-Developer-Summer-Analyst--New-York-_23913) | Miami, New York | Software Developer Summer Analyst |
 | [Northrop Grumman](https://www.northropgrumman.com/jobs/Roy-----Utah/Administrative-Services/R10056335/2023-software-engineering-intern-roy-ut/) | Roy, Utah | Software Engineer Intern
 | [Oracle](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions?keyword=engineering+intern) | United States | Multiple Software Engineer Interns - Corporate Architecture/Analytics Cloud/DB and Systems/Netsuite, etc.
-| [Lockheed Martin](https://www.lockheedmartinjobs.com/search-jobs/ALL?orgIds=694&alp=ALL&alt=0&ascf=[{%22Key%22:%22job_status%22,%22Value%22:%22Co-op%2fSummer+Intern%22}]&) | Colorado, Pennsylvania | [Software Engineer Asc - Intern](https://www.lockheedmartinjobs.com/job/king-of-prussia/software-engineer-asc-intern/694/16648313536), [Software Engineer - College Student](https://www.lockheedmartinjobs.com/job/littleton/software-engineer-college-student/694/32480808864) (must be a US Citizen for consideration)
+| [Lockheed Martin](https://www.lockheedmartinjobs.com/search-jobs/ALL?orgIds=694&alp=ALL&alt=0&ascf=[{%22Key%22:%22job_status%22,%22Value%22:%22Co-op%2fSummer+Intern%22}]&) | Location dependent on role | [Software Engineer Asc - Intern](https://www.lockheedmartinjobs.com/job/king-of-prussia/software-engineer-asc-intern/694/16648313536) (Pennsylvania, US), [AI Machine Learning Engineer Asc - Intern](https://www.lockheedmartinjobs.com/job/king-of-prussia/ai-machine-learning-engineer-asc-intern/694/32606142112) (Multiple, all US)
 | [Freddie Mac](https://careers.freddiemac.com/us/en/job/JR7788/Multifamily-Software-Developer-Intern-Hybrid-or-Remote-Work-Schedule) | McLean, VA (Remote Available) | Multifamily Software Developer Intern
 | [Jane Street](https://www.janestreet.com/join-jane-street/position/6213528002/) | New York | Software Engineer Summer Internship 2023
 | [Asana](https://boards.greenhouse.io/earlycareerprograms) | San Francisco, New York City, Vancouver | Summer 2023 Engineering Internship|
 | [Streamforge](https://angel.co/l/2vvkF3) | Remote | Videogames + Influencer Marketing + Twitch Streaming + YouTubers / [Software Engineer Position Summer 2023](https://angel.co/l/2vvkF3) |
-| [Seven Eight Capital](https://boards.greenhouse.io/seveneightcapital/jobs/4477864002)| New York, Boston, Samford | Software Engineer Internship
+| [Seven Eight Capital](https://boards.greenhouse.io/seveneightcapital/jobs/4477864002)| New York, Boston, Stamford | Software Engineer Internship
 | [Databento](https://boards.greenhouse.io/databento/jobs/4374815?)| Remote | SWE Intern (H1B sponsorship available)
 | ServiceNow| Remote | **Closed:** Database Software Engineer Intern
 | [Virtu Financial](https://boards.greenhouse.io/virtu/jobs/5432329002)| New York, NY | Internship - Developer (10 weeks Summer 2023)
@@ -101,9 +101,10 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Verkada](https://jobs.lever.co/verkada?department=Engineering#:~:text=SOFTWARE%20%2D%20CORE%20COMMAND-,SOFTWARE%20%2D%20EARLY%20CAREERS,-APPLY)| San Mateo, CA | [Backend Software Engineering Intern](https://jobs.lever.co/verkada/771ec38b-605e-4f59-8a73-b1b0ccde1358), [Computer Vision Engineering Intern](https://jobs.lever.co/verkada/ebdf69a0-f158-4103-8168-001964c9464b), [Embedded Systems Engineering Intern](https://jobs.lever.co/verkada/f8e567ee-b75f-498a-8cad-a0f0f47eb298), [Frontend Software Engineering Intern](https://jobs.lever.co/verkada/eedaa343-79ae-4b7f-a73f-3f860050822f), [Mobile Engineering Intern](https://jobs.lever.co/verkada/de0b103e-1bb6-4619-bea8-4ed254267f6b), [Security Engineering Intern](https://jobs.lever.co/verkada/55ee059c-dbca-4034-af57-133de54a22fe)
 | [Code 2040](https://www.code2040.org/fellows-program) | Various | Software Engineering Internship Fellowship (9 weeks Summer 2023) |
 | [Vanta](https://boards.greenhouse.io/vanta/jobs/5868552002) | New York, NY | SWE Internship
+| [L3Harris Technologies](https://careers.l3harris.com/job/-/-/4832/33418640224) | Amityville, NY | Software Engineer Intern (US Government Security Clearance needed)
 | [Pixar Animation Studios](https://jobs.disneycareers.com/job/emeryville/software-research-and-development-intern-summer-2023/391/33430076960) | Emeryville, CA | Software Engineer Intern (no visa sponsorship)
-| [PNC](https://careers.pnc.com/global/en/job/PNC1GLOBALR112729/Technology-Summer-Intern-Program?utm_source=symphonytalentmpx&utm_medium=phenom-feeds) | Various | Technology Summer Intern Program
-
+| [PNC](https://careers.pnc.com/global/en/job/PNC1GLOBALR112729/Technology-Summer-Intern-Program?utm_source=symphonytalentmpx&utm_medium=phenom-feeds) | Various | Technology Summer Intern Program | 
+| [PWC](https://jobs.us.pwc.com/job/-/-/932/33431414672?utm_source=linkedin.com&utm_campaign=core_media&utm_medium=social_media&utm_content=job_posting&ss=paid&dclid=CMnKgLT2oPkCFUExYgodkPgMsQ) | Various | Technology Consulting Intern (STEM extension for H1B possible) |
 
 ## We love our contributors ❤️❤️
 Make a [pull request](https://github.com/susam/gitpr#create-pull-request) to help contribute.
