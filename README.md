@@ -36,6 +36,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 🙏 **Contribute by submitting a [pull request](https://github.com/susam/gitpr#create-pull-request)!** 🙏
 
 ## The List 👔
+[⬇️ Jump to bottom ⬇️](https://github.com/pittcsc/Summer2023-Internships#we-love-our-contributors-%EF%B8%8F%EF%B8%8F)
 
 | Name                                                                                                                                                                         | Location                             | Notes                                                                                                    |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ | -------------------------------------------------------------------------------------------------------- |
@@ -111,6 +112,9 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Peraton](https://careers.peraton.com/job-details/16347049/summer-2023-software-engineer-intern-annapolis-junction-annapolis-junction-md/?utm_medium=%22mcloud-jobads%22&utm_campaign=Engineering&utm_content=Summer%202023%20Software%20Engineer%20Intern-%20Annapolis%20Junction&utm_term=2022-124192&utm_source=Indeed) | Annapolis Junction, MD | Software Engineer Intern (Undergrad) |
 | [SPS](https://careers-spscommerce.icims.com/jobs/6795/job) | Minneapolis, MN | Software Engineer Intern |
 | [General Motors](https://search-careers.gm.com/jobs/job/2023-summer-intern-software-engineering-warren-jr-000089748/) | Warren, MI | 2023 Summer Intern – Software Engineering (Sponsorship **not** available.) |
+| [JP Morgan](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210321355) | Multiple | Software Engineer Intern (10 Weeks) (no visa sponsership) |
+
+[⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
 
 ## We love our contributors ❤️❤️
 Make a [pull request](https://github.com/susam/gitpr#create-pull-request) to help contribute.
