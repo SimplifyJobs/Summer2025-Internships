@@ -10,7 +10,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 	<p>
 		<img src="https://api.star-history.com/svg?repos=pittcsc/Summer2022-Internships&type=Date" width="500"  alt="Star History">
 	</p>
-	<i>Want to reach millions of CS students? Email <a href="mailto:pittcsc@gmail.com?subject=Sponsoring the CSC Internship Repo">pittcsc@gmail.com</a> for partnership opportunities!</i>
+	<i>Want to reach millions of CS students? Email <a href="mailto:partners@pittcsc.org?subject=Sponsoring the CSC Internship Repo">partners@pittcsc.org</a> for partnership opportunities!</i>
 </div>
 <div align="center">
 	<p>
