@@ -109,6 +109,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Valkyrie](https://jobs.lever.co/valkyrietrading/cf65c6b9-a11f-4fa1-9c4e-f5726f6bf4d1?lever-source=Indeed) | Chicago, IL | Software Engineer Intern
 | [Sensata](https://sensata.wd1.myworkdayjobs.com/en-US/Sensata-Careers/job/Attleboro-Massachusetts/Software-Engineer-Intern---Summer-2023_IRC86996) | Attleboro, MA | Software Engineer Intern |
 | [Peraton](https://careers.peraton.com/job-details/16347049/summer-2023-software-engineer-intern-annapolis-junction-annapolis-junction-md/?utm_medium=%22mcloud-jobads%22&utm_campaign=Engineering&utm_content=Summer%202023%20Software%20Engineer%20Intern-%20Annapolis%20Junction&utm_term=2022-124192&utm_source=Indeed) | Annapolis Junction, MD | Software Engineer Intern (Undergrad) |
+| [SPS](https://careers-spscommerce.icims.com/jobs/6795/job) | Minneapolis, MN | Software Engineer Intern |
 
 ## We love our contributors ❤️❤️
 Make a [pull request](https://github.com/susam/gitpr#create-pull-request) to help contribute.
