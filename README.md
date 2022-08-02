@@ -32,6 +32,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 		<sub><i>Stop manually re-entering your information. Simplify’s extension helps you autofill internship applications on millions of sites.</i></sub>
 	</p>
 </div>
+
 ---
 
 ## The List 👔
