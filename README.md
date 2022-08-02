@@ -1,6 +1,12 @@
 # Summer 2023 Tech Internships by Pitt CSC 🌆🐢
 And we're back! Use this repo to share and keep track of software, tech, CS, PM, quant internships for Summer 2023. List maintained by [the Pitt Computer Science Club](https://pittcsc.org/)!
 
+:warning: **This repository is only for internships/co-ops in the United States, Canada or for Remote positions:earth_americas:.**
+
+🧠 For tips on the internship process check out the [Zero to Offer](https://www.pittcs.wiki/zero-to-offer) 🧠
+
+🙏 **Contribute by submitting a [pull request](https://github.com/susam/gitpr#create-pull-request)!** 🙏
+
 ---
 
 <div align="center">
@@ -26,14 +32,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 		<sub><i>Stop manually re-entering your information. Simplify’s extension helps you autofill internship applications on millions of sites.</i></sub>
 	</p>
 </div>
-
 ---
-
-:warning: **This repository is only for internships/co-ops in the United States, Canada or for Remote positions:earth_americas:.**
-
-🧠 For tips on the internship process check out the [Zero to Offer](https://www.pittcs.wiki/zero-to-offer) 🧠
-
-🙏 **Contribute by submitting a [pull request](https://github.com/susam/gitpr#create-pull-request)!** 🙏
 
 ## The List 👔
 [⬇️ Jump to bottom ⬇️](https://github.com/pittcsc/Summer2023-Internships#we-love-our-contributors-%EF%B8%8F%EF%B8%8F)
