@@ -118,7 +118,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Intuit](https://jobs.intuit.com/job/-/-/27595/33672146000) | Mountain View, California; San Diego, California; Plano, Texas; New York, New York; Atlanta, Georgia | Software Engineer Intern |
 | [Uber](https://university-uber.icims.com/jobs/116847/job) | San Francisco, California | 2023 Software Engineer Internship |
 | [HRT](https://www.hudsonrivertrading.com/careers/?q=software+engineering+internship) | New York, Austin, Chicago | Software Engineering Internship - Summer 2023 (C++ or Python) |
-| [Sentry.io](https://sentry.io/careers/) | San Francisco, Toronto, Vienaa | Software Engineer, Intern (Summer 2023) |
+| [Sentry.io](https://sentry.io/careers/internships/) | San Francisco, Toronto, Vienaa | Software Engineer, Intern (Summer 2023) |
 
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
 
