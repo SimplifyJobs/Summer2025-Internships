@@ -120,6 +120,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [HRT](https://www.hudsonrivertrading.com/careers/?_4118765=Internship) | New York, Austin, Chicago | Software Engineering Internship - Summer 2023 (C++ or Python) |
 | [Sentry.io](https://sentry.io/careers/internships/) | San Francisco, Toronto, Vienaa | Software Engineer, Intern (Summer 2023) |
 | [Nordstrom](https://nordstrom.wd5.myworkdayjobs.com/nordstrom_internship?jobFamilyGroup=c8fdb73683a5013c39dcb3613d1b72b5) | Remote, Seattle | Software Engineering Internship Summer 2023 |
+| [Bluestaq](https://bluestaq.isolvedhire.com/jobs/664442.html) | Colorado Springs, CO | Software Development Internship Summer 2023 |
 
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
 
