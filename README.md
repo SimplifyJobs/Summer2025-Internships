@@ -121,7 +121,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Sentry.io](https://sentry.io/careers/internships/) | San Francisco, Toronto, Vienaa | Software Engineer, Intern (Summer 2023) |
 | [Nordstrom](https://nordstrom.wd5.myworkdayjobs.com/nordstrom_internship?jobFamilyGroup=c8fdb73683a5013c39dcb3613d1b72b5) | Remote, Seattle | Software Engineering Internship Summer 2023 |
 | [Bluestaq](https://bluestaq.isolvedhire.com/jobs/664442.html) | Colorado Springs, CO | Software Development Internship Summer 2023(U.S. citizen required) |
-| [Johnson & Johnson](https://jobs.jnj.com/jobs/2206063332W?lang=en-us&previousLocale=en-US) | Various | Software Development Internship Summer 2023 |
+| [Johnson & Johnson](https://jobs.jnj.com/jobs/2206063332W?lang=en-us&previousLocale=en-US) | Various | Software Development Internship Summer 2023 (Sponsorship not available) |
 
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
 
