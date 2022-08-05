@@ -123,6 +123,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Bluestaq](https://bluestaq.isolvedhire.com/jobs/664442.html) | Colorado Springs, CO | Software Development Internship Summer 2023(U.S. citizen required) |
 
 | [Johnson & Johnson]([https://bluestaq.isolvedhire.com/jobs/664442.html](https://jobs.jnj.com/jobs/2206063332W?lang=en-us&previousLocale=en-US)) | Various | Software Development Internship Summer 2023 |
+
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
 
 ## We love our contributors ❤️❤️
