@@ -124,6 +124,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [DRW](https://drw.com/work-at-drw/category/campus/) | Chicago, IL; Greenwich, CT; Houston, TX; Austin, TX; New York, NY | [Software Developer Intern (Chicago)](https://drw.com/work-at-drw/job/software-developer-intern-2302636) <br> [Quantitative Trading Analyst Intern (all locations)](https://drw.com/work-at-drw/job/quantitative-trading-analyst-intern-2302675/) <br> [Quantitative Research Intern (Chicago, Masters/PhD)](https://drw.com/work-at-drw/job/quantitative-research-intern-2301002/) |
 | [Salesforce](https://salesforce.wd1.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Summer-2023-Intern---Software-Engineer_JR155116-2) | Multiple Locations in United States| SWE Internship |
 | [Instabase](https://instabase.com/careers/) | San Francisco, Menlo Park, & New York City | [Software Engineer, Intern (Frontend/Fullstack)](https://instabase.com/careers/?gh_jid=6284550002), [Software Engineer, Intern (Backend)](https://instabase.com/careers/?gh_jid=6261089002) |
+| [The Vendry](https://triplebyte.com/users/sign_up?cr=WsOsdmA&ref=jb_linkedin_3abni8i-new-york-ny-united-states&rr=LN7Om14) | New York, NY | Software Development Internship |
 
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
 
