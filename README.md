@@ -127,6 +127,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Cisco](https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-I-Intern-United-States/1380727) | Multiple Location in United States | | Software Engineer I (Intern) | 
 | [L3Harris Technologies](https://careers.l3harris.com/job/-/-/4832/33828250528?src=SNS-10240) | Mason, OH | Software Eng Intern(require US Citizenship) |
 | [Vanguard](https://www.vanguardjobs.com/job/16148677/college-to-corporate-it-internship-application-development-nc-charlotte-nc/) | Charlotte, NC | Software Eng Intern |
+| [Nvidia](https://nvidia.wd5.myworkdayjobs.com/en-US/UniversityJobs/details/Interested-in-Internships---Software-2023_JR1961144-1) | Santa Clara, Remote | SWE Intern |
 
  
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
