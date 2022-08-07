@@ -126,7 +126,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Instabase](https://instabase.com/careers/) | San Francisco, Menlo Park, & New York City | [Software Engineer, Intern (Frontend/Fullstack)](https://instabase.com/careers/?gh_jid=6284550002), [Software Engineer, Intern (Backend)](https://instabase.com/careers/?gh_jid=6261089002) |
 | [Cisco](https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-I-Intern-United-States/1380727) | Multiple Location in United States | | Software Engineer I (Intern) | 
 | [L3Harris Technologies](https://careers.l3harris.com/job/-/-/4832/33828250528?src=SNS-10240) | Mason, OH | Software Eng Intern(require US Citizenship) |
-| [The Vendry](https://triplebyte.com/users/sign_up?cr=WsOsdmA&ref=jb_linkedin_3abni8i-new-york-ny-united-states&rr=LN7Om14) | New York, NY | Software Development Internship |
+| [The Vendry](https://jobs.lever.co/vendry/911401c3-9f06-4719-bc26-e3ac34207e67) | New York, NY | Software Development Internship |
 | [Vanguard](https://www.vanguardjobs.com/job/16148677/college-to-corporate-it-internship-application-development-nc-charlotte-nc/) | Charlotte, NC | Software Eng Intern (No Sponsorship) |
 
  
