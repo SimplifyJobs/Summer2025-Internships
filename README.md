@@ -113,7 +113,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [General Motors](https://search-careers.gm.com/jobs/job/2023-summer-intern-software-engineering-warren-jr-000089748/) | Warren, MI | 2023 Summer Intern – Software Engineering (Sponsorship **not** available.) |
 | [JP Morgan](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210321355) | Multiple | Software Engineer Intern (10 Weeks) (no visa sponsership) |
 | [Roblox](https://jobs.roblox.com/careers/job?domain=roblox.com&pid=137451585492) | San Mateo, CA | Software Engineer - Intern (Summer 2023) |
-| [Microsoft](https://careers.microsoft.com/us/en/job/1388845) | Redmond, WA; Bellevue, WA; Mountain View, CA; Dallas, TX; Cambridge, MA; Austin, TX | Software Engineering: Intern (Summer 2023) |
+| [Microsoft](https://careers.microsoft.com/us/en/job/1388845) | Redmond, WA; Bellevue, WA; Mountain View, CA; Dallas, TX; Cambridge, MA; Austin, TX | Software Engineering Intern, [Explore](https://careers.microsoft.com/students/us/en/job/1388848/Explore-Microsoft-Intern-Opportunities-for-University-Students) |
 | [Intuit](https://jobs.intuit.com/job/-/-/27595/33672146000) | Mountain View, California; San Diego, California; Plano, Texas; New York, New York; Atlanta, Georgia | Software Engineer Intern |
 | [Uber](https://university-uber.icims.com/jobs/116847/job) | Various | 2023 Software Engineer Internship |
 | [HRT](https://www.hudsonrivertrading.com/careers/?_4118765=Internship) | New York, Austin, Chicago | Algorithm Development, Software Engineering (C++ or Python) |
@@ -132,7 +132,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [YugaByte](https://www.yugabyte.com/careers) | North America | [Software Engineer Intern - Core Database](https://jobs.lever.co/yugabyte/04069622-96ff-4079-a99f-3d38a3d5a451) <br> [Software Engineer Intern (Backend) - Cloud Infrastructure](https://jobs.lever.co/yugabyte/4d4d3eb0-5c17-4177-86ad-fbfaf9cb6fec) <br> [Software Engineer Intern (Frontend) - Cloud Infrastructure](https://jobs.lever.co/yugabyte/9722ed9e-a35a-429c-abea-2791ca679fb6)|
 | [KLA](https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/Intern----SW-Algo_2216150-1?bid=370&source=Job_Board_LinkedIn) | Ann Arbor, Michigan | SWE Intern
 | [Qualtrics](https://www.qualtrics.com/careers/us/en/job/87166/Software-Engineering-Intern-Summer-2023-Provo-UT) | Provo, UT; [Reston, VA](https://www.qualtrics.com/careers/us/en/job/3887454/Software-Engineering-Intern-Summer-2023-Reston-Virginia); [Seattle, WA](https://www.qualtrics.com/careers/us/en/job/151240/Software-Engineering-Intern-Summer-2023-Seattle-WA) | Software Engineering Intern (no sponsorships available) |
-| [Microsoft](https://careers.microsoft.com/students/us/en/job/1388848/Explore-Microsoft-Intern-Opportunities-for-University-Students) | [Seattle, WA, Mountain View, CA, Atlanta, GA](https://careers.microsoft.com/students/us/en/job/1388848/Explore-Microsoft-Intern-Opportunities-for-University-Students) | Explore Internshp (PM and SWE) |
+
 
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
 
