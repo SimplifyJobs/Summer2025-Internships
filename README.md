@@ -139,7 +139,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Chic-fil-A](https://careers-chickfila.icims.com/jobs/12376/2023-software-engineering-summer-intern/job) | Atlanta, GA | Software Engineering Intern | 
 | [Aquatic Capital Management](https://boards.greenhouse.io/aquaticcapitalmanagement) | Chicago, IL | Software Engineering Intern, Quantitative Research Intern |
 | [Ericsson](https://jobs.ericsson.com/job/Santa-Clara-Computer-Science-&-Data-Science-Internship-%282023%29-Cali/751881302/) | Santa Clara, CA | Software Engineering Intern, Data Science Intern |
-| [Accenture](https://www.accenture.com/us-en/careers/jobdetails?id=R00098803_en&title=Summer+Analyst+(Intern)+Development+Programs+-+NAELFY23) | AZ - Phoenix,CA - Los Angeles,CA - Sacramento,CA - San Diego,CA - San Francisco,CA - San Jose,CA - Walnut Creek,CO - Denver,CT - Hartford,FL - Miami,FL - St. Petersburg,GA - Atlanta,IL - Chicago,IN - Indianapolis,KS - Overland Park,MA - Boston,MI - Detroit,MN - Minneapolis,MO - St. Louis,NC - Charlotte,NC - Raleigh,NJ - Florham Park,NY - New York,OH - Cincinnati,OH - Cleveland,OH - Columbus,PA - Philadelphia,PA - Pittsburgh,TX - Austin,TX - Houston,TX - Irving,VA - Arlington,VA - Herndon,WA - Seattle,WI - Milwaukee | Summer Analyst - Technology Development Program |
+| [Accenture](https://www.accenture.com/us-en/careers/jobdetails?id=R00098803_en&title=Summer+Analyst+(Intern)+Development+Programs+-+NAELFY23) | Multiple Locations in the US | Summer Analyst - Technology Development Program |
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
 
 ## We love our contributors ❤️❤️
