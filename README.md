@@ -37,6 +37,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 
 ## The List 🚴🏔
 [⬇️ Jump to bottom ⬇️](https://github.com/pittcsc/Summer2023-Internships#we-love-our-contributors-%EF%B8%8F%EF%B8%8F)
+<!-- Please leave a one line gap between this and the table -->
 
 | Name                                                                                                                                                                         | Location                             | Notes                                                                                                    |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ | -------------------------------------------------------------------------------------------------------- |
@@ -139,7 +140,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Chic-fil-A](https://careers-chickfila.icims.com/jobs/12376/2023-software-engineering-summer-intern/job) | Atlanta, GA | Software Engineering Intern | 
 | [Aquatic Capital Management](https://boards.greenhouse.io/aquaticcapitalmanagement) | Chicago, IL | Software Engineering Intern, Quantitative Research Intern |
 | [Ericsson](https://jobs.ericsson.com/job/Santa-Clara-Computer-Science-&-Data-Science-Internship-%282023%29-Cali/751881302/) | Santa Clara, CA | Software Engineering Intern, Data Science Intern |
-| [Twitch](https://www.amazon.jobs/en/jobs/2186414/engineering-intern/) | San Francisco, CA | Engineering Intern (BS only (no masters/PhDs)) |
+| [Twitch](https://www.amazon.jobs/en/jobs/2186414/engineering-intern/) | San Francisco, CA | Engineering Intern (BS only) |
 | [Accenture](https://www.accenture.com/us-en/careers/jobdetails?id=R00098803_en&title=Summer+Analyst+(Intern)+Development+Programs+-+NAELFY23) | Multiple Locations in the US | Summer Analyst - Technology Development Program |
 
 <!-- Please leave a one line gap between this and the table -->
