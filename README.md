@@ -112,7 +112,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Peraton](https://careers.peraton.com/job-details/16347049/summer-2023-software-engineer-intern-annapolis-junction-annapolis-junction-md/?utm_medium=%22mcloud-jobads%22&utm_campaign=Engineering&utm_content=Summer%202023%20Software%20Engineer%20Intern-%20Annapolis%20Junction&utm_term=2022-124192&utm_source=Indeed) | Annapolis Junction, MD | Software Engineer Intern (Undergrad) |
 | [SPS](https://careers-spscommerce.icims.com/jobs/6795/job) | Minneapolis, MN | Software Engineer Intern |
 | [General Motors](https://search-careers.gm.com/jobs/job/2023-summer-intern-software-engineering-warren-jr-000089748/) | Warren, MI | 2023 Summer Intern – Software Engineering (Sponsorship **not** available.) |
-| [JP Morgan](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210321355) | Multiple | Software Engineer Intern (10 Weeks) (no visa sponsership) |
+| [JP Morgan](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210321355) | Multiple | Software Engineer Intern (10 Weeks) (no visa sponsorship) |
 | [Roblox](https://jobs.roblox.com/careers/job?domain=roblox.com&pid=137451585492) | San Mateo, CA | Software Engineer - Intern (Summer 2023) |
 | [Microsoft](https://careers.microsoft.com/us/en/job/1388845) | Redmond, WA; Bellevue, WA; Mountain View, CA; Dallas, TX; Cambridge, MA; Austin, TX | Software Engineering Intern, [Explore](https://careers.microsoft.com/students/us/en/job/1388848/Explore-Microsoft-Intern-Opportunities-for-University-Students) |
 | [Intuit](https://jobs.intuit.com/job/-/-/27595/33672146000) | Mountain View, California; San Diego, California; Plano, Texas; New York, New York; Atlanta, Georgia | Software Engineer Intern |
@@ -137,12 +137,13 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [National Instrument](https://pef.fa.us1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/5920/?utm_medium=jobshare) | Austin, TX | Software Engineering Intern |
 | [Duolingo](https://boards.greenhouse.io/duolingo/jobs/6302411002) | Pittsburgh, PA | Software Engineer Intern |
 | [Audible](https://www.amazon.jobs/en/jobs/2125073/audible-software-development-engineer-internship) | Newark, NJ | SDE Internship |
-| [Chic-fil-A](https://careers-chickfila.icims.com/jobs/12376/2023-software-engineering-summer-intern/job) | Atlanta, GA | Software Engineering Intern | 
+| [Chick-fil-A](https://careers-chickfila.icims.com/jobs/12376/2023-software-engineering-summer-intern/job) | Atlanta, GA | Software Engineering Intern | 
 | [Aquatic Capital Management](https://boards.greenhouse.io/aquaticcapitalmanagement) | Chicago, IL | Software Engineering Intern, Quantitative Research Intern |
 | [Ericsson](https://jobs.ericsson.com/job/Santa-Clara-Computer-Science-&-Data-Science-Internship-%282023%29-Cali/751881302/) | Santa Clara, CA | Software Engineering Intern, Data Science Intern |
 | [Twitch](https://www.amazon.jobs/en/jobs/2186414/engineering-intern/) | San Francisco, CA | Engineering Intern (BS only) |
 | [Accenture](https://www.accenture.com/us-en/careers/jobdetails?id=R00098803_en&title=Summer+Analyst+(Intern)+Development+Programs+-+NAELFY23) | Multiple Locations in the US | Summer Analyst - Technology Development Program |
 | [Quantcast](https://jobs.lever.co/quantcast/54c549a1-10cc-4942-8765-c7ffdf253b1d) | San Francisco, CA | Software Engineering Intern |
+| [Belvedere Trading](https://jobs.lever.co/belvederetrading/5098c277-d2a6-41eb-ab9c-b80ded219154) | Chicago, IL | Software Engineering Intern |
 | [Samsung](https://boards.greenhouse.io/samsungresearchamericainternship/jobs/5868447002?gh_src=13c38d562us) | Mountain View, CA | Software Engineer Intern |
 
 <!-- Please leave a one line gap between this and the table -->
