@@ -137,7 +137,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [National Instrument](https://pef.fa.us1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/5920/?utm_medium=jobshare) | Austin, TX | Software Engineering Intern |
 | [Duolingo](https://boards.greenhouse.io/duolingo/jobs/6302411002) | Pittsburgh, PA | Software Engineer Intern |
 | [Audible](https://www.amazon.jobs/en/jobs/2125073/audible-software-development-engineer-internship) | Newark, NJ | SDE Internship |
-| [Chic-fil-A](https://careers-chickfila.icims.com/jobs/12376/2023-software-engineering-summer-intern/job) | Atlanta, GA | Software Engineering Intern | 
+| [Chick-fil-A](https://careers-chickfila.icims.com/jobs/12376/2023-software-engineering-summer-intern/job) | Atlanta, GA | Software Engineering Intern | 
 | [Aquatic Capital Management](https://boards.greenhouse.io/aquaticcapitalmanagement) | Chicago, IL | Software Engineering Intern, Quantitative Research Intern |
 | [Ericsson](https://jobs.ericsson.com/job/Santa-Clara-Computer-Science-&-Data-Science-Internship-%282023%29-Cali/751881302/) | Santa Clara, CA | Software Engineering Intern, Data Science Intern |
 | [Twitch](https://www.amazon.jobs/en/jobs/2186414/engineering-intern/) | San Francisco, CA | Engineering Intern (BS only) |
