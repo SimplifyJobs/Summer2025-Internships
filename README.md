@@ -149,6 +149,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Mastercard](https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/OFallon-Missouri/Software-Engineer-Intern_R-173598) | Multiple Locations in United States | Software Engineer Intern |
 | [Databricks](https://www.databricks.com/company/careers/open-positions/job?gh_jid=6289910002) | San Francisco, Seattle | Software Engineering Intern |
 | [American Express](https://aexp.eightfold.ai/careers/job/12787284) | New York, New York | 2023 Technology Software Engineer Summer Internship (no sponsorship)
+| [Notion](https://boards.greenhouse.io/notion/jobs/5252467003) | San Fransisco, CA | 2023 Software Engineering Intern (No visa sponsorship)
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
