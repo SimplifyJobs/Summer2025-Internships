@@ -37,6 +37,8 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 
 ## The List 🚴🏔
 [⬇️ Jump to bottom ⬇️](https://github.com/pittcsc/Summer2023-Internships#we-love-our-contributors-%EF%B8%8F%EF%B8%8F)
+### To sort the table alphabetically you can install a [script](https://greasyfork.org/en/scripts/21373-github-sort-content) along with [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
+
 <!-- Please leave a one line gap between this and the table -->
 
 | Name                                                                                                                                                                         | Location                             | Notes                                                                                                    |
