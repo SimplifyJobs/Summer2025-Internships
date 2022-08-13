@@ -148,6 +148,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Jump Trading](https://www.jumptrading.com/careers/?locations=Chicago+Austin+New-York+New-Jersey+Remote+Cranberry-Township&titleSearch=campus+intern) | Chicago, IL | [Campus \| Software Engineer 2023 (Summer Intern)](https://www.jumptrading.com/careers/4452653/) <br> [Campus \| FPGA Engineer 2023 (Summer Intern)](https://www.jumptrading.com/careers/4471649/) <br> [Campus \| Tech Ops Engineer 2023 (Intern)](https://www.jumptrading.com/careers/4387580/) <br> [Campus \| Data Engineer 2023 (Summer Intern)](https://www.jumptrading.com/careers/4471685/) <br> [Campus \| Web Dev / UI Software Engineer 2023 (Summer Intern)](https://www.jumptrading.com/careers/4471639/) |
 | [Mastercard](https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/OFallon-Missouri/Software-Engineer-Intern_R-173598) | Multiple Locations in United States | Software Engineer Intern |
 | [American Express](https://aexp.eightfold.ai/careers?pid=12787284&domain=aexp.com) | New York City| Software Engineer Intern |
+| [Fidelity](https://jobs.fidelity.com/job-details/16376477/summer-2023-quantitative-research-and-data-analytics-internship-boston-ma/?source=LinkedIn_Job%20Boards)| Boston, MA | Data Analytics Intern |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
