@@ -117,7 +117,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Microsoft](https://careers.microsoft.com/us/en/job/1388845) | Redmond, WA; Bellevue, WA; Mountain View, CA; Dallas, TX; Cambridge, MA; Austin, TX | Software Engineering Intern, [Explore](https://careers.microsoft.com/students/us/en/job/1388848/Explore-Microsoft-Intern-Opportunities-for-University-Students) |
 | [Intuit](https://jobs.intuit.com/job/-/-/27595/33672146000) | Mountain View, California; San Diego, California; Plano, Texas; New York, New York; Atlanta, Georgia | Software Engineer Intern |
 | [Uber](https://university-uber.icims.com/jobs/116847/job) | Various | 2023 Software Engineer Internship |
-| [HRT](https://www.hudsonrivertrading.com/careers/?_4118765=Internship) | New York, Austin, Chicago | Algorithm Development, Software Engineering (C++ or Python) |
+| [Hudson River Trading](https://www.hudsonrivertrading.com/careers/?_4118765=Internship) | New York, Austin, Chicago | Algorithm Development, Software Engineering (C++ or Python) |
 | [Sentry.io](https://sentry.io/careers/internships/) | San Francisco, Toronto, Vienna | **SF and Toronto closed** Software Engineer, Intern (Summer 2023) |
 | Nordstrom | Remote, Seattle | **🔒 Closed 🔒** Software Engineering Internship Summer 2023 |
 | [Bluestaq](https://bluestaq.isolvedhire.com/jobs/664442.html) | Colorado Springs, CO | Software Development Internship Summer 2023(U.S. citizen required) |
@@ -148,7 +148,6 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Jump Trading](https://www.jumptrading.com/careers/?locations=Chicago+Austin+New-York+New-Jersey+Remote+Cranberry-Township&titleSearch=campus+intern) | Chicago, IL | [Campus \| Software Engineer 2023 (Summer Intern)](https://www.jumptrading.com/careers/4452653/) <br> [Campus \| FPGA Engineer 2023 (Summer Intern)](https://www.jumptrading.com/careers/4471649/) <br> [Campus \| Tech Ops Engineer 2023 (Intern)](https://www.jumptrading.com/careers/4387580/) <br> [Campus \| Data Engineer 2023 (Summer Intern)](https://www.jumptrading.com/careers/4471685/) <br> [Campus \| Web Dev / UI Software Engineer 2023 (Summer Intern)](https://www.jumptrading.com/careers/4471639/) |
 | [Databricks](https://www.databricks.com/company/careers/open-positions/job?gh_jid=6289910002) | San Francisco, Seattle | Software Engineering Intern |
 | [American Express](https://aexp.eightfold.ai/careers/job/12787284) | New York, New York | 2023 Technology Software Engineer Summer Internship (no sponsorship) |
-| [Hudson River Trading](https://www.hudsonrivertrading.com/careers/job/?gh_jid=4455016&gh_src=b79c7b511us) | New York, New York | Software Engineering Internship|
 | [Klaviyo](https://angel.co/jobs?job_listing_id=2346414) | Remote | Summer 2023 Software Engineer Intern (No visa sponsorship)
 
 
