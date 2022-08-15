@@ -149,7 +149,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Databricks](https://www.databricks.com/company/careers/open-positions/job?gh_jid=6289910002) | San Francisco, Seattle | Software Engineering Intern |
 | [American Express](https://aexp.eightfold.ai/careers/job/12787284) | New York, New York | 2023 Technology Software Engineer Summer Internship (no sponsorship) |
 | [Klaviyo](https://angel.co/jobs?job_listing_id=2346414) | Remote | Summer 2023 Software Engineer Intern (No visa sponsorship)|
-| [Starbucks](https://starbucks.taleo.net/careersection/1000222/jobdetail.ftl?lang=en&job=220049745) | Arizona, Seattle | Summary 2023 Technology undergraduate intern |
+| [Starbucks](https://starbucks.taleo.net/careersection/1000222/jobdetail.ftl?lang=en&job=220049745) | Arizona, Seattle | Summary 2023 Technology undergraduate intern (No visa sponsorship)|
 | [IBM](https://careers.ibm.com/job/16478329/firmware-developer-summer-intern-2023-remote/?codes=IBM_CareerWebSite) | Multiple Locations in the US | Firmware Developer Summer Intern: 2023 |
 | [Fidelity](https://jobs.fidelity.com/job-details/16376477/summer-2023-quantitative-research-and-data-analytics-internship/) | Boston, MA | Data Analytics Intern |
 
