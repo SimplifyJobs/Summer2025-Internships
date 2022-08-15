@@ -152,6 +152,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Starbucks](https://starbucks.taleo.net/careersection/1000222/jobdetail.ftl?lang=en&job=220049745) | Arizona, Seattle | Summary 2023 Technology undergraduate intern |
 | [IBM](https://careers.ibm.com/job/16478329/firmware-developer-summer-intern-2023-remote/?codes=IBM_CareerWebSite) | Multiple Locations in the US | Firmware Developer Summer Intern: 2023 |
 | [Fidelity](https://jobs.fidelity.com/job-details/16376477/summer-2023-quantitative-research-and-data-analytics-internship/) | Boston, MA | Data Analytics Intern |
+| [Figma](https://boards.greenhouse.io/figma/jobs/4595340004/) | NY, SF | Software Engineer Intern |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
