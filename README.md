@@ -154,6 +154,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Fidelity](https://jobs.fidelity.com/job-details/16376477/summer-2023-quantitative-research-and-data-analytics-internship/) | Boston, MA | Data Analytics Intern |
 | [Cohen & Co](https://careers-cohencpa.icims.com/jobs/1436/software-development-internship-%5bsummer-2023%5d/job?mobile=false&width=1743&height=500&bga=true&needsRedirect=false&jan1offset=-480&jun1offset=-420) | Multiple Locations in the US | Software Development Internship|
 | [Figma](https://boards.greenhouse.io/figma/jobs/4595340004/) | NY, SF | Software Engineer Intern |
+| [Flatiron Health](https://flatiron.com/careers/open-positions/4454681) | NYC | SWE Intern |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
