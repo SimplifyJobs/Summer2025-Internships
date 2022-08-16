@@ -137,7 +137,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [National Instrument](https://pef.fa.us1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/5920/?utm_medium=jobshare) | Austin, TX | Software Engineering Intern |
 | [Duolingo](https://boards.greenhouse.io/duolingo/jobs/6302411002) | Pittsburgh, PA | Software Engineer Intern |
 | [Audible](https://www.amazon.jobs/en/jobs/2125073/audible-software-development-engineer-internship) | Newark, NJ | SDE Internship |
-| [Chick-fil-A](https://careers-chickfila.icims.com/jobs/12376/2023-software-engineering-summer-intern/job) | Atlanta, GA | Software Engineering Intern | 
+| [Chick-fil-A](https://careers-chickfila.icims.com/jobs/12376/2023-software-engineering-summer-intern/job) | Atlanta, GA | **🔒 Closed 🔒** Software Engineering Intern | 
 | [Aquatic Capital Management](https://boards.greenhouse.io/aquaticcapitalmanagement) | Chicago, IL | Software Engineering Intern, Quantitative Research Intern |
 | [Ericsson](https://jobs.ericsson.com/job/Santa-Clara-Computer-Science-&-Data-Science-Internship-%282023%29-Cali/751881302/) | Santa Clara, CA | Software Engineering Intern, Data Science Intern |
 | [Twitch](https://www.amazon.jobs/en/jobs/2186414/engineering-intern/) | San Francisco, CA | Engineering Intern (BS only) |
@@ -158,6 +158,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Redfin](https://redfin.wd1.myworkdayjobs.com/en-US/redfin_careers/job/Software-Developer--2023-Internship_49169-1) | Seattle, Frisco, San Francisco | Software Developer: 2023 Internship |
 | [F5](https://ffive.wd5.myworkdayjobs.com/en-US/f5jobs/job/Seattle/Summer-2023-Internship---Software-Engineering_RP1026625) | Seattle, Boulder (Louisville), Boston, San Jose | SWE Intern |
 | [DriveTime](https://drivetime.wd1.myworkdayjobs.com/DriveTime/job/Tempe-AZ/Software-Engineer-Intern_R2271) | Tempe, Dallas | SWE Intern |
+| [Seatgeek](https://seatgeek.com/jobs/125938) | New York, NY | SWE Intern |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
