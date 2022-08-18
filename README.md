@@ -161,6 +161,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Seatgeek](https://seatgeek.com/jobs/125938) | New York, NY | **🔒 Closed 🔒** SWE Intern |
 | [GoodYear](https://jobs.goodyear.com/job/Akron-Global-Technology-%28Data-Science-and-Analytics%29-Co-op-Internship-OH-44301/923168600/?feedId=367300) | Akron, OH | Data Science Intern |
 | [Thomson Reuters](https://thomsonreuters.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Software-Engineer-Internship---Summer-2023_JREQ162362) | Eagan, MN | SWE Intern |
+| [Proofpoint](https://proofpoint.wd5.myworkdayjobs.com/ProofpointCareers/job/Broomfield-CO/Software-Developer-Summer-Intern---Undergrad_R8332) | Broomfield, CO | Software Developer Intern |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
