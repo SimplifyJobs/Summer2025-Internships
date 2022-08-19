@@ -166,6 +166,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Convoy](https://boards.greenhouse.io/convoy/jobs/4631008004?gh_src=f0b55ea54us) | Seattle, WA | Software Engineer Intern |
 | [Lime](https://jobs.lever.co/lime/70477592-6eae-4fac-a33d-1c60e9177301?lever-origin=applied&lever-source%255B%255D=linkedin-job-wrapping) | SF,CA | SWE Intern |
 | [Daikin](https://recruiting.adp.com/srccar/public/nghome.guid?c=1143611&d=External&prc=RMPOD3&r=5000877708900#/) | Plymouth, MN | SWE Intern (No Sponsorship) |
+| [Lyft](https://www.lyft.com/careers/early-talent) | Multiple Locations in the US | SWE Intern Generalist, SWE Intern Frontend |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
