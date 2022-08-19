@@ -165,6 +165,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [ServiceNow](https://careers.servicenow.com/careers/jobs/743999845895131EXT?lang=en-us&src=linkedin&sid=2d92f286-613b-4daf-9dfa-6340ffbecf73)| Santa Clara, CA | Software Engineering Intern
 | [Convoy](https://boards.greenhouse.io/convoy/jobs/4631008004?gh_src=f0b55ea54us) | Seattle, WA | Software Engineer Intern |
 | [Retool Mobile](https://retool.com/products/mobile/) | SF | |
+| [Lime](https://jobs.lever.co/lime/70477592-6eae-4fac-a33d-1c60e9177301?lever-origin=applied&lever-source%255B%255D=linkedin-job-wrapping) | SF,CA | SWE Intern |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
