@@ -169,6 +169,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Lyft](https://www.lyft.com/careers/early-talent) | Multiple Locations in the US | SWE Intern Generalist, SWE Intern Frontend |
 | [Optimal Dynamics](https://boards.greenhouse.io/optimaldynamics/jobs/4633631004) | New York, NY or Remote | SWE Intern |
 | [Citrix](https://jobs.citrix.com/jobs/software-engineer-intern-summer-2023-ft-lauderdale-florida-united-states-remote) | Ft. Lauderdale, FL; or Remote | Software Engineer Intern (Summer 2023) |
+| [Target](https://jobs.target.com/job/-/-/1118/34525104848) | Brooklyn Park, MN | Software Engineering Intern - Hybrid (Starting June 2023) |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
