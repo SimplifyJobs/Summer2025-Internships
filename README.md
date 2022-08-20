@@ -168,6 +168,10 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Daikin](https://recruiting.adp.com/srccar/public/nghome.guid?c=1143611&d=External&prc=RMPOD3&r=5000877708900#/) | Plymouth, MN | SWE Intern (No Sponsorship) |
 | [Lyft](https://www.lyft.com/careers/early-talent) | Multiple Locations in the US | SWE Intern Generalist, SWE Intern Frontend |
 | [Optimal Dynamics](https://boards.greenhouse.io/optimaldynamics/jobs/4633631004) | New York, NY or Remote | SWE Intern |
+| [Citrix](https://jobs.citrix.com/jobs/software-engineer-intern-summer-2023-ft-lauderdale-florida-united-states-remote) | Ft. Lauderdale, FL; or Remote | Software Engineer Intern (Summer 2023) |
+| [Target](https://jobs.target.com/job/-/-/1118/34525104848) | Brooklyn Park, MN | Software Engineering Intern - Hybrid (Starting June 2023) |
+| [Nasdaq](https://nasdaq.wd1.myworkdayjobs.com/en-US/US_External_Career_Site/job/Denver/Software-Engineer-ing-Intern---US---Canada-2023-Internship_R0011592?source=11663) | Multiple (USA and Canada) | Software Engineering Intern – US & Canada 2023 Internship |
+| [Viasat](https://careers.viasat.com/careers/FolderDetail?folderId=11400) | Multiple | Software Engineer Intern |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
