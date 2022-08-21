@@ -173,6 +173,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Nasdaq](https://nasdaq.wd1.myworkdayjobs.com/en-US/US_External_Career_Site/job/Denver/Software-Engineer-ing-Intern---US---Canada-2023-Internship_R0011592?source=11663) | Multiple (USA and Canada) | Software Engineering Intern – US & Canada 2023 Internship |
 | [Viasat](https://careers.viasat.com/careers/FolderDetail?folderId=11400) | Multiple | Software Engineer Intern |
 | [Paycom](https://pc00.paycomonline.com/v4/ats/web.php/jobs/ViewJobDetails?job=22653&clientkey=A38173AIE92874820ALRE20847CDE927PIW76526&source=LinkedIn) | Multiple (USA) | Software Development Intern |
+| [Amazon AWS](https://www.linkedin.com/jobs/view/3200934709/) | Multiple locations | Software Dev Engineer Intern (Summer 2023) |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
