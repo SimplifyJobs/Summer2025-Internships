@@ -175,6 +175,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Paycom](https://pc00.paycomonline.com/v4/ats/web.php/jobs/ViewJobDetails?job=22653&clientkey=A38173AIE92874820ALRE20847CDE927PIW76526&source=LinkedIn) | Multiple (USA) | Software Development Intern |
 | [Qvest](https://jobs.lever.co/qvest.us/8dc881a8-45fe-45e2-ab2e-eff6618f7f28/) | Austin, Texas | Software Engineering Intern (cover letter required) |
 | [Trihydro Corporation](https://trihydro.hua.hrsmart.com/hr/ats/Posting/view/672) | Laramie, WY | Software Developer Intern|
+| [Datadog](https://app.ripplematch.com/job/datadog/692468c7/) | New York, Boston | Software Engineer Intern |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
