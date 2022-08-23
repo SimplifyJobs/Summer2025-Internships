@@ -62,6 +62,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Morgan Stanley](https://morganstanley.tal.net/vx/candidate/apply/12954)                                                                                                     | NYC, NY                              | Technology Summer Analyst                                                                                |
 | NRO | Chantilly, VA | **🔒 Closed 🔒** NRO Cadre Student Internship Program |
 | [Optiver](https://www.optiver.com/working-at-optiver/career-opportunities/?filter-level=internship)                                                                                       | Chicago, IL; Austin, TX                          | Software Engineering, Quantitative Trader (sponsorship now available for both)                                                                                               |
+| [Paypal](https://paypal.eightfold.ai/careers?query=intern&pid=274890684413&Job%20Category=&Country=&domain=paypal.com) | Multiple Locations in United States  | Software Engineer Intern |
 | Procter & Gamble | Cincinnati, OH                              |  **🔒 Closed 🔒** Information Technology, Software Engineering (sponsorship NOT available)
 | Putnam Investments | Boston, MA  | **🔒 Closed 🔒** Software Engineer |
 | SIG | Philadelphia, PA; Chicago, IL; NYC, NY                     |  **🔒 Closed 🔒** Quant Trading, Software Engineering Expression of Interest |
