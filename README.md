@@ -176,6 +176,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Qvest](https://jobs.lever.co/qvest.us/8dc881a8-45fe-45e2-ab2e-eff6618f7f28/) | Austin, Texas | Software Engineering Intern (cover letter required) |
 | [Trihydro Corporation](https://trihydro.hua.hrsmart.com/hr/ats/Posting/view/672) | Laramie, WY | Software Developer Intern|
 | [Datadog](https://app.ripplematch.com/job/datadog/692468c7/) | New York, Boston | Software Engineer Intern |
+| [Paypal](https://paypal.eightfold.ai/careers/job?domain=paypal.com&query=intern&pid=274890684413&Job Category=&Country=) | Multiple Locations in United States  | Software Engineer Intern |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
@@ -186,7 +187,6 @@ Make a [pull request](https://github.com/susam/gitpr#create-pull-request) to hel
   <img src="https://contrib.rocks/image?repo=pittcsc/Summer2023-Internships&columns=24&max=480" />
 </a>
 *Made with [contrib.rocks](https://contrib.rocks).*
-
 
 
 
