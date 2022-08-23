@@ -62,7 +62,6 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Morgan Stanley](https://morganstanley.tal.net/vx/candidate/apply/12954)                                                                                                     | NYC, NY                              | Technology Summer Analyst                                                                                |
 | NRO | Chantilly, VA | **🔒 Closed 🔒** NRO Cadre Student Internship Program |
 | [Optiver](https://www.optiver.com/working-at-optiver/career-opportunities/?filter-level=internship)                                                                                       | Chicago, IL; Austin, TX                          | Software Engineering, Quantitative Trader (sponsorship now available for both)                                                                                               |
-| [Paypal](https://paypal.eightfold.ai/careers?query=intern&pid=274890684413&Job%20Category=&Country=&domain=paypal.com) | Multiple Locations in United States  | Software Engineer Intern |
 | Procter & Gamble | Cincinnati, OH                              |  **🔒 Closed 🔒** Information Technology, Software Engineering (sponsorship NOT available)
 | Putnam Investments | Boston, MA  | **🔒 Closed 🔒** Software Engineer |
 | SIG | Philadelphia, PA; Chicago, IL; NYC, NY                     |  **🔒 Closed 🔒** Quant Trading, Software Engineering Expression of Interest |
@@ -177,6 +176,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Qvest](https://jobs.lever.co/qvest.us/8dc881a8-45fe-45e2-ab2e-eff6618f7f28/) | Austin, Texas | Software Engineering Intern (cover letter required) |
 | [Trihydro Corporation](https://trihydro.hua.hrsmart.com/hr/ats/Posting/view/672) | Laramie, WY | Software Developer Intern|
 | [Datadog](https://app.ripplematch.com/job/datadog/692468c7/) | New York, Boston | Software Engineer Intern |
+| [Paypal](https://paypal.eightfold.ai/careers?query=intern&pid=274890684413&Job%20Category=&Country=&domain=paypal.com) | Multiple Locations in United States  | Software Engineer Intern |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
@@ -187,7 +187,6 @@ Make a [pull request](https://github.com/susam/gitpr#create-pull-request) to hel
   <img src="https://contrib.rocks/image?repo=pittcsc/Summer2023-Internships&columns=24&max=480" />
 </a>
 *Made with [contrib.rocks](https://contrib.rocks).*
-
 
 
 
