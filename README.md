@@ -178,6 +178,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Datadog](https://app.ripplematch.com/job/datadog/692468c7/) | New York, Boston | Software Engineer Intern |
 | [Paypal](https://paypal.eightfold.ai/careers/job?domain=paypal.com&query=intern&pid=274890684413&Job%20Category=&Country=) | Multiple Locations in United States  | Software Engineer Intern |
 | [NetApp](https://netapp.eightfold.ai/careers?seniority=Intern&pid=12955970&domain=netapp.com&triggerGoButton=false) | Multiple (USA) | Software Engineering Intern |
+| [Scale AI](https://boards.greenhouse.io/scaleai/jobs/4037917005) | San Francisco, CA | Software Engineering Intern |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
