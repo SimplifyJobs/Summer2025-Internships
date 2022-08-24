@@ -177,6 +177,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Trihydro Corporation](https://trihydro.hua.hrsmart.com/hr/ats/Posting/view/672) | Laramie, WY | Software Developer Intern|
 | [Datadog](https://app.ripplematch.com/job/datadog/692468c7/) | New York, Boston | Software Engineer Intern |
 | [Paypal](https://paypal.eightfold.ai/careers/job?domain=paypal.com&query=intern&pid=274890684413&Job%20Category=&Country=) | Multiple Locations in United States  | Software Engineer Intern |
+| [NetApp](https://netapp.eightfold.ai/careers?seniority=Intern&pid=12955970&domain=netapp.com&triggerGoButton=false) | Multiple (USA) | Software Engineering Intern |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
@@ -187,6 +188,7 @@ Make a [pull request](https://github.com/susam/gitpr#create-pull-request) to hel
   <img src="https://contrib.rocks/image?repo=pittcsc/Summer2023-Internships&columns=24&max=480" />
 </a>
 *Made with [contrib.rocks](https://contrib.rocks).*
+
 
 
 
