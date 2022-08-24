@@ -181,6 +181,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Benchling](https://www.benchling.com/careers?jobId=4475866&gh_src=838b85821us) | San Francisco, CA | Software Engineer Intern |
 | [Scale AI](https://boards.greenhouse.io/scaleai/jobs/4037917005) | San Francisco, CA | Software Engineering Intern |
 | [PathAI](https://www.pathai.com/join-our-team/careers/?gh_jid=6327790002) | Boston, MA | Software Engineer Intern |
+| [Gap Inc.](https://www.gapinc.com/en-us/jobs/w76/36/2023-undergrad-summer-internship-%e2%80%93-data-engineer-r?rx_job=R47636&rx_medium=post&rx_paid=0&rx_r=none&rx_source=linkedin&rx_ts=20220824T145201Z&src=JB-10340&rx_viewer=b62750b4137311edb7eb7562aae6d1b5b708253342f048a48f05ece9b63d6b13) | Remote | Data Engineer Intern, SWE Intern |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
