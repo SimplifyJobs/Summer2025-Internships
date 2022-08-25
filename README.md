@@ -188,7 +188,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [GoDaddy](https://boards.greenhouse.io/eventsandinterns/jobs/5271388003) | Multiple Locations, Remote | Software Engineering Intern |
 | [Ridgeline](https://boards.greenhouse.io/ridgeline/jobs/5261354003?gh_jid=5261354003) | Incline Village, NV | Software Engineer Intern |
 | [Exact Sciences](https://exactsciences.wd1.myworkdayjobs.com/Exact_Sciences/job/US---AZ---Phoenix/Software-Engineer-Intern_R22-412) | Phoenix, AZ | Software Engineer Intern |
-
+| [Netflix](https://jobs.netflix.com/jobs/225717269) | Multiple Locations | Software Engineer New Grad |
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
 
