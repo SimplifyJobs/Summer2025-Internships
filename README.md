@@ -188,6 +188,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [GoDaddy](https://boards.greenhouse.io/eventsandinterns) | Multiple Locations, Remote | Multiple Intern Position |
 | [Ridgeline](https://boards.greenhouse.io/ridgeline/jobs/5261354003?gh_jid=5261354003) | Incline Village, NV | Software Engineer Intern |
 | [Exact Sciences](https://exactsciences.wd1.myworkdayjobs.com/Exact_Sciences/job/US---AZ---Phoenix/Software-Engineer-Intern_R22-412) | Phoenix, AZ | Software Engineer Intern |
+| [Keysight Technologies](https://jobs.keysight.com/job/Santa-Rosa-Software-Development-Internship-CA-95401/926268100/) | Santa Rosa, CA | Software Development Intern |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
