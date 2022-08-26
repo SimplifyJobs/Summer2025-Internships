@@ -118,7 +118,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Intuit](https://jobs.intuit.com/job/-/-/27595/33672146000) | Mountain View, California; San Diego, California; Plano, Texas; New York, New York; Atlanta, Georgia | Software Engineer Intern |
 | [Uber](https://university-uber.icims.com/jobs/116847/job) | Various | 2023 Software Engineer Internship |
 | [Hudson River Trading](https://www.hudsonrivertrading.com/careers/?_4118765=Internship) | New York, Austin, Chicago | Algorithm Development, Software Engineering (C++ or Python) |
-| [Sentry.io](https://sentry.io/careers/internships/) | San Francisco, Toronto, Vienna | **SF and Toronto closed** Software Engineer, Intern (Summer 2023) |
+| Sentry.io | San Francisco, Toronto, Vienna | **🔒 Closed 🔒** Software Engineer, Intern (Summer 2023) |
 | Nordstrom | Remote, Seattle | **🔒 Closed 🔒** Software Engineering Internship Summer 2023 |
 | [Bluestaq](https://bluestaq.isolvedhire.com/jobs/664442.html) | Colorado Springs, CO | Software Development Internship Summer 2023(U.S. citizen required) |
 | [Johnson & Johnson](https://jobs.jnj.com/jobs/2206063332W?lang=en-us&previousLocale=en-US) | Various | Software Development Internship Summer 2023 (sponsorship not available) |
@@ -189,6 +189,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Ridgeline](https://boards.greenhouse.io/ridgeline/jobs/5261354003?gh_jid=5261354003) | Incline Village, NV | Software Engineer Intern |
 | [Exact Sciences](https://exactsciences.wd1.myworkdayjobs.com/Exact_Sciences/job/US---AZ---Phoenix/Software-Engineer-Intern_R22-412) | Phoenix, AZ | Software Engineer Intern |
 | [Keysight Technologies](https://jobs.keysight.com/job/Santa-Rosa-Software-Development-Internship-CA-95401/926268100/) | Santa Rosa, CA | Software Development Intern |
+| [Rippling](https://www.rippling.com/careers/5237088003?gh_jid=5237088003) | SF, CA | Software Engineering Intern, Summer 2023 |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
