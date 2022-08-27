@@ -135,7 +135,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [KLA](https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/Intern----SW-Algo_2216150-1?bid=370&source=Job_Board_LinkedIn) | Ann Arbor, Michigan | SWE Intern
 | [Qualtrics](https://www.qualtrics.com/careers/us/en/job/87166/Software-Engineering-Intern-Summer-2023-Provo-UT) | Provo, UT; [Reston, VA](https://www.qualtrics.com/careers/us/en/job/3887454/Software-Engineering-Intern-Summer-2023-Reston-Virginia); [Seattle, WA](https://www.qualtrics.com/careers/us/en/job/151240/Software-Engineering-Intern-Summer-2023-Seattle-WA) | Software Engineering Intern (no sponsorships available) |
 | [Neighbor](https://jobs.lever.co/neighbor/17671a1c-e487-44cb-934a-2ca06b65f070) | LEHI, UTAH | **🔒 Closed 🔒** Software Engineering Intern (On-site) |
-| [National Instrument](https://pef.fa.us1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/5920/?utm_medium=jobshare) | Austin, TX | Software Engineering Intern |
+| [National Instrument](https://pef.fa.us1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/5920/?utm_medium=jobshare) | Austin, TX | Software Engineering Intern (No sponsorships)|
 | [Duolingo](https://boards.greenhouse.io/duolingo/jobs/6302411002) | Pittsburgh, PA | Software Engineer Intern |
 | [Audible](https://www.amazon.jobs/en/jobs/2125073/audible-software-development-engineer-internship) | Newark, NJ | SDE Internship |
 | [Chick-fil-A](https://careers-chickfila.icims.com/jobs/12376/2023-software-engineering-summer-intern/job) | Atlanta, GA | **🔒 Closed 🔒** Software Engineering Intern |
