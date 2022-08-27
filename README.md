@@ -81,6 +81,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | Applied Intuition | Mountain View, CA                     |  **🔒 Closed 🔒** Software Engineer                                                                          |
 | [Palantir](https://jobs.lever.co/palantir?commitment=Internship&team=Dev)| Multiple Locations in United States | Early Admissions - Software Engineer, Internship |
 | [Tower Research Capital](https://www.tower-research.com/open-positions)                                                                                    | New York, NY, Chicago, IL                    | Quantitative Trader, Quantitative Developer                                                                          | |
+| [Mastercard](https://careers.mastercard.com/us/en/job/R-173598/Software-Engineer-Intern)|  Multiple locations in United States | Software Engineer Intern, Information Security Engineer Intern |
 | [Citadel](https://www.citadel.com/careers/open-positions/positions-for-students/?keyword=Intern)| Chicago, New York | Software Engineer Intern and Quant Research Analyst|
 | [Neocis](https://www.neocis.com/careers/?gnk=job&gni=8a7887ac81818f790181a70be60322fb&lang=en)| Miami, FL | Software Engineering Internship |
 | [Hewlett Packard Enterprise](https://careers.hpe.com/us/en/search-results?keywords=software%20intern) | Multiple Locations in United States | Software Developer Intern, Software Engineering Intern
