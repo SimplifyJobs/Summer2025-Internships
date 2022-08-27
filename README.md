@@ -187,7 +187,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Mathworks](https://www.mathworks.com/company/jobs/opportunities/25610-multiple-openings-engineering-development-group-internship?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | Natick, MA | Engineering Development Group Intern (Spring and Summer 2023) |
 | [GoDaddy](https://boards.greenhouse.io/eventsandinterns) | Multiple Locations, Remote | Multiple Intern Position |
 | [Ridgeline](https://boards.greenhouse.io/ridgeline/jobs/5261354003?gh_jid=5261354003) | Incline Village, NV | Software Engineer Intern (No visa sponsorships) |
-| [Exact Sciences](https://exactsciences.wd1.myworkdayjobs.com/Exact_Sciences/job/US---AZ---Phoenix/Software-Engineer-Intern_R22-412) | Phoenix, AZ | Software Engineer Intern |
+| [Exact Sciences](https://exactsciences.wd1.myworkdayjobs.com/Exact_Sciences/job/US---AZ---Phoenix/Software-Engineer-Intern_R22-412) | Phoenix, AZ | Software Engineer Intern |(No visa sponsorships)
 | [Keysight Technologies](https://jobs.keysight.com/job/Santa-Rosa-Software-Development-Internship-CA-95401/926268100/) | Santa Rosa, CA | Software Development Intern |
 | [Rippling](https://www.rippling.com/careers/5237088003?gh_jid=5237088003) | SF, CA | Software Engineering Intern, Summer 2023 |
 
