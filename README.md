@@ -78,7 +78,6 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [BlackRock](https://blackrock.tal.net/vx/lang-en-GB/mobile-0/brand-3/xf-ab3ba52a6a61/wid-1/candidate/so/pm/1/pl/1/opp/6075-Summer-Internship-Program-Americas/en-GB)         | Multiple Locations in United States                                | Select Business Area -> Technology, Business Division -> Software Engineering in the application             |
 | [Two Sigma](https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Quantitative-Researcher-Internship/10972)                                                                                    | New York, NY                     | Quant Research, [SWE](https://careers.twosigma.com/careers/JobDetail?jobId=11002) |
 | [IMC](https://imc.wd5.myworkdayjobs.com/en-US/invitation/jobs/details/Software-Engineer-Intern----Summer-2023_REQ-01961?q=internship)                                                                                    | Chicago                     | SDE Intern, Quant Research, Trading |
-| Applied Intuition | Mountain View, CA                     |  **🔒 Closed 🔒** Software Engineer                                                                          |
 | [Palantir](https://jobs.lever.co/palantir?commitment=Internship&team=Dev)| Multiple Locations in United States | Early Admissions - Software Engineer, Internship |
 | [Tower Research Capital](https://www.tower-research.com/open-positions)                                                                                    | New York, NY, Chicago, IL                    | Quantitative Trader, Quantitative Developer                                                                          | |
 | [Mastercard](https://careers.mastercard.com/us/en/job/R-173598/Software-Engineer-Intern)|  Multiple locations in United States | Software Engineer Intern, Information Security Engineer Intern |
@@ -195,6 +194,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Insitro](https://jobs.lever.co/Insitro/abbbfa4d-5d2c-4b93-993a-518ca8cc305f) |SF, CA | Software Engineering Intern|
 | [State Farm](https://jobs.statefarm.com/main/jobs/27437?lang=en-us) | Multiple Locations | Software Engineering Intern Summer 2023 (No sponsorship) |
 | [BNY Mellon](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions?keyword=2023+START+Technology+Intern) | New York, New Jersey, Pittsburgh | [2023 START Technology Intern Program – Developer](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/26406?utm_medium=jobshare&src=JB-10200) <br> [2023 START Technology Intern Program – Data Science](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/26449/?utm_medium=jobshare&src=JB-10200) |
+| [Applied Intuition](https://boards.greenhouse.io/appliedintuition/jobs/4045296005?gh_jid=4045296005) | Mountain View, CA                     | Software Engineer                                                                          |
 
 
 <!-- Please leave a one line gap between this and the table -->
