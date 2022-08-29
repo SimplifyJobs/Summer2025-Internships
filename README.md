@@ -197,7 +197,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Applied Intuition](https://boards.greenhouse.io/appliedintuition/jobs/4045296005?gh_jid=4045296005) | Mountain View, CA                     | Software Engineer                                                                          |
 | [Workiva](https://workiva.wd1.myworkdayjobs.com/careers/job/Ames/XMLNAME-2023-Spring---Summer---Software-Engineer-Intern_R5800?source=LinkedIn) | Multiple Locations in the US | Software Engineer Intern (No Sponsorship)|
 | [Gallup](https://gallup.taleo.net/careersection/2/jobsearch.ftl) | Omaha, NE                     | [Technical Project Manager](https://gallup.taleo.net/careersection/2/jobdetail.ftl?job=05494), [Cybersecurity Analyst](https://gallup.taleo.net/careersection/2/jobdetail.ftl?job=05493), [Data Science](https://gallup.taleo.net/careersection/2/jobdetail.ftl?job=05492), [Quality Assurance](https://gallup.taleo.net/careersection/2/jobdetail.ftl?job=05491), [Software Developer](https://gallup.taleo.net/careersection/2/jobdetail.ftl?job=05490)                                                                          |
-| [Neuralink](https://boards.greenhouse.io/neuralink/jobs/5285389003) | Freemont, CA | Software Engineering Intern |
+| [Neuralink](https://boards.greenhouse.io/neuralink/jobs/5285389003) | Fremont, CA | Software Engineering Intern |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
