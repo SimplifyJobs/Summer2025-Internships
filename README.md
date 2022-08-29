@@ -200,6 +200,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Dell](https://dell.wd1.myworkdayjobs.com/ExternalNonPublic/job/Round-Rock-Texas-United-States/Software-Engineer-Intern_R206227) | Round Rock, Texas or Hopkinton, Massachusetts | Software Engineer Intern |
 | [Neuralink](https://boards.greenhouse.io/neuralink/jobs/5285389003) | Fremont, CA | Software Engineering Intern |
 | [Zillow](https://zillowgroup.eightfold.ai/careers/job/240531418207?domain=zillowgroup.com) | Remote | Software Development Engineer Intern |
+| [Taboola](https://www.taboola.com/careers/job/frontend-engineer-intern?gh_jid=4498767) | LA, CA | Frontend Engineer Intern |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
