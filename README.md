@@ -162,7 +162,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Seatgeek](https://seatgeek.com/jobs/125938) | New York, NY | **🔒 Closed 🔒** SWE Intern |
 | [GoodYear](https://jobs.goodyear.com/job/Akron-Global-Technology-%28Data-Science-and-Analytics%29-Co-op-Internship-OH-44301/923168600/?feedId=367300) | Akron, OH | Data Science Intern |
 | [Thomson Reuters](https://thomsonreuters.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Software-Engineer-Internship---Summer-2023_JREQ162362) | Eagan, MN | SWE Intern (No visa sponsorships)|
-| [Proofpoint](https://proofpoint.wd5.myworkdayjobs.com/ProofpointCareers/job/Broomfield-CO/Software-Developer-Summer-Intern---Undergrad_R8332) | Broomfield, CO | Software Developer Intern |
+| Proofpoint | Broomfield, CO | **🔒 Closed 🔒** Software Developer Intern |
 | [ServiceNow](https://careers.servicenow.com/careers/jobs/743999845895131EXT?lang=en-us&src=linkedin&sid=2d92f286-613b-4daf-9dfa-6340ffbecf73)| Santa Clara, CA | **🔒 Closed 🔒** Software Engineering Intern
 | [Convoy](https://boards.greenhouse.io/convoy/jobs/4631008004?gh_src=f0b55ea54us) | Seattle, WA | Software Engineer Intern |
 | [Lime](https://jobs.lever.co/lime/70477592-6eae-4fac-a33d-1c60e9177301) | SF, CA | Software Engineering Intern (Summer 2023) |
@@ -183,7 +183,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Scale AI](https://boards.greenhouse.io/scaleai/jobs/4037917005) | San Francisco, CA | Software Engineering Intern |
 | [PathAI](https://www.pathai.com/join-our-team/careers/?gh_jid=6327790002) | Boston, MA | Software Engineer Intern |
 | [Garda Capital Partners](https://boards.greenhouse.io/gardacp/jobs/4174194004?gh_src=60345d1f4us2) | New York, New York | Python Software Engineer Intern |
-| [Gap Inc.](https://www.gapinc.com/en-us/jobs/w76/36/2023-undergrad-summer-internship-%e2%80%93-data-engineer-r?rx_job=R47636&rx_medium=post&rx_paid=0&rx_r=none&rx_source=linkedin&rx_ts=20220824T145201Z&src=JB-10340&rx_viewer=b62750b4137311edb7eb7562aae6d1b5b708253342f048a48f05ece9b63d6b13) | Remote | Data Engineer Intern, SWE Intern |
+| [Gap Inc.](https://www.gapinc.com/en-us/jobs/w76/36/2023-undergrad-summer-internship-%e2%80%93-data-engineer-r?rx_job=R47636&rx_medium=post&rx_paid=0&rx_r=none&rx_source=linkedin&rx_ts=20220824T145201Z&src=JB-10340&rx_viewer=b62750b4137311edb7eb7562aae6d1b5b708253342f048a48f05ece9b63d6b13) | Remote | Data Engineer Intern, SWE Intern ("We are not able to provide visa sponsorship for this role.") |
 | [Epic Games](https://www.epicgames.com/site/en-US/careers/jobs?type=Intern&department=Engineering) | Multiple Locations | Multiple Intern Positions |
 | [Mathworks](https://www.mathworks.com/company/jobs/opportunities/25610-multiple-openings-engineering-development-group-internship?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | Natick, MA | Engineering Development Group Intern (Spring and Summer 2023) |
 | [GoDaddy](https://boards.greenhouse.io/eventsandinterns) | Multiple Locations, Remote | Multiple Intern Position |
@@ -197,8 +197,8 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Applied Intuition](https://boards.greenhouse.io/appliedintuition/jobs/4045296005?gh_jid=4045296005) | Mountain View, CA                     | Software Engineer                                                                          |
 | [Workiva](https://workiva.wd1.myworkdayjobs.com/careers/job/Ames/XMLNAME-2023-Spring---Summer---Software-Engineer-Intern_R5800?source=LinkedIn) | Multiple Locations in the US | Software Engineer Intern (No Sponsorship)|
 | [Gallup](https://gallup.taleo.net/careersection/2/jobsearch.ftl) | Omaha, NE                     | [Technical Project Manager](https://gallup.taleo.net/careersection/2/jobdetail.ftl?job=05494), [Cybersecurity Analyst](https://gallup.taleo.net/careersection/2/jobdetail.ftl?job=05493), [Data Science](https://gallup.taleo.net/careersection/2/jobdetail.ftl?job=05492), [Quality Assurance](https://gallup.taleo.net/careersection/2/jobdetail.ftl?job=05491), [Software Developer](https://gallup.taleo.net/careersection/2/jobdetail.ftl?job=05490)                                                                          |
-| [Neuralink](https://boards.greenhouse.io/neuralink/jobs/5285389003) | Freemont, CA | Software Engineering Intern |
 | [Dell](https://dell.wd1.myworkdayjobs.com/ExternalNonPublic/job/Round-Rock-Texas-United-States/Software-Engineer-Intern_R206227) | Round Rock, Texas or Hopkinton, Massachusetts | Software Engineer Intern |
+| [Neuralink](https://boards.greenhouse.io/neuralink/jobs/5285389003) | Fremont, CA | Software Engineering Intern |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
