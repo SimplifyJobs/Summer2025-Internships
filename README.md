@@ -158,7 +158,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Redfin](https://redfin.wd1.myworkdayjobs.com/en-US/redfin_careers/job/Software-Developer--2023-Internship_49169-1) | Seattle, Frisco, San Francisco | Software Developer: 2023 Internship |
 | [F5](https://ffive.wd5.myworkdayjobs.com/en-US/f5jobs/job/Seattle/Summer-2023-Internship---Software-Engineering_RP1026625) | Seattle, Boulder (Louisville), Boston, San Jose | SWE Intern |
 | [DriveTime](https://drivetime.wd1.myworkdayjobs.com/DriveTime/job/Tempe-AZ/Software-Engineer-Intern_R2271) | Tempe, Dallas | SWE Intern |
-| [Seatgeek](https://seatgeek.com/jobs/125938) | New York, NY | **🔒 Closed 🔒** SWE Intern |
+| [SeatGeek] | New York, NY | **🔒 Closed 🔒** SWE Intern |
 | [GoodYear](https://jobs.goodyear.com/job/Akron-Global-Technology-%28Data-Science-and-Analytics%29-Co-op-Internship-OH-44301/923168600/?feedId=367300) | Akron, OH | Data Science Intern |
 | [Thomson Reuters](https://thomsonreuters.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Software-Engineer-Internship---Summer-2023_JREQ162362) | Eagan, MN | SWE Intern (No visa sponsorships)|
 | Proofpoint | Broomfield, CO | **🔒 Closed 🔒** Software Developer Intern |
