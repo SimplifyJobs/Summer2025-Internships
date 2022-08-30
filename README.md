@@ -199,6 +199,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Intel](https://jobs.intel.com/ShowJob/Id/3543774/Undergraduate%20Intern%20%20%20Graphics%20Software) |  Folsom, CA |  Graphics Intern |               
 | [Dell](https://dell.wd1.myworkdayjobs.com/ExternalNonPublic/job/Round-Rock-Texas-United-States/Software-Engineer-Intern_R206227) | Round Rock, Texas or Hopkinton, Massachusetts | Software Engineer Intern |
 | [Neuralink](https://boards.greenhouse.io/neuralink/jobs/5285389003) | Fremont, CA | Software Engineering Intern |
+| [Rivian](https://boards.greenhouse.io/rivian/jobs/5199457003) | Irvine, CA | Product Development Engineering Interns |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
