@@ -87,8 +87,8 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Blackstone](https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/details/XMLNAME-2023-Blackstone-Technology-and-Innovations--Software-Developer-Summer-Analyst--New-York-_23913) | Miami, New York | Software Developer Summer Analyst |
 | Northrop Grumman | Roy, Utah | **🔒 Closed 🔒** Software Engineer Intern |
 | [Oracle](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions?keyword=engineering+intern&lastSelectedFacet=AttributeChar4&selectedFlexFieldsFacets=%22AttributeChar4%7CStudent%2FIntern%22&selectedLocationsFacet=300000000149325&selectedPostingDatesFacet=30) | United States | Multiple Software Engineer Interns - Corporate Architecture/Analytics Cloud/DB and Systems/Netsuite, etc. (Visa / work permit sponsorship is not available for ADA SWE Intern Position)
-| [Lockheed Martin](https://www.lockheedmartinjobs.com/search-jobs/ALL?orgIds=694&alp=ALL&alt=0&ascf=[{%22Key%22:%22job_status%22,%22Value%22:%22Co-op%2fSummer+Intern%22}]&) | Location dependent on role | [Software Engineer Asc - Intern](https://www.lockheedmartinjobs.com/job/king-of-prussia/software-engineer-asc-intern/694/16648313536) (Pennsylvania, US), [AI Machine Learning Engineer Asc - Intern](https://www.lockheedmartinjobs.com/job/king-of-prussia/ai-machine-learning-engineer-asc-intern/694/32606142112) (Multiple, all US)
-| [Freddie Mac](https://careers.freddiemac.com/us/en/job/JR7788/Multifamily-Software-Developer-Intern-Hybrid-or-Remote-Work-Schedule) | McLean, VA (Remote Available) | Multifamily Software Developer Intern
+| [Lockheed Martin](https://www.lockheedmartinjobs.com/search-jobs/ALL?orgIds=694&alp=ALL&alt=0&ascf=[{%22Key%22:%22job_status%22,%22Value%22:%22Co-op%2fSummer+Intern%22}]&) | Location dependent on role | [Software Engineer Asc - Intern](https://www.lockheedmartinjobs.com/job/king-of-prussia/software-engineer-asc-intern/694/16648313536) (Pennsylvania, US), [AI Machine Learning Engineer Asc - Intern](https://www.lockheedmartinjobs.com/job/king-of-prussia/ai-machine-learning-engineer-asc-intern/694/32606142112) (Multiple, all US) (US Citizenship required) |
+| [Freddie Mac](https://careers.freddiemac.com/us/en/job/JR7788/Multifamily-Software-Developer-Intern-Hybrid-or-Remote-Work-Schedule) | McLean, VA (Remote Available) | Multifamily Software Developer Intern |
 | [Jane Street](https://www.janestreet.com/join-jane-street/position/6213528002/) | New York | Software Engineer Summer Internship 2023
 | [Asana](https://boards.greenhouse.io/earlycareerprograms) | San Francisco, New York City, Vancouver | Summer 2023 Engineering Internship|
 | [Streamforge](https://angel.co/l/2vvkF3) | Remote | Videogames + Influencer Marketing + Twitch Streaming + YouTubers / [Software Engineer Position Summer 2023](https://angel.co/l/2vvkF3) |
@@ -144,7 +144,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Accenture](https://www.accenture.com/us-en/careers/jobdetails?id=R00098803_en&title=Summer+Analyst+(Intern)+Development+Programs+-+NAELFY23) | Multiple Locations in the US | Summer Analyst - Technology Development Program |
 | [Quantcast](https://jobs.lever.co/quantcast/54c549a1-10cc-4942-8765-c7ffdf253b1d) | San Francisco, CA | Software Engineering Intern |
 | [Belvedere Trading](https://jobs.lever.co/belvederetrading/5098c277-d2a6-41eb-ab9c-b80ded219154) | Chicago, IL | Software Engineering Intern |
-| [Samsung](https://boards.greenhouse.io/samsungresearchamericainternship/jobs/5868447002?gh_src=13c38d562us) | Mountain View, CA | Software Engineer Intern |
+| Samsung | Mountain View, CA | **🔒 Closed 🔒** Software Engineer Intern |
 | [Jump Trading](https://www.jumptrading.com/careers/?locations=Chicago+Austin+New-York+New-Jersey+Remote+Cranberry-Township&titleSearch=campus+intern) | Chicago, IL | [Campus \| Software Engineer 2023 (Summer Intern)](https://www.jumptrading.com/careers/4452653/) <br> [Campus \| FPGA Engineer 2023 (Summer Intern)](https://www.jumptrading.com/careers/4471649/) <br> [Campus \| Tech Ops Engineer 2023 (Intern)](https://www.jumptrading.com/careers/4387580/) <br> [Campus \| Data Engineer 2023 (Summer Intern)](https://www.jumptrading.com/careers/4471685/) <br> [Campus \| Web Dev / UI Software Engineer 2023 (Summer Intern)](https://www.jumptrading.com/careers/4471639/) |
 | [Databricks](https://www.databricks.com/company/careers/open-positions/job?gh_jid=6289910002) | San Francisco, Seattle | Software Engineering Intern |
 | [American Express](https://aexp.eightfold.ai/careers/job/12787284) | New York, New York | 2023 Technology Software Engineer Summer Internship (no sponsorship) |
@@ -200,6 +200,9 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Dell](https://dell.wd1.myworkdayjobs.com/ExternalNonPublic/job/Round-Rock-Texas-United-States/Software-Engineer-Intern_R206227) | Round Rock, Texas or Hopkinton, Massachusetts | Software Engineer Intern |
 | [Neuralink](https://boards.greenhouse.io/neuralink/jobs/5285389003) | Fremont, CA | Software Engineering Intern |
 | [Rivian](https://boards.greenhouse.io/rivian/jobs/5199457003) | Irvine, CA | Product Development Engineering Interns |
+| [Zillow](https://zillowgroup.eightfold.ai/careers/job/240531418207?domain=zillowgroup.com) | Remote | Software Development Engineer Intern |
+| [Taboola](https://www.taboola.com/careers/job/frontend-engineer-intern?gh_jid=4498767) | LA, CA | Frontend Engineer Intern |
+| [Arrowstreet Capital](https://arrowstreetcapital.wd5.myworkdayjobs.com/en-US/Arrowstreet?q=intern) | Boston, MA | Quantitative Developer Intern, Quantitative Researcher Intern |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
