@@ -196,7 +196,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Applied Intuition](https://boards.greenhouse.io/appliedintuition/jobs/4045296005?gh_jid=4045296005) | Mountain View, CA | Software Engineer |
 | [Workiva](https://workiva.wd1.myworkdayjobs.com/careers/job/Ames/XMLNAME-2023-Spring---Summer---Software-Engineer-Intern_R5800?source=LinkedIn) | Multiple Locations in the US | Software Engineer Intern (No Sponsorship)|
 | [Gallup](https://gallup.taleo.net/careersection/2/jobsearch.ftl) | Omaha, NE | [Technical Project Manager](https://gallup.taleo.net/careersection/2/jobdetail.ftl?job=05494), [Cybersecurity Analyst](https://gallup.taleo.net/careersection/2/jobdetail.ftl?job=05493), [Data Science](https://gallup.taleo.net/careersection/2/jobdetail.ftl?job=05492), [Quality Assurance](https://gallup.taleo.net/careersection/2/jobdetail.ftl?job=05491), [Software Developer](https://gallup.taleo.net/careersection/2/jobdetail.ftl?job=05490)                                                                          |
-| [Intel](https://jobs.intel.com/ShowJob/Id/3543774/Undergraduate%20Intern%20%20%20Graphics%20Software) |  Folsom, CA |  Graphics Intern |               
+| [Intel](https://jobs.intel.com/ShowJob/Id/3543774/Undergraduate%20Intern%20%20%20Graphics%20Software) |  Folsom, CA |  Graphics Intern |
 | [Dell](https://dell.wd1.myworkdayjobs.com/ExternalNonPublic/job/Round-Rock-Texas-United-States/Software-Engineer-Intern_R206227) | Round Rock, Texas or Hopkinton, Massachusetts | Software Engineer Intern |
 | [Neuralink](https://boards.greenhouse.io/neuralink/jobs/5285389003) | Fremont, CA | Software Engineering Intern |
 | [Rivian](https://boards.greenhouse.io/rivian/jobs/5199457003) | Irvine, CA | Product Development Engineering Interns |
@@ -205,6 +205,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Arrowstreet Capital](https://arrowstreetcapital.wd5.myworkdayjobs.com/en-US/Arrowstreet?q=intern) | Boston, MA | Quantitative Developer Intern, Quantitative Researcher Intern |
 | [Deloitte](https://apply.deloitte.com/careers/JobDetail/Deloitte-Risk-Financial-Advisory-Software-Engineer-Intern-Technology-Assets-Summer-2023/114948) | Multiple Locations | Deloitte Risk & Financial Advisory Software Engineer Intern |
 | [Linkedin](https://www.linkedin.com/jobs/view/3239137528/) | Sunnyvale, CA | [Software Engineer Intern](https://www.linkedin.com/jobs/view/3239137528/), [Frontend Engineer Intern](https://www.linkedin.com/jobs/view/3239134748/), [Mobile Engineer Intern](https://www.linkedin.com/jobs/view/3239139155/)|
+| [Stripe](https://stripe.com/jobs/search?query=Software+Engineering+Intern) | Multiple Locations | Software Engineer Intern (Seattle, San Francisco, New York, Dublin, Singapore) |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
