@@ -207,6 +207,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Linkedin](https://www.linkedin.com/jobs/view/3239137528/) | Sunnyvale, CA | [Software Engineer Intern](https://www.linkedin.com/jobs/view/3239137528/), [Frontend Engineer Intern](https://www.linkedin.com/jobs/view/3239134748/), [Mobile Engineer Intern](https://www.linkedin.com/jobs/view/3239139155/)|
 | [Stripe](https://stripe.com/jobs/search?query=Software+Engineering+Intern) | Multiple Locations | Software Engineer Intern (Seattle, San Francisco, New York, Dublin, Singapore) |
 | [Discover Financial Services](https://jobs.discover.com/job-search/?keyword=internship&department=&page=&location=&remoteOnly=) | Multiple Locations (IL, TX, UK) | Business Technology, Data & Analytics Internship (No Sponsorship) |
+| [Riot Games](https://www.riotgames.com/en/work-with-us/job/4522361/software-engineering-intern-los-angeles-usa) | Los Angelos | Software Engineering Intern |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
