@@ -206,7 +206,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Deloitte](https://apply.deloitte.com/careers/JobDetail/Deloitte-Risk-Financial-Advisory-Software-Engineer-Intern-Technology-Assets-Summer-2023/114948) | Multiple Locations | Deloitte Risk & Financial Advisory Software Engineer Intern |
 | [Linkedin](https://www.linkedin.com/jobs/view/3239137528/) | Sunnyvale, CA | [Software Engineer Intern](https://www.linkedin.com/jobs/view/3239137528/), [Frontend Engineer Intern](https://www.linkedin.com/jobs/view/3239134748/), [Mobile Engineer Intern](https://www.linkedin.com/jobs/view/3239139155/)|
 | [Stripe](https://stripe.com/jobs/search?query=Software+Engineering+Intern) | Multiple Locations | Software Engineer Intern (Seattle, San Francisco, New York, Dublin, Singapore) |
-| [Discover Financial Services](https://jobs.discover.com/job-search/?keyword=internship&department=&page=&location=&remoteOnly=) | Multiple Locations | Business Technology, Data & Analytics Internship (IL, TX, UK) |
+| [Discover Financial Services](https://jobs.discover.com/job-search/?keyword=internship&department=&page=&location=&remoteOnly=) | Multiple Locations (IL, TX, UK) | Business Technology, Data & Analytics Internship (No Sponsorship) |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
