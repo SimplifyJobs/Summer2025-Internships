@@ -213,6 +213,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Visa](https://jobs.smartrecruiters.com/Visa/743999848890091-intern-software-engineer-undergrad-multiple-locations-summer-2022) | Austin, TX | Software Engineer Intern |
 | [Chewy](https://careers.chewy.com/us/en/search-results?keywords=%22software%20engineer%20intern%22) | Multiple Locations (MA, MN, FL, WA) | Software Engineer Intern |
 | [Riot Games](https://www.riotgames.com/en/work-with-us/job/4522361/software-engineering-intern-los-angeles-usa) | Los Angeles | Software Engineering Intern |
+| [Tesla](https://www.tesla.com/careers/search/job/software-engineering-internship-spring-2023-136642) | Palo Alto, CA | Software Engineering Intern |
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
 
