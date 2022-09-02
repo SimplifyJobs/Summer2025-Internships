@@ -207,6 +207,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Linkedin](https://www.linkedin.com/jobs/view/3239137528/) | Sunnyvale, CA | [Software Engineer Intern](https://www.linkedin.com/jobs/view/3239137528/), [Frontend Engineer Intern](https://www.linkedin.com/jobs/view/3239134748/), [Mobile Engineer Intern](https://www.linkedin.com/jobs/view/3239139155/)|
 | [Stripe](https://stripe.com/jobs/search?query=Software+Engineering+Intern) | Multiple Locations | Software Engineer Intern (Seattle, San Francisco, New York, Dublin, Singapore) |
 | [Discover Financial Services](https://jobs.discover.com/job-search/?keyword=internship&department=&page=&location=&remoteOnly=) | Multiple Locations (IL, TX, UK) | Business Technology, Data & Analytics Internship (No Sponsorship) |
+| [IXL](https://www.ixl.com/company/careers?gh_jid=6304526002&gh_src=e358d0722) | San Mateo, CA | Software Engineer Intern |
 | [Affirm](https://boards.greenhouse.io/affirm/jobs/5283828003) | Remote | Software Engineer Intern |
 | [Visa](https://jobs.smartrecruiters.com/Visa/743999848890091-intern-software-engineer-undergrad-multiple-locations-summer-2022) | Austin, TX | Software Engineer Intern |
 | [Chewy](https://careers.chewy.com/us/en/search-results?keywords=%22software%20engineer%20intern%22) | Multiple Locations (MA, MN, FL, WA) | Software Engineer Intern |
