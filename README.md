@@ -223,7 +223,8 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Nuro](https://www.nuro.ai/careersitem?gh_jid=4524036&gh_src=bcd22a501us) | Mountain View | Software Engineer (SRE) Intern |
 | [Relativity Space](https://boards.greenhouse.io/relativity/jobs/6363660002?gh_jid=6363660002) | Long Beach, CA | Software Engineer Intern (C/C++) |
 | [Dropbox](https://www.dropbox.com/jobs/listing/4380645?gh_src=aonhf1) | Remote (US, Canada) | Software Engineer Intern |
-| [MongoDB](https://app.ripplematch.com/job/mongodb/6d3b16e9/?tl=8ef662b7&from_page=tracking_link) | NY, ATX, SF | Software Engineer Intern |
+| [MongoDB](https://app.ripplematch.com/job/mongodb/6d3b16e9/) | NY, ATX, SF | Software Engineer Intern |
+
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
 
