@@ -231,6 +231,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Atlassian](https://jobs.lever.co/atlassian/8598139f-e53c-4353-ad2a-3f9d32e969c2) | Mountain View, CA | Software Engineer Intern (No Sponsorship) |
 | [SoundHound](https://www.soundhound.com/careers/) | Santa Clara, CA | [Software Engineering Intern, Acoustic Modeling](https://boards.greenhouse.io/soundhoundinc/jobs/6365344002) <br> (Cover letter required) |
 | [Slack](https://slack.com/careers/university-recruiting) | San Francisco, CA | [2023 Summer Intern - Software Engineer](https://salesforce.wd1.myworkdayjobs.com/Slack/job/California---San-Francisco/XMLNAME-2023-Summer-Intern---Software-Engineer--Slack-_JR162338) |
+| [Samsara](https://boards.greenhouse.io/samsara/jobs/4522234?gh_jid=4522234) | San Francisco, CA | Software Engineer Intern |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
