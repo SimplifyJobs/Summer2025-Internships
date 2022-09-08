@@ -233,6 +233,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Slack](https://slack.com/careers/university-recruiting) | San Francisco, CA | [2023 Summer Intern - Software Engineer](https://salesforce.wd1.myworkdayjobs.com/Slack/job/California---San-Francisco/XMLNAME-2023-Summer-Intern---Software-Engineer--Slack-_JR162338) |
 | [SpaceX](https://boards.greenhouse.io/spacex/jobs/6366187002?gh_jid=6366187002) | Multiple| 2023 Summer Intern - Software Engineer |
 | [Samsara](https://boards.greenhouse.io/samsara/jobs/4522234?gh_jid=4522234) | San Francisco, CA | Software Engineer Intern |
+| [Brex](https://www.brex.com/careers/6368393002?gh_jid=6368393002&gh_src=a894a5ff2) | Remote, US | Software Engineer, Intern |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
