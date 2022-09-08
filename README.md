@@ -226,6 +226,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [MongoDB](https://app.ripplematch.com/job/mongodb/6d3b16e9/) | NY, ATX, SF | Software Engineer Intern |
 | [Urban Outfitters](https://www.urbn.com/internships) | Philadelphia, PA | [Web Software Engineer Intern](https://recruiting.ultipro.com/URB1003UROI/JobBoard/10af8568-5cfd-415b-8dc2-ed6cecf3006c/OpportunityDetail?opportunityId=fb48b358-7991-44dc-bb18-eb893a8d76f2), [Network Engineering Intern](https://recruiting.ultipro.com/URB1003UROI/JobBoard/10af8568-5cfd-415b-8dc2-ed6cecf3006c/OpportunityDetail?opportunityId=cfabd4f4-0b50-455a-89e3-020e681d9a3a) |
 | [The Washington Post](https://news-engineering.notion.site/WaPo-Engineering-internship-details-resources-application-office-hours-e7a930543e3749988404c73f7e62be78) | Washington, DC and Remote | Software Engineer Intern |
+| [Atlassian](https://jobs.lever.co/atlassian/8598139f-e53c-4353-ad2a-3f9d32e969c2) | Mountain View, CA | Software Engineer Intern |
 
 
 <!-- Please leave a one line gap between this and the table -->
