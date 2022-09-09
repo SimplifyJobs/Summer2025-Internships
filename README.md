@@ -211,14 +211,14 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [IXL](https://www.ixl.com/company/careers?gh_jid=6304526002&gh_src=e358d0722) | San Mateo, CA | Software Engineer Intern |
 | [Affirm](https://boards.greenhouse.io/affirm/jobs/5283828003) | Remote | Software Engineer Intern |
 | [Visa](https://jobs.smartrecruiters.com/Visa/743999848890091-intern-software-engineer-undergrad-multiple-locations-summer-2022) | Austin, TX | Software Engineer Intern |
-| [Chewy](https://careers.chewy.com/us/en/search-results?keywords=%22software%20engineer%20intern%22) | Multiple Locations (MA, MN, FL, WA) | Software Engineer Intern |
+| [Chewy](https://careers.chewy.com/us/en/search-results?keywords=%22software%20engineer%20intern%22) | Multiple Locations (MA, MN, FL, WA) | Software Engineer Intern (Bachelors degree students only)|
 | [Riot Games](https://www.riotgames.com/en/work-with-us/job/4522361/software-engineering-intern-los-angeles-usa) | Los Angeles | Software Engineering Intern |
 | [AIG](https://aig.wd1.myworkdayjobs.com/aig/job/NJ-Jersey-City/XMLNAME-2023---Early-Career---Technology---Summer-Intern---United-States--Jersey-City--NJ--or-Charlotte--NC-_JR2206963-1) | Jersey City, NJ; Charlotte, NC | 2023 Early Career Technology Summer Intern |
 | [CGI](https://cgi.njoyn.com/cgi/xweb/xweb.asp?clid=21001&page=jobdetails&jobid=J0822-2628&BRID=990720&SBDID=943) | New Jersey, New Brunswick | Software Developer Intern |
 | [TikTok](https://careers.tiktok.com/position?keywords=software&category=&location=CT_243%2CCT_94%2CCT_157%2CCT_114%2CCT_104%2CCT_221%2CCT_222%2CCT_233%2CCT_75%2CCT_203%2CCT_1103347%2CCT_223%2CCT_1000001%2CCT_100762%2CCT_247&project=7129361493955135774&type=3&job_hot_flag=&current=1&limit=10&functionCategory=) | Multiple Locations | Software Engineer Intern
 | [Warner Bros Discovery](https://jobs.discovery.com/careers-home/jobs/33044?lang=en-us) | Multiple Locations | Software Engineering Intern |
 | [ByteDance](https://jobs.bytedance.com/en/position/7138261141784611103/detail?spread=BSPP2KS) | Mountain View, CA | Software Engineer Intern |
-| [TD Ameritrade](https://sjobs.brassring.com/TGnewUI/Search/Home/Home?partnerid=25404&siteid=5601#jobDetails=3060632_5601) | Multiple Locations | Software Engineering Intern |
+| [TD Ameritrade](https://sjobs.brassring.com/TGnewUI/Search/Home/Home?partnerid=25404&siteid=5601#jobDetails=3060632_5601) | Multiple Locations | Software Engineering Intern (must be an undergrad)|
 | [Paramount](https://careers.viacomcbs.com/job/Burbank-Software-Engineering-Internships-Summer-2023-%28Mobile%2C-Video%2C-Web%2C-UI%29-CA-91505/930475300/?feedId=340900&utm_source=LinkedInJobPostings&utm_campaign=ViacomCBS_LinkedIn) | Multiple Locations (NY, CA) | Software Engineering Intern |
 | [Nuro](https://www.nuro.ai/careersitem?gh_jid=4524036&gh_src=bcd22a501us) | Mountain View | Software Engineer (SRE) Intern |
 | [Relativity Space](https://boards.greenhouse.io/relativity/jobs/6363660002?gh_jid=6363660002) | Long Beach, CA | Software Engineer Intern (C/C++) (Requires US citizenship)|
@@ -233,7 +233,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Slack](https://slack.com/careers/university-recruiting) | San Francisco, CA | [2023 Summer Intern - Software Engineer](https://salesforce.wd1.myworkdayjobs.com/Slack/job/California---San-Francisco/XMLNAME-2023-Summer-Intern---Software-Engineer--Slack-_JR162338) |
 | [SpaceX](https://boards.greenhouse.io/spacex/jobs/6366187002?gh_jid=6366187002) | Multiple| 2023 Summer Intern - Software Engineer |
 | [Samsara](https://boards.greenhouse.io/samsara/jobs/4522234?gh_jid=4522234) | San Francisco, CA | Software Engineer Intern |
-| [Brex](https://www.brex.com/careers/6368393002?gh_jid=6368393002&gh_src=a894a5ff2) | Remote, US | Software Engineer, Intern |
+| [Brex](https://www.brex.com/careers/6368393002?gh_jid=6368393002&gh_src=a894a5ff2) | Remote, US | Software Engineer, Intern (Graduating from a **BA/BS** program in 2024)|
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
