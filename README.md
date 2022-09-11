@@ -85,9 +85,9 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Hewlett Packard Enterprise](https://careers.hpe.com/us/en/search-results?keywords=software%20intern) | Multiple Locations in United States | Software Developer Intern, Software Engineering Intern
 | [Ocient](https://boards.greenhouse.io/ocient39/jobs/5213072003)| Remote | Software Engineer Internship
 | [Blackstone](https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/details/XMLNAME-2023-Blackstone-Technology-and-Innovations--Software-Developer-Summer-Analyst--New-York-_23913) | Miami, New York | Software Developer Summer Analyst |
-| Northrop Grumman | Roy, Utah | **🔒 Closed 🔒** Software Engineer Intern |
+| [Northrop Grumman](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/details/College-Intern-Administrative---Documentation_R10064554-1?q=software%20engineer&workerSubType=a111b0a898f10129e4db58f2e700d97a) | Various | Software Engineer Intern (US Citizenship Required) |
 | Oracle | United States | **🔒 Closed 🔒** Multiple Software Engineer Interns - Corporate Architecture/Analytics Cloud/DB and Systems/Netsuite, etc. (Visa / work permit sponsorship is not available for ADA SWE Intern Position)
-| [Lockheed Martin](https://www.lockheedmartinjobs.com/search-jobs/ALL?orgIds=694&alp=ALL&alt=0&ascf=[{%22Key%22:%22job_status%22,%22Value%22:%22Co-op%2fSummer+Intern%22}]&) | Location dependent on role | [Software Engineer Asc - Intern](https://www.lockheedmartinjobs.com/job/king-of-prussia/software-engineer-asc-intern/694/16648313536) (Pennsylvania, US), [AI Machine Learning Engineer Asc - Intern](https://www.lockheedmartinjobs.com/job/king-of-prussia/ai-machine-learning-engineer-asc-intern/694/32606142112) (Multiple, all US) (US Citizenship required) |
+| [Lockheed Martin](https://www.lockheedmartinjobs.com/search-jobs/ALL?orgIds=694&alp=ALL&alt=0&ascf=[{%22Key%22:%22job_status%22,%22Value%22:%22Co-op%2fSummer+Intern%22}]&) | Location dependent on role | [Software Engineer Asc - Intern](https://www.lockheedmartinjobs.com/job/king-of-prussia/software-engineer-asc-intern/694/16648313536) (Pennsylvania, US), [AI Machine Learning Engineer Asc - Intern](https://www.lockheedmartinjobs.com/job/king-of-prussia/ai-machine-learning-engineer-asc-intern/694/32606142112), [Software Engineer - Intern](https://www.lockheedmartinjobs.com/job/-/-/694/35880434816) (Multiple, all US) (US Citizenship required) |
 | [Freddie Mac](https://careers.freddiemac.com/us/en/job/JR7788/Multifamily-Software-Developer-Intern-Hybrid-or-Remote-Work-Schedule) | McLean, VA (Remote Available) | Multifamily Software Developer Intern |
 | [Jane Street](https://www.janestreet.com/join-jane-street/position/6213528002/) | New York | Software Engineer Summer Internship 2023
 | [Asana](https://boards.greenhouse.io/earlycareerprograms) | San Francisco, New York City, Vancouver | Summer 2023 Engineering Internship|
@@ -246,6 +246,11 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Adobe](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/XMLNAME-2023-Intern---Software-Engineer_R131878) | Various | Software Engineer Intern,  [Machine Learning Intern](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/XMLNAME-2023-Intern---Machine-Learning-Engineer_R131880) |
 | [Merge](https://boards.greenhouse.io/merge/jobs/4335732004) | San Francisco, CA & New York City, NY | Software Engineer Intern (Summer 2023) |
 | [NASA Jet Propulsion Laboratory](https://www.jpl.jobs/job/JJPLUSR2941EXTERNALENUS/Summer-2023-Software-Engineer-Intern) | Pasadena, CA | Summer 2023 Software Engineer Intern |
+| [Lowe's](https://talent.lowes.com/us/en/job/2411616BR/Software-Engineer-Undergraduate-Intern) | Charlotte, NC | Software Engineer, Undergraduate Intern | 
+| [Collins Aerospace](https://careers.rtx.com/global/en/job/01553158) | Cedar Rapids, Iowa | Software Engineer Intern (Summer 2023) (US Citizenship Required) |
+| [AeroVironment](https://avav.wd1.myworkdayjobs.com/en-US/avav?q=software%20engineer%20intern) | Various | Software Engineering Intern - Summer 2023 (US Citizenship Required) |
+| [Allegion](https://allegion.wd5.myworkdayjobs.com/careers/job/Carmel-IN/Summer-Intern---Software-Engineer_JR23390-1) | Carmel, IN | Summer Intern - Software Engineer |
+| [Arm](https://careers.arm.com/job/boston/intern-software-engineer/33099/35872734160) | Boston, MA | Intern Software Engineer |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
