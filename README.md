@@ -238,10 +238,11 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Garmin](https://careers.garmin.com/careers-home/jobs?tags3=Intern&page=1) | Various | Software Engineer Intern (Summer 2023): [Tulsa, OK](https://careers.garmin.com/careers-home/jobs/9345?lang=en-us), [Scottsdale, AZ](https://careers.garmin.com/careers-home/jobs/9267?lang=en-us), [Chandler, AZ](https://careers.garmin.com/careers-home/jobs/9266?lang=en-us), [Boulder, CO](https://careers.garmin.com/careers-home/jobs/9220?lang=en-us), [Tucson, AZ](https://careers.garmin.com/careers-home/jobs/9219?lang=en-us), [Cary, NC](https://careers.garmin.com/careers-home/jobs/9243?lang=en-us) |
 | [Plaid](https://plaid.com/careers/openings/university/remote/software-engineer-intern/) | Remote | Software Engineer Intern |
 | [Zoom](https://careers.zoom.us/jobs/2023-software-development-engineer-intern-san-jose-california-united-states) | San Jose, CA | 2023 Software Development Engineer - Intern |
-| [Pinterest](https://www.pinterestcareers.com/job/16663906/software-engineering-intern-usa-remote/) | Remote | Software Engineering Intern |
+| [Pinterest](https://www.pinterestcareers.com/job/16663906/software-engineering-intern-usa-remote/) | Remote | Software Engineering Intern (No Sponsorship) |
 | [Nike](https://jobs.nike.com/job/URSRCGTENGUI23?apstr=src%3DJB-11022) | Boston, Massachusetts | Global Technology Engineer Undergraduate Internship |
 | [T.Row Price](https://troweprice.wd5.myworkdayjobs.com/en-US/TRowePrice/job/Owings-Mills-MD/XMLNAME-2023-Global-Technology-Software-Engineering-Internship-Program_62478?source=Indeed)  | Owings Mills, MD and Baltimore, MD| Technology Software Engineering Internship |
-| [The Home Depot](https://careers.homedepot.com/job-search-results/?keyword=intern) | Atlanta, GA | Software Engineering Intern, Data Science Undergraduate Intern |
+| [Tableau](https://salesforce.wd1.myworkdayjobs.com/en-US/Tableau/job/Washington---Seattle/Summer-2023-Intern---Software-Engineer--Tableau-_JR162361-2?source=LinkedIn)| Multiple Locations | Summer 2023 Intern - Software Engineer |
+| [The Home Depot](https://careers.homedepot.com/job-search-results/?keyword=intern) | Atlanta, GA | Software Engineering Intern, Data Science Undergraduate Intern (Requires SSN) |
 | [Adobe](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/XMLNAME-2023-Intern---Software-Engineer_R131878) | Various | Software Engineer Intern,  [Machine Learning Intern](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/XMLNAME-2023-Intern---Machine-Learning-Engineer_R131880) |
 
 <!-- Please leave a one line gap between this and the table -->
