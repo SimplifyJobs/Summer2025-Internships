@@ -247,7 +247,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Merge](https://boards.greenhouse.io/merge/jobs/4335732004) | San Francisco, CA & New York City, NY | Software Engineer Intern (Summer 2023) |
 | [NASA Jet Propulsion Laboratory](https://www.jpl.jobs/job/JJPLUSR2941EXTERNALENUS/Summer-2023-Software-Engineer-Intern) | Pasadena, CA | Summer 2023 Software Engineer Intern |
 | [Lowe's](https://talent.lowes.com/us/en/job/2411616BR/Software-Engineer-Undergraduate-Intern) | Charlotte, NC | Software Engineer, Undergraduate Intern | 
-| [Collins Aerospace](https://careers.rtx.com/global/en/job/01553158) | Cedar Rapids, Iowa | Software Engineer Intern (Summer 2023) (On-Site) |
+| [Collins Aerospace](https://careers.rtx.com/global/en/job/01553158) | Cedar Rapids, Iowa | Software Engineer Intern (Summer 2023) (US Citizenship Required) |
 | [AeroVironment](https://avav.wd1.myworkdayjobs.com/en-US/avav?q=software%20engineer%20intern) | Various | Software Engineering Intern - Summer 2023 (US Citizenship Required) |
 | [Allegion](https://allegion.wd5.myworkdayjobs.com/careers/job/Carmel-IN/Summer-Intern---Software-Engineer_JR23390-1) | Carmel, IN | Summer Intern - Software Engineer |
 | [Arm](https://careers.arm.com/job/boston/intern-software-engineer/33099/35872734160) | Boston, MA | Intern Software Engineer |
