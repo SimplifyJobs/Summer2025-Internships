@@ -252,6 +252,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Allegion](https://allegion.wd5.myworkdayjobs.com/careers/job/Carmel-IN/Summer-Intern---Software-Engineer_JR23390-1) | Carmel, IN | Summer Intern - Software Engineer |
 | [Arm](https://careers.arm.com/job/boston/intern-software-engineer/33099/35872734160) | Boston, MA | Intern Software Engineer |
 | [ABL](https://www.builtinla.com/job/internship/engineering-intern-summer-2023/124823?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | El Segundo, CA | Engineering Intern (Summer 2023) - US Citizenship Required |
+| [Nomura](https://nomuracampus.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/xf-4d873717800a/candidate/so/pm/1/pl/1/opp/735-2023-Corporate-Infrastructure-Information-Technology-Summer-Analyst/en-GB) | New York | 2023 Summer Analyst - Corporate Infrastructure - Information Technology |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
