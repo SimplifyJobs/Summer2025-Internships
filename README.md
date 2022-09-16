@@ -269,6 +269,8 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Code42](https://boards.greenhouse.io/code42/jobs/4086381005) | Minneapolis, MN | Software Engineer Intern (C++, Java, C#) |
 | [Avanade](https://careers.avanade.com/jobsenus/JobDetail/Intern-Software-Developer-Summer-2023/56206) | Multiple | Intern, Software Developer - Summer 2023 (No sponsorship for employment in US/Canada) |
 | [Motorola Solutions](https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/West-Valley-City-UT/Software-Engineer--2023-Summer-Internship-_R32052) | West Valley City, UT | Software Engineer (2023 Summer Internship) |
+| [Ansys](https://careers.ansys.com/job/Canonsburg-Summer-2023-Intern-Ansys-Discovery-Post-processing-%28BachelorsMasters%29-PA-15317/934118500) | Canonsburg, PA | Summer 2023 Software Development Intern - Ansys Discovery Post-processing (BS or MS) |
+| [Silicon Labs](https://jobs.jobvite.com/silabs/search?q=&l=&c=University%20Recruiting) | Austin, TX | [Embedded Software Engineering Intern (Austin, TX; or Boston, MA)](https://jobs.jobvite.com/silabs/job/oZgJkfw2), [Software Engineering Intern](https://jobs.jobvite.com/silabs/job/oV6LkfwQ) |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
