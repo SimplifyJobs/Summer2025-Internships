@@ -281,6 +281,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Wolverine](https://jobs.lever.co/wolve/4a6fd0be-6bb7-4bbb-9dd5-1416d6a5f5b7) | Chicago, IL | Software Engineer Intern (Summer 2023) (No Sponsorship) |
 | [Pure Storage](https://boards.greenhouse.io/purestorage/jobs/4462754) | Mountain View, CA | Software Engineer Intern (for Summer 2023) |
 | [DeepMind](https://www.deepmind.com/careers/internships?sort=alphabetical) | Multiple Locations | Research/Software Engineer Intern |
+| [DoorDash](https://boards.greenhouse.io/doordash/jobs/4560561?gh_jid=4560561) | Multiple Locations | Software Engineer Intern (Summer 2023) |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
