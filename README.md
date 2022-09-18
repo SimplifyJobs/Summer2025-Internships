@@ -300,6 +300,16 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Sierra Nevada Corporation](https://snc.wd1.myworkdayjobs.com/en-US/SNC_External_Career_Site/job/Englewood-CO/Software-Engineer-Intern--Summer-2023-_R0018868) | Englewood, CO; or Huntsville, AL; or Hagerstown, MD | Software Engineer Intern (Summer 2023) |
 | [Sysco](https://careers.sysco.com/jobs/R79428?lang=en-us) | Houston, TX; or Austin, TX | Intern - Software Development Engineer (10 Week during Summer) |
 | [DoorDash](https://boards.greenhouse.io/doordash/jobs/4560561?gh_jid=4560561) | Multiple Locations | Software Engineer Intern (Summer 2023) |
+| [United](https://careers.united.com/us/en/job/WHQ00020911/Intern-Digital-Technology-Summer-2023) | Chicago, IL | Digital Technology Intern | 
+| [Cornerstone](https://cornerstone.csod.com/ux/ats/careersite/2/home/requisition/7869?c=cornerstone&source=LinkedIn) | Dublin, CA | Software Engineering Intern (Front end) | 
+| [Merck](https://jobs.merck.com/us/en/job/MERCUSR197877ENUS/2023-IT-Emerging-Talent-Summer-Intern-Program) | Varies | IT Emerging Talent Intern | 
+| [Jamf](https://www.jamf.com/about/careers/jobs/?gh_jid=4666557004&gh_jid=4666557004&gh_src=8229fc8d4us) | Varies/Remote | Software Engineering Intern | 
+| Dish | Overland Park, KS | [Application Engineering Intern](https://jobs.dish.com/jobs/67284?lang=en-us), [Application Development](https://jobs.dish.com/jobs/67257?lang=en-us) | 
+| [Synopsys](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=25235&siteid=5359&jobid=1968292#jobDetails=1968292_5359) | Mountain View/Sunnyvale, CA | Software Engineering Intern | 
+| Booz Allen | Charleston, South Carolina or Annapolis Junction, Maryland | Software Engineer in [SC](https://careers.boozallen.com/jobs/JobDetail/Charleston-Software-Developer-Intern-R0145621/62161?source=JB-16500), [MD](https://careers.boozallen.com/jobs/JobDetail/Annapolis-Junction-University-Software-Engineer-Intern-R0151116/65593?source=JB-16500) |
+| [McDonald's](https://jobs.smartrecruiters.com/McDonaldsCorporation/743999851130910-software-development-engineering-summer-2023-internship?source=Linkedin) | Chicago, IL | Software Development Engineer |
+| BCG | Varies | [Engineering Intern](https://careers.bcg.com/job/BCG1US6380209002EXTERNALENUS/Engineering-Intern-Summer-2023), [Software Engineering](https://careers.bcg.com/job/10053594/BCG-Software-Engineering-Intern) | 
+| [C3.ai](https://c3.ai/job-description/?gh_jid=6289026002) | Redwood City, CA | Software Engineer Intern | 
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
