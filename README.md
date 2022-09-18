@@ -309,6 +309,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | Booz Allen | Charleston, South Carolina or Annapolis Junction, Maryland | Software Engineer in [SC](https://careers.boozallen.com/jobs/JobDetail/Charleston-Software-Developer-Intern-R0145621/62161?source=JB-16500), [MD](https://careers.boozallen.com/jobs/JobDetail/Annapolis-Junction-University-Software-Engineer-Intern-R0151116/65593?source=JB-16500) |
 | [McDonald's](https://jobs.smartrecruiters.com/McDonaldsCorporation/743999851130910-software-development-engineering-summer-2023-internship?source=Linkedin) | Chicago, IL | Software Development Engineer |
 | BCG | Varies | [Engineering Intern](https://careers.bcg.com/job/BCG1US6380209002EXTERNALENUS/Engineering-Intern-Summer-2023), [Software Engineering](https://careers.bcg.com/job/10053594/BCG-Software-Engineering-Intern) | 
+| [C3.ai](https://c3.ai/job-description/?gh_jid=6289026002) | Redwood City, CA | Software Engineer Intern | 
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
