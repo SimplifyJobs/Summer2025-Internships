@@ -311,6 +311,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | BCG | Varies | [Engineering Intern](https://careers.bcg.com/job/BCG1US6380209002EXTERNALENUS/Engineering-Intern-Summer-2023), [Software Engineering](https://careers.bcg.com/job/10053594/BCG-Software-Engineering-Intern) | 
 | [C3.ai](https://c3.ai/job-description/?gh_jid=6289026002) | Redwood City, CA | Software Engineer Intern | 
 | [Roku](https://www.weareroku.com/jobs/software-engineer-student-network-2023-san-jose-california-united-states) | San Jose, CA | Software Engineer Intern |
+| [Google](https://careers.google.com/jobs/results/97935383573996230/) | Multiple | [Software Engineer Intern](https://careers.google.com/jobs/results/97935383573996230/), [User Experience Intern](https://careers.google.com/jobs/results/97922120714986182/), [Hardware Engineering Intern](https://careers.google.com/jobs/results/118392690761966278/), [Data Scientist Intern](https://careers.google.com/jobs/results/107967258946347718/)|
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
