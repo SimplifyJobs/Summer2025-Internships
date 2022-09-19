@@ -300,7 +300,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Sierra Nevada Corporation](https://snc.wd1.myworkdayjobs.com/en-US/SNC_External_Career_Site/job/Englewood-CO/Software-Engineer-Intern--Summer-2023-_R0018868) | Englewood, CO; or Huntsville, AL; or Hagerstown, MD | Software Engineer Intern (Summer 2023) |
 | [Sysco](https://careers.sysco.com/jobs/R79428?lang=en-us) | Houston, TX; or Austin, TX | Intern - Software Development Engineer (10 Week during Summer) |
 | [DoorDash](https://boards.greenhouse.io/doordash/jobs/4560561?gh_jid=4560561) | Multiple Locations | Software Engineer Intern (Summer 2023) |
-| [United](https://careers.united.com/us/en/job/WHQ00020911/Intern-Digital-Technology-Summer-2023) | Chicago, IL | Digital Technology Intern (implicitly no sponsorship) | 
+| [United](https://careers.united.com/us/en/job/WHQ00020911/Intern-Digital-Technology-Summer-2023) | Chicago, IL | Digital Technology Intern (no sponsorship) | 
 | [Cornerstone](https://cornerstone.csod.com/ux/ats/careersite/2/home/requisition/7869?c=cornerstone&source=LinkedIn) | Dublin, CA | Software Engineering Intern (Front end) | 
 | [Merck](https://jobs.merck.com/us/en/job/MERCUSR197877ENUS/2023-IT-Emerging-Talent-Summer-Intern-Program) | Varies | IT Emerging Talent Intern | 
 | [Jamf](https://www.jamf.com/about/careers/jobs/?gh_jid=4666557004&gh_jid=4666557004&gh_src=8229fc8d4us) | Varies/Remote | Software Engineering Intern | 
