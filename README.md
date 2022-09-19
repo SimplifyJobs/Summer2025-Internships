@@ -63,12 +63,12 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | NRO | Chantilly, VA | **🔒 Closed 🔒** NRO Cadre Student Internship Program |
 | [Optiver](https://www.optiver.com/working-at-optiver/career-opportunities/?filter-level=internship)                                                                                       | Chicago, IL; Austin, TX                          | Software engineer for [Chicago](https://grnh.se/d61ca1892us) and [Austin](https://grnh.se/c7aa58e22us). Quantitative trading for [Chicago](https://grnh.se/45f58a8d2us) and [Austin](https://grnh.se/da66387c2us). Hardware engineer for [Chicago](https://grnh.se/23b2990f2us) and [Austin](https://grnh.se/a63825272us). (sponsorship available)                                                                                               |
 | Procter & Gamble | Cincinnati, OH                              |  **🔒 Closed 🔒** Information Technology, Software Engineering (sponsorship NOT available)
-| Putnam Investments | Boston, MA  | **🔒 Closed 🔒** Software Engineer |
-| SIG | Philadelphia, PA; Chicago, IL; NYC, NY                     |  **🔒 Closed 🔒** Quant Trading, Software Engineering Expression of Interest |
+| [Putnam Investments](https://hdhp.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/22745/?sortBy=POSTING_DATES_DESC) | Boston, MA  | Software Engineer Intern |
+| SIG | Philadelphia, PA                    | [Software Engineering Intern](https://careers.sig.com/job/6228/Software-Engineering-Internship-Program-Summer-2023), [Trading Intern](https://careers.sig.com/job/6491/Trading-Intern-Philadelphia-Area)|
 | [Volvo](https://xjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=25079&siteid=5171&AReq=122435BR&codes=LinkedIn#jobDetails=731164_5171) | Flexible                             |                                                                                                          |
 | [Voloridge Investment Management](https://www.voloridge.com/join-our-team)| South Florida | Quant Hedge Fund: Quant, SWE, & Finance roles |
 | [GE Appliances](https://careers.geappliances.com/jobs/8799376-summer-2023-information-technology-intern?bid=370&tm_company=44906&tm_event=view&tm_job=REQ-11837)      | Louisville, KY  | IT Intern    |                                                                                           |
-| [KeyBank](https://keybank.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/401-Plymouth-Road-Suite-600-Plymouth-Meeting-PA/Summer-2023-Key-Technology--Operations---Services-Internship--Enterprise-Secruity-Track-_R-10996?codes=IND)      | Plymouth, PA  | Key Technology, Operations & Services Internship (Enterprise Security Track) (No visa sponsorship)|
+| [KeyBank](https://keybank.wd5.myworkdayjobs.com/en-US/External_Career_Site)      | Plymouth, PA; or San Diego, CA  | [Key Technology, Operations & Services Internship (Enterprise Security Track) @ Plymouth, PA](https://keybank.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/401-Plymouth-Road-Suite-600-Plymouth-Meeting-PA/Summer-2023-Key-Technology--Operations---Services-Internship--Enterprise-Secruity-Track-_R-10996?codes=IND), [2023 Software Engineering Intern @ San Diego, CA](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/San-Diego-CA/XMLNAME-2023-Software-Engineering-intern_R-15289?q=R-13386) (No visa sponsorship) |
 | John Deere | Moline, IL        | **🔒 Closed 🔒** IT - Software Engineering & Cyber Security  (sponsorship NOT available)                |
 | Microsoft Neurodiversity Hiring Program	| Redmond, WA	| **🔒 Closed 🔒**	|
 | [Cisco (Meraki)](https://jobs.cisco.com/jobs/ProjectDetail/Full-Stack-Software-Engineer-Intern-Summer-2023-Meraki/1368018?source=Cisco+Jobs+Career+Site&tags=CDC+SnNG+interview-tips) | San Francisco | Full Stack Software Engineer Intern (Implicitly offer no sponsorship to international student) |
@@ -85,14 +85,14 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Hewlett Packard Enterprise](https://careers.hpe.com/us/en/search-results?keywords=software%20intern) | Multiple Locations in United States | Software Developer Intern, Software Engineering Intern
 | [Ocient](https://boards.greenhouse.io/ocient39/jobs/5213072003)| Remote | Software Engineer Internship
 | [Blackstone](https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/details/XMLNAME-2023-Blackstone-Technology-and-Innovations--Software-Developer-Summer-Analyst--New-York-_23913) | Miami, New York | Software Developer Summer Analyst |
-| Northrop Grumman | Roy, Utah | **🔒 Closed 🔒** Software Engineer Intern |
-| Oracle | United States | **🔒 Closed 🔒** Multiple Software Engineer Interns - Corporate Architecture/Analytics Cloud/DB and Systems/Netsuite, etc. (Visa / work permit sponsorship is not available for ADA SWE Intern Position)
-| [Lockheed Martin](https://www.lockheedmartinjobs.com/search-jobs/ALL?orgIds=694&alp=ALL&alt=0&ascf=[{%22Key%22:%22job_status%22,%22Value%22:%22Co-op%2fSummer+Intern%22}]&) | Location dependent on role | [Software Engineer Asc - Intern](https://www.lockheedmartinjobs.com/job/king-of-prussia/software-engineer-asc-intern/694/16648313536) (Pennsylvania, US), [AI Machine Learning Engineer Asc - Intern](https://www.lockheedmartinjobs.com/job/king-of-prussia/ai-machine-learning-engineer-asc-intern/694/32606142112) (Multiple, all US) (US Citizenship required) |
+| [Northrop Grumman](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/details/College-Intern-Administrative---Documentation_R10064554-1?q=software%20engineer&workerSubType=a111b0a898f10129e4db58f2e700d97a) | Various | Software Engineer Intern (US Citizenship Required) |
+| [Oracle](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions?keyword=software+engineer+intern) | United States | (Multiple Software Engineer Interns - Application Developments/Analytics Cloud/DB and Systems/Netsuite, etc. (CPT/OPT Work Authorization available))
+| [Lockheed Martin](https://www.lockheedmartinjobs.com/search-jobs/ALL?orgIds=694&alp=ALL&alt=0&ascf=[{%22Key%22:%22job_status%22,%22Value%22:%22Co-op%2fSummer+Intern%22}]&) | Location dependent on role | [Software Engineer Asc - Intern](https://www.lockheedmartinjobs.com/job/king-of-prussia/software-engineer-asc-intern/694/16648313536) (Pennsylvania, US), [AI Machine Learning Engineer Asc - Intern](https://www.lockheedmartinjobs.com/job/king-of-prussia/ai-machine-learning-engineer-asc-intern/694/32606142112), [Software Engineer - Intern](https://www.lockheedmartinjobs.com/job/-/-/694/35880434816) (Multiple, all US) (US Citizenship required) |
 | [Freddie Mac](https://careers.freddiemac.com/us/en/job/JR7788/Multifamily-Software-Developer-Intern-Hybrid-or-Remote-Work-Schedule) | McLean, VA (Remote Available) | Multifamily Software Developer Intern |
 | [Jane Street](https://www.janestreet.com/join-jane-street/position/6213528002/) | New York | Software Engineer Summer Internship 2023
 | [Asana](https://boards.greenhouse.io/earlycareerprograms) | San Francisco, New York City, Vancouver | Summer 2023 Engineering Internship|
 | [Streamforge](https://angel.co/l/2vvkF3) | Remote | Videogames + Influencer Marketing + Twitch Streaming + YouTubers / [Software Engineer Position Summer 2023](https://angel.co/l/2vvkF3) |
-| [Seven Eight Capital](https://boards.greenhouse.io/seveneightcapital/jobs/4477864002)| New York, Boston, Stamford | Software Engineer Internship
+| [Seven Eight Capital](https://boards.greenhouse.io/seveneightcapital/jobs/6304824002?gh_jid=6304824002)| New York, Boston, Stamford | Software Engineer Internship
 | [Databento](https://boards.greenhouse.io/databento/jobs/4374815?)| Remote | SWE Intern (H1B sponsorship available)
 | ServiceNow| Remote | **🔒 Closed 🔒** Database Software Engineer Intern
 | [Virtu Financial](https://boards.greenhouse.io/virtu/jobs/5432329002)| New York, NY | Internship - Developer (10 weeks Summer 2023)
@@ -148,10 +148,10 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Jump Trading](https://www.jumptrading.com/careers/?locations=Chicago+Austin+New-York+New-Jersey+Remote+Cranberry-Township&titleSearch=campus+intern) | Chicago, IL | [Campus \| Software Engineer 2023 (Summer Intern)](https://www.jumptrading.com/careers/4452653/) <br> [Campus \| FPGA Engineer 2023 (Summer Intern)](https://www.jumptrading.com/careers/4471649/) <br> [Campus \| Tech Ops Engineer 2023 (Intern)](https://www.jumptrading.com/careers/4387580/) <br> [Campus \| Data Engineer 2023 (Summer Intern)](https://www.jumptrading.com/careers/4471685/) <br> [Campus \| Web Dev / UI Software Engineer 2023 (Summer Intern)](https://www.jumptrading.com/careers/4471639/) |
 | [Databricks](https://www.databricks.com/company/careers/open-positions/job?gh_jid=6289910002) | San Francisco, Seattle | Software Engineering Intern |
 | [American Express](https://aexp.eightfold.ai/careers/job/12787284) | New York, New York | 2023 Technology Software Engineer Summer Internship (no sponsorship) |
-| [Klaviyo](https://angel.co/jobs?job_listing_id=2346414) | Remote | Summer 2023 Software Engineer Intern (No visa sponsorship)|
+| Klaviyo | Remote | **🔒 Closed 🔒** Summer 2023 Software Engineer Intern (No visa sponsorship)|
 | Starbucks | Arizona, Seattle | **🔒 Closed 🔒** Summary 2023 Technology undergraduate intern |
 | [IBM](https://careers.ibm.com/job/16478329/firmware-developer-summer-intern-2023-remote/?codes=IBM_CareerWebSite) | Multiple Locations in the US | Firmware Developer Summer Intern: 2023 |
-| [Fidelity](https://jobs.fidelity.com/job-details/16376477/summer-2023-quantitative-research-and-data-analytics-internship/) | Boston, MA | Data Analytics Intern |
+| Fidelity | Boston, MA | **🔒 Closed 🔒** Data Analytics Intern |
 | [Cohen & Co](https://careers-cohencpa.icims.com/jobs/1436/software-development-internship-%5bsummer-2023%5d/job?mobile=false&width=1743&height=500&bga=true&needsRedirect=false&jan1offset=-480&jun1offset=-420) | Multiple Locations in the US | Software Development Internship|
 | [Figma](https://boards.greenhouse.io/figma/jobs/4595340004/) | NY, SF | Software Engineer Intern |
 | [Flatiron Health](https://flatiron.com/careers/open-positions/4454681) | NYC | SWE Intern |
@@ -181,8 +181,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Benchling](https://www.benchling.com/careers?jobId=4475866&gh_src=838b85821us) | San Francisco, CA | Software Engineer Intern |
 | [Scale AI](https://boards.greenhouse.io/scaleai/jobs/4037917005) | San Francisco, CA | Software Engineering Intern |
 | [PathAI](https://www.pathai.com/join-our-team/careers/?gh_jid=6327790002) | Boston, MA | Software Engineer Intern |
-| [Garda Capital Partners](https://boards.greenhouse.io/gardacp/jobs/4174194004?gh_src=60345d1f4us2) | New York, New York | Python Software Engineer Intern |
-| [Gap Inc.](https://www.gapinc.com/en-us/jobs/w76/36/2023-undergrad-summer-internship-%e2%80%93-data-engineer-r?rx_job=R47636&rx_medium=post&rx_paid=0&rx_r=none&rx_source=linkedin&rx_ts=20220824T145201Z&src=JB-10340&rx_viewer=b62750b4137311edb7eb7562aae6d1b5b708253342f048a48f05ece9b63d6b13) | Remote | Data Engineer Intern, SWE Intern ("We are not able to provide visa sponsorship for this role.") |
+| [Garda Capital Partners](https://boards.greenhouse.io/gardacp/jobs/4445441004) | Wayzata, MN | .Net Software Engineer Intern |
 | [Epic Games](https://www.epicgames.com/site/en-US/careers/jobs?type=Intern&department=Engineering) | Multiple Locations | Multiple Intern Positions |
 | [Mathworks](https://www.mathworks.com/company/jobs/opportunities/25610-multiple-openings-engineering-development-group-internship?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | Natick, MA | Engineering Development Group Intern (Spring and Summer 2023) |
 | GoDaddy | Multiple Locations, Remote | **🔒 Closed 🔒** Multiple Intern Position |
@@ -199,20 +198,121 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Intel](https://jobs.intel.com/ShowJob/Id/3543774/Undergraduate%20Intern%20%20%20Graphics%20Software) |  Folsom, CA |  Graphics Intern |
 | [Dell](https://dell.wd1.myworkdayjobs.com/ExternalNonPublic/job/Round-Rock-Texas-United-States/Software-Engineer-Intern_R206227) | Round Rock, Texas or Hopkinton, Massachusetts | Software Engineer Intern |
 | [Neuralink](https://boards.greenhouse.io/neuralink/jobs/5285389003) | Fremont, CA | Software Engineering Intern |
-| [Rivian](https://boards.greenhouse.io/rivian/jobs/5199457003) | Irvine, CA | Product Development Engineering Interns |
+| [Rivian](https://boards.greenhouse.io/rivian/jobs/5303129003) | Irvine, CA + Remote | [Product Development Engineering Interns](https://boards.greenhouse.io/rivian/jobs/5199457003), [Software Engineer Intern](https://boards.greenhouse.io/rivian/jobs/5303129003) |
 | [Zillow](https://zillowgroup.eightfold.ai/careers/job/240531418207?domain=zillowgroup.com) | Remote | Software Development Engineer Intern |
 | [Taboola](https://www.taboola.com/careers/job/frontend-engineer-intern?gh_jid=4498767) | LA, CA | Frontend Engineer Intern |
 | [Arrowstreet Capital](https://arrowstreetcapital.wd5.myworkdayjobs.com/en-US/Arrowstreet?q=intern) | Boston, MA | Quantitative Developer Intern, Quantitative Researcher Intern |
 | [Deloitte](https://apply.deloitte.com/careers/JobDetail/Deloitte-Risk-Financial-Advisory-Software-Engineer-Intern-Technology-Assets-Summer-2023/114948) | Multiple Locations | Deloitte Risk & Financial Advisory Software Engineer Intern |
-| [Linkedin](https://www.linkedin.com/jobs/view/3239137528/) | Sunnyvale, CA | [Software Engineer Intern](https://www.linkedin.com/jobs/view/3239137528/), [Frontend Engineer Intern](https://www.linkedin.com/jobs/view/3239134748/), [Mobile Engineer Intern](https://www.linkedin.com/jobs/view/3239139155/)|
+| [Linkedin](https://www.linkedin.com/jobs/view/3239137528/) | Sunnyvale, CA | [Software Engineer Intern](https://www.linkedin.com/jobs/view/3239137528/), [Frontend Engineer Intern](https://www.linkedin.com/jobs/view/3239134748/), [Mobile Engineer Intern](https://www.linkedin.com/jobs/view/3239139155/), [Machine Learning Engineer Intern](https://www.linkedin.com/jobs/view/3239161469/)|
 | [Stripe](https://stripe.com/jobs/search?query=Software+Engineering+Intern) | Multiple Locations | Software Engineer Intern (Seattle, San Francisco, New York, Dublin, Singapore) |
 | [Discover Financial Services](https://jobs.discover.com/job-search/?keyword=internship&department=&page=&location=&remoteOnly=) | Multiple Locations (IL, TX, UK) | Business Technology, Data & Analytics Internship (No Sponsorship) |
 | [Hubspot](https://www.hubspot.com/careers/jobs?q=summer%202023&page=1) | Multiple Locations + Remote | Software Engineer Intern |
 | [IXL](https://www.ixl.com/company/careers?gh_jid=6304526002&gh_src=e358d0722) | San Mateo, CA | Software Engineer Intern |
 | [Affirm](https://boards.greenhouse.io/affirm/jobs/5283828003) | Remote | Software Engineer Intern |
 | [Visa](https://jobs.smartrecruiters.com/Visa/743999848890091-intern-software-engineer-undergrad-multiple-locations-summer-2022) | Austin, TX | Software Engineer Intern |
-| [Chewy](https://careers.chewy.com/us/en/search-results?keywords=%22software%20engineer%20intern%22) | Multiple Locations (MA, MN, FL, WA) | Software Engineer Intern |
+| [Chewy](https://careers.chewy.com/us/en/search-results?keywords=%22software%20engineer%20intern%22) | Multiple Locations (MA, MN, FL, WA) | Software Engineer Intern (Bachelors degree students only)|
 | [Riot Games](https://www.riotgames.com/en/work-with-us/job/4522361/software-engineering-intern-los-angeles-usa) | Los Angeles | Software Engineering Intern |
+| [AIG](https://aig.wd1.myworkdayjobs.com/aig/job/NJ-Jersey-City/XMLNAME-2023---Early-Career---Technology---Summer-Intern---United-States--Jersey-City--NJ--or-Charlotte--NC-_JR2206963-1) | Jersey City, NJ; Charlotte, NC | 2023 Early Career Technology Summer Intern |
+| [CGI](https://cgi.njoyn.com/cgi/xweb/xweb.asp?clid=21001&page=jobdetails&jobid=J0822-2628&BRID=990720&SBDID=943) | New Jersey, New Brunswick | Software Developer Intern (Bachelors degree students only)|
+| [TikTok](https://careers.tiktok.com/position?keywords=software&category=&location=CT_243%2CCT_94%2CCT_157%2CCT_114%2CCT_104%2CCT_221%2CCT_222%2CCT_233%2CCT_75%2CCT_203%2CCT_1103347%2CCT_223%2CCT_1000001%2CCT_100762%2CCT_247&project=7129361493955135774&type=3&job_hot_flag=&current=1&limit=10&functionCategory=) | Multiple Locations | Software Engineer Intern
+| [Warner Bros Discovery](https://jobs.discovery.com/careers-home/jobs/33044?lang=en-us) | Multiple Locations | Software Engineering Intern |
+| [ByteDance](https://jobs.bytedance.com/en/position/7138261141784611103/detail?spread=BSPP2KS) | Mountain View, CA | Software Engineer Intern |
+| [TD Ameritrade](https://sjobs.brassring.com/TGnewUI/Search/Home/Home?partnerid=25404&siteid=5601#jobDetails=3060632_5601) | Multiple Locations | Software Engineering Intern (must be an undergrad)|
+| [Paramount](https://careers.viacomcbs.com/job/Burbank-Software-Engineering-Internships-Summer-2023-%28Mobile%2C-Video%2C-Web%2C-UI%29-CA-91505/930475300/?feedId=340900&utm_source=LinkedInJobPostings&utm_campaign=ViacomCBS_LinkedIn) | Multiple Locations (NY, CA) | Software Engineering Intern |
+| [Nuro](https://www.nuro.ai/careersitem?gh_jid=4524036&gh_src=bcd22a501us) | Mountain View | Software Engineer (SRE) Intern |
+| [Relativity Space](https://boards.greenhouse.io/relativity/jobs/6363660002?gh_jid=6363660002) | Long Beach, CA | Software Engineer Intern (C/C++) (Requires US citizenship)|
+| [Dropbox](https://www.dropbox.com/jobs/listing/4380645?gh_src=aonhf1) | Remote (US, Canada) | Software Engineer Intern |
+| [MongoDB](https://app.ripplematch.com/job/mongodb/6d3b16e9/) | NY, ATX, SF | Software Engineer Intern |
+| [Urban Outfitters](https://www.urbn.com/internships) | Philadelphia, PA | [Web Software Engineer Intern](https://recruiting.ultipro.com/URB1003UROI/JobBoard/10af8568-5cfd-415b-8dc2-ed6cecf3006c/OpportunityDetail?opportunityId=fb48b358-7991-44dc-bb18-eb893a8d76f2), [Network Engineering Intern](https://recruiting.ultipro.com/URB1003UROI/JobBoard/10af8568-5cfd-415b-8dc2-ed6cecf3006c/OpportunityDetail?opportunityId=cfabd4f4-0b50-455a-89e3-020e681d9a3a) |
+| [The Washington Post](https://news-engineering.notion.site/WaPo-Engineering-internship-details-resources-application-office-hours-e7a930543e3749988404c73f7e62be78) | Washington, DC and Remote | Software Engineer Intern |
+| [Pitchbook](https://jobs.jobvite.com/pitchbook/job/ohpTkfwD?__jvst) | Seattle, Washington | Product Management Intern |
+| [Lucid Software](https://boards.greenhouse.io/lucidsoftware/jobs/4032935004) | Remote, US | Software Engineering Internship |
+| [Atlassian](https://jobs.lever.co/atlassian/8598139f-e53c-4353-ad2a-3f9d32e969c2) | Mountain View, CA | Software Engineer Intern (No Sponsorship) |
+| [SoundHound](https://www.soundhound.com/careers/) | Santa Clara, CA | [Software Engineering Intern, Acoustic Modeling](https://boards.greenhouse.io/soundhoundinc/jobs/6365344002) <br> (Cover letter required) |
+| [Slack](https://slack.com/careers/university-recruiting) | San Francisco, CA | [2023 Summer Intern - Software Engineer](https://salesforce.wd1.myworkdayjobs.com/Slack/job/California---San-Francisco/XMLNAME-2023-Summer-Intern---Software-Engineer--Slack-_JR162338) |
+| [SpaceX](https://boards.greenhouse.io/spacex/jobs/6366187002?gh_jid=6366187002) | Multiple| 2023 Summer Intern - Software Engineer (US Citizens Only)|
+| [Samsara](https://boards.greenhouse.io/samsara/jobs/4522234?gh_jid=4522234) | San Francisco, CA | Software Engineer Intern |
+| [Brex](https://www.brex.com/careers/6368393002?gh_jid=6368393002&gh_src=a894a5ff2) | Remote, US | Software Engineer, Intern (Graduating from a **BA/BS** program in 2024)|
+| [CrowdStrike](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers?workerSubType=f79adfd173da01f3129fd137e373b210) | Remote, US | [Software Engineer Intern](https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Remote/Software-Engineer-Intern--Remote-_R10310) or [Data Science Intern](https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Remote/Data-Science-Intern--Remote-_R10307) |
+| [Garmin](https://careers.garmin.com/careers-home/jobs?tags3=Intern&page=1) | Various | Software Engineer Intern (Summer 2023): [Tulsa, OK](https://careers.garmin.com/careers-home/jobs/9345?lang=en-us), [Scottsdale, AZ](https://careers.garmin.com/careers-home/jobs/9267?lang=en-us), [Chandler, AZ](https://careers.garmin.com/careers-home/jobs/9266?lang=en-us), [Boulder, CO](https://careers.garmin.com/careers-home/jobs/9220?lang=en-us), [Tucson, AZ](https://careers.garmin.com/careers-home/jobs/9219?lang=en-us), [Cary, NC](https://careers.garmin.com/careers-home/jobs/9243?lang=en-us) |
+| [Plaid](https://plaid.com/careers/openings/university/remote/software-engineer-intern/) | Remote | Software Engineer Intern |
+| [Zoom](https://careers.zoom.us/jobs/2023-software-development-engineer-intern-san-jose-california-united-states) | San Jose, CA | 2023 Software Development Engineer - Intern |
+| [Pinterest](https://www.pinterestcareers.com/job/16663906/software-engineering-intern-usa-remote/) | Remote | Software Engineering Intern (No Sponsorship) |
+| [Nike](https://jobs.nike.com/job/URSRCGTENGUI23?apstr=src%3DJB-11022) | Boston, Massachusetts | Global Technology Engineer Undergraduate Internship |
+| [T.Row Price](https://troweprice.wd5.myworkdayjobs.com/en-US/TRowePrice/job/Owings-Mills-MD/XMLNAME-2023-Global-Technology-Software-Engineering-Internship-Program_62478?source=Indeed)  | Owings Mills, MD and Baltimore, MD| Technology Software Engineering Internship |
+| [Tableau](https://salesforce.wd1.myworkdayjobs.com/en-US/Tableau/job/Washington---Seattle/Summer-2023-Intern---Software-Engineer--Tableau-_JR162361-2?source=LinkedIn)| Multiple Locations | Summer 2023 Intern - Software Engineer |
+| [The Home Depot](https://careers.homedepot.com/job-search-results/?keyword=intern) | Atlanta, GA | Software Engineering Intern, Data Science Undergraduate Intern (Requires SSN) |
+| [Adobe](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/XMLNAME-2023-Intern---Software-Engineer_R131878) | Various | **🔒 Closed 🔒** Software Engineer Intern,  [Machine Learning Intern](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/XMLNAME-2023-Intern---Machine-Learning-Engineer_R131880) |
+| [Merge](https://boards.greenhouse.io/merge/jobs/4335732004) | San Francisco, CA & New York City, NY | Software Engineer Intern (Summer 2023) |
+| [NASA Jet Propulsion Laboratory](https://www.jpl.jobs/job/JJPLUSR2941EXTERNALENUS/Summer-2023-Software-Engineer-Intern) | Pasadena, CA | Summer 2023 Software Engineer Intern |
+| [Lowe's](https://talent.lowes.com/us/en/job/2411616BR/Software-Engineer-Undergraduate-Intern) | Charlotte, NC | Software Engineer, Undergraduate Intern |
+| [Collins Aerospace](https://careers.rtx.com/global/en/job/01553158) | Cedar Rapids, Iowa | Software Engineer Intern (Summer 2023) (US Citizenship Required) |
+| [AeroVironment](https://avav.wd1.myworkdayjobs.com/en-US/avav?q=software%20engineer%20intern) | Various | Software Engineering Intern - Summer 2023 (US Citizenship Required) |
+| [Allegion](https://allegion.wd5.myworkdayjobs.com/careers/job/Carmel-IN/Summer-Intern---Software-Engineer_JR23390-1) | Carmel, IN | Summer Intern - Software Engineer |
+| [Arm](https://careers.arm.com/job/boston/intern-software-engineer/33099/35872734160) | Boston, MA | Intern Software Engineer |
+| [ABL](https://www.builtinla.com/job/internship/engineering-intern-summer-2023/124823?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | El Segundo, CA | Engineering Intern (Summer 2023) - US Citizenship Required |
+| [Nomura](https://nomuracampus.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/xf-4d873717800a/candidate/so/pm/1/pl/1/opp/735-2023-Corporate-Infrastructure-Information-Technology-Summer-Analyst/en-GB) | New York | 2023 Summer Analyst - Corporate Infrastructure - Information Technology |
+| [McKinsey & Company](https://www.mckinsey.com/careers/search-jobs?query=software%20engineer%20intern) | New York City, NY; or San Francisco, CA | [Software Engineering Intern - University Students](https://www.mckinsey.com/careers/search-jobs/jobs/softwareengineeringintern-universitystudents-34746), [Data Engineering Intern - QuantumBlack (Only Class of 2023-2024)](https://www.mckinsey.com/careers/search-jobs/jobs/dataengineeringintern-quantumblack-universitystudents-58600) |
+| [Workday](https://workday.wd5.myworkdayjobs.com/Workday_University_Careers/job/USA-CA-Pleasanton/Software-Development-Engineer-Intern_JR-72646) | Multiple Locations | Software Development Engineer Intern |
+| [Bloomberg](https://careers.bloomberg.com/job/detail/106002) | New York, NY | 2023 Software Engineer Intern |
+| [Okta](https://www.okta.com/company/careers/software-engineer-intern-summer-2023-4554030/) | US Remote | [Software Engineer Intern](https://www.okta.com/company/careers/software-engineer-intern-summer-2023-4554030/), [Site Reliability Intern](https://www.okta.com/company/careers/site-reliability-engineer-intern-summer-2023-4554089/)|
+| [Texas Instruments](https://careers.ti.com/job/16564578/software-engineering-intern-dallas-tx/) | Texas | Software Engineer Intern (No sponsorship provided)|
+| [Splunk](https://jobs.jobvite.com/splunk/job/opeZkfwG) | Multiple Locations | [Software Engineer Intern Frontend](https://jobs.jobvite.com/splunk/job/oUTZkfwQ), [Software Engineer Intern Backend/Fullstack](https://jobs.jobvite.com/splunk/job/opeZkfwG) |
+| [Cloudflare](https://boards.greenhouse.io/cloudflare/jobs/4553743?gh_jid=4553743) | Austin, TX; or Champaign, IL; or Kirkland, WA; or San Francisco, CA | Software Engineer - Intern |
+| [Sony Electronics](https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/San-Diego/Software-Engineering-Intern_JR-110987) | San Diego, CA | Software Engineering Intern |
+| [2K](https://boards.greenhouse.io/2k/jobs/5303107003) | Novato, CA | Engineering Internship |
+| [Lacework](https://www.lacework.com/job-openings/?gh_jid=4646011004) | Remote | Software Engineer Intern |
+| [Axon](https://boards.greenhouse.io/axon/jobs/5293118003) | Seattle, Scottsdale or Remote US/ Canada | Software Engineering Intern |
+| [Emerson Automation Solutions](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/22023193) | Round Rock, TX | Software Development Summer Intern (No Sponsorship) |
+| [Shure Inc.](https://careers-shure.icims.com/jobs/2848/software-engineering-intern/job?mode=job) | Irvine, CA | Software Engineering Intern |
+| [Code42](https://boards.greenhouse.io/code42/jobs/4086381005) | Minneapolis, MN | Software Engineer Intern (C++, Java, C#) |
+| [Avanade](https://careers.avanade.com/jobsenus/JobDetail/Intern-Software-Developer-Summer-2023/56206) | Multiple | Intern, Software Developer - Summer 2023 (No sponsorship for employment in US/Canada) |
+| [Motorola Solutions](https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/West-Valley-City-UT/Software-Engineer--2023-Summer-Internship-_R32052) | West Valley City, UT | Software Engineer (2023 Summer Internship) |
+| [Ansys](https://careers.ansys.com/job/Canonsburg-Summer-2023-Intern-Ansys-Discovery-Post-processing-%28BachelorsMasters%29-PA-15317/934118500) | Canonsburg, PA | Summer 2023 Software Development Intern - Ansys Discovery Post-processing (BS or MS) |
+| [Silicon Labs](https://jobs.jobvite.com/silabs/search?q=&l=&c=University%20Recruiting) | Austin, TX | [Embedded Software Engineering Intern (Austin, TX; or Boston, MA)](https://jobs.jobvite.com/silabs/job/oZgJkfw2), [Software Engineering Intern](https://jobs.jobvite.com/silabs/job/oV6LkfwQ) |
+| [ASML](https://www.asml.com/en/careers/find-your-job/5/2/5/intern-software-engineer-summer-2023-req52522?ppc=JBP-181) | Wilton, CT | Intern, Software Engineer (Summer 2023) |
+| [Zebra Technologies](https://zebra.eightfold.ai/careers/job?domain=zebra.com&pid=343610667937&pid=343610667937&domain=zebra.com&job_index=0) | Lincolnshire, IL | 2023 Summer Internship - Software Engineer (No Sponsorship) |
+| [SingleStore](https://boards.greenhouse.io/singlestore/jobs/4557044) | Seattle, WA; or Raleigh, NC | Software Engineer, Managed Service Intern (Summer 2023) @ [Seattle, WA](https://boards.greenhouse.io/singlestore/jobs/4557044); [Raleigh, NC](https://boards.greenhouse.io/singlestore/jobs/4557045) |
+| [Domeyard LP](https://boards.greenhouse.io/domeyard/jobs/1079185) | Boston, MA | Software Engineer Internship (Summer, Fall, Winter, Spring available) |
+| [Yext](https://boards.greenhouse.io/yext/jobs/4474989) | Washington, D.C. | 2023 Software Engineer Summer Intern |
+| [Compass Minerals](https://cmiinc.taleo.net/careersection/ex/jobdetail.ftl?job=220000A4&lang=en) | Remote, USA; or Overland Park, KS | Software Engineer Intern (Starts Summer 2023) |
+| [Anduril](https://jobs.lever.co/anduril/) | Costa Mesa, CA | [Software Engineering](https://jobs.lever.co/anduril/d15840b6-081b-4d4c-95ed-008d681b4f7f), [Robotics Software Engineering](https://jobs.lever.co/anduril/c6d4fc93-2be9-4018-8160-4f490d11328c) (US Person Status Required) |
+| [Wolverine](https://jobs.lever.co/wolve/4a6fd0be-6bb7-4bbb-9dd5-1416d6a5f5b7) | Chicago, IL | Software Engineer Intern (Summer 2023) (No Sponsorship) |
+| [Pure Storage](https://boards.greenhouse.io/purestorage/jobs/4462754) | Mountain View, CA | Software Engineer Intern (for Summer 2023) |
+| [DeepMind](https://www.deepmind.com/careers/internships?sort=alphabetical) | Multiple Locations | Research/Software Engineer Intern |
+| Citi Bank | New York, NY & Tampa, FL | Software Development [(New York)](https://jobs.citi.com/job/new-york/icg-technology-full-time-analyst-software-development-new-york-city-north-america-2023/287/34889411712), [Tampa](https://jobs.citi.com/job/tampa/icg-technology-full-time-analyst-software-development-tampa-north-america-2023/287/34594715952) | 
+| [Symbiotic](https://symbotic.wd1.myworkdayjobs.com/en-US/Symbotic/job/USA-Wilmington--MA---HQ/Intern--Software-Engineer_R1635) | Wilmington, MA  | Software Engineer Intern |
+| [WillowTree](https://boards.greenhouse.io/willowtree/jobs/6320082002) | Charlottesville, VA; Columbus, OH; Durham, NC | Software Engineering Intern | 
+| [Grainger](https://jobs.grainger.com/zoro/job/CHICAGO-Software-Engineer-Intern%2C-Zoro-IL-60603-4013/935891400/) | Chicago, IL (Hybrid) | Software Engineering Intern | 
+| [Confluent](https://careers.confluent.io/job-description/a836c269-e9e1-515f-92cb-9b155fcd4440/) | Remote | Quality Engineering Intern | 
+| [TradeWeb](https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/requisitions/preview/300493?src=JB-10200) | Jersey City, NJ | [C++ Dev Intern](https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/300492/?utm_medium=jobshare), [Java Intern](https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/300493/?utm_medium=jobshare), [Java Full Stack Intern](https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/300490/?utm_medium=jobshare) |
+| [Cruise](https://getcruise.com/careers/jobs/?search=intern) | Multiple | Multiple, mostly ML/SWE |
+| [Amadeus](https://amadeus.wd3.myworkdayjobs.com/en-US/jobs/job/Salt-Lake-City-Utah/Navitaire-Engineering-Internship_R1577) | Salt Lake City, UT | Engineering Intern | 
+| [Gem.com](https://ats.comparably.com/api/v1/gh/zensourcer?gh_jid=6337902002) | San Francisco, CA | Software Engineer | 
+| [Gap](https://www.gapinc.com/en-us/jobs/w76/16/2023-undergrad-summer-internship-gaptech-software-) | Remote | Software Engineering |
+| [DeepGram](https://jobs.lever.co/deepgram/a0729dbc-659e-45ae-bdd6-2c645afc1488) | Ann Arbor, MI | Software Engineering | 
+| [Matroid](https://matroid.breezy.hr/p/46f69de2cc24-software-engineer-intern-infrastructure) | Palo Alto, CA | Software Engineer |
+| [Proofpoint](https://proofpoint.wd5.myworkdayjobs.com/en-US/ProofpointCareers/job/Draper-UT/Software-Engineer-Summer-Intern---Undergrad_R8448) | Draper, UT | Software Engineer | 
+| [Grammarly](https://www.grammarly.com/jobs/engineering/software-engineering-intern?gh_jid=4517906) | Remote | Software Engineer | 
+| Stryker | Varies | Software Engineer [CA](https://careers.stryker.com/job/16637358/summer-internship-2023-software-engineering-california-san-jose-ca/), [FL](https://careers.stryker.com/job/16637360/summer-internship-2023-software-engineering-florida-fort-lauderdale-fl/), [IN](https://careers.stryker.com/job/16656756/summer-internship-2023-software-engineering-indiana-fort-wayne-in/), [MA](https://careers.stryker.com/job/16656757/summer-internship-2023-software-engineering-massachusetts-shirley-ma/), [MI](https://careers.stryker.com/job/16637357/summer-internship-2023-software-engineering-michigan-portage-mi/), [WA](https://careers.stryker.com/job/16637363/summer-internship-2023-electrical-engineering-washington-redmond-wa/) |
+| [Dimensional Careers](https://dimensional.wd5.myworkdayjobs.com/en-US/DFA_Campus/job/Austin/Internship-in-Technology---Software-Engineer--Undergraduate---Master-s-_2022-6883) | Austin, TX | Software Engineering (Must be authorized to work in US) | 
+| [Labcorp](https://careers.labcorp.com/global/en/job/COVAGLOBAL2254695EXTERNALENGLOBAL/Software-Developer-internship) | Durham, NC; or Indianapolis, IN | Software Developer Internship (2023 Global Internship Program) |
+| [Sierra Nevada Corporation](https://snc.wd1.myworkdayjobs.com/en-US/SNC_External_Career_Site/job/Englewood-CO/Software-Engineer-Intern--Summer-2023-_R0018868) | Englewood, CO; or Huntsville, AL; or Hagerstown, MD | Software Engineer Intern (Summer 2023) |
+| [Sysco](https://careers.sysco.com/jobs/R79428?lang=en-us) | Houston, TX; or Austin, TX | Intern - Software Development Engineer (10 Week during Summer) |
+| [DoorDash](https://boards.greenhouse.io/doordash/jobs/4560561?gh_jid=4560561) | Multiple Locations | Software Engineer Intern (Summer 2023) |
+| [United](https://careers.united.com/us/en/job/WHQ00020911/Intern-Digital-Technology-Summer-2023) | Chicago, IL | Digital Technology Intern (no sponsorship) | 
+| Cornerstone | Dublin, CA | **🔒 Closed 🔒** Software Engineering Intern (Front end) | 
+| [Merck](https://jobs.merck.com/us/en/job/MERCUSR197877ENUS/2023-IT-Emerging-Talent-Summer-Intern-Program) | Varies | IT Emerging Talent Intern | 
+| [Jamf](https://www.jamf.com/about/careers/jobs/?gh_jid=4666557004&gh_jid=4666557004&gh_src=8229fc8d4us) | Varies/Remote | Software Engineering Intern | 
+| Dish | Overland Park, KS | [Application Engineering Intern](https://jobs.dish.com/jobs/67284?lang=en-us), [Application Development](https://jobs.dish.com/jobs/67257?lang=en-us) | 
+| [Synopsys](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=25235&siteid=5359&jobid=1968292#jobDetails=1968292_5359) | Mountain View/Sunnyvale, CA | Software Engineering Intern | 
+| Booz Allen | Charleston, South Carolina or Annapolis Junction, Maryland | Software Engineer in [SC](https://careers.boozallen.com/jobs/JobDetail/Charleston-Software-Developer-Intern-R0145621/62161?source=JB-16500), [MD](https://careers.boozallen.com/jobs/JobDetail/Annapolis-Junction-University-Software-Engineer-Intern-R0151116/65593?source=JB-16500) |
+| [McDonald's](https://jobs.smartrecruiters.com/McDonaldsCorporation/743999851130910-software-development-engineering-summer-2023-internship?source=Linkedin) | Chicago, IL | Software Development Engineer |
+| BCG | Varies | [Engineering Intern](https://careers.bcg.com/job/BCG1US6380209002EXTERNALENUS/Engineering-Intern-Summer-2023), [Software Engineering](https://careers.bcg.com/job/10053594/BCG-Software-Engineering-Intern) | 
+| [C3.ai](https://c3.ai/job-description/?gh_jid=6289026002) | Redwood City, CA | Software Engineer Intern | 
+| [Roku](https://www.weareroku.com/jobs/software-engineer-student-network-2023-san-jose-california-united-states) | San Jose, CA | Software Engineer Intern |
+| [Google](https://careers.google.com/jobs/results/97935383573996230/) | Multiple | [Software Engineer Intern](https://careers.google.com/jobs/results/97935383573996230/), [User Experience Intern](https://careers.google.com/jobs/results/97922120714986182/), [Hardware Engineering Intern](https://careers.google.com/jobs/results/118392690761966278/), [Data Scientist Intern](https://careers.google.com/jobs/results/107967258946347718/)|
+
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
 
@@ -222,7 +322,3 @@ Make a [pull request](https://github.com/susam/gitpr#create-pull-request) to hel
   <img src="https://contrib.rocks/image?repo=pittcsc/Summer2023-Internships&columns=24&max=480" />
 </a>
 *Made with [contrib.rocks](https://contrib.rocks).*
-
-
-
-
