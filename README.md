@@ -317,6 +317,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Fifth Third Bank](https://fifththird.wd5.myworkdayjobs.com/en-US/53careers/job/Cincinnati-OH/Summer-2023-Data-Science---Engineering-Intern_R35671) | Cincinnati, OH | Summer 2023 Data Science & Engineering Intern |
 | [KnowBe4](https://boards.greenhouse.io/knowbe4/jobs/5514774002) | Remote | Software Development Engineer Intern (Front-End) (Remote) |
 | Flexport | Bellevue, WA; or Chicago, IL; or San Francisco, CA | 2023 Summer Full-Stack Software Engineering Intern: [Undergraduate Degree](https://www.flexport.com/careers/job/4527122/), [Graduate Degree](https://www.flexport.com/careers/job/4500880/) |
+| Schonfeld | New York, NY; or Miami, FL | 2023 Software Engineering Summer Internship - [New York](https://boards.greenhouse.io/schonfeld/jobs/4510170), [Miami](https://boards.greenhouse.io/schonfeld/jobs/4510454) |
 
 
 <!-- Please leave a one line gap between this and the table -->
