@@ -78,6 +78,28 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Two Sigma](https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Quantitative-Researcher-Internship/10972)                                                                                    | New York, NY                     | Quant Research, [SWE](https://careers.twosigma.com/careers/JobDetail?jobId=11002) |
 | [IMC](https://imc.wd5.myworkdayjobs.com/en-US/invitation/jobs/details/Software-Engineer-Intern----Summer-2023_REQ-01961?q=internship)                                                                                    | Chicago                     | SDE Intern, Quant Research, Trading |
 | [Palantir](https://jobs.lever.co/palantir?commitment=Internship&team=Dev)| Multiple Locations in United States | Early Admissions - Software Engineer, Internship |
+| [84.51°](https://app.ripplematch.com/job/84.51°/2344fff3/) | Cincinnati, Chicago | [Software Engineer - Internship Program 2023](https://app.ripplematch.com/job/84.51°/2344fff3/)|
+| [Akamai](https://app.ripplematch.com/job/Akamai/c41ee243/) | Various - Cambridge, Portland, Santa Clara, Fort Lauderdale | [Summer 2023 Intern - Software Engineer](https://app.ripplematch.com/job/Akamai/c41ee243/)|
+| [Amplitude](https://app.ripplematch.com/job/Amplitude/3d6b2d5e/) | Vancouver, Canada | [Software Engineer Intern](https://app.ripplematch.com/job/Amplitude/3d6b2d5e/)|
+| [Appian](https://app.ripplematch.com/job/Appian/66c4ef95/) | McLean, VA | [Software Engineer Intern](https://app.ripplematch.com/job/Appian/66c4ef95/)|
+| [Belden](https://app.ripplematch.com/job/Belden/b8a5bc56/) | Santa Clara, CA | [R&D Software Technical Internship Program](https://app.ripplematch.com/job/Belden/b8a5bc56/)|
+| [CrowdStrike](https://app.ripplematch.com/job/CrowdStrike/5b8d5dce/) | Remote | [Software Engineer Intern - Summer 2023 (Remote)](https://app.ripplematch.com/job/CrowdStrike/5b8d5dce/)|
+| [DraftKings](https://app.ripplematch.com/job/DraftKings/729234b8/) | Boston, MA | [Software Engineering Intern](https://app.ripplematch.com/job/DraftKings/729234b8/)|
+| [Flatiron Health](https://app.ripplematch.com/job/Flatiron_Health/95d8d5b7/) | New York, NY | [Software Engineering Intern (Summer 2023)](https://app.ripplematch.com/job/Flatiron_Health/95d8d5b7/)|
+| [Ginkgo Bioworks](https://app.ripplematch.com/job/Ginkgo_Bioworks/a3363831/) | Boston, MA | [Software Engineer Intern](https://app.ripplematch.com/job/Ginkgo_Bioworks/a3363831/)|
+| [Huntington Ingalls Industries](https://app.ripplematch.com/job/Huntington_Ingalls_Industries/92749300/) | Norfolk, VA | [Software Engineer Internship](https://app.ripplematch.com/job/Huntington_Ingalls_Industries/92749300/)|
+| [Nutanix](https://ripplematch.com/job/Nutanix/732c9afb) | Remote | [Software Defined Network Engineering Intern, Software Engineering Intern](https://ripplematch.com/job/Nutanix/732c9afb)|
+| [Oshkosh Corporation](https://app.ripplematch.com/job/Oshkosh_Corporation/ae562dea/) | Various - Oshkosh, Appleton, Madison,Kewaunee in WI, Hagerstown MD, Greencastle, McConnellsburg, Shippensburg in PA | [Software Engineering Intern](https://app.ripplematch.com/job/Oshkosh_Corporation/ae562dea/)|
+| [Paylocity](https://app.ripplematch.com/job/Paylocity/67377624/) | Remote | [Software Engineer Internship](https://app.ripplematch.com/job/Paylocity/67377624/)|
+| [Pinterest](https://app.ripplematch.com/job/Pinterest/2d29a1ca/) | San Francisco, Palo Alto, Seattle, Remote | [Software Engineering Internship](https://app.ripplematch.com/job/Pinterest/2d29a1ca/)|
+| [Qualtrics](https://app.ripplematch.com/job/Qualtrics/4315a990/) | Seattle WA, Provo UT, Reston VA | [Software Development Engineer Intern](https://app.ripplematch.com/job/Qualtrics/4315a990/)|
+| [Ridgeline](https://app.ripplematch.com/job/Ridgeline/866a1e63/) | Incline Village, Nevada | [Software Engineering Intern](https://app.ripplematch.com/job/Ridgeline/866a1e63/)|
+| [Roblox](https://app.ripplematch.com/job/Roblox/e42825db/) | San Mateo, CA | [Summer 2023, Software Engineer Intern](https://app.ripplematch.com/job/Roblox/e42825db/)|
+| [Snowflake](https://app.ripplematch.com/job/Snowflake/7ac9dee4/) | San Mateo, CA and Bellevue, WA | [Software Engineer Intern (Core/Database Engineering) - Spring 2023](https://app.ripplematch.com/job/Snowflake/7ac9dee4/)|
+| [Trimble](https://app.ripplematch.com/job/Trimble/a2ce1592/) | Westminster, CO, Portland, OR, Knoxville, TN, Sunrise, FL | [Software Engineering Internship](https://app.ripplematch.com/job/Trimble/a2ce1592/)|
+| [Two Sigma](https://app.ripplematch.com/job/Two_Sigma/ded8070b/) | New York, NY | [Software Engineering Internship](https://app.ripplematch.com/job/Two_Sigma/ded8070b/)|
+| [Unity](https://app.ripplematch.com/job/Unity/3d2aa3d4/) | San Francisco, CA, Austin, TX, Bellevue, WA, Framingham, MA, Pittsburgh, PA | [Software Engineer Intern](https://app.ripplematch.com/job/Unity/3d2aa3d4/)|
+| [Yext](https://app.ripplematch.com/job/Yext/8f00d0da/) | New York, NY | [2023 Software Engineer Summer Intern](https://app.ripplematch.com/job/Yext/8f00d0da/)|
 | Tower Research Capital| New York, NY, Chicago, IL | **🔒 Closed 🔒** Quantitative Trader, Quantitative Developer | |
 | [Mastercard](https://careers.mastercard.com/us/en/job/R-173598/Software-Engineer-Intern)|  Multiple locations in United States | Software Engineer Intern, Information Security Engineer Intern |
 | [Citadel](https://www.citadel.com/careers/open-positions/positions-for-students/?keyword=Intern)| Chicago, New York | Software Engineer Intern and Quant Research Analyst|
