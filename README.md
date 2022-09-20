@@ -320,6 +320,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | Schonfeld | New York, NY; or Miami, FL | 2023 Software Engineering Summer Internship - [New York](https://boards.greenhouse.io/schonfeld/jobs/4510170), [Miami](https://boards.greenhouse.io/schonfeld/jobs/4510454) |
 | [Spreetail](https://jobs.lever.co/spreetail?commitment=Intern) | Remote | Software Engineer Intern - [Marketplace Platform](https://jobs.lever.co/spreetail/6ca36154-e412-403f-9894-8731697bd1eb), [Supply Chain Platform](https://jobs.lever.co/spreetail/a61ac2d5-1f9b-4c0d-b869-17817c7d8b5e); [Devops Intern](https://jobs.lever.co/spreetail/9d672bbf-9e46-42d9-bfe4-fc479489907f) | 
 | [Tanium](https://www.tanium.com/careers/4512774) | Remote, US | Software Engineering Intern (Summer 2023) |
+| [UiPath](https://careers-uipath.icims.com/jobs/search?ss=1&searchRelation=keyword_all&searchPositionType=8710) | Multiple | Summer 2023 Intern: Software Engineer @ [Dallas, TX](https://careers-uipath.icims.com/jobs/4797/summer-2023-intern%3a-software-engineer/job?in_iframe=1) or [Denver, CO](https://careers-uipath.icims.com/jobs/4794/summer-2023-intern%3a-software-engineer/job?in_iframe=1) or [Bellevue, WA](https://careers-uipath.icims.com/jobs/4787/summer-2023-intern%3a-software-engineer/job?in_iframe=1) |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
