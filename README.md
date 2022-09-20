@@ -315,7 +315,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Bank of America](https://campus.bankofamerica.com/careers/global_technology_summer_analyst_program__2023.html) | Multiple Locations | Software Engineer/Developer (Undergrad) |
 | [Pearson](https://pearson.jobs/durham-nc/intern-software-engineer/A4F7C5CF7B9A4D5DBB6BE3A13514918B/job/) | Durham, NC | Software Engineer Intern |
 | [Toyota Connected](https://www.toyotaconnected.com/careers) | Plano, TX | [Software Engineer Intern](https://www.toyotaconnected.com/job?gh_jid=6349115002&did=4040992002), [Data Engineer Intern](https://www.toyotaconnected.com/job?gh_jid=6348895002&did=4040992002), [Data Scientist Intern](https://www.toyotaconnected.com/job?gh_jid=6349135002&did=4040992002), [Machine Learning Engineer Intern](https://www.toyotaconnected.com/job?gh_jid=6349146002&did=4040992002) |
-| [Honeywell] (https://careers.honeywell.com/us/en/job/req364416/Computer-Software-Engineer-Computer-Science-Summer-2023-Intern-Co-Op) | Multiple Locations in US | Software Engineer Intern |
+| [Honeywell](https://careers.honeywell.com/us/en/job/req364416/Computer-Software-Engineer-Computer-Science-Summer-2023-Intern-Co-Op) | Multiple Locations in US | Software Engineer Intern |
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
 
