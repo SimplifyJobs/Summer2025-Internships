@@ -329,6 +329,10 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Zoox](https://jobs.lever.co/zoox) | Foster City, CA | Summer 2023 Software Engineering Internships - [Mobile Development](https://jobs.lever.co/zoox/73ba40c9-48bd-4f34-9eb5-b56d41a74a7d), [Robot Software Infrastructure](https://jobs.lever.co/zoox/c84006b4-0e77-4362-8cfe-5f8b82b8b347) |
 | [Autodesk](https://autodesk.wd1.myworkdayjobs.com/Ext/job/California-USA---Remote/Intern--Software-Engineer_22WD64165-1?src=JB-10065) | Remote | Intern, Software Engineer |
 | [IDEMIA](https://uscareers-idemia.icims.com/jobs/5382/software-development-internship/job) | Anaheim, CA | Software Development Internship (US Citizenship Required; No Sponsorship) |
+| [TripActions](https://www.linkedin.com/jobs/view/3223258005/?refId=3xZ7bjgK%2Fg4bsiZV9Y3Z%2Bw%3D%3D) | Palo Alto, CA | Software Engineering Internship |
+| CyberArk | Remote USA | [Software Engineer Intern](https://careers.cyberark.com/job/Identity-Software-Engineer-Intern/830434501/) |
+| Nextdoor | San Francisco, CA | [Summer 2023 Software Engineer Intern](https://about.nextdoor.com/careers-list/?gh_jid=4546457) |
+| Reliable Robotics | Mountain View, CA | Flight Software Engineer Intern: [Summer](https://jobs.lever.co/reliable/90367300-93c0-4b0f-8893-13ebd4af326d/apply?lever-source=LinkedIn), [Winter/Spring 2023](https://jobs.lever.co/reliable/21453162-cbda-430b-a119-841d1f04b725/apply?lever-source=LinkedIn) |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
