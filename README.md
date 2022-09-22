@@ -349,6 +349,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Crusoe](https://jobs.lever.co/crusoeenergy/16d9dc19-74a5-4c32-9ead-e3e221f4eaca) | San Francisco, CA | University / Software Engineer (Intern) |
 | [Farm Credit Services of America](https://careers.fcsamerica.com/job/16636430/) | Omaha, NE | Web Software Systems Engineer (Intern Summer 2023) |
 | [Raytheon](https://careers.rtx.com/global/en/job/RAYTGLOBAL01567022EXTERNALENGLOBAL/UP-2023-Software-Engineer-Internships) | Fort Wayne, IN; Tewksbury, MA; St. Petersburg, FL; or Portsmouth, RI | UP 2023 Software Engineer Internships (US Citizenship Required) |
+| [Lumen](https://jobs.lumen.com/global/en/job/316394/Intern-Software-Engineer-Summer-2023-CO-or-Nationwide) | Frisco, TX; Remote | Intern - Software Engineer - Summer 2023 / CO or Nationwide |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
