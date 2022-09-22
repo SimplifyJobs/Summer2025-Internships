@@ -328,9 +328,9 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Guidewire](https://careers.guidewire.com/job/76acec73-8be6-5e85-992c-6f4afca84434) | Bedford, MA; or Exton, PA; or Birmingham, AL; or San Mateo, CA | Summer 2023 Software Engineering Intern - Multiple Locations |
 | [84.51°](https://app.ripplematch.com/job/84.51°/2344fff3/) | Cincinnati, Chicago | [Software Engineer - Internship Program 2023](https://app.ripplematch.com/job/84.51°/2344fff3/)|
 | [Akamai](https://app.ripplematch.com/job/Akamai/c41ee243/) | Various - Cambridge, Portland, Santa Clara, Fort Lauderdale | [Summer 2023 Intern - Software Engineer](https://app.ripplematch.com/job/Akamai/c41ee243/)|
-| [Amplitude](https://app.ripplematch.com/job/Amplitude/3d6b2d5e/) | Vancouver, Canada | **🔒 Closed 🔒** [Software Engineer Intern](https://app.ripplematch.com/job/Amplitude/3d6b2d5e/)|
+| [Amplitude]| Vancouver, Canada |[Software Engineer Intern])|
 | [Appian](https://app.ripplematch.com/job/Appian/66c4ef95/) | McLean, VA | [Software Engineer Intern](https://app.ripplematch.com/job/Appian/66c4ef95/)|
-| [Belden](https://app.ripplematch.com/job/Belden/b8a5bc56/) | Santa Clara, CA |  **🔒 Closed 🔒** [R&D Software Technical Internship Program](https://app.ripplematch.com/job/Belden/b8a5bc56/)|
+| [Belden]| Santa Clara, CA |  [R&D Software Technical Internship Program]|
 | [DraftKings](https://app.ripplematch.com/job/DraftKings/729234b8/) | Boston, MA | [Software Engineering Intern](https://app.ripplematch.com/job/DraftKings/729234b8/)|
 | [Ginkgo Bioworks](https://app.ripplematch.com/job/Ginkgo_Bioworks/a3363831/) | Boston, MA | [Software Engineer Intern](https://app.ripplematch.com/job/Ginkgo_Bioworks/a3363831/)|
 | [Huntington Ingalls Industries](https://app.ripplematch.com/job/Huntington_Ingalls_Industries/92749300/) | Norfolk, VA | [Software Engineer Internship](https://app.ripplematch.com/job/Huntington_Ingalls_Industries/92749300/)|
