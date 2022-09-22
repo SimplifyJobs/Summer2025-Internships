@@ -352,6 +352,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Lumen](https://jobs.lumen.com/global/en/job/316394/Intern-Software-Engineer-Summer-2023-CO-or-Nationwide) | Frisco, TX; Remote | Intern - Software Engineer - Summer 2023 / CO or Nationwide |
 | [Remitly](https://careers.remitly.com/job-details/?jobid=4578296&gh_jid=4578296&gh_src=807b247a1us) | Seattle, WA; or Remote | Software Development Intern - Summer 2023 |
 | [Textron](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=1115787) | Huntsville, AL | 2023 Intern - Software Engineer (Air) (US Citizenship Required) |
+| [Live Oak Bank](https://liveoakbancshares.wd1.myworkdayjobs.com/Live_Oak/job/Wilmington-NC/Technology-Intern_R-000478) | Wilmington, NC | Software Engineer Intern |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
