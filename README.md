@@ -326,7 +326,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [UiPath](https://careers-uipath.icims.com/jobs/search?ss=1&searchRelation=keyword_all&searchPositionType=8710) | Multiple | Summer 2023 Intern: Software Engineer @ [Dallas, TX](https://careers-uipath.icims.com/jobs/4797/summer-2023-intern%3a-software-engineer/job?in_iframe=1) or [Denver, CO](https://careers-uipath.icims.com/jobs/4794/summer-2023-intern%3a-software-engineer/job?in_iframe=1) or [Bellevue, WA](https://careers-uipath.icims.com/jobs/4787/summer-2023-intern%3a-software-engineer/job?in_iframe=1) |
 | [Qualcomm](https://qualcomm.wd5.myworkdayjobs.com/en-US/External/job/San-Diego-USA/Software-Engineering-Internship---Summer-2023_3042986) | San Diego, CA; or Boulder, CO; or Boxborough, MA; or Santa Clara, CA; or Austin, TX | Software Engineering Internship - Summer 2023 |
 | [Guidewire](https://careers.guidewire.com/job/76acec73-8be6-5e85-992c-6f4afca84434) | Bedford, MA; or Exton, PA; or Birmingham, AL; or San Mateo, CA | Summer 2023 Software Engineering Intern - Multiple Locations |
-| [84.51°](https://app.ripplematch.com/job/84.51°/2344fff3/) | Cincinnati, Chicago | [Software Engineer - Internship Program 2023](https://app.ripplematch.com/job/84.51°/2344fff3/)|
+| [84.51°](https://boards.greenhouse.io/8451university) | Cincinnati, Chicago | [Software Engineer - Internship Program 2023](https://app.ripplematch.com/job/84.51°/2344fff3/)|
 | [Akamai](https://app.ripplematch.com/job/Akamai/c41ee243/) | Various - Cambridge, Portland, Santa Clara, Fort Lauderdale | [Summer 2023 Intern - Software Engineer](https://app.ripplematch.com/job/Akamai/c41ee243/)|
 | Amplitude | Vancouver, Canada | **🔒 Closed 🔒** Software Engineer Intern |
 | [Appian](https://app.ripplematch.com/job/Appian/66c4ef95/) | McLean, VA | [Software Engineer Intern](https://app.ripplematch.com/job/Appian/66c4ef95/)|
@@ -337,13 +337,13 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Nutanix](https://ripplematch.com/job/Nutanix/732c9afb) | Remote | [Software Defined Network Engineering Intern, Software Engineering Intern](https://ripplematch.com/job/Nutanix/732c9afb)|
 | [Oshkosh Corporation](https://app.ripplematch.com/job/Oshkosh_Corporation/ae562dea/) | Various - Oshkosh, Appleton, Madison,Kewaunee in WI, Hagerstown MD, Greencastle, McConnellsburg, Shippensburg in PA | [Software Engineering Intern](https://app.ripplematch.com/job/Oshkosh_Corporation/ae562dea/)|
 | [Paylocity](https://app.ripplematch.com/job/Paylocity/67377624/) | Remote | [Software Engineer Internship](https://app.ripplematch.com/job/Paylocity/67377624/)|
-| [Snowflake](https://app.ripplematch.com/job/Snowflake/7ac9dee4/) | San Mateo, CA and Bellevue, WA | [Software Engineer Intern (Core/Database Engineering) - Spring 2023](https://app.ripplematch.com/job/Snowflake/7ac9dee4/)|
+| Snowflake | San Mateo, CA and Bellevue, WA | **🔒 Closed 🔒** Software Engineer Intern (Core/Database Engineering) - Spring 2023 |
 | [Trimble](https://app.ripplematch.com/job/Trimble/a2ce1592/) | Westminster, CO, Portland, OR, Knoxville, TN, Sunrise, FL | [Software Engineering Internship](https://app.ripplematch.com/job/Trimble/a2ce1592/)|
 | [Unity](https://app.ripplematch.com/job/Unity/3d2aa3d4/) | San Francisco, CA, Austin, TX, Bellevue, WA, Framingham, MA, Pittsburgh, PA | [Software Engineer Intern](https://app.ripplematch.com/job/Unity/3d2aa3d4/)|
 | [Zoox](https://jobs.lever.co/zoox) | Foster City, CA | Summer 2023 Software Engineering Internships - [Mobile Development](https://jobs.lever.co/zoox/73ba40c9-48bd-4f34-9eb5-b56d41a74a7d), [Robot Software Infrastructure](https://jobs.lever.co/zoox/c84006b4-0e77-4362-8cfe-5f8b82b8b347) |
 | [Autodesk](https://autodesk.wd1.myworkdayjobs.com/Ext/job/California-USA---Remote/Intern--Software-Engineer_22WD64165-1?src=JB-10065) | Remote | Intern, Software Engineer |
 | [IDEMIA](https://uscareers-idemia.icims.com/jobs/5382/software-development-internship/job) | Anaheim, CA | Software Development Internship (US Citizenship Required; No Sponsorship) |
-| [TripActions](https://www.linkedin.com/jobs/view/3223258005/?refId=3xZ7bjgK%2Fg4bsiZV9Y3Z%2Bw%3D%3D) | Palo Alto, CA | Software Engineering Internship |
+| [TripActions](https://tripactions.com/job-openings/4488671?gh_jid=4488671&gh_src=b13de4e21) | Palo Alto, CA | Software Engineering Internship |
 | [CyberArk](https://careers.cyberark.com/go/Students-&-Interns/5412401/) | Remote USA | Software Engineer Intern |
 | [Nextdoor](https://about.nextdoor.com/careers/#openings) | San Francisco, CA | Summer 2023 Software Engineer Intern |
 | [Reliable Robotics](https://jobs.lever.co/reliable/90367300-93c0-4b0f-8893-13ebd4af326d) | Mountain View, CA | Flight Software Engineer Intern |
