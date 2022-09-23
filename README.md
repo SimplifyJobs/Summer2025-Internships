@@ -326,19 +326,19 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [UiPath](https://careers-uipath.icims.com/jobs/search?ss=1&searchRelation=keyword_all&searchPositionType=8710) | Multiple | Summer 2023 Intern: Software Engineer @ [Dallas, TX](https://careers-uipath.icims.com/jobs/4797/summer-2023-intern%3a-software-engineer/job?in_iframe=1) or [Denver, CO](https://careers-uipath.icims.com/jobs/4794/summer-2023-intern%3a-software-engineer/job?in_iframe=1) or [Bellevue, WA](https://careers-uipath.icims.com/jobs/4787/summer-2023-intern%3a-software-engineer/job?in_iframe=1) |
 | [Qualcomm](https://qualcomm.wd5.myworkdayjobs.com/en-US/External/job/San-Diego-USA/Software-Engineering-Internship---Summer-2023_3042986) | San Diego, CA; or Boulder, CO; or Boxborough, MA; or Santa Clara, CA; or Austin, TX | Software Engineering Internship - Summer 2023 |
 | [Guidewire](https://careers.guidewire.com/job/76acec73-8be6-5e85-992c-6f4afca84434) | Bedford, MA; or Exton, PA; or Birmingham, AL; or San Mateo, CA | Summer 2023 Software Engineering Intern - Multiple Locations |
-| [84.51°](https://boards.greenhouse.io/8451university) | Cincinnati, Chicago | [Software Engineer - Internship Program 2023](https://app.ripplematch.com/job/84.51°/2344fff3/)|
-| [Akamai](https://app.ripplematch.com/job/Akamai/c41ee243/) | Various - Cambridge, Portland, Santa Clara, Fort Lauderdale | [Summer 2023 Intern - Software Engineer](https://app.ripplematch.com/job/Akamai/c41ee243/)|
+| [84.51°](https://boards.greenhouse.io/8451university) | Cincinnati, Chicago | Software Engineer - Internship Program 2023 |
+| [Akamai](https://app.ripplematch.com/job/Akamai/c41ee243/) | Various - Cambridge, Portland, Santa Clara, Fort Lauderdale | |
 | Amplitude | Vancouver, Canada | **🔒 Closed 🔒** Software Engineer Intern |
-| [Appian](https://app.ripplematch.com/job/Appian/66c4ef95/) | McLean, VA | [Software Engineer Intern](https://app.ripplematch.com/job/Appian/66c4ef95/)|
+| [Appian](https://app.ripplematch.com/job/Appian/66c4ef95/) | McLean, VA | Software Engineer Intern|
 | Belden | Santa Clara, CA | **🔒 Closed 🔒** R&D Software Technical Internship Program |
-| [DraftKings](https://app.ripplematch.com/job/DraftKings/729234b8/) | Boston, MA | [Software Engineering Intern](https://app.ripplematch.com/job/DraftKings/729234b8/)|
-| [Ginkgo Bioworks](https://app.ripplematch.com/job/Ginkgo_Bioworks/a3363831/) | Boston, MA | [Software Engineer Intern](https://app.ripplematch.com/job/Ginkgo_Bioworks/a3363831/)|
-| [Huntington Ingalls Industries](https://app.ripplematch.com/job/Huntington_Ingalls_Industries/92749300/) | Norfolk, VA | [Software Engineer Internship](https://app.ripplematch.com/job/Huntington_Ingalls_Industries/92749300/)|
-| [Nutanix](https://ripplematch.com/job/Nutanix/732c9afb) | Remote | [Software Defined Network Engineering Intern, Software Engineering Intern](https://ripplematch.com/job/Nutanix/732c9afb)|
-| [Oshkosh Corporation](https://app.ripplematch.com/job/Oshkosh_Corporation/ae562dea/) | Various - Oshkosh, Appleton, Madison,Kewaunee in WI, Hagerstown MD, Greencastle, McConnellsburg, Shippensburg in PA | [Software Engineering Intern](https://app.ripplematch.com/job/Oshkosh_Corporation/ae562dea/)|
-| [Paylocity](https://app.ripplematch.com/job/Paylocity/67377624/) | Remote | [Software Engineer Internship](https://app.ripplematch.com/job/Paylocity/67377624/)|
+| [DraftKings](https://app.ripplematch.com/job/DraftKings/729234b8/) | Boston, MA | |
+| [Ginkgo Bioworks](https://app.ripplematch.com/job/Ginkgo_Bioworks/a3363831/) | Boston, MA | |
+| [Huntington Ingalls Industries](https://careers.huntingtoningalls.com/job/Newport-News-IT-INTERN-Virg/931374600/) | Norfolk, VA | IT intern, [Engineering Internship](https://careers.huntingtoningalls.com/job/Newport-News-ENGRG-INTERN-Virg/931373000/)|
+| [Nutanix](https://nutanix.eightfold.ai/careers?query=software%20intern&pid=13280687&domain=nutanix.com) | Remote | Software Defined Network Engineering Intern, Database Engineering Intern, Hybrid Cloud Engineering Intern, and other various SWE roles|
+| [Oshkosh Corporation](https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Oshkosh-Wisconsin-United-States/Computer-Software-Engineering-Intern--Summer-2023-_R14666) | Various - Oshkosh, Appleton, Madison,Kewaunee in WI, Hagerstown MD, Greencastle, McConnellsburg, Shippensburg in PA | Software Engineering Intern |
+| [Paylocity](https://www.paylocity.com/careers/career-opportunities/early-career/?jobId=14173/) | Remote | [Data Science internship](https://www.paylocity.com/careers/career-opportunities/early-career/?jobId=14171)|
 | Snowflake | San Mateo, CA and Bellevue, WA | **🔒 Closed 🔒** Software Engineer Intern (Core/Database Engineering) - Spring 2023 |
-| [Trimble](https://app.ripplematch.com/job/Trimble/a2ce1592/) | Westminster, CO, Portland, OR, Knoxville, TN, Sunrise, FL | [Software Engineering Internship](https://app.ripplematch.com/job/Trimble/a2ce1592/)|
+| [Trimble](https://trimblecareers.trimble.com/careers/job?domain=trimble.com&query=Software%20Engineering%20Intern&pid=171812012551) | Westminster, CO, Portland, OR, Knoxville, TN, Sunrise, FL | Software Engineering Internship|
 | [Unity](https://app.ripplematch.com/job/Unity/3d2aa3d4/) | San Francisco, CA, Austin, TX, Bellevue, WA, Framingham, MA, Pittsburgh, PA | [Software Engineer Intern](https://app.ripplematch.com/job/Unity/3d2aa3d4/)|
 | [Zoox](https://jobs.lever.co/zoox) | Foster City, CA | Summer 2023 Software Engineering Internships - [Mobile Development](https://jobs.lever.co/zoox/73ba40c9-48bd-4f34-9eb5-b56d41a74a7d), [Robot Software Infrastructure](https://jobs.lever.co/zoox/c84006b4-0e77-4362-8cfe-5f8b82b8b347) |
 | [Autodesk](https://autodesk.wd1.myworkdayjobs.com/Ext/job/California-USA---Remote/Intern--Software-Engineer_22WD64165-1?src=JB-10065) | Remote | Intern, Software Engineer |
