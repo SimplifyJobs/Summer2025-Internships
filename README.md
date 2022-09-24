@@ -289,7 +289,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Cruise](https://getcruise.com/careers/jobs/?search=intern) | Multiple | Multiple, mostly ML/SWE |
 | [Amadeus](https://amadeus.wd3.myworkdayjobs.com/en-US/jobs/job/Salt-Lake-City-Utah/Navitaire-Engineering-Internship_R1577) | Salt Lake City, UT | Engineering Intern | 
 | [Gem.com](https://ats.comparably.com/api/v1/gh/zensourcer?gh_jid=6337902002) | San Francisco, CA | Software Engineer | 
-| [Gap](https://www.gapinc.com/en-us/jobs/w76/16/2023-undergrad-summer-internship-gaptech-software-) | Remote | Software Engineering |
+| [Gap](https://www.gapinc.com/en-us/jobs/w76/16/2023-undergrad-summer-internship-gaptech-software-) | Remote | Software Engineering (no visa sponsorship)|
 | [DeepGram](https://jobs.lever.co/deepgram/a0729dbc-659e-45ae-bdd6-2c645afc1488) | Ann Arbor, MI | Software Engineering | 
 | [Matroid](https://matroid.breezy.hr/p/46f69de2cc24-software-engineer-intern-infrastructure) | Palo Alto, CA | Software Engineer |
 | [Proofpoint](https://proofpoint.wd5.myworkdayjobs.com/en-US/ProofpointCareers/job/Draper-UT/Software-Engineer-Summer-Intern---Undergrad_R8448) | Draper, UT | Software Engineer | 
