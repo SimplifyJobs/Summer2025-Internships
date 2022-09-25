@@ -10,15 +10,6 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 ---
 
 <div align="center">
-	<h3>
-		Thanks for a great two years 💖💖
-	</h3>
-	<p>
-		<img src="https://api.star-history.com/svg?repos=pittcsc/Summer2022-Internships&type=Date" width="500"  alt="Star History">
-	</p>
-	<i>Want to reach millions of CS students? Email <a href="mailto:partners@pittcsc.org?subject=Sponsoring the CSC Internship Repo">partners@pittcsc.org</a> for partnership opportunities!</i>
-</div>
-<div align="center">
 	<p>
 		<a href="https://simplify.jobs/?utm_source=pittcsc&utm_medium=internships_repo">
 			<b>Applying to internships?</b>
@@ -31,6 +22,15 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 		</a>
 		<sub><i>Stop manually re-entering your information. Simplify’s extension helps you autofill internship applications on millions of sites.</i></sub>
 	</p>
+</div>
+<div align="center">
+	<h3>
+		Thanks for a great two years 💖💖
+	</h3>
+	<p>
+		<img src="https://api.star-history.com/svg?repos=pittcsc/Summer2022-Internships&type=Date" width="500"  alt="Star History">
+	</p>
+	<i>Want to reach millions of CS students? Email <a href="mailto:partners@pittcsc.org?subject=Sponsoring the CSC Internship Repo">partners@pittcsc.org</a> for partnership opportunities!</i>
 </div>
 
 ---
