@@ -150,7 +150,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [American Express](https://aexp.eightfold.ai/careers/job/12787284) | New York, New York | 2023 Technology Software Engineer Summer Internship (no sponsorship) |
 | Klaviyo | Remote | **🔒 Closed 🔒** Summer 2023 Software Engineer Intern (No visa sponsorship)|
 | Starbucks | Arizona, Seattle | **🔒 Closed 🔒** Summary 2023 Technology undergraduate intern |
-| [IBM](https://careers.ibm.com/job/16478329/firmware-developer-summer-intern-2023-remote/?codes=IBM_CareerWebSite) | Multiple Locations in the US | Firmware Developer Summer Intern: 2023 |
+| [IBM](https://www.ibm.com/us-en/employment/entrylevel/#jobs?%23jobs=&job-search=) | Multiple Locations in the US | [Firmware Developer Summer Intern: 2023](https://careers.ibm.com/job/16478329/firmware-developer-summer-intern-2023-remote/?codes=IBM_CareerWebSite), Data Scientist Intern (Multiple Openings) |
 | Fidelity | Boston, MA | **🔒 Closed 🔒** Data Analytics Intern |
 | [Cohen & Co](https://careers-cohencpa.icims.com/jobs/1436/software-development-internship-%5bsummer-2023%5d/job?mobile=false&width=1743&height=500&bga=true&needsRedirect=false&jan1offset=-480&jun1offset=-420) | Multiple Locations in the US | Software Development Internship|
 | [Figma](https://boards.greenhouse.io/figma/jobs/4595340004/) | NY, SF | Software Engineer Intern |
