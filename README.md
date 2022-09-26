@@ -363,6 +363,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Pattern](https://pattern.breezy.hr/p/47c24165e033-internship-software-engineering) | Lehi, UT | Software Engineering Internship | 
 | [Disney](https://jobs.disneycareers.com/job/glendale/web-development-and-digital-production-internship-glendale-spring-2023/391/36522630640) | Glendale, CA | Web Development and Digital Production Internship |
 | [Gulfstream](https://careers.gulfstream.com/job/Savannah-Spring-&-Summer-2023-Software%2C-Automation%2C-Applications-&-Data-Systems-Intern-GA-31401/937094200/) | Savannah, GA | Software, Automation, Applications & Data Systems Intern | 
+| [Aptiv](https://jobs.aptiv.com/search-jobs/intern/29739/1) | Troy, MI; Agoura Hills, CA | [Software Engineering Intern](https://jobs.aptiv.com/job/troy/software-engineering-intern/29739/36233125680), [CV/Deep Learning Intern](https://jobs.aptiv.com/job/agoura-hills/computer-vision-deep-learning-intern/29739/36281503328) |
 | [Airbnb](https://careers.airbnb.com/positions/4509474/) | Remote | 2023 Software Engineer Intern (No Sponsorship) |
 
 <!-- Please leave a one line gap between this and the table -->
