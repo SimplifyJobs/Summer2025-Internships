@@ -180,7 +180,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Benchling](https://www.benchling.com/careers?jobId=4475866&gh_src=838b85821us) | San Francisco, CA | Software Engineer Intern |
 | [Scale AI](https://boards.greenhouse.io/scaleai/jobs/4037917005) | San Francisco, CA | Software Engineering Intern |
 | [PathAI](https://www.pathai.com/join-our-team/careers/?gh_jid=6327790002) | Boston, MA | Software Engineer Intern |
-| [Garda Capital Partners](https://boards.greenhouse.io/gardacp/jobs/4445441004) | Wayzata, MN | .Net Software Engineer Intern |
+| Garda Capital Partners | Wayzata, MN | **🔒 Closed 🔒** .Net Software Engineer Intern |
 | [Epic Games](https://www.epicgames.com/site/en-US/careers/jobs?type=Intern&department=Engineering) | Multiple Locations | Multiple Intern Positions |
 | [Mathworks](https://www.mathworks.com/company/jobs/opportunities/25610-multiple-openings-engineering-development-group-internship?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | Natick, MA | Engineering Development Group Intern (Spring and Summer 2023) |
 | GoDaddy | Multiple Locations, Remote | **🔒 Closed 🔒** Multiple Intern Position |
@@ -371,6 +371,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Netflix](https://jobs.netflix.com/jobs/232791459) | Los Gatos, CA | [Software Engineering Intern](https://jobs.netflix.com/jobs/232791459) |
 | [Alteryx](https://app.ripplematch.com/company/alteryx/) | Multiple Locations | [Software Engineer Intern](https://app.ripplematch.com/job/alteryx/83792c37/?from_page=company_branded_page&), [Data Analyst Intern](https://app.ripplematch.com/job/alteryx/8c645069/?from_page=company_branded_page&) |
 | TuSimple | San Diego, CA; Remote | [Software Engineer Internship - General](https://boards.greenhouse.io/tusimpleinternship/jobs/6399552002), [Software Engineer Internship - Full Stack](https://boards.greenhouse.io/tusimpleinternship/jobs/6399769002), [Software Engineer Intern - GPU](https://boards.greenhouse.io/tusimpleinternship/jobs/6403722002), [Software Engineer Intern C++](https://boards.greenhouse.io/tusimpleinternship/jobs/6399754002), [Machine Learning Engineer Internship](https://boards.greenhouse.io/tusimpleinternship/jobs/6398976002)
+| [Blizzard](https://careers.blizzard.com/global/en/job/R017329/Software-Engineering-Internship) | Irvine, CA | Front-End Development Intern, Back-end Development Intern, UI/UX Intern |
 
 
 <!-- Please leave a one line gap between this and the table -->
