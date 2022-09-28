@@ -368,6 +368,9 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Aptiv](https://jobs.aptiv.com/search-jobs/intern/29739/1) | Troy, MI; Agoura Hills, CA | [Software Engineering Intern](https://jobs.aptiv.com/job/troy/software-engineering-intern/29739/36233125680), [CV/Deep Learning Intern](https://jobs.aptiv.com/job/agoura-hills/computer-vision-deep-learning-intern/29739/36281503328) |
 | [Airbnb](https://careers.airbnb.com/positions/4509474/) | Remote | 2023 Software Engineer Intern (No Sponsorship) |
 | [Jacobs](https://careers.jacobs.com/job-search-results/?job_type[]=Internship) | Hudson, NH | [Software Intern Co-op (US Citizens Only) (Undergrad)](https://careers.jacobs.com/job/15934465/software-intern-co-op-hudson-nh/) |
+| [Netflix](https://jobs.netflix.com/jobs/232791459) | Los Gatos, CA | [Software Engineering Intern](https://jobs.netflix.com/jobs/232791459) |
+
+
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
