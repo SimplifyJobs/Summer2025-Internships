@@ -372,6 +372,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Alteryx](https://app.ripplematch.com/company/alteryx/) | Multiple Locations | [Software Engineer Intern](https://app.ripplematch.com/job/alteryx/83792c37/?from_page=company_branded_page&), [Data Analyst Intern](https://app.ripplematch.com/job/alteryx/8c645069/?from_page=company_branded_page&) |
 | TuSimple | San Diego, CA; Remote | [Software Engineer Internship - General](https://boards.greenhouse.io/tusimpleinternship/jobs/6399552002), [Software Engineer Internship - Full Stack](https://boards.greenhouse.io/tusimpleinternship/jobs/6399769002), [Software Engineer Intern - GPU](https://boards.greenhouse.io/tusimpleinternship/jobs/6403722002), [Software Engineer Intern C++](https://boards.greenhouse.io/tusimpleinternship/jobs/6399754002), [Machine Learning Engineer Internship](https://boards.greenhouse.io/tusimpleinternship/jobs/6398976002)
 | [Blizzard](https://careers.blizzard.com/global/en/job/R017329/Software-Engineering-Internship) | Irvine, CA | Front-End Development Intern, Back-end Development Intern, UI/UX Intern |
+| [Awardco](https://www.award.co/careers) | Pleasant Grove, Utah | [Front-End SWE Intern (Vue and JavaScript)](https://award.co/position?gh_jid=4136562004), [Back-End SWE Intern (C# and .NET Framework)](https://award.co/position?gh_jid=4322220004), and [SWE Test Intern (Cypress and JavaScript)](https://award.co/position?gh_jid=4323618004) |
 
 
 <!-- Please leave a one line gap between this and the table -->
