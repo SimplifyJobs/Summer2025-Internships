@@ -378,7 +378,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [McKesson](https://mckesson.wd3.myworkdayjobs.com/en-US/Acquisition_campus/job/Software-Engineer-Intern_JR0073781) | Irving, TX, Atlanta, GA, Moon Township, PA | Software Engineer Intern (No Visa Sponsorship) |
 | [EY](https://eyglobal.yello.co/jobs/uMv240TXZNumwbedIiRhSA?job_board_id=c1riT--B2O-KySgYWsZO1Q#NYNewYork) | Multiple Locations in US | Technology Consulting Intern |
 | [Argo AI](https://boards.greenhouse.io/argo/jobs/4586991)| Multiple Locations in US | Software Engineer Intern |
-| [Walmart](https://careers.walmart.com/us/jobs/WD1115596-usa-2023-summer-intern-software-engineer-ii)| Bentonville, AR | Software Engineer Intern |
+| [Walmart](https://careers.walmart.com/us/jobs/WD1115596-usa-2023-summer-intern-software-engineer-ii)| Bentonville, AR | Software Engineer Intern (No Visa Sponsorship) |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
