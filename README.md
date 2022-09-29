@@ -374,8 +374,8 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Blizzard](https://careers.blizzard.com/global/en/job/R017329/Software-Engineering-Internship) | Irvine, CA | Front-End Development Intern, Back-end Development Intern, UI/UX Intern |
 | [Awardco](https://www.award.co/careers) | Pleasant Grove, Utah | (**No Visa Sponsorship available**) [Front-End SWE Intern (Vue and JavaScript)](https://award.co/position?gh_jid=4136562004), [Back-End SWE Intern (C# and .NET Framework)](https://award.co/position?gh_jid=4322220004), and [SWE Test Intern (Cypress and JavaScript)](https://award.co/position?gh_jid=4323618004) |
 | [ZipRecruiter](https://www.ziprecruiter.com/careers) | Santa Monica, CA | [Data Scientist / Machine Learning Engineer - Intern](https://www.ziprecruiter.com/c/ZipRecruiter/Job/Data-Scientist-Machine-Learning-Engineer-Intern/-in-Santa-Monica,CA?jid=734d6c38e2b352bc), [Software Engineer Intern](https://www.ziprecruiter.com/c/ZipRecruiter/Job/Software-Engineer-Intern/-in-Santa-Monica,CA?jid=f331da90344f3100) |
-| [CarMax](https://careers.carmax.com/us/en/job/JR-102006/Technology-Intern-Richmond-VA-Dallas-TX) | Richmond, VA, Dallas TX | Technology Intern |
-
+| [CarMax](https://careers.carmax.com/us/en/job/JR-102006/Technology-Intern-Richmond-VA-Dallas-TX) | Richmond, VA, Dallas, TX | Technology Intern (No Visa Sponsorship) |
+| [McKesson](https://mckesson.wd3.myworkdayjobs.com/en-US/Acquisition_campus/job/Software-Engineer-Intern_JR0073781) | Irving, TX, Atlanta, GA, Moon Township, PA | Software Engineer Intern (No Visa Sponsorship) |
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
 
