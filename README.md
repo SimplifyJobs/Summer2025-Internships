@@ -360,7 +360,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Ramp](https://boards.greenhouse.io/ramp/jobs/5083064002) | New York, Miami, Remote  | [Software Engineer Internship - Backend](https://boards.greenhouse.io/ramp/jobs/5083064002) |
 | [Whatnot](https://www.ycombinator.com/companies/whatnot/jobs/Nh9mltA-software-engineering-intern-summer-2022) | Remote | |
 | [Pattern](https://pattern.breezy.hr/p/47c24165e033-internship-software-engineering) | Lehi, UT | Software Engineering Internship | 
-| [Disney](https://jobs.disneycareers.com/job/glendale/web-development-and-digital-production-internship-glendale-spring-2023/391/36522630640) | Glendale, CA | **🔒 Closed 🔒** Web Development and Digital Production Internship |
+| Disney | Glendale, CA | **🔒 Closed 🔒** Web Development and Digital Production Internship |
 | [Gulfstream](https://careers.gulfstream.com/job/Savannah-Spring-&-Summer-2023-Software%2C-Automation%2C-Applications-&-Data-Systems-Intern-GA-31401/937094200/) | Savannah, GA | Software, Automation, Applications & Data Systems Intern | 
 | [Advanced Micro Devices(AMD)](https://jobs.amd.com/job/Austin-Summer-2023-Advanced-Technology-Validation-Co-OpIntern-Texa/937443400/) | Austin, TX | Advanced Technology Validation Co-Op/intern. Software(Python/Perl,SQL) + Hardware(semiconductor theory) |
 | [Raven Industries](https://jobs.ravenind.com/job/Sioux-Falls-Software-Engineer-Intern-%28Summer%29-SD-57104-5931/934151400) | Sioux Falls, SD | Software Engineer Intern (Summer) |
