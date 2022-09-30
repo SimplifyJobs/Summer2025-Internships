@@ -279,7 +279,6 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Wolverine](https://jobs.lever.co/wolve/4a6fd0be-6bb7-4bbb-9dd5-1416d6a5f5b7) | Chicago, IL | Software Engineer Intern (Summer 2023) (No Sponsorship) |
 | [Pure Storage](https://boards.greenhouse.io/purestorage/jobs/4462754) | Mountain View, CA | Software Engineer Intern (for Summer 2023) |
 | [DeepMind](https://www.deepmind.com/careers/internships?sort=alphabetical) | Multiple Locations | Research/Software Engineer Intern |
-| Citi Bank | New York, NY & Tampa, FL | Software Development [(New York)](https://jobs.citi.com/job/new-york/icg-technology-full-time-analyst-software-development-new-york-city-north-america-2023/287/34889411712), [Tampa](https://jobs.citi.com/job/tampa/icg-technology-full-time-analyst-software-development-tampa-north-america-2023/287/34594715952) | 
 | [Symbiotic](https://symbotic.wd1.myworkdayjobs.com/en-US/Symbotic/job/USA-Wilmington--MA---HQ/Intern--Software-Engineer_R1635) | Wilmington, MA  | Software Engineer Intern |
 | [WillowTree](https://boards.greenhouse.io/willowtree/jobs/6320082002) | Charlottesville, VA; Columbus, OH; Durham, NC | Software Engineering Intern | 
 | [Grainger](https://jobs.grainger.com/zoro/job/CHICAGO-Software-Engineer-Intern%2C-Zoro-IL-60603-4013/935891400/) | Chicago, IL (Hybrid) | Software Engineering Intern | 
