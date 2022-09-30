@@ -378,7 +378,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [EY](https://eyglobal.yello.co/jobs/uMv240TXZNumwbedIiRhSA?job_board_id=c1riT--B2O-KySgYWsZO1Q#NYNewYork) | Multiple Locations in US | Technology Consulting Intern |
 | [Argo AI](https://boards.greenhouse.io/argo/jobs/4586991)| Multiple Locations in US | Software Engineer Intern |
 | [Walmart](https://careers.walmart.com/us/jobs/WD1115596-usa-2023-summer-intern-software-engineer-ii)| Bentonville, AR | Software Engineer Intern (No Visa Sponsorship) |
-| [Expedia](https://careers.expediagroup.com/jobs/?filter%5Bcategory%5D=&filter%5Bcountry%5D=&filter%5Bstate%5D=&filter%5Bcity%5D=)| Multiple Locations in US | [Software Development Engineer Intern (all stacks)](https://careers.expediagroup.com/jobs/?keyword=2023+Intern+-+Software+Development+Engineer+%28all+stacks%29&&filter[country]=United+States) |
+| [Expedia Group](https://careers.expediagroup.com/jobs/?filter%5Bcategory%5D=&filter%5Bcountry%5D=&filter%5Bstate%5D=&filter%5Bcity%5D=)| Multiple Locations in US | [Software Development Engineer Intern (all stacks)](https://careers.expediagroup.com/jobs/?keyword=2023+Intern+-+Software+Development+Engineer+%28all+stacks%29&&filter[country]=United+States) |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
