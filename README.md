@@ -385,7 +385,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Arista](https://www.arista.com/en/careers/university/engineering-internship) | Multiple Locations in US | Software Engineer Intern |
 | [Expedia Group](https://careers.expediagroup.com/jobs/?filter%5Bcategory%5D=&filter%5Bcountry%5D=&filter%5Bstate%5D=&filter%5Bcity%5D=)| Multiple Locations in US | [Software Development Engineer Intern (all stacks)](https://careers.expediagroup.com/jobs/?keyword=2023+Intern+-+Software+Development+Engineer+%28all+stacks%29&&filter[country]=United+States) |
 | [Clever](https://clever.com/about/careers/detail?gh_jid=4525415&gh_src=cfcca5b51us) | Multiple Locations in US | Software Engineering - Intern |
-
+| [Electronic Arts (EA)](https://ea.gr8people.com/jobs/175733/software-engineer-intern-summer-2023) | Multiple Locations in US | Software Engineering - Intern |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
