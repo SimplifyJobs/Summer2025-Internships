@@ -236,7 +236,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Garmin](https://careers.garmin.com/careers-home/jobs?tags3=Intern&page=1) | Various | Software Engineer Intern (Summer 2023): [Tulsa, OK](https://careers.garmin.com/careers-home/jobs/9345?lang=en-us), [Scottsdale, AZ](https://careers.garmin.com/careers-home/jobs/9267?lang=en-us), [Chandler, AZ](https://careers.garmin.com/careers-home/jobs/9266?lang=en-us), [Boulder, CO](https://careers.garmin.com/careers-home/jobs/9220?lang=en-us), [Tucson, AZ](https://careers.garmin.com/careers-home/jobs/9219?lang=en-us), [Cary, NC](https://careers.garmin.com/careers-home/jobs/9243?lang=en-us) |
 | [Plaid](https://plaid.com/careers/openings/university/remote/software-engineer-intern/) | Remote | Software Engineer Intern |
 | [Zoom](https://careers.zoom.us/jobs/2023-software-development-engineer-intern-san-jose-california-united-states-81ef3a01-8c56-4904-b020-f7a87b86f532) | San Jose, CA | 2023 Software Development Engineer - Intern |
-| [Pinterest](https://www.pinterestcareers.com/job/16663906/software-engineering-intern-usa-remote/) | Remote | Software Engineering Intern (No Sponsorship) |
+| [Pinterest](https://www.pinterestcareers.com/early-career/internship-university-grad-phd-programs/) | Remote | [Software Engineering Intern](https://www.pinterestcareers.com/job/16663906/software-engineering-intern-usa-remote/) (no sponsorship) |
 | [Nike](https://jobs.nike.com/job/URSRCGTENGUI23?apstr=src%3DJB-11022) | Boston, Massachusetts | Global Technology Engineer Undergraduate Internship |
 | [T.Row Price](https://troweprice.wd5.myworkdayjobs.com/en-US/TRowePrice/job/Owings-Mills-MD/XMLNAME-2023-Global-Technology-Software-Engineering-Internship-Program_62478?source=Indeed)  | Owings Mills, MD and Baltimore, MD| Technology Software Engineering Internship |
 | [Tableau](https://salesforce.wd1.myworkdayjobs.com/en-US/Tableau/job/Washington---Seattle/Summer-2023-Intern---Software-Engineer--Tableau-_JR162361-2?source=LinkedIn)| Multiple Locations | Summer 2023 Intern - Software Engineer |
@@ -278,7 +278,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Anduril](https://jobs.lever.co/anduril/) | Costa Mesa, CA | [Software Engineering](https://jobs.lever.co/anduril/d15840b6-081b-4d4c-95ed-008d681b4f7f), [Robotics Software Engineering](https://jobs.lever.co/anduril/c6d4fc93-2be9-4018-8160-4f490d11328c) (US Person Status Required) |
 | [Wolverine](https://jobs.lever.co/wolve/4a6fd0be-6bb7-4bbb-9dd5-1416d6a5f5b7) | Chicago, IL | Software Engineer Intern (Summer 2023) (No Sponsorship) |
 | [Pure Storage](https://boards.greenhouse.io/purestorage/jobs/4462754) | Mountain View, CA | Software Engineer Intern (for Summer 2023) |
-| [DeepMind](https://www.deepmind.com/careers/internships?sort=alphabetical) | Multiple Locations | Research/Software Engineer Intern |
+| [DeepMind](https://www.deepmind.com/careers/internships?sort=alphabetical) | Mountain View, CA | [Research Engineer Intern](https://boards.greenhouse.io/deepmind/jobs/4586013?t=bbda0eea1us) |
 | [Symbiotic](https://symbotic.wd1.myworkdayjobs.com/en-US/Symbotic/job/USA-Wilmington--MA---HQ/Intern--Software-Engineer_R1635) | Wilmington, MA  | Software Engineer Intern |
 | [WillowTree](https://boards.greenhouse.io/willowtree/jobs/6320082002) | Charlottesville, VA; Columbus, OH; Durham, NC | Software Engineering Intern | 
 | [Grainger](https://jobs.grainger.com/zoro/job/CHICAGO-Software-Engineer-Intern%2C-Zoro-IL-60603-4013/935891400/) | Chicago, IL (Hybrid) | Software Engineering Intern | 
@@ -386,6 +386,9 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Expedia Group](https://careers.expediagroup.com/jobs/?filter%5Bcategory%5D=&filter%5Bcountry%5D=&filter%5Bstate%5D=&filter%5Bcity%5D=)| Multiple Locations in US | [Software Development Engineer Intern (all stacks)](https://careers.expediagroup.com/jobs/?keyword=2023+Intern+-+Software+Development+Engineer+%28all+stacks%29&&filter[country]=United+States) |
 | [Clever](https://clever.com/about/careers/detail?gh_jid=4525415&gh_src=cfcca5b51us) | Multiple Locations in US | Software Engineering - Intern |
 | [State Street](https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Software-Developer-Intern-Co-Op-1_R-718979) | Quincy, Massachusetts | Software Developer Intern |
+| [Restaurant Brands International](https://careers.rbi.com/global/en/job/6262601002/2023-Technical-Development-Program-Summer-Internship-TDP-Software-Engineering-Miami) | Miami, FL | Software Engineering - Intern |
+| [Electronic Arts (EA)](https://ea.gr8people.com/jobs/175733/software-engineer-intern-summer-2023) | Multiple Locations in US | Software Engineering - Intern |
+
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
