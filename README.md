@@ -317,7 +317,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Parsons Corporation](https://parsons.wd5.myworkdayjobs.com/en-US/Search/job/US---CO-Colorado-Springs/Software-Engineer-Intern---Space-Systems--Summer-2023-_R132568) | Colorado Springs, CO | Software Engineer Intern - Space Systems (Summer 2023) (US Citizenship Required) |
 | [Fifth Third Bank](https://fifththird.wd5.myworkdayjobs.com/en-US/53careers/job/Cincinnati-OH/Summer-2023-Data-Science---Engineering-Intern_R35671) | Cincinnati, OH | Summer 2023 Data Science & Engineering Intern |
 | [KnowBe4](https://boards.greenhouse.io/knowbe4/jobs/5514774002) | Remote | Software Development Engineer Intern (Front-End) (Remote) |
-| Flexport | Bellevue, WA; or Chicago, IL; or San Francisco, CA | 2023 Summer Full-Stack Software Engineering Intern: [Undergraduate Degree](https://www.flexport.com/careers/job/4527122/), [Graduate Degree](https://www.flexport.com/careers/job/4500880/), [Data Analytics Intern](https://boards.greenhouse.io/flexport/jobs/4590148?gh_src=e6372a491us&s=LinkedIn&source=LinkedIn) |
+| Flexport | Bellevue, WA; or Chicago, IL; or San Francisco, CA | 2023 Summer Full-Stack Software Engineering Intern: [Undergraduate Degree](https://www.flexport.com/careers/job/4527122/), [Graduate Degree](https://www.flexport.com/careers/job/4500880/), Data Analytics Intern: [Undergraduate Degree](https://boards.greenhouse.io/flexport/jobs/4590148?gh_src=e6372a491us&s=LinkedIn&source=LinkedIn) |
 | Schonfeld | New York, NY; or Miami, FL | 2023 Software Engineering Summer Internship - [New York](https://boards.greenhouse.io/schonfeld/jobs/4510170), [Miami](https://boards.greenhouse.io/schonfeld/jobs/4510454) |
 | [Spreetail](https://jobs.lever.co/spreetail?commitment=Intern) | Remote | Software Engineer Intern - [Marketplace Platform](https://jobs.lever.co/spreetail/6ca36154-e412-403f-9894-8731697bd1eb), [Supply Chain Platform](https://jobs.lever.co/spreetail/a61ac2d5-1f9b-4c0d-b869-17817c7d8b5e); [Devops Intern](https://jobs.lever.co/spreetail/9d672bbf-9e46-42d9-bfe4-fc479489907f) | 
 | [Tanium](https://www.tanium.com/careers/4512774) | Remote, US | Software Engineering Intern (Summer 2023) |
@@ -392,8 +392,8 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [r2c](https://jobs.lever.co/returntocorp/82c10097-a669-417a-9434-66a98a8bca1f) | San Francisco, CA; or Remote | Software Engineer - Internship, Application Development |
 | [Excelitas](https://www.excelitas.com/job/2022-10/software-engineering-intern) | Billerica, MA | Software Engineering Intern (No Visa Sponsorship) |
 | [Teradata](https://careers.teradata.com/jobs/215587/cloud-software-engineering-intern) | Remote | Cloud Software Engineering Intern |
-| [klue](https://jobs.lever.co/klue/b88e45c3-c067-410b-a7d3-ca23142b9bef/apply?lever-source=LinkedIn) | Vancouver, BC | [Data Analyst Intern](https://jobs.lever.co/klue/b88e45c3-c067-410b-a7d3-ca23142b9bef/apply?lever-source=LinkedIn) |
-| [LINK](https://careers-linkindustrialfields.icims.com/jobs/search?ss=1&searchPositionType=18701) | Multiple Locations | [Data Analyst Intern](https://careers-linkindustrialfields.icims.com/jobs/4450/data-analyst-intern-2023/job?mobile=false&width=2048&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240) |
+| [klue](https://jobs.lever.co/klue/b88e45c3-c067-410b-a7d3-ca23142b9bef) | Vancouver, BC | Data Analyst Intern |
+| [LINK](https://careers-linkindustrialfields.icims.com/jobs/search?ss=1&searchPositionType=18701) | Multiple Locations | Data Analyst Intern] |
 
 
 <!-- Please leave a one line gap between this and the table -->
