@@ -392,6 +392,10 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [r2c](https://jobs.lever.co/returntocorp/82c10097-a669-417a-9434-66a98a8bca1f) | San Francisco, CA; or Remote | Software Engineer - Internship, Application Development |
 | [Excelitas](https://www.excelitas.com/job/2022-10/software-engineering-intern) | Billerica, MA | Software Engineering Intern (No Visa Sponsorship) |
 | [Teradata](https://careers.teradata.com/jobs/215587/cloud-software-engineering-intern) | Remote | Cloud Software Engineering Intern |
+| [Climate](https://jobs.jobvite.com/careers/the-climate-corporation/job/otfWkfwI?__jvst=Job%20Board&__jvsd=LinkedIn) | San Francisco, California  Seattle, Washington  Chicago, Illinois  St. Louis, Missouri | Software Engineering Intern |
+| [Marvell](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/US---MA---Westborough/Software-Engineering-Intern_2202008?src=SNS-102&source=LinkedIn) | Westborough, MA | Software Engineering Intern |
+| [Anthology Inc](https://careers.anthology.com/jobs/10568474-software-engineering-intern?source=LinkedIn-JS) | Remote | Software Engineering Intern |
+
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
