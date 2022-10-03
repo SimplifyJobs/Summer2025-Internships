@@ -388,6 +388,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [State Street](https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Software-Developer-Intern-Co-Op-1_R-718979) | Quincy, Massachusetts | Software Developer Intern |
 | [Restaurant Brands International](https://careers.rbi.com/global/en/job/6262601002/2023-Technical-Development-Program-Summer-Internship-TDP-Software-Engineering-Miami) | Miami, FL | Software Engineering - Intern |
 | [Electronic Arts (EA)](https://ea.gr8people.com/jobs/175733/software-engineer-intern-summer-2023) | Multiple Locations in US | Software Engineering - Intern |
+| [Northwestern Mutual | Milwaukee, WI; or Franklin, WI; or New York City, NY | [Software Engineering Internship (No Sponsorship)](https://careers.northwesternmutual.com/corporate-careers/job/software-engineering-internship-summer-2023-milwaukee-wi-corporate-jr-35891), [Data Science & Analytics Internship (No Sponsorship)](https://careers.northwesternmutual.com/corporate-careers/job/data-science-analytics-internship-summer-2023-milwaukee-wi-corporate-jr-35887/) |
 
 
 <!-- Please leave a one line gap between this and the table -->
