@@ -101,7 +101,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | Code 2040 | Various | **🔒 Closed 🔒** Software Engineering Internship Fellowship (9 weeks Summer 2023) |
 | [Vanta](https://boards.greenhouse.io/vanta/jobs/5868552002) | New York, NY | SWE Internship
 | [L3Harris Technologies](https://careers.l3harris.com/job/-/-/4832/33418640224) | Amityville, NY | Software Engineer Intern (US Government Security Clearance needed)
-| [Pixar Animation Studios](https://jobs.disneycareers.com/job/emeryville/software-research-and-development-intern-summer-2023/391/33430076960) | Emeryville, CA | Software Engineer Intern (no visa sponsorship)
+| Pixar Animation Studios | Emeryville, CA | **🔒 Closed 🔒** Software Engineer Intern (no visa sponsorship)
 | [PNC](https://careers.pnc.com/global/en/job/PNC1GLOBALR112729/Technology-Summer-Intern-Program?utm_source=symphonytalentmpx&utm_medium=phenom-feeds) | Various | Technology Summer Intern Program |
 | [PWC](https://jobs.us.pwc.com/job/-/-/932/33431414672?utm_source=linkedin.com&utm_campaign=core_media&utm_medium=social_media&utm_content=job_posting&ss=paid&dclid=CMnKgLT2oPkCFUExYgodkPgMsQ) | Various | Technology Consulting Intern (STEM extension for H1B possible) |
 | [Arrowstreet Capital](https://arrowstreetcapital.wd5.myworkdayjobs.com/en-US/Arrowstreet/job/Boston/Quantitative-Researcher-Intern--Summer-2023_R700) | Boston, MA | Quantitative Researcher Intern |
@@ -165,7 +165,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | Convoy | Seattle, WA | [Software Engineer Intern](https://boards.greenhouse.io/convoy/jobs/4631008004?gh_src=f0b55ea54us), [Business Intelligence Engineer Intern](https://boards.greenhouse.io/convoy/jobs/4631039004) |
 | [Lime](https://jobs.lever.co/lime/70477592-6eae-4fac-a33d-1c60e9177301) | SF, CA | Software Engineering Intern (Summer 2023) |
 | [Daikin](https://recruiting.adp.com/srccar/public/nghome.guid?c=1143611&d=External&prc=RMPOD3&r=5000877708900#/) | Plymouth, MN | SWE Intern (No Sponsorship) |
-| [Lyft](https://www.lyft.com/careers/early-talent) | Multiple Locations in the US | SWE Intern Generalist, SWE Intern Frontend |
+| Lyft | Multiple Locations in the US | **🔒 Closed 🔒** SWE Intern Generalist, SWE Intern Frontend |
 | Optimal Dynamics | New York, NY or Remote | **🔒 Closed 🔒** SWE Intern |
 | [Citrix](https://jobs.citrix.com/jobs/software-engineer-intern-summer-2023-ft-lauderdale-florida-united-states-remote) | Ft. Lauderdale, FL; or Remote | Software Engineer Intern (Summer 2023) |
 | [Target](https://jobs.target.com/job/-/-/1118/34525104848) | Brooklyn Park, MN | Software Engineering Intern - Hybrid (Starting June 2023) |
@@ -220,7 +220,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Paramount](https://careers.viacomcbs.com/job/Burbank-Software-Engineering-Internships-Summer-2023-%28Mobile%2C-Video%2C-Web%2C-UI%29-CA-91505/930475300/?feedId=340900&utm_source=LinkedInJobPostings&utm_campaign=ViacomCBS_LinkedIn) | Multiple Locations (NY, CA) | Software Engineering Intern |
 | [Nuro](https://www.nuro.ai/careersitem?gh_jid=4524036&gh_src=bcd22a501us) | Mountain View | Software Engineer (SRE) Intern |
 | [Relativity Space](https://boards.greenhouse.io/relativity/jobs/6363660002?gh_jid=6363660002) | Long Beach, CA | Software Engineer Intern (C/C++) (Requires US citizenship)|
-| [Dropbox](https://www.dropbox.com/jobs/listing/4380645?gh_src=aonhf1) | Remote (US, Canada) | Software Engineer Intern |
+| [Dropbox](https://www.dropbox.com/jobs/teams/emerging-talent) | Remote (US, Canada) | [Software Engineer Intern](https://www.dropbox.com/jobs/listing/4380645?gh_src=aonhf1), [Data Science Intern](https://www.dropbox.com/jobs/teams/emerging-talent) |
 | [MongoDB](https://app.ripplematch.com/job/mongodb/6d3b16e9/) | NY, ATX, SF | Software Engineer Intern |
 | [Urban Outfitters](https://www.urbn.com/internships) | Philadelphia, PA | [Web Software Engineer Intern](https://recruiting.ultipro.com/URB1003UROI/JobBoard/10af8568-5cfd-415b-8dc2-ed6cecf3006c/OpportunityDetail?opportunityId=fb48b358-7991-44dc-bb18-eb893a8d76f2), [Network Engineering Intern](https://recruiting.ultipro.com/URB1003UROI/JobBoard/10af8568-5cfd-415b-8dc2-ed6cecf3006c/OpportunityDetail?opportunityId=cfabd4f4-0b50-455a-89e3-020e681d9a3a) |
 | [The Washington Post](https://news-engineering.notion.site/WaPo-Engineering-internship-details-resources-application-office-hours-e7a930543e3749988404c73f7e62be78) | Washington, DC and Remote | Software Engineer Intern |
@@ -317,7 +317,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Parsons Corporation](https://parsons.wd5.myworkdayjobs.com/en-US/Search/job/US---CO-Colorado-Springs/Software-Engineer-Intern---Space-Systems--Summer-2023-_R132568) | Colorado Springs, CO | Software Engineer Intern - Space Systems (Summer 2023) (US Citizenship Required) |
 | [Fifth Third Bank](https://fifththird.wd5.myworkdayjobs.com/en-US/53careers/job/Cincinnati-OH/Summer-2023-Data-Science---Engineering-Intern_R35671) | Cincinnati, OH | Summer 2023 Data Science & Engineering Intern |
 | [KnowBe4](https://boards.greenhouse.io/knowbe4/jobs/5514774002) | Remote | Software Development Engineer Intern (Front-End) (Remote) |
-| Flexport | Bellevue, WA; or Chicago, IL; or San Francisco, CA | 2023 Summer Full-Stack Software Engineering Intern: [Undergraduate Degree](https://www.flexport.com/careers/job/4527122/), [Graduate Degree](https://www.flexport.com/careers/job/4500880/) |
+| Flexport | Bellevue, WA; or Chicago, IL; or San Francisco, CA | 2023 Summer Full-Stack Software Engineering Intern: [Undergraduate Degree](https://www.flexport.com/careers/job/4527122/), [Graduate Degree](https://www.flexport.com/careers/job/4500880/), Data Analytics Intern: [Undergraduate Degree](https://boards.greenhouse.io/flexport/jobs/4590148?gh_src=e6372a491us&s=LinkedIn&source=LinkedIn) |
 | Schonfeld | New York, NY; or Miami, FL | 2023 Software Engineering Summer Internship - [New York](https://boards.greenhouse.io/schonfeld/jobs/4510170), [Miami](https://boards.greenhouse.io/schonfeld/jobs/4510454) |
 | [Spreetail](https://jobs.lever.co/spreetail?commitment=Intern) | Remote | Software Engineer Intern - [Marketplace Platform](https://jobs.lever.co/spreetail/6ca36154-e412-403f-9894-8731697bd1eb), [Supply Chain Platform](https://jobs.lever.co/spreetail/a61ac2d5-1f9b-4c0d-b869-17817c7d8b5e); [Devops Intern](https://jobs.lever.co/spreetail/9d672bbf-9e46-42d9-bfe4-fc479489907f) | 
 | [Tanium](https://www.tanium.com/careers/4512774) | Remote, US | Software Engineering Intern (Summer 2023) |
@@ -395,7 +395,12 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Climate](https://jobs.jobvite.com/careers/the-climate-corporation/job/otfWkfwI?__jvst=Job%20Board&__jvsd=LinkedIn) | Multiple Locations | Software Engineering Intern |
 | [Marvell](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/US---MA---Westborough/Software-Engineering-Intern_2202008?src=SNS-102&source=LinkedIn) | Westborough, MA | Software Engineering Intern |
 | [Anthology Inc](https://careers.anthology.com/jobs/10568474-software-engineering-intern?source=LinkedIn-JS) | Remote | Software Engineering Intern (Not available for residents of CO, CA, MA) |
-
+| [klue](https://jobs.lever.co/klue/b88e45c3-c067-410b-a7d3-ca23142b9bef) | Vancouver, BC | Data Analyst Intern |
+| [LINK](https://careers-linkindustrialfields.icims.com/jobs/search?ss=1&searchPositionType=18701) | Multiple Locations | Data Analyst Intern] |
+| [Hashicorp](https://www.hashicorp.com/job/4583591) | Remote | Software Engineering Intern |
+| [CSG](https://careers.csgi.com/job/CSINUS24319EXTERNALENUS/Software-Engineer-Intern-C) | Remote | Software Engineer Intern - C# |
+| [Achieve](https://jobs.jobvite.com/achieve/job/ohVclfwt) | Remote | Intern, Software Development |
+| [Lennox International](https://uscareers-lennox.icims.com/jobs/34333/software-engineer-intern---summer-2023/job) | Carrollton, TX | Software Engineer Intern - Summer 2023 |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
