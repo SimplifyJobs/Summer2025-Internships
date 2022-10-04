@@ -402,6 +402,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Achieve](https://jobs.jobvite.com/achieve/job/ohVclfwt) | Remote | Intern, Software Development |
 | [Lennox International](https://uscareers-lennox.icims.com/jobs/34333/software-engineer-intern---summer-2023/job) | Carrollton, TX | Software Engineer Intern - Summer 2023 |
 | [Tackle.io](https://jobs.lever.co/tackle/379afe16-73ce-4eff-8b73-d3801f5a26fc) | Remote | Software Engineer- Summer Associate |
+| [AT&T](https://www.att.jobs/search-jobs?acm=ALL&alrpm=ALL&ascf=[%7B%22key%22:%22custom_fields.ProgramCard%22,%22value%22:%22AT%26T+EDGE+Internship+Program%22%7D]) | Multiple Locations | EDGE Internship Program 2023 (No Visa Sponsorship) |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
