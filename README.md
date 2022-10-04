@@ -392,6 +392,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [r2c](https://jobs.lever.co/returntocorp/82c10097-a669-417a-9434-66a98a8bca1f) | San Francisco, CA; or Remote | Software Engineer - Internship, Application Development |
 | [Excelitas](https://www.excelitas.com/job/2022-10/software-engineering-intern) | Billerica, MA | Software Engineering Intern (No Visa Sponsorship) |
 | [Teradata](https://careers.teradata.com/jobs/215587/cloud-software-engineering-intern) | Remote | Cloud Software Engineering Intern |
+| [Hashicorp](https://www.hashicorp.com/job/4583591) | Remote | Software Engineering Intern |
 
 
 <!-- Please leave a one line gap between this and the table -->
