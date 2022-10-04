@@ -393,7 +393,9 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Excelitas](https://www.excelitas.com/job/2022-10/software-engineering-intern) | Billerica, MA | Software Engineering Intern (No Visa Sponsorship) |
 | [Teradata](https://careers.teradata.com/jobs/215587/cloud-software-engineering-intern) | Remote | Cloud Software Engineering Intern |
 | [Hashicorp](https://www.hashicorp.com/job/4583591) | Remote | Software Engineering Intern |
-
+| [CSG](https://careers.csgi.com/job/CSINUS24319EXTERNALENUS/Software-Engineer-Intern-C) | Remote | Software Engineer Intern - C# |
+| [Achieve](https://jobs.jobvite.com/achieve/job/ohVclfwt) | Remote | Intern, Software Development |
+| [Lennox International](https://uscareers-lennox.icims.com/jobs/34333/software-engineer-intern---summer-2023/job) | Carrollton, TX | Software Engineer Intern - Summer 2023 |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
