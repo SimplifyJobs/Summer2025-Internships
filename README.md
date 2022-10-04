@@ -394,7 +394,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Teradata](https://careers.teradata.com/jobs/215587/cloud-software-engineering-intern) | Remote | Cloud Software Engineering Intern |
 | [Climate](https://jobs.jobvite.com/careers/the-climate-corporation/job/otfWkfwI?__jvst=Job%20Board&__jvsd=LinkedIn) | Multiple Locations | Software Engineering Intern |
 | [Marvell](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/US---MA---Westborough/Software-Engineering-Intern_2202008?src=SNS-102&source=LinkedIn) | Westborough, MA | Software Engineering Intern |
-| [Anthology Inc](https://careers.anthology.com/jobs/10568474-software-engineering-intern?source=LinkedIn-JS) | Remote | Software Engineering Intern |
+| [Anthology Inc](https://careers.anthology.com/jobs/10568474-software-engineering-intern?source=LinkedIn-JS) | Remote | Software Engineering Intern (Not available for residents of CO, CA, MA) |
 
 
 <!-- Please leave a one line gap between this and the table -->
