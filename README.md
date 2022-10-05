@@ -404,6 +404,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Tackle.io](https://jobs.lever.co/tackle/379afe16-73ce-4eff-8b73-d3801f5a26fc) | Remote | Software Engineer- Summer Associate |
 | [AT&T](https://www.att.jobs/search-jobs?acm=ALL&alrpm=ALL&ascf=[%7B%22key%22:%22custom_fields.ProgramCard%22,%22value%22:%22AT%26T+EDGE+Internship+Program%22%7D]) | Multiple Locations | EDGE Internship Program 2023 (No Visa Sponsorship) |
 | [Khan Academy](https://boards.greenhouse.io/khanacademy/jobs/4586206) | Remote | Software Engineer Intern |
+| [SoFi](https://www.sofi.com/careers/intern/?gh_jid=5330272003) | Multiple Locations | Intern, Software Engineer |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
