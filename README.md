@@ -241,7 +241,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [T.Row Price](https://troweprice.wd5.myworkdayjobs.com/en-US/TRowePrice/job/Owings-Mills-MD/XMLNAME-2023-Global-Technology-Software-Engineering-Internship-Program_62478?source=Indeed)  | Owings Mills, MD and Baltimore, MD| Technology Software Engineering Internship |
 | [Tableau](https://salesforce.wd1.myworkdayjobs.com/en-US/Tableau/job/Washington---Seattle/Summer-2023-Intern---Software-Engineer--Tableau-_JR162361-2?source=LinkedIn)| Multiple Locations | Summer 2023 Intern - Software Engineer |
 | [The Home Depot](https://careers.homedepot.com/job-search-results/?keyword=intern) | Atlanta, GA | Software Engineering Intern, Data Science Undergraduate Intern (Requires SSN) |
-| Adobe | Various | **🔒 Closed 🔒** Software Engineer Intern, Machine Learning Intern |
+| [Adobe](https://careers.adobe.com/us/en/job/R131626/2023-Intern-Software-Engineer) | Various |  [Software Engineer Intern](https://careers.adobe.com/us/en/job/R131626/2023-Intern-Software-Engineer), Machine Learning Intern |
 | Merge | San Francisco, CA & New York City, NY | **🔒 Closed 🔒** Software Engineer Intern (Summer 2023) |
 | [NASA Jet Propulsion Laboratory](https://www.jpl.jobs/job/JJPLUSR2941EXTERNALENUS/Summer-2023-Software-Engineer-Intern) | Pasadena, CA | Summer 2023 Software Engineer Intern |
 | [Lowe's](https://talent.lowes.com/us/en/job/2411616BR/Software-Engineer-Undergraduate-Intern) | Charlotte, NC | Software Engineer, Undergraduate Intern |
