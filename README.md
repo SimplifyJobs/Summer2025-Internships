@@ -398,7 +398,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [klue](https://jobs.lever.co/klue/b88e45c3-c067-410b-a7d3-ca23142b9bef) | Vancouver, BC | Data Analyst Intern |
 | [LINK](https://careers-linkindustrialfields.icims.com/jobs/search?ss=1&searchPositionType=18701) | Multiple Locations | Data Analyst Intern] |
 | [Hashicorp](https://www.hashicorp.com/job/4583591) | Remote | Software Engineering Intern |
-| [CSG](https://careers.csgi.com/job/CSINUS24319EXTERNALENUS/Software-Engineer-Intern-C) | Remote | Software Engineer Intern - C# |
+| CSG | Remote | **🔒 Closed 🔒** Software Engineer Intern - C# |
 | [Achieve](https://jobs.jobvite.com/achieve/job/ohVclfwt) | Remote | Intern, Software Development |
 | [Lennox International](https://uscareers-lennox.icims.com/jobs/34333/software-engineer-intern---summer-2023/job) | Carrollton, TX | Software Engineer Intern - Summer 2023 |
 | [Tackle.io](https://jobs.lever.co/tackle/379afe16-73ce-4eff-8b73-d3801f5a26fc) | Remote | Software Engineer- Summer Associate |
