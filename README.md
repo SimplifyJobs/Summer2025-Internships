@@ -250,7 +250,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Allegion](https://allegion.wd5.myworkdayjobs.com/careers/job/Carmel-IN/Summer-Intern---Software-Engineer_JR23390-1) | Carmel, IN | Summer Intern - Software Engineer |
 | Arm | Boston, MA | **🔒 Closed 🔒** Intern Software Engineer |
 | [ABL](https://www.builtinla.com/job/internship/engineering-intern-summer-2023/124823?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | El Segundo, CA | Engineering Intern (Summer 2023) - US Citizenship Required |
-| [Nomura](https://nomuracampus.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/xf-4d873717800a/candidate/so/pm/1/pl/1/opp/735-2023-Corporate-Infrastructure-Information-Technology-Summer-Analyst/en-GB) | New York | 2023 Summer Analyst - Corporate Infrastructure - Information Technology |
+| Nomura | New York | **🔒 Closed 🔒** 2023 Summer Analyst - Corporate Infrastructure - Information Technology |
 | [McKinsey & Company](https://www.mckinsey.com/careers/search-jobs?query=software%20engineer%20intern) | New York City, NY; or San Francisco, CA | [Software Engineering Intern - University Students](https://www.mckinsey.com/careers/search-jobs/jobs/softwareengineeringintern-universitystudents-34746), [Data Engineering Intern - QuantumBlack (Only Class of 2023-2024)](https://www.mckinsey.com/careers/search-jobs/jobs/dataengineeringintern-quantumblack-universitystudents-58600) |
 | [Workday](https://workday.wd5.myworkdayjobs.com/Workday_University_Careers/job/USA-CA-Pleasanton/Software-Development-Engineer-Intern_JR-72646) | Multiple Locations | Software Development Engineer Intern |
 | [Bloomberg](https://careers.bloomberg.com/job/detail/106002) | New York, NY | 2023 Software Engineer Intern |
@@ -261,7 +261,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | Sony Electronics | San Diego, CA | **🔒 Closed 🔒** Software Engineering Intern |
 | [2K](https://boards.greenhouse.io/2k/jobs/5303107003) | Novato, CA | Engineering Internship |
 | [Lacework](https://www.lacework.com/job-openings/?gh_jid=4646011004) | Remote | Software Engineer Intern |
-| [Axon](https://boards.greenhouse.io/axon/jobs/5293118003) | Seattle, Scottsdale or Remote US/ Canada | Software Engineering Intern |
+| Axon | Seattle, Scottsdale or Remote US/ Canada | **🔒 Closed 🔒** Software Engineering Intern |
 | [Emerson Automation Solutions](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/22023193) | Round Rock, TX | Software Development Summer Intern (No Sponsorship) |
 | [Shure Inc.](https://careers-shure.icims.com/jobs/2848/software-engineering-intern/job?mode=job) | Irvine, CA | Software Engineering Intern |
 | [Code42](https://boards.greenhouse.io/code42/jobs/4086381005) | Minneapolis, MN | Software Engineer Intern (C++, Java, C#) |
