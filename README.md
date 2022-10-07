@@ -351,7 +351,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Crusoe](https://jobs.lever.co/crusoeenergy/16d9dc19-74a5-4c32-9ead-e3e221f4eaca) | San Francisco, CA | University / Software Engineer (Intern) |
 | [Farm Credit Services of America](https://careers.fcsamerica.com/job/16636430/) | Omaha, NE | Web Software Systems Engineer (Intern Summer 2023) |
 | Raytheon | Varies by Role | [UP 2023 Software Engineer Internships](https://careers.rtx.com/global/en/job/RAYTGLOBAL01567022EXTERNALENGLOBAL/UP-2023-Software-Engineer-Internships), [2023 Software Engineer Summer Intern](https://careers.rtx.com/global/en/job/RAYTGLOBAL01569607EXTERNALENGLOBAL/2023-Software-Engineer-Summer-Intern) (US Citizenship Required for Both) |
-| Lumen | Remote | **🔒 Closed 🔒** Intern - Software Engineer - Summer 2023 Nationwide / Remote, Intern - Data Scientist |
+| [Lumen](https://jobs.lumen.com/global/en/university-entry-level) | Remote | [Intern - Software Engineer - Summer 2023 Nationwide / Remote](https://jobs.lumen.com/global/en/job/317271/Intern-Software-Engineer-Summer-2023), [Intern - Data Scientist](https://jobs.lumen.com/global/en/job/318304/Intern-Data-Scientist-Summer-2023-Nationwide-Remote?job) |
 | [Remitly](https://careers.remitly.com/job-details/?jobid=4578296&gh_jid=4578296&gh_src=807b247a1us) | Seattle, WA; or Remote | Software Development Intern - Summer 2023 |
 | [Textron](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=1115787) | Huntsville, AL | 2023 Intern - Software Engineer (Air) (US Citizenship Required) |
 | [Live Oak Bank](https://liveoakbancshares.wd1.myworkdayjobs.com/Live_Oak/job/Wilmington-NC/Technology-Intern_R-000478) | Wilmington, NC | Software Engineer Intern |
@@ -411,6 +411,12 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [LaunchDarkly](https://boards.greenhouse.io/launchdarkly) | Remote | [Backend Engineering Intern, Internal Tools](https://boards.greenhouse.io/launchdarkly/jobs/5298141003), [Data Engineering Intern](https://boards.greenhouse.io/launchdarkly/jobs/5303035003), [Data Scientist Intern](https://boards.greenhouse.io/launchdarkly/jobs/5337641003) |
 | [Invoca](https://www.invoca.com/company/job-listings?gh_jid=6101463002) | Remote, Santa Barbara | Data Science Internship |
 | [ebay](https://app.ripplematch.com/job/ebay/b82bd209/) | Multiple Locations | Software Engineering Intern |
+| [Oscar Health](https://www.hioscar.com/careers/4593272) | Remote | Software Engineering Intern 2023 |
+| [Wisk](https://jobs.lever.co/wisk/4d2f1a07-8f6e-4243-ad2d-ebea17e390a9) | Remote | Software Engineer Intern - Full Stack |
+| [Nuance](https://nuance.wd1.myworkdayjobs.com/Nuance/job/Burlington-Massachusetts-US/Software-Development-Intern--C---_106343) | Burlington, MA | Software Development Intern (C++) |
+| [Liberty Mutual](https://jobs.libertymutualgroup.com/job/16486203/2023-techstart-summer-internship-program-portsmouth-nh/?mode=job) | Various | TechStart Internship Program 2023 |
+| [Vizient](https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Virtual-Office/Summer-Intern---Application-Development---Technology_23755R) | Remote | Summer Intern - Application Development & Technology |
+| DISCO | New York City, NY; or Austin, TX | Software Engineer Intern @ [New York City, NY](https://www.csdisco.com/careers/software-engineer-intern-c), [Austin, TX](https://www.csdisco.com/careers/software-engineer-intern-6) |
 
 
 <!-- Please leave a one line gap between this and the table -->
