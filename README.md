@@ -410,7 +410,12 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Vectra](https://www.vectra.ai/about/jobs) | San Jose, Boston, Austin, Remote | [Data Engineering Internship](https://www.vectra.ai/about/jobs?gh_jid=4534120), [Data Science Internship](https://www.vectra.ai/about/jobs?gh_jid=4534154), [Software Engineering Internship](https://www.vectra.ai/about/jobs?gh_jid=4514511) |
 | [LaunchDarkly](https://boards.greenhouse.io/launchdarkly) | Remote | [Backend Engineering Intern, Internal Tools](https://boards.greenhouse.io/launchdarkly/jobs/5298141003), [Data Engineering Intern](https://boards.greenhouse.io/launchdarkly/jobs/5303035003), [Data Scientist Intern](https://boards.greenhouse.io/launchdarkly/jobs/5337641003) |
 | [Invoca](https://www.invoca.com/company/job-listings?gh_jid=6101463002) | Remote, Santa Barbara | Data Science Internship |
-
+| [Oscar Health](https://www.hioscar.com/careers/4593272) | Remote | Software Engineering Intern 2023 |
+| [Wisk](https://jobs.lever.co/wisk/4d2f1a07-8f6e-4243-ad2d-ebea17e390a9) | Remote | Software Engineer Intern - Full Stack |
+| [Nuance](https://nuance.wd1.myworkdayjobs.com/Nuance/job/Burlington-Massachusetts-US/Software-Development-Intern--C---_106343) | Burlington, MA | Software Development Intern (C++) |
+| [Liberty Mutual](https://jobs.libertymutualgroup.com/job/16486203/2023-techstart-summer-internship-program-portsmouth-nh/?mode=job) | Various | TechStart Internship Program 2023 |
+| [Vizient](https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Virtual-Office/Summer-Intern---Application-Development---Technology_23755R) | Remote | Summer Intern - Application Development & Technology |
+| DISCO | New York City, NY; or Austin, TX | Software Engineer Intern @ [New York City, NY](https://www.csdisco.com/careers/software-engineer-intern-c), [Austin, TX](https://www.csdisco.com/careers/software-engineer-intern-6) |
 
 
 <!-- Please leave a one line gap between this and the table -->
