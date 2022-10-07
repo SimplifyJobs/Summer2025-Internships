@@ -416,6 +416,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Liberty Mutual](https://jobs.libertymutualgroup.com/job/16486203/2023-techstart-summer-internship-program-portsmouth-nh/?mode=job) | Various | TechStart Internship Program 2023 |
 | [Vizient](https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Virtual-Office/Summer-Intern---Application-Development---Technology_23755R) | Remote | Summer Intern - Application Development & Technology |
 | DISCO | New York City, NY; or Austin, TX | Software Engineer Intern @ [New York City, NY](https://www.csdisco.com/careers/software-engineer-intern-c), [Austin, TX](https://www.csdisco.com/careers/software-engineer-intern-6) |
+| [Spectrum](https://jobs.spectrum.com/job/greenwood-village/2023-summer-intern-software-engineer/4673/37073255520) | Multiple Locations | Software Engineering Intern|
 
 
 <!-- Please leave a one line gap between this and the table -->
