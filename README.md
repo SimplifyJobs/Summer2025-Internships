@@ -113,7 +113,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [JP Morgan](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210321355) | Multiple | Software Engineer Intern (10 Weeks) (no visa sponsorship) |
 | [Roblox](https://jobs.roblox.com/careers/job?domain=roblox.com&pid=137451585492) | San Mateo, CA | Software Engineer - Intern (Summer 2023) |
 | [Microsoft](https://careers.microsoft.com/us/en/job/1388845) | Redmond, WA; Bellevue, WA; Mountain View, CA; Dallas, TX; Cambridge, MA; Austin, TX | Software Engineering Intern, [Explore](https://careers.microsoft.com/students/us/en/job/1388848/Explore-Microsoft-Intern-Opportunities-for-University-Students) |
-| [Intuit](https://jobs.intuit.com/job/-/-/27595/33672146000) | **🔒 Closed 🔒** Mountain View, California; San Diego, California; Plano, Texas; New York, New York; Atlanta, Georgia | Software Engineer Intern |
+| Intuit | **🔒 Closed 🔒** Mountain View, California; San Diego, California; Plano, Texas; New York, New York; Atlanta, Georgia | Software Engineer Intern |
 | [Uber](https://university-uber.icims.com/jobs/116847/job) | Various | 2023 Software Engineer Internship |
 | [Uber](https://university-uber.icims.com/jobs/116956/2023-software-engineering-uberstar-internship-program/job) | San Francisco, CA | Software Engineering Intern for Freshmen/Sophomores |
 | [Hudson River Trading](https://www.hudsonrivertrading.com/careers/?_4118765=Internship) | New York, Austin, Chicago | Algorithm Development, Software Engineering (C++ or Python) |
