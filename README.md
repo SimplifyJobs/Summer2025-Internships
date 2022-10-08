@@ -365,7 +365,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Raven Industries](https://jobs.ravenind.com/job/Sioux-Falls-Software-Engineer-Intern-%28Summer%29-SD-57104-5931/934151400) | Sioux Falls, SD | Software Engineer Intern (Summer) |
 | [Vail Systems](https://jobs.lever.co/vailsys?commitment=Internship) | Chicago, IL | [C++ Software Engineer Intern (Summer 2023)](https://jobs.lever.co/vailsys/98edbcac-8756-432e-8aa5-47c36c099b19), [Web Software Engineer Intern (Summer 2023)](https://jobs.lever.co/vailsys/39332d76-6599-44af-9481-e7f9162d1ad1/) |
 | Aptiv | Troy, MI; Agoura Hills, CA | **🔒 Closed 🔒** Software Engineering Intern, CV/Deep Learning Intern |
-| [Airbnb](https://careers.airbnb.com/positions/4509474/) | Remote | 2023 Software Engineer Intern (No Sponsorship) |
+| Airbnb | Remote | **🔒 Closed 🔒** 2023 Software Engineer Intern (No Sponsorship) |
 | [Jacobs](https://careers.jacobs.com/job-search-results/?job_type[]=Internship) | Hudson, NH | [Software Intern Co-op (US Citizens Only) (Undergrad)](https://careers.jacobs.com/job/15934465/software-intern-co-op-hudson-nh/) |
 | [Netflix](https://jobs.netflix.com/search?team=Internship) | Los Gatos, CA | [Software Engineer Intern](https://jobs.netflix.com/jobs/234866639), [Security Engineering Intern](https://jobs.netflix.com/jobs/232791459), [Machine Learning Intern](https://jobs.netflix.com/jobs/234882269) |
 | [Alteryx](https://app.ripplematch.com/company/alteryx/) | Multiple Locations | [Software Engineer Intern](https://app.ripplematch.com/job/alteryx/83792c37/?from_page=company_branded_page&), [Data Analyst Intern](https://app.ripplematch.com/job/alteryx/8c645069/?from_page=company_branded_page&) |
@@ -422,6 +422,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Tesla](https://www.tesla.com/careers/search/job/software-engineering-internship-summer-2023-153316) | Palo Alto, California | Software Engineering Internship |
 | [Spectrum](https://jobs.spectrum.com/job/greenwood-village/2023-summer-intern-software-engineer/4673/37073255520) | Multiple Locations | Software Engineering Intern|
 | [Coca-Cola](https://careers.coca-colacompany.com/job/16761041/information-technology-summer-intern-atlanta-ga/) | Atlanta, GA | Information Technology Intern |
+| [Coursera](https://www.untapped.io/app/discover/jobs/coursera/software-engineer-intern-us-fall-2022/afb80300-5151-4801-8af1-143e37f617a9) | Mountain View, CA | Software Engineer Intern |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
