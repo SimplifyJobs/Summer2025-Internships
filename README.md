@@ -375,7 +375,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [ZipRecruiter](https://www.ziprecruiter.com/careers) | Santa Monica, CA | [Data Scientist / Machine Learning Engineer - Intern](https://www.ziprecruiter.com/c/ZipRecruiter/Job/Data-Scientist-Machine-Learning-Engineer-Intern/-in-Santa-Monica,CA?jid=734d6c38e2b352bc), [Software Engineer Intern](https://www.ziprecruiter.com/c/ZipRecruiter/Job/Software-Engineer-Intern/-in-Santa-Monica,CA?jid=f331da90344f3100) |
 | [Squarespace](https://www.squarespace.com/careers/jobs/4541564) | New York, NY | Software Engineer Internship - Summer 2023 |
 | [CarMax](https://careers.carmax.com/us/en/job/JR-102006/Technology-Intern-Richmond-VA-Dallas-TX) | Richmond, VA, Dallas, TX | Technology Intern (No Visa Sponsorship) |
-| [McKesson](https://mckesson.wd3.myworkdayjobs.com/en-US/Acquisition_campus/job/USA-GA-Atlanta/Software-Engineer-Intern---Summer-2023_JR0074694) | Atlanta, GA | **🔒 Closed 🔒** Software Engineer Intern (No Visa Sponsorship) |
+| [McKesson](https://mckesson.wd3.myworkdayjobs.com/en-US/Acquisition_campus/job/USA-GA-Atlanta/Software-Engineer-Intern---Summer-2023_JR0074694) | Atlanta, GA | Software Engineer Intern (No Visa Sponsorship) |
 | EY | Multiple Locations in US | **🔒 Closed 🔒** Technology Consulting Intern: (Must be US citizen and obtain clearances) |
 | [Argo AI](https://boards.greenhouse.io/argo/jobs/4586991)| Multiple Locations in US | Software Engineer Intern |
 | [Walmart](https://careers.walmart.com/us/jobs/WD1115596-usa-2023-summer-intern-software-engineer-ii)| Bentonville, AR | Software Engineer Intern (No Visa Sponsorship) |
