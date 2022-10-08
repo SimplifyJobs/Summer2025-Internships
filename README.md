@@ -367,7 +367,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | Aptiv | Troy, MI; Agoura Hills, CA | **🔒 Closed 🔒** Software Engineering Intern, CV/Deep Learning Intern |
 | [Airbnb](https://careers.airbnb.com/positions/4509474/) | Remote | 2023 Software Engineer Intern (No Sponsorship) |
 | [Jacobs](https://careers.jacobs.com/job-search-results/?job_type[]=Internship) | Hudson, NH | [Software Intern Co-op (US Citizens Only) (Undergrad)](https://careers.jacobs.com/job/15934465/software-intern-co-op-hudson-nh/) |
-| [Netflix](https://jobs.netflix.com/jobs/232791459) | Los Gatos, CA | [Security Software Engineering Intern](https://jobs.netflix.com/jobs/232791459) |
+| [Netflix](https://jobs.netflix.com/search?team=Internship) | Los Gatos, CA | [Software Engineer Intern](https://jobs.netflix.com/jobs/234866639), [Security Engineering Intern](https://jobs.netflix.com/jobs/232791459), [Machine Learning Intern](https://jobs.netflix.com/jobs/234882269) |
 | [Alteryx](https://app.ripplematch.com/company/alteryx/) | Multiple Locations | [Software Engineer Intern](https://app.ripplematch.com/job/alteryx/83792c37/?from_page=company_branded_page&), [Data Analyst Intern](https://app.ripplematch.com/job/alteryx/8c645069/?from_page=company_branded_page&) |
 | TuSimple | San Diego, CA; Remote | [Software Engineer Internship - General](https://boards.greenhouse.io/tusimpleinternship/jobs/6399552002), [Software Engineer Internship - Full Stack](https://boards.greenhouse.io/tusimpleinternship/jobs/6399769002), [Software Engineer Intern - GPU](https://boards.greenhouse.io/tusimpleinternship/jobs/6403722002), [Software Engineer Intern C++](https://boards.greenhouse.io/tusimpleinternship/jobs/6399754002), [Machine Learning Engineer Internship](https://boards.greenhouse.io/tusimpleinternship/jobs/6398976002)
 | [Blizzard](https://careers.blizzard.com/global/en/search-results) | Multiple Locations | [Software Engineering Internship](https://careers.blizzard.com/global/en/job/R017329/Software-Engineering-Internship) ,[UI/UX Intern](https://careers.blizzard.com/global/en/job/R017870/UI-UX-Design-Internship), [Analytics Internship](https://careers.blizzard.com/global/en/job/R017324/Analytics-Internship) |
@@ -421,7 +421,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [DoorDash](https://boards.greenhouse.io/doordash/jobs/4560561?gh_jid=4560561) | Los Angeles, New York City, San Francicso, Seattle | Software Engineer, [Toronto position here](https://boards.greenhouse.io/doordash/jobs/4560283?gh_jid=4560283) |
 | [Tesla](https://www.tesla.com/careers/search/job/software-engineering-internship-summer-2023-153316) | Palo Alto, California | Software Engineering Internship |
 | [Spectrum](https://jobs.spectrum.com/job/greenwood-village/2023-summer-intern-software-engineer/4673/37073255520) | Multiple Locations | Software Engineering Intern|
-
+| [Coca-Cola](https://careers.coca-colacompany.com/job/16761041/information-technology-summer-intern-atlanta-ga/) | Atlanta, GA | Information Technology Intern |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
