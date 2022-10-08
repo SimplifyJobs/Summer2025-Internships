@@ -420,7 +420,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Snackpass](https://boards.greenhouse.io/snackpasspt/jobs/4658696004) | San Francisco, CA / Remote | Internship - Software Engineering |
 | [DoorDash](https://boards.greenhouse.io/doordash/jobs/4560561?gh_jid=4560561) | Los Angeles, New York City, San Francicso, Seattle | Software Engineer, [Toronto position here](https://boards.greenhouse.io/doordash/jobs/4560283?gh_jid=4560283) |
 | [Tesla](https://www.tesla.com/careers/search/job/software-engineering-internship-summer-2023-153316) | Palo Alto, California | Software Engineering Internship |
-| [Coca-Cola]((https://careers.coca-colacompany.com/job/16761041/information-technology-summer-intern-atlanta-ga/)) | Atlanta, GA | Information Technology Intern |
+| [Coca-Cola](https://careers.coca-colacompany.com/job/16761041/information-technology-summer-intern-atlanta-ga/) | Atlanta, GA | Information Technology Intern |
 
 
 <!-- Please leave a one line gap between this and the table -->
