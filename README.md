@@ -424,6 +424,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Coca-Cola](https://careers.coca-colacompany.com/job/16761041/information-technology-summer-intern-atlanta-ga/) | Atlanta, GA | Information Technology Intern |
 | [Coursera](https://www.untapped.io/app/discover/jobs/coursera/software-engineer-intern-us-fall-2022/afb80300-5151-4801-8af1-143e37f617a9) | Mountain View, CA | Software Engineer Intern |
 | [OpenText](https://careers.opentext.com/job/Richmond-Hill-Internship-Localization-QA-Specialist-ON/563481917/?feedId=319217&utm_source=LinkedInJobPostings&source=LinkedIn?utm_source=LinkedInJobPostings&utm_campaign=Linked) | Ontario, Canada | Localization QA Specialist Intern
+=======
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
