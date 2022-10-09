@@ -297,7 +297,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Labcorp](https://careers.labcorp.com/global/en/job/COVAGLOBAL2254695EXTERNALENGLOBAL/Software-Developer-internship) | Durham, NC; or Indianapolis, IN | Software Developer Internship (2023 Global Internship Program) |
 | [Sierra Nevada Corporation](https://snc.wd1.myworkdayjobs.com/en-US/SNC_External_Career_Site/job/Englewood-CO/Software-Engineer-Intern--Summer-2023-_R0018868) | Englewood, CO; or Huntsville, AL; or Hagerstown, MD | Software Engineer Intern (Summer 2023) |
 | [Sysco](https://careers.sysco.com/jobs/R79428?lang=en-us) | Houston, TX; or Austin, TX | Intern - Software Development Engineer (10 Week during Summer) |
-| [DoorDash](https://boards.greenhouse.io/doordash/jobs/4560561?gh_jid=4560561) | Multiple Locations | Software Engineer Intern (Summer 2023) |
+| DoorDash | Multiple Locations | Software Engineer Intern: [US Position](https://boards.greenhouse.io/doordash/jobs/4560561?gh_jid=4560561), [Toronto Position](https://boards.greenhouse.io/doordash/jobs/4560283?gh_jid=4560283) |
 | [United](https://careers.united.com/us/en/job/WHQ00020911/Intern-Digital-Technology-Summer-2023) | Chicago, IL | Digital Technology Intern (no sponsorship) | 
 | Cornerstone | Dublin, CA | **🔒 Closed 🔒** Software Engineering Intern (Front end) | 
 | [Merck](https://jobs.merck.com/us/en/job/MERCUSR197877ENUS/2023-IT-Emerging-Talent-Summer-Intern-Program) | Varies | IT Emerging Talent Intern | 
@@ -418,7 +418,6 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Vizient](https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Virtual-Office/Summer-Intern---Application-Development---Technology_23755R) | Remote | Summer Intern - Application Development & Technology |
 | DISCO | New York City, NY; or Austin, TX | Software Engineer Intern @ [New York City, NY](https://www.csdisco.com/careers/software-engineer-intern-c), [Austin, TX](https://www.csdisco.com/careers/software-engineer-intern-6) required to provide proof of eligibility to work in the United States without restrictions|
 | [Snackpass](https://boards.greenhouse.io/snackpasspt/jobs/4658696004) | San Francisco, CA / Remote | Internship - Software Engineering |
-| [DoorDash](https://boards.greenhouse.io/doordash/jobs/4560561?gh_jid=4560561) | Los Angeles, New York City, San Francicso, Seattle | Software Engineer, [Toronto position here](https://boards.greenhouse.io/doordash/jobs/4560283?gh_jid=4560283) |
 | [Tesla](https://www.tesla.com/careers/search/job/software-engineering-internship-summer-2023-153316) | Palo Alto, California | Software Engineering Internship |
 | [Spectrum](https://jobs.spectrum.com/job/greenwood-village/2023-summer-intern-software-engineer/4673/37073255520) | Multiple Locations | Software Engineering Intern|
 | [Coca-Cola](https://careers.coca-colacompany.com/job/16761041/information-technology-summer-intern-atlanta-ga/) | Atlanta, GA | Information Technology Intern |
