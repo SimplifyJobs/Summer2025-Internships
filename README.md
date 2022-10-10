@@ -425,7 +425,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Omnicell](https://phg.tbe.taleo.net/phg03/ats/careers/v2/viewRequisition?org=OMNICELL&cws=40&rid=16762&source=LinkedIn&src=LinkedIn&gns=LinkedIn) | Cranberry Township, PA | Software Engineering Intern (no sponsorship) |
 | [Patreon](https://boards.greenhouse.io/patreon/jobs/4606412) | New York City, NY or San Francisco, CA | Software Engineering Intern (Hybrid) |
 | [Grafana Labs](https://boards.greenhouse.io/grafanalabs/jobs/4683961004) | Remote | Engineering Intern Program (Accept from Canada, USA, UK, Germany or Sweden, 2024 grads) |
-| (Credit Karma)[https://boards.greenhouse.io/creditkarma/jobs/4431522003] | Charlotte, NC | Software Engineering Intern (Summer 2023) |
+| [Credit Karma](https://boards.greenhouse.io/creditkarma/jobs/4431522003) | Charlotte, NC | Software Engineering Intern (Summer 2023) |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
