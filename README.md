@@ -422,6 +422,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Spectrum](https://jobs.spectrum.com/job/greenwood-village/2023-summer-intern-software-engineer/4673/37073255520) | Multiple Locations | Software Engineering Intern|
 | [Coca-Cola](https://careers.coca-colacompany.com/job/16761041/information-technology-summer-intern-atlanta-ga/) | Atlanta, GA | Information Technology Intern |
 | [OpenText](https://careers.opentext.com/job/Richmond-Hill-Internship-Localization-QA-Specialist-ON/563481917/?feedId=319217&utm_source=LinkedInJobPostings&source=LinkedIn?utm_source=LinkedInJobPostings&utm_campaign=Linked) | Ontario, Canada | Localization QA Specialist Intern |
+| [Omnicell](https://phg.tbe.taleo.net/phg03/ats/careers/v2/viewRequisition?org=OMNICELL&cws=40&rid=16762&source=LinkedIn&src=LinkedIn&gns=LinkedIn) | Cranberry Township, PA | Software Engineering Intern (no sponsorship) |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
