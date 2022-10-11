@@ -434,6 +434,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Tandem Diabetes Care](https://recruiting2.ultipro.com/TAN1005TDCI/JobBoard/7c56fc7c-1edd-48ec-939c-10225b1f3df1/OpportunityDetail?opportunityId=ce8b18a0-62f9-45ef-93ef-1dffeaebe12b) | San Diego, CA | Software Engineering Intern - Summer 2023 |
 | Aurora | Mountain View, CA | Software Engineering Intern - Back-End (**No Sponsorship**): [C++](https://aurora.tech/jobs/software-engineering-intern-back-end-c-6428595002), [Python](https://aurora.tech/jobs/software-engineering-intern-back-end-python-6427680002) |
 | [Cargill](https://careers.cargill.com/job/-/-/23251/34538432160) | Hopkins, MN; or Paul-Bloomington, MN | Software Engineering Intern 2023 (No Sponsorship) |
+| [Ibotta](https://ibotta.ruutly.com/job/JOB_POSTING-3-1484) | Remote, USA | Software Engineer Intern |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
