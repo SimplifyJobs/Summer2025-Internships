@@ -430,7 +430,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Lattice](https://lattice.com/job?gh_jid=6425599002) | Remote, USA | Software Engineer, Intern (Summer '23) |
 | [Bain & Company](https://careers.bain.com/jobs/FolderDetail?folderId=67698) | Various | Intern, Global Engineering (Summer 2023) |
 | [Addepar](https://boards.greenhouse.io/addepar1/jobs/6411982002?gh_src=31a4a9852) | Remote, USA | Software Engineer Intern, Frontend - Summer 2023 |
-| Ambi Robotics | Berkeley, CA | [ML Software Engineering Intern, BS](https://jobs.lever.co/ambirobotics/849d7ae7-67b8-471c-ae1a-ef9beedff270), [Robotics Software Engineering Intern, BS](https://jobs.lever.co/ambirobotics/948c66a2-2886-49bf-a9fa-2d1fad7ad678), [Simulation Software Engineering Intern](https://jobs.lever.co/ambirobotics/2480fb89-7575-46cb-80d9-3c7a4faaf8f6), [ML Software Engineering Intern, MS](https://jobs.lever.co/ambirobotics/cfebc000-96e7-4c85-8b9a-47a9b23329c9), [Robotics Software Engineering Intern, MS](https://jobs.lever.co/ambirobotics/7e2fb44b-b935-4eec-9f7e-cad8acdd1f1d) | 
+| Ambi Robotics | Berkeley, CA | [ML SWE Intern (BS)](https://jobs.lever.co/ambirobotics/849d7ae7-67b8-471c-ae1a-ef9beedff270), [Robotics SWE Intern (BS)](https://jobs.lever.co/ambirobotics/948c66a2-2886-49bf-a9fa-2d1fad7ad678), [Simulation SWE Intern (BS)](https://jobs.lever.co/ambirobotics/2480fb89-7575-46cb-80d9-3c7a4faaf8f6), [ML SWE Intern (MS)](https://jobs.lever.co/ambirobotics/cfebc000-96e7-4c85-8b9a-47a9b23329c9), [Robotics SWE Intern (MS)](https://jobs.lever.co/ambirobotics/7e2fb44b-b935-4eec-9f7e-cad8acdd1f1d) | 
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
