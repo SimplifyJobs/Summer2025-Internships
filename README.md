@@ -429,6 +429,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | Robinhood | Remote, USA | [Android Engineer Intern](https://app.ripplematch.com/job/robinhood/e93c5366?from_page=company_branded_page&), [Backend Engineer Intern](https://app.ripplematch.com/job/robinhood/b16b1136?from_page=company_branded_page&), [iOS Engineer Intern](https://app.ripplematch.com/job/robinhood/55eaa246?from_page=company_branded_page&), [Web Engineer Intern](https://app.ripplematch.com/job/robinhood/7fc0158a?from_page=company_branded_page&) |
 | [Lattice](https://lattice.com/job?gh_jid=6425599002) | Remote, USA | Software Engineer, Intern (Summer '23) |
 | [Bain & Company](https://careers.bain.com/jobs/FolderDetail?folderId=67698) | Various | Intern, Global Engineering (Summer 2023) |
+| [Addepar](https://boards.greenhouse.io/addepar1/jobs/6411982002?gh_src=31a4a9852) | Remote, USA | Software Engineer Intern, Frontend - Summer 2023 |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
