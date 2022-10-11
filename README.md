@@ -264,7 +264,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | Axon | Seattle, Scottsdale or Remote US/ Canada | **🔒 Closed 🔒** Software Engineering Intern |
 | [Emerson Automation Solutions](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/22023193) | Round Rock, TX | Software Development Summer Intern (No Sponsorship) |
 | [Shure Inc.](https://careers-shure.icims.com/jobs/2848/software-engineering-intern/job?mode=job) | Irvine, CA | Software Engineering Intern |
-| [Code42](https://boards.greenhouse.io/code42/jobs/4086381005) | Minneapolis, MN | Software Engineer Intern (C++, Java, C#) |
+| Code42 | Minneapolis, MN | **🔒 Closed 🔒** Software Engineer Intern (C++, Java, C#) |
 | [Avanade](https://careers.avanade.com/jobsenus/JobDetail/Intern-Software-Developer-Summer-2023/56206) | Multiple | Intern, Software Developer - Summer 2023 (No sponsorship for employment in US/Canada) |
 | [Motorola Solutions](https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/West-Valley-City-UT/Software-Engineer--2023-Summer-Internship-_R32052) | West Valley City, UT | Software Engineer (2023 Summer Internship) |
 | [Ansys](https://careers.ansys.com/job/Canonsburg-Summer-2023-Intern-Ansys-Discovery-Post-processing-%28BachelorsMasters%29-PA-15317/934118500) | Canonsburg, PA | Summer 2023 Software Development Intern - Ansys Discovery Post-processing (BS or MS) |
