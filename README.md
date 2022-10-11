@@ -433,6 +433,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | Ambi Robotics | Berkeley, CA | [ML SWE Intern (BS)](https://jobs.lever.co/ambirobotics/849d7ae7-67b8-471c-ae1a-ef9beedff270), [Robotics SWE Intern (BS)](https://jobs.lever.co/ambirobotics/948c66a2-2886-49bf-a9fa-2d1fad7ad678), [Simulation SWE Intern (BS)](https://jobs.lever.co/ambirobotics/2480fb89-7575-46cb-80d9-3c7a4faaf8f6), [Product Management Intern (BS)](https://jobs.lever.co/ambirobotics/0051f9b6-c9c4-48fc-a50d-de303e696fe2), [ML SWE Intern (MS)](https://jobs.lever.co/ambirobotics/cfebc000-96e7-4c85-8b9a-47a9b23329c9), [Robotics SWE Intern (MS)](https://jobs.lever.co/ambirobotics/7e2fb44b-b935-4eec-9f7e-cad8acdd1f1d) | 
 | [Tandem Diabetes Care](https://recruiting2.ultipro.com/TAN1005TDCI/JobBoard/7c56fc7c-1edd-48ec-939c-10225b1f3df1/OpportunityDetail?opportunityId=ce8b18a0-62f9-45ef-93ef-1dffeaebe12b) | San Diego, CA | Software Engineering Intern - Summer 2023 |
 | Aurora | Mountain View, CA | Software Engineering Intern - Back-End (**No Sponsorship**): [C++](https://aurora.tech/jobs/software-engineering-intern-back-end-c-6428595002), [Python](https://aurora.tech/jobs/software-engineering-intern-back-end-python-6427680002) |
+| [Cargill](https://careers.cargill.com/job/-/-/23251/34538432160) | Hopkins, MN; or Paul-Bloomington, MN | Software Engineering Intern 2023 (No Sponsorship) |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
