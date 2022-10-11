@@ -426,6 +426,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Patreon](https://boards.greenhouse.io/patreon/jobs/4606412) | New York City, NY or San Francisco, CA | Software Engineering Intern (Hybrid) |
 | [Grafana Labs](https://boards.greenhouse.io/grafanalabs/jobs/4683961004) | Remote | Engineering Intern Program (Accept from Canada, USA, UK, Germany or Sweden, 2024 grads) |
 | [Credit Karma](https://boards.greenhouse.io/creditkarma/jobs/4431522003) | Charlotte, NC | Software Engineering Intern (Summer 2023) |
+| [Waymo](https://waymo.com/careers/#software-internships) | Multiple Locations (CA, WA) | [Software Engineering Intern, Generalist](https://waymo.com/joinus/4605014/), Data Science, Infrastructure, etc. positions also available |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
