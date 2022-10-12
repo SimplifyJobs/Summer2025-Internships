@@ -354,7 +354,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Lumen](https://jobs.lumen.com/global/en/university-entry-level) | Remote | [Intern - Software Engineer - Summer 2023 Nationwide / Remote](https://jobs.lumen.com/global/en/job/317271/Intern-Software-Engineer-Summer-2023), [Intern - Data Scientist](https://jobs.lumen.com/global/en/job/318304/Intern-Data-Scientist-Summer-2023-Nationwide-Remote?job) |
 | [Remitly](https://careers.remitly.com/job-details/?jobid=4578296&gh_jid=4578296&gh_src=807b247a1us) | Seattle, WA; or Remote | Software Development Intern - Summer 2023 |
 | [Textron](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=1115787) | Huntsville, AL | 2023 Intern - Software Engineer (Air) (US Citizenship Required) |
-| [Live Oak Bank](https://liveoakbancshares.wd1.myworkdayjobs.com/Live_Oak/job/Wilmington-NC/Technology-Intern_R-000478) | Wilmington, NC | Software Engineer Intern |
+| Live Oak Bank | Wilmington, NC | **🔒 Closed 🔒** Software Engineer Intern |
 | Meta | Menlo Park, CA | **🔒 Closed 🔒** Software Engineer Internship/Co-Op |
 | [Ramp](https://boards.greenhouse.io/ramp/jobs/5083064002) | New York, Miami, Remote  | [Software Engineer Internship - Backend](https://boards.greenhouse.io/ramp/jobs/5083064002) |
 | [Whatnot](https://www.ycombinator.com/companies/whatnot/jobs/Nh9mltA-software-engineering-intern-summer-2022) | Remote | |
