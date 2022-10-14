@@ -446,6 +446,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Wayfair](https://www.wayfair.com/careers/jobs?countryIds=1&selectedJobTypeIds=8%2C5&gh_src=) | Boston, MA | [Software Engineering Intern](https://www.wayfair.com/careers/job/software-engineering-internship---summer-----/6359307002?gh_src=), [Data Science & Machine Learning Intern](https://www.wayfair.com/careers/job/data-science---machine-learning-intern---summer-----/6373711002?gh_src=) |
 | [Moderna](https://modernatx.eightfold.ai/careers/?query=Software%20Engineer%20Intern&seniority=Intern) | Multiple Locations (MA) | 2023 Co-op and/or Intern, Software Engineer (No sponsorship) |
 | [Nintendo](https://careers.nintendo.com/job-openings/) | Redmond, WA | [Intern - IT Software Engineer](https://careers.nintendo.com/job-openings/listing/22000000DA.html?src=CWS-10000),   [Intern - IT Network](https://careers.nintendo.com/job-openings/listing/22000000CR.html?src=CWS-10000), [Intern - IT SaaS Hosting](https://careers.nintendo.com/job-openings/listing/22000000CU.html?src=CWS-10000),   [Intern - IT Platform Engineer](https://careers.nintendo.com/job-openings/listing/22000000CV.html?src=CWS-10000)|
+| [Veritas](https://veritas.wd1.myworkdayjobs.com/careers/job/Roseville-MN/Software-Engineer-Intern--Summer-2023_60440) | Roseville, MN; or Remote | Software Engineer Intern- Summer 2023 |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
