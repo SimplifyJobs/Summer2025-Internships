@@ -438,13 +438,14 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Ibotta](https://ibotta.ruutly.com/job/JOB_POSTING-3-1484) | Remote, USA | Software Engineer Intern |
 | [Norfolk Southern Corp.](https://jobs.nscorp.com/job/Atlanta-Fullstack-Application-Development-Intern-2023-GA-30308/945936900/) | Atlanta, GA | Fullstack Application Development Intern 2023 |
 | [Johnson Controls](https://jobs.johnsoncontrols.com/job-en/16624330/software-engineering-intern/) | Multiple Locations (Milwaukee, WI / Seattle, WA / Sunnyvale, CA)  | Software Engineering Intern |
-| [Lenovo](https://jobs.lenovo.com/en_US/careers/SearchJobs/?7715=%5B327885%5D) | Morrisville, NC  | [Frontend Development Intern](https://jobs.lenovo.com/en_US/careers/JobDetail/Frontend-Development-Intern-Summer-2023/44392), [QA Automation Intern](https://jobs.lenovo.com/en_US/careers/JobDetail/QA-Automation-Intern/45934) |
+| Lenovo | Morrisville, NC  | **🔒 Closed 🔒** Frontend Development Intern, QA Automation Intern|
 | [Zendesk](https://jobs.zendesk.com/us/en/job/ZENDUSR22848EXTERNALENUS/2023-Summer-Intern-Software-Engineering) | Remote, USA | 2023 Summer Intern - Software Engineering |
 | Intapp | Charlotte, NC | **🔒 Closed 🔒** Software Engineer Intern |
 | [Entergy](https://jobs.entergy.com/job/New-Orleans-Student%2C-Intern-Software-Engineer-%28Summer-2023%29-Loui/945880900/) | New Orleans, LA | Intern - Software Engineer (Summer 2023) (No Visa Sponsorship) |
 | [Prometric](https://us63.dayforcehcm.com/CandidatePortal/en-US/prometric/Posting/View/34348) | Baltimore, MD | 2023 Software Development Summer Intern |
 | [Wayfair](https://www.wayfair.com/careers/jobs?countryIds=1&selectedJobTypeIds=8%2C5&gh_src=) | Boston, MA | [Software Engineering Intern](https://www.wayfair.com/careers/job/software-engineering-internship---summer-----/6359307002?gh_src=), [Data Science & Machine Learning Intern](https://www.wayfair.com/careers/job/data-science---machine-learning-intern---summer-----/6373711002?gh_src=) |
-| [Moderna](https://modernatx.eightfold.ai/careers/?query=Software%20Engineer%20Intern&seniority=Intern) | Multiple Locations (MA) | 2023 Co-op and/or Intern, Software Engineer |
+| [Moderna](https://modernatx.eightfold.ai/careers/?query=Software%20Engineer%20Intern&seniority=Intern) | Multiple Locations (MA) | 2023 Co-op and/or Intern, Software Engineer (No sponsorship) |
+| [Nintendo](https://careers.nintendo.com/job-openings/) | Redmond, WA | [Intern - IT Software Engineer](https://careers.nintendo.com/job-openings/listing/22000000DA.html?src=CWS-10000),   [Intern - IT Network](https://careers.nintendo.com/job-openings/listing/22000000CR.html?src=CWS-10000), [Intern - IT SaaS Hosting](https://careers.nintendo.com/job-openings/listing/22000000CU.html?src=CWS-10000),   [Intern - IT Platform Engineer](https://careers.nintendo.com/job-openings/listing/22000000CV.html?src=CWS-10000)|
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
