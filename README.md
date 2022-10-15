@@ -449,6 +449,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Veritas](https://veritas.wd1.myworkdayjobs.com/careers/job/Roseville-MN/Software-Engineer-Intern--Summer-2023_60440) | Roseville, MN; or Remote | Software Engineer Intern- Summer 2023 |
 | [BlueHalo](https://careers-bluehalo.icims.com/jobs/3603/software-engineering-intern/job) | Albuquerque, NM | Software Engineering Intern (US Citizenship Required) |
 | [Starburst](https://jobs.lever.co/starburstdata/f9d786ee-4fbf-43fd-812a-e15a2a6bb7b4) | Remote, USA | Software Engineer - Intern |
+| [Elevance Health](https://elevancehealth.wd1.myworkdayjobs.com/en-US/ANT/job/Engineering-Intern-Undergraduate-Level---Summer-2023_JR27264) | Norfolk,VA | Engineering Intern Undergraduate Level – Summer 2023 |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
