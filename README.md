@@ -161,7 +161,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [GoodYear](https://jobs.goodyear.com/job/Akron-Global-Technology-%28Data-Science-and-Analytics%29-Co-op-Internship-OH-44301/923168600/?feedId=367300) | Akron, OH | Data Science Intern |
 | [Thomson Reuters](https://thomsonreuters.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Software-Engineer-Internship---Summer-2023_JREQ162362) | Eagan, MN | SWE Intern (No visa sponsorships)|
 | Proofpoint | Broomfield, CO | **🔒 Closed 🔒** Software Developer Intern |
-| [ServiceNow](https://careers.servicenow.com/early-career/jobs/743999848344881EXT?lang=en-us) | Santa Clara, CA | Software Engineering Intern
+| ServiceNow | Santa Clara, CA | **🔒 Closed 🔒** Software Engineering Intern
 | Convoy | Seattle, WA | [Software Engineer Intern](https://boards.greenhouse.io/convoy/jobs/4631008004?gh_src=f0b55ea54us), [Business Intelligence Engineer Intern](https://boards.greenhouse.io/convoy/jobs/4631039004) |
 | Lime | SF, CA | **🔒 Closed 🔒** Software Engineering Intern (Summer 2023) |
 | [Daikin](https://recruiting.adp.com/srccar/public/nghome.guid?c=1143611&d=External&prc=RMPOD3&r=5000877708900#/) | Plymouth, MN | SWE Intern (No Sponsorship) |
