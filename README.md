@@ -303,7 +303,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Merck](https://jobs.merck.com/us/en/job/MERCUSR197877ENUS/2023-IT-Emerging-Talent-Summer-Intern-Program) | Varies | IT Emerging Talent Intern | 
 | [Jamf](https://www.jamf.com/about/careers/jobs/?gh_jid=4666557004&gh_jid=4666557004&gh_src=8229fc8d4us) | Varies/Remote | Software Engineering Intern | 
 | Dish | Overland Park, KS | [Application Engineering Intern](https://jobs.dish.com/jobs/67284?lang=en-us), [Application Development](https://jobs.dish.com/jobs/67257?lang=en-us) | 
-| [Synopsys](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=25235&siteid=5359&jobid=1968292#jobDetails=1968292_5359) | Mountain View/Sunnyvale, CA | Software Engineering Intern | 
+| Synopsys | Mountain View/Sunnyvale, CA | **🔒 Closed 🔒** Software Engineering Intern | 
 | Booz Allen | Charleston, South Carolina or Annapolis Junction, Maryland | Software Engineer in [SC](https://careers.boozallen.com/jobs/JobDetail/Charleston-Software-Developer-Intern-R0145621/62161?source=JB-16500), [MD](https://careers.boozallen.com/jobs/JobDetail/Annapolis-Junction-University-Software-Engineer-Intern-R0151116/65593?source=JB-16500) |
 | McDonald's| Chicago, IL | **🔒 Closed 🔒** Software Development Engineer |
 | BCG | Varies | **🔒 Closed 🔒** Engineering Intern, Software Engineering | 
