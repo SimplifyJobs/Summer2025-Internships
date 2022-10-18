@@ -458,6 +458,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | Open Systems Technologies | Remote, USA | **🔒 Closed 🔒** Software Developer Intern |
 | [HP](https://jobs.hp.com/jobdetails/14474549/applications-software-engineering-summer-internship-spring-tx/) | Spring, TX | Applications Software Engineering Summer Internship |
 | [Gemini](https://www.gemini.com/jobs/job_id?gh_jid=4615629) | Multiple | Intern, Software Engineer |
+| [General Dynamics Mission Systems](https://careers-gdms.icims.com/jobs/57649/job) | Dedham, MA | Software Engineering Intern (US Citizenship Required) |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
