@@ -456,6 +456,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Nordson](https://nordsonhcm.wd5.myworkdayjobs.com/nordsoncareers/job/USA---Rhode-Island---East-Providence/Software-Engineering-Intern_REQ31856) | Rhode Island, USA | Software Engineering Intern |
 | [Blue Origin](https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Seattle-WA/Summer-2023--Undergraduate-Engineering-Intern_R26914-1) | Multiple | Summer 2023: Undergraduate Engineering Intern (US Citizenship/Green Card Required) - Avionics Software, Product Management |
 | Open Systems Technologies | Remote, USA | **🔒 Closed 🔒** Software Developer Intern |
+| [HP](https://jobs.hp.com/jobdetails/14474549/applications-software-engineering-summer-internship-spring-tx/) | Spring, TX | Applications Software Engineering Summer Internship |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
