@@ -461,7 +461,8 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [General Dynamics Mission Systems](https://careers-gdms.icims.com/jobs/57649/job) | Dedham, MA | Software Engineering Intern (US Citizenship Required) |
 | [OneWeb](https://oneweb.net/work-with-us/careers/vacancies/4624943) | Virginia | Software Development Intern |
 | X - The Moonshot Factory | Mountain View, CA | SWE Intern: [Mapping & Localization](https://x.company/careers-at-x/6434254002/), [Services](https://x.company/careers-at-x/6440794002/) |
-
+| X - The Moonshot Factory | Mountain View, CA | SWE Intern: [Mapping & Localization](https://x.company/careers-at-x/6434254002/), [Services](https://x.company/careers-at-x/6440794002/) |
+| [Seagate](https://seagatecareers.com/job/Shakopee-Intern-Software-Development-%28Summer-2023%29-MN/948391800/) | Shakopee, MN, US | Intern - Software Development (Summer 2023) |
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
 
