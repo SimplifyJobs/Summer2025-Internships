@@ -464,6 +464,9 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Resideo](https://ehtl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/requisitions/preview/10913) | Multiple Location, USA | Software Intern |
 | [Cigna](https://jobs.cigna.com/us/en/job/CIGNUS22017448EXTERNALENUS/Software-Development-Summer-Intern-Work-from-home-Evernorth) | Remote, USA | Software Development Summer Intern (No Sponsorship) |
 | [Brilliant](https://jobs.lever.co/Brilliant/02dba9f2-759c-49cf-806e-4cda35bb8015) | San Mateo, CA | Backend Server Engineering Intern (Summer 2023) |
+| [Seagate](https://seagatecareers.com/job/Shakopee-Intern-Software-Development-%28Summer-2023%29-MN/948391800/) | Shakopee, MN, US | Intern - Software Development (Summer 2023) |
+| [Verizon](https://jobs.verizon.com/jobs/10895964-software-development-summer-2023-internship) | Irving, TX, United States | Software Development Summer 2023 Internship (No Sponsorship) |
+| [Bose](https://boseallaboutme.wd1.myworkdayjobs.com/en-US/Bose_Careers/job/United-States-Work-from-Home/Data-Science-Intern_R23849) | Remote, United States | Data Science Intern |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
