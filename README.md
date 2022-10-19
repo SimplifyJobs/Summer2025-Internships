@@ -462,7 +462,8 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [OneWeb](https://oneweb.net/work-with-us/careers/vacancies/4624943) | Virginia | Software Development Intern |
 | X - The Moonshot Factory | Mountain View, CA | SWE Intern: [Mapping & Localization](https://x.company/careers-at-x/6434254002/), [Services](https://x.company/careers-at-x/6440794002/) |
 | [Resideo](https://ehtl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/requisitions/preview/10913) | Multiple Location, USA | Software Intern |
-| [Cigna](https://jobs.cigna.com/us/en/job/CIGNUS22017448EXTERNALENUS/Software-Development-Summer-Intern-Work-from-home-Evernorth) | Remote, USA | Software Development Summer Intern |
+| [Cigna](https://jobs.cigna.com/us/en/job/CIGNUS22017448EXTERNALENUS/Software-Development-Summer-Intern-Work-from-home-Evernorth) | Remote, USA | Software Development Summer Intern (No Sponsorship) |
+| [Brilliant](https://jobs.lever.co/Brilliant/02dba9f2-759c-49cf-806e-4cda35bb8015) | San Mateo, CA | Backend Server Engineering Intern (Summer 2023) |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
