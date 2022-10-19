@@ -115,7 +115,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Microsoft](https://careers.microsoft.com/us/en/job/1388845) | Redmond, WA; Bellevue, WA; Mountain View, CA; Dallas, TX; Cambridge, MA; Austin, TX | Software Engineering Intern, [Explore](https://careers.microsoft.com/students/us/en/job/1388848/Explore-Microsoft-Intern-Opportunities-for-University-Students) |
 | Intuit | **🔒 Closed 🔒** Mountain View, California; San Diego, California; Plano, Texas; New York, New York; Atlanta, Georgia | Software Engineer Intern |
 | [Uber](https://university-uber.icims.com/jobs/116847/job) | Various | 2023 Software Engineer Internship |
-| [Uber](https://university-uber.icims.com/jobs/116956/2023-software-engineering-uberstar-internship-program/job) | San Francisco, CA | Software Engineering Intern for Freshmen/Sophomores |
+| Uber | San Francisco, CA | **🔒 Closed 🔒** Software Engineering Intern for Freshmen/Sophomores |
 | [Hudson River Trading](https://www.hudsonrivertrading.com/careers/?_4118765=Internship) | New York, Austin, Chicago | Algorithm Development, Software Engineering (C++ or Python) |
 | Sentry.io | San Francisco, Toronto, Vienna | **🔒 Closed 🔒** Software Engineer, Intern (Summer 2023) |
 | Nordstrom | Remote, Seattle | **🔒 Closed 🔒** Software Engineering Internship Summer 2023 |
