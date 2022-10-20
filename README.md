@@ -469,7 +469,8 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Bose](https://boseallaboutme.wd1.myworkdayjobs.com/en-US/Bose_Careers/job/United-States-Work-from-Home/Data-Science-Intern_R23849) | Remote, United States | Data Science Intern |
 | [Alcon](https://alcon.wd5.myworkdayjobs.com/careers_alcon/job/Lake-Forest-California/Summer-2023-Intern---Software-Engineer_R-2022-19194) | Lake Forest, CA | Summer 2023 Intern - Software Engineer (No Sponsorship) |
 | [APTIV](https://jobs.aptiv.com/job/-/-/29739/38255977376) | TROY, MICHIGAN, US | Software Engineering Intern (No Sponsorship) |
-| [23andMe](23andme.com/careers/jobs/6426717002/) | Remote, US | Engineering Intern |
+| [23andMe](https://23andme.com/careers/jobs/6426717002/) | Remote, US | Engineering Intern |
+| [NBA](https://nbacareers.nba.com/job/Secaucus-Software-Engineering-Intern-New-07094/861721401/)) | New Jersey, US | Software Engineering Intern |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
