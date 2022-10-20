@@ -468,7 +468,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Verizon](https://jobs.verizon.com/jobs/10895964-software-development-summer-2023-internship) | Irving, TX, United States | Software Development Summer 2023 Internship (No Sponsorship) |
 | [Bose](https://boseallaboutme.wd1.myworkdayjobs.com/en-US/Bose_Careers/job/United-States-Work-from-Home/Data-Science-Intern_R23849) | Remote, United States | Data Science Intern |
 | [Alcon](https://alcon.wd5.myworkdayjobs.com/careers_alcon/job/Lake-Forest-California/Summer-2023-Intern---Software-Engineer_R-2022-19194) | Lake Forest, CA | Summer 2023 Intern - Software Engineer (No Sponsorship) |
-| [APTIV](https://jobs.aptiv.com/job/-/-/29739/38255977376) | TROY, MICHIGAN, US | Software Engineering Intern (No Sponsorship) |
+| [Aptiv](https://jobs.aptiv.com/job/-/-/29739/38255977376) | Troy, Michigan, US| Software Engineering Intern (No Sponsorship) |
 | [23andMe](https://23andme.com/careers/jobs/6426717002/) | Remote, US | Engineering Intern |
 | [NBA](https://nbacareers.nba.com/job/Secaucus-Software-Engineering-Intern-New-07094/861721401/) | New Jersey, US | Software Engineering Intern |
 | [SailPoint](https://sailpoint.wd1.myworkdayjobs.com/en-US/SailPoint/job/Software-Engineer-Internship_R006024-1) | Austin, TX | Software Engineering Intern |
