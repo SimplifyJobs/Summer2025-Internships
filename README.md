@@ -470,8 +470,11 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Alcon](https://alcon.wd5.myworkdayjobs.com/careers_alcon/job/Lake-Forest-California/Summer-2023-Intern---Software-Engineer_R-2022-19194) | Lake Forest, CA | Summer 2023 Intern - Software Engineer (No Sponsorship) |
 | [Aptiv](https://jobs.aptiv.com/job/-/-/29739/38255977376) | Troy, Michigan, US| Software Engineering Intern (No Sponsorship) |
 | [23andMe](https://23andme.com/careers/jobs/6426717002/) | Remote, US | Engineering Intern |
-| [NBA](https://nbacareers.nba.com/job/Secaucus-Software-Engineering-Intern-New-07094/861721401/) | New Jersey, US | Software Engineering Intern |
+| [NBA](https://nbacareers.nba.com/go/NBA-Summer-Intern-Program/5270501/) | New York, Secaucus | [Software Engineering Intern](https://nbacareers.nba.com/job/Secaucus-Software-Engineering-Intern-New-07094/861721401/), [Data Scientist Intern](https://nbacareers.nba.com/job/New-York-Data-Scientist-Intern-New-10022/860431101/) |
 | [SailPoint](https://sailpoint.wd1.myworkdayjobs.com/en-US/SailPoint/job/Software-Engineer-Internship_R006024-1) | Austin, TX | Software Engineering Intern |
+| [Brain Technologies](https://boards.greenhouse.io/braintechnologies/jobs/4677960004?gh_src=0c72714b4us) | Remote | NLP Intern |
+| [Under Armour](https://careers.underarmour.com/job/Baltimore-Summer-2023-Intern%2C-Technology%2C-Engineering%2C-&-Analytics-Rookie-MD-21230/) | Baltimore, MD | Technology, Engineering, and Data Science Rookie (No Sporsorship) | 
+
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
