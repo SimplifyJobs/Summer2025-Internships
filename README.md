@@ -99,7 +99,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [PDT Partners](https://boards.greenhouse.io/pdtpartners/jobs/4423823)| New York, NY | Software Engineering Internship (10 weeks Summer 2023)
 | [Verkada](https://jobs.lever.co/verkada?department=Engineering#:~:text=SOFTWARE%20%2D%20CORE%20COMMAND-,SOFTWARE%20%2D%20EARLY%20CAREERS,-APPLY)| San Mateo, CA | [Backend Software Engineering Intern](https://jobs.lever.co/verkada/771ec38b-605e-4f59-8a73-b1b0ccde1358), [Computer Vision Engineering Intern](https://jobs.lever.co/verkada/ebdf69a0-f158-4103-8168-001964c9464b), [Embedded Systems Engineering Intern](https://jobs.lever.co/verkada/f8e567ee-b75f-498a-8cad-a0f0f47eb298), [Frontend Software Engineering Intern](https://jobs.lever.co/verkada/eedaa343-79ae-4b7f-a73f-3f860050822f), [Mobile Engineering Intern](https://jobs.lever.co/verkada/de0b103e-1bb6-4619-bea8-4ed254267f6b), [Security Engineering Intern](https://jobs.lever.co/verkada/55ee059c-dbca-4034-af57-133de54a22fe)
 | Code 2040 | Various | **🔒 Closed 🔒** Software Engineering Internship Fellowship (9 weeks Summer 2023) |
-| [Vanta](https://boards.greenhouse.io/vanta/jobs/5868552002) | New York, NY | SWE Internship
+| [Vanta](https://boards.greenhouse.io/vanta/jobs/5868552002) | New York, NY | **🔒 Closed 🔒** SWE Internship
 | [L3Harris Technologies](https://careers.l3harris.com/job/-/-/4832/33418640224) | Amityville, NY | Software Engineer Intern (US Government Security Clearance needed)
 | Pixar Animation Studios | Emeryville, CA | **🔒 Closed 🔒** Software Engineer Intern (no visa sponsorship)
 | [PNC](https://careers.pnc.com/global/en/job/PNC1GLOBALR112729/Technology-Summer-Intern-Program?utm_source=symphonytalentmpx&utm_medium=phenom-feeds) | Various | Technology Summer Intern Program |
@@ -476,6 +476,9 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Under Armour](https://careers.underarmour.com/job/Baltimore-Summer-2023-Intern%2C-Technology%2C-Engineering%2C-&-Analytics-Rookie-MD-21230/) | Baltimore, MD | Technology, Engineering, and Data Science Rookie (No Sporsorship) | 
 | [Chess.com](https://chesscom.rippling-ats.com/job/418489/engineering-internship) | Remote | Backend Engineer, Frontend Engineer |
 | [Coda](https://boards.greenhouse.io/coda/jobs/5096307002) | San Francisco, CA | Software Engineer Summer Internship |
+| [Xwing](https://boards.greenhouse.io/xwing/jobs/5371525003) | Concord, CA | Software Engineer Intern, Mission Control Center, Software Team |
+| [Sigma Computing](https://boards.greenhouse.io/sigmacomputing/jobs/5371312003) | San Francisco, CA | Software Engineering Intern (Summer 2023) |
+| [Bandwidth](https://boards.greenhouse.io/bandwidth/jobs/4618588) | Rochester, NY | Software Engineering Intern (Summer 2023) |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
