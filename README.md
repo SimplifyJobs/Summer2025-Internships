@@ -480,6 +480,10 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Sigma Computing](https://boards.greenhouse.io/sigmacomputing/jobs/5371312003) | San Francisco, CA | Software Engineering Intern (Summer 2023) |
 | [Bandwidth](https://boards.greenhouse.io/bandwidth/jobs/4618588) | Rochester, NY | Software Engineering Intern (Summer 2023) |
 | [UKG](https://careers.ukg.com/careers/JobDetail/Software-Engineering-Internship-Spring-Summer-2023/41891) | Multiple | Software Engineering Internship – Spring & Summer 2023 (No Sponsorship) |
+|[Saras] (https://www.linkedin.com/jobs/view/3302532590/?refId=dplI4qIFG8awj05GlZG4hQ%3D%3D&trackingId=4mXysicjcf3g7y%2FnXBYKuQ%3D%3D) | Software Engineer - Intern
+Saras Analytics | Hyderabad, Telangana, India, Hybrid | 
+|[MediaTek] (https://www.linkedin.com/jobs/view/3324061814/?refId=3fvAnAfxQ1X2kZkN%2FLMhbw%3D%3D&trackingId=1p9gO%2Fn3s3eadD3LauTdag%3D%3D) | AI Architecture and Algorithm Intern | San Jose, CA |
+
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
