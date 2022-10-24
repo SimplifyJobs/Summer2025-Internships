@@ -111,7 +111,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | SPS| Minneapolis, MN | **🔒 Closed 🔒** Software Engineer Intern |
 | General Motors | Warren, MI | **🔒 Closed 🔒** 2023 Summer Intern – Software Engineering (Sponsorship **not** available.) |
 | [JP Morgan](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210321355) | Multiple | Software Engineer Intern (10 Weeks) (no visa sponsorship) |
-| [Roblox](https://jobs.roblox.com/careers/job?domain=roblox.com&pid=137451585492) | San Mateo, CA | Software Engineer - Intern (Summer 2023) |
+| Roblox | San Mateo, CA | [Software Engineer - Intern (Summer 2023)]((https://jobs.roblox.com/careers/job?domain=roblox.com&pid=137451585492)), [Product Manager - Intern (Summer 2023)](https://jobs.roblox.com/careers?query=product%20manager%20intern&pid=137452383317&domain=roblox.com) |
 | [Microsoft](https://careers.microsoft.com/us/en/job/1388845) | Redmond, WA; Bellevue, WA; Mountain View, CA; Dallas, TX; Cambridge, MA; Austin, TX | Software Engineering Intern, [Explore](https://careers.microsoft.com/students/us/en/job/1388848/Explore-Microsoft-Intern-Opportunities-for-University-Students) |
 | Intuit | **🔒 Closed 🔒** Mountain View, California; San Diego, California; Plano, Texas; New York, New York; Atlanta, Georgia | Software Engineer Intern |
 | [Uber](https://university-uber.icims.com/jobs/116847/job) | Various | 2023 Software Engineer Internship |
@@ -473,7 +473,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [NBA](https://nbacareers.nba.com/go/NBA-Summer-Intern-Program/5270501/) | New York, Secaucus | [Software Engineering Intern](https://nbacareers.nba.com/job/Secaucus-Software-Engineering-Intern-New-07094/861721401/), [Data Scientist Intern](https://nbacareers.nba.com/job/New-York-Data-Scientist-Intern-New-10022/860431101/) |
 | [SailPoint](https://sailpoint.wd1.myworkdayjobs.com/en-US/SailPoint/job/Software-Engineer-Internship_R006024-1) | Austin, TX | Software Engineering Intern |
 | [Brain Technologies](https://boards.greenhouse.io/braintechnologies/jobs/4677960004?gh_src=0c72714b4us) | Remote | NLP Intern |
-| [Under Armour](https://careers.underarmour.com/job/Baltimore-Summer-2023-Intern%2C-Technology%2C-Engineering%2C-&-Analytics-Rookie-MD-21230/) | Baltimore, MD | Technology, Engineering, and Data Science Rookie (No Sporsorship) | 
+| Under Armour | Baltimore, MD | **🔒 Closed 🔒** Technology, Engineering, and Data Science Rookie (No Sporsorship) | 
 | [Chess.com](https://chesscom.rippling-ats.com/job/418489/engineering-internship) | Remote | Backend Engineer, Frontend Engineer |
 | [Coda](https://boards.greenhouse.io/coda/jobs/5096307002) | San Francisco, CA | Software Engineer Summer Internship |
 | [Xwing](https://boards.greenhouse.io/xwing/jobs/5371525003) | Concord, CA | Software Engineer Intern, Mission Control Center, Software Team |
