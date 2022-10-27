@@ -488,6 +488,9 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Monad Labs](https://boards.greenhouse.io/monad/jobs/4043504005) | Remote (US & Canada) | Low-Latency C++ Software Engineering Intern |
 | [Red Hat](https://us-redhat.icims.com/jobs/97296/software-engineering-internship/job?hub=7) | Multiple | Software Engineering Internship | 
 | [Black & Veatch](https://careers.bv.com/job/Software-Developer-Intern-Remote-Summer-2023/863533201/) | Remote (US) | Software Developer Intern |
+| [Domo](https://boards.greenhouse.io/domo/jobs/4619314) | American Fork, Utah | Software Engineer Intern
+| [Lexmark](https://www.lexmark.com/en_us/careers/job-description.143572.html) | Boulder, CO | Software Engineer Student - Summer 2023
+
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
