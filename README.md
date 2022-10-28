@@ -47,6 +47,8 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | AQR                                  | Greenwich, CT                        | **🔒 Closed 🔒** Business Development                                                                                                         |
 | BD                                                                                    | San Diego, CA | **🔒 Closed 🔒** Data Science                                                                                     |
 | [Bridgewater Associates](https://boards.greenhouse.io/bridgewater89/jobs/5830071002)                                                                                         | Westport, CT                         |      Investment Engineer Intern |
+| [Bevootech](https://bevootech.com)                                                                                         | Remote                         |      Business Development Intern, Software Development Intern, Project Management Intern |
+| [Smmile Digital](https://smmile.com)                                                                                         | Remote                         |      Web3 Development Intern, Project Management Intern, Digital Marketing Intern |
 | Bristol Myers Squibb                                                                                        | Tampa, FL                         | **🔒 Closed 🔒**  Data Science
 | Capital One   | Multiple Locations in United States | **🔒 Closed 🔒** Software Engineering (no visa sponsorship; instant rejection if you declare sponsorship need in the application), Machine Learning, Cyber Security 							|
 | Capstone Investment Advisors                                                             | NYC, NY                              | **🔒 Closed 🔒** SWE
@@ -261,7 +263,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | Sony Electronics | San Diego, CA | **🔒 Closed 🔒** Software Engineering Intern |
 | [2K](https://boards.greenhouse.io/2k/jobs/5303107003) | Novato, CA | Engineering Internship |
 | [Lacework](https://www.lacework.com/job-openings/?gh_jid=4646011004) | Remote | Software Engineer Intern |
-| Axon | Seattle, Scottsdale or Remote US/ Canada | **🔒 Closed 🔒** Software Engineering Intern |
+| Axon | Multiple (US & Canada) | Software Engineering Internship - Summer 2023 @ [Scottsdale, AZ](https://boards.greenhouse.io/axon/jobs/5293118003), [Seattle, WA](https://boards.greenhouse.io/axon/jobs/5293117003), [Canada-Remote](https://boards.greenhouse.io/axon/jobs/5293113003), [US-Remote](https://boards.greenhouse.io/axon/jobs/5292210003) |
 | [Emerson Automation Solutions](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/22023193) | Round Rock, TX | Software Development Summer Intern (No Sponsorship) |
 | [Shure Inc.](https://careers-shure.icims.com/jobs/2848/software-engineering-intern/job?mode=job) | Irvine, CA | Software Engineering Intern |
 | Code42 | Minneapolis, MN | **🔒 Closed 🔒** Software Engineer Intern (C++, Java, C#) |
@@ -484,6 +486,11 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Citizens](https://jobs.citizensbank.com/job/-/-/288/36919252544) | Johnston, Rhode Island; Phoenix, Arizona | Technology Summer Internship Program: Software Engineer (No Sponsorship) |
 | [Philips](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bothell/Software-Engineering-Intern_478729) | Bothell, WA | Software Engineering Intern (No Sponsorhip) |
 | [Monad Labs](https://boards.greenhouse.io/monad/jobs/4043504005) | Remote (US & Canada) | Low-Latency C++ Software Engineering Intern |
+| [Red Hat](https://us-redhat.icims.com/jobs/97296/software-engineering-internship/job?hub=7) | Multiple | Software Engineering Internship | 
+| [Black & Veatch](https://careers.bv.com/job/Software-Developer-Intern-Remote-Summer-2023/863533201/) | Remote (US) | Software Developer Intern |
+| [Domo](https://boards.greenhouse.io/domo/jobs/4619314) | American Fork, Utah | Software Engineer Intern
+| [Lexmark](https://www.lexmark.com/en_us/careers/job-description.143572.html) | Boulder, CO | Software Engineer Student - Summer 2023
+
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
