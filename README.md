@@ -492,6 +492,8 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Lexmark](https://www.lexmark.com/en_us/careers/job-description.143572.html) | Boulder, CO | Software Engineer Student - Summer 2023 |
 | [Levi, Ray & Shoup](https://jobs.lrs.com/job/details/25154) | Hartford, CT | Systems Engineer Intern |
 | [BreezeML](https://breezeml.ai/career/software-engineer-intern) | Remote | Software Engineer Intern |
+| [Tu Simple](https://boards.greenhouse.io/tusimpleinternship/jobs/6398976002) | San Diego, California  | Machine Learning Engineer Internship |
+
 
 
 <!-- Please leave a one line gap between this and the table -->
