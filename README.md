@@ -493,6 +493,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Levi, Ray & Shoup](https://jobs.lrs.com/job/details/25154) | Hartford, CT | Systems Engineer Intern (No Sponsorship) |
 | [BreezeML](https://breezeml.ai/career/software-engineer-intern) | Remote | Software Engineer Intern |
 | [Tu Simple](https://boards.greenhouse.io/tusimpleinternship/jobs/6398976002) | San Diego, California  | Machine Learning Engineer Internship |
+| [Schoolhouse](https://jobs.lever.co/schoolhouseworld/73c32f6d-ebf3-4653-b587-5fae166e0681) | Remote (US) | Software Engineering Intern (Spring/Summer 2023) |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
