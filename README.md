@@ -341,7 +341,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Trimble](https://trimblecareers.trimble.com/careers/job?domain=trimble.com&query=Software%20Engineering%20Intern&pid=171812012551) | Westminster, CO, Portland, OR, Knoxville, TN, Sunrise, FL | Software Engineering Internship|
 | [Unity](https://app.ripplematch.com/job/Unity/3d2aa3d4/) | San Francisco, CA, Austin, TX, Bellevue, WA, Framingham, MA, Pittsburgh, PA | [Software Engineer Intern](https://app.ripplematch.com/job/Unity/3d2aa3d4/)|
 | [Zoox](https://jobs.lever.co/zoox) | Foster City, CA | Summer 2023 Software Engineering Internships - [Mobile Development](https://jobs.lever.co/zoox/73ba40c9-48bd-4f34-9eb5-b56d41a74a7d), [Robot Software Infrastructure](https://jobs.lever.co/zoox/c84006b4-0e77-4362-8cfe-5f8b82b8b347) |
-| [Autodesk](https://autodesk.wd1.myworkdayjobs.com/Ext/job/California-USA---Remote/Intern--Software-Engineer_22WD64165-1?src=JB-10065) | Remote | Intern, Software Engineer |
+| Autodesk | Various | [Intern, Software Engineer @ Remote](https://autodesk.wd1.myworkdayjobs.com/Ext/job/California-USA---Remote/Intern--Software-Engineer_22WD64165-1?src=JB-10065); [Intern, Software Engineer, AWS Cost Analytics @ San Francisco, CA](https://autodesk.wd1.myworkdayjobs.com/en-US/uni/job/San-Francisco-CA-USA/Intern--Software-Engineer--AWS-Cost-Analytics_22WD63962-2) |
 | [IDEMIA](https://uscareers-idemia.icims.com/jobs/5382/software-development-internship/job) | Anaheim, CA | Software Development Internship (US Citizenship Required; No Sponsorship) |
 | [TripActions](https://tripactions.com/job-openings/4488671?gh_jid=4488671&gh_src=b13de4e21) | Palo Alto, CA | Software Engineering Internship |
 | [CyberArk](https://careers.cyberark.com/go/Students-&-Interns/5412401/) | Remote USA | Software Engineer Intern |
@@ -496,7 +496,6 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Schoolhouse](https://jobs.lever.co/schoolhouseworld/73c32f6d-ebf3-4653-b587-5fae166e0681) | Remote (US) | Software Engineering Intern (Spring/Summer 2023) |
 | [Yahoo](https://ouryahoo.wd5.myworkdayjobs.com/en-US/careers/job/United-States-of-America---Remote/Software-Engineering-Intern_JR0021366) | Remote (US) | Software Engineering Intern |
 | [Dayton Freight Lines, Inc](https://careers-daytonfreight.icims.com/jobs/7695/software-developer-intern/job?mode=job&iis=SOURCE&iisn=LinkedIn&mobile=false&width=1296&height=500&bga=true&needsRedirect=false&jan1offset=-480&jun1offset=-420) | Dayton, OH | Software Developer Intern |
-| [Autodesk](https://autodesk.wd1.myworkdayjobs.com/en-US/uni/job/San-Francisco-CA-USA/Intern--Software-Engineer--AWS-Cost-Analytics_22WD63962-2)| San Francisco, CA, USA | Software Engineer, AWS Cost Analytics Intern |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
