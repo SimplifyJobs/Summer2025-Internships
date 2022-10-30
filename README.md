@@ -496,6 +496,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Schoolhouse](https://jobs.lever.co/schoolhouseworld/73c32f6d-ebf3-4653-b587-5fae166e0681) | Remote (US) | Software Engineering Intern (Spring/Summer 2023) |
 | [Yahoo](https://ouryahoo.wd5.myworkdayjobs.com/en-US/careers/job/United-States-of-America---Remote/Software-Engineering-Intern_JR0021366) | Remote (US) | Software Engineering Intern |
 | [Dayton Freight Lines, Inc](https://careers-daytonfreight.icims.com/jobs/7695/software-developer-intern/job?mode=job&iis=SOURCE&iisn=LinkedIn&mobile=false&width=1296&height=500&bga=true&needsRedirect=false&jan1offset=-480&jun1offset=-420) | Dayton, OH | Software Developer Intern |
+| [Google](https://careers.google.com/jobs/results/106481573924086470-software-developer-intern-masters-summer-2023/?distance=50&jex=ENTRY_LEVEL&utm_campaign=google_jobs_apply&utm_medium=organic&utm_source=google_jobs_apply) | Mutliple | Software Developer Intern |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
