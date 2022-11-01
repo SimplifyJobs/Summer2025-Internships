@@ -497,7 +497,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Yahoo](https://ouryahoo.wd5.myworkdayjobs.com/en-US/careers/job/United-States-of-America---Remote/Software-Engineering-Intern_JR0021366) | Remote (US) | Software Engineering Intern |
 | [Dayton Freight Lines, Inc](https://careers-daytonfreight.icims.com/jobs/7695/software-developer-intern/job?mode=job&iis=SOURCE&iisn=LinkedIn&mobile=false&width=1296&height=500&bga=true&needsRedirect=false&jan1offset=-480&jun1offset=-420) | Dayton, OH | Software Developer Intern |
 | [Gusto](https://boards.greenhouse.io/gusto/jobs/4645583) | SF, Denver, NYC | |
-| [Ampere computing](https://amperecomputing.com/apply/?p=job%2FoZvJkfwh) | Santa Clara | Solutions Engineering Intern | 
+| [Ampere Computing](https://amperecomputing.com/apply/?p=job%2FoZvJkfwh) | Santa Clara, CA | Solutions Engineering Intern | 
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
