@@ -498,8 +498,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Dayton Freight Lines, Inc](https://careers-daytonfreight.icims.com/jobs/7695/software-developer-intern/job?mode=job&iis=SOURCE&iisn=LinkedIn&mobile=false&width=1296&height=500&bga=true&needsRedirect=false&jan1offset=-480&jun1offset=-420) | Dayton, OH | Software Developer Intern |
 | [Gusto](https://boards.greenhouse.io/gusto/jobs/4645583) | SF, Denver, NYC | |
 | [Roche](https://careers.roche.com/global/en/job/202210-137916?source=JB-12568) | Santa Clara, CA | 2023 Summer Intern - Sequencing Software Development |
-| [SUBCOM](https://ekwo.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/2119) | Newington, NH | Software Developer Intern |
-
+| [Ampere Computing](https://amperecomputing.com/apply/?p=job%2FoZvJkfwh) | Santa Clara, CA | Solutions Engineering Intern | 
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
