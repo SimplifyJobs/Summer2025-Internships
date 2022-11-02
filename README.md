@@ -499,6 +499,9 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Gusto](https://boards.greenhouse.io/gusto/jobs/4645583) | SF, Denver, NYC | |
 | [Roche](https://careers.roche.com/global/en/job/202210-137916?source=JB-12568) | Santa Clara, CA | 2023 Summer Intern - Sequencing Software Development |
 | [Ampere Computing](https://amperecomputing.com/apply/?p=job%2FoZvJkfwh) | Santa Clara, CA | Solutions Engineering Intern | 
+| [Leidos](https://careers.leidos.com/jobs/10999482-software-engineer-intern) | Charlottesville, VA | Software Engineer Intern (U.S. Citizenship required) | 
+| [REI](https://rei.jobs/careers/JobDetail/Software-Engineer-Intern-Mobile/26194) | Seattle, WA | Software Engineer Intern -Mobile |
+| [NimbleRx](https://jobs.lever.co/nimblerx/b00faff0-37f7-4707-ac14-b86db266b9f9) | Remote, US | Software Engineer - (Intern) | 
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
