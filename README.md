@@ -507,7 +507,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [PlayStation](https://www.playstation.com/en-us/corporate/playstation-careers/) | Multiple | Software Engineering Intern (Scroll to bottom for internship applications) | 
 | [Reddit](https://app.ripplematch.com/job/reddit/1da01017/?from_page=company_branded_page) | SF, NY, Remote | Software Engineering Intern |
 | [Johns Hopkins APL](https://careers.jhuapl.edu/jobs?keywords=software%20intern&sortBy=relevance&page=1) | Laurel, MD; Remote, US | Multiple 2023 SWE intern positions (US Citizenship required) |
-
+| [Nelnet](https://nelnet.wd1.myworkdayjobs.com/en-US/MyNelnet/job/Remote/Intern---Software-Engineer---Java_R15687) | Laurel, MD; Remote, US | Intern - Software Engineer - Java |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
