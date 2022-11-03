@@ -171,7 +171,7 @@ add the rows like so:
 ### If the Company *Does* Exist
 If the company already exists in the table, make sure the internship you're trying to add isn't already there!
 
-If it isn't, then simply edit the existing row based on the specifications described above (under "If the Company Doesn't Exist"). **Do not move the row to the bottom of the internship list.** 
+If it isn't, then simply edit the existing row based on the specifications described above (under "If the Company Doesn't Exist"). **Please move the row to the bottom of the internship list so viewers see the updated entry.** 
 
 For example, if the README table looks like
 ```
@@ -183,12 +183,12 @@ For example, if the README table looks like
 <!-- Please leave a one line gap between this and the table -->
 ...
 ```
-and you wanted to edit the second row (the one with the `2`'s) to say `| B | B | B |`, then you would end up with:
+and you wanted to edit the second row (the one with the `2`'s) to say `| 2 | 2 | 2, B |`, then you would end up with:
 ```
 | 1 | 1 | 1 |
-| B | B | B |
 | 3 | 3 | 3 | 
 | 4 | 4 | 4 |
+| 2 | 2 | 2, B |
 
 <!-- Please leave a one line gap between this and the table -->
 ...
