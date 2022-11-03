@@ -511,6 +511,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Bubble](https://boards.greenhouse.io/bubble/jobs/4527487002) | New York, NY | Software Engineer Intern |
 | [AeroVironment](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Wilmington-MA/Software-Engineering-Intern_3402-1) | Wilmington, MA | Software Engineering Intern (U.S. Citizenship, U.S. Permanent Resident required)|
 | [Badger Meter](https://badgermeter.wd5.myworkdayjobs.com/en-US/US_CareerSite/job/Milwaukee-WI/Software-Engineering-Intern_2302-1) | Milwaukee, WI | Software Engineering Intern |
+| [Etsy](https://jobs.smartrecruiters.com/Etsy2/743999862202479-software-engineering-intern) | Brooklyn, NY | Software Engineering Intern |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
