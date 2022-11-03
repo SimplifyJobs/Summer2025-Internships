@@ -503,7 +503,8 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [REI](https://rei.jobs/careers/JobDetail/Software-Engineer-Intern-Mobile/26194) | Seattle, WA | Software Engineer Intern -Mobile |
 | [NimbleRx](https://jobs.lever.co/nimblerx/b00faff0-37f7-4707-ac14-b86db266b9f9) | Remote, US | Software Engineer - (Intern) | 
 | [WW](https://ww.wd1.myworkdayjobs.com/careers/job/New-York/XMLNAME-2023-Software-Engineering---Marketing-Internship_R220000002956) | Remote, US; New York, US | 2023 Software Engineering - Marketing Internship | 
-| [Simplify](https://simplify.jobs/p/75bc6274-c19d-441b-8cf8-6f06e0799ad4/Software-Engineer-Intern) | SF, Remote, US | Software Engineer Intern | 
+| [Simplify](https://simplify.jobs/p/75bc6274-c19d-441b-8cf8-6f06e0799ad4/Software-Engineer-Intern) | SF, Remote, US | Software Engineer Intern |
+| [Reddit](https://app.ripplematch.com/job/reddit/1da01017/?from_page=company_branded_page) | SF, NY, Remote | Software Engineering Intern |
 
 
 <!-- Please leave a one line gap between this and the table -->
