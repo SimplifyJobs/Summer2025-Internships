@@ -509,6 +509,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Johns Hopkins APL](https://careers.jhuapl.edu/jobs?keywords=software%20intern&sortBy=relevance&page=1) | Laurel, MD; Remote, US | Multiple 2023 SWE intern positions (US Citizenship required) |
 | [Nelnet](https://nelnet.wd1.myworkdayjobs.com/en-US/MyNelnet/job/Remote/Intern---Software-Engineer---Java_R15687) | Remote, US | Intern - Software Engineer - Java |
 | [Bubble](https://boards.greenhouse.io/bubble/jobs/4527487002) | New York, NY | Software Engineer Intern |
+| [AeroVironment](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Wilmington-MA/Software-Engineering-Intern_3402-1) | Wilmington, MA | Software Engineering Intern (U.S. Citizenship, U.S. Permanent Resident required)|
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
