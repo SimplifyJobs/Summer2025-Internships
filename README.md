@@ -475,7 +475,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [NBA](https://nbacareers.nba.com/go/NBA-Summer-Intern-Program/5270501/) | New York, Secaucus | [Software Engineering Intern](https://nbacareers.nba.com/job/Secaucus-Software-Engineering-Intern-New-07094/861721401/), [Data Scientist Intern](https://nbacareers.nba.com/job/New-York-Data-Scientist-Intern-New-10022/860431101/) |
 | SailPoint | Austin, TX | **🔒 Closed 🔒** Software Engineering Intern |
 | [Brain Technologies](https://boards.greenhouse.io/braintechnologies/jobs/4677960004?gh_src=0c72714b4us) | Remote | NLP Intern |
-| Under Armour | Baltimore, MD | **🔒 Closed 🔒** Technology, Engineering, and Data Science Rookie (No Sporsorship) | 
+| Under Armour | Baltimore, MD | **🔒 Closed 🔒** Technology, Engineering, and Data Science Rookie (No Sponsorship) | 
 | [Chess.com](https://chesscom.rippling-ats.com/job/418489/engineering-internship) | Remote | Backend Engineer, Frontend Engineer |
 | [Coda](https://boards.greenhouse.io/coda/jobs/5096307002) | San Francisco, CA | Software Engineer Summer Internship |
 | [Xwing](https://boards.greenhouse.io/xwing/jobs/5371525003) | Concord, CA | Software Engineer Intern, Mission Control Center, Software Team |
@@ -504,6 +504,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [NimbleRx](https://jobs.lever.co/nimblerx/b00faff0-37f7-4707-ac14-b86db266b9f9) | Remote, US | Software Engineer - (Intern) | 
 | [WW](https://ww.wd1.myworkdayjobs.com/careers/job/New-York/XMLNAME-2023-Software-Engineering---Marketing-Internship_R220000002956) | Remote, US; New York, US | 2023 Software Engineering - Marketing Internship | 
 | [Simplify](https://simplify.jobs/p/75bc6274-c19d-441b-8cf8-6f06e0799ad4/Software-Engineer-Intern) | SF, Remote, US | Software Engineer Intern |
+| [PlayStation](https://www.playstation.com/en-us/corporate/playstation-careers/) | Multiple | Software Engineering Intern (Scroll to bottom for internship applications) | 
 | [Reddit](https://app.ripplematch.com/job/reddit/1da01017/?from_page=company_branded_page) | SF, NY, Remote | Software Engineering Intern |
 | [Johns Hopkins APL](https://careers.jhuapl.edu/jobs?keywords=software%20intern&sortBy=relevance&page=1) | Laurel, MD; Remote, US | Multiple 2023 SWE intern positions (US Citizenship required) |
 
