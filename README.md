@@ -510,7 +510,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | Bubble | New York, NY | **🔒 Closed 🔒** Software Engineer Intern |
 | [Badger Meter](https://badgermeter.wd5.myworkdayjobs.com/en-US/US_CareerSite/job/Milwaukee-WI/Software-Engineering-Intern_2302-1) | Milwaukee, WI | Software Engineering Intern |
 | [Etsy](https://jobs.smartrecruiters.com/Etsy2/743999862202479-software-engineering-intern) | Brooklyn, NY | Software Engineering Intern |
-| McKinsey & Company | New York City, NY; or San Francisco, CA | **🔒 Closed 🔒** Data Engineering Intern - QuantumBlack (Only Class of 2023-2024) Software Engineering Intern - GCI Analytics |
+| McKinsey & Company | New York City, NY; or San Francisco, CA | **🔒 Closed 🔒** Data Engineering Intern - QuantumBlack (Only Class of 2023-2024), Software Engineering Intern - GCI Analytics |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
