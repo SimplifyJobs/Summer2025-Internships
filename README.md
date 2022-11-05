@@ -297,7 +297,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Dimensional Careers](https://dimensional.wd5.myworkdayjobs.com/en-US/DFA_Campus/job/Austin/Internship-in-Technology---Software-Engineer--Undergraduate---Master-s-_2022-6883) | Austin, TX | Software Engineering (Must be authorized to work in US) | 
 | [Labcorp](https://careers.labcorp.com/global/en/job/COVAGLOBAL2254695EXTERNALENGLOBAL/Software-Developer-internship) | Durham, NC; or Indianapolis, IN | Software Developer Internship (2023 Global Internship Program) |
 | [Sierra Nevada Corporation](https://snc.wd1.myworkdayjobs.com/en-US/SNC_External_Career_Site/job/Englewood-CO/Software-Engineer-Intern--Summer-2023-_R0018868) | Englewood, CO; or Huntsville, AL; or Hagerstown, MD | Software Engineer Intern (Summer 2023) |
-| [Sysco](https://careers.sysco.com/jobs/R79428?lang=en-us) | Houston, TX; or Austin, TX | Intern - Software Development Engineer (10 Week during Summer)（undergrad） |
+| Sysco | Houston, TX; or Austin, TX | **🔒 Closed 🔒** Intern - Software Development Engineer (10 Week during Summer)（undergrad） |
 | DoorDash | Multiple Locations | Software Engineer Intern: [US Position](https://boards.greenhouse.io/doordash/jobs/4560561?gh_jid=4560561), [Toronto Position](https://boards.greenhouse.io/doordash/jobs/4560283?gh_jid=4560283) |
 | [United](https://careers.united.com/us/en/job/WHQ00020911/Intern-Digital-Technology-Summer-2023) | Chicago, IL | Digital Technology Intern (no sponsorship) | 
 | Cornerstone | Dublin, CA | **🔒 Closed 🔒** Software Engineering Intern (Front end) | 
