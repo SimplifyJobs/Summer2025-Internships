@@ -516,9 +516,9 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Samsung](https://boards.greenhouse.io/samsungresearchamericainternship/) | Mountain View, CA | [ML Think Tank Intern](https://boards.greenhouse.io/samsungresearchamericainternship/jobs/5922339002), [SWE Think Tank Intern](https://boards.greenhouse.io/samsungresearchamericainternship/jobs/5868447002) |
 | [Shield AI](https://jobs.lever.co/shieldai) | Multiple locations | [Systems engineering](https://jobs.lever.co/shieldai/f22a791d-d279-4cca-999d-c78aca6c42b0), [Android intern](https://jobs.lever.co/shieldai/5a66481a-42c5-447b-8bea-afb9732788c8), [Infrastructure Foundations Engineer](https://jobs.lever.co/shieldai/b06c8750-7bc9-443b-be21-5213daef44ff) & [other positions](https://jobs.lever.co/shieldai) (US citizenship required)
 | [BMW Group](https://www.bmwgroup.jobs/us/en/opportunities/student.html) | Multiple locations | [Full stack intern](https://www.bmwgroup.jobs/us/en/jobfinder/job-description.220003AL.html), [RF Systems Engineering](https://www.bmwgroup.jobs/us/en/jobfinder/job-description.220003WJ.html), [UX Engineer](https://www.bmwgroup.jobs/us/en/jobfinder/job-description.220003UV.html), additional on website
-| [Upstart](https://www.upstart.com) | Remote USA | [Software Engineer, Quality Platform & Tools](https://www.upstart.com/careers/69254/apply?gh_jid=4613411)
-| [BP](https://www.bp.com) | Houston, TX | [Data Engineering Intern](https://www.bp.com/en/global/corporate/careers/jobs-at-bp/Data-Engineering-Intern-139997BR.html?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
-| [Schlumberger](https://www.slb.com) | Houston, TX or Menlo Park, CA | [Back End Software Engineer](https://jobsearcher.com/j/back-end-software-engineer-at-schlumberger-in-menlo-park-ca-dBdbJRY?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) [Information Technology Intern](https://careers.slb.com/fojoblist/it-intern)
+| [Upstart](https://www.upstart.com/careers/69254/apply?gh_jid=4613411) | Remote USA | Software Engineer, Quality Platform & Tools |
+| [BP](https://www.bp.com/en/global/corporate/careers/jobs-at-bp/Data-Engineering-Intern-139997BR.html) | Houston, TX | Data Engineering Intern (No Sponsorship) |
+| [Schlumberger](https://careers.slb.com/fojoblist/it-intern) | Houston, TX or Menlo Park, CA | Information Technology Intern |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
