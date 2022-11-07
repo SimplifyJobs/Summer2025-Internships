@@ -490,7 +490,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Lexmark](https://www.lexmark.com/en_us/careers/job-description.143572.html) | Boulder, CO | Software Engineer Student - Summer 2023 |
 | [Levi, Ray & Shoup](https://jobs.lrs.com/job/details/25154) | Hartford, CT | Systems Engineer Intern (No Sponsorship) |
 | BreezeML | Remote | **🔒 Closed 🔒** Software Engineer Intern |
-| [Tu Simple](https://boards.greenhouse.io/tusimpleinternship/jobs/6398976002) | San Diego, California  | Machine Learning Engineer Internship |
+| [Tu Simple](https://boards.greenhouse.io/tusimpleinternship) | San Diego, California, Remote  | Multiple Positions (see link) |
 | Schoolhouse | Remote (US) | **🔒 Closed 🔒** Software Engineering Intern (Spring/Summer 2023) |
 | [Yahoo](https://ouryahoo.wd5.myworkdayjobs.com/en-US/careers/job/United-States-of-America---Remote/Software-Engineering-Intern_JR0021366) | Remote (US) | Software Engineering Intern |
 | [Dayton Freight Lines, Inc](https://careers-daytonfreight.icims.com/jobs/7695/software-developer-intern/job?mode=job&iis=SOURCE&iisn=LinkedIn&mobile=false&width=1296&height=500&bga=true&needsRedirect=false&jan1offset=-480&jun1offset=-420) | Dayton, OH | Software Developer Intern |
