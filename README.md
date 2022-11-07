@@ -481,11 +481,11 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Bandwidth](https://boards.greenhouse.io/bandwidth/jobs/4618588) | Rochester, NY | Software Engineering Intern (Summer 2023) |
 | [UKG](https://careers.ukg.com/careers/JobDetail/Software-Engineering-Internship-Spring-Summer-2023/41891) | Multiple | Software Engineering Internship – Spring & Summer 2023 (No Sponsorship) | 
 | [MediaTek](https://careers.mediatek.com/eREC/JobSearch/JobDetail/MUS120210917004?langKey=en-US) | San Jose, CA | AI Architecture and Algorithm Intern |
-| [Citizens](https://jobs.citizensbank.com/job/-/-/288/36919252544) | Johnston, Rhode Island; Phoenix, Arizona | Technology Summer Internship Program: Software Engineer (No Sponsorship) |
-| [Philips](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bothell/Software-Engineering-Intern_478729) | Bothell, WA | Software Engineering Intern (No Sponsorhip) |
+| Citizens | **🔒 Closed 🔒** Johnston, Rhode Island; Phoenix, Arizona | Technology Summer Internship Program: Software Engineer (No Sponsorship) |
+|[Philips | **🔒 Closed 🔒** Bothell, WA | Software Engineering Intern (No Sponsorhip) |
 | [Monad Labs](https://boards.greenhouse.io/monad/jobs/4043504005) | Remote (US & Canada) | Low-Latency C++ Software Engineering Intern |
 | [Red Hat](https://us-redhat.icims.com/jobs/97296/software-engineering-internship/job?hub=7) | Multiple | Software Engineering Internship | 
-| [Black & Veatch](https://careers.bv.com/job/Software-Developer-Intern-Remote-Summer-2023/863533201/) | Remote (US) | Software Developer Intern |
+| Black & Veatch | **🔒 Closed 🔒** Remote (US) | Software Developer Intern |
 | [Domo](https://boards.greenhouse.io/domo/jobs/4619314) | American Fork, Utah | Software Engineer Intern
 | [Lexmark](https://www.lexmark.com/en_us/careers/job-description.143572.html) | Boulder, CO | Software Engineer Student - Summer 2023 |
 | [Levi, Ray & Shoup](https://jobs.lrs.com/job/details/25154) | Hartford, CT | Systems Engineer Intern (No Sponsorship) |
@@ -516,6 +516,8 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Samsung](https://boards.greenhouse.io/samsungresearchamericainternship/) | Mountain View, CA | [ML Think Tank Intern](https://boards.greenhouse.io/samsungresearchamericainternship/jobs/5922339002), [SWE Think Tank Intern](https://boards.greenhouse.io/samsungresearchamericainternship/jobs/5868447002) |
 | [Shield AI](https://jobs.lever.co/shieldai) | Multiple locations | [Systems engineering](https://jobs.lever.co/shieldai/f22a791d-d279-4cca-999d-c78aca6c42b0), [Android intern](https://jobs.lever.co/shieldai/5a66481a-42c5-447b-8bea-afb9732788c8), [Infrastructure Foundations Engineer](https://jobs.lever.co/shieldai/b06c8750-7bc9-443b-be21-5213daef44ff) & [other positions](https://jobs.lever.co/shieldai) (US citizenship required)
 | [BMW Group](https://www.bmwgroup.jobs/us/en/opportunities/student.html) | Multiple locations | [Full stack intern](https://www.bmwgroup.jobs/us/en/jobfinder/job-description.220003AL.html), [RF Systems Engineering](https://www.bmwgroup.jobs/us/en/jobfinder/job-description.220003WJ.html), [UX Engineer](https://www.bmwgroup.jobs/us/en/jobfinder/job-description.220003UV.html), additional on website
+| [BP](https://www.bp.com/en/global/corporate/careers/jobs-at-bp/Data-Engineering-Intern-139997BR.html) | Houston, TX | Data Engineering Intern (No Sponsorship) |
+| [Schlumberger](https://careers.slb.com/fojoblist/it-intern) | Houston, TX or Menlo Park, CA | Information Technology Intern |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
