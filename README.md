@@ -520,6 +520,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Schlumberger](https://careers.slb.com/fojoblist/it-intern) | Houston, TX or Menlo Park, CA | Information Technology Intern |
 | [BAE Systems](https://jobs.baesystems.com/global/en/leap) | Multiple locations | [Software Engineering Intern](https://jobs.baesystems.com/global/en/job/86199BR/Software-Engineering-Intern), [Systems Engineering intern](https://jobs.baesystems.com/global/en/job/86198BR/Systems-Engineering-Intern), [Virtual Reality intern](https://jobs.baesystems.com/global/en/job/86078BR/Virtual-Reality-Engineering-Intern-Summer-2023), additional on website |
 | [Snap Inc.](https://wd1.myworkdaysite.com/en-US/recruiting/snapchat/snap/job/Los-Angeles-California/XMLNAME-2023-Software-Engineer-Intern_R0028836-1) | Multiple Location | 2023 Software Engineer Intern |
+| [Zipline](https://www.flyzipline.com/careers) | San Francisco, CA | [Software Engineering Intern - Hardware Test](https://www.flyzipline.com/job?gh_jid=5387055003), [SWE - Apps](https://www.flyzipline.com/job?gh_jid=5371535003), [SWE - Flight Routes](https://www.flyzipline.com/job?gh_jid=5371553003), [SWE - Perception](https://www.flyzipline.com/job?gh_jid=5378373003), [Machine Learning Software Developer Intern - Meteorology](https://www.flyzipline.com/job?gh_jid=5344068003) |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
