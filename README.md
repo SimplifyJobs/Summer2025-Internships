@@ -525,6 +525,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [PTC](https://ptc.eightfold.ai/careers?query=Software%20Intern&pid=137453256339&domain=ptc.com&triggerGoButton=false) | Boston, MA | Software Engineer Intern, Software Developer Intern |
 | [SeekOut](https://seekout.com/careers-list?gh_jid=5371260003) | Bellevue, WA | In-Person Software Engineer - Internship |
 | [Nuna Healthcare](https://boards.greenhouse.io/nuna/jobs/4612944) | San Francisco, CA | Software Engineer Intern |
+| [Vertica](https://jobs.microfocus.com/global/en/search-results?keywords=intern) | Provo, UT or Cambridge, MA | [Systems Software](https://jobs.microfocus.com/global/en/job/7027957/Systems-Software-Engineer-Intern-at-Vertica), [Quality Assurance](https://jobs.microfocus.com/global/en/job/7027820/Quality-Assurance-Test-Intern-for-Summer-2023-Vertica) |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
