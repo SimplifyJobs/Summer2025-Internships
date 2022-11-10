@@ -148,7 +148,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Belvedere Trading](https://jobs.lever.co/belvederetrading/5098c277-d2a6-41eb-ab9c-b80ded219154) | Chicago, IL | Software Engineering Intern |
 | [Jump Trading](https://www.jumptrading.com/careers/?locations=Chicago+Austin+New-York+New-Jersey+Remote+Cranberry-Township&titleSearch=campus+intern) | Chicago, IL | [Campus \| Software Engineer 2023 (Summer Intern)](https://www.jumptrading.com/careers/4452653/) <br> [Campus \| FPGA Engineer 2023 (Summer Intern)](https://www.jumptrading.com/careers/4471649/) <br> [Campus \| Tech Ops Engineer 2023 (Intern)](https://www.jumptrading.com/careers/4387580/) <br> [Campus \| Data Engineer 2023 (Summer Intern)](https://www.jumptrading.com/careers/4471685/) <br> [Campus \| Web Dev / UI Software Engineer 2023 (Summer Intern)](https://www.jumptrading.com/careers/4471639/) |
 | [Databricks](https://www.databricks.com/company/careers/open-positions/job?gh_jid=6289910002) | San Francisco, Seattle | Software Engineering Intern |
-| American Express | New York, New York | **🔒 Closed 🔒** 2023 Technology Software Engineer Summer Internship (no sponsorship) |
+| [American Express](https://aexp.eightfold.ai/careers?query=intern) | Multiple locations | [2023 Technology Software Engineer Summer Internship](https://aexp.eightfold.ai/careers/job?domain=aexp.com&pid=12787284) (no sponsorship) |
 | Klaviyo | Remote | **🔒 Closed 🔒** Summer 2023 Software Engineer Intern (No visa sponsorship)|
 | Starbucks | Arizona, Seattle | **🔒 Closed 🔒** Summary 2023 Technology undergraduate intern |
 | [IBM](https://www.ibm.com/us-en/employment/entrylevel/#jobs?%23jobs=&job-search=) | Multiple Locations in the US | [Firmware Developer Summer Intern: 2023](https://careers.ibm.com/job/16478329/firmware-developer-summer-intern-2023-remote/?codes=IBM_CareerWebSite), Data Scientist Intern (Multiple Openings) |
@@ -523,6 +523,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Zipline](https://www.flyzipline.com/careers) | San Francisco, CA | [Software Engineering Intern - Hardware Test](https://www.flyzipline.com/job?gh_jid=5387055003), [SWE - Apps](https://www.flyzipline.com/job?gh_jid=5371535003), [SWE - Flight Routes](https://www.flyzipline.com/job?gh_jid=5371553003), [SWE - Perception](https://www.flyzipline.com/job?gh_jid=5378373003), [Machine Learning Software Developer Intern - Meteorology](https://www.flyzipline.com/job?gh_jid=5344068003) |
 | [FactSet](https://factset.wd1.myworkdayjobs.com/en-US/FactSetCareers/job/Software-Engineer-Intern---Americas-Campus--Summer-2023-_R18012) | Multiple Location | Software Engineer Intern (No Sponsorship) |
 | [PTC](https://ptc.eightfold.ai/careers?query=Software%20Intern&pid=137453256339&domain=ptc.com&triggerGoButton=false) | Boston, MA | Software Engineer Intern, Software Developer Intern |
+| [Chime]() | | 
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
