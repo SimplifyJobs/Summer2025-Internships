@@ -529,6 +529,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Mark43](https://mark43.com/careers/north-america/#job-openings) | Toronto or US remote | Engineering Intern, [US remote](https://mark43.com/list-job/?gh_jid=4653495) or [Toronto](https://mark43.com/list-job/?gh_jid=4657411) |
 | [New York Life Insurance](https://jobs.newyorklife.com/job/New-York-2023-Technology-Summer-Internship-Program-NY-10001/919209100/) | New York, NY | 2023 Technology Summer Internship Program |
 | [Cambly](https://jobs.lever.co/cambly/5f8d0043-a2cb-4e16-b994-7e69a52d84f3) | San Francisco, CA | Software Engineering Internship |
+| [Fanatics](https://jobs.lever.co/fanatics) | Boulder, San Mateo, Tampa, Jacksonville | Summer 2023 Internship for [Software](https://jobs.lever.co/fanatics/573afdf6-8a23-48a0-8682-b721277f1410), [Infrastructure](https://jobs.lever.co/fanatics/902a3c59-d4ad-46c7-b6ba-277b6ab1bada), [Security](https://jobs.lever.co/fanatics/2098bd04-743c-4715-b95a-02bed755c69d), and [Product Management](https://jobs.lever.co/fanatics/94ecad65-b4fc-48b8-ba1b-b3d7c2f8a9c3) |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
