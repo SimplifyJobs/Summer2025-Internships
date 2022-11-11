@@ -245,7 +245,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [The Home Depot](https://careers.homedepot.com/job-search-results/?keyword=intern) | Atlanta, GA | Software Engineering Intern, Data Science Undergraduate Intern (Requires SSN) |
 | Adobe | Various |**🔒 Closed 🔒** Software Engineer Intern, [Software Engineer (Mobile Development) Intern](https://careers.adobe.com/us/en/job/R131674/2023-Intern-Software-Engineer-Mobile-Development) |
 | Merge | San Francisco, CA & New York City, NY | **🔒 Closed 🔒** Software Engineer Intern (Summer 2023) |
-| [NASA Jet Propulsion Laboratory](https://www.jpl.jobs/job/JJPLUSR2941EXTERNALENUS/Summer-2023-Software-Engineer-Intern) | Pasadena, CA | Summer 2023 Software Engineer Intern |
+| [NASA Jet Propulsion Laboratory](https://www.jpl.jobs/job/JJPLUSR2941EXTERNALENUS/Summer-2023-Software-Engineer-Intern) | Pasadena, CA | Summer 2023 Software Engineer Intern (Must be Legal Permanent Resident of US, e.g., US Citizenship) |
 | [Lowe's](https://talent.lowes.com/us/en/job/2411616BR/Software-Engineer-Undergraduate-Intern) | Charlotte, NC | Software Engineer, Undergraduate Intern |
 | [Collins Aerospace](https://careers.rtx.com/global/en/job/01553158) | Cedar Rapids, Iowa | Software Engineer Intern (Summer 2023) (US Citizenship Required) |
 | [AeroVironment](https://avav.wd1.myworkdayjobs.com/en-US/avav?q=software%20engineer%20intern) | Various | Software Engineering Intern - Summer 2023 (US Citizenship Required) |
@@ -523,6 +523,13 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Zipline](https://www.flyzipline.com/careers) | San Francisco, CA | [Software Engineering Intern - Hardware Test](https://www.flyzipline.com/job?gh_jid=5387055003), [SWE - Apps](https://www.flyzipline.com/job?gh_jid=5371535003), [SWE - Flight Routes](https://www.flyzipline.com/job?gh_jid=5371553003), [SWE - Perception](https://www.flyzipline.com/job?gh_jid=5378373003), [Machine Learning Software Developer Intern - Meteorology](https://www.flyzipline.com/job?gh_jid=5344068003) |
 | [FactSet](https://factset.wd1.myworkdayjobs.com/en-US/FactSetCareers/job/Software-Engineer-Intern---Americas-Campus--Summer-2023-_R18012) | Multiple Location | Software Engineer Intern (No Sponsorship) |
 | [PTC](https://ptc.eightfold.ai/careers?query=Software%20Intern&pid=137453256339&domain=ptc.com&triggerGoButton=false) | Boston, MA | Software Engineer Intern, Software Developer Intern |
+| [SeekOut](https://seekout.com/careers-list?gh_jid=5371260003) | Bellevue, WA | In-Person Software Engineer - Internship |
+| [Nuna Healthcare](https://boards.greenhouse.io/nuna/jobs/4612944) | San Francisco, CA | Software Engineer Intern |
+| [Vertica](https://jobs.microfocus.com/global/en/search-results?keywords=intern) | Provo, UT or Cambridge, MA | [Systems Software](https://jobs.microfocus.com/global/en/job/7027957/Systems-Software-Engineer-Intern-at-Vertica), [Quality Assurance](https://jobs.microfocus.com/global/en/job/7027820/Quality-Assurance-Test-Intern-for-Summer-2023-Vertica) |
+| [Mark43](https://mark43.com/careers/north-america/#job-openings) | Toronto or US remote | Engineering Intern, [US remote](https://mark43.com/list-job/?gh_jid=4653495) or [Toronto](https://mark43.com/list-job/?gh_jid=4657411) |
+| [New York Life Insurance](https://jobs.newyorklife.com/job/New-York-2023-Technology-Summer-Internship-Program-NY-10001/919209100/) | New York, NY | 2023 Technology Summer Internship Program |
+| [Cambly](https://jobs.lever.co/cambly/5f8d0043-a2cb-4e16-b994-7e69a52d84f3) | San Francisco, CA | Software Engineering Internship |
+| [Fanatics](https://jobs.lever.co/fanatics) | Boulder, San Mateo, Tampa, Jacksonville | Summer 2023 Internship for [Software](https://jobs.lever.co/fanatics/573afdf6-8a23-48a0-8682-b721277f1410), [Infrastructure](https://jobs.lever.co/fanatics/902a3c59-d4ad-46c7-b6ba-277b6ab1bada), [Security](https://jobs.lever.co/fanatics/2098bd04-743c-4715-b95a-02bed755c69d), and [Product Management](https://jobs.lever.co/fanatics/94ecad65-b4fc-48b8-ba1b-b3d7c2f8a9c3) |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
