@@ -154,7 +154,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [IBM](https://www.ibm.com/us-en/employment/entrylevel/#jobs?%23jobs=&job-search=) | Multiple Locations in the US | [Firmware Developer Summer Intern: 2023](https://careers.ibm.com/job/16478329/firmware-developer-summer-intern-2023-remote/?codes=IBM_CareerWebSite), Data Scientist Intern (Multiple Openings) |
 | Fidelity | Boston, MA | **🔒 Closed 🔒** Data Analytics Intern |
 | [Cohen & Co](https://careers-cohencpa.icims.com/jobs/1436/software-development-internship-%5bsummer-2023%5d/job?mobile=false&width=1743&height=500&bga=true&needsRedirect=false&jan1offset=-480&jun1offset=-420) | Multiple Locations in the US | Software Development Internship|
-| [Figma](https://boards.greenhouse.io/figma/jobs/4595340004/) | NY, SF | Software Engineer Intern |
+| [~~Figma~~](https://boards.greenhouse.io/figma/jobs/4595340004/) | NY, SF | Software Engineer Intern |
 | [Flatiron Health](https://flatiron.com/careers/open-positions/4454681) | NYC | SWE Intern |
 | Redfin | Seattle, Frisco, San Francisco | [Software Developer: 2023 Internship](https://redfin.wd1.myworkdayjobs.com/en-US/redfin_careers/job/Software-Developer--2023-Internship_49169-1), [Data Analyst: 2023 Internship](https://redfin.wd1.myworkdayjobs.com/redfin_careers_ET/job/Remote-Work-Location/Data-Analyst--2023-Summer-Internship_49200) |
 | [F5](https://ffive.wd5.myworkdayjobs.com/en-US/f5jobs/job/Seattle/Summer-2023-Internship---Software-Engineering_RP1026625) | Seattle, Boulder (Louisville), Boston, San Jose | SWE Intern |
