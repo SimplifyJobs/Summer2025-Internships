@@ -84,6 +84,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | Tower Research Capital| New York, NY, Chicago, IL | **🔒 Closed 🔒** Quantitative Trader, Quantitative Developer | |
 | [Mastercard](https://careers.mastercard.com/us/en/job/R-173598/Software-Engineer-Intern)|  Multiple locations in United States | Software Engineer Intern, Information Security Engineer Intern |
 | [Citadel](https://www.citadel.com/careers/open-positions/positions-for-students/?keyword=Intern)| Chicago, New York | Software Engineer Intern and Quant Research Analyst|
+| [Dolby](https://jobs.dolby.com/careers?domain=dolby.com#apply) | San Francisco, CA; Sunnyvale, CA  | Product Management Intern (Winter/Spring 2023), Software QA Engineer Intern (Winter/Spring 2023) , Software QA Engineer Intern (Winter/Spring 2023) , Visual Computing Intern |
 | [Neocis](https://www.neocis.com/careers/?gnk=job&gni=8a7887ac81818f790181a70be60322fb&lang=en)| Miami, FL | Software Engineering Internship |
 | [Hewlett Packard Enterprise](https://careers.hpe.com/us/en/search-results?keywords=software%20intern) | Multiple Locations in United States | Software Developer Intern, Software Engineering Intern, [AI/ML Intern](https://careers.hpe.com/us/en/job/HPE1US1135450EXTERNALENUS/Artificial-Intelligence-AI-Machine-Learning-ML-Intern), [Data Science Intern](https://careers.hpe.com/us/en/job/HPE1US1135416EXTERNALENUS/Data-Science-Intern)
 | Ocient | Remote | **🔒 Closed 🔒** Software Engineer Internship
