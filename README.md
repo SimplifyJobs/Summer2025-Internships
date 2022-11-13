@@ -537,6 +537,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Gilead Sciences](https://gilead.wd1.myworkdayjobs.com/en-US/gileadcareers/job/Intern---Software-Development_R0031490) | Foster City, CA | Intern - Software Development (No Sponsorship) |
 | [Productiv](https://boards.greenhouse.io/productiv/jobs/5377780003) | Palo Alto, CA or Bellevue, WA | Software Engineer Intern |
 | [Juniper Networks](https://careers.juniper.net/) | Westford, MA or Sunnyvale, CA | Software Enginnering Intern, [Westford, MA](https://careers.juniper.net/#/jobdescription?jid=1006711) or [Sunnyvale, CA](https://careers.juniper.net/#/jobdescription?jid=1005724) |
+| [Uniswap Labs](https://boards.greenhouse.io/uniswaplabs/jobs/4010322005) | New York City, NY | Software Engineering Intern |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
