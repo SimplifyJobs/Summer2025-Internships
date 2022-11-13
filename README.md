@@ -536,7 +536,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [SiriusXM](https://careers.siriusxm.com/earlycareer/jobs?keywords=intern&sortBy=relevance&page=1) | Multiple locations | Summer internship for [Mobile](https://careers.siriusxm.com/earlycareer/jobs/13805?lang=en-us), [Web](https://careers.siriusxm.com/earlycareer/jobs/13807?lang=en-us), [Backend](https://careers.siriusxm.com/earlycareer/jobs/13801?lang=en-us), etc. Spring and part-time internship avaliable on website | 
 | [Gilead Sciences](https://gilead.wd1.myworkdayjobs.com/en-US/gileadcareers/job/Intern---Software-Development_R0031490) | Foster City, CA | Intern - Software Development |
 | [Productiv](https://boards.greenhouse.io/productiv/jobs/5377780003) | Palo Alto, CA or Bellevue, WA | Software Engineer Intern |
-| [Juniper Networks](https://careers.juniper.net/) | Westford, MA or Sunnyvale, CA | Software Enginnering Intern, [Westford, MA](https://careers.juniper.net/?ref=levels.fyi#/jobdescription?jid=1006711) or [Sunnyvale, CA](https://careers.juniper.net/?ref=levels.fyi#/jobdescription?jid=1005724) |
+| [Juniper Networks](https://careers.juniper.net/) | Westford, MA or Sunnyvale, CA | Software Enginnering Intern, [Westford, MA](https://careers.juniper.net/#/jobdescription?jid=1006711) or [Sunnyvale, CA](https://careers.juniper.net/#/jobdescription?jid=1005724) |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
