@@ -538,6 +538,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Productiv](https://boards.greenhouse.io/productiv/jobs/5377780003) | Palo Alto, CA or Bellevue, WA | Software Engineer Intern |
 | [Juniper Networks](https://careers.juniper.net/) | Westford, MA or Sunnyvale, CA | Software Enginnering Intern, [Westford, MA](https://careers.juniper.net/#/jobdescription?jid=1006711) or [Sunnyvale, CA](https://careers.juniper.net/#/jobdescription?jid=1005724) |
 | [Uniswap Labs](https://boards.greenhouse.io/uniswaplabs/jobs/4010322005) | New York City, NY | Software Engineering Intern |
+| [Dolby](https://jobs.dolby.com/careers/job?domain=dolby.com&query=Visual%20Computing%20Intern&seniority=Intern&pid=12033819&triggerGoButton=false) | Sunnyvale, CA | Visual Computing Intern |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
