@@ -546,6 +546,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Moody's](https://careers.moodys.com/job/16818557/2023-engineering-technology-summer-internship-us-charlotte-nc) | Multiple Locations | 2023 Engineering  & Technology Summer Internship | 
 | [Pimco](https://pimco.wd1.myworkdayjobs.com/en-US/pimco-careers/job/Austin-TX-USA/XMLNAME-2023-SIP-Technology-Analyst--Software-Engineering_R101897?ref=levels.fyi&workerSubType=6e192a3f175201c5a610087a5209cf10) | Austin, TX or Newport Beach, CA | 2023 Summer Intern - Software Engineer, US |
 |[Microsoft](https://careers.microsoft.com/students/us/en/job/1371270/Data-Applied-Sciences-Intern-Opportunities-for-University-Students) | WA | Data Scientist Intern - Bachelor's and Master's |
+| [Boeing](https://jobs.boeing.com/job/hood-river/intern-software-engineering/185/37781184528?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | Hood River, Oregon | Sophomore or Junior year |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
