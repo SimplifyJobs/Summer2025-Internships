@@ -550,6 +550,9 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [midmark](https://hcor.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1556?utm_medium=jobshare) | Irvine, CA | Software Engineer Co-Op |
 | [perpay](https://jobs.lever.co/perpay/9901cb87-958d-4d03-88c3-fae58cf84dbb) | Philadelphia, PA | Engineering Intern (Software) |
 | [Nokia](https://aluperf.referrals.selectminds.com/jobs/search/36227665) | Multiple locations | [ML & AI Intern](https://aluperf.referrals.selectminds.com/jobs/machine-learning-and-ai-intern-90993)
+| [The Toro Company](https://ttc.wd1.myworkdayjobs.com/en-US/Toro_External_Careers/job/Bloomington-MN/Software-Engineer-Intern---The-Toro-Company_JR5735) | Bloomington, MN | Software Engineer Intern |
+| [Everlaw](https://jobs.lever.co/everlaw/8be74382-4441-4524-b4be-d8a8df64a906) | Oakland, CA | Software Engineer Internship |
+| [Integral Ad Science](https://ats.comparably.com/api/v1/gh/integraladscience/jobs/4637063?gh_jid=4637063&gh_src=6e382d8d1us) | Chicago IL or New York, NY | General internship application for Engineering, Data, Product, etc. |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
