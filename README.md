@@ -549,6 +549,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Prelim](https://jobs.lever.co/prelim/dcc63d39-57f4-412e-9581-f5a93f2cf5b7) | US Remote | Software Engineer - Intern |
 | [midmark](https://hcor.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1556?utm_medium=jobshare) | Irvine, CA | Software Engineer Co-Op |
 | [perpay](https://jobs.lever.co/perpay/9901cb87-958d-4d03-88c3-fae58cf84dbb) | Philadelphia, PA | Engineering Intern (Software) |
+| [Nokia](https://aluperf.referrals.selectminds.com/jobs/search/36227665) | Multiple locations | [ML & AI Intern](https://aluperf.referrals.selectminds.com/jobs/machine-learning-and-ai-intern-90993)
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
