@@ -289,7 +289,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | Gem.com | San Francisco, CA | **🔒 Closed 🔒** Software Engineer Intern | 
 | [Gap](https://www.gapinc.com/en-us/jobs/w76/16/2023-undergrad-summer-internship-gaptech-software-) | Remote | Software Engineering (no visa sponsorship)|
 | DeepGram | Ann Arbor, MI | **🔒 Closed 🔒** Software Engineering | 
-| [Matroid](https://matroid.breezy.hr/p/46f69de2cc24-software-engineer-intern-infrastructure) | Palo Alto, CA | Software Engineer |
+| [Matroid](https://matroid.breezy.hr/p/46f69de2cc24-software-engineer-intern-infrastructure) | Palo Alto, CA | **🔒 Closed 🔒** Software Engineer |
 | [Proofpoint](https://proofpoint.wd5.myworkdayjobs.com/en-US/ProofpointCareers/job/Draper-UT/Software-Engineer-Summer-Intern---Undergrad_R8448) | Draper, UT | Software Engineer | 
 | Grammarly | Remote | **🔒 Closed 🔒** Software Engineer | 
 | Stryker | Varies | Software Engineer [CA](https://careers.stryker.com/job/16637358/summer-internship-2023-software-engineering-california-san-jose-ca/), [FL](https://careers.stryker.com/job/16637360/summer-internship-2023-software-engineering-florida-fort-lauderdale-fl/), [IN](https://careers.stryker.com/job/16656756/summer-internship-2023-software-engineering-indiana-fort-wayne-in/), [MA](https://careers.stryker.com/job/16656757/summer-internship-2023-software-engineering-massachusetts-shirley-ma/), [MI](https://careers.stryker.com/job/16637357/summer-internship-2023-software-engineering-michigan-portage-mi/), [WA](https://careers.stryker.com/job/16637363/summer-internship-2023-electrical-engineering-washington-redmond-wa/) |
