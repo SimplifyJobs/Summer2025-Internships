@@ -303,7 +303,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | Merck | Varies | **🔒 Closed 🔒** IT Emerging Talent Intern | 
 | [Jamf](https://www.jamf.com/about/careers/jobs/?gh_jid=4666557004&gh_jid=4666557004&gh_src=8229fc8d4us) | Varies/Remote | Software Engineering Intern | 
 | Dish | Overland Park, KS | [Application Engineering Intern](https://jobs.dish.com/jobs/67284?lang=en-us), [Application Development](https://jobs.dish.com/jobs/67257?lang=en-us) | 
-| Synopsys | Mountain View/Sunnyvale, CA | **🔒 Closed 🔒** Software Engineering Intern | 
+| [Synopsys](https://synopsys.ongig.com/?q=intern) | Mountain View/Sunnyvale, CA | [ML Engineering intern](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=25235&siteid=5359&jobid=1977308#jobDetails=1977308_5359), [C++ Engineering Intern](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25235&siteid=5359&PageType=JobDetails&jobid=1977317#jobDetails=1977317_5359), [IT intern](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=25235&siteid=5359&jobid=1977268#jobDetails=1977268_5359) | 
 | Booz Allen | Charleston, South Carolina or Annapolis Junction, Maryland | Software Engineer in [SC](https://careers.boozallen.com/jobs/JobDetail/Charleston-Software-Developer-Intern-R0145621/62161?source=JB-16500), [MD](https://careers.boozallen.com/jobs/JobDetail/Annapolis-Junction-University-Software-Engineer-Intern-R0151116/65593?source=JB-16500) |
 | McDonald's| Chicago, IL | **🔒 Closed 🔒** Software Development Engineer |
 | BCG | Varies | **🔒 Closed 🔒** Engineering Intern, Software Engineering | 
