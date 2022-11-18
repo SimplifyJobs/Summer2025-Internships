@@ -557,6 +557,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Atomic](https://jobs.lever.co/atomic/92ea05f7-450e-452d-92ab-291bad609004) | San Francisco, CA | Summer 2023 Software Engineering Intern |
 | [Liferay, Inc.](https://jobs.jobvite.com/liferay/job/oyTSkfwn) | Diamond Bar, CA | Software Engineering Intern (Consulting) - Summer 2023 |
 | [GM Financial](https://careers-gmfinancial.icims.com/jobs/43192/intern--software-development-engineer/job?mobile=false&width=1290&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240) | Arlington, TX | Intern - Software Development Engineer |
+| New Relic | Portland, OR | Software Engineer Intern, [CodeStream](https://newrelic.careers/careers/JobDetail/Software-Engineer-Intern-CodeStream/3053), [Telemetry Data Platform](https://newrelic.careers/careers/JobDetail/Software-Engineer-Intern-Telemetry-Data-Platform/3048) (No Sponsorship) |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
