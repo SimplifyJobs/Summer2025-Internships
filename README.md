@@ -554,6 +554,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Everlaw](https://jobs.lever.co/everlaw/8be74382-4441-4524-b4be-d8a8df64a906) | Oakland, CA | Software Engineer Internship |
 | [Integral Ad Science](https://ats.comparably.com/api/v1/gh/integraladscience/jobs/4637063?gh_jid=4637063&gh_src=6e382d8d1us) | Chicago IL or New York, NY | General internship application for Engineering, Data, Product, etc. |
 | Atlassian | Mountain View, CA | [Software Engineer Intern](https://jobs.lever.co/atlassian/8598139f-e53c-4353-ad2a-3f9d32e969c2), [ML Intern](https://www.atlassian.com/company/careers/detail/db725d3d-e4c1-4dea-953c-ee1681cde1dd) (No Sponsorship) |
+| [Atomic](https://jobs.lever.co/atomic/92ea05f7-450e-452d-92ab-291bad609004) | San Francisco, CA | Summer 2023 Software Engineering Intern |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
