@@ -564,6 +564,9 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Zanbato](https://boards.greenhouse.io/zanbato/jobs/4485669) | Mountain View, CA | Software Engineering Intern (only accepting bay area resident) |
 | [SandboxAQ](https://www.sandboxaq.com/careers-list?gh_jid=4601309004) | San Francisco, CA | Internship - Prototyping Engineer |
 | [PepsiCo](https://www.pepsicojobs.com/main/jobs/143600?lang=en-us&previousLocale=en-US) | Purchase, NY or Plano, TX | Digital Transformation Intern (no sponsorship) |
+| [Schneider Electric](https://careers.se.com/global/jobs/42430) | Nashville, TN | Software Developer Intern |
+| Enable Medicine | San Francisco, CA or New York City, NY | Software Engineer Intern for [NYC summer](https://enablemedicine.pinpointhq.com/en/jobs/75390), [SF summer](https://enablemedicine.pinpointhq.com/en/jobs/75389), [NYC spring](https://enablemedicine.pinpointhq.com/en/jobs/75391), [SF spring](https://enablemedicine.pinpointhq.com/en/jobs/75388) |
+| [BorgWarner](https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Auburn-Hills---Michigan---USA/Web-Application-Intern_R2022-7875) | Auburn Hills, MI | Web Application Intern (must be currently authorized) |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
