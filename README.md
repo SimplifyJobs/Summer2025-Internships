@@ -571,6 +571,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | Karat | Remote | **🔒 Closed 🔒** Software Engineering Intern |
 | [Rubrik](https://app.ripplematch.com/job/rubrik/4779bc75/) | Palo Alto, CA | Software Engineering Intern |
 | [Wizards of the Coast](https://boards.greenhouse.io/wizardsofthecoast/jobs/6495507002) | Renton or Bellevue, WA | Summer 2023 Software Developer Internships (work authorization required) |
+| Abarca Health | Remote | Spring/Fall Coop and Summer internship for [SWE](https://careers.abarcahealth.com/details/?gh_jid=5316850003&jid=5316850003), [Data](https://careers.abarcahealth.com/details/?gh_jid=5317277003&jid=5317277003), [InfoSec](https://careers.abarcahealth.com/details/?gh_jid=5317186003&jid=5317186003), and [Tech Support](https://careers.abarcahealth.com/details/?gh_jid=5317018003&jid=5317018003) |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
