@@ -570,6 +570,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [AIG](https://aig.wd1.myworkdayjobs.com/aig/job/NJ-Jersey-City/XMLNAME-2023---Early-Career---Technology---Summer-Intern---United-States--Jersey-City--NJ--or-Charlotte--NC-_JR2206963-1) | Jersey City, NJ or Charlotte, NC | Early Career - Technology - Summer Intern |
 | Karat | Remote | **🔒 Closed 🔒** Software Engineering Intern |
 | [Rubrik](https://app.ripplematch.com/job/rubrik/4779bc75/) | Palo Alto, CA | Software Engineering Intern |
+| [Wizards of the Coast](https://boards.greenhouse.io/wizardsofthecoast/jobs/6495507002) | Renton or Bellevue, WA | Summer 2023 Software Developer Internships (work authorization required) |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
