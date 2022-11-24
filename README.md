@@ -573,6 +573,8 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Wizards of the Coast](https://boards.greenhouse.io/wizardsofthecoast/jobs/6495507002) | Renton or Bellevue, WA | Summer 2023 Software Developer Internships (work authorization required) |
 | Abarca Health | Remote | Spring/Fall Coop and Summer internship for [SWE](https://careers.abarcahealth.com/details/?gh_jid=5316850003&jid=5316850003), [Data](https://careers.abarcahealth.com/details/?gh_jid=5317277003&jid=5317277003), [InfoSec](https://careers.abarcahealth.com/details/?gh_jid=5317186003&jid=5317186003), and [Tech Support](https://careers.abarcahealth.com/details/?gh_jid=5317018003&jid=5317018003) |
 | [C.H. Robinson](https://jobs.chrobinson.com/job/-/-/209/35806546640) | Remote | Software Engineer Internship |
+| [Bungie](https://boards.greenhouse.io/bungie/jobs/4663668) | Remote | Unannounced Project SDET Intern |
+| [Acumen](https://jobs.lever.co/acumenllc/e4e5fe92-848d-43b3-b6e8-c07c2a35fe61) | Burlingame/Los Angeles, CA or Washington, DC | Data Processing Programmer Intern (cover letter required) |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
