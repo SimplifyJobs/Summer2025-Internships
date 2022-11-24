@@ -97,18 +97,18 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | Seven Eight Capital | New York, Boston, Stamford | **🔒 Closed 🔒** Software Engineer Internship
 | [Databento](https://boards.greenhouse.io/databento/jobs/4374815?)| Remote | SWE Intern (H1B sponsorship available)
 | ServiceNow| Remote | **🔒 Closed 🔒** Database Software Engineer Intern
-| [Virtu Financial](https://boards.greenhouse.io/virtu/jobs/5432329002)| New York, NY | Internship - Developer (10 weeks Summer 2023)
-| [Prudential](https://prudential.eightfold.ai/careers?pid=12393231&Job%20Category=Technology&location_country=US&early_talent=Summer%20Internships&domain=prudential.com)| Newark, NJ | Software Engineering Summer Internship Program
-| [PDT Partners](https://boards.greenhouse.io/pdtpartners/jobs/4423823)| New York, NY | Software Engineering Internship (10 weeks Summer 2023)
+| Virtu Financial | New York, NY | **🔒 Closed 🔒** Internship - Developer (10 weeks Summer 2023)
+| Prudential | Newark, NJ | **🔒 Closed 🔒** Software Engineering Summer Internship Program
+| PDT Partners | New York, NY | **🔒 Closed 🔒** Software Engineering Internship (10 weeks Summer 2023)
 | [Verkada](https://jobs.lever.co/verkada?department=Engineering#:~:text=SOFTWARE%20%2D%20CORE%20COMMAND-,SOFTWARE%20%2D%20EARLY%20CAREERS,-APPLY)| San Mateo, CA | [Backend Software Engineering Intern](https://jobs.lever.co/verkada/771ec38b-605e-4f59-8a73-b1b0ccde1358), Computer Vision Engineering Intern, [Embedded Systems Engineering Intern](https://jobs.lever.co/verkada/f8e567ee-b75f-498a-8cad-a0f0f47eb298), [Frontend Software Engineering Intern](https://jobs.lever.co/verkada/eedaa343-79ae-4b7f-a73f-3f860050822f), [Mobile Engineering Intern](https://jobs.lever.co/verkada/de0b103e-1bb6-4619-bea8-4ed254267f6b), [Security Engineering Intern](https://jobs.lever.co/verkada/55ee059c-dbca-4034-af57-133de54a22fe)
 | Code 2040 | Various | **🔒 Closed 🔒** Software Engineering Internship Fellowship (9 weeks Summer 2023) |
-| [Vanta](https://boards.greenhouse.io/vanta/jobs/5868552002) | New York, NY | **🔒 Closed 🔒** SWE Internship
-| [L3Harris Technologies](https://careers.l3harris.com/job/-/-/4832/33418640224) | Amityville, NY | Software Engineer Intern (US Government Security Clearance needed)
+| Vanta | New York, NY | **🔒 Closed 🔒** SWE Internship
+| L3Harris Technologies | Amityville, NY | **🔒 Closed 🔒** Software Engineer Intern (US Government Security Clearance needed)
 | Pixar Animation Studios | Emeryville, CA | **🔒 Closed 🔒** Software Engineer Intern (no visa sponsorship)
 | [PNC](https://careers.pnc.com/global/en/job/PNC1GLOBALR112729/Technology-Summer-Intern-Program?utm_source=symphonytalentmpx&utm_medium=phenom-feeds) | Various | Technology Summer Intern Program |
 | PWC | Various | **🔒 Closed 🔒** Technology Consulting Intern (STEM extension for H1B possible) |
 | [Arrowstreet Capital](https://arrowstreetcapital.wd5.myworkdayjobs.com/en-US/Arrowstreet/job/Boston/Quantitative-Researcher-Intern--Summer-2023_R700) | Boston, MA | Quantitative Researcher Intern |
-| [Valkyrie](https://jobs.lever.co/valkyrietrading/cf65c6b9-a11f-4fa1-9c4e-f5726f6bf4d1?lever-source=Indeed) | Chicago, IL | Software Engineer Intern
+| Valkyrie | Chicago, IL | **🔒 Closed 🔒** Software Engineer Intern
 | [Sensata](https://sensata.wd1.myworkdayjobs.com/en-US/Sensata-Careers/job/Attleboro-Massachusetts/Software-Engineer-Intern---Summer-2023_IRC86996) | Attleboro, MA | Software Engineer Intern |
 | Peraton | Annapolis Junction, MD | **🔒 Closed 🔒** Software Engineer Intern (Undergrad) |
 | SPS| Minneapolis, MN | **🔒 Closed 🔒** Software Engineer Intern |
