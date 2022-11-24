@@ -94,7 +94,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Freddie Mac](https://careers.freddiemac.com/us/en/job/JR7788/Multifamily-Software-Developer-Intern-Hybrid-or-Remote-Work-Schedule) | McLean, VA (Remote Available) | Multifamily Software Developer Intern |
 | Jane Street | New York | **🔒 Closed 🔒** Software Engineer Summer Internship 2023
 | Asana | San Francisco, New York City, Vancouver | 🔒 Closed 🔒 Summer 2023 Engineering Internship, [Summer 2023 Data Science Internship](https://asana.com/jobs/apply/4613917?gh_jid=4613917&gh_src=403389e31us)|
-| [Seven Eight Capital](https://boards.greenhouse.io/seveneightcapital/jobs/6304824002?gh_jid=6304824002)| New York, Boston, Stamford | Software Engineer Internship
+| Seven Eight Capital | New York, Boston, Stamford | **🔒 Closed 🔒** Software Engineer Internship
 | [Databento](https://boards.greenhouse.io/databento/jobs/4374815?)| Remote | SWE Intern (H1B sponsorship available)
 | ServiceNow| Remote | **🔒 Closed 🔒** Database Software Engineer Intern
 | [Virtu Financial](https://boards.greenhouse.io/virtu/jobs/5432329002)| New York, NY | Internship - Developer (10 weeks Summer 2023)
