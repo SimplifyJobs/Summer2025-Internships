@@ -581,6 +581,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Replit](https://jobs.ashbyhq.com/replit/a58449ef-4cc9-4959-a878-ab0890cb1e01) | US or Canada | General Summer Internship application for all teams |
 | [RTI](https://boards.greenhouse.io/rti/jobs/4719368) | Sunnyvale, CA | Application Engineer, Intern (must be US citizen) |
 | [Ntrepid](https://careers-ntrepidcorp.icims.com/jobs/1739/job) | Herndon, VA or remote | Software Engineer Intern (US citizenship required) |
+| [Cyberark](https://careers.cyberark.com/job/Identity-Software-Engineer-Intern-CA/830452601/) | US | Identity Software Engineer Intern |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
