@@ -582,7 +582,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [RTI](https://boards.greenhouse.io/rti/jobs/4719368) | Sunnyvale, CA | Application Engineer, Intern (must be US citizen) |
 | [Ntrepid](https://careers-ntrepidcorp.icims.com/jobs/1739/job) | Herndon, VA or remote | Software Engineer Intern (US citizenship required) |
 | [Cyberark](https://careers.cyberark.com/job/Identity-Software-Engineer-Intern-CA/830452601/) | US | Identity Software Engineer Intern |
-| [Pegasystems](https://www.pega.com/about/careers/job-listings?f%5B0%5D=careers_country%3AUS&f%5B1%5D=category%3A24376&q=) | Multiple Locations | Multiple summer internship for SWE, UI, UX, etc. |
+| [Pegasystems](https://www.pega.com/about/careers/job-listings?f[0]=category%3A24376) | Multiple Locations | Multiple summer internship for SWE, UI, UX, etc. |
 | [ULINE](https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Software-Developer-Internship---Summer-2023_R224467) | Pleasant Prairie, WI | Software Developer Internship (no sponsorship) |
 | [ZS Associates](https://jobs.zs.com/jobs/13366) | Evanston, IL | Software Engineer - Intern (no sponsorship) |
 
