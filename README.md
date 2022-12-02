@@ -590,6 +590,8 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Mercedes-Benz](https://jobs.mercedes-benz.com/job/369916/data-scientist-intern.html) | Farmington Hills, MI | Data Scientist Intern (no sponsorship) |
 | [Bread Financial](https://alliancedata.wd5.myworkdayjobs.com/breadfinancial_US/job/Columbus-OH/XMLNAME-2023-College-Intern-Program_R1007058) | Multiple Locations or remote | General summer internship application for all majors including CS/IT (no sponsorship) |
 | [Momentum](https://mwrecruiting-openhire.silkroad.com/epostings/index.cfm?fuseaction=app.jobinfo&jobid=15359&source=ONLINE&JobOwner=1030463&company_id=30094&version=11&byBusinessUnit=NULL&bycountry=0&bystate=0&byRegion=&bylocation=&keywords=&byCat=&proximityCountry=) | NYC, St. Louis, Chicago, or Atlanta | General summer internship application for all teams such as SWE, data, UX, etc. |
+| [GitLab](https://boards.greenhouse.io/gitlab/jobs/6069423002) | remote | Engineering Internship (SWE) (no sponsorship but accept interns from multiple countries) |
+| [FIS](https://careers.fisglobal.com/us/en/job/FIGLUSJR0228981EXTERNAL/Intern-Software-Engineer-Summer-FIS-University-Program-2023) | Milwaukee, WI | Software Engineer, Summer FIS University Program |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
