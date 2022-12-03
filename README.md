@@ -591,7 +591,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Bread Financial](https://alliancedata.wd5.myworkdayjobs.com/breadfinancial_US/job/Columbus-OH/XMLNAME-2023-College-Intern-Program_R1007058) | Multiple Locations or remote | General summer internship application for all majors including CS/IT (no sponsorship) |
 | [Momentum](https://mwrecruiting-openhire.silkroad.com/epostings/index.cfm?fuseaction=app.jobinfo&jobid=15359&source=ONLINE&JobOwner=1030463&company_id=30094&version=11&byBusinessUnit=NULL&bycountry=0&bystate=0&byRegion=&bylocation=&keywords=&byCat=&proximityCountry=) | NYC, St. Louis, Chicago, or Atlanta | General summer internship application for all teams such as SWE, data, UX, etc. |
 | [GitLab](https://boards.greenhouse.io/gitlab/jobs/6069423002) | remote | Engineering Internship (SWE) (no sponsorship but accept interns from multiple countries) |
-| [FIS](https://careers.fisglobal.com/us/en/job/FIGLUSJR0228981EXTERNAL/Intern-Software-Engineer-Summer-FIS-University-Program-2023) | Milwaukee, WI | Software Engineer, Summer FIS University Program (no sponsorship) |
+| FIS | Milwaukee, WI | **🔒 Closed 🔒** Software Engineer, Summer FIS University Program (no sponsorship) |
 | [Commonwealth](https://careers-commonwealth.icims.com/jobs/5581/2023-summer-internship-program/job) | Waltham, MA | General Summer Internship Application for all departments (cover letter required) |
 | [Chamberlain Group](https://chamberlain.wd1.myworkdayjobs.com/en-US/Chamberlain_Group?workerSubType=a1d19ddc127d10332f2265ab00be635b) | Oak Brook, IL | 2023 Summer internships for SWE, Data, PM, etc. |
 
