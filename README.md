@@ -580,7 +580,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Pacific Northwest National Laboratory](https://careers.pnnl.gov/jobs?keywords=intern&sortBy=relevance&page=1) | Remote | [Undergraduate HPC Intern](https://careers.pnnl.gov/jobs/5931?lang=en-us&iis=Job+Board&iisn=LinkedIn) |
 | [Replit](https://jobs.ashbyhq.com/replit/a58449ef-4cc9-4959-a878-ab0890cb1e01) | US or Canada | General Summer Internship application for all teams |
 | [RTI](https://boards.greenhouse.io/rti/jobs/4719368) | Sunnyvale, CA | Application Engineer, Intern (must be US citizen) |
-| [Ntrepid](https://careers-ntrepidcorp.icims.com/jobs/1739/job) | Herndon, VA or remote | Software Engineer Intern (US citizenship required) |
+| [Ntrepid](https://careers-ntrepidcorp.icims.com/jobs/1739/job) | Herndon, VA or remote | **🔒 Closed 🔒** Software Engineer Intern (US citizenship required) |
 | [Cyberark](https://careers.cyberark.com/job/Identity-Software-Engineer-Intern-CA/830452601/) | US | Identity Software Engineer Intern |
 | [Pegasystems](https://www.pega.com/about/careers/job-listings?f[0]=category%3A24376) | Multiple Locations | Multiple summer internship for SWE, UI, UX, etc. |
 | [ULINE](https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Software-Developer-Internship---Summer-2023_R224467) | Pleasant Prairie, WI | Software Developer Internship (no sponsorship) |
