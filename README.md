@@ -8,7 +8,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 
 🙏 **Contribute by submitting a [pull request](https://github.com/susam/gitpr#create-pull-request)! See the contribution guidelines [here](https://github.com/pittcsc/Summer2023-Internships/blob/dev/CONTRIBUTING.md)!** 🙏
 
----
+--
 
 <div align="center">
 	<p>
@@ -536,7 +536,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Michaels](https://michaels.wd5.myworkdayjobs.com/en-US/External/job/Michaels-2023-Summer-Internship---Technology_R00192212) | Irving, TX | 2023 Technology Summer Internship Program |
 | [XCOM Labs](https://xcomlabs.bamboohr.com/jobs/) | San Diego, CA | Summer internship for [software](https://xcomlabs.bamboohr.com/jobs/view.php?id=298&source=bamboohr), [wireless](https://xcomlabs.bamboohr.com/jobs/view.php?id=300&source=bamboohr), [VR](https://xcomlabs.bamboohr.com/jobs/view.php?id=302&source=bamboohr), [XR](https://xcomlabs.bamboohr.com/jobs/view.php?id=301&source=bamboohr), etc. |
 | [NerdWallet](https://www.nerdwallet.com/careers/job/3421434) | San Francisco, CA or Remote | General internship application for Web, Data, Mobile, etc. |
-| [S&P Global](https://careers.spglobal.com/jobs/278444) | New York, NY or Princeton, NJ | Software Engineer - DTS 2023 Summer Intern |
+| [S&P Global](https://careers.spglobal.com/jobs/278490) | New York, NY or Raleigh, NC | Summer Internship –Technology – Software Engineer Intern |
 | [Moody's](https://careers.moodys.com/job/16818557/2023-engineering-technology-summer-internship-us-charlotte-nc) | Multiple Locations | 2023 Engineering  & Technology Summer Internship | 
 | [Pimco](https://pimco.wd1.myworkdayjobs.com/en-US/pimco-careers/job/Austin-TX-USA/XMLNAME-2023-SIP-Technology-Analyst--Software-Engineering_R101897?ref=levels.fyi&workerSubType=6e192a3f175201c5a610087a5209cf10) | Austin, TX or Newport Beach, CA | 2023 Summer Intern - Software Engineer, US |
 | Microsoft | Multiple | [Software Engineering Intern](https://careers.microsoft.com/us/en/job/1388845), [Data & Applied Sciences Intern](https://careers.microsoft.com/students/us/en/job/1371270/Data-Applied-Sciences-Intern-Opportunities-for-University-Students), [Explore Intern](https://careers.microsoft.com/students/us/en/job/1388848/Explore-Microsoft-Intern-Opportunities-for-University-Students) |
@@ -580,8 +580,20 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Pacific Northwest National Laboratory](https://careers.pnnl.gov/jobs?keywords=intern&sortBy=relevance&page=1) | Remote | [Undergraduate HPC Intern](https://careers.pnnl.gov/jobs/5931?lang=en-us&iis=Job+Board&iisn=LinkedIn) |
 | [Replit](https://jobs.ashbyhq.com/replit/a58449ef-4cc9-4959-a878-ab0890cb1e01) | US or Canada | General Summer Internship application for all teams |
 | [RTI](https://boards.greenhouse.io/rti/jobs/4719368) | Sunnyvale, CA | Application Engineer, Intern (must be US citizen) |
-| [Ntrepid](https://careers-ntrepidcorp.icims.com/jobs/1739/job) | Herndon, VA or remote | Software Engineer Intern (US citizenship required) |
+| Ntrepid | Herndon, VA or remote | **🔒 Closed 🔒** Software Engineer Intern (US citizenship required) |
 | [Cyberark](https://careers.cyberark.com/job/Identity-Software-Engineer-Intern-CA/830452601/) | US | Identity Software Engineer Intern |
+| [Pegasystems](https://www.pega.com/about/careers/job-listings?f[0]=category%3A24376) | Multiple Locations | Multiple summer internship for SWE, UI, UX, etc. |
+| [ULINE](https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Software-Developer-Internship---Summer-2023_R224467) | Pleasant Prairie, WI | Software Developer Internship (no sponsorship) |
+| Hudl | Multiple Locations or remote | Summer internships for [SWE](https://boards.greenhouse.io/hudl/jobs/4592228) and [Data](https://boards.greenhouse.io/hudl/jobs/4714755) |
+| Ball Aerospace | Multiple Locations | Summer internships for [SWE](https://jobs.ball.com/aerospace/job/Fairborn-Technical-Intern-Software-Engineering-OH-45432/943178800/), [Data Science](https://jobs.ball.com/aerospace/job/Broomfield-Technical-Intern-Data-Scientist-CO-80020/934235400/), [Data Eng](https://jobs.ball.com/aerospace/job/Broomfield-Technical-Intern-Data-Engineer-CO-80020/946621300/), and [ML](https://jobs.ball.com/aerospace/job/Boulder-Technical-Intern-Machine-LearningDeep-Learning-CO-80301/962541800/) (US citizenship required) |
+| [Hugging Face](https://apply.workable.com/huggingface/j/350457122B/) | New York, NY or Remote | ML Intern |
+| [Mercedes-Benz](https://jobs.mercedes-benz.com/job/369916/data-scientist-intern.html) | Farmington Hills, MI | Data Scientist Intern (no sponsorship) |
+| [Bread Financial](https://alliancedata.wd5.myworkdayjobs.com/breadfinancial_US/job/Columbus-OH/XMLNAME-2023-College-Intern-Program_R1007058) | Multiple Locations or remote | General summer internship application for all majors including CS/IT (no sponsorship) |
+| [Momentum](https://mwrecruiting-openhire.silkroad.com/epostings/index.cfm?fuseaction=app.jobinfo&jobid=15359&source=ONLINE&JobOwner=1030463&company_id=30094&version=11&byBusinessUnit=NULL&bycountry=0&bystate=0&byRegion=&bylocation=&keywords=&byCat=&proximityCountry=) | NYC, St. Louis, Chicago, or Atlanta | General summer internship application for all teams such as SWE, data, UX, etc. |
+| [GitLab](https://boards.greenhouse.io/gitlab/jobs/6069423002) | remote | Engineering Internship (SWE) (no sponsorship but accept interns from multiple countries) |
+| FIS | Milwaukee, WI | **🔒 Closed 🔒** Software Engineer, Summer FIS University Program (no sponsorship) |
+| [Commonwealth](https://careers-commonwealth.icims.com/jobs/5581/2023-summer-internship-program/job) | Waltham, MA | General Summer Internship Application for all departments (cover letter required) |
+| [Chamberlain Group](https://chamberlain.wd1.myworkdayjobs.com/en-US/Chamberlain_Group?workerSubType=a1d19ddc127d10332f2265ab00be635b) | Oak Brook, IL | 2023 Summer internships for SWE, Data, PM, etc. |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
