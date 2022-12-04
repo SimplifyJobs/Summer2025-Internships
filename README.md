@@ -43,7 +43,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | Name                                                                                                                                                                         | Location                             | Notes                                                                                                    |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ | -------------------------------------------------------------------------------------------------------- |
 | [Akuna Capital](https://akunacapital.com/careers?&experience=intern&search_term=#careers)                                                                                    | Chicago, IL; Austin, TX; Boston, MA | Quant Trading, SWE         (sponsorship available)                                                                              |
-| [Amazon Robotics](https://www.amazon.jobs/en/jobs/1999770/amazon-robotics-software-development-engineer-sde-intern-summer-2023)                                              | Greater Boston, MA                   |     Software Development Engineer                                                                                                     |
+| Amazon Robotics | Greater Boston, MA | **🔒 Closed 🔒** Software Development Engineer |
 | [Apple](https://jobs.apple.com/en-us/details/200389054/software-engineering-internship?team=SDNT)                                                                            | Cupertino, CA                                  | SWE, [Hardware](https://jobs.apple.com/en-us/details/200389042/hardware-technology-internship?team=STDNT)                                                                                                  |
 | AQR                                  | Greenwich, CT                        | **🔒 Closed 🔒** Business Development                                                                                                         |
 | BD                                                                                    | San Diego, CA | **🔒 Closed 🔒** Data Science                                                                                     |
@@ -114,7 +114,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | SPS| Minneapolis, MN | **🔒 Closed 🔒** Software Engineer Intern |
 | General Motors | Warren, MI | **🔒 Closed 🔒** 2023 Summer Intern – Software Engineering (Sponsorship **not** available.) |
 | [JP Morgan](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210321355) | Multiple | Software Engineer Intern (10 Weeks) (no visa sponsorship) |
-| [Roblox](https://jobs.roblox.com/careers?query=product%20manager%20intern&pid=137452383317&domain=roblox.com) | San Mateo, CA | Product Manager - Intern (Summer 2023) |
+| Roblox | San Mateo, CA | **🔒 Closed 🔒** Product Manager - Intern (Summer 2023) |
 | Intuit | **🔒 Closed 🔒** Mountain View, California; San Diego, California; Plano, Texas; New York, New York; Atlanta, Georgia | Software Engineer Intern |
 | [Uber](https://university-uber.icims.com/jobs/116847/job) | Various | 2023 Software Engineer Internship |
 | Uber | San Francisco, CA | **🔒 Closed 🔒** Software Engineering Intern for Freshmen/Sophomores |
