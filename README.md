@@ -595,6 +595,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Commonwealth](https://careers-commonwealth.icims.com/jobs/5581/2023-summer-internship-program/job) | Waltham, MA | General Summer Internship Application for all departments (cover letter required) |
 | [Chamberlain Group](https://chamberlain.wd1.myworkdayjobs.com/en-US/Chamberlain_Group?workerSubType=a1d19ddc127d10332f2265ab00be635b) | Oak Brook, IL | 2023 Summer internships for SWE, Data, PM, etc. |
 | [Rockwell Automation](https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Intern--Information-Technology_R22-8470-2?Codes=ILINK) | Milwaukee, WI | IT Intern (No Sponsorship) |
+| [Commvault](https://careers.commvault.com/us/en/search-results?keywords=intern) | Remote | Various internship roles in Software Development, UX, etc. |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
