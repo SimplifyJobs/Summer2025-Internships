@@ -405,7 +405,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Vectra](https://www.vectra.ai/about/jobs) | San Jose, Boston, Austin, Remote | [Data Engineering Internship](https://www.vectra.ai/about/jobs?gh_jid=4534120), [Data Science Internship](https://www.vectra.ai/about/jobs?gh_jid=4534154), [Software Engineering Internship](https://www.vectra.ai/about/jobs?gh_jid=4514511) |
 | LaunchDarkly | Remote | **🔒 Closed 🔒** Backend Engineering Intern, Internal Tools, Data Engineering Intern, Data Scientist Intern |
 | [Invoca](https://www.invoca.com/company/job-listings?gh_jid=6101463002) | Remote, Santa Barbara | **🔒 Closed 🔒** Data Science Internship |
-| [ebay](https://app.ripplematch.com/job/ebay/b82bd209/) | Multiple Locations | Software Engineering Intern |
+| ebay | Multiple Locations | **🔒 Closed 🔒** Engineering Intern |
 | [Oscar Health](https://www.hioscar.com/careers/4593272) | Remote | Software Engineering Intern 2023 |
 | [Wisk](https://jobs.lever.co/wisk/4d2f1a07-8f6e-4243-ad2d-ebea17e390a9) | Remote | Software Engineer Intern - Full Stack |
 | [Nuance](https://nuance.wd1.myworkdayjobs.com/en-US/Nuance/job/Burlington-Massachusetts-US/Software-Development-Intern_106794) | Burlington, MA | Software Development Intern |
