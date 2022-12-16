@@ -603,6 +603,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Takeda](https://www.takedajobs.com/job/-/-/1113/41541695120) | Boston, MA | 2023 Summer Internship - Statistical Programming (No Sponsorship) |
 | [Q2](https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Austin-TX/Software-Engineering-Intern_REQ-8550) | Austin, TX | Software Engineering Intern |
 | [D.R. Horton](https://drhorton.taleo.net/careersection/campus/jobdetail.ftl?job=2205844&lang=en) | Arlington, TX | Summer 2023 IT Intern - Software Development |
+| [Navy Federal Credit Union](https://nfcucareers.ttcportals.com/jobs/10865239-summer-intern-data-science) | Vienna, VA | Summer Intern (Data Science) |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
