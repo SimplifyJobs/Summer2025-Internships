@@ -598,6 +598,14 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Expensify](https://we.are.expensify.com/full-stack-engineering-intern) | Remote | Software Engineer Internship |
 | [Corsair](https://edix.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions?keyword=intern) | Milpitas, CA | [Front-end intern](https://edix.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/7103?utm_medium=jobshare), [Product Management intern](https://edix.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/7111?utm_medium=jobshare) |  
 | [Johnson Controls](https://jci.wd5.myworkdayjobs.com/JCI/job/Fishers-Indiana-United-States-of-America/Software-Engineering-Intern_WD30159525) | Fishers, IN  | Software Engineering Intern (US Citizenship or Legal Right to Work in US) |
+| Panasonic | Irvine, CA | [Software Engineering Summer 2023 Intern (Embedded Software)](https://careers.na.panasonic.com/careers/software-engineering-summer-2023-intern-embedded-software-irvine-ca) <br> [Software Engineering Summer 2023 Intern – Test Platform](https://careers.na.panasonic.com/careers/software-engineering-summer-2023-intern-test-platform-irvine-ca) <br> [Software Engineering Summer Intern – Device Verification SW](https://careers.na.panasonic.com/careers/software-engineering-summer-intern-device-verification-sw-irvine-ca) |
+| [Nasuni](http://jobs.jobvite.com/nasuni/job/oUuqlfwT) | Boston, MA | Software Engineering Intern - Team Fast |
+| [Takeda](https://www.takedajobs.com/job/-/-/1113/41541695120) | Boston, MA | 2023 Summer Internship - Statistical Programming (No Sponsorship) |
+| [Q2](https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Austin-TX/Software-Engineering-Intern_REQ-8550) | Austin, TX | Software Engineering Intern |
+| [D.R. Horton](https://drhorton.taleo.net/careersection/campus/jobdetail.ftl?job=2205844&lang=en) | Arlington, TX | Summer 2023 IT Intern - Software Development |
+| [Navy Federal Credit Union](https://nfcucareers.ttcportals.com/jobs/10865239-summer-intern-data-science) | Vienna, VA | Summer Intern (Data Science) |
+| [Businessolver](https://www.businessolver.com/who-we-are/careers/open-positions?gh_jid=4575463&gh_src=r7dx8v1) | Remote, US | Software Engineering Internship |
+| [JLL](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Chicago-IL/Software-Engineering-Summer-2023-Internship----Remote--Chicago--IL-_REQ263550-1) | Remote, US | Software Engineering Summer 2023 Internship - Remote |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
