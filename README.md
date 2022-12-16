@@ -600,6 +600,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Johnson Controls](https://jci.wd5.myworkdayjobs.com/JCI/job/Fishers-Indiana-United-States-of-America/Software-Engineering-Intern_WD30159525) | Fishers, IN  | Software Engineering Intern (US Citizenship or Legal Right to Work in US) |
 | Panasonic | Irvine, CA | [Software Engineering Summer 2023 Intern (Embedded Software)](https://careers.na.panasonic.com/careers/software-engineering-summer-2023-intern-embedded-software-irvine-ca) <br> [Software Engineering Summer 2023 Intern – Test Platform](https://careers.na.panasonic.com/careers/software-engineering-summer-2023-intern-test-platform-irvine-ca) <br> [Software Engineering Summer Intern – Device Verification SW](https://careers.na.panasonic.com/careers/software-engineering-summer-intern-device-verification-sw-irvine-ca) |
 | [Nasuni](http://jobs.jobvite.com/nasuni/job/oUuqlfwT) | Boston, MA | Software Engineering Intern - Team Fast |
+| [Takeda](https://www.takedajobs.com/job/-/-/1113/41541695120) | Boston, MA | 2023 Summer Internship - Statistical Programming |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
