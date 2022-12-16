@@ -581,7 +581,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Replit](https://jobs.ashbyhq.com/replit/a58449ef-4cc9-4959-a878-ab0890cb1e01) | US or Canada | General Summer Internship application for all teams |
 | [RTI](https://boards.greenhouse.io/rti/jobs/4719368) | Sunnyvale, CA | Application Engineer, Intern (must be US citizen) |
 | Ntrepid | Herndon, VA or remote | **🔒 Closed 🔒** Software Engineer Intern (US citizenship required) |
-| [Cyberark](https://careers.cyberark.com/job/Identity-Software-Engineer-Intern-CA/830452601/) | US | Identity Software Engineer Intern |
+| Cyberark | US | **🔒 Closed 🔒** Identity Software Engineer Intern |
 | [Pegasystems](https://www.pega.com/about/careers/job-listings?f[0]=category%3A24376) | Multiple Locations | Multiple summer internship for SWE, UI, UX, etc. |
 | [ULINE](https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Software-Developer-Internship---Summer-2023_R224467) | Pleasant Prairie, WI | Software Developer Internship (no sponsorship) |
 | Hudl | Multiple Locations or remote | **🔒 Closed 🔒** Summer internships for [SWE](https://boards.greenhouse.io/hudl/jobs/4592228) and [Data](https://boards.greenhouse.io/hudl/jobs/4714755) |
