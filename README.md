@@ -432,7 +432,6 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Cargill](https://careers.cargill.com/job/-/-/23251/34538432160) | Hopkins, MN; or Paul-Bloomington, MN | Software Engineering Intern 2023 (No Sponsorship) |
 | Ibotta | Remote, USA | **🔒 Closed 🔒** Software Engineer Intern |
 | [Norfolk Southern Corp.](https://jobs.nscorp.com/job/Atlanta-Fullstack-Application-Development-Intern-2023-GA-30308/945936900/) | Atlanta, GA | Fullstack Application Development Intern 2023 |
-| Johnson Controls | Multiple Locations (Milwaukee, WI / Seattle, WA / Sunnyvale, CA)  | **🔒 Closed 🔒** Software Engineering Intern |
 | Lenovo | Morrisville, NC  | **🔒 Closed 🔒** Frontend Development Intern, QA Automation Intern|
 | Zendesk | Remote, USA | **🔒 Closed 🔒** 2023 Summer Intern - Software Engineering |
 | Intapp | Charlotte, NC | **🔒 Closed 🔒** Software Engineer Intern |
@@ -598,6 +597,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Commvault](https://careers.commvault.com/us/en/search-results?keywords=intern) | Remote | Various internship roles in Software Development, UX, etc. |
 | [Expensify](https://we.are.expensify.com/full-stack-engineering-intern) | Remote | Software Engineer Internship |
 | [Corsair](https://edix.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions?keyword=intern) | Milpitas, CA | [Front-end intern](https://edix.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/7103?utm_medium=jobshare), [Product Management intern](https://edix.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/7111?utm_medium=jobshare) |  
+| [Johnson Controls](https://jci.wd5.myworkdayjobs.com/JCI/job/Fishers-Indiana-United-States-of-America/Software-Engineering-Intern_WD30159525) | Fishers, IN  | Software Engineering Intern (US Citizenship or Legal Right to Work in US) |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
