@@ -146,7 +146,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Quantcast](https://jobs.lever.co/quantcast/54c549a1-10cc-4942-8765-c7ffdf253b1d) | San Francisco, CA | Software Engineering Intern |
 | [Belvedere Trading](https://jobs.lever.co/belvederetrading/5098c277-d2a6-41eb-ab9c-b80ded219154) | Chicago, IL | Software Engineering Intern |
 | [Jump Trading](https://www.jumptrading.com/careers/?locations=Chicago+Austin+New-York+New-Jersey+Remote+Cranberry-Township&titleSearch=campus+intern) | Chicago, IL | [Campus \| Software Engineer 2023 (Summer Intern)](https://www.jumptrading.com/careers/4452653/) <br> [Campus \| FPGA Engineer 2023 (Summer Intern)](https://www.jumptrading.com/careers/4471649/) <br> [Campus \| Tech Ops Engineer 2023 (Intern)](https://www.jumptrading.com/careers/4387580/) <br> [Campus \| Data Engineer 2023 (Summer Intern)](https://www.jumptrading.com/careers/4471685/) <br> [Campus \| Web Dev / UI Software Engineer 2023 (Summer Intern)](https://www.jumptrading.com/careers/4471639/) |
-| Databricks | San Francisco, Seattle | **🔒 Closed 🔒** Software Engineering Intern |
+| [Databricks](https://www.databricks.com/company/careers/open-positions/) | San Francisco, Mountain View, CA | [Security Software Engineering Intern](https://www.databricks.com/company/careers/open-positions/job?gh_jid=6499571002), [IT Automation intern](https://www.databricks.com/company/careers/open-positions/job?gh_jid=6416905002) |
 | [American Express](https://aexp.eightfold.ai/careers/job?domain=aexp.com&pid=12787284) | Multiple Locations | 2023 Technology Software Engineer Summer Internship (no sponsorship) |
 | Klaviyo | Remote | **🔒 Closed 🔒** Summer 2023 Software Engineer Intern (No visa sponsorship)|
 | Starbucks | Arizona, Seattle | **🔒 Closed 🔒** Summary 2023 Technology undergraduate intern |
@@ -606,6 +606,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Navy Federal Credit Union](https://nfcucareers.ttcportals.com/jobs/10865239-summer-intern-data-science) | Vienna, VA | Summer Intern (Data Science) |
 | [Businessolver](https://www.businessolver.com/who-we-are/careers/open-positions?gh_jid=4575463&gh_src=r7dx8v1) | Remote, US | Software Engineering Internship |
 | [JLL](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Chicago-IL/Software-Engineering-Summer-2023-Internship----Remote--Chicago--IL-_REQ263550-1) | Remote, US | Software Engineering Summer 2023 Internship - Remote |
+| [Western Digital (WD)](https://careers.smartrecruiters.com/WesternDigital/?search=intern) | San Jose, CA | [System Design Verification Engineering Intern](https://jobs.smartrecruiters.com/WesternDigital/743999857498066-system-design-verification-engineering-intern)
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
