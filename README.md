@@ -93,7 +93,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Lockheed Martin](https://www.lockheedmartinjobs.com/job/-/-/694/35880434816) | Fort Worth, Texas | Software Engineer - Intern (US Citizenship required) |
 | [Freddie Mac](https://careers.freddiemac.com/us/en/job/JR7788/Multifamily-Software-Developer-Intern-Hybrid-or-Remote-Work-Schedule) | McLean, VA (Remote Available) | Multifamily Software Developer Intern |
 | Jane Street | New York | **🔒 Closed 🔒** Software Engineer Summer Internship 2023
-| Asana | San Francisco, New York City, Vancouver | 🔒 Closed 🔒 Summer 2023 Engineering Internship, [Summer 2023 Data Science Internship](https://asana.com/jobs/apply/4613917?gh_jid=4613917&gh_src=403389e31us)|
+| Asana | San Francisco, New York City, Vancouver | 🔒 Closed 🔒 SWE Internship, [Data Science Internship](https://asana.com/jobs/apply/4613917?gh_jid=4613917&gh_src=403389e31us)|
 | Seven Eight Capital | New York, Boston, Stamford | **🔒 Closed 🔒** Software Engineer Internship
 | [Databento](https://boards.greenhouse.io/databento/jobs/4374815?)| Remote | SWE Intern (H1B sponsorship available)
 | ServiceNow| Remote | **🔒 Closed 🔒** Database Software Engineer Intern
