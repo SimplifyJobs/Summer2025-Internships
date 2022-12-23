@@ -175,7 +175,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Qvest](https://jobs.lever.co/qvest.us/8dc881a8-45fe-45e2-ab2e-eff6618f7f28/) | Austin, Texas | Software Engineering Intern (cover letter required) |
 | [Trihydro Corporation](https://trihydro.hua.hrsmart.com/hr/ats/Posting/view/672) | Laramie, WY | Software Developer Intern|
 | [Datadog](https://app.ripplematch.com/job/datadog/692468c7/) | New York, Boston | Software Engineer Intern |
-| [Paypal](https://paypal.eightfold.ai/careers/job?domain=paypal.com&query=intern&pid=274890684413&Job%20Category=&Country=) | Multiple Locations in United States  | Software Engineer Intern |
+| Paypal | Multiple Locations in United States  | **🔒 Closed 🔒** Software Engineer Intern |
 | [NetApp](https://netapp.eightfold.ai/careers?seniority=Intern&pid=12955970&domain=netapp.com&triggerGoButton=false) | Multiple (USA) | Software Engineering Intern |
 | Benchling | San Francisco, CA | **🔒 Closed 🔒** Software Engineer Intern |
 | Scale AI | San Francisco, CA | **🔒 Closed 🔒** Software Engineering Intern |
@@ -606,7 +606,8 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Navy Federal Credit Union](https://nfcucareers.ttcportals.com/jobs/10865239-summer-intern-data-science) | Vienna, VA | Summer Intern (Data Science) |
 | [Businessolver](https://www.businessolver.com/who-we-are/careers/open-positions?gh_jid=4575463&gh_src=r7dx8v1) | Remote, US | Software Engineering Internship |
 | [JLL](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Chicago-IL/Software-Engineering-Summer-2023-Internship----Remote--Chicago--IL-_REQ263550-1) | Remote, US | Software Engineering Summer 2023 Internship - Remote |
-| [Western Digital (WD)](https://careers.smartrecruiters.com/WesternDigital/?search=intern) | San Jose, CA | [System Design Verification Engineering Intern](https://jobs.smartrecruiters.com/WesternDigital/743999857498066-system-design-verification-engineering-intern)
+| [Western Digital (WD)](https://careers.smartrecruiters.com/WesternDigital/?search=intern) | San Jose, CA | [System Design Verification Engineering Intern](https://jobs.smartrecruiters.com/WesternDigital/743999857498066-system-design-verification-engineering-intern) |
+| [Salesforce x CodePath](https://info.codepath.org/futureforce-tech-launchpad) | San Francisco, CA | [Futureforce Tech Launchpad (rising juniors, class of '25)](https://apply.codepath.org/cohorts/immersive-summer-2023/versions/salesforce/) |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
