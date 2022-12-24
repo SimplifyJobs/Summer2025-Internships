@@ -320,11 +320,11 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Qualcomm](https://qualcomm.wd5.myworkdayjobs.com/en-US/External/job/San-Diego-USA/Software-Engineering-Internship---Summer-2023_3042986) | San Diego, CA; or Boulder, CO; or Boxborough, MA; or Santa Clara, CA; or Austin, TX | Software Engineering Internship - Summer 2023 |
 | [Guidewire](https://careers.guidewire.com/job/76acec73-8be6-5e85-992c-6f4afca84434) | Bedford, MA; or Exton, PA; or Birmingham, AL; or San Mateo, CA | Summer 2023 Software Engineering Intern - Multiple Locations |
 | [84.51°](https://boards.greenhouse.io/8451university) | Cincinnati, Chicago | Software Engineer - Internship Program 2023 |
-| [Akamai](https://app.ripplematch.com/job/Akamai/c41ee243/) | Various - Cambridge, Portland, Santa Clara, Fort Lauderdale | Software Engineer Intern |
+| Akamai | Various - Cambridge, Portland, Santa Clara, Fort Lauderdale | **🔒 Closed 🔒** Software Engineer Intern |
 | Amplitude | Vancouver, Canada | **🔒 Closed 🔒** Software Engineer Intern |
 | [Appian](https://app.ripplematch.com/job/Appian/66c4ef95/) | McLean, VA | Software Engineer Intern|
 | Belden | Santa Clara, CA | **🔒 Closed 🔒** R&D Software Technical Internship Program |
-| [DraftKings](https://app.ripplematch.com/job/DraftKings/729234b8/) | Boston, MA | Software Engineering Intern |
+| DraftKings | Boston, MA | **🔒 Closed 🔒** Software Engineering Intern |
 | [Ginkgo Bioworks](https://app.ripplematch.com/job/Ginkgo_Bioworks/a3363831/) | Boston, MA | Software Engineering Intern |
 | [Huntington Ingalls Industries](https://careers.huntingtoningalls.com/job/Newport-News-IT-INTERN-Virg/931374600/) | Norfolk, VA | IT intern, [Engineering Internship](https://careers.huntingtoningalls.com/job/Newport-News-ENGRG-INTERN-Virg/931373000/)|
 | [Nutanix](https://nutanix.eightfold.ai/careers?query=software%20intern&pid=13280687&domain=nutanix.com) | Remote | Software Defined Network Engineering Intern, Database Engineering Intern, Hybrid Cloud Engineering Intern, and other various SWE roles|
