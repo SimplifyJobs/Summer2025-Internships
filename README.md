@@ -194,14 +194,14 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | Workiva | Multiple Locations in the US | **🔒 Closed 🔒** Software Engineer Intern (No Sponsorship)|
 | [Gallup](https://gallup.taleo.net/careersection/2/jobsearch.ftl) | Omaha, NE |**🔒 Closed 🔒** Technical Project Manager, Cybersecurity Analyst, Data Science, Quality Assurance, Software Developer|
 | [Intel](https://intel.wd1.myworkdayjobs.com/en-US/External?q=software%20intern) | Folsom, CA | [Software PEY intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Software-Engineer---PEY-Intern_JR0238115)<br>[Open Source intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Software-Intern_JR0237530)<br>[Graphics Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Undergraduate-Internship---Graphics-Software-Engineer_JR0206774)<br>[Data Science Intern](https://jobs.intel.com/job/phoenix/undergraduate-internship-data-science-bachelors/41147/35292794560)<br> (more roles on site) |
-| [Dell](https://dell.wd1.myworkdayjobs.com/ExternalNonPublic/job/Round-Rock-Texas-United-States/Software-Engineer-Intern_R206227) | Round Rock, Texas or Hopkinton, Massachusetts | Software Engineer Intern |
-| [Neuralink](https://boards.greenhouse.io/neuralink/jobs/5285389003) | Fremont, CA | Software Engineering Intern |
+| Dell| Round Rock, Texas or Hopkinton, Massachusetts | **🔒 Closed 🔒** Software Engineer Intern |
+| Neuralink | Fremont, CA | **🔒 Closed 🔒** Software Engineering Intern |
 | [Rivian](https://boards.greenhouse.io/rivian/jobs/5303129003) | Irvine, CA + Remote | **🔒 Closed 🔒** Product Development Engineering Interns, [Software Engineer Intern](https://boards.greenhouse.io/rivian/jobs/5303129003) |
-| [Zillow](https://zillowgroup.eightfold.ai/careers/job/240531418207?domain=zillowgroup.com) | Remote | Software Development Engineer Intern |
+| Zillow | Remote | **🔒 Closed 🔒** Software Development Engineer Intern |
 | [Taboola](https://www.taboola.com/careers/job/frontend-engineer-intern?gh_jid=4498767) | LA, CA | Frontend Engineer Intern |
 | [Arrowstreet Capital](https://arrowstreetcapital.wd5.myworkdayjobs.com/en-US/Arrowstreet?q=intern) | Boston, MA | Quantitative Developer Intern, Quantitative Researcher Intern |
-| [Deloitte](https://apply.deloitte.com/careers/JobDetail/Deloitte-Risk-Financial-Advisory-Software-Engineer-Intern-Technology-Assets-Summer-2023/114948) | Multiple Locations | Deloitte Risk & Financial Advisory Software Engineer Intern |
-| [Linkedin](https://www.linkedin.com/jobs/view/3307377842)| Sunnyvale, CA |  Software Engineering Intern - Summer 2023|
+| Deloitte | Multiple Locations | **🔒 Closed 🔒** Deloitte Risk & Financial Advisory Software Engineer Intern |
+| Linkedin| Sunnyvale, CA |  **🔒 Closed 🔒** Software Engineering Intern - Summer 2023|
 | Stripe | Multiple Locations | **🔒 Closed 🔒** Software Engineer Intern (Seattle, San Francisco, New York, Dublin, Singapore) |
 | [Discover Financial Services](https://jobs.discover.com/job-search/?keyword=internship&department=&page=&location=&remoteOnly=) | Multiple Locations (IL, TX, UK) | Business Technology, Data & Analytics Internship (No Sponsorship) |
 | Hubspot | Multiple Locations + Remote | **🔒 Closed 🔒** Software Engineer Intern |
