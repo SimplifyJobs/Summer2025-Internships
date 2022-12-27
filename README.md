@@ -69,9 +69,9 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | Putnam Investments | Boston, MA  |   **🔒 Closed 🔒**  Software Engineer Intern |
 | SIG | Philadelphia, PA                    | [Software Engineering Intern](https://careers.sig.com/job/6228/Software-Engineering-Internship-Program-Summer-2023), Trading Intern This |
 | Volvo | Flexible | **🔒 Closed 🔒** |
-| [Voloridge Investment Management](https://www.voloridge.com/join-our-team)| South Florida | Quant Hedge Fund: Quant, SWE, & Finance roles |
+| Voloridge Investment Management| South Florida |  **🔒 Closed 🔒** Quant Hedge Fund: Quant, SWE, & Finance roles |
 | GE Appliances | Louisville, KY  |  **🔒 Closed 🔒** IT Intern |
-| [KeyBank](https://keybank.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/401-Plymouth-Road-Suite-600-Plymouth-Meeting-PA/Summer-2023-Key-Technology--Operations---Services-Internship--Enterprise-Secruity-Track-_R-10996?codes=IND)      | Plymouth, PA; or San Diego, CA  | Key Technology, Operations & Services Internship (Enterprise Security Track) @ Plymouth, PA |
+| KeyBank | Plymouth, PA; or San Diego, CA  | **🔒 Closed 🔒** Key Technology, Operations & Services Internship (Enterprise Security Track) @ Plymouth, PA |
 | John Deere | Moline, IL        | **🔒 Closed 🔒** IT - Software Engineering & Cyber Security  (sponsorship NOT available)                |
 | Microsoft Neurodiversity Hiring Program	| Redmond, WA	| **🔒 Closed 🔒**	|
 | [Cisco (Meraki)](https://jobs.cisco.com/jobs/ProjectDetail/Full-Stack-Software-Engineer-Intern-Summer-2023-Meraki/1368018?source=Cisco+Jobs+Career+Site&tags=CDC+SnNG+interview-tips) | San Francisco | Full Stack Software Engineer Intern (Implicitly offer no sponsorship to international student) |
@@ -84,13 +84,13 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | Tower Research Capital| New York, NY, Chicago, IL | **🔒 Closed 🔒** Quantitative Trader, Quantitative Developer | |
 | [Mastercard](https://careers.mastercard.com/us/en/job/R-173598/Software-Engineer-Intern)|  Multiple locations in United States | Software Engineer Intern, Information Security Engineer Intern |
 | [Citadel](https://www.citadel.com/careers/open-opportunities/students/internships/)| Chicago, New York | Software Engineer Intern and Quant Research Analyst|
-| [Neocis](https://www.neocis.com/careers/?gnk=job&gni=8a7887ac81818f790181a70be60322fb&lang=en)| Miami, FL | Software Engineering Internship |
+| Neocis| Miami, FL | **🔒 Closed 🔒** Software Engineering Internship |
 | [Hewlett Packard Enterprise](https://careers.hpe.com/us/en/search-results?keywords=software%20intern) | Multiple Locations in United States | Software Developer Intern, Software Engineering Intern, [AI/ML Intern](https://careers.hpe.com/us/en/job/HPE1US1135450EXTERNALENUS/Artificial-Intelligence-AI-Machine-Learning-ML-Intern), [Data Science Intern](https://careers.hpe.com/us/en/job/HPE1US1135416EXTERNALENUS/Data-Science-Intern)
 | Ocient | Remote | **🔒 Closed 🔒** Software Engineer Internship
 | Blackstone | Miami, New York | **🔒 Closed 🔒** Software Developer Summer Analyst (undergrad) |
-| [Northrop Grumman](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/details/College-Intern-Administrative---Documentation_R10064554-1?q=software%20engineer&workerSubType=a111b0a898f10129e4db58f2e700d97a) | Various | Software Engineer Intern (US Citizenship Required) |
+| Northrop Grumman | Various |  **🔒 Closed 🔒** Software Engineer Intern (US Citizenship Required) |
 | [Oracle](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions?keyword=software+engineer+intern) | United States | (Multiple Software Engineer Interns - Application Developments/Analytics Cloud/DB and Systems/Netsuite, etc. (CPT/OPT Work Authorization available))
-| [Lockheed Martin](https://www.lockheedmartinjobs.com/job/-/-/694/35880434816) | Fort Worth, Texas | Software Engineer - Intern (US Citizenship required) |
+| Lockheed Martin | Fort Worth, Texas | **🔒 Closed 🔒** Software Engineer - Intern (US Citizenship required) |
 | [Freddie Mac](https://careers.freddiemac.com/us/en/job/JR7788/Multifamily-Software-Developer-Intern-Hybrid-or-Remote-Work-Schedule) | McLean, VA (Remote Available) | Multifamily Software Developer Intern |
 | Jane Street | New York | **🔒 Closed 🔒** Software Engineer Summer Internship 2023
 | Asana | San Francisco, New York City, Vancouver | 🔒 Closed 🔒 Software Engineering, Data Science Internships|
@@ -105,7 +105,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | Vanta | New York, NY | **🔒 Closed 🔒** SWE Internship
 | L3Harris Technologies | Amityville, NY | **🔒 Closed 🔒** Software Engineer Intern (US Government Security Clearance needed)
 | Pixar Animation Studios | Emeryville, CA | **🔒 Closed 🔒** Software Engineer Intern (no visa sponsorship)
-| [PNC](https://careers.pnc.com/global/en/job/PNC1GLOBALR112729/Technology-Summer-Intern-Program?utm_source=symphonytalentmpx&utm_medium=phenom-feeds) | Various | Technology Summer Intern Program |
+| PNC| Various | **🔒 Closed 🔒** Technology Summer Intern Program |
 | PWC | Various | **🔒 Closed 🔒** Technology Consulting Intern (STEM extension for H1B possible) |
 | [Arrowstreet Capital](https://arrowstreetcapital.wd5.myworkdayjobs.com/en-US/Arrowstreet/job/Boston/Quantitative-Researcher-Intern--Summer-2023_R700) | Boston, MA | Quantitative Researcher Intern |
 | Valkyrie | Chicago, IL | **🔒 Closed 🔒** Software Engineer Intern
@@ -131,7 +131,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Vanguard](https://www.vanguardjobs.com/job-search-results/?keyword=intern&category=Technology)| Malvern, PA, Charlotte, NC | Software Eng Intern (No sponsorships) |
 | Nvidia| Santa Clara, Remote | **🔒 Closed 🔒**  SWE Intern |
 | [The Vendry](https://jobs.lever.co/vendry/911401c3-9f06-4719-bc26-e3ac34207e67) | New York, NY | Software Development Internship |
-| [YugaByte](https://www.yugabyte.com/careers) | North America | Software Engineer Intern - Core Database <br> [Software Engineer Intern (Backend) - Cloud Infrastructure](https://jobs.lever.co/yugabyte/4d4d3eb0-5c17-4177-86ad-fbfaf9cb6fec) <br> [Software Engineer Intern (Frontend) - Cloud Infrastructure](https://jobs.lever.co/yugabyte/9722ed9e-a35a-429c-abea-2791ca679fb6)|
+| YugaByte | North America |  **🔒 Closed 🔒** Software Engineer Intern - Core Database <br> [Software Engineer Intern (Backend) - Cloud Infrastructure](https://jobs.lever.co/yugabyte/4d4d3eb0-5c17-4177-86ad-fbfaf9cb6fec) <br> [Software Engineer Intern (Frontend) - Cloud Infrastructure](https://jobs.lever.co/yugabyte/9722ed9e-a35a-429c-abea-2791ca679fb6)|
 | KLA| Ann Arbor, Michigan | **🔒 Closed 🔒** SWE Intern |
 | Qualtrics | Various | **🔒 Closed 🔒** Software Engineering Intern (no sponsorships available) |
 | Neighbor | LEHI, UTAH | **🔒 Closed 🔒** Software Engineering Intern (On-site) |
