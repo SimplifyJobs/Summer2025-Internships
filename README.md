@@ -537,7 +537,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [S&P Global](https://careers.spglobal.com/jobs/278490) | New York, NY or Raleigh, NC | Summer Internship –Technology – Software Engineer Intern |
 | [Moody's](https://careers.moodys.com/job/16818557/2023-engineering-technology-summer-internship-us-charlotte-nc) | Multiple Locations | 2023 Engineering  & Technology Summer Internship | 
 | [Pimco](https://pimco.wd1.myworkdayjobs.com/en-US/pimco-careers/job/Austin-TX-USA/XMLNAME-2023-SIP-Technology-Analyst--Software-Engineering_R101897?ref=levels.fyi&workerSubType=6e192a3f175201c5a610087a5209cf10) | Austin, TX or Newport Beach, CA | 2023 Summer Intern - Software Engineer, US |
-| Microsoft | Multiple | [Software Engineering Intern](https://careers.microsoft.com/us/en/job/1388845), [Data & Applied Sciences Intern](https://careers.microsoft.com/students/us/en/job/1371270/Data-Applied-Sciences-Intern-Opportunities-for-University-Students), [Explore Intern](https://careers.microsoft.com/students/us/en/job/1388848/Explore-Microsoft-Intern-Opportunities-for-University-Students) |
+| Microsoft | Multiple | **🔒 Closed 🔒** Software Engineering Intern, Data & Applied Sciences Intern, Explore Intern |
 | [Boeing](https://jobs.boeing.com/job/hood-river/intern-software-engineering/185/37781184528) | Hood River, Oregon | 🔒 Closed 🔒 Intern - Software Engineering |
 | [Prelim](https://jobs.lever.co/prelim/dcc63d39-57f4-412e-9581-f5a93f2cf5b7) | US Remote | Software Engineer - Intern |
 | [midmark](https://hcor.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1556?utm_medium=jobshare) | Irvine, CA | Software Engineer Co-Op |
