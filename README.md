@@ -270,7 +270,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Compass Minerals](https://cmiinc.taleo.net/careersection/ex/jobdetail.ftl?job=220000A4&lang=en) | Remote, USA; or Overland Park, KS | Software Engineer Intern (Starts Summer 2023) |
 | [Anduril](https://jobs.lever.co/anduril/) | Costa Mesa, CA | [Software Engineering](https://jobs.lever.co/anduril/d15840b6-081b-4d4c-95ed-008d681b4f7f), [Robotics Software Engineering](https://jobs.lever.co/anduril/c6d4fc93-2be9-4018-8160-4f490d11328c) (US Person Status Required) |
 | [Wolverine](https://jobs.lever.co/wolve/4a6fd0be-6bb7-4bbb-9dd5-1416d6a5f5b7) | Chicago, IL | Software Engineer Intern (Summer 2023) (No Sponsorship) |
-| [Pure Storage](https://boards.greenhouse.io/purestorage/jobs/4462754) | Mountain View, CA | Software Engineer Intern (for Summer 2023) |
+| [Pure Storage] | Mountain View, CA | **🔒 Closed 🔒** Software Engineer Intern (for Summer 2023) |
 | DeepMind | Mountain View, CA | **🔒 Closed 🔒** Research Engineer Intern |
 | [Symbiotic](https://symbotic.wd1.myworkdayjobs.com/en-US/Symbotic/job/USA-Wilmington--MA---HQ/Intern--Software-Engineer_R1635) | Wilmington, MA  | Software Engineer Intern |
 | [WillowTree](https://boards.greenhouse.io/willowtree/jobs/6320082002) | Charlottesville, VA; Columbus, OH; Durham, NC | Software Engineering Intern (no visa sponsorship) | 
