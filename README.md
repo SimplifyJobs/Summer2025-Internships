@@ -561,7 +561,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | Enable Medicine | San Francisco, CA or New York City, NY | Software Engineer Intern for [NYC summer](https://enablemedicine.pinpointhq.com/en/jobs/75390), [SF summer](https://enablemedicine.pinpointhq.com/en/jobs/75389), [NYC spring](https://enablemedicine.pinpointhq.com/en/jobs/75391), [SF spring](https://enablemedicine.pinpointhq.com/en/jobs/75388) |
 | [BorgWarner](https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Auburn-Hills---Michigan---USA/Web-Application-Intern_R2022-7875) | Auburn Hills, MI | Web Application Intern (must be currently authorized) |
 | [DriveTime](https://drivetime.wd1.myworkdayjobs.com/en-US/DriveTime/job/Data-Science-Intern_R2269) | Tempe, AZ or Dallas, TX | Data Science Intern |
-| [Affirm](https://boards.greenhouse.io/affirm/jobs/5365385003) | Remote | Security Software Engineer Intern  |
+| Affirm | Remote | **🔒 Closed 🔒** Security Software Engineer Intern  |
 | [AIG](https://aig.wd1.myworkdayjobs.com/aig/job/NJ-Jersey-City/XMLNAME-2023---Early-Career---Technology---Summer-Intern---United-States--Jersey-City--NJ--or-Charlotte--NC-_JR2206963-1) | Jersey City, NJ or Charlotte, NC | Early Career - Technology - Summer Intern |
 | Karat | Remote | **🔒 Closed 🔒** Software Engineering Intern |
 | [Rubrik](https://app.ripplematch.com/job/rubrik/4779bc75/) | Palo Alto, CA | Software Engineering Intern |
