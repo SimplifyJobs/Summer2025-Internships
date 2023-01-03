@@ -82,7 +82,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Palantir](https://jobs.lever.co/palantir?commitment=Internship&team=Dev)| Multiple Locations in United States | Early Admissions - Software Engineer, Internship |
 | Tower Research Capital| New York, NY, Chicago, IL | **🔒 Closed 🔒** Quantitative Trader, Quantitative Developer | |
 | [Mastercard](https://careers.mastercard.com/us/en/job/R-173598/Software-Engineer-Intern)|  Multiple locations in United States | Software Engineer Intern, Information Security Engineer Intern |
-| [Citadel](https://www.citadel.com/careers/open-opportunities/students/internships/)| Chicago, New York | Software Engineer Intern and Quant Research Analyst|
+| [Citadel](https://www.citadel.com/careers/open-opportunities/students/internships/)| Chicago, New York | [Software Engineer Intern](https://www.citadel.com/careers/details/software-engineer-intern-us/) and [Quant Research Analyst](https://www.citadel.com/careers/details/quantitative-research-analyst-intern-us-2/)|
 | Neocis| Miami, FL | **🔒 Closed 🔒** Software Engineering Internship |
 | [Hewlett Packard Enterprise](https://careers.hpe.com/us/en/search-results?keywords=software%20intern) | Multiple Locations in United States | Software Developer Intern, Software Engineering Intern, [AI/ML Intern](https://careers.hpe.com/us/en/job/HPE1US1135450EXTERNALENUS/Artificial-Intelligence-AI-Machine-Learning-ML-Intern), [Data Science Intern](https://careers.hpe.com/us/en/job/HPE1US1135416EXTERNALENUS/Data-Science-Intern)
 | Ocient | Remote | **🔒 Closed 🔒** Software Engineer Internship
