@@ -489,7 +489,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | Roche | Santa Clara, CA | **🔒 Closed 🔒** 2023 Summer Intern - Sequencing Software Development |
 | [Ampere Computing](https://amperecomputing.com/apply/?p=job%2FoZvJkfwh) | Santa Clara, CA | Solutions Engineering Intern | 
 | [Leidos](https://careers.leidos.com/jobs/10999482-software-engineer-intern) | Charlottesville, VA | Software Engineer Intern (U.S. Citizenship required) | 
-| [REI](https://rei.jobs/careers/JobDetail/Software-Engineer-Intern-Mobile/26194) | Seattle, WA | Software Engineer Intern -Mobile |
+| REI| Seattle, WA | **🔒 Closed 🔒** Software Engineer Intern -Mobile |
 | [NimbleRx](https://jobs.lever.co/nimblerx/b00faff0-37f7-4707-ac14-b86db266b9f9) | Remote, US | Software Engineer - (Intern) | 
 | [WW](https://ww.wd1.myworkdayjobs.com/careers/job/New-York/XMLNAME-2023-Software-Engineering---Marketing-Internship_R220000002956) | Remote, US; New York, US | 2023 Software Engineering - Marketing Internship | 
 | [Simplify](https://simplify.jobs/p/75bc6274-c19d-441b-8cf8-6f06e0799ad4/Software-Engineer-Intern) | SF, Remote, US | Software Engineer Intern |
@@ -499,7 +499,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Nelnet](https://nelnet.wd1.myworkdayjobs.com/en-US/MyNelnet/job/Remote/Intern---Software-Engineer---Java_R15687) | Remote, US | Intern - Software Engineer - Java |
 | Bubble | New York, NY | **🔒 Closed 🔒** Software Engineer Intern |
 | [Badger Meter](https://badgermeter.wd5.myworkdayjobs.com/en-US/US_CareerSite/job/Milwaukee-WI/Software-Engineering-Intern_2302-1) | Milwaukee, WI | Software Engineering Intern |
-| [Etsy](https://jobs.smartrecruiters.com/Etsy2/743999862202479-software-engineering-intern) | Brooklyn, NY | Software Engineering Intern |
+| Etsy | Brooklyn, NY | **🔒 Closed 🔒** Software Engineering Intern |
 | [McKinsey & Company](https://www.mckinsey.com/careers/search-jobs?query=software%20engineer%20intern) | New York City, NY; or San Francisco, CA |[Data Engineering Intern - QuantumBlack (Only Class of 2023-2024)](https://www.mckinsey.com/careers/search-jobs/jobs/dataengineeringintern-quantumblack-universitystudents-58600), [Software Engineering Intern - GCI Analytics](https://www.mckinsey.com/careers/search-jobs/jobs/softwareengineeringintern-gcianalytics-59688) |
 | [Color](https://jobs.lever.co/color/93e1b4d8-7822-41bc-9d83-f8333cd5230f) | Remote, USA | Software Engineering Intern |
 | [Tealium](https://jobs.lever.co/tealium/01b097dc-a904-448d-8cfc-91a372e2156c) | Remote, USA | Software Engineer, Intern |
