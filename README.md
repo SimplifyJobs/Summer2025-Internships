@@ -66,7 +66,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Optiver](https://www.optiver.com/working-at-optiver/career-opportunities/?filter-level=internship)                                                                                       | Chicago, IL; Austin, TX                          | **🔒 Closed 🔒** Software engineer for [Chicago](https://grnh.se/d61ca1892us) and [Austin](https://grnh.se/c7aa58e22us). Quantitative trading for [Chicago](https://grnh.se/45f58a8d2us) and [Austin](https://grnh.se/da66387c2us). **🔒 Closed 🔒** Hardware engineer for [Chicago](https://grnh.se/23b2990f2us) and [Austin](https://grnh.se/a63825272us). (sponsorship available for most positions-exceptions may apply)                                                                                               |
 | Procter & Gamble | Cincinnati, OH                              |  **🔒 Closed 🔒** Information Technology, Software Engineering (sponsorship NOT available)
 | Putnam Investments | Boston, MA  |   **🔒 Closed 🔒**  Software Engineer Intern |
-| SIG | Philadelphia, PA                    | [Software Engineering Intern](https://careers.sig.com/job/6228/Software-Engineering-Internship-Program-Summer-2023), Trading Intern This |
+| SIG | Philadelphia, PA                    | **🔒 Closed 🔒** [Software Engineering Intern](https://careers.sig.com/job/6228/Software-Engineering-Internship-Program-Summer-2023), Trading Intern This |
 | Volvo | Flexible | **🔒 Closed 🔒** |
 | Voloridge Investment Management| South Florida |  **🔒 Closed 🔒** Quant Hedge Fund: Quant, SWE, & Finance roles |
 | GE Appliances | Louisville, KY  |  **🔒 Closed 🔒** IT Intern |
