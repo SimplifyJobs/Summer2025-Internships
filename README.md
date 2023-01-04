@@ -573,8 +573,8 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | RVO Health | Charlotte, NC | Early Career Talent 2023 Internship for [SWE](https://boards.greenhouse.io/rvohealth/jobs/4108444005) and [Data](https://boards.greenhouse.io/rvohealth/jobs/4109265005) |
 | [Intuitive](https://careers.intuitive.com/us/en/search-results?m=3&keywords=intern) | Sunnyvale, CA (on-site) | [Software Engineer Intern](https://careers.intuitive.com/us/en/job/JOB2716/Software-Engineer-Intern), [Devops Intern](https://careers.intuitive.com/us/en/job/JOB2747/DevOps-Intern), [System Engineer intern](https://careers.intuitive.com/us/en/job/JOB2667/System-Engineer-Intern?utm_source=linkedin&utm_medium=phenom-feeds)
 | Zoom | San Jose, CA | **🔒 Closed 🔒** Software Development, Software Engineering, and PM Internships |
-| [Rippling](https://www.rippling.com/careers/5419467003?gh_jid=5419467003) | San Francisco, CA | Software Engineering Intern, Summer 2023 |
-| [Pacific Northwest National Laboratory](https://careers.pnnl.gov/jobs?keywords=intern&sortBy=relevance&page=1) | Remote | [Undergraduate HPC Intern](https://careers.pnnl.gov/jobs/5931?lang=en-us&iis=Job+Board&iisn=LinkedIn) |
+| Rippling | San Francisco, CA |**🔒 Closed 🔒** Software Engineering Intern, Summer 2023 |
+| Pacific Northwest National Laboratory| Remote |**🔒 Closed 🔒** Undergraduate HPC Intern |
 | [Replit](https://jobs.ashbyhq.com/replit/a58449ef-4cc9-4959-a878-ab0890cb1e01) | US or Canada | General Summer Internship application for all teams |
 | [RTI](https://boards.greenhouse.io/rti/jobs/4719368) | Sunnyvale, CA | Application Engineer, Intern (must be US citizen) |
 | Ntrepid | Herndon, VA or remote | **🔒 Closed 🔒** Software Engineer Intern (US citizenship required) |
