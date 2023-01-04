@@ -448,7 +448,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Nordson](https://nordsonhcm.wd5.myworkdayjobs.com/nordsoncareers/job/USA---Rhode-Island---East-Providence/Software-Engineering-Intern_REQ31856) | Rhode Island, USA | Software Engineering Intern |
 | Blue Origin | Multiple | **🔒 Closed 🔒** Summer 2023: Undergraduate Engineering Intern (US Citizenship/Green Card Required) - Avionics Software, Product Management |
 | Open Systems Technologies | Remote, USA | **🔒 Closed 🔒** Software Developer Intern |
-| [HP](https://jobs.hp.com/jobdetails/14474549/applications-software-engineering-summer-internship-spring-tx/) | Spring, TX | Applications Software Engineering Summer Internship |
+| HP | Spring, TX | **🔒 Closed 🔒** Applications Software Engineering Summer Internship |
 | [Gemini](https://www.gemini.com/jobs/job_id?gh_jid=4615629) | Multiple | **🔒 Closed 🔒** Intern, Software Engineer |
 | [General Dynamics Mission Systems](https://careers-gdms.icims.com/jobs/57649/job) | Dedham, MA | Software Engineering Intern (US Citizenship Required) |
 | OneWeb | Virginia | **🔒 Closed 🔒** Software Development Intern |
