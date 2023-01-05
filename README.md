@@ -575,7 +575,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | Zoom | San Jose, CA | **🔒 Closed 🔒** Software Development, Software Engineering, and PM Internships |
 | Rippling | San Francisco, CA |**🔒 Closed 🔒** Software Engineering Intern, Summer 2023 |
 | Pacific Northwest National Laboratory| Remote |**🔒 Closed 🔒** Undergraduate HPC Intern |
-| [Replit](https://jobs.ashbyhq.com/replit/a58449ef-4cc9-4959-a878-ab0890cb1e01) | US or Canada | General Summer Internship application for all teams |
+| Replit | US or Canada | **🔒 Closed 🔒**  General Summer Internship application for all teams |
 | [RTI](https://boards.greenhouse.io/rti/jobs/4719368) | Sunnyvale, CA | Application Engineer, Intern (must be US citizen) |
 | Ntrepid | Herndon, VA or remote | **🔒 Closed 🔒** Software Engineer Intern (US citizenship required) |
 | Cyberark | US | **🔒 Closed 🔒** Identity Software Engineer Intern |
