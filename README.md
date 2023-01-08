@@ -156,7 +156,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | Redfin | Seattle, Frisco, San Francisco |**🔒 Closed 🔒** Software Developer: 2023 Internship, Data Analyst: 2023 Internship|
 | [F5](https://ffive.wd5.myworkdayjobs.com/en-US/f5jobs/job/Seattle/Summer-2023-Internship---Software-Engineering_RP1026625) | Seattle, Boulder (Louisville), Boston, San Jose | SWE Intern |
 | SeatGeek | New York, NY | **🔒 Closed 🔒** SWE Intern |
-| [GoodYear](https://jobs.goodyear.com/job/Akron-Global-Technology-%28Data-Science-and-Analytics%29-Co-op-Internship-OH-44301/923168600/?feedId=367300) | Akron, OH | Data Science Intern |
+| GoodYear | Akron, OH | **🔒 Closed 🔒** Data Science Intern |
 | Thomson Reuters | Eagan, MN | **🔒 Closed 🔒** SWE Intern (No visa sponsorships)|
 | Proofpoint | Broomfield, CO | **🔒 Closed 🔒** Software Developer Intern |
 | ServiceNow | Santa Clara, CA | **🔒 Closed 🔒** Software Engineering Intern
