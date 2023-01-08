@@ -191,7 +191,6 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | Applied Intuition| Mountain View, CA |  **🔒 Closed 🔒** Software Engineer |
 | Workiva | Multiple Locations in the US | **🔒 Closed 🔒** Software Engineer Intern (No Sponsorship)|
 | [Gallup](https://gallup.taleo.net/careersection/2/jobsearch.ftl) | Omaha, NE |**🔒 Closed 🔒** Technical Project Manager, Cybersecurity Analyst, Data Science, Quality Assurance, Software Developer|
-| [Intel](https://intel.wd1.myworkdayjobs.com/en-US/External?q=software%20intern) | Folsom, CA | [Software PEY intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Software-Engineer---PEY-Intern_JR0238115)<br>[Open Source intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Software-Intern_JR0237530)<br>[Graphics Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Undergraduate-Internship---Graphics-Software-Engineer_JR0206774)<br>[Data Science Intern](https://jobs.intel.com/job/phoenix/undergraduate-internship-data-science-bachelors/41147/35292794560)<br> (more roles on site) |
 | Dell| Round Rock, Texas or Hopkinton, Massachusetts | **🔒 Closed 🔒** Software Engineer Intern |
 | Neuralink | Fremont, CA | **🔒 Closed 🔒** Software Engineering Intern |
 | [Rivian](https://boards.greenhouse.io/rivian/jobs/5303129003) | Irvine, CA + Remote | **🔒 Closed 🔒** Product Development Engineering Interns, [Software Engineer Intern](https://boards.greenhouse.io/rivian/jobs/5303129003) |
@@ -606,6 +605,8 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | JLL | Remote, US | **🔒 Closed 🔒** Software Engineering Summer 2023 Internship - Remote |
 | [Western Digital (WD)](https://careers.smartrecruiters.com/WesternDigital/?search=intern) | San Jose, CA | [System Design Verification Engineering Intern](https://jobs.smartrecruiters.com/WesternDigital/743999857498066-system-design-verification-engineering-intern) |
 | [Salesforce x CodePath](https://info.codepath.org/futureforce-tech-launchpad) | San Francisco, CA | [Futureforce Tech Launchpad (rising juniors, class of '25)](https://apply.codepath.org/cohorts/immersive-summer-2023/versions/salesforce/) |
+| [Intel](https://intel.wd1.myworkdayjobs.com/en-US/External?q=software%20intern) | Various | [FPGA Software Engineering Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-San-Jose/FPGA-Software-Engineering-Intern_JR0235876?q=software+intern) <br> [Software Engineer Graduate Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-San-Jose/Software-Engineer-Graduate-Intern_JR0237862?q=software+intern) <br> [System Software Validation - Undergrad Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Santa-Clara/System-Software-Validation----Undergrad-Intern_JR0232859?q=software+intern) <br> Many more on website. |
+
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
 
