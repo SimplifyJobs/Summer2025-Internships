@@ -129,7 +129,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Vanguard](https://www.vanguardjobs.com/job-search-results/?keyword=intern&category=Technology)| Malvern, PA, Charlotte, NC | Software Eng Intern (No sponsorships) |
 | Nvidia| Santa Clara, Remote | **🔒 Closed 🔒**  SWE Intern |
 | [The Vendry](https://jobs.lever.co/vendry/911401c3-9f06-4719-bc26-e3ac34207e67) | New York, NY | Software Development Internship |
-| YugaByte | North America |  **🔒 Closed 🔒** Software Engineer Intern - Core Database <br> [Software Engineer Intern (Backend) - Cloud Infrastructure](https://jobs.lever.co/yugabyte/4d4d3eb0-5c17-4177-86ad-fbfaf9cb6fec) <br> [Software Engineer Intern (Frontend) - Cloud Infrastructure](https://jobs.lever.co/yugabyte/9722ed9e-a35a-429c-abea-2791ca679fb6)|
+| YugaByte | North America |  **🔒 Closed 🔒** Software Engineer Intern - Core Database <br> Software Engineer Intern (Backend) - Cloud Infrastructure <br> Software Engineer Intern (Frontend) - Cloud Infrastructure |
 | KLA| Ann Arbor, Michigan | **🔒 Closed 🔒** SWE Intern |
 | Qualtrics | Various | **🔒 Closed 🔒** Software Engineering Intern (no sponsorships available) |
 | Neighbor | LEHI, UTAH | **🔒 Closed 🔒** Software Engineering Intern (On-site) |
