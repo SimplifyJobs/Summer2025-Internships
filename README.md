@@ -152,7 +152,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | Fidelity | Boston, MA | **🔒 Closed 🔒** Data Analytics Intern |
 | Cohen & Co | Multiple Locations in the US | **🔒 Closed 🔒** Software Development Internship |
 | Figma | NY, SF | **🔒 Closed 🔒** Software Engineer Intern |
-| [Flatiron Health](https://flatiron.com/careers/open-positions/4454681) | NYC | SWE Intern |
+| [Flatiron Health](https://flatiron.com/careers/open-positions/4454681) | NYC | [SWE Intern](https://flatiron.com/careers/open-positions/4454681) |
 | Redfin | Seattle, Frisco, San Francisco |**🔒 Closed 🔒** Software Developer: 2023 Internship, Data Analyst: 2023 Internship|
 | [F5](https://ffive.wd5.myworkdayjobs.com/en-US/f5jobs/job/Seattle/Summer-2023-Internship---Software-Engineering_RP1026625) | Seattle, Boulder (Louisville), Boston, San Jose | SWE Intern |
 | SeatGeek | New York, NY | **🔒 Closed 🔒** SWE Intern |
