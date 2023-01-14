@@ -592,9 +592,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Intel](https://intel.wd1.myworkdayjobs.com/en-US/External?q=software%20intern) | Various | [FPGA Software Engineering Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-San-Jose/FPGA-Software-Engineering-Intern_JR0235876?q=software+intern) <br> [Software Engineer Graduate Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-San-Jose/Software-Engineer-Graduate-Intern_JR0237862?q=software+intern) <br> [System Software Validation - Undergrad Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Santa-Clara/System-Software-Validation----Undergrad-Intern_JR0232859?q=software+intern) <br> Many more on website. |
 | [Harry's](https://boards.greenhouse.io/harrys/jobs/4798058) | New York, NY | Software Engineering Intern |
 | [Smartsheet](https://www.smartsheet.com/careers-list?location=&department=Internships+-+Summer+2023) | Bellevue, WA | [Security Automation Intern, Security Engineering Team](https://www.smartsheet.com/careers/position/4764695/security-automation-intern-security-engineering-team) |
-| [MyFitnessPal](https://boards.greenhouse.io/myfitnesspal) | Remote | [Android Engineer Intern](https://boards.greenhouse.io/myfitnesspal/jobs/4744056), [iOS Engineer Intern](https://boards.greenhouse.io/myfitnesspal/jobs/4749387)|
-| [RTI](https://boards.greenhouse.io/rti/jobs/4719368) | Sunnyvale, CA | Application Engineer, Intern |
-
+| [MyFitnessPal](https://boards.greenhouse.io/myfitnesspal) | Remote, US | [Android Engineer Intern](https://boards.greenhouse.io/myfitnesspal/jobs/4744056), [iOS Engineer Intern](https://boards.greenhouse.io/myfitnesspal/jobs/4749387)|
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
