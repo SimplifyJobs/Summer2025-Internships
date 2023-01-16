@@ -593,6 +593,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [MyFitnessPal](https://boards.greenhouse.io/myfitnesspal) | Remote, US | [Android Engineer Intern](https://boards.greenhouse.io/myfitnesspal/jobs/4744056), [iOS Engineer Intern](https://boards.greenhouse.io/myfitnesspal/jobs/4749387)|
 | Meta | Menlo Park, Seattle, New York | [Software Engineer Internship/Co-Op](https://www.metacareers.com/jobs/543301834469909/) <br> [Meta University](https://www.metacareers.com/v2/jobs/875414340161910/) (Must be First or Second Year) |
 | [Stryker](https://careers.stryker.com/job-search-results/?keyword=software&location=USA&country=US&radius=25&job_type=Yes) | Varies | Multiple Summer SWE Internships |
+| [Siemens](https://jobs.siemens.com/disw/jobs?page=1&experienceLevels=Student%20(Not%20Yet%20Graduated)&location=united%20states&stretch=0&stretchUnit=MILES&categories=Internal%20Services) | Varies | Multiple Summer SWE Internships |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
