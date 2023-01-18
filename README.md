@@ -199,7 +199,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | Paramount | Multiple Locations (NY, CA) | **🔒 Closed 🔒** Software Engineering Intern |
 | Nuro | Mountain View | Software Engineer (SRE) Intern, [Software Systems Engineer Intern](https://www.nuro.ai/careersitem?gh_jid=4524021&gh_src=bcd22a501us) |
 | [Relativity Space](https://boards.greenhouse.io/relativity/jobs/6363660002?gh_jid=6363660002) | Long Beach, CA | Software Engineer Intern (C/C++) (Requires US citizenship)|
-| [Dropbox](https://www.dropbox.com/jobs/teams/emerging-talent) | Remote (US, Canada) | [Software Engineer Intern](https://www.dropbox.com/jobs/listing/4380645?gh_src=aonhf1), [Data Science Intern](https://www.dropbox.com/jobs/teams/emerging-talent) |
+| [Dropbox](https://www.dropbox.com/jobs/teams/emerging-talent) | Remote (US, Canada) | **🔒 Closed 🔒** [Software Engineer Intern](https://www.dropbox.com/jobs/listing/4380645?gh_src=aonhf1), **🔒 Closed 🔒** [Data Science Intern](https://www.dropbox.com/jobs/teams/emerging-talent) |
 | MongoDB | NY, ATX, SF | **🔒 Closed 🔒** Software Engineer Intern |
 | [Urban Outfitters](https://www.urbn.com/internships) | Philadelphia, PA | **🔒 Closed 🔒** Web Software Engineer Intern, **🔒 Closed 🔒** Network Engineering Intern|
 | [The Washington Post](https://news-engineering.notion.site/WaPo-Engineering-internship-details-resources-application-office-hours-e7a930543e3749988404c73f7e62be78) | Washington, DC and Remote | Software Engineer Intern (no visa sponsorship) |
