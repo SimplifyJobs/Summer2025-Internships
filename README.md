@@ -203,7 +203,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | MongoDB | NY, ATX, SF | **🔒 Closed 🔒** Software Engineer Intern |
 | [Urban Outfitters](https://www.urbn.com/internships) | Philadelphia, PA | **🔒 Closed 🔒** Web Software Engineer Intern, **🔒 Closed 🔒** Network Engineering Intern|
 | [The Washington Post](https://news-engineering.notion.site/WaPo-Engineering-internship-details-resources-application-office-hours-e7a930543e3749988404c73f7e62be78) | Washington, DC and Remote | Software Engineer Intern (no visa sponsorship) |
-| [Pitchbook](https://jobs.jobvite.com/pitchbook/job/ohpTkfwD?__jvst) | Seattle, Washington | Product Management Intern |
+| [Pitchbook](https://boards.greenhouse.io/pitchbookdata/) | Seattle, Washington | [Product Management Summer Intern, Equity Data](https://boards.greenhouse.io/pitchbookdata/jobs/4024637006), [Software Development Engineer Summer Intern (Back End)](https://boards.greenhouse.io/pitchbookdata/jobs/4025237006) |
 | Lucid Software | Remote, US | **🔒 Closed 🔒** Software Engineering Internship, Data Analyst Internship |
 | [SoundHound](https://www.soundhound.com/careers/) | Santa Clara, CA | [Software Engineering Intern, Acoustic Modeling](https://boards.greenhouse.io/soundhoundinc/jobs/6365344002) <br> (Cover letter required) |
 | Slack | San Francisco, CA | **🔒 Closed 🔒** 2023 Summer Intern - Software Engineer |
