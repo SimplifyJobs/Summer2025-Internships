@@ -147,7 +147,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | Convoy | Seattle, WA | **🔒 Closed 🔒**Software Engineer Intern, Business Intelligence Engineer Intern |
 | Lime | SF, CA | **🔒 Closed 🔒** Software Engineering Intern (Summer 2023) |
 | Daikin| Plymouth, MN | **🔒 Closed 🔒** SWE Intern (No Sponsorship) |
-| [Lyft](https://www.lyft.com/careers#openings?category=university) | Multiple Locations in the US | Actuarial intern, Data Science Intern |
+| [Lyft](https://www.lyft.com/careers/early-talent?search=intern) | Multiple Locations in the US | Actuarial intern, Data Science Intern |
 | Optimal Dynamics | New York, NY or Remote | **🔒 Closed 🔒** SWE Intern |
 | Citrix | Ft. Lauderdale, FL; or Remote | **🔒 Closed 🔒** Software Engineer Intern (Summer 2023) |
 | Target | Brooklyn Park, MN | **🔒 Closed 🔒** Software Engineering Intern - Hybrid (Starting June 2023) |
