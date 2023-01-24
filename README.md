@@ -600,6 +600,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | General Atomics | [Boulder, CO](https://www.ga-careers.com/job/boulder/space-software-development-intern/499/41040384016) or [Herndon, VA](https://www.ga-careers.com/job/herndon/software-engineering-intern/499/40645672416) | Software Engineering Intern (must be US citizen) |
 | [Seismic](https://seismic.com/careers/job-detail/?gh_jid=4765666004) | San Diego, CA | Software Engineer Intern |
 | Slalom Build | Atlanta, GA or Chicago, IL | [Software Engineer](https://jobs.slalombuild.com/apex/CandidatePortalBuild?nostate=1#/post/a0h1R00000DE06wQAD) and [Platform Engineer](https://jobs.slalombuild.com/apex/CandidatePortalBuild?nostate=1#/post/a0h1R00000DE07LQAT) Intern |
+| [Spotify](https://jobs.lever.co/spotify/d40b915f-2df6-4f28-822f-34bfaddc4c2b?lever-source=LinkedInJobs) | Remote (Americas) | Backend Engineer Intern |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
