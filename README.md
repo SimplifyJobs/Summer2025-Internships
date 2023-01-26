@@ -602,6 +602,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | Slalom Build | Atlanta, GA or Chicago, IL | [Software Engineer](https://jobs.slalombuild.com/apex/CandidatePortalBuild?nostate=1#/post/a0h1R00000DE06wQAD) and [Platform Engineer](https://jobs.slalombuild.com/apex/CandidatePortalBuild?nostate=1#/post/a0h1R00000DE07LQAT) Intern |
 | [Spotify](https://jobs.lever.co/spotify/d40b915f-2df6-4f28-822f-34bfaddc4c2b?lever-source=LinkedInJobs) | Remote (Americas) | Backend Engineer Intern |
 | [A10 Networks](https://osv-a10networks.wd5.myworkdayjobs.com/en-US/A10CareerSite?jobFamilyGroup=0baf5922437e10337ea79335bfa1a52c) | San Jose, CA | Multiple Software Engineering Internship |
+| [Enveda Biosciences](https://jobs.lever.co/envedabio/866a0ce8-b06f-4b91-bda1-cd83fa7edee6) | Remote | Software Engineering Internship |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
