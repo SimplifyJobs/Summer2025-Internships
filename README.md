@@ -604,6 +604,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [A10 Networks](https://osv-a10networks.wd5.myworkdayjobs.com/en-US/A10CareerSite?jobFamilyGroup=0baf5922437e10337ea79335bfa1a52c) | San Jose, CA | Multiple Software Engineering Internship |
 | [Enveda Biosciences](https://jobs.lever.co/envedabio/866a0ce8-b06f-4b91-bda1-cd83fa7edee6) | Remote | Software Engineering Internship |
 | [Odoo, Inc](https://www.odoo.com/es_ES/jobs/detail/software-engineer-intern-summer-2023-buffalo-ny-1113?utm_campaign=Job+Campaign+%5B291%5D&utm_medium=Website+%5B1%5D&utm_source=handshake+%5B644%5D) | Buffalo, NY | Software Engineer Intern |
+| [Cognizant](https://careers.cognizant.com/us/en/job/COGNGLOBAL40711/Undergraduate-Technology-Intern) | Atlanta, GA; Dallas, TX; Denver, CO or Phoenix, AZ | Undergraduate Technology Intern (no sponsorship) |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
