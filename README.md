@@ -331,7 +331,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Textron](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=1115787) | Huntsville, AL | 2023 Intern - Software Engineer (Air) (US Citizenship Required) |
 | Live Oak Bank | Wilmington, NC | **🔒 Closed 🔒** Software Engineer Intern |
 | Ramp | New York, Miami, Remote  | **🔒 Closed 🔒** Software Engineer Internship - Backend |
-| [Whatnot](https://www.ycombinator.com/companies/whatnot/jobs/Nh9mltA-software-engineering-intern-summer-2022) | Remote | Software Engineering Intern |
+| [Whatnot](https://boards.greenhouse.io/whatnot/jobs/4604514004) | Remote | Software Engineering Intern |
 | [Pattern](https://pattern.breezy.hr/p/47c24165e033-internship-software-engineering) | Lehi, UT | Software Engineering Internship | 
 | Disney | Glendale, CA | **🔒 Closed 🔒** Web Development and Digital Production Internship |
 | Gulfstream | Savannah, GA | **🔒 Closed 🔒** Software, Automation, Applications & Data Systems Intern | 
