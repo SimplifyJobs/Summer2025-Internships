@@ -596,7 +596,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Siemens](https://jobs.siemens.com/disw/jobs?page=1&experienceLevels=Student%20(Not%20Yet%20Graduated)&location=united%20states&stretch=0&stretchUnit=MILES&categories=Internal%20Services) | Varies | Multiple Summer SWE Internships (No Sponsorship) |
 | [Discord](https://discord.com/careers) | San Francisco, CA or Remote | Multiple summer internships avaliable (SWE, ML, Data) |
 | [Pentair](https://pentair.wd5.myworkdayjobs.com/en-US/Pentair_Careers/job/Internship---Computer-Science-Engineering-Leadership-Development-Program---Summer-2023_R14517) | Multiple Locations | Computer Science Engineering Leadership Development Program (No Sponsorship) |
-| [Oceaneering](https://careers.oceaneering.com/global/en/job/OCINGLOBAL4999) | Hanover, MD | Software Engineering Intern (must be US citizen) |
+| Oceaneering | Hanover, MD | **🔒 Closed 🔒** Software Engineering Intern (must be US citizen) |
 | General Atomics | [Boulder, CO](https://www.ga-careers.com/job/boulder/space-software-development-intern/499/41040384016) or [Herndon, VA](https://www.ga-careers.com/job/herndon/software-engineering-intern/499/40645672416) | Software Engineering Intern (must be US citizen) |
 | [Seismic](https://seismic.com/careers/job-detail/?gh_jid=4765666004) | San Diego, CA | Software Engineer Intern |
 | Slalom Build | Atlanta, GA or Chicago, IL | [Software Engineer](https://jobs.slalombuild.com/apex/CandidatePortalBuild?nostate=1#/post/a0h1R00000DE06wQAD) and [Platform Engineer](https://jobs.slalombuild.com/apex/CandidatePortalBuild?nostate=1#/post/a0h1R00000DE07LQAT) Intern |
@@ -605,7 +605,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | Enveda Biosciences | Remote | **🔒 Closed 🔒** Software Engineering Internship |
 | [Odoo, Inc](https://www.odoo.com/es_ES/jobs/detail/software-engineer-intern-summer-2023-buffalo-ny-1113?utm_campaign=Job+Campaign+%5B291%5D&utm_medium=Website+%5B1%5D&utm_source=handshake+%5B644%5D) | Buffalo, NY | Software Engineer Intern |
 | [Cognizant](https://careers.cognizant.com/us/en/job/COGNGLOBAL40711/Undergraduate-Technology-Intern) | Atlanta, GA; Dallas, TX; Denver, CO or Phoenix, AZ | Undergraduate Technology Intern (no sponsorship) |
-| Cboe | Lenexa, KS | [Software Engineer Intern, Batch](https://cboe.wd1.myworkdayjobs.com/External_Career_CBOE/job/Lenexa-KS/Software-Engineer-Intern--Batch_R-2660-1) <br> [Software Engineer Intern (C++)](https://cboe.wd1.myworkdayjobs.com/en-US/External_Career_CBOE/job/Lenexa-KS/Software-Engineer-Intern--C---_R-2568) |
+| Cboe | Lenexa, KS | [Software Engineer Intern (C++)](https://cboe.wd1.myworkdayjobs.com/en-US/External_Career_CBOE/job/Lenexa-KS/Software-Engineer-Intern--C---_R-2568) |
 | [SAIC](https://jobs.saic.com/jobs/11896556-software-engineer-intern) | El Segundo, CA | Software Engineer Intern (U.S. Citizenship Required) |
 | [Unisys](https://jobs.unisys.com/us/en/job/REQ543355/Software-Engineer-Intern) | Remote, USA | Software Engineer Intern |
 | [Tegus](https://jobs.lever.co/tegus/d6d1a369-4ef0-4808-8f96-3b78dcf9b3e2) | Chicago, IL | Software Engineer Intern |
