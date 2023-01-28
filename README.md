@@ -596,7 +596,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Siemens](https://jobs.siemens.com/disw/jobs?page=1&experienceLevels=Student%20(Not%20Yet%20Graduated)&location=united%20states&stretch=0&stretchUnit=MILES&categories=Internal%20Services) | Varies | Multiple Summer SWE Internships (No Sponsorship) |
 | [Discord](https://discord.com/careers) | San Francisco, CA or Remote | Multiple summer internships avaliable (SWE, ML, Data) |
 | [Pentair](https://pentair.wd5.myworkdayjobs.com/en-US/Pentair_Careers/job/Internship---Computer-Science-Engineering-Leadership-Development-Program---Summer-2023_R14517) | Multiple Locations | Computer Science Engineering Leadership Development Program (No Sponsorship) |
-| [Oceaneering](https://careers.oceaneering.com/global/en/job/OCINGLOBAL4999) | Hanover, MD | Software Engineering Intern (must be US citizen) |
+| Oceaneering | Hanover, MD | **🔒 Closed 🔒** Software Engineering Intern (must be US citizen) |
 | General Atomics | [Boulder, CO](https://www.ga-careers.com/job/boulder/space-software-development-intern/499/41040384016) or [Herndon, VA](https://www.ga-careers.com/job/herndon/software-engineering-intern/499/40645672416) | Software Engineering Intern (must be US citizen) |
 | [Seismic](https://seismic.com/careers/job-detail/?gh_jid=4765666004) | San Diego, CA | Software Engineer Intern |
 | Slalom Build | Atlanta, GA or Chicago, IL | [Software Engineer](https://jobs.slalombuild.com/apex/CandidatePortalBuild?nostate=1#/post/a0h1R00000DE06wQAD) and [Platform Engineer](https://jobs.slalombuild.com/apex/CandidatePortalBuild?nostate=1#/post/a0h1R00000DE07LQAT) Intern |
