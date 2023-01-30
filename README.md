@@ -89,7 +89,6 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | L3Harris Technologies | Amityville, NY | **🔒 Closed 🔒** Software Engineer Intern (US Government Security Clearance needed)
 | Pixar Animation Studios | Emeryville, CA | **🔒 Closed 🔒** Software Engineer Intern (no visa sponsorship)
 | PNC| Various | **🔒 Closed 🔒** Technology Summer Intern Program |
-| PWC | Various | **🔒 Closed 🔒** Technology Consulting Intern (STEM extension for H1B possible) |
 | [Arrowstreet Capital](https://arrowstreetcapital.wd5.myworkdayjobs.com/en-US/Arrowstreet/job/Boston/Quantitative-Researcher-Intern--Summer-2023_R700) | Boston, MA | Quantitative Researcher Intern |
 | Valkyrie | Chicago, IL | **🔒 Closed 🔒** Software Engineer Intern
 | [Sensata](https://sensata.wd1.myworkdayjobs.com/en-US/Sensata-Careers/job/Attleboro-Massachusetts/Software-Engineer-Intern---Summer-2023_IRC86996) | Attleboro, MA | Software Engineer Intern |
@@ -611,6 +610,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Tegus](https://jobs.lever.co/tegus/d6d1a369-4ef0-4808-8f96-3b78dcf9b3e2) | Chicago, IL | Software Engineer Intern |
 | [Ultra-Sonobuoy Systems](https://ultra.wd3.myworkdayjobs.com/ultra-careers/job/Victor-NY-United-States/Software-Engineering-Intern_REQ-5201-1) | Victor, NY | Software Engineering Intern (U.S. Citizenship Required) |
 | [Beta](https://jobs.lever.co/beta/32fdb1fd-e194-4b85-b155-7b4efe14dd9d) | South Burlington, VT | Summer 2023 Internship - Software |
+| [PWC](https://jobs.us.pwc.com/job/-/-/932/43383605072) | Multiple Locations & Remote | PwC Labs Software Engineering Intern (STEM extension for H1B possible) |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
