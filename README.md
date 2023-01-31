@@ -624,7 +624,8 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Tegus](https://jobs.lever.co/tegus/d6d1a369-4ef0-4808-8f96-3b78dcf9b3e2) | Chicago, IL | Software Engineer Intern |
 | [Ultra-Sonobuoy Systems](https://ultra.wd3.myworkdayjobs.com/ultra-careers/job/Victor-NY-United-States/Software-Engineering-Intern_REQ-5201-1) | Victor, NY | Software Engineering Intern (U.S. Citizenship Required) |
 | [Beta](https://jobs.lever.co/beta/32fdb1fd-e194-4b85-b155-7b4efe14dd9d) | South Burlington, VT | Summer 2023 Internship - Software |
-| [PWC](https://jobs.us.pwc.com/job/-/-/932/43383605072) | Multiple Locations & Remote | PwC Labs Software Engineering Intern (STEM extension for H1B possible) | [Peraton](https://careers-peraton.icims.com/jobs/130171/summer-2023-cyber-software-engineering-intern--landover%2c-md/job) | Landover, MD | Cyber Software Engineering Intern (must be US citizen) |
+| [PWC](https://jobs.us.pwc.com/job/-/-/932/43383605072) | Multiple Locations & Remote | PwC Labs Software Engineering Intern (STEM extension for H1B possible) |
+| [Peraton](https://careers-peraton.icims.com/jobs/130171/summer-2023-cyber-software-engineering-intern--landover%2c-md/job) | Landover, MD | Cyber Software Engineering Intern (must be US citizen) |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
