@@ -413,7 +413,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Patreon](https://boards.greenhouse.io/patreon/jobs/4606412) | New York City, NY or San Francisco, CA | Software Engineering Intern (Hybrid) |
 | Grafana Labs | Remote | 🔒 Closed 🔒) |
 | [Credit Karma](https://boards.greenhouse.io/creditkarma/jobs/4431522003) | Charlotte, NC | Software Engineering Intern (Summer 2023) |
-| [Waymo](https://waymo.com/careers/#software-internships) | Multiple Locations (CA, WA) | [Software Engineering Intern, Generalist](https://waymo.com/joinus/4605014/), Data Science, Infrastructure, etc. positions also available |
+| [Waymo](https://waymo.com/careers/#software-internships) | Multiple Locations (CA, WA) | **🔒 Closed 🔒** [Software Engineering Intern, Generalist](https://waymo.com/joinus/4605014/), Data Science, Infrastructure, etc. positions also available |
 | Robinhood | Remote, USA | [Android Engineer Intern](https://app.ripplematch.com/job/robinhood/e93c5366?from_page=company_branded_page&), [iOS Engineer Intern](https://app.ripplematch.com/job/robinhood/55eaa246?from_page=company_branded_page&) |
 | Lattice | Remote, USA | **🔒 Closed 🔒** Software Engineer, Intern (Summer '23) |
 | [Bain & Company](https://careers.bain.com/jobs/FolderDetail?folderId=67698) | Various | Intern, Global Engineering (Summer 2023) |
