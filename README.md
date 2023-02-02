@@ -17,7 +17,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 			Autofill all your applications in a single click.
 			<br>
 			<div>
-				<img src="https://res.cloudinary.com/dpeo4xcnc/image/upload/v1636594918/simplify_pittcsc.png" width="450" alt="Simplify">
+				<a href="https://simplify.jobs/?utm_source=pittcsc&utm_medium=internships_repo"><img src="https://res.cloudinary.com/dpeo4xcnc/image/upload/v1636594918/simplify_pittcsc.png" width="450" alt="Simplify" ></a>
 			</div>
 		</a>
 		<sub><i>Stop manually re-entering your information. Simplify’s extension helps you autofill internship applications on millions of sites.</i></sub>
