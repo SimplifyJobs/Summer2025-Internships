@@ -331,7 +331,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [IDEMIA](https://uscareers-idemia.icims.com/jobs/5382/software-development-internship/job) | Anaheim, CA | Software Development Internship (US Citizenship Required; No Sponsorship) |
 | [TripActions](https://tripactions.com/job-openings/4488671?gh_jid=4488671&gh_src=b13de4e21) | Palo Alto, CA | Software Engineering Internship |
 | CyberArk | Remote USA | **🔒 Closed 🔒** Software Engineer Intern |
-| [Nextdoor](https://about.nextdoor.com/careers/#openings) | San Francisco, CA | Summer 2023 Software Engineer Intern |
+| [~~Nextdoor~~](https://about.nextdoor.com/careers/#openings) | San Francisco, CA |**🔒 Closed 🔒** Summer 2023 Software Engineer Intern |
 | [Reliable Robotics](https://jobs.lever.co/reliable/90367300-93c0-4b0f-8893-13ebd4af326d) | Mountain View, CA | Flight Software Engineer Intern |
 | Motive | Remote | **🔒 Closed 🔒** Software Engineering Intern, Summer 2023 |
 | [Federal Reserve Board](https://frbog.taleo.net/careersection/1/jobdetail.ftl?job=23293&lang=en) | Washington DC | Software Developer Summer Intern -23293 |
