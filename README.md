@@ -216,9 +216,9 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | MongoDB | NY, ATX, SF | **🔒 Closed 🔒** Software Engineer Intern |
 | [Urban Outfitters](https://www.urbn.com/internships) | Philadelphia, PA | **🔒 Closed 🔒** Web Software Engineer Intern, **🔒 Closed 🔒** Network Engineering Intern|
 | The Washington Post | Washington, DC and Remote | **🔒 Closed 🔒** Software Engineer Intern (no visa sponsorship) |
-| [Pitchbook](https://boards.greenhouse.io/pitchbookdata/) | Seattle, Washington | [Product Management Summer Intern, Equity Data](https://boards.greenhouse.io/pitchbookdata/jobs/4024637006), [Software Development Engineer Summer Intern (Back End)](https://boards.greenhouse.io/pitchbookdata/jobs/4025237006) |
+| [Pitchbook](https://boards.greenhouse.io/pitchbookdata/jobs/4024646006) | Seattle, Washington | Product Design Summer Intern |
 | Lucid Software | Remote, US | **🔒 Closed 🔒** Software Engineering Internship, Data Analyst Internship |
-| [SoundHound](https://www.soundhound.com/careers/) | Santa Clara, CA | [Software Engineering Intern, Acoustic Modeling](https://boards.greenhouse.io/soundhoundinc/jobs/6365344002) <br> (Cover letter required) |
+| SoundHound | Santa Clara, CA | **🔒 Closed 🔒** Software Engineering Intern, Acoustic Modeling |
 | Slack | San Francisco, CA | **🔒 Closed 🔒** 2023 Summer Intern - Software Engineer |
 | [SpaceX](https://boards.greenhouse.io/spacex/jobs/6366187002?gh_jid=6366187002) | Multiple| 2023 Summer Intern - Software Engineer (US Citizens Only)|
 | [Samsara](https://boards.greenhouse.io/samsara/jobs/4522234?gh_jid=4522234) | San Francisco, CA | Software Engineer Intern |
@@ -255,7 +255,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Shure Inc.](https://careers-shure.icims.com/jobs/2848/software-engineering-intern/job?mode=job) | Irvine, CA | Software Engineering Intern |
 | Code42 | Minneapolis, MN | **🔒 Closed 🔒** Software Engineer Intern (C++, Java, C#) |
 | [Avanade](https://careers.avanade.com/jobsenus/JobDetail/Intern-Software-Developer-Summer-2023/56206) | Multiple | Intern, Software Developer - Summer 2023 (No sponsorship for employment in US/Canada) |
-| [Motorola Solutions](https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/West-Valley-City-UT/Software-Engineer--2023-Summer-Internship-_R32052) | West Valley City, UT | Software Engineer (2023 Summer Internship) |
+| Motorola Solutions | West Valley City, UT | **🔒 Closed 🔒** Software Engineer (2023 Summer Internship) |
 | Ansys | Canonsburg, PA | **🔒 Closed 🔒** Summer 2023 Software Development Intern - Ansys Discovery Post-processing (BS or MS) |
 | [Silicon Labs](https://jobs.jobvite.com/silabs/search?q=&l=&c=University%20Recruiting) | Austin, TX | [Embedded Software Engineering Intern (Austin, TX; or Boston, MA)](https://jobs.jobvite.com/silabs/job/oZgJkfw2), [Software Engineering Intern](https://jobs.jobvite.com/silabs/job/oV6LkfwQ) |
 | [ASML](https://www.asml.com/en/careers/internships?page=1&facets=vacancycountry%253dUS&sortBy=date) | Wilton, CT; San Jose, CA; | [Software Test Engineer intern](https://www.asml.com/en/careers/find-your-job/5/3/0/software-test-engineer-intern-req53028), [Devops Intern](https://www.asml.com/en/careers/find-your-job/5/2/5/devops-intern-req52528?ppc=JBP-181) (additional on website) |
@@ -628,6 +628,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Peraton](https://careers-peraton.icims.com/jobs/130171/summer-2023-cyber-software-engineering-intern--landover%2c-md/job) | Landover, MD | Cyber Software Engineering Intern (must be US citizen) |
 | [Cowbell](https://boards.greenhouse.io/cowbellcyber/jobs/5454673003) | New York, NY (Remote) | Software Engineer (Platform) - Intern (Summer) |
 | [Formerly Known As](https://jobs.smartrecruiters.com/PublicisGroupe/743999882893812-associate-front-enddeveloperinternsource=Linkedin&utm_source=Simplify) | New York, NY (Onsite) | Associate Front-End Developer Intern |
+| [Co:here](https://jobs.lever.co/cohere/) | Multiple locations | [Machine Learning Intern (Summer 2023)](https://jobs.lever.co/cohere/ed985a33-206e-425a-8c68-fdbdcc34b8bb), [Software Engineer Intern (Summer 2023)](https://jobs.lever.co/cohere/c856d444-54bf-4a70-94b1-756769de0292) |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
