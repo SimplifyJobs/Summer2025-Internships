@@ -218,7 +218,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | The Washington Post | Washington, DC and Remote | **🔒 Closed 🔒** Software Engineer Intern (no visa sponsorship) |
 | [Pitchbook](https://boards.greenhouse.io/pitchbookdata/) | Seattle, Washington | [Product Management Summer Intern, Equity Data](https://boards.greenhouse.io/pitchbookdata/jobs/4024637006), [Software Development Engineer Summer Intern (Back End)](https://boards.greenhouse.io/pitchbookdata/jobs/4025237006) |
 | Lucid Software | Remote, US | **🔒 Closed 🔒** Software Engineering Internship, Data Analyst Internship |
-| [SoundHound](https://www.soundhound.com/careers/) | Santa Clara, CA | [Software Engineering Intern, Acoustic Modeling](https://boards.greenhouse.io/soundhoundinc/jobs/6365344002) <br> (Cover letter required) |
+| [SoundHound](https://www.soundhound.com/careers/) | Santa Clara, CA | **🔒 Closed 🔒** [Software Engineering Intern, Acoustic Modeling](https://boards.greenhouse.io/soundhoundinc/jobs/6365344002) <br> (Cover letter required) |
 | Slack | San Francisco, CA | **🔒 Closed 🔒** 2023 Summer Intern - Software Engineer |
 | [SpaceX](https://boards.greenhouse.io/spacex/jobs/6366187002?gh_jid=6366187002) | Multiple| 2023 Summer Intern - Software Engineer (US Citizens Only)|
 | [Samsara](https://boards.greenhouse.io/samsara/jobs/4522234?gh_jid=4522234) | San Francisco, CA | Software Engineer Intern |
