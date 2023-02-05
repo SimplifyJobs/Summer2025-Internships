@@ -98,7 +98,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | Virtu Financial | New York, NY | **🔒 Closed 🔒** Internship - Developer (10 weeks Summer 2023)
 | Prudential | Newark, NJ | **🔒 Closed 🔒** Software Engineering Summer Internship Program
 | PDT Partners | New York, NY | **🔒 Closed 🔒** Software Engineering Internship (10 weeks Summer 2023)
-| [Verkada](https://jobs.lever.co/verkada?department=Engineering#:~:text=SOFTWARE%20%2D%20CORE%20COMMAND-,SOFTWARE%20%2D%20EARLY%20CAREERS,-APPLY)| San Mateo, CA | Computer Vision Engineering Intern, [Embedded Systems Engineering Intern](https://jobs.lever.co/verkada/f8e567ee-b75f-498a-8cad-a0f0f47eb298), [Frontend Software Engineering Intern](https://jobs.lever.co/verkada/eedaa343-79ae-4b7f-a73f-3f860050822f), [Mobile Engineering Intern](https://jobs.lever.co/verkada/de0b103e-1bb6-4619-bea8-4ed254267f6b), [Security Engineering Intern](https://jobs.lever.co/verkada/55ee059c-dbca-4034-af57-133de54a22fe)
+| [Verkada](https://jobs.lever.co/verkada?department=Engineering#:~:text=SOFTWARE%20%2D%20CORE%20COMMAND-,SOFTWARE%20%2D%20EARLY%20CAREERS,-APPLY)| San Mateo, CA | Computer Vision Engineering Intern, [Embedded Systems Engineering Intern](https://jobs.lever.co/verkada/f8e567ee-b75f-498a-8cad-a0f0f47eb298), **🔒 Closed 🔒** Frontend Software Engineering Intern, **🔒 Closed 🔒** Mobile Engineering Intern, **🔒 Closed 🔒** Security Engineering Intern
 | Code 2040 | Various | **🔒 Closed 🔒** Software Engineering Internship Fellowship (9 weeks Summer 2023) |
 | Vanta | New York, NY | **🔒 Closed 🔒** SWE Internship
 | L3Harris Technologies | Amityville, NY | **🔒 Closed 🔒** Software Engineer Intern (US Government Security Clearance needed)
