@@ -591,7 +591,6 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Corsair](https://edix.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions?keyword=intern) | Milpitas, CA | [Product Management intern](https://edix.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/7111?utm_medium=jobshare) |  
 | [Johnson Controls](https://jci.wd5.myworkdayjobs.com/JCI/job/Fishers-Indiana-United-States-of-America/Software-Engineering-Intern_WD30159525) | Fishers, IN  | Software Engineering Intern (US Citizenship or Legal Right to Work in US) |
 | Panasonic | Irvine, CA | [Software Engineering Summer 2023 Intern (Embedded Software)](https://careers.na.panasonic.com/careers/software-engineering-summer-2023-intern-embedded-software-irvine-ca) <br> [Software Engineering Summer 2023 Intern – Test Platform](https://careers.na.panasonic.com/careers/software-engineering-summer-2023-intern-test-platform-irvine-ca) <br> [Software Engineering Summer Intern – Device Verification SW](https://careers.na.panasonic.com/careers/software-engineering-summer-intern-device-verification-sw-irvine-ca) |
-| Nasuni | Boston, MA | **🔒 Closed 🔒** Software Engineering Intern - Team Fast |
 | [Takeda](https://www.takedajobs.com/job/-/-/1113/41541695120) | Boston, MA | 2023 Summer Internship - Statistical Programming (No Sponsorship) |
 | Q2 | Austin, TX | **🔒 Closed 🔒** Software Engineering Intern |
 | [D.R. Horton](https://drhorton.taleo.net/careersection/campus/jobdetail.ftl?job=2205844&lang=en) | Arlington, TX | Summer 2023 IT Intern - Software Development |
@@ -630,6 +629,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Formerly Known As](https://jobs.smartrecruiters.com/PublicisGroupe/743999882893812-associate-front-enddeveloperinternsource=Linkedin&utm_source=Simplify) | New York, NY (Onsite) | Associate Front-End Developer Intern |
 | [Co:here](https://jobs.lever.co/cohere/) | Multiple locations | [Machine Learning Intern (Summer 2023)](https://jobs.lever.co/cohere/ed985a33-206e-425a-8c68-fdbdcc34b8bb), [Software Engineer Intern (Summer 2023)](https://jobs.lever.co/cohere/c856d444-54bf-4a70-94b1-756769de0292) |
 | Clear | [NYC](https://boards.greenhouse.io/clear/jobs/4782043), [Austin](https://boards.greenhouse.io/clear/jobs/4782148) | Software Engineer Intern |
+| [Nasuni](https://jobs.jobvite.com/nasuni/job/oWbVlfw7) | Boston, MA | Software Engineering Intern - NOC |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
