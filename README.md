@@ -632,6 +632,8 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Nasuni](https://jobs.jobvite.com/nasuni/job/oWbVlfw7) | Boston, MA | Software Engineering Intern - NOC |
 | [US News](https://recruiting.myapps.paychex.com/appone/MainInfoReq.asp?R_ID=5245479&B_ID=91&fid=1&Adid=&SearchScreenID=8768&CountryID=3&LanguageID=2) | Washington, DC | Software Developer Intern |
 | [Carbon](https://ats.comparably.com/api/v1/lvr/carbon/02cf6a7e-d13f-47d1-823d-6c4a8bb0f2ed) | Redwood City, CA | Software Engineering Intern |
+| [Ellington Management Group](https://phh.tbe.taleo.net/phh03/ats/careers/v2/viewRequisition?org=ELLINGTONMGMTGRP&cws=37&rid=123) | Old Greenwich, CT | SUMMER + FALL 2023 CO-OP – SOFTWARE DEVELOPER / DATA ENGINEER |
+
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
