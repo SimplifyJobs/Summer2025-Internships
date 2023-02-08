@@ -630,7 +630,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Co:here](https://jobs.lever.co/cohere/) | Multiple locations | [Machine Learning Intern (Summer 2023)](https://jobs.lever.co/cohere/ed985a33-206e-425a-8c68-fdbdcc34b8bb), [Software Engineer Intern (Summer 2023)](https://jobs.lever.co/cohere/c856d444-54bf-4a70-94b1-756769de0292) |
 | Clear | [NYC](https://boards.greenhouse.io/clear/jobs/4782043), [Austin](https://boards.greenhouse.io/clear/jobs/4782148) | Software Engineer Intern |
 | [Nasuni](https://jobs.jobvite.com/nasuni/job/oWbVlfw7) | Boston, MA | Software Engineering Intern - NOC |
-| [US News](https://recruiting.myapps.paychex.com/appone/MainInfoReq.asp?R_ID=5245479&B_ID=91&fid=1&Adid=&SearchScreenID=8768&CountryID=3&LanguageID=2) | Washington, DC | Software Developer Intern |
+| [US News](https://recruiting.myapps.paychex.com/appone/MainInfoReq.asp?R_ID=5245479&B_ID=91&fid=1&Adid=&SearchScreenID=8768&CountryID=3&LanguageID=2) | Washington, DC | Software Developer Intern (Possibly No Sponsorship) |
 | [Carbon](https://ats.comparably.com/api/v1/lvr/carbon/02cf6a7e-d13f-47d1-823d-6c4a8bb0f2ed) | Redwood City, CA | Software Engineering Intern |
 | [Ellington Management Group](https://phh.tbe.taleo.net/phh03/ats/careers/v2/viewRequisition?org=ELLINGTONMGMTGRP&cws=37&rid=123) | Old Greenwich, CT | SUMMER + FALL 2023 CO-OP – SOFTWARE DEVELOPER / DATA ENGINEER |
 | [Societe Generale](https://careers.societegenerale.com/en/job-offers/internship-it-full-stack-development-230002JI-en) | NYC | INTERNSHIP-IT Full Stack Development |
