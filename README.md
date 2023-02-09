@@ -141,7 +141,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | Quantcast | San Francisco, CA | **🔒 Closed 🔒** Software Engineering Intern |
 | [Belvedere Trading](https://jobs.lever.co/belvederetrading/5098c277-d2a6-41eb-ab9c-b80ded219154) | Chicago, IL | Software Engineering Intern |
 | [Jump Trading](https://www.jumptrading.com/careers/?locations=Chicago+Austin+New-York+New-Jersey+Remote+Cranberry-Township&titleSearch=campus+intern) | Chicago, IL | [Campus \| Software Engineer 2023 (Summer Intern)](https://www.jumptrading.com/careers/4452653/) <br> [Campus \| FPGA Engineer 2023 (Summer Intern)](https://www.jumptrading.com/careers/4471649/) <br> [Campus \| Tech Ops Engineer 2023 (Intern)](https://www.jumptrading.com/careers/4387580/) <br> [Campus \| Data Engineer 2023 (Summer Intern)](https://www.jumptrading.com/careers/4471685/) <br> [Campus \| Web Dev / UI Software Engineer 2023 (Summer Intern)](https://www.jumptrading.com/careers/4471639/) |
-| [Databricks](https://www.databricks.com/company/careers/open-positions/) | San Francisco, Mountain View, CA | [Security Software Engineering Intern](https://www.databricks.com/company/careers/open-positions/job?gh_jid=6499571002), [IT Automation intern](https://www.databricks.com/company/careers/open-positions/job?gh_jid=6416905002) |
+| Databricks | San Francisco, Mountain View, CA | **🔒 Closed 🔒** Security Software Engineering Intern, IT Automation intern |
 | American Express | Multiple Locations |  **🔒 Closed 🔒** 2023 Technology Software Engineer Summer Internship (no sponsorship) |
 | Klaviyo | Remote | **🔒 Closed 🔒** Summer 2023 Software Engineer Intern (No visa sponsorship)|
 | Starbucks | Arizona, Seattle | **🔒 Closed 🔒** Summary 2023 Technology undergraduate intern |
@@ -285,7 +285,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | Labcorp | Durham, NC; or Indianapolis, IN | **🔒 Closed 🔒** Software Developer Internship (2023 Global Internship Program) |
 | [Sierra Nevada Corporation](https://snc.wd1.myworkdayjobs.com/en-US/SNC_External_Career_Site/job/Englewood-CO/Software-Engineer-Intern--Summer-2023-_R0018868) | Englewood, CO; or Huntsville, AL; or Hagerstown, MD | Software Engineer Intern (Summer 2023) |
 | Sysco | Houston, TX; or Austin, TX | **🔒 Closed 🔒** Intern - Software Development Engineer (10 Week during Summer)（undergrad） |
-| DoorDash | Multiple Locations | Software Engineer Intern: [US Position](https://boards.greenhouse.io/doordash/jobs/4560561?gh_jid=4560561), [Toronto Position](https://boards.greenhouse.io/doordash/jobs/4560283?gh_jid=4560283) |
+| DoorDash | Multiple Locations | **🔒 Closed 🔒** Software Engineer Intern: US Position, Toronto Position |
 | [United](https://careers.united.com/us/en/job/WHQ00020911/Intern-Digital-Technology-Summer-2023) | Chicago, IL | Digital Technology Intern (no sponsorship) | 
 | Cornerstone | Dublin, CA | **🔒 Closed 🔒** Software Engineering Intern (Front end) | 
 | Merck | Varies | **🔒 Closed 🔒** IT Emerging Talent Intern | 
