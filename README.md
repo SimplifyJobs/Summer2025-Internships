@@ -637,6 +637,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Findhelp](https://jobs.lever.co/findhelp/b03d210f-3d73-4d94-ad21-e04534250b4d) | Austin, TX | Software Engineer Summer Intern |
 | Ramp | New York, Miami, Remote | Software Engineer Internship in [frontend](https://boards.greenhouse.io/ramp/jobs/4820594002) and [backend](https://boards.greenhouse.io/ramp/jobs/5083064002) |
 | [Anyscale](https://jobs.lever.co/anyscale/78a003a6-221a-4414-bf95-7c734cbfc4d9) | San Francisco, CA | Software Engineer (2023 Intern) |
+| [Humane](https://boards.greenhouse.io/humane/jobs/4788711004) | San Francisco, CA | Digital Product Design Intern |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
