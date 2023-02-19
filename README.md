@@ -358,7 +358,6 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Blizzard](https://careers.blizzard.com/global/en/search-results) | Multiple Locations | **🔒 Closed 🔒** Software Engineering Internship, **🔒 Closed 🔒** UI/UX Intern, [Analytics Internship](https://careers.blizzard.com/global/en/job/R017324/Analytics-Internship) |
 | [Awardco](https://www.award.co/careers) | Pleasant Grove, Utah | (**No Visa Sponsorship available**) Front-End SWE Intern (Vue and JavaScript), Back-End SWE Intern (C# and .NET Framework), [SWE Test Intern (Cypress and JavaScript)](https://award.co/position?gh_jid=4323618004) |
 | [ZipRecruiter](https://www.ziprecruiter.com/careers) | Santa Monica, CA | [Data Scientist / Machine Learning Engineer - Intern](https://www.ziprecruiter.com/c/ZipRecruiter/Job/Data-Scientist-Machine-Learning-Engineer-Intern/-in-Santa-Monica,CA?jid=734d6c38e2b352bc), [Software Engineer Intern](https://www.ziprecruiter.com/c/ZipRecruiter/Job/Software-Engineer-Intern/-in-Santa-Monica,CA?jid=f331da90344f3100) |
-| Squarespace | New York, NY | **🔒 Closed 🔒** Software Engineer Internship |
 | [CarMax](https://careers.carmax.com/us/en/job/JR-102006/Technology-Intern-Richmond-VA-Dallas-TX) | Richmond, VA, Dallas, TX | Technology Intern (No Visa Sponsorship) |
 | [McKesson](https://mckesson.wd3.myworkdayjobs.com/en-US/Acquisition_campus/details/Software-Engineer-Intern_JR0073489) | Atlanta, GA | Software Engineer Intern (No Visa Sponsorship) |
 | EY | Multiple Locations in US | **🔒 Closed 🔒**(No Visa Sponsorship available) Technology Consulting Intern: (Must be US citizen and obtain clearances) |
@@ -644,6 +643,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Generate Biomedicines](https://generatebiomedicines.com/open-positions?gh_jid=4048283006) | Somerville, MA (On-site) | Machine Learning Intern |
 | [Smith+Nephew](https://smithnephew.wd5.myworkdayjobs.com/External/job/Pittsburgh-PA/Robotics-Software-Engineering-Intern_R69104) | Pittsburgh, PA | Robotics Software Engineering Intern |
 | [Urban Science](https://careers-urbanscience.icims.com/jobs/4785/software-engineering-intern---summer-2023/job?mobile=false&width=1176&height=800&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240) | Detroit, MI | Software Engineering Intern |
+| [Squarespace](https://www.squarespace.com/careers/jobs/4856370?location=chicago) | Chicago, IL | Tock Software Engineer Intern |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
