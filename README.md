@@ -45,7 +45,6 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | Amazon Robotics | Greater Boston, MA | **🔒 Closed 🔒** Software Development Engineer |
 | [Apple](https://www.apple.com/careers/us/)                                                                       | Cupertino, CA                                  | [SWE](https://jobs.apple.com/en-us/details/200389054/software-engineering-internship?team=SDNT), [Hardware](https://jobs.apple.com/en-us/details/200389042/hardware-technology-internship?team=STDNT)                                                                                                  |
 | AQR                                  | Greenwich, CT                        | **🔒 Closed 🔒** Business Development  
-| AirBnb (https://careers.airbnb.com/positions/4711777/)	              | USA/Remote			    
 | BD                                                                                    | San Diego, CA | **🔒 Closed 🔒** Data Science                                                                                     |
 | Bridgewater Associates | Westport, CT | **🔒 Closed 🔒** Investment Engineer Intern |
 | Bevootech                                                                                         | Remote                         | **🔒 Closed 🔒** Business Development Intern, Software Development Intern, Project Management Intern |
@@ -351,7 +350,6 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Raven Industries](https://jobs.ravenind.com/job/Sioux-Falls-Software-Engineer-Intern-%28Summer%29-SD-57104-5931/934151400) | Sioux Falls, SD | Software Engineer Intern (Summer) |
 | Vail Systems | Chicago, IL | **🔒 Closed 🔒** [C++ Software Engineer Intern](https://jobs.lever.co/vailsys/98edbcac-8756-432e-8aa5-47c36c099b19), [Web Software Engineer Intern](https://jobs.lever.co/vailsys/39332d76-6599-44af-9481-e7f9162d1ad1/) |
 | Aptiv | Troy, MI | **🔒 Closed 🔒** Software Engineer Intern |
-| Airbnb | Remote | **🔒 Closed 🔒** Software Engineer Intern (No Sponsorship) |
 | [Jacobs](https://careers.jacobs.com/job-search-results/?job_type[]=Internship) | Hudson, NH | [Software Intern Co-op (US Citizens Only) (Undergrad)](https://careers.jacobs.com/job/15934465/software-intern-co-op-hudson-nh/) |
 | [Netflix](https://jobs.netflix.com/search?team=Internship) | Los Gatos, CA | [Software Engineer Intern](https://jobs.netflix.com/jobs/234866639), [Security Engineering Intern](https://jobs.netflix.com/jobs/232791459), [Machine Learning Intern](https://jobs.netflix.com/jobs/234882269), [Data Engineering Intern](https://jobs.netflix.com/jobs/237559138) |
 | [Alteryx](https://app.ripplematch.com/job/alteryx/8c645069/?from_page=company_branded_page&) | Irvine, CA; or Remote | Data Analyst Intern (No Visa Sponsorship) |
@@ -645,6 +643,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Generate Biomedicines](https://generatebiomedicines.com/open-positions?gh_jid=4048283006) | Somerville, MA (On-site) | Machine Learning Intern |
 | [Smith+Nephew](https://smithnephew.wd5.myworkdayjobs.com/External/job/Pittsburgh-PA/Robotics-Software-Engineering-Intern_R69104) | Pittsburgh, PA | Robotics Software Engineering Intern |
 | [Urban Science](https://careers-urbanscience.icims.com/jobs/4785/software-engineering-intern---summer-2023/job?mobile=false&width=1176&height=800&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240) | Detroit, MI | Software Engineering Intern |
+| Airbnb (https://careers.airbnb.com/positions/4711777/) | USA/Remote | Engineering Apprentice (No Sponsorship) |		    
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
