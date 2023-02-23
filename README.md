@@ -578,7 +578,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Mercedes-Benz](https://jobs.mercedes-benz.com/job/369916/data-scientist-intern.html) | Farmington Hills, MI | Data Scientist Intern (no sponsorship) |
 | Bread Financial | Multiple Locations or remote | **🔒 Closed 🔒** General summer internship application for all majors including CS/IT (no sponsorship) |
 | [Momentum](https://mwrecruiting-openhire.silkroad.com/epostings/index.cfm?fuseaction=app.jobinfo&jobid=15359&source=ONLINE&JobOwner=1030463&company_id=30094&version=11&byBusinessUnit=NULL&bycountry=0&bystate=0&byRegion=&bylocation=&keywords=&byCat=&proximityCountry=) | NYC, St. Louis, Chicago, or Atlanta | General summer internship application for all teams such as SWE, data, UX, etc. |
-| [GitLab](https://boards.greenhouse.io/gitlab/jobs/6069423002) | remote | Engineering Internship (SWE) (no sponsorship but accept interns from multiple countries) |
+| GitLab | Remote | **🔒 Closed 🔒** Engineering Internship (SWE) (no sponsorship but accept interns from multiple countries) |
 | FIS | Milwaukee, WI | **🔒 Closed 🔒** Software Engineer, Summer FIS University Program (no sponsorship) |
 | Commonwealth | Waltham, MA | **🔒 Closed 🔒** General Summer Internship |
 | [Chamberlain Group](https://chamberlain.wd1.myworkdayjobs.com/en-US/Chamberlain_Group?workerSubType=a1d19ddc127d10332f2265ab00be635b) | Oak Brook, IL | 2023 Summer internships for SWE, Data, PM, etc. (no sponsorship) |
