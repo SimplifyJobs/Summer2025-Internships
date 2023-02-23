@@ -641,7 +641,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [NASA](https://stemgateway.nasa.gov/public/s/explore-opportunities/internships) | Multiple Locations + Remote | Software engineering, Machine Learning, Quantum Computing (must be US citizen) |
 | [SEI Investments](https://careers.peopleclick.com/careerscp/client_seic/external/en-us/gateway/viewFromLink.html?jobPostId=30145&localeCode=en-us) | Oaks, PA | 2023 Summer Intern - Technology Track (no sponsorship) | 
 | [Generate Biomedicines](https://generatebiomedicines.com/open-positions?gh_jid=4048283006) | Somerville, MA (On-site) | Machine Learning Intern |
-| Smith+Nephew | 🔒 Closed 🔒 Pittsburgh, PA | Robotics Software Engineering Intern |
+| Smith+Nephew | Pittsburgh, PA | 🔒 Closed 🔒 Robotics Software Engineering Intern |
 | [Urban Science](https://careers-urbanscience.icims.com/jobs/4785/software-engineering-intern---summer-2023/job?mobile=false&width=1176&height=800&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240) | Detroit, MI | Software Engineering Intern |
 | [Squarespace](https://www.squarespace.com/careers/jobs/4856370?location=chicago) | Chicago, IL | Tock Software Engineer Intern |
 | [Chubb](https://careers.chubb.com/global/en/job/CIHIGLOBAL351957EXTERNALENGLOBAL/2023-Technology-Associate-Intern-Jersey-City) | Jersey City, NJ | Technology Associate Intern |
