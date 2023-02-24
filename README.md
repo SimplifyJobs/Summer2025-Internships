@@ -125,7 +125,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [L3Harris Technologies](https://careers.l3harris.com/job/-/-/4832/33828250528?src=SNS-10240) | Mason, OH | Software Eng Intern(require US Citizenship) |
 | [Vanguard](https://www.vanguardjobs.com/job-search-results/?keyword=intern&category=Technology)| Malvern, PA, Charlotte, NC | Software Eng Intern (No sponsorships) |
 | Nvidia| Santa Clara, Remote | **🔒 Closed 🔒**  SWE Intern |
-| [The Vendry](https://jobs.lever.co/vendry/911401c3-9f06-4719-bc26-e3ac34207e67) | New York, NY | Software Development Internship |
+| The Vendry | New York, NY | **🔒 Closed 🔒**  Software Development Internship |
 | YugaByte | North America |  **🔒 Closed 🔒** Software Engineer Intern - Core Database <br> Software Engineer Intern (Backend) - Cloud Infrastructure <br> Software Engineer Intern (Frontend) - Cloud Infrastructure |
 | KLA| Ann Arbor, Michigan | **🔒 Closed 🔒** SWE Intern |
 | Qualtrics | Various | **🔒 Closed 🔒** Software Engineering Intern (no sponsorships available) |
