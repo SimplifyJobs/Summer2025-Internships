@@ -138,7 +138,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Twitch](https://www.twitch.tv/jobs/careers/6469166002/) | San Francisco, CA | Graduate Science Intern |
 | Accenture | Multiple Locations in the US |  **🔒 Closed 🔒** Summer Analyst - Technology Development Program |
 | Quantcast | San Francisco, CA | **🔒 Closed 🔒** Software Engineering Intern |
-| [Belvedere Trading](https://jobs.lever.co/belvederetrading/5098c277-d2a6-41eb-ab9c-b80ded219154) | Chicago, IL | Software Engineering Intern |
+| Belvedere Trading | Chicago, IL | **🔒 Closed 🔒** Software Engineering Intern |
 | Jump Trading | Chicago, IL | **🔒 Closed 🔒** Software Engineer Intern, Tech Ops Engineer, Data Engineer, Web Dev / UI Software Engineer |
 | Databricks | San Francisco, Mountain View, CA | **🔒 Closed 🔒** Security Software Engineering Intern, IT Automation intern |
 | American Express | Multiple Locations |  **🔒 Closed 🔒** 2023 Technology Software Engineer Summer Internship (no sponsorship) |
