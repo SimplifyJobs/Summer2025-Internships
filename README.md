@@ -62,7 +62,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | KPMG | Louisville, KY  | **🔒 Closed 🔒** Technology Assurance Audit Intern    |                                                                                           |
 | Morgan Stanley| NYC, NY | **🔒 Closed 🔒** Technology Summer Analyst |
 | NRO | Chantilly, VA | **🔒 Closed 🔒** NRO Cadre Student Internship Program |
-| [Optiver](https://www.optiver.com/working-at-optiver/career-opportunities/?filter-level=internship)                                                                                       | Chicago, IL; Austin, TX                          | **🔒 Closed 🔒** Software engineer, Quantitative trading, Hardware engineer internships (sponsorship available for most positions; exceptions may apply) |
+| Optiver | Chicago, IL; Austin, TX                          | **🔒 Closed 🔒** Software engineer, Quantitative Trading, Hardware engineer internships (sponsorship available for most positions; exceptions may apply) |
 | Procter & Gamble | Cincinnati, OH                              |  **🔒 Closed 🔒** Information Technology, Software Engineering (sponsorship NOT available)
 | Putnam Investments | Boston, MA  |   **🔒 Closed 🔒**  Software Engineer Intern |
 | SIG | Philadelphia, PA                    | **🔒 Closed 🔒** Software Engineering, Trading|
