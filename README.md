@@ -89,7 +89,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | Northrop Grumman | Various |  **🔒 Closed 🔒** Software Engineer Intern (US Citizenship Required) |
 | [Oracle](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions?keyword=software+engineer+intern) | United States | (Multiple Software Engineer Interns - Application Developments/Analytics Cloud/DB and Systems/Netsuite, etc. (CPT/OPT Work Authorization available))
 | Lockheed Martin | Fort Worth, Texas | **🔒 Closed 🔒** Software Engineer - Intern (US Citizenship required) |
-| [Freddie Mac](https://careers.freddiemac.com/us/en/job/JR7788/Multifamily-Software-Developer-Intern-Hybrid-or-Remote-Work-Schedule) | McLean, VA (Remote Available) | Multifamily Software Developer Intern |
+| Freddie Mac | McLean, VA (Remote Available) |  **🔒 Closed 🔒** Multifamily Software Developer Intern |
 | Jane Street | New York | **🔒 Closed 🔒** Software Engineer
 | Asana | San Francisco, New York City, Vancouver | 🔒 Closed 🔒 Software Engineering, Data Science Internships|
 | Seven Eight Capital | New York, Boston, Stamford | **🔒 Closed 🔒** Software Engineer Internship
