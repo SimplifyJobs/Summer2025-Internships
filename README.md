@@ -112,7 +112,6 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [JP Morgan](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210321355) | Multiple | Software Engineer Intern (10 Weeks) (no visa sponsorship) |
 | Roblox | San Mateo, CA | **🔒 Closed 🔒** Product Manager - Intern |
 | Intuit | **🔒 Closed 🔒** Mountain View, California; San Diego, California; Plano, Texas; New York, New York; Atlanta, Georgia | Software Engineer Intern |
-| [Uber](https://university-uber.icims.com/jobs/search?ss=1&searchKeyword=intern&searchRelation=keyword_all) | San Francisco, CA | **🔒 Closed 🔒** UberSTAR Program for Freshman & Sophomores |
 | [Hudson River Trading](https://www.hudsonrivertrading.com/careers/?_4118765=Internship) | New York, Austin, Chicago | Algorithm Development, Software Engineering (C++ or Python) |
 | Sentry.io | San Francisco, Toronto, Vienna | **🔒 Closed 🔒** Software Engineer, Intern |
 | Nordstrom | Remote, Seattle | **🔒 Closed 🔒** Software Engineering Internship |
@@ -652,6 +651,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Airbyte](https://boards.greenhouse.io/airbyte/jobs/4773520004) | Hybrid in SF | Backend Software Engineering Intern |
 | [Vial](https://jobs.lever.co/Vial/c416c6df-63d7-47f8-b252-bfc159c2e2db) | Remote | Software Engineer Intern |
 | [Stackshine](https://www.ycombinator.com/companies/stackshine/jobs/yAzrMfn-software-engineering-intern?utm_source=waasli) | Remote | Software Engineer Intern |
+| [Uber](https://university-uber.icims.com/jobs/search?ss=1&searchKeyword=intern&searchRelation=keyword_all) | San Francisco, CA |  [UberSTAR Product Design Program for Freshman & Sophomores](https://university-uber.icims.com/jobs/120533/uberstar-product-design-intern---summer-2023/job) |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
