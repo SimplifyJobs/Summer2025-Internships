@@ -98,7 +98,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | Virtu Financial | New York, NY | **🔒 Closed 🔒** Internship - Developer
 | Prudential | Newark, NJ | **🔒 Closed 🔒** Software Engineering Summer Internship Program
 | PDT Partners | New York, NY | **🔒 Closed 🔒** Software Engineering Internship
-| [Verkada](https://jobs.lever.co/verkada?department=Engineering#:~:text=SOFTWARE%20%2D%20CORE%20COMMAND-,SOFTWARE%20%2D%20EARLY%20CAREERS,-APPLY)| San Mateo, CA | Computer Vision Engineering Intern, [Embedded Systems Engineering Intern](https://jobs.lever.co/verkada/f8e567ee-b75f-498a-8cad-a0f0f47eb298), **🔒 Closed 🔒** Frontend Software Engineering Intern, **🔒 Closed 🔒** Mobile Engineering Intern, **🔒 Closed 🔒** Security Engineering Intern
+| Verkada| San Mateo, CA | **🔒 Closed 🔒** Computer Vision Engineering Intern, Embedded Systems Engineering Intern, Frontend Software Engineering Intern, Mobile Engineering Intern, Security Engineering Intern |
 | Code 2040 | Various | **🔒 Closed 🔒** Software Engineering Internship Fellowship |
 | Vanta | New York, NY | **🔒 Closed 🔒** SWE Internship
 | L3Harris Technologies | Amityville, NY | **🔒 Closed 🔒** Software Engineer Intern (US Government Security Clearance needed)
