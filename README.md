@@ -140,7 +140,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | Accenture | Multiple Locations in the US |  **🔒 Closed 🔒** Summer Analyst - Technology Development Program |
 | Quantcast | San Francisco, CA | **🔒 Closed 🔒** Software Engineering Intern |
 | [Belvedere Trading](https://jobs.lever.co/belvederetrading/5098c277-d2a6-41eb-ab9c-b80ded219154) | Chicago, IL | Software Engineering Intern |
-| [Jump Trading](https://www.jumptrading.com/careers/?locations=Chicago+Austin+New-York+New-Jersey+Remote+Cranberry-Township&titleSearch=campus+intern) | Chicago, IL | [Campus \| Software Engineer 2023 (Summer Intern)](https://www.jumptrading.com/careers/4452653/) <br> [Campus \| FPGA Engineer 2023 (Summer Intern)](https://www.jumptrading.com/careers/4471649/) <br> [Campus \| Tech Ops Engineer 2023 (Intern)](https://www.jumptrading.com/careers/4387580/) <br> [Campus \| Data Engineer 2023 (Summer Intern)](https://www.jumptrading.com/careers/4471685/) <br> [Campus \| Web Dev / UI Software Engineer 2023 (Summer Intern)](https://www.jumptrading.com/careers/4471639/) |
+| Jump Trading | Chicago, IL | **🔒 Closed 🔒** Software Engineer Intern, Tech Ops Engineer, Data Engineer, Web Dev / UI Software Engineer |
 | Databricks | San Francisco, Mountain View, CA | **🔒 Closed 🔒** Security Software Engineering Intern, IT Automation intern |
 | American Express | Multiple Locations |  **🔒 Closed 🔒** 2023 Technology Software Engineer Summer Internship (no sponsorship) |
 | Klaviyo | Remote | **🔒 Closed 🔒** Software Engineer Intern (No visa sponsorship)|
