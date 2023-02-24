@@ -248,7 +248,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Cloudflare](https://boards.greenhouse.io/cloudflare/jobs/4553743?gh_jid=4553743) | Austin, TX; or Champaign, IL; or Kirkland, WA; or San Francisco, CA | Software Engineer - Intern |
 | Sony Electronics | San Diego, CA | **🔒 Closed 🔒** Software Engineering Intern |
 | [2K](https://boards.greenhouse.io/2k/jobs/5303107003) | Novato, CA | Engineering Internship |
-| [Lacework](https://www.lacework.com/job-openings/?gh_jid=4646011004) | Remote | Software Engineer Intern |
+| Lacework | Remote | **🔒 Closed 🔒** Software Engineer Intern |
 | Axon | Multiple (US & Canada) | **🔒 Closed 🔒** Software Engineering Internship @ Scottsdale, AZ; Seattle, WA; Canada-Remote; US-Remote |
 | [Emerson Automation Solutions](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/22023193) | Round Rock, TX | Software Development Summer Intern (No Sponsorship) |
 | Shure Inc. | Irvine, CA | **🔒 Closed 🔒** Software Engineering Intern |
