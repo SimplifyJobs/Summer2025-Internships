@@ -597,7 +597,6 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | Salesforce x CodePath | San Francisco, CA | **🔒 Closed 🔒** Futureforce Tech Launchpad (rising juniors, class of '25)|
 | [Intel](https://intel.wd1.myworkdayjobs.com/en-US/External?q=software%20intern) | Various | [FPGA Software Engineering Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-San-Jose/FPGA-Software-Engineering-Intern_JR0235876?q=software+intern) <br> [Software Engineer Graduate Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-San-Jose/Software-Engineer-Graduate-Intern_JR0237862?q=software+intern) <br> [System Software Validation - Undergrad Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Santa-Clara/System-Software-Validation----Undergrad-Intern_JR0232859?q=software+intern) <br> Many more on website. |
 | [Harry's](https://boards.greenhouse.io/harrys/jobs/4798058) | New York, NY | Software Engineering Intern |
-| [Smartsheet](https://www.smartsheet.com/careers-list?location=&department=Internships+-+Summer+2023) | Bellevue, WA | Security Automation Intern, Security Engineering Team |
 | MyFitnessPal | Remote, US | **🔒 Closed 🔒** Android Engineer Intern, iOS Engineer Intern|
 | Meta | Menlo Park, Seattle, New York | [Software Engineer Internship/Co-Op](https://www.metacareers.com/jobs/543301834469909/) <br> [Meta University](https://www.metacareers.com/v2/jobs/875414340161910/) (Must be First or Second Year) |
 | [Stryker](https://careers.stryker.com/job-search-results/?keyword=software&location=USA&country=US&radius=25&job_type=Yes) | Varies | Multiple Summer SWE Internships (No Sponsorship) |
@@ -652,6 +651,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Vial](https://jobs.lever.co/Vial/c416c6df-63d7-47f8-b252-bfc159c2e2db) | Remote | Software Engineer Intern |
 | [Stackshine](https://www.ycombinator.com/companies/stackshine/jobs/yAzrMfn-software-engineering-intern?utm_source=waasli) | Remote | Software Engineer Intern |
 | [Uber](https://university-uber.icims.com/jobs/search?ss=1&searchKeyword=intern&searchRelation=keyword_all) | San Francisco, CA |  [UberSTAR Product Design Program for Freshman & Sophomores](https://university-uber.icims.com/jobs/120533/uberstar-product-design-intern---summer-2023/job) |
+| [Smartsheet](https://www.smartsheet.com/careers-list?location=&department=Internships+-+Summer+2023) | Bellevue, WA | [Software Engineering Intern, Messaging Team](https://www.smartsheet.com/careers/position/4891825/software-engineer-intern-messaging-team) |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
