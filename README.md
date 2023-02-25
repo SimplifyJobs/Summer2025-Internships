@@ -330,7 +330,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [TripActions](https://tripactions.com/job-openings/4488671?gh_jid=4488671&gh_src=b13de4e21) | Palo Alto, CA | Software Engineering Internship |
 | CyberArk | Remote USA | **🔒 Closed 🔒** Software Engineer Intern |
 | Nextdoor | San Francisco, CA |**🔒 Closed 🔒**  Software Engineer Intern |
-| [Reliable Robotics](https://jobs.lever.co/reliable/90367300-93c0-4b0f-8893-13ebd4af326d) | Mountain View, CA | **🔒 Closed 🔒** Flight Software Engineer Intern |
+| Reliable Robotics | Mountain View, CA | **🔒 Closed 🔒** Flight Software Engineer Intern |
 | Motive | Remote | **🔒 Closed 🔒** Software Engineering Intern |
 | Federal Reserve Board | Washington DC | **🔒 Closed 🔒** Software Developer Summer Intern |
 | [Ancestry](https://careers.ancestry.com/jobs/search/internships-search-page) | Lehi, UT | [Android Engineer, Summer Intern](https://careers.ancestry.com/jobs/android-engineer-summer-intern-hybrid-remote-office-based-lehi-utah-united-states); [iOS Engineer, Summer Intern](https://careers.ancestry.com/jobs/ios-engineer-summer-intern-hybrid-remote-office-based-lehi-utah-united-states); [Data Science, Summer Intern](https://careers.ancestry.com/jobs/data-science-cv-nlp-summer-intern-hybrid-remote-office-based-lehi-utah-united-states) |
