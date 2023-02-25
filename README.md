@@ -188,7 +188,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | Gallup | Omaha, NE |**🔒 Closed 🔒** Technical Project Manager, Cybersecurity Analyst, Data Science, Quality Assurance, Software Developer|
 | Dell| Round Rock, Texas or Hopkinton, Massachusetts | **🔒 Closed 🔒** Software Engineer Intern |
 | Neuralink | Fremont, CA | **🔒 Closed 🔒** Software Engineering Intern |
-| [Rivian](https://boards.greenhouse.io/rivian/jobs/5303129003) | Irvine, CA + Remote | **🔒 Closed 🔒** Product Development Engineering Interns, [Software Engineer Intern](https://boards.greenhouse.io/rivian/jobs/5303129003) |
+| Rivian | Irvine, CA + Remote | **🔒 Closed 🔒** Product Development Engineering Interns, Software Engineer Intern |
 | Zillow | Remote | **🔒 Closed 🔒** Software Development Engineer Intern |
 | Taboola | LA, CA | **🔒 Closed 🔒** Frontend Engineer Intern |
 | [Arrowstreet Capital](https://arrowstreetcapital.wd5.myworkdayjobs.com/en-US/Arrowstreet?q=intern) | Boston, MA | Quantitative Developer Intern, Quantitative Researcher Intern |
