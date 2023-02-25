@@ -135,7 +135,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | Chick-fil-A | Atlanta, GA | **🔒 Closed 🔒** Software Engineering Intern |
 | Aquatic Capital Management | Chicago, IL |  **🔒 Closed 🔒** Software Engineering Intern, Quantitative Research Intern |
 | [Ericsson](https://jobs.ericsson.com/job/Santa-Clara-Computer-Science-&-Data-Science-Internship-%282023%29-Cali/751881302/) | Santa Clara, CA | Software Engineering Intern, Data Science Intern |
-| [Twitch](https://www.twitch.tv/jobs/careers/6469166002/) | San Francisco, CA | Graduate Science Intern |
+| Twitch | San Francisco, CA | **🔒 Closed 🔒** Graduate Science Intern |
 | Accenture | Multiple Locations in the US |  **🔒 Closed 🔒** Summer Analyst - Technology Development Program |
 | Quantcast | San Francisco, CA | **🔒 Closed 🔒** Software Engineering Intern |
 | Belvedere Trading | Chicago, IL | **🔒 Closed 🔒** Software Engineering Intern |
