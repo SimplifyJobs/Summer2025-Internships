@@ -645,7 +645,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Chubb](https://careers.chubb.com/global/en/job/CIHIGLOBAL351957EXTERNALENGLOBAL/2023-Technology-Associate-Intern-Jersey-City) | Jersey City, NJ | Technology Associate Intern |
 | Precisely | Remote | 🔒 Closed 🔒 Software Engineer Intern |
 | [RXO](https://jobs.rxo.com/job/Chicago-Software-Engineer-Intern-IL-60601/994552700) | Chicago, IL | Software Engineer Intern |
-| [GitKraken](https://gitkraken.bamboohr.com/careers/56) | Scottsdale, AZ | Software Engineering Internship |
+| GitKraken | Scottsdale, AZ | 🔒 Closed 🔒 Software Engineering Internship |
 | identifeye HEALTH | Remote | 🔒 Closed 🔒 Software Engineering Internship |
 | [Airbyte](https://boards.greenhouse.io/airbyte/jobs/4773520004) | Hybrid in SF | Backend Software Engineering Intern |
 | [Vial](https://jobs.lever.co/Vial/c416c6df-63d7-47f8-b252-bfc159c2e2db) | Remote | Software Engineer Intern |
