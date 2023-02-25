@@ -392,7 +392,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | Mailchimp | Multiple |  **🔒 Closed 🔒** Product Manager Intern, Data Science Intern, Software Intern |
 | Vectra  | San Jose, Boston, Austin, Remote | [**🔒 Closed 🔒** Data Engineering Internship], Data Science Internship, Software Engineering Internship |
 | LaunchDarkly | Remote | **🔒 Closed 🔒** Backend Engineering Intern, Internal Tools, Data Engineering Intern, Data Scientist Intern |
-| [Invoca](https://www.invoca.com/company/job-listings?gh_jid=6101463002) | Remote, Santa Barbara | **🔒 Closed 🔒** Data Science Internship |
+| Invoca | Remote, Santa Barbara | **🔒 Closed 🔒** Data Science Internship |
 | ebay | Multiple Locations | **🔒 Closed 🔒** Engineering Intern |
 | Oscar Health | Remote | **🔒 Closed 🔒** Software Engineering Intern 2023 |
 | [Wisk](https://jobs.lever.co/wisk/4d2f1a07-8f6e-4243-ad2d-ebea17e390a9) | Remote | Software Engineer Intern - Full Stack |
