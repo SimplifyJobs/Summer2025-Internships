@@ -654,6 +654,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Smartsheet](https://www.smartsheet.com/careers-list?location=&department=Internships+-+Summer+2023) | Bellevue, WA | [Software Engineering Intern, Messaging Team](https://www.smartsheet.com/careers/position/4891825/software-engineer-intern-messaging-team) |
 | [Strava](https://boards.greenhouse.io/strava/jobs/4873239) | Remote | Software Engineer Intern |
 | [Pinata](https://boards.greenhouse.io/pinata/jobs/4049055006/) | Remote | Software Engineer Intern (Web3) |
+| UnitedMasters | San Francisco, CA | Engineering Internship for [API Team](https://boards.greenhouse.io/unitedmasters/jobs/6627624002) and [Web UI](https://boards.greenhouse.io/unitedmasters/jobs/6627619002) |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
