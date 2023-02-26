@@ -653,6 +653,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Uber](https://university-uber.icims.com/jobs/search?ss=1&searchKeyword=intern&searchRelation=keyword_all) | San Francisco, CA |  [UberSTAR Product Design Program for Freshman & Sophomores](https://university-uber.icims.com/jobs/120533/uberstar-product-design-intern---summer-2023/job) |
 | [Smartsheet](https://www.smartsheet.com/careers-list?location=&department=Internships+-+Summer+2023) | Bellevue, WA | [Software Engineering Intern, Messaging Team](https://www.smartsheet.com/careers/position/4891825/software-engineer-intern-messaging-team) |
 | [Strava](https://boards.greenhouse.io/strava/jobs/4873239) | Remote | Software Engineer Intern |
+| [Pinata](https://boards.greenhouse.io/pinata/jobs/4049055006/) | Remote | Software Engineer Intern (Web3) |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
