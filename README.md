@@ -111,7 +111,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | General Motors | Warren, MI | **🔒 Closed 🔒** 2023 Summer Intern – Software Engineering (Sponsorship **not** available.) |
 | [JP Morgan](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210321355) | Multiple | Software Engineer Intern (10 Weeks) (no visa sponsorship) |
 | Roblox | San Mateo, CA | **🔒 Closed 🔒** Product Manager - Intern |
-| Intuit | **🔒 Closed 🔒** Mountain View, California; San Diego, California; Plano, Texas; New York, New York; Atlanta, Georgia | Software Engineer Intern |
+| Intuit | Mountain View, California; San Diego, California; Plano, Texas; New York, New York; Atlanta, Georgia |  **🔒 Closed 🔒** Software Engineer Intern |
 | [Hudson River Trading](https://www.hudsonrivertrading.com/careers/?_4118765=Internship) | New York, Austin, Chicago | Algorithm Development, Software Engineering (C++ or Python) |
 | Sentry.io | San Francisco, Toronto, Vienna | **🔒 Closed 🔒** Software Engineer, Intern |
 | Nordstrom | Remote, Seattle | **🔒 Closed 🔒** Software Engineering Internship |
