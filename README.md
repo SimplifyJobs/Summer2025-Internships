@@ -618,7 +618,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | Tegus | Chicago, IL | **🔒 Closed 🔒** Software Engineer Intern |
 | [Ultra-Sonobuoy Systems](https://ultra.wd3.myworkdayjobs.com/ultra-careers/job/Victor-NY-United-States/Software-Engineering-Intern_REQ-5201-1) | Victor, NY | Software Engineering Intern (U.S. Citizenship Required) |
 | Beta | South Burlington, VT | **🔒 Closed 🔒** Summer 2023 Internship - Software |
-| [PWC](https://jobs.us.pwc.com/job/-/-/932/43383605072) | Multiple Locations & Remote | PwC Labs Software Engineering Intern (STEM extension for H1B possible) |
+| PWC | Multiple Locations & Remote | **🔒 Closed 🔒** PwC Labs Software Engineering Intern (STEM extension for H1B possible) |
 | [Peraton](https://careers-peraton.icims.com/jobs/130171/summer-2023-cyber-software-engineering-intern--landover%2c-md/job) | Landover, MD | Cyber Software Engineering Intern (must be US citizen) |
 | [Cowbell](https://boards.greenhouse.io/cowbellcyber/jobs/5454673003) | New York, NY (Remote) | Software Engineer (Platform) - Intern (Summer) |
 | [Formerly Known As](https://jobs.smartrecruiters.com/PublicisGroupe/743999882893812-associate-front-enddeveloperinternsource=Linkedin&utm_source=Simplify) | New York, NY (Onsite) | Associate Front-End Developer Intern |
