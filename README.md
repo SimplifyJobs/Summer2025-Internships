@@ -144,7 +144,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | American Express | Multiple Locations |  **🔒 Closed 🔒** 2023 Technology Software Engineer Summer Internship (no sponsorship) |
 | Klaviyo | Remote | **🔒 Closed 🔒** Software Engineer Intern (No visa sponsorship)|
 | Starbucks | Arizona, Seattle | **🔒 Closed 🔒**  Technology undergraduate intern |
-| [IBM](https://www.ibm.com/us-en/employment/entrylevel/#jobs?%23jobs=&job-search=) | Multiple Locations in the US | **🔒 Closed 🔒** Firmware Developer Summer Intern, Data Scientist Intern (Multiple Openings) |
+| IBM | Multiple Locations in the US | **🔒 Closed 🔒** Firmware Developer Summer Intern, Data Scientist Intern (Multiple Openings) |
 | Fidelity | Boston, MA | **🔒 Closed 🔒** Data Analytics Intern |
 | Cohen & Co | Multiple Locations in the US | **🔒 Closed 🔒** Software Development Internship |
 | Figma | NY, SF | **🔒 Closed 🔒** Software Engineer Intern |
@@ -500,7 +500,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [BP](https://www.bp.com/en/global/corporate/careers/jobs-at-bp/Data-Engineering-Intern-139997BR.html) | Houston, TX | Data Engineering Intern (No Sponsorship) |
 | [Schlumberger](https://careers.slb.com/fojoblist/it-intern) | Houston, TX or Menlo Park, CA | Information Technology Intern |
 | [BAE Systems](https://jobs.baesystems.com/global/en/leap) | Multiple locations | [Software Engineering Intern](https://jobs.baesystems.com/global/en/job/86199BR/Software-Engineering-Intern), [Systems Engineering intern](https://jobs.baesystems.com/global/en/job/86198BR/Systems-Engineering-Intern), [Virtual Reality intern](https://jobs.baesystems.com/global/en/job/86078BR/Virtual-Reality-Engineering-Intern-Summer-2023), additional on website |
-| Snap Inc. | Multiple Location | **🔒 Closed 🔒** 2023 Software Engineer Intern |
+| Snap Inc. | Multiple Locations | **🔒 Closed 🔒** 2023 Software Engineer Intern |
 | [Zipline](https://www.flyzipline.com/careers) | San Francisco, CA | **🔒 Closed 🔒** Software Engineering Intern - Hardware Test, SWE - Apps, SWE - Flight Routes, SWE - Perception, Machine Learning Software Developer Intern - Meteorology |
 | [FactSet](https://factset.wd1.myworkdayjobs.com/en-US/FactSetCareers/job/Software-Engineer-Intern---Americas-Campus--Summer-2023-_R18012) | Multiple Location | Software Engineer Intern (No Sponsorship) |
 | [PTC](https://ptc.eightfold.ai/careers?query=Software%20Intern&pid=137453256339&domain=ptc.com&triggerGoButton=false) | Boston, MA | Software Engineer Intern, Software Developer Intern |
