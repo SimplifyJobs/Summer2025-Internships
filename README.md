@@ -657,6 +657,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | UnitedMasters | San Francisco, CA | Engineering Internship for [API Team](https://boards.greenhouse.io/unitedmasters/jobs/6627624002) and [Web UI](https://boards.greenhouse.io/unitedmasters/jobs/6627619002) |
 | [CCC Intelligent Solutions](https://cccis.recsolu.com/jobs/ygJivv16AvTJYT8jBKr7IA) | Chicago, IL | Software Engineer Intern |
 | [GE HealthCare](https://jobs.gecareers.com/healthcare/global/en/job/GE11GLOBALR3683558EXTERNALENGLOBAL/Digital-Technology-Intern-icstars) | Wauwatosa, Wisconsin or Remote | Digital Technology Intern (no sponsorship) |
+| [Cantaloupe](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=2841c74f-b09d-4838-bd8d-66c8281ba899&ccId=19000101_000001&type=MP&lang=en_US&jobId=461590) | Atlanta, GA or Malvern, PA | Software Engineer Intern |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
