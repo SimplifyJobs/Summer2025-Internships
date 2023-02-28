@@ -465,7 +465,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | Citizens | **🔒 Closed 🔒** Johnston, Rhode Island; Phoenix, Arizona | Technology Summer Internship Program: Software Engineer (No Sponsorship) |
 | Philips | **🔒 Closed 🔒** Bothell, WA | Software Engineering Intern (No Sponsorhip) |
 | [Monad Labs](https://boards.greenhouse.io/monad/jobs/4043504005) | Remote (US & Canada) | **🔒 Closed 🔒** Low-Latency C++ Software Engineering Intern |
-| Red Hat | Multiple Locations |  **🔒 Closed 🔒** Software Engineering Internship | 
+| [Red Hat](https://us-redhat.icims.com/jobs/97978/software-engineering-internship/job) | Remote | Software Engineering Internship | 
 | Black & Veatch | **🔒 Closed 🔒** Remote (US) | Software Developer Intern |
 | Domo | American Fork, Utah | **🔒 Closed 🔒** Software Engineer Intern
 | [Lexmark](https://www.lexmark.com/en_us/careers/job-description.143572.html) | Boulder, CO | Software Engineer Student - Summer 2023 |
