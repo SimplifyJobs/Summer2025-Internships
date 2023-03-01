@@ -486,7 +486,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | PlayStation | Multiple | **🔒 Closed 🔒** Software Engineering Intern | 
 | Reddit | SF, NY, Remote | **🔒 Closed 🔒** Software Engineering Intern |
 | [Johns Hopkins APL](https://careers.jhuapl.edu/jobs?keywords=software%20intern&sortBy=relevance&page=1) | Laurel, MD; Remote, US | Multiple 2023 SWE intern positions (US Citizenship required) |
-| [Nelnet](https://nelnet.wd1.myworkdayjobs.com/en-US/MyNelnet/job/Remote/Intern---Software-Engineer---Java_R15687) | Remote, US | Intern - Software Engineer - Java |
+| Nelnet | Remote, US | **🔒 Closed 🔒**  Intern - Software Engineer - Java |
 | Bubble | New York, NY | **🔒 Closed 🔒** Software Engineer Intern |
 | Badger Meter | Milwaukee, WI | **🔒 Closed 🔒** Software Engineering Intern |
 | Etsy | Brooklyn, NY | **🔒 Closed 🔒** Software Engineering Intern |
