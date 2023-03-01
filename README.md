@@ -658,6 +658,10 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [CCC Intelligent Solutions](https://cccis.recsolu.com/jobs/ygJivv16AvTJYT8jBKr7IA) | Chicago, IL | Software Engineer Intern |
 | [GE HealthCare](https://jobs.gecareers.com/healthcare/global/en/job/GE11GLOBALR3683558EXTERNALENGLOBAL/Digital-Technology-Intern-icstars) | Wauwatosa, Wisconsin or Remote | Digital Technology Intern (no sponsorship) |
 | [Cantaloupe](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=2841c74f-b09d-4838-bd8d-66c8281ba899&ccId=19000101_000001&type=MP&lang=en_US&jobId=461590) | Atlanta, GA or Malvern, PA | Software Engineer Intern |
+| Vimbly | New York | [Platform Developer Internship](https://www.vimblygroup.com/careers?jobid=398), [Front End Developer Internship](https://www.vimblygroup.com/careers?jobid=399)  |
+| Virtru | Washington DC or Remote | [Graduate Software Developer Intern](https://boards.greenhouse.io/virtru/jobs/4207126005), [Software Developer in Test (SDET) Intern](https://boards.greenhouse.io/virtru/jobs/4205380005)  |
+| Spectrum | Austin, TX | [Software Developer Intern](https://jobs.spectrum.com/job/austin/2023-summer-intern-software-developer-i/4673/43600800864) |
+| Agot AI | Pittsburgh, PA | [Software Engineering Intern](https://jobs.lever.co/agotai/c7d7246a-8056-4878-887e-47eaf2a30ba6), [Infrastructure Intern](https://jobs.lever.co/agotai/6a069dcb-3030-4525-8eeb-2a60f263d0b0), [Deep Learning Infrastructure Intern](https://jobs.lever.co/agotai/2b191d37-36b8-4251-b1a6-90d49f4b014a), [Computer Vision Engineering Intern](https://jobs.lever.co/agotai/aebe6b44-9b0e-4062-90ad-2829ae998aec) |
 | [Brightly](https://recruiting.paylocity.com/Recruiting/Jobs/Details/1554540) | Remote | Site Reliability Engineer Intern |
 
 <!-- Please leave a one line gap between this and the table -->
