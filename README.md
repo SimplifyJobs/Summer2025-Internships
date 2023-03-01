@@ -641,7 +641,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Generate Biomedicines](https://generatebiomedicines.com/open-positions?gh_jid=4048283006) | Somerville, MA (On-site) | Machine Learning Intern |
 | Smith+Nephew | Pittsburgh, PA | 🔒 Closed 🔒 Robotics Software Engineering Intern |
 | [Urban Science](https://careers-urbanscience.icims.com/jobs/4785/software-engineering-intern---summer-2023/job?mobile=false&width=1176&height=800&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240) | Detroit, MI | Software Engineering Intern |
-| [Squarespace](https://www.squarespace.com/careers/jobs/4856370?location=chicago) | Chicago, IL | Tock Software Engineer Intern |
+| Squarespace | Chicago, IL | 🔒 Closed 🔒 Tock Software Engineer Intern |
 | [Chubb](https://careers.chubb.com/global/en/job/CIHIGLOBAL351957EXTERNALENGLOBAL/2023-Technology-Associate-Intern-Jersey-City) | Jersey City, NJ | Technology Associate Intern |
 | Precisely | Remote | 🔒 Closed 🔒 Software Engineer Intern |
 | [RXO](https://jobs.rxo.com/job/Chicago-Software-Engineer-Intern-IL-60601/994552700) | Chicago, IL | Software Engineer Intern |
@@ -651,7 +651,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Vial](https://jobs.lever.co/Vial/c416c6df-63d7-47f8-b252-bfc159c2e2db) | Remote | Software Engineer Intern |
 | [Stackshine](https://www.ycombinator.com/companies/stackshine/jobs/yAzrMfn-software-engineering-intern?utm_source=waasli) | Remote | Software Engineer Intern |
 | [Uber](https://university-uber.icims.com/jobs/search?ss=1&searchKeyword=intern&searchRelation=keyword_all) | San Francisco, CA |  [UberSTAR Product Design Program for Freshman & Sophomores](https://university-uber.icims.com/jobs/120533/uberstar-product-design-intern---summer-2023/job) |
-| [Smartsheet](https://www.smartsheet.com/careers-list?location=&department=Internships+-+Summer+2023) | Bellevue, WA | [Software Engineering Intern, Messaging Team](https://www.smartsheet.com/careers/position/4891825/software-engineer-intern-messaging-team) |
+| Smartsheet | Bellevue, WA | 🔒 Closed 🔒 Software Engineering Intern, Messaging Team |
 | [Strava](https://boards.greenhouse.io/strava/jobs/4873239) | Remote | Software Engineer Intern |
 | Pinata | Remote | 🔒 Closed 🔒 Software Engineer Intern (Web3) |
 | UnitedMasters | San Francisco, CA | Engineering Internship for [API Team](https://boards.greenhouse.io/unitedmasters/jobs/6627624002) and [Web UI](https://boards.greenhouse.io/unitedmasters/jobs/6627619002) |
