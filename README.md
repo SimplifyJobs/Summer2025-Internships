@@ -641,7 +641,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Generate Biomedicines](https://generatebiomedicines.com/open-positions?gh_jid=4048283006) | Somerville, MA (On-site) | Machine Learning Intern |
 | Smith+Nephew | Pittsburgh, PA | 🔒 Closed 🔒 Robotics Software Engineering Intern |
 | [Urban Science](https://careers-urbanscience.icims.com/jobs/4785/software-engineering-intern---summer-2023/job?mobile=false&width=1176&height=800&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240) | Detroit, MI | Software Engineering Intern |
-| [Squarespace](https://www.squarespace.com/careers/jobs/4856370?location=chicago) | Chicago, IL | Tock Software Engineer Intern |
+| Squarespace | Chicago, IL | 🔒 Closed 🔒 Tock Software Engineer Intern |
 | [Chubb](https://careers.chubb.com/global/en/job/CIHIGLOBAL351957EXTERNALENGLOBAL/2023-Technology-Associate-Intern-Jersey-City) | Jersey City, NJ | Technology Associate Intern |
 | Precisely | Remote | 🔒 Closed 🔒 Software Engineer Intern |
 | [RXO](https://jobs.rxo.com/job/Chicago-Software-Engineer-Intern-IL-60601/994552700) | Chicago, IL | Software Engineer Intern |
