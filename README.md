@@ -663,6 +663,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | Agot AI | Pittsburgh, PA | [Software Engineering Intern](https://jobs.lever.co/agotai/c7d7246a-8056-4878-887e-47eaf2a30ba6), [Infrastructure Intern](https://jobs.lever.co/agotai/6a069dcb-3030-4525-8eeb-2a60f263d0b0), [Deep Learning Infrastructure Intern](https://jobs.lever.co/agotai/2b191d37-36b8-4251-b1a6-90d49f4b014a), [Computer Vision Engineering Intern](https://jobs.lever.co/agotai/aebe6b44-9b0e-4062-90ad-2829ae998aec) |
 | [Brightly](https://recruiting.paylocity.com/Recruiting/Jobs/Details/1554540) | Remote | Site Reliability Engineer Intern |
 | [Two Sigma](https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Quantitative-Researcher-Internship/10972)                                                                                    | New York, NY & Houston, TX                     | Quant Research, [SWE](https://careers.twosigma.com/careers/JobDetail?jobId=11002), [SWE First Year Internship](https://careers.twosigma.com/careers/JobDetail/Houston-Texas-United-States-First-Year-Software-Engineering-Internship-Houston/11012) |
+| [MetroStar](https://www.metrostar.com/job-post/?gh_jid=5516986003) | Remote | Summer 2023 Technology Internship |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
