@@ -489,7 +489,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | Bubble | New York, NY | **🔒 Closed 🔒** Software Engineer Intern |
 | Badger Meter | Milwaukee, WI | **🔒 Closed 🔒** Software Engineering Intern |
 | Etsy | Brooklyn, NY | **🔒 Closed 🔒** Software Engineering Intern |
-| [McKinsey & Company](https://www.mckinsey.com/careers/search-jobs?query=software%20engineer%20intern) | New York City, NY; or San Francisco, CA |[Data Engineering Intern - QuantumBlack (Only Class of 2023-2024)](https://www.mckinsey.com/careers/search-jobs/jobs/dataengineeringintern-quantumblack-universitystudents-58600), [Software Engineering Intern - GCI Analytics](https://www.mckinsey.com/careers/search-jobs/jobs/softwareengineeringintern-gcianalytics-59688) |
+| [McKinsey & Company](https://www.mckinsey.com/careers/search-jobs?query=software%20engineer%20intern) | New York City, NY; or San Francisco, CA | **🔒 Closed 🔒**  Data Engineering Intern - QuantumBlack (Only Class of 2023-2024), **🔒 Closed 🔒** Software Engineering Intern - GCI Analytics |
 | [Color](https://jobs.lever.co/color/93e1b4d8-7822-41bc-9d83-f8333cd5230f) | Remote, USA | Software Engineering Intern |
 | [Tealium](https://jobs.lever.co/tealium/01b097dc-a904-448d-8cfc-91a372e2156c) | Remote, USA | Software Engineer, Intern |
 | Pandora | Multiple Locations |  **🔒 Closed 🔒** Summer Intern, Client API |
