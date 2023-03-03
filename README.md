@@ -231,7 +231,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Adobe](https://careers.adobe.com/us/en/job/R131734/2023-Intern-Machine-Learning-Engineer-Intern) | Various | Machine Learning Engineer intern |
 | Merge | San Francisco, CA & New York City, NY | **🔒 Closed 🔒** Software Engineer Intern |
 | NASA Jet Propulsion Laboratory | Pasadena, CA | **🔒 Closed 🔒**  Software Engineer Intern |
-| [Lowe's](https://talent.lowes.com/us/en/job/2411616BR/Software-Engineer-Undergraduate-Intern) | Charlotte, NC | Software Engineer, Undergraduate Intern |
+| Lowe's | Charlotte, NC | **🔒 Closed 🔒** Software Engineer, Undergraduate Intern |
 | [Collins Aerospace](https://careers.rtx.com/global/en/job/01553158) | Cedar Rapids, Iowa | Software Engineer Intern (US Citizenship Required) |
 | [AeroVironment](https://avav.wd1.myworkdayjobs.com/en-US/avav?q=software%20engineer%20intern) | Various | Software Engineering Intern (US Citizenship Required) |
 | [Allegion](https://allegion.wd5.myworkdayjobs.com/careers/job/Carmel-IN/Summer-Intern---Software-Engineer_JR23390-1) | Carmel, IN | Summer Intern - Software Engineer |
