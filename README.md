@@ -651,7 +651,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Stackshine](https://www.ycombinator.com/companies/stackshine/jobs/yAzrMfn-software-engineering-intern?utm_source=waasli) | Remote | Software Engineer Intern |
 | [Uber](https://university-uber.icims.com/jobs/search?ss=1&searchKeyword=intern&searchRelation=keyword_all) | San Francisco, CA |  [UberSTAR Product Design Program for Freshman & Sophomores](https://university-uber.icims.com/jobs/120533/uberstar-product-design-intern---summer-2023/job) |
 | Smartsheet | Bellevue, WA | 🔒 Closed 🔒 Software Engineering Intern, Messaging Team |
-| [Strava](https://boards.greenhouse.io/strava/jobs/4873239) | Remote | Software Engineer Intern |
+| Strava | Remote | 🔒 Closed 🔒 Software Engineer Intern |
 | Pinata | Remote | 🔒 Closed 🔒 Software Engineer Intern (Web3) |
 | UnitedMasters | San Francisco, CA | Engineering Internship for [API Team](https://boards.greenhouse.io/unitedmasters/jobs/6627624002) and [Web UI](https://boards.greenhouse.io/unitedmasters/jobs/6627619002) |
 | [CCC Intelligent Solutions](https://cccis.recsolu.com/jobs/ygJivv16AvTJYT8jBKr7IA) | Chicago, IL | Software Engineer Intern |
