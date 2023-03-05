@@ -547,7 +547,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [SandboxAQ](https://www.sandboxaq.com/careers-list?gh_jid=4601309004) | San Francisco, CA | Internship - Prototyping Engineer |
 | PepsiCo | Purchase, NY or Plano, TX | **🔒 Closed 🔒** Digital Transformation Intern (no sponsorship) |
 | Schneider Electric | Nashville, TN | **🔒 Closed 🔒** Software Developer Intern |
-| Enable Medicine | San Francisco, CA or New York City, NY | Software Engineer Intern for [NYC summer](https://enablemedicine.pinpointhq.com/en/jobs/75390), [SF summer](https://enablemedicine.pinpointhq.com/en/jobs/75389), [NYC spring](https://enablemedicine.pinpointhq.com/en/jobs/75391), [SF spring](https://enablemedicine.pinpointhq.com/en/jobs/75388) |
+| Enable Medicine | San Francisco, CA or New York City, NY |  [Data Science & ML](https://enablemedicine.pinpointhq.com/en/postings/262b520b-f222-43ab-b5ff-161b97a6288e), [Associate PM Intern](https://enablemedicine.pinpointhq.com/en/postings/70b7099a-b69d-4139-b388-00225243738c) |
 | BorgWarner | Auburn Hills, MI | **🔒 Closed 🔒** Web Application Intern (must be currently authorized) |
 | [DriveTime](https://drivetime.wd1.myworkdayjobs.com/en-US/DriveTime/job/Data-Science-Intern_R2269) | Tempe, AZ or Dallas, TX | Data Science Intern |
 | Affirm | Remote | **🔒 Closed 🔒** Security Software Engineer Intern  |
