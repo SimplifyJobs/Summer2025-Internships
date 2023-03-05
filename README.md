@@ -332,7 +332,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | Reliable Robotics | Mountain View, CA | **🔒 Closed 🔒** Flight Software Engineer Intern |
 | Motive | Remote | **🔒 Closed 🔒** Software Engineering Intern |
 | Federal Reserve Board | Washington DC | **🔒 Closed 🔒** Software Developer Summer Intern |
-| [Ancestry](https://careers.ancestry.com/jobs/search/internships-search-page) | Lehi, UT | [Android Engineer, Summer Intern](https://careers.ancestry.com/jobs/android-engineer-summer-intern-hybrid-remote-office-based-lehi-utah-united-states); [iOS Engineer, Summer Intern](https://careers.ancestry.com/jobs/ios-engineer-summer-intern-hybrid-remote-office-based-lehi-utah-united-states); [Data Science, Summer Intern](https://careers.ancestry.com/jobs/data-science-cv-nlp-summer-intern-hybrid-remote-office-based-lehi-utah-united-states) |
+| Ancestry | Lehi, UT | **🔒 Closed 🔒** Android Engineer, iOS Engineer, Data Science |
 | Crusoe | San Francisco, CA | **🔒 Closed 🔒** University / Software Engineer (Intern) |
 | Farm Credit Services of America | Omaha, NE | **🔒 Closed 🔒** Web Software Systems Engineer Intern |
 | [Raytheon](https://careers.rtx.com/global/en/job/RAYTGLOBAL01567022EXTERNALENGLOBAL/UP-2023-Software-Engineer-Internships) | Multiple | UP 2023 Software Engineer Internships (US Citizenship Required) |
