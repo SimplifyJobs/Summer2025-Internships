@@ -326,7 +326,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | Zoox | Foster City, CA | [Robot Software Infrastructure](https://jobs.lever.co/zoox/c84006b4-0e77-4362-8cfe-5f8b82b8b347) |
 | [Autodesk](https://autodesk.wd1.myworkdayjobs.com/Ext/job/California-USA---Remote/Intern--Software-Engineer_22WD64165-1?src=JB-10065) | Various | Intern, Software Engineer @ Remote |
 | [IDEMIA](https://uscareers-idemia.icims.com/jobs/5382/software-development-internship/job) | Anaheim, CA | Software Development Internship (US Citizenship Required; No Sponsorship) |
-| [TripActions](https://tripactions.com/job-openings/4488671?gh_jid=4488671&gh_src=b13de4e21) | Palo Alto, CA | Software Engineering Internship |
+| TripActions | Palo Alto, CA |  **🔒 Closed 🔒** Software Engineering Internship |
 | CyberArk | Remote USA | **🔒 Closed 🔒** Software Engineer Intern |
 | Nextdoor | San Francisco, CA |**🔒 Closed 🔒**  Software Engineer Intern |
 | Reliable Robotics | Mountain View, CA | **🔒 Closed 🔒** Flight Software Engineer Intern |
