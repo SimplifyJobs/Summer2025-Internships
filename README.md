@@ -493,7 +493,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Color](https://jobs.lever.co/color/93e1b4d8-7822-41bc-9d83-f8333cd5230f) | Remote, USA | Software Engineering Intern |
 | [Tealium](https://jobs.lever.co/tealium/01b097dc-a904-448d-8cfc-91a372e2156c) | Remote, USA | Software Engineer, Intern |
 | Pandora | Multiple Locations |  **🔒 Closed 🔒** Summer Intern, Client API |
-| [Samsung](https://boards.greenhouse.io/samsungresearchamericainternship/) | Mountain View, CA | [ML Think Tank Intern](https://boards.greenhouse.io/samsungresearchamericainternship/jobs/5922339002), [SWE Think Tank Intern](https://boards.greenhouse.io/samsungresearchamericainternship/jobs/5868447002) |
+| [Samsung](https://boards.greenhouse.io/samsungresearchamericainternship/) | Mountain View, CA | [Multiple Research, Software Engineering, and PM positions] (https://boards.greenhouse.io/samsungresearchamericainternship/) |
 | Shield AI| Multiple Locations | **🔒 Closed 🔒** Systems Engineering, Android, Infrastructure Foundations Engineer |
 | [BMW Group](https://www.bmwgroup.jobs/us/en/opportunities/student.html) | Multiple locations | [RF Systems Engineering](https://www.bmwgroup.jobs/us/en/jobfinder/job-description.220003WJ.html), [UX Engineer](https://www.bmwgroup.jobs/us/en/jobfinder/job-description.220003UV.html), additional on website
 | [BP](https://www.bp.com/en/global/corporate/careers/jobs-at-bp/Data-Engineering-Intern-139997BR.html) | Houston, TX | Data Engineering Intern (No Sponsorship) |
@@ -597,7 +597,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Intel](https://intel.wd1.myworkdayjobs.com/en-US/External?q=software%20intern) | Various | [FPGA Software Engineering Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-San-Jose/FPGA-Software-Engineering-Intern_JR0235876?q=software+intern) <br> [Software Engineer Graduate Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-San-Jose/Software-Engineer-Graduate-Intern_JR0237862?q=software+intern) <br> [System Software Validation - Undergrad Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Santa-Clara/System-Software-Validation----Undergrad-Intern_JR0232859?q=software+intern) <br> Many more on website. |
 | [Harry's](https://boards.greenhouse.io/harrys/jobs/4798058) | New York, NY | Software Engineering Intern |
 | MyFitnessPal | Remote, US | **🔒 Closed 🔒** Android Engineer Intern, iOS Engineer Intern|
-| Meta | Menlo Park, Seattle, New York | [Software Engineer Internship/Co-Op](https://www.metacareers.com/jobs/543301834469909/) <br> [Meta University](https://www.metacareers.com/v2/jobs/875414340161910/) (Must be First or Second Year) |
+| Meta | Menlo Park, Seattle, New York | **🔒 Closed 🔒** Software Engineer Internship/Co-Op <br> Meta University(Must be First or Second Year) |
 | [Stryker](https://careers.stryker.com/job-search-results/?keyword=software&location=USA&country=US&radius=25&job_type=Yes) | Varies | Multiple Summer SWE Internships (No Sponsorship) |
 | [Siemens](https://jobs.siemens.com/disw/jobs?page=1&experienceLevels=Student%20(Not%20Yet%20Graduated)&location=united%20states&stretch=0&stretchUnit=MILES&categories=Internal%20Services) | Varies | Multiple Summer SWE Internships (No Sponsorship) |
 | [Discord](https://discord.com/careers) | San Francisco, CA or Remote | Multiple summer internships avaliable (SWE, ML, Data) |
