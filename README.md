@@ -262,7 +262,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Yext] | Washington, D.C. | **🔒 Closed 🔒** 2023 Software Engineer Summer Intern |
 | Compass Minerals | Remote, USA; or Overland Park, KS | **🔒 Closed 🔒** Software Engineer Intern |
 | Anduril | Costa Mesa, CA | **🔒 Closed 🔒** Software Engineering, Robotics Software Engineering (US Person Status Required) |
-| [Wolverine](https://jobs.lever.co/wolve/4a6fd0be-6bb7-4bbb-9dd5-1416d6a5f5b7) | Chicago, IL | Software Engineer Intern (No Sponsorship) |
+| Wolverine | Chicago, IL | **🔒 Closed 🔒** Software Engineer Intern (No Sponsorship) |
 | [Pure Storage] | Mountain View, CA | **🔒 Closed 🔒** Software Engineer Intern |
 | DeepMind | Mountain View, CA | **🔒 Closed 🔒** Research Engineer Intern |
 | Symbiotic | Wilmington, MA  | **🔒 Closed 🔒** Software Engineer Intern |
