@@ -293,7 +293,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | McDonald's| Chicago, IL | **🔒 Closed 🔒** Software Development Engineer |
 | BCG | Varies | **🔒 Closed 🔒** Engineering Intern, Software Engineering | 
 | [C3.ai](https://c3.ai/job-description/?gh_jid=6289026002) | Redwood City, CA | Software Engineer Intern | 
-| [Roku](https://www.weareroku.com/jobs/search?page=1&query=&country_codes%5B%5D=US&string_field_1%5B%5D=Internships) | San Jose, CA | [Software Engineer Intern, Cloud](https://www.weareroku.com/jobs/software-engineer-intern-cloud-san-jose-california-united-states), [Software Engineer Intern, Web](https://www.weareroku.com/jobs/software-engineer-intern-web-san-jose-california-united-states-cabd1cba-0fd6-4dfa-979b-6781a4615cea), [Software Engineer Intern, Embedded](https://www.weareroku.com/jobs/software-engineer-intern-embedded-san-jose-california-united-states-80f80523-3868-45dd-a784-9177fc95447b),[Software Engineer Intern, ML](https://www.weareroku.com/jobs/software-engineer-intern-machine-learning-san-jose-california-united-states)|
+| Roku | San Jose, CA |  **🔒 Closed 🔒** Software Engineer Internships |
 | Google | Multiple | **🔒 Closed 🔒** Software Engineer Intern|
 | Bank of America | Multiple Locations | **🔒 Closed 🔒** Software Engineer/Developer (Undergrad) |
 | [Pearson](https://pearson.jobs/bloomington-mn/software-development-intern/A59D36809211450CBE681C2B5D9F4BF1/job/) | Bloomington, MN | Software Development Intern |
