@@ -283,7 +283,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Sierra Nevada Corporation](https://snc.wd1.myworkdayjobs.com/en-US/SNC_External_Career_Site/job/Englewood-CO/Software-Engineer-Intern--Summer-2023-_R0018868) | Englewood, CO; or Huntsville, AL; or Hagerstown, MD | Software Engineer Intern |
 | Sysco | Houston, TX; or Austin, TX | **🔒 Closed 🔒** Intern - Software Development Engineer (10 Week during Summer)（undergrad） |
 | DoorDash | Multiple Locations | **🔒 Closed 🔒** Software Engineer Intern: US Position, Toronto Position |
-| [United](https://careers.united.com/us/en/job/WHQ00020911/Intern-Digital-Technology-Summer-2023) | Chicago, IL | Digital Technology Intern (no sponsorship) | 
+| United | Chicago, IL | **🔒 Closed 🔒** Digital Technology Intern (no sponsorship) | 
 | Cornerstone | Dublin, CA | **🔒 Closed 🔒** Software Engineering Intern (Front end) | 
 | Merck | Varies | **🔒 Closed 🔒** IT Emerging Talent Intern | 
 | Jamf | Varies/Remote | **🔒 Closed 🔒** Software Engineering Intern | 
