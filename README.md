@@ -116,7 +116,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | Nordstrom | Remote, Seattle | **🔒 Closed 🔒** Software Engineering Internship |
 | Bluestaq | Colorado Springs, CO | **🔒 Closed 🔒** Software Development Internship (U.S. citizen required) |
 | Johnson & Johnson | Various | **🔒 Closed 🔒** Software Development Internship (sponsorship not available) |
-| [DRW](https://drw.com/work-at-drw/job/quantitative-research-intern-2301002/) | Chicago, IL; Greenwich, CT; Houston, TX; Austin, TX; New York, NY | Quantitative Research Intern (Chicago, Masters/PhD) |
+| DRW | Chicago, IL; Greenwich, CT; Houston, TX; Austin, TX; New York, NY | **🔒 Closed 🔒** Quantitative Research Intern (Chicago, Masters/PhD) |
 | Salesforce | Multiple Locations in United States| **🔒 Closed 🔒** SWE Internship |
 | [Instabase](https://instabase.com/careers/) | San Francisco, Menlo Park, & New York City | **🔒 Closed 🔒** Software Engineer, Intern (Frontend/Fullstack), Software Engineer, Intern (Backend) |
 | [Cisco](https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-I-Intern-United-States/1380727) | Multiple Location in United States | Software Engineer I (Intern), [Data Analyst Intern](https://jobs.cisco.com/jobs/ProjectDetail/Data-Analyst-Intern-United-States/1380904?source=Cisco+Jobs+Career+Site&tags=CDC+Keyword+Search+students-and-new-graduates), [Data Scientist Intern](https://jobs.cisco.com/jobs/ProjectDetail/Data-Scientist-Intern-United-States/1381149?source=Cisco+Jobs+Career+Site&tags=CDC+Keyword+Search+students-and-new-graduates) (No visa sponsorship) |
