@@ -278,7 +278,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Matroid](https://matroid.breezy.hr/p/46f69de2cc24-software-engineer-intern-infrastructure) | Palo Alto, CA | **🔒 Closed 🔒** Software Engineer |
 | [Proofpoint](https://proofpoint.wd5.myworkdayjobs.com/en-US/ProofpointCareers/job/Draper-UT/Software-Engineer-Summer-Intern---Undergrad_R8448) | Draper, UT | Software Engineer | 
 | Grammarly | Remote | **🔒 Closed 🔒** Software Engineer | 
-| [Dimensional Careers](https://dimensional.wd5.myworkdayjobs.com/en-US/DFA_Campus/job/Austin/Internship-in-Technology---Software-Engineer--Undergraduate---Master-s-_2022-6883) | Austin, TX | Software Engineering (Must be authorized to work in US) | 
+| Dimensional Careers | Austin, TX | **🔒 Closed 🔒** Software Engineering (Must be authorized to work in US) | 
 | Labcorp | Durham, NC; or Indianapolis, IN | **🔒 Closed 🔒** Software Developer Internship |
 | [Sierra Nevada Corporation](https://snc.wd1.myworkdayjobs.com/en-US/SNC_External_Career_Site/job/Englewood-CO/Software-Engineer-Intern--Summer-2023-_R0018868) | Englewood, CO; or Huntsville, AL; or Hagerstown, MD | Software Engineer Intern |
 | Sysco | Houston, TX; or Austin, TX | **🔒 Closed 🔒** Intern - Software Development Engineer (10 Week during Summer)（undergrad） |
