@@ -320,7 +320,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Nutanix](https://nutanix.eightfold.ai/careers?query=software%20intern&pid=13280687&domain=nutanix.com) | Remote | Software Defined Network Engineering Intern, Database Engineering Intern, Hybrid Cloud Engineering Intern, and other various SWE roles|
 | Oshkosh Corporation | **🔒 Closed 🔒** Various - Oshkosh, Appleton, Madison,Kewaunee in WI, Hagerstown MD, Greencastle, McConnellsburg, Shippensburg in PA | Software Engineering Intern |
 | [Paylocity](https://www.paylocity.com/careers/career-opportunities/early-career/?jobId=14173/) | Remote | [Data Science internship](https://www.paylocity.com/careers/career-opportunities/early-career/?jobId=14171)|
-| [Snowflake](https://careers.snowflake.com/us/en/job/6397516002?gh_jid=6397516002) | San Mateo, CA | Software Engineer Intern (Core/Database Engineering) |
+| Snowflake | San Mateo, CA | **🔒 Closed 🔒** Software Engineer Intern (Core/Database Engineering) |
 | [Trimble](https://trimblecareers.trimble.com/careers/job?domain=trimble.com&query=Software%20Engineering%20Intern&pid=171812012551) | Westminster, CO, Portland, OR, Knoxville, TN, Sunrise, FL | Software Engineering Internship|
 | [Unity](https://app.ripplematch.com/job/Unity/3d2aa3d4/) | San Francisco, CA, Austin, TX, Bellevue, WA, Framingham, MA, Pittsburgh, PA | [Software Engineer Intern](https://app.ripplematch.com/job/Unity/3d2aa3d4/)|
 | [Zoox](https://jobs.lever.co/zoox) | Foster City, CA | Software Engineering Internships - [Mobile Development](https://jobs.lever.co/zoox/73ba40c9-48bd-4f34-9eb5-b56d41a74a7d), [Robot Software Infrastructure](https://jobs.lever.co/zoox/c84006b4-0e77-4362-8cfe-5f8b82b8b347) |
