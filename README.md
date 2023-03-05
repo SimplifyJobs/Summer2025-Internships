@@ -261,7 +261,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Domeyard LP](https://boards.greenhouse.io/domeyard/jobs/1079185) | Boston, MA | Software Engineer Internship (Summer, Fall, Winter, Spring available) |
 | [Yext] | Washington, D.C. | **🔒 Closed 🔒** 2023 Software Engineer Summer Intern |
 | Compass Minerals | Remote, USA; or Overland Park, KS | **🔒 Closed 🔒** Software Engineer Intern |
-| [Anduril](https://jobs.lever.co/anduril/) | Costa Mesa, CA | [Software Engineering](https://jobs.lever.co/anduril/d15840b6-081b-4d4c-95ed-008d681b4f7f), [Robotics Software Engineering](https://jobs.lever.co/anduril/c6d4fc93-2be9-4018-8160-4f490d11328c) (US Person Status Required) |
+| Anduril | Costa Mesa, CA | **🔒 Closed 🔒** Software Engineering, Robotics Software Engineering (US Person Status Required) |
 | [Wolverine](https://jobs.lever.co/wolve/4a6fd0be-6bb7-4bbb-9dd5-1416d6a5f5b7) | Chicago, IL | Software Engineer Intern (No Sponsorship) |
 | [Pure Storage] | Mountain View, CA | **🔒 Closed 🔒** Software Engineer Intern |
 | DeepMind | Mountain View, CA | **🔒 Closed 🔒** Research Engineer Intern |
