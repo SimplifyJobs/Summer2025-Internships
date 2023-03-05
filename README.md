@@ -370,7 +370,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | State Street | Quincy, Massachusetts | **🔒 Closed 🔒** Software Developer Intern |
 | [Restaurant Brands International](https://careers.rbi.com/global/en/job/6262468002/2023-Technical-Development-Program-Summer-Internship-TDP-Software-Engineering-Toronto) | Toronto | 2023 Technical Development Program Summer Internship (TDP), Software Engineering |
 | [Electronic Arts (EA)](https://ea.gr8people.com/jobs/175733/software-engineer-intern-summer-2023) | Multiple Locations in US | Software Engineering - Intern |
-| Northwestern Mutual | Milwaukee, WI; or Franklin, WI; or New York City, NY | [Software Engineering Internship (No Sponsorship)](https://careers.northwesternmutual.com/corporate-careers/job/software-engineering-internship-summer-2023-milwaukee-wi-corporate-jr-35891), [Data Science & Analytics Internship (No Sponsorship)](https://careers.northwesternmutual.com/corporate-careers/job/data-science-analytics-internship-summer-2023-milwaukee-wi-corporate-jr-35887/) |
+| Northwestern Mutual | Milwaukee, WI; or Franklin, WI; or New York City, NY |  **🔒 Closed 🔒** Software Engineering Internship (No Sponsorship), Data Science & Analytics Internship (No Sponsorship) |
 | r2c | San Francisco, CA; or Remote | **🔒 Closed 🔒** Software Engineer - Internship, Application Development |
 | [Excelitas](https://www.excelitas.com/job/2022-10/software-engineering-intern) | Billerica, MA | Software Engineering Intern (No Visa Sponsorship) |
 | Teradata | Remote | **🔒 Closed 🔒** Cloud Software Engineering Intern （undergrad） |
