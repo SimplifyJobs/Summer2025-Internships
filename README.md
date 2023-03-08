@@ -665,7 +665,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Two Sigma](https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Quantitative-Researcher-Internship/10972)                                                                                    | New York, NY & Houston, TX                     | Quant Research, [SWE](https://careers.twosigma.com/careers/JobDetail?jobId=11002), [SWE First Year Internship](https://careers.twosigma.com/careers/JobDetail/Houston-Texas-United-States-First-Year-Software-Engineering-Internship-Houston/11012) |
 | [MetroStar](https://www.metrostar.com/job-post/?gh_jid=5516986003) | Remote | Summer 2023 Technology Internship |
 | [Alight](https://careers.alight.com/us/en/job/R-17881/Alight-Campus-Cloud-Engineer-Intern-Summer-2023) | Remote | Cloud Engineer Intern (No Sponsorship) | 
-| [Criteo](https://careers.criteo.com/job/r16250/Software-Engineer-Intern) | Ann Arbor, Michigan | Software Engineer Intern | 
+| [Criteo](https://careers.criteo.com/job/r16250/Software-Engineer-Intern) | Ann Arbor, Michigan | Software Engineer Intern (No Sponsorship) | 
 | [Apixio](https://www.apixio.com/join-apixio/?gh_jid=6529939002) | San Mateo, CA | Software Engineer Intern |
 | [Aware](https://jobs.lever.co/Aware/59696e67-e50a-4f13-b845-1201164449fa/) | Columbus, OH | Software Engineering Intern |
 | [Brightree](https://resmed.wd3.myworkdayjobs.com/Brightree_External_Careers/job/US-MATRIXCARE-Remote/Software-Engineer-Intern_JR_023175-2) | Remote | Software Engineer Intern (no sponsorship) |
