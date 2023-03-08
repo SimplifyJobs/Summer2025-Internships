@@ -669,6 +669,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Apixio](https://www.apixio.com/join-apixio/?gh_jid=6529939002) | San Mateo, CA | Software Engineer Intern |
 | [Aware](https://jobs.lever.co/Aware/59696e67-e50a-4f13-b845-1201164449fa/) | Columbus, OH | Software Engineering Intern |
 | [Brightree](https://resmed.wd3.myworkdayjobs.com/Brightree_External_Careers/job/US-MATRIXCARE-Remote/Software-Engineer-Intern_JR_023175-2) | Remote | Software Engineer Intern (no sponsorship) |
+| [Bio-Rad](https://careers.bio-rad.com/jobs/sw-intern-pleasanton-california-united-states) |  Pleasanton, CA | SW Intern |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
