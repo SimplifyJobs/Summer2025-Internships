@@ -242,7 +242,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | Bloomberg | New York, NY | **🔒 Closed 🔒** 2023 Software Engineer Intern |
 | Okta | US Remote | **🔒 Closed 🔒** Software Engineer Intern, Site Reliability Intern, Data Analyst Intern |
 | Texas Instruments | Texas | **🔒 Closed 🔒** Software Engineer Intern (No sponsorship provided)|
-| [Splunk](https://jobs.jobvite.com/splunk/job/opeZkfwG) | Multiple Locations | [Software Engineer Intern Backend/Fullstack](https://jobs.jobvite.com/splunk/job/opeZkfwG) |
+| [Splunk](https://jobs.jobvite.com/splunk/job/opeZkfwG) | Multiple Locations or Remote | [Software Engineer Intern](https://jobs.jobvite.com/splunk/job/opeZkfwG) |
 | [Cloudflare](https://boards.greenhouse.io/cloudflare/jobs/4553743?gh_jid=4553743) | Austin, TX; or Champaign, IL; or Kirkland, WA; or San Francisco, CA | Software Engineer - Intern |
 | Sony Electronics | San Diego, CA | **🔒 Closed 🔒** Software Engineering Intern |
 | [2K](https://boards.greenhouse.io/2k/jobs/5303107003) | Novato, CA | Engineering Internship |
