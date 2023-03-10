@@ -221,7 +221,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Samsara](https://boards.greenhouse.io/samsara/jobs/4522234?gh_jid=4522234) | San Francisco, CA | Software Engineer Intern |
 | Brex | Remote, US | **🔒 Closed 🔒** Software Engineer, Intern (Graduating from a **BA/BS** program in 2024)|
 | CrowdStrike | Remote, US | **🔒 Closed 🔒** Data Engineering Intern |
-| [Garmin](https://careers.garmin.com/careers-home/jobs?tags3=Intern&page=1) | Tucson, AZ | [Software Engineer Intern](https://careers.garmin.com/careers-home/jobs/9219?lang=en-us) |
+| Garmin | Tucson, AZ | **🔒 Closed 🔒** Software Engineer Intern |
 | Plaid | Remote | **🔒 Closed 🔒** Software Engineer Intern |
 | Pinterest | Remote | **🔒 Closed 🔒** Software Engineering Intern (no sponsorship) |
 | Nike | Boston, Massachusetts | **🔒 Closed 🔒** Global Technology Engineer Undergraduate Internship |
@@ -242,7 +242,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | Bloomberg | New York, NY | **🔒 Closed 🔒** 2023 Software Engineer Intern |
 | Okta | US Remote | **🔒 Closed 🔒** Software Engineer Intern, Site Reliability Intern, Data Analyst Intern |
 | Texas Instruments | Texas | **🔒 Closed 🔒** Software Engineer Intern (No sponsorship provided)|
-| [Splunk](https://jobs.jobvite.com/splunk/job/opeZkfwG) | Multiple Locations | [Software Engineer Intern Frontend](https://jobs.jobvite.com/splunk/job/oUTZkfwQ), [Software Engineer Intern Backend/Fullstack](https://jobs.jobvite.com/splunk/job/opeZkfwG) |
+| [Splunk](https://jobs.jobvite.com/splunk/job/opeZkfwG) | Multiple Locations | [Software Engineer Intern Backend/Fullstack](https://jobs.jobvite.com/splunk/job/opeZkfwG) |
 | [Cloudflare](https://boards.greenhouse.io/cloudflare/jobs/4553743?gh_jid=4553743) | Austin, TX; or Champaign, IL; or Kirkland, WA; or San Francisco, CA | Software Engineer - Intern |
 | Sony Electronics | San Diego, CA | **🔒 Closed 🔒** Software Engineering Intern |
 | [2K](https://boards.greenhouse.io/2k/jobs/5303107003) | Novato, CA | Engineering Internship |
