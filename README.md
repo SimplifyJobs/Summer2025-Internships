@@ -663,13 +663,13 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | Agot AI | Pittsburgh, PA | [Software Engineering Intern](https://jobs.lever.co/agotai/c7d7246a-8056-4878-887e-47eaf2a30ba6), [Infrastructure Intern](https://jobs.lever.co/agotai/6a069dcb-3030-4525-8eeb-2a60f263d0b0), [Deep Learning Infrastructure Intern](https://jobs.lever.co/agotai/2b191d37-36b8-4251-b1a6-90d49f4b014a), [Computer Vision Engineering Intern](https://jobs.lever.co/agotai/aebe6b44-9b0e-4062-90ad-2829ae998aec) |
 | [Brightly](https://recruiting.paylocity.com/Recruiting/Jobs/Details/1554540) | Remote | Site Reliability Engineer Intern |
 | [Two Sigma](https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Quantitative-Researcher-Internship/10972)                                                                                    | New York, NY & Houston, TX                     | Quant Research, [SWE](https://careers.twosigma.com/careers/JobDetail?jobId=11002), [SWE First Year Internship](https://careers.twosigma.com/careers/JobDetail/Houston-Texas-United-States-First-Year-Software-Engineering-Internship-Houston/11012) |
-| [MetroStar](https://www.metrostar.com/job-post/?gh_jid=5516986003) | Remote | Summer 2023 Technology Internship |
-| [Alight](https://careers.alight.com/us/en/job/R-17881/Alight-Campus-Cloud-Engineer-Intern-Summer-2023) | Remote | Cloud Engineer Intern (No Sponsorship) | 
+| MetroStar | Remote | 🔒 Closed 🔒 Summer 2023 Technology Internship |
+| Alight | Remote | 🔒 Closed 🔒 Cloud Engineer Intern (No Sponsorship) | 
 | [Criteo](https://careers.criteo.com/job/r16250/Software-Engineer-Intern) | Ann Arbor, Michigan | Software Engineer Intern (No Sponsorship) | 
-| [Apixio](https://www.apixio.com/join-apixio/?gh_jid=6529939002) | San Mateo, CA | Software Engineer Intern |
+| Apixio | San Mateo, CA | 🔒 Closed 🔒 Software Engineer Intern |
 | [Aware](https://jobs.lever.co/Aware/59696e67-e50a-4f13-b845-1201164449fa/) | Columbus, OH | Software Engineering Intern |
 | [Brightree](https://resmed.wd3.myworkdayjobs.com/Brightree_External_Careers/job/US-MATRIXCARE-Remote/Software-Engineer-Intern_JR_023175-2) | Remote | Software Engineer Intern (no sponsorship) |
-| [Bio-Rad](https://careers.bio-rad.com/jobs/sw-intern-pleasanton-california-united-states) |  Pleasanton, CA | SW Intern |
+| Bio-Rad |  Pleasanton, CA | 🔒 Closed 🔒 SW Intern |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
