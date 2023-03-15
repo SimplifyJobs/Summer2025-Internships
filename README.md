@@ -671,6 +671,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Brightree](https://resmed.wd3.myworkdayjobs.com/Brightree_External_Careers/job/US-MATRIXCARE-Remote/Software-Engineer-Intern_JR_023175-2) | Remote | Software Engineer Intern (no sponsorship) |
 | Bio-Rad |  Pleasanton, CA | 🔒 Closed 🔒 SW Intern |
 | [IBM](https://careers.ibm.com/job/17897292/2023-internship-frontend-developer-san-jose-ca/?codes=IBM_CareerWebSite) | San Jose, California | 2023 Internship: Frontend Developer | 
+| [Adobe](https://careers.adobe.com/us/en/job/ADOBUSR133391EXTERNALENUS/2023-Intern-Software-Engineer?utm_source=linkedin&utm_medium=phenom-feeds&source=LinkedIn) | Multiple Locations, USA | 2023 Intern - Software Engineer | 
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
