@@ -206,7 +206,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Warner Bros Discovery](https://jobs.discovery.com/careers-home/jobs?keywords=intern) | Multiple Locations | **🔒 Closed 🔒** Software Engineering Intern, Data Science & Analytics Internship |
 | ByteDance | Mountain View, CA | **🔒 Closed 🔒** Software Engineer Intern |
 | TD Ameritrade | Multiple Locations | **🔒 Closed 🔒** Software Engineering Intern (must be an undergrad)|
-| Paramount | Multiple Locations (NY, CA) | **🔒 Closed 🔒** Software Engineering Intern |
+| Paramount | Multiple Locations (NY, CA) | **🔒 Closed 🔒** Software Engineering Intern | [Data Engineering Intern](https://careers.paramount.com/Paramount/job/Fort-Lauderdale-Data-Engineering-Internship-FL-33309/1004567200/)
 | Nuro | Mountain View | **🔒 Closed 🔒** Software Engineer (SRE) Intern, Software Systems Engineer Intern |
 | Relativity Space | Long Beach, CA | **🔒 Closed 🔒** Software Engineer Intern (C/C++) (Requires US citizenship)|
 | Dropbox| Remote (US, Canada) | **🔒 Closed 🔒** Software Engineer Intern, Data Science Intern |
