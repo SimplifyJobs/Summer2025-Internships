@@ -247,7 +247,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | 2K | Novato, CA | **🔒 Closed 🔒** Engineering Internship |
 | Lacework | Remote | **🔒 Closed 🔒** Software Engineer Intern |
 | Axon | Multiple (US & Canada) | **🔒 Closed 🔒** Software Engineering Internship @ Scottsdale, AZ; Seattle, WA; Canada-Remote; US-Remote |
-| [Emerson Automation Solutions](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/22023193) | Round Rock, TX | Software Development Summer Intern (No Sponsorship) |
+| Emerson Automation Solutions | Round Rock, TX | **🔒 Closed 🔒** Software Development Summer Intern (No Sponsorship) |
 | Shure Inc. | Irvine, CA | **🔒 Closed 🔒** Software Engineering Intern |
 | Code42 | Minneapolis, MN | **🔒 Closed 🔒** Software Engineer Intern (C++, Java, C#) |
 | Avanade | Multiple | **🔒 Closed 🔒** Intern, Software Developer (No sponsorship for employment in US/Canada) |
