@@ -672,7 +672,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Adobe](https://careers.adobe.com/us/en/job/ADOBUSR133391EXTERNALENUS/2023-Intern-Software-Engineer?utm_source=linkedin&utm_medium=phenom-feeds&source=LinkedIn) | Multiple Locations, USA | 2023 Intern - Software Engineer | 
 | [Paramount](https://careers.paramount.com/Paramount/job/Fort-Lauderdale-Data-Engineering-Internship-FL-33309/1004567200/) | Fort Lauderdale, FL | Data Engineering Intern |
 | Peak6 | Dallas, TX | [UX Design Intern](https://careers.peak6.com/jobs/product-management/dallas-tx/user-experience-design-intern-/4918780?gh_jid=4918780#/), [Product Management Intern](https://careers.peak6.com/jobs/product-management/dallas-tx/product-management-intern/4920176?gh_jid=4920176#/) (no sponsorship available) |
-
+| [Amazon](https://www.amazon.jobs/en/jobs/2260888/software-development-engineer-sde-c-intern-summer-2023-manipulation?cmpid=SPLICX0248M&ss=paid&utm_campaign=cxro&utm_content=job_posting&utm_medium=social_media&utm_source=linkedin.com) | Seattle, WA | Software Development Engineer (SDE C++) Intern | 
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
