@@ -13,9 +13,10 @@ We ask that the internships that you add meet some requirements. Specifically, y
     - product manager,
     - quant, and
     - any other tech-related internships.
-- be for **summer 2023**. We will *not* accept internships for a different term.
+- be for **summer 2023** or **summer 2024**. We will *not* accept internships for a different term.
 - be located in the United States, Canada, or remote.
 - not already exist in the internship list, and must not be pending review [here](https://github.com/pittcsc/Summer2023-Internships/pulls). 
+    - Note that we have two separate READMEs; one for [Summer 2023 internships](https://github.com/pittcsc/Summer2023-Internships/blob/dev/README.md) and one for [Summer 2024 internships](https://github.com/pittcsc/Summer2023-Internships/blob/dev/README-2024.md). Be sure you're contributing to the correct one.
 
 Make sure to have the following information ready:
 - The name of the position.

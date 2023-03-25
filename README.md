@@ -36,6 +36,9 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 ---
 
 ## The List 🚴🏔
+> **Note**:
+> This README file is for **2023 internships only**. For 2024 internships, please [click here](https://github.com/pittcsc/Summer2023-Internships/blob/dev/README-2024.md).
+
 [⬇️ Jump to bottom ⬇️](https://github.com/pittcsc/Summer2023-Internships#we-love-our-contributors-%EF%B8%8F%EF%B8%8F)
 <!-- Please leave a one line gap between this and the table -->
 
