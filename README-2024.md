@@ -1,6 +1,6 @@
 
 # Summer 2024 Tech Internships by Pitt CSC 🌆🐢
-And we're back! Use this repo to share and keep track of software, tech, CS, PM, quant internships for Summer 2023. List maintained by [the Pitt Computer Science Club](https://pittcsc.org/)!
+And we're back! Use this repo to share and keep track of software, tech, CS, PM, quant internships for **Summer 2024**. List maintained by [the Pitt Computer Science Club](https://pittcsc.org/)!
 
 :warning: **This repository is only for internships/co-ops in the United States, Canada or for Remote positions :earth_americas:.**
 
