@@ -205,7 +205,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | AIG | Jersey City, NJ; Charlotte, NC | **🔒 Closed 🔒** 2023 Early Career Technology Summer Intern |
 | [CGI](https://cgi.njoyn.com/cgi/xweb/xweb.asp?clid=21001&page=jobdetails&jobid=J0822-2628&BRID=990720&SBDID=943) | New Jersey, New Brunswick | Software Developer Intern (Bachelors degree students only)|
 | TikTok | Multiple Locations | **🔒 Closed 🔒** Software Engineer Intern
-| [Warner Bros Discovery](https://jobs.discovery.com/careers-home/jobs?keywords=intern) | Multiple Locations | **🔒 Closed 🔒** Software Engineering Intern, Data Science & Analytics Internship |
+| Warner Bros Discovery | Multiple Locations | **🔒 Closed 🔒** Software Engineering Intern, Data Science & Analytics Internship |
 | ByteDance | Mountain View, CA | **🔒 Closed 🔒** Software Engineer Intern |
 | TD Ameritrade | Multiple Locations | **🔒 Closed 🔒** Software Engineering Intern (must be an undergrad)|
 | Nuro | Mountain View | **🔒 Closed 🔒** Software Engineer (SRE) Intern, Software Systems Engineer Intern |
