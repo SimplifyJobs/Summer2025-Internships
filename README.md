@@ -369,7 +369,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | Clever | Multiple Locations in US | **🔒 Closed 🔒** Software Engineering - Intern |
 | State Street | Quincy, Massachusetts | **🔒 Closed 🔒** Software Developer Intern |
 | Restaurant Brands International | Toronto | **🔒 Closed 🔒** 2023 Technical Development Program Summer Internship (TDP), Software Engineering |
-| [Electronic Arts (EA)](https://ea.gr8people.com/jobs/175733/software-engineer-intern-summer-2023) | Multiple Locations in US | Software Engineering - Intern |
+| Electronic Arts (EA) | Multiple Locations in US | **🔒 Closed 🔒** Software Engineering - Intern |
 | Northwestern Mutual | Milwaukee, WI; or Franklin, WI; or New York City, NY |  **🔒 Closed 🔒** Software Engineering Internship (No Sponsorship), Data Science & Analytics Internship (No Sponsorship) |
 | r2c | San Francisco, CA; or Remote | **🔒 Closed 🔒** Software Engineer - Internship, Application Development |
 | [Excelitas](https://www.excelitas.com/job/2022-10/software-engineering-intern) | Billerica, MA | Software Engineering Intern (No Visa Sponsorship) |
