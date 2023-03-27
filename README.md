@@ -198,7 +198,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | Stripe | Multiple Locations | **🔒 Closed 🔒** Software Engineer Intern (Seattle, San Francisco, New York, Dublin, Singapore) |
 | Discover Financial Services | Multiple Locations (IL, TX, UK) | **🔒 Closed 🔒** Business Technology, Data & Analytics Internship (No Sponsorship) |
 | Hubspot | Multiple Locations + Remote | **🔒 Closed 🔒** Software Engineer Intern |
-| [IXL](https://www.ixl.com/company/careers?gh_jid=6304526002&gh_src=e358d0722) | San Mateo, CA | **🔒 Closed 🔒** Software Engineer Intern |
+| IXL | San Mateo, CA | **🔒 Closed 🔒** Software Engineer Intern |
 | Visa | Austin, TX | **🔒 Closed 🔒** Software Engineer Intern |
 | Chewy | Multiple Locations (MA, MN, FL, WA) | **🔒 Closed 🔒** Software Engineer Intern (Bachelors degree students only)|
 | Riot Games | Multiple Locations (CA, MO) | **🔒 Closed 🔒** UX Design; Project Manager |
