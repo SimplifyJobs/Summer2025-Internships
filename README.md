@@ -424,7 +424,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | Intapp | Charlotte, NC | **🔒 Closed 🔒** Software Engineer Intern |
 | Entergy | New Orleans, LA | **🔒 Closed 🔒** Intern - Software Engineer (No Visa Sponsorship) |
 | Prometric | Baltimore, MD | **🔒 Closed 🔒** 2023 Software Development Summer Intern |
-| [Wayfair](https://www.wayfair.com/careers/jobs?countryIds=1&selectedJobTypeIds=8%2C5&gh_src=) | Boston, MA | **🔒 Closed 🔒** [Software Engineering Intern], **🔒 Closed 🔒** [Data Science & Machine Learning Intern] |
+| Wayfair | Boston, MA | **🔒 Closed 🔒** [Software Engineering Intern], **🔒 Closed 🔒** [Data Science & Machine Learning Intern] |
 | [Moderna](https://modernatx.eightfold.ai/careers/?query=Software%20Engineer%20Intern&seniority=Intern) | Multiple Locations (MA) | 2023 Co-op and/or Intern, Software Engineer (No sponsorship) |
 | Nintendo | Redmond, WA | **🔒 Closed 🔒** Intern - IT Software Engineer,  Intern - IT Network, Intern - IT SaaS Hosting,  Intern - IT Platform Engineer (US Work Authorization Required) |
 | Veritas | Roseville, MN; or Remote | **🔒 Closed 🔒** Software Engineer Intern- Summer 2023 |
