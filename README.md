@@ -120,7 +120,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | Johnson & Johnson | Various | **🔒 Closed 🔒** Software Development Internship (sponsorship not available) |
 | DRW | Chicago, IL; Greenwich, CT; Houston, TX; Austin, TX; New York, NY | **🔒 Closed 🔒** Quantitative Research Intern (Chicago, Masters/PhD) |
 | Salesforce | Multiple Locations in United States| **🔒 Closed 🔒** SWE Internship |
-| [Instabase](https://instabase.com/careers/) | San Francisco, Menlo Park, & New York City | **🔒 Closed 🔒** Software Engineer, Intern (Frontend/Fullstack), Software Engineer, Intern (Backend) |
+| Instabase | San Francisco, Menlo Park, & New York City | **🔒 Closed 🔒** Software Engineer, Intern (Frontend/Fullstack), Software Engineer, Intern (Backend) |
 | [Cisco](https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-I-Intern-United-States/1380727) | Multiple Location in United States | Software Engineer I (Intern), [Data Analyst Intern](https://jobs.cisco.com/jobs/ProjectDetail/Data-Analyst-Intern-United-States/1380904?source=Cisco+Jobs+Career+Site&tags=CDC+Keyword+Search+students-and-new-graduates), [Data Scientist Intern](https://jobs.cisco.com/jobs/ProjectDetail/Data-Scientist-Intern-United-States/1381149?source=Cisco+Jobs+Career+Site&tags=CDC+Keyword+Search+students-and-new-graduates) (No visa sponsorship) |
 | L3Harris Technologies | Mason, OH | **🔒 Closed 🔒** Software Eng Intern(require US Citizenship) |
 | Vanguard| Malvern, PA, Charlotte, NC | **🔒 Closed 🔒** Software Eng Intern (No sponsorships) |
@@ -529,7 +529,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | Boeing | Hood River, Oregon | 🔒 Closed 🔒 Intern - Software Engineering |
 | Prelim | US Remote | **🔒 Closed 🔒** Software Engineer - Intern |
 | Midmark | Irvine, CA | **🔒 Closed 🔒**  Software Engineer Co-Op |
-| perpay | Philadelphia, PA | **🔒 Closed 🔒** Engineering Intern (Software) |
+| Perpay | Philadelphia, PA | **🔒 Closed 🔒** Engineering Intern (Software) |
 | [Nokia](https://aluperf.referrals.selectminds.com/jobs/search/36227665) | Multiple locations | [ML & AI Intern](https://aluperf.referrals.selectminds.com/jobs/machine-learning-and-ai-intern-90993)
 | [Braze](https://www.braze.com/) | New York | [Software Engineering Intern](https://boards.greenhouse.io/embed/job_app?token=4472663&gh_src=b73a210e1)
 | The Toro Company | Bloomington, MN | **🔒 Closed 🔒** Software Engineer Intern |
