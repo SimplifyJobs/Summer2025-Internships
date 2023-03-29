@@ -106,7 +106,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | PNC| Various | **🔒 Closed 🔒** Technology Summer Intern Program |
 | [Arrowstreet Capital](https://arrowstreetcapital.wd5.myworkdayjobs.com/en-US/Arrowstreet/job/Boston/Quantitative-Researcher-Intern--Summer-2023_R700) | Boston, MA | Quantitative Researcher Intern |
 | Valkyrie | Chicago, IL | **🔒 Closed 🔒** Software Engineer Intern
-| [Sensata](https://sensata.wd1.myworkdayjobs.com/en-US/Sensata-Careers/job/Attleboro-Massachusetts/Software-Engineer-Intern---Summer-2023_IRC86996) | Attleboro, MA | Software Engineer Intern |
+| Sensata | Attleboro, MA | **🔒 Closed 🔒** Software Engineer Intern |
 | SPS| Minneapolis, MN | **🔒 Closed 🔒** Software Engineer Intern |
 | General Motors | Warren, MI | **🔒 Closed 🔒** 2023 Summer Intern – Software Engineering (Sponsorship **not** available.) |
 | JP Morgan | Multiple | **🔒 Closed 🔒** Software Engineer Intern (10 Weeks) (no visa sponsorship) |
