@@ -670,7 +670,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Aware](https://jobs.lever.co/Aware/59696e67-e50a-4f13-b845-1201164449fa/) | Columbus, OH | Software Engineering Intern |
 | [Brightree](https://resmed.wd3.myworkdayjobs.com/Brightree_External_Careers/job/US-MATRIXCARE-Remote/Software-Engineer-Intern_JR_023175-2) | Remote | Software Engineer Intern (no sponsorship) |
 | Bio-Rad |  Pleasanton, CA | 🔒 Closed 🔒 SW Intern |
-| [IBM](https://careers.ibm.com/job/17897292/2023-internship-frontend-developer-san-jose-ca/?codes=IBM_CareerWebSite) | San Jose, California | 2023 Internship: Frontend Developer | 
+| IBM| San Jose, California | 🔒 Closed 🔒 2023 Internship: Frontend Developer | 
 | [Adobe](https://careers.adobe.com/us/en/job/R131714/2023-Intern-Software-Engineer) | Multiple Locations, USA | 2023 Intern - Software Engineer | 
 | [Paramount](https://careers.paramount.com/Paramount/job/Fort-Lauderdale-Data-Engineering-Internship-FL-33309/1004567200/) | Fort Lauderdale, FL | Data Engineering Intern |
 | Peak6 | Dallas, TX | [UX Design Intern](https://careers.peak6.com/jobs/product-management/dallas-tx/user-experience-design-intern-/4918780?gh_jid=4918780#/), [Product Management Intern](https://careers.peak6.com/jobs/product-management/dallas-tx/product-management-intern/4920176?gh_jid=4920176#/) (no sponsorship available) |
