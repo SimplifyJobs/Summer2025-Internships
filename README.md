@@ -59,7 +59,6 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [D. E. Shaw & Co.](https://www.deshaw.com/careers/internships)													       | New York City, NY | [Software Development](https://www.deshaw.com/careers/software-developer-intern-new-york-4470) (Front-Office SWE), Trading, SysAdmin, etc roles also available.
 | Five Rings | NYC, NY                              |      **🔒 Closed 🔒** Software Developer Intern, Quantitative Trading Intern                                                                                                      |
 | Futureforce Tech Summit                                 | San Francisco, CA                              |  **🔒 Closed 🔒**                                                                                       |
-| [Goldman Sachs](https://www.goldmansachs.com/careers/students/programs/americas/summer-analyst-program.html) | Global | Summer 2024 Analyst |
 | Grindr | Remote                               | **🔒 Closed 🔒** Rising Senior/Masters. Web.                                                                              |
 | Iomaxis | Arlington, VA | **🔒 Closed 🔒** SWE (US Citizens Only) |
 | KPMG | Louisville, KY  | **🔒 Closed 🔒** Technology Assurance Audit Intern    |                                                                                           |
