@@ -638,7 +638,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [SEI Investments](https://careers.peopleclick.com/careerscp/client_seic/external/en-us/gateway/viewFromLink.html?jobPostId=30145&localeCode=en-us) | Oaks, PA | 2023 Summer Intern - Technology Track (no sponsorship) | 
 | [Generate Biomedicines](https://generatebiomedicines.com/open-positions?gh_jid=4048283006) | Somerville, MA (On-site) | Machine Learning Intern |
 | Smith+Nephew | Pittsburgh, PA | 🔒 Closed 🔒 Robotics Software Engineering Intern |
-| [Urban Science](https://careers-urbanscience.icims.com/jobs/4785/software-engineering-intern---summer-2023/job?mobile=false&width=1176&height=800&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240) | Detroit, MI | Software Engineering Intern |
+| [Urban Science](https://careers-urbanscience.icims.com/jobs/search?ss=1&searchKeyword=software+intern) | Detroit, MI | [Software Engineering Intern](https://careers-urbanscience.icims.com/jobs/4817/software-engineering-intern---summer-2023/job), [Data Engineering Intern](https://careers-urbanscience.icims.com/jobs/4766/data-engineering-intern---summer-2023/job)|
 | Squarespace | Chicago, IL | 🔒 Closed 🔒 Tock Software Engineer Intern |
 | [Chubb](https://careers.chubb.com/global/en/job/CIHIGLOBAL351957EXTERNALENGLOBAL/2023-Technology-Associate-Intern-Jersey-City) | Jersey City, NJ | Technology Associate Intern |
 | Precisely | Remote | 🔒 Closed 🔒 Software Engineer Intern |
