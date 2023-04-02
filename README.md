@@ -504,7 +504,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | PTC | Boston, MA | **🔒 Closed 🔒** Software Engineer Intern, Software Developer Intern |
 | SeekOut | Bellevue, WA | **🔒 Closed 🔒** In-Person Software Engineer - Internship |
 | Nuna Healthcare | San Francisco, CA | **🔒 Closed 🔒** Software Engineer Intern |
-| [Vertica](https://jobs.microfocus.com/global/en/search-results?keywords=intern) | Provo, UT or Cambridge, MA | Systems Software, Quality Assurance |
+| Vertica | Provo, UT or Cambridge, MA | **🔒 Closed 🔒** Systems Software, Quality Assurance |
 | [Mark43](https://mark43.com/careers/north-america/#job-openings) | Toronto or US remote | Engineering Intern, [US remote](https://mark43.com/list-job/?gh_jid=4653495) or [Toronto](https://mark43.com/list-job/?gh_jid=4657411) |
 | New York Life Insurance | New York, NY | **🔒 Closed 🔒** 2023 Technology Summer Internship Program |
 | Cambly | San Francisco, CA | **🔒 Closed 🔒**  Software Engineering Internship |
@@ -517,7 +517,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | Productiv | Palo Alto, CA or Bellevue, WA | **🔒 Closed 🔒** Software Engineer Intern |
 | [Juniper Networks](https://careers.juniper.net/) | Westford, MA or Sunnyvale, CA | Software Enginnering Intern, [Sunnyvale, CA](https://careers.juniper.net/#/jobdescription?jid=1007266) |
 | Uniswap Labs | New York City, NY | **🔒 Closed 🔒** Software Engineering Intern |
-| [Micron Technology](https://micron.eightfold.ai/careers/search?query=Internship) | Multiple locations | High Performance Memory Quality Engineer, AI/ML Algorithms
+| [Micron Technology](https://micron.eightfold.ai/careers/search?query=Internship) | Multiple locations | [IT Software Engineer](https://micron.eightfold.ai/careers/search?query=Internship&pid=15649901), [IT I&P Private Cloud](https://micron.eightfold.ai/careers/search?query=Internship&pid=15650447) |
 | Michaels | Irving, TX | **🔒 Closed 🔒** 2023 Technology Summer Internship Program |
 | XCOM Labs | San Diego, CA | **🔒 Closed 🔒** Summer internship for [software](https://xcomlabs.bamboohr.com/jobs/view.php?id=298&source=bamboohr), [wireless](https://xcomlabs.bamboohr.com/jobs/view.php?id=300&source=bamboohr), [VR](https://xcomlabs.bamboohr.com/jobs/view.php?id=302&source=bamboohr), [XR](https://xcomlabs.bamboohr.com/jobs/view.php?id=301&source=bamboohr), etc. |
 | NerdWallet | San Francisco, CA or Remote | **🔒 Closed 🔒** General internship application for Web, Data, Mobile, etc. |
@@ -582,7 +582,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Rockwell Automation](https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Intern--Information-Technology_R22-8470-2?Codes=ILINK) | Milwaukee, WI | IT Intern (No Sponsorship) |
 | Commvault | Remote | **🔒 Closed 🔒** Various internship roles in Software Development, UX, etc. |
 | [Expensify](https://we.are.expensify.com/full-stack-engineering-intern) | Remote | Software Engineer Internship |
-| [Corsair](https://edix.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions?keyword=intern) | Milpitas, CA | Product Management intern |  
+| Corsair | Milpitas, CA | **🔒 Closed 🔒** Product Management Intern |  
 | Johnson Controls | Fishers, IN  | **🔒 Closed 🔒** Software Engineering Intern (US Citizenship or Legal Right to Work in US) |
 | Panasonic | Irvine, CA | [Software Engineering Summer 2023 Intern (Embedded Software)](https://careers.na.panasonic.com/careers/software-engineering-summer-2023-intern-embedded-software-irvine-ca) <br> [Software Engineering Summer 2023 Intern – Test Platform](https://careers.na.panasonic.com/careers/software-engineering-summer-2023-intern-test-platform-irvine-ca) <br> [Software Engineering Summer Intern – Device Verification SW](https://careers.na.panasonic.com/careers/software-engineering-summer-intern-device-verification-sw-irvine-ca) |
 | [Takeda](https://www.takedajobs.com/job/-/-/1113/41541695120) | Boston, MA | 2023 Summer Internship - Statistical Programming (No Sponsorship) |
@@ -593,7 +593,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | JLL | Remote, US | **🔒 Closed 🔒** Software Engineering Summer 2023 Internship - Remote |
 | [Western Digital (WD)](https://careers.smartrecruiters.com/WesternDigital/?search=intern) | San Jose, CA | [System Design Verification Engineering Intern](https://jobs.smartrecruiters.com/WesternDigital/743999857498066-system-design-verification-engineering-intern) |
 | Salesforce x CodePath | San Francisco, CA | **🔒 Closed 🔒** Futureforce Tech Launchpad (rising juniors, class of '25)|
-| [Intel](https://intel.wd1.myworkdayjobs.com/en-US/External?q=software%20intern) | Various | FPGA Software Engineering Intern <br> Software Engineer Graduate Intern <br> System Software Validation - Undergrad Intern <br> Many more on website. |
+| [Intel](https://intel.wd1.myworkdayjobs.com/en-US/External?q=software%20intern) | Various | [Graphics Software Engineer Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Folsom/Graphics-Software-Undergraduate-Intern_JR0242299?q=software+intern) (No Sponsorship) <br> [Design Automation Engineering Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Folsom/Design-Automation-Engineering-Intern_JR0241492?q=software+intern) <br> More on website. |
 | [Harry's](https://boards.greenhouse.io/harrys/jobs/4798058) | New York, NY | Software Engineering Intern |
 | MyFitnessPal | Remote, US | **🔒 Closed 🔒** Android Engineer Intern, iOS Engineer Intern|
 | Meta | Menlo Park, Seattle, New York | **🔒 Closed 🔒** Software Engineer Internship/Co-Op <br> Meta University (Must be First or Second Year) |
