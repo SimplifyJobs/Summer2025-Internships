@@ -45,6 +45,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | Name | Location | Notes |
 | ---- | -------- | ----- |
 | [Goldman Sachs](https://www.goldmansachs.com/careers/students/programs/americas/summer-analyst-program.html) | Global | Summer 2024 Analyst |
+| [KPMG](https://www.kpmguscareers.com/jobdetail/?jobId=98001) | Multiple Locations | Summer 2024 Engineering & IT Internship |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
