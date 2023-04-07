@@ -661,19 +661,19 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | Spectrum | Austin, TX | 🔒 Closed 🔒 Software Developer Intern |
 | Agot AI | Pittsburgh, PA | [Software Engineering Intern](https://jobs.lever.co/agotai/c7d7246a-8056-4878-887e-47eaf2a30ba6), [Infrastructure Intern](https://jobs.lever.co/agotai/6a069dcb-3030-4525-8eeb-2a60f263d0b0), [Deep Learning Infrastructure Intern](https://jobs.lever.co/agotai/2b191d37-36b8-4251-b1a6-90d49f4b014a), [Computer Vision Engineering Intern](https://jobs.lever.co/agotai/aebe6b44-9b0e-4062-90ad-2829ae998aec) |
 | [Brightly](https://recruiting.paylocity.com/Recruiting/Jobs/Details/1554540) | Remote | Site Reliability Engineer Intern |
-| [Two Sigma](https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Quantitative-Researcher-Internship/10972)                                                                                    | New York, NY & Houston, TX                     | Quant Research, [SWE](https://careers.twosigma.com/careers/JobDetail?jobId=11002), [SWE First Year Internship](https://careers.twosigma.com/careers/JobDetail/Houston-Texas-United-States-First-Year-Software-Engineering-Internship-Houston/11012) |
+| [Two Sigma](https://careers.twosigma.com/careers/JobDetail?jobId=11002) | New York, NY | Software Engineering Internship |
 | MetroStar | Remote | 🔒 Closed 🔒 Summer 2023 Technology Internship |
 | Alight | Remote | 🔒 Closed 🔒 Cloud Engineer Intern (No Sponsorship) | 
 | [Criteo](https://careers.criteo.com/job/r16250/Software-Engineer-Intern) | Ann Arbor, Michigan | Software Engineer Intern (No Sponsorship) | 
 | Apixio | San Mateo, CA | 🔒 Closed 🔒 Software Engineer Intern |
-| [Aware](https://jobs.lever.co/Aware/59696e67-e50a-4f13-b845-1201164449fa/) | Columbus, OH | Software Engineering Intern |
-| [Brightree](https://resmed.wd3.myworkdayjobs.com/Brightree_External_Careers/job/US-MATRIXCARE-Remote/Software-Engineer-Intern_JR_023175-2) | Remote | Software Engineer Intern (no sponsorship) |
+| Aware | Columbus, OH | 🔒 Closed 🔒 Software Engineering Intern |
+| Brightree | Remote | 🔒 Closed 🔒 Software Engineer Intern (no sponsorship) |
 | Bio-Rad |  Pleasanton, CA | 🔒 Closed 🔒 SW Intern |
 | IBM| San Jose, California | 🔒 Closed 🔒 2023 Internship: Frontend Developer | 
-| [Adobe](https://careers.adobe.com/us/en/job/R131714/2023-Intern-Software-Engineer) | Multiple Locations, USA | 2023 Intern - Software Engineer | 
+| Adobe | Multiple Locations, USA | 🔒 Closed 🔒 2023 Intern - Software Engineer | 
 | Paramount | Fort Lauderdale, FL | 🔒 Closed 🔒 Data Engineering Intern |
 | Peak6 | Dallas, TX | [UX Design Intern](https://careers.peak6.com/jobs/product-management/dallas-tx/user-experience-design-intern-/4918780?gh_jid=4918780#/), [Product Management Intern](https://careers.peak6.com/jobs/product-management/dallas-tx/product-management-intern/4920176?gh_jid=4920176#/) (no sponsorship available) |
-| [Amazon](https://www.amazon.jobs/en/jobs/2110678/software-development-engineer-internship-2023-us)                                                                           | Multiple Locations in United States                                | [SDE Intern](https://www.amazon.jobs/en/jobs/2260888/software-development-engineer-sde-c-intern-summer-2023-manipulation?cmpid=SPLICX0248M&ss=paid&utm_campaign=cxro&utm_content=job_posting&utm_medium=social_media&utm_source=linkedin.com), [Data Engineer Intern](https://www.amazon.jobs/en/jobs/2141830/data-engineer-internship-2023-us), [Front End Engineer Intern](https://www.amazon.jobs/en/jobs/2141835/front-end-engineer-internship-2023-us)                                                                                                   |
+| [Amazon](https://www.amazon.jobs/en/jobs/2110678/software-development-engineer-internship-2023-us) | Multiple Locations in United States | Software Development Engineer Internship - 2023 (US) |
 | [Cognito Forms](https://www.cognitoforms.com/careers) | Columbia, SC | [Software Engineer Intern](https://www.cognitoforms.com/company/8/careers/software-engineer-intern), [UX/UI Designer Intern](https://www.cognitoforms.com/company/28/careers/uxui-designer-intern) (No Sponsorship) |
 
 <!-- Please leave a one line gap between this and the table -->
