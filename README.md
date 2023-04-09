@@ -411,7 +411,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | Robinhood | Remote, USA | [Android Engineer Intern](https://app.ripplematch.com/job/robinhood/e93c5366?from_page=company_branded_page&), [iOS Engineer Intern](https://app.ripplematch.com/job/robinhood/55eaa246?from_page=company_branded_page&) |
 | Lattice | Remote, USA | **🔒 Closed 🔒** Software Engineer, Intern (Summer '23) |
 | Bain & Company | Various | **🔒 Closed 🔒** Intern, Global Engineering |
-| Addepar | Remote, USA | **🔒 Closed 🔒** Software Engineer Intern, Frontend - [Software Engineer Intern, Backend - Summer 2023](https://boards.greenhouse.io/addepar1/jobs/6390282002?t=31a4a9852) |
+| Addepar | Remote, USA | **🔒 Closed 🔒** Software Engineer Intern, Frontend - Software Engineer Intern, Backend - Summer 2023 |
 | Ambi Robotics | Berkeley, CA | **🔒 Closed 🔒** ML SWE Intern (BS), Robotics SWE Intern (BS), Simulation SWE Intern (BS), Product Management Intern (BS), ML SWE Intern (MS), Robotics SWE Intern (MS) | 
 | Tandem Diabetes Care | San Diego, CA | **🔒 Closed 🔒** Software Engineering Intern |
 | Aurora | Mountain View, CA | Software Engineering Intern - Back-End (**No Sponsorship**): [C++](https://aurora.tech/jobs/software-engineering-intern-back-end-c-6428595002), [Python](https://aurora.tech/jobs/software-engineering-intern-back-end-python-6427680002) |
