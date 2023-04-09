@@ -269,7 +269,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | WillowTree | Charlottesville, VA; Columbus, OH; Durham, NC | **🔒 Closed 🔒** Software Engineering Intern (no visa sponsorship) | 
 | Grainger| Chicago, IL (Hybrid) | **🔒 Closed 🔒** Software Engineering Intern | 
 | Confluent | Remote | **🔒 Closed 🔒** Quality Engineering Intern | 
-| [TradeWeb](https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/requisitions/preview/300493?src=JB-10200) | Jersey City, NJ | [C++ Dev Intern](https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/300492/?utm_medium=jobshare), [Java Intern](https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/300493/?utm_medium=jobshare), [Java Full Stack Intern](https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/300490/?utm_medium=jobshare) |
+| TradeWeb | Jersey City, NJ | **🔒 Closed 🔒** C++ Dev Intern, Java Intern, Java Full Stack Intern |
 | [Cruise](https://getcruise.com/careers/jobs/?search=intern) | Multiple | Multiple, mostly ML/SWE |
 | Amadeus | Salt Lake City, UT | **🔒 Closed 🔒** Navitaire Engineering Intern | 
 | Gem.com | San Francisco, CA | **🔒 Closed 🔒** Software Engineer Intern | 
