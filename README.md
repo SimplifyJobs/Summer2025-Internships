@@ -257,7 +257,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Silicon Labs](https://silabs.wd1.myworkdayjobs.com/SiliconlabsCareers?q=Summer%202023) | Austin, TX, Boston, MA | [Embedded Software Engineering Intern (Austin, TX; or Boston, MA)](https://silabs.wd1.myworkdayjobs.com/en-US/SiliconlabsCareers/job/Austin/Embedded-Software-Engineering-Intern---Summer-2023_18852?q=Summer%202023), [Applications Engineering Intern](https://silabs.wd1.myworkdayjobs.com/en-US/SiliconlabsCareers/job/Austin/Applications-Engineering-Intern---Summer-2023_18855?q=Intern) |
 | ASML | Wilton, CT; San Jose, CA; |  **🔒 Closed 🔒** Software Test Engineer, Devops Intern |
 | Zebra Technologies | Lincolnshire, IL | **🔒 Closed 🔒**  Internship - Software Engineer (No Sponsorship) |
-| [SingleStore](https://boards.greenhouse.io/singlestore/jobs/4557044) | Seattle, WA; or Raleigh, NC | Software Engineer, Managed Service Intern @ [Seattle, WA](https://boards.greenhouse.io/singlestore/jobs/4557044); [Raleigh, NC](https://boards.greenhouse.io/singlestore/jobs/4557045) |
+| SingleStore | Seattle, WA; or Raleigh, NC | **🔒 Closed 🔒** Software Engineer, Managed Service Intern @ [Seattle, WA]; [Raleigh, NC] |
 | [Domeyard LP](https://boards.greenhouse.io/domeyard/jobs/1079185) | Boston, MA | Software Engineer Internship (Summer, Fall, Winter, Spring available) |
 | [Yext] | Washington, D.C. | **🔒 Closed 🔒** 2023 Software Engineer Summer Intern |
 | Compass Minerals | Remote, USA; or Overland Park, KS | **🔒 Closed 🔒** Software Engineer Intern |
