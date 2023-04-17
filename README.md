@@ -476,7 +476,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | Gusto | SF, Denver, NYC | **🔒 Closed 🔒** Software Engineering Intern |
 | Roche | Santa Clara, CA | **🔒 Closed 🔒** 2023 Summer Intern - Sequencing Software Development |
 | Ampere Computing | Santa Clara, CA | **🔒 Closed 🔒** Solutions Engineering Intern | 
-| [Leidos](https://careers.leidos.com/jobs/10999482-software-engineer-intern) | Charlottesville, VA | Software Engineer Intern (U.S. Citizenship required) | 
+| Leidos | Charlottesville, VA | **🔒 Closed 🔒** Software Engineer Intern (U.S. Citizenship required) | 
 | REI| Seattle, WA | **🔒 Closed 🔒** Software Engineer Intern -Mobile |
 | NimbleRx | Remote, US | **🔒 Closed 🔒** Software Engineer - (Intern) | 
 | WW | Remote, US; New York, US | **🔒 Closed 🔒** 2023 Software Engineering - Marketing Internship | 
