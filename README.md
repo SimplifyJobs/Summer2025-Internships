@@ -1,6 +1,6 @@
 
-# Summer 2023 Tech Internships by Pitt CSC 🌆🐢
-And we're back! Use this repo to share and keep track of software, tech, CS, PM, quant internships for Summer 2023. List maintained by [the Pitt Computer Science Club](https://pittcsc.org/)!
+# Summer 2023 Tech Internships by Pitt CSC and Simplify
+And we're back! Use this repo to share and keep track of software, tech, CS, PM, quant internships for Summer 2023. List maintained by [the Pitt Computer Science Club](https://pittcsc.org/) and [Simplify](https://simplify.jobs/)!
 
 :warning: **This repository is only for internships/co-ops in the United States, Canada or for Remote positions :earth_americas:.**
 
@@ -21,15 +21,6 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 			</div>
 		</a>
 		<sub><i>Stop manually re-entering your information. Simplify’s extension helps you autofill internship applications on millions of sites.</i></sub>
-	</p>
-</div>
-
-<div align="center">
-	<h3>
-		Thanks for a great three years 💖💖
-	</h3>
-	<p>
-		<img src="https://api.star-history.com/svg?repos=pittcsc/Summer2023-Internships&type=Date" width="500"  alt="Star History">
 	</p>
 </div>
 
