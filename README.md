@@ -125,7 +125,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Audible](https://www.amazon.jobs/en/jobs/2125073/audible-software-development-engineer-internship) | Newark, NJ | SDE Internship |
 | Chick-fil-A | Atlanta, GA | **🔒 Closed 🔒** Software Engineering Intern |
 | Aquatic Capital Management | Chicago, IL |  **🔒 Closed 🔒** Software Engineering Intern, Quantitative Research Intern |
-| [Ericsson](https://jobs.ericsson.com/job/Santa-Clara-Computer-Science-&-Data-Science-Internship-%282023%29-Cali/751881302/) | Santa Clara, CA | Software Engineering Intern, Data Science Intern |
+| Ericsson | Santa Clara, CA | **🔒 Closed 🔒** Software Engineering Intern, Data Science Intern |
 | Twitch | San Francisco, CA | **🔒 Closed 🔒** Graduate Science Intern |
 | Accenture | Multiple Locations in the US |  **🔒 Closed 🔒** Summer Analyst - Technology Development Program |
 | Quantcast | San Francisco, CA | **🔒 Closed 🔒** Software Engineering Intern |
