@@ -602,7 +602,6 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Odoo, Inc](https://www.odoo.com/es_ES/jobs/detail/software-engineer-intern-summer-2023-buffalo-ny-1113?utm_campaign=Job+Campaign+%5B291%5D&utm_medium=Website+%5B1%5D&utm_source=handshake+%5B644%5D) | Buffalo, NY | Software Engineer Intern |
 | Cognizant | Atlanta, GA; Dallas, TX; Denver, CO or Phoenix, AZ | **🔒 Closed 🔒** Undergraduate Technology Intern (no sponsorship) |
 | Cboe | Lenexa, KS | **🔒 Closed 🔒** Software Engineer Intern (C++) |
-| [SAIC](https://jobs.saic.com/search/student/jobs) | El Segundo, CA | Technical- & Game Theory-Related Internships (U.S. Citizenship Required) |
 | Unisys | Remote, USA | **🔒 Closed 🔒** Software Engineer Intern |
 | Tegus | Chicago, IL | **🔒 Closed 🔒** Software Engineer Intern |
 | Ultra-Sonobuoy Systems | Victor, NY | 🔒 Closed 🔒 Software Engineering Intern (U.S. Citizenship Required) |
@@ -667,6 +666,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Amazon](https://www.amazon.jobs/en/jobs/2110678/software-development-engineer-internship-2023-us) | Multiple Locations in United States | Software Development Engineer Internship - 2023 (US) |
 | [Cognito Forms](https://www.cognitoforms.com/careers) | Columbia, SC | [Software Engineer Intern](https://www.cognitoforms.com/company/8/careers/software-engineer-intern), [UX/UI Designer Intern](https://www.cognitoforms.com/company/28/careers/uxui-designer-intern) (No Sponsorship) |
 | [White Oak Security](https://www.whiteoaksecurity.com/penetration-testing-internship/) | Fully Remote | Penetration Testing Intern (Cybersecurity) |
+| [SAIC](https://jobs.saic.com/search/student/jobs) | El Segundo, CA | Cybersecurity, Technical- & Game Theory-Related Internships (U.S. Citizenship Required) |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
