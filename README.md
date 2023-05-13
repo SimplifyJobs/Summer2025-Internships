@@ -141,7 +141,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | Figma | NY, SF | **🔒 Closed 🔒** Software Engineer Intern |
 | Flatiron Health | NYC | **🔒 Closed 🔒** SWE Intern |
 | Redfin | Seattle, Frisco, San Francisco |**🔒 Closed 🔒** Software Developer Internship, Data Analyst Internship|
-| [F5](https://ffive.wd5.myworkdayjobs.com/en-US/f5jobs/job/Seattle/Summer-2023-Internship---Software-Engineering_RP1026625) | Seattle, Boulder (Louisville), Boston, San Jose | SWE Intern |
+| F5 | Seattle, Boulder (Louisville), Boston, San Jose | **🔒 Closed 🔒** SWE Intern |
 | SeatGeek | New York, NY | **🔒 Closed 🔒** SWE Intern |
 | GoodYear | Akron, OH | **🔒 Closed 🔒** Data Science Intern |
 | Thomson Reuters | Eagan, MN | **🔒 Closed 🔒** SWE Intern (No visa sponsorships)|
