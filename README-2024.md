@@ -48,6 +48,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [KPMG](https://www.kpmguscareers.com/jobdetail/?jobId=98001) | Multiple Locations | **🔒 Closed 🔒** Summer 2024 Engineering & IT Internship (No sponsorship is available) |
 | [Optiver](https://optiver.com/working-at-optiver/career-opportunities/) | Chicago, Austin | [2024 Tech Graduate & Intern Expression of Interest](https://optiver.com/working-at-optiver/career-opportunities/6497784002) <br/> [2024 Trading Graduate & Intern Expression of Interest](https://optiver.com/working-at-optiver/career-opportunities/6614387002) |
 | [Bridgewater Associates](https://boards.greenhouse.io/bridgewater89/jobs/6570837002) | Westport | Investment Engineer Intern |
+| [BlackRock](https://blackrock.tal.net/vx/lang-en-GB/mobile-0/brand-3/xf-232eb66ac89a/candidate/so/pm/1/pl/1/opp/7894-Summer-Internship-Program-Americas/en-GB) | Americas |Summer 2024 Internship Program
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
