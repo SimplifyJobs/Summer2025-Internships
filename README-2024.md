@@ -1,5 +1,5 @@
 
-# Summer 2024 Tech Internships by Pitt CSC 🌆🐢
+# 2024 Tech Internships by Pitt CSC 🌆🐢
 And we're back! Use this repo to share and keep track of software, tech, CS, PM, quant internships for **Summer 2024**. List maintained by [the Pitt Computer Science Club](https://pittcsc.org/)!
 
 :warning: **This repository is only for internships/co-ops in the United States, Canada or for Remote positions :earth_americas:.**
@@ -49,7 +49,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Optiver](https://optiver.com/working-at-optiver/career-opportunities/) | Chicago, Austin | [2024 Tech Graduate & Intern Expression of Interest](https://optiver.com/working-at-optiver/career-opportunities/6497784002) <br/> [2024 Trading Graduate & Intern Expression of Interest](https://optiver.com/working-at-optiver/career-opportunities/6614387002) |
 | [Bridgewater Associates](https://boards.greenhouse.io/bridgewater89/jobs/6570837002) | Westport | Investment Engineer Intern |
 | [BlackRock](https://blackrock.tal.net/vx/lang-en-GB/mobile-0/brand-3/xf-232eb66ac89a/candidate/so/pm/1/pl/1/opp/7894-Summer-Internship-Program-Americas/en-GB) | Americas |Summer 2024 Internship Program
-| [Ansys](https://careers.ansys.com/job/Vancouver-Spring-2024-Electronics-Intern-Software-Development-and-Testing-%28BSMS%29-Brit-V6E2M6/1026739100/?utm_source=LINKEDIN&utm_medium=referrer) | Montreal | Software Development and Testing |
+| [Ansys](https://careers.ansys.com/job/Vancouver-Spring-2024-Electronics-Intern-Software-Development-and-Testing-%28BSMS%29-Brit-V6E2M6/1026739100/?utm_source=LINKEDIN&utm_medium=referrer) | Montreal | Software Development and Testing (Spring 2024) |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
