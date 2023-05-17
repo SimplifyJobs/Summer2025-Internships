@@ -45,9 +45,9 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | Bristol Myers Squibb                                                                                        | Tampa, FL                         | **🔒 Closed 🔒**  Data Science
 | Capital One   | Multiple Locations in United States | **🔒 Closed 🔒** Software Engineering (no visa sponsorship; instant rejection if you declare sponsorship need in the application), Machine Learning, Cyber Security 							|
 | Capstone Investment Advisors                                                             | NYC, NY                              | **🔒 Closed 🔒** SWE
-| [Citi](https://jobs.citi.com/programfinder)                                                           | New York, New York                   | **🔒 Closed 🔒** Quantitative Analysis. Unrestricted work authorization required (no visa sponsorship)                                                                                    |
+| Citi                                                           | New York, New York                   | **🔒 Closed 🔒** Quantitative Analysis. Unrestricted work authorization required (no visa sponsorship)                                                                                    |
 | Credit Suisse | Raleigh, NC; NYC, NY                 |  **🔒 Closed 🔒** Search for `2023 Americas Technology Summer Analyst`                                                     |
-| [D. E. Shaw & Co.](https://www.deshaw.com/careers/internships)													       | New York City, NY | [Software Development](https://www.deshaw.com/careers/software-developer-intern-new-york-4470) (Front-Office SWE), Trading, SysAdmin, etc roles also available.
+| D. E. Shaw & Co.													       | New York City, NY | **🔒 Closed 🔒** Software Development (Front-Office SWE), Trading, SysAdmin, etc roles also available.
 | Five Rings | NYC, NY                              |      **🔒 Closed 🔒** Software Developer Intern, Quantitative Trading Intern                                                                                                      |
 | Futureforce Tech Summit                                 | San Francisco, CA                              |  **🔒 Closed 🔒**                                                                                       |
 | Grindr | Remote                               | **🔒 Closed 🔒** Rising Senior/Masters. Web.                                                                              |
@@ -95,7 +95,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | L3Harris Technologies | Amityville, NY | **🔒 Closed 🔒** Software Engineer Intern (US Government Security Clearance needed)
 | Pixar Animation Studios | Emeryville, CA | **🔒 Closed 🔒** Software Engineer Intern (no visa sponsorship)
 | PNC| Various | **🔒 Closed 🔒** Technology Summer Intern Program |
-| [Arrowstreet Capital](https://arrowstreetcapital.wd5.myworkdayjobs.com/en-US/Arrowstreet/job/Boston/Quantitative-Researcher-Intern--Summer-2023_R700) | Boston, MA | Quantitative Researcher Intern |
+| Arrowstreet Capital | Boston, MA | **🔒 Closed 🔒** Quantitative Researcher Intern |
 | Valkyrie | Chicago, IL | **🔒 Closed 🔒** Software Engineer Intern
 | Sensata | Attleboro, MA | **🔒 Closed 🔒** Software Engineer Intern |
 | SPS| Minneapolis, MN | **🔒 Closed 🔒** Software Engineer Intern |
