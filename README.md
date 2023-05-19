@@ -166,7 +166,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | PathAI | Boston, MA | **🔒 Closed 🔒** Software Engineer Intern |
 | Garda Capital Partners | Wayzata, MN | **🔒 Closed 🔒** .Net Software Engineer Intern |
 | Epic Games | Multiple Locations | **🔒 Closed 🔒** Multiple Intern Positions |
-| [Mathworks](https://www.mathworks.com/company/jobs/opportunities/25610-multiple-openings-engineering-development-group-internship?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | Natick, MA | Various Positions |
+| [Mathworks](https://www.mathworks.com/company/jobs/opportunities/25610-multiple-openings-engineering-development-group-internship?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | Natick, MA | Fall 2023 Internship |
 | GoDaddy | Multiple Locations, Remote | **🔒 Closed 🔒** Multiple Intern Position |
 | Ridgeline | Incline Village, NV | **🔒 Closed 🔒** Software Engineer Intern (No visa sponsorships) |
 | Exact Sciences | Phoenix, AZ | **🔒 Closed 🔒** Software Engineer Intern |
