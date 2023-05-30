@@ -37,7 +37,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ | -------------------------------------------------------------------------------------------------------- |
 | Akuna Capital                                                                                   | Chicago, IL; Austin, TX; Boston, MA | **🔒 Closed 🔒** Quant Trading, SWE         (sponsorship available)                                                                              |
 | Amazon Robotics | Greater Boston, MA | **🔒 Closed 🔒** Software Development Engineer |
-| Apple          | Cupertino, CA                                  | **🔒 Closed 🔒** [SWE](https://jobs.apple.com/en-us/details/200389054/software-engineering-internship?team=SDNT), [Hardware](https://jobs.apple.com/en-us/details/200389042/hardware-technology-internship?team=STDNT)                                                                                                  |
+| Apple          | Cupertino, CA                                  | **🔒 Closed 🔒** SWE, Hardware |                                                                                                  |
 | AQR                                  | Greenwich, CT                        | **🔒 Closed 🔒** Business Development                                                                                                         |
 | BD                                                                                    | San Diego, CA | **🔒 Closed 🔒** Data Science                                                                                     |
 | Bridgewater Associates | Westport, CT | **🔒 Closed 🔒** Investment Engineer Intern |
@@ -122,7 +122,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | Neighbor | LEHI, UTAH | **🔒 Closed 🔒** Software Engineering Intern (On-site) |
 | National Instrument | Austin, TX | **🔒 Closed 🔒** Software Engineering Intern (No sponsorships)|
 | Duolingo | Pittsburgh, PA | **🔒 Closed 🔒** Software Engineer Intern |
-| [Audible](https://www.amazon.jobs/en/jobs/2125073/audible-software-development-engineer-internship) | Newark, NJ | SDE Internship |
+| Audible | Newark, NJ | **🔒 Closed 🔒** SDE Internship |
 | Chick-fil-A | Atlanta, GA | **🔒 Closed 🔒** Software Engineering Intern |
 | Aquatic Capital Management | Chicago, IL |  **🔒 Closed 🔒** Software Engineering Intern, Quantitative Research Intern |
 | Ericsson | Santa Clara, CA | **🔒 Closed 🔒** Software Engineering Intern, Data Science Intern |
@@ -154,7 +154,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | Citrix | Ft. Lauderdale, FL; or Remote | **🔒 Closed 🔒** Software Engineer Intern |
 | Target | Brooklyn Park, MN | **🔒 Closed 🔒** Software Engineering Intern - Hybrid |
 | Nasdaq | Multiple (USA and Canada) | **🔒 Closed 🔒** Software Engineering Intern – US & Canada 2023 Internship |
-| [Viasat](https://careers.viasat.com/careers/FolderDetail?folderId=11400) | Multiple | Software Engineer Intern |
+| Viasat | Multiple | **🔒 Closed 🔒** Software Engineer Intern |
 | Paycom | Multiple (USA) | **🔒 Closed 🔒** Software Development Intern |
 | Qvest | Austin, Texas | **🔒 Closed 🔒** Software Engineering Intern (cover letter required) |
 | Trihydro Corporation | Laramie, WY |  **🔒 Closed 🔒** Software Developer Intern|
