@@ -233,7 +233,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | Okta | US Remote | **🔒 Closed 🔒** Software Engineer Intern, Site Reliability Intern, Data Analyst Intern |
 | Texas Instruments | Texas | **🔒 Closed 🔒** Software Engineer Intern (No sponsorship provided)|
 | Splunk | Multiple Locations or Remote | **🔒 Closed 🔒** Software Engineer Intern |
-| [Cloudflare](https://boards.greenhouse.io/cloudflare/jobs/4553743?gh_jid=4553743) | Austin, TX; or Champaign, IL; or Kirkland, WA; or San Francisco, CA | Software Engineer - Intern |
+| Cloudflare | Austin, TX; or Champaign, IL; or Kirkland, WA; or San Francisco, CA | **🔒 Closed 🔒** Software Engineer - Intern |
 | Sony Electronics | San Diego, CA | **🔒 Closed 🔒** Software Engineering Intern |
 | 2K | Novato, CA | **🔒 Closed 🔒** Engineering Internship |
 | Lacework | Remote | **🔒 Closed 🔒** Software Engineer Intern |
