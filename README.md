@@ -159,7 +159,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | Trihydro Corporation | Laramie, WY |  **🔒 Closed 🔒** Software Developer Intern|
 | Datadog | New York, Boston |  **🔒 Closed 🔒** Software Engineer Intern |
 | Paypal | Multiple Locations in United States  | **🔒 Closed 🔒** Software Engineer Intern |
-| [NetApp](https://netapp.eightfold.ai/careers?seniority=Intern&pid=12955970&domain=netapp.com&triggerGoButton=false) | Multiple (USA) | Software Engineering Intern |
+| NetApp | Multiple (USA) | **🔒 Closed 🔒** Software Engineering Intern |
 | Benchling | San Francisco, CA | **🔒 Closed 🔒** Software Engineer Intern |
 | Scale AI | San Francisco, CA | **🔒 Closed 🔒** Software Engineering Intern |
 | PathAI | Boston, MA | **🔒 Closed 🔒** Software Engineer Intern |
