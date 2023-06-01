@@ -73,7 +73,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | Mastercard|  Multiple locations in United States | **🔒 Closed 🔒** Software Engineer Intern, Information Security Engineer Intern |
 | Citadel | Chicago, New York | **🔒 Closed 🔒** Software Engineer Intern and Quant Research Analyst |
 | Neocis| Miami, FL | **🔒 Closed 🔒** Software Engineering Internship |
-| [Hewlett Packard Enterprise](https://careers.hpe.com/us/en/search-results?keywords=software%20intern) | Multiple Locations in United States | Software Developer Intern, Software Engineering Intern, AI/ML Intern,  **🔒 Closed 🔒** Data Science Intern
+| Hewlett Packard Enterprise | Multiple Locations in United States | **🔒 Closed 🔒** Software Developer Intern, Software Engineering Intern, AI/ML Intern, Data Science Intern |
 | Ocient | Remote | **🔒 Closed 🔒** Software Engineer Internship
 | Blackstone | Miami, New York | **🔒 Closed 🔒** Software Developer Summer Analyst (undergrad) |
 | Northrop Grumman | Various |  **🔒 Closed 🔒** Software Engineer Intern (US Citizenship Required) |
