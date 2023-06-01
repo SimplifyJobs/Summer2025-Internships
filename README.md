@@ -94,7 +94,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | L3Harris Technologies | Amityville, NY | **🔒 Closed 🔒** Software Engineer Intern (US Government Security Clearance needed)
 | Pixar Animation Studios | Emeryville, CA | **🔒 Closed 🔒** Software Engineer Intern (no visa sponsorship)
 | PNC| Various | **🔒 Closed 🔒** Technology Summer Intern Program |
-| Arrowstreet Capital | Boston, MA | **🔒 Closed 🔒** Quantitative Researcher Intern |
+| Arrowstreet Capital | Boston, MA | **🔒 Closed 🔒** Quantitative Developer Intern, Quantitative Researcher Intern |
 | Valkyrie | Chicago, IL | **🔒 Closed 🔒** Software Engineer Intern
 | Sensata | Attleboro, MA | **🔒 Closed 🔒** Software Engineer Intern |
 | SPS| Minneapolis, MN | **🔒 Closed 🔒** Software Engineer Intern |
@@ -181,7 +181,6 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | Rivian | Irvine, CA + Remote | **🔒 Closed 🔒** Product Development Engineering Interns, Software Engineer Intern |
 | Zillow | Remote | **🔒 Closed 🔒** Software Development Engineer Intern |
 | Taboola | LA, CA | **🔒 Closed 🔒** Frontend Engineer Intern |
-| [Arrowstreet Capital](https://arrowstreetcapital.wd5.myworkdayjobs.com/en-US/Arrowstreet?q=intern) | Boston, MA | Quantitative Developer Intern, Quantitative Researcher Intern |
 | Deloitte | Multiple Locations | **🔒 Closed 🔒** Deloitte Risk & Financial Advisory Software Engineer Intern |
 | Linkedin| Sunnyvale, CA |  **🔒 Closed 🔒** Software Engineering Intern |
 | Stripe | Multiple Locations | **🔒 Closed 🔒** Software Engineer Intern (Seattle, San Francisco, New York, Dublin, Singapore) |
