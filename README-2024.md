@@ -52,7 +52,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Ansys](https://careers.ansys.com/job/Vancouver-Spring-2024-Electronics-Intern-Software-Development-and-Testing-%28BSMS%29-Brit-V6E2M6/1026739100/?utm_source=LINKEDIN&utm_medium=referrer) | Montreal | Software Development and Testing (Spring 2024) |
 | [Walmart](https://careers.walmart.com/us/jobs/WD1391200-2024-summer-intern-software-engineer-ii-bentonville-ar?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | Arkansas| 2024 Summer Intern: Software Engineer II (No sponsorship is available)|
 | [GE Appliances](https://haier.wd3.myworkdayjobs.com/en-US/GE_Appliances/job/USA-Louisville-KY/Summer-2024-Digital-Technology-Intern_REQ-16073) | Louisville, KY | **🔒 Closed 🔒** Digital Technology Intern |
-| Epic | Madison, WI | Software Developer Intern - Summer 2024 (No sponsorship is available)
+| [Epic](https://epic.avature.net/Careers/FolderDetail/Software-Developer-Intern---Summer-2024/23429) | Madison, WI | Software Developer Intern - Summer 2024 (No sponsorship is available)
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
