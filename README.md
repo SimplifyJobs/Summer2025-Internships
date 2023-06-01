@@ -672,8 +672,6 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Henkel](https://app.ripplematch.com/job/henkel/64711af6/?utm_source=Github&utm_medium=organic_social&utm_campaign=growth_github&utm_content=github_henkel&utm_term=null) | Rocky Hill, CT, USA | R&D Intern - Summer 2023|
 | [Ericsson](https://app.ripplematch.com/job/ericsson/58bad9ce/?utm_source=Github&utm_medium=organic_social&utm_campaign=growth_github&utm_content=github_ericsson&utm_term=null) | Plano, TX, USA | Summer 2023 Computer Science & Data Science Internship|
 
-
-
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
 
