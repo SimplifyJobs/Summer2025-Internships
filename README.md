@@ -223,7 +223,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | NASA Jet Propulsion Laboratory | Pasadena, CA | **🔒 Closed 🔒**  Software Engineer Intern |
 | Lowe's | Charlotte, NC | **🔒 Closed 🔒** Software Engineer, Undergraduate Intern |
 | Collins Aerospace | Cedar Rapids, Iowa | **🔒 Closed 🔒** Software Engineer Intern (US Citizenship Required) |
-| [AeroVironment](https://avav.wd1.myworkdayjobs.com/en-US/avav?q=software%20engineer%20intern) | Various | Software Engineering Intern (US Citizenship Required) |
+| [AeroVironment](https://avav.wd1.myworkdayjobs.com/en-US/avav/details/Engineering-Intern--Software_3520) | Various | Software Engineering Intern (US Citizenship Required) |
 | Allegion | Carmel, IN | **🔒 Closed 🔒** Summer Intern - Software Engineer |
 | Arm | Boston, MA | **🔒 Closed 🔒** Intern Software Engineer |
 | ABL | El Segundo, CA | **🔒 Closed 🔒** Engineering Intern  (US Citizenship Required) |
