@@ -337,7 +337,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | Vail Systems | Chicago, IL | **🔒 Closed 🔒** C++ Software Engineer Intern, Web Software Engineer Intern |
 | Aptiv | Troy, MI | **🔒 Closed 🔒** Software Engineer Intern |
 | Airbnb | Remote | **🔒 Closed 🔒** Software Engineer Intern (No Sponsorship) |
-| [Jacobs](https://careers.jacobs.com/job-search-results/?job_type[]=Internship) | Hudson, NH | [Software Intern Co-op (US Citizens Only) (Undergrad)](https://careers.jacobs.com/job/15934465/software-intern-co-op-hudson-nh/) |
+| Jacobs | Hudson, NH | **🔒 Closed 🔒** Software Intern Co-op (US Citizens Only) (Undergrad) |
 | Netflix | Los Gatos, CA | **🔒 Closed 🔒** Software Engineer Intern, Security Engineering Intern, Machine Learning Intern, Data Engineering Intern |
 | Alteryx| Irvine, CA; or Remote |  **🔒 Closed 🔒** Data Analyst Intern (No Visa Sponsorship) |
 | TuSimple | San Diego, CA; Remote | **🔒 Closed 🔒** Software Engineer Internships |
