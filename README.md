@@ -397,7 +397,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | Grafana Labs | Remote | 🔒 Closed 🔒 |
 | Credit Karma | Charlotte, NC | **🔒 Closed 🔒** Software Engineering Intern |
 | Waymo | Multiple Locations (CA, WA) | **🔒 Closed 🔒** Software Engineering Intern, Data Science, Infrastructure, etc. positions also available |
-| Robinhood | Remote, USA | [Android Engineer Intern](https://app.ripplematch.com/job/robinhood/e93c5366?from_page=company_branded_page&), [iOS Engineer Intern](https://app.ripplematch.com/job/robinhood/55eaa246?from_page=company_branded_page&) |
+| Robinhood | Remote, USA | **🔒 Closed 🔒** Android Engineer Intern, iOS Engineer Intern |
 | Lattice | Remote, USA | **🔒 Closed 🔒** Software Engineer, Intern (Summer '23) |
 | Bain & Company | Various | **🔒 Closed 🔒** Intern, Global Engineering |
 | Addepar | Remote, USA | **🔒 Closed 🔒** Software Engineer Intern, Frontend - Software Engineer Intern, Backend - Summer 2023 |
