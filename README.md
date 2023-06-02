@@ -597,7 +597,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | Spotify | Remote (Americas) | **🔒 Closed 🔒** Backend Engineer Intern |
 | A10 Networks | San Jose, CA | **🔒 Closed 🔒** Multiple Software Engineering Internship |
 | Enveda Biosciences | Remote | **🔒 Closed 🔒** Software Engineering Internship |
-| [Odoo, Inc](https://www.odoo.com/es_ES/jobs/detail/software-engineer-intern-summer-2023-buffalo-ny-1113?utm_campaign=Job+Campaign+%5B291%5D&utm_medium=Website+%5B1%5D&utm_source=handshake+%5B644%5D) | Buffalo, NY | Software Engineer Intern |
+| [Odoo, Inc](https://www.odoo.com/jobs/detail/software-engineer-intern-summer-2023-buffalo-ny-1113) | Buffalo, NY | Software Engineer Intern |
 | Cognizant | Atlanta, GA; Dallas, TX; Denver, CO or Phoenix, AZ | **🔒 Closed 🔒** Undergraduate Technology Intern (no sponsorship) |
 | Cboe | Lenexa, KS | **🔒 Closed 🔒** Software Engineer Intern (C++) |
 | Unisys | Remote, USA | **🔒 Closed 🔒** Software Engineer Intern |
