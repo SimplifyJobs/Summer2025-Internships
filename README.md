@@ -370,7 +370,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | Hashicorp | Remote | **🔒 Closed 🔒** Software Engineering Intern |
 | CSG | Remote | **🔒 Closed 🔒** Software Engineer Intern - C# |
 | Achieve | Remote | **🔒 Closed 🔒** Intern, Software Development |
-| [Lennox International](https://uscareers-lennox.icims.com/jobs/34333/software-engineer-intern---summer-2023/job) | Carrollton, TX | Software Engineer Intern|
+| Lennox International | Carrollton, TX | **🔒 Closed 🔒** Software Engineer Intern |
 | Tackle.io | Remote | **🔒 Closed 🔒** Software Engineer- Summer Associate |
 | AT&T | Multiple Locations | **🔒 Closed 🔒** EDGE Internship Program 2023 (No Visa Sponsorship) |
 | Khan Academy | Remote | **🔒 Closed 🔒** Software Engineer Intern |
