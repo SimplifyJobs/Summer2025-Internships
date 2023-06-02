@@ -523,7 +523,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | The Toro Company | Bloomington, MN | **🔒 Closed 🔒** Software Engineer Intern |
 | Everlaw | Oakland, CA | **🔒 Closed 🔒** Software Engineer Internship |
 | Integral Ad Science | Chicago IL or New York, NY | **🔒 Closed 🔒** Engineering, Data, & Product |
-| Atlassian | Mountain View, CA | [Software Engineer Intern](https://jobs.lever.co/atlassian/8598139f-e53c-4353-ad2a-3f9d32e969c2), [ML Intern](https://www.atlassian.com/company/careers/detail/db725d3d-e4c1-4dea-953c-ee1681cde1dd) (No Sponsorship) |
+| Atlassian | Mountain View, CA | **🔒 Closed 🔒** Software Engineer Intern, ML Intern (No Sponsorship) |
 | Woven Planet | Palo Alto, CA | **🔒 Closed 🔒** Software Engineer Intern |
 | [Atomic](https://jobs.lever.co/atomic/92ea05f7-450e-452d-92ab-291bad609004) | San Francisco, CA | Summer 2023 Software Engineering Intern |
 | Liferay, Inc. | Diamond Bar, CA | **🔒 Closed 🔒** Software Engineering Intern (Consulting) - Summer 2023 |
