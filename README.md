@@ -386,7 +386,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | Nuance | Burlington, MA | **🔒 Closed 🔒** Software Development Intern |
 | Liberty Mutual | Various | **🔒 Closed 🔒** TechStart Internship Program 2023 |
 | Vizient | Remote | **🔒 Closed 🔒** Summer Intern - Application Development & Technology |
-| DISCO | New York City, NY; or Austin, TX | Software Engineer Intern @ [New York City, NY](https://www.csdisco.com/careers/software-engineer-intern-c), [Austin, TX](https://www.csdisco.com/careers/software-engineer-intern-6) required to provide proof of eligibility to work in the United States without restrictions|
+| DISCO | New York City, NY or Austin, TX | **🔒 Closed 🔒** Software Engineer Intern (required to provide proof of eligibility to work in the US without restrictions) |
 | Snackpass | San Francisco, CA / Remote | **🔒 Closed 🔒** Internship - Software Engineering (no sponsorship) |
 | Tesla | Palo Alto, California | **🔒 Closed 🔒** Software Engineering Internship |
 | Spectrum | Multiple Locations | **🔒 Closed 🔒** Software Engineering Intern, Information Technology Intern |
