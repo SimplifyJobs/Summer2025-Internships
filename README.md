@@ -413,7 +413,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | Entergy | New Orleans, LA | **🔒 Closed 🔒** Intern - Software Engineer (No Visa Sponsorship) |
 | Prometric | Baltimore, MD | **🔒 Closed 🔒** 2023 Software Development Summer Intern |
 | Wayfair | Boston, MA | **🔒 Closed 🔒** Software Engineering Intern, Data Science & Machine Learning Intern |
-| [Moderna](https://modernatx.eightfold.ai/careers/?query=Software%20Engineer%20Intern&seniority=Intern) | Multiple Locations (MA) | 2023 Co-op and/or Intern, Software Engineer (No sponsorship) |
+| Moderna | Multiple Locations (MA) | **🔒 Closed 🔒** 2023 Co-op and/or Intern, Software Engineer (No sponsorship) |
 | Nintendo | Redmond, WA | **🔒 Closed 🔒** Intern - IT Software Engineer,  Intern - IT Network, Intern - IT SaaS Hosting,  Intern - IT Platform Engineer (US Work Authorization Required) |
 | Veritas | Roseville, MN; or Remote | **🔒 Closed 🔒** Software Engineer Intern- Summer 2023 |
 | BlueHalo | Albuquerque, NM | **🔒 Closed 🔒** Software Engineering Intern (US Citizenship Required) |
