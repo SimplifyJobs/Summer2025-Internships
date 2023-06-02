@@ -499,7 +499,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | Cambly | San Francisco, CA | **🔒 Closed 🔒**  Software Engineering Internship |
 | Fanatics | Boulder, San Mateo, Tampa, Jacksonville | **🔒 Closed 🔒** Summer 2023 Internship for Software, Infrastructure, Security, and Product Management |
 | Chime | San Francisco, CA | **🔒 Closed 🔒** Engineering Services Intern, Risk & Support Engineering Intern, Engineering Product Management Intern |
-| [Lucid Motors](https://jobs.lever.co/lucidmotors/) | Multiple locations | [Cloud microservices intern](https://jobs.lever.co/lucidmotors/6436cc04-dff3-45a6-805e-615feb4865bc), [ADAS perception algortihm](https://jobs.lever.co/lucidmotors/b292a787-6419-465f-8ecf-d4f00f69e876), [Android Applications engineer](https://jobs.lever.co/lucidmotors/b23d42ec-5cf6-46bc-aff0-6c0f705fad5a) (more on website)
+| Lucid Motors | Multiple locations | [Cloud microservices intern](https://jobs.lever.co/lucidmotors/6436cc04-dff3-45a6-805e-615feb4865bc), **🔒 Closed 🔒** ADAS perception algorithm, Android Applications engineer (more on website)
 | Square | San Francisco, CA; Toronto, Canada; Remote | **🔒 Closed 🔒** Software Engineer Intern, Software Engineer Intern (Toronto), Mobile Developer Intern, Mobile Developer Intern (Toronto)
 | SiriusXM | Multiple locations | **🔒 Closed 🔒** Summer internship for Mobile, Web, Backend, etc. Spring and part-time internship avaliable on website |
 | Gilead Sciences | Foster City, CA | **🔒 Closed 🔒** Intern - Software Development (No Sponsorship) |
