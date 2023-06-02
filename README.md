@@ -634,7 +634,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | GitKraken | Scottsdale, AZ | 🔒 Closed 🔒 Software Engineering Internship |
 | identifeye HEALTH | Remote | 🔒 Closed 🔒 Software Engineering Internship |
 | Airbyte | Hybrid in SF | 🔒 Closed 🔒 Backend Software Engineering Intern |
-| [Vial](https://jobs.lever.co/Vial/c416c6df-63d7-47f8-b252-bfc159c2e2db) | Remote | Software Engineer Intern |
+| Vial | Remote | **🔒 Closed 🔒** Software Engineer Intern |
 | [Stackshine](https://www.ycombinator.com/companies/stackshine/jobs/yAzrMfn-software-engineering-intern?utm_source=waasli) | Remote | Software Engineer Intern |
 | Uber | San Francisco, CA | 🔒 Closed 🔒 UberSTAR Product Design Program for Freshman & Sophomores |
 | Smartsheet | Bellevue, WA | 🔒 Closed 🔒 Software Engineering Intern, Messaging Team |
