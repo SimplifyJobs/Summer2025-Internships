@@ -305,7 +305,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | DraftKings | Boston, MA | **🔒 Closed 🔒** Software Engineering Intern |
 | Ginkgo Bioworks | Boston, MA | **🔒 Closed 🔒** Software Engineering Intern |
 | Huntington Ingalls Industries | Norfolk, VA | **🔒 Closed 🔒** IT intern, Engineering Internship |
-| [Nutanix](https://nutanix.eightfold.ai/careers?query=software%20intern&pid=13574633&domain=nutanix.com&sort_by=relevance) | Durham, NC | Disaster Recovery Software Intern |
+| Nutanix | Durham, NC | **🔒 Closed 🔒** Disaster Recovery Software Intern |
 | Oshkosh Corporation | **🔒 Closed 🔒** Various - Oshkosh, Appleton, Madison,Kewaunee in WI, Hagerstown MD, Greencastle, McConnellsburg, Shippensburg in PA | Software Engineering Intern |
 | Paylocity | Remote | **🔒 Closed 🔒** Data Science internship |
 | Snowflake | San Mateo, CA | **🔒 Closed 🔒** Software Engineer Intern (Core/Database Engineering) |
