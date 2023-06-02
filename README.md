@@ -624,7 +624,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | Volley | San Francisco, CA | **🔒 Closed 🔒** Software Engineering Intern |
 | [NASA](https://stemgateway.nasa.gov/public/s/explore-opportunities/internships) | Multiple Locations + Remote | Software engineering, Machine Learning, Quantum Computing (must be US citizen) |
 | SEI Investments | Oaks, PA | **🔒 Closed 🔒** 2023 Summer Intern - Technology Track (no sponsorship) |
-| [Generate Biomedicines](https://generatebiomedicines.com/open-positions?gh_jid=4048283006) | Somerville, MA (On-site) | Machine Learning Intern |
+| Generate Biomedicines | Somerville, MA (On-site) | Machine Learning Intern |
 | Smith+Nephew | Pittsburgh, PA | 🔒 Closed 🔒 Robotics Software Engineering Intern |
 | [Urban Science](https://careers-urbanscience.icims.com/jobs/search?ss=1&searchKeyword=software+intern) | Detroit, MI | [Software Engineering Intern](https://careers-urbanscience.icims.com/jobs/4817/software-engineering-intern---summer-2023/job), [Data Engineering Intern](https://careers-urbanscience.icims.com/jobs/4766/data-engineering-intern---summer-2023/job)|
 | Squarespace | Chicago, IL | 🔒 Closed 🔒 Tock Software Engineer Intern |
