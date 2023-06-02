@@ -556,7 +556,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | RTI | Sunnyvale, CA | **🔒 Closed 🔒** Application Engineer, Intern (must be US citizen) |
 | Ntrepid | Herndon, VA or remote | **🔒 Closed 🔒** Software Engineer Intern (US citizenship required) |
 | Cyberark | US | **🔒 Closed 🔒** Identity Software Engineer Intern |
-| [Pegasystems](https://www.pega.com/about/careers/job-listings?f[0]=category%3A24376) | Multiple Locations | Multiple summer internship for SWE, UI, UX, etc. |
+| Pegasystems | Multiple Locations | **🔒 Closed 🔒** Multiple summer internship for SWE, UI, UX, etc. |
 | ULINE | Pleasant Prairie, WI | **🔒 Closed 🔒** Software Developer Internship (no sponsorship) |
 | Hudl | Multiple Locations or remote | **🔒 Closed 🔒** Summer internships for SWE and Data |
 | Ball Aerospace | Multiple Locations | **🔒 Closed 🔒** Summer internships for SWE, Data Science, Data Eng, and ML (US citizenship required) |
