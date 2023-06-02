@@ -586,7 +586,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | Harry's | New York, NY | **🔒 Closed 🔒** Software Engineering Intern |
 | MyFitnessPal | Remote, US | **🔒 Closed 🔒** Android Engineer Intern, iOS Engineer Intern|
 | Meta | Menlo Park, Seattle, New York | **🔒 Closed 🔒** Software Engineer Internship/Co-Op <br> Meta University (Must be First or Second Year) |
-| [Stryker](https://careers.stryker.com/job-search-results/?keyword=software&location=USA&country=US&radius=25&job_type=Yes) | Varies | Multiple Summer SWE Internships (No Sponsorship) |
+| Stryker | Varies | **🔒 Closed 🔒** Multiple Summer SWE Internships (No Sponsorship) |
 | Siemens | Varies | **🔒 Closed 🔒** Multiple Summer SWE Internships (No Sponsorship) |
 | Discord | San Francisco, CA or Remote | **🔒 Closed 🔒** Multiple summer internships avaliable (SWE, ML, Data) |
 | Pentair | Multiple Locations | **🔒 Closed 🔒** Computer Science Engineering Leadership Development Program (No Sponsorship) |
