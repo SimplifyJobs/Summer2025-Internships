@@ -309,7 +309,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | Oshkosh Corporation | **🔒 Closed 🔒** Various - Oshkosh, Appleton, Madison,Kewaunee in WI, Hagerstown MD, Greencastle, McConnellsburg, Shippensburg in PA | Software Engineering Intern |
 | Paylocity | Remote | **🔒 Closed 🔒** Data Science internship |
 | Snowflake | San Mateo, CA | **🔒 Closed 🔒** Software Engineer Intern (Core/Database Engineering) |
-| [Trimble](https://trimblecareers.trimble.com/careers/job?domain=trimble.com&query=Software%20Engineering%20Intern&pid=171812012551) | Westminster, CO, Portland, OR, Knoxville, TN, Sunrise, FL | Software Engineering Internship|
+| Trimble | Westminster, CO; Portland, OR; Knoxville, TN; Sunrise, FL | **🔒 Closed 🔒** Software Engineering Internship |
 | Unity | San Francisco, CA, Austin, TX, Bellevue, WA, Framingham, MA, Pittsburgh, PA | **🔒 Closed 🔒** Software Engineer Intern |
 | Zoox | Foster City, CA | [Robot Software Infrastructure](https://jobs.lever.co/zoox/c84006b4-0e77-4362-8cfe-5f8b82b8b347) |
 | Autodesk | Various | **🔒 Closed 🔒** Intern, Software Engineer @ Remote |
