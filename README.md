@@ -259,7 +259,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | Grainger| Chicago, IL (Hybrid) | **🔒 Closed 🔒** Software Engineering Intern |
 | Confluent | Remote | **🔒 Closed 🔒** Quality Engineering Intern |
 | TradeWeb | Jersey City, NJ | **🔒 Closed 🔒** C++ Dev Intern, Java Intern, Java Full Stack Intern |
-| [Cruise](https://getcruise.com/careers/jobs/?search=intern) | Multiple | Multiple, mostly ML/SWE |
+| [Cruise](https://getcruise.com/careers/jobs/2360309/) | Seattle, WA | Product Engineering Delivery Intern |
 | Amadeus | Salt Lake City, UT | **🔒 Closed 🔒** Navitaire Engineering Intern |
 | Gem.com | San Francisco, CA | **🔒 Closed 🔒** Software Engineer Intern |
 | Gap | Remote | **🔒 Closed 🔒** Software Engineering (no visa sponsorship)|
