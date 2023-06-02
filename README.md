@@ -352,7 +352,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | Skydio | San Mateo, CA | **🔒 Closed 🔒** SWE (embedded), SWE (full stack), SWE (mobile) |
 | Cadence | Varies | **🔒 Closed 🔒** Varied Software/Design Engineer/Application Engineer Positions |
 | Activision | Multiple Locations | **🔒 Closed 🔒** Software Engineering Internship, UI/UX Internship, Computer Graphics Internship, Analytics Internship |
-| [Arista](https://www.arista.com/en/careers/university/engineering-internship) | Multiple Locations in US | Software Engineer Intern (undergrad)|
+| [Arista](https://www.arista.com/en/careers/university/software-engineering) | Multiple Locations in US | Software Engineer Intern (undergrad) |
 | Expedia Group| Multiple Locations in US | **🔒 Closed 🔒** Software Development Engineer Intern (all stacks), Intern - Data Science, Analytics|
 | Clever | Multiple Locations in US | **🔒 Closed 🔒** Software Engineering - Intern |
 | State Street | Quincy, Massachusetts | **🔒 Closed 🔒** Software Developer Intern |
