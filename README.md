@@ -460,7 +460,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | BreezeML | Remote | **🔒 Closed 🔒** Software Engineer Intern |
 | Tu Simple | San Diego, California, Remote  | **🔒 Closed 🔒** Multiple Positions (see link) |
 | Schoolhouse | Remote (US) | **🔒 Closed 🔒** Software Engineering Intern (Spring/Summer 2023) |
-| [Yahoo](https://ouryahoo.wd5.myworkdayjobs.com/en-US/careers?q=software&locations=429c19fc6ff810015940b81d49a00000&jobFamilyGroup=91f14896cbbe0142bf25083fc74637b2) | Remote (US) | Software Engineering Intern |
+| Yahoo | Remote (US) | **🔒 Closed 🔒** Software Engineering Intern |
 | Dayton Freight Lines, Inc | Dayton, OH | **🔒 Closed 🔒** Software Developer Intern |
 | Gusto | SF, Denver, NYC | **🔒 Closed 🔒** Software Engineering Intern |
 | Roche | Santa Clara, CA | **🔒 Closed 🔒** 2023 Summer Intern - Sequencing Software Development |
