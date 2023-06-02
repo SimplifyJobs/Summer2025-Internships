@@ -570,7 +570,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Chamberlain Group](https://chamberlain.wd1.myworkdayjobs.com/en-US/Chamberlain_Group/job/Intern--Business-Systems-Analyst-Developer--BI_JR25849) | Oak Brook, IL | Intern, Business Systems Analyst/Developer, BI (must be in master's program and have US work authorization) |
 | Rockwell Automation | Milwaukee, WI | **🔒 Closed 🔒** IT Intern (No Sponsorship) |
 | Commvault | Remote | **🔒 Closed 🔒** Various internship roles in Software Development, UX, etc. |
-| [Expensify](https://we.are.expensify.com/full-stack-engineering-intern) | Remote | Software Engineer Internship |
+| [Expensify](https://we.are.expensify.com/full-stack-engineering-intern) | Remote, Various locations worldwide | Full Stack Engineering Internship |
 | Corsair | Milpitas, CA | **🔒 Closed 🔒** Product Management Intern |
 | Johnson Controls | Fishers, IN  | **🔒 Closed 🔒** Software Engineering Intern (US Citizenship or Legal Right to Work in US) |
 | Panasonic | Irvine, CA | [Software Engineering Summer 2023 Intern (Embedded Software)](https://careers.na.panasonic.com/careers/software-engineering-summer-2023-intern-embedded-software-irvine-ca) <br> [Software Engineering Summer 2023 Intern – Test Platform](https://careers.na.panasonic.com/careers/software-engineering-summer-2023-intern-test-platform-irvine-ca) |
