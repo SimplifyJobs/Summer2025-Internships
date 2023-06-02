@@ -583,7 +583,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | Western Digital (WD) | San Jose, CA | [Data Engineering Intern (Summer 2023)](https://jobs.smartrecruiters.com/WesternDigital/743999908324453-summer-2023-data-engineering-intern), [SWE Firmware Intern (Fall 2023)](https://jobs.smartrecruiters.com/WesternDigital/743999910364988-fall-2023-software-engineering-firmware-intern), [SWE Performance and Power Firmware/Systems Engineering Intern (Fall 2023)](https://jobs.smartrecruiters.com/WesternDigital/743999905860793-fall-2023-software-engineering-intern-performance-and-power-firmware-systems-engineering-) **🔒 Closed 🔒** System Design Verification Engineering Intern |
 | Salesforce x CodePath | San Francisco, CA | **🔒 Closed 🔒** Futureforce Tech Launchpad (rising juniors, class of '25)|
 | [Intel](https://intel.wd1.myworkdayjobs.com/en-US/External?q=software%20intern) | Various | More on website, **🔒 Closed 🔒** Graphics Software Engineer Intern (No Sponsorship), Design Automation Engineering Intern |
-| [Harry's](https://boards.greenhouse.io/harrys/jobs/4798058) | New York, NY | Software Engineering Intern |
+| Harry's | New York, NY | **🔒 Closed 🔒** Software Engineering Intern |
 | MyFitnessPal | Remote, US | **🔒 Closed 🔒** Android Engineer Intern, iOS Engineer Intern|
 | Meta | Menlo Park, Seattle, New York | **🔒 Closed 🔒** Software Engineer Internship/Co-Op <br> Meta University (Must be First or Second Year) |
 | [Stryker](https://careers.stryker.com/job-search-results/?keyword=software&location=USA&country=US&radius=25&job_type=Yes) | Varies | Multiple Summer SWE Internships (No Sponsorship) |
