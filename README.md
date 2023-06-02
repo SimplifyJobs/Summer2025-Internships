@@ -532,7 +532,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | EnergySage Inc. | Boston, MA | **🔒 Closed 🔒** Software Engineering Intern (2023) |
 | SambaNova Systems | Palo Alto, CA | **🔒 Closed 🔒** Intern - Software Engineer |
 | Zanbato | Mountain View, CA | **🔒 Closed 🔒** Software Engineering Intern (only accepting bay area resident) |
-| [SandboxAQ](https://www.sandboxaq.com/careers-list?gh_jid=4601309004) | San Francisco, CA | Internship - Prototyping Engineer |
+| SandboxAQ | San Francisco, CA | **🔒 Closed 🔒** Internship - Prototyping Engineer |
 | PepsiCo | Purchase, NY or Plano, TX | **🔒 Closed 🔒** Digital Transformation Intern (no sponsorship) |
 | Schneider Electric | Nashville, TN | **🔒 Closed 🔒** Software Developer Intern |
 | Enable Medicine | San Francisco, CA or New York City, NY | **🔒 Closed 🔒** Data Science & ML, Associate PM Intern |
