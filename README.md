@@ -525,7 +525,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | Integral Ad Science | Chicago IL or New York, NY | **🔒 Closed 🔒** Engineering, Data, & Product |
 | Atlassian | Mountain View, CA | **🔒 Closed 🔒** Software Engineer Intern, ML Intern (No Sponsorship) |
 | Woven Planet | Palo Alto, CA | **🔒 Closed 🔒** Software Engineer Intern |
-| [Atomic](https://jobs.lever.co/atomic/92ea05f7-450e-452d-92ab-291bad609004) | San Francisco, CA | Summer 2023 Software Engineering Intern |
+| Atomic | San Francisco, CA | **🔒 Closed 🔒** Summer 2023 Software Engineering Intern |
 | Liferay, Inc. | Diamond Bar, CA | **🔒 Closed 🔒** Software Engineering Intern (Consulting) - Summer 2023 |
 | GM Financial | Arlington, TX | **🔒 Closed 🔒** Intern - Software Development Engineer |
 | New Relic | Portland, OR | **🔒 Closed 🔒** Software Engineer Intern, CodeStream or Telemetry Data Platform (No Sponsorship) |
