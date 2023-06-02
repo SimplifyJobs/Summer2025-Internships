@@ -277,7 +277,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | Jamf | Varies/Remote | **🔒 Closed 🔒** Software Engineering Intern |
 | Dish | Overland Park, KS | **🔒 Closed 🔒** Application Engineering Intern, Application Development |
 | Synopsys | Mountain View/Sunnyvale, CA | **🔒 Closed 🔒** ML Engineering intern, C++ Engineering Intern, IT intern |
-| Booz Allen | Charleston, South Carolina or Annapolis Junction, Maryland | Software Engineer in [SC](https://careers.boozallen.com/jobs/JobDetail/Charleston-Software-Developer-Intern-R0145621/62161?source=JB-16500), [MD](https://careers.boozallen.com/jobs/JobDetail/Annapolis-Junction-University-Software-Engineer-Intern-R0151116/65593?source=JB-16500) |
+| Booz Allen | Charleston, SC or Annapolis Junction, MD | **🔒 Closed 🔒** Software Engineer Intern |
 | McDonald's| Chicago, IL | **🔒 Closed 🔒** Software Development Engineer |
 | BCG | Varies | **🔒 Closed 🔒** Engineering Intern, Software Engineering |
 | C3.ai | Redwood City, CA | **🔒 Closed 🔒** Software Engineer Intern |
