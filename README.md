@@ -291,7 +291,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | Fifth Third Bank | Cincinnati, OH | **🔒 Closed 🔒** Data Science & Engineering Intern |
 | KnowBe4 | Remote | **🔒 Closed 🔒** Software Development Engineer Intern (Front-End) (Remote) |
 | Flexport | Bellevue, WA; or Chicago, IL; or San Francisco, CA | 2023 Summer Full-Stack Software Engineering Intern: **🔒 Closed 🔒** Undergraduate Degree, Graduate Degree, Data Analytics Intern: Undergraduate Degree |
-| Schonfeld | New York, NY; or Miami, FL | 2023 Software Engineering Summer Internship - [New York](https://boards.greenhouse.io/schonfeld/jobs/4510170), [Miami](https://boards.greenhouse.io/schonfeld/jobs/4510454) |
+| Schonfeld | New York, NY; or Miami, FL | **🔒 Closed 🔒** 2023 Software Engineering Summer Internship |
 | Spreetail | Remote | **🔒 Closed 🔒** Software Engineer Intern - Marketplace Platform, Supply Chain Platform; Devops Intern |
 | Tanium | Remote, US | **🔒 Closed 🔒** Software Engineering Intern |
 | UiPath | Multiple | **🔒 Closed 🔒** Software Engineer Internships |
