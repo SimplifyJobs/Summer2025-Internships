@@ -448,7 +448,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | Sigma Computing | San Francisco, CA | **🔒 Closed 🔒** Software Engineering Intern (Summer 2023) |
 | Bandwidth | Rochester, NY | **🔒 Closed 🔒** Software Engineering Intern (Summer 2023) |
 | UKG | Multiple | **🔒 Closed 🔒** Software Engineering Internship – Spring & Summer 2023 (No Sponsorship) |
-| [MediaTek](https://careers.mediatek.com/eREC/JobSearch/JobDetail/MUS120210917004?langKey=en-US) | San Jose, CA | AI Architecture and Algorithm Intern |
+| MediaTek | San Jose, CA | **🔒 Closed 🔒** AI Architecture and Algorithm Intern |
 | Citizens | **🔒 Closed 🔒** Johnston, Rhode Island; Phoenix, Arizona | Technology Summer Internship Program: Software Engineer (No Sponsorship) |
 | Philips | **🔒 Closed 🔒** Bothell, WA | Software Engineering Intern (No Sponsorhip) |
 | Monad Labs | Remote (US & Canada) | **🔒 Closed 🔒** Low-Latency C++ Software Engineering Intern |
