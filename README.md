@@ -284,7 +284,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | Roku | San Jose, CA |  **🔒 Closed 🔒** Software Engineer Internships |
 | Google | Multiple | **🔒 Closed 🔒** Software Engineer Intern|
 | Bank of America | Multiple Locations | **🔒 Closed 🔒** Software Engineer/Developer (Undergrad) |
-| [Pearson](https://pearson.jobs/bloomington-mn/software-development-intern/A59D36809211450CBE681C2B5D9F4BF1/job/) | Bloomington, MN | Software Development Intern |
+| Pearson | Bloomington, MN | **🔒 Closed 🔒** Software Development Intern |
 | Toyota Connected | Plano, TX | **🔒 Closed 🔒** Software Engineer Intern, Data Engineer Intern, Data Scientist Intern, Machine Learning Engineer Intern |
 | [Honeywell](https://careers.honeywell.com/us/en/job/req364416/Computer-Software-Engineer-Computer-Science-Summer-2023-Intern-Co-Op) | Multiple Locations in US | Software Engineer Intern (No Visa Sponsorship) |
 | Parsons Corporation | Colorado Springs, CO | **🔒 Closed 🔒** Software Engineer Intern - Space Systems (US Citizenship Required) |
