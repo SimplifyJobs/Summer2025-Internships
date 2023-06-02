@@ -350,7 +350,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | Argo AI | Multiple Locations in US | **🔒 Closed 🔒** Software Engineer Intern  |
 | Walmart | Bentonville, AR | **🔒 Closed 🔒** 2023 Summer Intern: Software Engineer II (No Visa Sponsorship) |
 | Skydio | San Mateo, CA | **🔒 Closed 🔒** SWE (embedded), SWE (full stack), SWE (mobile) |
-| [Cadence](https://cadence.wd1.myworkdayjobs.com/Univ_Careers/2/refreshFacet/318c8bb6f553100021d223d9780d30be) | Varies | Varied Software/Design Engineer/Application Engineer Positions |
+| Cadence | Varies | **🔒 Closed 🔒** Varied Software/Design Engineer/Application Engineer Positions |
 | Activision | Multiple Locations | **🔒 Closed 🔒** Software Engineering Internship, UI/UX Internship, Computer Graphics Internship, Analytics Internship |
 | [Arista](https://www.arista.com/en/careers/university/engineering-internship) | Multiple Locations in US | Software Engineer Intern (undergrad)|
 | Expedia Group| Multiple Locations in US | **🔒 Closed 🔒** Software Development Engineer Intern (all stacks), Intern - Data Science, Analytics|
