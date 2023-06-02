@@ -620,7 +620,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | Ramp | New York, Miami, Remote | Software Engineer Internship in [frontend](https://boards.greenhouse.io/ramp/jobs/4820594002) and [backend](https://boards.greenhouse.io/ramp/jobs/5083064002) |
 | [Anyscale](https://jobs.lever.co/anyscale/78a003a6-221a-4414-bf95-7c734cbfc4d9) | San Francisco, CA | Software Engineer (2023 Intern) |
 | Humane | San Francisco, CA | **🔒 Closed 🔒** Digital Product Design Intern |
-| Lyft | Multiple Locations in the US | 🔒 Closed 🔒 Actuarial intern, Data Science Intern, [Product Design Intern](https://app.careerpuck.com/job-board/lyft/job/6584563002?gh_jid=6584563002) |
+| Lyft | Multiple Locations in the US | 🔒 Closed 🔒 Actuarial intern, Data Science Intern, Product Design Intern |
 | Volley | San Francisco, CA | **🔒 Closed 🔒** Software Engineering Intern |
 | [NASA](https://stemgateway.nasa.gov/public/s/explore-opportunities/internships) | Multiple Locations + Remote | Software engineering, Machine Learning, Quantum Computing (must be US citizen) |
 | SEI Investments | Oaks, PA | **🔒 Closed 🔒** 2023 Summer Intern - Technology Track (no sponsorship) |
