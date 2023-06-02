@@ -573,7 +573,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Expensify](https://we.are.expensify.com/full-stack-engineering-intern) | Remote, Various locations worldwide | Full Stack Engineering Internship |
 | Corsair | Milpitas, CA | **🔒 Closed 🔒** Product Management Intern |
 | Johnson Controls | Fishers, IN  | **🔒 Closed 🔒** Software Engineering Intern (US Citizenship or Legal Right to Work in US) |
-| Panasonic | Irvine, CA | [Software Engineering Summer 2023 Intern (Embedded Software)](https://careers.na.panasonic.com/careers/software-engineering-summer-2023-intern-embedded-software-irvine-ca) <br> [Software Engineering Summer 2023 Intern – Test Platform](https://careers.na.panasonic.com/careers/software-engineering-summer-2023-intern-test-platform-irvine-ca) |
+| Panasonic | Irvine, CA | **🔒 Closed 🔒** Software Engineering Summer 2023 Intern (Embedded Software), Software Engineering Summer 2023 Intern – Test Platform |
 | Takeda | Boston, MA | **🔒 Closed 🔒** 2023 Summer Internship - Statistical Programming (No Sponsorship) |
 | Q2 | Austin, TX | **🔒 Closed 🔒** Software Engineering Intern |
 | D.R. Horton | Arlington, TX | **🔒 Closed 🔒** Summer 2023 IT Intern - Software Development |
