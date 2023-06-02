@@ -506,7 +506,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | Productiv | Palo Alto, CA or Bellevue, WA | **🔒 Closed 🔒** Software Engineer Intern |
 | Juniper Networks | Westford, MA or Sunnyvale, CA | **🔒 Closed 🔒** Software Enginnering Intern |
 | Uniswap Labs | New York City, NY | **🔒 Closed 🔒** Software Engineering Intern |
-| [Micron Technology](https://micron.eightfold.ai/careers/search?query=Internship) | Multiple locations | [IT Software Engineer](https://micron.eightfold.ai/careers/search?query=Internship&pid=15649901), [IT I&P Private Cloud](https://micron.eightfold.ai/careers/search?query=Internship&pid=15650447) |
+| Micron Technology | Multiple locations | **🔒 Closed 🔒** IT Software Engineer, IT I&P Private Cloud |
 | Michaels | Irving, TX | **🔒 Closed 🔒** 2023 Technology Summer Internship Program |
 | XCOM Labs | San Diego, CA | **🔒 Closed 🔒** Summer internship for software, wireless, VR, XR, etc. |
 | NerdWallet | San Francisco, CA or Remote | **🔒 Closed 🔒** General internship application for Web, Data, Mobile, etc. |
