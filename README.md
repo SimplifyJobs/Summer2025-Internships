@@ -546,7 +546,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | Abarca Health | Remote | **🔒 Closed 🔒** Spring/Fall Coop and Summer internship for SWE, Data, InfoSec, and Tech Support |
 | C.H. Robinson | Remote | **🔒 Closed 🔒** Software Engineer Internship |
 | Bungie | Remote | **🔒 Closed 🔒** Unannounced Project SDET Intern |
-| [Acumen](https://jobs.lever.co/acumenllc/e4e5fe92-848d-43b3-b6e8-c07c2a35fe61) | Burlingame/Los Angeles, CA or Washington, DC | Data Processing Programmer Intern (cover letter required) |
+| Acumen | Burlingame/Los Angeles, CA or Washington, DC | **🔒 Closed 🔒** Data Processing Programmer Intern (cover letter required) |
 | RVO Health | Charlotte, NC | **🔒 Closed 🔒** Early Career Talent 2023 Internship for SWE and Data |
 | Intuitive | Sunnyvale, CA (on-site) | **🔒 Closed 🔒**  Software Engineering, Dev Ops, Systems Engineering |
 | Zoom | San Jose, CA | **🔒 Closed 🔒** Software Development, Software Engineering, and PM Internships |
