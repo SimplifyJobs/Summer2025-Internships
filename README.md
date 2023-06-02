@@ -567,7 +567,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | GitLab | Remote | **🔒 Closed 🔒** Engineering Internship (SWE) (no sponsorship but accept interns from multiple countries) |
 | FIS | Milwaukee, WI | **🔒 Closed 🔒** Software Engineer, Summer FIS University Program (no sponsorship) |
 | Commonwealth | Waltham, MA | **🔒 Closed 🔒** General Summer Internship |
-| [Chamberlain Group](https://chamberlain.wd1.myworkdayjobs.com/en-US/Chamberlain_Group?workerSubType=a1d19ddc127d10332f2265ab00be635b) | Oak Brook, IL | 2023 Summer internships for SWE, Data, PM, etc. (no sponsorship) |
+| [Chamberlain Group](https://chamberlain.wd1.myworkdayjobs.com/en-US/Chamberlain_Group/job/Intern--Business-Systems-Analyst-Developer--BI_JR25849) | Oak Brook, IL | Intern, Business Systems Analyst/Developer, BI (must be in master's program and have US work authorization) |
 | Rockwell Automation | Milwaukee, WI | **🔒 Closed 🔒** IT Intern (No Sponsorship) |
 | Commvault | Remote | **🔒 Closed 🔒** Various internship roles in Software Development, UX, etc. |
 | [Expensify](https://we.are.expensify.com/full-stack-engineering-intern) | Remote | Software Engineer Internship |
