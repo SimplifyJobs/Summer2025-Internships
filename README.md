@@ -268,7 +268,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | Grammarly | Remote | **🔒 Closed 🔒** Software Engineer |
 | Dimensional Careers | Austin, TX | **🔒 Closed 🔒** Software Engineering (Must be authorized to work in US) |
 | Labcorp | Durham, NC; or Indianapolis, IN | **🔒 Closed 🔒** Software Developer Internship |
-| [Sierra Nevada Corporation](https://snc.wd1.myworkdayjobs.com/en-US/SNC_External_Career_Site/job/Englewood-CO/Software-Engineer-Intern--Summer-2023-_R0018868) | Englewood, CO; or Huntsville, AL; or Hagerstown, MD | Software Engineer Intern |
+| Sierra Nevada Corporation | Englewood, CO; Huntsville, AL; or Hagerstown, MD | **🔒 Closed 🔒** Software Engineer Intern |
 | Sysco | Houston, TX; or Austin, TX | **🔒 Closed 🔒** Intern - Software Development Engineer (10 Week during Summer)（undergrad） |
 | DoorDash | Multiple Locations | **🔒 Closed 🔒** Software Engineer Intern: US Position, Toronto Position |
 | United | Chicago, IL | **🔒 Closed 🔒** Digital Technology Intern (no sponsorship) |
