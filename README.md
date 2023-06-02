@@ -393,8 +393,8 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | Coca-Cola | Atlanta, GA | **🔒 Closed 🔒** Information Technology Intern |
 | OpenText | Ontario, Canada | **🔒 Closed 🔒** Localization QA Specialist Intern |
 | Omnicell | Cranberry Township, PA | **🔒 Closed 🔒** Software Engineering Intern (no sponsorship) |
-| [Patreon](https://boards.greenhouse.io/patreon/jobs/4606412) | New York City, NY or San Francisco, CA | Software Engineering Intern (Hybrid) |
-| Grafana Labs | Remote | 🔒 Closed 🔒) |
+| Patreon | New York City, NY or San Francisco, CA | **🔒 Closed 🔒** Software Engineering Intern (Hybrid) |
+| Grafana Labs | Remote | 🔒 Closed 🔒 |
 | Credit Karma | Charlotte, NC | **🔒 Closed 🔒** Software Engineering Intern |
 | Waymo | Multiple Locations (CA, WA) | **🔒 Closed 🔒** Software Engineering Intern, Data Science, Infrastructure, etc. positions also available |
 | Robinhood | Remote, USA | [Android Engineer Intern](https://app.ripplematch.com/job/robinhood/e93c5366?from_page=company_branded_page&), [iOS Engineer Intern](https://app.ripplematch.com/job/robinhood/55eaa246?from_page=company_branded_page&) |
