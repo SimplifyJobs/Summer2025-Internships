@@ -311,7 +311,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | Snowflake | San Mateo, CA | **🔒 Closed 🔒** Software Engineer Intern (Core/Database Engineering) |
 | Trimble | Westminster, CO; Portland, OR; Knoxville, TN; Sunrise, FL | **🔒 Closed 🔒** Software Engineering Internship |
 | Unity | San Francisco, CA, Austin, TX, Bellevue, WA, Framingham, MA, Pittsburgh, PA | **🔒 Closed 🔒** Software Engineer Intern |
-| Zoox | Foster City, CA | [Robot Software Infrastructure](https://jobs.lever.co/zoox/c84006b4-0e77-4362-8cfe-5f8b82b8b347) |
+| Zoox | Foster City, CA | **🔒 Closed 🔒** Robot Software Infrastructure |
 | Autodesk | Various | **🔒 Closed 🔒** Intern, Software Engineer @ Remote |
 | IDEMIA | Anaheim, CA | **🔒 Closed 🔒** Software Development Internship (US Citizenship Required; No Sponsorship) |
 | TripActions | Palo Alto, CA |  **🔒 Closed 🔒** Software Engineering Internship |
