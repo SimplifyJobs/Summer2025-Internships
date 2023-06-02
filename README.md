@@ -640,7 +640,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | Smartsheet | Bellevue, WA | 🔒 Closed 🔒 Software Engineering Intern, Messaging Team |
 | Strava | Remote | 🔒 Closed 🔒 Software Engineer Intern |
 | Pinata | Remote | 🔒 Closed 🔒 Software Engineer Intern (Web3) |
-| UnitedMasters | San Francisco, CA | Engineering Internship for [API Team](https://boards.greenhouse.io/unitedmasters/jobs/6627624002) and [Web UI](https://boards.greenhouse.io/unitedmasters/jobs/6627619002) |
+| UnitedMasters | San Francisco, CA | **🔒 Closed 🔒** Engineering internships for API Team and Web UI |
 | CCC Intelligent Solutions | Chicago, IL | 🔒 Closed 🔒 Software Engineer Intern |
 | [GE HealthCare](https://jobs.gecareers.com/healthcare/global/en/job/GE11GLOBALR3683558EXTERNALENGLOBAL/Digital-Technology-Intern-icstars) | Wauwatosa, Wisconsin or Remote | Digital Technology Intern (no sponsorship) |
 | [Cantaloupe](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=2841c74f-b09d-4838-bd8d-66c8281ba899&ccId=19000101_000001&type=MP&lang=en_US&jobId=461590) | Atlanta, GA or Malvern, PA | Software Engineer Intern |
