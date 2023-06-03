@@ -647,7 +647,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | Vimbly | New York | [Platform Developer Internship](https://www.vimblygroup.com/careers?jobid=398), [Front End Developer Internship](https://www.vimblygroup.com/careers?jobid=399)  |
 | Virtru | Washington DC or Remote | 🔒 Closed 🔒 Graduate Software Developer Intern, Software Developer in Test (SDET) Intern |
 | Spectrum | Austin, TX | 🔒 Closed 🔒 Software Developer Intern |
-| Agot AI | Pittsburgh, PA | [Software Engineering Intern](https://jobs.lever.co/agotai/c7d7246a-8056-4878-887e-47eaf2a30ba6), [Infrastructure Intern](https://jobs.lever.co/agotai/6a069dcb-3030-4525-8eeb-2a60f263d0b0), [Deep Learning Infrastructure Intern](https://jobs.lever.co/agotai/2b191d37-36b8-4251-b1a6-90d49f4b014a), [Computer Vision Engineering Intern](https://jobs.lever.co/agotai/aebe6b44-9b0e-4062-90ad-2829ae998aec) |
+| Agot AI | Pittsburgh, PA | [Software Engineering Intern](https://jobs.lever.co/agotai/c7d7246a-8056-4878-887e-47eaf2a30ba6), [Computer Vision Engineering Intern](https://jobs.lever.co/agotai/aebe6b44-9b0e-4062-90ad-2829ae998aec), **🔒 Closed 🔒** Infrastructure Intern, Deep Learning Infrastructure Intern |
 | [Brightly](https://recruiting.paylocity.com/Recruiting/Jobs/Details/1554540) | Remote | Site Reliability Engineer Intern |
 | Two Sigma | New York, NY | **🔒 Closed 🔒** Software Engineering Internship |
 | MetroStar | Remote | 🔒 Closed 🔒 Summer 2023 Technology Internship |
