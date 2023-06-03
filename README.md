@@ -667,7 +667,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | SAIC | El Segundo, CA | [Technical Intern](https://jobs.saic.com/jobs/12846344-technical-intern), [IT Intern](https://jobs.saic.com/jobs/12834279-it-intern), [Space Systems Engineering Intern](https://jobs.saic.com/jobs/12423688-cleared-space-systems-engineering-intern) **🔒 Closed 🔒** Cybersecurity, Technical- & Game Theory-Related Internships (U.S. Citizenship Required) |
 | Malwarebytes | Remote | [Build and Release Automation Engineer Intern](https://www.malwarebytes.com/jobs?p=job%2FoScSmfw2) **🔒 Closed 🔒** Software Engineering Intern |
 | Ryder | Miami, FL | **🔒 Closed 🔒** Application Developer Intern |
-| [Sport Logiq](https://sportlogiq.bamboohr.com/careers/78?source=aWQ9NA%3D%3D)| Canada (remote) | Backend Developer|
+| [Sport Logiq](https://sportlogiq.bamboohr.com/careers/78?source=aWQ9NA%3D%3D)| Canada (remote) | Backend Developer Intern (Must be a student at a Canadian university) |
 | [Clio](https://clio.wd3.myworkdayjobs.com/en-US/ClioCareerSite/job/Vancouver/Software-Developer--Co-op_REQ-1577?source=Linkedin) | Canada (remote) | Software Developer Co-op|
 | [Henkel](https://app.ripplematch.com/job/henkel/64711af6/?utm_source=Github&utm_medium=organic_social&utm_campaign=growth_github&utm_content=github_henkel&utm_term=null) | Rocky Hill, CT, USA | R&D Intern - Summer 2023|
 | [Ericsson](https://app.ripplematch.com/job/ericsson/58bad9ce/?utm_source=Github&utm_medium=organic_social&utm_campaign=growth_github&utm_content=github_ericsson&utm_term=null) | Plano, TX, USA | Summer 2023 Computer Science & Data Science Internship|
