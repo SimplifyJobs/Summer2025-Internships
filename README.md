@@ -661,7 +661,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | Adobe | Multiple Locations, USA | 🔒 Closed 🔒 2023 Intern - Software Engineer |
 | Paramount | Fort Lauderdale, FL | 🔒 Closed 🔒 Data Engineering Intern |
 | Peak6 | Dallas, TX | **🔒 Closed 🔒** UX Design Intern, Product Management Intern (no sponsorship available) |
-| [Amazon](https://www.amazon.jobs/en/jobs/2110678/software-development-engineer-internship-2023-us) | Multiple Locations in United States | Software Development Engineer Internship - 2023 (US) |
+| Amazon | Multiple Locations in United States | **🔒 Closed 🔒** Software Development Engineer Internship - 2023 (US) |
 | [Cognito Forms](https://www.cognitoforms.com/careers) | Columbia, SC | [Software Engineer Intern](https://www.cognitoforms.com/company/8/careers/software-engineer-intern), [UX/UI Designer Intern](https://www.cognitoforms.com/company/28/careers/uxui-designer-intern) (No Sponsorship) |
 | [White Oak Security](https://www.whiteoaksecurity.com/penetration-testing-internship/) | Fully Remote | Penetration Testing Intern (Cybersecurity) |
 | [SAIC](https://jobs.saic.com/search/student/jobs) | El Segundo, CA | [Cybersecurity](https://jobs.saic.com/jobs/12554012-cyber-security-intern), Technical- & Game Theory-Related Internships (U.S. Citizenship Required) |
