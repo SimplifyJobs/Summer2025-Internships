@@ -54,7 +54,6 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [AQR Capital Management, LLC](https://careers.aqr.com/jobs/university-open-positions/greenwich-ct/2024-summer-internship-express-interest/4478927?lang=en_us) | Greenwich, Connecticut | 2024 Summer Internship-Express Interest | ✅ Open |
 | [GE Appliances](https://haier.wd3.myworkdayjobs.com/en-US/GE_Appliances/job/USA-Louisville-KY/Summer-2024-Digital-Technology-Intern_REQ-16073) | Louisville, KY | **🔒 Closed 🔒** Digital Technology Intern |
 | [Epic](https://epic.avature.net/Careers/FolderDetail/Software-Developer-Intern---Summer-2024/23429) | Madison, WI | Software Developer Intern - Summer 2024 (No sponsorship is available)
-| [Chesapeake Bay Trading](https://chesapeake-trading.us.to/careers) | Multiple Locations | Full Stack Developer - Summer 2024
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
