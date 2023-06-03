@@ -666,7 +666,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | White Oak Security | Fully Remote | **🔒 Closed 🔒** Penetration Testing Intern (Cybersecurity) |
 | SAIC | El Segundo, CA | [Technical Intern](https://jobs.saic.com/jobs/12846344-technical-intern), [IT Intern](https://jobs.saic.com/jobs/12834279-it-intern), [Space Systems Engineering Intern](https://jobs.saic.com/jobs/12423688-cleared-space-systems-engineering-intern) **🔒 Closed 🔒** Cybersecurity, Technical- & Game Theory-Related Internships (U.S. Citizenship Required) |
 | Malwarebytes | Remote | [Build and Release Automation Engineer Intern](https://www.malwarebytes.com/jobs?p=job%2FoScSmfw2) **🔒 Closed 🔒** Software Engineering Intern |
-| [Ryder](https://ryder.wd5.myworkdayjobs.com/en-US/RyderCareers/job/Intern---Application-Developer_R83987) | Miami, FL | Application Developer Intern |
+| Ryder | Miami, FL | **🔒 Closed 🔒** Application Developer Intern |
 | [Sport Logiq](https://sportlogiq.bamboohr.com/careers/78?source=aWQ9NA%3D%3D)| Canada (remote) | Backend Developer|
 | [Clio](https://clio.wd3.myworkdayjobs.com/en-US/ClioCareerSite/job/Vancouver/Software-Developer--Co-op_REQ-1577?source=Linkedin) | Canada (remote) | Software Developer Co-op|
 | [Henkel](https://app.ripplematch.com/job/henkel/64711af6/?utm_source=Github&utm_medium=organic_social&utm_campaign=growth_github&utm_content=github_henkel&utm_term=null) | Rocky Hill, CT, USA | R&D Intern - Summer 2023|
