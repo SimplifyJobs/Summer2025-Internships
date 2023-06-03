@@ -663,7 +663,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | Peak6 | Dallas, TX | **🔒 Closed 🔒** UX Design Intern, Product Management Intern (no sponsorship available) |
 | Amazon | Multiple Locations in United States | **🔒 Closed 🔒** Software Development Engineer Internship - 2023 (US) |
 | Cognito Forms | Columbia, SC | [Software Engineer Intern](https://www.cognitoforms.com/company/8/careers/software-engineer-intern), **🔒 Closed 🔒** UX/UI Designer Intern (No Sponsorship) |
-| [White Oak Security](https://www.whiteoaksecurity.com/penetration-testing-internship/) | Fully Remote | Penetration Testing Intern (Cybersecurity) |
+| White Oak Security | Fully Remote | **🔒 Closed 🔒** Penetration Testing Intern (Cybersecurity) |
 | [SAIC](https://jobs.saic.com/search/student/jobs) | El Segundo, CA | [Cybersecurity](https://jobs.saic.com/jobs/12554012-cyber-security-intern), Technical- & Game Theory-Related Internships (U.S. Citizenship Required) |
 | [Malwarebytes](https://www.malwarebytes.com/jobs?p=job/oql3mfwU&gh_src=d93654841&nl=1) | Remote | Software Engineering Intern |
 | [Ryder](https://ryder.wd5.myworkdayjobs.com/en-US/RyderCareers/job/Intern---Application-Developer_R83987) | Miami, FL | Application Developer Intern |
