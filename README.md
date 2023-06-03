@@ -665,7 +665,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | Cognito Forms | Columbia, SC | [Software Engineer Intern](https://www.cognitoforms.com/company/8/careers/software-engineer-intern), **🔒 Closed 🔒** UX/UI Designer Intern (No Sponsorship) |
 | White Oak Security | Fully Remote | **🔒 Closed 🔒** Penetration Testing Intern (Cybersecurity) |
 | SAIC | El Segundo, CA | [Technical Intern](https://jobs.saic.com/jobs/12846344-technical-intern), [IT Intern](https://jobs.saic.com/jobs/12834279-it-intern), [Space Systems Engineering Intern](https://jobs.saic.com/jobs/12423688-cleared-space-systems-engineering-intern) **🔒 Closed 🔒** Cybersecurity, Technical- & Game Theory-Related Internships (U.S. Citizenship Required) |
-| [Malwarebytes](https://www.malwarebytes.com/jobs?p=job/oql3mfwU&gh_src=d93654841&nl=1) | Remote | Software Engineering Intern |
+| Malwarebytes | Remote | [Build and Release Automation Engineer Intern](https://www.malwarebytes.com/jobs?p=job%2FoScSmfw2) **🔒 Closed 🔒** Software Engineering Intern |
 | [Ryder](https://ryder.wd5.myworkdayjobs.com/en-US/RyderCareers/job/Intern---Application-Developer_R83987) | Miami, FL | Application Developer Intern |
 | [Sport Logiq](https://sportlogiq.bamboohr.com/careers/78?source=aWQ9NA%3D%3D)| Canada (remote) | Backend Developer|
 | [Clio](https://clio.wd3.myworkdayjobs.com/en-US/ClioCareerSite/job/Vancouver/Software-Developer--Co-op_REQ-1577?source=Linkedin) | Canada (remote) | Software Developer Co-op|
