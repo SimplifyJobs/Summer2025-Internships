@@ -643,7 +643,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | UnitedMasters | San Francisco, CA | **🔒 Closed 🔒** Engineering internships for API Team and Web UI |
 | CCC Intelligent Solutions | Chicago, IL | 🔒 Closed 🔒 Software Engineer Intern |
 | GE HealthCare | Wauwatosa, Wisconsin or Remote | Digital Technology Intern (no sponsorship) |
-| [Cantaloupe](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=2841c74f-b09d-4838-bd8d-66c8281ba899&ccId=19000101_000001&type=MP&lang=en_US&jobId=461590) | Atlanta, GA or Malvern, PA | Software Engineer Intern |
+| Cantaloupe | Atlanta, GA or Malvern, PA | **🔒 Closed 🔒** Software Engineer Intern |
 | Vimbly | New York | [Platform Developer Internship](https://www.vimblygroup.com/careers?jobid=398), [Front End Developer Internship](https://www.vimblygroup.com/careers?jobid=399)  |
 | Virtru | Washington DC or Remote | 🔒 Closed 🔒 Graduate Software Developer Intern, Software Developer in Test (SDET) Intern |
 | Spectrum | Austin, TX | 🔒 Closed 🔒 Software Developer Intern |
