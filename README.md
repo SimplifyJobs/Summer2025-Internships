@@ -664,7 +664,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | Amazon | Multiple Locations in United States | **🔒 Closed 🔒** Software Development Engineer Internship - 2023 (US) |
 | Cognito Forms | Columbia, SC | [Software Engineer Intern](https://www.cognitoforms.com/company/8/careers/software-engineer-intern), **🔒 Closed 🔒** UX/UI Designer Intern (No Sponsorship) |
 | White Oak Security | Fully Remote | **🔒 Closed 🔒** Penetration Testing Intern (Cybersecurity) |
-| [SAIC](https://jobs.saic.com/search/student/jobs) | El Segundo, CA | [Cybersecurity](https://jobs.saic.com/jobs/12554012-cyber-security-intern), Technical- & Game Theory-Related Internships (U.S. Citizenship Required) |
+| SAIC | El Segundo, CA | [Technical Intern](https://jobs.saic.com/jobs/12846344-technical-intern), [IT Intern](https://jobs.saic.com/jobs/12834279-it-intern), [Space Systems Engineering Intern](https://jobs.saic.com/jobs/12423688-cleared-space-systems-engineering-intern) **🔒 Closed 🔒** Cybersecurity, Technical- & Game Theory-Related Internships (U.S. Citizenship Required) |
 | [Malwarebytes](https://www.malwarebytes.com/jobs?p=job/oql3mfwU&gh_src=d93654841&nl=1) | Remote | Software Engineering Intern |
 | [Ryder](https://ryder.wd5.myworkdayjobs.com/en-US/RyderCareers/job/Intern---Application-Developer_R83987) | Miami, FL | Application Developer Intern |
 | [Sport Logiq](https://sportlogiq.bamboohr.com/careers/78?source=aWQ9NA%3D%3D)| Canada (remote) | Backend Developer|
