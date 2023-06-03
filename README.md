@@ -648,7 +648,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | Virtru | Washington DC or Remote | 🔒 Closed 🔒 Graduate Software Developer Intern, Software Developer in Test (SDET) Intern |
 | Spectrum | Austin, TX | 🔒 Closed 🔒 Software Developer Intern |
 | Agot AI | Pittsburgh, PA | [Software Engineering Intern](https://jobs.lever.co/agotai/c7d7246a-8056-4878-887e-47eaf2a30ba6), [Computer Vision Engineering Intern](https://jobs.lever.co/agotai/aebe6b44-9b0e-4062-90ad-2829ae998aec), **🔒 Closed 🔒** Infrastructure Intern, Deep Learning Infrastructure Intern |
-| [Brightly](https://recruiting.paylocity.com/Recruiting/Jobs/Details/1554540) | Remote | Site Reliability Engineer Intern |
+| Brightly | Remote | Site Reliability Engineer Intern |
 | Two Sigma | New York, NY | **🔒 Closed 🔒** Software Engineering Internship |
 | MetroStar | Remote | 🔒 Closed 🔒 Summer 2023 Technology Internship |
 | Alight | Remote | 🔒 Closed 🔒 Cloud Engineer Intern (No Sponsorship) |
