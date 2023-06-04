@@ -57,7 +57,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Apple](https://jobs.apple.com/en-us/details/200480063/software-engineering-internships?team=STDNT) | United States | Software Engineering Internships |
 | [Neuralink](https://boards.greenhouse.io/neuralink/jobs/5285389003) | Fremont, CA ; Austin, TX| Software Engineering Internship, [Quality Assurance](https://boards.greenhouse.io/neuralink/jobs/5552854003) |
 | [Certik](https://jobs.lever.co/certik) | NYC, NY <br/> Seattle, WA <br/> SF Bay Area, CA <br/> Remote | [Development Intern](https://jobs.lever.co/certik/2e33570a-f495-44ef-9d7d-a0c5a7fd8190) <br/> [Platform Engineering Intern](https://jobs.lever.co/certik/095fdcff-99e8-408d-bb8a-e638e44d0b40) <br/> [Full Stack Intern - Matrix](https://jobs.lever.co/certik/ca67aab6-9b8b-4c2f-ad80-ff5855292f48) <br/> [UX/UI Designer Intern](https://jobs.lever.co/certik/c05535ca-0845-4248-9de5-da4455393c9d) |
-| [MosaicML](https://boards.greenhouse.io/mosaicml/jobs/4133756004) | SF & San Diego, CA | Software Engineer Intern |
+| [MosaicML](https://boards.greenhouse.io/mosaicml) | SF and San Diego, CA <br/> NYC, NY | [Software Engineer Intern](https://boards.greenhouse.io/mosaicml/jobs/4133756004) <br/> [Research Scientist Intern](https://boards.greenhouse.io/mosaicml/jobs/4170454004) |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
