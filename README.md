@@ -57,7 +57,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Apple](https://jobs.apple.com/en-us/details/200480063/software-engineering-internships?team=STDNT) | United States | Software Engineering Internships |
 | [Neuralink](https://boards.greenhouse.io/neuralink/jobs/5285389003) | Fremont, CA ; Austin, TX| Software Engineering Internship, [Quality Assurance](https://boards.greenhouse.io/neuralink/jobs/5552854003) |
 | [Certik](https://jobs.lever.co/certik/095fdcff-99e8-408d-bb8a-e638e44d0b40) | United States | Platform Engineering Intern |
-
+| [MosaicML](https://boards.greenhouse.io/mosaicml/jobs/4133756004) | SF & San Diego, CA | Software Engineer Intern |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
