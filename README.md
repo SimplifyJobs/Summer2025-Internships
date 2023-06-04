@@ -9,27 +9,27 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 
 ---
 <div align="center">
-	<p>
-		<a href="https://simplify.jobs/?utm_source=pittcsc&utm_medium=internships_repo">
-			<b>Applying to internships?</b>
-			<br>
-			Autofill all your applications in a single click.
-			<br>
-			<div>
-				<a href="https://simplify.jobs/?utm_source=pittcsc&utm_medium=internships_repo"><img src="https://res.cloudinary.com/dpeo4xcnc/image/upload/v1636594918/simplify_pittcsc.png" width="450" alt="Simplify" ></a>
-			</div>
-		</a>
-		<sub><i>Stop manually re-entering your information. Simplify’s extension helps you autofill internship applications on millions of sites.</i></sub>
-	</p>
+  <p>
+    <a href="https://simplify.jobs/?utm_source=pittcsc&utm_medium=internships_repo">
+      <b>Applying to internships?</b>
+      <br>
+      Autofill all your applications in a single click.
+      <br>
+      <div>
+        <a href="https://simplify.jobs/?utm_source=pittcsc&utm_medium=internships_repo"><img src="https://res.cloudinary.com/dpeo4xcnc/image/upload/v1636594918/simplify_pittcsc.png" width="450" alt="Simplify" ></a>
+      </div>
+    </a>
+    <sub><i>Stop manually re-entering your information. Simplify’s extension helps you autofill internship applications on millions of sites.</i></sub>
+  </p>
 </div>
 
 <div align="center">
-	<h3>
-		Thanks for a great three years 💖💖
-	</h3>
-	<p>
-		<img src="https://api.star-history.com/svg?repos=pittcsc/Summer2024-Internships&type=Date" width="500"  alt="Star History">
-	</p>
+  <h3>
+    Thanks for a great three years 💖💖
+  </h3>
+  <p>
+    <img src="https://api.star-history.com/svg?repos=pittcsc/Summer2024-Internships&type=Date" width="500"  alt="Star History">
+  </p>
 </div>
 
 ---
