@@ -28,7 +28,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 		Thanks for a great three years 💖💖
 	</h3>
 	<p>
-		<img src="https://api.star-history.com/svg?repos=pittcsc/Summer2023-Internships&type=Date" width="500"  alt="Star History">
+		<img src="https://api.star-history.com/svg?repos=pittcsc/Summer2024-Internships&type=Date" width="500"  alt="Star History">
 	</p>
 </div>
 
