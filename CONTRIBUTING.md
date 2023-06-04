@@ -1,7 +1,7 @@
 # Contributing to the Internship List
 Thank you for your interest in contributing to the Pitt CSC internship list! 
 
-Below, you'll find the guidelines for our repository. Chances are, you can probably just look at how other internships are formatted and follow it. If you have any questions, please create an [issue](https://github.com/pittcsc/Summer2023-Internships/issues/new) here.
+Below, you'll find the guidelines for our repository. Chances are, you can probably just look at how other internships are formatted and follow it. If you have any questions, please create an [issue](https://github.com/pittcsc/Summer2024-Internships/issues/new) here.
 
 Finally, while these are guidelines, **don't** stress about making your submission perfect! If needed, we will fix your submission. Just try your best to follow the guidelines.
 
@@ -15,20 +15,20 @@ We ask that the internships that you add meet some requirements. Specifically, y
     - any other tech-related internships.
 - be for **summer 2023** or **summer 2024**. We will *not* accept internships for a different term.
 - be located in the United States, Canada, or remote.
-- not already exist in the internship list, and must not be pending review [here](https://github.com/pittcsc/Summer2023-Internships/pulls). 
-    - Note that we have two separate READMEs; one for [Summer 2023 internships](https://github.com/pittcsc/Summer2023-Internships/blob/dev/README.md) and one for [Summer 2024 internships](https://github.com/pittcsc/Summer2023-Internships/blob/dev/README-2024.md). Be sure you're contributing to the correct one.
+- not already exist in the internship list, and must not be pending review [here](https://github.com/pittcsc/Summer2024-Internships/pulls). 
+    - Note that we have two separate READMEs; one for [Summer 2023 internships](https://github.com/pittcsc/Summer2024-Internships/blob/dev/README-2023.md) and one for [Summer 2024 internships](https://github.com/pittcsc/Summer2024-Internships/blob/dev/README.md). Be sure you're contributing to the correct one.
 
 Make sure to have the following information ready:
 - The name of the position.
 - The location of the position.
-- A link to the job *description* page.The link should direct the user to the page, **not** a third party website or general careers page.
+- A link to the job *description* page. The link should direct the user to the page, **not** a third party website or general careers page.
 - The immigration requirements of the position
     - An easy way to check is to search for keywords like `visa` or `sponsorship`.
 
 ## Adding an Internship
 Cool! You're ready to add an internship to the list.
 
-First, be sure to [fork](https://github.com/pittcsc/Summer2023-Internships/fork) (see [this guide](https://docs.github.com/en/get-started/quickstart/fork-a-repo) for more information) the repository. This is how you will be able to make your changes.
+First, be sure to [fork](https://github.com/pittcsc/Summer2024-Internships/fork) (see [this guide](https://docs.github.com/en/get-started/quickstart/fork-a-repo) for more information) the repository. This is how you will be able to make your changes.
 
 Each row in the internship table is for a **company**. In other words, each row should correspond to a unique company. A row might look like this:
 ```md
