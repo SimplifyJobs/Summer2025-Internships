@@ -1,11 +1,11 @@
 # Summer 2024 Tech Internships by Pitt CSC & Simplify
-And we're back! Use this repo to share and keep track of software, tech, CS, PM, quant internships for **Summer 2024**. List maintained by [the Pitt Computer Science Club](https://pittcsc.org/)!
+And we're back! Use this repo to share and keep track of software, tech, CS, PM, quant internships for **Summer 2024**. List maintained by [the Pitt Computer Science Club](https://pittcsc.org/).
 
-:warning: **This repository is only for internships/co-ops in the United States, Canada or for Remote positions :earth_americas:.**
+:warning: **This repository is only for internships/co-ops in the United States, Canada or for Remote positions :earth_americas:**.
 
-🧠 For tips on the internship process check out [Zero to Offer](https://www.pittcs.wiki/zero-to-offer) 🧠
+🧠 For tips on the internship process check out [Zero to Offer](https://www.pittcs.wiki/zero-to-offer) 🧠.
 
-🙏 **Contribute by submitting a [pull request](https://github.com/susam/gitpr#create-pull-request)! See the contribution guidelines [here](https://github.com/pittcsc/Summer2023-Internships/blob/dev/CONTRIBUTING.md)!** 🙏
+🙏 **Contribute by submitting a [pull request](https://github.com/susam/gitpr#create-pull-request)! See the contribution guidelines [here](https://github.com/pittcsc/Summer2023-Internships/blob/dev/CONTRIBUTING.md)** 🙏!
 
 ---
 <div align="center">
@@ -25,7 +25,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 
 <div align="center">
 	<h3>
-		Thanks for a great three years 💖💖
+		Thanks for a great three years 💖💖!
 	</h3>
 	<p>
 		<img src="https://api.star-history.com/svg?repos=pittcsc/Summer2024-Internships&type=Date" width="500"  alt="Star History">
