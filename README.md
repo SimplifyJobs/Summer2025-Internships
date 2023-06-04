@@ -53,6 +53,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [AQR Capital Management, LLC](https://careers.aqr.com/jobs/university-open-positions/greenwich-ct/2024-summer-internship-express-interest/4478927) | Greenwich, CT | 2024 Summer Internship-Express Interest |
 | [GE Appliances](https://haier.wd3.myworkdayjobs.com/en-US/GE_Appliances/job/USA-Louisville-KY/Summer-2024-Digital-Technology-Intern_REQ-16073) | Louisville, KY | **🔒 Closed 🔒** Digital Technology Intern |
 | [Epic](https://epic.avature.net/Careers/FolderDetail/Software-Developer-Intern---Summer-2024/23429) | Madison, WI | Software Developer Intern - Summer 2024 (No sponsorship available) |
+| [Ramp](https://boards.greenhouse.io/ramp) | New York, Miami, Remote | Software Engineer Intern--[Backend](https://boards.greenhouse.io/ramp/jobs/5083064002), [Frontend](https://boards.greenhouse.io/ramp/jobs/4820594002), [Android](https://boards.greenhouse.io/ramp/jobs/6726450002), [iOS](https://boards.greenhouse.io/ramp/jobs/5649105002) |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
