@@ -55,6 +55,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Epic](https://epic.avature.net/Careers/FolderDetail/Software-Developer-Intern---Summer-2024/23429) | Madison, WI | Software Developer Intern - Summer 2024 (No sponsorship available) |
 | [Ramp](https://boards.greenhouse.io/ramp) | New York, Miami, Remote | Software Engineer Intern--[Backend](https://boards.greenhouse.io/ramp/jobs/5083064002), [Frontend](https://boards.greenhouse.io/ramp/jobs/4820594002), [Android](https://boards.greenhouse.io/ramp/jobs/6726450002), [iOS](https://boards.greenhouse.io/ramp/jobs/5649105002) |
 | [Apple](https://jobs.apple.com/en-us/details/200480063/software-engineering-internships?team=STDNT) | United States | Software Engineering Internships |
+| [Neuralink](https://boards.greenhouse.io/neuralink/jobs/5285389003) | Fremont, CA ; Austin, TX| Software Engineering Internship |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
