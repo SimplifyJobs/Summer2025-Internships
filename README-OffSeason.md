@@ -1,4 +1,4 @@
-# Off Season Tech Internships by Pitt CSC & Simplify
+# Off-Season Tech Internships by Pitt CSC & Simplify
 Use this repo to share and keep track of software, tech, CS, PM, quant internships for Fall 2023, Winter 2024, and Spring 2024. List maintained by [the Pitt Computer Science Club](https://pittcsc.org/)!
 
 :warning: **This repository is only for internships/co-ops in the United States, Canada or for Remote positions :earth_americas:.**
@@ -19,7 +19,6 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 | Name | Location | Notes |
 | ---- | -------- | ----- |
 | [Ramp](https://boards.greenhouse.io/ramp) | New York, Miami, Remote | Software Engineer Intern--[Backend](https://boards.greenhouse.io/ramp/jobs/5083064002), [Frontend](https://boards.greenhouse.io/ramp/jobs/4820594002), [Android](https://boards.greenhouse.io/ramp/jobs/6726450002), [iOS](https://boards.greenhouse.io/ramp/jobs/5649105002) |
-| Apple | Multiple US Locations | [Software Engineering Internships (Express Interest)](https://jobs.apple.com/en-us/details/200480063/software-engineering-internships) <br/> [ML/AI Internships (Express Interest)](https://jobs.apple.com/en-us/details/200480066/machine-learning-ai-internships) |
 
 ### Winter 2024
 
@@ -36,7 +35,3 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 
 ## We love our contributors ❤️❤️
 Make a [pull request](https://github.com/susam/gitpr#create-pull-request) to help contribute.
-<a href="https://github.com/pittcsc/Summer2024-Internships/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=pittcsc/Summer2024-Internships&columns=24&max=480" />
-</a>
-*Made with [contrib.rocks](https://contrib.rocks).*
