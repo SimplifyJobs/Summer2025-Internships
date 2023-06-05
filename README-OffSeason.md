@@ -5,13 +5,13 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 
 🧠 For tips on the internship process check out [Zero to Offer](https://www.pittcs.wiki/zero-to-offer) 🧠
 
-🙏 **Contribute by submitting a [pull request](https://github.com/susam/gitpr#create-pull-request)! See the contribution guidelines [here](https://github.com/pittcsc/Summer2023-Internships/blob/dev/CONTRIBUTING.md)!** 🙏
+🙏 **Contribute by submitting a [pull request](https://github.com/susam/gitpr#create-pull-request)! See the contribution guidelines [here](https://github.com/pittcsc/Summer2024-Internships/blob/dev/CONTRIBUTING.md)!** 🙏
 
 ## The List 🚴🏔
 > **Note**:
-> This README file is for **off-season internships only**. For summer 2023 internships, please [click here](https://github.com/pittcsc/Summer2023-Internships/blob/dev/README-2023.md). For summer 2024 internships, please [click here](https://github.com/pittcsc/Summer2023-Internships/blob/dev/README.md)
+> This README file is for **off-season internships only**. For summer 2023 internships, please [click here](https://github.com/pittcsc/Summer2024-Internships/blob/dev/README-2023.md). For summer 2024 internships, please [click here](https://github.com/pittcsc/Summer2024-Internships/blob/dev/README.md).
 
-[⬇️ Jump to bottom ⬇️](https://github.com/pittcsc/Summer2023-Internships#we-love-our-contributors-%EF%B8%8F%EF%B8%8F)
+[⬇️ Jump to bottom ⬇️](#we-love-our-contributors-%EF%B8%8F%EF%B8%8F)
 <!-- Please leave a one line gap between this and the table -->
 
 ### Fall 2023
@@ -32,11 +32,11 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 | ---- | -------- | ----- |
 
 <!-- Please leave a one line gap between this and the table -->
-[⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
+[⬆️ Back to Top ⬆️](#the-list-)
 
 ## We love our contributors ❤️❤️
 Make a [pull request](https://github.com/susam/gitpr#create-pull-request) to help contribute.
-<a href="https://github.com/pittcsc/Summer2023-Internships/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=pittcsc/Summer2023-Internships&columns=24&max=480" />
+<a href="https://github.com/pittcsc/Summer2024-Internships/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=pittcsc/Summer2024-Internships&columns=24&max=480" />
 </a>
 *Made with [contrib.rocks](https://contrib.rocks).*

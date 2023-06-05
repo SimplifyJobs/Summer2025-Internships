@@ -5,7 +5,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 
 🧠 For tips on the internship process check out the [Zero to Offer](https://www.pittcs.wiki/zero-to-offer) 🧠
 
-🙏 **Contribute by submitting a [pull request](https://github.com/susam/gitpr#create-pull-request)! See the contribution guidelines [here](https://github.com/pittcsc/Summer2023-Internships/blob/dev/CONTRIBUTING.md)!** 🙏
+🙏 **Contribute by submitting a [pull request](https://github.com/susam/gitpr#create-pull-request)! See the contribution guidelines [here](https://github.com/pittcsc/Summer2024-Internships/blob/dev/CONTRIBUTING.md)!** 🙏
 
 ---
 <div align="center">
@@ -27,9 +27,9 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 
 ## The List 🚴🏔
 > **Note**:
-> This README file is for **2023 internships only**. For 2024 internships, please [click here](https://github.com/pittcsc/Summer2023-Internships/blob/dev/README-2024.md).
+> This README file is for **2023 summer internships only**. For summer 2024 internships, please [click here](https://github.com/pittcsc/Summer2024-Internships/blob/dev/README-2024.md). For off-season internships, please [click here](https://github.com/pittcsc/Summer2024-Internships/blob/offseason/README-OffSeason.md).
 
-[⬇️ Jump to bottom ⬇️](https://github.com/pittcsc/Summer2023-Internships#we-love-our-contributors-%EF%B8%8F%EF%B8%8F)
+[⬇️ Jump to bottom ⬇️](#we-love-our-contributors-%EF%B8%8F%EF%B8%8F)
 <!-- Please leave a one line gap between this and the table -->
 
 | Name | Location | Notes |
@@ -671,11 +671,11 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | Tesla | Palo Alto, CA | [Vehicle Software Validation Internship](https://www.tesla.com/careers/search/job/vehicle-software-validation-internship-summer-2023-153340), **🔒 Closed 🔒** Software Engineering Internship |
 
 <!-- Please leave a one line gap between this and the table -->
-[⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
+[⬆️ Back to Top ⬆️](#the-list-)
 
 ## We love our contributors ❤️❤️
 Make a [pull request](https://github.com/susam/gitpr#create-pull-request) to help contribute.
-<a href="https://github.com/pittcsc/Summer2023-Internships/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=pittcsc/Summer2023-Internships&columns=24&max=480" />
+<a href="https://github.com/pittcsc/Summer2024-Internships/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=pittcsc/Summer2024-Internships&columns=24&max=480" />
 </a>
 *Made with [contrib.rocks](https://contrib.rocks).*
