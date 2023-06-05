@@ -669,6 +669,21 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | Clio | Canada (remote) | **🔒 Closed 🔒** Software Developer Co-op |
 | Henkel | Rocky Hill, CT, USA | **🔒 Closed 🔒** R&D Intern - Summer 2023 |
 | Tesla | Palo Alto, CA | [Vehicle Software Validation Internship](https://www.tesla.com/careers/search/job/vehicle-software-validation-internship-summer-2023-153340), **🔒 Closed 🔒** Software Engineering Internship |
+| Google | Mountain View, CA | **🔒 Closed 🔒** Software Engineering Internship - Summer 2023 |
+| Microsoft | Redmond, WA | [Frontend Developer Intern](https://careers.microsoft.com/students/us/en/job/1004039/Frontend-Developer-Intern), **🔒 Closed 🔒** Data Science Intern |
+| Facebook | Menlo Park, CA | **🔒 Closed 🔒** Product Design Intern, Software Engineering Intern |
+| Apple | Cupertino, CA | [iOS Developer Internship](https://jobs.apple.com/en-us/details/200196292/ios-developer-internship), **🔒 Closed 🔒** Machine Learning Engineer Intern |
+| Netflix | Los Gatos, CA | **🔒 Closed 🔒** Data Analyst Intern, Product Management Intern |
+| Twitter | San Francisco, CA | [Software Engineering Intern](https://careers.twitter.com/en/work-for-twitter/202312/software-engineering-intern) **🔒 Closed 🔒** Data Science Internship |
+| Salesforce | San Francisco, CA | **🔒 Closed 🔒** UX Design Intern, Software Engineering Internship |
+| LinkedIn | Sunnyvale, CA | [Product Management Intern](https://www.linkedin.com/jobs/view/3281804774), **🔒 Closed 🔒** Data Engineering Intern |
+| Airbnb | San Francisco, CA | **🔒 Closed 🔒** Backend Engineering Intern, Data Science Internship |
+| Uber | San Francisco, CA | [Android Developer Internship](https://www.uber.com/global/en/careers/list/102694/), **🔒 Closed 🔒** Product Management Intern |
+| Intel | Santa Clara, CA | **🔒 Closed 🔒** Hardware Engineering Intern, Data Analyst Internship |
+| NVIDIA | Santa Clara, CA | [Deep Learning Internship](https://nvidia.wd5.myworkdayjobs.com/en-US/UniversityJobs/job/US-CA-Santa-Clara/Deep-Learning-Internship_1913858), **🔒 Closed 🔒** Software Engineering Intern |
+| PayPal | San Jose, CA | **🔒 Closed 🔒** Cybersecurity Intern, UX Design Internship |
+| Oracle | Redwood City, CA | [Cloud Infrastructure Internship](https://oracle.taleo.net/careersection/2/jobdetail.ftl?job=21000KM9), **🔒 Closed 🔒** Data Science Intern |
+
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
