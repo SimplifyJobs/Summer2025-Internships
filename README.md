@@ -61,6 +61,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Pimco](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2024-Summer-Intern---Software-Engineer--US_R102876) | Austin, TX and Newport Beach, CA | Software Engineer Intern |
 | [Capstone Investment Advisors](https://www.capstoneco.com/careers/2024-summer-internship-software-engineer-2/?gh_jid=6784275002) | New York, NY | 2024 Summer Internship – Software Engineer |
 | [D.E. Shaw](https://www.deshaw.com/careers/software-developer-intern-new-york-summer-2024-4803) | New York, NY | Software Development Intern (New York) - Summer 2024 |
+| [Johnson & Johnson](https://jobs.jnj.com/en/jobs/2306122147w/j-j-medtech-marketing-leadership-development-program-mldp-2024-summer-internship/?src=indeed) | Multiple US Locations | J&J MedTech Marketing Leadership Development Program (MLDP) - 2024 Summer Internship|
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
