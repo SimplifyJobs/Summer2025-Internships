@@ -164,7 +164,6 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | PathAI | Boston, MA | **🔒 Closed 🔒** Software Engineer Intern |
 | Garda Capital Partners | Wayzata, MN | **🔒 Closed 🔒** .Net Software Engineer Intern |
 | Epic Games | Multiple Locations | **🔒 Closed 🔒** Multiple Intern Positions |
-| [Mathworks](https://www.mathworks.com/company/jobs/opportunities/25610-multiple-openings-engineering-development-group-internship?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | Natick, MA | Fall 2023 Internship |
 | GoDaddy | Multiple Locations, Remote | **🔒 Closed 🔒** Multiple Intern Position |
 | Ridgeline | Incline Village, NV | **🔒 Closed 🔒** Software Engineer Intern (No visa sponsorships) |
 | Exact Sciences | Phoenix, AZ | **🔒 Closed 🔒** Software Engineer Intern |
@@ -205,7 +204,6 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | Lucid Software | Remote, US | **🔒 Closed 🔒** Software Engineering Internship, Data Analyst Internship |
 | SoundHound | Santa Clara, CA | **🔒 Closed 🔒** Software Engineering Intern, Acoustic Modeling |
 | Slack | San Francisco, CA | **🔒 Closed 🔒** 2023 Summer Intern - Software Engineer |
-| [SpaceX](https://boards.greenhouse.io/spacex/jobs/6675035002) | Multiple | Fall 2023 Software Engineering Internship/Co-op (US Citizens Only) |
 | Samsara | San Francisco, CA | **🔒 Closed 🔒** Software Engineer Intern |
 | Brex | Remote, US | **🔒 Closed 🔒** Software Engineer, Intern (Graduating from a **BA/BS** program in 2024) |
 | CrowdStrike | Remote, US | **🔒 Closed 🔒** Data Engineering Intern |
@@ -236,7 +234,6 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | 2K | Novato, CA | **🔒 Closed 🔒** Engineering Internship |
 | Lacework | Remote | **🔒 Closed 🔒** Software Engineer Intern |
 | Axon | Multiple (US & Canada) | **🔒 Closed 🔒** Software Engineering Internship @ Scottsdale, AZ; Seattle, WA; Canada-Remote; US-Remote |
-| [Emerson Automation Solutions](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/23007214) | Elyria, OH | Fall 2023 Software Engineering Co-op |
 | Shure Inc. | Irvine, CA | **🔒 Closed 🔒** Software Engineering Intern |
 | Code42 | Minneapolis, MN | **🔒 Closed 🔒** Software Engineer Intern (C++, Java, C#) |
 | Avanade | Multiple | **🔒 Closed 🔒** Intern, Software Developer (No sponsorship for employment in US/Canada) |
@@ -578,7 +575,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | Navy Federal Credit Union | Vienna, VA | **🔒 Closed 🔒** Summer Intern (Data Science) |
 | Businessolver | Remote, US | **🔒 Closed 🔒** Software Engineering Internship |
 | JLL | Remote, US | **🔒 Closed 🔒** Software Engineering Summer 2023 Internship - Remote |
-| Western Digital (WD) | San Jose, CA | [Data Engineering Intern (Summer 2023)](https://jobs.smartrecruiters.com/WesternDigital/743999908324453-summer-2023-data-engineering-intern), [SWE Firmware Intern (Fall 2023)](https://jobs.smartrecruiters.com/WesternDigital/743999910364988-fall-2023-software-engineering-firmware-intern), [SWE Performance and Power Firmware/Systems Engineering Intern (Fall 2023)](https://jobs.smartrecruiters.com/WesternDigital/743999905860793-fall-2023-software-engineering-intern-performance-and-power-firmware-systems-engineering-) **🔒 Closed 🔒** System Design Verification Engineering Intern |
+| Western Digital (WD) | San Jose, CA | [Data Engineering Intern (Summer 2023)](https://jobs.smartrecruiters.com/WesternDigital/743999908324453-summer-2023-data-engineering-intern), **🔒 Closed 🔒** System Design Verification Engineering Intern |
 | Salesforce x CodePath | San Francisco, CA | **🔒 Closed 🔒** Futureforce Tech Launchpad (rising juniors, class of '25) |
 | [Intel](https://intel.wd1.myworkdayjobs.com/en-US/External?q=software%20intern) | Various | More on website, **🔒 Closed 🔒** Graphics Software Engineer Intern (No Sponsorship), Design Automation Engineering Intern |
 | Harry's | New York, NY | **🔒 Closed 🔒** Software Engineering Intern |
@@ -624,7 +621,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | SEI Investments | Oaks, PA | **🔒 Closed 🔒** 2023 Summer Intern - Technology Track (no sponsorship) |
 | Generate Biomedicines | Somerville, MA (On-site) | Machine Learning Intern |
 | Smith+Nephew | Pittsburgh, PA | **🔒 Closed 🔒** Robotics Software Engineering Intern |
-| Urban Science | Detroit, MI | [IT Operations Intern](https://careers-urbanscience.icims.com/jobs/4842/it-operations-intern---enterprise-applications/job), [Fall 2023 Data Analyst Intern](https://careers-urbanscience.icims.com/jobs/4809/fall-internship-part-time-2023-data-analyst-internship---atlanta%2c-ga/job) **🔒 Closed 🔒** Software Engineering Intern, Data Engineering Intern |
+| [Urban Science](https://careers-urbanscience.icims.com/jobs/4842/it-operations-intern---enterprise-applications/job) | Detroit, MI | IT Operations Intern |
 | Squarespace | Chicago, IL | **🔒 Closed 🔒** Tock Software Engineer Intern |
 | Chubb | Jersey City, NJ | **🔒 Closed 🔒** Technology Associate Intern |
 | Precisely | Remote | **🔒 Closed 🔒** Software Engineer Intern |
