@@ -38,7 +38,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 > **Note**:
 > This README file is for **2024 internships only**. For 2023 internships, please [click here](https://github.com/pittcsc/Summer2023-Internships/blob/dev/README-2023.md).
 
-[⬇️ Jump to bottom ⬇️](https://github.com/pittcsc/Summer2023-Internships#we-love-our-contributors-%EF%B8%8F%EF%B8%8F)
+[⬇️ Jump to bottom ⬇️](#we-love-our-contributors-%EF%B8%8F%EF%B8%8F)
 <!-- Please leave a one line gap between this and the table -->
 
 | Name | Location | Notes |
@@ -62,7 +62,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [D.E. Shaw](https://www.deshaw.com/careers/software-developer-intern-new-york-summer-2024-4803) | New York, NY | Software Development Intern (New York) - Summer 2024 |
 
 <!-- Please leave a one line gap between this and the table -->
-[⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
+[⬆️ Back to Top ⬆️](#the-list-)
 
 ## We love our contributors ❤️❤️
 Make a [pull request](https://github.com/susam/gitpr#create-pull-request) to help contribute.
