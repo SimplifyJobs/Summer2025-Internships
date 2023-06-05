@@ -58,7 +58,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Neuralink](https://boards.greenhouse.io/neuralink) | Fremont, CA <br/> Austin, TX | Software Engineer Intern at [Fremont, CA](https://boards.greenhouse.io/neuralink/jobs/5285389003) and [Austin, TX](https://boards.greenhouse.io/neuralink/jobs/5552197003) |
 | [Certik](https://jobs.lever.co/certik) | NYC, NY <br/> Seattle, WA <br/> SF Bay Area, CA <br/> Remote | [Development Intern](https://jobs.lever.co/certik/2e33570a-f495-44ef-9d7d-a0c5a7fd8190) <br/> [Platform Engineering Intern](https://jobs.lever.co/certik/095fdcff-99e8-408d-bb8a-e638e44d0b40) <br/> [Full Stack Intern - Matrix](https://jobs.lever.co/certik/ca67aab6-9b8b-4c2f-ad80-ff5855292f48) <br/> [UX/UI Designer Intern](https://jobs.lever.co/certik/c05535ca-0845-4248-9de5-da4455393c9d) |
 | [MosaicML](https://boards.greenhouse.io/mosaicml) | SF and San Diego, CA <br/> NYC, NY | [Software Engineer Intern](https://boards.greenhouse.io/mosaicml/jobs/4133756004) <br/> [Research Scientist Intern](https://boards.greenhouse.io/mosaicml/jobs/4170454004) |
-| [Pimco]([https://pimco.wd1.myworkdayjobs.com/pimco-careers](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2024-Summer-Intern---Software-Engineer--US_R102876)) | Austin, TX and San Newport Beach, CA | Software Engineer Intern |
+| [Pimco](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2024-Summer-Intern---Software-Engineer--US_R102876) | Austin, TX and San Newport Beach, CA | Software Engineer Intern |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
