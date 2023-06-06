@@ -67,6 +67,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Fives](https://career.fivesgroup.com/job/job-manufacturing-engineer-intern-summer-2024-_4359.aspx?jobBoardId=1112) | Cleveland, OH | Manufacturing Engineer Intern (Summer 2024) | 
 | [Altman Solon](https://app.ripplematch.com/job/altman-solon/74f1b590/?utm_source=Github&utm_medium=organic_social&utm_campaign=growth_github&utm_content=github_altman_pitt&utm_term=null) | Multiple US Locations | 2024 Analyst Internship - Summer or Winter | 
 | [Protivity](https://roberthalf.wd1.myworkdayjobs.com/en-US/ProtivitiNA/job/PHOENIX/Phoenix-Technology-Consulting-Intern---2024_JR-248209-2?Location_Country=bc33aa3152ec42d4995f4791a106ed09&Location_Region_State_Province=c7b20b0d4bc04711a00900569e9afabd) | Phoenix, AZ | Technology Consulting Intern - 2024 Summer Internship (No Sponsorship) |
+| [D.E. Shaw & Co.](https://www.deshaw.com/careers/software-developer-intern-new-york-summer-2024-4803) | New York, NY | Software Developer Intern – Summer 2024 |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
