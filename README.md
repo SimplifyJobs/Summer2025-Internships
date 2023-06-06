@@ -65,6 +65,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | Google | Multiple US Locations | [Software Engineering Intern (BS)](https://careers.google.com/jobs/results/73287692785197766-software-engineering-intern-bs-summer-2024/) <br/> [Software Engineering Intern (MS)](https://careers.google.com/jobs/results/130444705243505350-software-engineering-intern-ms-summer-2024/) |
 | [Bank of America](https://bankcampuscareers.tal.net/vx/lang-en-GB/mobile-0/brand-4/xf-91c0e92d74a1/candidate/so/pm/1/pl/1/opp/10165-Global-Technology-Summer-Analyst-Program-2024/en-GB) | Multiple US Locations | Global Technology Summer Analyst Program - 2024 | 
 | [Fives](https://career.fivesgroup.com/job/job-manufacturing-engineer-intern-summer-2024-_4359.aspx?jobBoardId=1112) | Cleveland, OH | Manufacturing Engineer Intern (Summer 2024) | 
+| [Altman Solon](https://app.ripplematch.com/job/altman-solon/74f1b590/?utm_source=Github&utm_medium=organic_social&utm_campaign=growth_github&utm_content=github_altman_pitt&utm_term=null) | Multiple US Locations | 2024 Analyst Internship - Summer or Winter | 
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
