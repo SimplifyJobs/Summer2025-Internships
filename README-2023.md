@@ -669,6 +669,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | Clio | Canada (remote) | **🔒 Closed 🔒** Software Developer Co-op |
 | Henkel | Rocky Hill, CT, USA | **🔒 Closed 🔒** R&D Intern - Summer 2023 |
 | Tesla | Palo Alto, CA | [Vehicle Software Validation Internship](https://www.tesla.com/careers/search/job/vehicle-software-validation-internship-summer-2023-153340), **🔒 Closed 🔒** Software Engineering Internship |
+| Apple | Multiple locations in United States | [Software Engineering Internships](https://jobs.apple.com/en-us/details/200480063/software-engineering-internships?team=STDNT), [Machine Learning / AI Internships](https://jobs.apple.com/en-us/details/200480066/machine-learning-ai-internships?team=STDNT), [Engineering Program Management Internships](https://jobs.apple.com/en-us/details/200480064/engineering-program-management-internships?team=STDNT), [Hardware, Hardware Products, Hardware Engineering Internships](https://jobs.apple.com/en-us/details/200480078/hardware-hardware-products-hardware-engineering-internships?team=STDNT)
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
