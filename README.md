@@ -25,7 +25,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 
 <div align="center">
   <h3>
-    Thanks for a great three years 💖💖
+    Thanks for a great three years. 💖💖
   </h3>
   <p>
     <img src="https://api.star-history.com/svg?repos=pittcsc/Summer2024-Internships&type=Date" width="500"  alt="Star History">
@@ -67,7 +67,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
 
-## We love our contributors ❤️❤️
+## We love our contributors. ❤️❤️
 Make a [pull request](https://github.com/susam/gitpr#create-pull-request) to help contribute.
 <a href="https://github.com/pittcsc/Summer2023-Internships/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=pittcsc/Summer2023-Internships&columns=24&max=480" />
