@@ -65,6 +65,10 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Protivity](https://roberthalf.wd1.myworkdayjobs.com/en-US/ProtivitiNA/job/PHOENIX/Phoenix-Technology-Consulting-Intern---2024_JR-248209-2?Location_Country=bc33aa3152ec42d4995f4791a106ed09&Location_Region_State_Province=c7b20b0d4bc04711a00900569e9afabd) | Phoenix, AZ | Technology Consulting Intern - 2024 Summer Internship (No Sponsorship) |
 | [Mercedes-Benz](https://jobs.lever.co/MBRDNA/59ae463c-5d10-4bb6-9dfd-4e26c7d84a69) | Sunnyvale, CA | Data Products Intern |
 
+| [Palantir Technologies](https://www.palantir.com/careers/students/path/) | New York or Washington DC | Software Engineer Intern |
+| [Lumen Technologies](https://jobs.lumen.com/global/en/job/324980/Intern-Summer-2024-Program-Submit-Interest) | Remote, USA | Intern - Summer 2024 Program - Submit Interest |
+
+
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
 
