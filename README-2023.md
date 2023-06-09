@@ -592,7 +592,6 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | General Atomics | Boulder, CO or Herndon, VA | **🔒 Closed 🔒** Software Engineering Intern (must be US citizen) |
 | Seismic | San Diego, CA | **🔒 Closed 🔒** Software Engineer Intern |
 | Slalom Build | Atlanta, GA or Chicago, IL | [Software Engineer](https://jobs.slalombuild.com/apex/CandidatePortalBuild?nostate=1#/post/a0h1R00000DE06wQAD) and [Platform Engineer](https://jobs.slalombuild.com/apex/CandidatePortalBuild?nostate=1#/post/a0h1R00000DE07LQAT) Intern |
-| Spotify | Remote (Americas) | **🔒 Closed 🔒** Backend Engineer Intern |
 | A10 Networks | San Jose, CA | **🔒 Closed 🔒** Multiple Software Engineering Internship |
 | Enveda Biosciences | Remote | **🔒 Closed 🔒** Software Engineering Internship |
 | [Odoo, Inc](https://www.odoo.com/jobs/detail/software-engineer-intern-summer-2023-buffalo-ny-1113) | Buffalo, NY | Software Engineer Intern |
@@ -670,6 +669,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | Henkel | Rocky Hill, CT | **🔒 Closed 🔒** R&D Intern - Summer 2023 |
 | Tesla | Palo Alto, CA | [Vehicle Software Validation Internship](https://www.tesla.com/careers/search/job/vehicle-software-validation-internship-summer-2023-153340), **🔒 Closed 🔒** Software Engineering Internship |
 | [Logistics Management Institute](https://careers-lmi.icims.com/jobs/9903/job) | Colorado Springs, CO | Space Systems Software Development Intern (Summer 2023) |
+| Spotify | New York, NY <br/> Remote (Americas) | [2023 NYC Technology Fellowship Program](https://jobs.lever.co/spotify/2319b24a-a5bf-48e8-9296-782b568966ed) <br/> **🔒 Closed 🔒** Backend Engineer Intern |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
