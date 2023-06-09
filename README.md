@@ -66,6 +66,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Mercedes-Benz](https://jobs.lever.co/MBRDNA/59ae463c-5d10-4bb6-9dfd-4e26c7d84a69) | Sunnyvale, CA | Data Products Intern |
 | [Palantir Technologies](https://www.palantir.com/careers/students/path/) | New York or Washington DC | Software Engineer Intern (No sponsorship available) |
 | [Lumen Technologies](https://jobs.lumen.com/global/en/job/324980/Intern-Summer-2024-Program-Submit-Interest) | Remote, USA | Intern - Summer 2024 Program - Submit Interest (No sponsorship available) |
+| [Spotify](https://jobs.lever.co/spotify/2319b24a-a5bf-48e8-9296-782b568966ed?fbclid=IwAR2WggT3iA-KiMY0gihNOtXh8_DrLOMssy9B5djuEeG0UqOy2R3ciYoobas) | New York | 2023 NYC Technology Fellowship Program |
 
 
 <!-- Please leave a one line gap between this and the table -->
