@@ -49,7 +49,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Bridgewater Associates](https://boards.greenhouse.io/bridgewater89/jobs/6570837002) | Westport, CT | Investment Engineer Intern |
 | [BlackRock](https://blackrock.tal.net/vx/lang-en-GB/mobile-0/brand-3/xf-232eb66ac89a/candidate/so/pm/1/pl/1/opp/7894-Summer-Internship-Program-Americas/en-GB) | Americas | Summer 2024 Internship Program |
 | [Ansys](https://careers.ansys.com/job/Vancouver-Spring-2024-Electronics-Intern-Software-Development-and-Testing-(BSMS)-Brit-V6E2M6/1026739100) | Vancouver, BC, Canada <br/> Montreal, QC, Canada <br/> Waterloo, ON, Canada | Software Development and Testing (Spring 2024) |
-| [Walmart](https://careers.walmart.com/us/jobs/WD1391200-2024-summer-intern-software-engineer-ii-bentonville-ar) | Bentonville, AR | 2024 Summer Intern: Software Engineer II (No sponsorship available) |
+| [Walmart](https://careers.walmart.com/us/jobs/WD1391200-2024-summer-intern-software-engineer-ii-bentonville-ar) | Bentonville, AR | 2024 Summer Intern: Software Engineer II (No sponsorship available) (Must be enrolled in a Bachelor’s degree program currently) |
 | [AQR Capital Management, LLC](https://careers.aqr.com/jobs/university-open-positions/greenwich-ct/2024-summer-internship-express-interest/4478927) | Greenwich, CT | 2024 Summer Internship-Express Interest |
 | [GE Appliances](https://haier.wd3.myworkdayjobs.com/en-US/GE_Appliances/job/USA-Louisville-KY/Summer-2024-Digital-Technology-Intern_REQ-16073) | Louisville, KY | **🔒 Closed 🔒** Digital Technology Intern |
 | [Epic](https://epic.avature.net/Careers/FolderDetail/Software-Developer-Intern---Summer-2024/23429) | Madison, WI | Software Developer Intern - Summer 2024 (No sponsorship available) |
