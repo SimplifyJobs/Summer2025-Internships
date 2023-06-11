@@ -418,7 +418,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | Starburst | Remote, USA | **🔒 Closed 🔒** Software Engineer - Intern |
 | Elevance Health | Norfolk, VA | **🔒 Closed 🔒** Engineering Intern Undergraduate Level – Summer 2023 (No Sponsorship) |
 | [Certik](https://jobs.lever.co/certik/d4bdf6fa-f885-476a-9b4f-538b874e2d36) | Multiple Locations, USA | Internship Spring/Summer 2023 - Software Engineer, Tools |
-| [Comcast](https://jobs.comcast.com/jobs/description/tpx-jd-template?external_or_internal=External&job_id=R365279) | Multiple locations, USA | Machine Learning Graduate Research Intern (must be able to obtain US work authorization) |
+| Comcast | Multiple locations, USA | **🔒 Closed 🔒** Machine Learning Graduate Research Intern (must be able to obtain US work authorization) |
 | Equinix | New York, USA | **🔒 Closed 🔒** Software Engineer Intern |
 | Nordson | Rhode Island, USA | **🔒 Closed 🔒** Software Engineering Intern |
 | Blue Origin | Multiple | **🔒 Closed 🔒** Summer 2023: Undergraduate Engineering Intern (US Citizenship/Green Card Required) - Avionics Software, Product Management |
