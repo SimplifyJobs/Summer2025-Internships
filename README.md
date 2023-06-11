@@ -66,6 +66,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Mercedes-Benz](https://jobs.lever.co/MBRDNA/59ae463c-5d10-4bb6-9dfd-4e26c7d84a69) | Sunnyvale, CA | Data Products Intern |
 | [Palantir Technologies](https://www.palantir.com/careers/students/path/) | New York, NY or Washington, DC | Palantir Path Intern (must be enrolled in a U.S. bachelor's program) |
 | [Lumen Technologies](https://jobs.lumen.com/global/en/job/324980/Intern-Summer-2024-Program-Submit-Interest) | Remote, USA | Intern - Summer 2024 Program - Submit Interest (U.S. work authorization required) |
+| [Voloridge Investment Management](https://voloridge-investment-management.hiringthing.com/) | Jupiter, Florida | [Software Engineer Intern](https://voloridge-investment-management.hiringthing.com/job/625799/software-engineer-intern-2024) <br/> [Trading Engineer Intern](https://voloridge-investment-management.hiringthing.com/job/625797/trading-engineer-intern-2024)|
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
