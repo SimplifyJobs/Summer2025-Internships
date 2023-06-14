@@ -623,7 +623,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | SEI Investments | Oaks, PA | **🔒 Closed 🔒** 2023 Summer Intern - Technology Track (no sponsorship) |
 | Generate Biomedicines | Somerville, MA (On-site) | Machine Learning Intern |
 | Smith+Nephew | Pittsburgh, PA | **🔒 Closed 🔒** Robotics Software Engineering Intern |
-| Urban Science | Detroit, MI | [IT Operations Intern](https://careers-urbanscience.icims.com/jobs/4842/it-operations-intern---enterprise-applications/job), [Fall 2023 Data Analyst Intern](https://careers-urbanscience.icims.com/jobs/4809/fall-internship-part-time-2023-data-analyst-internship---atlanta%2c-ga/job) **🔒 Closed 🔒** Software Engineering Intern, Data Engineering Intern |
+| Urban Science | Detroit, MI | [IT Operations Intern](https://careers-urbanscience.icims.com/jobs/4842/it-operations-intern---enterprise-applications/job), **🔒 Closed 🔒** Fall 2023 Data Analyst Intern **🔒 Closed 🔒** Software Engineering Intern, Data Engineering Intern |
 | Squarespace | Chicago, IL | **🔒 Closed 🔒** Tock Software Engineer Intern |
 | Chubb | Jersey City, NJ | **🔒 Closed 🔒** Technology Associate Intern |
 | Precisely | Remote | **🔒 Closed 🔒** Software Engineer Intern |
