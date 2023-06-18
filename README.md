@@ -68,6 +68,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Lumen Technologies](https://jobs.lumen.com/global/en/job/324980/Intern-Summer-2024-Program-Submit-Interest) | Remote, USA | Intern - Summer 2024 Program - Submit Interest (U.S. work authorization required) |
 | Voloridge Investment Management | Jupiter, Florida | **🔒 Closed 🔒** <br/> Software Engineer Intern<br/> Trading Engineer Intern|
 | [Volvo](https://xjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=25079&siteid=5171&AReq=141120BR#jobDetails=762117_5171) | Hagerstown, MD | Intern: Engineering, Embedded Software (Summer 2024) |
+| [Marotta Controls](https://marotta.com/job-openings/?gnk=job&gni=8a7883ac879c5eca0187ef4d715d4fd8&lang=en) | Parsippany, NJ | Software Engineering Intern - (Summer 2024) |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
