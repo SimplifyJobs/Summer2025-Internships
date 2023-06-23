@@ -46,7 +46,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Goldman Sachs](https://www.goldmansachs.com/careers/students/programs/americas/summer-analyst-program.html) | Global | Summer 2024 Analyst |
 | KPMG | Multiple Locations | **🔒 Closed 🔒** Summer 2024 Engineering & IT Internship (No sponsorship available) |
 | [Optiver](https://optiver.com/working-at-optiver/career-opportunities/) | Chicago, IL <br/> Austin, TX | [2024 Tech Graduate & Intern Expression of Interest](https://optiver.com/working-at-optiver/career-opportunities/6497784002) <br/> [2024 Trading Graduate & Intern Expression of Interest](https://optiver.com/working-at-optiver/career-opportunities/6614387002) |
-| [Bridgewater Associates](https://boards.greenhouse.io/bridgewater89/jobs/6570837002) | Westport, CT | Investment Engineer Intern |
+| Bridgewater Associates | Westport, CT | **🔒 Closed 🔒** Investment Engineer Intern |
 | [BlackRock](https://blackrock.tal.net/vx/lang-en-GB/mobile-0/brand-3/xf-232eb66ac89a/candidate/so/pm/1/pl/1/opp/7894-Summer-Internship-Program-Americas/en-GB) | Americas | Summer 2024 Internship Program |
 | [Ansys](https://careers.ansys.com/job/Vancouver-Spring-2024-Electronics-Intern-Software-Development-and-Testing-(BSMS)-Brit-V6E2M6/1026739100) | Vancouver, BC, Canada <br/> Montreal, QC, Canada <br/> Waterloo, ON, Canada | Software Development and Testing (Spring 2024) |
 | [Walmart](https://careers.walmart.com/us/jobs/WD1391200-2024-summer-intern-software-engineer-ii-bentonville-ar) | Bentonville, AR | 2024 Summer Intern: Software Engineer II (No sponsorship available) (Must be enrolled in a Bachelor’s degree program currently) |
