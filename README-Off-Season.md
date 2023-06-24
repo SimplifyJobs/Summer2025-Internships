@@ -45,6 +45,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 
 | Name | Location | Notes |
 | ---- | -------- | ----- |
+| [Atos](https://jobs.atos.net/job/Intern-Software-Engineer/946379701/) | Boca Raton, FL | Software Development Intern (part-time, year-long, immediate start date) |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2024-Internships/blob/dev/README-Off-Season.md#the-list-)
