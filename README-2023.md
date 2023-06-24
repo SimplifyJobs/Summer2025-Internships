@@ -31,7 +31,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 > **Note**:
 > This README file is for **Summer 2023 internships only**. For Summer 2024 internships, please [click here](https://github.com/pittcsc/Summer2024-Internships/blob/dev/README-2024.md).
 
-[⬇️ Jump to bottom ⬇️](#we-love-our-contributors-❤️❤️)
+[⬇️ Jump to bottom ⬇️](https://github.com/pittcsc/Summer2024-Internships/blob/dev/README-2023.md#we-love-our-contributors-%EF%B8%8F%EF%B8%8F)
 <!-- Please leave a one line gap between this and the table -->
 
 | Name | Location | Notes |
@@ -674,7 +674,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | Spotify | New York, NY <br/> Remote (Americas) | **🔒 Closed 🔒** 2023 NYC Technology Fellowship Program <br/> **🔒 Closed 🔒** Backend Engineer Intern |
 
 <!-- Please leave a one line gap between this and the table -->
-[⬆️ Back to Top ⬆️](#the-list-🚴🏔)
+[⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2024-Internships/blob/dev/README-2023.md#the-list-)
 
 ## We love our contributors ❤️❤️
 Make a [pull request](https://github.com/susam/gitpr#create-pull-request) to help contribute.
