@@ -40,7 +40,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 > **Note**:
 > This README file is for **Summer 2024 internships only**. For Summer 2023 internships, please [click here](https://github.com/pittcsc/Summer2024-Internships/blob/dev/README-2023.md).
 
-[⬇️ Jump to bottom ⬇️](#we-love-our-contributors-❤️❤️)
+[⬇️ Jump to bottom ⬇️](https://github.com/pittcsc/Summer2024-Internships#we-love-our-contributors-%EF%B8%8F%EF%B8%8F)
 <!-- Please leave a one line gap between this and the table -->
 
 | Name | Location | Notes |
@@ -73,7 +73,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Marotta Controls](https://marotta.com/job-openings/?gnk=job&gni=8a7883ac879c5eca0187ef4d715d4fd8&lang=en) | Parsippany, NJ | Software Engineering Intern - (Summer 2024) (U.S citizens only)|
 
 <!-- Please leave a one line gap between this and the table -->
-[⬆️ Back to Top ⬆️](#the-list-🚴🏔)
+[⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2024-Internships#the-list-)
 
 ## We love our contributors ❤️❤️
 Make a [pull request](https://github.com/susam/gitpr#create-pull-request) to help contribute.
