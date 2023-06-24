@@ -71,6 +71,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | Voloridge Investment Management | Jupiter, Florida | **🔒 Closed 🔒** <br/> Software Engineer Intern<br/> Trading Engineer Intern|
 | Volvo | Hagerstown, MD | **🔒 Closed 🔒** Intern: Engineering, Embedded Software (Summer 2024) |
 | [Marotta Controls](https://marotta.com/job-openings/?gnk=job&gni=8a7883ac879c5eca0187ef4d715d4fd8&lang=en) | Parsippany, NJ | Software Engineering Intern - (Summer 2024) (U.S citizens only)|
+| [Atos](https://jobs.atos.net/job/Intern-Software-Engineer/946379701/) | Boca Raton, FL | Software Development Intern (part-time, year-long, immediate start date) |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2024-Internships#the-list-)
