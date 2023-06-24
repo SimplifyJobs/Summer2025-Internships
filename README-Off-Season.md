@@ -40,14 +40,14 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 > **Note**:
 > This README file is for **non-summer internships only**. For summer internships, please see the [Summer 2023 README](https://github.com/pittcsc/Summer2024-Internships/blob/dev/README-2023.md) or the [Summer 2024 README](https://github.com/pittcsc/Summer2024-Internships/blob/dev/README.md).
 
-[⬇️ Jump to bottom ⬇️](#we-love-our-contributors-❤️❤️)
+[⬇️ Jump to bottom ⬇️](https://github.com/pittcsc/Summer2024-Internships/blob/dev/README-Off-Season.md#we-love-our-contributors-%EF%B8%8F%EF%B8%8F)
 <!-- Please leave a one line gap between this and the table -->
 
 | Name | Location | Notes |
 | ---- | -------- | ----- |
 
 <!-- Please leave a one line gap between this and the table -->
-[⬆️ Back to Top ⬆️](#the-list-🚴🏔)
+[⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2024-Internships/blob/dev/README-Off-Season.md#the-list-)
 
 ## We love our contributors ❤️❤️
 Make a [pull request](https://github.com/susam/gitpr#create-pull-request) to help contribute.
