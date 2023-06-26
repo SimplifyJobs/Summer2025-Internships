@@ -45,6 +45,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 
 | Name | Location | Notes |
 | ---- | -------- | ----- |
+| [Capstone](https://www.linkedin.com/jobs/view/3622615818/) | New York, NY | 2024 Summer Internship - Software Engineer |
 | [Goldman Sachs](https://www.goldmansachs.com/careers/students/programs/americas/summer-analyst-program.html) | Global | Summer 2024 Analyst |
 | KPMG | Multiple Locations | **🔒 Closed 🔒** Summer 2024 Engineering & IT Internship (No sponsorship available) |
 | [Optiver](https://optiver.com/working-at-optiver/career-opportunities/) | Chicago, IL <br/> Austin, TX | [2024 Tech Graduate & Intern Expression of Interest](https://optiver.com/working-at-optiver/career-opportunities/6497784002) <br/> [2024 Trading Graduate & Intern Expression of Interest](https://optiver.com/working-at-optiver/career-opportunities/6614387002) |
