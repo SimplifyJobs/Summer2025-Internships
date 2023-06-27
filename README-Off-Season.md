@@ -45,6 +45,13 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 
 | Name | Location | Notes |
 | ---- | -------- | ----- |
+| [Databento](https://boards.greenhouse.io/databento/jobs/4374815?) | Remote | SWE Intern (Visa sponsorship available, rolling application) |
+| [Mathworks](https://www.mathworks.com/company/jobs/opportunities/25610-multiple-openings-engineering-development-group-internship) | Natick, MA | Fall 2023 Internship |
+| [SpaceX](https://boards.greenhouse.io/spacex/jobs/6675035002) | Multiple | Fall 2023 Software Engineering Internship/Co-op (US Citizens Only) |
+| [Emerson Automation Solutions](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/23007214) | Elyria, OH | Fall 2023 Software Engineering Co-op |
+| [Domeyard LP](https://boards.greenhouse.io/domeyard/jobs/1079185) | Boston, MA | Software Engineer Internship (Summer, Fall, Winter, Spring available) |
+| Western Digital (WD) | San Jose, CA | [SWE Firmware Intern (Fall 2023)](https://jobs.smartrecruiters.com/WesternDigital/743999910364988-fall-2023-software-engineering-firmware-intern) <br/> **🔒 Closed 🔒** SWE Performance and Power Firmware/Systems Engineering Intern (Fall 2023) |
+| Urban Science | Detroit, MI | **🔒 Closed 🔒** Fall 2023 Data Analyst Intern |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2024-Internships/blob/dev/README-Off-Season.md#the-list-)
