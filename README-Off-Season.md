@@ -52,6 +52,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Domeyard LP](https://boards.greenhouse.io/domeyard/jobs/1079185) | Boston, MA | Software Engineer Internship (Summer, Fall, Winter, Spring available) |
 | Western Digital (WD) | San Jose, CA | [SWE Firmware Intern (Fall 2023)](https://jobs.smartrecruiters.com/WesternDigital/743999910364988-fall-2023-software-engineering-firmware-intern) <br/> **🔒 Closed 🔒** SWE Performance and Power Firmware/Systems Engineering Intern (Fall 2023) |
 | Urban Science | Detroit, MI | **🔒 Closed 🔒** Fall 2023 Data Analyst Intern |
+| [Ansys](https://careers.ansys.com/job/Vancouver-Spring-2024-Electronics-Intern-Software-Development-and-Testing-(BSMS)-Brit-V6E2M6/1026739100) | Vancouver, BC, Canada <br/> Montreal, QC, Canada <br/> Waterloo, ON, Canada | Software Development and Testing (Spring 2024) |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2024-Internships/blob/dev/README-Off-Season.md#the-list-)
