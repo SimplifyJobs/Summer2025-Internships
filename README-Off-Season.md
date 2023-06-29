@@ -45,7 +45,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 
 | Name | Location | Term | Notes |
 | ---- | -------- | ---- | ----- |
-| [Databento](https://boards.greenhouse.io/databento/jobs/4374815?) | Remote | | SWE Intern (Visa sponsorship available, rolling application) |
+| [Databento](https://boards.greenhouse.io/databento/jobs/4374815?) | Remote | Flexible | SWE Intern (Visa sponsorship available, rolling application) |
 | [Mathworks](https://www.mathworks.com/company/jobs/opportunities/25610-multiple-openings-engineering-development-group-internship) | Natick, MA | Fall 2023 | Engineering Development Group Internship |
 | [SpaceX](https://boards.greenhouse.io/spacex/jobs/6675035002) | Multiple | Fall 2023 | Software Engineering Internship/Co-op (US Citizens Only) |
 | [Emerson Automation Solutions](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/23007214) | Elyria, OH | Fall 2023 | Software Engineering Co-op |
