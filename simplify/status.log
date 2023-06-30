@@ -62,3 +62,8 @@ NoneType: None
 2023-06-30 16:06:45,820 - log - INFO - parsing file: README-Off-Season.md
 2023-06-30 16:06:45,820 - log - INFO - parsing file: README-2023.md
 2023-06-30 16:06:45,826 - log - INFO - dumped json file with 666 job listings
+2023-06-30 20:12:54,022 - log - INFO - Running main() in main.py
+2023-06-30 20:12:54,022 - log - INFO - parsing file: README.md
+2023-06-30 20:12:54,022 - log - INFO - parsing file: README-Off-Season.md
+2023-06-30 20:12:54,022 - log - INFO - parsing file: README-2023.md
+2023-06-30 20:12:54,035 - log - INFO - dumped json file with 666 job listings
