@@ -1,0 +1,64 @@
+2023-06-30 14:29:26,870 - log - INFO - Hello
+2023-06-30 14:29:26,990 - log - INFO - temp in berlin: 18.81
+2023-06-30 14:31:47,857 - log - INFO - Hello
+2023-06-30 14:31:48,157 - log - INFO - temp in berlin: 18.81
+2023-06-30 14:32:03,872 - log - INFO - Hello
+2023-06-30 14:32:04,469 - log - INFO - temp in berlin: 18.81
+2023-06-30 14:36:58,152 - log - INFO - Hello
+2023-06-30 14:36:58,298 - log - INFO - temp in berlin: 18.81
+2023-06-30 14:36:58,298 - log - CRITICAL - critical
+2023-06-30 14:36:58,298 - log - DEBUG - debug
+2023-06-30 14:36:58,299 - log - ERROR - error
+2023-06-30 14:36:58,299 - log - ERROR - exception
+NoneType: None
+2023-06-30 14:41:20,866 - log - INFO - Hello
+2023-06-30 14:41:21,015 - log - INFO - temp in berlin: 18.41
+2023-06-30 14:41:21,015 - log - CRITICAL - critical
+2023-06-30 14:41:21,015 - log - DEBUG - debug
+2023-06-30 14:41:21,015 - log - ERROR - error
+2023-06-30 14:53:07,498 - log - INFO - Running main() in main.py
+2023-06-30 14:53:56,116 - log - INFO - Running main() in main.py
+2023-06-30 14:54:48,872 - log - INFO - Running main() in main.py
+2023-06-30 14:56:55,658 - log - INFO - Running main() in main.py
+2023-06-30 15:46:09,551 - log - INFO - Running main() in main.py
+2023-06-30 15:46:09,551 - log - INFO - parsing file: README.md
+2023-06-30 15:46:48,170 - log - INFO - Running main() in main.py
+2023-06-30 15:46:48,170 - log - INFO - parsing file: README.md
+2023-06-30 15:47:23,282 - log - INFO - Running main() in main.py
+2023-06-30 15:47:23,282 - log - INFO - parsing file: README.md
+2023-06-30 15:47:42,001 - log - INFO - Running main() in main.py
+2023-06-30 15:47:42,001 - log - INFO - parsing file: README.md
+2023-06-30 15:48:00,549 - log - INFO - Running main() in main.py
+2023-06-30 15:48:00,549 - log - INFO - parsing file: README.md
+2023-06-30 15:48:24,765 - log - INFO - Running main() in main.py
+2023-06-30 15:48:24,765 - log - INFO - parsing file: README.md
+2023-06-30 15:48:52,304 - log - INFO - Running main() in main.py
+2023-06-30 15:48:52,304 - log - INFO - parsing file: README.md
+2023-06-30 15:49:06,962 - log - INFO - Running main() in main.py
+2023-06-30 15:49:06,962 - log - INFO - parsing file: README.md
+2023-06-30 15:49:18,683 - log - INFO - Running main() in main.py
+2023-06-30 15:49:18,683 - log - INFO - parsing file: README.md
+2023-06-30 15:51:12,213 - log - INFO - Running main() in main.py
+2023-06-30 15:51:12,213 - log - INFO - parsing file: README.md
+2023-06-30 15:51:12,213 - log - INFO - parsing file: README-Off-Season.md
+2023-06-30 15:51:12,214 - log - INFO - parsing file: README-2023.md
+2023-06-30 15:52:27,114 - log - INFO - Running main() in main.py
+2023-06-30 15:52:27,114 - log - INFO - parsing file: README.md
+2023-06-30 15:52:27,114 - log - INFO - parsing file: README-Off-Season.md
+2023-06-30 15:52:27,114 - log - INFO - parsing file: README-2023.md
+2023-06-30 15:52:27,115 - log - INFO - dumped json file with 75 job listings
+2023-06-30 15:53:00,859 - log - INFO - Running main() in main.py
+2023-06-30 15:53:00,859 - log - INFO - parsing file: README.md
+2023-06-30 15:53:00,859 - log - INFO - parsing file: README-Off-Season.md
+2023-06-30 15:53:00,860 - log - INFO - parsing file: README-2023.md
+2023-06-30 15:53:00,860 - log - INFO - dumped json file with 75 job listings
+2023-06-30 15:56:31,730 - log - INFO - Running main() in main.py
+2023-06-30 15:56:31,731 - log - INFO - parsing file: README.md
+2023-06-30 15:56:31,731 - log - INFO - parsing file: README-Off-Season.md
+2023-06-30 15:56:31,731 - log - INFO - parsing file: README-2023.md
+2023-06-30 15:56:31,736 - log - INFO - dumped json file with 666 job listings
+2023-06-30 16:06:45,820 - log - INFO - Running main() in main.py
+2023-06-30 16:06:45,820 - log - INFO - parsing file: README.md
+2023-06-30 16:06:45,820 - log - INFO - parsing file: README-Off-Season.md
+2023-06-30 16:06:45,820 - log - INFO - parsing file: README-2023.md
+2023-06-30 16:06:45,826 - log - INFO - dumped json file with 666 job listings
