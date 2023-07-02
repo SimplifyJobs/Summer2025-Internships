@@ -56,6 +56,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Certik](https://jobs.lever.co/certik/cc4bc2b7-ee87-43be-81c9-09c8b0411a7e) | New York, NY <br/> Seattle, WA <br/> SF Bay Area, CA <br/> Remote | Fall 2023 | SWE Intern |
 | [NimbleRX](https://jobs.lever.co/nimblerx/f1b1c7ab-60f4-4051-93ea-d2dbba1cee9c) | Remote | Winter / Spring | Software Engineer Intern |
 | [AMD](https://careers.amd.com/careers-home/jobs/30339) | Austin, TX <br/> Santa Clara, CA <br/> Fort Collins, CO <br/> Boxborough, MA | Fall 2023 | Software Engineering Co-Op/ Intern |
+| [Snowflake](https://careers.snowflake.com/us/en/job/SNCOUS6699859002EXTERNALENUS/Software-Engineer-Intern-Core-Database-Engineering-Fall-2023)
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2024-Internships/blob/dev/README-Off-Season.md#the-list-)
