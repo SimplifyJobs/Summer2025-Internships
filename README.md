@@ -74,6 +74,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Trane Technologies](https://careers.tranetechnologies.com/global/en/job/TRTEGLOBAL2304512EXTERNALENGLOBAL/2024-Analytics-Data-Science-Intern) | Davidson, NC or Minneapolis, MN | 2024 Analytics & Data Science Intern (U.S citizens only)|
 | [Scholastic](https://scholastic.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York/Scholastic-Summer-Software-Engineer-Intern_R12104) | New York, NY | Scholastic Summer Software Engineer Intern |
 | [Elbit Systems of America](https://jobs.smartrecruiters.com/ElbitSystemsOfAmerica/743999907500503-software-engineering-intern-ref1380b-) | Birdsboro, PA | Software Engineering Intern (US Citizen) |
+| [Accenture](https://www.accenture.com/us-en/careers/jobdetails?id=R00155153_en) | Tampa, FL | Federal - Software Engineering Intern (US Citizen) | 
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2024-Internships#the-list-)
