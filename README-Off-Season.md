@@ -58,6 +58,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [AMD](https://careers.amd.com/careers-home/jobs/30339) | Austin, TX <br/> Santa Clara, CA <br/> Fort Collins, CO <br/> Boxborough, MA | Fall 2023 | Software Engineering Co-Op/ Intern |
 | [Snowflake](https://careers.snowflake.com/us/en/job/SNCOUS6699859002EXTERNALENUS/Software-Engineer-Intern-Core-Database-Engineering-Fall-2023) | Bellevue, WA | Fall 2023 | Software Engineer Intern (Core/Database Engineering) |
 | [ByteDance](https://jobs.bytedance.com/en/position?keywords=Software&category=&location=&project=7129361493955135774&type=2%2C3) | Seattle, WA <br/> San Jose, CA | Fall 2023 | Multiple |
+| [Google](https://www.google.com/about/careers/applications/jobs/results/112296166315434694/) | Multiple | Fall 2023 | Software Engineering Intern, BS, Fall 2023 (Due July 7th, 2023) |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2024-Internships/blob/dev/README-Off-Season.md#the-list-)
