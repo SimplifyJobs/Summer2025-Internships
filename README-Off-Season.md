@@ -54,6 +54,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | Urban Science | Detroit, MI | Fall 2023 | **🔒 Closed 🔒** Data Analyst Intern |
 | [Ansys](https://careers.ansys.com/job/Vancouver-Spring-2024-Electronics-Intern-Software-Development-and-Testing-(BSMS)-Brit-V6E2M6/1026739100) | Vancouver, BC, Canada <br/> Montreal, QC, Canada <br/> Waterloo, ON, Canada | Spring 2024 | Software Development and Testing|
 | [Certik](https://jobs.lever.co/certik/cc4bc2b7-ee87-43be-81c9-09c8b0411a7e) | New York, NY <br/> Seattle, WA <br/> SF Bay Area, CA <br/> Remote | Fall 2023 | SWE Intern |
+| [NimbleRX](https://jobs.lever.co/nimblerx/f1b1c7ab-60f4-4051-93ea-d2dbba1cee9c) | Remote | Winter / Spring | Software Engineer Intern |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2024-Internships/blob/dev/README-Off-Season.md#the-list-)
