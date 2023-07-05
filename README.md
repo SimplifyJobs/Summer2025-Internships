@@ -76,7 +76,8 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Elbit Systems of America](https://jobs.smartrecruiters.com/ElbitSystemsOfAmerica/743999907500503-software-engineering-intern-ref1380b-) | Birdsboro, PA | Software Engineering Intern (US Citizen) |
 | [Accenture](https://www.accenture.com/us-en/careers/jobdetails?id=R00155153_en) | Tampa, FL | Federal - Software Engineering Intern (US Citizen) | 
 | [Akuna](https://akunacapital.com/job-details?gh_jid=5147715) | Boston, MA | **🔒 Closed 🔒** Quantitative Developer Intern |
-| [JPMorgan Chase](https://careers.jpmorgan.com/us/en/students/programs/software-engineer-summer) | Multiple Locations | Software Engineer Intern (no sponsorship) | 
+| [JPMorgan Chase](https://careers.jpmorgan.com/us/en/students/programs/software-engineer-summer) | Multiple Locations | Software Engineer Intern (no sponsorship) |
+| Citadel | Chicago, IL or New York, NY | [Software Engineer Intern](https://www.citadel.com/careers/details/software-engineer-intern-us/) <br> [Investment & Trading Intern](https://www.citadel.com/careers/details/investment-trading-intern-us/) <br> [Quant Researcher Intern (PhD)](https://www.citadel.com/careers/details/quantitative-researcher-phd-intern-us/) <br> [Quantatative Research Analyst Intern](https://www.citadel.com/careers/details/quantitative-research-analyst-intern-us/) | 
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2024-Internships#the-list-)
