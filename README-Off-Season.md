@@ -62,6 +62,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Splunk](https://www.splunk.com/en_us/careers/search-jobs.html?team=Early%20Talent&keyword=Engineer) | Remote | Fall 2023 | [Software Engineer Intern (Frontend)](https://www.splunk.com/en_us/careers/jobs/software-engineer-intern-frontend-27692.html) <br/> [Performance Engineer Intern](https://www.splunk.com/en_us/careers/jobs/performance-engineer-intern-remote-27771.html) <br/> [Machine Learning Engineer Intern](https://www.splunk.com/en_us/careers/jobs/machine-learning-engineer-intern-27754.html) <br/> [Software Engineer Co-op (Frontend)](https://www.splunk.com/en_us/careers/jobs/software-engineer-coop-frontend-27752.html) (Canada) |
 | [Anyscale](https://jobs.lever.co/anyscale/78a003a6-221a-4414-bf95-7c734cbfc4d9) | San Francisco, CA | Fall 2023 | Software Engineer Intern |
 | [Amazon](https://www.amazon.jobs/en/jobs/2383729/software-engineering-intern-aws-center-for-quantum-computing-aws-center-for-quantum-computing) | San Francisco, CA | Fall 2023 | Software Engineering Intern - CQC | 
+| [Amazon Robotics](https://www.amazon.jobs/en/jobs/2345448/amazon-robotics-software-development-engineer-sde-co-op-fall-2023) | North Reading, MA, US | Fall 2023 | Software Engineering Intern (SDE) Co-op | 
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2024-Internships/blob/dev/README-Off-Season.md#the-list-)
