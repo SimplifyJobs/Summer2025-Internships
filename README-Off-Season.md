@@ -55,12 +55,12 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Ansys](https://careers.ansys.com/job/Vancouver-Spring-2024-Electronics-Intern-Software-Development-and-Testing-(BSMS)-Brit-V6E2M6/1026739100) | Vancouver, BC, Canada <br/> Montreal, QC, Canada <br/> Waterloo, ON, Canada | Spring 2024 | Software Development and Testing|
 | [Certik](https://jobs.lever.co/certik/cc4bc2b7-ee87-43be-81c9-09c8b0411a7e) | New York, NY <br/> Seattle, WA <br/> SF Bay Area, CA <br/> Remote | Fall 2023 | SWE Intern |
 | [NimbleRX](https://jobs.lever.co/nimblerx/f1b1c7ab-60f4-4051-93ea-d2dbba1cee9c) | Remote | Winter / Spring | Software Engineer Intern |
-| [AMD](https://careers.amd.com/careers-home/jobs/30339) | Austin, TX <br/> Santa Clara, CA <br/> Fort Collins, CO <br/> Boxborough, MA | Fall 2023 | Software Engineering Co-Op/ Intern |
+| AMD | Austin, TX <br/> Santa Clara, CA <br/> Fort Collins, CO <br/> Boxborough, MA | Fall 2023 |**🔒 Closed 🔒** Software Engineering Co-Op/ Intern |
 | [Snowflake](https://careers.snowflake.com/us/en/job/SNCOUS6699859002EXTERNALENUS/Software-Engineer-Intern-Core-Database-Engineering-Fall-2023) | Bellevue, WA | Fall 2023 | **🔒 Closed 🔒** Software Engineer Intern (Core/Database Engineering) |
 | [ByteDance](https://jobs.bytedance.com/en/position?keywords=Software&category=&location=&project=7129361493955135774&type=2%2C3) | Seattle, WA <br/> San Jose, CA | Fall 2023 | Multiple |
 | [Google](https://www.google.com/about/careers/applications/jobs/results/112296166315434694/) | Multiple | Fall 2023 | Software Engineering Intern, BS, Fall 2023 (Due July 7th, 2023) |
 | [Splunk](https://www.splunk.com/en_us/careers/search-jobs.html?team=Early%20Talent&keyword=Engineer) | Remote | Fall 2023 | [Software Engineer Intern (Frontend)](https://www.splunk.com/en_us/careers/jobs/software-engineer-intern-frontend-27692.html) <br/> [Performance Engineer Intern](https://www.splunk.com/en_us/careers/jobs/performance-engineer-intern-remote-27771.html) <br/> [Machine Learning Engineer Intern](https://www.splunk.com/en_us/careers/jobs/machine-learning-engineer-intern-27754.html) <br/> [Software Engineer Co-op (Frontend)](https://www.splunk.com/en_us/careers/jobs/software-engineer-coop-frontend-27752.html) (Canada) |
-| [Anyscale](https://jobs.lever.co/anyscale/78a003a6-221a-4414-bf95-7c734cbfc4d9) | San Francisco, CA | Fall 2023 | Software Engineer Intern |
+| Anyscale | San Francisco, CA | Fall 2023 | **🔒 Closed 🔒**Software Engineer Intern |
 | [Amazon](https://www.amazon.jobs/en/jobs/2383729/software-engineering-intern-aws-center-for-quantum-computing-aws-center-for-quantum-computing) | San Francisco, CA | Fall 2023 | Software Engineering Intern - CQC | 
 | [Amazon Robotics](https://www.amazon.jobs/en/jobs/2345448/amazon-robotics-software-development-engineer-sde-co-op-fall-2023) | North Reading, MA, US | Fall 2023 | Software Engineering Intern (SDE) Co-op | 
 
