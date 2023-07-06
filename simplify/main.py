@@ -3,11 +3,12 @@ import json
 from log import logger
 
 import requests
+from datetime import date
 
 
 def create_md_table(listings):
-    col_names = ["Name", "Location", "Notes"]
-    col_keys = ["Name", "Location", "Notes"]
+    col_names = ["Name", "Location", "Notes", "Open", "Date Posted"]
+    col_keys = ["Name", "Location", "Notes", "date_posted"]
     result = "| "
     for name in col_names:
         result += name + " | "
@@ -18,6 +19,10 @@ def create_md_table(listings):
         result += "\n| "
         for key in col_keys:
             result += listing[key] + " | "
+        if not listing["is_closed"]:
+            result += "✅ |"
+        else:
+            result += "🚫 |"
     return result
 
 
@@ -29,7 +34,7 @@ def parse_file(listings: list, path: str, year: int, is_closed: bool, is_off_sea
             if line[0] == "|":
                 data = {}
                 if table_line_num == 0:
-                    header = [t.strip() for t in line.split('|')[1:-1]]
+                    header = [t.strip(" ") for t in line.split('|')[1:-1]]
                 elif table_line_num > 1:
                     values = [t.strip() for t in line.split('|')[1:-1]]
                     job_is_closed = False
@@ -37,10 +42,15 @@ def parse_file(listings: list, path: str, year: int, is_closed: bool, is_off_sea
                         data[col] = value
                         if value.find("Closed") != -1:
                             job_is_closed = True
+                            start = value.find("**")
+                            data[col] = value[0:start] + \
+                                value[value.find("**", start + 1) + 2:]
                     data["is_closed"] = is_closed or job_is_closed
                     data["year"] = year
                     data["is_off_season"] = is_off_season
                     listings.append(data)
+                    if "date_posted" not in data:
+                        data["date_posted"] = date.today().strftime("%d %b %Y")
                 table_line_num += 1
 
 
