@@ -1,4 +1,4 @@
-| Name | Location | Notes | Open | Date Posted | 
+| Name | Location | Notes | Date Posted | Open | 
 |  --- |  --- |  --- |  --- |  --- | 
 | [Goldman Sachs](https://www.goldmansachs.com/careers/students/programs/americas/summer-analyst-program.html) | Global | Summer 2024 Analyst | 06 Jul 2023 | ✅ |
 | KPMG | Multiple Locations |  Summer 2024 Engineering & IT Internship (No sponsorship available) | 06 Jul 2023 | 🚫 |
