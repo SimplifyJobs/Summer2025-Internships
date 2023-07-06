@@ -245,7 +245,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | ASML | Wilton, CT; San Jose, CA | **🔒 Closed 🔒** Software Test Engineer, Devops Intern |
 | Zebra Technologies | Lincolnshire, IL | **🔒 Closed 🔒** Internship - Software Engineer (No Sponsorship) |
 | SingleStore | Seattle, WA or Raleigh, NC | **🔒 Closed 🔒** Software Engineer, Managed Service Intern |
-| [Domeyard LP](https://boards.greenhouse.io/domeyard/jobs/1079185) | Boston, MA | Software Engineer Internship (Summer, Fall, Winter, Spring available) |
+| Domeyard LP | Boston, MA | **🔒 Closed 🔒**Software Engineer Internship (Summer, Fall, Winter, Spring available) |
 | Yext | Washington, D.C. | **🔒 Closed 🔒** 2023 Software Engineer Summer Intern |
 | Compass Minerals | Remote, USA; or Overland Park, KS | **🔒 Closed 🔒** Software Engineer Intern |
 | Anduril | Costa Mesa, CA | **🔒 Closed 🔒** Software Engineering, Robotics Software Engineering (US Person Status Required) |
@@ -452,7 +452,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | Red Hat | Remote | **🔒 Closed 🔒** Software Engineering Internship |
 | Black & Veatch | **🔒 Closed 🔒** Remote (US) | Software Developer Intern |
 | Domo | American Fork, Utah | **🔒 Closed 🔒** Software Engineer Intern |
-| [Lexmark](https://www.lexmark.com/en_us/careers/job-description.143572.html) | Boulder, CO | Software Engineer Student - Summer 2023 |
+| Lexmark | Boulder, CO | [Data Analyst Intern (Part-Time) - Summer 2023](https://lexmark.wd1.myworkdayjobs.com/en-US/Lexmark/details/Data-Analyst-Intern--Part-Time----Summer-2023_R610)<br>**🔒 Closed 🔒**Software Engineer Student - Summer 2023 |
 | Levi, Ray & Shoup | Hartford, CT | **🔒 Closed 🔒** Systems Engineer Intern (No Sponsorship) |
 | BreezeML | Remote | **🔒 Closed 🔒** Software Engineer Intern |
 | Tu Simple | San Diego, California, Remote | **🔒 Closed 🔒** Multiple Positions (see link) |
