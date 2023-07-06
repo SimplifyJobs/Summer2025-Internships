@@ -7,7 +7,7 @@ from datetime import date
 
 
 def create_md_table(listings):
-    col_names = ["Name", "Location", "Notes", "Open", "Date Posted"]
+    col_names = ["Name", "Location", "Notes", "Date Posted", "Open"]
     col_keys = ["Name", "Location", "Notes", "date_posted"]
     result = "| "
     for name in col_names:
