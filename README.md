@@ -86,6 +86,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Entrust](https://entrust.wd1.myworkdayjobs.com/EntrustCareers/job/United-States---Sunrise-FL/Software-Engineering-Intern_R002369) | Sunrise, FL | Software Engineer Intern |
 | [Enphase Energy](https://jobs.jobvite.com/enphase-energy/job/oFPRmfwr) | Austin, TX | Embedded Firmware Engineer Intern |
 | [Körber](https://jobs.koerber.com/pharma/job/Fargo-Software-Developer-Intern-ND-58102/954269201/) | Fargo, ND | Software Developer Intern |
+| [Tokio](https://tokio.uk.ms/careers) | Remote | Software Developer Intern |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2024-Internships#the-list-)
