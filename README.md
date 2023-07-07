@@ -82,6 +82,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | Zipline | San Francisco, CA | [Summer 2024 Internship (Express Interest)](https://legacy.flyzipline.com/job?gh_jid=5631836003/) |
 | [Rakuten](https://rakuten.wd1.myworkdayjobs.com/RakutenAdvertising/job/Midvale-Utah/Software-Engineer---Intern_1017937-1) | WV, USA | Software Engineer Intern |
 | [Bamboo Health](https://bamboo-health.rippling-ats.com/job/630181/software-engineer-intern) | Remote, Hybrid (Boston, MA) | Software Engineer Intern |
+| [Sandhills](https://www.sandhills.com/careers-and-internships/details/careers/sandhills/1195/software-development-intern) | Lincoln, Nebraska | Software Development Intern |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2024-Internships#the-list-)
