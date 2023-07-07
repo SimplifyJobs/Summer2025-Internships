@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 | Company | Company Bio | Location | Title | Date Posted | Link | Status | 
 |  --- |  --- |  --- |  --- |  --- |  --- |  --- | 
 | Goldman Sachs | Not Implemented | Global | Summer 2024 Analyst | Jul 07, 2023 |  [![Simplify Link](https://simplify.jobs/images/logos/logo.svg)](https://www.goldmansachs.com/careers/students/programs/americas/summer-analyst-program.html) [Link](https://www.goldmansachs.com/careers/students/programs/americas/summer-analyst-program.html) |✅ |
@@ -26,32 +25,3 @@
 | Palantir Technologies | Not Implemented | New York, NY or Washington, DC | Palantir Path Intern (must be enrolled in a U.S. bachelor's program) | Jul 07, 2023 |  [![Simplify Link](https://simplify.jobs/images/logos/logo.svg)](https://www.palantir.com/careers/students/path/) [Link](https://www.palantir.com/careers/students/path/) |✅ |
 | Lumen Technologies | Not Implemented | Remote, USA | Intern - Summer 2024 Program - Submit Interest (U.S. work authorization required) | Jul 07, 2023 |  [![Simplify Link](https://simplify.jobs/images/logos/logo.svg)](https://jobs.lumen.com/global/en/job/324980/Intern-Summer-2024-Program-Submit-Interest) [Link](https://jobs.lumen.com/global/en/job/324980/Intern-Summer-2024-Program-Submit-Interest) |✅ |
 | Marotta Controls | Not Implemented | Parsippany, NJ | Software Engineering Intern - (Summer 2024) (U.S citizens only) | Jul 07, 2023 |  [![Simplify Link](https://simplify.jobs/images/logos/logo.svg)](https://marotta.com/job-openings/?gnk=job&gni=8a7883ac879c5eca0187ef4d715d4fd8&lang=en) [Link](https://marotta.com/job-openings/?gnk=job&gni=8a7883ac879c5eca0187ef4d715d4fd8&lang=en) |✅ |
-=======
-| Company | Company Bio | Location | Title | Date Posted | Open | 
-|  --- |  --- |  --- |  --- |  --- |  --- | 
-| Goldman Sachs | Not Implemented | Global | [Summer 2024 Analyst](https://www.goldmansachs.com/careers/students/programs/americas/summer-analyst-program.html) | Jul 06, 2023 | ✅ |
-| Optiver | Not Implemented | Chicago, IL <br/> Austin, TX | [2024 Tech Graduate & Intern Expression of Interest](https://optiver.com/working-at-optiver/career-opportunities/6497784002) | Jul 06, 2023 | ✅ |
-| Optiver | Not Implemented | Chicago, IL <br/> Austin, TX | [2024 Trading Graduate & Intern Expression of Interest](https://optiver.com/working-at-optiver/career-opportunities/6614387002) | Jul 06, 2023 | ✅ |
-| BlackRock | Not Implemented | Americas | [Summer 2024 Internship Program](https://blackrock.tal.net/vx/lang-en-GB/mobile-0/brand-3/xf-232eb66ac89a/candidate/so/pm/1/pl/1/opp/7894-Summer-Internship-Program-Americas/en-GB) | Jul 06, 2023 | ✅ |
-| Walmart | Not Implemented | Bentonville, AR | [2024 Summer Intern: Software Engineer II (No sponsorship available) (Must be enrolled in a Bachelor’s degree program currently)](https://careers.walmart.com/us/jobs/WD1391200-2024-summer-intern-software-engineer-ii-bentonville-ar) | Jul 06, 2023 | ✅ |
-| AQR Capital Management, LLC | Not Implemented | Greenwich, CT | [2024 Summer Internship-Express Interest](https://careers.aqr.com/jobs/university-open-positions/greenwich-ct/2024-summer-internship-express-interest/4478927) | Jul 06, 2023 | ✅ |
-| Epic | Not Implemented | Madison, WI | [Software Developer Intern - Summer 2024 (No sponsorship available)](https://epic.avature.net/Careers/FolderDetail/Software-Developer-Intern---Summer-2024/23429) | Jul 06, 2023 | ✅ |
-| Apple | Not Implemented | Multiple US Locations | [Software Engineering Internships (Express Interest)](https://jobs.apple.com/en-us/details/200480063/software-engineering-internships) | Jul 06, 2023 | ✅ |
-| Apple | Not Implemented | Multiple US Locations | [ML/AI Internships (Express Interest)](https://jobs.apple.com/en-us/details/200480066/machine-learning-ai-internships) | Jul 06, 2023 | ✅ |
-| Apple | Not Implemented | Multiple US Locations | [Engineering PM Internships (Express Interest)](https://jobs.apple.com/en-us/details/200480064/engineering-program-management-internships) | Jul 06, 2023 | ✅ |
-| Neuralink | Not Implemented | Fremont, CA <br/> Austin, TX | [Fremont, CA](https://boards.greenhouse.io/neuralink/jobs/5285389003) | Jul 06, 2023 | ✅ |
-| Neuralink | Not Implemented | Fremont, CA <br/> Austin, TX | [Austin, TX](https://boards.greenhouse.io/neuralink/jobs/5552197003) | Jul 06, 2023 | ✅ |
-| MosaicML | Not Implemented | SF and San Diego, CA <br/> NYC, NY | [Software Engineer Intern](https://boards.greenhouse.io/mosaicml/jobs/4133756004) | Jul 06, 2023 | ✅ |
-| MosaicML | Not Implemented | SF and San Diego, CA <br/> NYC, NY | [Research Scientist Intern](https://boards.greenhouse.io/mosaicml/jobs/4170454004) | Jul 06, 2023 | ✅ |
-| Capstone Investment Advisors | Not Implemented | New York, NY | [2024 Summer Internship – Software Engineer](https://www.capstoneco.com/careers/2024-summer-internship-software-engineer-nyc/?gh_jid=6784275002) | Jul 06, 2023 | ✅ |
-| D.E. Shaw | Not Implemented | New York, NY | [Software Development Intern (New York) - Summer 2024](https://www.deshaw.com/careers/software-developer-intern-new-york-summer-2024-4803) | Jul 06, 2023 | ✅ |
-| D.E. Shaw | Not Implemented | New York, NY | [Systems Technical Program Manager Intern (New York) – Summer 2024](https://www.deshaw.com/careers/systems-technical-program-manager-intern-new-york-summer-2024-4786) | Jul 06, 2023 | ✅ |
-| D.E. Shaw | Not Implemented | New York, NY | [Systems Administrator Intern (New York) - Summer 2024](https://www.deshaw.com/careers/systems-administrator-intern-new-york-summer-2024-4782) | Jul 06, 2023 | ✅ |
-| D.E. Shaw | Not Implemented | New York, NY | [Systems Technologist Intern (New York) - Summer 2024](https://www.deshaw.com/careers/systems-technologist-intern-new-york-summer-2024-4785) | Jul 06, 2023 | ✅ |
-| Bank of America | Not Implemented | Multiple US Locations | [Global Technology Summer Analyst Program - 2024](https://bankcampuscareers.tal.net/vx/lang-en-GB/mobile-0/brand-4/xf-91c0e92d74a1/candidate/so/pm/1/pl/1/opp/10165-Global-Technology-Summer-Analyst-Program-2024/en-GB) | Jul 06, 2023 | ✅ |
-| Protivity | Not Implemented | Phoenix, AZ | [Technology Consulting Intern - 2024 Summer Internship (No Sponsorship)](https://roberthalf.wd1.myworkdayjobs.com/en-US/ProtivitiNA/job/PHOENIX/Phoenix-Technology-Consulting-Intern---2024_JR-248209-2?Location_Country=bc33aa3152ec42d4995f4791a106ed09&Location_Region_State_Province=c7b20b0d4bc04711a00900569e9afabd) | Jul 06, 2023 | ✅ |
-| Mercedes-Benz | Not Implemented | Sunnyvale, CA | [Data Products Intern](https://jobs.lever.co/MBRDNA/59ae463c-5d10-4bb6-9dfd-4e26c7d84a69) | Jul 06, 2023 | ✅ |
-| Palantir Technologies | Not Implemented | New York, NY or Washington, DC | [Palantir Path Intern (must be enrolled in a U.S. bachelor's program)](https://www.palantir.com/careers/students/path/) | Jul 06, 2023 | ✅ |
-| Lumen Technologies | Not Implemented | Remote, USA | [Intern - Summer 2024 Program - Submit Interest (U.S. work authorization required)](https://jobs.lumen.com/global/en/job/324980/Intern-Summer-2024-Program-Submit-Interest) | Jul 06, 2023 | ✅ |
-| Marotta Controls | Not Implemented | Parsippany, NJ | [Software Engineering Intern - (Summer 2024) (U.S citizens only)](https://marotta.com/job-openings/?gnk=job&gni=8a7883ac879c5eca0187ef4d715d4fd8&lang=en) | Jul 06, 2023 | ✅ |
->>>>>>> 3dfebae981f7f7306463bbc8b8f7d4af698fac32
