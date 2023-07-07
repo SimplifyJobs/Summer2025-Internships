@@ -137,6 +137,7 @@ NoneType: None
 2023-07-06 17:25:35,491 - log - INFO - parsing file: README-2023.md
 2023-07-06 17:25:35,502 - log - INFO - dumped json file with 666 job listings
 >>>>>>> e15b72ab4f88589b230a2292e33634125b1f440c
+<<<<<<< HEAD
 2023-07-07 15:27:42,897 - log - INFO - Running main() in main.py
 2023-07-07 15:27:42,898 - log - INFO - parsing file: README.md
 2023-07-07 15:27:42,898 - log - INFO - parsing file: README-Off-Season.md
@@ -147,3 +148,10 @@ NoneType: None
 2023-07-07 15:36:35,114 - log - INFO - parsing file: README-Off-Season.md
 2023-07-07 15:36:35,114 - log - INFO - parsing file: README-2023.md
 2023-07-07 15:36:35,120 - log - INFO - dumped json file with 25 job listings
+=======
+2023-07-06 19:42:15,101 - log - INFO - Running main() in main.py
+2023-07-06 19:42:15,102 - log - INFO - parsing file: README.md
+2023-07-06 19:42:15,102 - log - INFO - parsing file: README-Off-Season.md
+2023-07-06 19:42:15,103 - log - INFO - parsing file: README-2023.md
+2023-07-06 19:42:15,113 - log - INFO - dumped json file with 25 job listings
+>>>>>>> 3dfebae981f7f7306463bbc8b8f7d4af698fac32
