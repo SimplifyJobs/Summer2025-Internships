@@ -80,7 +80,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | Citadel | Chicago, IL or New York, NY | [Software Engineer Intern](https://www.citadel.com/careers/details/software-engineer-intern-us/) <br> [Investment & Trading Intern](https://www.citadel.com/careers/details/investment-trading-intern-us/) <br> [Quant Researcher Intern (PhD)](https://www.citadel.com/careers/details/quantitative-researcher-phd-intern-us/) <br> [Quantatative Research Analyst Intern](https://www.citadel.com/careers/details/quantitative-research-analyst-intern-us/) | 
 | Two Sigma | New York, NY | [Quantitative Researcher - Internship](https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Quantitative-Researcher-Internship-2024-Summer/12004) |
 | Zipline | San Francisco, CA | [Summer 2024 Internship (Express Interest)](https://legacy.flyzipline.com/job?gh_jid=5631836003/) |
-
+| [Rakuten](https://rakuten.wd1.myworkdayjobs.com/RakutenAdvertising/job/Midvale-Utah/Software-Engineer---Intern_1017937-1) | WV, USA | Software Engineer Intern |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2024-Internships#the-list-)
