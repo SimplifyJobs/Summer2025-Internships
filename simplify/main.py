@@ -5,10 +5,12 @@ from log import logger
 import requests
 from datetime import date
 
+SIMPLIFY_LOGO = "https://simplify.jobs/images/logos/logo.svg"
+
 
 def create_md_table(listings):
     col_names = ["Company", "Company Bio",
-                 "Location", "Title", "Date Posted", "Open"]
+                 "Location", "Title", "Date Posted", "Link", "Status"]
     col_keys = ["name", "company_desciption",
                 "location", "title", "date_posted"]
     result = "| "
@@ -19,12 +21,10 @@ def create_md_table(listings):
         result += " --- | "
     for listing in listings:
         result += "\n| "
+        link = listing["site_link"]
         for key in col_keys:
-            link = listing["site_link"]
-            if key == "title":
-                result += "[" + listing[key] + "](" + link + ") | "
-            else:
-                result += listing[key] + " | "
+            result += listing[key] + " | "
+        result += f" [![Simplify Link]({SIMPLIFY_LOGO})]({link}) [Link]({link}) |"
         if not listing["is_closed"]:
             result += "✅ |"
         else:
