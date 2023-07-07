@@ -65,6 +65,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Amazon Robotics](https://www.amazon.jobs/en/jobs/2345448/amazon-robotics-software-development-engineer-sde-co-op-fall-2023) | North Reading, MA, US | Fall 2023 | Software Engineering Intern (SDE) Co-op |
 | [Garmin](https://careers.garmin.com/careers-home/jobs/10499) | Olath, KS | Fall 2023 | Software Engineer Intern |
 | [Vivacity Tech](https://vivacitytech.applytojob.com/apply/Wnw5Abrw6U/Engineer-Software-Intern) | Remote | Fall 2023 | Software Engineer Intern |
+| [Langan](https://careers.langan.com/job/Parsippany-Software-Development-Intern-or-Co-op-Fall-2023-NJ-07054-2172/1045849800/) | Parsippany, NJ | Fall 2023 | Software Engineer Intern |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2024-Internships/blob/dev/README-Off-Season.md#the-list-)
