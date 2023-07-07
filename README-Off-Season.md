@@ -62,7 +62,12 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Splunk](https://www.splunk.com/en_us/careers/search-jobs.html?team=Early%20Talent&keyword=Engineer) | Remote | Fall 2023 | [Software Engineer Intern (Frontend)](https://www.splunk.com/en_us/careers/jobs/software-engineer-intern-frontend-27692.html) <br/> [Performance Engineer Intern](https://www.splunk.com/en_us/careers/jobs/performance-engineer-intern-remote-27771.html) <br/> [Machine Learning Engineer Intern](https://www.splunk.com/en_us/careers/jobs/machine-learning-engineer-intern-27754.html) <br/> [Software Engineer Co-op (Frontend)](https://www.splunk.com/en_us/careers/jobs/software-engineer-coop-frontend-27752.html) (Canada) |
 | Anyscale | San Francisco, CA | Fall 2023 | **🔒 Closed 🔒**Software Engineer Intern |
 | [Amazon](https://www.amazon.jobs/en/jobs/2383729/software-engineering-intern-aws-center-for-quantum-computing-aws-center-for-quantum-computing) | San Francisco, CA | Fall 2023 | Software Engineering Intern - CQC | 
-| [Amazon Robotics](https://www.amazon.jobs/en/jobs/2345448/amazon-robotics-software-development-engineer-sde-co-op-fall-2023) | North Reading, MA, US | Fall 2023 | Software Engineering Intern (SDE) Co-op | 
+| [Amazon Robotics](https://www.amazon.jobs/en/jobs/2345448/amazon-robotics-software-development-engineer-sde-co-op-fall-2023) | North Reading, MA, US | Fall 2023 | Software Engineering Intern (SDE) Co-op |
+| [Garmin](https://careers.garmin.com/careers-home/jobs/10499) | Olath, KS | Fall 2023 | Software Engineer Intern |
+| [Vivacity Tech](https://vivacitytech.applytojob.com/apply/Wnw5Abrw6U/Engineer-Software-Intern) | Remote | Fall 2023 | Software Engineer Intern |
+| [Langan](https://careers.langan.com/job/Parsippany-Software-Development-Intern-or-Co-op-Fall-2023-NJ-07054-2172/1045849800/) | Parsippany, NJ | Fall 2023 | Software Engineer Intern |
+| [Medpace](https://uscareers-medpace.icims.com/jobs/8878/software-development-co-op---fall-2023/job) | Cincinnati, OH | Fall 2023 | Software Development Intern |
+| [Skydio](https://boards.greenhouse.io/skydio/jobs/5639641003?gh_src=b2366f993us) | San Mateo, California | Fall 2023 | Embedded Software Engineer Intern |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2024-Internships/blob/dev/README-Off-Season.md#the-list-)
