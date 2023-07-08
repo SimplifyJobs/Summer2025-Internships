@@ -89,6 +89,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [BenefitMall](https://truist.wd1.myworkdayjobs.com/CRC/job/Dallas-TX/BenefitMall---Software-Development-Intern--Hybrid-_R0077897) | Hybrid (Dallas, TX) | Software Development Intern |
 | [Maximus](https://external-maximus.icims.com/jobs/90452/intern---software-engineering/job) | Mclean, VA | Software Engineering Intern |
 | [Infineon](https://www.infineon.com/cms/en/careers/jobsearch/jobsearch/HRC0331975-Intern-Software-Automation-Engineer/) | Andover, MA </br> Warwick, RI | Software Automation Engineer Intern |
+| [Docugami](https://boards.greenhouse.io/docugami/jobs/4014838003) | Kirkland, WA | Software Engineering Intern |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2024-Internships#the-list-)
