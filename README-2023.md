@@ -111,7 +111,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | DRW | Chicago, IL; Greenwich, CT; Houston, TX; Austin, TX; New York, NY | **🔒 Closed 🔒** Quantitative Research Intern (Chicago, Masters/PhD) |
 | Salesforce | Multiple Locations in United States | **🔒 Closed 🔒** SWE Internship |
 | Instabase | San Francisco, Menlo Park, & New York City | **🔒 Closed 🔒** Software Engineer, Intern (Frontend/Fullstack), Software Engineer, Intern (Backend) |
-| Cisco | Multiple Location in United States | **🔒 Closed 🔒** Software Engineer I (Intern) Data Analyst Inter |
+| Cisco | Multiple Location in United States | **🔒 Closed 🔒** Software Engineer I (Intern), Data Analyst Intern |
 | L3Harris Technologies | Mason, OH | **🔒 Closed 🔒** Software Eng Intern(require US Citizenship) |
 | Vanguard | Malvern, PA, Charlotte, NC | **🔒 Closed 🔒** Software Eng Intern (No sponsorships) |
 | Nvidia | Santa Clara, Remote | **🔒 Closed 🔒** SWE Intern |
