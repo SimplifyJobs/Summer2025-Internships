@@ -81,7 +81,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | Two Sigma | New York, NY | [Quantitative Researcher - Internship](https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Quantitative-Researcher-Internship-2024-Summer/12004) |
 | Zipline | San Francisco, CA | [Summer 2024 Internship (Express Interest)](https://legacy.flyzipline.com/job?gh_jid=5631836003/) |
 | Rakuten | WV, USA | **🔒 Closed 🔒** Software Engineer Intern |
-| [Bamboo Health](https://bamboo-health.rippling-ats.com/job/630181/software-engineer-intern) | Remote, Hybrid (Boston, MA) | Software Engineer Intern |
+| [Bamboo Health](https://bamboo-health.rippling-ats.com/job/630181/software-engineer-intern) | Remote, Hybrid (Boston, MA) (Must be enrolled in a Bachelor’s degree program currently) | Software Engineer Intern |
 | [Sandhills](https://www.sandhills.com/careers-and-internships/details/careers/sandhills/1195/software-development-intern) | Lincoln, Nebraska | Software Development Intern |
 | [Entrust](https://entrust.wd1.myworkdayjobs.com/EntrustCareers/job/United-States---Sunrise-FL/Software-Engineering-Intern_R002369) | Sunrise, FL | Software Engineer Intern |
 | [Enphase Energy](https://jobs.jobvite.com/enphase-energy/job/oFPRmfwr) | Austin, TX | Embedded Firmware Engineer Intern |
