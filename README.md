@@ -90,6 +90,12 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Infineon](https://www.infineon.com/cms/en/careers/jobsearch/jobsearch/HRC0331975-Intern-Software-Automation-Engineer/) | Andover, MA </br> Warwick, RI | Software Automation Engineer Intern |
 | [Docugami](https://boards.greenhouse.io/docugami/jobs/4014838003) | Kirkland, WA | Software Engineering Intern |
 | [SIG](https://careers.sig.com/job/7102/Software-Engineering-Internship-Program-Summer-2024-Expression-of-Interest) | Bala Cynwyd, PA | Software Engineering Internship Program |
+| [Northwestern Mutual](https://careers.northwesternmutual.com/corporate-careers/job/public-investments-municipal-trading-analytics-internship-summer-2024-milwaukee-wi-corporate-jr-38135/) | Milwaukee, WI | Municipal Trading Analytics Intern |
+| [JBS USA](https://jobs.jbsfoodsgroup.com/us/en/job/JBUSUS47677EXTERNALENUS/2024-IT-Summer-Internship-Program?utm_source=linkedin&utm_medium=phenom-feeds&s=LinkedInJobs) | Greeley, CO | Information Technology Intern |
+| [Align Technology](https://jobs.aligntech.com/jobs/36257?iis=Job+Board&iisn=LinkedIn&lang=en-us) | Multiple Locations | Summer 2024 Internship (Express Interest) |
+| [Forv/s](https://jobs.forvis.com/jobs/3927/intern-it-risk-and-compliance-summer-2024-or-multiple-locations) | Multiple Locations | Information Technology Risk Intern |
+| [Crestron](https://globalus231.dayforcehcm.com/CandidatePortal/en-US/crestron/site/candidateportal/Posting/View/820) | Plano, TX, <br/> Rockleigh, NJ | Summer 2024 Internship Program |
+
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2024-Internships#the-list-)
