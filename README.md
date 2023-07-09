@@ -97,6 +97,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Crestron](https://globalus231.dayforcehcm.com/CandidatePortal/en-US/crestron/site/candidateportal/Posting/View/820) | Plano, TX, <br/> Rockleigh, NJ | Summer 2024 Internship Program |
 | Cherry Bekaert | Plano, TX, <br/> Rockleigh, NJ | [Digital Platform & Analytics Intern](https://recruiting.ultipro.com/CHE1006CBH/JobBoard/fee83a4e-4604-4753-bd3a-98e8811baf6f/OpportunityDetail?opportunityId=0ced27e9-9198-4f3b-a2ba-4d18d75b0935&utm_source=LINKEDIN&utm_medium=referrer) <br/> [Cybersecurity Intern](https://recruiting.ultipro.com/CHE1006CBH/JobBoard/fee83a4e-4604-4753-bd3a-98e8811baf6f/OpportunityDetail?opportunityId=b37f522e-3724-45df-8033-3b8c3bab795f&utm_source=LINKEDIN&utm_medium=referrer) |
 | [Caterpillar](https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/details/XMLNAME-2024-Summer-Corporate-Intern---Digital-and-Analytics_R0000211914?q=Summer%202024) | Multiple Locations | Digital & Analytics Intern |
+| [Wabtec Corporation](https://wabtec.wd1.myworkdayjobs.com/wabtec_careers/job/Erie-PA/Summer-2024-Engineering-Internship_R0075202?source=LinkedIn_corporate_page) | Erie, PA <br/> Fort Worth, TX | Software Engineering Intern |
 
 
 
