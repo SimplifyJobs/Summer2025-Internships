@@ -89,7 +89,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Maximus](https://external-maximus.icims.com/jobs/90452/intern---software-engineering/job) | Mclean, VA | Software Engineering Intern |
 | [Infineon](https://www.infineon.com/cms/en/careers/jobsearch/jobsearch/HRC0331975-Intern-Software-Automation-Engineer/) | Andover, MA </br> Warwick, RI | Software Automation Engineer Intern |
 | [Docugami](https://boards.greenhouse.io/docugami/jobs/4014838003) | Kirkland, WA | Software Engineering Intern |
-| [SIG](https://careers.sig.com/job/7102/Software-Engineering-Internship-Program-Summer-2024-Expression-of-Interest) | Bala Cynwyd, PA | Software Engineering Internship Program |
+| SIG | Bala Cynwyd, PA | [Software Engineering Internship Program (Express Interest)](https://careers.sig.com/job/7102/Software-Engineering-Internship-Program-Summer-2024-Expression-of-Interest) |
 | [Northwestern Mutual](https://careers.northwesternmutual.com/corporate-careers/job/public-investments-municipal-trading-analytics-internship-summer-2024-milwaukee-wi-corporate-jr-38135/) | Milwaukee, WI | Municipal Trading Analytics Intern (No Sponsorship) |
 | [JBS USA](https://jobs.jbsfoodsgroup.com/us/en/job/JBUSUS47677EXTERNALENUS/2024-IT-Summer-Internship-Program?utm_source=linkedin&utm_medium=phenom-feeds&s=LinkedInJobs) | Greeley, CO | Information Technology Intern |
 | [Align Technology](https://jobs.aligntech.com/jobs/36257?iis=Job+Board&iisn=LinkedIn&lang=en-us) | Multiple Locations | Summer 2024 Internship (Expression of Interest) |
