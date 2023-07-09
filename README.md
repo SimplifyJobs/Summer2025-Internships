@@ -102,6 +102,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Royal Bank of Canada](https://jobs.rbc.com/ca/en/job/RBCAA0088R0000062764EXTERNALENCA) | Jersey City, NJ | Quantitative Technology Services Intern |
 | [KeyBank](https://keybank.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Summer-2024-Digital-Banking-Internship---Cleveland_R-19981) | Brooklyn, OH | Digital Banking Intern (No Sponsorship) |
 | [Blackstone](https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/New-York/XMLNAME-2024-Blackstone-Insurance-Solutions--Quantitative-Strategy-Summer-Analyst_26308-1?source=Linkedin) | New York, NY | Quantitative Strategy Intern |
+| [Nomura](https://nomuracampus.tal.net/vx/lang-en-GB/mobile-0/appcentre-ext/brand-4/xf-3348347fc789/candidate/jobboard/vacancy/1/adv/?f_Item_Opportunity_84825_lk=749&f_Item_Opportunity_60426_lk=520149) | New York, NY | [2024 Information Technology Summer Analyst Program](https://nomuracampus.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/xf-3348347fc789/candidate/so/pm/1/pl/1/opp/877-2024-Information-Technology-Summer-Analyst-Program/en-GB) |
 
 
 <!-- Please leave a one line gap between this and the table -->
