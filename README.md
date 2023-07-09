@@ -101,7 +101,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Global Atlantic Financial Group](https://boards.greenhouse.io/gainternships/jobs/5150526?gh_src=3214a7aa1u&gh_src=519d960c1&source=LinkedIn) | New York, NY | Quantitative Investment Intern (No Sponsorship) |
 | [Royal Bank of Canada](https://jobs.rbc.com/ca/en/job/RBCAA0088R0000062764EXTERNALENCA) | Jersey City, NJ | Quantitative Technology Services Intern |
 | [KeyBank](https://keybank.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Summer-2024-Digital-Banking-Internship---Cleveland_R-19981) | Brooklyn, OH | Digital Banking Intern (No Sponsorship) |
-| [Blackstone](https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/New-York/XMLNAME-2024-Blackstone-Insurance-Solutions--Quantitative-Strategy-Summer-Analyst_26308-1?source=Linkedin) | New York, NY | Quantitative Strategy Intern |
+| [Blackstone](https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/New-York/XMLNAME-2024-Blackstone-Insurance-Solutions--Quantitative-Strategy-Summer-Analyst_26308-1?source=Linkedin) | New York, NY | Quantitative Strategy Intern (Must be enrolled in a Bachelor’s degree program currently) |
 
 
 <!-- Please leave a one line gap between this and the table -->
