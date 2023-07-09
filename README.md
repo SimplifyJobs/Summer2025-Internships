@@ -1,4 +1,4 @@
-# Summer 2024 Tech Internships by Pitt CSC & Simplify
+                      # Summer 2024 Tech Internships by Pitt CSC & Simplify
 And we're back! Use this repo to share and keep track of software, tech, CS, PM, quant internships for **Summer 2024**. List maintained by the [Pitt Computer Science Club](https://pittcsc.org/) and [Simplify](https://simplify.jobs/)!
 
 :warning: **This repository is only for internships/co-ops in the United States, Canada or for Remote positions :earth_americas:.**
@@ -98,7 +98,11 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | Cherry Bekaert | Multiple Locations | [Digital Platform & Analytics Intern](https://recruiting.ultipro.com/CHE1006CBH/JobBoard/fee83a4e-4604-4753-bd3a-98e8811baf6f/OpportunityDetail?opportunityId=0ced27e9-9198-4f3b-a2ba-4d18d75b0935&utm_source=LINKEDIN&utm_medium=referrer) (No Sponsorship) <br/> [Cybersecurity Intern](https://recruiting.ultipro.com/CHE1006CBH/JobBoard/fee83a4e-4604-4753-bd3a-98e8811baf6f/OpportunityDetail?opportunityId=b37f522e-3724-45df-8033-3b8c3bab795f&utm_source=LINKEDIN&utm_medium=referrer) (No Sponsorship) |
 | Caterpillar | Multiple Locations | [Digital & Analytics Intern](https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/details/XMLNAME-2024-Summer-Corporate-Intern---Digital-and-Analytics_R0000211914?q=Summer+2024) <br/> [Software Engineering Intern](https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/details/XMLNAME-2024-Summer-Corporate-Intern---Engineering_R0000211130?q=Engineering) (No Sponsorship) |
 | [Wabtec Corporation](https://wabtec.wd1.myworkdayjobs.com/wabtec_careers/job/Erie-PA/Summer-2024-Engineering-Internship_R0075202?source=LinkedIn_corporate_page) | Erie, PA <br/> Fort Worth, TX | Software Engineering Intern (No Sponsorship) |
-
+| [Global Atlantic Financial Group](https://boards.greenhouse.io/gainternships/jobs/5150526?gh_src=3214a7aa1u&gh_src=519d960c1&source=LinkedIn) | New York, NY | Quantitative Investment Intern (No Sponsorship) |
+| [Royal Bank of Canada](https://jobs.rbc.com/ca/en/job/RBCAA0088R0000062764EXTERNALENCA) | Jersey City, NJ | Quantitative Technology Services Intern |
+| [KeyBank](https://keybank.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Summer-2024-Digital-Banking-Internship---Cleveland_R-19981) | Brooklyn, OH | Digital Banking Intern |
+| [KeyBank](https://keybank.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Summer-2024-Digital-Banking-Internship---Cleveland_R-19981) | Brooklyn, OH | Digital Banking Intern |
+| [BlackStone](https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/New-York/XMLNAME-2024-Blackstone-Insurance-Solutions--Quantitative-Strategy-Summer-Analyst_26308-1?source=Linkedin) | New York, NY | Quantitative Strategy Intern |
 
 
 <!-- Please leave a one line gap between this and the table -->
