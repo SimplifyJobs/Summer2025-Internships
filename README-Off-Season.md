@@ -70,7 +70,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Skydio](https://boards.greenhouse.io/skydio/jobs/5639641003?gh_src=b2366f993us) | San Mateo, California | Fall 2023 | Embedded Software Engineer Intern |
 | [Impulse Space](https://impulsespace.pinpointhq.com/postings/20a4e923-5c4e-4aa0-81a6-25e884e7247b) | Redondo Beach, CA | Fall 2023 | Embedded Software Engineering Intern (US Citizenship Required) |
 | [BenefitMall](https://truist.wd1.myworkdayjobs.com/CRC/job/Dallas-TX/BenefitMall---Software-Development-Intern--Hybrid-_R0077897) | Hybrid (Dallas, TX) | Multiple | Software Development Intern |
-| [Tesla](https://www.tesla.com/careers/search/?site=US&type=3) | Multiple | Multiple | Multiple |
+| [Tesla](https://www.tesla.com/careers/search/?site=US&type=3) | Multiple | Fall 2023, Winter/Spring 2024 | Frontend/Backend SWE, Network Engineering, PM, UI/UX, and more. |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2024-Internships/blob/dev/README-Off-Season.md#the-list-)
