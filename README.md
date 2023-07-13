@@ -106,6 +106,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | Morgan Stanley | Alpharetta, GA <br/> New York, NY | [Technology Summer Analyst Program (Alpharetta, GA)](https://morganstanley.tal.net/vx/candidate/apply/15068) <br/> [Technology Summer Analyst Program (New York, NY)](https://morganstanley.tal.net/vx/candidate/apply/15076) |
 | [BNP Paribas](https://bnppus.tal.net/vx/mobile-0/appcentre-ext/brand-7/candidate/so/pm/1/pl/2/opp/778-2024-Summer-Analyst-Internship-Technology/en-GB) | Jersey City, NJ | 2024 - Summer Analyst Internship - Technology |
 | DRW | Chicago, IL | [Software Developer Intern](https://drw.com/work-at-drw/listings/software-developer-intern-2567189) <br/> [Site Reliability Engineer Intern](https://drw.com/work-at-drw/listings/site-reliability-engineer-sre-intern-2569887)<br/> [Quantitative Trading Analyst Intern](https://drw.com/work-at-drw/listings/quantitative-trading-analyst-intern-2551092) |
+| Intuit | Multiple Locations | [2024 Summer Internship Interest](https://talenteq.intuit.com/ucs?cid=elq-form_hs_698061_US_UR-FY23_lg_iac-msg4_link_intuit-talentmktg)
 
 
 <!-- Please leave a one line gap between this and the table -->
