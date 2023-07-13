@@ -104,6 +104,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Blackstone](https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/New-York/XMLNAME-2024-Blackstone-Insurance-Solutions--Quantitative-Strategy-Summer-Analyst_26308-1?source=Linkedin) | New York, NY | Quantitative Strategy Intern |
 | [Nomura](https://nomuracampus.tal.net/vx/lang-en-GB/mobile-0/appcentre-ext/brand-4/xf-3348347fc789/candidate/jobboard/vacancy/1/adv/?f_Item_Opportunity_84825_lk=749&f_Item_Opportunity_60426_lk=520149) | New York, NY | [2024 Information Technology Summer Analyst Program](https://nomuracampus.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/xf-3348347fc789/candidate/so/pm/1/pl/1/opp/877-2024-Information-Technology-Summer-Analyst-Program/en-GB) |
 | Morgan Stanley | Alpharetta, GA <br/> New York, NY | [Technology Summer Analyst Program (Alpharetta, GA)](https://morganstanley.tal.net/vx/candidate/apply/15068) <br/> [Technology Summer Analyst Program (New York, NY)](https://morganstanley.tal.net/vx/candidate/apply/15076) |
+| [BNP Paribas](https://bnppus.tal.net/vx/mobile-0/appcentre-ext/brand-7/candidate/so/pm/1/pl/2/opp/778-2024-Summer-Analyst-Internship-Technology/en-GB) | Jersey City, NJ | 2024 - Summer Analyst Internship - Technology |
 
 
 <!-- Please leave a one line gap between this and the table -->
