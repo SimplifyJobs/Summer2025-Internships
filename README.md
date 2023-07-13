@@ -105,6 +105,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Nomura](https://nomuracampus.tal.net/vx/lang-en-GB/mobile-0/appcentre-ext/brand-4/xf-3348347fc789/candidate/jobboard/vacancy/1/adv/?f_Item_Opportunity_84825_lk=749&f_Item_Opportunity_60426_lk=520149) | New York, NY | [2024 Information Technology Summer Analyst Program](https://nomuracampus.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/xf-3348347fc789/candidate/so/pm/1/pl/1/opp/877-2024-Information-Technology-Summer-Analyst-Program/en-GB) |
 | Morgan Stanley | Alpharetta, GA <br/> New York, NY | [Technology Summer Analyst Program (Alpharetta, GA)](https://morganstanley.tal.net/vx/candidate/apply/15068) <br/> [Technology Summer Analyst Program (New York, NY)](https://morganstanley.tal.net/vx/candidate/apply/15076) |
 | [BNP Paribas](https://bnppus.tal.net/vx/mobile-0/appcentre-ext/brand-7/candidate/so/pm/1/pl/2/opp/778-2024-Summer-Analyst-Internship-Technology/en-GB) | Jersey City, NJ | 2024 - Summer Analyst Internship - Technology |
+| DRW | Chicago, IL | [Software Developer Intern](https://drw.com/work-at-drw/listings/software-developer-intern-2567189), [Site Reliability Engineer Intern](https://drw.com/work-at-drw/listings/site-reliability-engineer-sre-intern-2569887), [Quantitative Trading Analyst Intern](https://drw.com/work-at-drw/listings/quantitative-trading-analyst-intern-2551092) |
 
 
 <!-- Please leave a one line gap between this and the table -->
