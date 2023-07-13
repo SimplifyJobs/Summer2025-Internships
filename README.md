@@ -46,7 +46,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | Name | Location | Notes |
 | ---- | -------- | ----- |
 | [Goldman Sachs](https://www.goldmansachs.com/careers/students/programs/americas/summer-analyst-program.html) | Global | Summer 2024 Analyst |
-| KPMG | Multiple Locations | **🔒 Closed 🔒** Summer 2024 Engineering & IT Internship (No sponsorship available) |
+| KPMG | Multiple Locations | [Summer 2024 Engineering & IT Internship (No sponsorship available)](https://app.ripplematch.com/v2/public/job/6f5894f6/details?utm_source=RM&utm_medium=organic_social&utm_campaign=growth_github&utm_content=kpmg&utm_term=null) |
 | [Optiver](https://optiver.com/working-at-optiver/career-opportunities/) | Chicago, IL <br/> Austin, TX | [Quantitative Trader Intern (Summer 2024 – Chicago)](https://optiver.com/working-at-optiver/career-opportunities/6793142002/) <br/> [HFT Research Intern (Summer 2024 – Austin)](https://optiver.com/working-at-optiver/career-opportunities/6796767002/) <br/> [Software Engineer Intern (Summer 2024 – Austin)](https://optiver.com/working-at-optiver/career-opportunities/6837118002/?_gl=1*15kjubu*_up*MQ..&gclid=CjwKCAjw-7OlBhB8EiwAnoOEk9DE1HiDcs8Rzl5UWzLbMcHX2U_phUQrWHrl4A-soUm_cw8fMfCC3BoCcBcQAvD_BwE) <br/> [Software Engineer Intern (Summer 2024 – Chicago)](https://optiver.com/working-at-optiver/career-opportunities/6837103002/?_gl=1*rzd3uv*_up*MQ..&gclid=CjwKCAjw-7OlBhB8EiwAnoOEk9DE1HiDcs8Rzl5UWzLbMcHX2U_phUQrWHrl4A-soUm_cw8fMfCC3BoCcBcQAvD_BwE) |
 | Bridgewater Associates | Westport, CT | **🔒 Closed 🔒** Investment Engineer Intern |
 | [BlackRock](https://blackrock.tal.net/vx/lang-en-GB/mobile-0/brand-3/xf-232eb66ac89a/candidate/so/pm/1/pl/1/opp/7894-Summer-Internship-Program-Americas/en-GB) | Americas | Summer 2024 Internship Program |
@@ -107,7 +107,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [BNP Paribas](https://bnppus.tal.net/vx/mobile-0/appcentre-ext/brand-7/candidate/so/pm/1/pl/2/opp/778-2024-Summer-Analyst-Internship-Technology/en-GB) | Jersey City, NJ | 2024 - Summer Analyst Internship - Technology |
 | DRW | Chicago, IL | [Software Developer Intern](https://drw.com/work-at-drw/listings/software-developer-intern-2567189) <br/> [Site Reliability Engineer Intern](https://drw.com/work-at-drw/listings/site-reliability-engineer-sre-intern-2569887)<br/> [Quantitative Trading Analyst Intern](https://drw.com/work-at-drw/listings/quantitative-trading-analyst-intern-2551092) |
 | [Intuit](https://talenteq.intuit.com/ucs?cid=elq-form_hs_698061_US_UR-FY23_lg_iac-msg4_link_intuit-talentmktg) | Multiple Locations | [2024 Summer Internship Interest](https://talenteq.intuit.com/ucs?cid=elq-form_hs_698061_US_UR-FY23_lg_iac-msg4_link_intuit-talentmktg)
-
+| Truist | Charlotte, NC <br/> Atlanta, GA | [2024 Technology and Innovation Internship](https://careers.truist.com/us/en/job/TBJTBFUSR0078021EXTERNALENUS/2024-Technology-and-Innovation-Internship?utm_source=indeed&utm_medium=phenom-feeds)
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2024-Internships#the-list-)
