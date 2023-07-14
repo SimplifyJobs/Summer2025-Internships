@@ -72,7 +72,6 @@ NoneType: None
 2023-07-06 17:23:37,515 - log - INFO - parsing file: README-Off-Season.md
 2023-07-06 17:23:37,515 - log - INFO - parsing file: README-2023.md
 2023-07-06 17:23:37,529 - log - INFO - dumped json file with 666 job listings
-<<<<<<< HEAD
 2023-07-06 14:39:31,703 - log - INFO - Running main() in main.py
 2023-07-06 14:39:31,704 - log - INFO - parsing file: README.md
 2023-07-06 14:39:31,704 - log - INFO - parsing file: README-Off-Season.md
@@ -130,14 +129,6 @@ NoneType: None
 2023-07-06 15:40:17,915 - log - INFO - parsing file: README-Off-Season.md
 2023-07-06 15:40:17,916 - log - INFO - parsing file: README-2023.md
 2023-07-06 15:40:17,923 - log - INFO - dumped json file with 25 job listings
-=======
-2023-07-06 17:25:35,490 - log - INFO - Running main() in main.py
-2023-07-06 17:25:35,490 - log - INFO - parsing file: README.md
-2023-07-06 17:25:35,491 - log - INFO - parsing file: README-Off-Season.md
-2023-07-06 17:25:35,491 - log - INFO - parsing file: README-2023.md
-2023-07-06 17:25:35,502 - log - INFO - dumped json file with 666 job listings
->>>>>>> e15b72ab4f88589b230a2292e33634125b1f440c
-<<<<<<< HEAD
 2023-07-07 15:27:42,897 - log - INFO - Running main() in main.py
 2023-07-07 15:27:42,898 - log - INFO - parsing file: README.md
 2023-07-07 15:27:42,898 - log - INFO - parsing file: README-Off-Season.md
@@ -148,10 +139,32 @@ NoneType: None
 2023-07-07 15:36:35,114 - log - INFO - parsing file: README-Off-Season.md
 2023-07-07 15:36:35,114 - log - INFO - parsing file: README-2023.md
 2023-07-07 15:36:35,120 - log - INFO - dumped json file with 25 job listings
-=======
-2023-07-06 19:42:15,101 - log - INFO - Running main() in main.py
-2023-07-06 19:42:15,102 - log - INFO - parsing file: README.md
-2023-07-06 19:42:15,102 - log - INFO - parsing file: README-Off-Season.md
-2023-07-06 19:42:15,103 - log - INFO - parsing file: README-2023.md
-2023-07-06 19:42:15,113 - log - INFO - dumped json file with 25 job listings
->>>>>>> 3dfebae981f7f7306463bbc8b8f7d4af698fac32
+2023-07-11 13:59:10,232 - log - INFO - Running main() in main.py
+2023-07-11 13:59:10,232 - log - INFO - parsing file: README.md
+2023-07-11 13:59:10,233 - log - INFO - parsing file: README-Off-Season.md
+2023-07-11 13:59:10,233 - log - INFO - parsing file: README-2023.md
+2023-07-11 13:59:10,239 - log - INFO - dumped json file with 25 job listings
+2023-07-11 14:11:26,852 - log - INFO - parsing file: README.md
+2023-07-11 14:11:26,853 - log - INFO - parsing file: README-Off-Season.md
+2023-07-11 14:11:26,853 - log - INFO - parsing file: README-2023.md
+2023-07-11 14:12:15,257 - log - INFO - parsing file: README.md
+2023-07-11 14:12:15,258 - log - INFO - parsing file: README-Off-Season.md
+2023-07-11 14:12:15,258 - log - INFO - parsing file: README-2023.md
+2023-07-11 14:15:35,458 - log - INFO - parsing file: README.md
+2023-07-11 14:15:35,458 - log - INFO - parsing file: README-Off-Season.md
+2023-07-11 14:15:35,458 - log - INFO - parsing file: README-2023.md
+2023-07-11 14:17:49,650 - log - INFO - parsing file: README.md
+2023-07-11 14:17:49,651 - log - INFO - parsing file: README-Off-Season.md
+2023-07-11 14:17:49,651 - log - INFO - parsing file: README-2023.md
+2023-07-11 14:19:27,849 - log - INFO - parsing file: README.md
+2023-07-11 14:19:27,850 - log - INFO - parsing file: README-Off-Season.md
+2023-07-11 14:19:27,850 - log - INFO - parsing file: README-2023.md
+2023-07-11 14:20:18,784 - log - INFO - parsing file: README.md
+2023-07-11 14:20:18,785 - log - INFO - parsing file: README-Off-Season.md
+2023-07-11 14:20:18,785 - log - INFO - parsing file: README-2023.md
+2023-07-11 14:23:46,595 - log - INFO - parsing file: README.md
+2023-07-11 14:23:46,596 - log - INFO - parsing file: README-Off-Season.md
+2023-07-11 14:23:46,596 - log - INFO - parsing file: README-2023.md
+2023-07-11 14:24:00,561 - log - INFO - parsing file: README.md
+2023-07-11 14:24:00,561 - log - INFO - parsing file: README-Off-Season.md
+2023-07-11 14:24:00,562 - log - INFO - parsing file: README-2023.md
