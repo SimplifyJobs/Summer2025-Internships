@@ -109,6 +109,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Intuit](https://talenteq.intuit.com/ucs?cid=elq-form_hs_698061_US_UR-FY23_lg_iac-msg4_link_intuit-talentmktg) | Multiple Locations | [2024 Summer Internship Interest](https://talenteq.intuit.com/ucs?cid=elq-form_hs_698061_US_UR-FY23_lg_iac-msg4_link_intuit-talentmktg)
 | Truist | Charlotte, NC <br/> Atlanta, GA | [2024 Technology and Innovation Internship](https://careers.truist.com/us/en/job/TBJTBFUSR0078021EXTERNALENUS/2024-Technology-and-Innovation-Internship?utm_source=indeed&utm_medium=phenom-feeds)
 | Paycom | Oklahoma City, OK| [Software Analyst Intern](https://pc00.paycomonline.com/v4/ats/web.php/jobs/ViewJobDetails?job=54994&clientkey=A38173AIE92874820ALRE20847CDE927PIW76526) <br/> [Software Development Intern](https://pc00.paycomonline.com/v4/ats/web.php/jobs/ViewJobDetails?job=54611&clientkey=A38173AIE92874820ALRE20847CDE927PIW76526) (No Sponsorship) <br/> [Deployment Engineer Intern](https://pc00.paycomonline.com/v4/ats/web.php/jobs/ViewJobDetails?job=54971&clientkey=A38173AIE92874820ALRE20847CDE927PIW76526)
+| Point72 | New York, NY | [Summer 2024 Quantitative Developer Internship](https://careers.point72.com/CSJobDetail?jobName=summer-2024-quantitative-developer-internship&jobCode=CSS-0010069&retURL=/CSCareerSearch)
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2024-Internships#the-list-)
