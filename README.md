@@ -117,7 +117,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [BTIG](https://boards.greenhouse.io/btig27/jobs/6743060002?source=LinkedIn&utm_source=Simplify) | New York, NY <br /> San Francisco, CA | Summer 2024 Internship Program (Express Interest) (No Sponsorship)
 | [Rocket Lab](https://boards.greenhouse.io/rocketlab/jobs/5679154003) | Multiple Locations | Software Engineer Intern
 | [PDT Partners](https://boards.greenhouse.io/pdtpartners/jobs/4423823?utm_source=Simplify#app) | New York, NY | Software Engineer Intern
-
+| [Tower Research Capital](https://www.tower-research.com/open-positions/?gh_jid=4360111) | New York, NY | Quantitative Trader Intern
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2024-Internships#the-list-)
