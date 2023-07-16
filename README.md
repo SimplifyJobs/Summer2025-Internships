@@ -118,6 +118,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Rocket Lab](https://boards.greenhouse.io/rocketlab/jobs/5679154003) | Multiple Locations | Software Engineer Intern (U.S Citizenship Required) |
 | [PDT Partners](https://boards.greenhouse.io/pdtpartners/jobs/4423823?utm_source=Simplify#app) | New York, NY | Software Engineer Intern |
 | [Tower Research Capital](https://www.tower-research.com/open-positions/?gh_jid=4360111) | New York, NY | Quantitative Trader Intern |
+| [Citi](https://jobs.citi.com/job/new-york/nam-quantitative-analysis-summer-analyst-new-york-city-north-america-2024/287/51453955504) | New York, NY | Quantitative Analysis Intern |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2024-Internships#the-list-)
