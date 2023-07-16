@@ -115,7 +115,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | PwC | Multiple Locations | [Digital Assurance & Transparency Technology Intern](https://jobs.us.pwc.com/job/atlanta/digital-assurance-and-transparency-dat-tech-intern-summer-2024/932/51608860064) (No Sponsorship) <br/> [Digital Assurance & Transparency Data Science Intern](https://jobs.us.pwc.com/job/los-angeles/digital-assurance-and-transparency-dat-data-intern-summer-2024/932/51608839968) (No Sponsorship) |
 | [Zurich](https://www.careers.zurich.com/job/Schaumburg-Zurich-North-America-Summer-Internship-Program-%282024%29-IL-60159/774993902/?feedId=335902&utm_source=LinkedInJobPostings&utm_campaign=ZurichIns_LinkedIn) | Multiple Locations | Summer 2024 Internship Program (No Sponsorship) |
 | [BTIG](https://boards.greenhouse.io/btig27/jobs/6743060002?source=LinkedIn&utm_source=Simplify) | New York, NY <br/> San Francisco, CA | Summer 2024 Internship Program (Express Interest) (No Sponsorship) |
-| [Rocket Lab](https://boards.greenhouse.io/rocketlab/jobs/5679154003) | Multiple Locations | Software Engineer Intern |
+| [Rocket Lab](https://boards.greenhouse.io/rocketlab/jobs/5679154003) | Multiple Locations | Software Engineer Intern (U.S Citizenship Required) |
 | [PDT Partners](https://boards.greenhouse.io/pdtpartners/jobs/4423823?utm_source=Simplify#app) | New York, NY | Software Engineer Intern |
 | [Tower Research Capital](https://www.tower-research.com/open-positions/?gh_jid=4360111) | New York, NY | Quantitative Trader Intern |
 
