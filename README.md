@@ -119,6 +119,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [PDT Partners](https://boards.greenhouse.io/pdtpartners/jobs/4423823?utm_source=Simplify#app) | New York, NY | Software Engineer Intern |
 | [Tower Research Capital](https://www.tower-research.com/open-positions/?gh_jid=4360111) | New York, NY | Quantitative Trader Intern |
 | [Citi](https://jobs.citi.com/job/new-york/nam-quantitative-analysis-summer-analyst-new-york-city-north-america-2024/287/51453955504) | New York, NY | Quantitative Analysis Intern |
+| [Walmart](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/XMLNAME-2024-Summer-Intern--Data-Scientist_R-1452385?source=Job_Board_LinkedIn&_ccid=1684206136201x8py9ztib) | Bentonville, AR | 2024 Summer Intern: Data Scientist |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2024-Internships#the-list-)
