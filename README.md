@@ -120,6 +120,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Tower Research Capital](https://www.tower-research.com/open-positions/?gh_jid=4360111) | New York, NY | Quantitative Trader Intern |
 | [Citi](https://jobs.citi.com/job/new-york/nam-quantitative-analysis-summer-analyst-new-york-city-north-america-2024/287/51453955504) | New York, NY | Quantitative Analysis Intern |
 | [Panasonic](https://careers.na.panasonic.com/careers/software-electrical-engineer-intern?__jvsd=LinkedIn&__jvst=Job%20Board&nl=1) | The Colony, TX | Software Electrical Engineer Intern |
+| [Internet Brands](https://jobs.jobvite.com/internetbrands/job/oUZQnfwQ?__jvst=Job%20Board&__jvsd=LinkedIn) | Los Angeles, California | [Intern Software Engineer](https://jobs.jobvite.com/internetbrands/job/oUZQnfwQ?__jvst=Job%20Board&__jvsd=LinkedIn) |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2024-Internships#the-list-)
