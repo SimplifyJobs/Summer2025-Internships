@@ -1,2 +1,2 @@
-| Company | Company Bio | Location | Title | Link | Status | 
-|  --- |  --- |  --- |  --- |  --- |  --- | 
+| Company | Location | Position | Link | Status |
+| --- | --- | --- | --- | --- |
