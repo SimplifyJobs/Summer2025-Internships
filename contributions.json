@@ -1,7 +1,7 @@
 [
     {
         "company_name": "ExampleCompany",
-        "company_description": "This is a short description of the company and what they do.",
+        "company_bio": "This is a short description of the company and what they do.",
         "title": "Software Engineering Internship Example",
         "start_date": 1688695606,
         "url": "example.com/this/is/a/link/to/the/job/posting",
@@ -15,7 +15,7 @@
     },
     {
         "company_name": "WOAH",
-        "company_description": "This is a short description of the company and what they do.",
+        "company_bio": "This is a short description of the company and what they do.",
         "title": "Software Engineering Internship Example",
         "start_date": 1688695606,
         "url": "example.com/this/is/a/link/to/the/job/posting",
