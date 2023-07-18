@@ -1,5 +1,5 @@
 # Contributing to the Internship List
-Thank you for your interest in contributing to the Pitt CSC internship list!
+Thank you for your interest in contributing to the Pitt CSC and Simplify internship list!
 
 Below, you'll find the guidelines for our repository. If you have any questions, please create an [issue](https://github.com/pittcsc/Summer2024-Internships/issues/new) here.
 
@@ -60,17 +60,20 @@ To add a new internship, simply copy the example template, add it to the list at
 | **company_name**| `str`            | Name of company                                      |
 | **company_bio** | `str`            | Short description of company, what they do, etc.     |
 | **title**       | `str`            | Name of internship position                          |
-| **start_date**  | `str`            | Start date of internship (format: YYYY-MM-DD)        |
+| **start_date**  | `str`            | Start date of internship (format: DD/MM/YYYY)        |
 | **url**         | `str`            | Link to job posting                                  |
-| **location**    | `[str]`          | Array of locations available for internship          |
+| **location**    | `[str]`          | Array of locations available for internship (include "Remote" if there is remote option)          |
 | **active**      | `bool`           | `true` (`false` if no longer accepting apps)         |
-| **source**      | `str`            | "Contribution" (Don't change)                        |
+| **source**      | `str`            | "Contribution" (Don't change. 'Simplify' denotes internship added from Simplify's database)                        |
 
 When you are done, the file should look something like this:
 ```json
 [
     {
         ...example object
+    },
+    {
+        ...yours or someone else's submission
     },
     {
         "company_name": "New Internship Company",
