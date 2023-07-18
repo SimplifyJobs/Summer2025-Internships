@@ -33,7 +33,7 @@ First, be sure to [fork](https://github.com/pittcsc/Summer2024-Internships/fork)
 
 Open **contributions.json** and add a list item there with the information about the position. Please make a unique list entry for each unique position even if they are for the same company.
 
-The file will look something like this:
+All new contributions will go to this file before being automatically added to the appropriate markdown file. In this JSON file there will be at least one list item which shows an example of what a new contribution will look like. The file will look something like this:
 ```json
 [
     {
@@ -53,9 +53,32 @@ The file will look something like this:
 ]
 ```
 
+To add a new internship, simply copy the example template, add it to the list at the bottom and fill in all the corresponding information. Here are more specifics about what each property should entail:
+-Test: test
+-test: test
 
+When you are done, the file should look something like this:
+```json
+[
+    {
+        ...example object
+    },
+    {
+        "company_name": "New Internship Company",
+        "company_bio": "This is a short description of the company and what they do.",
+        "title": "Job Title",
+        "start_date": "05/1/2024",
+        "url": "company.com/internship",
+        "location": [
+            "San Francisco, CA"
+        ],
+        "active": true,
+        "source": "Contribution"
+    }
+]
+```
 
-We have a script that runs once daily which will automatically add your contribution to the appropriate page in a row that looks something like this:
+We have a script that runs once daily, which will automatically add your contribution to the appropriate page in a row that looks something like this:
 ```md
 | Company | Bio | Location | Role | Link | Status |
 | --- | --- | --- | --- | --- | --- |
@@ -70,7 +93,7 @@ When rendered, it will look like:
 
 
 ## Editing an Internship
-There aren't any specific guidelines here. As long as it is consistent with what we have above, then it should be fine.
+To edit an internship (changing links, setting as inactive, changing start date, etc.), first, find the corresponding internship's entry in listings.json. Then pretend you are adding it as a new internship and follow the instructions above. Copy and paste the corresponding fields and change whichever ones need to be changed. Please only include the fields specified in the Adding an Internship section **plus the id field**. This is how we will make sure your edits replace the only internship.
 
 ## Done with Changes?
 Once you're done with your changes, please create a **pull request** (for more information, click [here](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)). We will review your pull request and suggest changes if necessary.
