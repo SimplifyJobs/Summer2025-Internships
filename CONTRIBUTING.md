@@ -54,8 +54,8 @@ All new contributions will go to this file before being automatically added to t
 ```
 
 To add a new internship, simply copy the example template, add it to the list at the bottom and fill in all the corresponding information. Here are more specifics about what each property should entail:
--Test: test
--test: test
+- Test: test
+- test: test
 
 When you are done, the file should look something like this:
 ```json
