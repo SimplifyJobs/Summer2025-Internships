@@ -54,8 +54,14 @@ All new contributions will go to this file before being automatically added to t
 ```
 
 To add a new internship, simply copy the example template, add it to the list at the bottom and fill in all the corresponding information. Here are more specifics about what each property should entail:
-- Test: test
-- test: test
+- company_name: str = name of company
+- company_bio: str = short description of company, what they do, what they stand for, or whatever feels right
+- title: str = name of internship position
+- start_date: str = start date of internship (please follow the date format so my script doesn't crash)
+- url: str = link to job posting
+- location: [str] = Array of locations available for internship. If just one, only add one list item. If remote option, include here.
+- active: bool = true (false if no longer accepting applications)
+- source: str = "Contribution" (Don't change)
 
 When you are done, the file should look something like this:
 ```json
