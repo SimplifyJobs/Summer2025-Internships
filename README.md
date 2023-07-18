@@ -44,6 +44,7 @@ means that internship is supported by Simplify, and you can apply with just one 
 
 | Company | Bio | Location | Role | Link | Status |
 | --- | --- | --- | --- | --- | --- |
+| **[Facebook]()** | I don't even know but i guess we'll see | SF, CA  | Software Engineering Internship | [Job Posting](google.com) | ✅ |
 
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
 
