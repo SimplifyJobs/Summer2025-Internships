@@ -19,11 +19,9 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
   </p>
 </div>
 
-This badge
-<a href="https://simplify.jobs"><img src="https://res.cloudinary.com/dpeo4xcnc/image/upload/v1636594918/simplify_pittcsc.png" width="150" alt="Simplify" /></a>
-designates an internship supported by Simplify, and you can apply with just one click!
-
 ## The List 🚴🏔
+><a href="https://simplify.jobs"><img src="https://res.cloudinary.com/dpeo4xcnc/image/upload/v1636594918/simplify_pittcsc.png" width="150" alt="Simplify" /></a>
+>This badge designates an internship supported by Simplify, and you can apply with just one click!
 
 > **Note**:
 > This README file is for **Summer 2024 internships only**. For Summer 2023 internships, please [click here](https://github.com/pittcsc/Summer2024-Internships/blob/dev/README-2023.md).
