@@ -1006,5 +1006,23 @@
             "Remote"
         ],
         "company_url": "https://simplify.jobs/p/84111ccb-6419-453b-bd90-efae0ffbe529"
+    },
+    {
+        "company_name": "YEHA YEAKNELGKENRLG",
+        "company_bio": "This is a short description of the company and what they do.",
+        "title": "Software Engineering Internship Example",
+        "start_date": 1716163200,
+        "url": "example.com/this/is/a/link/to/the/job/posting",
+        "location": [
+            "City 1, State",
+            "Location 2",
+            "Remote"
+        ],
+        "active": true,
+        "source": "Contribution",
+        "company_logo": "",
+        "id": "fe74fda8-5be6-425b-ae97-02902bcd4940",
+        "updated_date": 1689709189,
+        "company_url": ""
     }
 ]
