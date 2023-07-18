@@ -53,7 +53,7 @@ All new contributions will go to this file before being automatically added to t
 ]
 ```
 
-To add a new internship, simply copy the example template, add it to the list at the bottom and fill in all the corresponding information. Here are more specifics about what each property means:
+To add a new internship, copy the example template, add it to the list at the bottom, and fill in all the corresponding information. Here are more specifics about what each property means:
 
 | Property Name   | Data Type        | Description                                          |
 | --------------- | ---------------- | ---------------------------------------------------- |
@@ -66,15 +66,13 @@ To add a new internship, simply copy the example template, add it to the list at
 | **active**      | `bool`           | `true` (`false` if no longer accepting apps)         |
 | **source**      | `str`            | "Contribution" (Don't change. 'Simplify' denotes internship added from Simplify's database)                        |
 
-When you are done, the file should look something like this:
+The file should look something like this:
 ```json
 [
     {
         ...example object
     },
-    {
-        ...yours or someone else's submission
-    },
+    ...
     {
         "company_name": "New Internship Company",
         "company_bio": "This is a short description of the company and what they do.",
@@ -95,7 +93,7 @@ Once you are finished, submit your internship(s) by creating a **pull-request** 
 To edit an internship (changing links, setting as inactive, changing start date, etc.), follow these steps:
 1) Find the corresponding internship's entry in `listings.json`.
 2) Pretend you are adding it as a new internship and follow the instructions above.
-3) Copy and paste the corresponding fields and change whichever ones need to be changed.
+3) Copy and paste the corresponding fields from `listings.json` to `contributions.json` and change whichever ones need to be changed.
 > Please only include the fields specified in the Adding an Internship section **AND the id field**. This is how we will make sure your edits replace the only internship.
 4) Submit a pull request as detailed below.
 
