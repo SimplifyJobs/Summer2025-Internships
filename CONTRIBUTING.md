@@ -31,7 +31,7 @@ Cool! You're ready to add an internship to the list.
 
 First, be sure to [fork](https://github.com/pittcsc/Summer2024-Internships/fork) (see [this guide](https://docs.github.com/en/get-started/quickstart/fork-a-repo) for more information) the repository. This is how you will be able to make your changes.
 
-Open **contributions.json** and add a list item there with the information about the position. Please make a unique list entry for each unique position even if they are for the same company.
+Open `contributions.json` and add a list item there with the information about the position. Please make a unique list entry for each unique position even if they are for the same company.
 
 All new contributions will go to this file before being automatically added to the appropriate markdown file. In this JSON file there will be at least one list item which shows an example of what a new contribution will look like. The file will look something like this:
 ```json
@@ -53,15 +53,18 @@ All new contributions will go to this file before being automatically added to t
 ]
 ```
 
-To add a new internship, simply copy the example template, add it to the list at the bottom and fill in all the corresponding information. Here are more specifics about what each property should entail:
-- company_name: str = name of company
-- company_bio: str = short description of company, what they do, what they stand for, or whatever feels right
-- title: str = name of internship position
-- start_date: str = start date of internship (please follow the date format so my script doesn't crash)
-- url: str = link to job posting
-- location: [str] = Array of locations available for internship. If just one, only add one list item. If remote option, include here.
-- active: bool = true (false if no longer accepting applications)
-- source: str = "Contribution" (Don't change)
+To add a new internship, simply copy the example template, add it to the list at the bottom and fill in all the corresponding information. Here are more specifics about what each property means:
+
+| Property Name   | Data Type        | Description                                          |
+| --------------- | ---------------- | ---------------------------------------------------- |
+| **company_name**| `str`            | Name of company                                      |
+| **company_bio** | `str`            | Short description of company, what they do, etc.     |
+| **title**       | `str`            | Name of internship position                          |
+| **start_date**  | `str`            | Start date of internship (format: YYYY-MM-DD)        |
+| **url**         | `str`            | Link to job posting                                  |
+| **location**    | `[str]`          | Array of locations available for internship          |
+| **active**      | `bool`           | `true` (`false` if no longer accepting apps)         |
+| **source**      | `str`            | "Contribution" (Don't change)                        |
 
 When you are done, the file should look something like this:
 ```json
@@ -83,8 +86,21 @@ When you are done, the file should look something like this:
     }
 ]
 ```
+Once you are finished, submit your internship(s) by creating a **pull-request** (See Below)
 
-We have a script that runs once daily, which will automatically add your contribution to the appropriate page in a row that looks something like this:
+## Editing an Internship
+To edit an internship (changing links, setting as inactive, changing start date, etc.), follow these steps:
+1) Find the corresponding internship's entry in `listings.json`.
+2) Pretend you are adding it as a new internship and follow the instructions above.
+3) Copy and paste the corresponding fields and change whichever ones need to be changed.
+> Please only include the fields specified in the Adding an Internship section **AND the id field**. This is how we will make sure your edits replace the only internship.
+4) Submit a pull request as detailed below.
+
+## Done with Changes?
+Once you're done with your changes, please create a **pull request** (for more information, click [here](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)). We will review your pull request and suggest changes if necessary.
+
+## Adding to the Markdown Table
+We have a script that will automatically add your contribution to the appropriate page in a row that looks something like this:
 ```md
 | Company | Bio | Location | Role | Link | Status |
 | --- | --- | --- | --- | --- | --- |
@@ -97,9 +113,3 @@ When rendered, it will look like:
 | --- | --- | --- | --- | --- | --- |
 | [ExampleCompany]() | This is a short description of the company and what they do. | Location | Software Engineering Internship Example | [Job Posting]() | ✅ |
 
-
-## Editing an Internship
-To edit an internship (changing links, setting as inactive, changing start date, etc.), first, find the corresponding internship's entry in listings.json. Then pretend you are adding it as a new internship and follow the instructions above. Copy and paste the corresponding fields and change whichever ones need to be changed. Please only include the fields specified in the Adding an Internship section **plus the id field**. This is how we will make sure your edits replace the only internship.
-
-## Done with Changes?
-Once you're done with your changes, please create a **pull request** (for more information, click [here](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)). We will review your pull request and suggest changes if necessary.
