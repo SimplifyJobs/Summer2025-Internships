@@ -10,30 +10,18 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 
 > Contributing is now easier than ever! Take a look at `CONTRIBUTING.md` for the guidelines.
 
----
-
 <div align="center">
+  <h3>
+    Thanks for a great three years 💖💖
+  </h3>
   <p>
-    <a href="https://simplify.jobs/?utm_source=pittcsc&utm_medium=internships_repo">
-      <b>Applying to internships?</b>
-      <br>
-      Autofill all your applications in a single click.
-      <br>
-      <div>
-        <a href="https://simplify.jobs/?utm_source=pittcsc&utm_medium=internships_repo">
-          <img src="https://res.cloudinary.com/dpeo4xcnc/image/upload/v1636594918/simplify_pittcsc.png" width="450" alt="Simplify">
-        </a>
-      </div>
-    </a>
-    <sub><i>Stop manually re-entering your information. Simplify’s extension helps you autofill internship applications on millions of sites.</i></sub>
+    <img src="https://api.star-history.com/svg?repos=pittcsc/Summer2024-Internships&type=Date" width="500" alt="Star History">
   </p>
 </div>
 
----
-
-Anywhere you see this badge:
-<img src="https://res.cloudinary.com/dpeo4xcnc/image/upload/v1636594918/simplify_pittcsc.png" width="150" alt="Simplify">
-means that internship is supported by Simplify, and you can apply with just one click!
+This badge
+<a href="https://simplify.jobs"><img src="https://res.cloudinary.com/dpeo4xcnc/image/upload/v1636594918/simplify_pittcsc.png" width="150" alt="Simplify" /></a>
+designates an internship supported by Simplify, and you can apply with just one click!
 
 ## The List 🚴🏔
 
