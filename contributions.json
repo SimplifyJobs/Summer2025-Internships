@@ -12,17 +12,5 @@
         ],
         "active": true,
         "source": "Contribution"
-    },
-    {
-        "company_name": "Facebook",
-        "company_bio": "I don't even know but i guess we'll see",
-        "title": "Software Engineering Internship",
-        "start_date": "05/26/2024",
-        "url": "google.com",
-        "location": [
-            "SF, CA"
-        ],
-        "active": true,
-        "source": "Contribution"
     }
 ]
