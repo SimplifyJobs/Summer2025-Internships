@@ -66,7 +66,7 @@ To add a new internship, copy the example template, add it to the list at the bo
 | **active**      | `bool`           | `true` (`false` if no longer accepting apps)         |
 | **source**      | `str`            | "Contribution" (Don't change. 'Simplify' denotes internship added from Simplify's database)                        |
 
-The file should look something like this:
+After adding your submission, the file should look something like this:
 ```json
 [
     {
@@ -74,7 +74,7 @@ The file should look something like this:
     },
     ...
     {
-        "company_name": "New Internship Company",
+        "company_name": "Your Submission Company Name",
         "company_bio": "This is a short description of the company and what they do.",
         "title": "Job Title",
         "start_date": "05/1/2024",
