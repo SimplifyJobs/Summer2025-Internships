@@ -1,16 +1,1484 @@
 [
     {
-        "company_name": "ExampleCompany",
-        "company_bio": "This is a short description of the company and what they do.",
-        "title": "Software Engineering Internship Example",
-        "start_date": "MM/DD/YYYY",
-        "url": "example.com/this/is/a/link/to/the/job/posting",
-        "location": [
-            "City 1, State",
-            "Location 2",
-            "Remote"
-        ],
+        "source": "Contribution",
+        "company_logo": "",
+        "company_name": "Goldman Sachs",
+        "company_bio": "Not Implemented",
+        "id": "1fa99d23-1092-4024-a992-b1ac6b637675",
+        "title": "Summer 2024 Analyst",
         "active": true,
-        "source": "Contribution"
+        "start_date": "05/21/2024",
+        "updated_date": "07/19/2023",
+        "url": "https://www.goldmansachs.com/careers/students/programs/americas/summer-analyst-program.html",
+        "location": [
+            "Global"
+        ],
+        "company_url": ""
+    },
+    {
+        "source": "Contribution",
+        "company_logo": "",
+        "company_name": "KPMG",
+        "company_bio": "Not Implemented",
+        "id": "2bf1d441-48ea-4b87-a094-b61ff0a2a500",
+        "title": "Summer 2024 Engineering & IT Internship (No sponsorship available)",
+        "active": true,
+        "start_date": "05/21/2024",
+        "updated_date": "07/19/2023",
+        "url": "https://app.ripplematch.com/v2/public/job/6f5894f6/details?utm_source=RM&utm_medium=organic_social&utm_campaign=growth_github&utm_content=kpmg&utm_term=null",
+        "location": [
+            "Multiple Locations"
+        ],
+        "company_url": ""
+    },
+    {
+        "source": "Contribution",
+        "company_logo": "",
+        "company_name": "Optiver",
+        "company_bio": "Not Implemented",
+        "id": "e1643fba-1f22-4168-8db2-27df9fc817b8",
+        "title": "Quantitative Trader Intern (Summer 2024 \u2013 Chicago)",
+        "active": true,
+        "start_date": "05/21/2024",
+        "updated_date": "07/19/2023",
+        "url": "https://optiver.com/working-at-optiver/career-opportunities/6793142002/",
+        "location": [
+            "Chicago, IL ",
+            " Austin, TX"
+        ],
+        "company_url": ""
+    },
+    {
+        "source": "Contribution",
+        "company_logo": "",
+        "company_name": "Optiver",
+        "company_bio": "Not Implemented",
+        "id": "e1643fba-1f22-4168-8db2-27df9fc817b8",
+        "title": "HFT Research Intern (Summer 2024 \u2013 Austin)",
+        "active": true,
+        "start_date": "05/21/2024",
+        "updated_date": "07/19/2023",
+        "url": "https://optiver.com/working-at-optiver/career-opportunities/6796767002/",
+        "location": [
+            "Chicago, IL ",
+            " Austin, TX"
+        ],
+        "company_url": ""
+    },
+    {
+        "source": "Contribution",
+        "company_logo": "",
+        "company_name": "Optiver",
+        "company_bio": "Not Implemented",
+        "id": "e1643fba-1f22-4168-8db2-27df9fc817b8",
+        "title": "Software Engineer Intern (Summer 2024 \u2013 Austin)",
+        "active": true,
+        "start_date": "05/21/2024",
+        "updated_date": "07/19/2023",
+        "url": "https://optiver.com/working-at-optiver/career-opportunities/6837118002/?_gl=1*15kjubu*_up*MQ..&gclid=CjwKCAjw-7OlBhB8EiwAnoOEk9DE1HiDcs8Rzl5UWzLbMcHX2U_phUQrWHrl4A-soUm_cw8fMfCC3BoCcBcQAvD_BwE",
+        "location": [
+            "Chicago, IL ",
+            " Austin, TX"
+        ],
+        "company_url": ""
+    },
+    {
+        "source": "Contribution",
+        "company_logo": "",
+        "company_name": "Optiver",
+        "company_bio": "Not Implemented",
+        "id": "e1643fba-1f22-4168-8db2-27df9fc817b8",
+        "title": "Software Engineer Intern (Summer 2024 \u2013 Chicago)",
+        "active": true,
+        "start_date": "05/21/2024",
+        "updated_date": "07/19/2023",
+        "url": "https://optiver.com/working-at-optiver/career-opportunities/6837103002/?_gl=1*rzd3uv*_up*MQ..&gclid=CjwKCAjw-7OlBhB8EiwAnoOEk9DE1HiDcs8Rzl5UWzLbMcHX2U_phUQrWHrl4A-soUm_cw8fMfCC3BoCcBcQAvD_BwE",
+        "location": [
+            "Chicago, IL ",
+            " Austin, TX"
+        ],
+        "company_url": ""
+    },
+    {
+        "source": "Contribution",
+        "company_logo": "",
+        "company_name": "BlackRock",
+        "company_bio": "Not Implemented",
+        "id": "2dff66f6-3556-477c-9de3-a64e2770bda8",
+        "title": "Summer 2024 Internship Program",
+        "active": true,
+        "start_date": "05/21/2024",
+        "updated_date": "07/19/2023",
+        "url": "https://blackrock.tal.net/vx/lang-en-GB/mobile-0/brand-3/xf-232eb66ac89a/candidate/so/pm/1/pl/1/opp/7894-Summer-Internship-Program-Americas/en-GB",
+        "location": [
+            "Americas"
+        ],
+        "company_url": ""
+    },
+    {
+        "source": "Contribution",
+        "company_logo": "",
+        "company_name": "Walmart",
+        "company_bio": "Not Implemented",
+        "id": "69f3eeb5-921d-4bc5-a3fc-54ebcfb229a2",
+        "title": "2024 Summer Intern: Software Engineer II (No sponsorship available) (Must be enrolled in a Bachelor\u2019s degree program currently)",
+        "active": true,
+        "start_date": "05/21/2024",
+        "updated_date": "07/19/2023",
+        "url": "https://careers.walmart.com/us/jobs/WD1391200-2024-summer-intern-software-engineer-ii-bentonville-ar",
+        "location": [
+            "Bentonville, AR"
+        ],
+        "company_url": ""
+    },
+    {
+        "source": "Contribution",
+        "company_logo": "",
+        "company_name": "AQR Capital Management, LLC",
+        "company_bio": "Not Implemented",
+        "id": "be771295-fede-43a4-b068-bd34b292f081",
+        "title": "2024 Summer Internship-Express Interest",
+        "active": true,
+        "start_date": "05/21/2024",
+        "updated_date": "07/19/2023",
+        "url": "https://careers.aqr.com/jobs/university-open-positions/greenwich-ct/2024-summer-internship-express-interest/4478927",
+        "location": [
+            "Greenwich, CT"
+        ],
+        "company_url": ""
+    },
+    {
+        "source": "Contribution",
+        "company_logo": "",
+        "company_name": "Epic",
+        "company_bio": "Not Implemented",
+        "id": "3efb7f03-7889-4024-a63f-fea46e586177",
+        "title": "Software Developer Intern - Summer 2024 (No sponsorship available)",
+        "active": true,
+        "start_date": "05/21/2024",
+        "updated_date": "07/19/2023",
+        "url": "https://epic.avature.net/Careers/FolderDetail/Software-Developer-Intern---Summer-2024/23429",
+        "location": [
+            "Madison, WI"
+        ],
+        "company_url": ""
+    },
+    {
+        "source": "Contribution",
+        "company_logo": "",
+        "company_name": "Apple",
+        "company_bio": "Not Implemented",
+        "id": "ccaedc18-892e-4922-bd9e-1f2b999c2dd7",
+        "title": "Software Engineering Internships (Express Interest)",
+        "active": true,
+        "start_date": "05/21/2024",
+        "updated_date": "07/19/2023",
+        "url": "https://jobs.apple.com/en-us/details/200480063/software-engineering-internships",
+        "location": [
+            "Multiple US Locations"
+        ],
+        "company_url": ""
+    },
+    {
+        "source": "Contribution",
+        "company_logo": "",
+        "company_name": "Apple",
+        "company_bio": "Not Implemented",
+        "id": "ccaedc18-892e-4922-bd9e-1f2b999c2dd7",
+        "title": "ML/AI Internships (Express Interest)",
+        "active": true,
+        "start_date": "05/21/2024",
+        "updated_date": "07/19/2023",
+        "url": "https://jobs.apple.com/en-us/details/200480066/machine-learning-ai-internships",
+        "location": [
+            "Multiple US Locations"
+        ],
+        "company_url": ""
+    },
+    {
+        "source": "Contribution",
+        "company_logo": "",
+        "company_name": "Apple",
+        "company_bio": "Not Implemented",
+        "id": "ccaedc18-892e-4922-bd9e-1f2b999c2dd7",
+        "title": "Engineering PM Internships (Express Interest)",
+        "active": true,
+        "start_date": "05/21/2024",
+        "updated_date": "07/19/2023",
+        "url": "https://jobs.apple.com/en-us/details/200480064/engineering-program-management-internships",
+        "location": [
+            "Multiple US Locations"
+        ],
+        "company_url": ""
+    },
+    {
+        "source": "Contribution",
+        "company_logo": "",
+        "company_name": "Neuralink",
+        "company_bio": "Not Implemented",
+        "id": "09efc9b1-6cf1-4780-8001-dafe7e379664",
+        "title": "Fremont, CA",
+        "active": true,
+        "start_date": "05/21/2024",
+        "updated_date": "07/19/2023",
+        "url": "https://boards.greenhouse.io/neuralink/jobs/5285389003",
+        "location": [
+            "Fremont, CA ",
+            " Austin, TX"
+        ],
+        "company_url": ""
+    },
+    {
+        "source": "Contribution",
+        "company_logo": "",
+        "company_name": "Neuralink",
+        "company_bio": "Not Implemented",
+        "id": "09efc9b1-6cf1-4780-8001-dafe7e379664",
+        "title": "Austin, TX",
+        "active": true,
+        "start_date": "05/21/2024",
+        "updated_date": "07/19/2023",
+        "url": "https://boards.greenhouse.io/neuralink/jobs/5552197003",
+        "location": [
+            "Fremont, CA ",
+            " Austin, TX"
+        ],
+        "company_url": ""
+    },
+    {
+        "source": "Contribution",
+        "company_logo": "",
+        "company_name": "Certik",
+        "company_bio": "Not Implemented",
+        "id": "981a4cb3-8784-454e-a223-003efe4700ba",
+        "title": "Development Intern",
+        "active": true,
+        "start_date": "05/21/2024",
+        "updated_date": "07/19/2023",
+        "url": "https://jobs.lever.co/certik/2e33570a-f495-44ef-9d7d-a0c5a7fd8190",
+        "location": [
+            "NYC, NY ",
+            " Seattle, WA ",
+            " SF Bay Area, CA ",
+            " Remote"
+        ],
+        "company_url": ""
+    },
+    {
+        "source": "Contribution",
+        "company_logo": "",
+        "company_name": "Certik",
+        "company_bio": "Not Implemented",
+        "id": "981a4cb3-8784-454e-a223-003efe4700ba",
+        "title": "Platform Engineering Intern",
+        "active": true,
+        "start_date": "05/21/2024",
+        "updated_date": "07/19/2023",
+        "url": "https://jobs.lever.co/certik/095fdcff-99e8-408d-bb8a-e638e44d0b40",
+        "location": [
+            "NYC, NY ",
+            " Seattle, WA ",
+            " SF Bay Area, CA ",
+            " Remote"
+        ],
+        "company_url": ""
+    },
+    {
+        "source": "Contribution",
+        "company_logo": "",
+        "company_name": "Certik",
+        "company_bio": "Not Implemented",
+        "id": "981a4cb3-8784-454e-a223-003efe4700ba",
+        "title": "Full Stack Intern - Matrix",
+        "active": true,
+        "start_date": "05/21/2024",
+        "updated_date": "07/19/2023",
+        "url": "https://jobs.lever.co/certik/ca67aab6-9b8b-4c2f-ad80-ff5855292f48",
+        "location": [
+            "NYC, NY ",
+            " Seattle, WA ",
+            " SF Bay Area, CA ",
+            " Remote"
+        ],
+        "company_url": ""
+    },
+    {
+        "source": "Contribution",
+        "company_logo": "",
+        "company_name": "MosaicML",
+        "company_bio": "Not Implemented",
+        "id": "f03eeba7-3c2b-42dd-8059-c601f14cfe4e",
+        "title": "Research Scientist Intern",
+        "active": true,
+        "start_date": "05/21/2024",
+        "updated_date": "07/19/2023",
+        "url": "https://boards.greenhouse.io/mosaicml/jobs/4170454004",
+        "location": [
+            "SF and San Diego, CA ",
+            " NYC, NY"
+        ],
+        "company_url": ""
+    },
+    {
+        "source": "Contribution",
+        "company_logo": "",
+        "company_name": "Capstone Investment Advisors",
+        "company_bio": "Not Implemented",
+        "id": "279f772d-6285-48cb-bef6-2a73eab62e3c",
+        "title": "2024 Summer Internship \u2013 Software Engineer",
+        "active": true,
+        "start_date": "05/21/2024",
+        "updated_date": "07/19/2023",
+        "url": "https://www.capstoneco.com/careers/2024-summer-internship-software-engineer-nyc/?gh_jid=6784275002",
+        "location": [
+            "New York, NY"
+        ],
+        "company_url": ""
+    },
+    {
+        "source": "Contribution",
+        "company_logo": "",
+        "company_name": "D.E. Shaw",
+        "company_bio": "Not Implemented",
+        "id": "4e7f25ac-23f7-40fe-a586-58f0eb469d0b",
+        "title": "Software Development Intern (New York) - Summer 2024",
+        "active": true,
+        "start_date": "05/21/2024",
+        "updated_date": "07/19/2023",
+        "url": "https://www.deshaw.com/careers/software-developer-intern-new-york-summer-2024-4803",
+        "location": [
+            "New York, NY"
+        ],
+        "company_url": ""
+    },
+    {
+        "source": "Contribution",
+        "company_logo": "",
+        "company_name": "D.E. Shaw",
+        "company_bio": "Not Implemented",
+        "id": "4e7f25ac-23f7-40fe-a586-58f0eb469d0b",
+        "title": "Systems Technical Program Manager Intern (New York) \u2013 Summer 2024",
+        "active": true,
+        "start_date": "05/21/2024",
+        "updated_date": "07/19/2023",
+        "url": "https://www.deshaw.com/careers/systems-technical-program-manager-intern-new-york-summer-2024-4786",
+        "location": [
+            "New York, NY"
+        ],
+        "company_url": ""
+    },
+    {
+        "source": "Contribution",
+        "company_logo": "",
+        "company_name": "D.E. Shaw",
+        "company_bio": "Not Implemented",
+        "id": "4e7f25ac-23f7-40fe-a586-58f0eb469d0b",
+        "title": "Systems Administrator Intern (New York) - Summer 2024",
+        "active": true,
+        "start_date": "05/21/2024",
+        "updated_date": "07/19/2023",
+        "url": "https://www.deshaw.com/careers/systems-administrator-intern-new-york-summer-2024-4782",
+        "location": [
+            "New York, NY"
+        ],
+        "company_url": ""
+    },
+    {
+        "source": "Contribution",
+        "company_logo": "",
+        "company_name": "D.E. Shaw",
+        "company_bio": "Not Implemented",
+        "id": "4e7f25ac-23f7-40fe-a586-58f0eb469d0b",
+        "title": "Systems Technologist Intern (New York) - Summer 2024",
+        "active": true,
+        "start_date": "05/21/2024",
+        "updated_date": "07/19/2023",
+        "url": "https://www.deshaw.com/careers/systems-technologist-intern-new-york-summer-2024-4785",
+        "location": [
+            "New York, NY"
+        ],
+        "company_url": ""
+    },
+    {
+        "source": "Contribution",
+        "company_logo": "",
+        "company_name": "Bank of America",
+        "company_bio": "Not Implemented",
+        "id": "3d35c8c6-0c88-4036-9c55-73294dcf5378",
+        "title": "Global Technology Summer Analyst Program - 2024",
+        "active": true,
+        "start_date": "05/21/2024",
+        "updated_date": "07/19/2023",
+        "url": "https://bankcampuscareers.tal.net/vx/lang-en-GB/mobile-0/brand-4/xf-91c0e92d74a1/candidate/so/pm/1/pl/1/opp/10165-Global-Technology-Summer-Analyst-Program-2024/en-GB",
+        "location": [
+            "Multiple US Locations"
+        ],
+        "company_url": ""
+    },
+    {
+        "source": "Contribution",
+        "company_logo": "",
+        "company_name": "Protiviti",
+        "company_bio": "Not Implemented",
+        "id": "9c601003-9425-4f73-aee3-9148428c8972",
+        "title": "Technology Consulting Intern - 2024 Summer Internship (No Sponsorship)",
+        "active": true,
+        "start_date": "05/21/2024",
+        "updated_date": "07/19/2023",
+        "url": "https://roberthalf.wd1.myworkdayjobs.com/en-US/ProtivitiNA/job/PHOENIX/Phoenix-Technology-Consulting-Intern---2024_JR-248209-2?Location_Country=bc33aa3152ec42d4995f4791a106ed09&Location_Region_State_Province=c7b20b0d4bc04711a00900569e9afabd",
+        "location": [
+            "Phoenix, AZ"
+        ],
+        "company_url": ""
+    },
+    {
+        "source": "Contribution",
+        "company_logo": "",
+        "company_name": "Mercedes-Benz",
+        "company_bio": "Not Implemented",
+        "id": "a7accb42-e14a-4dfc-b7f5-e71f79498d28",
+        "title": "Data Products Intern",
+        "active": true,
+        "start_date": "05/21/2024",
+        "updated_date": "07/19/2023",
+        "url": "https://jobs.lever.co/MBRDNA/59ae463c-5d10-4bb6-9dfd-4e26c7d84a69",
+        "location": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": ""
+    },
+    {
+        "source": "Contribution",
+        "company_logo": "",
+        "company_name": "Palantir Technologies",
+        "company_bio": "Not Implemented",
+        "id": "da8d972b-42bd-4f05-bfc0-51d661625d24",
+        "title": "Palantir Path Intern (must be enrolled in a U.S. bachelor's program)",
+        "active": true,
+        "start_date": "05/21/2024",
+        "updated_date": "07/19/2023",
+        "url": "https://www.palantir.com/careers/students/path/",
+        "location": [
+            "New York, NY or Washington, DC"
+        ],
+        "company_url": ""
+    },
+    {
+        "source": "Contribution",
+        "company_logo": "",
+        "company_name": "Lumen Technologies",
+        "company_bio": "Not Implemented",
+        "id": "aca8934a-687c-4cba-8f56-63fc8184625a",
+        "title": "Intern - Summer 2024 Program - Submit Interest (U.S. work authorization required)",
+        "active": true,
+        "start_date": "05/21/2024",
+        "updated_date": "07/19/2023",
+        "url": "https://jobs.lumen.com/global/en/job/324980/Intern-Summer-2024-Program-Submit-Interest",
+        "location": [
+            "Remote, USA"
+        ],
+        "company_url": ""
+    },
+    {
+        "source": "Contribution",
+        "company_logo": "",
+        "company_name": "Marotta Controls",
+        "company_bio": "Not Implemented",
+        "id": "df6f7532-c654-4d16-843a-606dd6b1a37f",
+        "title": "Software Engineering Intern - (Summer 2024) (U.S citizens only)",
+        "active": true,
+        "start_date": "05/21/2024",
+        "updated_date": "07/19/2023",
+        "url": "https://marotta.com/job-openings/?gnk=job&gni=8a7883ac879c5eca0187ef4d715d4fd8&lang=en",
+        "location": [
+            "Parsippany, NJ"
+        ],
+        "company_url": ""
+    },
+    {
+        "source": "Contribution",
+        "company_logo": "",
+        "company_name": "RSM",
+        "company_bio": "Not Implemented",
+        "id": "187d0bdc-aaf7-4b24-a5fd-6ac1f08e6f5e",
+        "title": "Data Migration Consulting Intern",
+        "active": true,
+        "start_date": "05/21/2024",
+        "updated_date": "07/19/2023",
+        "url": "https://jobs.rsmus.com/job/18650418/data-migration-consulting-intern-summer-2024-dallas-tx/",
+        "location": [
+            "Denver, CO and Dallas, TX"
+        ],
+        "company_url": ""
+    },
+    {
+        "source": "Contribution",
+        "company_logo": "",
+        "company_name": "RSM",
+        "company_bio": "Not Implemented",
+        "id": "187d0bdc-aaf7-4b24-a5fd-6ac1f08e6f5e",
+        "title": "Intelligent Automation Consulting Intern",
+        "active": true,
+        "start_date": "05/21/2024",
+        "updated_date": "07/19/2023",
+        "url": "https://jobs.rsmus.com/job/17580693/intelligent-automation-consulting-intern-summer-2024-denver-co/",
+        "location": [
+            "Denver, CO and Dallas, TX"
+        ],
+        "company_url": ""
+    },
+    {
+        "source": "Contribution",
+        "company_logo": "",
+        "company_name": "Scholastic",
+        "company_bio": "Not Implemented",
+        "id": "ff3eba46-ca84-4687-a795-bdd442c09d8a",
+        "title": "Scholastic Summer Software Engineer Intern",
+        "active": true,
+        "start_date": "05/21/2024",
+        "updated_date": "07/19/2023",
+        "url": "https://scholastic.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York/Scholastic-Summer-Software-Engineer-Intern_R12104",
+        "location": [
+            "New York, NY"
+        ],
+        "company_url": ""
+    },
+    {
+        "source": "Contribution",
+        "company_logo": "",
+        "company_name": "Scholastic",
+        "company_bio": "Not Implemented",
+        "id": "ff3eba46-ca84-4687-a795-bdd442c09d8a",
+        "title": "Scholastic Summer Software Development Test Intern",
+        "active": true,
+        "start_date": "05/21/2024",
+        "updated_date": "07/19/2023",
+        "url": "https://scholastic.wd5.myworkdayjobs.com/en-US/External/job/Scholastic-Summer-Software-Development-Engineer-In-Test-Intern_R12103",
+        "location": [
+            "New York, NY"
+        ],
+        "company_url": ""
+    },
+    {
+        "source": "Contribution",
+        "company_logo": "",
+        "company_name": "Elbit Systems of America",
+        "company_bio": "Not Implemented",
+        "id": "80eefea9-3a6f-408b-8b76-e1fc4ce1bce4",
+        "title": "Software Engineering Intern (US Citizen)",
+        "active": true,
+        "start_date": "05/21/2024",
+        "updated_date": "07/19/2023",
+        "url": "https://jobs.smartrecruiters.com/ElbitSystemsOfAmerica/743999907500503-software-engineering-intern-ref1380b-",
+        "location": [
+            "Birdsboro, PA"
+        ],
+        "company_url": ""
+    },
+    {
+        "source": "Contribution",
+        "company_logo": "",
+        "company_name": "Accenture",
+        "company_bio": "Not Implemented",
+        "id": "ed780f7c-173c-4c8f-b0e6-435404d231c6",
+        "title": "Federal - Software Engineering Intern (US Citizen)",
+        "active": true,
+        "start_date": "05/21/2024",
+        "updated_date": "07/19/2023",
+        "url": "https://www.accenture.com/us-en/careers/jobdetails?id=R00155153_en",
+        "location": [
+            "Tampa, FL"
+        ],
+        "company_url": ""
+    },
+    {
+        "source": "Contribution",
+        "company_logo": "",
+        "company_name": "JPMorgan Chase",
+        "company_bio": "Not Implemented",
+        "id": "6f243aaa-1ec9-4212-bf80-db225cd2555c",
+        "title": "Software Engineer Intern (no sponsorship)",
+        "active": true,
+        "start_date": "05/21/2024",
+        "updated_date": "07/19/2023",
+        "url": "https://careers.jpmorgan.com/us/en/students/programs/software-engineer-summer",
+        "location": [
+            "Multiple Locations"
+        ],
+        "company_url": ""
+    },
+    {
+        "source": "Contribution",
+        "company_logo": "",
+        "company_name": "Citadel",
+        "company_bio": "Not Implemented",
+        "id": "6f76911a-d541-4505-9581-a30937158e0c",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "start_date": "05/21/2024",
+        "updated_date": "07/19/2023",
+        "url": "https://www.citadel.com/careers/details/software-engineer-intern-us/",
+        "location": [
+            "Chicago, IL or New York, NY"
+        ],
+        "company_url": ""
+    },
+    {
+        "source": "Contribution",
+        "company_logo": "",
+        "company_name": "Citadel",
+        "company_bio": "Not Implemented",
+        "id": "6f76911a-d541-4505-9581-a30937158e0c",
+        "title": "Investment & Trading Intern",
+        "active": true,
+        "start_date": "05/21/2024",
+        "updated_date": "07/19/2023",
+        "url": "https://www.citadel.com/careers/details/investment-trading-intern-us/",
+        "location": [
+            "Chicago, IL or New York, NY"
+        ],
+        "company_url": ""
+    },
+    {
+        "source": "Contribution",
+        "company_logo": "",
+        "company_name": "Citadel",
+        "company_bio": "Not Implemented",
+        "id": "6f76911a-d541-4505-9581-a30937158e0c",
+        "title": "Quant Researcher Intern (PhD)",
+        "active": true,
+        "start_date": "05/21/2024",
+        "updated_date": "07/19/2023",
+        "url": "https://www.citadel.com/careers/details/quantitative-researcher-phd-intern-us/",
+        "location": [
+            "Chicago, IL or New York, NY"
+        ],
+        "company_url": ""
+    },
+    {
+        "source": "Contribution",
+        "company_logo": "",
+        "company_name": "Citadel",
+        "company_bio": "Not Implemented",
+        "id": "6f76911a-d541-4505-9581-a30937158e0c",
+        "title": "Quantatative Research Analyst Intern",
+        "active": true,
+        "start_date": "05/21/2024",
+        "updated_date": "07/19/2023",
+        "url": "https://www.citadel.com/careers/details/quantitative-research-analyst-intern-us/",
+        "location": [
+            "Chicago, IL or New York, NY"
+        ],
+        "company_url": ""
+    },
+    {
+        "source": "Contribution",
+        "company_logo": "",
+        "company_name": "Two Sigma",
+        "company_bio": "Not Implemented",
+        "id": "1f30e225-ac6b-41be-9631-88cdd49ac92e",
+        "title": "Quantitative Researcher - Internship",
+        "active": true,
+        "start_date": "05/21/2024",
+        "updated_date": "07/19/2023",
+        "url": "https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Quantitative-Researcher-Internship-2024-Summer/12004",
+        "location": [
+            "New York, NY"
+        ],
+        "company_url": ""
+    },
+    {
+        "source": "Contribution",
+        "company_logo": "",
+        "company_name": "Zipline",
+        "company_bio": "Not Implemented",
+        "id": "988cb6ab-6e82-4286-b0fa-12a446a28974",
+        "title": "Summer 2024 Internship (Express Interest)",
+        "active": true,
+        "start_date": "05/21/2024",
+        "updated_date": "07/19/2023",
+        "url": "https://legacy.flyzipline.com/job?gh_jid=5631836003/",
+        "location": [
+            "San Francisco, CA"
+        ],
+        "company_url": ""
+    },
+    {
+        "source": "Contribution",
+        "company_logo": "",
+        "company_name": "Sandhills",
+        "company_bio": "Not Implemented",
+        "id": "ae184409-1259-433c-bd0b-33f7d6172f90",
+        "title": "Software Development Intern",
+        "active": true,
+        "start_date": "05/21/2024",
+        "updated_date": "07/19/2023",
+        "url": "https://www.sandhills.com/careers-and-internships/details/careers/sandhills/1195/software-development-intern",
+        "location": [
+            "Lincoln, Nebraska"
+        ],
+        "company_url": ""
+    },
+    {
+        "source": "Contribution",
+        "company_logo": "",
+        "company_name": "Entrust",
+        "company_bio": "Not Implemented",
+        "id": "57bc7d83-1ca6-4a98-91c7-563d02d3b049",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "start_date": "05/21/2024",
+        "updated_date": "07/19/2023",
+        "url": "https://entrust.wd1.myworkdayjobs.com/EntrustCareers/job/United-States---Sunrise-FL/Software-Engineering-Intern_R002369",
+        "location": [
+            "Sunrise, FL"
+        ],
+        "company_url": ""
+    },
+    {
+        "source": "Contribution",
+        "company_logo": "",
+        "company_name": "Enphase Energy",
+        "company_bio": "Not Implemented",
+        "id": "06fdaa14-48e2-4040-ade5-7c6af1b60d0b",
+        "title": "Embedded Firmware Engineer Intern",
+        "active": true,
+        "start_date": "05/21/2024",
+        "updated_date": "07/19/2023",
+        "url": "https://jobs.jobvite.com/enphase-energy/job/oFPRmfwr",
+        "location": [
+            "Austin, TX"
+        ],
+        "company_url": ""
+    },
+    {
+        "source": "Contribution",
+        "company_logo": "",
+        "company_name": "K\u00f6rber",
+        "company_bio": "Not Implemented",
+        "id": "d475cf4d-a262-439e-8905-51563f86e1e6",
+        "title": "Software Developer Intern",
+        "active": true,
+        "start_date": "05/21/2024",
+        "updated_date": "07/19/2023",
+        "url": "https://jobs.koerber.com/pharma/job/Fargo-Software-Developer-Intern-ND-58102/954269201/",
+        "location": [
+            "Fargo, ND"
+        ],
+        "company_url": ""
+    },
+    {
+        "source": "Contribution",
+        "company_logo": "",
+        "company_name": "Docugami",
+        "company_bio": "Not Implemented",
+        "id": "119e4a07-9a9a-408c-a6d5-5d0ca5517ba5",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "start_date": "05/21/2024",
+        "updated_date": "07/19/2023",
+        "url": "https://boards.greenhouse.io/docugami/jobs/4014838003",
+        "location": [
+            "Kirkland, WA"
+        ],
+        "company_url": ""
+    },
+    {
+        "source": "Contribution",
+        "company_logo": "",
+        "company_name": "SIG",
+        "company_bio": "Not Implemented",
+        "id": "905f4e88-bcc0-4542-94ad-d975be2eb07c",
+        "title": "Software Engineering Internship Program (Express Interest)",
+        "active": true,
+        "start_date": "05/21/2024",
+        "updated_date": "07/19/2023",
+        "url": "https://careers.sig.com/job/7102/Software-Engineering-Internship-Program-Summer-2024-Expression-of-Interest",
+        "location": [
+            "Bala Cynwyd, PA"
+        ],
+        "company_url": ""
+    },
+    {
+        "source": "Contribution",
+        "company_logo": "",
+        "company_name": "Northwestern Mutual",
+        "company_bio": "Not Implemented",
+        "id": "603fe40f-c2b9-49d6-afbe-4bd8aec5d46a",
+        "title": "Municipal Trading Analytics Intern (No Sponsorship)",
+        "active": true,
+        "start_date": "05/21/2024",
+        "updated_date": "07/19/2023",
+        "url": "https://careers.northwesternmutual.com/corporate-careers/job/public-investments-municipal-trading-analytics-internship-summer-2024-milwaukee-wi-corporate-jr-38135/",
+        "location": [
+            "Milwaukee, WI"
+        ],
+        "company_url": ""
+    },
+    {
+        "source": "Contribution",
+        "company_logo": "",
+        "company_name": "JBS USA",
+        "company_bio": "Not Implemented",
+        "id": "adc659d1-8b34-4644-b01d-4cdb06524fe3",
+        "title": "Information Technology Intern",
+        "active": true,
+        "start_date": "05/21/2024",
+        "updated_date": "07/19/2023",
+        "url": "https://jobs.jbsfoodsgroup.com/us/en/job/JBUSUS47677EXTERNALENUS/2024-IT-Summer-Internship-Program",
+        "location": [
+            "Greeley, CO"
+        ],
+        "company_url": ""
+    },
+    {
+        "source": "Contribution",
+        "company_logo": "",
+        "company_name": "Align Technology",
+        "company_bio": "Not Implemented",
+        "id": "e745a87a-3b7a-4525-8c96-ce9f3e3014d3",
+        "title": "Summer 2024 Internship (Expression of Interest)",
+        "active": true,
+        "start_date": "05/21/2024",
+        "updated_date": "07/19/2023",
+        "url": "https://jobs.aligntech.com/jobs/36257?iis=Job+Board&iisn=LinkedIn&lang=en-us",
+        "location": [
+            "Multiple Locations"
+        ],
+        "company_url": ""
+    },
+    {
+        "source": "Contribution",
+        "company_logo": "",
+        "company_name": "Crestron",
+        "company_bio": "Not Implemented",
+        "id": "22c69014-efad-422d-b72f-8d8541d8e1fe",
+        "title": "Summer 2024 Internship Program",
+        "active": true,
+        "start_date": "05/21/2024",
+        "updated_date": "07/19/2023",
+        "url": "https://globalus231.dayforcehcm.com/CandidatePortal/en-US/crestron/site/candidateportal/Posting/View/820",
+        "location": [
+            "Plano, TX ",
+            " Rockleigh, NJ"
+        ],
+        "company_url": ""
+    },
+    {
+        "source": "Contribution",
+        "company_logo": "",
+        "company_name": "Cherry Bekaert",
+        "company_bio": "Not Implemented",
+        "id": "e548e905-b325-4cb3-a888-59c03090a67d",
+        "title": "Digital Platform & Analytics Intern",
+        "active": true,
+        "start_date": "05/21/2024",
+        "updated_date": "07/19/2023",
+        "url": "https://recruiting.ultipro.com/CHE1006CBH/JobBoard/fee83a4e-4604-4753-bd3a-98e8811baf6f/OpportunityDetail?opportunityId=0ced27e9-9198-4f3b-a2ba-4d18d75b0935",
+        "location": [
+            "Multiple Locations"
+        ],
+        "company_url": ""
+    },
+    {
+        "source": "Contribution",
+        "company_logo": "",
+        "company_name": "Cherry Bekaert",
+        "company_bio": "Not Implemented",
+        "id": "e548e905-b325-4cb3-a888-59c03090a67d",
+        "title": "Cybersecurity Intern",
+        "active": true,
+        "start_date": "05/21/2024",
+        "updated_date": "07/19/2023",
+        "url": "https://recruiting.ultipro.com/CHE1006CBH/JobBoard/fee83a4e-4604-4753-bd3a-98e8811baf6f/OpportunityDetail?opportunityId=b37f522e-3724-45df-8033-3b8c3bab795f",
+        "location": [
+            "Multiple Locations"
+        ],
+        "company_url": ""
+    },
+    {
+        "source": "Contribution",
+        "company_logo": "",
+        "company_name": "Caterpillar",
+        "company_bio": "Not Implemented",
+        "id": "179c4ca7-df6b-44d6-bbcd-a7463a5f2658",
+        "title": "Digital & Analytics Intern",
+        "active": true,
+        "start_date": "05/21/2024",
+        "updated_date": "07/19/2023",
+        "url": "https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/details/XMLNAME-2024-Summer-Corporate-Intern---Digital-and-Analytics_R0000211914?q=Summer+2024",
+        "location": [
+            "Multiple Locations"
+        ],
+        "company_url": ""
+    },
+    {
+        "source": "Contribution",
+        "company_logo": "",
+        "company_name": "Caterpillar",
+        "company_bio": "Not Implemented",
+        "id": "179c4ca7-df6b-44d6-bbcd-a7463a5f2658",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "start_date": "05/21/2024",
+        "updated_date": "07/19/2023",
+        "url": "https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/details/XMLNAME-2024-Summer-Corporate-Intern---Engineering_R0000211130?q=Engineering",
+        "location": [
+            "Multiple Locations"
+        ],
+        "company_url": ""
+    },
+    {
+        "source": "Contribution",
+        "company_logo": "",
+        "company_name": "Wabtec Corporation",
+        "company_bio": "Not Implemented",
+        "id": "42dd1181-201e-4aea-adb1-e37bae29d89d",
+        "title": "Software Engineering Intern (No Sponsorship)",
+        "active": true,
+        "start_date": "05/21/2024",
+        "updated_date": "07/19/2023",
+        "url": "https://wabtec.wd1.myworkdayjobs.com/wabtec_careers/job/Erie-PA/Summer-2024-Engineering-Internship_R0075202?source=LinkedIn_corporate_page",
+        "location": [
+            "Erie, PA ",
+            " Fort Worth, TX"
+        ],
+        "company_url": ""
+    },
+    {
+        "source": "Contribution",
+        "company_logo": "",
+        "company_name": "Global Atlantic Financial Group",
+        "company_bio": "Not Implemented",
+        "id": "2d683803-bf77-4183-bdf3-bab9fdd3278f",
+        "title": "Quantitative Investment Intern (No Sponsorship)",
+        "active": true,
+        "start_date": "05/21/2024",
+        "updated_date": "07/19/2023",
+        "url": "https://boards.greenhouse.io/gainternships/jobs/5150526",
+        "location": [
+            "New York, NY"
+        ],
+        "company_url": ""
+    },
+    {
+        "source": "Contribution",
+        "company_logo": "",
+        "company_name": "Royal Bank of Canada",
+        "company_bio": "Not Implemented",
+        "id": "cb8936ba-62e5-46b5-9552-a573da84e596",
+        "title": "Quantitative Technology Services Intern",
+        "active": true,
+        "start_date": "05/21/2024",
+        "updated_date": "07/19/2023",
+        "url": "https://jobs.rbc.com/ca/en/job/RBCAA0088R0000062764EXTERNALENCA",
+        "location": [
+            "Jersey City, NJ"
+        ],
+        "company_url": ""
+    },
+    {
+        "source": "Contribution",
+        "company_logo": "",
+        "company_name": "KeyBank",
+        "company_bio": "Not Implemented",
+        "id": "976e338b-fead-49e1-ab5f-0b19c08d4eed",
+        "title": "Digital Banking Intern (No Sponsorship)",
+        "active": true,
+        "start_date": "05/21/2024",
+        "updated_date": "07/19/2023",
+        "url": "https://keybank.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Summer-2024-Digital-Banking-Internship---Cleveland_R-19981",
+        "location": [
+            "Brooklyn, OH"
+        ],
+        "company_url": ""
+    },
+    {
+        "source": "Contribution",
+        "company_logo": "",
+        "company_name": "Blackstone",
+        "company_bio": "Not Implemented",
+        "id": "0194dce2-3899-4288-9957-64355223517d",
+        "title": "Quantitative Strategy Intern",
+        "active": true,
+        "start_date": "05/21/2024",
+        "updated_date": "07/19/2023",
+        "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/New-York/XMLNAME-2024-Blackstone-Insurance-Solutions--Quantitative-Strategy-Summer-Analyst_26308-1",
+        "location": [
+            "New York, NY"
+        ],
+        "company_url": ""
+    },
+    {
+        "source": "Contribution",
+        "company_logo": "",
+        "company_name": "Nomura",
+        "company_bio": "Not Implemented",
+        "id": "d814cc38-b5e9-406a-8ad3-5be9509fb954",
+        "title": "2024 Information Technology Summer Analyst Program",
+        "active": true,
+        "start_date": "05/21/2024",
+        "updated_date": "07/19/2023",
+        "url": "https://nomuracampus.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/xf-3348347fc789/candidate/so/pm/1/pl/1/opp/877-2024-Information-Technology-Summer-Analyst-Program/en-GB",
+        "location": [
+            "New York, NY"
+        ],
+        "company_url": ""
+    },
+    {
+        "source": "Contribution",
+        "company_logo": "",
+        "company_name": "Morgan Stanley",
+        "company_bio": "Not Implemented",
+        "id": "0bc7ac4b-569a-4d65-9638-417b3092918b",
+        "title": "Technology Summer Analyst Program (Alpharetta, GA)",
+        "active": true,
+        "start_date": "05/21/2024",
+        "updated_date": "07/19/2023",
+        "url": "https://morganstanley.tal.net/vx/candidate/apply/15068",
+        "location": [
+            "Alpharetta, GA ",
+            " New York, NY"
+        ],
+        "company_url": ""
+    },
+    {
+        "source": "Contribution",
+        "company_logo": "",
+        "company_name": "Morgan Stanley",
+        "company_bio": "Not Implemented",
+        "id": "0bc7ac4b-569a-4d65-9638-417b3092918b",
+        "title": "Technology Summer Analyst Program (New York, NY)",
+        "active": true,
+        "start_date": "05/21/2024",
+        "updated_date": "07/19/2023",
+        "url": "https://morganstanley.tal.net/vx/candidate/apply/15076",
+        "location": [
+            "Alpharetta, GA ",
+            " New York, NY"
+        ],
+        "company_url": ""
+    },
+    {
+        "source": "Contribution",
+        "company_logo": "",
+        "company_name": "BNP Paribas",
+        "company_bio": "Not Implemented",
+        "id": "c44c6378-8b1a-4cbc-9439-0fee5506b98b",
+        "title": "2024 - Summer Analyst Internship - Technology",
+        "active": true,
+        "start_date": "05/21/2024",
+        "updated_date": "07/19/2023",
+        "url": "https://bnppus.tal.net/vx/mobile-0/appcentre-ext/brand-7/candidate/so/pm/1/pl/2/opp/778-2024-Summer-Analyst-Internship-Technology/en-GB",
+        "location": [
+            "Jersey City, NJ"
+        ],
+        "company_url": ""
+    },
+    {
+        "source": "Contribution",
+        "company_logo": "",
+        "company_name": "DRW",
+        "company_bio": "Not Implemented",
+        "id": "875c1dd4-3fad-4f6f-9a0c-954967eeb33e",
+        "title": "Software Developer Intern (Only F1 Sponsorship Available)",
+        "active": true,
+        "start_date": "05/21/2024",
+        "updated_date": "07/19/2023",
+        "url": "https://drw.com/work-at-drw/listings/software-developer-intern-2567189",
+        "location": [
+            "Austin, TX ",
+            " Chicago, IL"
+        ],
+        "company_url": ""
+    },
+    {
+        "source": "Contribution",
+        "company_logo": "",
+        "company_name": "DRW",
+        "company_bio": "Not Implemented",
+        "id": "875c1dd4-3fad-4f6f-9a0c-954967eeb33e",
+        "title": "Site Reliability Engineer Intern",
+        "active": true,
+        "start_date": "05/21/2024",
+        "updated_date": "07/19/2023",
+        "url": "https://drw.com/work-at-drw/listings/site-reliability-engineer-sre-intern-2569887",
+        "location": [
+            "Austin, TX ",
+            " Chicago, IL"
+        ],
+        "company_url": ""
+    },
+    {
+        "source": "Contribution",
+        "company_logo": "",
+        "company_name": "DRW",
+        "company_bio": "Not Implemented",
+        "id": "875c1dd4-3fad-4f6f-9a0c-954967eeb33e",
+        "title": "Quantitative Trading Analyst Intern",
+        "active": true,
+        "start_date": "05/21/2024",
+        "updated_date": "07/19/2023",
+        "url": "https://drw.com/work-at-drw/listings/quantitative-trading-analyst-intern-2551092",
+        "location": [
+            "Austin, TX ",
+            " Chicago, IL"
+        ],
+        "company_url": ""
+    },
+    {
+        "source": "Contribution",
+        "company_logo": "",
+        "company_name": "Intuit",
+        "company_bio": "Not Implemented",
+        "id": "ccff23ae-ed92-42e4-b02f-207a4a73e317",
+        "title": "2024 Summer Internship Interest",
+        "active": true,
+        "start_date": "05/21/2024",
+        "updated_date": "07/19/2023",
+        "url": "https://talenteq.intuit.com/ucs?cid=elq-form_hs_698061_US_UR-FY23_lg_iac-msg4_link_intuit-talentmktg",
+        "location": [
+            "Multiple Locations"
+        ],
+        "company_url": ""
+    },
+    {
+        "source": "Contribution",
+        "company_logo": "",
+        "company_name": "Truist",
+        "company_bio": "Not Implemented",
+        "id": "123d7fc2-0fed-4165-a042-92670dc579a8",
+        "title": "2024 Technology and Innovation Internship",
+        "active": true,
+        "start_date": "05/21/2024",
+        "updated_date": "07/19/2023",
+        "url": "https://careers.truist.com/us/en/job/TBJTBFUSR0078021EXTERNALENUS/2024-Technology-and-Innovation-Internship",
+        "location": [
+            "Charlotte, NC ",
+            " Atlanta, GA"
+        ],
+        "company_url": ""
+    },
+    {
+        "source": "Contribution",
+        "company_logo": "",
+        "company_name": "Point72",
+        "company_bio": "Not Implemented",
+        "id": "5c7905bd-f5a4-4f74-8d80-e9f795f1d8fe",
+        "title": "Summer 2024 Quantitative Developer Internship",
+        "active": true,
+        "start_date": "05/21/2024",
+        "updated_date": "07/19/2023",
+        "url": "https://careers.point72.com/CSJobDetail?jobName=summer-2024-quantitative-developer-internship&jobCode=CSS-0010069",
+        "location": [
+            "New York, NY"
+        ],
+        "company_url": ""
+    },
+    {
+        "source": "Contribution",
+        "company_logo": "",
+        "company_name": "Sensata Technologies",
+        "company_bio": "Not Implemented",
+        "id": "50ebf059-16dc-4ff7-b134-1ff93d5af7fa",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "start_date": "05/21/2024",
+        "updated_date": "07/19/2023",
+        "url": "https://sensata.wd1.myworkdayjobs.com/Sensata-Careers/job/Attleboro-Massachusetts/Software-Engineer-Intern--Summer-2024_IRC90446",
+        "location": [
+            "Attleboro, MA"
+        ],
+        "company_url": ""
+    },
+    {
+        "source": "Contribution",
+        "company_logo": "",
+        "company_name": "PwC",
+        "company_bio": "Not Implemented",
+        "id": "8c5dbe3b-6aac-4ffd-a7d7-ba46f179913c",
+        "title": "Digital Assurance & Transparency Technology Intern",
+        "active": true,
+        "start_date": "05/21/2024",
+        "updated_date": "07/19/2023",
+        "url": "https://jobs.us.pwc.com/job/atlanta/digital-assurance-and-transparency-dat-tech-intern-summer-2024/932/51608860064",
+        "location": [
+            "Multiple Locations"
+        ],
+        "company_url": ""
+    },
+    {
+        "source": "Contribution",
+        "company_logo": "",
+        "company_name": "PwC",
+        "company_bio": "Not Implemented",
+        "id": "8c5dbe3b-6aac-4ffd-a7d7-ba46f179913c",
+        "title": "Digital Assurance & Transparency Data Science Intern",
+        "active": true,
+        "start_date": "05/21/2024",
+        "updated_date": "07/19/2023",
+        "url": "https://jobs.us.pwc.com/job/los-angeles/digital-assurance-and-transparency-dat-data-intern-summer-2024/932/51608839968",
+        "location": [
+            "Multiple Locations"
+        ],
+        "company_url": ""
+    },
+    {
+        "source": "Contribution",
+        "company_logo": "",
+        "company_name": "Zurich",
+        "company_bio": "Not Implemented",
+        "id": "46a401c3-3ef6-4d84-8ad7-7ae36ce9836b",
+        "title": "Summer 2024 Internship Program (No Sponsorship)",
+        "active": true,
+        "start_date": "05/21/2024",
+        "updated_date": "07/19/2023",
+        "url": "https://www.careers.zurich.com/job/Schaumburg-Zurich-North-America-Summer-Internship-Program-%282024%29-IL-60159/774993902/",
+        "location": [
+            "Multiple Locations"
+        ],
+        "company_url": ""
+    },
+    {
+        "source": "Contribution",
+        "company_logo": "",
+        "company_name": "BTIG",
+        "company_bio": "Not Implemented",
+        "id": "2f3b626a-57ab-463c-b557-90a1e55da883",
+        "title": "Summer 2024 Internship Program (Express Interest) (No Sponsorship)",
+        "active": true,
+        "start_date": "05/21/2024",
+        "updated_date": "07/19/2023",
+        "url": "https://boards.greenhouse.io/btig27/jobs/6743060002",
+        "location": [
+            "New York, NY ",
+            " San Francisco, CA"
+        ],
+        "company_url": ""
+    },
+    {
+        "source": "Contribution",
+        "company_logo": "",
+        "company_name": "Rocket Lab",
+        "company_bio": "Not Implemented",
+        "id": "1e46f5bb-5386-4485-b871-00d68225cc69",
+        "title": "Software Engineer Intern (U.S Citizenship Required)",
+        "active": true,
+        "start_date": "05/21/2024",
+        "updated_date": "07/19/2023",
+        "url": "https://boards.greenhouse.io/rocketlab/jobs/5679154003",
+        "location": [
+            "Multiple Locations"
+        ],
+        "company_url": ""
+    },
+    {
+        "source": "Contribution",
+        "company_logo": "",
+        "company_name": "PDT Partners",
+        "company_bio": "Not Implemented",
+        "id": "859c9837-2bce-42a8-bede-0337a756a6a8",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "start_date": "05/21/2024",
+        "updated_date": "07/19/2023",
+        "url": "https://boards.greenhouse.io/pdtpartners/jobs/4423823",
+        "location": [
+            "New York, NY"
+        ],
+        "company_url": ""
+    },
+    {
+        "source": "Contribution",
+        "company_logo": "",
+        "company_name": "Tower Research Capital",
+        "company_bio": "Not Implemented",
+        "id": "3e1a8702-878d-44f8-99ae-a96edb8c59b2",
+        "title": "Quantitative Trader Intern",
+        "active": true,
+        "start_date": "05/21/2024",
+        "updated_date": "07/19/2023",
+        "url": "https://www.tower-research.com/open-positions/?gh_jid=4360111",
+        "location": [
+            "New York, NY"
+        ],
+        "company_url": ""
+    },
+    {
+        "source": "Contribution",
+        "company_logo": "",
+        "company_name": "Citi",
+        "company_bio": "Not Implemented",
+        "id": "0777f5b0-af5d-4b8b-8e23-6676ad21ed9f",
+        "title": "Quantitative Analysis Intern",
+        "active": true,
+        "start_date": "05/21/2024",
+        "updated_date": "07/19/2023",
+        "url": "https://jobs.citi.com/job/new-york/nam-quantitative-analysis-summer-analyst-new-york-city-north-america-2024/287/51453955504",
+        "location": [
+            "New York, NY"
+        ],
+        "company_url": ""
+    },
+    {
+        "source": "Contribution",
+        "company_logo": "",
+        "company_name": "Internet Brands",
+        "company_bio": "Not Implemented",
+        "id": "08b35767-dc4a-49bd-81de-410c518b18ef",
+        "title": "Intern Software Engineer",
+        "active": true,
+        "start_date": "05/21/2024",
+        "updated_date": "07/19/2023",
+        "url": "https://jobs.jobvite.com/internetbrands/job/oUZQnfwQ",
+        "location": [
+            "Los Angeles, California"
+        ],
+        "company_url": ""
+    },
+    {
+        "source": "Contribution",
+        "company_logo": "",
+        "company_name": "Panasonic",
+        "company_bio": "Not Implemented",
+        "id": "d00bc24a-ce41-4e27-9005-3385b1d997f5",
+        "title": "Software Electrical Engineer Intern",
+        "active": true,
+        "start_date": "05/21/2024",
+        "updated_date": "07/19/2023",
+        "url": "https://careers.na.panasonic.com/careers/software-electrical-engineer-intern",
+        "location": [
+            "The Colony, TX"
+        ],
+        "company_url": ""
+    },
+    {
+        "source": "Contribution",
+        "company_logo": "",
+        "company_name": "Akuna Capital",
+        "company_bio": "Not Implemented",
+        "id": "930fb718-fc3a-4612-b4dc-769e784de8d9",
+        "title": "Quantitative Development Intern",
+        "active": true,
+        "start_date": "05/21/2024",
+        "updated_date": "07/19/2023",
+        "url": "https://akunacapital.com/job-details?gh_jid=5082870",
+        "location": [
+            "Chicago, IL"
+        ],
+        "company_url": ""
+    },
+    {
+        "source": "Contribution",
+        "company_logo": "",
+        "company_name": "Akuna Capital",
+        "company_bio": "Not Implemented",
+        "id": "930fb718-fc3a-4612-b4dc-769e784de8d9",
+        "title": "Quantitative Research Intern",
+        "active": true,
+        "start_date": "05/21/2024",
+        "updated_date": "07/19/2023",
+        "url": "https://akunacapital.com/job-details?gh_jid=5147854",
+        "location": [
+            "Chicago, IL"
+        ],
+        "company_url": ""
+    },
+    {
+        "source": "Contribution",
+        "company_logo": "",
+        "company_name": "Akuna Capital",
+        "company_bio": "Not Implemented",
+        "id": "930fb718-fc3a-4612-b4dc-769e784de8d9",
+        "title": "Software Engineer Intern - C++",
+        "active": true,
+        "start_date": "05/21/2024",
+        "updated_date": "07/19/2023",
+        "url": "https://akunacapital.com/job-details?gh_jid=5138367",
+        "location": [
+            "Chicago, IL"
+        ],
+        "company_url": ""
+    },
+    {
+        "source": "Contribution",
+        "company_logo": "",
+        "company_name": "Akuna Capital",
+        "company_bio": "Not Implemented",
+        "id": "930fb718-fc3a-4612-b4dc-769e784de8d9",
+        "title": "Software Engineer Intern - Data Platform",
+        "active": true,
+        "start_date": "05/21/2024",
+        "updated_date": "07/19/2023",
+        "url": "https://akunacapital.com/job-details?gh_jid=5102027",
+        "location": [
+            "Chicago, IL"
+        ],
+        "company_url": ""
+    },
+    {
+        "source": "Contribution",
+        "company_logo": "",
+        "company_name": "Akuna Capital",
+        "company_bio": "Not Implemented",
+        "id": "930fb718-fc3a-4612-b4dc-769e784de8d9",
+        "title": "Software Engineer Intern - .NET Desktop",
+        "active": true,
+        "start_date": "05/21/2024",
+        "updated_date": "07/19/2023",
+        "url": "https://akunacapital.com/job-details?gh_jid=5139650",
+        "location": [
+            "Chicago, IL"
+        ],
+        "company_url": ""
+    },
+    {
+        "source": "Contribution",
+        "company_logo": "",
+        "company_name": "Akuna Capital",
+        "company_bio": "Not Implemented",
+        "id": "930fb718-fc3a-4612-b4dc-769e784de8d9",
+        "title": "Software Engineer Intern - Python",
+        "active": true,
+        "start_date": "05/21/2024",
+        "updated_date": "07/19/2023",
+        "url": "https://akunacapital.com/job-details?gh_jid=5095385",
+        "location": [
+            "Chicago, IL"
+        ],
+        "company_url": ""
+    },
+    {
+        "source": "Contribution",
+        "company_logo": "",
+        "company_name": "Akuna Capital",
+        "company_bio": "Not Implemented",
+        "id": "930fb718-fc3a-4612-b4dc-769e784de8d9",
+        "title": "Software Engineer Intern - Web",
+        "active": true,
+        "start_date": "05/21/2024",
+        "updated_date": "07/19/2023",
+        "url": "https://akunacapital.com/job-details?gh_jid=5144445",
+        "location": [
+            "Chicago, IL"
+        ],
+        "company_url": ""
+    },
+    {
+        "source": "Contribution",
+        "company_logo": "",
+        "company_name": "Capital One",
+        "company_bio": "Not Implemented",
+        "id": "902d8c06-5950-48bc-a6ee-0028f41c08d5",
+        "title": "Product Development Intern (No Sponsorship)",
+        "active": true,
+        "start_date": "05/21/2024",
+        "updated_date": "07/19/2023",
+        "url": "https://www.capitalonecareers.com/job/mclean/product-development-intern-summer-2024/31238/51746418592",
+        "location": [
+            "McLean, VA ",
+            " Plano, TX"
+        ],
+        "company_url": ""
     }
 ]
