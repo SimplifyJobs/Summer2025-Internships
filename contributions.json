@@ -12,19 +12,5 @@
         ],
         "active": true,
         "source": "Contribution"
-    },
-    {
-        "company_name": "Test Company",
-        "company_bio": "This is a short description of the company and what they do.",
-        "title": "Software Engineering Internship Example",
-        "start_date": "05/23/2024",
-        "url": "example.com/this/is/a/link/to/the/job/posting",
-        "location": [
-            "City 1, State",
-            "Location 2",
-            "Remote"
-        ],
-        "active": true,
-        "source": "Contribution"
     }
 ]
