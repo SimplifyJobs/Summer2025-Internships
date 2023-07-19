@@ -8,7 +8,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 
 🙏 **Contribute by submitting a [pull request](https://github.com/susam/gitpr#create-pull-request)! See the contribution guidelines [here](https://github.com/pittcsc/Summer2024-Internships/blob/dev/CONTRIBUTING.md)!** 🙏
 
-> Contributing is now easier than ever! Take a look at `CONTRIBUTING.md` for the guidelines.
+> Contributing is now easier than ever! Take a look at `CONTRIBUTING.md` for the new guidelines.
 
 <div align="center">
   <h3>
