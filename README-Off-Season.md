@@ -41,7 +41,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 > This README file is for **non-summer internships only**. For summer internships, please see the [Summer 2023 README](https://github.com/pittcsc/Summer2024-Internships/blob/dev/README-2023.md) or the [Summer 2024 README](https://github.com/pittcsc/Summer2024-Internships/blob/dev/README.md).
 
 [⬇️ Jump to bottom ⬇️](https://github.com/pittcsc/Summer2024-Internships/blob/dev/README-Off-Season.md#we-love-our-contributors-%EF%B8%8F%EF%B8%8F)
-<!-- Please leave a one line gap between this and the table -->
+<!-- Please leave a one line gap between this and the table TABLE_START (DO NOT CHANGE THIS LINE) -->
 
 | Name | Location | Notes |
 | ---- | -------- | ----- |
@@ -54,7 +54,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | Urban Science | Detroit, MI | **🔒 Closed 🔒** Fall 2023 Data Analyst Intern |
 | [Ansys](https://careers.ansys.com/job/Vancouver-Spring-2024-Electronics-Intern-Software-Development-and-Testing-(BSMS)-Brit-V6E2M6/1026739100) | Vancouver, BC, Canada <br/> Montreal, QC, Canada <br/> Waterloo, ON, Canada | Software Development and Testing (Spring 2024) |
 
-<!-- Please leave a one line gap between this and the table -->
+<!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2024-Internships/blob/dev/README-Off-Season.md#the-list-)
 
 ## We love our contributors ❤️❤️
