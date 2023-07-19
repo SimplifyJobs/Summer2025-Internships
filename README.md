@@ -121,6 +121,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Internet Brands](https://jobs.jobvite.com/internetbrands/job/oUZQnfwQ) | Los Angeles, California | Intern Software Engineer |
 | [Panasonic](https://careers.na.panasonic.com/careers/software-electrical-engineer-intern) | The Colony, TX | Software Electrical Engineer Intern |
 | Akuna Capital | Chicago, IL | [Quantitative Development Intern](https://akunacapital.com/job-details?gh_jid=5082870) <br/> [Quantitative Research Intern](https://akunacapital.com/job-details?gh_jid=5147854) <br/> [Software Engineer Intern - C++](https://akunacapital.com/job-details?gh_jid=5138367) <br/> [Software Engineer Intern - Data Platform](https://akunacapital.com/job-details?gh_jid=5102027) <br/> [Software Engineer Intern - .NET Desktop](https://akunacapital.com/job-details?gh_jid=5139650) <br/> [Software Engineer Intern - Python](https://akunacapital.com/job-details?gh_jid=5095385) <br/> [Software Engineer Intern - Web](https://akunacapital.com/job-details?gh_jid=5144445) |
+| [Capital One](https://www.capitalonecareers.com/job/mclean/product-development-intern-summer-2024/31238/51746418592) | McLean, VA <br/> Plano, TX | Product Development Intern |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2024-Internships#the-list-)
