@@ -103,14 +103,14 @@ Once you're done with your changes, please create a **pull request** (for more i
 ## Adding to the Markdown Table
 We have a script that will automatically add your contribution to the appropriate page in a row that looks something like this:
 ```md
-| Company | Bio | Location | Role | Link | Status |
-| --- | --- | --- | --- | --- | --- |
-| [ExampleCompany](link to company page) | This is a short description of the company and what they do. | Location | Software Engineering Internship Example | [Job Posting](link to job posting page) | ✅ |
+| Company | Location | Role | Link | Status |
+| --- | --- | --- | --- | --- |
+| **[Example Company](link.to/company)** | San Francisco, CA | Software Engineering Internship Example | <a href="example.com/this/is/a/link/to/the/job/posting"><img src="https://i.imgur.com/iPfAI7z.png" width="300" alt="Apply"></a> | ✅ |
 ```
 
 When rendered, it will look like:
 
-| Company | Bio | Location | Role | Link | Status |
-| --- | --- | --- | --- | --- | --- |
-| [ExampleCompany]() | This is a short description of the company and what they do. | Location | Software Engineering Internship Example | [Job Posting]() | ✅ |
+| Company | Location | Role | Link | Status |
+| --- | --- | --- | --- | --- |
+| **[Example Company]()** | San Francisco, CA | Software Engineering Internship Example | <a href="example.com/this/is/a/link/to/the/job/posting"><img src="https://i.imgur.com/iPfAI7z.png" width="300" alt="Apply"></a> | ✅ |
 
