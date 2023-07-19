@@ -1006,5 +1006,23 @@
         ],
         "company_url": "https://simplify.jobs/p/84111ccb-6419-453b-bd90-efae0ffbe529",
         "company_bio": "Lorem Ipsum"
+    },
+    {
+        "company_name": "Test Company",
+        "company_bio": "This is a short description of the company and what they do.",
+        "title": "Software Engineering Internship Example",
+        "start_date": "05/23/2024",
+        "url": "example.com/this/is/a/link/to/the/job/posting",
+        "location": [
+            "City 1, State",
+            "Location 2",
+            "Remote"
+        ],
+        "active": true,
+        "source": "Contribution",
+        "company_logo": "",
+        "id": "a1f8ff8d-607c-4967-9a0b-590d1a4c59e3",
+        "updated_date": 1689788526,
+        "company_url": ""
     }
 ]
