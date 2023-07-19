@@ -59,7 +59,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | Snowflake | Bellevue, WA | Fall 2023 | **🔒 Closed 🔒** Software Engineer Intern (Core/Database Engineering) |
 | [ByteDance](https://jobs.bytedance.com/en/position?keywords=Software&category=&location=&project=7129361493955135774&type=2%2C3) | Seattle, WA <br/> San Jose, CA | Fall 2023 | Multiple |
 | [Google] | Multiple | Fall 2023 | **🔒 Closed 🔒** Software Engineering Intern, BS, Fall 2023 (Due July 7th, 2023) |
-| [Splunk](https://www.splunk.com/en_us/careers/search-jobs.html?team=Early%20Talent&keyword=Engineer) | Remote | Fall 2023 | [Software Engineer Intern (Frontend)](https://www.splunk.com/en_us/careers/jobs/software-engineer-intern-frontend-27692.html) <br/> [Performance Engineer Intern](https://www.splunk.com/en_us/careers/jobs/performance-engineer-intern-remote-27771.html) <br/> [Machine Learning Engineer Intern](https://www.splunk.com/en_us/careers/jobs/machine-learning-engineer-intern-27754.html) <br/> [Software Engineer Co-op (Frontend)](https://www.splunk.com/en_us/careers/jobs/software-engineer-coop-frontend-27752.html) (Canada) |
+| Splunk | Remote | Fall 2023 | **🔒 Closed 🔒** <br/> Software Engineer Intern (Frontend) <br/> Performance Engineer Intern <br/> Machine Learning Engineer Intern <br/> Software Engineer Co-op (Frontend) (Canada) |
 | Anyscale | San Francisco, CA | Fall 2023 | **🔒 Closed 🔒**Software Engineer Intern |
 | [Amazon](https://www.amazon.jobs/en/jobs/2383729/software-engineering-intern-aws-center-for-quantum-computing-aws-center-for-quantum-computing) | San Francisco, CA | Fall 2023 | Software Engineering Intern - CQC | 
 | [Amazon Robotics](https://www.amazon.jobs/en/jobs/2345448/amazon-robotics-software-development-engineer-sde-co-op-fall-2023) | North Reading, MA, US | Fall 2023 | Software Engineering Intern (SDE) Co-op |
@@ -69,7 +69,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Medpace](https://uscareers-medpace.icims.com/jobs/8878/software-development-co-op---fall-2023/job) | Cincinnati, OH | Fall 2023 | Software Development Intern |
 | [Skydio](https://boards.greenhouse.io/skydio/jobs/5639641003?gh_src=b2366f993us) | San Mateo, California | Fall 2023 | Embedded Software Engineer Intern |
 | [Impulse Space](https://impulsespace.pinpointhq.com/postings/20a4e923-5c4e-4aa0-81a6-25e884e7247b) | Redondo Beach, CA | Fall 2023 | Embedded Software Engineering Intern (US Citizenship Required) |
-| [BenefitMall](https://truist.wd1.myworkdayjobs.com/CRC/job/Dallas-TX/BenefitMall---Software-Development-Intern--Hybrid-_R0077897) | Hybrid (Dallas, TX) | Multiple | Software Development Intern |
+| BenefitMall | Hybrid (Dallas, TX) | Multiple | **🔒 Closed 🔒** Software Development Intern |
 | [Tesla](https://www.tesla.com/careers/search/?site=US&type=3) | Multiple | Fall 2023, Winter/Spring 2024 | Frontend/Backend SWE, Network Engineering, PM, UI/UX, and more. |
 
 <!-- Please leave a one line gap between this and the table -->
