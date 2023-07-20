@@ -38,7 +38,6 @@ All new contributions will go to this file before being automatically added to t
 [
     {
         "company_name": "ExampleCompany",
-        "company_bio": "This is a short description of the company and what they do.",
         "title": "Software Engineering Internship Example",
         "start_date": "MM/DD/YYYY",
         "url": "example.com/this/is/a/link/to/the/job/posting",
@@ -58,7 +57,6 @@ To add a new internship, copy the example template, add it to the list at the bo
 | Property Name   | Data Type        | Description                                          |
 | --------------- | ---------------- | ---------------------------------------------------- |
 | **company_name**| `str`            | Name of company                                      |
-| **company_bio** | `str`            | Short description of company, what they do, etc.     |
 | **title**       | `str`            | Name of internship position                          |
 | **start_date**  | `str`            | Start date of internship (format: DD/MM/YYYY)        |
 | **url**         | `str`            | Link to job posting                                  |
@@ -75,7 +73,6 @@ After adding your submission, the file should look something like this:
     ...
     {
         "company_name": "Your Submission Company Name",
-        "company_bio": "This is a short description of the company and what they do.",
         "title": "Job Title",
         "start_date": "05/1/2024",
         "url": "company.com/internship",
