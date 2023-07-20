@@ -25,7 +25,7 @@ Cool! You're ready to add an internship to the list. Follow these steps:
         "company_name": "ExampleCompany",
         "title": "Software Engineering Internship Example",
         "start_date": "MM/DD/YYYY",
-        "url": "example.com/this/is/a/link/to/the/job/posting",
+        "url": "https://example.com/this/is/a/link/to/the/job/posting",
         "location": [
             "City 1, State",
             "Remote"
@@ -45,7 +45,7 @@ Here are more specifics about what each field means:
 | **company_name**| `str`            | Name of company                                      | Google |
 | **title**       | `str`            | Name of internship position                          | Machine Learning Software Engineer |
 | **start_date**  | `str`            | Start date of internship (format: MM/DD/YYYY)        | 06/15/2024 |
-| **url**         | `str`            | Link to job posting                                  | google.com/link/to/job/posting |
+| **url**         | `str`            | Link to job posting (include "https://")             | https://google.com/link/to/job/posting |
 | **location**    | `[str]`          | Array of locations available for internship | ["Mountain View, CA", "Remote"] |
 | **active**      | `bool`           | `true` if application is open. `false` if not.         | true |
 
@@ -57,7 +57,7 @@ Here are more specifics about what each field means:
         "company_name": "ExampleCompany",
         "title": "Software Engineering Internship Example",
         "start_date": "MM/DD/YYYY",
-        "url": "example.com/this/is/a/link/to/the/job/posting",
+        "url": "https://example.com/this/is/a/link/to/the/job/posting",
         "location": [
             "City 1, State",
             "Remote"
@@ -93,16 +93,16 @@ It is preferable to set an internship as inactive (see [Editing an Internship](#
 However, if there is a specific reason why you believe an internship should be removed from this repository entirely, please remove it from `listings.json` by creating a pull-request and specify why it should be deleted.
 
 ## Automatic README.md Updates
-A script will automatically add new contributions as well as new internships found by [Simplify](simplify.jobs) to the appropriate README. The row will look something like this:
+A script will automatically add new contributions as well as new internships found by [Simplify](https://simplify.jobs) to the appropriate README. The row will look something like this:
 ```md
 | Company | Role | Location | Link | Status |
 | --- | --- | --- | :---: | :---: |
-| **[Example Company](link.to/company)** | Software Engineering Internship Example | San Francisco, CA | <img src="https://i.imgur.com/5JF7mJI.png" width="150" alt="Apply"> | ✅ |
+| **[Example Company](https://link.to/company)** | Software Engineering Internship Example | San Francisco, CA | <img src="https://i.imgur.com/5JF7mJI.png" width="150" alt="Apply"> | ✅ |
 ```
 
 When rendered, it will look like:
 | Company | Role | Location | Link | Status |
 | --- | --- | --- | :---: | :---: |
-| **[Example Company](link.to/company)** | Software Engineering Internship Example | San Francisco, CA | <img src="https://i.imgur.com/5JF7mJI.png" width="150" alt="Apply"> | ✅ |
+| **[Example Company]()** | Software Engineering Internship Example | San Francisco, CA | <img src="https://i.imgur.com/5JF7mJI.png" width="150" alt="Apply"> | ✅ |
 
 
