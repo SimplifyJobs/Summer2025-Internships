@@ -54,7 +54,7 @@ Welcome back! This repository is your go-to resource for sharing and keeping tra
 
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
 
-## We love our contributors ❤️❤️
+## We love our contributors
 
 Make a [pull request](https://github.com/susam/gitpr#create-pull-request) to help contribute.
 <a href="https://github.com/pittcsc/Summer2024-Internships/graphs/contributors">
