@@ -6,9 +6,9 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 
 🧠 For tips on the internship process check out [Zero to Offer](https://www.pittcs.wiki/zero-to-offer) 🧠
 
-🙏 **Contribute by submitting a [pull request](https://github.com/susam/gitpr#create-pull-request)! See the contribution guidelines [here](https://github.com/pittcsc/Summer2024-Internships/blob/dev/CONTRIBUTING.md)!** 🙏
+🙏 **This list is only made possible through our amazing contributors!** 🙏
 
-> Contributing is now easier than ever! Take a look at `CONTRIBUTING.md` for the new guidelines.
+>Contributing is now easier than ever! Check out the new guidelines [here](https://github.com/pittcsc/Summer2024-Internships/blob/dev/CONTRIBUTING.md)!
 
 <div align="center">
   <h3>
@@ -20,11 +20,8 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 </div>
 
 ## The List 🚴🏔
-><a href="https://simplify.jobs"><img src="https://res.cloudinary.com/dpeo4xcnc/image/upload/v1636594918/simplify_pittcsc.png" width="150" alt="Simplify" /></a>
->This badge designates an internship supported by Simplify, and you can apply with just one click!
-
-> **Note**:
-> This README file is for **Summer 2024 internships only**. For Summer 2023 internships, please [click here](https://github.com/pittcsc/Summer2024-Internships/blob/dev/README-2023.md).
+><a href="https://simplify.jobs"><img src="https://i.imgur.com/kvraaHg.png" width="100" alt="Simplify" /></a>
+>This button designates an internship supported by Simplify, and you can apply with just one click!
 
 <!-- Please leave a one line gap between this and the table TABLE_START (DO NOT CHANGE THIS LINE) -->
 
