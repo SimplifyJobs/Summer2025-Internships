@@ -43,7 +43,6 @@ All new contributions will go to this file before being automatically added to t
         "url": "example.com/this/is/a/link/to/the/job/posting",
         "location": [
             "City 1, State",
-            "Location 2",
             "Remote"
         ],
         "active": true,
@@ -74,7 +73,6 @@ After adding your submission, the file should look something like this:
         "url": "example.com/this/is/a/link/to/the/job/posting",
         "location": [
             "City 1, State",
-            "Location 2",
             "Remote"
         ],
         "active": true,
