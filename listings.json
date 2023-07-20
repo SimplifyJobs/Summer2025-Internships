@@ -658,5 +658,21 @@
         ],
         "company_url": "https://simplify.jobs/c/simplify",
         "date_posted": "07/20/2023"
+    },
+    {
+        "company_name": "My Company Test",
+        "title": "Software Engineering Internship Example",
+        "start_date": "05/01/2024",
+        "url": "example.com/this/is/a/link/to/the/job/posting",
+        "location": [
+            "City, State",
+            "Remote"
+        ],
+        "active": true,
+        "source": "Contribution",
+        "id": "4224c077-5bea-44cf-b688-4ed834a3e0df",
+        "date_updated": "07/20/2023",
+        "company_url": "",
+        "date_posted": "07/20/2023"
     }
 ]
