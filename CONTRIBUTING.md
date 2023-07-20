@@ -68,19 +68,21 @@ After adding your submission, the file should look something like this:
 ```json
 [
     {
-        ...example object
-    },
-    ...
-    {
-        "company_name": "Your Submission Company Name",
-        "title": "Job Title",
-        "start_date": "05/1/2024",
-        "url": "company.com/internship",
+        "company_name": "ExampleCompany",
+        "title": "Software Engineering Internship Example",
+        "start_date": "MM/DD/YYYY",
+        "url": "example.com/this/is/a/link/to/the/job/posting",
         "location": [
-            "San Francisco, CA"
+            "City 1, State",
+            "Location 2",
+            "Remote"
         ],
         "active": true,
         "source": "Contribution"
+    },
+    ...,
+    {
+        ...your submission
     }
 ]
 ```
