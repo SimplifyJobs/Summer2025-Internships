@@ -16,19 +16,15 @@ We ask that the internships that you add meet some requirements. Specifically, y
 
 Make sure to have the following information ready:
 - The name of the position.
-- The company name and a short description
+- The company name
 - The location of the position.
 - The start date (can be approximate) of the position
 - A link to the job *description* page. The link should direct the user to the page for the position itself, **not** a third-party website or general careers page.
 
 ## Adding an Internship
-Cool! You're ready to add an internship to the list.
+Cool! You're ready to add an internship to the list. Follow these steps:
 
-First, be sure to [fork](https://github.com/pittcsc/Summer2024-Internships/fork) (see [this guide](https://docs.github.com/en/get-started/quickstart/fork-a-repo) for more information) the repository. This is how you will be able to make your changes.
-
-Open `contributions.json` and add a list item there with the information about the position. Please make a unique list entry for each unique position even if they are for the same company.
-
-All new contributions will go to this file before being automatically added to the appropriate markdown file. In this JSON file there will be at least one list item which shows an example of what a new contribution will look like. The file will look something like this:
+1) Navigate to the file `contributions.json`. It should look something like this.
 ```json
 [
     {
@@ -41,24 +37,25 @@ All new contributions will go to this file before being automatically added to t
             "Remote"
         ],
         "active": true,
-        "source": "Contribution"
     }
 ]
 ```
+2) Click the pencil icon in the top right of the page to edit the file.
+3) To add a new internship, copy the example template, add it to the list at the bottom, and fill in all the corresponding information. (Please make a new list entry for each unique position, even if they are for the same company.)
 
-To add a new internship, copy the example template, add it to the list at the bottom, and fill in all the corresponding information. Here are more specifics about what each property means:
+Here are more specifics about what each field means:
 
-| Property Name   | Data Type        | Description                                          |
-| --------------- | ---------------- | ---------------------------------------------------- |
-| **company_name**| `str`            | Name of company                                      |
-| **title**       | `str`            | Name of internship position                          |
-| **start_date**  | `str`            | Start date of internship (format: DD/MM/YYYY)        |
-| **url**         | `str`            | Link to job posting                                  |
-| **location**    | `[str]`          | Array of locations available for internship (include "Remote" if there is remote option)          |
-| **active**      | `bool`           | `true` (`false` if no longer accepting apps)         |
-| **source**      | `str`            | "Contribution" (Don't change. 'Simplify' denotes internship added from Simplify's database)                        |
+| Property Name   | Data Type        | Description                                          | Example |
+| --------------- | ---------------- | ---------------------------------------------------- | -------- |
+| **company_name**| `str`            | Name of company                                      | Google |
+| **title**       | `str`            | Name of internship position                          | Machine Learning Software Engineer |
+| **start_date**  | `str`            | Start date of internship (format: MM/DD/YYYY)        | 06/15/2024 |
+| **url**         | `str`            | Link to job posting                                  | google.com/link/to/job/posting |
+| **location**    | `[str]`          | Array of locations available for internship (include "Remote" if there is remote option) | ["Mountain View, CA", "Remote"] |
+| **active**      | `bool`           | `true` if application is open. `false` if not accepting applications.         | true |
 
-After adding your submission, the file should look something like this:
+4) Once you are done, the file should look something like this:
+
 ```json
 [
     {
@@ -71,7 +68,6 @@ After adding your submission, the file should look something like this:
             "Remote"
         ],
         "active": true,
-        "source": "Contribution"
     },
     {
         ...other submissions (if any)
@@ -81,17 +77,23 @@ After adding your submission, the file should look something like this:
     }
 ]
 ```
-Once you are finished, submit your internship(s) by creating a **pull-request** (See Below)
+
+5) Click `Commit changes...` in the top right of the page.
+6) Select "*Create a new branch for this commit and start a pull request*" and click `Propose Changes`.
+7) Finally, create a pull request to merge your changes.
+> If any part of this process was confusing, check out these guides for [forking a repository](https://docs.github.com/en/get-started/quickstart/fork-a-repo) and [creating pull-requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
+8) That's it! Your contribution will be automatically added to the correct `README.md` once it is reviewed.
 
 ## Editing an Internship
 To edit an internship (changing links, setting as inactive, changing start date, etc.), follow these steps:
 1) Navigate to the file `listings.json`.
 2) Click the pencil icon in the top right of the page to edit the file.
-3) Find internship's entry in `listings.json` and edit the field(s) that you wish to update.
+3) Find the internship's entry in `listings.json` and edit the field(s) that you wish to update.
 > Please do not change the `id` or `source` fields
 4) Change the `updated_date` field to the current date.
 5) Click `Commit changes...` in the top right of the page.
 6) Select "*Create a new branch for this commit and start a pull request*" and click `Propose Changes`.
+7) Finally, create a pull request to merge your changes.
 
 ## Done with Changes?
 Once you're done with your changes, please create a **pull request** (for more information, click [here](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)). We will review your pull request and suggest changes if necessary.
