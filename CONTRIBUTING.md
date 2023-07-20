@@ -95,14 +95,14 @@ However, if there is a specific reason why you believe an internship should be r
 ## Automatic README.md Updates
 A script will automatically add new contributions as well as new internships found by [Simplify](simplify.jobs) to the appropriate README. The row will look something like this:
 ```md
-| Company | Location | Role | Link | Status |
-| --- | --- | --- | --- | --- |
-| **[Example Company](link.to/company)** | San Francisco, CA | Software Engineering Internship Example | <a href="example.com/this/is/a/link/to/the/job/posting"><img src="https://i.imgur.com/iPfAI7z.png" width="300" alt="Apply"></a> | ✅ |
+| Company | Role | Location | Link | Status |
+| --- | --- | --- | :---: | :---: |
+| **[Example Company](link.to/company)** | Software Engineering Internship Example | San Francisco, CA | <img src="https://i.imgur.com/5JF7mJI.png" width="150" alt="Apply"> | ✅ |
 ```
 
 When rendered, it will look like:
+| Company | Role | Location | Link | Status |
+| --- | --- | --- | :---: | :---: |
+| **[Example Company](link.to/company)** | Software Engineering Internship Example | San Francisco, CA | <img src="https://i.imgur.com/5JF7mJI.png" width="150" alt="Apply"> | ✅ |
 
-| Company | Location | Role | Link | Status |
-| --- | --- | --- | --- | --- |
-| **[Example Company]()** | San Francisco, CA | Software Engineering Internship Example | <a href="example.com/this/is/a/link/to/the/job/posting"><img src="https://i.imgur.com/iPfAI7z.png" width="300" alt="Apply"></a> | ✅ |
 
