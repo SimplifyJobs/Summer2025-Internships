@@ -2,6 +2,7 @@
 Thank you for your interest in contributing to the Pitt CSC and Simplify internship list!
 
 Below, you'll find the guidelines for our repository. If you have any questions, please create an [issue](https://github.com/pittcsc/Summer2024-Internships/issues/new) here.
+> If you're new to using git, check out these guides for [forking a repository](https://docs.github.com/en/get-started/quickstart/fork-a-repo) and [creating pull-requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
 
 ## Finding an Internship to Add
 We ask that the internships that you add meet some requirements. Specifically, your internship must
@@ -12,107 +13,96 @@ We ask that the internships that you add meet some requirements. Specifically, y
     - quant, and
     - any other tech-related internships.
 - be located in the United States, Canada, or remote.
-- not already exist in the internship list, and must not be pending review [here](https://github.com/pittcsc/Summer2024-Internships/pulls).
-
-Note that we have multiple READMEs for different internship terms:
-- [Summer 2024 internships](https://github.com/pittcsc/Summer2024-Internships/blob/dev/README.md)
-- [Summer 2023 internships](https://github.com/pittcsc/Summer2024-Internships/blob/dev/README-2023.md)
-- [Off-season internships](https://github.com/pittcsc/Summer2024-Internships/blob/dev/README-Off-Season.md)
-
-Make sure to have the following information ready:
-- The name of the position.
-- The company name and a short description
-- The location of the position.
-- The start date (can be approximate) of the position
-- A link to the job *description* page. The link should direct the user to the page for the position itself, **not** a third-party website or general careers page.
+- not already exist in the internship list.
 
 ## Adding an Internship
-Cool! You're ready to add an internship to the list.
+Cool! You're ready to add an internship to the list. Follow these steps:
 
-First, be sure to [fork](https://github.com/pittcsc/Summer2024-Internships/fork) (see [this guide](https://docs.github.com/en/get-started/quickstart/fork-a-repo) for more information) the repository. This is how you will be able to make your changes.
-
-Open `contributions.json` and add a list item there with the information about the position. Please make a unique list entry for each unique position even if they are for the same company.
-
-All new contributions will go to this file before being automatically added to the appropriate markdown file. In this JSON file there will be at least one list item which shows an example of what a new contribution will look like. The file will look something like this:
+1) Navigate to the file `contributions.json`. It should look something like this.
 ```json
 [
     {
         "company_name": "ExampleCompany",
-        "company_bio": "This is a short description of the company and what they do.",
         "title": "Software Engineering Internship Example",
         "start_date": "MM/DD/YYYY",
-        "url": "example.com/this/is/a/link/to/the/job/posting",
+        "url": "https://example.com/this/is/a/link/to/the/job/posting",
         "location": [
-            "City 1, State",
-            "Location 2",
+            "City, State",
             "Remote"
         ],
         "active": true,
-        "source": "Contribution"
     }
 ]
 ```
+2) Click the pencil icon in the top right of the page to edit the file.
+> Alternatively, you can manually [fork](https://github.com/pittcsc/Summer2024-Internships/fork) the repository and make your changes there.
+3) To add a new internship, copy the example template, add it to the list at the bottom, and replace the values with the corresponding information. (Please make a new list entry for each unique position, even if they are for the same company.)
 
-To add a new internship, simply copy the example template, add it to the list at the bottom and fill in all the corresponding information. Here are more specifics about what each property means:
+Here are more specifics about what each field means:
 
-| Property Name   | Data Type        | Description                                          |
-| --------------- | ---------------- | ---------------------------------------------------- |
-| **company_name**| `str`            | Name of company                                      |
-| **company_bio** | `str`            | Short description of company, what they do, etc.     |
-| **title**       | `str`            | Name of internship position                          |
-| **start_date**  | `str`            | Start date of internship (format: DD/MM/YYYY)        |
-| **url**         | `str`            | Link to job posting                                  |
-| **location**    | `[str]`          | Array of locations available for internship (include "Remote" if there is remote option)          |
-| **active**      | `bool`           | `true` (`false` if no longer accepting apps)         |
-| **source**      | `str`            | "Contribution" (Don't change. 'Simplify' denotes internship added from Simplify's database)                        |
+| Property Name   | Data Type        | Description                                          | Example |
+| --------------- | ---------------- | ---------------------------------------------------- | -------- |
+| **company_name**| `str`            | Name of company                                      | Google |
+| **title**       | `str`            | Name of internship position                          | Machine Learning Software Engineer |
+| **start_date**  | `str`            | Start date of internship (format: MM/DD/YYYY)        | 06/15/2024 |
+| **url**         | `str`            | Link to job posting (include "https://")             | https://google.com/link/to/job/posting |
+| **location**    | `[str]`          | Array of locations available for internship | ["Mountain View, CA", "Remote"] |
+| **active**      | `bool`           | `true` if application is open. `false` if not.         | true |
 
-When you are done, the file should look something like this:
+4) Once you are done, the file should look something like this (there may be more than just two submissions in the file):
+
 ```json
 [
     {
-        ...example object
-    },
-    {
-        ...yours or someone else's submission
-    },
-    {
-        "company_name": "New Internship Company",
-        "company_bio": "This is a short description of the company and what they do.",
-        "title": "Job Title",
-        "start_date": "05/1/2024",
-        "url": "company.com/internship",
+        "company_name": "ExampleCompany",
+        "title": "Software Engineering Internship Example",
+        "start_date": "MM/DD/YYYY",
+        "url": "https://example.com/this/is/a/link/to/the/job/posting",
         "location": [
-            "San Francisco, CA"
+            "City, State",
+            "Remote"
         ],
         "active": true,
-        "source": "Contribution"
+    },
+    {
+        ...your submission
     }
 ]
 ```
-Once you are finished, submit your internship(s) by creating a **pull-request** (See Below)
+
+5) Click `Commit changes...` in the top right of the page.
+6) Select "*Create a new branch for this commit and start a pull request*" and click `Propose Changes`.
+7) Finally, create a pull request to merge your changes.
+8) That's it! Your contribution will be automatically added to the correct `README.md` once it is reviewed.
 
 ## Editing an Internship
 To edit an internship (changing links, setting as inactive, changing start date, etc.), follow these steps:
-1) Find the corresponding internship's entry in `listings.json`.
-2) Pretend you are adding it as a new internship and follow the instructions above.
-3) Copy and paste the corresponding fields and change whichever ones need to be changed.
-> Please only include the fields specified in the Adding an Internship section **AND the id field**. This is how we will make sure your edits replace the only internship.
-4) Submit a pull request as detailed below.
+1) Navigate to the file `listings.json`.
+2) Click the pencil icon in the top right of the page to edit the file.
+> Alternatively, you can manually [fork](https://github.com/pittcsc/Summer2024-Internships/fork) the repository and make your changes there.
+3) Find the internship's entry in `listings.json` and edit the field(s) that you wish to update.
+> Please do not change the `id` or `source` fields
+4) Change the `updated_date` field to the current date.
+5) Click `Commit changes...` in the top right of the page.
+6) Select "*Create a new branch for this commit and start a pull request*" and click `Propose Changes`.
+7) Finally, create a pull request to merge your changes.
 
-## Done with Changes?
-Once you're done with your changes, please create a **pull request** (for more information, click [here](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)). We will review your pull request and suggest changes if necessary.
+## Deleting an Internship
+It is preferable to set an internship as inactive (see [Editing an Internship](#Editing-an-Internship) above) rather than deleting it.
 
-## Adding to the Markdown Table
-We have a script that will automatically add your contribution to the appropriate page in a row that looks something like this:
+However, if there is a specific reason why you believe an internship should be removed from this repository entirely, please remove it from `listings.json` by creating a pull-request and specify why it should be deleted.
+
+## Automatic README.md Updates
+A script will automatically add new contributions as well as new internships found by [Simplify](https://simplify.jobs) to the appropriate README. The row will look something like this:
 ```md
-| Company | Bio | Location | Role | Link | Status |
-| --- | --- | --- | --- | --- | --- |
-| [ExampleCompany](link to company page) | This is a short description of the company and what they do. | Location | Software Engineering Internship Example | [Job Posting](link to job posting page) | ✅ |
+| Company | Role | Location | Link | Status |
+| --- | --- | --- | :---: | :---: |
+| **[Example Company](https://link.to/company)** | Software Engineering Internship Example | San Francisco, CA | <img src="https://i.imgur.com/5JF7mJI.png" width="150" alt="Apply"> | ✅ |
 ```
 
 When rendered, it will look like:
+| Company | Role | Location | Link | Status |
+| --- | --- | --- | :---: | :---: |
+| **[Example Company]()** | Software Engineering Internship Example | San Francisco, CA | <img src="https://i.imgur.com/5JF7mJI.png" width="150" alt="Apply"> | ✅ |
 
-| Company | Bio | Location | Role | Link | Status |
-| --- | --- | --- | --- | --- | --- |
-| [ExampleCompany]() | This is a short description of the company and what they do. | Location | Software Engineering Internship Example | [Job Posting]() | ✅ |
 
