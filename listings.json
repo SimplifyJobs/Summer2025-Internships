@@ -1,21 +1,6 @@
 [
     {
         "source": "Simplify",
-        "company_name": "OpenGov",
-        "id": "4814633d-a64a-4ae3-85b9-895f97c79064",
-        "title": "IT Support Intern",
-        "active": true,
-        "start_date": "07/12/2023",
-        "date_updated": "07/17/2023",
-        "url": "https://jobs.lever.co/opengov/4ca65b19-6df4-43c4-a627-8d088e984768/apply",
-        "location": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/opengov",
-        "date_posted": "07/20/2023"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Intel",
         "id": "8e343e91-d673-4215-b471-8ec82120fd68",
         "title": "Technical Writer Intern",
@@ -27,21 +12,6 @@
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/intel",
-        "date_posted": "07/20/2023"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "LTK",
-        "id": "0fb64fc4-e2f0-4c58-a3e5-3a6a72006903",
-        "title": "Creator Success Internship",
-        "active": true,
-        "start_date": "07/10/2023",
-        "date_updated": "07/10/2023",
-        "url": "https://boards.greenhouse.io/shopltk/jobs/5672453003",
-        "location": [
-            "Remote"
-        ],
-        "company_url": "https://simplify.jobs/c/ltk",
         "date_posted": "07/20/2023"
     },
     {
@@ -106,21 +76,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "ServiceNow",
-        "id": "36c96e3e-1167-4232-8e0f-bece37fa2a56",
-        "title": "Servicenow Nextgen Professionals Program",
-        "active": true,
-        "start_date": "07/06/2023",
-        "date_updated": "07/06/2023",
-        "url": "https://jobs.smartrecruiters.com/ServiceNow/743999888428563",
-        "location": [
-            "Remote"
-        ],
-        "company_url": "https://simplify.jobs/c/servicenow",
-        "date_posted": "07/20/2023"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Autodesk",
         "id": "f888c90f-e621-46bf-9c0f-35436174dfe7",
         "title": "Stagiaire \u2013 /Intern - D\u00e9veloppeur - Euse - De logiciels - Forge - \u00c0 pourvoir - Software Engineer - FALL 2023",
@@ -151,51 +106,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Palo Alto Networks",
-        "id": "5401dadf-2d83-41ac-b943-f2ff856b11dd",
-        "title": "Unit Internship - Germany",
-        "active": true,
-        "start_date": "07/06/2023",
-        "date_updated": "07/06/2023",
-        "url": "https://jobs.smartrecruiters.com/PaloAltoNetworks2/743999915343423",
-        "location": [
-            "Remote"
-        ],
-        "company_url": "https://simplify.jobs/c/palo-alto-networks",
-        "date_posted": "07/20/2023"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Palo Alto Networks",
-        "id": "d884e980-89ae-4432-adfb-296ec7a44081",
-        "title": "Unit Internship - Germany",
-        "active": true,
-        "start_date": "07/06/2023",
-        "date_updated": "07/06/2023",
-        "url": "https://jobs.smartrecruiters.com/PaloAltoNetworks2/743999915343343",
-        "location": [
-            "Remote"
-        ],
-        "company_url": "https://simplify.jobs/c/palo-alto-networks",
-        "date_posted": "07/20/2023"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Workato",
-        "id": "b2e8953a-64d0-443e-ab84-f4581d9cab67",
-        "title": "Enterprise Automation Intern",
-        "active": true,
-        "start_date": "07/06/2023",
-        "date_updated": "07/06/2023",
-        "url": "https://boards.greenhouse.io/workato/jobs/6787419002",
-        "location": [
-            "Remote"
-        ],
-        "company_url": "https://simplify.jobs/c/workato",
-        "date_posted": "07/20/2023"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Chainlink",
         "id": "7f0f586f-0442-44ed-9889-a49423a78b43",
         "title": "Research Internship",
@@ -211,111 +121,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Workato",
-        "id": "cc1d8425-0c49-4f9a-855d-e74757009c99",
-        "title": "Embedded Marketing Intern",
-        "active": true,
-        "start_date": "06/26/2023",
-        "date_updated": "06/26/2023",
-        "url": "https://boards.greenhouse.io/workato/jobs/6795276002",
-        "location": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/workato",
-        "date_posted": "07/20/2023"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Democratic National Committee (DNC)",
-        "id": "19b042d8-fca2-408b-8bb2-58b443fdbf2c",
-        "title": "Fall 2023: DNC General Internship",
-        "active": true,
-        "start_date": "06/23/2023",
-        "date_updated": "06/23/2023",
-        "url": "https://jobs.lever.co/dnc/4a2642f5-0fec-4360-bc37-6a287d7f97f5/apply",
-        "location": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/democratic-national-committee-(dnc)",
-        "date_posted": "07/20/2023"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Democratic National Committee (DNC)",
-        "id": "8c2a3922-3ef6-413b-b07c-cbd88f18e3de",
-        "title": "Fall 2023: DNC Civic Engagement & Voter Protection Internship",
-        "active": true,
-        "start_date": "06/23/2023",
-        "date_updated": "06/23/2023",
-        "url": "https://jobs.lever.co/dnc/5bc44b30-5bf7-45a5-842e-04b587a3dd13/apply",
-        "location": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/democratic-national-committee-(dnc)",
-        "date_posted": "07/20/2023"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Democratic National Committee (DNC)",
-        "id": "c197b974-2034-4eab-bb97-b7ede08132a7",
-        "title": "Fall 2023: DNC Design Internship",
-        "active": true,
-        "start_date": "06/23/2023",
-        "date_updated": "06/23/2023",
-        "url": "https://jobs.lever.co/dnc/cf999c2d-81bb-428b-9bcc-ebbc0ad5c20f/apply",
-        "location": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/democratic-national-committee-(dnc)",
-        "date_posted": "07/20/2023"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Brain Technologies",
-        "id": "5c310295-9bfc-461d-ac0f-e3bb633238a6",
-        "title": "Marketing Intern - Jan 2023",
-        "active": true,
-        "start_date": "06/20/2023",
-        "date_updated": "06/20/2023",
-        "url": "https://boards.greenhouse.io/braintechnologies/jobs/4755868004",
-        "location": [
-            "Remote"
-        ],
-        "company_url": "https://simplify.jobs/c/brain-technologies",
-        "date_posted": "07/20/2023"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Brain Technologies",
-        "id": "69bf7b69-99c0-44c2-9ea2-2646ee9b5617",
-        "title": "Design Intern",
-        "active": true,
-        "start_date": "06/20/2023",
-        "date_updated": "06/20/2023",
-        "url": "https://boards.greenhouse.io/braintechnologies/jobs/4489531004",
-        "location": [
-            "Remote"
-        ],
-        "company_url": "https://simplify.jobs/c/brain-technologies",
-        "date_posted": "07/20/2023"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Brain Technologies",
-        "id": "b8972ebc-fa91-4c62-ad8e-10470500d63c",
-        "title": "Marketing Intern - Summer 2023",
-        "active": true,
-        "start_date": "06/20/2023",
-        "date_updated": "06/20/2023",
-        "url": "https://boards.greenhouse.io/braintechnologies/jobs/4750857004",
-        "location": [
-            "Remote"
-        ],
-        "company_url": "https://simplify.jobs/c/brain-technologies",
-        "date_posted": "07/20/2023"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Voltus",
         "id": "6cbe01e1-ff4d-4093-8253-cee3490f4066",
         "title": "Market Operations Intern",
@@ -327,36 +132,6 @@
             "Remote"
         ],
         "company_url": "https://simplify.jobs/c/voltus",
-        "date_posted": "07/20/2023"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Equip Health",
-        "id": "22691e71-83fe-49ab-b8a8-056e9fd2b0a6",
-        "title": "Compensation Analyst Internship",
-        "active": true,
-        "start_date": "06/15/2023",
-        "date_updated": "06/15/2023",
-        "url": "https://jobs.lever.co/equiphealth/0cba639b-5dd5-4166-a7b9-2186784ee4a4/apply",
-        "location": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/equip-health",
-        "date_posted": "07/20/2023"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "data.ai",
-        "id": "a88e85cc-46e8-489e-bedf-f0d5243b5136",
-        "title": "Marketing Design Intern - Mobile Apps",
-        "active": true,
-        "start_date": "06/13/2023",
-        "date_updated": "06/13/2023",
-        "url": "https://boards.greenhouse.io/embed/job_app?token=5056060",
-        "location": [
-            "Remote"
-        ],
-        "company_url": "https://simplify.jobs/c/data.ai",
         "date_posted": "07/20/2023"
     },
     {
@@ -402,21 +177,6 @@
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/the-block",
-        "date_posted": "07/20/2023"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "The Allen Institute for AI",
-        "id": "ed5a96e0-586c-4c58-94bd-860a60ee56a2",
-        "title": "Research Internship",
-        "active": true,
-        "start_date": "06/07/2023",
-        "date_updated": "06/08/2023",
-        "url": "https://boards.greenhouse.io/thealleninstitute/jobs/2171532",
-        "location": [
-            "Remote"
-        ],
-        "company_url": "https://simplify.jobs/c/the-allen-institute-for-ai",
         "date_posted": "07/20/2023"
     },
     {
@@ -481,36 +241,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "iRobot",
-        "id": "965e53f2-4bd4-496e-9cb5-a75ec4726e74",
-        "title": "July-December: Sales Analytics Intern - Undergrad",
-        "active": true,
-        "start_date": "06/02/2023",
-        "date_updated": "06/02/2023",
-        "url": "https://irobot.wd5.myworkdayjobs.com/iRobot/job/US-Remote/July-December--Sales-Analytics-Intern--Undergrad-_R3435",
-        "location": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/irobot",
-        "date_posted": "07/20/2023"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Qualtrics",
-        "id": "67fbb006-2064-4bba-97b0-d68d6aee574d",
-        "title": "Skillbridge \u2013 Customer Success Associate Internship",
-        "active": true,
-        "start_date": "05/18/2023",
-        "date_updated": "05/19/2023",
-        "url": "https://www.qualtrics.com/careers/us/en/job/5042595?gh_jid=5042595",
-        "location": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/qualtrics",
-        "date_posted": "07/20/2023"
-    },
-    {
-        "source": "Simplify",
         "company_name": "NimbleRx",
         "id": "1e5b99ff-c71f-4ea9-a511-5dee851785bb",
         "title": "Software Engineer Intern - Winter / Spring Session - January - April 2024",
@@ -522,36 +252,6 @@
             "Remote"
         ],
         "company_url": "https://simplify.jobs/c/nimblerx",
-        "date_posted": "07/20/2023"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Fueled",
-        "id": "9a7d3c86-0eff-40cf-a24b-7490e6e99c64",
-        "title": "Sales and Marketing Apprentice",
-        "active": true,
-        "start_date": "05/03/2023",
-        "date_updated": "05/03/2023",
-        "url": "http://www.fueled.com/careers/5027053?gh_jid=5027053",
-        "location": [
-            "Remote"
-        ],
-        "company_url": "https://simplify.jobs/c/fueled",
-        "date_posted": "07/20/2023"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Sezzle",
-        "id": "8e6d2b99-d9b9-42b8-84e1-db472ff44240",
-        "title": "Merchant Experience Intern",
-        "active": true,
-        "start_date": "04/26/2023",
-        "date_updated": "05/31/2023",
-        "url": "https://boards.greenhouse.io/sezzle/jobs/5335436003",
-        "location": [
-            "Remote"
-        ],
-        "company_url": "https://simplify.jobs/c/sezzle",
         "date_posted": "07/20/2023"
     },
     {
@@ -586,21 +286,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Qualtrics",
-        "id": "fcb808f9-337d-424e-98d2-ca6f00feb6c3",
-        "title": "Skillbridge \u2013 Deal Desk Analyst-Revenue Operations Internship",
-        "active": true,
-        "start_date": "04/03/2023",
-        "date_updated": "06/22/2023",
-        "url": "https://www.qualtrics.com/careers/us/en/job/4962851?gh_jid=4962851",
-        "location": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/qualtrics",
-        "date_posted": "07/20/2023"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Voltus",
         "id": "e13be4d8-8e28-4ce6-aa6c-a533da3ae3ac",
         "title": "Sales Productivity Intern",
@@ -608,21 +293,6 @@
         "start_date": "11/12/2022",
         "date_updated": "12/23/2022",
         "url": "https://jobs.lever.co/voltus/abc773f3-edbc-4027-81fb-7668ef803e8d/apply",
-        "location": [
-            "Remote"
-        ],
-        "company_url": "https://simplify.jobs/c/voltus",
-        "date_posted": "07/20/2023"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Voltus",
-        "id": "6a8a469b-7ea1-4b02-a46d-aa3f3f044a4d",
-        "title": "Lead Generation Intern",
-        "active": true,
-        "start_date": "11/12/2022",
-        "date_updated": "11/12/2022",
-        "url": "https://jobs.lever.co/voltus/41fd332f-2038-4b0a-8ce8-43efeaf3645f/apply",
         "location": [
             "Remote"
         ],
@@ -642,37 +312,6 @@
             "Remote"
         ],
         "company_url": "https://simplify.jobs/c/qualtrics",
-        "date_posted": "07/20/2023"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Simplify",
-        "id": "84111ccb-6419-453b-bd90-efae0ffbe529",
-        "title": "Part-Time Content Writing Intern",
-        "active": true,
-        "start_date": "09/27/2022",
-        "date_updated": "09/27/2022",
-        "url": "https://simplify.jobs/p/84111ccb-6419-453b-bd90-efae0ffbe529",
-        "location": [
-            "Remote"
-        ],
-        "company_url": "https://simplify.jobs/c/simplify",
-        "date_posted": "07/20/2023"
-    },
-    {
-        "company_name": "My Company Test",
-        "title": "Software Engineering Internship Example",
-        "start_date": "05/01/2024",
-        "url": "example.com/this/is/a/link/to/the/job/posting",
-        "location": [
-            "City, State",
-            "Remote"
-        ],
-        "active": true,
-        "source": "Contribution",
-        "id": "4224c077-5bea-44cf-b688-4ed834a3e0df",
-        "date_updated": "07/20/2023",
-        "company_url": "",
         "date_posted": "07/20/2023"
     }
 ]
