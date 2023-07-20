@@ -18,8 +18,8 @@ We ask that the internships that you add meet some requirements. Specifically, y
 ## Adding an Internship
 Cool! You're ready to add an internship to the list. Follow these steps:
 
-1) Navigate to the file `contributions.json`. It should look something like this.
-```json
+1) Navigate to the file `contributions.jsonc`. It should look something like this.
+```jsonc
 [
     {
         "company_name": "ExampleCompany",
@@ -30,7 +30,10 @@ Cool! You're ready to add an internship to the list. Follow these steps:
             "City, State",
             "Remote"
         ],
-        "active": true,
+        "active": true
+    }, 
+    {
+        // add your submission here
     }
 ]
 ```
@@ -51,7 +54,7 @@ Here are more specifics about what each field means:
 
 4) Once you are done, the file should look something like this (there may be more than just two submissions in the file):
 
-```json
+```jsonc
 [
     {
         "company_name": "ExampleCompany",
@@ -62,11 +65,22 @@ Here are more specifics about what each field means:
             "City, State",
             "Remote"
         ],
-        "active": true,
+        "active": true
     },
     {
-        ...your submission
-    }
+        //...other submissions (if any)
+    }, 
+    {
+        "company_name": "Your Contribution",
+        "title": "Your Contribution",
+        "start_date": "MM/DD/YYYY",
+        "url": "https://yourcontribution.com",
+        "location": [
+            "City, State",
+            "Remote"
+        ],
+        "active": true
+    }, 
 ]
 ```
 
