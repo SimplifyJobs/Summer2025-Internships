@@ -1,7 +1,6 @@
 [
     {
         "company_name": "ExampleCompany",
-        "company_bio": "This is a short description of the company and what they do.",
         "title": "Software Engineering Internship Example",
         "start_date": "MM/DD/YYYY",
         "url": "example.com/this/is/a/link/to/the/job/posting",
