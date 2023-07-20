@@ -46,8 +46,8 @@ Here are more specifics about what each field means:
 | **title**       | `str`            | Name of internship position                          | Machine Learning Software Engineer |
 | **start_date**  | `str`            | Start date of internship (format: MM/DD/YYYY)        | 06/15/2024 |
 | **url**         | `str`            | Link to job posting                                  | google.com/link/to/job/posting |
-| **location**    | `[str]`          | Array of locations available for internship (include "Remote" if there is remote option) | ["Mountain View, CA", "Remote"] |
-| **active**      | `bool`           | `true` if application is open. `false` if not accepting applications.         | true |
+| **location**    | `[str]`          | Array of locations available for internship | ["Mountain View, CA", "Remote"] |
+| **active**      | `bool`           | `true` if application is open. `false` if not.         | true |
 
 4) Once you are done, the file should look something like this (there may be more than just two submissions in the file):
 
