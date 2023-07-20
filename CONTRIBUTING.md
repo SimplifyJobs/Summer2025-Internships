@@ -39,7 +39,7 @@ Cool! You're ready to add an internship to the list. Follow these steps:
 ```
 2) Click the pencil icon in the top right of the page to edit the file.
 > Alternatively, you can manually [fork](https://github.com/pittcsc/Summer2024-Internships/fork) the repository and make your changes there.
-3) To add a new internship, copy the example template, add it to the list at the bottom, and replace the values with the corresponding information. (Please make a new list entry for each unique position, even if they are for the same company.)
+3) To add a new internship, copy the example template, add it to the list at the bottom, and replace the values with the corresponding information from your submission. (Please make a new list entry for each unique position, even if they are for the same company.)
 
 Here are more specifics about what each field means:
 
