@@ -2,6 +2,7 @@
 Thank you for your interest in contributing to the Pitt CSC and Simplify internship list!
 
 Below, you'll find the guidelines for our repository. If you have any questions, please create an [issue](https://github.com/pittcsc/Summer2024-Internships/issues/new) here.
+> If you're new to using git, check out these guides for [forking a repository](https://docs.github.com/en/get-started/quickstart/fork-a-repo) and [creating pull-requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
 
 ## Finding an Internship to Add
 We ask that the internships that you add meet some requirements. Specifically, your internship must
@@ -13,13 +14,6 @@ We ask that the internships that you add meet some requirements. Specifically, y
     - any other tech-related internships.
 - be located in the United States, Canada, or remote.
 - not already exist in the internship list.
-
-Make sure to have the following information ready:
-- The name of the position.
-- The company name
-- The location of the position.
-- The start date (can be approximate) of the position
-- A link to the job *description* page. The link should direct the user to the page for the position itself, **not** a third-party website or general careers page.
 
 ## Adding an Internship
 Cool! You're ready to add an internship to the list. Follow these steps:
@@ -41,7 +35,7 @@ Cool! You're ready to add an internship to the list. Follow these steps:
 ]
 ```
 2) Click the pencil icon in the top right of the page to edit the file.
-3) To add a new internship, copy the example template, add it to the list at the bottom, and fill in all the corresponding information. (Please make a new list entry for each unique position, even if they are for the same company.)
+3) To add a new internship, copy the example template, add it to the list at the bottom, and replace the values with the corresponding information. (Please make a new list entry for each unique position, even if they are for the same company.)
 
 Here are more specifics about what each field means:
 
@@ -54,7 +48,7 @@ Here are more specifics about what each field means:
 | **location**    | `[str]`          | Array of locations available for internship (include "Remote" if there is remote option) | ["Mountain View, CA", "Remote"] |
 | **active**      | `bool`           | `true` if application is open. `false` if not accepting applications.         | true |
 
-4) Once you are done, the file should look something like this:
+4) Once you are done, the file should look something like this (there may be more than just two submissions in the file):
 
 ```json
 [
@@ -70,9 +64,6 @@ Here are more specifics about what each field means:
         "active": true,
     },
     {
-        ...other submissions (if any)
-    },
-    {
         ...your submission
     }
 ]
@@ -81,7 +72,6 @@ Here are more specifics about what each field means:
 5) Click `Commit changes...` in the top right of the page.
 6) Select "*Create a new branch for this commit and start a pull request*" and click `Propose Changes`.
 7) Finally, create a pull request to merge your changes.
-> If any part of this process was confusing, check out these guides for [forking a repository](https://docs.github.com/en/get-started/quickstart/fork-a-repo) and [creating pull-requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
 8) That's it! Your contribution will be automatically added to the correct `README.md` once it is reviewed.
 
 ## Editing an Internship
@@ -95,8 +85,10 @@ To edit an internship (changing links, setting as inactive, changing start date,
 6) Select "*Create a new branch for this commit and start a pull request*" and click `Propose Changes`.
 7) Finally, create a pull request to merge your changes.
 
-## Done with Changes?
-Once you're done with your changes, please create a **pull request** (for more information, click [here](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)). We will review your pull request and suggest changes if necessary.
+## Deleting an Internship
+If possible, it is preferable to set an internship as inactive (see [Editing an Internship](#Editing-an-Internship) above) rather than deleting it.
+
+However, if there is a specific reason why you believe an internship should be removed from this repository entirely, please remove it and create a pull-request specifying why it should be deleted.
 
 ## Adding to the Markdown Table
 We have a script that will automatically add your contribution to the appropriate page in a row that looks something like this:
