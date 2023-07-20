@@ -21,6 +21,7 @@ Cool! You're ready to add an internship to the list. Follow these steps:
 1) Navigate to the file `contributions.json`. It should look something like this.
 ```jsonc
 [
+    // example contribution (don't delete)
     {
         "company_name": "ExampleCompany",
         "title": "Software Engineering Internship Example",
@@ -32,6 +33,8 @@ Cool! You're ready to add an internship to the list. Follow these steps:
         ],
         "active": true
     }
+
+    //...possibly other contributions below
 ]
 ```
 2) Click the pencil icon in the top right of the page to edit the file.
@@ -64,9 +67,11 @@ Here are more specifics about what each field means:
         ],
         "active": true
     },
+
     //...other submissions (if any)
+
     {
-        //add your submission here
+        // your submission here
     }, 
 ]
 ```
