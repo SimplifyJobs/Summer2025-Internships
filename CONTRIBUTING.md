@@ -78,7 +78,7 @@ After adding your submission, the file should look something like this:
         "active": true,
         "source": "Contribution"
     },
-    ...,
+    ...other submissions (if any),
     {
         ...your submission
     }
