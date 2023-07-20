@@ -6,10 +6,8 @@
         "url": "example.com/this/is/a/link/to/the/job/posting",
         "location": [
             "City 1, State",
-            "Location 2",
             "Remote"
         ],
-        "active": true,
-        "source": "Contribution"
+        "active": true
     }
 ]
