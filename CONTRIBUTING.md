@@ -12,12 +12,7 @@ We ask that the internships that you add meet some requirements. Specifically, y
     - quant, and
     - any other tech-related internships.
 - be located in the United States, Canada, or remote.
-- not already exist in the internship list, and must not be pending review [here](https://github.com/pittcsc/Summer2024-Internships/pulls).
-
-Note that we have multiple READMEs for different internship terms:
-- [Summer 2024 internships](https://github.com/pittcsc/Summer2024-Internships/blob/dev/README.md)
-- [Summer 2023 internships](https://github.com/pittcsc/Summer2024-Internships/blob/dev/README-2023.md)
-- [Off-season internships](https://github.com/pittcsc/Summer2024-Internships/blob/dev/README-Off-Season.md)
+- not already exist in the internship list.
 
 Make sure to have the following information ready:
 - The name of the position.
@@ -78,7 +73,9 @@ After adding your submission, the file should look something like this:
         "active": true,
         "source": "Contribution"
     },
-    ...other submissions (if any),
+    {
+        ...other submissions (if any)
+    },
     {
         ...your submission
     }
@@ -88,11 +85,13 @@ Once you are finished, submit your internship(s) by creating a **pull-request** 
 
 ## Editing an Internship
 To edit an internship (changing links, setting as inactive, changing start date, etc.), follow these steps:
-1) Find the corresponding internship's entry in `listings.json`.
-2) Pretend you are adding it as a new internship and follow the instructions above.
-3) Copy and paste the corresponding fields from `listings.json` to `contributions.json` and change whichever ones need to be changed.
-> Please only include the fields specified in the Adding an Internship section **AND the id field**. This is how we will make sure your edits replace the only internship.
-4) Submit a pull request as detailed below.
+1) Navigate to the file `listings.json`.
+2) Click the pencil icon in the top right of the page to edit the file.
+3) Find internship's entry in `listings.json` and edit the field(s) that you wish to update.
+> Please do not change the `id` or `source` fields
+4) Change the `updated_date` field to the current date.
+5) Click `Commit changes...` in the top right of the page.
+6) Select "*Create a new branch for this commit and start a pull request*" and click `Propose Changes`.
 
 ## Done with Changes?
 Once you're done with your changes, please create a **pull request** (for more information, click [here](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)). We will review your pull request and suggest changes if necessary.
