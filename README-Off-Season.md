@@ -68,7 +68,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Langan](https://careers.langan.com/job/Parsippany-Software-Development-Intern-or-Co-op-Fall-2023-NJ-07054-2172/1045849800/) | Parsippany, NJ | Fall 2023 | Software Engineer Intern |
 | [Medpace](https://uscareers-medpace.icims.com/jobs/8878/software-development-co-op---fall-2023/job) | Cincinnati, OH | Fall 2023 | Software Development Intern |
 | [Skydio](https://boards.greenhouse.io/skydio/jobs/5639641003?gh_src=b2366f993us) | San Mateo, California | Fall 2023 | Embedded Software Engineer Intern |
-| [Impulse Space](https://impulsespace.pinpointhq.com/postings/20a4e923-5c4e-4aa0-81a6-25e884e7247b) | Redondo Beach, CA | Fall 2023 | Embedded Software Engineering Intern (US Citizenship Required) |
+| Impulse Space | Redondo Beach, CA | Fall 2023 | **🔒 Closed 🔒** Embedded Software Engineering Intern (US Citizenship Required) |
 | BenefitMall | Hybrid (Dallas, TX) | Multiple | **🔒 Closed 🔒** Software Development Intern |
 | [Tesla](https://www.tesla.com/careers/search/?site=US&type=3) | Multiple | Fall 2023, Winter/Spring 2024 | Frontend/Backend SWE, Network Engineering, PM, UI/UX, and more. |
 
