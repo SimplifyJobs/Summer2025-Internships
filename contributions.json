@@ -9,5 +9,16 @@
             "Remote"
         ],
         "active": true
+    },
+    {
+        "company_name": "My Company Test",
+        "title": "Software Engineering Internship Example",
+        "start_date": "05/01/2024",
+        "url": "example.com/this/is/a/link/to/the/job/posting",
+        "location": [
+            "City, State",
+            "Remote"
+        ],
+        "active": true
     }
 ]
