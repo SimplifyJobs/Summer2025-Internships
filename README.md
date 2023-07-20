@@ -1,14 +1,15 @@
 # Summer 2024 Tech Internships by Pitt CSC & Simplify
 
-And we're back! Use this repo to share and keep track of software, tech, CS, PM, quant internships for **Summer 2024**. List maintained by the [Pitt Computer Science Club](https://pittcsc.org/) and [Simplify](https://simplify.jobs/)!
+Welcome back! This repository is your go-to resource for sharing and keeping track of software, tech, computer science, project management, and quantitative internships for **Summer 2024**. The list is maintained collaboratively by the [Pitt Computer Science Club](https://pittcsc.org/) and [Simplify](https://simplify.jobs/)!
 
-:warning: **This repository is only for internships/co-ops in the United States, Canada or for Remote positions :earth_americas:.**
+:warning: **Please note that this repository is exclusively for internships/co-ops in the United States, Canada, or Remote positions :earth_americas:.**
 
-🧠 For tips on the internship process check out [Zero to Offer](https://www.pittcs.wiki/zero-to-offer) 🧠
+For valuable tips on navigating the internship process, be sure to check out [Zero to Offer](https://www.pittcs.wiki/zero-to-offer) 🧠.
 
-🙏 **This list is only made possible through our amazing contributors!** 🙏
+🙏 **We extend our heartfelt gratitude to all our amazing contributors who make this list possible!** 🙏
 
->Contributing is now easier than ever! Check out the new guidelines [here](https://github.com/pittcsc/Summer2024-Internships/blob/dev/CONTRIBUTING.md)!
+>Contributing is now easier than ever! Review the new guidelines [here](https://github.com/pittcsc/Summer2024-Internships/blob/dev/CONTRIBUTING.md) and start contributing today!
+
 
 <div align="center">
   <h3>
