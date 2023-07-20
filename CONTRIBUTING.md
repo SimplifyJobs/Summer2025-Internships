@@ -18,7 +18,7 @@ We ask that the internships that you add meet some requirements. Specifically, y
 ## Adding an Internship
 Cool! You're ready to add an internship to the list. Follow these steps:
 
-1) Navigate to the file `contributions.jsonc`. It should look something like this.
+1) Navigate to the file `contributions.json`. It should look something like this.
 ```jsonc
 [
     {
@@ -31,9 +31,6 @@ Cool! You're ready to add an internship to the list. Follow these steps:
             "Remote"
         ],
         "active": true
-    }, 
-    {
-        // add your submission here
     }
 ]
 ```
@@ -67,19 +64,9 @@ Here are more specifics about what each field means:
         ],
         "active": true
     },
+    //...other submissions (if any)
     {
-        //...other submissions (if any)
-    }, 
-    {
-        "company_name": "Your Contribution",
-        "title": "Your Contribution",
-        "start_date": "MM/DD/YYYY",
-        "url": "https://yourcontribution.com",
-        "location": [
-            "City, State",
-            "Remote"
-        ],
-        "active": true
+        //add your submission here
     }, 
 ]
 ```
