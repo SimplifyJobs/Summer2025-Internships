@@ -6,7 +6,7 @@ Welcome back! This repository is your go-to resource for sharing and keeping tra
 
 >For valuable tips on navigating the internship process, be sure to check out our guide [Zero to Offer](https://www.pittcs.wiki/zero-to-offer) 🧠.
 
-### 🙏 We extend our heartfelt gratitude to all our amazing contributors who make this list possible! 🙏
+### 🙏 This repo would not be possible without all our amazing [contributors](#We-love-our-contributors-❤️❤️)! 🙏
 
 >Contributing is now easier than ever! Review the new guidelines [here](https://github.com/pittcsc/Summer2024-Internships/blob/dev/CONTRIBUTING.md) and start contributing today!
 
