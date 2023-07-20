@@ -1,81 +1,6 @@
 [
     {
         "source": "Simplify",
-        "company_name": "HackerRank",
-        "id": "9c81f329-ed06-4313-b7de-a358fe2e020e",
-        "title": "Solutions Engineer Intern",
-        "active": true,
-        "start_date": "07/17/2023",
-        "date_updated": "07/17/2023",
-        "url": "https://boards.greenhouse.io/hackerrank/jobs/5134940?gh_jid=5134940",
-        "location": [
-            "Remote"
-        ],
-        "company_url": "https://simplify.jobs/c/hackerrank",
-        "date_posted": "07/20/2023"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Wisk",
-        "id": "4b197422-6a74-4378-9c09-016f4d0b02d6",
-        "title": "Graduate Pathways Safety and Reliability Engineering Intern",
-        "active": true,
-        "start_date": "07/17/2023",
-        "date_updated": "07/17/2023",
-        "url": "https://jobs.lever.co/wisk/ae0d5b3b-680a-4968-b465-dfd8138ccf58/apply",
-        "location": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/wisk",
-        "date_posted": "07/20/2023"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Intel",
-        "id": "70a21936-3c21-4174-aab4-21ef2e7ac4dc",
-        "title": "Standard Cell Library Engineer Intern",
-        "active": true,
-        "start_date": "07/14/2023",
-        "date_updated": "07/14/2023",
-        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/Virtual-US/Standard-Cell-Library-Engineer-Intern_JR0245616",
-        "location": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/intel",
-        "date_posted": "07/20/2023"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "SandboxAQ",
-        "id": "b472c285-3945-4cba-b264-8f72af4348b1",
-        "title": "Phd Residency - Network Security - Privacy - And AI/ML",
-        "active": true,
-        "start_date": "07/13/2023",
-        "date_updated": "07/13/2023",
-        "url": "https://www.sandboxaq.com/careers-list?gh_jid=4782075004",
-        "location": [
-            "Remote"
-        ],
-        "company_url": "https://simplify.jobs/c/sandboxaq",
-        "date_posted": "07/20/2023"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Workiva",
-        "id": "e3e30c07-d08d-4c87-a8b2-e0937ca543f3",
-        "title": "Finance Intern",
-        "active": true,
-        "start_date": "07/13/2023",
-        "date_updated": "07/13/2023",
-        "url": "https://workiva.wd1.myworkdayjobs.com/careers/job/USA---Remote/Finance-Intern_R7085",
-        "location": [
-            "Remote"
-        ],
-        "company_url": "https://simplify.jobs/c/workiva",
-        "date_posted": "07/20/2023"
-    },
-    {
-        "source": "Simplify",
         "company_name": "OpenGov",
         "id": "4814633d-a64a-4ae3-85b9-895f97c79064",
         "title": "IT Support Intern",
@@ -117,51 +42,6 @@
             "Remote"
         ],
         "company_url": "https://simplify.jobs/c/ltk",
-        "date_posted": "07/20/2023"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Workato",
-        "id": "8cfa0fb6-d845-48c1-bfe7-5e97374f8b5e",
-        "title": "Product Manager Intern - Embedded Platform",
-        "active": true,
-        "start_date": "07/10/2023",
-        "date_updated": "07/10/2023",
-        "url": "https://boards.greenhouse.io/workato/jobs/6838566002",
-        "location": [
-            "Remote"
-        ],
-        "company_url": "https://simplify.jobs/c/workato",
-        "date_posted": "07/20/2023"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Workato",
-        "id": "8e690028-fdbe-456a-b90b-eeabb16423a1",
-        "title": "Product Manager Intern - Embedded Platform",
-        "active": true,
-        "start_date": "07/07/2023",
-        "date_updated": "07/07/2023",
-        "url": "https://boards.greenhouse.io/workato/jobs/6836419002",
-        "location": [
-            "Remote"
-        ],
-        "company_url": "https://simplify.jobs/c/workato",
-        "date_posted": "07/20/2023"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Workato",
-        "id": "5f9aa93f-9660-4397-9c04-a78ea31dba43",
-        "title": "Product Manager Intern - Embedded Platform",
-        "active": true,
-        "start_date": "07/07/2023",
-        "date_updated": "07/07/2023",
-        "url": "https://boards.greenhouse.io/workato/jobs/6807215002",
-        "location": [
-            "Remote"
-        ],
-        "company_url": "https://simplify.jobs/c/workato",
         "date_posted": "07/20/2023"
     },
     {
@@ -327,51 +207,6 @@
             "Remote"
         ],
         "company_url": "https://simplify.jobs/c/chainlink",
-        "date_posted": "07/20/2023"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "NVIDIA",
-        "id": "652f39ce-2707-4bc4-99f9-5bcdb069dc76",
-        "title": "Research Scientist Intern - Phd Program",
-        "active": true,
-        "start_date": "07/06/2023",
-        "date_updated": "07/06/2023",
-        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/Denmark-Roskilde/Research-Scientist-Intern---PhD-Program_JR1962440",
-        "location": [
-            "Remote"
-        ],
-        "company_url": "https://simplify.jobs/c/nvidia",
-        "date_posted": "07/20/2023"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Intel",
-        "id": "763cb4ca-976f-4359-b068-ee10de8a9c7e",
-        "title": "Design Automation Intern",
-        "active": true,
-        "start_date": "07/06/2023",
-        "date_updated": "07/06/2023",
-        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/Virtual-US/Design-Automation-Intern_JR0245389-1",
-        "location": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/intel",
-        "date_posted": "07/20/2023"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Flock Safety",
-        "id": "53d68c45-2205-4eb9-b77f-0e2c23b66be1",
-        "title": "Communications & Research Intern",
-        "active": true,
-        "start_date": "07/05/2023",
-        "date_updated": "07/05/2023",
-        "url": "https://boards.greenhouse.io/flocksafety/jobs/6831808002",
-        "location": [
-            "Remote"
-        ],
-        "company_url": "https://simplify.jobs/c/flock-safety",
         "date_posted": "07/20/2023"
     },
     {
@@ -721,21 +556,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Motional",
-        "id": "7e168f54-54e5-4489-a268-c97b5d98d5c6",
-        "title": "Summer 2023: Perception Intern",
-        "active": true,
-        "start_date": "04/24/2023",
-        "date_updated": "06/10/2023",
-        "url": "https://motional.com/open-positions/?gh_jid=5526707003#/5526707003",
-        "location": [
-            "Remote"
-        ],
-        "company_url": "https://simplify.jobs/c/motional",
-        "date_posted": "07/20/2023"
-    },
-    {
-        "source": "Simplify",
         "company_name": "The Allen Institute for AI",
         "id": "6d05c45c-9256-4df6-8b2b-76d45a1dbae6",
         "title": "Research Internship",
@@ -777,66 +597,6 @@
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/qualtrics",
-        "date_posted": "07/20/2023"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "SandboxAQ",
-        "id": "5ad0985a-a2fa-412d-a049-553742805813",
-        "title": "Phd Residency - Applications of Foundation Models",
-        "active": true,
-        "start_date": "02/15/2023",
-        "date_updated": "05/31/2023",
-        "url": "https://www.sandboxaq.com/careers-list?gh_jid=4802915004",
-        "location": [
-            "Remote"
-        ],
-        "company_url": "https://simplify.jobs/c/sandboxaq",
-        "date_posted": "07/20/2023"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "SandboxAQ",
-        "id": "0978528e-b749-493a-867f-37979aa77dd0",
-        "title": "Phd Residency - PQC Research Scientist",
-        "active": true,
-        "start_date": "01/03/2023",
-        "date_updated": "05/31/2023",
-        "url": "https://www.sandboxaq.com/careers-list?gh_jid=4555769004",
-        "location": [
-            "Remote"
-        ],
-        "company_url": "https://simplify.jobs/c/sandboxaq",
-        "date_posted": "07/20/2023"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "SandboxAQ",
-        "id": "23cf8a44-ea5e-4070-bb35-9249a4624c4f",
-        "title": "Phd Residency - Cryptography Software Engineer",
-        "active": true,
-        "start_date": "01/03/2023",
-        "date_updated": "05/31/2023",
-        "url": "https://www.sandboxaq.com/careers-list?gh_jid=4549678004",
-        "location": [
-            "Remote"
-        ],
-        "company_url": "https://simplify.jobs/c/sandboxaq",
-        "date_posted": "07/20/2023"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "SandboxAQ",
-        "id": "96b5fe6a-05e4-44d8-b9d6-daf7cee18e59",
-        "title": "Phd Residency - Pets Research Scientist",
-        "active": true,
-        "start_date": "01/03/2023",
-        "date_updated": "05/31/2023",
-        "url": "https://www.sandboxaq.com/careers-list?gh_jid=4549680004",
-        "location": [
-            "Remote"
-        ],
-        "company_url": "https://simplify.jobs/c/sandboxaq",
         "date_posted": "07/20/2023"
     },
     {
