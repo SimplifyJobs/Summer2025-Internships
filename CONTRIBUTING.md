@@ -35,6 +35,7 @@ Cool! You're ready to add an internship to the list. Follow these steps:
 ]
 ```
 2) Click the pencil icon in the top right of the page to edit the file.
+> Alternatively, you can manually [fork](https://github.com/pittcsc/Summer2024-Internships/fork) the repository and make your changes there.
 3) To add a new internship, copy the example template, add it to the list at the bottom, and replace the values with the corresponding information. (Please make a new list entry for each unique position, even if they are for the same company.)
 
 Here are more specifics about what each field means:
@@ -78,6 +79,7 @@ Here are more specifics about what each field means:
 To edit an internship (changing links, setting as inactive, changing start date, etc.), follow these steps:
 1) Navigate to the file `listings.json`.
 2) Click the pencil icon in the top right of the page to edit the file.
+> Alternatively, you can manually [fork](https://github.com/pittcsc/Summer2024-Internships/fork) the repository and make your changes there.
 3) Find the internship's entry in `listings.json` and edit the field(s) that you wish to update.
 > Please do not change the `id` or `source` fields
 4) Change the `updated_date` field to the current date.
@@ -86,12 +88,12 @@ To edit an internship (changing links, setting as inactive, changing start date,
 7) Finally, create a pull request to merge your changes.
 
 ## Deleting an Internship
-If possible, it is preferable to set an internship as inactive (see [Editing an Internship](#Editing-an-Internship) above) rather than deleting it.
+It is preferable to set an internship as inactive (see [Editing an Internship](#Editing-an-Internship) above) rather than deleting it.
 
-However, if there is a specific reason why you believe an internship should be removed from this repository entirely, please remove it and create a pull-request specifying why it should be deleted.
+However, if there is a specific reason why you believe an internship should be removed from this repository entirely, please remove it from `listings.json` by creating a pull-request and specify why it should be deleted.
 
-## Adding to the Markdown Table
-We have a script that will automatically add your contribution to the appropriate page in a row that looks something like this:
+## Automatic README.md Updates
+A script will automatically add new contributions as well as new internships found by [Simplify](simplify.jobs) to the appropriate README. The row will look something like this:
 ```md
 | Company | Location | Role | Link | Status |
 | --- | --- | --- | --- | --- |
