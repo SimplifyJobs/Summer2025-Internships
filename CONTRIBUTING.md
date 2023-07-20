@@ -22,6 +22,7 @@ Cool! You're ready to add an internship to the list. Follow these steps:
 ```jsonc
 [
     // example contribution (don't delete)
+
     {
         "company_name": "ExampleCompany",
         "title": "Software Engineering Internship Example",
@@ -68,7 +69,7 @@ Here are more specifics about what each field means:
         "active": true
     },
 
-    //...other submissions (if any)
+    // ...other submissions (if any)
 
     {
         // your submission here
