@@ -27,7 +27,7 @@ Cool! You're ready to add an internship to the list. Follow these steps:
         "start_date": "MM/DD/YYYY",
         "url": "https://example.com/this/is/a/link/to/the/job/posting",
         "location": [
-            "City 1, State",
+            "City, State",
             "Remote"
         ],
         "active": true,
@@ -59,7 +59,7 @@ Here are more specifics about what each field means:
         "start_date": "MM/DD/YYYY",
         "url": "https://example.com/this/is/a/link/to/the/job/posting",
         "location": [
-            "City 1, State",
+            "City, State",
             "Remote"
         ],
         "active": true,
