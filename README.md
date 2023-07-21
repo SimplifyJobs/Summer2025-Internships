@@ -88,7 +88,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Maximus] | Mclean, VA | **🔒 Closed 🔒** Software Engineering Intern |
 | [Infineon] | Andover, MA </br> Warwick, RI | **🔒 Closed 🔒** Software Automation Engineer Intern |
 | [Docugami](https://boards.greenhouse.io/docugami/jobs/4014838003) | Kirkland, WA | Software Engineering Intern |
-| SIG | Bala Cynwyd, PA | [Software Engineering Internship Program (Express Interest)](https://careers.sig.com/job/7102/Software-Engineering-Internship-Program-Summer-2024-Expression-of-Interest) |
+| SIG | Bala Cynwyd, PA </br> New York, NY </br> Chicago, IL | [Software Engineering Internship Program (Express Interest)](https://careers.sig.com/job/7102/Software-Engineering-Internship-Program-Summer-2024-Expression-of-Interest) </br> [Trading Intern](https://careers.sig.com/job/7464/Trading-Intern-Chicago) |
 | [Northwestern Mutual](https://careers.northwesternmutual.com/corporate-careers/job/public-investments-municipal-trading-analytics-internship-summer-2024-milwaukee-wi-corporate-jr-38135/) | Milwaukee, WI | Municipal Trading Analytics Intern (No Sponsorship) |
 | [JBS USA](https://jobs.jbsfoodsgroup.com/us/en/job/JBUSUS47677EXTERNALENUS/2024-IT-Summer-Internship-Program) | Greeley, CO | Information Technology Intern |
 | [Align Technology](https://jobs.aligntech.com/jobs/36257?iis=Job+Board&iisn=LinkedIn&lang=en-us) | Multiple Locations | Summer 2024 Internship (Expression of Interest) |
@@ -124,6 +124,8 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Capital One](https://www.capitalonecareers.com/job/mclean/product-development-intern-summer-2024/31238/51746418592) | McLean, VA <br/> Plano, TX | Product Development Intern (No Sponsorship) |
 | [TransMarket Group](https://boards.greenhouse.io/transmarketgroup?gh_src=295a85457us) | Chicago, IL | [Algorithmic Trader Intern](https://boards.greenhouse.io/transmarketgroup/jobs/4023650007?t=295a85457us) <br/> [Quantitative Trader Intern](https://boards.greenhouse.io/transmarketgroup/jobs/4023644007?t=295a85457us) |
 | [Procter & Gamble](https://www.pgcareers.com/global/en/job/R000086643/IT-Engineer-Internship) | Cincinnati, OH | IT Engineer Intern (No Sponsorship Available) |
+| [Five Rings](https://fiverings.avature.net/careers) | NYC | [Software Dev Intern](https://fiverings.avature.net/careers/FolderDetail/New-York-New-York-United-States-Software-Developer-Summer-Intern-2024/649) <br/> [Quant Researcher Intern](https://fiverings.avature.net/careers/FolderDetail/New-York-New-York-United-States-Quantitative-Researcher-Summer-Intern-2024/645) <br/> [Quant Trader Intern](https://fiverings.avature.net/careers/FolderDetail/New-York-New-York-United-States-Quantitative-Trader-Summer-Intern-2024/643) <br/> (Winter 2024 also available) | 
+| [Milliman](https://recruiting2.ultipro.com/MIL1017/JobBoard/f54234e9-dfde-b183-fd20-4fbdb19cba7a/OpportunityDetail?opportunityId=07e563a5-18f6-4e9f-a719-452971adba46)| Omaha, NE | Software Engineer Intern |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2024-Internships#the-list-)
