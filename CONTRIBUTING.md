@@ -7,11 +7,11 @@ Below, you'll find the guidelines for our repository. If you have any questions,
 ## Finding an Internship to Add
 We ask that the internships that you add meet some requirements. Specifically, your internship must
 - be in one of the following categories:
-    - software/computer engineering,
-    - computer/data science,
-    - product manager,
-    - quant, and
-    - any other tech-related internships.
+    - software/computer engineering
+    - computer/data science
+    - product management
+    - quant
+    - any other tech-related internships
 - be located in the United States, Canada, or remote.
 - not already exist in the internship list.
 
@@ -41,19 +41,20 @@ Cool! You're ready to add an internship to the list. Follow these steps:
 2) Click the pencil icon in the top right of the page to edit the file.
 > Alternatively, you can manually [fork](https://github.com/pittcsc/Summer2024-Internships/fork) the repository and make your changes there.
 3) To add a new internship, copy the example template, add it to the list at the bottom, and replace the values with the corresponding information from your submission. (Please make a new list entry for each unique position, even if they are for the same company.)
+> You may add as many submissions as you'd like, and there may be other submissions from other contributors in the file
 
 Here are more specifics about what each field means:
 
 | Property Name   | Data Type        | Description                                          | Example |
 | --------------- | ---------------- | ---------------------------------------------------- | -------- |
 | **company_name**| `str`            | Name of company                                      | Google |
-| **title**       | `str`            | Name of internship position                          | Machine Learning Software Engineer |
+| **title**       | `str`            | Name of internship position                          | ML Software Engineer Intern |
 | **start_date**  | `str`            | Start date of internship (format: MM/DD/YYYY)        | 06/15/2024 |
 | **url**         | `str`            | Link to job posting (include "https://")             | https://google.com/link/to/job/posting |
 | **location**    | `[str]`          | Array of locations available for internship | ["Mountain View, CA", "Remote"] |
 | **active**      | `bool`           | `true` if application is open. `false` if not.         | true |
 
-4) Once you are done, the file should look something like this (there may be more than just two submissions in the file):
+4) Once you are done, the file should look something like this:
 
 ```jsonc
 [
