@@ -67,7 +67,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Mercedes-Benz](https://jobs.lever.co/MBRDNA/59ae463c-5d10-4bb6-9dfd-4e26c7d84a69) | Sunnyvale, CA | Data Products Intern |
 | [Palantir Technologies](https://www.palantir.com/careers/students/path/) | New York, NY or Washington, DC | Palantir Path Intern (must be enrolled in a U.S. bachelor's program) |
 | [Lumen Technologies](https://jobs.lumen.com/global/en/job/324980/Intern-Summer-2024-Program-Submit-Interest) | Remote, USA | Intern - Summer 2024 Program - Submit Interest (U.S. work authorization required) |
-| Voloridge Investment Management | Jupiter, Florida | **🔒 Closed 🔒** <br/> Software Engineer Intern <br/> Trading Engineer Intern |
+| Voloridge Investment Management | Jupiter, FL | **🔒 Closed 🔒** <br/> Software Engineer Intern <br/> Trading Engineer Intern |
 | Volvo | Hagerstown, MD | **🔒 Closed 🔒** Intern: Engineering, Embedded Software (Summer 2024) |
 | [Marotta Controls](https://marotta.com/job-openings/?gnk=job&gni=8a7883ac879c5eca0187ef4d715d4fd8&lang=en) | Parsippany, NJ | Software Engineering Intern - (Summer 2024) (U.S citizens only) |
 | RSM | Denver, CO and Dallas, TX | [Data Migration Consulting Intern](https://jobs.rsmus.com/job/18650418/data-migration-consulting-intern-summer-2024-dallas-tx/), [Intelligent Automation Consulting Intern](https://jobs.rsmus.com/job/17580693/intelligent-automation-consulting-intern-summer-2024-denver-co/) (US Citizenship Required for Both) |
@@ -118,11 +118,12 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [PDT Partners](https://boards.greenhouse.io/pdtpartners/jobs/4423823) | New York, NY | Software Engineer Intern |
 | [Tower Research Capital](https://www.tower-research.com/open-positions/?gh_jid=4360111) | New York, NY | Quantitative Trader Intern |
 | [Citi](https://jobs.citi.com/job/new-york/nam-quantitative-analysis-summer-analyst-new-york-city-north-america-2024/287/51453955504) | New York, NY | Quantitative Analysis Intern |
-| [Internet Brands](https://jobs.jobvite.com/internetbrands/job/oUZQnfwQ) | Los Angeles, California | Intern Software Engineer |
+| [Internet Brands](https://jobs.jobvite.com/internetbrands/job/oUZQnfwQ) | Los Angeles, CA | Intern Software Engineer |
 | [Panasonic](https://careers.na.panasonic.com/careers/software-electrical-engineer-intern) | The Colony, TX | Software Electrical Engineer Intern |
 | Akuna Capital | Chicago, IL | [Quantitative Development Intern](https://akunacapital.com/job-details?gh_jid=5082870) <br/> [Quantitative Research Intern](https://akunacapital.com/job-details?gh_jid=5147854) <br/> [Software Engineer Intern - C++](https://akunacapital.com/job-details?gh_jid=5138367) <br/> [Software Engineer Intern - Data Platform](https://akunacapital.com/job-details?gh_jid=5102027) <br/> [Software Engineer Intern - .NET Desktop](https://akunacapital.com/job-details?gh_jid=5139650) <br/> [Software Engineer Intern - Python](https://akunacapital.com/job-details?gh_jid=5095385) <br/> [Software Engineer Intern - Web](https://akunacapital.com/job-details?gh_jid=5144445) |
 | [Capital One](https://www.capitalonecareers.com/job/mclean/product-development-intern-summer-2024/31238/51746418592) | McLean, VA <br/> Plano, TX | Product Development Intern (No Sponsorship) |
 | [TransMarket Group](https://boards.greenhouse.io/transmarketgroup?gh_src=295a85457us) | Chicago, IL | [Algorithmic Trader Intern](https://boards.greenhouse.io/transmarketgroup/jobs/4023650007?t=295a85457us) <br/> [Quantitative Trader Intern](https://boards.greenhouse.io/transmarketgroup/jobs/4023644007?t=295a85457us) |
+| [Procter & Gamble](https://www.pgcareers.com/global/en/job/R000086643/IT-Engineer-Internship) | Cincinnati, OH | IT Engineer Intern (No Sponsorship Available) |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2024-Internships#the-list-)
