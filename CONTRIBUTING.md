@@ -43,17 +43,6 @@ Cool! You're ready to add an internship to the list. Follow these steps:
 3) To add a new internship, copy the example template, add it to the list at the bottom, and replace the values with the corresponding information from your submission. (Please make a new list entry for each unique position, even if they are for the same company.)
 > You may add as many submissions as you'd like, and there may be other submissions from other contributors in the file
 
-Here are more specifics about what each field means:
-
-| Property Name   | Data Type        | Description                                          | Example |
-| --------------- | ---------------- | ---------------------------------------------------- | -------- |
-| **company_name**| `str`            | Name of company                                      | Google |
-| **title**       | `str`            | Name of internship position                          | ML Software Engineer Intern |
-| **start_date**  | `str`            | Start date of internship (format: MM/DD/YYYY)        | 06/15/2024 |
-| **url**         | `str`            | Link to job posting (include "https://")             | https://google.com/link/to/job/posting |
-| **location**    | `[str]`          | Array of locations available for internship | ["Mountain View, CA", "Remote"] |
-| **active**      | `bool`           | `true` if application is open. `false` if not.         | true |
-
 4) Once you are done, the file should look something like this:
 
 ```jsonc
