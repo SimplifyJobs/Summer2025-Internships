@@ -124,7 +124,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Capital One](https://www.capitalonecareers.com/job/mclean/product-development-intern-summer-2024/31238/51746418592) | McLean, VA <br/> Plano, TX | Product Development Intern (No Sponsorship) |
 | [TransMarket Group](https://boards.greenhouse.io/transmarketgroup?gh_src=295a85457us) | Chicago, IL | [Algorithmic Trader Intern](https://boards.greenhouse.io/transmarketgroup/jobs/4023650007?t=295a85457us) <br/> [Quantitative Trader Intern](https://boards.greenhouse.io/transmarketgroup/jobs/4023644007?t=295a85457us) |
 | [Procter & Gamble](https://www.pgcareers.com/global/en/job/R000086643/IT-Engineer-Internship) | Cincinnati, OH | IT Engineer Intern (No Sponsorship Available) |
-| [Milliman](https://recruiting2.ultipro.com/MIL1017/JobBoard/f54234e9-dfde-b183-fd20-4fbdb19cba7a/OpportunityDetail?opportunityId=07e563a5-18f6-4e9f-a719-452971adba46)| Omaha, Nebraska | Software Engineer Intern |
+| [Milliman](https://recruiting2.ultipro.com/MIL1017/JobBoard/f54234e9-dfde-b183-fd20-4fbdb19cba7a/OpportunityDetail?opportunityId=07e563a5-18f6-4e9f-a719-452971adba46)| Omaha, NE | Software Engineer Intern |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2024-Internships#the-list-)
