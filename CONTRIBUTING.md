@@ -18,7 +18,7 @@ We ask that the internships that you add meet some requirements. Specifically, y
 ## Adding an Internship
 Cool! You're ready to add an internship to the list. Follow these steps:
 
-1) Navigate to the file `contributions.json`. It should look something like this.
+1) Navigate to the file `contributions.json`. It should look something like this:
 ```jsonc
 [
     // example contribution (don't delete)
@@ -40,8 +40,8 @@ Cool! You're ready to add an internship to the list. Follow these steps:
 ```
 2) Click the pencil icon in the top right of the page to edit the file.
 > Alternatively, you can manually [fork](https://github.com/pittcsc/Summer2024-Internships/fork) the repository and make your changes there.
-3) To add a new internship, copy the example template, add it to the list at the bottom, and replace the values with the corresponding information from your submission. (Please make a new list entry for each unique position, even if they are for the same company.)
-> You may add as many submissions as you'd like, and there may be other submissions from other contributors in the file
+3) To add a new internship, copy the example template, add it to the list at the bottom, and replace the values with the corresponding information about your submission.
+> Please make a new list entry for each unique position, even if they are for the same company.
 
 4) Once you are done, the file should look something like this:
 
