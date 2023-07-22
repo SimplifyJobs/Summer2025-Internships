@@ -127,7 +127,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Five Rings](https://fiverings.avature.net/careers) | NYC | [Software Dev Intern](https://fiverings.avature.net/careers/FolderDetail/New-York-New-York-United-States-Software-Developer-Summer-Intern-2024/649) <br/> [Quant Researcher Intern](https://fiverings.avature.net/careers/FolderDetail/New-York-New-York-United-States-Quantitative-Researcher-Summer-Intern-2024/645) <br/> [Quant Trader Intern](https://fiverings.avature.net/careers/FolderDetail/New-York-New-York-United-States-Quantitative-Trader-Summer-Intern-2024/643) <br/> (Winter 2024 also available) | 
 | [Milliman](https://recruiting2.ultipro.com/MIL1017/JobBoard/f54234e9-dfde-b183-fd20-4fbdb19cba7a/OpportunityDetail?opportunityId=07e563a5-18f6-4e9f-a719-452971adba46)| Omaha, NE | Software Engineer Intern |
 | [PCMI Corporation](https://www.indeed.com/cmp/Pcmi-Corporation-2/jobs?jk=e35b465c20d1a7c2&start=0&clearPrefilter=1) | Park Ridge, IL | BI QA Analyst Intern |
-| [PepsiCo](https://www.pepsicojobs.com/internshipsprograms/jobs/241240?lang=en-us&previousLocale=en-US)| Purchase, New York <br> Plano, Texas | Software Development/Engineering Intern|
+| [PepsiCo](https://www.pepsicojobs.com/internshipsprograms/jobs/241240?lang=en-us&previousLocale=en-US)| Purchase, New York <br> Plano, Texas | Software Development/Engineering Intern (No Sponsorship|
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2024-Internships#the-list-)
