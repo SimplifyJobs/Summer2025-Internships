@@ -1,4 +1,7 @@
 # Summer 2022 Tech Internships by Pitt CSC 🤿👩‍💻
+> **Note:**
+> This README was taken from [this commit in this repository](https://github.com/pittcsc/Summer2024-Internships/tree/a8d1b7780faa18fd2d13669ddab3a761023964d2).
+
 Use this repo to share and keep track of software, tech, CS, PM, quant internships for Summer 2022. List maintained by [the Pitt Computer Science Club](https://pittcsc.org/)!
 
 ---
