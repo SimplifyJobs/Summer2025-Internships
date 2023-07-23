@@ -58,7 +58,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | AMD | Austin, TX <br/> Santa Clara, CA <br/> Fort Collins, CO <br/> Boxborough, MA | Fall 2023 |**🔒 Closed 🔒** Software Engineering Co-Op/ Intern |
 | Snowflake | Bellevue, WA | Fall 2023 | **🔒 Closed 🔒** Software Engineer Intern (Core/Database Engineering) |
 | [ByteDance](https://jobs.bytedance.com/en/position?keywords=Software&category=&location=&project=7129361493955135774&type=2%2C3) | Seattle, WA <br/> San Jose, CA | Fall 2023 | Multiple |
-| [Google] | Multiple | Fall 2023 | **🔒 Closed 🔒** Software Engineering Intern, BS, Fall 2023 (Due July 7th, 2023) |
+| Google | Multiple | Fall 2023 | **🔒 Closed 🔒** Software Engineering Intern, BS, Fall 2023 (Due July 7th, 2023) |
 | Splunk | Remote | Fall 2023 | **🔒 Closed 🔒** <br/> Software Engineer Intern (Frontend) <br/> Performance Engineer Intern <br/> Machine Learning Engineer Intern <br/> Software Engineer Co-op (Frontend) (Canada) |
 | Anyscale | San Francisco, CA | Fall 2023 | **🔒 Closed 🔒**Software Engineer Intern |
 | [Amazon](https://www.amazon.jobs/en/jobs/2383729/software-engineering-intern-aws-center-for-quantum-computing-aws-center-for-quantum-computing) | San Francisco, CA | Fall 2023 | Software Engineering Intern - CQC | 
