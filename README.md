@@ -125,8 +125,10 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [TransMarket Group](https://boards.greenhouse.io/transmarketgroup?gh_src=295a85457us) | Chicago, IL | [Algorithmic Trader Intern](https://boards.greenhouse.io/transmarketgroup/jobs/4023650007?t=295a85457us) <br/> [Quantitative Trader Intern](https://boards.greenhouse.io/transmarketgroup/jobs/4023644007?t=295a85457us) |
 | [Procter & Gamble](https://www.pgcareers.com/global/en/job/R000086643/IT-Engineer-Internship) | Cincinnati, OH | IT Engineer Intern (No Sponsorship Available) |
 | [Five Rings](https://fiverings.avature.net/careers) | NYC | [Software Dev Intern](https://fiverings.avature.net/careers/FolderDetail/New-York-New-York-United-States-Software-Developer-Summer-Intern-2024/649) <br/> [Quant Researcher Intern](https://fiverings.avature.net/careers/FolderDetail/New-York-New-York-United-States-Quantitative-Researcher-Summer-Intern-2024/645) <br/> [Quant Trader Intern](https://fiverings.avature.net/careers/FolderDetail/New-York-New-York-United-States-Quantitative-Trader-Summer-Intern-2024/643) <br/> (Winter 2024 also available) | 
-| [Milliman](https://recruiting2.ultipro.com/MIL1017/JobBoard/f54234e9-dfde-b183-fd20-4fbdb19cba7a/OpportunityDetail?opportunityId=07e563a5-18f6-4e9f-a719-452971adba46)| Omaha, NE | Software Engineer Intern |
+| Milliman | Omaha, NE | **🔒 Closed 🔒** Software Engineer Intern |
 | [PCMI Corporation](https://www.indeed.com/cmp/Pcmi-Corporation-2/jobs?jk=e35b465c20d1a7c2&start=0&clearPrefilter=1) | Park Ridge, IL | BI QA Analyst Intern |
+| [Protective](https://jobs.lever.co/protective/2761edea-63bc-4be7-8b48-6e925c1be3f8/?lever-source%5B%5D=DiversityJobs) | Birmingham, AL | Technology Summer Internship |
+| [PepsiCo](https://www.pepsicojobs.com/internshipsprograms/jobs/241240?lang=en-us&previousLocale=en-US)| Purchase, New York <br> Plano, Texas | Software Development & Engineering Intern (No Sponsorship) |
 | [U.S. Bank](https://careers.usbank.com/global/en/job/2023-0020491/2024-Software-Engineering-Summer-Intern-Early-Careers) | Richfield, MN; and Atlanta, GA | 2024 Software Engineering Summer Intern |
 
 <!-- Please leave a one line gap between this and the table -->

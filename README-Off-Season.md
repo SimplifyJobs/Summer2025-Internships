@@ -67,10 +67,11 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Vivacity Tech](https://vivacitytech.applytojob.com/apply/Wnw5Abrw6U/Engineer-Software-Intern) | Remote | Fall 2023 | Software Engineer Intern |
 | [Langan](https://careers.langan.com/job/Parsippany-Software-Development-Intern-or-Co-op-Fall-2023-NJ-07054-2172/1045849800/) | Parsippany, NJ | Fall 2023 | Software Engineer Intern |
 | [Medpace](https://uscareers-medpace.icims.com/jobs/8878/software-development-co-op---fall-2023/job) | Cincinnati, OH | Fall 2023 | Software Development Intern |
-| [Skydio](https://boards.greenhouse.io/skydio/jobs/5639641003?gh_src=b2366f993us) | San Mateo, California | Fall 2023 | Embedded Software Engineer Intern |
+| [Skydio](https://boards.greenhouse.io/skydio/jobs/5639641003?gh_src=b2366f993us) | San Mateo, CA | Fall 2023 | Embedded Software Engineer Intern |
 | Impulse Space | Redondo Beach, CA | Fall 2023 | **🔒 Closed 🔒** Embedded Software Engineering Intern (US Citizenship Required) |
 | BenefitMall | Hybrid (Dallas, TX) | Multiple | **🔒 Closed 🔒** Software Development Intern |
 | [Tesla](https://www.tesla.com/careers/search/?site=US&type=3) | Multiple | Fall 2023, Winter/Spring 2024 | Frontend/Backend SWE, Network Engineering, PM, UI/UX, and more. |
+| [Milliman](https://recruiting2.ultipro.com/MIL1017/JobBoard/f54234e9-dfde-b183-fd20-4fbdb19cba7a/OpportunityDetail?opportunityId=13902acc-1b58-407a-8c0f-c093d7b8cc5a) | Milwaukee, WI <br/> Chicago, IL <br/> Hartford, CT <br/> Remote | Spring 2024 | Healthcare Analytics Intern |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2024-Internships/blob/dev/README-Off-Season.md#the-list-)
