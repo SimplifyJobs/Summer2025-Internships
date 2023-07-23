@@ -130,6 +130,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Protective](https://jobs.lever.co/protective/2761edea-63bc-4be7-8b48-6e925c1be3f8/?lever-source%5B%5D=DiversityJobs) | Birmingham, AL | Technology Summer Internship |
 | [PepsiCo](https://www.pepsicojobs.com/internshipsprograms/jobs/241240?lang=en-us&previousLocale=en-US)| Purchase, New York <br> Plano, Texas | Software Development & Engineering Intern (No Sponsorship) |
 | [U.S. Bank](https://careers.usbank.com/global/en/job/2023-0020491/2024-Software-Engineering-Summer-Intern-Early-Careers) | Richfield, MN; and Atlanta, GA | 2024 Software Engineering Summer Intern |
+| Tesla | 	Austin, TX ; and Fremont, CA | [Data Analyst/Engineer, Supply Chain Optimization Internship (Spring 2024)]()  <br/> [Data Engineering Internship, Applications Engineering (Winter/Spring 2024)](https://www.tesla.com/careers/search/job/data-engineering-internship-applications-engineering-winter-spring-2024-204268?source=LinkedIn)|
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2024-Internships#the-list-)
