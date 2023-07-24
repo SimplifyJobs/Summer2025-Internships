@@ -22,15 +22,16 @@ Cool! You're ready to add an internship to the list. Follow these steps:
 ```jsonc
 [
     // example contribution (don't delete)
-
     {
         "company_name": "ExampleCompany",
         "title": "Software Engineering Internship Example",
-        "start_date": "MM/DD/YYYY",
         "url": "https://example.com/this/is/a/link/to/the/job/posting",
         "location": [
             "City, State",
             "Remote"
+        ],
+        "terms": [
+            "Summer-2024"
         ],
         "active": true
     }
@@ -43,6 +44,18 @@ Cool! You're ready to add an internship to the list. Follow these steps:
 3) To add a new internship, copy the example template, add it to the list at the bottom, and replace the values with the corresponding information about your submission.
 > Please make a new list entry for each unique position, **even if they are for the same company**.
 
+Here are more specifics about what each field means:
+
+| Property Name   | Data Type        | Description                                          | Example |
+| --------------- | ---------------- | ---------------------------------------------------- | -------- |
+| **company_name**| `str`            | Name of company                                      | Google |
+| **title**       | `str`            | Name of internship position                          | ML Software Engineer Intern |
+| **url**         | `str`            | Link to job posting (include "https://")             | https://google.com/link/to/job/posting |
+| **location**    | `[str]`          | Array of locations available for internship | ["Mountain View, CA", "Remote"] |
+| **terms**       | `[str]`          | Terms offered "{Summer, Fall, Winter, Spring}-year"        | ["Summer-2024", "Fall-2024"] |
+| **active**      | `bool`           | `true` if application is open. `false` if not.         | true |
+
+
 4) Once you are done, the file should look something like this:
 
 ```jsonc
@@ -50,14 +63,16 @@ Cool! You're ready to add an internship to the list. Follow these steps:
     {
         "company_name": "ExampleCompany",
         "title": "Software Engineering Internship Example",
-        "start_date": "MM/DD/YYYY",
         "url": "https://example.com/this/is/a/link/to/the/job/posting",
         "location": [
             "City, State",
             "Remote"
         ],
+        "terms": [
+            "Summer-2024"
+        ],
         "active": true
-    },
+    }
 
     // ...other submissions (if any)
 
