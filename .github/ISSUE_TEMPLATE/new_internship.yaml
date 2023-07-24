@@ -15,46 +15,36 @@ body:
       placeholder: ex. Google
     validations:
       required: true
-  - type: textarea
-    id: what-happened
+  - type: input
+    id: title
     attributes:
-      label: What happened?
-      description: Also tell us, what did you expect to happen?
-      placeholder: Tell us what you see!
-      value: "A bug happened!"
+      label: Internship Title
+      description: How can we get in touch with you if we need more info?
+      placeholder: ex. ML Software Intern
     validations:
       required: true
-  - type: dropdown
-    id: version
+  - type: input
+    id: url
     attributes:
-      label: Version
-      description: What version of our software are you running?
-      options:
-        - 1.0.2 (Default)
-        - 1.0.3 (Edge)
+      label: Link to Internship Posting
+      description: How can we get in touch with you if we need more info?
+      placeholder: ex. example.com/link/to/posting
     validations:
       required: true
-  - type: dropdown
-    id: browsers
-    attributes:
-      label: What browsers are you seeing the problem on?
-      multiple: true
-      options:
-        - Firefox
-        - Chrome
-        - Safari
-        - Microsoft Edge
   - type: textarea
-    id: logs
+    id: location
     attributes:
-      label: Relevant log output
-      description: Please copy and paste any relevant log output. This will be automatically formatted into code, so no need for backticks.
-      render: shell
-  - type: checkboxes
-    id: terms
-    attributes:
-      label: Code of Conduct
-      description: By submitting this issue, you agree to follow our [Code of Conduct](https://example.com)
-      options:
-        - label: I agree to follow this project's Code of Conduct
-          required: true
+      label: Location
+      description: Where is the internship located? (Please enter semicolon-separated list if there are multiple options. Include Remote if remote option available)
+      placeholder: San Franciso, CA; Austin, TX; Remote
+    validations:
+      required: true
+- type: checkboxes
+  id: cat-preferences
+  attributes:
+    label: What terms are offered
+    description: You may select more than one.
+    options:
+      - label: Orange cat (required. Everyone likes orange cats.)
+        required: true
+      - label: **Black cat**
