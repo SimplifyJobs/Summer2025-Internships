@@ -21,8 +21,11 @@ Welcome back! This repository is your go-to resource for sharing and keeping tra
 </div>
 
 ## The List 🚴🏔
+><img src="https://i.imgur.com/5JF7mJI.png" width="100" alt="Simplify" />
+> This button takes you straight to the original job posting
+
 ><a href="https://simplify.jobs"><img src="https://i.imgur.com/kvraaHg.png" width="100" alt="Simplify" /></a>
->This button designates an internship supported by Simplify, and you can apply with just one click!
+> This button takes you to the posting on Simplify, and you can apply with just one click!
 
 <!-- Please leave a one line gap between this and the table TABLE_START (DO NOT CHANGE THIS LINE) -->
 
