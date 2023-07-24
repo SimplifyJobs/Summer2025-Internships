@@ -2,12 +2,15 @@
     {
         "company_name": "ExampleCompany",
         "title": "Software Engineering Internship Example",
-        "start_date": "MM/DD/YYYY",
         "url": "https://example.com/this/is/a/link/to/the/job/posting",
         "location": [
             "City, State",
             "Remote"
         ],
+        "terms": [
+            "Summer"
+        ],
+        "year": 2024,
         "active": true
     }
 ]
