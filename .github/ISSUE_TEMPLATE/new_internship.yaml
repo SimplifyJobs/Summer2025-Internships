@@ -1,22 +1,20 @@
 name: Bug Report
 description: File a bug report
-title: "[Bug]: "
-labels: ["bug", "triage"]
-assignees:
-  - octocat
+title: "New Internship: "
+labels: ["new_internship"]
 body:
   - type: markdown
     attributes:
       value: |
         Thanks for taking the time to fill out this bug report!
   - type: input
-    id: contact
+    id: company_name
     attributes:
-      label: Contact Details
+      label: Company Name
       description: How can we get in touch with you if we need more info?
-      placeholder: ex. email@example.com
+      placeholder: ex. Google
     validations:
-      required: false
+      required: true
   - type: textarea
     id: what-happened
     attributes:
