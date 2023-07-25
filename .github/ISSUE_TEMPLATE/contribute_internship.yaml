@@ -2,9 +2,6 @@ name: Contribute Internship
 description: Contribute an internship to our list
 title: "New Contribution"
 labels: []
-
-concurrency: adding_internships
-
 body:
   - type: markdown
     attributes:

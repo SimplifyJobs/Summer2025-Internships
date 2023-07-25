@@ -4,6 +4,8 @@ on:
   issues:
     types: [opened]
 
+concurrency: adding_internships
+
 jobs:
   run-python-script:
     runs-on: ubuntu-latest
