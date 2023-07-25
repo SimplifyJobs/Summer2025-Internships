@@ -25,7 +25,7 @@ jobs:
 
       # Add a step to handle the exit status of the Python script
       - name: Handle Python Script Exit
-        if: steps.python_script.outputs.exit_early == 'false'
+        if: steps.python_script.outputs.new_internship == 'false'
         run: |
           echo "The issue is not a new internship. Exiting the workflow."
           exit 0
