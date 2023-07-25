@@ -55,8 +55,8 @@ def main():
     issue_title = event_data['issue']['title']
     issue_body = event_data['issue']['body']
     issue_user = event_data['issue']['user']['login']
-    new_internship = "new_internship" in event_data["issue"]["labels"]
-    print(new_internship, event_data["issue"]["labels"])
+    new_internship = "new_internship" in [
+        label["name"] for label in event_data["issue"]["labels"]]
 
     with open(os.environ['GITHUB_OUTPUT'], 'a') as fh:
         print(f'new_internship={new_internship}', file=fh)
