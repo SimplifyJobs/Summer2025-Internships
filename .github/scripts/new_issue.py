@@ -59,10 +59,10 @@ def main():
     data = getData(issue_body)
 
     listings = []
-    with open("listings.json", "r") as f:
+    with open("./.github/scripts/listings.json", "r") as f:
         listings = json.load(f)
 
-    with open("listings.json", "w") as f:
+    with open("./.github/scripts/listings.json", "w") as f:
         f.write(json.dumps(data, indent=4))
 
 
