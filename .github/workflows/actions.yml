@@ -5,16 +5,17 @@ on:
     types: [opened]
 
 jobs:
-  build:
+  run-python-script:
     runs-on: ubuntu-latest
+
     steps:
-      - name: checkout repo content
+      - name: Checkout Repository
         uses: actions/checkout@v2
 
-      - name: setup python
-        uses: actions/setup-python@v4
+      - name: Set up Python
+        uses: actions/setup-python@v2
         with:
-          python-version: "3.9"
+          python-version: "3.9" # Replace 'x' with the version you want to use
 
       - name: execute new_issue.py
         env:
