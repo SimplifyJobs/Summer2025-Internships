@@ -1,6 +1,7 @@
 import sys
 import json
 import subprocess
+import sys
 
 
 def main():
@@ -24,6 +25,8 @@ def main():
 
     with open("listings.json", "w") as f:
         f.write(json.dumps(event_data, indent=4))
+
+    sys.exit(0)
 
 
 if __name__ == "__main__":
