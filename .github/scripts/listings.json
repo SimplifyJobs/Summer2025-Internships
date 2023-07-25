@@ -1,1 +1,18 @@
-"### Company Name\n\nGoogle\n\n### Internship Title\n\nML Software Intern\n\n### Link to Internship Posting\n\nexample.com/link/to/posting\n\n### Location\n\nSan Franciso, CA | Austin, TX | Remote\n\n### What term(s) is this internship offered for?\n\nWinter 2024\n\n### Is this posting currently accepting applications?\n\n- [X] Check this box if yes"
+{
+    "company_name": "Google",
+    "title": "ML Software Intern",
+    "url": "https://example.com/link/to/posting",
+    "location": [
+        "San Franciso, CA",
+        "Austin, TX",
+        "Remote"
+    ],
+    "terms": [
+        "Winter 2024"
+    ],
+    "active": true,
+    "source": "matttreed",
+    "id": "5a1162ff-5570-429d-b058-fa32312e98fa",
+    "date_updated": "07/25/2023",
+    "date_posted": "07/25/2023"
+}
