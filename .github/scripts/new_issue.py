@@ -26,7 +26,7 @@ def main():
     with open("listings.json", "w") as f:
         f.write(json.dumps(values, indent=4))
 
-    print("::set-output name=new_internship::false")
+    print("::set-output name=new_internship::true")
 
 
 if __name__ == "__main__":
