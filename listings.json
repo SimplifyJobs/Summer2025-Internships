@@ -56,5 +56,24 @@
         "id": "bbd970d5-00c6-4089-ae69-438c28e4dfc8",
         "date_updated": "07/25/2023",
         "date_posted": "07/25/2023"
+    },
+    {
+        "company_name": "Google",
+        "title": "ML Software Intern",
+        "url": "https://example.com/link",
+        "location": [
+            "San Franciso, CA",
+            "Austin, TX",
+            "Remote"
+        ],
+        "terms": [
+            "Winter 2024",
+            "Spring 2024"
+        ],
+        "active": false,
+        "source": "matttreed",
+        "id": "442ee5ac-68b7-46f2-86ce-42cdc6a8f0b8",
+        "date_updated": "07/25/2023",
+        "date_posted": "07/25/2023"
     }
 ]
