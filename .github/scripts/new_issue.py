@@ -55,11 +55,8 @@ def main():
     issue_title = event_data['issue']['title']
     issue_body = event_data['issue']['body']
     issue_user = event_data['issue']['user']['login']
+    new_internship = "new_internship" in event_data["issue"]["labels"]
 
-    keys = ["### Company Name", "### Internship Title",
-            "### Link to Internship Posting"]
-
-    new_internship = all([key in issue_body for key in keys])
     with open(os.environ['GITHUB_OUTPUT'], 'a') as fh:
         print(f'new_internship={new_internship}', file=fh)
     if not new_internship:
