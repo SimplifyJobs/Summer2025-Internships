@@ -18,13 +18,13 @@ def main():
     issue_body = event_data['issue']['body']
     issue_user = event_data['issue']['user']['login']
 
-    print(f"New Issue Number: {issue_number}")
-    print(f"Title: {issue_title}")
-    print(f"Body: {issue_body}")
-    print(f"Opened By: {issue_user}")
+    values = []
+    for line in issue_body.split("\n"):
+        if line.find("#") == -1:
+            values.append(line.strip().lower())
 
     with open("listings.json", "w") as f:
-        f.write(json.dumps(event_data, indent=4))
+        f.write(json.dumps(values, indent=4))
 
     print("::set-output name=new_internship::false")
 
