@@ -18,7 +18,7 @@ def main():
     issue_body = event_data['issue']['body']
     issue_user = event_data['issue']['user']['login']
 
-    values = []
+    values = ["company_name", "title", "url", "location", "terms"]
     for line in issue_body.split("\n"):
         values.append(line)
         # if line.find("#") == -1:
