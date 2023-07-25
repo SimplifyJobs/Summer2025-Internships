@@ -1,11 +1,1 @@
-{
-    "company_name": "Google",
-    "title": "ML Software Intern",
-    "url": "https://example.com/link/to/posting",
-    "location": [
-        "San Franciso, CA; Austin, TX; Remote"
-    ],
-    "terms": [
-        "Summer 2024"
-    ]
-}
+"### Company Name\n\nGoogle\n\n### Internship Title\n\nML Software Intern\n\n### Link to Internship Posting\n\nexample.com/link/to/posting\n\n### Location\n\nSan Franciso, CA | Austin, TX | Remote\n\n### What term(s) is this internship offered for?\n\nWinter 2024\n\n### Is this posting currently accepting applications?\n\n- [X] Check this box if yes"
