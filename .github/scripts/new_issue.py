@@ -42,7 +42,8 @@ def getData(body):
     data["locations"] = [line.strip() for line in lines[line_i].split("|")]
     line_i = getNextLine(lines, line_i)
     data["terms"] = [line.strip() for line in lines[line_i].split(",")]
-    line_i = getNextLine(lines, line_i)
+
+    return data
 
 
 def main():
