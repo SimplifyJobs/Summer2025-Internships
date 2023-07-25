@@ -9,9 +9,12 @@
             "Remote"
         ],
         "terms": [
-            "Fall 2023"
+            "Fall 2023",
+            "Spring 2024",
+            "Summer 2024",
+            "Fall 2024"
         ],
-        "active": true,
+        "active": false,
         "source": "matttreed",
         "id": "b646860a-6d86-480d-9221-0dc337552b0d",
         "date_updated": "07/25/2023",
