@@ -23,17 +23,14 @@ jobs:
           GITHUB_EVENT_PATH: ${{ github.event_path }}
         run: python .github/scripts/new_issue.py $GITHUB_EVENT_PATH
 
-      # Add a step to handle the exit status of the Python script
-      - name: Handle Python Script Exit
-        if: steps.python_script.outputs.new_internship == 'true'
-        run: exit 0
-
       - name: Close Issue
         run: gh issue close --comment "Auto-closing issue" ${{ github.event.issue.number }}
+        if: steps.python_script.outputs.new_internship == 'true'
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: commit files
+        if: steps.python_script.outputs.new_internship == 'true'
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
@@ -41,6 +38,7 @@ jobs:
           git diff-index --quiet HEAD || (git commit -a -m "updated logs" --allow-empty)
 
       - name: push changes
+        if: steps.python_script.outputs.new_internship == 'true'
         uses: ad-m/github-push-action@v0.6.0
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
