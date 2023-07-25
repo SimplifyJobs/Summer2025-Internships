@@ -131,7 +131,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [PepsiCo](https://www.pepsicojobs.com/internshipsprograms/jobs/241240?lang=en-us&previousLocale=en-US)| Purchase, New York <br> Plano, Texas | Software Development & Engineering Intern (No Sponsorship) |
 | [U.S. Bank](https://careers.usbank.com/global/en/job/2023-0020491/2024-Software-Engineering-Summer-Intern-Early-Careers) | Richfield, MN; and Atlanta, GA | 2024 Software Engineering Summer Intern |
 | Jane Street | New York, NY | [Software Engineer Internship](https://www.janestreet.com/join-jane-street/position/6834728002/) <br/> [Quantitative Trader Internship](https://www.janestreet.com/join-jane-street/position/6850721002/) <br/> [Quantitative Researcher Internship](https://www.janestreet.com/join-jane-street/position/6838982002/) |
-| [General Motors](https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Detroit-Michigan-United-States-of-America/XMLNAME-2024-Summer-Intern---Digital-Transformation---Data-Analyst-or-Data-Scientist_JR-202313389?source=Indeed) | Detroit, Michigan (Hybrid) | 2024 Summer Intern – Digital Transformation – Data Analyst or Data Scientist (No Sponsorship) |
+| [General Motors](https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Detroit-Michigan-United-States-of-America/XMLNAME-2024-Summer-Intern---Digital-Transformation---Data-Analyst-or-Data-Scientist_JR-202313389) | Detroit, Michigan (Hybrid) | 2024 Summer Intern – Digital Transformation – Data Analyst or Data Scientist (No Sponsorship) |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2024-Internships#the-list-)
