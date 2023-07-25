@@ -71,6 +71,7 @@ def main():
     data["date_updated"] = datetime.now().strftime("%m/%d/%Y")
     data["date_posted"] = datetime.now().strftime("%m/%d/%Y")
     data["active"] = True
+    data["company_url"] = ""
 
     listings = []
     with open("listings.json", "r") as f:
