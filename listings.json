@@ -64,7 +64,7 @@
         "company_name": "Google",
         "title": "ML Software Intern",
         "url": "https://example.com/link",
-        "location": [
+        "locations": [
             "San Franciso, CA",
             "Austin, TX",
             "Remote"
