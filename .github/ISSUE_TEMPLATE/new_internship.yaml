@@ -13,6 +13,7 @@ body:
       label: Company Name
       description: How can we get in touch with you if we need more info?
       placeholder: ex. Google
+      value: Google
     validations:
       required: true
   - type: input
@@ -21,6 +22,7 @@ body:
       label: Internship Title
       description: How can we get in touch with you if we need more info?
       placeholder: ex. ML Software Intern
+      value: ML Software Intern
     validations:
       required: true
   - type: input
@@ -29,6 +31,7 @@ body:
       label: Link to Internship Posting
       description: How can we get in touch with you if we need more info?
       placeholder: ex. example.com/link/to/posting
+      value: example.com/link/to/posting
     validations:
       required: true
   - type: textarea
@@ -37,5 +40,6 @@ body:
       label: Location
       description: Where is the internship located? (Please enter semicolon-separated list if there are multiple options. Include Remote if remote option available)
       placeholder: San Franciso, CA; Austin, TX; Remote
+      value: San Franciso, CA; Austin, TX; Remote
     validations:
       required: true
