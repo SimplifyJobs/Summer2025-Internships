@@ -24,6 +24,12 @@ jobs:
         run: python .github/scripts/new_issue.py $GITHUB_EVENT_PATH
 
       - name: Close Issue
+        run: gh issue comment create ${{ github.repository }} --issue ${{ github.event.issue.number }} --body "${{ steps.python_script.outputs.error_message }}"
+        if: failure()
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Close Issue
         run: gh issue close --comment "Auto-closing issue" ${{ github.event.issue.number }}
         if: steps.python_script.outputs.new_internship == 'true'
         env:

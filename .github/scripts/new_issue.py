@@ -4,6 +4,11 @@ import subprocess
 import sys
 
 
+def throwError(message):
+    print("::set-output name=error_message::" + message)
+    exit(1)
+
+
 def getNextLine(lines, curr_i):
     curr_i += 1
     while curr_i < len(lines) and ("#" in lines[curr_i] or len(lines[curr_i]) == 0):
@@ -30,7 +35,7 @@ def getData(body):
     line_i = getNextLine(lines, line_i)
     data["url"] = add_https_to_url(lines[line_i].strip())
     line_i = getNextLine(lines, line_i)
-    data["location"] = [line.strip() for line in lines[line_i].split(";")]
+    data["location"] = [line.strip() for line in lines[line_i].split("|")]
     line_i = getNextLine(lines, line_i)
     data["terms"] = [line.strip() for line in lines[line_i].split(",")]
     return data
