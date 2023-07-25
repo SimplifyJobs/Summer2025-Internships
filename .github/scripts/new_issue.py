@@ -78,7 +78,7 @@ def main():
         listings = json.load(f)
 
     found = next(
-        (item for item in listings if item["url"] == found["url"]), None)
+        (item for item in listings if item["url"] == data["url"]), None)
     if found:
         if found["source"] == data["source"]:
             for key in ["company_name", "title", "location", "terms", "active", "date_updated"]:
