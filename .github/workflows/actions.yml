@@ -25,7 +25,7 @@ jobs:
 
       # Add a step to handle the exit status of the Python script
       - name: Handle Python Script Exit
-        if: steps.python_script.outputs.new_internship == 'false'
+        if: steps.python_script.outputs.new_internship == 'true'
         run: exit 0
 
       - name: Close Issue
