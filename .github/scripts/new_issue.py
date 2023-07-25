@@ -40,6 +40,8 @@ def getData(body):
     data["location"] = [line.strip() for line in lines[line_i].split("|")]
     line_i = getNextLine(lines, line_i)
     data["terms"] = [line.strip() for line in lines[line_i].split(",")]
+    line_i = getNextLine(lines, line_i)
+    data["active"] = "[x]" in lines[line_i].lower()
     return data
 
 
@@ -76,7 +78,7 @@ def main():
     # for listing in listings:
 
     with open(".github/scripts/listings.json", "w") as f:
-        f.write(json.dumps(issue_body, indent=4))
+        f.write(json.dumps(data, indent=4))
 
 
 if __name__ == "__main__":
