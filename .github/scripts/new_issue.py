@@ -75,7 +75,17 @@ def main():
     with open(".github/scripts/listings.json", "r") as f:
         listings = json.load(f)
 
-    # for listing in listings:
+    found = next(
+        (item for item in listings if item["url"] == found["url"]), None)
+    if found:
+        if found["source"] == data["source"]:
+            for key in ["company_name", "title", "location", "terms", "active", "date_updated"]:
+                found[key] = data[key]
+        else:
+            throwError(
+                "You cannot update a listing that you did not originally contribute")
+    else:
+        listings.append(data)
 
     with open(".github/scripts/listings.json", "w") as f:
         f.write(json.dumps(data, indent=4))

@@ -1,7 +1,7 @@
-name: New Internship
-description: Contribute a new internship
-title: "New Internship"
-labels: ["new_internship"]
+name: Contribute Internship
+description: Contribute an internship to our list
+title: "New Contribution"
+labels: []
 body:
   - type: markdown
     attributes:
