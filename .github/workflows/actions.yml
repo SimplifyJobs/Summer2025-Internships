@@ -24,7 +24,7 @@ jobs:
         run: python .github/scripts/new_issue.py $GITHUB_EVENT_PATH
 
       - name: Problem With Issue
-        run: gh issue comment create ${{ github.repository }} --issue ${{ github.event.issue.number }} --body "There was a problem with your contribution - ${{ steps.python_script.outputs.error_message }}"
+        run: gh issue comment ${{ github.event.issue.number }} --body "There was a problem with your contribution - ${{ steps.python_script.outputs.error_message }}"
         if: failure()
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}

@@ -4,10 +4,12 @@ import subprocess
 import sys
 import uuid
 from datetime import datetime
+import os
 
 
 def throwError(message):
-    print("::set-output name=error_message::" + message)
+    with open(os.environ['GITHUB_OUTPUT'], 'a') as fh:
+        print(f'error_message={message}', file=fh)
     exit(1)
 
 
@@ -59,10 +61,10 @@ def main():
     keys = ["### Company Name", "### Internship Title",
             "### Link to Internship Posting"]
 
-    if all([key in issue_body for key in keys]):
-        print("::set-output name=new_internship::true")
-    else:
-        print("::set-output name=new_internship::false")
+    new_internship = all([key in issue_body for key in keys])
+    with open(os.environ['GITHUB_OUTPUT'], 'a') as fh:
+        print(f'new_internship={new_internship}', file=fh)
+    if not new_internship:
         return
 
     data = getData(issue_body)
@@ -88,7 +90,7 @@ def main():
         listings.append(data)
 
     with open(".github/scripts/listings.json", "w") as f:
-        f.write(json.dumps(data, indent=4))
+        f.write(json.dumps(listings, indent=4))
 
 
 if __name__ == "__main__":
