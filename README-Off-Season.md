@@ -32,9 +32,9 @@ Welcome back! This repository is your go-to resource for sharing and keeping tra
 | Company | Role | Location | Terms | Link | Status |
 | --- | --- | --- | --- | :---: | :---: |
 | **Google** | ML Software Intern | San Franciso, CA and 2 other locations | Fall 2023, Spring 2024 | <a href="https://example.com/link/to/postingerergerfergef"><img src="https://i.imgur.com/5JF7mJI.png" width="150" alt="Apply"></a> | ✅ |
-| **Google** | ML Software Intern | Not Active | Fall 2023, Spring 2024, Summer 2024, Fall 2024 | <a href="https://example.com/link/to/posting"><img src="https://i.imgur.com/5JF7mJI.png" width="150" alt="Apply"></a> | 🔒 |
-| **Google** | ML Software Intern | Not Active | Spring 2024 | <a href="https://example.com/link/to/po"><img src="https://i.imgur.com/5JF7mJI.png" width="150" alt="Apply"></a> | 🔒 |
-| **Google** | ML Software Intern | Not Active | Winter 2024, Spring 2024 | <a href="https://example.com/link"><img src="https://i.imgur.com/5JF7mJI.png" width="150" alt="Apply"></a> | 🔒 |
+| **Google** | ML Software Intern | San Franciso, CA and 2 other locations | Fall 2023, Spring 2024, Summer 2024, Fall 2024 | Not Active | 🔒 |
+| **Google** | ML Software Intern | San Franciso, CA and 2 other locations | Spring 2024 | Not Active | 🔒 |
+| **Google** | ML Software Intern | San Franciso, CA and 2 other locations | Winter 2024, Spring 2024 | Not Active | 🔒 |
 
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2024-Internships/blob/dev/README-Off-Season.md#the-list-)
