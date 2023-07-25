@@ -27,7 +27,7 @@ jobs:
 
       - name: Problem With Issue
         run: gh issue comment ${{ github.event.issue.number }} --body "There was a problem with your contribution - ${{ steps.python_script.outputs.error_message }}"
-        if: failure()
+        if: failure() && steps.python_script.outputs.error_message != ''
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
@@ -42,7 +42,7 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add .github/scripts/listings.json
+          git add listings.json
           git diff-index --quiet HEAD || (git commit -a -m "updated logs" --allow-empty)
 
       - name: push changes
@@ -51,3 +51,9 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: dev
+
+      - name: Problem With Action
+        run: gh issue comment ${{ github.event.issue.number }} --body "There was an error with our github action that automatically adds contributions. Please try again and if it still does not work submit an issue about your experience."
+        if: failure() && steps.python_script.outputs.error_message == ''
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}

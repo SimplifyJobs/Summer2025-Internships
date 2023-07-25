@@ -74,22 +74,18 @@ def main():
     data["date_posted"] = datetime.now().strftime("%m/%d/%Y")
 
     listings = []
-    with open(".github/scripts/listings.json", "r") as f:
+    with open("listings.json", "r") as f:
         listings = json.load(f)
 
     found = next(
         (item for item in listings if item["url"] == data["url"]), None)
     if found:
-        if found["source"] == data["source"]:
-            for key in ["company_name", "title", "location", "terms", "active", "date_updated"]:
-                found[key] = data[key]
-        else:
-            throwError(
-                "You cannot update a listing that you did not originally contribute")
+        throwError(
+            "You cannot update a listing using an issue. See CONTRIBUTING.md for how to edit a listing")
     else:
         listings.append(data)
 
-    with open(".github/scripts/listings.json", "w") as f:
+    with open("listings.json", "w") as f:
         f.write(json.dumps(listings, indent=4))
 
 
