@@ -38,7 +38,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 
 ## The List 🚴🏔
 > **Note**:
-> This README file is for **Summer 2024 internships only**. For Summer 2023 internships, please [click here](https://github.com/pittcsc/Summer2024-Internships/blob/dev/README-2023.md).
+> This README file is for **Summer 2024 internships only**. For off-season internships, see the [Off-Season Internship README](https://github.com/pittcsc/Summer2024-Internships/blob/dev/README-Off-Season.md).
 
 [⬇️ Jump to bottom ⬇️](https://github.com/pittcsc/Summer2024-Internships#we-love-our-contributors-%EF%B8%8F%EF%B8%8F)
 <!-- Please leave a one line gap between this and the table -->
@@ -50,7 +50,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Optiver](https://optiver.com/working-at-optiver/career-opportunities/) | Chicago, IL <br/> Austin, TX | [Quantitative Trader Intern (Summer 2024 – Chicago)](https://optiver.com/working-at-optiver/career-opportunities/6793142002/) <br/> [HFT Research Intern (Summer 2024 – Austin)](https://optiver.com/working-at-optiver/career-opportunities/6796767002/) <br/> [Software Engineer Intern (Summer 2024 – Austin)](https://optiver.com/working-at-optiver/career-opportunities/6837118002/?_gl=1*15kjubu*_up*MQ..&gclid=CjwKCAjw-7OlBhB8EiwAnoOEk9DE1HiDcs8Rzl5UWzLbMcHX2U_phUQrWHrl4A-soUm_cw8fMfCC3BoCcBcQAvD_BwE) <br/> [Software Engineer Intern (Summer 2024 – Chicago)](https://optiver.com/working-at-optiver/career-opportunities/6837103002/?_gl=1*rzd3uv*_up*MQ..&gclid=CjwKCAjw-7OlBhB8EiwAnoOEk9DE1HiDcs8Rzl5UWzLbMcHX2U_phUQrWHrl4A-soUm_cw8fMfCC3BoCcBcQAvD_BwE) |
 | Bridgewater Associates | Westport, CT | **🔒 Closed 🔒** Investment Engineer Intern |
 | [BlackRock](https://blackrock.tal.net/vx/lang-en-GB/mobile-0/brand-3/xf-232eb66ac89a/candidate/so/pm/1/pl/1/opp/7894-Summer-Internship-Program-Americas/en-GB) | Americas | Summer 2024 Internship Program |
-| [Walmart](https://careers.walmart.com/us/jobs/WD1391200-2024-summer-intern-software-engineer-ii-bentonville-ar) | Bentonville, AR | 2024 Summer Intern: Software Engineer II (No sponsorship available) (Must be enrolled in a Bachelor’s degree program currently) |
+| Walmart | Multiple Locations | [Software Engineer Intern (No sponsorship available)](https://careers.walmart.com/us/jobs/WD1391200-2024-summer-intern-software-engineer-ii-bentonville-ar) <br/> [Systems Engineer Internship (No sponsorship available)](https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Bentonville-AR/XMLNAME-2024-Summer-Intern--Systems-Engineer--Bentonville--AR-_R-1452374?q=2024%20intern) <br/> [Cybersecurity Intern](https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Bentonville-AR/XMLNAME-2024-Summer-Intern--Cybersecurity_R-1593081?q=2024%20intern) <br/> [Data Science Intern](https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Bentonville-AR/XMLNAME-2024-Summer-Intern--Data-Scientist_R-1452385?q=2024%20intern) |
 | [AQR Capital Management, LLC](https://careers.aqr.com/jobs/university-open-positions/greenwich-ct/2024-summer-internship-express-interest/4478927) | Greenwich, CT | 2024 Summer Internship-Express Interest |
 | GE Appliances | Louisville, KY | **🔒 Closed 🔒** Digital Technology Intern |
 | [Epic](https://epic.avature.net/Careers/FolderDetail/Software-Developer-Intern---Summer-2024/23429) | Madison, WI | Software Developer Intern - Summer 2024 (No sponsorship available) |
@@ -81,7 +81,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | Zipline | San Francisco, CA | [Summer 2024 Internship (Express Interest)](https://legacy.flyzipline.com/job?gh_jid=5631836003/) |
 | Rakuten | WV, USA | **🔒 Closed 🔒** Software Engineer Intern |
 | Bamboo Health | Remote, Hybrid (Boston, MA) | **🔒 Closed 🔒** Software Engineer Intern (Must be enrolled in a Bachelor’s degree program currently) |
-| [Sandhills](https://www.sandhills.com/careers-and-internships/details/careers/sandhills/1195/software-development-intern) | Lincoln, Nebraska | Software Development Intern |
+| [Sandhills](https://www.sandhills.com/careers-and-internships/details/careers/sandhills/1195/software-development-intern) | Lincoln, NE | Software Development Intern |
 | [Entrust](https://entrust.wd1.myworkdayjobs.com/EntrustCareers/job/United-States---Sunrise-FL/Software-Engineering-Intern_R002369) | Sunrise, FL | Software Engineer Intern |
 | [Enphase Energy](https://jobs.jobvite.com/enphase-energy/job/oFPRmfwr) | Austin, TX | Embedded Firmware Engineer Intern |
 | [Körber](https://jobs.koerber.com/pharma/job/Fargo-Software-Developer-Intern-ND-58102/954269201/) | Fargo, ND | Software Developer Intern |
@@ -90,7 +90,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Docugami](https://boards.greenhouse.io/docugami/jobs/4014838003) | Kirkland, WA | Software Engineering Intern |
 | SIG | Bala Cynwyd, PA </br> New York, NY </br> Chicago, IL | [Software Engineering Internship Program (Express Interest)](https://careers.sig.com/job/7102/Software-Engineering-Internship-Program-Summer-2024-Expression-of-Interest) </br> [Trading Intern](https://careers.sig.com/job/7464/Trading-Intern-Chicago) |
 | [Northwestern Mutual](https://careers.northwesternmutual.com/corporate-careers/job/public-investments-municipal-trading-analytics-internship-summer-2024-milwaukee-wi-corporate-jr-38135/) | Milwaukee, WI | Municipal Trading Analytics Intern (No Sponsorship) |
-| [JBS USA](https://jobs.jbsfoodsgroup.com/us/en/job/JBUSUS47677EXTERNALENUS/2024-IT-Summer-Internship-Program) | Greeley, CO | Information Technology Intern |
+| JBS USA | Greeley, CO | **🔒 Closed 🔒** Information Technology Intern |
 | [Align Technology](https://jobs.aligntech.com/jobs/36257?iis=Job+Board&iisn=LinkedIn&lang=en-us) | Multiple Locations | Summer 2024 Internship (Expression of Interest) |
 | Forvis | Multiple Locations | **🔒 Closed 🔒** Information Technology Risk Intern (No Sponsorship) |
 | [Crestron](https://globalus231.dayforcehcm.com/CandidatePortal/en-US/crestron/site/candidateportal/Posting/View/820) | Plano, TX <br/> Rockleigh, NJ | Summer 2024 Internship Program |
@@ -105,7 +105,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | Morgan Stanley | Alpharetta, GA <br/> New York, NY | [Technology Summer Analyst Program (Alpharetta, GA)](https://morganstanley.tal.net/vx/candidate/apply/15068) <br/> [Technology Summer Analyst Program (New York, NY)](https://morganstanley.tal.net/vx/candidate/apply/15076) |
 | [BNP Paribas](https://bnppus.tal.net/vx/mobile-0/appcentre-ext/brand-7/candidate/so/pm/1/pl/2/opp/778-2024-Summer-Analyst-Internship-Technology/en-GB) | Jersey City, NJ | 2024 - Summer Analyst Internship - Technology |
 | DRW | Austin, TX <br/> Chicago, IL | [Software Developer Intern (Only F1 Sponsorship Available)](https://drw.com/work-at-drw/listings/software-developer-intern-2567189) <br/> [Site Reliability Engineer Intern](https://drw.com/work-at-drw/listings/site-reliability-engineer-sre-intern-2569887) <br/> [Quantitative Trading Analyst Intern](https://drw.com/work-at-drw/listings/quantitative-trading-analyst-intern-2551092) |
-| [Intuit](https://talenteq.intuit.com/ucs?cid=elq-form_hs_698061_US_UR-FY23_lg_iac-msg4_link_intuit-talentmktg) | Multiple Locations | [2024 Summer Internship Interest](https://talenteq.intuit.com/ucs?cid=elq-form_hs_698061_US_UR-FY23_lg_iac-msg4_link_intuit-talentmktg) (Select sponsorship available)|
+| [Intuit](https://talenteq.intuit.com/ucs?cid=elq-form_hs_698061_US_UR-FY23_lg_iac-msg4_link_intuit-talentmktg) | Multiple Locations | [2024 Summer Internship Interest](https://talenteq.intuit.com/ucs?cid=elq-form_hs_698061_US_UR-FY23_lg_iac-msg4_link_intuit-talentmktg) (Select sponsorship available) |
 | Truist | Charlotte, NC <br/> Atlanta, GA | [2024 Technology and Innovation Internship](https://careers.truist.com/us/en/job/TBJTBFUSR0078021EXTERNALENUS/2024-Technology-and-Innovation-Internship) |
 | Paycom | Oklahoma City, OK | **🔒 Closed 🔒** <br/> Software Analyst Intern <br/> Software Development Intern (No Sponsorship) <br/> Deployment Engineer Intern |
 | Point72 | New York, NY | [Summer 2024 Quantitative Developer Internship](https://careers.point72.com/CSJobDetail?jobName=summer-2024-quantitative-developer-internship&jobCode=CSS-0010069) |
@@ -124,9 +124,14 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Capital One](https://www.capitalonecareers.com/job/mclean/product-development-intern-summer-2024/31238/51746418592) | McLean, VA <br/> Plano, TX | Product Development Intern (No Sponsorship) |
 | [TransMarket Group](https://boards.greenhouse.io/transmarketgroup?gh_src=295a85457us) | Chicago, IL | [Algorithmic Trader Intern](https://boards.greenhouse.io/transmarketgroup/jobs/4023650007?t=295a85457us) <br/> [Quantitative Trader Intern](https://boards.greenhouse.io/transmarketgroup/jobs/4023644007?t=295a85457us) |
 | [Procter & Gamble](https://www.pgcareers.com/global/en/job/R000086643/IT-Engineer-Internship) | Cincinnati, OH | IT Engineer Intern (No Sponsorship Available) |
-| [Five Rings](https://fiverings.avature.net/careers) | NYC | [Software Dev Intern](https://fiverings.avature.net/careers/FolderDetail/New-York-New-York-United-States-Software-Developer-Summer-Intern-2024/649) <br/> [Quant Researcher Intern](https://fiverings.avature.net/careers/FolderDetail/New-York-New-York-United-States-Quantitative-Researcher-Summer-Intern-2024/645) <br/> [Quant Trader Intern](https://fiverings.avature.net/careers/FolderDetail/New-York-New-York-United-States-Quantitative-Trader-Summer-Intern-2024/643) <br/> (Winter 2024 also available) | 
-| [Milliman](https://recruiting2.ultipro.com/MIL1017/JobBoard/f54234e9-dfde-b183-fd20-4fbdb19cba7a/OpportunityDetail?opportunityId=07e563a5-18f6-4e9f-a719-452971adba46)| Omaha, NE | Software Engineer Intern |
+| [Five Rings](https://fiverings.avature.net/careers) | NYC | [Software Dev Intern](https://fiverings.avature.net/careers/FolderDetail/New-York-New-York-United-States-Software-Developer-Summer-Intern-2024/649) <br/> [Quant Researcher Intern](https://fiverings.avature.net/careers/FolderDetail/New-York-New-York-United-States-Quantitative-Researcher-Summer-Intern-2024/645) <br/> [Quant Trader Intern](https://fiverings.avature.net/careers/FolderDetail/New-York-New-York-United-States-Quantitative-Trader-Summer-Intern-2024/643) <br/> (Winter 2024 also available) |
+| Milliman | Omaha, NE | **🔒 Closed 🔒** Software Engineer Intern |
 | [PCMI Corporation](https://www.indeed.com/cmp/Pcmi-Corporation-2/jobs?jk=e35b465c20d1a7c2&start=0&clearPrefilter=1) | Park Ridge, IL | BI QA Analyst Intern |
+| [Protective](https://jobs.lever.co/protective/2761edea-63bc-4be7-8b48-6e925c1be3f8/?lever-source%5B%5D=DiversityJobs) | Birmingham, AL | Technology Summer Internship |
+| [PepsiCo](https://www.pepsicojobs.com/internshipsprograms/jobs/241240?lang=en-us&previousLocale=en-US) | Purchase, NY <br> Plano, TX | Software Development & Engineering Intern (No Sponsorship) |
+| [U.S. Bank](https://careers.usbank.com/global/en/job/2023-0020491/2024-Software-Engineering-Summer-Intern-Early-Careers) | Richfield, MN; and Atlanta, GA | 2024 Software Engineering Summer Intern |
+| Jane Street | New York, NY | [Software Engineer Internship](https://www.janestreet.com/join-jane-street/position/6834728002/) <br/> [Quantitative Trader Internship](https://www.janestreet.com/join-jane-street/position/6850721002/) <br/> [Quantitative Researcher Internship](https://www.janestreet.com/join-jane-street/position/6838982002/) |
+| [General Motors](https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Detroit-Michigan-United-States-of-America/XMLNAME-2024-Summer-Intern---Digital-Transformation---Data-Analyst-or-Data-Scientist_JR-202313389) | Detroit, MI (Hybrid) | 2024 Summer Intern – Digital Transformation – Data Analyst or Data Scientist (No Sponsorship) |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2024-Internships#the-list-)
