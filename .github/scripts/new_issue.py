@@ -2,6 +2,8 @@ import sys
 import json
 import subprocess
 import sys
+import uuid
+from datetime import datetime
 
 
 def throwError(message):
@@ -62,13 +64,19 @@ def main():
         return
 
     data = getData(issue_body)
+    data["source"] = issue_user
+    data["id"] = str(uuid.uuid4())
+    data["date_updated"] = datetime.now().strftime("%m/%d/%Y")
+    data["date_posted"] = datetime.now().strftime("%m/%d/%Y")
 
     listings = []
-    with open("./.github/scripts/listings.json", "r") as f:
+    with open(".github/scripts/listings.json", "r") as f:
         listings = json.load(f)
 
-    with open("./.github/scripts/listings.json", "w") as f:
-        f.write(json.dumps(data, indent=4))
+    # for listing in listings:
+
+    with open(".github/scripts/listings.json", "w") as f:
+        f.write(json.dumps(issue_body, indent=4))
 
 
 if __name__ == "__main__":
