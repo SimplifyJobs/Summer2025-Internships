@@ -31,7 +31,7 @@ body:
       value: example.com/link/to/posting
     validations:
       required: true
-  - type: textarea
+  - type: input
     id: location
     attributes:
       label: Location
