@@ -136,7 +136,6 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Discover](https://jobs.discover.com/jobs/r292162024-business-technology-internship-program-riverwoods/) | Riverwoods, IL | Business Technology Internship Program (No Sponsorship) |
 | [Tyler Technologies](https://jobs.jobvite.com/tylertech/job/ojyMlfwI) | Moraine, OH | Software Development Intern - Summer/Fall |
 | [Steris](https://careers.steris.com/job/RICHMOND-Software-Engineering-Intern-CA-94804/1054522400/) | Richmond, CA | Software Engineer Intern |
-| [Arkansas Center for Data Sciences](https://jobs.lever.co/acds/c29f04bb-9d15-48df-9ba1-7c0106ac8cda) | Fayetteville, AR | ETL Developer/Junior DBA Intern (No Sponsorship) |
 | [Infoverity](https://infoverity.zohorecruit.com/jobs/Infoverity-USA-Careers/530797000006827069/Summer-Internship-summer-2024-) | Dublin, OH | Summer Internship Program (No Sponsorship) |
 | [Eagle Eye Produce](https://eagleeyeproduce.bamboohr.com/careers/108) | Idaho Falls, ID | Web Developer Intern |
 | [Aquaveo](https://www.aquaveo.com/jobs-geospatial-web-developer-intern) | Provo, UT | Geospatial Web Developer Intern |
