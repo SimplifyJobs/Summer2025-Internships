@@ -26,7 +26,7 @@ def main():
     with open("listings.json", "w") as f:
         f.write(json.dumps(event_data, indent=4))
 
-    sys.exit(1)
+    print("::set-output name=new_internship::false")
 
 
 if __name__ == "__main__":

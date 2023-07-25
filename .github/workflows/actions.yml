@@ -18,15 +18,16 @@ jobs:
           python-version: "3.9" # Replace 'x' with the version you want to use
 
       - name: execute new_issue.py
+        id: python_script
         env:
           GITHUB_EVENT_PATH: ${{ github.event_path }}
         run: python .github/scripts/new_issue.py $GITHUB_EVENT_PATH
 
       # Add a step to handle the exit status of the Python script
       - name: Handle Python Script Exit
-        if: failure() # This step only runs if the previous step (Run Python Script) fails
+        if: steps.python_script.outputs.exit_early == 'false'
         run: |
-          echo "The Python script exited early. Exiting the workflow."
+          echo "The issue is not a new internship. Exiting the workflow."
           exit 0
 
       - name: Close Issue
