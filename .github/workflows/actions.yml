@@ -22,6 +22,13 @@ jobs:
           GITHUB_EVENT_PATH: ${{ github.event_path }}
         run: python .github/scripts/new_issue.py $GITHUB_EVENT_PATH
 
+      # Add a step to handle the exit status of the Python script
+      - name: Handle Python Script Exit
+        if: failure() # This step only runs if the previous step (Run Python Script) fails
+        run: |
+          echo "The Python script exited early. Exiting the workflow."
+          exit 0
+
       - name: Close Issue
         run: gh issue close --comment "Auto-closing issue" ${{ github.event.issue.number }}
         env:
