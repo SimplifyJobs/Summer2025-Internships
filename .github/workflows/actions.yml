@@ -1,32 +1,31 @@
-name: run main.py
+name: new issue created
 
-on: workflow_dispatch
+on:
+  issues:
+    types: [opened]
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - name: checkout repo content
-        uses: actions/checkout@v2 # checkout the repository content to github runner
+        uses: actions/checkout@v2
 
       - name: setup python
         uses: actions/setup-python@v4
         with:
-          python-version: "3.9" # install the python version needed
+          python-version: "3.9"
 
-      - name: install python packages
-        run: |
-          python -m pip install --upgrade pip
-          pip install -r simplify/requirements.txt
-
-      - name: execute py script # run main.py
-        run: python simplify/main.py
+      - name: execute new_issue.py
+        env:
+          GITHUB_EVENT_PATH: ${{ github.event_path }}
+        run: python .github/scripts/main.py $GITHUB_EVENT_PATH
 
       - name: commit files
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add -A
+          git add listings.json
           git diff-index --quiet HEAD || (git commit -a -m "updated logs" --allow-empty)
 
       - name: push changes
