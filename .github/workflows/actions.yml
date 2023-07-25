@@ -20,7 +20,7 @@ jobs:
       - name: execute new_issue.py
         env:
           GITHUB_EVENT_PATH: ${{ github.event_path }}
-        run: python .github/scripts/main.py $GITHUB_EVENT_PATH
+        run: python .github/scripts/new_issue.py $GITHUB_EVENT_PATH
 
       - name: commit files
         run: |
