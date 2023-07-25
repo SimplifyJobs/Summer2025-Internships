@@ -22,6 +22,14 @@ jobs:
           GITHUB_EVENT_PATH: ${{ github.event_path }}
         run: python .github/scripts/new_issue.py $GITHUB_EVENT_PATH
 
+      - name: install gh
+        run: brew install gh
+
+      - name: Close Issue
+        run: gh issue close --comment "Auto-closing issue" ${{ github.event.issue.number }}
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
       - name: commit files
         run: |
           git config --local user.email "action@github.com"
