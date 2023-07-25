@@ -20,8 +20,9 @@ def main():
 
     values = []
     for line in issue_body.split("\n"):
-        if line.find("#") == -1:
-            values.append(line.strip().lower())
+        values.append(line)
+        # if line.find("#") == -1:
+        #     values.append(line.strip().lower())
 
     with open("listings.json", "w") as f:
         f.write(json.dumps(values, indent=4))
