@@ -1,1 +1,20 @@
-[]
+[
+    {
+        "company_name": "Google",
+        "title": "ML Software Intern",
+        "url": "https://example.com/link/to/posting",
+        "location": [
+            "San Franciso, CA",
+            "Austin, TX",
+            "Remote"
+        ],
+        "terms": [
+            "Fall 2023"
+        ],
+        "active": true,
+        "source": "matttreed",
+        "id": "b646860a-6d86-480d-9221-0dc337552b0d",
+        "date_updated": "07/25/2023",
+        "date_posted": "07/25/2023"
+    }
+]
