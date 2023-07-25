@@ -22,9 +22,6 @@ jobs:
           GITHUB_EVENT_PATH: ${{ github.event_path }}
         run: python .github/scripts/new_issue.py $GITHUB_EVENT_PATH
 
-      - name: Install GitHub CLI
-        uses: actions/setup-gh@v1
-
       - name: Close Issue
         run: gh issue close --comment "Auto-closing issue" ${{ github.event.issue.number }}
         env:
