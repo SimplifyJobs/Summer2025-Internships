@@ -3,7 +3,7 @@
         "company_name": "Google",
         "title": "ML Software Intern",
         "url": "https://example.com/link/to/posting",
-        "location": [
+        "locations": [
             "San Franciso, CA",
             "Austin, TX",
             "Remote"
@@ -24,7 +24,7 @@
         "company_name": "Google",
         "title": "ML Software Intern",
         "url": "https://example.com/link/to/postingerergerfergef",
-        "location": [
+        "locations": [
             "San Franciso, CA",
             "Austin, TX",
             "Remote"
@@ -43,7 +43,7 @@
         "company_name": "Google",
         "title": "ML Software Intern",
         "url": "https://example.com/link/to/po",
-        "location": [
+        "locations": [
             "San Franciso, CA",
             "Austin, TX",
             "Remote"

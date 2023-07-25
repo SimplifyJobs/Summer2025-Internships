@@ -39,12 +39,10 @@ def getData(body):
     line_i = getNextLine(lines, line_i)
     data["url"] = add_https_to_url(lines[line_i].strip())
     line_i = getNextLine(lines, line_i)
-    data["location"] = [line.strip() for line in lines[line_i].split("|")]
+    data["locations"] = [line.strip() for line in lines[line_i].split("|")]
     line_i = getNextLine(lines, line_i)
     data["terms"] = [line.strip() for line in lines[line_i].split(",")]
     line_i = getNextLine(lines, line_i)
-    data["active"] = "[x]" in lines[line_i].lower()
-    return data
 
 
 def main():
@@ -72,6 +70,7 @@ def main():
     data["id"] = str(uuid.uuid4())
     data["date_updated"] = datetime.now().strftime("%m/%d/%Y")
     data["date_posted"] = datetime.now().strftime("%m/%d/%Y")
+    data["active"] = True
 
     listings = []
     with open("listings.json", "r") as f:
@@ -81,7 +80,7 @@ def main():
         (item for item in listings if item["url"] == data["url"]), None)
     if found:
         throwError(
-            "You cannot update a listing using an issue. See CONTRIBUTING.md for how to edit a listing")
+            "This internship is already in our list. See CONTRIBUTING.md for how to edit a listing")
     else:
         listings.append(data)
 

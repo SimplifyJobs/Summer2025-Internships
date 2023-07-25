@@ -53,9 +53,3 @@ body:
         - Fall 2024
     validations:
       required: true
-  - type: checkboxes
-    id: active
-    attributes:
-      label: Is this posting currently accepting applications?
-      options:
-        - label: Check this box if yes
