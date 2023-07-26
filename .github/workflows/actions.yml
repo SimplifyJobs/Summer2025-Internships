@@ -47,7 +47,7 @@ jobs:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Problem With Action
-        run: gh issue comment ${{ github.event.issue.number }} --body "There was an error with our github action ${{ steps.python_script.outputs.error_message }}"
+        run: gh issue comment ${{ github.event.issue.number }} --body "There was an error with our github action. ${{ steps.python_script.outputs.error_message }}"
         if: steps.python_script.outputs.edit_approved == 'true' && failure()
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}

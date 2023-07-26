@@ -39,7 +39,7 @@ def getData(body, is_edit):
         data["locations"] = [line.strip() for line in lines[7].split("|")]
     if "no response" not in lines[9].lower():
         data["terms"] = [line.strip() for line in lines[9].split(",")]
-    if "no response" not in lines[11].lower():
+    if "none" not in lines[11].lower():
         data["active"] = "yes" in lines[11].lower()
     if is_edit:
         data["is_visible"] = "[x]" in lines[13].lower()
