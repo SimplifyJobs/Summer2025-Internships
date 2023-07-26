@@ -142,6 +142,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Aquaveo](https://www.aquaveo.com/jobs-geospatial-web-developer-intern) | Provo, UT | Geospatial Web Developer Intern |
 | Prudential | Newark, NJ | [2024 Fixed Income, Coding & Developer Internship Program](https://wd5.myworkdaysite.com/recruiting/pru/Careers/job/Newark-NJ-USA/PGIM--2024-Fixed-Income--Coding---Developer-Internship-Program--Technology-Solutions-Group-_R-114814-1) (No Sponsorship) </br> [2024 Global Technology, Software Engineering Internship](https://wd5.myworkdaysite.com/recruiting/pru/Careers/job/Newark-NJ-USA/Prudential--2024-Global-Technology--Software-Engineering-Internship-Program--_R-114845-2) (No Sponsorship) |
 | Deloitte | Multiple Locations | [Software Engineer Intern - Technology Assets](https://apply.deloitte.com/careers/JobDetail/Deloitte-Risk-Financial-Advisory-Software-Engineer-Intern-Technology-Assets-Summer-2024/150371) </br> [Software Engineer Intern - Digital Assets/Blockchain](https://apply.deloitte.com/careers/JobDetail/Deloitte-Risk-Financial-Advisory-Software-Engineer-Intern-Digital-Assets-Blockchain-Summer-2024/150369) |
+| [UPS](https://www.jobs-ups.com/job/-/-/1187/52058358704?utm_term=325350151) | Atlanta, GA | Software Engineer Intern |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2024-Internships#the-list-)
