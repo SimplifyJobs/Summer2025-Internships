@@ -16,37 +16,33 @@ def setOutput(key, value):
         print(f'{key}={value}', file=fh)
 
 
-def getNextLine(lines, curr_i):
-    curr_i += 1
-    while curr_i < len(lines) and ("#" in lines[curr_i] or len(lines[curr_i]) == 0):
-        curr_i += 1
-    return curr_i
-
-
 def add_https_to_url(url):
     if not url.startswith(("http://", "https://")):
         url = "https://" + url
     return url
 
 
-def getData(body):
+def getData(body, is_edit):
     data = {}
-    i = 0
-    line_i = 0
-    lines = body.split("\n")
+    lines = [text.strip("# ") for text in body.split("\n\n")]
+    #["Company Name", "_No response_", "Internship Title", "_No response_", "Link to Internship Posting", "example.com/link/to/posting", "Locatio", "San Franciso, CA | Austin, TX | Remote" ,"What term(s) is this internship offered for?", "_No response_"]
+    
+    data["date_updated"] = datetime.now().strftime("%m/%d/%Y")
 
-    line_i = getNextLine(lines, line_i)
-    data["company_name"] = lines[line_i]
-    line_i = getNextLine(lines, line_i)
-    data["title"] = lines[line_i]
-    line_i = getNextLine(lines, line_i)
-    data["url"] = add_https_to_url(lines[line_i].strip())
-    line_i = getNextLine(lines, line_i)
-    data["locations"] = [line.strip() for line in lines[line_i].split("|")]
-    line_i = getNextLine(lines, line_i)
-    data["terms"] = [line.strip() for line in lines[line_i].split(",")]
-    "active"
-    "is_visible"
+    if "no response" not in lines[1].lower():
+        data["url"] = add_https_to_url(lines[1].strip())
+    if "no response" not in lines[3].lower():
+        data["company_name"] = lines[3]
+    if "no response" not in lines[5].lower():
+        data["title"] = lines[5]
+    if "no response" not in lines[7].lower():
+        data["locations"] = [line.strip() for line in lines[7].split("|")]
+    if "no response" not in lines[9].lower():
+        data["terms"] = [line.strip() for line in lines[9].split(",")]
+    if "no response" not in lines[11].lower():
+        data["active"] = "yes" in lines[11].lower()
+    if is_edit:
+        data["is_visible"] = "[x]" in lines[13].lower()
 
     return data
 
@@ -70,23 +66,21 @@ def main():
     ])
 
     if not edit_approved:
-        setOutput("edit_approved", "true")
+        setOutput("edit_approved", "false")
         return
     setOutput("edit_approved", "true")
     
     issue_body = event_data['issue']['body']
     issue_user = event_data['issue']['user']['login']
 
-    return
-
-    data = getData(issue_body)
-    data["date_updated"] = datetime.now().strftime("%m/%d/%Y")
+    data = getData(issue_body, is_edit=edit_internship)
     
     if new_internship:
         data["source"] = issue_user
         data["id"] = str(uuid.uuid4())
         data["date_posted"] = datetime.now().strftime("%m/%d/%Y")
         data["company_url"] = ""
+        data["is_visible"] = True
 
     listings = []
     with open("listings.json", "r") as f:
