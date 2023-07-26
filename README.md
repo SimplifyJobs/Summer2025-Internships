@@ -132,6 +132,15 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [U.S. Bank](https://careers.usbank.com/global/en/job/2023-0020491/2024-Software-Engineering-Summer-Intern-Early-Careers) | Richfield, MN; and Atlanta, GA | 2024 Software Engineering Summer Intern |
 | Jane Street | New York, NY | [Software Engineer Internship](https://www.janestreet.com/join-jane-street/position/6834728002/) <br/> [Quantitative Trader Internship](https://www.janestreet.com/join-jane-street/position/6850721002/) <br/> [Quantitative Researcher Internship](https://www.janestreet.com/join-jane-street/position/6838982002/) |
 | [General Motors](https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Detroit-Michigan-United-States-of-America/XMLNAME-2024-Summer-Intern---Digital-Transformation---Data-Analyst-or-Data-Scientist_JR-202313389) | Detroit, MI (Hybrid) | 2024 Summer Intern – Digital Transformation – Data Analyst or Data Scientist (No Sponsorship) |
+| [SkyWorks](https://careers.skyworksinc.com/job/Austin-Embedded-FW-Summer-Intern-2024-TX-73301/1054957600) | Austin, TX | Embedded FW Summer Intern |
+| [Cole Engineering Services, Inc.](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=5055dea5-b670-4a19-adb1-2aea04ba5207&ccId=19000101_000001&type=MP&lang=en_US&jobId=472432) | Orlando, FL | Intern (Software) (US Citizenship Required) |
+| [Discover](https://jobs.discover.com/jobs/r292162024-business-technology-internship-program-riverwoods/) | Riverwoods, IL | Business Technology Internship Program (No Sponsorship) |
+| [Tyler Technologies](https://jobs.jobvite.com/tylertech/job/ojyMlfwI) | Moraine, OH | Software Development Intern - Summer/Fall |
+| [Steris](https://careers.steris.com/job/RICHMOND-Software-Engineering-Intern-CA-94804/1054522400/) | Richmond, CA | Software Engineer Intern |
+| [Infoverity](https://infoverity.zohorecruit.com/jobs/Infoverity-USA-Careers/530797000006827069/Summer-Internship-summer-2024-) | Dublin, OH | Summer Internship Program (No Sponsorship) |
+| [Eagle Eye Produce](https://eagleeyeproduce.bamboohr.com/careers/108) | Idaho Falls, ID | Web Developer Intern |
+| [Aquaveo](https://www.aquaveo.com/jobs-geospatial-web-developer-intern) | Provo, UT | Geospatial Web Developer Intern |
+| Prudential | Newark, NJ | [2024 Fixed Income, Coding & Developer Internship Program](https://wd5.myworkdaysite.com/recruiting/pru/Careers/job/Newark-NJ-USA/PGIM--2024-Fixed-Income--Coding---Developer-Internship-Program--Technology-Solutions-Group-_R-114814-1) (No Sponsorship) </br> [2024 Global Technology, Software Engineering Internship](https://wd5.myworkdaysite.com/recruiting/pru/Careers/job/Newark-NJ-USA/Prudential--2024-Global-Technology--Software-Engineering-Internship-Program--_R-114845-2) (No Sponsorship) |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2024-Internships#the-list-)
