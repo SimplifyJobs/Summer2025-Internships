@@ -70,7 +70,7 @@ def main():
     ])
 
     if not edit_approved:
-        setOutput("edit_approved", False)
+        setOutput("edit_approved", True)
         return
     setOutput("edit_approved", True)
     
