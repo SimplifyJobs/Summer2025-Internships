@@ -1,8 +1,10 @@
 name: new issue created
 
 on:
-  issue_comment:
-    types: [created]
+  issues:
+    types: [opened]
+
+concurrency: adding_internships
 
 jobs:
   run-python-script:
@@ -23,6 +25,12 @@ jobs:
           GITHUB_EVENT_PATH: ${{ github.event_path }}
         run: python .github/scripts/new_issue.py $GITHUB_EVENT_PATH
 
+      - name: Problem With Issue
+        run: gh issue comment ${{ github.event.issue.number }} --body "There was a problem with your contribution - ${{ steps.python_script.outputs.error_message }}"
+        if: failure() && steps.python_script.outputs.error_message != ''
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
       - name: commit files
         if: steps.python_script.outputs.new_internship == 'true' && success()
         run: |
@@ -37,3 +45,15 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: dev
+
+      - name: Auto Close Issue
+        run: gh issue close --comment "Your contribution was accepted. Auto-closing issue" ${{ github.event.issue.number }}
+        if: steps.python_script.outputs.new_internship == 'true' && success()
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Problem With Action
+        run: gh issue comment ${{ github.event.issue.number }} --body "There was an error with our github action that automatically adds contributions. Please try again and if it still does not work submit an issue about your experience."
+        if: failure() && steps.python_script.outputs.error_message == ''
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}

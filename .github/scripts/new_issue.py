@@ -52,6 +52,10 @@ def main():
     with open(event_file_path) as f:
         event_data = json.load(f)
 
+    with open("listings.json", "w") as f:
+        f.write(json.dump(event_data, indent=4))
+
+    return
     issue_number = event_data['issue']['number']
     issue_title = event_data['issue']['title']
     issue_body = event_data['issue']['body']
