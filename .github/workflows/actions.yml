@@ -1,8 +1,8 @@
 name: new issue created
 
 on:
-  issues:
-    types: [opened]
+  issue_comment:
+    types: [created]
 
 concurrency: adding_internships
 
