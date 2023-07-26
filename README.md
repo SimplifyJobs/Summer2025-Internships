@@ -6,10 +6,9 @@ Welcome back! This repository is your go-to resource for sharing and keeping tra
 
 >For valuable tips on navigating the internship process, be sure to check out our guide [Zero to Offer](https://www.pittcs.wiki/zero-to-offer) 🧠.
 
-### 🙏 This repo would not be possible without all our amazing [contributors](#We-love-our-contributors)! 🙏
+### Contributing is now easier than ever! Review the new guidelines [here](https://github.com/pittcsc/Summer2024-Internships/blob/dev/CONTRIBUTING.md) and start contributing today!
 
->Contributing is now easier than ever! Review the new guidelines [here](https://github.com/pittcsc/Summer2024-Internships/blob/dev/CONTRIBUTING.md) and start contributing today!
-
+>🙏 This repo would not be possible without all our amazing [contributors](#We-love-our-contributors)! 🙏
 
 <div align="center">
   <h3>
@@ -26,6 +25,8 @@ Welcome back! This repository is your go-to resource for sharing and keeping tra
 
 ><a href="https://simplify.jobs"><img src="https://i.imgur.com/kvraaHg.png" width="100" alt="Simplify" /></a>
 > This button takes you to the posting on Simplify where you can apply with just one click!
+
+> ✅ : This internship is accepting applications. 🔒 : This internship is closed
 
 <!-- Please leave a one line gap between this and the table TABLE_START (DO NOT CHANGE THIS LINE) -->
 
