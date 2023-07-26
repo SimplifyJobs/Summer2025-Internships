@@ -45,6 +45,8 @@ def getData(body):
     data["locations"] = [line.strip() for line in lines[line_i].split("|")]
     line_i = getNextLine(lines, line_i)
     data["terms"] = [line.strip() for line in lines[line_i].split(",")]
+    "active"
+    "is_visible"
 
     return data
 
@@ -62,7 +64,7 @@ def main():
     edit_internship = "edit_internship" in [label["name"] for label in event_data["issue"]["labels"]]
 
     edit_approved = all([
-        "APPROVED" in event_data['issue']['body'],
+        "APPROVED" in event_data['comment']['body'],
         event_data["comment"]["author_association"] in ["OWNER"],
         new_internship or edit_internship
     ])
@@ -75,14 +77,16 @@ def main():
     issue_body = event_data['issue']['body']
     issue_user = event_data['issue']['user']['login']
 
+    return
+
     data = getData(issue_body)
-    data["source"] = issue_user
-    data["id"] = str(uuid.uuid4())
     data["date_updated"] = datetime.now().strftime("%m/%d/%Y")
-    data["date_posted"] = datetime.now().strftime("%m/%d/%Y")
-    data["active"] = True
-    data["company_url"] = ""
-    data["is_visible"] = True
+    
+    if new_internship:
+        data["source"] = issue_user
+        data["id"] = str(uuid.uuid4())
+        data["date_posted"] = datetime.now().strftime("%m/%d/%Y")
+        data["company_url"] = ""
 
     listings = []
     with open("listings.json", "r") as f:
@@ -91,9 +95,13 @@ def main():
     found = next(
         (item for item in listings if item["url"] == data["url"]), None)
     if found:
-        throwError(
-            "This internship is already in our list. See CONTRIBUTING.md for how to edit a listing")
+        if new_internship:
+            fail("This internship is already in our list. See CONTRIBUTING.md for how to edit a listing")
+        for key, value in data.items():
+            found[key] = value
     else:
+        if edit_internship:
+            fail("We could not find this internship in our list. Please double check you inserted the right url")
         listings.append(data)
 
     with open("listings.json", "w") as f:
