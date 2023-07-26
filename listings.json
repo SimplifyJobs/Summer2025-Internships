@@ -3859,5 +3859,28 @@
         ],
         "company_url": "https://simplify.jobs/c/Fyusion",
         "date_posted": "07/25/2023"
+    },
+    {
+        "company_name": "My Crazy Job",
+        "title": "ML Software Intern",
+        "url": "https://example.com/link/to/posting/whoa",
+        "locations": [
+            "San Franciso, CA",
+            "Austin, TX",
+            "Remote"
+        ],
+        "terms": [
+            "Fall 2023",
+            "Winter 2024",
+            "Spring 2024",
+            "Summer 2024",
+            "Fall 2024"
+        ],
+        "source": "matttreed",
+        "id": "465af21f-e529-4de2-92c4-f52bccb816fd",
+        "date_updated": "07/25/2023",
+        "date_posted": "07/25/2023",
+        "active": true,
+        "company_url": ""
     }
 ]
