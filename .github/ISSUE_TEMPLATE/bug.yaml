@@ -1,0 +1,17 @@
+name: Bug Report
+description: Let us know if anything isn't up to par
+title: "Bug: <bug>"
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this bug form!
+  - type: textarea
+    id: bug
+    attributes:
+      label: bug
+      description: Tell us what's wrong or what we could do better
+      placeholder: ex. There are a few internships that aren't actually technical...
+    validations:
+      required: true

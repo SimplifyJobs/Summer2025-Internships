@@ -1,12 +1,14 @@
 name: Contribute Internship
 description: Contribute an internship to our list
-title: "New Contribution"
+title: "New Contribution: <internship name>"
 labels: ["new_internship"]
 body:
   - type: markdown
     attributes:
       value: |
-        Thanks for taking the time to fill out this bug report!
+        ## New Internship Contribution Form
+        Thanks for taking the time to contribute!
+        > Make sure you've read `CONTRIBUTING.md` before submitting your internship
   - type: input
     id: company_name
     attributes:
