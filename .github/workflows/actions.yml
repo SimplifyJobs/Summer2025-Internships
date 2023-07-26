@@ -1,8 +1,10 @@
 name: new issue created
 
 on:
-  issue_comment:
-    types: [created]
+  issues:
+    types: [opened]
+
+concurrency: adding_internships
 
 jobs:
   run-python-script:
@@ -17,13 +19,14 @@ jobs:
         with:
           python-version: "3.9" # Replace 'x' with the version you want to use
 
-      - name: execute new_issue.py
+      - name: execute new_comment.py
         id: python_script
         env:
           GITHUB_EVENT_PATH: ${{ github.event_path }}
-        run: python .github/scripts/new_issue.py $GITHUB_EVENT_PATH
+        run: python .github/scripts/new_comment.py $GITHUB_EVENT_PATH
 
       - name: commit files
+        if: steps.python_script.outputs.edit_approved == 'true' && success()
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
@@ -31,7 +34,20 @@ jobs:
           git diff-index --quiet HEAD || (git commit -a -m "updated logs" --allow-empty)
 
       - name: push changes
+        if: steps.python_script.outputs.edit_approved == 'true' && success()
         uses: ad-m/github-push-action@v0.6.0
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: dev
+
+      - name: Auto Close Issue
+        run: gh issue close --comment "Your contribution was accepted. Auto-closing issue" ${{ github.event.issue.number }}
+        if: steps.python_script.outputs.edit_approved == 'true' && success()
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Problem With Action
+        run: gh issue comment ${{ github.event.issue.number }} --body "There was an error with our github action ${{ steps.python_script.outputs.error_message }}"
+        if: steps.python_script.outputs.edit_approved == 'true' && failure()
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}

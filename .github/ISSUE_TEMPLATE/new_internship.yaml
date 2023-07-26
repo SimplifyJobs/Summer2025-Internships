@@ -1,6 +1,6 @@
-name: Contribute Internship
+name: New Internship
 description: Contribute an internship to our list
-title: "New Contribution: <internship name>"
+title: "New Internship: <internship name>"
 labels: ["new_internship"]
 body:
   - type: markdown

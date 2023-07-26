@@ -6,11 +6,14 @@ import uuid
 from datetime import datetime
 import os
 
-
-def throwError(message):
-    with open(os.environ['GITHUB_OUTPUT'], 'a') as fh:
-        print(f'error_message={message}', file=fh)
+def fail(why):
+    setOutput("error_message", why)
     exit(1)
+
+
+def setOutput(key, value):
+    with open(os.environ['GITHUB_OUTPUT'], 'a') as fh:
+        print(f'{key}={value}', file=fh)
 
 
 def getNextLine(lines, curr_i):
@@ -52,21 +55,22 @@ def main():
     with open(event_file_path) as f:
         event_data = json.load(f)
 
-    with open("listings.json", "w") as f:
-        f.write(json.dumps(event_data, indent=4))
+    new_internship = "new_internship" in [label["name"] for label in event_data["issue"]["labels"]]
+    edit_internship = "edit_internship" in [label["name"] for label in event_data["issue"]["labels"]]
 
-    return
-    issue_number = event_data['issue']['number']
-    issue_title = event_data['issue']['title']
+    edit_approved = all([
+        "APPROVED" in event_data['issue']['body'],
+        event_data["comment"]["author_association"] in ["OWNER"],
+        new_internship or edit_internship
+    ])
+
+    if not edit_approved:
+        setOutput("edit_approved", False)
+        return
+    setOutput("edit_approved", True)
+    
     issue_body = event_data['issue']['body']
     issue_user = event_data['issue']['user']['login']
-    new_internship = "new_internship" in [
-        label["name"] for label in event_data["issue"]["labels"]]
-
-    with open(os.environ['GITHUB_OUTPUT'], 'a') as fh:
-        print(f'new_internship={new_internship}', file=fh)
-    if not new_internship:
-        return
 
     data = getData(issue_body)
     data["source"] = issue_user

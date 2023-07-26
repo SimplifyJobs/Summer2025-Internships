@@ -1,0 +1,57 @@
+name: Edit Internship
+description: Edit an internship on our list
+title: "Editing Internship: <internship name>"
+labels: ["edit_internship"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## Edit Internship Form
+        Thanks for taking the time to contribute!
+        > Make sure you've read `CONTRIBUTING.md` before submitting your edits
+  - type: input
+    id: company_name
+    attributes:
+      label: Company Name
+      placeholder: ex. Google
+      value: Google
+    validations:
+      required: false
+  - type: input
+    id: title
+    attributes:
+      label: Internship Title
+      placeholder: ex. ML Software Intern
+      value: ML Software Intern
+    validations:
+      required: false
+  - type: input
+    id: url
+    attributes:
+      label: Link to Internship Posting
+      placeholder: ex. example.com/link/to/posting
+      value: example.com/link/to/posting
+    validations:
+      required: true
+  - type: input
+    id: location
+    attributes:
+      label: Location
+      description: Where is the internship located? (Please separate locations with a pipe "|" if there are multiple options. Include Remote if remote option available)
+      placeholder: San Franciso, CA | Austin, TX | Remote
+      value: San Franciso, CA | Austin, TX | Remote
+    validations:
+      required: false
+  - type: dropdown
+    id: terms
+    attributes:
+      label: What term(s) is this internship offered for?
+      multiple: true
+      options:
+        - Fall 2023
+        - Winter 2024
+        - Spring 2024
+        - Summer 2024
+        - Fall 2024
+    validations:
+      required: false
