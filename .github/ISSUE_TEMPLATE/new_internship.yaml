@@ -61,7 +61,7 @@ body:
       label: Is this internship currently accepting applications?
       multiple: false
       options:
-        - Yes
-        - No
+        - "Yes"
+        - "No"
     validations:
       required: true
