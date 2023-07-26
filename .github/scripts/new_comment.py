@@ -55,6 +55,9 @@ def main():
     with open(event_file_path) as f:
         event_data = json.load(f)
 
+    with open("debug.json", "a")as f:
+        f.write(json.dumps(event_data, indent=4))
+
     new_internship = "new_internship" in [label["name"] for label in event_data["issue"]["labels"]]
     edit_internship = "edit_internship" in [label["name"] for label in event_data["issue"]["labels"]]
 
