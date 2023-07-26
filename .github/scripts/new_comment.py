@@ -70,9 +70,9 @@ def main():
     ])
 
     if not edit_approved:
-        setOutput("edit_approved", True)
+        setOutput("edit_approved", "true")
         return
-    setOutput("edit_approved", True)
+    setOutput("edit_approved", "true")
     
     issue_body = event_data['issue']['body']
     issue_user = event_data['issue']['user']['login']
