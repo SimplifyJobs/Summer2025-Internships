@@ -9,6 +9,7 @@ body:
         ## Edit Internship Form
         Thanks for taking the time to contribute!
         > Make sure you've read `CONTRIBUTING.md` before submitting your edits
+        Please leave every field blank except for the **link, reason, and whichever fields you would like to edit**
   - type: input
     id: url
     attributes:

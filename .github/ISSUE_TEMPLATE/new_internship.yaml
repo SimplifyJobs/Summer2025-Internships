@@ -69,7 +69,7 @@ body:
     id: reason
     attributes:
       label: Extra Notes
-      description: Optionally, you may provide extra context/insights about the internship here for the admin who will approve your contribution. This will not be shown anywhere on the repo.
+      description: Optionally, you may provide extra context/insights to our team about the internship. This will not be shown anywhere on the repo, but might ensure your contribution is accepted.
       placeholder: This is an exciting new company in the vr space...
     validations:
       required: false
