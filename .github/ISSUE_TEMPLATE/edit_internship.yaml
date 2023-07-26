@@ -10,6 +10,14 @@ body:
         Thanks for taking the time to contribute!
         > Make sure you've read `CONTRIBUTING.md` before submitting your edits
   - type: input
+    id: url
+    attributes:
+      label: Link to Internship Posting
+      placeholder: ex. example.com/link/to/posting
+      value: example.com/link/to/posting
+    validations:
+      required: true
+  - type: input
     id: company_name
     attributes:
       label: Company Name
@@ -25,14 +33,6 @@ body:
       value: ML Software Intern
     validations:
       required: false
-  - type: input
-    id: url
-    attributes:
-      label: Link to Internship Posting
-      placeholder: ex. example.com/link/to/posting
-      value: example.com/link/to/posting
-    validations:
-      required: true
   - type: input
     id: location
     attributes:
