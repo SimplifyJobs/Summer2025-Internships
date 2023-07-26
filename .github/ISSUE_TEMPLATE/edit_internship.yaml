@@ -78,7 +78,7 @@ body:
       label: Reason for edit
       description: If the reason for your edit is not obvious, please explain here.
       placeholder: This internship is no longer accepting applications...
-      value: "It's Obvious" 
+      value: "It's obvious" 
     validations:
       required: true
       

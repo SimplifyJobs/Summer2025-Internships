@@ -65,3 +65,11 @@ body:
         - "No"
     validations:
       required: true
+  - type: textarea
+    id: reason
+    attributes:
+      label: Extra Notes
+      description: Optionally, you may provide extra context/insights about the internship here for the admin who will approve your contribution. This will not be shown anywhere on the repo.
+      placeholder: This is an exciting new company in the vr space...
+    validations:
+      required: false
