@@ -16,7 +16,7 @@
         "id": "8ea95a84-4654-4c63-ae8b-9807f3eb3dfe",
         "date_posted": "07/26/2023",
         "company_url": "",
-        "is_visible": false
+        "is_visible": true
     },
     {
         "source": "Simplify",
@@ -4053,5 +4053,27 @@
         "company_url": "https://simplify.jobs/c/Fyusion",
         "is_visible": true,
         "date_posted": "07/26/2023"
+    },
+    {
+        "date_updated": "07/26/2023",
+        "url": "https://example.com/link/to/posting/this//istoir",
+        "company_name": "Jump",
+        "title": "ML Software Intern",
+        "locations": [
+            "San Franciso, CA",
+            "Austin, TX",
+            "Remote"
+        ],
+        "terms": [
+            "Winter 2024",
+            "Spring 2024",
+            "Fall 2024"
+        ],
+        "active": true,
+        "source": "matttreed",
+        "id": "c9c51514-6903-4890-b15a-6a80f6c6e055",
+        "date_posted": "07/26/2023",
+        "company_url": "",
+        "is_visible": true
     }
 ]
