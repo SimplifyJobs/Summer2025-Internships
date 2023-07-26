@@ -15,7 +15,6 @@ body:
     attributes:
       label: Link to Internship Posting
       placeholder: ex. example.com/link/to/posting
-      value: example.com/link/to/posting
     validations:
       required: true
   - type: input
@@ -23,7 +22,6 @@ body:
     attributes:
       label: Company Name
       placeholder: ex. Google
-      value: Google
     validations:
       required: false
   - type: input
@@ -31,7 +29,6 @@ body:
     attributes:
       label: Internship Title
       placeholder: ex. ML Software Intern
-      value: ML Software Intern
     validations:
       required: false
   - type: input
@@ -40,7 +37,6 @@ body:
       label: Location
       description: Where is the internship located? (Please separate locations with a pipe "|" if there are multiple options. Include Remote if remote option available)
       placeholder: San Franciso, CA | Austin, TX | Remote
-      value: San Franciso, CA | Austin, TX | Remote
     validations:
       required: false
   - type: dropdown
