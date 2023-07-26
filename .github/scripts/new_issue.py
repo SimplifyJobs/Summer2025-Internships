@@ -53,7 +53,7 @@ def main():
         event_data = json.load(f)
 
     with open("listings.json", "w") as f:
-        f.write(json.dump(event_data, indent=4))
+        f.write(json.dumps(event_data, indent=4))
 
     return
     issue_number = event_data['issue']['number']
