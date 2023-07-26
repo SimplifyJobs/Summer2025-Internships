@@ -10,6 +10,14 @@ body:
         Thanks for taking the time to contribute!
         > Make sure you've read `CONTRIBUTING.md` before submitting your edits
   - type: input
+    id: url
+    attributes:
+      label: Link to Internship Posting
+      placeholder: ex. example.com/link/to/posting
+      value: example.com/link/to/posting
+    validations:
+      required: true
+  - type: input
     id: company_name
     attributes:
       label: Company Name
@@ -25,14 +33,6 @@ body:
       value: ML Software Intern
     validations:
       required: false
-  - type: input
-    id: url
-    attributes:
-      label: Link to Internship Posting
-      placeholder: ex. example.com/link/to/posting
-      value: example.com/link/to/posting
-    validations:
-      required: true
   - type: input
     id: location
     attributes:
@@ -55,3 +55,30 @@ body:
         - Fall 2024
     validations:
       required: false
+  - type: dropdown
+    id: active
+    attributes:
+      label: Is this internship currently accepting applications?
+      multiple: false
+      options:
+        - "Yes"
+        - "No"
+    validations:
+      required: false
+  - type: checkboxes
+    id: is_visible
+    attributes:
+      label: Remove this internship from the list?
+      description: Only check this box if this internship is fake, does not fit the theme of the repo, or is offensive.
+      options:
+        - label: "Yes, remove this internship"
+  - type: textarea
+    id: reason
+    attributes:
+      label: Reason for edit
+      description: If the reason for your edit is not obvious, please explain here.
+      placeholder: This internship is no longer accepting applications...
+      value: "It's Obvious" 
+    validations:
+      required: true
+      
