@@ -42,7 +42,7 @@ def getData(body, is_edit):
     if "none" not in lines[11].lower():
         data["active"] = "yes" in lines[11].lower()
     if is_edit:
-        data["is_visible"] = "[x]" in lines[13].lower()
+        data["is_visible"] = "[x]" not in lines[13].lower()
 
     return data
 
