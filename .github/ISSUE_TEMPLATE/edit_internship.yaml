@@ -61,8 +61,8 @@ body:
       label: Is this internship currently accepting applications?
       multiple: false
       options:
-        - Yes
-        - No
+        - "Yes"
+        - "No"
     validations:
       required: false
   - type: checkboxes
@@ -72,3 +72,13 @@ body:
       description: Only check this box if this internship is fake, does not fit the theme of the repo, or is offensive.
       options:
         - label: "Yes, remove this internship"
+  - type: textarea
+    id: reason
+    attributes:
+      label: Reason for edit
+      description: If the reason for your edit is not obvious, please explain here.
+      placeholder: This internship is no longer accepting applications...
+      value: "It's Obvious" 
+    validations:
+      required: true
+      
