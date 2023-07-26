@@ -39,7 +39,7 @@ body:
       label: Location
       description: Where is the internship located? (Please separate locations with a pipe "|" if there are multiple options. Include Remote if remote option available)
       placeholder: San Franciso, CA | Austin, TX | Remote
-      value: San Franciso, CA | Austin, TX | Remote
+      value: ex. San Franciso, CA | Austin, TX | Remote
     validations:
       required: true
   - type: dropdown
