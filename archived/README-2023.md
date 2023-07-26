@@ -1,6 +1,6 @@
 # Summer 2023 Tech Internships by Pitt CSC and Simplify (Archived)
 > **Warning**:
-> This README file is now archived, but will remain here in case people want to see a list of companies that offered internships for summer 2023. **No new additions or changes to this file will be accepted.** For Summer 2024 internships, please [click here](https://github.com/pittcsc/Summer2024-Internships/blob/dev/README-2024.md).
+> This README file is now archived, but will remain here in case people want to see a list of companies that offered internships for summer 2023. **No new additions or changes to this file will be accepted.** For the latest internship README, please [click here](https://github.com/pittcsc/Summer2024-Internships/blob/dev/README.md).
 
 And we're back! Use this repo to share and keep track of software, tech, CS, PM, quant internships for **Summer 2023**. List maintained by the [Pitt Computer Science Club](https://pittcsc.org/) and [Simplify](https://simplify.jobs/)!
 
