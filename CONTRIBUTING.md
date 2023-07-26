@@ -18,74 +18,13 @@ We ask that the internships that you add meet some requirements. Specifically, y
 ## Adding an Internship
 Cool! You're ready to add an internship to the list. Follow these steps:
 
-1) Navigate to the file `contributions.json`. It should look something like this:
-```jsonc
-[
-    // example contribution (don't delete)
-    {
-        "company_name": "ExampleCompany",
-        "title": "Software Engineering Internship Example",
-        "url": "https://example.com/this/is/a/link/to/the/job/posting",
-        "location": [
-            "City, State",
-            "Remote"
-        ],
-        "terms": [
-            "Summer-2024"
-        ],
-        "active": true
-    }
+1) First create a new issue [here](https://github.com/pittcsc/Summer2024-Internships/issues/new/choose).
+2) Select the **Contribute Internship** issue template.
+3) Fill in the information about your internship into the form, then hit submit.
+> Please make a new submission for each unique position, **even if they are for the same company**.
+4) That's it! A GitHub action will automatically add your submission to `listings.json`, and it will appear in the correct README within a day.
+> There are a couple of rare cases where this might not work. You should automatically receive a comment on your issue describing what happened, but if you still need help, submit a bug form [here](https://github.com/pittcsc/Summer2024-Internships/issues/new/choose).
 
-    //...possibly other contributions below
-]
-```
-2) Click the pencil icon in the top right of the page to edit the file.
-> Alternatively, you can manually [fork](https://github.com/pittcsc/Summer2024-Internships/fork) the repository and make your changes there.
-3) To add a new internship, copy the example template, add it to the list at the bottom, and replace the values with the corresponding information about your submission.
-> Please make a new list entry for each unique position, **even if they are for the same company**.
-
-Here are more specifics about what each field means:
-
-| Property Name   | Data Type        | Description                                          | Example |
-| --------------- | ---------------- | ---------------------------------------------------- | -------- |
-| **company_name**| `str`            | Name of company                                      | Google |
-| **title**       | `str`            | Name of internship position                          | ML Software Engineer Intern |
-| **url**         | `str`            | Link to job posting (include "https://")             | https://google.com/link/to/job/posting |
-| **location**    | `[str]`          | Array of locations available for internship | ["Mountain View, CA", "Remote"] |
-| **terms**       | `[str]`          | Terms offered "{Summer, Fall, Winter, Spring}-year"        | ["Summer-2024", "Fall-2024"] |
-| **active**      | `bool`           | `true` if application is open. `false` if not.         | true |
-
-
-4) Once you are done, the file should look something like this:
-
-```jsonc
-[
-    {
-        "company_name": "ExampleCompany",
-        "title": "Software Engineering Internship Example",
-        "url": "https://example.com/this/is/a/link/to/the/job/posting",
-        "location": [
-            "City, State",
-            "Remote"
-        ],
-        "terms": [
-            "Summer-2024"
-        ],
-        "active": true
-    }
-
-    // ...other submissions (if any)
-
-    {
-        // your submission here
-    }, 
-]
-```
-
-5) Click `Commit changes...` in the top right of the page.
-6) Select "*Create a new branch for this commit and start a pull request*" and click `Propose Changes`.
-7) Finally, create a pull request to merge your changes.
-8) That's it! Your contribution will be automatically added to the correct `README.md` once it is reviewed.
 
 ## Editing an Internship
 To edit an internship (changing links, setting as inactive, changing start date, etc.), follow these steps:
@@ -102,7 +41,7 @@ To edit an internship (changing links, setting as inactive, changing start date,
 ## Deleting an Internship
 It is preferable to set an internship as inactive (see [Editing an Internship](#Editing-an-Internship) above) rather than deleting it.
 
-However, if there is a specific reason why you believe an internship should be removed from this repository entirely, please remove it from `listings.json` by creating a pull-request and specify why it should be deleted.
+However, if there is a specific reason why you believe an internship should be removed from this repository entirely, you can either set the `is_visible` field to false in `listings.json` or you can remove it entirely from `listings.json` by creating a pull-request. In your pull-request, please specify why it should be deleted.
 
 ## Automatic README.md Updates
 A script will automatically add new contributions as well as new internships found by [Simplify](https://simplify.jobs) to the appropriate README. The row will look something like this:
