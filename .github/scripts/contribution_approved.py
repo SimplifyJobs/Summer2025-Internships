@@ -67,18 +67,13 @@ def main():
         f.write(json.dumps(event_data, indent=4))
 
     
-    # CHECK IF SOMEONE IS TRYING TO APPROVE A CONTRIBUTION
+    # CHECK IF NEW OR OLD INTERNSHIP
 
     new_internship = "new_internship" in [label["name"] for label in event_data["issue"]["labels"]]
     edit_internship = "edit_internship" in [label["name"] for label in event_data["issue"]["labels"]]
-
-    if not (new_internship or edit_internship) or "APPROVED" not in event_data['comment']['body']:
-        setOutput("edit_approved", "false")
-        return
-    setOutput("edit_approved", "true")
     
-    if event_data["comment"]["user"]["login"] not in APPROVED_ADMIN:
-        fail("It looks like you tried to approve a submission, but are not on the list of verified admins")
+    if not new_internship and not edit_internship:
+        fail("Only new_internship and edit_internship issues can be approved")
     
 
     # GET DATA FROM ISSUE FORM
