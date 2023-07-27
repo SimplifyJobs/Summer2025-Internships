@@ -28,10 +28,10 @@ jobs:
       - name: commit files
         if: steps.python_script.outputs.edit_approved == 'true' && success()
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
+          git config --local user.email ${{ github.event.issue.user.email }}
+          git config --local user.name ${{ github.event.issue.user.login }}
           git add listings.json
-          git diff-index --quiet HEAD || (git commit -a -m "updated logs" --allow-empty)
+          git diff-index --quiet HEAD || (git commit -a -m "Updating listings.json with ${{ steps.python_script.outputs.job_description }}" --allow-empty)
 
       - name: push changes
         if: steps.python_script.outputs.edit_approved == 'true' && success()
