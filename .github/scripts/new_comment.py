@@ -6,6 +6,8 @@ import uuid
 from datetime import datetime
 import os
 
+APPROVED_ADMIN = ["matttreed"]
+
 def fail(why):
     setOutput("error_message", why)
     exit(1)
@@ -64,20 +66,23 @@ def main():
     with open("debug.json", "w") as f:
         f.write(json.dumps(event_data, indent=4))
 
+    
+    # CHECK IF SOMEONE IS TRYING TO APPROVE A CONTRIBUTION
+
     new_internship = "new_internship" in [label["name"] for label in event_data["issue"]["labels"]]
     edit_internship = "edit_internship" in [label["name"] for label in event_data["issue"]["labels"]]
 
-    edit_approved = all([
-        "APPROVED" in event_data['comment']['body'],
-        event_data["comment"]["author_association"] in ["OWNER"],
-        new_internship or edit_internship
-    ])
-
-    if not edit_approved:
+    if not (new_internship or edit_internship) or "APPROVED" not in event_data['comment']['body']:
         setOutput("edit_approved", "false")
         return
     setOutput("edit_approved", "true")
     
+    if event_data["comment"]["user"]["login"] not in APPROVED_ADMIN:
+        fail("It looks like you tried to approve a submission, but are not on the list of verified admins")
+    
+
+    # GET DATA FROM ISSUE FORM
+
     issue_body = event_data['issue']['body']
     issue_user = event_data['issue']['user']['login']
 
@@ -90,24 +95,27 @@ def main():
         data["company_url"] = ""
         data["is_visible"] = True
 
+
+    # UPDATE LISTINGS
+
     listings = []
     with open("listings.json", "r") as f:
         listings = json.load(f)
 
-    found = next(
+    listing_to_update = next(
         (item for item in listings if item["url"] == data["url"]), None)
-    if found:
+    if listing_to_update:
         if new_internship:
             fail("This internship is already in our list. See CONTRIBUTING.md for how to edit a listing")
         for key, value in data.items():
-            found[key] = value
+            listing_to_update[key] = value
         
-        setOutput("commit_message", "updating listing: " + found["title"] + " at " + found["company_name"])
+        setOutput("commit_message", "updated listing: " + listing_to_update["title"] + " at " + listing_to_update["company_name"])
     else:
         if edit_internship:
             fail("We could not find this internship in our list. Please double check you inserted the right url")
         listings.append(data)
-        setOutput("commit_message", "adding listing: " + data["title"] + " at " + data["company_name"])
+        setOutput("commit_message", "added listing: " + data["title"] + " at " + data["company_name"])
 
     with open("listings.json", "w") as f:
         f.write(json.dumps(listings, indent=4))
