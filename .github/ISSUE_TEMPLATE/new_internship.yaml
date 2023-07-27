@@ -73,3 +73,11 @@ body:
       placeholder: This is an exciting new company in the vr space...
     validations:
       required: false
+  - type: input
+    id: email
+    attributes:
+      label: Email associated with your GitHub account (Optional)
+      description: If you would like to be listed as the contributor to the repository when our github action commits your contribution to the repo, please provide your email. This is the only time your email will be used. If left blank, your contribution will still be made, but it will be made by the bot actions@github.com.
+      placeholder: ex. firstLast@gmail.com
+    validations:
+      required: false
