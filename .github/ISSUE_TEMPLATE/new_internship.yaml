@@ -71,7 +71,7 @@ body:
   - type: textarea
     id: reason
     attributes:
-      label: Extra Notes
+      label: Extra Notes (Optional)
       description: |
         Optionally, you may provide extra context/insights to our team about the internship.
         This will not be shown anywhere on the repo, but might ensure your contribution is accepted.
