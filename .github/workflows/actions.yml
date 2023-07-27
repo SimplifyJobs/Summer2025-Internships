@@ -28,8 +28,8 @@ jobs:
       - name: commit files
         if: steps.python_script.outputs.edit_approved == 'true' && success()
         run: |
-          git config --local user.email "matthewreed02@gmail.com"
-          git config --local user.name ${{ github.event.issue.user.login }}
+          git config --local user.email ${{ steps.python_script.outputs.commit_email }}
+          git config --local user.name ${{ steps.python_script.outputs.commit_username }}
           git add listings.json
           git diff-index --quiet HEAD || (git commit -a -m "Updating listings.json with ${{ steps.python_script.outputs.job_description }}" --allow-empty)
 

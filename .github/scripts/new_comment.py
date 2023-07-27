@@ -22,7 +22,7 @@ def add_https_to_url(url):
     return url
 
 
-def getData(body, is_edit):
+def getData(body, is_edit, username):
     data = {}
     lines = [text.strip("# ") for text in body.split("\n\n")]
     #["Company Name", "_No response_", "Internship Title", "_No response_", "Link to Internship Posting", "example.com/link/to/posting", "Locatio", "San Franciso, CA | Austin, TX | Remote" ,"What term(s) is this internship offered for?", "_No response_"]
@@ -44,6 +44,14 @@ def getData(body, is_edit):
     if is_edit:
         data["is_visible"] = "[x]" not in lines[13].lower()
 
+    email = lines[17 if is_edit else 15].lower()
+    if "no response" not in email:
+        setOutput("commit_email", email)
+        setOutput("commit_username", username)
+    else:
+        setOutput("commit_email", "action@github.com")
+        setOutput("commit_username", "GitHub Action")
+    
     return data
 
 
@@ -73,7 +81,7 @@ def main():
     issue_body = event_data['issue']['body']
     issue_user = event_data['issue']['user']['login']
 
-    data = getData(issue_body, is_edit=edit_internship)
+    data = getData(issue_body, is_edit=edit_internship, username=issue_user)
     setOutput("job_description", data["title"] + " at " + data["company_name"])
     
     if new_internship:
