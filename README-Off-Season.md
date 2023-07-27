@@ -77,6 +77,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [GE Aerospace](https://jobs.gecareers.com/aviation/global/en/job/R3718914/GE-Aerospace-US-Digital-Technology-Coop-Spring-2024) | Cincinnati, OH <br/> Van Buren Township, MI | Spring 2024 | GE Aerospace US Digital Technology Coop |
 | [Sony Pictures](https://www.sonypicturesjobs.com/job/culver-city/software-engineer-golang-intern-fall-2023/22978/51635682320) | Culver City, CA | Fall 2023 | Software Engineer Golang Intern |
 | [SRC Inc.](https://jobs.jobvite.com/src-inc/job/oHynnfwJ) | Syracuse, NY <br/> Herndon, VA <br/> San Antonio, TX | Fall 2023 | Software Engineering Intern |
+| [Parallel Systems](https://moveparallel.com/careers/?gh_jid=4026759007) | Los Angeles, CA | Fall 2023 | Software Engineer Intern | 
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2024-Internships/blob/dev/README-Off-Season.md#the-list-)
