@@ -35,7 +35,10 @@ body:
     id: location
     attributes:
       label: Location
-      description: Where is the internship located? (Please separate locations with a pipe "|" if there are multiple options. Include Remote if remote option available)
+      description: |
+        Where is the internship located?
+        Please separate locations with a pipe "|" if there are multiple options. 
+        Include Remote if remote option available.
       placeholder: ex. San Franciso, CA | Austin, TX | Remote
     validations:
       required: false
@@ -75,7 +78,18 @@ body:
       label: Reason for edit
       description: If the reason for your edit is not obvious, please explain here.
       placeholder: This internship is no longer accepting applications...
-      value: "It's obvious" 
     validations:
-      required: true
+      required: false
+  - type: input
+    id: email
+    attributes:
+      label: Email associated with your GitHub account (Optional)
+      description: |
+        If you would like to be listed as the contributor to the repository when our github action 
+        commits your contribution to the repo, please provide your email. This is the only time your 
+        email will be used. If left blank, your contribution will still be made, but it will be made 
+        by the bot actions@github.com.
+      placeholder: ex. firstLast@gmail.com
+    validations:
+      required: false
       
