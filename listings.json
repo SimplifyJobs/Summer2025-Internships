@@ -4111,14 +4111,18 @@
             "Remote"
         ],
         "terms": [
-            "Summer 2024"
+            "Fall 2023",
+            "Winter 2024",
+            "Spring 2024",
+            "Summer 2024",
+            "Fall 2024"
         ],
         "active": true,
         "source": "matttreed",
         "id": "84a98e41-357f-4e48-922d-400c81aa1688",
         "date_posted": "07/27/2023",
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": "07/27/2023",
