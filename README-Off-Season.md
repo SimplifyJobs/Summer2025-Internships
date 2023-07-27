@@ -75,6 +75,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [UKG](https://careers.ukg.com/careers/JobDetail/DevOps-Engineering-Internship-Fall-2023/46143) | Lowell, MA <br/> Weston, FL | Fall 2023 | DevOps Engineering Internship |
 | [Skyworks Solutions](https://careers.skyworksinc.com/job/Andover-Analytics-Co-Op-SummerFall-Co-Op-CA/1055209600) | Andover, CA | Fall 2023 | Analytics Co-Op Summer/Fall Co-Op (MS Students Only) |
 | [GE Aerospace](https://jobs.gecareers.com/aviation/global/en/job/R3718914/GE-Aerospace-US-Digital-Technology-Coop-Spring-2024) | Cincinnati, OH <br/> Van Buren Township, MI | Spring 2024 | GE Aerospace US Digital Technology Coop |
+| [Sony Pictures](https://www.sonypicturesjobs.com/job/culver-city/software-engineer-golang-intern-fall-2023/22978/51635682320) | Culver City, CA | Fall 2023 | Software Engineer Golang Intern |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2024-Internships/blob/dev/README-Off-Season.md#the-list-)
