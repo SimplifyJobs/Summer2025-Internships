@@ -74,7 +74,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Milliman](https://recruiting2.ultipro.com/MIL1017/JobBoard/f54234e9-dfde-b183-fd20-4fbdb19cba7a/OpportunityDetail?opportunityId=13902acc-1b58-407a-8c0f-c093d7b8cc5a) | Milwaukee, WI <br/> Chicago, IL <br/> Hartford, CT <br/> Remote | Spring 2024 | Healthcare Analytics Intern |
 | [UKG](https://careers.ukg.com/careers/JobDetail/DevOps-Engineering-Internship-Fall-2023/46143) | Lowell, MA <br/> Weston, FL | Fall 2023 | DevOps Engineering Internship |
 | [Skyworks Solutions](https://careers.skyworksinc.com/job/Andover-Analytics-Co-Op-SummerFall-Co-Op-CA/1055209600) | Andover, CA | Fall 2023 | Analytics Co-Op Summer/Fall Co-Op (MS Students Only) |
-| [GE Aerosapce](https://jobs.gecareers.com/aviation/global/en/job/R3718914/GE-Aerospace-US-Digital-Technology-Coop-Spring-2024) | Cincinnati, Ohio <br/> Van Buren Township, Michigan | Spring 2024 | GE Aerospace US Digital Technology Coop |
+| [GE Aerospace](https://jobs.gecareers.com/aviation/global/en/job/R3718914/GE-Aerospace-US-Digital-Technology-Coop-Spring-2024) | Cincinnati, Ohio <br/> Van Buren Township, Michigan | Spring 2024 | GE Aerospace US Digital Technology Coop |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2024-Internships/blob/dev/README-Off-Season.md#the-list-)
