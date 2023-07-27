@@ -3,11 +3,11 @@
     "comment": {
         "author_association": "OWNER",
         "body": "APPROVED",
-        "created_at": "2023-07-27T16:10:43Z",
-        "html_url": "https://github.com/matttreed/Summer2024-Internships/issues/62#issuecomment-1653926089",
-        "id": 1653926089,
-        "issue_url": "https://api.github.com/repos/matttreed/Summer2024-Internships/issues/62",
-        "node_id": "IC_kwDOJ051Oc5ilOjJ",
+        "created_at": "2023-07-27T16:15:54Z",
+        "html_url": "https://github.com/matttreed/Summer2024-Internships/issues/63#issuecomment-1653933772",
+        "id": 1653933772,
+        "issue_url": "https://api.github.com/repos/matttreed/Summer2024-Internships/issues/63",
+        "node_id": "IC_kwDOJ051Oc5ilQbM",
         "performed_via_github_app": null,
         "reactions": {
             "+1": 0,
@@ -19,10 +19,10 @@
             "laugh": 0,
             "rocket": 0,
             "total_count": 0,
-            "url": "https://api.github.com/repos/matttreed/Summer2024-Internships/issues/comments/1653926089/reactions"
+            "url": "https://api.github.com/repos/matttreed/Summer2024-Internships/issues/comments/1653933772/reactions"
         },
-        "updated_at": "2023-07-27T16:10:43Z",
-        "url": "https://api.github.com/repos/matttreed/Summer2024-Internships/issues/comments/1653926089",
+        "updated_at": "2023-07-27T16:15:54Z",
+        "url": "https://api.github.com/repos/matttreed/Summer2024-Internships/issues/comments/1653933772",
         "user": {
             "avatar_url": "https://avatars.githubusercontent.com/u/64342119?v=4",
             "events_url": "https://api.github.com/users/matttreed/events{/privacy}",
@@ -49,14 +49,14 @@
         "assignee": null,
         "assignees": [],
         "author_association": "OWNER",
-        "body": "### Link to Internship Posting\n\nexample.com/link/to/posting/test\n\n### Company Name\n\nGoogle New TESt\n\n### Internship Title\n\nML Software Intern\n\n### Location\n\nex. San Franciso, CA | Austin, TX | Remote\n\n### What term(s) is this internship offered for?\n\nSummer 2024\n\n### Is this internship currently accepting applications?\n\nYes\n\n### Extra Notes\n\n_No response_",
+        "body": "### Link to Internship Posting\n\nexample.com/link/to/posting/whoa\n\n### Company Name\n\nGoogle\n\n### Internship Title\n\nML Software Intern\n\n### Location\n\nex. San Franciso, CA | Austin, TX | Remote\n\n### What term(s) is this internship offered for?\n\nSummer 2024\n\n### Is this internship currently accepting applications?\n\nYes\n\n### Extra Notes\n\n_No response_",
         "closed_at": null,
-        "comments": 5,
-        "comments_url": "https://api.github.com/repos/matttreed/Summer2024-Internships/issues/62/comments",
-        "created_at": "2023-07-27T16:07:39Z",
-        "events_url": "https://api.github.com/repos/matttreed/Summer2024-Internships/issues/62/events",
-        "html_url": "https://github.com/matttreed/Summer2024-Internships/issues/62",
-        "id": 1824709666,
+        "comments": 1,
+        "comments_url": "https://api.github.com/repos/matttreed/Summer2024-Internships/issues/63/comments",
+        "created_at": "2023-07-27T16:15:46Z",
+        "events_url": "https://api.github.com/repos/matttreed/Summer2024-Internships/issues/63/events",
+        "html_url": "https://github.com/matttreed/Summer2024-Internships/issues/63",
+        "id": 1824725634,
         "labels": [
             {
                 "color": "2A66B2",
@@ -68,11 +68,11 @@
                 "url": "https://api.github.com/repos/matttreed/Summer2024-Internships/labels/new_internship"
             }
         ],
-        "labels_url": "https://api.github.com/repos/matttreed/Summer2024-Internships/issues/62/labels{/name}",
+        "labels_url": "https://api.github.com/repos/matttreed/Summer2024-Internships/issues/63/labels{/name}",
         "locked": false,
         "milestone": null,
-        "node_id": "I_kwDOJ051Oc5swtwi",
-        "number": 62,
+        "node_id": "I_kwDOJ051Oc5swxqC",
+        "number": 63,
         "performed_via_github_app": null,
         "reactions": {
             "+1": 0,
@@ -84,15 +84,15 @@
             "laugh": 0,
             "rocket": 0,
             "total_count": 0,
-            "url": "https://api.github.com/repos/matttreed/Summer2024-Internships/issues/62/reactions"
+            "url": "https://api.github.com/repos/matttreed/Summer2024-Internships/issues/63/reactions"
         },
         "repository_url": "https://api.github.com/repos/matttreed/Summer2024-Internships",
         "state": "open",
         "state_reason": null,
-        "timeline_url": "https://api.github.com/repos/matttreed/Summer2024-Internships/issues/62/timeline",
+        "timeline_url": "https://api.github.com/repos/matttreed/Summer2024-Internships/issues/63/timeline",
         "title": "New Internship: <internship name>",
-        "updated_at": "2023-07-27T16:10:43Z",
-        "url": "https://api.github.com/repos/matttreed/Summer2024-Internships/issues/62",
+        "updated_at": "2023-07-27T16:15:54Z",
+        "url": "https://api.github.com/repos/matttreed/Summer2024-Internships/issues/63",
         "user": {
             "avatar_url": "https://avatars.githubusercontent.com/u/64342119?v=4",
             "events_url": "https://api.github.com/users/matttreed/events{/privacy}",
@@ -193,7 +193,7 @@
         },
         "private": false,
         "pulls_url": "https://api.github.com/repos/matttreed/Summer2024-Internships/pulls{/number}",
-        "pushed_at": "2023-07-27T16:10:25Z",
+        "pushed_at": "2023-07-27T16:15:19Z",
         "releases_url": "https://api.github.com/repos/matttreed/Summer2024-Internships/releases{/id}",
         "size": 3719,
         "ssh_url": "git@github.com:matttreed/Summer2024-Internships.git",
