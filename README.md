@@ -32,6 +32,10 @@ Welcome back! This repository is your go-to resource for sharing and keeping tra
 
 | Company | Role | Location | Link | Status |
 | --- | --- | --- | :---: | :---: |
+| **Google New TESt** | ML Software Intern | ex. San Franciso, CA and 2 other locations | <a href="https://example.com/link/to/posting/test"><img src="https://i.imgur.com/5JF7mJI.png" width="150" alt="Apply"></a> | ✅ |
+| **Facebook** | ML Software Intern | ex. San Franciso, CA and 2 other locations | <a href="https://example.com/link/to/posting/whoa"><img src="https://i.imgur.com/5JF7mJI.png" width="150" alt="Apply"></a> | ✅ |
+| **Google** | ML Software Intern | ex. San Franciso, CA and 2 other locations | <a href="https://example.com/link/to/posting/whoah/wuienf"><img src="https://i.imgur.com/5JF7mJI.png" width="150" alt="Apply"></a> | ✅ |
+| **Google** | ML Software Intern | ex. San Franciso, CA and 2 other locations | <a href="https://example.com/link/to/posting/erfkmlekrmfegr"><img src="https://i.imgur.com/5JF7mJI.png" width="150" alt="Apply"></a> | ✅ |
 | **Google** | ML Software Intern | San Franciso, CA or Austin, TX | <a href="https://example.com/link/to/posting"><img src="https://i.imgur.com/5JF7mJI.png" width="150" alt="Apply"></a> | ✅ |
 | **[Western Digital](https://simplify.jobs/c/Western-Digital)** | Internship - Engineering - Colorado | Remote in USA or Longmont, CO, USA | <a href="https://simplify.jobs/p/8b42b264-cbd9-4ba2-a0ad-2ba28bf8e8b6"><img src="https://i.imgur.com/kvraaHg.png" width="150" alt="Simplify"></a><a href="https://jobs.smartrecruiters.com/WesternDigital/743999812182229"><img src="https://i.imgur.com/5JF7mJI.png" width="150" alt="Apply"></a> | ✅ |
 | **[Wayfair](https://simplify.jobs/c/Wayfair)** | Security and Privacy Co-op and Internship-Summer 2022 Start | Cambridge, MA, USA | <a href="https://simplify.jobs/p/07861556-7f46-42d5-a043-daf7287ea72f"><img src="https://i.imgur.com/kvraaHg.png" width="150" alt="Simplify"></a><a href="https://www.wayfair.com/careers/jobs/5919933002?gh_jid=5919933002"><img src="https://i.imgur.com/5JF7mJI.png" width="150" alt="Apply"></a> | ✅ |
