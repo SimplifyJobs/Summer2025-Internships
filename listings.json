@@ -1,6 +1,6 @@
 [
     {
-        "date_updated": "07/26/2023",
+        "date_updated": "07/27/2023",
         "url": "https://example.com/link/to/posting",
         "company_name": "Google",
         "title": "ML Software Intern",
@@ -9,7 +9,11 @@
             "Austin, TX"
         ],
         "terms": [
-            "Summer 2024"
+            "Fall 2023",
+            "Winter 2024",
+            "Spring 2024",
+            "Summer 2024",
+            "Fall 2024"
         ],
         "active": true,
         "source": "matttreed",
