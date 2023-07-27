@@ -74,7 +74,7 @@ def main():
     issue_user = event_data['issue']['user']['login']
 
     data = getData(issue_body, is_edit=edit_internship)
-    setOutput("job_description", data["title"] + " at " + data["company"])
+    setOutput("job_description", data["title"] + " at " + data["company_name"])
     
     if new_internship:
         data["source"] = issue_user
