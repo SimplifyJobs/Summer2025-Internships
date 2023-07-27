@@ -82,7 +82,6 @@ def main():
     issue_user = event_data['issue']['user']['login']
 
     data = getData(issue_body, is_edit=edit_internship, username=issue_user)
-    setOutput("job_description", data["title"] + " at " + data["company_name"])
     
     if new_internship:
         data["source"] = issue_user
@@ -102,10 +101,13 @@ def main():
             fail("This internship is already in our list. See CONTRIBUTING.md for how to edit a listing")
         for key, value in data.items():
             found[key] = value
+        
+        setOutput("commit_message", "updating listing: " + found["title"] + " at " + found["company_name"])
     else:
         if edit_internship:
             fail("We could not find this internship in our list. Please double check you inserted the right url")
         listings.append(data)
+        setOutput("commit_message", "adding listing: " + data["title"] + " at " + data["company_name"])
 
     with open("listings.json", "w") as f:
         f.write(json.dumps(listings, indent=4))

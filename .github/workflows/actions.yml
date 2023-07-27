@@ -31,7 +31,7 @@ jobs:
           git config --local user.email ${{ steps.python_script.outputs.commit_email }}
           git config --local user.name ${{ steps.python_script.outputs.commit_username }}
           git add listings.json
-          git diff-index --quiet HEAD || (git commit -a -m "Updating listings.json with ${{ steps.python_script.outputs.job_description }}" --allow-empty)
+          git diff-index --quiet HEAD || (git commit -a -m "${{ steps.python_script.outputs.commit_message }}" --allow-empty)
 
       - name: push changes
         if: steps.python_script.outputs.edit_approved == 'true' && success()
