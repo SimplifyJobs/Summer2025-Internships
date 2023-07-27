@@ -31,6 +31,9 @@ Welcome back! This repository is your go-to resource for sharing and keeping tra
 
 | Company | Role | Location | Terms | Link | Status |
 | --- | --- | --- | --- | :---: | :---: |
+| **Facebook** | ML Software Intern | ex. San Franciso, CA and 2 other locations | Fall 2023, Winter 2024, Spring 2024, Summer 2024, Fall 2024 | <a href="https://example.com/link/to/posting/whoa"><img src="https://i.imgur.com/5JF7mJI.png" width="150" alt="Apply"></a> | ✅ |
+| **Google** | ML Software Intern | ex. San Franciso, CA and 2 other locations | Spring 2024, Summer 2024, Fall 2024 | <a href="https://example.com/link/to/posting/erfkmlekrmfegr"><img src="https://i.imgur.com/5JF7mJI.png" width="150" alt="Apply"></a> | ✅ |
+| **Google** | ML Software Intern | San Franciso, CA or Austin, TX | Fall 2023, Winter 2024, Spring 2024, Summer 2024, Fall 2024 | <a href="https://example.com/link/to/posting"><img src="https://i.imgur.com/5JF7mJI.png" width="150" alt="Apply"></a> | ✅ |
 | **Jump** | ML Software Intern | San Franciso, CA and 2 other locations | Winter 2024, Spring 2024, Fall 2024 | <a href="https://example.com/link/to/posting/this//istoir"><img src="https://i.imgur.com/5JF7mJI.png" width="150" alt="Apply"></a> | ✅ |
 
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
