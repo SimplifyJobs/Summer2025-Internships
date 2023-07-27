@@ -82,7 +82,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Moog Inc.](https://careers.moog.com/jobs/fall-2023-software-engineering-internship-10193) | Elma, NY <br/> Gilbert, AZ <br/> Goleta, CA <br/> Torrance, CA | Fall 2023 | Software Engineering Intern |
 | [Plexus](https://plexus.wd5.myworkdayjobs.com/en-US/Plexus_Careers/details/Intern---Software-Engineer-Intern---Fall-2023_R022285?q=Fall) | Raleigh, NC | Fall 2023 | Software Engineer Intern |
 | [Firefly Aerospace](https://firefly.hrmdirect.com/employment/job-opening.php?req=2558322&&&jbsrc=1025) | Cedar Park, TX | Fall 2023 | Software Development Intern |
-| [Pison](https://jobs.lever.co/pison/7d5d0766-95d6-405a-90a7-76fdbc4f2263) | Boston, MA | Fall 2023 | Software Engineer Intern |
+| [Pison Technology](https://jobs.lever.co/pison/7d5d0766-95d6-405a-90a7-76fdbc4f2263) | Boston, MA | Fall 2023 | Software Engineer Intern |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2024-Internships/blob/dev/README-Off-Season.md#the-list-)
