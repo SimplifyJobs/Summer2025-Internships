@@ -1,62 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "company_name": "Capital One",
-        "id": "c98fdca6-a155-4594-8b85-1371721c3be2",
-        "title": "Business Analyst Intern - Summer 2024",
-        "active": true,
-        "terms": [
-            "Summer 2024"
-        ],
-        "date_updated": "07/19/2023",
-        "url": "https://capitalone.wd1.myworkdayjobs.com/Capital_One/job/Toronto-ON/Business-Analyst-Intern---Summer-2024_R169580",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Capital-One",
-        "is_visible": true,
-        "date_posted": "07/28/2023"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Capital One",
-        "id": "04ba05c8-b280-4043-82c7-974df5d533f0",
-        "title": "Product Development Intern - Summer 2024",
-        "active": true,
-        "terms": [
-            "Summer 2024"
-        ],
-        "date_updated": "07/19/2023",
-        "url": "https://capitalone.wd1.myworkdayjobs.com/Capital_One/job/McLean-VA/Product-Development-Intern---Summer-2024_R169953-1",
-        "locations": [
-            "Plano, TX, USA",
-            "McLean, VA, USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Capital-One",
-        "is_visible": true,
-        "date_posted": "07/28/2023"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Capital One",
-        "id": "c7b2ee48-2d6d-462c-b1df-b7603efb34db",
-        "title": "Business Analyst Intern - Summer 2024",
-        "active": true,
-        "terms": [
-            "Summer 2024"
-        ],
-        "date_updated": "07/24/2023",
-        "url": "https://capitalone.wd1.myworkdayjobs.com/Capital_One/job/McLean-VA/Business-Analyst-Intern---Summer-2024_R169950",
-        "locations": [
-            "Plano, TX, USA",
-            "McLean, VA, USA",
-            "Richmond, VA, USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Capital-One",
-        "is_visible": true,
-        "date_posted": "07/28/2023"
-    },
-    {
         "company_name": "Capital One",
         "locations": [
             "McLean, VA",
@@ -71,21 +14,21 @@
         "url": "https://www.capitalonecareers.com/job/mclean/product-development-intern-summer-2024/31238/51746418592",
         "is_visible": true,
         "source": "Markdown",
-        "company_url": "https://simplify.jobs/c/Capital-One",
+        "company_url": "",
         "date_updated": "07/27/2023",
         "id": "98b2d671-3f03-430e-b18c-e5ddb8ce5035"
     },
     {
         "source": "Simplify",
         "company_name": "Akuna Capital",
-        "id": "647c76e4-f964-4ace-865e-3f883ba62f70",
-        "title": "Platform Engineer Intern - Summer 2024",
+        "id": "0b82dc72-56a8-4fc9-aae5-c008f6da0b02",
+        "title": "Trading Internship - Summer 2024",
         "active": true,
         "terms": [
             "Summer 2024"
         ],
         "date_updated": "07/19/2023",
-        "url": "https://www.akunacapital.com/job-details?gh_jid=5099358",
+        "url": "https://www.akunacapital.com/job-details?gh_jid=5132302",
         "locations": [
             "Chicago, IL, USA"
         ],
@@ -104,24 +47,6 @@
         ],
         "date_updated": "07/19/2023",
         "url": "https://www.akunacapital.com/job-details?gh_jid=5138367",
-        "locations": [
-            "Chicago, IL, USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Akuna-Capital",
-        "is_visible": true,
-        "date_posted": "07/28/2023"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Akuna Capital",
-        "id": "df18433f-abfe-4993-a210-d655c33346bb",
-        "title": "Hardware Engineer Intern - Summer 2024",
-        "active": true,
-        "terms": [
-            "Summer 2024"
-        ],
-        "date_updated": "07/19/2023",
-        "url": "https://www.akunacapital.com/job-details?gh_jid=5144248",
         "locations": [
             "Chicago, IL, USA"
         ],
@@ -656,14 +581,14 @@
     {
         "source": "Simplify",
         "company_name": "DRW",
-        "id": "57a85b35-9175-47d9-be7b-a086bf11a3af",
-        "title": "Venture Capital Analyst Intern",
+        "id": "efd1fbf2-b673-4f23-948a-c579135018e2",
+        "title": "Accounting Intern",
         "active": true,
         "terms": [
             "Summer 2024"
         ],
-        "date_updated": "07/19/2023",
-        "url": "https://boards.greenhouse.io/drweng/jobs/5092594",
+        "date_updated": "07/18/2023",
+        "url": "https://boards.greenhouse.io/drweng/jobs/5125244",
         "locations": [
             "Chicago, IL, USA"
         ],
@@ -1094,6 +1019,24 @@
         "date_posted": "07/28/2023"
     },
     {
+        "source": "Simplify",
+        "company_name": "Northwestern Mutual",
+        "id": "f2c57a9d-892a-488e-97cd-676be99ca696",
+        "title": "Investment Analyst Intern - Private Debt & Equity - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": "07/19/2023",
+        "url": "https://northwesternmutual.wd5.myworkdayjobs.com/corporate-careers/job/Milwaukee-WI-Corporate/Investment-Analyst-Intern---Private-Debt---Equity--Summer-2024_JR-38246-1",
+        "locations": [
+            "Milwaukee, WI, USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Northwestern-Mutual",
+        "is_visible": true,
+        "date_posted": "07/28/2023"
+    },
+    {
         "company_name": "Northwestern Mutual",
         "locations": [
             "Milwaukee, WI"
@@ -1222,42 +1165,6 @@
     {
         "source": "Simplify",
         "company_name": "Zipline",
-        "id": "9bf27e9b-5f48-4f05-852d-a11978e31cde",
-        "title": "Quality/Manufacturing Operations Engineering Intern - Fall 2023",
-        "active": true,
-        "terms": [
-            "Summer 2024"
-        ],
-        "date_updated": "07/19/2023",
-        "url": "https://legacy.flyzipline.com/job?gh_jid=5609477003",
-        "locations": [
-            "San Bruno, CA, USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Zipline",
-        "is_visible": true,
-        "date_posted": "07/28/2023"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Zipline",
-        "id": "3682661c-7b7d-44e1-96bd-36faa28d6557",
-        "title": "Applied Aerodynamics Intern - Fall 2023",
-        "active": true,
-        "terms": [
-            "Summer 2024"
-        ],
-        "date_updated": "07/19/2023",
-        "url": "https://legacy.flyzipline.com/job?gh_jid=5606587003",
-        "locations": [
-            "San Bruno, CA, USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Zipline",
-        "is_visible": true,
-        "date_posted": "07/28/2023"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Zipline",
         "id": "b7b2a22a-f42a-4477-ad38-e3d1899ae927",
         "title": "Embedded Systems Software Intern - Fall 2023",
         "active": true,
@@ -1266,60 +1173,6 @@
         ],
         "date_updated": "07/19/2023",
         "url": "https://legacy.flyzipline.com/job?gh_jid=5606609003",
-        "locations": [
-            "San Bruno, CA, USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Zipline",
-        "is_visible": true,
-        "date_posted": "07/28/2023"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Zipline",
-        "id": "afaf54ec-29d6-4ea1-b484-6aaea19f5946",
-        "title": "Systems Engineering Intern - Fall 2023",
-        "active": true,
-        "terms": [
-            "Summer 2024"
-        ],
-        "date_updated": "07/19/2023",
-        "url": "https://legacy.flyzipline.com/job?gh_jid=5610967003",
-        "locations": [
-            "San Bruno, CA, USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Zipline",
-        "is_visible": true,
-        "date_posted": "07/28/2023"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Zipline",
-        "id": "4ab67bfd-d886-4fba-92ba-880b0b8b7316",
-        "title": "Electrical Engineering Intern - Fall 2023",
-        "active": true,
-        "terms": [
-            "Summer 2024"
-        ],
-        "date_updated": "07/19/2023",
-        "url": "https://legacy.flyzipline.com/job?gh_jid=5617157003",
-        "locations": [
-            "San Bruno, CA, USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Zipline",
-        "is_visible": true,
-        "date_posted": "07/28/2023"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Zipline",
-        "id": "27e68205-52cf-49a4-998e-2f5aac8c8e16",
-        "title": "Mechanical Engineering Intern - Fall 2023",
-        "active": true,
-        "terms": [
-            "Summer 2024"
-        ],
-        "date_updated": "07/19/2023",
-        "url": "https://legacy.flyzipline.com/job?gh_jid=5606483003",
         "locations": [
             "San Bruno, CA, USA"
         ],
@@ -2025,6 +1878,25 @@
         "id": "7bbaea7f-fbf3-4164-9611-ff49bd4a3b6b"
     },
     {
+        "company_name": "MosaicML",
+        "locations": [
+            "SF and San Diego, CA",
+            "NYC, NY"
+        ],
+        "title": "Research Scientist Intern",
+        "date_posted": "07/15/2023",
+        "terms": [
+            "Summer 2024"
+        ],
+        "active": true,
+        "url": "https://boards.greenhouse.io/mosaicml/jobs/4170454004",
+        "is_visible": true,
+        "source": "Markdown",
+        "company_url": "",
+        "date_updated": "07/27/2023",
+        "id": "8800b8ed-d120-4bf0-b1f2-ab089f539fbe"
+    },
+    {
         "source": "Simplify",
         "company_name": "Certik",
         "id": "fd9fc3c7-c24c-4053-b178-1c1d3c40e3ca",
@@ -2130,24 +2002,6 @@
         "id": "154e45f7-181c-4b73-982b-8825c9ae0222"
     },
     {
-        "source": "Simplify",
-        "company_name": "Neuralink",
-        "id": "eea94277-7323-4224-a840-3f36e968a6c3",
-        "title": "Quality Engineering Intern",
-        "active": true,
-        "terms": [
-            "Summer 2024"
-        ],
-        "date_updated": "07/19/2023",
-        "url": "https://boards.greenhouse.io/neuralink/jobs/5552854003",
-        "locations": [
-            "Fremont, CA, USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Neuralink",
-        "is_visible": true,
-        "date_posted": "07/28/2023"
-    },
-    {
         "company_name": "Neuralink",
         "locations": [
             "Fremont, CA",
@@ -2214,24 +2068,6 @@
         ],
         "date_updated": "07/27/2023",
         "url": "https://boards.greenhouse.io/neuralink/jobs/5627630003",
-        "locations": [
-            "Fremont, CA, USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Neuralink",
-        "is_visible": true,
-        "date_posted": "07/28/2023"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Neuralink",
-        "id": "6363f499-ee8b-482b-87a3-cea0eb3a7b51",
-        "title": "Mechanical Engineering Intern",
-        "active": true,
-        "terms": [
-            "Summer 2024"
-        ],
-        "date_updated": "07/27/2023",
-        "url": "https://boards.greenhouse.io/neuralink/jobs/5654096003",
         "locations": [
             "Fremont, CA, USA"
         ],
@@ -2387,43 +2223,6 @@
     {
         "source": "Simplify",
         "company_name": "Walmart",
-        "id": "e3889b32-0cd2-4731-bbe8-8f3fc61796d8",
-        "title": "2024 Summer Intern: Accounting and Finance Development Program Walmart Intern",
-        "active": true,
-        "terms": [
-            "Summer 2024"
-        ],
-        "date_updated": "07/18/2023",
-        "url": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/XMLNAME-2024-Summer-Intern--Accounting-and-Finance-Development-Program-Intern_R-1407559",
-        "locations": [
-            "Bentonville, AR, USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Walmart",
-        "is_visible": true,
-        "date_posted": "07/28/2023"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Walmart",
-        "id": "1cf5c461-fcef-451e-85fa-0f99217a9030",
-        "title": "2024 Summer Intern: Product Specialist",
-        "active": true,
-        "terms": [
-            "Summer 2024"
-        ],
-        "date_updated": "07/19/2023",
-        "url": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/XMLNAME-2024-Summer-Intern--Product-Specialist_R-1452378",
-        "locations": [
-            "Bentonville, AR, USA",
-            "Sunnyvale, CA, USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Walmart",
-        "is_visible": true,
-        "date_posted": "07/28/2023"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Walmart",
         "id": "9fb8a8c8-86a5-41ac-9020-d701b44d076f",
         "title": "2024 Summer Intern: Supply Chain Innovation & Automation - Product Manager",
         "active": true,
@@ -2437,76 +2236,6 @@
             "Dallas, TX, USA",
             "Union City, NJ, USA",
             "Sunnyvale, CA, USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Walmart",
-        "is_visible": true,
-        "date_posted": "07/28/2023"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Walmart",
-        "id": "e5fbfed3-3084-40fb-811f-fd1d9ad3b902",
-        "title": "2024 Summer Intern: Analyst II - Technology Operations",
-        "active": true,
-        "terms": [
-            "Summer 2024"
-        ],
-        "date_updated": "07/19/2023",
-        "url": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/XMLNAME-2024-Summer-Intern--Analyst-II--Technology-Operations_R-1452380",
-        "locations": [
-            "Bentonville, AR, USA",
-            "Sunnyvale, CA, USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Walmart",
-        "is_visible": true,
-        "date_posted": "07/28/2023"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Walmart",
-        "id": "615a7c90-332b-4489-bb43-523d2817c531",
-        "title": "2024 Summer Intern: Supply Chain Innovation & Automation - Automation Engineer",
-        "active": true,
-        "terms": [
-            "Summer 2024"
-        ],
-        "date_updated": "07/19/2023",
-        "url": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/XMLNAME-2024-Summer-Intern--Supply-Chain-Innovation---Automation---Automation-Engineer_R-1437326",
-        "locations": [
-            "Fayetteville, NC, USA",
-            "Marcy, NY, USA",
-            "Denton, TX, USA",
-            "Manchester, NH, USA",
-            "Bentonville, AR, USA",
-            "Forney, TX, USA",
-            "Dallas, TX, USA",
-            "Hermiston, OR, USA",
-            "Decatur, AL, USA",
-            "Garnett, KS, USA",
-            "Brooksville, FL, USA",
-            "Union City, NJ, USA",
-            "Hopkinsville, KY, USA",
-            "DuBois, PA, USA",
-            "Red Oak, TX, USA",
-            "Greer, SC, USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Walmart",
-        "is_visible": true,
-        "date_posted": "07/28/2023"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Walmart",
-        "id": "c6991e66-065b-4f62-b64c-2800ffc2f9cc",
-        "title": "2024 Summer Intern: Systems Engineer - Bentonville - AR",
-        "active": true,
-        "terms": [
-            "Summer 2024"
-        ],
-        "date_updated": "07/19/2023",
-        "url": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/XMLNAME-2024-Summer-Intern--Systems-Engineer--Bentonville--AR-_R-1452374",
-        "locations": [
-            "Bentonville, AR, USA"
         ],
         "company_url": "https://simplify.jobs/c/Walmart",
         "is_visible": true,
@@ -2663,24 +2392,6 @@
     {
         "source": "Simplify",
         "company_name": "SpaceX",
-        "id": "3d8d2263-5f26-4e1b-a7f4-275a808b8682",
-        "title": "Fall 2023 Business Operations Internship/Co-op",
-        "active": true,
-        "terms": [
-            "Summer 2024"
-        ],
-        "date_updated": "07/18/2023",
-        "url": "https://boards.greenhouse.io/spacex/jobs/6675011002?gh_jid=6675011002",
-        "locations": [
-            "Remote"
-        ],
-        "company_url": "https://simplify.jobs/c/SpaceX",
-        "is_visible": true,
-        "date_posted": "07/28/2023"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "SpaceX",
         "id": "e891acd1-c99c-4e43-8ad2-04182c9f64aa",
         "title": "Fall 2023 Software Engineering Internship/Co-op",
         "active": true,
@@ -2783,24 +2494,6 @@
         "company_url": "",
         "date_updated": "07/27/2023",
         "id": "e4ce95bc-d8aa-4264-81ae-4405e818dc9f"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "100ms",
-        "id": "e13cd541-5441-45c6-aeb7-78d7e3391fb9",
-        "title": "Devops Intern",
-        "active": true,
-        "terms": [
-            "Summer 2024"
-        ],
-        "date_updated": "07/19/2023",
-        "url": "https://jobs.lever.co/100ms/e7d5c887-0317-453f-9729-66be8824a5c1/apply",
-        "locations": [
-            "Remote"
-        ],
-        "company_url": "https://simplify.jobs/c/100ms",
-        "is_visible": true,
-        "date_posted": "07/28/2023"
     },
     {
         "source": "Simplify",
@@ -2984,82 +2677,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Astra",
-        "id": "f2169c86-7b8a-47be-8347-5dca8de5477e",
-        "title": "Electrical Engineering Intern: Fall/Winter 2023",
-        "active": true,
-        "terms": [
-            "Summer 2024"
-        ],
-        "date_updated": "07/19/2023",
-        "url": "https://jobs.lever.co/astra/c227b197-92cf-4b11-bd0f-bf71f8b991c9/apply",
-        "locations": [
-            "Alameda, CA, USA",
-            "Sunnyvale, CA, USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Astra",
-        "is_visible": true,
-        "date_posted": "07/28/2023"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Astra",
-        "id": "475619db-e520-49ad-8ed8-e11f71ea4abe",
-        "title": "Mechanical Engineering Intern: Spring 2024",
-        "active": true,
-        "terms": [
-            "Summer 2024"
-        ],
-        "date_updated": "07/19/2023",
-        "url": "https://jobs.lever.co/astra/2e22855b-109c-4a83-84d0-3f60d6b0e9c2/apply",
-        "locations": [
-            "Alameda, CA, USA",
-            "Sunnyvale, CA, USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Astra",
-        "is_visible": true,
-        "date_posted": "07/28/2023"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Astra",
-        "id": "0107182f-19cc-4683-8ac1-dc78bc6e9943",
-        "title": "Electrical Engineering Intern: Spring 2024",
-        "active": true,
-        "terms": [
-            "Summer 2024"
-        ],
-        "date_updated": "07/19/2023",
-        "url": "https://jobs.lever.co/astra/85fe08c3-6717-43d3-a653-b4a3e2b6849e/apply",
-        "locations": [
-            "Alameda, CA, USA",
-            "Sunnyvale, CA, USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Astra",
-        "is_visible": true,
-        "date_posted": "07/28/2023"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Astra",
-        "id": "a0445192-e219-4c7b-b78a-ae59b4969604",
-        "title": "Mechanical Engineering Intern: Fall/Winter 2023",
-        "active": true,
-        "terms": [
-            "Summer 2024"
-        ],
-        "date_updated": "07/19/2023",
-        "url": "https://jobs.lever.co/astra/50d3a0df-2210-46e7-8f8f-d5241b220ecb/apply",
-        "locations": [
-            "Alameda, CA, USA",
-            "Sunnyvale, CA, USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Astra",
-        "is_visible": true,
-        "date_posted": "07/28/2023"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Autodesk",
         "id": "af16252d-f555-41c4-9ed4-273482b3f595",
         "title": "Intern \u2013 Software Engineer - Fall 2023",
@@ -3187,62 +2804,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "BerlinRosen",
-        "id": "f2447b45-065a-4fcb-876a-901881e748e1",
-        "title": "Public Relations Fall 2023 Internship",
-        "active": true,
-        "terms": [
-            "Summer 2024"
-        ],
-        "date_updated": "07/21/2023",
-        "url": "https://boards.greenhouse.io/berlinrosen/jobs/6854086002",
-        "locations": [
-            "Washington, DC, USA",
-            "New York, NY, USA"
-        ],
-        "company_url": "https://simplify.jobs/c/BerlinRosen",
-        "is_visible": true,
-        "date_posted": "07/28/2023"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "BerlinRosen",
-        "id": "62f76e4b-5cbe-472c-ab74-f202fe76e19f",
-        "title": "Gaming and Tech Public Relations Fall 2023 Internship",
-        "active": true,
-        "terms": [
-            "Summer 2024"
-        ],
-        "date_updated": "07/21/2023",
-        "url": "https://boards.greenhouse.io/berlinrosen/jobs/6854099002",
-        "locations": [
-            "Remote"
-        ],
-        "company_url": "https://simplify.jobs/c/BerlinRosen",
-        "is_visible": true,
-        "date_posted": "07/28/2023"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "BerlinRosen",
-        "id": "5fec1b68-9602-4650-a948-d8dc59ad9436",
-        "title": "Business Development Fall 2023 Internship",
-        "active": true,
-        "terms": [
-            "Summer 2024"
-        ],
-        "date_updated": "07/21/2023",
-        "url": "https://boards.greenhouse.io/berlinrosen/jobs/6854108002",
-        "locations": [
-            "Washington, DC, USA",
-            "New York, NY, USA"
-        ],
-        "company_url": "https://simplify.jobs/c/BerlinRosen",
-        "is_visible": true,
-        "date_posted": "07/28/2023"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Bodo.ai",
         "id": "e3616907-a445-4710-b6df-3cbed409f178",
         "title": "Software Engineer \u2013 Intern - Cloud Infrastructure",
@@ -3256,42 +2817,6 @@
             "Pittsburgh, PA, USA"
         ],
         "company_url": "https://simplify.jobs/c/Bodo",
-        "is_visible": true,
-        "date_posted": "07/28/2023"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Bristol-Myers Squibb",
-        "id": "01bbf9ec-e471-4dff-b1b7-4a29dfbe0769",
-        "title": "Stagiaire \u2013 Ressources humaines / Intern - Human Resources",
-        "active": true,
-        "terms": [
-            "Summer 2024"
-        ],
-        "date_updated": "07/19/2023",
-        "url": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/en-US/BMS/job/Montreal---QC---CA/Stagiaire--Ressources-humaines---Intern--Human-Resources_R1570743",
-        "locations": [
-            "Montreal, QC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Bristol-Myers-Squibb",
-        "is_visible": true,
-        "date_posted": "07/28/2023"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Capstone",
-        "id": "199e3ba9-9b53-46fb-b8c8-2689b2e5b204",
-        "title": "2024 Summer Internship - Treasury",
-        "active": true,
-        "terms": [
-            "Summer 2024"
-        ],
-        "date_updated": "07/18/2023",
-        "url": "https://boards.greenhouse.io/capstoneinvestmentadvisors/jobs/6784278002",
-        "locations": [
-            "New York, NY, USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Capstone",
         "is_visible": true,
         "date_posted": "07/28/2023"
     },
@@ -3370,42 +2895,6 @@
     {
         "source": "Simplify",
         "company_name": "Chewie Labs",
-        "id": "9286afa2-f4a6-46fc-8892-0ad741d205b9",
-        "title": "Hardware Reliability Engineering Intern",
-        "active": true,
-        "terms": [
-            "Summer 2024"
-        ],
-        "date_updated": "07/19/2023",
-        "url": "https://boards.greenhouse.io/mill/jobs/4287358005",
-        "locations": [
-            "San Bruno, CA, USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Chewie-Labs",
-        "is_visible": true,
-        "date_posted": "07/28/2023"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Chewie Labs",
-        "id": "4e7e293f-ff8c-4f3e-8cdd-73e1971a21e3",
-        "title": "Product Design Engineering Intern",
-        "active": true,
-        "terms": [
-            "Summer 2024"
-        ],
-        "date_updated": "07/19/2023",
-        "url": "https://boards.greenhouse.io/mill/jobs/4288702005",
-        "locations": [
-            "San Bruno, CA, USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Chewie-Labs",
-        "is_visible": true,
-        "date_posted": "07/28/2023"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Chewie Labs",
         "id": "ee11c43a-0aec-49c4-adf0-138077204f31",
         "title": "Electrical Engineering Intern",
         "active": true,
@@ -3418,42 +2907,6 @@
             "San Bruno, CA, USA"
         ],
         "company_url": "https://simplify.jobs/c/Chewie-Labs",
-        "is_visible": true,
-        "date_posted": "07/28/2023"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Code and Theory",
-        "id": "e0180420-842f-4b56-88bc-cd42e76fb17c",
-        "title": "Brand Strategy Intern",
-        "active": true,
-        "terms": [
-            "Summer 2024"
-        ],
-        "date_updated": "07/24/2023",
-        "url": "https://www.codeandtheory.com/careers/6794874002?gh_jid=6794874002",
-        "locations": [
-            "New York, NY, USA"
-        ],
-        "company_url": "https://simplify.jobs/c/codeandtheory",
-        "is_visible": true,
-        "date_posted": "07/28/2023"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Code and Theory",
-        "id": "5001f3cb-149f-4e32-9250-c6ca8828db5e",
-        "title": "Product Strategy Intern",
-        "active": true,
-        "terms": [
-            "Summer 2024"
-        ],
-        "date_updated": "07/26/2023",
-        "url": "https://www.codeandtheory.com/careers/6802380002?gh_jid=6802380002",
-        "locations": [
-            "New York, NY, USA"
-        ],
-        "company_url": "https://simplify.jobs/c/codeandtheory",
         "is_visible": true,
         "date_posted": "07/28/2023"
     },
@@ -3621,43 +3074,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Form Energy",
-        "id": "4f32398d-e9f2-4133-ac19-1424a42c23cd",
-        "title": "Mechanical Engineering Co-op - Fall 2023",
-        "active": true,
-        "terms": [
-            "Summer 2024"
-        ],
-        "date_updated": "07/19/2023",
-        "url": "https://jobs.lever.co/formenergy/cacc19b6-d66d-449b-a545-4902413ff148/apply",
-        "locations": [
-            "Cambridge, MA, USA",
-            "Oakland, CA, USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Form-Energy",
-        "is_visible": true,
-        "date_posted": "07/28/2023"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Form Energy",
-        "id": "928c9205-1399-45e2-a406-ca5186c39129",
-        "title": "Industrial Engineering Co-op - Fall 2023",
-        "active": true,
-        "terms": [
-            "Summer 2024"
-        ],
-        "date_updated": "07/19/2023",
-        "url": "https://jobs.lever.co/formenergy/10507761-497d-4310-88af-9bb59b4ae3f2/apply",
-        "locations": [
-            "Cambridge, MA, USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Form-Energy",
-        "is_visible": true,
-        "date_posted": "07/28/2023"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Formlabs",
         "id": "526e4433-83c2-4f09-9fcb-abad3e63f4a4",
         "title": "Desktop Software Intern - Fall 2023",
@@ -3695,42 +3111,6 @@
     {
         "source": "Simplify",
         "company_name": "Formlabs",
-        "id": "fd542343-0af5-464c-8e56-b994761b6ee6",
-        "title": "Hardware Test Engineering Intern - Fall 2023",
-        "active": true,
-        "terms": [
-            "Summer 2024"
-        ],
-        "date_updated": "07/19/2023",
-        "url": "https://careers.formlabs.com/job/5153392/apply/?gh_jid=5153392",
-        "locations": [
-            "Cambridge, MA, USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Formlabs",
-        "is_visible": true,
-        "date_posted": "07/28/2023"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Formlabs",
-        "id": "95e79761-0f32-44df-b8d5-82712ecbe807",
-        "title": "R&D Engineering Intern - Fall 2023",
-        "active": true,
-        "terms": [
-            "Summer 2024"
-        ],
-        "date_updated": "07/19/2023",
-        "url": "https://careers.formlabs.com/job/5089201/apply/?gh_jid=5089201",
-        "locations": [
-            "Cambridge, MA, USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Formlabs",
-        "is_visible": true,
-        "date_posted": "07/28/2023"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Formlabs",
         "id": "44206dc8-396d-489f-bbbd-8b874a30ebcf",
         "title": "Embedded Software Intern - Fall 2023",
         "active": true,
@@ -3739,24 +3119,6 @@
         ],
         "date_updated": "07/19/2023",
         "url": "https://careers.formlabs.com/job/5083680/apply/?gh_jid=5083680",
-        "locations": [
-            "Cambridge, MA, USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Formlabs",
-        "is_visible": true,
-        "date_posted": "07/28/2023"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Formlabs",
-        "id": "882b5ab9-a427-496e-8876-b399f2f9f276",
-        "title": "Settings Optimization Validation Intern - Fall 2023",
-        "active": true,
-        "terms": [
-            "Summer 2024"
-        ],
-        "date_updated": "07/21/2023",
-        "url": "https://careers.formlabs.com/job/5076982/apply/?gh_jid=5076982",
         "locations": [
             "Cambridge, MA, USA"
         ],
@@ -3820,24 +3182,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Hewlett Packard (HP)",
-        "id": "b0fc5818-ce63-48cf-83e4-f2af0060c670",
-        "title": "Identity and Access Management Intern",
-        "active": true,
-        "terms": [
-            "Summer 2024"
-        ],
-        "date_updated": "07/19/2023",
-        "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Spring-Texas-United-States-of-America/Identity-and-Access-Management-Intern_3103138-1",
-        "locations": [
-            "Spring, TX, USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Hewlett-Packard",
-        "is_visible": true,
-        "date_posted": "07/28/2023"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Hudson River Trading",
         "id": "d4f439ef-5346-42f4-b9cf-e33f4a81a1da",
         "title": "Business Development Skillbridge Rotational Internship",
@@ -3875,42 +3219,6 @@
     {
         "source": "Simplify",
         "company_name": "IMC Trading",
-        "id": "a1ce5a15-0645-4216-883b-399e90d7de29",
-        "title": "Hardware Engineer Intern - Summer",
-        "active": true,
-        "terms": [
-            "Summer 2024"
-        ],
-        "date_updated": "07/19/2023",
-        "url": "https://imc.wd5.myworkdayjobs.com/en-US/invitation/job/Chicago/Hardware-Engineer-Intern---Summer-2019_REQ-00453",
-        "locations": [
-            "Chicago, IL, USA"
-        ],
-        "company_url": "https://simplify.jobs/c/imc-trading",
-        "is_visible": true,
-        "date_posted": "07/28/2023"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "IMC Trading",
-        "id": "0495b930-4a97-499b-85d8-505f995288f3",
-        "title": "Hardware Engineer Intern - Summer 2023",
-        "active": true,
-        "terms": [
-            "Summer 2024"
-        ],
-        "date_updated": "07/19/2023",
-        "url": "https://imc.wd5.myworkdayjobs.com/en-US/invitation/job/Chicago/Hardware-Engineer-Intern----Summer-2023_REQ-01960",
-        "locations": [
-            "Chicago, IL, USA"
-        ],
-        "company_url": "https://simplify.jobs/c/imc-trading",
-        "is_visible": true,
-        "date_posted": "07/28/2023"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "IMC Trading",
         "id": "a7813fb6-456a-4e09-94c7-6e810b8b3aae",
         "title": "Software Engineer Intern - Summer 2022",
         "active": true,
@@ -3929,78 +3237,6 @@
     {
         "source": "Simplify",
         "company_name": "Intel",
-        "id": "16921047-8f8e-49a9-8664-56cab931ddbe",
-        "title": "Digital Design and Automation Intern",
-        "active": true,
-        "terms": [
-            "Summer 2024"
-        ],
-        "date_updated": "07/18/2023",
-        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/Virtual-Romania/Digital-Design-and-Automation-Intern_JR0242594-1",
-        "locations": [
-            "Remote"
-        ],
-        "company_url": "https://simplify.jobs/c/Intel",
-        "is_visible": true,
-        "date_posted": "07/28/2023"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Intel",
-        "id": "4b254440-4d7b-4575-b443-018419acedba",
-        "title": "Facilities Technician Undergraduate Intern - Aloha Campus",
-        "active": true,
-        "terms": [
-            "Summer 2024"
-        ],
-        "date_updated": "07/19/2023",
-        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Facilities-Technician-Undergraduate-Intern---Aloha-Campus_JR0242179",
-        "locations": [
-            "Hillsboro, OR, USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Intel",
-        "is_visible": true,
-        "date_posted": "07/28/2023"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Intel",
-        "id": "cc86170b-cb1b-442c-baeb-8cf60b44ec47",
-        "title": "Easic technical marketing intern",
-        "active": true,
-        "terms": [
-            "Summer 2024"
-        ],
-        "date_updated": "07/19/2023",
-        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/Virtual-Romania/eASIC-technical-marketing-intern_JR0244018",
-        "locations": [
-            "Remote"
-        ],
-        "company_url": "https://simplify.jobs/c/Intel",
-        "is_visible": true,
-        "date_posted": "07/28/2023"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Intel",
-        "id": "afb2c0ec-492b-43bd-b0e5-6bf97a73a807",
-        "title": "Sales Intern",
-        "active": true,
-        "terms": [
-            "Summer 2024"
-        ],
-        "date_updated": "07/19/2023",
-        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/Singapore--Multiple-Cities/Sales-Intern_JR0245499",
-        "locations": [
-            "Lacygne, KS, USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Intel",
-        "is_visible": true,
-        "date_posted": "07/28/2023"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Intel",
         "id": "66b75e3b-c7f3-490f-9978-6ab517927c61",
         "title": "Software Engineer \u2013 PEY Intern",
         "active": true,
@@ -4009,42 +3245,6 @@
         ],
         "date_updated": "07/19/2023",
         "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/Canada-Toronto/Software-Engineer---PEY-Intern_JR0245130",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Intel",
-        "is_visible": true,
-        "date_posted": "07/28/2023"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Intel",
-        "id": "b32d1612-a870-4e10-b2a7-cd710313896c",
-        "title": "Product Engineer Intern",
-        "active": true,
-        "terms": [
-            "Summer 2024"
-        ],
-        "date_updated": "07/19/2023",
-        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/Singapore--Multiple-Cities/Product--Engineer_JR0244521-1",
-        "locations": [
-            "Lacygne, KS, USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Intel",
-        "is_visible": true,
-        "date_posted": "07/28/2023"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Intel",
-        "id": "caba7703-f0d8-43d1-b2dc-89cb22419742",
-        "title": "FPGA Architecture Intern",
-        "active": true,
-        "terms": [
-            "Summer 2024"
-        ],
-        "date_updated": "07/25/2023",
-        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/Canada-Toronto/FPGA-Architecture-Intern_JR0243485",
         "locations": [
             "Toronto, ON, Canada"
         ],
@@ -4072,24 +3272,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Jerry",
-        "id": "242789d9-445b-4504-9bf9-d15bdf91a190",
-        "title": "Search Engine Optimization PM Intern - Full-Time - Remote",
-        "active": true,
-        "terms": [
-            "Summer 2024"
-        ],
-        "date_updated": "07/19/2023",
-        "url": "https://jobs.ashbyhq.com/Jerry/76683407-2e67-4ad3-bed9-fa5a5e140097/application",
-        "locations": [
-            "San Francisco, CA, USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Jerry",
-        "is_visible": true,
-        "date_posted": "07/28/2023"
-    },
-    {
-        "source": "Simplify",
         "company_name": "KAYAK",
         "id": "54dc3f66-aa73-4018-9f4e-ee2e76ae87c5",
         "title": "Java Engineering Intern - Adtech",
@@ -4103,24 +3285,6 @@
             "Concord, CA, USA"
         ],
         "company_url": "https://simplify.jobs/c/KAYAK",
-        "is_visible": true,
-        "date_posted": "07/28/2023"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Kinaxis",
-        "id": "3e666593-2028-4cf4-a563-96c6adb2109a",
-        "title": "Technical Support Analyst Co-Op/Intern",
-        "active": true,
-        "terms": [
-            "Summer 2024"
-        ],
-        "date_updated": "07/19/2023",
-        "url": "https://boards.greenhouse.io/kinaxis/jobs/6753090002",
-        "locations": [
-            "Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Kinaxis",
         "is_visible": true,
         "date_posted": "07/28/2023"
     },
@@ -4157,24 +3321,6 @@
             "Ottawa, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Kinaxis",
-        "is_visible": true,
-        "date_posted": "07/28/2023"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Klue",
-        "id": "20f37895-4b27-497b-89aa-029ea9ff71a9",
-        "title": "Value Consulting Intern",
-        "active": true,
-        "terms": [
-            "Summer 2024"
-        ],
-        "date_updated": "07/19/2023",
-        "url": "https://jobs.lever.co/klue/8d87ee4d-258d-438e-b0d1-031694d4361a/apply",
-        "locations": [
-            "Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/klue",
         "is_visible": true,
         "date_posted": "07/28/2023"
     },
@@ -4270,24 +3416,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Leidos",
-        "id": "0261786a-5bbd-4496-b73d-5a09d504a0c4",
-        "title": "Electrical Engineer Intern",
-        "active": true,
-        "terms": [
-            "Summer 2024"
-        ],
-        "date_updated": "07/19/2023",
-        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Honolulu-HI/Electrical-Engineer-Intern_R-00110631",
-        "locations": [
-            "Honolulu, HI, USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Leidos",
-        "is_visible": true,
-        "date_posted": "07/28/2023"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Lendbuzz",
         "id": "24f9405e-dfb5-42d4-ab10-b27ebd4879ce",
         "title": "Fullstack Engineering Coop",
@@ -4301,78 +3429,6 @@
             "Cambridge, MA, USA"
         ],
         "company_url": "https://simplify.jobs/c/Lendbuzz",
-        "is_visible": true,
-        "date_posted": "07/28/2023"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Live Nation Entertainment",
-        "id": "c7847633-8997-46e9-a121-26d5bb52addf",
-        "title": "C3 Presents \u2013 Artist Relations & Travel Ops Intern - Fall 2023",
-        "active": true,
-        "terms": [
-            "Summer 2024"
-        ],
-        "date_updated": "07/19/2023",
-        "url": "https://livenation.wd1.myworkdayjobs.com/en-US/LNExternalSite/job/Austin-TX-USA/C3-Presents---Artist-Relations---Travel-Ops-Intern---Fall-2023_JR-61564",
-        "locations": [
-            "Austin, TX, USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Live-Nation-Entertainment",
-        "is_visible": true,
-        "date_posted": "07/28/2023"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Major League Baseball",
-        "id": "d8ff703a-b5f8-4cca-8235-1cf24769ddf5",
-        "title": "Information Security Internship",
-        "active": true,
-        "terms": [
-            "Summer 2024"
-        ],
-        "date_updated": "07/19/2023",
-        "url": "https://www.mlb.com/careers/opportunities?gh_jid=3814742",
-        "locations": [
-            "New York, NY, USA"
-        ],
-        "company_url": "https://simplify.jobs/c/MLB",
-        "is_visible": true,
-        "date_posted": "07/28/2023"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Maven Securities",
-        "id": "4bbeddb6-abdc-424e-a2bf-24b569f5ba72",
-        "title": "Learning \u2013 Development & Inclusion Intern",
-        "active": true,
-        "terms": [
-            "Summer 2024"
-        ],
-        "date_updated": "07/19/2023",
-        "url": "https://boards.greenhouse.io/mavensecuritiesholdingltd/jobs/5120411",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Maven-Securities",
-        "is_visible": true,
-        "date_posted": "07/28/2023"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Misfits Market",
-        "id": "bbad83be-5b7d-4e0d-a590-a6c3800cb283",
-        "title": "Packaging Engineering Intern",
-        "active": true,
-        "terms": [
-            "Summer 2024"
-        ],
-        "date_updated": "07/19/2023",
-        "url": "https://boards.greenhouse.io/misfitsmarket/jobs/5670543003",
-        "locations": [
-            "Hanover, MD, USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Misfits-Market",
         "is_visible": true,
         "date_posted": "07/28/2023"
     },
@@ -4408,24 +3464,6 @@
         "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/PhD-Research-Intern--AI-Algorithm---Fall-2023_JR1967228-1",
         "locations": [
             "Remote in USA",
-            "Santa Clara, CA, USA"
-        ],
-        "company_url": "https://simplify.jobs/c/NVIDIA",
-        "is_visible": true,
-        "date_posted": "07/28/2023"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "NVIDIA",
-        "id": "1d07dc2e-135e-413b-b111-1766fbac0d9e",
-        "title": "Architect Intern - Fall 2023",
-        "active": true,
-        "terms": [
-            "Summer 2024"
-        ],
-        "date_updated": "07/19/2023",
-        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Architect-Intern---Fall-2023_JR1968795",
-        "locations": [
             "Santa Clara, CA, USA"
         ],
         "company_url": "https://simplify.jobs/c/NVIDIA",
@@ -4483,60 +3521,6 @@
             "Santa Clara, CA, USA"
         ],
         "company_url": "https://simplify.jobs/c/NVIDIA",
-        "is_visible": true,
-        "date_posted": "07/28/2023"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "NVIDIA",
-        "id": "68e64ab2-ca70-4111-9577-340deb4ecc4c",
-        "title": "ASIC Floorplan Design Intern - Fall 2023",
-        "active": true,
-        "terms": [
-            "Summer 2024"
-        ],
-        "date_updated": "07/24/2023",
-        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/ASIC-Floorplan-Design-Intern---Fall-2023_JR1969220",
-        "locations": [
-            "Santa Clara, CA, USA"
-        ],
-        "company_url": "https://simplify.jobs/c/NVIDIA",
-        "is_visible": true,
-        "date_posted": "07/28/2023"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "NVIDIA",
-        "id": "408d4cc8-70d2-4f75-9345-7648b61df675",
-        "title": "Hardware Intern - Applications Engineering - Fall 2023",
-        "active": true,
-        "terms": [
-            "Summer 2024"
-        ],
-        "date_updated": "07/27/2023",
-        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Hardware-Intern--Applications-Engineering---Fall-2023_JR1969767",
-        "locations": [
-            "Santa Clara, CA, USA"
-        ],
-        "company_url": "https://simplify.jobs/c/NVIDIA",
-        "is_visible": true,
-        "date_posted": "07/28/2023"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Omni Design Technologies",
-        "id": "810f6eb0-9e7c-4237-9b80-776e2ff1fe08",
-        "title": "IC Characterization/Test Engineer Intern",
-        "active": true,
-        "terms": [
-            "Summer 2024"
-        ],
-        "date_updated": "07/19/2023",
-        "url": "https://jobs.lever.co/omnidesigntech/6558f69c-167a-4511-9364-db92ef2da3f2/apply",
-        "locations": [
-            "Milpitas, CA, USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Omni-Design-Technologies",
         "is_visible": true,
         "date_posted": "07/28/2023"
     },
@@ -4614,6 +3598,42 @@
     },
     {
         "source": "Simplify",
+        "company_name": "Palantir",
+        "id": "1d3628dd-10e9-4854-8975-3e2cb1de5f50",
+        "title": "Palantir Path \u2013 Internship",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": "07/19/2023",
+        "url": "https://jobs.lever.co/palantir/1a13a5e8-dc42-4655-a5de-dbc120763f1e/apply",
+        "locations": [
+            "New York, NY, USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Palantir",
+        "is_visible": true,
+        "date_posted": "07/28/2023"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Palantir",
+        "id": "9e935340-ca63-46a8-bfa3-ab65f701b408",
+        "title": "Palantir Path \u2013 Internship",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": "07/19/2023",
+        "url": "https://jobs.lever.co/palantir/667ad245-0eb8-44da-b29c-791c2fa081d3/apply",
+        "locations": [
+            "Washington, DC, USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Palantir",
+        "is_visible": true,
+        "date_posted": "07/28/2023"
+    },
+    {
+        "source": "Simplify",
         "company_name": "Perpetua Labs",
         "id": "192879dc-7a64-4cf6-b491-dc5c354ec80b",
         "title": "Software Development Engineer In Test \u2013 Co-op",
@@ -4627,25 +3647,6 @@
             "Toronto, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Perpetua-Labs",
-        "is_visible": true,
-        "date_posted": "07/28/2023"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Playground",
-        "id": "212fbf0e-f7f6-4ce9-bca8-0c7941b0c215",
-        "title": "Business Development Internship",
-        "active": true,
-        "terms": [
-            "Summer 2024"
-        ],
-        "date_updated": "07/19/2023",
-        "url": "https://apply.workable.com/playgroundapp/j/1A95D2FC54/apply",
-        "locations": [
-            "London, UK",
-            "Remote"
-        ],
-        "company_url": "https://simplify.jobs/c/Playground",
         "is_visible": true,
         "date_posted": "07/28/2023"
     },
@@ -4705,78 +3706,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Qualtrics",
-        "id": "6e18f1ce-c890-4a46-bc86-6809111c95b7",
-        "title": "Skillbridge \u2013 Technical Account Manager Internship",
-        "active": true,
-        "terms": [
-            "Summer 2024"
-        ],
-        "date_updated": "07/19/2023",
-        "url": "https://www.qualtrics.com/careers/us/en/job/3436647?gh_jid=3436647",
-        "locations": [
-            "Remote"
-        ],
-        "company_url": "https://simplify.jobs/c/Qualtrics",
-        "is_visible": true,
-        "date_posted": "07/28/2023"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Relativity Space",
-        "id": "6460361d-acbf-4a59-87ac-c34d5bd966d5",
-        "title": "Test Engineer Intern - Build & Operations - Fall 2023",
-        "active": true,
-        "terms": [
-            "Summer 2024"
-        ],
-        "date_updated": "07/18/2023",
-        "url": "https://boards.greenhouse.io/relativity/jobs/6717699002?gh_jid=6717699002",
-        "locations": [
-            "John C. Stennis Space Center, MS, USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Relativity-Space",
-        "is_visible": true,
-        "date_posted": "07/28/2023"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Relativity Space",
-        "id": "ad504cbb-8b00-4466-967f-f3f7046f71f1",
-        "title": "Additive Mechanical Engineering Intern - Fall 2023",
-        "active": true,
-        "terms": [
-            "Summer 2024"
-        ],
-        "date_updated": "07/19/2023",
-        "url": "https://boards.greenhouse.io/relativity/jobs/6792074002?gh_jid=6792074002",
-        "locations": [
-            "Long Beach, CA, USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Relativity-Space",
-        "is_visible": true,
-        "date_posted": "07/28/2023"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Reliable Robotics",
-        "id": "ebd4caee-b09f-4f64-9752-ec0c3281d36d",
-        "title": "Business Development Intern",
-        "active": true,
-        "terms": [
-            "Summer 2024"
-        ],
-        "date_updated": "07/19/2023",
-        "url": "https://jobs.lever.co/reliable/c519cc8e-5478-454f-9108-b732040b062e/apply",
-        "locations": [
-            "Mountain View, CA, USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Reliable-Robotics",
-        "is_visible": true,
-        "date_posted": "07/28/2023"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Rivos",
         "id": "81332a86-ed30-496f-ba64-4b49917cc85f",
         "title": "Silicon Microarchitecture & Logic Design \u2013 Intern",
@@ -4799,24 +3728,6 @@
     {
         "source": "Simplify",
         "company_name": "Rockwell Automation",
-        "id": "5644aed4-a160-499e-badb-7685cf50c536",
-        "title": "Revenue Operations Co-op/Intern - Fiix",
-        "active": true,
-        "terms": [
-            "Summer 2024"
-        ],
-        "date_updated": "07/24/2023",
-        "url": "https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Toronto-Ontario-Canada/Revenue-Operations-Co-op-Intern---Fiix_R23-7267",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Rockwell-Automation",
-        "is_visible": true,
-        "date_posted": "07/28/2023"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Rockwell Automation",
         "id": "6cd4765d-8682-402d-a6bd-5764326f1258",
         "title": "Data Engineer Co-op/Intern - Fiix Software",
         "active": true,
@@ -4829,60 +3740,6 @@
             "Toronto, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Rockwell-Automation",
-        "is_visible": true,
-        "date_posted": "07/28/2023"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Rooster Teeth",
-        "id": "0cd6c0ed-6198-4475-9285-3e67a0a29aa6",
-        "title": "Technical Broadcast Production Intern",
-        "active": true,
-        "terms": [
-            "Summer 2024"
-        ],
-        "date_updated": "07/27/2023",
-        "url": "https://jobs.lever.co/roosterteeth/d507912f-93f2-4898-9bda-e2ad61e19518/apply",
-        "locations": [
-            "Austin, TX, USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Rooster-Teeth",
-        "is_visible": true,
-        "date_posted": "07/28/2023"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Sanctuary",
-        "id": "eb1562b3-d903-401d-9837-7957e9c3814d",
-        "title": "Product Management Co-op",
-        "active": true,
-        "terms": [
-            "Summer 2024"
-        ],
-        "date_updated": "07/18/2023",
-        "url": "https://jobs.lever.co/sanctuary/f0a0f6a4-ceff-4674-8351-560a10b0f4e6/apply",
-        "locations": [
-            "Vancouver, BC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Sanctuary-AI",
-        "is_visible": true,
-        "date_posted": "07/28/2023"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Sanctuary",
-        "id": "5349c2d5-9c3f-4fbb-abfb-177a26328c4b",
-        "title": "Hardware Co-op: Mechanical Engineering - September 2023 Term",
-        "active": true,
-        "terms": [
-            "Summer 2024"
-        ],
-        "date_updated": "07/19/2023",
-        "url": "https://jobs.lever.co/sanctuary/c00655d9-5dd5-47b4-b60c-effca7affd2d/apply",
-        "locations": [
-            "Vancouver, BC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Sanctuary-AI",
         "is_visible": true,
         "date_posted": "07/28/2023"
     },
@@ -4942,24 +3799,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Sanctuary",
-        "id": "8455c039-2bef-437b-9a5c-b46f74c59e7f",
-        "title": "Hardware Co-op: Electronics Engineering - September 2023 Term",
-        "active": true,
-        "terms": [
-            "Summer 2024"
-        ],
-        "date_updated": "07/19/2023",
-        "url": "https://jobs.lever.co/sanctuary/12d664ad-7461-42cf-9b1e-f6f0b5f53fcb/apply",
-        "locations": [
-            "Vancouver, BC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Sanctuary-AI",
-        "is_visible": true,
-        "date_posted": "07/28/2023"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Second Order Effects",
         "id": "8626aa0c-b58c-4084-b5a1-519ed457bd12",
         "title": "Systems Integration/Test Engineering Intern - August - December",
@@ -4973,258 +3812,6 @@
             "El Segundo, CA, USA"
         ],
         "company_url": "https://simplify.jobs/c/Second-Order-Effects",
-        "is_visible": true,
-        "date_posted": "07/28/2023"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Second Order Effects",
-        "id": "941ac6da-35cf-4f61-958f-d67b7ef1bc3d",
-        "title": "Electrical Engineering Intern - August - December",
-        "active": true,
-        "terms": [
-            "Summer 2024"
-        ],
-        "date_updated": "07/19/2023",
-        "url": "https://boards.greenhouse.io/soeffects/jobs/5562693003",
-        "locations": [
-            "Redmond, WA, USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Second-Order-Effects",
-        "is_visible": true,
-        "date_posted": "07/28/2023"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Second Order Effects",
-        "id": "0ae47fb8-bdf5-4862-a5e5-05ae1fa27179",
-        "title": "Business Development Intern - August - December",
-        "active": true,
-        "terms": [
-            "Summer 2024"
-        ],
-        "date_updated": "07/19/2023",
-        "url": "https://boards.greenhouse.io/soeffects/jobs/4836157003",
-        "locations": [
-            "El Segundo, CA, USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Second-Order-Effects",
-        "is_visible": true,
-        "date_posted": "07/28/2023"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Second Order Effects",
-        "id": "2a2cae96-372d-4fa2-b63e-8ed5141da46c",
-        "title": "Electrical Engineering Intern - August - December",
-        "active": true,
-        "terms": [
-            "Summer 2024"
-        ],
-        "date_updated": "07/19/2023",
-        "url": "https://boards.greenhouse.io/soeffects/jobs/5562680003",
-        "locations": [
-            "El Segundo, CA, USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Second-Order-Effects",
-        "is_visible": true,
-        "date_posted": "07/28/2023"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Second Order Effects",
-        "id": "ed94de3e-6387-473b-87dd-41cc8f945ef8",
-        "title": "People Operations Intern - August - December",
-        "active": true,
-        "terms": [
-            "Summer 2024"
-        ],
-        "date_updated": "07/27/2023",
-        "url": "https://boards.greenhouse.io/soeffects/jobs/4543282003",
-        "locations": [
-            "El Segundo, CA, USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Second-Order-Effects",
-        "is_visible": true,
-        "date_posted": "07/28/2023"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Second Order Effects",
-        "id": "de17559a-1d6a-4da8-aeee-903a4ba99aa2",
-        "title": "Electrical Engineering Intern - Summer 2024",
-        "active": true,
-        "terms": [
-            "Summer 2024"
-        ],
-        "date_updated": "07/27/2023",
-        "url": "https://boards.greenhouse.io/soeffects/jobs/5694840003",
-        "locations": [
-            "El Segundo, CA, USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Second-Order-Effects",
-        "is_visible": true,
-        "date_posted": "07/28/2023"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Second Order Effects",
-        "id": "256906b9-1b3e-4004-97b5-6821bc42a2a0",
-        "title": "Electrical Engineering Intern - Summer 2024",
-        "active": true,
-        "terms": [
-            "Summer 2024"
-        ],
-        "date_updated": "07/27/2023",
-        "url": "https://boards.greenhouse.io/soeffects/jobs/5696736003",
-        "locations": [
-            "Redmond, WA, USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Second-Order-Effects",
-        "is_visible": true,
-        "date_posted": "07/28/2023"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Second Order Effects",
-        "id": "1da53d3f-8ea7-4102-83c9-492928b9361c",
-        "title": "Electrical Engineering Intern - Spring 2024",
-        "active": true,
-        "terms": [
-            "Summer 2024"
-        ],
-        "date_updated": "07/27/2023",
-        "url": "https://boards.greenhouse.io/soeffects/jobs/5696740003",
-        "locations": [
-            "El Segundo, CA, USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Second-Order-Effects",
-        "is_visible": true,
-        "date_posted": "07/28/2023"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Second Order Effects",
-        "id": "a2ec1246-f82d-44b9-9f8b-c84205a0385e",
-        "title": "Electrical Engineering Intern - Spring 2024",
-        "active": true,
-        "terms": [
-            "Summer 2024"
-        ],
-        "date_updated": "07/28/2023",
-        "url": "https://boards.greenhouse.io/soeffects/jobs/5696754003",
-        "locations": [
-            "Redmond, WA, USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Second-Order-Effects",
-        "is_visible": true,
-        "date_posted": "07/28/2023"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Second Order Effects",
-        "id": "32a3dff7-599c-44e0-8138-5b2ef1b19233",
-        "title": "Mechanical Engineering Intern - Spring 2024",
-        "active": true,
-        "terms": [
-            "Summer 2024"
-        ],
-        "date_updated": "07/28/2023",
-        "url": "https://boards.greenhouse.io/soeffects/jobs/5696760003",
-        "locations": [
-            "El Segundo, CA, USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Second-Order-Effects",
-        "is_visible": true,
-        "date_posted": "07/28/2023"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Semtech",
-        "id": "1411e935-7ef0-42ca-8fa2-d2734d08304b",
-        "title": "Product Engineer Intern",
-        "active": true,
-        "terms": [
-            "Summer 2024"
-        ],
-        "date_updated": "07/19/2023",
-        "url": "https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Burlington-Canada/Product-Engineer-Intern_REQ1732-1",
-        "locations": [
-            "Burlington, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Semtech",
-        "is_visible": true,
-        "date_posted": "07/28/2023"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Semtech",
-        "id": "7cb8d556-5238-454d-946e-100839281bb5",
-        "title": "Manufacturing Test Engineer \u2013 Co-op",
-        "active": true,
-        "terms": [
-            "Summer 2024"
-        ],
-        "date_updated": "07/19/2023",
-        "url": "https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Richmond-BC/Manufacturing-Test-Engineer--Co-op_REQ1874",
-        "locations": [
-            "Richmond, BC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Semtech",
-        "is_visible": true,
-        "date_posted": "07/28/2023"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Sensata",
-        "id": "5542340e-6727-41ae-9118-c5241c010455",
-        "title": "Process Engineer Intern-Summer 2024",
-        "active": true,
-        "terms": [
-            "Summer 2024"
-        ],
-        "date_updated": "07/19/2023",
-        "url": "https://sensata.wd1.myworkdayjobs.com/en-US/Sensata-Careers/job/Attleboro-Massachusetts/Process-Engineer-Intern--Summer-2024_IRC90538",
-        "locations": [
-            "Attleboro, MA, USA"
-        ],
-        "company_url": "https://simplify.jobs/c/sensata-tech",
-        "is_visible": true,
-        "date_posted": "07/28/2023"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Sensata",
-        "id": "e8f2c941-5ed7-4011-912c-64014374052d",
-        "title": "Electrical Engineer Intern-Summer 2024",
-        "active": true,
-        "terms": [
-            "Summer 2024"
-        ],
-        "date_updated": "07/19/2023",
-        "url": "https://sensata.wd1.myworkdayjobs.com/en-US/Sensata-Careers/job/Attleboro-Massachusetts/Electrical-Engineer-Intern--Summer-2024_IRC90444",
-        "locations": [
-            "Attleboro, MA, USA"
-        ],
-        "company_url": "https://simplify.jobs/c/sensata-tech",
-        "is_visible": true,
-        "date_posted": "07/28/2023"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Sensata",
-        "id": "02c4829f-1a35-4f9d-b328-4ff8a5d00ab4",
-        "title": "Mechanical Engineer Intern-Summer 2024",
-        "active": true,
-        "terms": [
-            "Summer 2024"
-        ],
-        "date_updated": "07/19/2023",
-        "url": "https://sensata.wd1.myworkdayjobs.com/en-US/Sensata-Careers/job/Attleboro-Massachusetts/Mechanical-Engineer-Intern--Summer-2024_IRC90365",
-        "locations": [
-            "Attleboro, MA, USA"
-        ],
-        "company_url": "https://simplify.jobs/c/sensata-tech",
         "is_visible": true,
         "date_posted": "07/28/2023"
     },
@@ -5287,60 +3874,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Studio71",
-        "id": "5ff80516-c08d-49c7-9259-c76212e273a0",
-        "title": "Channel Strategy Intern Fall 2023 - Hybrid - NY",
-        "active": true,
-        "terms": [
-            "Summer 2024"
-        ],
-        "date_updated": "07/21/2023",
-        "url": "https://jobs.lever.co/studio71us/15136bba-1683-46a7-9e02-23ba906bb987/apply",
-        "locations": [
-            "New York, NY, USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Studio71",
-        "is_visible": true,
-        "date_posted": "07/28/2023"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Studio71",
-        "id": "7e8b05c0-4796-4ae0-b72e-22efdcf1c19c",
-        "title": "Channel Strategy Intern Fall 2023 - Hybrid - LA",
-        "active": true,
-        "terms": [
-            "Summer 2024"
-        ],
-        "date_updated": "07/24/2023",
-        "url": "https://jobs.lever.co/studio71us/b7182211-fc53-47dc-8dc2-7e96f9f2a68d/apply",
-        "locations": [
-            "Los Angeles, CA, USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Studio71",
-        "is_visible": true,
-        "date_posted": "07/28/2023"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Studio71",
-        "id": "9738820b-dd95-4eb8-9ff7-c1b1ebdf464e",
-        "title": "Business Development Internship Fall 2023 - New York - Hybrid",
-        "active": true,
-        "terms": [
-            "Summer 2024"
-        ],
-        "date_updated": "07/25/2023",
-        "url": "https://jobs.lever.co/studio71us/03680aab-5046-435f-917e-c6b68c83cd01/apply",
-        "locations": [
-            "New York, NY, USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Studio71",
-        "is_visible": true,
-        "date_posted": "07/28/2023"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Symbotic",
         "id": "5e5c57a1-d5f4-4964-b98f-01e59eac35de",
         "title": "Co-Op Software Engineer",
@@ -5395,6 +3928,24 @@
     },
     {
         "source": "Simplify",
+        "company_name": "The Allen Institute for AI",
+        "id": "ed5a96e0-586c-4c58-94bd-860a60ee56a2",
+        "title": "Research Internship",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": "07/19/2023",
+        "url": "https://boards.greenhouse.io/thealleninstitute/jobs/2171532",
+        "locations": [
+            "Remote"
+        ],
+        "company_url": "https://simplify.jobs/c/allenai",
+        "is_visible": true,
+        "date_posted": "07/28/2023"
+    },
+    {
+        "source": "Simplify",
         "company_name": "The Block",
         "id": "8543f884-98fb-4f86-8281-bc30a2bd002c",
         "title": "Research Intern - Data",
@@ -5404,24 +3955,6 @@
         ],
         "date_updated": "07/18/2023",
         "url": "https://jobs.lever.co/theblockcrypto/00ecc02c-b30e-4d1b-a02b-2f400e53e66a/apply",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/The-Block",
-        "is_visible": true,
-        "date_posted": "07/28/2023"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "The Block",
-        "id": "1f3ee46a-1249-467a-a318-82f274549f2f",
-        "title": "Research Intern",
-        "active": true,
-        "terms": [
-            "Summer 2024"
-        ],
-        "date_updated": "07/19/2023",
-        "url": "https://jobs.lever.co/theblockcrypto/42151f4b-e8eb-4fb1-80dc-c62530ef0870/apply",
         "locations": [
             "Remote in USA"
         ],
@@ -5442,132 +3975,6 @@
         "url": "https://jobs.lever.co/boringcompany/3af50cd9-82a7-4ee1-9cf5-b757d83f7c23/apply",
         "locations": [
             "Las Vegas, NV, USA"
-        ],
-        "company_url": "https://simplify.jobs/c/The-Boring-Company",
-        "is_visible": true,
-        "date_posted": "07/28/2023"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "The Boring Company",
-        "id": "6a9b17e4-cd3a-4660-b2a0-b11d8488d404",
-        "title": "Business/Project Development Intern - Fall 2023",
-        "active": true,
-        "terms": [
-            "Summer 2024"
-        ],
-        "date_updated": "07/19/2023",
-        "url": "https://jobs.lever.co/boringcompany/2060e6ca-2e6d-46d8-820b-6b0b275efea3/apply",
-        "locations": [
-            "Las Vegas, NV, USA"
-        ],
-        "company_url": "https://simplify.jobs/c/The-Boring-Company",
-        "is_visible": true,
-        "date_posted": "07/28/2023"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "The Boring Company",
-        "id": "f31d9bf6-8ff9-4b66-aa1d-f79fc2595b41",
-        "title": "Tunnel Engineering Intern",
-        "active": true,
-        "terms": [
-            "Summer 2024"
-        ],
-        "date_updated": "07/19/2023",
-        "url": "https://jobs.lever.co/boringcompany/f07e7532-a6e0-45c9-8328-c521bb68f105/apply",
-        "locations": [
-            "Las Vegas, NV, USA"
-        ],
-        "company_url": "https://simplify.jobs/c/The-Boring-Company",
-        "is_visible": true,
-        "date_posted": "07/28/2023"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "The Boring Company",
-        "id": "7dcd4eac-c416-4ee1-923c-dead3052f7c1",
-        "title": "Civil Engineering Intern",
-        "active": true,
-        "terms": [
-            "Summer 2024"
-        ],
-        "date_updated": "07/19/2023",
-        "url": "https://jobs.lever.co/boringcompany/f6d53f8a-d4da-4212-8a40-3f724ba07b1f/apply",
-        "locations": [
-            "Las Vegas, NV, USA"
-        ],
-        "company_url": "https://simplify.jobs/c/The-Boring-Company",
-        "is_visible": true,
-        "date_posted": "07/28/2023"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "The Boring Company",
-        "id": "384a121e-f2e0-4f8e-934f-f011abc9825c",
-        "title": "Mechanical Engineering Intern - Fall 2023",
-        "active": true,
-        "terms": [
-            "Summer 2024"
-        ],
-        "date_updated": "07/19/2023",
-        "url": "https://jobs.lever.co/boringcompany/16d282b2-6d56-41f5-acd2-a9685ad13faa/apply",
-        "locations": [
-            "Bastrop, TX, USA"
-        ],
-        "company_url": "https://simplify.jobs/c/The-Boring-Company",
-        "is_visible": true,
-        "date_posted": "07/28/2023"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "The Boring Company",
-        "id": "aab4560e-e384-4a52-8a68-62f52e92d871",
-        "title": "Production Engineering Intern - Fall 2023",
-        "active": true,
-        "terms": [
-            "Summer 2024"
-        ],
-        "date_updated": "07/19/2023",
-        "url": "https://jobs.lever.co/boringcompany/27bc3207-4d5f-4aa6-8409-e03679def658/apply",
-        "locations": [
-            "Bastrop, TX, USA"
-        ],
-        "company_url": "https://simplify.jobs/c/The-Boring-Company",
-        "is_visible": true,
-        "date_posted": "07/28/2023"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "The Boring Company",
-        "id": "001e00df-a51b-4237-953c-f7ccc04eb7fc",
-        "title": "Civil Engineering Intern - Fall 2023",
-        "active": true,
-        "terms": [
-            "Summer 2024"
-        ],
-        "date_updated": "07/19/2023",
-        "url": "https://jobs.lever.co/boringcompany/0bfba6a1-4c6c-49fd-a7ad-5018e14e565d/apply",
-        "locations": [
-            "Bastrop, TX, USA"
-        ],
-        "company_url": "https://simplify.jobs/c/The-Boring-Company",
-        "is_visible": true,
-        "date_posted": "07/28/2023"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "The Boring Company",
-        "id": "c7f8bcd2-8eba-45b0-b34c-a1d4bf457d2f",
-        "title": "Integration Engineering Intern",
-        "active": true,
-        "terms": [
-            "Summer 2024"
-        ],
-        "date_updated": "07/19/2023",
-        "url": "https://jobs.lever.co/boringcompany/1c1ee776-cbf4-4cf0-bfb0-a446ed89ee29/apply",
-        "locations": [
-            "Bastrop, TX, USA"
         ],
         "company_url": "https://simplify.jobs/c/The-Boring-Company",
         "is_visible": true,
@@ -5630,150 +4037,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Verkada",
-        "id": "82b81c44-a6f0-4da9-88af-1a5b9c2c5b19",
-        "title": "Product Design Mechanical Engineer \u2013 Fall Co-op",
-        "active": true,
-        "terms": [
-            "Summer 2024"
-        ],
-        "date_updated": "07/19/2023",
-        "url": "https://jobs.lever.co/verkada/ea7cdef8-457e-4da0-a65a-d7d8aefa3e5e/apply",
-        "locations": [
-            "Burlingame, CA, USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Verkada",
-        "is_visible": true,
-        "date_posted": "07/28/2023"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Verkada",
-        "id": "18d1bf1f-4cc8-485c-9f26-7a8f1d8c9523",
-        "title": "Product Design Mechanical Engineer \u2013 Winter Co-Op",
-        "active": true,
-        "terms": [
-            "Summer 2024"
-        ],
-        "date_updated": "07/19/2023",
-        "url": "https://jobs.lever.co/verkada/48274c5b-062c-4b3f-a55d-5fa5443d8e3b/apply",
-        "locations": [
-            "Burlingame, CA, USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Verkada",
-        "is_visible": true,
-        "date_posted": "07/28/2023"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Verkada",
-        "id": "c4c119f4-18bd-45a2-812a-cb552a59885d",
-        "title": "Hardware Engineer \u2013 Winter Co-op",
-        "active": true,
-        "terms": [
-            "Summer 2024"
-        ],
-        "date_updated": "07/19/2023",
-        "url": "https://jobs.lever.co/verkada/4fe8a6b2-ea59-45f1-bac5-f029a22309f9/apply",
-        "locations": [
-            "Burlingame, CA, USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Verkada",
-        "is_visible": true,
-        "date_posted": "07/28/2023"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Verkada",
-        "id": "3bc2e2f4-55eb-47d4-8616-a9bd51fc738e",
-        "title": "Hardware Engineer \u2013 Fall Co-op",
-        "active": true,
-        "terms": [
-            "Summer 2024"
-        ],
-        "date_updated": "07/19/2023",
-        "url": "https://jobs.lever.co/verkada/ca071837-f877-4211-9903-0a4ef5ed4cc5/apply",
-        "locations": [
-            "Burlingame, CA, USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Verkada",
-        "is_visible": true,
-        "date_posted": "07/28/2023"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Voltus",
-        "id": "e13be4d8-8e28-4ce6-aa6c-a533da3ae3ac",
-        "title": "Sales Productivity Intern",
-        "active": true,
-        "terms": [
-            "Summer 2024"
-        ],
-        "date_updated": "07/19/2023",
-        "url": "https://jobs.lever.co/voltus/abc773f3-edbc-4027-81fb-7668ef803e8d/apply",
-        "locations": [
-            "Remote"
-        ],
-        "company_url": "https://simplify.jobs/c/Voltus",
-        "is_visible": true,
-        "date_posted": "07/28/2023"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Voltus",
-        "id": "6cbe01e1-ff4d-4093-8253-cee3490f4066",
-        "title": "Market Operations Intern",
-        "active": true,
-        "terms": [
-            "Summer 2024"
-        ],
-        "date_updated": "07/19/2023",
-        "url": "https://jobs.lever.co/voltus/29058b23-58a4-4c98-b816-45a5e83e4888/apply",
-        "locations": [
-            "Remote"
-        ],
-        "company_url": "https://simplify.jobs/c/Voltus",
-        "is_visible": true,
-        "date_posted": "07/28/2023"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Voltus",
-        "id": "8d1d366a-ac79-4733-b6be-95ba52fbe63d",
-        "title": "Dispatch Operations Intern - PT/MT Timezone - Remote",
-        "active": true,
-        "terms": [
-            "Summer 2024"
-        ],
-        "date_updated": "07/19/2023",
-        "url": "https://jobs.lever.co/voltus/8c669fd7-9365-4133-aa2f-2651d08bf77c/apply",
-        "locations": [
-            "Remote"
-        ],
-        "company_url": "https://simplify.jobs/c/Voltus",
-        "is_visible": true,
-        "date_posted": "07/28/2023"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Voltus",
-        "id": "1d89e761-1e21-48db-b55b-36bca53272e7",
-        "title": "Business Intelligence Intern",
-        "active": true,
-        "terms": [
-            "Summer 2024"
-        ],
-        "date_updated": "07/21/2023",
-        "url": "https://jobs.lever.co/voltus/e8ddb855-9d33-4269-8a03-877c67a10d7f/apply",
-        "locations": [
-            "Remote"
-        ],
-        "company_url": "https://simplify.jobs/c/Voltus",
-        "is_visible": true,
-        "date_posted": "07/28/2023"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Waabi",
         "id": "e58c393a-175d-45cf-9fb7-86989c607a83",
         "title": "Research Internship/Co-op",
@@ -5789,24 +4052,6 @@
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/Waabi",
-        "is_visible": true,
-        "date_posted": "07/28/2023"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Wayfair",
-        "id": "07861556-7f46-42d5-a043-daf7287ea72f",
-        "title": "Security and Privacy Co-op and Internship-Summer 2022 Start",
-        "active": true,
-        "terms": [
-            "Summer 2024"
-        ],
-        "date_updated": "07/28/2023",
-        "url": "https://www.wayfair.com/careers/jobs/5919933002?gh_jid=5919933002",
-        "locations": [
-            "Cambridge, MA, USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Wayfair",
         "is_visible": true,
         "date_posted": "07/28/2023"
     },
@@ -5848,43 +4093,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Western Digital",
-        "id": "577c5686-c588-4662-b45e-0d38b502d005",
-        "title": "Fall 2023 Hardware development Co-Op - Graduating May 2024 - June 2025",
-        "active": true,
-        "terms": [
-            "Summer 2024"
-        ],
-        "date_updated": "07/19/2023",
-        "url": "https://jobs.smartrecruiters.com/WesternDigital/743999919361173",
-        "locations": [
-            "Irvine, CA, USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Western-Digital",
-        "is_visible": true,
-        "date_posted": "07/28/2023"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Western Digital",
-        "id": "8b42b264-cbd9-4ba2-a0ad-2ba28bf8e8b6",
-        "title": "Internship - Engineering - Colorado",
-        "active": true,
-        "terms": [
-            "Summer 2024"
-        ],
-        "date_updated": "07/28/2023",
-        "url": "https://jobs.smartrecruiters.com/WesternDigital/743999812182229",
-        "locations": [
-            "Remote in USA",
-            "Longmont, CO, USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Western-Digital",
-        "is_visible": true,
-        "date_posted": "07/28/2023"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Workato",
         "id": "25e84640-9d56-46f6-8355-fd8da56b4ca5",
         "title": "Intern \u2013 Technical Writing",
@@ -5900,44 +4108,6 @@
         "company_url": "https://simplify.jobs/c/Workato",
         "is_visible": true,
         "date_posted": "07/28/2023"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Capital One",
-        "id": "04ba05c8-b280-4043-82c7-974df5d533f0",
-        "title": "Product Development Intern - Summer 2024",
-        "active": false,
-        "terms": [
-            "Summer 2024"
-        ],
-        "date_updated": "07/19/2023",
-        "url": "https://capitalone.wd1.myworkdayjobs.com/Capital_One/job/McLean-VA/Product-Development-Intern---Summer-2024_R169953-1",
-        "locations": [
-            "Plano, TX, USA",
-            "McLean, VA, USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Capital-One",
-        "is_visible": true,
-        "date_posted": "07/28/2023"
-    },
-    {
-        "company_name": "MosaicML",
-        "locations": [
-            "SF and San Diego, CA",
-            "NYC, NY"
-        ],
-        "title": "Research Scientist Intern",
-        "date_posted": "07/15/2023",
-        "terms": [
-            "Summer 2024"
-        ],
-        "active": false,
-        "url": "https://boards.greenhouse.io/mosaicml/jobs/4170454004",
-        "is_visible": true,
-        "source": "Markdown",
-        "company_url": "",
-        "date_updated": "07/27/2023",
-        "id": "8800b8ed-d120-4bf0-b1f2-ab089f539fbe"
     },
     {
         "company_name": "Certik",
