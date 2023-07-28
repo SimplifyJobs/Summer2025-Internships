@@ -49,7 +49,7 @@ Welcome back! This repository is your go-to resource for sharing and keeping tra
 | **UKG** | DevOps Engineering Internship | Lowell, MA or Weston, FL | Fall 2023 | <a href="https://careers.ukg.com/careers/JobDetail/DevOps-Engineering-Internship-Fall-2023/46143"><img src="https://i.imgur.com/5JF7mJI.png" width="150" alt="Apply"></a> | ✅ |
 | **Skyworks Solutions** | Analytics Co-Op Summer/Fall Co-Op (MS Students Only) | Andover, CA | Fall 2023 | <a href="https://careers.skyworksinc.com/job/Andover-Analytics-Co-Op-SummerFall-Co-Op-CA/1055209600"><img src="https://i.imgur.com/5JF7mJI.png" width="150" alt="Apply"></a> | ✅ |
 | **GE Aerospace** | GE Aerospace US Digital Technology Coop | Cincinnati, OH or Van Buren Township, MI | Spring 2024 | <a href="https://jobs.gecareers.com/aviation/global/en/job/R3718914/GE-Aerospace-US-Digital-Technology-Coop-Spring-2024"><img src="https://i.imgur.com/5JF7mJI.png" width="150" alt="Apply"></a> | ✅ |
-| **Western Digital (WD)** | SWE Firmware Intern | San Jose, CA | Fall 2023 | <a href="https://jobs.smartrecruiters.com/WesternDigital/743999910364988-fall-2023-software-engineering-firmware-intern"><img src="https://i.imgur.com/5JF7mJI.png" width="150" alt="Apply"></a> | 🔒 |
+| **Western Digital (WD)** | SWE Firmware Intern | San Jose, CA | Fall 2023 | 🔒 | 🔒 |
 
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2024-Internships/blob/dev/README-Off-Season.md#the-list-)
