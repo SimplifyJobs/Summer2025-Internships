@@ -492,24 +492,6 @@
     {
         "source": "Simplify",
         "company_name": "Arkansas Center for Data Sciences",
-        "id": "6b4d347b-7e6c-4d00-a82c-d75355c2e262",
-        "title": "Technical Writer Intern",
-        "active": true,
-        "terms": [
-            "Summer 2024"
-        ],
-        "date_updated": "07/27/2023",
-        "url": "https://jobs.lever.co/acds/8b4d8608-5fc3-4d6f-8d0d-c7bee86d33e1/apply",
-        "locations": [
-            "North Little Rock, AR, USA"
-        ],
-        "company_url": "https://simplify.jobs/c/acds",
-        "is_visible": true,
-        "date_posted": "07/28/2023"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Arkansas Center for Data Sciences",
         "id": "6e04cc71-1932-4719-9fc0-fdc9367dfe72",
         "title": "Software Developer Intern",
         "active": true,
@@ -2611,24 +2593,6 @@
     {
         "source": "Simplify",
         "company_name": "InterSystems",
-        "id": "bbaf008a-52c9-44d5-a2a9-ad57d7aa0712",
-        "title": "Technical Specialist Intern",
-        "active": true,
-        "terms": [
-            "Summer 2024"
-        ],
-        "date_updated": "07/19/2023",
-        "url": "https://www.intersystems.com/careers/careers-search/?gh_jid=5570035003",
-        "locations": [
-            "Slough, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/InterSystems",
-        "is_visible": true,
-        "date_posted": "07/06/2023"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "InterSystems",
         "id": "4566387d-3970-4ba5-8337-ced016562663",
         "title": "Sales Engineer Intern",
         "active": true,
@@ -4333,24 +4297,6 @@
         "company_url": "https://simplify.jobs/c/None",
         "is_visible": true,
         "date_posted": "02/25/2023"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Bank of Montreal (BMO)",
-        "id": "715d30b4-f374-4321-993e-c5d4b9f38ee6",
-        "title": "Analytics Analyst \u2013 Co-op/Internship - Fall 2023 - 4 months",
-        "active": true,
-        "terms": [
-            "Summer 2024"
-        ],
-        "date_updated": "07/19/2023",
-        "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Analytics-Analyst--Fall-2023--Co-op-Internship----4-months_R230011926",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/None",
-        "is_visible": true,
-        "date_posted": "06/07/2023"
     },
     {
         "company_name": "Wabtec Corporation",
@@ -6110,6 +6056,44 @@
         "date_posted": "07/28/2023"
     },
     {
+        "source": "Simplify",
+        "company_name": "Snap Inc.",
+        "id": "44b7e596-3fa1-4963-89db-cbba8c756bed",
+        "title": "Software Engineering Intern - Summer 2024",
+        "active": false,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": "07/26/2023",
+        "url": "https://wd1.myworkdaysite.com/recruiting/snapchat/snap/job/Los-Angeles-California/Software-Engineering-Intern--Summer-2024_R0032156",
+        "locations": [
+            "Palo Alto, CA, USA",
+            "Seattle, WA, USA",
+            "Los Angeles, CA, USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Snap",
+        "is_visible": true,
+        "date_posted": "07/28/2023"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Arkansas Center for Data Sciences",
+        "id": "6b4d347b-7e6c-4d00-a82c-d75355c2e262",
+        "title": "Technical Writer Intern",
+        "active": false,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": "07/27/2023",
+        "url": "https://jobs.lever.co/acds/8b4d8608-5fc3-4d6f-8d0d-c7bee86d33e1/apply",
+        "locations": [
+            "North Little Rock, AR, USA"
+        ],
+        "company_url": "https://simplify.jobs/c/acds",
+        "is_visible": true,
+        "date_posted": "07/28/2023"
+    },
+    {
         "company_name": "Certik",
         "locations": [
             "NYC, NY",
@@ -6208,5 +6192,41 @@
         "company_url": "",
         "date_updated": "07/27/2023",
         "id": "8800b8ed-d120-4bf0-b1f2-ab089f539fbe"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "InterSystems",
+        "id": "bbaf008a-52c9-44d5-a2a9-ad57d7aa0712",
+        "title": "Technical Specialist Intern",
+        "active": false,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": "07/19/2023",
+        "url": "https://www.intersystems.com/careers/careers-search/?gh_jid=5570035003",
+        "locations": [
+            "Slough, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/InterSystems",
+        "is_visible": true,
+        "date_posted": "07/06/2023"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Bank of Montreal (BMO)",
+        "id": "715d30b4-f374-4321-993e-c5d4b9f38ee6",
+        "title": "Analytics Analyst \u2013 Co-op/Internship - Fall 2023 - 4 months",
+        "active": false,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": "07/19/2023",
+        "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Analytics-Analyst--Fall-2023--Co-op-Internship----4-months_R230011926",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/None",
+        "is_visible": true,
+        "date_posted": "06/07/2023"
     }
 ]
