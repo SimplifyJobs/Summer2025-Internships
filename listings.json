@@ -2,25 +2,6 @@
     {
         "source": "Simplify",
         "company_name": "Astra",
-        "id": "475619db-e520-49ad-8ed8-e11f71ea4abe",
-        "title": "Mechanical Engineering Intern: Spring 2024",
-        "active": true,
-        "terms": [
-            "Summer 2024"
-        ],
-        "date_updated": "07/19/2023",
-        "url": "https://jobs.lever.co/astra/2e22855b-109c-4a83-84d0-3f60d6b0e9c2/apply",
-        "locations": [
-            "Alameda, CA, USA",
-            "Sunnyvale, CA, USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Astra",
-        "is_visible": true,
-        "date_posted": "05/07/2023"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Astra",
         "id": "0107182f-19cc-4683-8ac1-dc78bc6e9943",
         "title": "Electrical Engineering Intern: Spring 2024",
         "active": true,
@@ -67,6 +48,25 @@
         ],
         "date_updated": "07/19/2023",
         "url": "https://jobs.lever.co/astra/c227b197-92cf-4b11-bd0f-bf71f8b991c9/apply",
+        "locations": [
+            "Alameda, CA, USA",
+            "Sunnyvale, CA, USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Astra",
+        "is_visible": true,
+        "date_posted": "07/28/2023"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Astra",
+        "id": "475619db-e520-49ad-8ed8-e11f71ea4abe",
+        "title": "Mechanical Engineering Intern: Spring 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": "07/19/2023",
+        "url": "https://jobs.lever.co/astra/2e22855b-109c-4a83-84d0-3f60d6b0e9c2/apply",
         "locations": [
             "Alameda, CA, USA",
             "Sunnyvale, CA, USA"
@@ -5936,6 +5936,25 @@
         "company_url": "https://simplify.jobs/c/Snap",
         "is_visible": true,
         "date_posted": "07/28/2023"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Astra",
+        "id": "475619db-e520-49ad-8ed8-e11f71ea4abe",
+        "title": "Mechanical Engineering Intern: Spring 2024",
+        "active": false,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": "07/19/2023",
+        "url": "https://jobs.lever.co/astra/2e22855b-109c-4a83-84d0-3f60d6b0e9c2/apply",
+        "locations": [
+            "Alameda, CA, USA",
+            "Sunnyvale, CA, USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Astra",
+        "is_visible": true,
+        "date_posted": "05/07/2023"
     },
     {
         "source": "Simplify",
