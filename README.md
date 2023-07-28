@@ -30,7 +30,7 @@ Welcome back! This repository is your go-to resource for sharing and keeping tra
 
 <!-- Please leave a one line gap between this and the table TABLE_START (DO NOT CHANGE THIS LINE) -->
 
-| Company | Role | Location | Apply Link | Simplify |
+| Company | Role | Location | Application | Simplify |
 | --- | --- | --- | :---: | :---: |
 | **[Snap Inc.](https://simplify.jobs/c/Snap)** | Software Engineering Intern - Summer 2024 | Palo Alto, CA, USA and 2 other locations | <a href="https://wd1.myworkdaysite.com/recruiting/snapchat/snap/job/Los-Angeles-California/Software-Engineering-Intern--Summer-2024_R0032156"><img src="https://i.imgur.com/5JF7mJI.png" width="150" alt="Apply"></a> | <a href="https://simplify.jobs/p/44b7e596-3fa1-4963-89db-cbba8c756bed"><img src="https://i.imgur.com/kvraaHg.png" width="150" alt="Simplify"></a> |
 | **[Second Order Effects](https://simplify.jobs/c/Second-Order-Effects)** | Electrical Engineering Intern - Spring 2024 | Redmond, WA, USA | <a href="https://boards.greenhouse.io/soeffects/jobs/5696754003"><img src="https://i.imgur.com/5JF7mJI.png" width="150" alt="Apply"></a> | <a href="https://simplify.jobs/p/a2ec1246-f82d-44b9-9f8b-c84205a0385e"><img src="https://i.imgur.com/kvraaHg.png" width="150" alt="Simplify"></a> |
@@ -342,6 +342,7 @@ Welcome back! This repository is your go-to resource for sharing and keeping tra
 | **[Major League Baseball](https://simplify.jobs/c/MLB)** | Information Security Internship | New York, NY, USA | <a href="https://www.mlb.com/careers/opportunities?gh_jid=3814742"><img src="https://i.imgur.com/5JF7mJI.png" width="150" alt="Apply"></a> | <a href="https://simplify.jobs/p/d8ff703a-b5f8-4cca-8235-1cf24769ddf5"><img src="https://i.imgur.com/kvraaHg.png" width="150" alt="Simplify"></a> |
 | **[Waabi](https://simplify.jobs/c/Waabi)** | Research Internship/Co-op | Toronto, ON, Canada and 2 other locations | <a href="https://jobs.lever.co/waabi/ad3c77da-5607-4c4f-8784-8407478cbace/apply"><img src="https://i.imgur.com/5JF7mJI.png" width="150" alt="Apply"></a> | <a href="https://simplify.jobs/p/e58c393a-175d-45cf-9fb7-86989c607a83"><img src="https://i.imgur.com/kvraaHg.png" width="150" alt="Simplify"></a> |
 | **[Live Nation Entertainment](https://simplify.jobs/c/Live-Nation-Entertainment)** | C3 Presents – Artist Relations & Travel Ops Intern - Fall 2023 | Austin, TX, USA | <a href="https://livenation.wd1.myworkdayjobs.com/en-US/LNExternalSite/job/Austin-TX-USA/C3-Presents---Artist-Relations---Travel-Ops-Intern---Fall-2023_JR-61564"><img src="https://i.imgur.com/5JF7mJI.png" width="150" alt="Apply"></a> | <a href="https://simplify.jobs/p/c7847633-8997-46e9-a121-26d5bb52addf"><img src="https://i.imgur.com/kvraaHg.png" width="150" alt="Simplify"></a> |
+| **[Snap Inc.](https://simplify.jobs/c/Snap)** | Software Engineering Intern - Summer 2024 | Palo Alto, CA, USA and 2 other locations | 🔒 |  |
 | **[Snap Inc.](https://simplify.jobs/c/Snap)** | Software Engineering Intern - Summer 2024 | Palo Alto, CA, USA and 2 other locations | 🔒 |  |
 | **[Snap Inc.](https://simplify.jobs/c/Snap)** | Software Engineering Intern - Summer 2024 | Palo Alto, CA, USA and 2 other locations | 🔒 |  |
 | **[Snap Inc.](https://simplify.jobs/c/Snap)** | Software Engineering Intern - Summer 2024 | Palo Alto, CA, USA and 2 other locations | 🔒 |  |
