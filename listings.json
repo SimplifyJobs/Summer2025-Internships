@@ -2,6 +2,24 @@
     {
         "source": "Simplify",
         "company_name": "Capital One",
+        "id": "c98fdca6-a155-4594-8b85-1371721c3be2",
+        "title": "Business Analyst Intern - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": "07/19/2023",
+        "url": "https://capitalone.wd1.myworkdayjobs.com/Capital_One/job/Toronto-ON/Business-Analyst-Intern---Summer-2024_R169580",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Capital-One",
+        "is_visible": true,
+        "date_posted": "07/28/2023"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Capital One",
         "id": "04ba05c8-b280-4043-82c7-974df5d533f0",
         "title": "Product Development Intern - Summer 2024",
         "active": true,
@@ -13,24 +31,6 @@
         "locations": [
             "Plano, TX, USA",
             "McLean, VA, USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Capital-One",
-        "is_visible": true,
-        "date_posted": "07/28/2023"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Capital One",
-        "id": "c98fdca6-a155-4594-8b85-1371721c3be2",
-        "title": "Business Analyst Intern - Summer 2024",
-        "active": true,
-        "terms": [
-            "Summer 2024"
-        ],
-        "date_updated": "07/19/2023",
-        "url": "https://capitalone.wd1.myworkdayjobs.com/Capital_One/job/Toronto-ON/Business-Analyst-Intern---Summer-2024_R169580",
-        "locations": [
-            "Toronto, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Capital-One",
         "is_visible": true,
@@ -71,7 +71,7 @@
         "url": "https://www.capitalonecareers.com/job/mclean/product-development-intern-summer-2024/31238/51746418592",
         "is_visible": true,
         "source": "Markdown",
-        "company_url": "",
+        "company_url": "https://simplify.jobs/c/Capital-One",
         "date_updated": "07/27/2023",
         "id": "98b2d671-3f03-430e-b18c-e5ddb8ce5035"
     },
@@ -287,7 +287,7 @@
         "url": "https://akunacapital.com/job-details?gh_jid=5082870",
         "is_visible": true,
         "source": "Markdown",
-        "company_url": "",
+        "company_url": "https://simplify.jobs/c/Akuna-Capital",
         "date_updated": "07/27/2023",
         "id": "7e17dda4-491b-4514-b4ce-f7506fab3286"
     },
@@ -305,7 +305,7 @@
         "url": "https://akunacapital.com/job-details?gh_jid=5147854",
         "is_visible": true,
         "source": "Markdown",
-        "company_url": "",
+        "company_url": "https://simplify.jobs/c/Akuna-Capital",
         "date_updated": "07/27/2023",
         "id": "a1b50b34-bf12-4ae3-bee0-2a3e7a879947"
     },
@@ -323,7 +323,7 @@
         "url": "https://akunacapital.com/job-details?gh_jid=5138367",
         "is_visible": true,
         "source": "Markdown",
-        "company_url": "",
+        "company_url": "https://simplify.jobs/c/Akuna-Capital",
         "date_updated": "07/27/2023",
         "id": "0b8fafcb-ec4c-4231-ada3-4e29accda7b6"
     },
@@ -341,7 +341,7 @@
         "url": "https://akunacapital.com/job-details?gh_jid=5102027",
         "is_visible": true,
         "source": "Markdown",
-        "company_url": "",
+        "company_url": "https://simplify.jobs/c/Akuna-Capital",
         "date_updated": "07/27/2023",
         "id": "eb8ce69c-b787-4d11-9e07-1eaa0f608785"
     },
@@ -359,7 +359,7 @@
         "url": "https://akunacapital.com/job-details?gh_jid=5139650",
         "is_visible": true,
         "source": "Markdown",
-        "company_url": "",
+        "company_url": "https://simplify.jobs/c/Akuna-Capital",
         "date_updated": "07/27/2023",
         "id": "bf183bb5-528c-456a-a5a1-3ddebb64bb88"
     },
@@ -377,7 +377,7 @@
         "url": "https://akunacapital.com/job-details?gh_jid=5095385",
         "is_visible": true,
         "source": "Markdown",
-        "company_url": "",
+        "company_url": "https://simplify.jobs/c/Akuna-Capital",
         "date_updated": "07/27/2023",
         "id": "346881be-372f-4ee8-8409-1f0b10ab8c03"
     },
@@ -395,7 +395,7 @@
         "url": "https://akunacapital.com/job-details?gh_jid=5144445",
         "is_visible": true,
         "source": "Markdown",
-        "company_url": "",
+        "company_url": "https://simplify.jobs/c/Akuna-Capital",
         "date_updated": "07/27/2023",
         "id": "eb61debb-e1f5-4f26-b265-7fc73915f32b"
     },
@@ -741,7 +741,7 @@
         "url": "https://drw.com/work-at-drw/listings/software-developer-intern-2567189",
         "is_visible": true,
         "source": "Markdown",
-        "company_url": "",
+        "company_url": "https://simplify.jobs/c/DRW",
         "date_updated": "07/27/2023",
         "id": "3e2f70ad-e3ba-4744-88a0-6efd71b7de71"
     },
@@ -760,7 +760,7 @@
         "url": "https://drw.com/work-at-drw/listings/site-reliability-engineer-sre-intern-2569887",
         "is_visible": true,
         "source": "Markdown",
-        "company_url": "",
+        "company_url": "https://simplify.jobs/c/DRW",
         "date_updated": "07/27/2023",
         "id": "88985b50-d616-4f3f-83b7-abc8f23851b7"
     },
@@ -779,7 +779,7 @@
         "url": "https://drw.com/work-at-drw/listings/quantitative-trading-analyst-intern-2551092",
         "is_visible": true,
         "source": "Markdown",
-        "company_url": "",
+        "company_url": "https://simplify.jobs/c/DRW",
         "date_updated": "07/27/2023",
         "id": "b05a3024-c9e6-4f3e-8608-54863f5b750d"
     },
@@ -1107,7 +1107,7 @@
         "url": "https://careers.northwesternmutual.com/corporate-careers/job/public-investments-municipal-trading-analytics-internship-summer-2024-milwaukee-wi-corporate-jr-38135/",
         "is_visible": true,
         "source": "Markdown",
-        "company_url": "",
+        "company_url": "https://simplify.jobs/c/Northwestern-Mutual",
         "date_updated": "07/27/2023",
         "id": "b5374bd3-7356-4d88-b0e7-15ede6a2fb46"
     },
@@ -1341,7 +1341,7 @@
         "url": "https://legacy.flyzipline.com/job?gh_jid=5631836003/",
         "is_visible": true,
         "source": "Markdown",
-        "company_url": "",
+        "company_url": "https://simplify.jobs/c/Zipline",
         "date_updated": "07/27/2023",
         "id": "2d61797e-9cb4-4f90-bc96-aad33cd486cc"
     },
@@ -1712,7 +1712,7 @@
         "url": "https://boards.greenhouse.io/skydio/jobs/5639641003?gh_src=b2366f993us",
         "is_visible": true,
         "source": "Markdown",
-        "company_url": "",
+        "company_url": "https://simplify.jobs/c/Skydio",
         "date_updated": "07/27/2023",
         "id": "4dc0c8a4-c6b7-4715-942c-426ffbed4c59"
     },
@@ -2125,7 +2125,7 @@
         "url": "https://jobs.lever.co/certik/cc4bc2b7-ee87-43be-81c9-09c8b0411a7e",
         "is_visible": true,
         "source": "Markdown",
-        "company_url": "",
+        "company_url": "https://simplify.jobs/c/Certik",
         "date_updated": "07/27/2023",
         "id": "154e45f7-181c-4b73-982b-8825c9ae0222"
     },
@@ -2162,7 +2162,7 @@
         "url": "https://boards.greenhouse.io/neuralink/jobs/5285389003",
         "is_visible": true,
         "source": "Markdown",
-        "company_url": "",
+        "company_url": "https://simplify.jobs/c/Neuralink",
         "date_updated": "07/27/2023",
         "id": "eb1ad28c-b082-402f-a1cf-2103b363db9d"
     },
@@ -2181,7 +2181,7 @@
         "url": "https://boards.greenhouse.io/neuralink/jobs/5552197003",
         "is_visible": true,
         "source": "Markdown",
-        "company_url": "",
+        "company_url": "https://simplify.jobs/c/Neuralink",
         "date_updated": "07/27/2023",
         "id": "1419bef0-1aa3-4c9b-945c-188f0c4330f8"
     },
@@ -2544,7 +2544,7 @@
         "url": "https://careers.walmart.com/us/jobs/WD1391200-2024-summer-intern-software-engineer-ii-bentonville-ar",
         "is_visible": true,
         "source": "Markdown",
-        "company_url": "",
+        "company_url": "https://simplify.jobs/c/Walmart",
         "date_updated": "07/27/2023",
         "id": "296cfdb8-4722-483e-8731-1b85f19ada92"
     },
@@ -2710,7 +2710,7 @@
         "url": "https://boards.greenhouse.io/spacex/jobs/6675035002",
         "is_visible": true,
         "source": "Markdown",
-        "company_url": "",
+        "company_url": "https://simplify.jobs/c/SpaceX",
         "date_updated": "07/27/2023",
         "id": "80722a55-1770-4736-83a7-d193b7759e4d"
     },
@@ -5902,6 +5902,25 @@
         "date_posted": "07/28/2023"
     },
     {
+        "source": "Simplify",
+        "company_name": "Capital One",
+        "id": "04ba05c8-b280-4043-82c7-974df5d533f0",
+        "title": "Product Development Intern - Summer 2024",
+        "active": false,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": "07/19/2023",
+        "url": "https://capitalone.wd1.myworkdayjobs.com/Capital_One/job/McLean-VA/Product-Development-Intern---Summer-2024_R169953-1",
+        "locations": [
+            "Plano, TX, USA",
+            "McLean, VA, USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Capital-One",
+        "is_visible": true,
+        "date_posted": "07/28/2023"
+    },
+    {
         "company_name": "MosaicML",
         "locations": [
             "SF and San Diego, CA",
@@ -5937,7 +5956,7 @@
         "url": "https://jobs.lever.co/certik/2e33570a-f495-44ef-9d7d-a0c5a7fd8190",
         "is_visible": true,
         "source": "Markdown",
-        "company_url": "",
+        "company_url": "https://simplify.jobs/c/Certik",
         "date_updated": "07/27/2023",
         "id": "c783c999-09d9-47cd-a339-61375ac3acfe"
     },
@@ -5958,7 +5977,7 @@
         "url": "https://jobs.lever.co/certik/095fdcff-99e8-408d-bb8a-e638e44d0b40",
         "is_visible": true,
         "source": "Markdown",
-        "company_url": "",
+        "company_url": "https://simplify.jobs/c/Certik",
         "date_updated": "07/27/2023",
         "id": "010bfdf1-ea4f-453d-bf84-91bd727682c4"
     },
@@ -5979,7 +5998,7 @@
         "url": "https://jobs.lever.co/certik/ca67aab6-9b8b-4c2f-ad80-ff5855292f48",
         "is_visible": true,
         "source": "Markdown",
-        "company_url": "",
+        "company_url": "https://simplify.jobs/c/Certik",
         "date_updated": "07/27/2023",
         "id": "26af4425-3695-4afb-b91d-d759aaf61ab7"
     },
