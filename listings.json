@@ -1983,6 +1983,69 @@
     {
         "company_name": "Certik",
         "locations": [
+            "NYC, NY",
+            "Seattle, WA",
+            "SF Bay Area, CA",
+            "Remote"
+        ],
+        "title": "Development Intern",
+        "date_posted": "07/16/2023",
+        "terms": [
+            "Summer 2024"
+        ],
+        "active": false,
+        "url": "https://jobs.lever.co/certik/2e33570a-f495-44ef-9d7d-a0c5a7fd8190",
+        "is_visible": true,
+        "source": "Markdown",
+        "company_url": "https://simplify.jobs/c/Certik",
+        "date_updated": "07/27/2023",
+        "id": "c783c999-09d9-47cd-a339-61375ac3acfe"
+    },
+    {
+        "company_name": "Certik",
+        "locations": [
+            "NYC, NY",
+            "Seattle, WA",
+            "SF Bay Area, CA",
+            "Remote"
+        ],
+        "title": "Platform Engineering Intern",
+        "date_posted": "07/16/2023",
+        "terms": [
+            "Summer 2024"
+        ],
+        "active": false,
+        "url": "https://jobs.lever.co/certik/095fdcff-99e8-408d-bb8a-e638e44d0b40",
+        "is_visible": true,
+        "source": "Markdown",
+        "company_url": "https://simplify.jobs/c/Certik",
+        "date_updated": "07/27/2023",
+        "id": "010bfdf1-ea4f-453d-bf84-91bd727682c4"
+    },
+    {
+        "company_name": "Certik",
+        "locations": [
+            "NYC, NY",
+            "Seattle, WA",
+            "SF Bay Area, CA",
+            "Remote"
+        ],
+        "title": "Full Stack Intern - Matrix",
+        "date_posted": "07/16/2023",
+        "terms": [
+            "Summer 2024"
+        ],
+        "active": false,
+        "url": "https://jobs.lever.co/certik/ca67aab6-9b8b-4c2f-ad80-ff5855292f48",
+        "is_visible": true,
+        "source": "Markdown",
+        "company_url": "https://simplify.jobs/c/Certik",
+        "date_updated": "07/27/2023",
+        "id": "26af4425-3695-4afb-b91d-d759aaf61ab7"
+    },
+    {
+        "company_name": "Certik",
+        "locations": [
             "New York, NY",
             "Seattle, WA",
             "SF Bay Area, CA",
@@ -2277,6 +2340,24 @@
         "company_url": "https://simplify.jobs/c/Walmart",
         "date_updated": "07/27/2023",
         "id": "296cfdb8-4722-483e-8731-1b85f19ada92"
+    },
+    {
+        "company_name": "Western Digital (WD)",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "terms": [
+            "Fall 2023"
+        ],
+        "title": "SWE Firmware Intern",
+        "date_posted": "07/22/2023",
+        "active": false,
+        "url": "https://jobs.smartrecruiters.com/WesternDigital/743999910364988-fall-2023-software-engineering-firmware-intern",
+        "is_visible": true,
+        "source": "Markdown",
+        "company_url": "",
+        "date_updated": "07/27/2023",
+        "id": "a5c12790-8acf-4150-90b7-18e392a9d53d"
     },
     {
         "company_name": "BlackRock",
@@ -4073,86 +4154,5 @@
         "company_url": "https://simplify.jobs/c/Workato",
         "is_visible": true,
         "date_posted": "07/28/2023"
-    },
-    {
-        "company_name": "Certik",
-        "locations": [
-            "NYC, NY",
-            "Seattle, WA",
-            "SF Bay Area, CA",
-            "Remote"
-        ],
-        "title": "Development Intern",
-        "date_posted": "07/16/2023",
-        "terms": [
-            "Summer 2024"
-        ],
-        "active": false,
-        "url": "https://jobs.lever.co/certik/2e33570a-f495-44ef-9d7d-a0c5a7fd8190",
-        "is_visible": true,
-        "source": "Markdown",
-        "company_url": "https://simplify.jobs/c/Certik",
-        "date_updated": "07/27/2023",
-        "id": "c783c999-09d9-47cd-a339-61375ac3acfe"
-    },
-    {
-        "company_name": "Certik",
-        "locations": [
-            "NYC, NY",
-            "Seattle, WA",
-            "SF Bay Area, CA",
-            "Remote"
-        ],
-        "title": "Platform Engineering Intern",
-        "date_posted": "07/16/2023",
-        "terms": [
-            "Summer 2024"
-        ],
-        "active": false,
-        "url": "https://jobs.lever.co/certik/095fdcff-99e8-408d-bb8a-e638e44d0b40",
-        "is_visible": true,
-        "source": "Markdown",
-        "company_url": "https://simplify.jobs/c/Certik",
-        "date_updated": "07/27/2023",
-        "id": "010bfdf1-ea4f-453d-bf84-91bd727682c4"
-    },
-    {
-        "company_name": "Certik",
-        "locations": [
-            "NYC, NY",
-            "Seattle, WA",
-            "SF Bay Area, CA",
-            "Remote"
-        ],
-        "title": "Full Stack Intern - Matrix",
-        "date_posted": "07/16/2023",
-        "terms": [
-            "Summer 2024"
-        ],
-        "active": false,
-        "url": "https://jobs.lever.co/certik/ca67aab6-9b8b-4c2f-ad80-ff5855292f48",
-        "is_visible": true,
-        "source": "Markdown",
-        "company_url": "https://simplify.jobs/c/Certik",
-        "date_updated": "07/27/2023",
-        "id": "26af4425-3695-4afb-b91d-d759aaf61ab7"
-    },
-    {
-        "company_name": "Western Digital (WD)",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "terms": [
-            "Fall 2023"
-        ],
-        "title": "SWE Firmware Intern",
-        "date_posted": "07/22/2023",
-        "active": false,
-        "url": "https://jobs.smartrecruiters.com/WesternDigital/743999910364988-fall-2023-software-engineering-firmware-intern",
-        "is_visible": true,
-        "source": "Markdown",
-        "company_url": "",
-        "date_updated": "07/27/2023",
-        "id": "a5c12790-8acf-4150-90b7-18e392a9d53d"
     }
 ]
