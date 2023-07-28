@@ -2,25 +2,6 @@
     {
         "source": "Simplify",
         "company_name": "Astra",
-        "id": "f2169c86-7b8a-47be-8347-5dca8de5477e",
-        "title": "Electrical Engineering Intern: Fall/Winter 2023",
-        "active": true,
-        "terms": [
-            "Summer 2024"
-        ],
-        "date_updated": "07/19/2023",
-        "url": "https://jobs.lever.co/astra/c227b197-92cf-4b11-bd0f-bf71f8b991c9/apply",
-        "locations": [
-            "Alameda, CA, USA",
-            "Sunnyvale, CA, USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Astra",
-        "is_visible": true,
-        "date_posted": "05/27/2023"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Astra",
         "id": "475619db-e520-49ad-8ed8-e11f71ea4abe",
         "title": "Mechanical Engineering Intern: Spring 2024",
         "active": true,
@@ -74,6 +55,25 @@
         "company_url": "https://simplify.jobs/c/Astra",
         "is_visible": true,
         "date_posted": "01/04/2023"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Astra",
+        "id": "f2169c86-7b8a-47be-8347-5dca8de5477e",
+        "title": "Electrical Engineering Intern: Fall/Winter 2023",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": "07/19/2023",
+        "url": "https://jobs.lever.co/astra/c227b197-92cf-4b11-bd0f-bf71f8b991c9/apply",
+        "locations": [
+            "Alameda, CA, USA",
+            "Sunnyvale, CA, USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Astra",
+        "is_visible": true,
+        "date_posted": "07/28/2023"
     },
     {
         "source": "Simplify",
@@ -5936,6 +5936,25 @@
         "company_url": "https://simplify.jobs/c/Snap",
         "is_visible": true,
         "date_posted": "07/28/2023"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Astra",
+        "id": "f2169c86-7b8a-47be-8347-5dca8de5477e",
+        "title": "Electrical Engineering Intern: Fall/Winter 2023",
+        "active": false,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": "07/19/2023",
+        "url": "https://jobs.lever.co/astra/c227b197-92cf-4b11-bd0f-bf71f8b991c9/apply",
+        "locations": [
+            "Alameda, CA, USA",
+            "Sunnyvale, CA, USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Astra",
+        "is_visible": true,
+        "date_posted": "05/27/2023"
     },
     {
         "source": "Simplify",
