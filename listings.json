@@ -2,25 +2,6 @@
     {
         "source": "Simplify",
         "company_name": "Astra",
-        "id": "0107182f-19cc-4683-8ac1-dc78bc6e9943",
-        "title": "Electrical Engineering Intern: Spring 2024",
-        "active": true,
-        "terms": [
-            "Summer 2024"
-        ],
-        "date_updated": "07/19/2023",
-        "url": "https://jobs.lever.co/astra/85fe08c3-6717-43d3-a653-b4a3e2b6849e/apply",
-        "locations": [
-            "Alameda, CA, USA",
-            "Sunnyvale, CA, USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Astra",
-        "is_visible": true,
-        "date_posted": "02/06/2023"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Astra",
         "id": "a0445192-e219-4c7b-b78a-ae59b4969604",
         "title": "Mechanical Engineering Intern: Fall/Winter 2023",
         "active": true,
@@ -67,6 +48,25 @@
         ],
         "date_updated": "07/19/2023",
         "url": "https://jobs.lever.co/astra/2e22855b-109c-4a83-84d0-3f60d6b0e9c2/apply",
+        "locations": [
+            "Alameda, CA, USA",
+            "Sunnyvale, CA, USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Astra",
+        "is_visible": true,
+        "date_posted": "07/28/2023"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Astra",
+        "id": "0107182f-19cc-4683-8ac1-dc78bc6e9943",
+        "title": "Electrical Engineering Intern: Spring 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": "07/19/2023",
+        "url": "https://jobs.lever.co/astra/85fe08c3-6717-43d3-a653-b4a3e2b6849e/apply",
         "locations": [
             "Alameda, CA, USA",
             "Sunnyvale, CA, USA"
@@ -1500,24 +1500,6 @@
         "company_url": "https://simplify.jobs/c/sensata-tech",
         "is_visible": true,
         "date_posted": "07/01/2023"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Sensata",
-        "id": "50a6b3aa-40d1-4394-9b3e-c4f16f043df2",
-        "title": "Software Engineer Intern-Summer 2024",
-        "active": true,
-        "terms": [
-            "Summer 2024"
-        ],
-        "date_updated": "07/19/2023",
-        "url": "https://sensata.wd1.myworkdayjobs.com/en-US/Sensata-Careers/job/Attleboro-Massachusetts/Software-Engineer-Intern--Summer-2024_IRC90446",
-        "locations": [
-            "Attleboro, MA, USA"
-        ],
-        "company_url": "https://simplify.jobs/c/sensata-tech",
-        "is_visible": true,
-        "date_posted": "01/27/2023"
     },
     {
         "source": "Simplify",
@@ -5811,24 +5793,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Arkansas Center for Data Sciences",
-        "id": "6e04cc71-1932-4719-9fc0-fdc9367dfe72",
-        "title": "Software Developer Intern",
-        "active": true,
-        "terms": [
-            "Summer 2024"
-        ],
-        "date_updated": "07/27/2023",
-        "url": "https://jobs.lever.co/acds/8f51b0a8-cebe-4352-b7f6-4e424c575515/apply",
-        "locations": [
-            "Fayetteville, AR, USA"
-        ],
-        "company_url": "https://simplify.jobs/c/acds",
-        "is_visible": true,
-        "date_posted": "07/28/2023"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Asana Early Career Programs",
         "id": "f99b2299-fb40-406c-92f1-ea07daaf1e7e",
         "title": "NYC Summer Data Science Internship",
@@ -5940,6 +5904,25 @@
     {
         "source": "Simplify",
         "company_name": "Astra",
+        "id": "0107182f-19cc-4683-8ac1-dc78bc6e9943",
+        "title": "Electrical Engineering Intern: Spring 2024",
+        "active": false,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": "07/19/2023",
+        "url": "https://jobs.lever.co/astra/85fe08c3-6717-43d3-a653-b4a3e2b6849e/apply",
+        "locations": [
+            "Alameda, CA, USA",
+            "Sunnyvale, CA, USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Astra",
+        "is_visible": true,
+        "date_posted": "02/06/2023"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Astra",
         "id": "475619db-e520-49ad-8ed8-e11f71ea4abe",
         "title": "Mechanical Engineering Intern: Spring 2024",
         "active": false,
@@ -5992,6 +5975,24 @@
         "company_url": "https://simplify.jobs/c/InterSystems",
         "is_visible": true,
         "date_posted": "07/06/2023"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Sensata",
+        "id": "50a6b3aa-40d1-4394-9b3e-c4f16f043df2",
+        "title": "Software Engineer Intern-Summer 2024",
+        "active": false,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": "07/19/2023",
+        "url": "https://sensata.wd1.myworkdayjobs.com/en-US/Sensata-Careers/job/Attleboro-Massachusetts/Software-Engineer-Intern--Summer-2024_IRC90446",
+        "locations": [
+            "Attleboro, MA, USA"
+        ],
+        "company_url": "https://simplify.jobs/c/sensata-tech",
+        "is_visible": true,
+        "date_posted": "01/27/2023"
     },
     {
         "source": "Simplify",
@@ -6110,6 +6111,24 @@
         "company_url": "",
         "date_updated": "07/27/2023",
         "id": "a5c12790-8acf-4150-90b7-18e392a9d53d"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Arkansas Center for Data Sciences",
+        "id": "6e04cc71-1932-4719-9fc0-fdc9367dfe72",
+        "title": "Software Developer Intern",
+        "active": false,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": "07/27/2023",
+        "url": "https://jobs.lever.co/acds/8f51b0a8-cebe-4352-b7f6-4e424c575515/apply",
+        "locations": [
+            "Fayetteville, AR, USA"
+        ],
+        "company_url": "https://simplify.jobs/c/acds",
+        "is_visible": true,
+        "date_posted": "07/28/2023"
     },
     {
         "source": "Simplify",
