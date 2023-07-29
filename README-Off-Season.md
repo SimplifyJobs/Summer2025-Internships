@@ -85,7 +85,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Pison Technology](https://jobs.lever.co/pison/7d5d0766-95d6-405a-90a7-76fdbc4f2263) | Boston, MA | Fall 2023 | Software Engineer Intern |
 | [Delta Air Lines](https://delta.avature.net/careers/JobDetail/Intern-Innovation-and-AI-Engineering-Fall-2023/21446) | Atlanta, GA | Fall 2023 | Innovation and AI Engineering Intern (No Sponsorship) |
 | [Honeywell](https://careers.honeywell.com/us/en/job/req408965/Software-Engineering-Co-op-Fall-2023) | Multiple US Locations | Fall 2023 | Software Engineering Co-Op |
-| [AMPLE](https://ample.com/jobs/?gh_jid=4289698005) | San Francisco, CA | Fall 2023 | Computer Vision Software Engineer Intern |
+| [Ample Inc.](https://ample.com/jobs/?gh_jid=4289698005) | San Francisco, CA | Fall 2023 | Computer Vision Software Engineer Intern |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2024-Internships/blob/dev/README-Off-Season.md#the-list-)
