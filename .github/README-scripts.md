@@ -38,7 +38,7 @@ All internships (from Simplify and contributors) are stored in `.github/scripts/
 ]
 ```
 
-The schema of this files is as follows:
+The schema of this file is as follows:
 
 | Property Name   | Data Type        | Description                                          | Example |
 | --------------- | ---------------- | ---------------------------------------------------- | -------- |
@@ -79,7 +79,8 @@ We have a few github issue templates that can be found in `.github/ISSUE_TEMPLAT
 ## Github action
 
 The github action is responsible for adding new contributions and edits to `listings.json`
-> Note that it does not directly edit any README files. Only the listings.json file.
+> Note that it does not directly edit any README files, only the listings.json file.
+
 The github action runs every time a new label is added to an issue. However, it skips every run except for those where the label added is the "approved" label.
 
 In `.github/workflows/actions.yml`, you will find the github action. Here is what each step is accomplishing:
