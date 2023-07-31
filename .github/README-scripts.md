@@ -3,6 +3,10 @@ If you are helping maintain this repo, or you're just curious about how this rep
 
 Below, you'll find information about this repo's actions, issue forms, and other scripts.
 
+## High Level Overview
+
+Internships are stored in `listings.json`. This file is added edited by submitting a _new_internship_ or _edit_internship_ issue form. Once an `approved` label is attached to one of these issues, a github action will run and automatically edit listings.json with the new information. An external microservice runs a separate script once per day which fetches internships from Simplify's database, adds them to listings.json, then updates the corresponding README with the new internships from Simplify and contributors. See information about each of these steps below.
+
 ## listings.json
 
 All internships (from Simplify and contributors) are stored in `.github/scripts/listings.json.` This file can be edited manually (if you are being careful) or through a github action by approving an issue (see below). A list entry for an internship might look like the following:
