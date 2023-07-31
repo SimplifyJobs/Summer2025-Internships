@@ -15,7 +15,8 @@ Why did we change how the repo works. We did it for two reasons:
 All internships (from Simplify and contributors) are stored in `.github/scripts/listings.json.` A list entry for an internship might look like the following:
 
 ```json
-{
+[
+    {
         "company_name": "Capital One",
         "locations": [
             "McLean, VA",
@@ -33,7 +34,8 @@ All internships (from Simplify and contributors) are stored in `.github/scripts/
         "company_url": "",
         "date_updated": "07/27/2023",
         "id": "98b2d671-3f03-430e-b18c-e5ddb8ce5035"
-    },
+    }
+]
 ```
 
 The schema of this files is as follows:
