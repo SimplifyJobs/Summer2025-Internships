@@ -3,14 +3,7 @@ If you are helping maintain this repo, or you're just curious about how this rep
 
 Below, you'll find information about this repo's actions, issue forms, and other scripts.
 
-## Why the Change?
-Why did we change how the repo works. We did it for two reasons:
-1) We wanted to make sure technical challenges were not an obstacle that prevented people from contributing. Instead of needing to fork the repo, make a markdown row, and make a pr, now you simply need to fill out an issue form to contribute.
-2) We added a script that automatically adds all technical internships from Simplify's database onto this repo, so we needed to systematize the whole process to combine these internships with contributors' internships.
-
-## High Level Overview
-
-### listings.json
+## listings.json
 
 All internships (from Simplify and contributors) are stored in `.github/scripts/listings.json.` This file can be edited manually (if you are being careful) or through a github action by approving an issue (see below). A list entry for an internship might look like the following:
 
@@ -103,3 +96,10 @@ There is a private script that runs externally once per day which will do the fo
 
 - The listings are grouped by company and then sorted based on the date posted of the oldest internship from each company.
 - It is possible that internships might appear twice if the link in the Simplify database does not match the one from the contributor. Set the non-simplify one as "is_visible: false" in listings.json. This can also be done through an edit_internship issue template.
+
+
+## Why the Change?
+Why did we change how the repo works. We did it for two reasons:
+1) We wanted to make sure technical challenges were not an obstacle that prevented people from contributing. Instead of needing to fork the repo, make a markdown row, and make a pr, now you simply need to fill out an issue form to contribute.
+2) We added a script that automatically adds all technical internships from Simplify's database onto this repo, so we needed to systematize the whole process to combine these internships with contributors' internships.
+
