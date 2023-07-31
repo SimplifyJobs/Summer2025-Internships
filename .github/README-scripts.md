@@ -38,63 +38,65 @@ All internships (from Simplify and contributors) are stored in `.github/scripts/
 
 The schema of this files is as follows:
 
-# | Property Name   | Data Type        | Description                                          | Example |
-# | --------------- | ---------------- | ---------------------------------------------------- | -------- |
-# | **company_name**| `str`            | Name of company                                      | Google |
-# | **company_url**  | `str`            | Start date of internship (format: MM/DD/YYYY)        | 06/15/2024 |
-# | **title**       | `str`            | Name of internship position                          | ML Software Engineer Intern |
-# | **date_posted**  | `str`            | Start date of internship (format: MM/DD/YYYY)        | 06/15/2024 |
-# | **date_updated** | `str`            | Start date of internship (format: MM/DD/YYYY)        | 06/15/2024 |
-# | **url**         | `str`            | Link to job posting (include "https://")             | https://google.com/link/to/job/posting |
-# | **terms**   | `[str]`          | Array of locations available for internship | ["Mountain View, CA", "Remote"] |
-# | **locations**   | `[str]`          | Array of locations available for internship | ["Mountain View, CA", "Remote"] |
-# | **active**      | `bool`           | `true` if application is open. `false` if not.         | true |
-# | **is_visible**      | `bool`           | `true` if application is open. `false` if not.         | true |
-# | **source**      | `str`           | `true` if application is open. `false` if not.         | true |
-# | **id**      | `str`           | `true` if application is open. `false` if not.         | true |
+| Property Name   | Data Type        | Description                                          | Example |
+| --------------- | ---------------- | ---------------------------------------------------- | -------- |
+| **company_name**| `str`            | Name of company                                      | Google |
+| **company_url**  | `str`            | link to Simplify page for company (is empty string for non-Simplify contributions)       | "simplify.com/c/CompanyName |
+| **title**       | `str`            | Name of internship position                          | ML Software Engineer Intern |
+| **date_posted**  | `str`            | date added to listings.json (format: MM/DD/YYYY)        | 06/15/2024 |
+| **date_updated** | `str`            | date updated with new information (format: MM/DD/YYYY)        | 06/15/2024 |
+| **url**         | `str`            | Link to job posting            | https://google.com/link/to/job/posting |
+| **terms**   | `[str]`          | Array of terms available for internship | ["Summer 2024", "Fall 2023"] |
+| **locations**   | `[str]`          | Array of locations available for internship | ["Mountain View, CA", "Remote"] |
+| **active**      | `bool`           | `true` if application is open. `false` if not.         | true |
+| **is_visible**      | `bool`           | `true` if visible in README. `false` if not.         | true |
+| **source**      | `str`           | `Simplify` if from Simplfiy. Otherwise the github username of the contributor         | Simplify or michael-scarn |
+| **id**      | `str`           | unique id for listing. useful for Simplify listings, meaningless for contributions        | 95411fb3-8e62-4669-a456-9e6939d73e75 |
 
 ## Github issue templates
 
-In 
+We have a few github issue templates that can be found in `.github/ISSUE_TEMPLATE`
+
+| Name | filename | Purpose | Label |
+| ---- | -------- | ------- | ----- |
+| New Internship | new_internship.yaml | Form for adding a new internship to listings.json | `new_internship` |
+| Edit Internship | edit_internship.yaml | Form for updating information about internship in listings.json | `edit_internship` |
+| Miscellaneous Issue | misc.yaml | Form for asking questions, reporting bugs, etc. | `misc` |
+| Feature Suggestion | feature_suggestion.yaml | Form for suggesting improvements to the repo | `enhancement` |
+
+Miscellaneous issues and feature suggestions should be manually handled and closed.
+
+this is the process for handling New Internship and Edit Internship issues:
+
+1) Review the submission to ensure all the fields look good and the internship fits the theme of the repo.
+2) If there are any problems with it, respond to the issue explaining what needs to be changed. The contributor must submit a new issue form with the fixes.
+3) If there are no issues. Add the `approved` label to the issue which will cause the github action to run.
+4) If there is any issue with the github action, it will respond to the issue with what occured. For more information, you can look in the actions tab on the repo to see why the action failed.
+5) If there are no issues with the action, then the issue will be autoclosed and the new internship or edits should be reflected in listings.json.
 
 ## Github action
 
 The github action is responsible for adding new contributions and edits to `listings.json`
 > Note that it does not directly edit any README files. Only the listings.json file.
-The github action runs every time a new label is added to an issue. However, it skips every run except for those where the label added is the "approved" label. 
+The github action runs every time a new label is added to an issue. However, it skips every run except for those where the label added is the "approved" label.
 
-## Adding an Internship
-Cool! You're ready to add an internship to the list. Follow these steps:
+In `.github/workflows/actions.yml`, you will find the github action. Here is what each step is accomplishing:
+1) Checkout repository
+2) Set up python
+3) Execute `contribution_approved.py`. This file handles most of the logic for the github action. It first extracts the information from the issue form into a python dictionary. For new internships, it will make sure the internship does not already exist in listings.json, then will add it. For edits, the script will find the listing to edit, then make the corresponding edits in listings.json. If there are any errors, this step will fail and the `error_message` output will be set to whatever went wrong. If step 3 fails, steps 4-6 will not run, and the github action will skip to step 7.
+4) Assuming step 3 succeeded, the changes to listings.json will be committed. If the used provided their email, the GitHub action will pretend to be that user when adding to listings.json in order to give them credit for contributing to the repo.
+5) The changes will be pushed.
+6) The issue that sparked this github action will be closed.
+7) If any one of these steps fails, this will respond to the issue that spawned this process with the error.
 
-1) First create a new issue [here](https://github.com/pittcsc/Summer2024-Internships/issues/new/choose).
-2) Select the **New Internship** issue template.
-3) Fill in the information about your internship into the form, then hit submit.
-> Please make a new submission for each unique position, **even if they are for the same company**.
-4) That's it! Once a member of our team has reviewed your submission, it will be automatically added to the correct `README`
+## External Script
 
-## Editing an Internship
-To edit an internship (changing name, setting as inactive, removing, etc.), follow these steps:
-1) First copy the url of the internship you would like to edit.
-> This can be found by right-clicking on the `APPLY` button and selecting **copy link address**
-2) Create a new issue [here](https://github.com/pittcsc/Summer2024-Internships/issues/new/choose).
-3) Select the **Edit Internship** issue template.
-4) Fill in the url to the **link** input.
-> This is how we ensure your edit affects the correct internship
-5) Leave every other input blank except for whichever fields you would like to update or change about the internship.
-6) If it is not obvious why you are making these edits, please specify why in the reason box at the bottom of the form.
-7) Hit submit. A member of our team will review your revision and approve it shortly.
+There is a private script that runs externally once per day which will do the following:
+1) Pull new internships from Simplify's database.
+2) Add these internships to listings.json.
+3) Export listings.json as a table to embed in `README.md` and `README-offseason.md`.
 
-## Automatic README.md Updates
-A script will automatically add new contributions as well as new internships found by [Simplify](https://simplify.jobs) to the appropriate README. The row will look something like this:
-```md
-| Company | Role | Location | Application | Simplify Application |
-| --- | --- | --- | :---: | :---: |
-| **[Example Company]()** | Software Engineering Internship Example | San Francisco, CA | <img src="https://i.imgur.com/5JF7mJI.png" width="150" alt="Apply"> |  |
-```
+## Miscellaneous information:
 
-When rendered, it will look like:
-| Company | Role | Location | Application | Simplify Application |
-| --- | --- | --- | :---: | :---: |
-| **[Example Company]()** | Software Engineering Internship Example | San Francisco, CA | <img src="https://i.imgur.com/5JF7mJI.png" width="150" alt="Apply"> |  |
-
-
+- The listings are grouped by company and then sorted based on the date posted of the oldest internship from each company.
+- It is possible that internships might appear twice if the link in the Simplify database does not match the one from the contributor. Set the non-simplify one as "is_visible: false" in listings.json. This can also be done through an edit_internship issue template.
