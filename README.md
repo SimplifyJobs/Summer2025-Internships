@@ -146,6 +146,8 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Snap Inc.](https://wd1.myworkdaysite.com/recruiting/snapchat/snap/job/Los-Angeles-California/Software-Engineering-Intern--Summer-2024_R0032156) | Los Angeles; Palo Alto; Seattle | Software Engineering Intern, Summer 2024 |
 | GE Aerospace | Multiple US Locations | [Digital Technology Intern](https://ge.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/GE-Aerospace-US-Digital-Technology-Intern---Summer-2024_R3718425-1) (No Sponsorship) <br/> [Engineering Engines Computer or Software Engineering Intern](https://ge.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/GE-Aerospace-Engineering-Engines-Computer-or-Software-Engineering-Intern---Summer-2024_R3726060) (No Sponsorship) <br/> [Systems Engineering Intern](https://ge.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/GE-Aerospace-Systems-Engineering-Intern---Summer-2024_R3696296-1) (No Sponsorship) |
 | New York Life | New York, NY | [Technology Summer Intern](https://jobs.newyorklife.com/job/New-York-2024-Technology-Summer-Internship-Program-NY-10001/1055772100/) |
+| Johnson & Johnson | Multiple Locations | [Technology Summer Intern](https://jnjc.taleo.net/careersection/2/jobdetail.ftl?job=2306128806W&lang=en) |
+
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2024-Internships#the-list-)
