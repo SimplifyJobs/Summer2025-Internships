@@ -31,7 +31,7 @@ jobs:
         run: |
           git config --local user.email ${{ steps.python_script.outputs.commit_email }}
           git config --local user.name ${{ steps.python_script.outputs.commit_username }}
-          git add listings.json
+          git add .github/scripts/listings.json
           git diff-index --quiet HEAD || (git commit -a -m "${{ steps.python_script.outputs.commit_message }}" --allow-empty)
 
       - name: push changes
