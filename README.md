@@ -21,7 +21,7 @@ Welcome back! This repository is your go-to resource for sharing and keeping tra
 
 > <img src="https://i.imgur.com/5JF7mJI.png" width="100" alt="Simplify" /> This button takes you straight to the original job posting
 
-> <a href="https://simplify.jobs"><img src="https://i.imgur.com/kvraaHg.png" width="100" alt="Simplify" /></a>
+> <a href="https://simplify.jobs"><img src="https://i.imgur.com/MXdpmi0.png" width="100" alt="Simplify" /></a>
 > This button takes you to the posting on Simplify where you can apply with just one click!
 
 > 🔒 : This internship is closed and is no longer accepting applications
