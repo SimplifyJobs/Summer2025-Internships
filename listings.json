@@ -1604,7 +1604,7 @@
         "company_name": "Bank of Montreal (BMO)",
         "id": "a14ab330-f558-4ffa-ade3-b5e8567efb9d",
         "title": "Data Analyst \u2013 Co-op/Internship - Corporate Real Estate - Fall 2023 - 4 Months",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2023"
         ],
@@ -3395,7 +3395,7 @@
         "company_name": "Palantir",
         "id": "1d3628dd-10e9-4854-8975-3e2cb1de5f50",
         "title": "Palantir Path \u2013 Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -3413,7 +3413,7 @@
         "company_name": "Palantir",
         "id": "9e935340-ca63-46a8-bfa3-ab65f701b408",
         "title": "Palantir Path \u2013 Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -4048,5 +4048,233 @@
         "date_posted": "07/28/2023",
         "company_url": "",
         "is_visible": false
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Artisan Partners",
+        "id": "15c72218-6ed0-48bc-8bf1-dab5a18b81cc",
+        "title": "Software Developer Intern - Marketing & Distribution",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": "07/31/2023",
+        "url": "https://www.artisanpartners.com/careers/career-opportunities.html?gh_jid=5259816",
+        "locations": [
+            "Milwaukee, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Artisan-Partners",
+        "is_visible": true,
+        "date_posted": "07/31/2023"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Fetch",
+        "id": "dc06cfde-bf97-4015-b373-43fe379914dd",
+        "title": "Backend Engineering \u2013 Apprenticeship",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": "07/31/2023",
+        "url": "https://boards.greenhouse.io/fetchrewards/jobs/5428201003",
+        "locations": [
+            "Madison, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/FetchRewards",
+        "is_visible": true,
+        "date_posted": "07/31/2023"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "DRW",
+        "id": "3ff3427e-f0a3-4c6c-a51b-100f172cb3f2",
+        "title": "Software Developer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": "07/31/2023",
+        "url": "https://boards.greenhouse.io/drweng/jobs/5164116",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/DRW",
+        "is_visible": true,
+        "date_posted": "07/31/2023"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "DRW",
+        "id": "0294d8c6-65a2-4004-baab-4a879d9191a2",
+        "title": "Quantitative Trading Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": "07/31/2023",
+        "url": "https://boards.greenhouse.io/drweng/jobs/5164265",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/DRW",
+        "is_visible": true,
+        "date_posted": "07/31/2023"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Capital One",
+        "id": "8ab08bfa-385b-4471-886e-4556b58a962f",
+        "title": "Cyber Security Internship Program - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": "07/31/2023",
+        "url": "https://capitalone.wd1.myworkdayjobs.com/Capital_One/job/McLean-VA/Cyber-Security-Internship-Program---Summer-2024_R169958",
+        "locations": [
+            "Plano, TX",
+            "McLean, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Capital-One",
+        "is_visible": true,
+        "date_posted": "07/31/2023"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Capital One",
+        "id": "4799c783-ff04-4480-8d6e-211546796a58",
+        "title": "Technology Internship Program - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": "07/31/2023",
+        "url": "https://capitalone.wd1.myworkdayjobs.com/Capital_One/job/McLean-VA/Technology-Internship-Program---Summer-2024_R169893-1",
+        "locations": [
+            "Cambridge, MA",
+            "San Francisco, CA",
+            "Philadelphia, PA",
+            "Plano, TX",
+            "McLean, VA",
+            "Richmond, VA",
+            "Chicago, IL",
+            "New York, NY",
+            "Roswell, GA",
+            "Wilmington, DE"
+        ],
+        "company_url": "https://simplify.jobs/c/Capital-One",
+        "is_visible": true,
+        "date_posted": "07/31/2023"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Capital One",
+        "id": "6f3bb88a-0beb-4df3-a2e9-e61b132fda4b",
+        "title": "Data Analyst Intern - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": "07/31/2023",
+        "url": "https://capitalone.wd1.myworkdayjobs.com/Capital_One/job/McLean-VA/Data-Analyst-Intern---Summer-2024_R169960-1",
+        "locations": [
+            "Plano, TX",
+            "McLean, VA",
+            "Richmond, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Capital-One",
+        "is_visible": true,
+        "date_posted": "07/31/2023"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Alarm.com",
+        "id": "c44ecd3f-f243-421f-b0a3-014c6d8f3b68",
+        "title": "Embedded Engineer",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": "07/30/2023",
+        "url": "https://boards.greenhouse.io/alarmcom/jobs/6400067002",
+        "locations": [
+            "Needham, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Alarm",
+        "is_visible": true,
+        "date_posted": "07/31/2023"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Intel",
+        "id": "b862383b-4d5b-48bf-b2a5-ba4e4e92870d",
+        "title": "Design Automation Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": "07/28/2023",
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Texas-Austin/Design-Automation-Intern_JR0246405",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "date_posted": "07/31/2023"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "StackAdapt",
+        "id": "fd4a74d7-ed92-40b5-9eb4-e102f20bb6c3",
+        "title": "Software Engineer Intern - Backend",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": "07/28/2023",
+        "url": "https://jobs.lever.co/stackadapt/91b498ce-9570-4ffa-902e-4966338386d6/apply",
+        "locations": [
+            "Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/StackAdapt",
+        "is_visible": true,
+        "date_posted": "07/31/2023"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Bank of Montreal (BMO)",
+        "id": "9aef646d-5bb4-4240-8071-8375a7d9c590",
+        "title": "Software Developer \u2013 Co-op/Internship - Fall 2023 - 4 Months",
+        "active": true,
+        "terms": [
+            "Fall 2023"
+        ],
+        "date_updated": "07/28/2023",
+        "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Software-Developer--Fall-2023--Co-op-Internship----4-Months_R230012848",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/6b39f47e-f88d-4a06-bdf4-1f867ae9a886",
+        "is_visible": true,
+        "date_posted": "07/31/2023"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Vestmark",
+        "id": "90d693b7-1bae-401a-a20f-129cb1871d67",
+        "title": "Intern \u2013 Software Engineer - Fall 2023",
+        "active": true,
+        "terms": [
+            "Fall 2023"
+        ],
+        "date_updated": "07/28/2023",
+        "url": "https://boards.greenhouse.io/vestmark/jobs/5125520",
+        "locations": [
+            "Wakefield, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Vestmark",
+        "is_visible": true,
+        "date_posted": "07/31/2023"
     }
 ]
