@@ -6,8 +6,6 @@ import uuid
 from datetime import datetime
 import os
 
-APPROVED_ADMIN = ["matttreed"]
-
 def fail(why):
     setOutput("error_message", why)
     exit(1)
@@ -94,7 +92,7 @@ def main():
     # UPDATE LISTINGS
 
     listings = []
-    with open("listings.json", "r") as f:
+    with open(".github/scripts/listings.json", "r") as f:
         listings = json.load(f)
 
     listing_to_update = next(
@@ -112,7 +110,7 @@ def main():
         listings.append(data)
         setOutput("commit_message", "added listing: " + data["title"] + " at " + data["company_name"])
 
-    with open("listings.json", "w") as f:
+    with open(".github/scripts/listings.json", "w") as f:
         f.write(json.dumps(listings, indent=4))
 
 
