@@ -12,7 +12,7 @@ Why did we change how the repo works. We did it for two reasons:
 
 ### listings.json
 
-All internships (from Simplify and contributors) are stored in `.github/scripts/listings.json.` A list entry for an internship might look like the following:
+All internships (from Simplify and contributors) are stored in `.github/scripts/listings.json.` This file can be edited manually (if you are being careful) or through a github action by approving an issue (see below). A list entry for an internship might look like the following:
 
 ```json
 [
@@ -66,9 +66,9 @@ We have a few github issue templates that can be found in `.github/ISSUE_TEMPLAT
 | Miscellaneous Issue | misc.yaml | Form for asking questions, reporting bugs, etc. | `misc` |
 | Feature Suggestion | feature_suggestion.yaml | Form for suggesting improvements to the repo | `enhancement` |
 
-Miscellaneous issues and feature suggestions should be manually handled and closed.
+> Miscellaneous issues and feature suggestions should be manually handled and closed.
 
-this is the process for handling New Internship and Edit Internship issues:
+### This is the process for handling New Internship and Edit Internship issues:
 
 1) Review the submission to ensure all the fields look good and the internship fits the theme of the repo.
 2) If there are any problems with it, respond to the issue explaining what needs to be changed. The contributor must submit a new issue form with the fixes.
