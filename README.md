@@ -15,18 +15,19 @@ Welcome back! This repository is your go-to resource for sharing and keeping tra
     Thanks for a great three years 💖💖
   </h3>
   <p>
-    <img src="https://api.star-history.com/svg?repos=pittcsc/Summer2024-Internships&type=Date" width="450" alt="Star History">
+    <img src="https://api.star-history.com/svg?repos=pittcsc/Summer2024-Internships&type=Date" width="500" alt="Star History">
   </p>
 </div>
 
-> <img src="https://i.imgur.com/5JF7mJI.png" width="100" alt="Simplify" /> This button takes you straight to the original job posting
-
-> <a href="https://simplify.jobs"><img src="https://i.imgur.com/MXdpmi0.png" width="100" alt="Simplify" /></a>
-> This button takes you to the posting on Simplify where you can apply with just one click!
-
-> 🔒 : This internship is closed and is no longer accepting applications
+| Symbol | Description |
+| :---: | ---|
+| <img src="https://i.imgur.com/5JF7mJI.png" width="100" alt="Simplify" /> | This button takes you straight to the original job posting |
+| <a href="https://simplify.jobs"><img src="https://i.imgur.com/MXdpmi0.png" width="100" alt="Simplify" /></a> | This button takes you to the posting on Simplify where you can apply with just one click! |
+| 🔒 | This internship is closed and is no longer accepting applications |
 
 ## The List 🚴🏔
+
+> Github doesn't allow links to open in a new tab, so just hold CMD/ctrl when you click apply to open in a new tab
 
 <!-- Please leave a one line gap between this and the table TABLE_START (DO NOT CHANGE THIS LINE) -->
 
