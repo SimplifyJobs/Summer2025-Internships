@@ -145,8 +145,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | UPS | Atlanta, GA | **🔒 Closed 🔒** Software Engineer Intern |
 | Snap Inc. | Los Angeles; Palo Alto; Seattle |  **🔒 Closed 🔒** Software Engineering Intern, Summer 2024 |
 | GE Aerospace | Multiple US Locations | [Digital Technology Intern](https://ge.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/GE-Aerospace-US-Digital-Technology-Intern---Summer-2024_R3718425-1) (No Sponsorship) <br/> [Engineering Engines Computer or Software Engineering Intern](https://ge.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/GE-Aerospace-Engineering-Engines-Computer-or-Software-Engineering-Intern---Summer-2024_R3726060) (No Sponsorship) <br/> [Systems Engineering Intern](https://ge.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/GE-Aerospace-Systems-Engineering-Intern---Summer-2024_R3696296-1) (No Sponsorship) |
-| New York Life | New York, NY | [Technology Summer Intern](https://jobs.newyorklife.com/job/New-York-2024-Technology-Summer-Internship-Program-NY-10001/1055772100/) |
-| [Johnson & Johnson](https://jobs.jnj.com/en/jobs/2306128806w/technology-internship-2024-summer-jjt-intern/) | Multiple Locations | Technology Summer Intern (No Sponsorship) |
+| New York Life | New York, NY | Technology Summer Intern | Multiple Locations | **🔒 Closed 🔒** Technology Summer Intern (No Sponsorship) |
 | [Ramp](https://jobs.ashbyhq.com/ramp/16ebfcfc-467b-40e5-b23e-a4d95db05539) | New York, NY | Backend Software Engineering Internship |
 | [Kimley-Horn](https://careers-kimley-horn.icims.com/jobs/9773/software-developer-intern/job) | Raleigh, NC | Software Developer Intern (No Sponsorship) |
 | [Gecko Robotics](https://www.geckorobotics.com/careers/apply?gh_jid=5695257003) | Boston, MA | Software Engineering Internship - Summer 2024 |
