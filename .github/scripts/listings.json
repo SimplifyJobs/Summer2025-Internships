@@ -416,6 +416,78 @@
         "id": "3e1508f8-cf5c-49ef-8c4a-96974ce41e5a"
     },
     {
+        "company_name": "Paycom",
+        "locations": [
+            "Oklahoma City, OK"
+        ],
+        "title": "Software Analyst Intern",
+        "date_posted": "05/25/2023",
+        "terms": [
+            "Summer 2024"
+        ],
+        "active": false,
+        "url": "",
+        "is_visible": true,
+        "source": "Markdown",
+        "company_url": "",
+        "date_updated": "07/27/2023",
+        "id": "3e1508f8-cf5c-49ef-8c4a-969741321e5a"
+    },
+    {
+        "company_name": "Paycom",
+        "locations": [
+            "Oklahoma City, OK"
+        ],
+        "title": "Software Development Intern (No Sponsorship)",
+        "date_posted": "05/25/2023",
+        "terms": [
+            "Summer 2024"
+        ],
+        "active": false,
+        "url": "",
+        "is_visible": true,
+        "source": "Markdown",
+        "company_url": "",
+        "date_updated": "07/27/2023",
+        "id": "3e1194f8-cf5c-49ef-8c4a-910391321e5a"
+    },
+    {
+        "company_name": "Paycom",
+        "locations": [
+            "Oklahoma City, OK"
+        ],
+        "title": "Deployment Engineer Intern",
+        "date_posted": "05/25/2023",
+        "terms": [
+            "Summer 2024"
+        ],
+        "active": false,
+        "url": "",
+        "is_visible": true,
+        "source": "Markdown",
+        "company_url": "",
+        "date_updated": "07/27/2023",
+        "id": "3e1508f8-cf5c-10ef-8c4a-910391321e5a"
+    },
+    {
+        "company_name": "Northrop Grumman",
+        "locations": [
+            "Redondo Beach, CA"
+        ],
+        "title": "Software Engineer Intern (U.S Citizenship Required)",
+        "date_posted": "05/23/2023",
+        "terms": [
+            "Summer 2024"
+        ],
+        "active": false,
+        "url": "",
+        "is_visible": true,
+        "source": "Markdown",
+        "company_url": "",
+        "date_updated": "07/27/2023",
+        "id": "3e1508f8-cf5c-10ef-8c4a-91039casce5a"
+    },
+    {
         "company_name": "Truist",
         "locations": [
             "Charlotte, NC",
@@ -928,6 +1000,24 @@
         "date_posted": "06/05/2023"
     },
     {
+        "source": "Markdown",
+        "company_name": "Bridgewater Associates",
+        "id": "26b23172-3018-495e-b5cc-934cb56c3cc6",
+        "title": "Investment Engineer Intern",
+        "active": false,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": "07/19/2023",
+        "url": "",
+        "locations": [
+            "Westport, CT"
+        ],
+        "company_url": "",
+        "is_visible": true,
+        "date_posted": "07/09/2023"
+    },
+    {
         "source": "Simplify",
         "company_name": "InterSystems",
         "id": "4566387d-3970-4ba5-8337-ced016562663",
@@ -1292,22 +1382,40 @@
         "date_posted": "06/09/2023"
     },
     {
-        "company_name": "Northwestern Mutual",
+        "company_name": "JBS USA",
         "locations": [
-            "Milwaukee, WI"
+            "Greeley, CO"
         ],
-        "title": "Municipal Trading Analytics Intern (No Sponsorship)",
+        "title": "Information Technology Intern",
         "date_posted": "06/13/2023",
         "terms": [
             "Summer 2024"
         ],
-        "active": true,
-        "url": "https://careers.northwesternmutual.com/corporate-careers/job/public-investments-municipal-trading-analytics-internship-summer-2024-milwaukee-wi-corporate-jr-38135/",
+        "active": false,
+        "url": "",
         "is_visible": true,
         "source": "Markdown",
-        "company_url": "https://simplify.jobs/c/Northwestern-Mutual",
+        "company_url": "",
         "date_updated": "07/27/2023",
-        "id": "b5374bd3-7356-4d88-b0e7-15ede6a2fb46"
+        "id": "b5374bd3-7356-4d88-b0e7-15ede6390b46"
+    },
+    {
+        "company_name": "Forvis",
+        "locations": [
+            "Multiple Locations"
+        ],
+        "title": "Information Technology Risk Intern (No Sponsorship)",
+        "date_posted": "06/13/2023",
+        "terms": [
+            "Summer 2024"
+        ],
+        "active": false,
+        "url": "",
+        "is_visible": true,
+        "source": "Markdown",
+        "company_url": "",
+        "date_updated": "07/27/2023",
+        "id": "b5374bd3-7356-4d88-b0e7-15ede6102946"
     },
     {
         "source": "Simplify",
@@ -1851,6 +1959,43 @@
         "id": "93daaebb-7a2b-49d3-ad4a-3f1af4bae043"
     },
     {
+        "company_name": "Maximus",
+        "locations": [
+            "Mclean, VA"
+        ],
+        "title": "Software Engineer Intern",
+        "date_posted": "06/20/2023",
+        "terms": [
+            "Summer 2024"
+        ],
+        "active": false,
+        "url": "",
+        "is_visible": true,
+        "source": "Markdown",
+        "company_url": "",
+        "date_updated": "07/27/2023",
+        "id": "93daaebb-7a2b-49d3-ad4a-3f1af4aeb043"
+    },
+    {
+        "company_name": "Infineon",
+        "locations": [
+            "Andover, MA",
+            "Warwick, RI"
+        ],
+        "title": "Software Automation Engineer Intern",
+        "date_posted": "06/20/2023",
+        "terms": [
+            "Summer 2024"
+        ],
+        "active": false,
+        "url": "",
+        "is_visible": true,
+        "source": "Markdown",
+        "company_url": "",
+        "date_updated": "07/27/2023",
+        "id": "93daaebb-7a2b-49d3-ad4a-3f1af4aeb043"
+    },
+    {
         "source": "Simplify",
         "company_name": "Klue",
         "id": "4bbcf0e2-31c1-4232-8912-9184788c6095",
@@ -2123,6 +2268,43 @@
         "id": "2d61797e-9cb4-4f90-bc96-aad33cd486cc"
     },
     {
+        "company_name": "Rakuten",
+        "locations": [
+            "WV, USA"
+        ],
+        "title": "Software Engineer Intern",
+        "date_posted": "06/24/2023",
+        "terms": [
+            "Summer 2024"
+        ],
+        "active": false,
+        "url": "",
+        "is_visible": true,
+        "source": "Markdown",
+        "company_url": "",
+        "date_updated": "07/27/2023",
+        "id": "2d61797e-9cb4-4f90-bc96-aad3425486cc"
+    },
+    {
+        "company_name": "Bamboo Health",
+        "locations": [
+            "Boston, MA",
+            "Remote"
+        ],
+        "title": "Software Engineer Intern (Must be enrolled in a Bachelor’s degree program currently)",
+        "date_posted": "06/24/2023",
+        "terms": [
+            "Summer 2024"
+        ],
+        "active": false,
+        "url": "",
+        "is_visible": true,
+        "source": "Markdown",
+        "company_url": "",
+        "date_updated": "07/27/2023",
+        "id": "2d61797e-9cb4-4f90-bc96-aad3039c86cc"
+    },
+    {
         "source": "Simplify",
         "company_name": "NVIDIA",
         "id": "b48d2611-cf4e-408d-9b49-5a2774638eea",
@@ -2347,7 +2529,7 @@
         "terms": [
             "Summer 2024"
         ],
-        "active": false,
+        "active": true,
         "url": "https://jobs.lever.co/certik/2e33570a-f495-44ef-9d7d-a0c5a7fd8190",
         "is_visible": true,
         "source": "Markdown",
@@ -2368,7 +2550,7 @@
         "terms": [
             "Summer 2024"
         ],
-        "active": false,
+        "active": true,
         "url": "https://jobs.lever.co/certik/095fdcff-99e8-408d-bb8a-e638e44d0b40",
         "is_visible": true,
         "source": "Markdown",
@@ -2389,7 +2571,7 @@
         "terms": [
             "Summer 2024"
         ],
-        "active": false,
+        "active": true,
         "url": "https://jobs.lever.co/certik/ca67aab6-9b8b-4c2f-ad80-ff5855292f48",
         "is_visible": true,
         "source": "Markdown",
@@ -2417,6 +2599,27 @@
         "company_url": "https://simplify.jobs/c/Certik",
         "date_updated": "07/27/2023",
         "id": "154e45f7-181c-4b73-982b-8825c9ae0222"
+    },
+    {
+        "company_name": "Certik",
+        "locations": [
+            "New York, NY",
+            "Seattle, WA",
+            "SF Bay Area, CA",
+            "Remote"
+        ],
+        "terms": [
+            "Fall 2023"
+        ],
+        "title": "UI/UX designer intern",
+        "date_posted": "07/19/2023",
+        "active": false,
+        "url": "https://jobs.lever.co/certik/cc4bc2b7-ee87-43be-81c9-09c8b0411a7e",
+        "is_visible": true,
+        "source": "Markdown",
+        "company_url": "https://simplify.jobs/c/Certik",
+        "date_updated": "07/27/2023",
+        "id": "154e45f7-181c-4b73-982b-8825c9ae0212"
     },
     {
         "company_name": "Citadel",
@@ -2845,9 +3048,10 @@
     {
         "company_name": "RSM",
         "locations": [
-            "Denver, CO and Dallas, TX"
+            "Denver, CO",
+            "Dallas, TX"
         ],
-        "title": "Data Migration Consulting Intern",
+        "title": "Data Migration Consulting Intern (US Citizenship Required)",
         "date_posted": "07/02/2023",
         "terms": [
             "Summer 2024"
@@ -2863,9 +3067,10 @@
     {
         "company_name": "RSM",
         "locations": [
-            "Denver, CO and Dallas, TX"
+            "Denver, CO",
+            "Dallas, TX"
         ],
-        "title": "Intelligent Automation Consulting Intern",
+        "title": "Intelligent Automation Consulting Intern (US Citizenship Required)",
         "date_posted": "07/02/2023",
         "terms": [
             "Summer 2024"
@@ -2877,6 +3082,25 @@
         "company_url": "",
         "date_updated": "07/27/2023",
         "id": "aa2b3785-b5ac-44f3-bfa9-849a5f9f3ed0"
+    },
+    {
+        "company_name": "Trane Technologies",
+        "locations": [
+            "Davidson, NC",
+            "Minneapolis, MN"
+        ],
+        "title": "2024 Analytics & Data Science Intern (U.S citizens only)",
+        "date_posted": "07/02/2023",
+        "terms": [
+            "Summer 2024"
+        ],
+        "active": false,
+        "url": "",
+        "is_visible": true,
+        "source": "Markdown",
+        "company_url": "",
+        "date_updated": "07/27/2023",
+        "id": "aa2b3785-b5ac-44f3-bfa9-81235f9f3ed0"
     },
     {
         "company_name": "Tesla",
@@ -3005,6 +3229,60 @@
         "company_url": "",
         "date_updated": "07/27/2023",
         "id": "dd61a9b4-dc03-4993-a862-01a24d75d32e"
+    },
+    {
+        "company_name": "Voloridge Investment Management",
+        "locations": [
+            "Jupiter, FL"
+        ],
+        "title": "Software Engineer Intern",
+        "date_posted": "07/06/2023",
+        "terms": [
+            "Summer 2024"
+        ],
+        "active": false,
+        "url": "",
+        "is_visible": true,
+        "source": "Markdown",
+        "company_url": "",
+        "date_updated": "07/27/2023",
+        "id": "dd61a9b4-dc03-4993-a862-01a24d75d111"
+    },
+    {
+        "company_name": "Voloridge Investment Management",
+        "locations": [
+            "Jupiter, FL"
+        ],
+        "title": "Trading Engineer Intern",
+        "date_posted": "07/06/2023",
+        "terms": [
+            "Summer 2024"
+        ],
+        "active": false,
+        "url": "",
+        "is_visible": true,
+        "source": "Markdown",
+        "company_url": "",
+        "date_updated": "07/27/2023",
+        "id": "dd61a9b4-dc03-4993-a862-11124d75d111"
+    },
+    {
+        "company_name": "Volvo",
+        "locations": [
+            "Hagerstown, MD"
+        ],
+        "title": "Intern: Engineering, Embedded Software",
+        "date_posted": "07/06/2023",
+        "terms": [
+            "Summer 2024"
+        ],
+        "active": false,
+        "url": "",
+        "is_visible": true,
+        "source": "Markdown",
+        "company_url": "",
+        "date_updated": "07/27/2023",
+        "id": "dd61a9b4-dc03-4993-a862-1149c275d111"
     },
     {
         "company_name": "Medpace",
@@ -3204,6 +3482,42 @@
         "company_url": "",
         "date_updated": "07/27/2023",
         "id": "0e8b2a36-22fb-4449-a4b9-81dce5f51c4c"
+    },
+    {
+        "company_name": "Google",
+        "locations": [
+            "Multiple US Locations"
+        ],
+        "title": "Software Engineering Intern (BS)",
+        "date_posted": "07/10/2023",
+        "terms": [
+            "Summer 2024"
+        ],
+        "active": false,
+        "url": "",
+        "is_visible": true,
+        "source": "Markdown",
+        "company_url": "",
+        "date_updated": "07/27/2023",
+        "id": "0e8b2a36-22fb-4439-a4b9-80dee5d51c4c"
+    },
+    {
+        "company_name": "Google",
+        "locations": [
+            "Multiple US Locations"
+        ],
+        "title": "Software Engineering Intern (MS)",
+        "date_posted": "07/10/2023",
+        "terms": [
+            "Summer 2024"
+        ],
+        "active": false,
+        "url": "",
+        "is_visible": true,
+        "source": "Markdown",
+        "company_url": "",
+        "date_updated": "07/27/2023",
+        "id": "0e7b2a36-22fb-4439-a4b9-80dee5d51c4c"
     },
     {
         "company_name": "Amazon",
@@ -3423,6 +3737,44 @@
         "date_posted": "07/15/2023"
     },
     {
+        "source": "Markdown",
+        "company_name": "Mosaic ML",
+        "id": "93b63729-4340-40a5-a452-8d4642884493",
+        "title": "Software Engineer Intern",
+        "active": false,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": "07/19/2023",
+        "url": "",
+        "locations": [
+            "San Francisco, CA",
+            "New York, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/MosaicML",
+        "is_visible": true,
+        "date_posted": "07/15/2023"
+    },
+    {
+        "source": "Markdown",
+        "company_name": "Pimco",
+        "id": "93b63729-4340-40a5-a452-8d4143243493",
+        "title": "Research Scientist Intern",
+        "active": false,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": "07/19/2023",
+        "url": "",
+        "locations": [
+            "Austin, TX",
+            "Newport Beach, CA"
+        ],
+        "company_url": "",
+        "is_visible": true,
+        "date_posted": "07/15/2023"
+    },
+    {
         "source": "Simplify",
         "company_name": "Perpetua Labs",
         "id": "192879dc-7a64-4cf6-b491-dc5c354ec80b",
@@ -3568,6 +3920,24 @@
         "company_url": "",
         "date_updated": "07/27/2023",
         "id": "8465822d-f7fa-44a0-89f5-39f4f3f66888"
+    },
+    {
+        "company_name": "GE Appliances",
+        "locations": [
+            "Louisville, KY"
+        ],
+        "title": "Digital Technology Intern",
+        "date_posted": "07/21/2023",
+        "terms": [
+            "Summer 2024"
+        ],
+        "active": false,
+        "url": "",
+        "is_visible": true,
+        "source": "Markdown",
+        "company_url": "",
+        "date_updated": "07/27/2023",
+        "id": "8465822d-f7fa-44a0-89f5-39f4f3f66875"
     },
     {
         "source": "Simplify",
