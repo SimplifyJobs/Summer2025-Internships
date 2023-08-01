@@ -1729,7 +1729,7 @@
         "company_name": "Kinaxis",
         "id": "b77d1164-9aca-476c-b92a-2c3fa6235612",
         "title": "Service Automation Co-Op/Intern - GCC Operations",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -2055,7 +2055,7 @@
         "company_name": "KAYAK",
         "id": "54dc3f66-aa73-4018-9f4e-ee2e76ae87c5",
         "title": "Java Engineering Intern - Adtech",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -3860,7 +3860,7 @@
         "company_name": "Snap Inc.",
         "id": "44b7e596-3fa1-4963-89db-cbba8c756bed",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -3880,7 +3880,7 @@
         "company_name": "Rockwell Automation",
         "id": "6cd4765d-8682-402d-a6bd-5764326f1258",
         "title": "Data Engineer Co-op/Intern - Fiix Software",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -4108,7 +4108,7 @@
         "company_name": "Vestmark",
         "id": "90d693b7-1bae-401a-a20f-129cb1871d67",
         "title": "Intern \u2013 Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2023"
         ],
