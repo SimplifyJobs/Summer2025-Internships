@@ -4300,5 +4300,23 @@
         "company_url": "https://simplify.jobs/c/Red-Ventures",
         "is_visible": true,
         "date_posted": "08/01/2023"
+    },
+    {
+        "date_updated": "08/01/2023",
+        "url": "https://none",
+        "company_name": "Milliman",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "Omaha, NE"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "active": false,
+        "source": "matttreed",
+        "id": "a58c37fb-2907-41cd-a5f6-e6fe91d945b0",
+        "date_posted": "08/01/2023",
+        "company_url": "",
+        "is_visible": true
     }
 ]
