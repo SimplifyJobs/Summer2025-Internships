@@ -4120,5 +4120,185 @@
         "company_url": "https://simplify.jobs/c/Vestmark",
         "is_visible": true,
         "date_posted": "07/31/2023"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Bank of Montreal (BMO)",
+        "id": "868c102d-691d-408c-8f44-e0066e14b1fa",
+        "title": "Data Scientist \u2013 Fraud Analytics Intern \u2013 Internship - Fall 2023 - 4 Months - Part-Time - Evergreen - Open",
+        "active": true,
+        "terms": [
+            "Fall 2023"
+        ],
+        "date_updated": "08/01/2023",
+        "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Jacksonville-FL-USA/Data-Scientist--Fraud-Analytics-Intern--Fall-2023--Internship----4-Months--Part-Time--Evergreen---Open-_R230012193",
+        "locations": [
+            "Jacksonville, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/6b39f47e-f88d-4a06-bdf4-1f867ae9a886",
+        "is_visible": true,
+        "date_posted": "08/01/2023"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Palantir",
+        "id": "930b6c2c-a5c0-4871-a545-bf43ae8c31a9",
+        "title": "Software Engineer \u2013 Internship",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": "08/01/2023",
+        "url": "https://jobs.lever.co/palantir/76a60923-bb49-40f5-b061-7c7eb1299602/apply",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Palantir",
+        "is_visible": true,
+        "date_posted": "08/01/2023"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Palantir",
+        "id": "4696ce14-3ae8-4ed6-80e1-61072ce87544",
+        "title": "Forward Deployed Software Engineer \u2013 Internship - UK Government",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": "08/01/2023",
+        "url": "https://jobs.lever.co/palantir/26e23f5d-083b-45aa-b223-1a6e43d960bf/apply",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Palantir",
+        "is_visible": true,
+        "date_posted": "08/01/2023"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Palantir",
+        "id": "d0302d05-c84f-4a36-a91e-cc293f08604e",
+        "title": "Software Engineer \u2013 Internship",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": "08/01/2023",
+        "url": "https://jobs.lever.co/palantir/e27af7ab-41fc-40c9-b31d-02c6cb1c505c/apply",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Palantir",
+        "is_visible": true,
+        "date_posted": "08/01/2023"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Palantir",
+        "id": "61538fd3-f0aa-476a-a62f-e101cd0f4c6f",
+        "title": "Forward Deployed Software Engineer \u2013 Internship",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": "08/01/2023",
+        "url": "https://jobs.lever.co/palantir/7f744341-9e34-44e8-915f-4f083a0c0d30/apply",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Palantir",
+        "is_visible": true,
+        "date_posted": "08/01/2023"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Flow Traders",
+        "id": "76fc51d4-9af1-45b4-bad3-5082cdaff654",
+        "title": "Trading Intern Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": "08/01/2023",
+        "url": "https://boards.greenhouse.io/flowtraders/jobs/5231161",
+        "locations": [
+            "New York, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Flow-Traders",
+        "is_visible": true,
+        "date_posted": "08/01/2023"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Alert Innovation",
+        "id": "32572ef0-3812-4b80-b64e-c237eaf6fd2c",
+        "title": "Co-Op \u2013 Software Sustaining Engineer",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": "08/01/2023",
+        "url": "https://boards.greenhouse.io/alertinnovation/jobs/4222910005",
+        "locations": [
+            "Andover, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Alert-Innovation",
+        "is_visible": true,
+        "date_posted": "08/01/2023"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Gecko Robotics",
+        "id": "1e81f406-0174-4e22-bc7a-e02ae8a56b98",
+        "title": "Software Engineer - Robot Systems-Internship",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": "07/31/2023",
+        "url": "https://www.geckorobotics.com/careers/apply?gh_jid=5699541003",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Gecko-Robotics",
+        "is_visible": true,
+        "date_posted": "08/01/2023"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Gecko Robotics",
+        "id": "e84d0d5e-0f8a-409a-935f-b8dd3f2ef417",
+        "title": "Software Engineer \u2013 Internship",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": "07/31/2023",
+        "url": "https://www.geckorobotics.com/careers/apply?gh_jid=5695257003",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Gecko-Robotics",
+        "is_visible": true,
+        "date_posted": "08/01/2023"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Red Ventures",
+        "id": "6da70f1b-9544-4e8f-896d-ec7e5b718106",
+        "title": "2024 Launch Program: Data Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": "07/31/2023",
+        "url": "https://www.redventures.com/careers/apply/5209748?gh_jid=5209748",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Red-Ventures",
+        "is_visible": true,
+        "date_posted": "08/01/2023"
     }
 ]
