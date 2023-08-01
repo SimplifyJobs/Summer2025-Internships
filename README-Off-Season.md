@@ -74,15 +74,18 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Milliman](https://recruiting2.ultipro.com/MIL1017/JobBoard/f54234e9-dfde-b183-fd20-4fbdb19cba7a/OpportunityDetail?opportunityId=13902acc-1b58-407a-8c0f-c093d7b8cc5a) | Milwaukee, WI <br/> Chicago, IL <br/> Hartford, CT <br/> Remote | Spring 2024 | Healthcare Analytics Intern |
 | [UKG](https://careers.ukg.com/careers/JobDetail/DevOps-Engineering-Internship-Fall-2023/46143) | Lowell, MA <br/> Weston, FL | Fall 2023 | DevOps Engineering Internship |
 | [Skyworks Solutions](https://careers.skyworksinc.com/job/Andover-Analytics-Co-Op-SummerFall-Co-Op-CA/1055209600) | Andover, CA | Fall 2023 | Analytics Co-Op Summer/Fall Co-Op (MS Students Only) |
-| [GE Aerospace](https://jobs.gecareers.com/aviation/global/en/job/R3718914/GE-Aerospace-US-Digital-Technology-Coop-Spring-2024) | Cincinnati, OH <br/> Van Buren Township, MI | Spring 2024 | GE Aerospace US Digital Technology Coop |
+| [GE Aerospace](https://jobs.gecareers.com/aviation/global/en/job/R3718914/GE-Aerospace-US-Digital-Technology-Coop-Spring-2024) | Cincinnati, OH <br/> Van Buren Township, MI | Spring 2024 | GE Aerospace US Digital Technology Coop (No Sponsorship) |
 | [Sony Pictures](https://www.sonypicturesjobs.com/job/culver-city/software-engineer-golang-intern-fall-2023/22978/51635682320) | Culver City, CA | Fall 2023 | Software Engineer Golang Intern |
 | [SRC Inc.](https://jobs.jobvite.com/src-inc/job/oHynnfwJ) | Syracuse, NY <br/> Herndon, VA <br/> San Antonio, TX | Fall 2023 | Software Engineering Intern |
 | [Parallel Systems](https://moveparallel.com/careers/?gh_jid=4026759007) | Los Angeles, CA | Fall 2023 | Software Engineer Intern(US Citizenship Required) | 
 | [Nvidia](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Architect-Intern---Fall-2023_JR1968795) | Santa Clara, CA | Fall 2023 | Architect Intern | 
 | [Moog Inc.](https://careers.moog.com/jobs/fall-2023-software-engineering-internship-10193) | Elma, NY <br/> Gilbert, AZ <br/> Goleta, CA <br/> Torrance, CA | Fall 2023 | Software Engineering Intern |
-| [Plexus](https://plexus.wd5.myworkdayjobs.com/en-US/Plexus_Careers/job/Intern---Software-Engineer-Intern---Fall-2023_R022285) | Raleigh, NC | Fall 2023 | Software Engineer Intern |
+| [Plexus](https://plexus.wd5.myworkdayjobs.com/en-US/Plexus_Careers/job/Intern---Software-Engineer-Intern---Fall-2023_R022285) | Raleigh, NC | Fall 2023 | Software Engineer Intern (US Citizenship Required)|
 | [Firefly Aerospace](https://firefly.hrmdirect.com/employment/job-opening.php?req=2558322&&&jbsrc=1025) | Cedar Park, TX | Fall 2023 | Software Development Intern (US Citizenship Required) |
 | [Pison Technology](https://jobs.lever.co/pison/7d5d0766-95d6-405a-90a7-76fdbc4f2263) | Boston, MA | Fall 2023 | Software Engineer Intern |
+| [Delta Air Lines](https://delta.avature.net/careers/JobDetail/Intern-Innovation-and-AI-Engineering-Fall-2023/21446) | Atlanta, GA | Fall 2023 | Innovation and AI Engineering Intern (No Sponsorship) |
+| [Honeywell](https://careers.honeywell.com/us/en/job/req408965/Software-Engineering-Co-op-Fall-2023) | Multiple US Locations | Fall 2023 | Software Engineering Co-Op |
+| [Ample Inc.](https://ample.com/jobs/?gh_jid=4289698005) | San Francisco, CA | Fall 2023 | Computer Vision Software Engineer Intern |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2024-Internships/blob/dev/README-Off-Season.md#the-list-)
