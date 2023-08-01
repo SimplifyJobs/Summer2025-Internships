@@ -18,8 +18,7 @@ We ask that the internships that you add meet some requirements. Specifically, y
 
 Note that we have multiple READMEs for different internship terms:
 - [Summer 2024 internships](https://github.com/pittcsc/Summer2024-Internships/blob/dev/README.md)
-- [Summer 2023 internships](https://github.com/pittcsc/Summer2024-Internships/blob/dev/README-2023.md)
-- [Off-season internships](https://github.com/pittcsc/Summer2024-Internships/blob/dev/README-Off-Season.md)
+- [Off-Season internships](https://github.com/pittcsc/Summer2024-Internships/blob/dev/README-Off-Season.md)
 
 Be sure you're contributing to the correct one.
 
