@@ -148,6 +148,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | New York Life | New York, NY | [Technology Summer Intern](https://jobs.newyorklife.com/job/New-York-2024-Technology-Summer-Internship-Program-NY-10001/1055772100/) |
 | Johnson & Johnson | Multiple Locations | [Technology Summer Intern](https://jobs.jnj.com/en/jobs/2306128806w/technology-internship-2024-summer-jjt-intern/) |
 | [Ramp](https://jobs.ashbyhq.com/ramp/16ebfcfc-467b-40e5-b23e-a4d95db05539) | New York, NY | Backend Software Engineering Internship |
+| [Castleton Commodities International](https://osv-cci.wd1.myworkdayjobs.com/CCICareers/job/Stamford-CT/Data-Science-Internship--Summer-2023-_R622) | Stamford, CT | Data Science Internship |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2024-Internships#the-list-)
