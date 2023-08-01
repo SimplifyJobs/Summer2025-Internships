@@ -138,7 +138,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | Tyler Technologies | Moraine, OH | **🔒 Closed 🔒** Software Development Intern - Summer/Fall |
 | [Steris](https://careers.steris.com/job/RICHMOND-Software-Engineering-Intern-CA-94804/1054522400/) | Richmond, CA | Software Engineer Intern |
 | [Infoverity](https://infoverity.zohorecruit.com/jobs/Infoverity-USA-Careers/530797000006827069/Summer-Internship-summer-2024-) | Dublin, OH | Summer Internship Program (No Sponsorship) |
-| [Eagle Eye Produce](https://eagleeyeproduce.bamboohr.com/careers/108) | Idaho Falls, ID | Web Developer Intern |
+| Eagle Eye Produce | Idaho Falls, ID | **🔒 Closed 🔒** Web Developer Intern |
 | [Aquaveo](https://www.aquaveo.com/jobs-geospatial-web-developer-intern) | Provo, UT | Geospatial Web Developer Intern |
 | Prudential | Newark, NJ | [2024 Fixed Income, Coding & Developer Internship Program](https://wd5.myworkdaysite.com/recruiting/pru/Careers/job/Newark-NJ-USA/PGIM--2024-Fixed-Income--Coding---Developer-Internship-Program--Technology-Solutions-Group-_R-114814-1) (No Sponsorship) </br> [2024 Global Technology, Software Engineering Internship](https://wd5.myworkdaysite.com/recruiting/pru/Careers/job/Newark-NJ-USA/Prudential--2024-Global-Technology--Software-Engineering-Internship-Program--_R-114845-2) (No Sponsorship) |
 | Deloitte | Multiple Locations | [Software Engineer Intern - Technology Assets](https://apply.deloitte.com/careers/JobDetail/Deloitte-Risk-Financial-Advisory-Software-Engineer-Intern-Technology-Assets-Summer-2024/150371) </br> [Software Engineer Intern - Digital Assets/Blockchain](https://apply.deloitte.com/careers/JobDetail/Deloitte-Risk-Financial-Advisory-Software-Engineer-Intern-Digital-Assets-Blockchain-Summer-2024/150369) |
@@ -147,6 +147,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | GE Aerospace | Multiple US Locations | [Digital Technology Intern](https://ge.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/GE-Aerospace-US-Digital-Technology-Intern---Summer-2024_R3718425-1) (No Sponsorship) <br/> [Engineering Engines Computer or Software Engineering Intern](https://ge.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/GE-Aerospace-Engineering-Engines-Computer-or-Software-Engineering-Intern---Summer-2024_R3726060) (No Sponsorship) <br/> [Systems Engineering Intern](https://ge.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/GE-Aerospace-Systems-Engineering-Intern---Summer-2024_R3696296-1) (No Sponsorship) |
 | New York Life | New York, NY | [Technology Summer Intern](https://jobs.newyorklife.com/job/New-York-2024-Technology-Summer-Internship-Program-NY-10001/1055772100/) |
 | Johnson & Johnson | Multiple Locations | [Technology Summer Intern](https://jobs.jnj.com/en/jobs/2306128806w/technology-internship-2024-summer-jjt-intern/) |
+| [Ramp](https://jobs.ashbyhq.com/ramp/16ebfcfc-467b-40e5-b23e-a4d95db05539) | New York, NY | Backend Software Engineering Internship |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2024-Internships#the-list-)
