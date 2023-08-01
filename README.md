@@ -65,7 +65,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Bank of America](https://bankcampuscareers.tal.net/vx/lang-en-GB/mobile-0/brand-4/xf-91c0e92d74a1/candidate/so/pm/1/pl/1/opp/10165-Global-Technology-Summer-Analyst-Program-2024/en-GB) | Multiple US Locations | Global Technology Summer Analyst Program - 2024 |
 | [Protiviti](https://roberthalf.wd1.myworkdayjobs.com/en-US/ProtivitiNA/job/PHOENIX/Phoenix-Technology-Consulting-Intern---2024_JR-248209-2?Location_Country=bc33aa3152ec42d4995f4791a106ed09&Location_Region_State_Province=c7b20b0d4bc04711a00900569e9afabd) | Phoenix, AZ | Technology Consulting Intern - 2024 Summer Internship (No Sponsorship) |
 | [Mercedes-Benz](https://jobs.lever.co/MBRDNA/59ae463c-5d10-4bb6-9dfd-4e26c7d84a69) | Sunnyvale, CA | Data Products Intern |
-| [Palantir Technologies](https://www.palantir.com/careers/students/path/) | New York, NY or Washington, DC | Palantir Path Intern (must be enrolled in a U.S. bachelor's program) |
+| Palantir Technologies| New York, NY or Washington, DC | **🔒 Closed 🔒** Palantir Path Intern (must be enrolled in a U.S. bachelor's program) |
 | [Lumen Technologies](https://jobs.lumen.com/global/en/job/324980/Intern-Summer-2024-Program-Submit-Interest) | Remote, USA | Intern - Summer 2024 Program - Submit Interest (U.S. work authorization required) |
 | Voloridge Investment Management | Jupiter, FL | **🔒 Closed 🔒** <br/> Software Engineer Intern <br/> Trading Engineer Intern |
 | Volvo | Hagerstown, MD | **🔒 Closed 🔒** Intern: Engineering, Embedded Software (Summer 2024) |
@@ -151,6 +151,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Kimley-Horn](https://careers-kimley-horn.icims.com/jobs/9773/software-developer-intern/job) | Raleigh, NC | Software Developer Intern (No Sponsorship) |
 | [Gecko Robotics](https://www.geckorobotics.com/careers/apply?gh_jid=5695257003) | Boston, MA | Software Engineering Internship - Summer 2024 |
 | [Castleton Commodities International](https://osv-cci.wd1.myworkdayjobs.com/CCICareers/job/Stamford-CT/Data-Science-Internship--Summer-2023-_R622) | Stamford, CT | Data Science Internship |
+| [Medtronic](https://medtronic.eightfold.ai/careers/job/17363492) | Multiple | Software Engineering Summer 2024 Intern (No Sponsorship) |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2024-Internships#the-list-)
