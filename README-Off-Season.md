@@ -86,7 +86,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Delta Air Lines](https://delta.avature.net/careers/JobDetail/Intern-Innovation-and-AI-Engineering-Fall-2023/21446) | Atlanta, GA | Fall 2023 | Innovation and AI Engineering Intern (No Sponsorship) |
 | [Honeywell](https://careers.honeywell.com/us/en/job/req408965/Software-Engineering-Co-op-Fall-2023) | Multiple US Locations | Fall 2023 | Software Engineering Co-Op |
 | [Ample Inc.](https://ample.com/jobs/?gh_jid=4289698005) | San Francisco, CA | Fall 2023 | Computer Vision Software Engineer Intern |
-| [Marathon Petroleum Company](https://mpc.wd1.myworkdayjobs.com/en-US/MPCCareers/job/Intern-Co-op---Information-Technology--spring--2024-_00006913) | Multiple | Spring 2024 | Information Technology Intern/Co-op |
+| [Marathon Petroleum](https://mpc.wd1.myworkdayjobs.com/en-US/MPCCareers/job/Intern-Co-op---Information-Technology--spring--2024-_00006913) | Multiple | Spring 2024 | Information Technology Intern/Co-op |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2024-Internships/blob/dev/README-Off-Season.md#the-list-)
