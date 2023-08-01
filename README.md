@@ -28,7 +28,7 @@ Welcome back! This repository is your go-to resource for sharing and keeping tra
 ## The List 🚴🏔
 > This README file is for **2024 summer internships only**. For off-season internships, please see the [Off-Season 2024 README](https://github.com/pittcsc/Summer2024-Internships/blob/dev/README-Off-Season.md).
 
-> Github doesn't allow links to automatically open in a new tab, so just hold CMD/ctrl when you click apply to open in a new tab
+> To open a link in a new tab, so just hold CMD/ctrl when you click apply
 
 <!-- Please leave a one line gap between this and the table TABLE_START (DO NOT CHANGE THIS LINE) -->
 
