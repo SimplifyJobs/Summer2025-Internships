@@ -27,6 +27,7 @@ Welcome back! This repository is your go-to resource for sharing and keeping tra
 
 ## The List 🚴🏔
 > To open a link in a new tab, so just hold CMD/ctrl when you click apply
+
 > **Note**:
 > This README file is for **non-summer internships only**. For summer internships, please see the [Summer 2024 README](https://github.com/pittcsc/Summer2024-Internships/blob/dev/README.md).
 
