@@ -2291,7 +2291,7 @@
             "Boston, MA",
             "Remote"
         ],
-        "title": "Software Engineer Intern (Must be enrolled in a Bachelor’s degree program currently)",
+        "title": "Software Engineer Intern (Must be enrolled in a Bachelor\u2019s degree program currently)",
         "date_posted": "06/24/2023",
         "terms": [
             "Summer 2024"
@@ -5246,5 +5246,41 @@
         "company_url": "",
         "date_updated": "08/01/2023",
         "id": "2fb08630-9f56-46b4-8419-52193a33ef5f"
+    },
+    {
+        "date_updated": "08/01/2023",
+        "url": "https://boards.greenhouse.io/transmarketgroup/jobs/4023644007?t=295a85457us",
+        "company_name": "TransMarket Group",
+        "title": "Quantitative Trader Intern",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "active": true,
+        "source": "matttreed",
+        "id": "b80e666b-a1be-4477-9239-3af943d010bc",
+        "date_posted": "08/01/2023",
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": "08/01/2023",
+        "url": "https://boards.greenhouse.io/transmarketgroup/jobs/4023650007?t=295a85457us",
+        "company_name": "TransMarket Group",
+        "title": "Algorithmic Trader Intern",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "active": true,
+        "source": "matttreed",
+        "id": "5a366dee-adc2-4e2a-a0fb-27ea94d57b9c",
+        "date_posted": "08/01/2023",
+        "company_url": "",
+        "is_visible": true
     }
 ]
