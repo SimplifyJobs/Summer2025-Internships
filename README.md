@@ -148,7 +148,6 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | New York Life | New York, NY | [Technology Summer Intern](https://jobs.newyorklife.com/job/New-York-2024-Technology-Summer-Internship-Program-NY-10001/1055772100/) |
 | Johnson & Johnson | Multiple Locations | [Technology Summer Intern](https://jobs.jnj.com/en/jobs/2306128806w/technology-internship-2024-summer-jjt-intern/) |
 
-
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2024-Internships#the-list-)
 
