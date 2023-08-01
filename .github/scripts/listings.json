@@ -5264,5 +5264,23 @@
         "date_posted": "08/01/2023",
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": "08/01/2023",
+        "url": "https://boards.greenhouse.io/transmarketgroup/jobs/4023650007?t=295a85457us",
+        "company_name": "TransMarket Group",
+        "title": "Algorithmic Trader Intern",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "active": true,
+        "source": "matttreed",
+        "id": "5a366dee-adc2-4e2a-a0fb-27ea94d57b9c",
+        "date_posted": "08/01/2023",
+        "company_url": "",
+        "is_visible": true
     }
 ]
