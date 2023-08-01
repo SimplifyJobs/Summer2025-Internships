@@ -4688,5 +4688,563 @@
         "date_posted": "08/01/2023",
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "company_name": "Five Rings",
+        "locations": [
+            "NYC"
+        ],
+        "title": "Software Dev Intern",
+        "date_posted": "08/01/2023",
+        "terms": [
+            "Summer 2024"
+        ],
+        "active": true,
+        "url": "https://fiverings.avature.net/careers/FolderDetail/New-York-New-York-United-States-Software-Developer-Summer-Intern-2024/649",
+        "is_visible": true,
+        "source": "Markdown",
+        "company_url": "",
+        "date_updated": "08/01/2023",
+        "id": "43cbe4f5-5117-49e3-bc8e-93ba5b8d638c"
+    },
+    {
+        "company_name": "Five Rings",
+        "locations": [
+            "NYC"
+        ],
+        "title": "Quant Researcher Intern",
+        "date_posted": "08/01/2023",
+        "terms": [
+            "Summer 2024"
+        ],
+        "active": true,
+        "url": "https://fiverings.avature.net/careers/FolderDetail/New-York-New-York-United-States-Quantitative-Researcher-Summer-Intern-2024/645",
+        "is_visible": true,
+        "source": "Markdown",
+        "company_url": "",
+        "date_updated": "08/01/2023",
+        "id": "97cb6217-ff74-41a4-a57f-28134c441893"
+    },
+    {
+        "company_name": "Five Rings",
+        "locations": [
+            "NYC"
+        ],
+        "title": "Quant Trader Intern",
+        "date_posted": "08/01/2023",
+        "terms": [
+            "Summer 2024"
+        ],
+        "active": true,
+        "url": "https://fiverings.avature.net/careers/FolderDetail/New-York-New-York-United-States-Quantitative-Trader-Summer-Intern-2024/643",
+        "is_visible": true,
+        "source": "Markdown",
+        "company_url": "",
+        "date_updated": "08/01/2023",
+        "id": "d272df33-2a65-4923-ad14-06ba5106791f"
+    },
+    {
+        "company_name": "PCMI Corporation",
+        "locations": [
+            "Park Ridge, IL"
+        ],
+        "title": "BI QA Analyst Intern",
+        "date_posted": "07/30/2023",
+        "terms": [
+            "Summer 2024"
+        ],
+        "active": true,
+        "url": "https://www.indeed.com/cmp/Pcmi-Corporation-2/jobs?jk=e35b465c20d1a7c2&start=0&clearPrefilter=1",
+        "is_visible": true,
+        "source": "Markdown",
+        "company_url": "",
+        "date_updated": "08/01/2023",
+        "id": "b69f5cf7-f446-4afd-85f3-abdd5dd8c87f"
+    },
+    {
+        "company_name": "Protective",
+        "locations": [
+            "Birmingham, AL"
+        ],
+        "title": "Technology Summer Internship",
+        "date_posted": "07/29/2023",
+        "terms": [
+            "Summer 2024"
+        ],
+        "active": true,
+        "url": "https://jobs.lever.co/protective/2761edea-63bc-4be7-8b48-6e925c1be3f8/?lever-source%5B%5D=DiversityJobs",
+        "is_visible": true,
+        "source": "Markdown",
+        "company_url": "",
+        "date_updated": "08/01/2023",
+        "id": "6dfa2dfa-f995-4569-952c-07f774629bfe"
+    },
+    {
+        "company_name": "PepsiCo",
+        "locations": [
+            "Purchase, NY <br> Plano, TX"
+        ],
+        "title": "Software Development & Engineering Intern (No Sponsorship)",
+        "date_posted": "07/28/2023",
+        "terms": [
+            "Summer 2024"
+        ],
+        "active": true,
+        "url": "https://www.pepsicojobs.com/internshipsprograms/jobs/241240?lang=en-us&previousLocale=en-US",
+        "is_visible": true,
+        "source": "Markdown",
+        "company_url": "",
+        "date_updated": "08/01/2023",
+        "id": "d7af47e2-6f11-41b5-aeed-8fa831a72163"
+    },
+    {
+        "company_name": "U.S. Bank",
+        "locations": [
+            "Richfield, MN; and Atlanta, GA"
+        ],
+        "title": "2024 Software Engineering Summer Intern",
+        "date_posted": "07/27/2023",
+        "terms": [
+            "Summer 2024"
+        ],
+        "active": true,
+        "url": "https://careers.usbank.com/global/en/job/2023-0020491/2024-Software-Engineering-Summer-Intern-Early-Careers",
+        "is_visible": true,
+        "source": "Markdown",
+        "company_url": "",
+        "date_updated": "08/01/2023",
+        "id": "338d7599-8844-410a-b263-06d39da23791"
+    },
+    {
+        "company_name": "Jane Street",
+        "locations": [
+            "New York, NY"
+        ],
+        "title": "Software Engineer Internship",
+        "date_posted": "07/26/2023",
+        "terms": [
+            "Summer 2024"
+        ],
+        "active": true,
+        "url": "https://www.janestreet.com/join-jane-street/position/6834728002/",
+        "is_visible": true,
+        "source": "Markdown",
+        "company_url": "",
+        "date_updated": "08/01/2023",
+        "id": "5f4a0948-2762-4304-a4e1-ba6bc4ca31dd"
+    },
+    {
+        "company_name": "Jane Street",
+        "locations": [
+            "New York, NY"
+        ],
+        "title": "Quantitative Trader Internship",
+        "date_posted": "07/26/2023",
+        "terms": [
+            "Summer 2024"
+        ],
+        "active": true,
+        "url": "https://www.janestreet.com/join-jane-street/position/6850721002/",
+        "is_visible": true,
+        "source": "Markdown",
+        "company_url": "",
+        "date_updated": "08/01/2023",
+        "id": "56436d18-3e89-49f1-8b0c-a29e7e162b39"
+    },
+    {
+        "company_name": "Jane Street",
+        "locations": [
+            "New York, NY"
+        ],
+        "title": "Quantitative Researcher Internship",
+        "date_posted": "07/26/2023",
+        "terms": [
+            "Summer 2024"
+        ],
+        "active": true,
+        "url": "https://www.janestreet.com/join-jane-street/position/6838982002/",
+        "is_visible": true,
+        "source": "Markdown",
+        "company_url": "",
+        "date_updated": "08/01/2023",
+        "id": "7b5864be-4e56-4d0d-825a-a6c7f2d80baf"
+    },
+    {
+        "company_name": "General Motors",
+        "locations": [
+            "Detroit, MI (Hybrid)"
+        ],
+        "title": "2024 Summer Intern \u2013 Digital Transformation \u2013 Data Analyst or Data Scientist (No Sponsorship)",
+        "date_posted": "07/25/2023",
+        "terms": [
+            "Summer 2024"
+        ],
+        "active": true,
+        "url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Detroit-Michigan-United-States-of-America/XMLNAME-2024-Summer-Intern---Digital-Transformation---Data-Analyst-or-Data-Scientist_JR-202313389",
+        "is_visible": true,
+        "source": "Markdown",
+        "company_url": "",
+        "date_updated": "08/01/2023",
+        "id": "21ee2369-304c-4e2a-bd57-aca99cda50ae"
+    },
+    {
+        "company_name": "SkyWorks",
+        "locations": [
+            "Austin, TX"
+        ],
+        "title": "Embedded FW Summer Intern",
+        "date_posted": "07/24/2023",
+        "terms": [
+            "Summer 2024"
+        ],
+        "active": true,
+        "url": "https://careers.skyworksinc.com/job/Austin-Embedded-FW-Summer-Intern-2024-TX-73301/1054957600",
+        "is_visible": true,
+        "source": "Markdown",
+        "company_url": "",
+        "date_updated": "08/01/2023",
+        "id": "9deb21ce-c334-41e8-817f-c9efa04de1d9"
+    },
+    {
+        "company_name": "Cole Engineering Services, Inc.",
+        "locations": [
+            "Orlando, FL"
+        ],
+        "title": "Intern (Software) (US Citizenship Required)",
+        "date_posted": "07/23/2023",
+        "terms": [
+            "Summer 2024"
+        ],
+        "active": true,
+        "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=5055dea5-b670-4a19-adb1-2aea04ba5207&ccId=19000101_000001&type=MP&lang=en_US&jobId=472432",
+        "is_visible": true,
+        "source": "Markdown",
+        "company_url": "",
+        "date_updated": "08/01/2023",
+        "id": "8e650558-734c-4983-a621-429b30c8202a"
+    },
+    {
+        "company_name": "Discover",
+        "locations": [
+            "Riverwoods, IL"
+        ],
+        "title": "Business Technology Internship Program (No Sponsorship)",
+        "date_posted": "07/22/2023",
+        "terms": [
+            "Summer 2024"
+        ],
+        "active": true,
+        "url": "https://jobs.discover.com/jobs/r292162024-business-technology-internship-program-riverwoods/",
+        "is_visible": true,
+        "source": "Markdown",
+        "company_url": "",
+        "date_updated": "08/01/2023",
+        "id": "50eb99e5-308b-4a6e-b657-f520b3df9863"
+    },
+    {
+        "company_name": "Steris",
+        "locations": [
+            "Richmond, CA"
+        ],
+        "title": "Software Engineer Intern",
+        "date_posted": "07/20/2023",
+        "terms": [
+            "Summer 2024"
+        ],
+        "active": true,
+        "url": "https://careers.steris.com/job/RICHMOND-Software-Engineering-Intern-CA-94804/1054522400/",
+        "is_visible": true,
+        "source": "Markdown",
+        "company_url": "",
+        "date_updated": "08/01/2023",
+        "id": "faf33816-fb96-4e99-b133-890dbca606bf"
+    },
+    {
+        "company_name": "Infoverity",
+        "locations": [
+            "Dublin, OH"
+        ],
+        "title": "Summer Internship Program (No Sponsorship)",
+        "date_posted": "07/19/2023",
+        "terms": [
+            "Summer 2024"
+        ],
+        "active": true,
+        "url": "https://infoverity.zohorecruit.com/jobs/Infoverity-USA-Careers/530797000006827069/Summer-Internship-summer-2024-",
+        "is_visible": true,
+        "source": "Markdown",
+        "company_url": "",
+        "date_updated": "08/01/2023",
+        "id": "7fed7150-0173-44a6-96d5-e3b07a2c06f7"
+    },
+    {
+        "company_name": "Aquaveo",
+        "locations": [
+            "Provo, UT"
+        ],
+        "title": "Geospatial Web Developer Intern",
+        "date_posted": "07/17/2023",
+        "terms": [
+            "Summer 2024"
+        ],
+        "active": true,
+        "url": "https://www.aquaveo.com/jobs-geospatial-web-developer-intern",
+        "is_visible": true,
+        "source": "Markdown",
+        "company_url": "",
+        "date_updated": "08/01/2023",
+        "id": "a9ff376f-65b0-417b-8843-b13d4de2f0bb"
+    },
+    {
+        "company_name": "Prudential",
+        "locations": [
+            "Newark, NJ"
+        ],
+        "title": "2024 Fixed Income, Coding & Developer Internship Program",
+        "date_posted": "07/16/2023",
+        "terms": [
+            "Summer 2024"
+        ],
+        "active": true,
+        "url": "https://wd5.myworkdaysite.com/recruiting/pru/Careers/job/Newark-NJ-USA/PGIM--2024-Fixed-Income--Coding---Developer-Internship-Program--Technology-Solutions-Group-_R-114814-1",
+        "is_visible": true,
+        "source": "Markdown",
+        "company_url": "",
+        "date_updated": "08/01/2023",
+        "id": "1ec40554-6ea5-47a1-ab13-e4abb2934994"
+    },
+    {
+        "company_name": "Prudential",
+        "locations": [
+            "Newark, NJ"
+        ],
+        "title": "2024 Global Technology, Software Engineering Internship",
+        "date_posted": "07/16/2023",
+        "terms": [
+            "Summer 2024"
+        ],
+        "active": true,
+        "url": "https://wd5.myworkdaysite.com/recruiting/pru/Careers/job/Newark-NJ-USA/Prudential--2024-Global-Technology--Software-Engineering-Internship-Program--_R-114845-2",
+        "is_visible": true,
+        "source": "Markdown",
+        "company_url": "",
+        "date_updated": "08/01/2023",
+        "id": "92629df7-4ab5-4c89-a010-7566df9ec5e9"
+    },
+    {
+        "company_name": "Deloitte",
+        "locations": [
+            "Multiple Locations"
+        ],
+        "title": "Software Engineer Intern - Technology Assets",
+        "date_posted": "07/15/2023",
+        "terms": [
+            "Summer 2024"
+        ],
+        "active": true,
+        "url": "https://apply.deloitte.com/careers/JobDetail/Deloitte-Risk-Financial-Advisory-Software-Engineer-Intern-Technology-Assets-Summer-2024/150371",
+        "is_visible": true,
+        "source": "Markdown",
+        "company_url": "",
+        "date_updated": "08/01/2023",
+        "id": "c05e5366-14d6-4a7d-b8b1-f4ca88210543"
+    },
+    {
+        "company_name": "Deloitte",
+        "locations": [
+            "Multiple Locations"
+        ],
+        "title": "Software Engineer Intern - Digital Assets/Blockchain",
+        "date_posted": "07/15/2023",
+        "terms": [
+            "Summer 2024"
+        ],
+        "active": true,
+        "url": "https://apply.deloitte.com/careers/JobDetail/Deloitte-Risk-Financial-Advisory-Software-Engineer-Intern-Digital-Assets-Blockchain-Summer-2024/150369",
+        "is_visible": true,
+        "source": "Markdown",
+        "company_url": "",
+        "date_updated": "08/01/2023",
+        "id": "0a8ba6c4-d116-4050-9297-bd02eeb723f3"
+    },
+    {
+        "company_name": "GE Aerospace",
+        "locations": [
+            "Multiple US Locations"
+        ],
+        "title": "Digital Technology Intern",
+        "date_posted": "07/12/2023",
+        "terms": [
+            "Summer 2024"
+        ],
+        "active": true,
+        "url": "https://ge.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/GE-Aerospace-US-Digital-Technology-Intern---Summer-2024_R3718425-1",
+        "is_visible": true,
+        "source": "Markdown",
+        "company_url": "",
+        "date_updated": "08/01/2023",
+        "id": "36fa58ee-3297-4218-84a1-22957099f996"
+    },
+    {
+        "company_name": "GE Aerospace",
+        "locations": [
+            "Multiple US Locations"
+        ],
+        "title": "Engineering Engines Computer or Software Engineering Intern",
+        "date_posted": "07/12/2023",
+        "terms": [
+            "Summer 2024"
+        ],
+        "active": true,
+        "url": "https://ge.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/GE-Aerospace-Engineering-Engines-Computer-or-Software-Engineering-Intern---Summer-2024_R3726060",
+        "is_visible": true,
+        "source": "Markdown",
+        "company_url": "",
+        "date_updated": "08/01/2023",
+        "id": "e5c70c92-1744-49b8-b31c-08e1b4eaa338"
+    },
+    {
+        "company_name": "GE Aerospace",
+        "locations": [
+            "Multiple US Locations"
+        ],
+        "title": "Systems Engineering Intern",
+        "date_posted": "07/12/2023",
+        "terms": [
+            "Summer 2024"
+        ],
+        "active": true,
+        "url": "https://ge.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/GE-Aerospace-Systems-Engineering-Intern---Summer-2024_R3696296-1",
+        "is_visible": true,
+        "source": "Markdown",
+        "company_url": "",
+        "date_updated": "08/01/2023",
+        "id": "ea82c851-0efd-4cf9-87a7-3318a7d5823e"
+    },
+    {
+        "company_name": "New York Life",
+        "locations": [
+            "New York, NY"
+        ],
+        "title": "Technology Summer Intern",
+        "date_posted": "07/11/2023",
+        "terms": [
+            "Summer 2024"
+        ],
+        "active": true,
+        "url": "https://jobs.newyorklife.com/job/New-York-2024-Technology-Summer-Internship-Program-NY-10001/1055772100/",
+        "is_visible": true,
+        "source": "Markdown",
+        "company_url": "",
+        "date_updated": "08/01/2023",
+        "id": "6a7fd336-9f50-49f9-9ebf-e5796e17bc8f"
+    },
+    {
+        "company_name": "Johnson & Johnson",
+        "locations": [
+            "Multiple Locations"
+        ],
+        "title": "Technology Summer Intern (No Sponsorship)",
+        "date_posted": "07/10/2023",
+        "terms": [
+            "Summer 2024"
+        ],
+        "active": true,
+        "url": "https://jobs.jnj.com/en/jobs/2306128806w/technology-internship-2024-summer-jjt-intern/",
+        "is_visible": true,
+        "source": "Markdown",
+        "company_url": "",
+        "date_updated": "08/01/2023",
+        "id": "dd45a216-0874-4131-8b5f-9dba289978a6"
+    },
+    {
+        "company_name": "Ramp",
+        "locations": [
+            "New York, NY"
+        ],
+        "title": "Backend Software Engineering Internship",
+        "date_posted": "07/09/2023",
+        "terms": [
+            "Summer 2024"
+        ],
+        "active": true,
+        "url": "https://jobs.ashbyhq.com/ramp/16ebfcfc-467b-40e5-b23e-a4d95db05539",
+        "is_visible": true,
+        "source": "Markdown",
+        "company_url": "",
+        "date_updated": "08/01/2023",
+        "id": "62657aea-fa42-4237-bbae-457bd329efea"
+    },
+    {
+        "company_name": "Kimley-Horn",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "title": "Software Developer Intern (No Sponsorship)",
+        "date_posted": "07/08/2023",
+        "terms": [
+            "Summer 2024"
+        ],
+        "active": true,
+        "url": "https://careers-kimley-horn.icims.com/jobs/9773/software-developer-intern/job",
+        "is_visible": true,
+        "source": "Markdown",
+        "company_url": "",
+        "date_updated": "08/01/2023",
+        "id": "f9d96b13-dbf2-4d87-b4bc-b9adc6f80005"
+    },
+    {
+        "company_name": "Gecko Robotics",
+        "locations": [
+            "Boston, MA"
+        ],
+        "title": "Software Engineering Internship - Summer 2024",
+        "date_posted": "07/07/2023",
+        "terms": [
+            "Summer 2024"
+        ],
+        "active": true,
+        "url": "https://www.geckorobotics.com/careers/apply?gh_jid=5695257003",
+        "is_visible": true,
+        "source": "Markdown",
+        "company_url": "",
+        "date_updated": "08/01/2023",
+        "id": "7e626511-2ddb-4f23-8ab5-3eff1fd3419b"
+    },
+    {
+        "company_name": "Castleton Commodities International",
+        "locations": [
+            "Stamford, CT"
+        ],
+        "title": "Data Science Internship",
+        "date_posted": "07/06/2023",
+        "terms": [
+            "Summer 2024"
+        ],
+        "active": true,
+        "url": "https://osv-cci.wd1.myworkdayjobs.com/CCICareers/job/Stamford-CT/Data-Science-Internship--Summer-2023-_R622",
+        "is_visible": true,
+        "source": "Markdown",
+        "company_url": "",
+        "date_updated": "08/01/2023",
+        "id": "0fdab23d-70ff-4169-a0d7-931c9b842918"
+    },
+    {
+        "company_name": "Medtronic",
+        "locations": [
+            "Multiple"
+        ],
+        "title": "Software Engineering Summer 2024 Intern (No Sponsorship)",
+        "date_posted": "07/05/2023",
+        "terms": [
+            "Summer 2024"
+        ],
+        "active": true,
+        "url": "https://medtronic.eightfold.ai/careers/job/17363492",
+        "is_visible": true,
+        "source": "Markdown",
+        "company_url": "",
+        "date_updated": "08/01/2023",
+        "id": "2fb08630-9f56-46b4-8419-52193a33ef5f"
     }
 ]
