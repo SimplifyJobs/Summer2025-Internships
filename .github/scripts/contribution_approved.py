@@ -88,6 +88,11 @@ def main():
         data["company_url"] = ""
         data["is_visible"] = True
 
+    # remove utm-source
+    utm = data["url"].find("?utm_source")
+    if utm != -1:
+        data["url"] = data["url"][:utm]
+
 
     # UPDATE LISTINGS
 
