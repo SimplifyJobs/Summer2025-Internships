@@ -88,6 +88,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Ample Inc.](https://ample.com/jobs/?gh_jid=4289698005) | San Francisco, CA | Fall 2023 | Computer Vision Software Engineer Intern |
 | [Marathon Petroleum](https://mpc.wd1.myworkdayjobs.com/en-US/MPCCareers/job/Intern-Co-op---Information-Technology--spring--2024-_00006913) | Multiple | Spring 2024 | Information Technology Intern/Co-op |
 | [NASA](https://stemgateway.nasa.gov/public/s/explore-opportunities/internships) | Multiple | Spring 2024 | Multiple (U.S. Citizenship Required) |
+| Formlabs | Somerville, MA | Fall 2023 | [Desktop Software Intern](https://careers.formlabs.com/job/5077094/apply/) <br/> [Algorithms Software Intern](https://careers.formlabs.com/job/5070317/apply/) <br/> [Settings Optimization Development Intern](https://careers.formlabs.com/job/5080213/apply/) |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2024-Internships/blob/dev/README-Off-Season.md#the-list-)
