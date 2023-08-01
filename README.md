@@ -150,7 +150,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Ramp](https://jobs.ashbyhq.com/ramp/16ebfcfc-467b-40e5-b23e-a4d95db05539) | New York, NY | Backend Software Engineering Internship |
 | [Kimley-Horn](https://careers-kimley-horn.icims.com/jobs/9773/software-developer-intern/job) | Raleigh, NC | Software Developer Intern (No Sponsorship) |
 | [Gecko Robotics](https://www.geckorobotics.com/careers/apply?gh_jid=5695257003) | Boston, MA | Software Engineering Internship - Summer 2024 |
-
+| [Castleton Commodities International](https://osv-cci.wd1.myworkdayjobs.com/CCICareers/job/Stamford-CT/Data-Science-Internship--Summer-2023-_R622) | Stamford, CT | Data Science Internship |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2024-Internships#the-list-)
