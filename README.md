@@ -2,13 +2,13 @@
 
 Welcome back! This repository is your go-to resource for sharing and keeping track of software, tech, computer science, project management, and quantitative internships for **Summer 2024**. The list is maintained collaboratively by the [Pitt Computer Science Club](https://pittcsc.org/) and [Simplify](https://simplify.jobs/)!
 
-> :warning: Please note that this repository is exclusively for internships/co-ops in the United States, Canada, or Remote positions :earth_americas:
+:warning: Please note that this repository is exclusively for internships/co-ops in the United States, Canada, or Remote positions :earth_americas:
 
-> For valuable tips on navigating the internship process, be sure to check out our guide [Zero to Offer](https://www.pittcs.wiki/zero-to-offer) 🧠.
+🧠 For valuable tips on navigating the internship process, be sure to check out our guide [Zero to Offer](https://www.pittcs.wiki/zero-to-offer) 🧠.
 
-### Contributing is now easier than ever! Review the [new guidelines](https://github.com/pittcsc/Summer2024-Internships/blob/dev/CONTRIBUTING.md) and start contributing today!
+🙏 **Contributing is now easier than ever! Review the [new guidelines](https://github.com/pittcsc/Summer2024-Internships/blob/dev/CONTRIBUTING.md) and start contributing today!** 🙏
 
->🙏 This repo would not be possible without all our amazing [contributors](#We-love-our-contributors)! 🙏
+---
 
 <div align="center">
   <h3>
@@ -27,7 +27,7 @@ Welcome back! This repository is your go-to resource for sharing and keeping tra
 
 ## The List 🚴🏔
 
-> Github doesn't allow links to open in a new tab, so just hold CMD/ctrl when you click apply to open in a new tab
+> Github doesn't allow links to automatically open in a new tab, so just hold CMD/ctrl when you click apply to open in a new tab
 
 <!-- Please leave a one line gap between this and the table TABLE_START (DO NOT CHANGE THIS LINE) -->
 
