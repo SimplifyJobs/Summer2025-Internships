@@ -153,6 +153,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Castleton Commodities International](https://osv-cci.wd1.myworkdayjobs.com/CCICareers/job/Stamford-CT/Data-Science-Internship--Summer-2023-_R622) | Stamford, CT | Data Science Internship |
 | [Medtronic](https://medtronic.eightfold.ai/careers/job/17363492) | Multiple | Software Engineering Summer 2024 Intern (No Sponsorship) |
 | [Sentry](https://boards.greenhouse.io/sentry/jobs/5193538) | San Francisco, CA | Software Engineer Intern Summer 2024 |
+| [HPR](https://hyannisportresearch.com/careers/#modal-5698876003) | Unspecified | Software Engineering Intern - Summer 2024 |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2024-Internships#the-list-)
