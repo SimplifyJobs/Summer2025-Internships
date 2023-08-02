@@ -1032,7 +1032,7 @@
             "Slough, UK"
         ],
         "company_url": "https://simplify.jobs/c/InterSystems",
-        "is_visible": true,
+        "is_visible": false,
         "date_posted": "07/19/2023"
     },
     {
@@ -1656,7 +1656,7 @@
         "company_name": "PointClickCare",
         "id": "701d5667-ad67-43a6-aa7d-9c99ff064930",
         "title": "Software Engineer Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2023"
         ],
@@ -1757,7 +1757,7 @@
             "London, UK"
         ],
         "company_url": "https://simplify.jobs/c/Capstone",
-        "is_visible": true,
+        "is_visible": false,
         "date_posted": "07/18/2023"
     },
     {
@@ -1793,7 +1793,7 @@
             "London, UK"
         ],
         "company_url": "https://simplify.jobs/c/Capstone",
-        "is_visible": true,
+        "is_visible": false,
         "date_posted": "07/19/2023"
     },
     {
@@ -2320,7 +2320,7 @@
             "Reading, UK"
         ],
         "company_url": "https://simplify.jobs/c/NVIDIA",
-        "is_visible": true,
+        "is_visible": false,
         "date_posted": "07/19/2023"
     },
     {
@@ -3173,7 +3173,7 @@
             "London, UK"
         ],
         "company_url": "https://simplify.jobs/c/Alpha-Grep",
-        "is_visible": true,
+        "is_visible": false,
         "date_posted": "07/19/2023"
     },
     {
@@ -3183,7 +3183,7 @@
         "title": "Fall Embedded Software Engineer Intern",
         "active": true,
         "terms": [
-            "Summer 2024"
+            "Fall 2023"
         ],
         "date_updated": "07/19/2023",
         "url": "https://boards.greenhouse.io/skydio/jobs/5639641003",
@@ -4016,7 +4016,7 @@
         "company_name": "DraftKings",
         "id": "607e2330-b5d2-4310-bc08-ce15500114c5",
         "title": "Apprentice Data Science Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -4026,7 +4026,7 @@
             "London, UK"
         ],
         "company_url": "https://simplify.jobs/c/DraftKings",
-        "is_visible": true,
+        "is_visible": false,
         "date_posted": "07/26/2023"
     },
     {
@@ -4314,7 +4314,7 @@
             "London, UK"
         ],
         "company_url": "https://simplify.jobs/c/DRW",
-        "is_visible": true,
+        "is_visible": false,
         "date_posted": "07/31/2023"
     },
     {
@@ -4332,7 +4332,7 @@
             "London, UK"
         ],
         "company_url": "https://simplify.jobs/c/DRW",
-        "is_visible": true,
+        "is_visible": false,
         "date_posted": "07/31/2023"
     },
     {
@@ -4524,7 +4524,7 @@
             "London, UK"
         ],
         "company_url": "https://simplify.jobs/c/Palantir",
-        "is_visible": true,
+        "is_visible": false,
         "date_posted": "08/01/2023"
     },
     {
@@ -4542,7 +4542,7 @@
             "London, UK"
         ],
         "company_url": "https://simplify.jobs/c/Palantir",
-        "is_visible": true,
+        "is_visible": false,
         "date_posted": "08/01/2023"
     },
     {
@@ -4578,7 +4578,7 @@
             "London, UK"
         ],
         "company_url": "https://simplify.jobs/c/Palantir",
-        "is_visible": true,
+        "is_visible": false,
         "date_posted": "08/01/2023"
     },
     {
@@ -5461,27 +5461,6 @@
         "id": "48ae226e-5f6e-4c8f-98be-d0a9256561d9",
         "date_posted": "08/02/2023",
         "company_url": "",
-        "is_visible": true
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Torc Robotics",
-        "id": "96e998af-bae3-437f-8792-02915bbbbff1",
-        "title": "Mapping & Localization \u2013 Co-Op Software Engineer Localization",
-        "active": true,
-        "terms": [
-            "Summer 2024"
-        ],
-        "date_updated": "08/02/2023",
-        "date_posted": "08/02/2023",
-        "url": "https://boards.greenhouse.io/torcrobotics/jobs/6867126002",
-        "locations": [
-            "Blacksburg, VA",
-            "Austin, TX",
-            "Albuquerque, NM",
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Torc-Robotics",
         "is_visible": true
     }
 ]
