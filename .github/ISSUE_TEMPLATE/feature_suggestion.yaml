@@ -1,0 +1,16 @@
+name: New Feature Request
+description: Submit your ideas for improvements to the repo!
+title: "New Feature Request: <feature>"
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to suggest a new feature or improvement
+  - type: textarea
+    id: improvement
+    attributes:
+      label: Improvement
+      placeholder: ex. I think the repo should be more colorful...
+    validations:
+      required: true

@@ -1,0 +1,54 @@
+name: issue labelled
+
+on:
+  issues:
+    types: ["labeled"]
+
+concurrency: add_internships
+
+jobs:
+  run-python-script:
+    runs-on: ubuntu-latest
+    if: github.event.label.name == 'approved'
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v3
+        with:
+          python-version: "3.9"
+
+      - name: execute contribution_approved.py
+        id: python_script
+        env:
+          GITHUB_EVENT_PATH: ${{ github.event_path }}
+        run: python .github/scripts/contribution_approved.py $GITHUB_EVENT_PATH
+
+      - name: commit files
+        if: success()
+        run: |
+          git config --local user.email ${{ steps.python_script.outputs.commit_email }}
+          git config --local user.name ${{ steps.python_script.outputs.commit_username }}
+          git add .github/scripts/listings.json
+          git diff-index --quiet HEAD || (git commit -a -m "${{ steps.python_script.outputs.commit_message }}" --allow-empty)
+
+      - name: push changes
+        if: success()
+        uses: ad-m/github-push-action@v0.6.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: dev
+
+      - name: Auto Close Issue
+        run: gh issue close --comment "Your contribution was accepted. Auto-closing issue" ${{ github.event.issue.number }}
+        if: success()
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Problem With Action
+        run: gh issue comment ${{ github.event.issue.number }} --body "There was an error with our github action. ${{ steps.python_script.outputs.error_message }}"
+        if: failure()
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}

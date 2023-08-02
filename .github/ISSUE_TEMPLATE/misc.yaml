@@ -1,0 +1,17 @@
+name: Miscellaneous Issue
+description: Ask us a question or tell us what we could do better
+title: "<issue>"
+labels: ["misc"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to give us feedback
+  - type: textarea
+    id: misc
+    attributes:
+      label: Tell us what's up?
+      description: Ask us a question or tell us what we could do better
+      placeholder: ex. There are a few internships that aren't actually technical...
+    validations:
+      required: true
