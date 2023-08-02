@@ -1656,7 +1656,7 @@
         "company_name": "PointClickCare",
         "id": "701d5667-ad67-43a6-aa7d-9c99ff064930",
         "title": "Software Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2023"
         ],
@@ -4016,7 +4016,7 @@
         "company_name": "DraftKings",
         "id": "607e2330-b5d2-4310-bc08-ce15500114c5",
         "title": "Apprentice Data Science Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -5461,6 +5461,27 @@
         "id": "48ae226e-5f6e-4c8f-98be-d0a9256561d9",
         "date_posted": "08/02/2023",
         "company_url": "",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Torc Robotics",
+        "id": "96e998af-bae3-437f-8792-02915bbbbff1",
+        "title": "Mapping & Localization \u2013 Co-Op Software Engineer Localization",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": "08/02/2023",
+        "date_posted": "08/02/2023",
+        "url": "https://boards.greenhouse.io/torcrobotics/jobs/6867126002",
+        "locations": [
+            "Blacksburg, VA",
+            "Austin, TX",
+            "Albuquerque, NM",
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Torc-Robotics",
         "is_visible": true
     }
 ]
