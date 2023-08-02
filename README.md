@@ -154,7 +154,8 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Medtronic](https://medtronic.eightfold.ai/careers/job/17363492) | Multiple | Software Engineering Summer 2024 Intern (No Sponsorship) |
 | [Sentry](https://boards.greenhouse.io/sentry/jobs/5193538) | San Francisco, CA | Software Engineer Intern Summer 2024 |
 | [HPR](https://hyannisportresearch.com/careers/#modal-5698876003) | Unspecified | Software Engineering Intern - Summer 2024 |
-| [National Instruments](https://pef.fa.us1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8038?utm_medium=jobboard&utm_source=Linkedin) | Austin, TX | Software Engineering Intern - Summer 2024 (No Sponsorship)| 
+| [National Instruments](https://pef.fa.us1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8038?utm_medium=jobboard&utm_source=Linkedin) | Austin, TX | Software Engineering Intern - Summer 2024 (No Sponsorship)|
+| [Wells Fargo](https://www.wellsfargojobs.com/en/jobs/r-295402/2024-summer-internship-early-careers-analytics-data?jClickId=0f76a32d-92ba-4e35-8e19-d7a3a2b682ce&publisher=Linkedin%2520Flat%2520bid&utm_source=joveo) | Multiple | Data Analytics - Summer 2024No Sponsorship() |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2024-Internships#the-list-)
