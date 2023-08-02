@@ -9,7 +9,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 >
 > - :arrow_up: **More Internship Listings!** - A script automatically updates this repo with new internships on Simplify.
 > - :pencil2: **Easier Contributions!** - Submit an [issue](https://github.com/SimplifyJobs/Summer2024-Internships/issues/new/choose) to add/edit an internship. See [guidelines](https://github.com/pittcsc/Summer2024-Internships/blob/dev/CONTRIBUTING.md).
-> - :sparkles: **New Apply Options!** - Use gray button for standard posting, blue for Simplify's one-click application.
 
 
 :warning: Please note that this repository is exclusively for internships/co-ops in the United States, Canada, or Remote positions :earth_americas:
@@ -32,12 +31,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 ---
 
 ## The List 🚴🏔
-  
-| Symbol | Description |
-| :---: | ---|
-| <img src="https://i.imgur.com/5JF7mJI.png" width="100" alt="Simplify" /> | This button takes you straight to the original job posting |
-| <a href="https://simplify.jobs"><img src="https://i.imgur.com/MXdpmi0.png" width="100" alt="Simplify" /></a> | This button takes you to the posting on Simplify where you can apply with just one click! |
-| 🔒 | This internship is closed and is no longer accepting applications |
 
 > This README file is for **2024 summer internships only**. For off-season internships, please see the [Off-Season 2024 README](https://github.com/pittcsc/Summer2024-Internships/blob/dev/README-Off-Season.md).
 
