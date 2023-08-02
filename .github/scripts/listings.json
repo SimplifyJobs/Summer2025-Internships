@@ -5444,5 +5444,23 @@
         "company_url": "https://simplify.jobs/c/NVIDIA",
         "is_visible": true,
         "date_posted": "08/01/2023"
+    },
+    {
+        "date_updated": "08/02/2023",
+        "url": "https://pef.fa.us1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions?keyword=Software+Engineering+Intern&mode=location&sortBy=RELEVANCY",
+        "company_name": "National Instruments",
+        "title": "Software Engineer",
+        "locations": [
+            "Austin, TX"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "active": true,
+        "source": "hemanthy1",
+        "id": "48ae226e-5f6e-4c8f-98be-d0a9256561d9",
+        "date_posted": "08/02/2023",
+        "company_url": "",
+        "is_visible": true
     }
 ]
