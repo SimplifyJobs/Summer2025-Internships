@@ -277,7 +277,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | **TransMarket Group** | Algorithmic Trader Intern | Chicago, IL | <a href="https://boards.greenhouse.io/transmarketgroup/jobs/4023650007?t=295a85457us?utm_source=Simplify-GH&ref=Simplify"><img src="https://i.imgur.com/5JF7mJI.png" width="150" alt="Apply"></a> |  |
 
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
-[⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2024-Internships#the-list-)
+[⬆️ Back to Top ⬆️](https://github.com/SimplifyJobs/Summer2024-Internships#the-list-)
 
 ## We love our contributors ❤️❤️
 
