@@ -23,11 +23,16 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 ## The List 🚴🏔
 
+<details>
+<summary>Click for Table Legend</summary>
+  
 | Symbol | Description |
 | :---: | ---|
 | <img src="https://i.imgur.com/5JF7mJI.png" width="100" alt="Simplify" /> | This button takes you straight to the original job posting |
 | <a href="https://simplify.jobs"><img src="https://i.imgur.com/MXdpmi0.png" width="100" alt="Simplify" /></a> | This button takes you to the posting on Simplify where you can apply with just one click! |
 | 🔒 | This internship is closed and is no longer accepting applications |
+
+</details>
 
 > **Note**:
 > This README file is for **non-summer internships only**. For summer internships, please see the [Summer 2024 README](https://github.com/pittcsc/Summer2024-Internships/blob/dev/README.md).
