@@ -566,7 +566,7 @@
         "company_name": "DRW",
         "id": "f8b5ed29-d44e-4e77-a75b-9b4b5950da97",
         "title": "Site Reliability Engineer Intern - Sre",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -4416,7 +4416,7 @@
             "Needham, MA"
         ],
         "company_url": "https://simplify.jobs/c/Alarm",
-        "is_visible": true,
+        "is_visible": false,
         "date_posted": "07/31/2023"
     },
     {
@@ -5282,5 +5282,167 @@
         "date_posted": "08/01/2023",
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Allegiant Air",
+        "id": "6283c11e-232d-49a4-a725-48cbd337d473",
+        "title": "Intern \u2013 Reliability - Fall 2023",
+        "active": true,
+        "terms": [
+            "Fall 2023"
+        ],
+        "date_updated": "08/01/2023",
+        "url": "https://jobs.lever.co/allegiantair/33b54082-691d-4f5f-836e-baeea8aaf34c/apply",
+        "locations": [
+            "Las Vegas, NV"
+        ],
+        "company_url": "https://simplify.jobs/c/Allegiant-Air",
+        "is_visible": true,
+        "date_posted": "08/02/2023"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Sentry",
+        "id": "89a6717f-2c68-42f5-a0bd-fd74b16b9b45",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": "08/02/2023",
+        "url": "https://boards.greenhouse.io/sentry/jobs/5226302",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Sentry",
+        "is_visible": true,
+        "date_posted": "08/02/2023"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Sentry",
+        "id": "dfeee370-ffba-4328-8d73-9a5887c4cf91",
+        "title": "Software Engineer Intern - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": "08/01/2023",
+        "url": "https://boards.greenhouse.io/sentry/jobs/5193538",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Sentry",
+        "is_visible": true,
+        "date_posted": "08/02/2023"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Palantir",
+        "id": "0503901e-622f-4d1b-b7f9-29d44e59eaab",
+        "title": "Forward Deployed Software Engineer \u2013 Internship - US Government",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": "08/01/2023",
+        "url": "https://jobs.lever.co/palantir/e6ff8bf2-135e-474d-ad37-24f490ae1dd2/apply",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/Palantir",
+        "is_visible": true,
+        "date_posted": "08/02/2023"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Palantir",
+        "id": "e1cb71b6-18fc-4d48-9c80-55c54bb62a50",
+        "title": "Software Engineer \u2013 Internship",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": "08/01/2023",
+        "url": "https://jobs.lever.co/palantir/7d69cf8a-06fd-4f05-bd84-27149db29c4d/apply",
+        "locations": [
+            "New York, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Palantir",
+        "is_visible": true,
+        "date_posted": "08/02/2023"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Palantir",
+        "id": "d58f726c-620e-4c0c-89d7-8b54421280ab",
+        "title": "Forward Deployed Software Engineer \u2013 Internship - US Government",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": "08/01/2023",
+        "url": "https://jobs.lever.co/palantir/e0010393-c300-446f-bf67-fa2ef067f16f/apply",
+        "locations": [
+            "New York, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Palantir",
+        "is_visible": true,
+        "date_posted": "08/02/2023"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Palantir",
+        "id": "0f0aeb67-6d9f-4204-85d7-29cb04386943",
+        "title": "Software Engineer \u2013 Internship",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": "08/01/2023",
+        "url": "https://jobs.lever.co/palantir/bdcfb29f-4f27-42de-933f-7f83a359b9f0/apply",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/Palantir",
+        "is_visible": true,
+        "date_posted": "08/02/2023"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Palantir",
+        "id": "e0e2d81b-c99d-4f8d-a2fa-73f8125abc80",
+        "title": "Forward Deployed Software Engineer \u2013 Internship",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": "08/01/2023",
+        "url": "https://jobs.lever.co/palantir/c8d45e31-cf15-411e-b085-87d52f602d3c/apply",
+        "locations": [
+            "New York, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Palantir",
+        "is_visible": true,
+        "date_posted": "08/02/2023"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "NVIDIA",
+        "id": "0cfd1f74-ea5e-4e74-972a-f154e95cec20",
+        "title": "Full-Stack Software Engineering Intern - AI Infrastructure - Winter 2024",
+        "active": true,
+        "terms": [
+            "Winter 2024"
+        ],
+        "date_updated": "08/01/2023",
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Full-Stack-Software-Engineering-Intern--AI-Infrastructure---Winter-2024_JR1969477",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "date_posted": "08/02/2023"
     }
 ]
