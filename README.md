@@ -19,6 +19,8 @@ Welcome back! This repository is your go-to resource for sharing and keeping tra
   </p>
 </div>
 
+---
+
 ## The List 🚴🏔
 
 | Symbol | Description |
@@ -27,10 +29,7 @@ Welcome back! This repository is your go-to resource for sharing and keeping tra
 | <a href="https://simplify.jobs"><img src="https://i.imgur.com/MXdpmi0.png" width="100" alt="Simplify" /></a> | This button takes you to the posting on Simplify where you can apply with just one click! |
 | 🔒 | This internship is closed and is no longer accepting applications |
 
-
 > This README file is for **2024 summer internships only**. For off-season internships, please see the [Off-Season 2024 README](https://github.com/pittcsc/Summer2024-Internships/blob/dev/README-Off-Season.md).
-
-> To open a link in a new tab, so just hold CMD/ctrl when you click apply
 
 <!-- Please leave a one line gap between this and the table TABLE_START (DO NOT CHANGE THIS LINE) -->
 
