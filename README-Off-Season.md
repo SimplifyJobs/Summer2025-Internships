@@ -6,7 +6,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 🧠 For valuable tips on navigating the internship process, be sure to check out our guide [Zero to Offer](https://www.pittcs.wiki/zero-to-offer) 🧠.
 
-🙏 **Contributing is now easier than ever! Review the [new guidelines](https://github.com/pittcsc/Summer2024-Internships/blob/dev/CONTRIBUTING.md) and start contributing today!** 🙏
+🙏 **Contribute by submitting an [issue](https://github.com/SimplifyJobs/Summer2024-Internships/issues/new/choose)! See the contribution guidelines [here](https://github.com/pittcsc/Summer2024-Internships/blob/dev/CONTRIBUTING.md)!** 🙏
 
 ---
 
