@@ -157,7 +157,6 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [National Instruments](https://pef.fa.us1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8038?utm_medium=jobboard&utm_source=Linkedin) | Austin, TX | Software Engineering Intern - Summer 2024 (No Sponsorship)|
 | Cisco | Multiple US Locations | [Software Engineer I Intern](https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-I-Intern-United-States/1404710?user=1) (No Sponsorship) <br/> [Software Engineer II Intern](https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-II-Intern-United-States/1405259?source=LinkedIn&user=1) (No Sponsorship) <br/> [Data Science Intern](https://jobs.cisco.com/jobs/ProjectDetail/Data-Scientist-Intern-United-States/1405351?source=LinkedIn&user=1) (No Sponsorship) <br/> [Data Analyst Intern](https://jobs.cisco.com/jobs/ProjectDetail/Data-Analyst-Intern-United-States/1405276?source=LinkedIn&user=1) (No Sponsorship) <br/> [Data Engineer Intern](https://jobs.cisco.com/jobs/ProjectDetail/Data-Engineer-Intern-United-States/1405278?source=LinkedIn&user=1) (No Sponsorship) <br/> [IT Engineer Intern](https://jobs.cisco.com/jobs/ProjectDetail/IT-Engineer-Intern-United-States/1405354?source=LinkedIn&user=1) (No Sponsorship) <br/>  |
 
-
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2024-Internships#the-list-)
 
