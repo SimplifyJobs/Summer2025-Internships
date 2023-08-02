@@ -1,6 +1,11 @@
 # Summer 2024 Tech Internships by Pitt CSC & Simplify
 
-Welcome back! This repository is your go-to resource for sharing and keeping track of software, tech, computer science, project management, and quantitative internships for **Summer 2024**. The list is maintained collaboratively by the [Pitt Computer Science Club](https://pittcsc.org/) and [Simplify](https://simplify.jobs/)!
+We're back! Use this repo to share and keep track of software, tech, CS, PM, quant internships for **Summer 2024**. The list is maintained collaboratively by the [Pitt Computer Science Club](https://pittcsc.org/) and [Simplify](https://simplify.jobs/)!
+
+> :loudspeaker: **Update notice - (Aug 2, 2023)**
+> 
+> - Brief description of the update, changes, or improvements made.
+> - You can use bullet points for multiple changes.
 
 :warning: Please note that this repository is exclusively for internships/co-ops in the United States, Canada, or Remote positions :earth_americas:
 
@@ -19,18 +24,22 @@ Welcome back! This repository is your go-to resource for sharing and keeping tra
   </p>
 </div>
 
+---
+
 ## The List 🚴🏔
 
+<details>
+<summary>Click for Table Legend</summary>
+  
 | Symbol | Description |
 | :---: | ---|
 | <img src="https://i.imgur.com/5JF7mJI.png" width="100" alt="Simplify" /> | This button takes you straight to the original job posting |
 | <a href="https://simplify.jobs"><img src="https://i.imgur.com/MXdpmi0.png" width="100" alt="Simplify" /></a> | This button takes you to the posting on Simplify where you can apply with just one click! |
 | 🔒 | This internship is closed and is no longer accepting applications |
 
+</details>
 
 > This README file is for **2024 summer internships only**. For off-season internships, please see the [Off-Season 2024 README](https://github.com/pittcsc/Summer2024-Internships/blob/dev/README-Off-Season.md).
-
-> To open a link in a new tab, so just hold CMD/ctrl when you click apply
 
 <!-- Please leave a one line gap between this and the table TABLE_START (DO NOT CHANGE THIS LINE) -->
 
