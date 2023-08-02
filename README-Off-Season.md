@@ -8,7 +8,7 @@ Welcome back! This repository is your go-to resource for sharing and keeping tra
 
 ### 🙏 This repo would not be possible without all our amazing [contributors](#We-love-our-contributors)! 🙏
 
->Contributing is now easier than ever! Review the new guidelines [here](https://github.com/pittcsc/Summer2024-Internships/blob/dev/CONTRIBUTING.md) and start contributing today!
+>Contributing is now easier than ever! Review the new guidelines [here](https://github.com/SimplifyJobs/Summer2024-Internships/blob/dev/CONTRIBUTING.md) and start contributing today!
 
 
 <div align="center">
@@ -25,7 +25,7 @@ Welcome back! This repository is your go-to resource for sharing and keeping tra
 >This button designates an internship supported by Simplify, and you can apply with just one click!
 
 > **Note**:
-> This README file is for **non-summer internships only**. For summer internships, please see the [Summer 2024 README](https://github.com/pittcsc/Summer2024-Internships/blob/dev/README.md).
+> This README file is for **non-summer internships only**. For summer internships, please see the [Summer 2024 README](https://github.com/SimplifyJobs/Summer2024-Internships/blob/dev/README.md).
 
 <!-- Please leave a one line gap between this and the table TABLE_START (DO NOT CHANGE THIS LINE) -->
 
@@ -86,7 +86,6 @@ Welcome back! This repository is your go-to resource for sharing and keeping tra
 | **Vestmark** | Intern – Software Engineer | Wakefield, MA | Fall 2023 | 🔒 | 🔒 |
 
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
-[⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2024-Internships/blob/dev/README-Off-Season.md#the-list-)
 
 ## We love our contributors ❤️❤️
 Make a [pull request](https://github.com/susam/gitpr#create-pull-request) to help contribute.
