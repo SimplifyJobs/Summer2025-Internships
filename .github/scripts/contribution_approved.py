@@ -6,6 +6,7 @@ import uuid
 from datetime import datetime
 import os
 import util
+import re
 
 
 def add_https_to_url(url):
@@ -16,7 +17,7 @@ def add_https_to_url(url):
 
 def getData(body, is_edit, username):
     data = {}
-    lines = [text.strip("# ") for text in body.split("\n\n")]
+    lines = [text.strip("# ") for text in re.split('[\n\r]+', body)]
     #["Company Name", "_No response_", "Internship Title", "_No response_", "Link to Internship Posting", "example.com/link/to/posting", "Locatio", "San Franciso, CA | Austin, TX | Remote" ,"What term(s) is this internship offered for?", "_No response_"]
     
     data["date_updated"] = int(datetime.now().timestamp())
@@ -55,6 +56,11 @@ def main():
 
     # with open("debug.json", "w") as f:
     #     f.write(json.dumps(event_data, indent=4))
+    # util.setOutput("commit_email", "action@github.com")
+    # util.setOutput("commit_username", "GitHub Action")
+    # util.setOutput("commit_message", "test")
+
+    # return
 
     
     # CHECK IF NEW OR OLD INTERNSHIP
