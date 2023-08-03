@@ -6091,7 +6091,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1691087129,
+        "date_updated": 1691087279,
         "url": "https://example.com/test",
         "company_name": "TEST COMPANY",
         "title": "ML INTERNSHIP",
@@ -6106,6 +6106,6 @@
         "id": "20dc8daa-76eb-499c-a7ce-9356da71afb7",
         "date_posted": 1691087129,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     }
 ]
