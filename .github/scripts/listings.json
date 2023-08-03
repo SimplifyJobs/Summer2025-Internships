@@ -5519,5 +5519,77 @@
         "date_posted": "08/03/2023",
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": "08/03/2023",
+        "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/XMLNAME-2024-Software-Engineer-Intern--Woodland-Hills--CA_R10122550?redirect=%252FNorthrop_Grumman_External_Site%252Fjob%252FUnited-States-California-Woodland-Hills%252FXMLNAME-2024-Software-Engineer-Intern--Woodland-Hills--CA_R10122550%252Fapply%253Fcode%253DAPPLICANT_SOURCE-3-436&source=APPLICANT_SOURCE-3-436",
+        "company_name": "Northrop Grumman",
+        "title": "Software Engineer Intern (Citizenship required)",
+        "locations": [
+            "Woodland Hills, CA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "active": true,
+        "source": "hemanthy1",
+        "id": "9108e1a7-944c-437a-9eee-142aa4cc6784",
+        "date_posted": "08/03/2023",
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": "08/03/2023",
+        "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-San-Jose/XMLNAME-2024---Intern-Technical--Cyber-Software--San-Jose--CA_R10122712?q=internship&redirect=/Northrop_Grumman_External_Site/job/United-States-California-Woodland-Hills/XMLNAME-2024-Software-Engineer-Intern--Woodland-Hills--CA_R10122550/apply?code=APPLICANT_SOURCE-3-436&source=APPLICANT_SOURCE-3-436",
+        "company_name": "Northrop Grumman",
+        "title": "Cyber Software Intern (Citizenship required)",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "active": true,
+        "source": "hemanthy1",
+        "id": "9108e1a7-944c-437a-9eee-142aa4cc6784",
+        "date_posted": "08/03/2023",
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": "08/02/2023",
+        "url": "https://www.wellsfargojobs.com/en/jobs/r-295402/2024-summer-internship-early-careers-analytics-data?jClickId=0f76a32d-92ba-4e35-8e19-d7a3a2b682ce&publisher=Linkedin%2520Flat%2520bid&utm_source=joveo",
+        "company_name": "Wells Fargo",
+        "title": "Data Analytics - Summer 2024 (No Sponsorship)",
+        "locations": [
+            "Multiple"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "active": true,
+        "source": "kay-io",
+        "id": "9108e1a7-944c-437a-9eee-142aa4cc6014",
+        "date_posted": "08/02/2023",
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": "08/02/2023",
+        "url": "https://careers-chickfila.icims.com/jobs/14373/dtt-software-engineering-summer-2024-intern/job?mode=job&iis=Job+Board&iisn=LinkedIn&mobile=false&width=1519&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240",
+        "company_name": "Chic-Fil-A",
+        "title": "Software Engineering Intern - Summer 2024",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "active": true,
+        "source": "gholtzap",
+        "id": "9108e1a7-944c-437a-9eee-142aa4c10394",
+        "date_posted": "08/02/2023",
+        "company_url": "",
+        "is_visible": true
     }
 ]
