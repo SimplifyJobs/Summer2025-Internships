@@ -1233,7 +1233,7 @@
             "Toronto, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Konrad-Group",
-        "is_visible": true,
+        "is_visible": false,
         "date_posted": 1689739200
     },
     {
@@ -1251,7 +1251,7 @@
             "Toronto, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Konrad-Group",
-        "is_visible": true,
+        "is_visible": false,
         "date_posted": 1689739200
     },
     {
@@ -1269,7 +1269,7 @@
             "Vancouver, BC, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Konrad-Group",
-        "is_visible": true,
+        "is_visible": false,
         "date_posted": 1689739200
     },
     {
@@ -1468,7 +1468,7 @@
             "Vancouver, BC, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Sanctuary-AI",
-        "is_visible": true,
+        "is_visible": false,
         "date_posted": 1689739200
     },
     {
@@ -1486,7 +1486,7 @@
             "Vancouver, BC, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Sanctuary-AI",
-        "is_visible": true,
+        "is_visible": false,
         "date_posted": 1689739200
     },
     {
@@ -1504,7 +1504,7 @@
             "Vancouver, BC, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Sanctuary-AI",
-        "is_visible": true,
+        "is_visible": false,
         "date_posted": 1689739200
     },
     {
@@ -1648,7 +1648,7 @@
             "Mississauga, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/PointClickCare",
-        "is_visible": true,
+        "is_visible": false,
         "date_posted": 1690171200
     },
     {
@@ -1666,7 +1666,7 @@
             "Mississauga, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/PointClickCare",
-        "is_visible": true,
+        "is_visible": false,
         "date_posted": 1690257600
     },
     {
@@ -1702,7 +1702,7 @@
             "Toronto, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/6b39f47e-f88d-4a06-bdf4-1f867ae9a886",
-        "is_visible": true,
+        "is_visible": false,
         "date_posted": 1686801600
     },
     {
@@ -1829,7 +1829,7 @@
             "Toronto, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Intel",
-        "is_visible": true,
+        "is_visible": false,
         "date_posted": 1687060800
     },
     {
@@ -1847,7 +1847,7 @@
             "Canada"
         ],
         "company_url": "https://simplify.jobs/c/Kinaxis",
-        "is_visible": true,
+        "is_visible": false,
         "date_posted": 1688702400
     },
     {
@@ -1865,7 +1865,7 @@
             "Ottawa, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Kinaxis",
-        "is_visible": true,
+        "is_visible": false,
         "date_posted": 1689739200
     },
     {
@@ -2010,7 +2010,7 @@
             "Canada"
         ],
         "company_url": "https://simplify.jobs/c/klue",
-        "is_visible": true,
+        "is_visible": false,
         "date_posted": 1689739200
     },
     {
@@ -2028,7 +2028,7 @@
             "Toronto, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Autodesk",
-        "is_visible": true,
+        "is_visible": false,
         "date_posted": 1689652800
     },
     {
@@ -2046,7 +2046,7 @@
             "Toronto, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Autodesk",
-        "is_visible": true,
+        "is_visible": false,
         "date_posted": 1689652800
     },
     {
@@ -2064,7 +2064,7 @@
             "Montreal, QC, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Autodesk",
-        "is_visible": true,
+        "is_visible": false,
         "date_posted": 1689739200
     },
     {
@@ -2101,7 +2101,7 @@
             "Toronto, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Autodesk",
-        "is_visible": true,
+        "is_visible": false,
         "date_posted": 1689739200
     },
     {
@@ -2119,7 +2119,7 @@
             "Toronto, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Autodesk",
-        "is_visible": true,
+        "is_visible": false,
         "date_posted": 1689739200
     },
     {
@@ -2173,7 +2173,7 @@
             "Montreal, QC, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Squarepoint-Capital",
-        "is_visible": true,
+        "is_visible": false,
         "date_posted": 1689652800
     },
     {
@@ -3789,7 +3789,7 @@
             "Toronto, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Perpetua-Labs",
-        "is_visible": true,
+        "is_visible": false,
         "date_posted": 1689739200
     },
     {
@@ -4116,7 +4116,7 @@
             "Vancouver, BC, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Asana",
-        "is_visible": true,
+        "is_visible": false,
         "date_posted": 1690430400
     },
     {
@@ -4260,7 +4260,7 @@
             "Toronto, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Rockwell-Automation",
-        "is_visible": true,
+        "is_visible": false,
         "date_posted": 1690516800
     },
     {
@@ -4452,7 +4452,7 @@
             "Canada"
         ],
         "company_url": "https://simplify.jobs/c/StackAdapt",
-        "is_visible": true,
+        "is_visible": false,
         "date_posted": 1690516800
     },
     {
@@ -4470,7 +4470,7 @@
             "Toronto, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/6b39f47e-f88d-4a06-bdf4-1f867ae9a886",
-        "is_visible": true,
+        "is_visible": false,
         "date_posted": 1690516800
     },
     {
@@ -5317,7 +5317,7 @@
             "Toronto, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Sentry",
-        "is_visible": true,
+        "is_visible": false,
         "date_posted": 1690862400
     },
     {
