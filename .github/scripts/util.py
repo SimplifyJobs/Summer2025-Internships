@@ -86,13 +86,13 @@ def embedTable(listings, filepath, offSeason=False):
     with open(filepath, "r") as f:
         for line in f.readlines():
             if readingTable:
-                if line.find("TABLE_END") != -1:
+                if "|" not in line and "TABLE_END" in line:
                     newText += line
                     readingTable = False
                 continue
             else:
                 newText += line
-                if line.find("TABLE_START") != -1:
+                if "TABLE_START" in line:
                     readingTable = True
                     newText += "\n" + \
                         create_md_table(listings, offSeason=offSeason) + "\n"
