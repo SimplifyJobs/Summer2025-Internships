@@ -5485,39 +5485,39 @@
         "is_visible": true
     },
     {
-        "date_updated": "08/03/2023",
-        "url": "https://boards.greenhouse.io/radixtrading/jobs/6629921002",
+        "source": "Simplify",
         "company_name": "Radix Trading",
+        "id": "aa41bd87-b49d-4484-ab7e-4df9048434d8",
         "title": "C++ Quantitative Technologist Intern",
-        "locations": [
-            "Chicago, IL"
-        ],
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
-        "active": true,
-        "source": "userIDid123",
-        "id": "6ab8ff2a-3478-4341-9cc3-e405def6fb75",
+        "date_updated": "08/03/2023",
         "date_posted": "08/03/2023",
-        "company_url": "",
+        "url": "https://boards.greenhouse.io/radixtrading/jobs/6629921002",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Radix-Trading",
         "is_visible": true
     },
     {
-        "date_updated": "08/03/2023",
-        "url": "https://boards.greenhouse.io/radixtrading/jobs/6629919002",
+        "source": "Simplify",
         "company_name": "Radix Trading",
+        "id": "9fb439ce-bfcf-4dc4-b326-87c48df3fa5f",
         "title": "Quantitative Research Intern",
-        "locations": [
-            "Chicago, IL"
-        ],
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
-        "active": true,
-        "source": "userIDid123",
-        "id": "9108e1a7-944c-437a-9eee-142aa4cc6dc8",
+        "date_updated": "08/03/2023",
         "date_posted": "08/03/2023",
-        "company_url": "",
+        "url": "https://boards.greenhouse.io/radixtrading/jobs/6629919002",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Radix-Trading",
         "is_visible": true
     },
     {
@@ -5726,6 +5726,332 @@
         "id": "b82c0c9c-3134-41d2-9e59-17d0d6c06850",
         "date_posted": "08/03/2023",
         "company_url": "",
+        "is_visible": true
+    },
+    {
+        "company_name": "Cisco",
+        "locations": [
+            "Multiple Locations"
+        ],
+        "title": "Software Engineer I Intern",
+        "date_posted": "08/03/2023",
+        "terms": [
+            "Summer 2024"
+        ],
+        "active": true,
+        "url": "https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-I-Intern-United-States/1404710?source=Cisco+Jobs+Career+Site&tags=CDC+Browse+all+jobs",
+        "is_visible": true,
+        "source": "gholtzap",
+        "company_url": "",
+        "date_updated": "08/03/2023",
+        "id": "0286b64e-0782-4558-acfd-aba1d78a9e06"
+    },
+    {
+        "company_name": "Cisco",
+        "locations": [
+            "Multiple Locations"
+        ],
+        "title": "Software Engineer II Intern",
+        "date_posted": "08/03/2023",
+        "terms": [
+            "Summer 2024"
+        ],
+        "active": true,
+        "url": "https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-II-Intern-United-States/1405259?source=Cisco+Jobs+Career+Site&tags=CDC+Browse+all+jobs",
+        "is_visible": true,
+        "source": "gholtzap",
+        "company_url": "",
+        "date_updated": "08/03/2023",
+        "id": "f0806211-e09f-4918-9ea8-c3d02e5b11ad"
+    },
+    {
+        "company_name": "Cisco",
+        "locations": [
+            "Multiple Locations"
+        ],
+        "title": "Software Consulting Engineer Intern",
+        "date_posted": "08/03/2023",
+        "terms": [
+            "Summer 2024"
+        ],
+        "active": true,
+        "url": "https://jobs.cisco.com/jobs/ProjectDetail/Software-Consulting-Engineer-Intern-United-States/1405375?source=Cisco+Jobs+Career+Site&tags=CDC+Browse+all+jobs",
+        "is_visible": true,
+        "source": "gholtzap",
+        "company_url": "",
+        "date_updated": "08/03/2023",
+        "id": "a0fb1503-1e50-49ab-bce7-b3f562bfdca9"
+    },
+    {
+        "company_name": "Cisco",
+        "locations": [
+            "Multiple Locations"
+        ],
+        "title": "Data Scientist Intern",
+        "date_posted": "08/03/2023",
+        "terms": [
+            "Summer 2024"
+        ],
+        "active": true,
+        "url": "https://jobs.cisco.com/jobs/ProjectDetail/Data-Scientist-Intern-United-States/1405351?source=Cisco+Jobs+Career+Site&tags=CDC+Browse+all+jobs",
+        "is_visible": true,
+        "source": "gholtzap",
+        "company_url": "",
+        "date_updated": "08/03/2023",
+        "id": "6b931553-cc90-490d-95de-63379e748924"
+    },
+    {
+        "company_name": "Cisco",
+        "locations": [
+            "Multiple Locations"
+        ],
+        "title": "Data Engineer Intern",
+        "date_posted": "08/03/2023",
+        "terms": [
+            "Summer 2024"
+        ],
+        "active": true,
+        "url": "https://jobs.cisco.com/jobs/ProjectDetail/Data-Engineer-Intern-United-States/1405278?source=Cisco+Jobs+Career+Site&tags=CDC+Browse+all+jobs",
+        "is_visible": true,
+        "source": "gholtzap",
+        "company_url": "",
+        "date_updated": "08/03/2023",
+        "id": "384017a1-96b8-43e3-bfcd-69f708dcb89d"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "HRL Laboratories",
+        "id": "93ea054e-8fd9-4f9d-a72f-dc13d03a39c0",
+        "title": "Doctorate Intern in Machine Learning and Reasoning",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": "08/03/2023",
+        "date_posted": "08/03/2023",
+        "url": "https://jobs.lever.co/dodmg/2bdf0a93-c552-49b7-bdee-bd93dc5ed20b/apply",
+        "locations": [
+            "Calabasas, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/HRL-Laboratories",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "HRL Laboratories",
+        "id": "e6b2013e-27d1-40a5-9bc1-60804a0f6e13",
+        "title": "Summer Internship in Active Prediction",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": "08/03/2023",
+        "date_posted": "08/03/2023",
+        "url": "https://jobs.lever.co/dodmg/4c1bd473-1649-479d-9aa0-1d08c9c01ff0/apply",
+        "locations": [
+            "Calabasas, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/HRL-Laboratories",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "HRL Laboratories",
+        "id": "701f5d63-6e96-4ff9-b4da-6519acae3452",
+        "title": "Intern \u2013 Operational Autonomy Centers - Formal Methods",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": "08/03/2023",
+        "date_posted": "08/03/2023",
+        "url": "https://jobs.lever.co/dodmg/cb3d3448-6548-4b5e-bd47-d5e87331feac/apply",
+        "locations": [
+            "Calabasas, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/HRL-Laboratories",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "HRL Laboratories",
+        "id": "b839ec08-265f-4ebe-9ea0-4f1b698959f0",
+        "title": "Natural Language Processing Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": "08/03/2023",
+        "date_posted": "08/03/2023",
+        "url": "https://jobs.lever.co/dodmg/2520ad21-8174-49d1-87db-806b46c5115d/apply",
+        "locations": [
+            "Calabasas, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/HRL-Laboratories",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "HRL Laboratories",
+        "id": "d10872b1-1451-441c-aa5a-7be0c9bb4e98",
+        "title": "Graph Machine Learning Summer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": "08/03/2023",
+        "date_posted": "08/03/2023",
+        "url": "https://jobs.lever.co/dodmg/1f412a07-6754-4444-a8f2-3c3bab279e4d/apply",
+        "locations": [
+            "Calabasas, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/HRL-Laboratories",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "HRL Laboratories",
+        "id": "3b9166a2-ff2a-4e7c-b0d7-df8cd3d3760e",
+        "title": "Undergrad Intern - AI Software Engineer",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": "08/03/2023",
+        "date_posted": "08/03/2023",
+        "url": "https://jobs.lever.co/dodmg/a9cc6286-0ce4-4331-8704-afdf4d351b74/apply",
+        "locations": [
+            "Calabasas, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/HRL-Laboratories",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "HRL Laboratories",
+        "id": "d1a00fe2-e467-45c1-9b96-cb81bc871cac",
+        "title": "Autonomous Driving Research Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": "08/03/2023",
+        "date_posted": "08/03/2023",
+        "url": "https://jobs.lever.co/dodmg/d7c242a8-1241-48a6-aaea-a7eb5b03c897/apply",
+        "locations": [
+            "Calabasas, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/HRL-Laboratories",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "NVIDIA",
+        "id": "abda0c48-2ddf-4626-84c7-d84a44403ddf",
+        "title": "Verification Intern - Fall 2023",
+        "active": true,
+        "terms": [
+            "Fall 2023"
+        ],
+        "date_updated": "08/03/2023",
+        "date_posted": "08/03/2023",
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Verification-Intern---Fall-2023_JR1970002",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Virtu Financial",
+        "id": "bce67f80-f66d-457e-b804-0b287b36f6e0",
+        "title": "Internship - Quantitative Trading",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": "08/02/2023",
+        "date_posted": "08/02/2023",
+        "url": "https://boards.greenhouse.io/virtu/jobs/6702651002",
+        "locations": [
+            "Austin, TX",
+            "Chicago, IL",
+            "New York, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Virtu-Financial",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Virtu Financial",
+        "id": "02ba6e71-e2ca-4b7e-8b4a-54e3226e1eef",
+        "title": "Internship - Developer",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": "08/02/2023",
+        "date_posted": "08/02/2023",
+        "url": "https://boards.greenhouse.io/virtu/jobs/6771390002",
+        "locations": [
+            "New York, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Virtu-Financial",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Fidelity Investments",
+        "id": "8544fb79-671f-4b74-be78-233cad03bc06",
+        "title": "Summer 2024 Quantitative Research Investment Internship-Undergraduate",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": "08/02/2023",
+        "date_posted": "08/02/2023",
+        "url": "https://wd1.myworkdaysite.com/recruiting/fmr/FidelityCareers/job/Boston-MA/Summer-2024-Quantitative-Research-Investment-Internship--Undergraduate_2081162-1",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Fidelity",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Ramp",
+        "id": "5f9b7b9a-7021-40dd-b619-38d144e31a6b",
+        "title": "Software Engineer Internship - Backend",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": "08/02/2023",
+        "date_posted": "08/02/2023",
+        "url": "https://jobs.ashbyhq.com/ramp/16ebfcfc-467b-40e5-b23e-a4d95db05539/application",
+        "locations": [
+            "New York, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Ramp",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Intel",
+        "id": "9c78c620-0af8-420e-91f0-95d114d608fb",
+        "title": "Undergrad Technical Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": "08/02/2023",
+        "date_posted": "08/02/2023",
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-California-Santa-Clara/Undergrad-Technical-Intern_JR0245011",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
         "is_visible": true
     }
 ]
