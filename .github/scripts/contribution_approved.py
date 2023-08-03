@@ -19,7 +19,7 @@ def getData(body, is_edit, username):
     lines = [text.strip("# ") for text in body.split("\n\n")]
     #["Company Name", "_No response_", "Internship Title", "_No response_", "Link to Internship Posting", "example.com/link/to/posting", "Locatio", "San Franciso, CA | Austin, TX | Remote" ,"What term(s) is this internship offered for?", "_No response_"]
     
-    data["date_updated"] = datetime.now().timestamp()
+    data["date_updated"] = int(datetime.now().timestamp())
 
     if "no response" not in lines[1].lower():
         data["url"] = add_https_to_url(lines[1].strip())
@@ -76,7 +76,7 @@ def main():
     if new_internship:
         data["source"] = issue_user
         data["id"] = str(uuid.uuid4())
-        data["date_posted"] = datetime.now().timestamp()
+        data["date_posted"] = int(datetime.now().timestamp())
         data["company_url"] = ""
         data["is_visible"] = True
 
