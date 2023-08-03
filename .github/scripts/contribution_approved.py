@@ -53,8 +53,10 @@ def main():
     with open(event_file_path) as f:
         event_data = json.load(f)
 
-    # with open("debug.json", "w") as f:
-    #     f.write(json.dumps(event_data, indent=4))
+    with open("debug.json", "w") as f:
+        f.write(json.dumps(event_data, indent=4))
+
+    return
 
     
     # CHECK IF NEW OR OLD INTERNSHIP
