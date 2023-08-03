@@ -120,7 +120,7 @@ def sortListings(listings):
     def getKey(listing):
         date_posted = listing["date_posted"]
         date_updated = listing["date_updated"]
-        return date_posted + listing["company_name"].lower() + date_updated
+        return str(date_posted) + listing["company_name"].lower() + str(date_updated)
 
     listings.sort(key=getKey, reverse=False)
 
