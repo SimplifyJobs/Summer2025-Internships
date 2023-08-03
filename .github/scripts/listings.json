@@ -5627,5 +5627,23 @@
         "date_posted": "08/03/2023",
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": "08/03/2023",
+        "url": "https://careers.skyworksinc.com/job/Hillsboro-Intern-Web-Development-OR-97006/1057407200/",
+        "company_name": "Skyworks",
+        "title": "Web Development Intern",
+        "locations": [
+            "Hillsboro, OR"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "active": true,
+        "source": "hemanthy1",
+        "id": "78aeba88-381d-46f4-a9d9-d81494eec030",
+        "date_posted": "08/03/2023",
+        "company_url": "",
+        "is_visible": true
     }
 ]
