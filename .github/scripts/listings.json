@@ -6053,5 +6053,25 @@
         ],
         "company_url": "https://simplify.jobs/c/Intel",
         "is_visible": true
+    },
+    {
+        "date_updated": "08/03/2023",
+        "url": "https://example.com/link/to/posting",
+        "company_name": "Google",
+        "title": "ML Software Intern",
+        "locations": [
+            "ex. San Franciso, CA",
+            "Austin, TX",
+            "Remote"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "active": true,
+        "source": "matttreed",
+        "id": "de56a5bc-4c4c-41a2-ae8e-05b113c8482d",
+        "date_posted": "08/03/2023",
+        "company_url": "",
+        "is_visible": true
     }
 ]
