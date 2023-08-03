@@ -5501,5 +5501,23 @@
         "date_posted": "08/03/2023",
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": "08/03/2023",
+        "url": "https://boards.greenhouse.io/radixtrading/jobs/6629919002",
+        "company_name": "Radix Trading",
+        "title": "Quantitative Research Intern",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "active": true,
+        "source": "userIDid123",
+        "id": "9108e1a7-944c-437a-9eee-142aa4cc6dc8",
+        "date_posted": "08/03/2023",
+        "company_url": "",
+        "is_visible": true
     }
 ]
