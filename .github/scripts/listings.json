@@ -1223,7 +1223,7 @@
         "company_name": "Konrad Group",
         "id": "16483a46-92e5-444d-ba75-54d678b17775",
         "title": "Software Developer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2023"
         ],
@@ -1241,7 +1241,7 @@
         "company_name": "Konrad Group",
         "id": "62b89c51-28d5-47b8-b560-cc33243f1953",
         "title": "Uoft PEY - Software Developer Intern - Months",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -1259,7 +1259,7 @@
         "company_name": "Konrad Group",
         "id": "ff321645-a9f4-4209-a034-6df813876cfa",
         "title": "Software Developer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2023"
         ],
@@ -1458,7 +1458,7 @@
         "company_name": "Sanctuary",
         "id": "f38393d6-4afe-4ba6-8b5e-ff32b6171a39",
         "title": "Software Co-op: Systems Integration",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2023"
         ],
@@ -1476,7 +1476,7 @@
         "company_name": "Sanctuary",
         "id": "4594fcbd-3652-43f7-858f-913b8b8286c4",
         "title": "Software Co-op: AI/Automation",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2023"
         ],
@@ -1494,7 +1494,7 @@
         "company_name": "Sanctuary",
         "id": "93fb36c9-324a-4509-8314-89c31fdd3c90",
         "title": "Hardware Co-op: Firmware Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2023"
         ],
@@ -1638,7 +1638,7 @@
         "company_name": "PointClickCare",
         "id": "f03288d3-54ff-4351-ab7f-efe31173cb5c",
         "title": "Jr.Database Administrator Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2023"
         ],
@@ -2000,7 +2000,7 @@
         "company_name": "Klue",
         "id": "4bbcf0e2-31c1-4232-8912-9184788c6095",
         "title": "Data Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -2018,7 +2018,7 @@
         "company_name": "Autodesk",
         "id": "af16252d-f555-41c4-9ed4-273482b3f595",
         "title": "Software Engineer Intern - Business Process Team",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2023"
         ],
@@ -2036,7 +2036,7 @@
         "company_name": "Autodesk",
         "id": "c8edcbbd-9bfa-4ebc-a39e-bcb2fefd9ab9",
         "title": "Software Engineer Intern - Managed Collaboration Team",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2023"
         ],
@@ -2054,7 +2054,7 @@
         "company_name": "Autodesk",
         "id": "0eed6613-0f1b-4402-9e0f-518d7378947e",
         "title": "Stagiaire \u2013 /Intern - D\u00e9veloppeur - Euse - De logiciels - Forge - \u00c0 pourvoir - Software Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2023"
         ],
@@ -2090,7 +2090,7 @@
         "company_name": "Autodesk",
         "id": "6e61ecea-c211-4d7a-a91f-f899cda43896",
         "title": "Intern \u2013 Software Developer - Fusion",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2023"
         ],
@@ -2109,7 +2109,7 @@
         "company_name": "Autodesk",
         "id": "41e37bba-3214-4034-ad36-fd654d2a4eae",
         "title": "Intern \u2013 Software Developer - Alias - 1 Year Term",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -2163,7 +2163,7 @@
         "company_name": "Squarepoint Capital",
         "id": "b3ef65df-8815-4e9c-b53e-3fb28b6adc2f",
         "title": "Intern Software Developer",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2023"
         ],
@@ -3452,7 +3452,7 @@
         "company_name": "AON3D",
         "id": "94c711ff-2fba-4cf6-9f40-9caa8a465075",
         "title": "Internship: Webgl for CAD tools",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -3779,7 +3779,7 @@
         "company_name": "Perpetua Labs",
         "id": "192879dc-7a64-4cf6-b491-dc5c354ec80b",
         "title": "Software Development Engineer In Test - Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -4106,7 +4106,7 @@
         "company_name": "Asana Early Career Programs",
         "id": "61f34a50-5cd2-477d-b527-c971a0f100fc",
         "title": "Software Engineering Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -4442,7 +4442,7 @@
         "company_name": "StackAdapt",
         "id": "fd4a74d7-ed92-40b5-9eb4-e102f20bb6c3",
         "title": "Software Engineer Intern - Backend",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -4460,7 +4460,7 @@
         "company_name": "Bank of Montreal (BMO)",
         "id": "9aef646d-5bb4-4240-8071-8375a7d9c590",
         "title": "Software Developer \u2013 Co-op/Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2023"
         ],
@@ -5307,7 +5307,7 @@
         "company_name": "Sentry",
         "id": "89a6717f-2c68-42f5-a0bd-fd74b16b9b45",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
