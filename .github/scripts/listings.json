@@ -5727,5 +5727,95 @@
         "date_posted": "08/03/2023",
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "company_name": "Cisco",
+        "locations": [
+            "Multiple Locations"
+        ],
+        "title": "Software Engineer I Intern",
+        "date_posted": "08/03/2023",
+        "terms": [
+            "Summer 2024"
+        ],
+        "active": true,
+        "url": "https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-I-Intern-United-States/1404710?source=Cisco+Jobs+Career+Site&tags=CDC+Browse+all+jobs",
+        "is_visible": true,
+        "source": "gholtzap",
+        "company_url": "",
+        "date_updated": "08/03/2023",
+        "id": "0286b64e-0782-4558-acfd-aba1d78a9e06"
+    },
+    {
+        "company_name": "Cisco",
+        "locations": [
+            "Multiple Locations"
+        ],
+        "title": "Software Engineer II Intern",
+        "date_posted": "08/03/2023",
+        "terms": [
+            "Summer 2024"
+        ],
+        "active": true,
+        "url": "https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-II-Intern-United-States/1405259?source=Cisco+Jobs+Career+Site&tags=CDC+Browse+all+jobs",
+        "is_visible": true,
+        "source": "gholtzap",
+        "company_url": "",
+        "date_updated": "08/03/2023",
+        "id": "f0806211-e09f-4918-9ea8-c3d02e5b11ad"
+    },
+    {
+        "company_name": "Cisco",
+        "locations": [
+            "Multiple Locations"
+        ],
+        "title": "Software Consulting Engineer Intern",
+        "date_posted": "08/03/2023",
+        "terms": [
+            "Summer 2024"
+        ],
+        "active": true,
+        "url": "https://jobs.cisco.com/jobs/ProjectDetail/Software-Consulting-Engineer-Intern-United-States/1405375?source=Cisco+Jobs+Career+Site&tags=CDC+Browse+all+jobs",
+        "is_visible": true,
+        "source": "gholtzap",
+        "company_url": "",
+        "date_updated": "08/03/2023",
+        "id": "a0fb1503-1e50-49ab-bce7-b3f562bfdca9"
+    },
+    {
+        "company_name": "Cisco",
+        "locations": [
+            "Multiple Locations"
+        ],
+        "title": "Data Scientist Intern",
+        "date_posted": "08/03/2023",
+        "terms": [
+            "Summer 2024"
+        ],
+        "active": true,
+        "url": "https://jobs.cisco.com/jobs/ProjectDetail/Data-Scientist-Intern-United-States/1405351?source=Cisco+Jobs+Career+Site&tags=CDC+Browse+all+jobs",
+        "is_visible": true,
+        "source": "gholtzap",
+        "company_url": "",
+        "date_updated": "08/03/2023",
+        "id": "6b931553-cc90-490d-95de-63379e748924"
+    },
+    {
+        "company_name": "Cisco",
+        "locations": [
+            "Multiple Locations"
+        ],
+        "title": "Data Engineer Intern",
+        "date_posted": "08/03/2023",
+        "terms": [
+            "Summer 2024"
+        ],
+        "active": true,
+        "url": "https://jobs.cisco.com/jobs/ProjectDetail/Data-Engineer-Intern-United-States/1405278?source=Cisco+Jobs+Career+Site&tags=CDC+Browse+all+jobs",
+        "is_visible": true,
+        "source": "gholtzap",
+        "company_url": "",
+        "date_updated": "08/03/2023",
+        "id": "384017a1-96b8-43e3-bfcd-69f708dcb89d"
     }
 ]
