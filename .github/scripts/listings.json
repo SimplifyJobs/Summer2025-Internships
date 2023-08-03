@@ -4798,21 +4798,22 @@
         "id": "d7af47e2-6f11-41b5-aeed-8fa831a72163"
     },
     {
-        "company_name": "U.S. Bank",
+        "company_name": "US Bank",
         "locations": [
-            "Richfield, MN; and Atlanta, GA"
+            "Richfield, MN",
+            "Atlanta, GA"
         ],
         "title": "2024 Software Engineering Summer Intern",
         "date_posted": 1690430400,
         "terms": [
             "Summer 2024"
         ],
-        "active": true,
+        "active": false,
         "url": "https://careers.usbank.com/global/en/job/2023-0020491/2024-Software-Engineering-Summer-Intern-Early-Careers",
         "is_visible": true,
         "source": "Markdown",
         "company_url": "",
-        "date_updated": 1690862400,
+        "date_updated": 1691091923,
         "id": "338d7599-8844-410a-b263-06d39da23791"
     },
     {
