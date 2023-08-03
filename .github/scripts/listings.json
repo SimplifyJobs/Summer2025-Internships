@@ -5483,5 +5483,23 @@
         ],
         "company_url": "https://simplify.jobs/c/Torc-Robotics",
         "is_visible": true
+    },
+    {
+        "date_updated": "08/03/2023",
+        "url": "https://boards.greenhouse.io/radixtrading/jobs/6629921002",
+        "company_name": "Radix Trading",
+        "title": "C++ Quantitative Technologist Intern",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "active": true,
+        "source": "userIDid123",
+        "id": "6ab8ff2a-3478-4341-9cc3-e405def6fb75",
+        "date_posted": "08/03/2023",
+        "company_url": "",
+        "is_visible": true
     }
 ]
