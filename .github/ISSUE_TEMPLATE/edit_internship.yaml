@@ -1,6 +1,6 @@
 name: Edit Internship
 description: Edit an internship on our list
-title: "Editing Internship: <internship name>"
+title: "Editing Internship:"
 labels: ["edit_internship"]
 body:
   - type: markdown
@@ -8,7 +8,7 @@ body:
       value: |
         ## Edit Internship Form
         Thanks for taking the time to contribute!
-        > Make sure you've read `CONTRIBUTING.md` before submitting your edits
+        Make sure you've read `CONTRIBUTING.md` before submitting your edits
         Please leave every field blank except for the **link, reason, and whichever fields you would like to edit**
   - type: input
     id: url
