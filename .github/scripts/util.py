@@ -57,11 +57,9 @@ def create_md_table(listings, offSeason=False):
         position = listing["title"]
         terms = ", ".join(listing["terms"])
         link = getLink(listing)
-        month = datetime.strptime(
-            listing["date_posted"], "%m/%d/%Y").strftime('%b')
-        dayMonth = datetime.strptime(
-            listing["date_posted"], "%m/%d/%Y").strftime('%b %d')
-        isBeforeJuly18 = datetime.strptime(listing["date_posted"], "%m/%d/%Y") < datetime(2023, 7, 18, 0, 0, 0)
+        month = datetime.fromtimestamp(listing["date_posted"]).strftime('%b')
+        dayMonth = datetime.fromtimestamp(listing["date_posted"]).strftime('%b %d')
+        isBeforeJuly18 = datetime.fromtimestamp(listing["date_posted"]) < datetime(2023, 7, 18, 0, 0, 0)
         datePosted = month if isBeforeJuly18 else dayMonth
         if offSeason:
             table += f"| **{company}** | {position} | {location} | {terms} | {link} | {datePosted} |\n"
@@ -113,18 +111,15 @@ def sortListings(listings):
     oldestListingFromCompany = {}
     linkForCompany = {}
     for listing in listings:
-        date_posted = datetime.strptime(
-            listing["date_posted"], "%m/%d/%Y").strftime('%Y/%m/%d')
+        date_posted = listing["date_posted"]
         if listing["company_name"].lower() not in oldestListingFromCompany or oldestListingFromCompany[listing["company_name"].lower()] > date_posted:
             oldestListingFromCompany[listing["company_name"].lower()] = date_posted
         if listing["company_name"] not in linkForCompany or len(listing["company_url"]) > 0:
             linkForCompany[listing["company_name"]] = listing["company_url"]
 
     def getKey(listing):
-        date_posted = datetime.strptime(
-            listing["date_posted"], "%m/%d/%Y").strftime('%Y/%m/%d')
-        date_updated = datetime.strptime(
-            listing["date_updated"], "%m/%d/%Y").strftime('%Y/%m/%d')
+        date_posted = listing["date_posted"]
+        date_updated = listing["date_updated"]
         return date_posted + listing["company_name"].lower() + date_updated
 
     listings.sort(key=getKey, reverse=False)
