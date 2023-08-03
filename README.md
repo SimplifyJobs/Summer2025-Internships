@@ -40,7 +40,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
-| **[Fyusion](https://simplify.jobs/c/Fyusion)** | Computer Vision Intern - Deep Learning | SF | <a href="https://jobs.lever.co/fyusion/31540b34-b559-4f3b-8c0a-688d504d7288/apply?utm_source=Simplify-GH&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/c9061fa0-beb8-4c43-b13a-ff96309fa7f3?utm_source=GH-List"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Nov |
+| **Fyusion** | Computer Vision Intern - Deep Learning | SF | 🔒 | Nov |
 | **[Capital One](https://simplify.jobs/c/Capital-One)** | Product Development Intern (No Sponsorship) | McLean, VA <br/> Plano, TX | <a href="https://www.capitalonecareers.com/job/mclean/product-development-intern-summer-2024/31238/51746418592?utm_source=Simplify-GH&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May |
 | **Panasonic** | Software Electrical Engineer Intern | The Colony, TX | <a href="https://careers.na.panasonic.com/careers/software-electrical-engineer-intern?utm_source=Simplify-GH&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May |
 | **Internet Brands** | Intern Software Engineer | Los Angeles, California | <a href="https://jobs.jobvite.com/internetbrands/job/oUZQnfwQ?utm_source=Simplify-GH&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May |
