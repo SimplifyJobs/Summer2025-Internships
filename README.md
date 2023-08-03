@@ -9,6 +9,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 >
 > - :arrow_up: **More Internship Listings!** - A script automatically updates this repo with new internships on Simplify.
 > - :pencil2: **Easier Contributions!** - Submit an [issue](https://github.com/SimplifyJobs/Summer2024-Internships/issues/new/choose) to add/edit an internship. See [guidelines](https://github.com/pittcsc/Summer2024-Internships/blob/dev/CONTRIBUTING.md).
+> - :sparkles: **New Apply Options!** - gray button is standard posting, blue is Simplify's one-click application.
 
 
 :warning: Please note that this repository is exclusively for internships/co-ops in the United States, Canada, or Remote positions :earth_americas:
