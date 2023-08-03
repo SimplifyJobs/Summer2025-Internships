@@ -4603,12 +4603,12 @@
         "source": "Simplify",
         "company_name": "Alert Innovation",
         "id": "32572ef0-3812-4b80-b64e-c237eaf6fd2c",
-        "title": "Co-Op \u2013 Software Sustaining Engineer",
+        "title": "Software Engineer Co Op",
         "active": true,
         "terms": [
-            "Summer 2024"
+            "Fall 2023"
         ],
-        "date_updated": "08/01/2023",
+        "date_updated": "08/03/2023",
         "url": "https://boards.greenhouse.io/alertinnovation/jobs/4222910005",
         "locations": [
             "Andover, MA"
@@ -5126,17 +5126,17 @@
         "locations": [
             "New York, NY"
         ],
-        "title": "Technology Summer Intern",
+        "title": "2024 Technology Summer Internship Program",
         "date_posted": "07/11/2023",
         "terms": [
             "Summer 2024"
         ],
-        "active": true,
+        "active": false,
         "url": "https://jobs.newyorklife.com/job/New-York-2024-Technology-Summer-Internship-Program-NY-10001/1055772100/",
         "is_visible": true,
         "source": "Markdown",
         "company_url": "",
-        "date_updated": "08/01/2023",
+        "date_updated": "08/03/2023",
         "id": "6a7fd336-9f50-49f9-9ebf-e5796e17bc8f"
     },
     {
@@ -5482,6 +5482,250 @@
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/Torc-Robotics",
+        "is_visible": true
+    },
+    {
+        "date_updated": "08/03/2023",
+        "url": "https://boards.greenhouse.io/radixtrading/jobs/6629921002",
+        "company_name": "Radix Trading",
+        "title": "C++ Quantitative Technologist Intern",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "active": true,
+        "source": "userIDid123",
+        "id": "6ab8ff2a-3478-4341-9cc3-e405def6fb75",
+        "date_posted": "08/03/2023",
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": "08/03/2023",
+        "url": "https://boards.greenhouse.io/radixtrading/jobs/6629919002",
+        "company_name": "Radix Trading",
+        "title": "Quantitative Research Intern",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "active": true,
+        "source": "userIDid123",
+        "id": "9108e1a7-944c-437a-9eee-142aa4cc6dc8",
+        "date_posted": "08/03/2023",
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": "08/03/2023",
+        "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/XMLNAME-2024-Software-Engineer-Intern--Woodland-Hills--CA_R10122550?redirect=%252FNorthrop_Grumman_External_Site%252Fjob%252FUnited-States-California-Woodland-Hills%252FXMLNAME-2024-Software-Engineer-Intern--Woodland-Hills--CA_R10122550%252Fapply%253Fcode%253DAPPLICANT_SOURCE-3-436&source=APPLICANT_SOURCE-3-436",
+        "company_name": "Northrop Grumman",
+        "title": "Software Engineer Intern (Citizenship required)",
+        "locations": [
+            "Woodland Hills, CA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "active": true,
+        "source": "hemanthy1",
+        "id": "9108e1a7-944c-437a-9eee-142aa4cc6784",
+        "date_posted": "08/03/2023",
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": "08/03/2023",
+        "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-San-Jose/XMLNAME-2024---Intern-Technical--Cyber-Software--San-Jose--CA_R10122712?q=internship&redirect=/Northrop_Grumman_External_Site/job/United-States-California-Woodland-Hills/XMLNAME-2024-Software-Engineer-Intern--Woodland-Hills--CA_R10122550/apply?code=APPLICANT_SOURCE-3-436&source=APPLICANT_SOURCE-3-436",
+        "company_name": "Northrop Grumman",
+        "title": "Cyber Software Intern (Citizenship required)",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "active": true,
+        "source": "hemanthy1",
+        "id": "9108e1a7-944c-437a-9eee-142aa4cc6784",
+        "date_posted": "08/03/2023",
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": "08/02/2023",
+        "url": "https://www.wellsfargojobs.com/en/jobs/r-295402/2024-summer-internship-early-careers-analytics-data?jClickId=0f76a32d-92ba-4e35-8e19-d7a3a2b682ce&publisher=Linkedin%2520Flat%2520bid&utm_source=joveo",
+        "company_name": "Wells Fargo",
+        "title": "Data Analytics - Summer 2024 (No Sponsorship)",
+        "locations": [
+            "Multiple"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "active": true,
+        "source": "kay-io",
+        "id": "9108e1a7-944c-437a-9eee-142aa4cc6014",
+        "date_posted": "08/02/2023",
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": "08/02/2023",
+        "url": "https://careers-chickfila.icims.com/jobs/14373/dtt-software-engineering-summer-2024-intern/job?mode=job&iis=Job+Board&iisn=LinkedIn&mobile=false&width=1519&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240",
+        "company_name": "Chic-Fil-A",
+        "title": "Software Engineering Intern - Summer 2024",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "active": true,
+        "source": "gholtzap",
+        "id": "9108e1a7-944c-437a-9eee-142aa4c10394",
+        "date_posted": "08/02/2023",
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": "08/03/2023",
+        "url": "https://www.stokespace.com/careers/current-openings/?gh_jid=4944845004",
+        "company_name": "Stoke Space",
+        "title": "Software Intern (US Citizenship OR Permanent Resident required)",
+        "locations": [
+            "Kent, WA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "active": true,
+        "source": "hemanthy1",
+        "id": "8fe4abab-da7b-45b8-8bab-2a8579255eae",
+        "date_posted": "08/03/2023",
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": "08/03/2023",
+        "url": "https://careers.skyworksinc.com/job/Hillsboro-AI-Engineering-Intern-OR-97006/1050573100/",
+        "company_name": "Skyworks",
+        "title": "AI Engineering Intern",
+        "locations": [
+            "Hillsboro, OR"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "active": true,
+        "source": "hemanthy1",
+        "id": "f02f97fd-7982-4d1a-b0b6-3fee1b29ba27",
+        "date_posted": "08/03/2023",
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": "08/03/2023",
+        "url": "https://careers.skyworksinc.com/job/Hillsboro-Intern-Web-Development-OR-97006/1057407200/",
+        "company_name": "Skyworks",
+        "title": "Web Development Intern",
+        "locations": [
+            "Hillsboro, OR"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "active": true,
+        "source": "hemanthy1",
+        "id": "78aeba88-381d-46f4-a9d9-d81494eec030",
+        "date_posted": "08/03/2023",
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": "08/03/2023",
+        "url": "https://jobs.us.pwc.com/job/birmingham/nis-cyber-security-and-technology-intern-summer-2024/932/52142558336",
+        "company_name": "PwC",
+        "title": "Cyber Security and Technology Intern",
+        "locations": [
+            "Birmingham, AL",
+            "Fayetteville, AR",
+            "Little Rock, AR",
+            "Phoenix, AZ",
+            "Irvine, CA",
+            "Los Angeles, CA",
+            "Sacramento, CA",
+            "San Diego, CA",
+            "San Francisco, CA",
+            "Silicon Valley, CA",
+            "Denver, CO",
+            "Hartford, CT",
+            "Stamford, CT",
+            "Washington, DC",
+            "Hallandale Beach/Miami, FL",
+            "Jacksonville, FL",
+            "Orlando, FL",
+            "Tampa, FL",
+            "West Palm Beach, FL",
+            "Atlanta, GA",
+            "Des Moines, IA",
+            "Chicago, IL",
+            "Indianapolis, IN",
+            "Louisville, KY",
+            "New Orleans, LA",
+            "Boston, MA",
+            "Baltimore, MD",
+            "Detroit, MI",
+            "Grand Rapids, MI",
+            "Minneapolis, MN",
+            "Kansas City, MO",
+            "St. Louis, MO",
+            "Charlotte, NC",
+            "Greensboro, NC",
+            "Raleigh, NC",
+            "Florham Park, NJ",
+            "Las Vegas, NV",
+            "Albany, NY",
+            "Buffalo, NY",
+            "Melville, NY",
+            "New York, NY",
+            "Rochester, NY",
+            "Cincinnati, OH",
+            "Cleveland, OH",
+            "Columbus, OH",
+            "Toledo, OH",
+            "Oklahoma City, OK",
+            "Tulsa, OK",
+            "Portland, OR",
+            "Philadelphia, PA",
+            "Pittsburgh, PA",
+            "Columbia, SC",
+            "Spartanburg, SC",
+            "Nashville, TN",
+            "Austin, TX",
+            "Dallas, TX",
+            "Fort Worth, TX",
+            "Houston, TX",
+            "San Antonio, TX",
+            "Remote, US",
+            "Salt Lake City, UT",
+            "Richmond, VA",
+            "Montpelier, VT",
+            "Seattle, WA",
+            "Milwaukee,  WI"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "active": true,
+        "source": "hemanthy1",
+        "id": "b82c0c9c-3134-41d2-9e59-17d0d6c06850",
+        "date_posted": "08/03/2023",
+        "company_url": "",
         "is_visible": true
     }
 ]
