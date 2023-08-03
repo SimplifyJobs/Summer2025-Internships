@@ -5,7 +5,7 @@ Below, you'll find information about this repo's actions, issue forms, and other
 
 ## High Level Overview
 
-Internships are stored in `listings.json`. This file is edited by submitting a `new_internship` or `edit_internship` issue form. Once an `approved` label is attached to one of these issues, a github action will run and automatically edit listings.json with the new information. An external microservice runs a separate script once per day which fetches internships from Simplify's database, adds them to listings.json, then updates the corresponding `README` with the new internships from Simplify and contributors. 
+Internships are stored in `listings.json`. This file is edited by submitting a `new_internship` or `edit_internship` issue form. Once an `approved` label is attached to one of these issues, a github action will run and automatically edit listings.json with the new information. An external microservice runs a separate script once per day which fetches internships from Simplify's database, and also adds them to listings.json. Everytime listings.json is updated (either by the microservice or by github actions) another github action called "Update READMEs" will update the corresponding `README` with the new internships from Simplify and contributors. 
 
 See information about each of these steps below.
 
@@ -22,7 +22,7 @@ All internships (from Simplify and contributors) are stored in `.github/scripts/
             "Plano, TX"
         ],
         "title": "Product Development Intern (No Sponsorship)",
-        "date_posted": "05/12/2023",
+        "date_posted": 1690430400,
         "terms": [
             "Summer 2024"
         ],
@@ -31,7 +31,7 @@ All internships (from Simplify and contributors) are stored in `.github/scripts/
         "is_visible": true,
         "source": "Markdown",
         "company_url": "",
-        "date_updated": "07/27/2023",
+        "date_updated": 1690430400,
         "id": "98b2d671-3f03-430e-b18c-e5ddb8ce5035"
     }
 ]
@@ -39,13 +39,13 @@ All internships (from Simplify and contributors) are stored in `.github/scripts/
 
 The schema of this file is as follows:
 
-| Property Name   | Data Type        | Description                                          | Example |
-| --------------- | ---------------- | ---------------------------------------------------- | -------- |
-| **company_name**| `str`            | Name of company                                      | Google |
+| Property Name    | Data Type        | Description                                          | Example |
+| ---------------  | ---------------- | ---------------------------------------------------- | -------- |
+| **company_name** | `str`            | Name of company                                      | Google |
 | **company_url**  | `str`            | link to Simplify page for company (is empty string for non-Simplify contributions)       | "simplify.com/c/CompanyName |
-| **title**       | `str`            | Name of internship position                          | ML Software Engineer Intern |
-| **date_posted**  | `str`            | date added to listings.json (format: MM/DD/YYYY)        | 06/15/2024 |
-| **date_updated** | `str`            | date updated with new information (format: MM/DD/YYYY)        | 06/15/2024 |
+| **title**        | `str`            | Name of internship position                          | ML Software Engineer Intern |
+| **date_posted**  | `int`            | date added to listings.json (timestamp)        | 1690430400 |
+| **date_updated** | `int`            | date updated with new information (timestamp)        | 1690430400 |
 | **url**         | `str`            | Link to job posting            | https://google.com/link/to/job/posting |
 | **terms**   | `[str]`          | Array of terms available for internship | ["Summer 2024", "Fall 2023"] |
 | **locations**   | `[str]`          | Array of locations available for internship | ["Mountain View, CA", "Remote"] |
@@ -75,9 +75,10 @@ We have a few github issue templates that can be found in `.github/ISSUE_TEMPLAT
 4) If there is any issue with the github action, it will respond to the issue with what occured. For more information, you can look in the actions tab on the repo to see why the action failed.
 5) If there are no issues with the action, then the issue will be autoclosed and the new internship or edits should be reflected in listings.json.
 
-## Github action
+## Github actions
 
-The github action is responsible for adding new contributions and edits to `listings.json`
+### Contribution Approved
+A github action called "Contribution Approved" is responsible for adding new contributions and edits to `listings.json`
 > Note that it does not directly edit any README files, only the listings.json file.
 
 The github action runs every time a new label is added to an issue. However, it skips every run except for those where the label added is the "approved" label.
@@ -91,17 +92,20 @@ In `.github/workflows/actions.yml`, you will find the github action. Here is wha
 6) The issue that sparked this github action will be closed.
 7) If any one of these steps fails, this will respond to the issue that spawned this process with the error.
 
+
+### Update READMEs
+
+This is a separate github action that can be manually run, but it also runs every time a commit is made to listings.json. This github action will reformat the tables in both READMEs to include the updated information in listings.json.
+
 ## External Script
 
-There is a private script that runs externally once per day which will do the following:
+There is a private script that runs externally once per day, which will do the following:
 1) Pull new internships from Simplify's database.
 2) Add these internships to listings.json.
-3) Export listings.json as a table to embed in `README.md` and `README-offseason.md`.
 
 ## Miscellaneous information:
 
-- The listings are grouped by company and then sorted based on the date posted of the oldest internship from each company.
-- It is possible that internships might appear twice if the link in the Simplify database does not match the one from the contributor. Set the non-simplify one as "is_visible: false" in listings.json. This can also be done through an edit_internship issue template.
+- The listings are sorted based on date posted
 
 
 ## Why the Change?

@@ -5,15 +5,7 @@ import sys
 import uuid
 from datetime import datetime
 import os
-
-def fail(why):
-    setOutput("error_message", why)
-    exit(1)
-
-
-def setOutput(key, value):
-    with open(os.environ['GITHUB_OUTPUT'], 'a') as fh:
-        print(f'{key}={value}', file=fh)
+import util
 
 
 def add_https_to_url(url):
@@ -27,7 +19,7 @@ def getData(body, is_edit, username):
     lines = [text.strip("# ") for text in body.split("\n\n")]
     #["Company Name", "_No response_", "Internship Title", "_No response_", "Link to Internship Posting", "example.com/link/to/posting", "Locatio", "San Franciso, CA | Austin, TX | Remote" ,"What term(s) is this internship offered for?", "_No response_"]
     
-    data["date_updated"] = datetime.now().strftime("%m/%d/%Y")
+    data["date_updated"] = int(datetime.now().timestamp())
 
     if "no response" not in lines[1].lower():
         data["url"] = add_https_to_url(lines[1].strip())
@@ -46,11 +38,11 @@ def getData(body, is_edit, username):
 
     email = lines[17 if is_edit else 15].lower()
     if "no response" not in email:
-        setOutput("commit_email", email)
-        setOutput("commit_username", username)
+        util.setOutput("commit_email", email)
+        util.setOutput("commit_username", username)
     else:
-        setOutput("commit_email", "action@github.com")
-        setOutput("commit_username", "GitHub Action")
+        util.setOutput("commit_email", "action@github.com")
+        util.setOutput("commit_username", "GitHub Action")
     
     return data
 
@@ -71,7 +63,7 @@ def main():
     edit_internship = "edit_internship" in [label["name"] for label in event_data["issue"]["labels"]]
     
     if not new_internship and not edit_internship:
-        fail("Only new_internship and edit_internship issues can be approved")
+        util.fail("Only new_internship and edit_internship issues can be approved")
     
 
     # GET DATA FROM ISSUE FORM
@@ -84,7 +76,7 @@ def main():
     if new_internship:
         data["source"] = issue_user
         data["id"] = str(uuid.uuid4())
-        data["date_posted"] = datetime.now().strftime("%m/%d/%Y")
+        data["date_posted"] = int(datetime.now().timestamp())
         data["company_url"] = ""
         data["is_visible"] = True
 
@@ -104,16 +96,16 @@ def main():
         (item for item in listings if item["url"] == data["url"]), None)
     if listing_to_update:
         if new_internship:
-            fail("This internship is already in our list. See CONTRIBUTING.md for how to edit a listing")
+            util.fail("This internship is already in our list. See CONTRIBUTING.md for how to edit a listing")
         for key, value in data.items():
             listing_to_update[key] = value
         
-        setOutput("commit_message", "updated listing: " + listing_to_update["title"] + " at " + listing_to_update["company_name"])
+        util.setOutput("commit_message", "updated listing: " + listing_to_update["title"] + " at " + listing_to_update["company_name"])
     else:
         if edit_internship:
-            fail("We could not find this internship in our list. Please double check you inserted the right url")
+            util.fail("We could not find this internship in our list. Please double check you inserted the right url")
         listings.append(data)
-        setOutput("commit_message", "added listing: " + data["title"] + " at " + data["company_name"])
+        util.setOutput("commit_message", "added listing: " + data["title"] + " at " + data["company_name"])
 
     with open(".github/scripts/listings.json", "w") as f:
         f.write(json.dumps(listings, indent=4))

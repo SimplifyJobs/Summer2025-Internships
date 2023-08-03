@@ -1,6 +1,6 @@
 name: New Internship
 description: Contribute an internship to our list
-title: "New Internship: <internship name>"
+title: "New Internship"
 labels: ["new_internship"]
 body:
   - type: markdown
@@ -14,7 +14,6 @@ body:
     attributes:
       label: Link to Internship Posting
       placeholder: ex. example.com/link/to/posting
-      value: example.com/link/to/posting
     validations:
       required: true
   - type: input
@@ -22,15 +21,16 @@ body:
     attributes:
       label: Company Name
       placeholder: ex. Google
-      value: Google
     validations:
       required: true
   - type: input
     id: title
     attributes:
       label: Internship Title
-      placeholder: ex. ML Software Intern
-      value: ML Software Intern
+      placeholder: ex. ML Software Intern (No Sponsorship)
+      description: |
+        If this position requires citizenship or does not offer sponsorship, 
+        please include it in parentheses at the end.
     validations:
       required: true
   - type: input
@@ -42,7 +42,6 @@ body:
         Please separate locations with a pipe "|" if there are multiple options. 
         Include Remote if remote option available.
       placeholder: San Franciso, CA | Austin, TX | Remote
-      value: ex. San Franciso, CA | Austin, TX | Remote
     validations:
       required: true
   - type: dropdown
