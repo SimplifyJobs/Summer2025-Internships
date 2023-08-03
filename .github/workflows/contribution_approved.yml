@@ -1,4 +1,4 @@
-name: issue labelled
+name: Contribution Approved
 
 on:
   issues:

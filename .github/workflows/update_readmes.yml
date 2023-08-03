@@ -1,4 +1,4 @@
-name: Listings.json updated
+name: Update READMEs
 
 on:
   push:
@@ -24,9 +24,9 @@ jobs:
         with:
           python-version: "3.9"
 
-      - name: execute listings_updated.py
+      - name: execute update_readmes.py
         id: python_script
-        run: python .github/scripts/listings_updated.py
+        run: python .github/scripts/update_readmes.py
 
       - name: commit files
         if: success()
