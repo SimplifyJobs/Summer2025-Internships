@@ -57,6 +57,7 @@ def main():
         f.write(json.dumps(event_data, indent=4))
     util.setOutput("commit_email", "action@github.com")
     util.setOutput("commit_username", "GitHub Action")
+    util.setOutput("commit_message", "test")
 
     return
 
