@@ -6089,5 +6089,23 @@
         ],
         "company_url": "https://simplify.jobs/c/HRL-Laboratories",
         "is_visible": true
+    },
+    {
+        "date_updated": 1691087129,
+        "url": "https://example.com/test",
+        "company_name": "TEST COMPANY",
+        "title": "ML INTERNSHIP",
+        "locations": [
+            "SF"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "active": true,
+        "source": "matttreed",
+        "id": "20dc8daa-76eb-499c-a7ce-9356da71afb7",
+        "date_posted": 1691087129,
+        "company_url": "",
+        "is_visible": true
     }
 ]
