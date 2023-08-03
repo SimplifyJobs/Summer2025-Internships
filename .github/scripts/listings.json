@@ -5609,5 +5609,23 @@
         "date_posted": "08/03/2023",
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": "08/03/2023",
+        "url": "https://careers.skyworksinc.com/job/Hillsboro-AI-Engineering-Intern-OR-97006/1050573100/",
+        "company_name": "Skyworks",
+        "title": "AI Engineering Intern",
+        "locations": [
+            "Hillsboro, OR"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "active": true,
+        "source": "hemanthy1",
+        "id": "f02f97fd-7982-4d1a-b0b6-3fee1b29ba27",
+        "date_posted": "08/03/2023",
+        "company_url": "",
+        "is_visible": true
     }
 ]
