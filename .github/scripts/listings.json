@@ -6107,5 +6107,23 @@
         "date_posted": 1691087129,
         "company_url": "",
         "is_visible": false
+    },
+    {
+        "date_updated": 1691088914,
+        "url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25037&siteid=5014&PageType=JobDetails&jobid=741380",
+        "company_name": "Lockheed Martin",
+        "title": "Software Engineering Intern",
+        "locations": [
+            "Remote"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "active": true,
+        "source": "RaiJashan17",
+        "id": "4d452bfa-d70e-4d92-87c7-2c2b460b52c8",
+        "date_posted": 1691088914,
+        "company_url": "",
+        "is_visible": true
     }
 ]
