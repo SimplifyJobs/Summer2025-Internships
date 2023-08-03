@@ -1422,11 +1422,11 @@
         "company_name": "Fyusion",
         "id": "c9061fa0-beb8-4c43-b13a-ff96309fa7f3",
         "title": "Computer Vision Intern - Deep Learning",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
-        "date_updated": 1691086977,
+        "date_updated": 1691087081,
         "url": "https://jobs.lever.co/fyusion/31540b34-b559-4f3b-8c0a-688d504d7288/apply",
         "locations": [
             "SF"
