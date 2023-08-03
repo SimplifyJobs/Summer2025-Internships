@@ -1,6 +1,6 @@
 name: New Internship
 description: Contribute an internship to our list
-title: "New Internship: <internship name>"
+title: "New Internship"
 labels: ["new_internship"]
 body:
   - type: markdown
@@ -27,7 +27,10 @@ body:
     id: title
     attributes:
       label: Internship Title
-      placeholder: ex. ML Software Intern
+      placeholder: ex. ML Software Intern (No Sponsorship)
+      description: |
+        If this position requires citizenship or does not offer sponsorship, 
+        please include it in parentheses at the end.
     validations:
       required: true
   - type: input
