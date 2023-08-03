@@ -1,6 +1,6 @@
 name: Edit Internship
 description: Edit an internship on our list
-title: "Editing Internship:"
+title: "Editing Internship"
 labels: ["edit_internship"]
 body:
   - type: markdown
