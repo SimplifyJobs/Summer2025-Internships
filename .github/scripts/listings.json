@@ -4268,7 +4268,7 @@
         "company_name": "Artisan Partners",
         "id": "15c72218-6ed0-48bc-8bf1-dab5a18b81cc",
         "title": "Software Developer Intern - Marketing & Distribution",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -4424,7 +4424,7 @@
         "company_name": "Intel",
         "id": "b862383b-4d5b-48bf-b2a5-ba4e4e92870d",
         "title": "Design Automation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -6125,6 +6125,96 @@
         "id": "4d452bfa-d70e-4d92-87c7-2c2b460b52c8",
         "date_posted": 1691088914,
         "company_url": "",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Asana Early Career Programs",
+        "id": "5556d8cb-c11b-4e25-8f20-64682733d22e",
+        "title": "SF Winter Software Engineering Internship",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1691105463,
+        "date_posted": 1691105463,
+        "url": "https://boards.greenhouse.io/earlycareerprograms/jobs/5240224",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/2c84b89b-725d-4ae9-9b6e-f6230cbf3d8d",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Sezzle",
+        "id": "dd91ea20-d350-49b4-a0c3-cd24aee221de",
+        "title": "Data Science Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1691104693,
+        "date_posted": 1691104693,
+        "url": "https://boards.greenhouse.io/sezzle/jobs/5703601003",
+        "locations": [
+            "Minneapolis, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Sezzle",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Point72",
+        "id": "180bd680-96fb-4069-a847-daf86d11d550",
+        "title": "2024 Summer Internship - Data Scientist - Proprietary Research",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1691104706,
+        "date_posted": 1691104706,
+        "url": "https://boards.greenhouse.io/point72/jobs/6875674002",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Point72",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Point72",
+        "id": "e738af7e-485d-4322-95e7-75ddb0ab0420",
+        "title": "2024 Summer Internship - Data Engineer - Proprietary Research",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1691104706,
+        "date_posted": 1691104706,
+        "url": "https://boards.greenhouse.io/point72/jobs/6875691002",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Point72",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Sezzle",
+        "id": "04de6428-bb1a-4a42-82d8-a4be9cf54dd0",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1691104689,
+        "date_posted": 1691104689,
+        "url": "https://boards.greenhouse.io/sezzle/jobs/5703577003",
+        "locations": [
+            "Minneapolis, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Sezzle",
         "is_visible": true
     }
 ]
