@@ -21,13 +21,13 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 ---
 <div align="center">
 	<p>
-		<a href="https://simplify.jobs/?utm_source=pittcsc&utm_medium=internships_repo">
+		<a href="https://simplify.jobs/?utm_source=GHList&utm_medium=banner">
 			<b>Applying to internships?</b>
 			<br>
 			Autofill all your applications in a single click.
 			<br>
 			<div>
-				<a href="https://simplify.jobs/?utm_source=pittcsc&utm_medium=internships_repo">
+				<a href="https://simplify.jobs/?utm_source=GHList&utm_medium=banner">
           <img src="https://res.cloudinary.com/dpeo4xcnc/image/upload/v1636594918/simplify_pittcsc.png" width="450" alt="Simplify">
         </a>
 			</div>
