@@ -6216,5 +6216,134 @@
         ],
         "company_url": "https://simplify.jobs/c/Sezzle",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Belvedere Trading",
+        "id": "633e3ffc-370c-4bab-8b60-8286be8e77b0",
+        "title": "Junior Trader Intern - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1691161772,
+        "date_posted": 1691161772,
+        "url": "https://jobs.lever.co/belvederetrading/2faf3199-5312-4f58-bbb4-4504d565168d/apply",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Belvedere-Trading",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Belvedere Trading",
+        "id": "924f098c-9903-4842-b684-7aab04f957d7",
+        "title": "Junior Quantitative Trading Analyst Intern - Summer 2024 Chicago",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1691161776,
+        "date_posted": 1691161776,
+        "url": "https://jobs.lever.co/belvederetrading/982414fc-a2d2-4152-8735-78a47fe7b4c2/apply",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Belvedere-Trading",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Belvedere Trading",
+        "id": "c5db3eae-bc3a-425d-ad48-cebdf5720f79",
+        "title": "Software Engineer Intern - Summer 2024 Boulder",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1691161774,
+        "date_posted": 1691161774,
+        "url": "https://jobs.lever.co/belvederetrading/1dfa7e9c-7e30-4a11-a489-bd777f112848/apply",
+        "locations": [
+            "Boulder, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Belvedere-Trading",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Belvedere Trading",
+        "id": "91d9f52e-ac15-4b7d-884c-45f2bd14ae45",
+        "title": "Software Engineer Intern - Summer 2024 Chicago",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1691161772,
+        "date_posted": 1691161772,
+        "url": "https://jobs.lever.co/belvederetrading/f63b36b4-a5b6-4697-97cf-2af02a47e9d9/apply",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Belvedere-Trading",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Fidelity Investments",
+        "id": "7c67c639-94b7-4f94-838b-7b922c9fdc69",
+        "title": "Quantitative Development Internship",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1691161691,
+        "date_posted": 1691161691,
+        "url": "https://wd1.myworkdaysite.com/recruiting/fmr/FidelityCareers/job/Boston-MA/Quantitative-Development-Internship_2081276-1",
+        "locations": [
+            "Cambridge, MA",
+            "Durham, NC",
+            "Merrimack, NH",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Fidelity",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "JD.com Inc",
+        "id": "ddc3c368-fd1b-494d-8f2c-c6159083a936",
+        "title": "JD Logistics \u2013 Data Analyst Intern - Logistics/Supply Chain",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1691133377,
+        "date_posted": 1691133377,
+        "url": "https://boards.greenhouse.io/jdcom/jobs/6452981002",
+        "locations": [
+            "Fontana, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/JD-com-Inc",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "JD.com Inc",
+        "id": "64ffd433-e533-476e-ac7d-e334067e1c1d",
+        "title": "JD Logistics \u2013 Data Analyst Intern - Logistics/Supply Chain",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1691133377,
+        "date_posted": 1691133377,
+        "url": "https://boards.greenhouse.io/jdcom/jobs/6452990002",
+        "locations": [
+            "City of Industry, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/JD-com-Inc",
+        "is_visible": true
     }
 ]
