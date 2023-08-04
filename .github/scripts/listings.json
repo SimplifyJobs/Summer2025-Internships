@@ -6363,5 +6363,26 @@
         "date_posted": 1691183149,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1691183260,
+        "url": "https://www.databricks.com/company/careers/open-positions?department=University%20Recruiting&location=AMER",
+        "company_name": "Databricks",
+        "title": "Software Engineering Intern",
+        "locations": [
+            "Mountain View, CA",
+            "San Francisco, CA",
+            "Bellevue, WA"
+        ],
+        "terms": [
+            "Winter 2024",
+            "Summer 2024"
+        ],
+        "active": true,
+        "source": "justinyaodu",
+        "id": "daa7aaf5-d636-4761-be5b-18073e5bd8e2",
+        "date_posted": 1691183260,
+        "company_url": "",
+        "is_visible": true
     }
 ]
