@@ -6457,5 +6457,24 @@
         "date_posted": 1691256114,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1691256144,
+        "url": "https://www.tesla.com/careers/search/job/vehicle-hardware-software-engineering-and-machine-learning-internship-spring-summer-2024-206421",
+        "company_name": "Tesla",
+        "title": "Software Engineering & Machine Learning Intern - Vehicle Hardware",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "terms": [
+            "Spring 2024",
+            "Summer 2024"
+        ],
+        "active": true,
+        "source": "RiRah123",
+        "id": "7528c4b0-035c-4756-9a00-27b481c0a732",
+        "date_posted": 1691256144,
+        "company_url": "",
+        "is_visible": true
     }
 ]
