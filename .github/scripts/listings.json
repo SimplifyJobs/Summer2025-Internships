@@ -2328,7 +2328,7 @@
         "company_name": "NVIDIA",
         "id": "330cf6b7-d92a-49af-84ed-9f03d1180af9",
         "title": "Phd Research Intern - AI Algorithm",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2023"
         ],
@@ -4052,7 +4052,7 @@
         "company_name": "Asana Early Career Programs",
         "id": "f99b2299-fb40-406c-92f1-ea07daaf1e7e",
         "title": "Data Science Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -4070,7 +4070,7 @@
         "company_name": "Asana Early Career Programs",
         "id": "83317b3f-e55b-409c-a83c-62fecdcf7f28",
         "title": "Software Engineering Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -4088,7 +4088,7 @@
         "company_name": "Asana Early Career Programs",
         "id": "a0a3d61d-b0ad-4252-b535-a1741c4d227f",
         "title": "Data Science Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -4106,7 +4106,7 @@
         "company_name": "Asana Early Career Programs",
         "id": "61f34a50-5cd2-477d-b527-c971a0f100fc",
         "title": "Software Engineering Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -4124,7 +4124,7 @@
         "company_name": "Asana Early Career Programs",
         "id": "847fb685-1b45-4a50-9392-8a3e2059805c",
         "title": "Software Engineering Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -4268,7 +4268,7 @@
         "company_name": "Artisan Partners",
         "id": "15c72218-6ed0-48bc-8bf1-dab5a18b81cc",
         "title": "Software Developer Intern - Marketing & Distribution",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -4442,7 +4442,7 @@
         "company_name": "StackAdapt",
         "id": "fd4a74d7-ed92-40b5-9eb4-e102f20bb6c3",
         "title": "Software Engineer Intern - Backend",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -4460,7 +4460,7 @@
         "company_name": "Bank of Montreal (BMO)",
         "id": "9aef646d-5bb4-4240-8071-8375a7d9c590",
         "title": "Software Developer \u2013 Co-op/Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2023"
         ],
@@ -4478,7 +4478,7 @@
         "company_name": "Vestmark",
         "id": "90d693b7-1bae-401a-a20f-129cb1871d67",
         "title": "Intern \u2013 Software Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2023"
         ],
@@ -4496,7 +4496,7 @@
         "company_name": "Bank of Montreal (BMO)",
         "id": "868c102d-691d-408c-8f44-e0066e14b1fa",
         "title": "Data Scientist \u2013 Fraud Analytics Intern \u2013 Internship - Fall 2023 - 4 Months - Part-Time - Evergreen - Open",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2023"
         ],
@@ -6132,7 +6132,7 @@
         "company_name": "Asana Early Career Programs",
         "id": "5556d8cb-c11b-4e25-8f20-64682733d22e",
         "title": "SF Winter Software Engineering Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2024"
         ],
@@ -6240,7 +6240,7 @@
         "company_name": "Belvedere Trading",
         "id": "924f098c-9903-4842-b684-7aab04f957d7",
         "title": "Junior Quantitative Trading Analyst Intern - Summer 2024 Chicago",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -6383,6 +6383,60 @@
         "id": "daa7aaf5-d636-4761-be5b-18073e5bd8e2",
         "date_posted": 1691183260,
         "company_url": "",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Jump Trading",
+        "id": "0af15898-e2bd-48ee-8f3f-a6bcba0f0c9e",
+        "title": "Campus \u2013 Intern - Quantitative Researcher",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1691192097,
+        "date_posted": 1691192097,
+        "url": "https://www.jumptrading.com/careers/4674090?gh_jid=4674090",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Jump-Trading",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Crowdstrike",
+        "id": "857ed78e-792c-478f-a357-b8655c84daf8",
+        "title": "Sales Excellence Data Analytics Extended Intern - Remote",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1691191165,
+        "date_posted": 1691191165,
+        "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-us/crowdstrikecareers/job/USA---Remote-TX/Sales-Excellence-Data-Analytics-Extended-Intern--Remote-_R14069",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Crowdstrike",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Taboola",
+        "id": "6b8c0e6e-7199-44de-8d6e-e05633ed10dc",
+        "title": "Backend Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1691191351,
+        "date_posted": 1691191351,
+        "url": "https://www.taboola.com/careers/job/5231820?gh_jid=5231820",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Taboola",
         "is_visible": true
     }
 ]
