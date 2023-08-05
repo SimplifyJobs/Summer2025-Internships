@@ -6438,5 +6438,24 @@
         ],
         "company_url": "https://simplify.jobs/c/Taboola",
         "is_visible": true
+    },
+    {
+        "date_updated": 1691256114,
+        "url": "https://www.tesla.com/careers/search/job/cell-manufacturing-controls-and-software-automation-engineering-internship-spring-summer-2024-206610",
+        "company_name": "Tesla",
+        "title": "Software Automation Engineering Intern - Cell Manufacturing",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "terms": [
+            "Spring 2024",
+            "Summer 2024"
+        ],
+        "active": true,
+        "source": "RiRah123",
+        "id": "674db0df-ee78-49c8-a161-0c2bc0378d62",
+        "date_posted": 1691256114,
+        "company_url": "",
+        "is_visible": true
     }
 ]
