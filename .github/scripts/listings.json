@@ -3321,22 +3321,21 @@
         "id": "c1aebc26-f4f0-402a-b3c1-d1f0500a3dca"
     },
     {
-        "company_name": "Palantir Technologies",
+        "company_name": "Palantir",
         "locations": [
-            "NYC",
-            "Washington, DC"
+            "Palo Alto"
         ],
-        "title": "Palantir Path Intern (must be enrolled in a U.S. bachelor's program)",
+        "title": "Path Intern",
         "date_posted": 1688702400,
         "terms": [
             "Summer 2024"
         ],
-        "active": true,
+        "active": false,
         "url": "https://www.palantir.com/careers/students/path/",
-        "is_visible": true,
+        "is_visible": false,
         "source": "Markdown",
         "company_url": "",
-        "date_updated": 1690430400,
+        "date_updated": 1691356246,
         "id": "14ba66f7-0d92-4a78-97dc-a257f5293dfd"
     },
     {
