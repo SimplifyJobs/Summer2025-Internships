@@ -336,6 +336,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | **Tesla** | Software Automation Engineering Intern - Cell Manufacturing | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/cell-manufacturing-controls-and-software-automation-engineering-internship-spring-summer-2024-206610?utm_source=SimplifyGH&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 05 |
 | **Tesla** | Software Engineering & Machine Learning Intern - Vehicle Hardware | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/vehicle-hardware-software-engineering-and-machine-learning-internship-spring-summer-2024-206421?utm_source=SimplifyGH&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 05 |
 | **Tesla** | Software Engineering Intern - Energy | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/energy-software-engineering-spring-summer-2024-206805?utm_source=SimplifyGH&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 05 |
+|**Bayer** | Cloud Developer Intern | Residence Based | <a href="https://jobs.bayer.com/job/Residence-Based-Cloud-Developer-Intern-Resi/966220501/?utm_source=LINKEDIN&utm_medium=referrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 03 |
 
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
 [⬆️ Back to Top ⬆️](https://github.com/SimplifyJobs/Summer2024-Internships#the-list-)
