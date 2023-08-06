@@ -1,0 +1,96 @@
+name: Edit Internship
+description: Edit an internship on our list
+title: "Editing Internship"
+labels: ["edit_internship"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## Edit Internship Form
+        Thanks for taking the time to contribute!
+        Make sure you've read `CONTRIBUTING.md` before submitting your edits
+        Please only fill in **link, reason, and whichever fields you would like to edit**
+        You may leave the others empty
+  - type: input
+    id: url
+    attributes:
+      label: Link to Internship Posting
+      placeholder: ex. example.com/link/to/posting
+    validations:
+      required: true
+  - type: input
+    id: company_name
+    attributes:
+      label: Company Name
+      placeholder: ex. Google
+    validations:
+      required: false
+  - type: input
+    id: title
+    attributes:
+      label: Internship Title
+      placeholder: ex. ML Software Intern
+    validations:
+      required: false
+  - type: input
+    id: location
+    attributes:
+      label: Location
+      description: |
+        Where is the internship located?
+        Please separate locations with a pipe "|" if there are multiple options. 
+        Include Remote if remote option available.
+      placeholder: ex. San Franciso, CA | Austin, TX | Remote
+    validations:
+      required: false
+  - type: dropdown
+    id: terms
+    attributes:
+      label: What term(s) is this internship offered for?
+      multiple: true
+      options:
+        - Fall 2023
+        - Winter 2024
+        - Spring 2024
+        - Summer 2024
+        - Fall 2024
+    validations:
+      required: false
+  - type: dropdown
+    id: active
+    attributes:
+      label: Is this internship currently accepting applications?
+      multiple: false
+      options:
+        - "Yes"
+        - "No"
+    validations:
+      required: false
+  - type: checkboxes
+    id: is_visible
+    attributes:
+      label: Remove this internship from the list?
+      description: Only check this box if this internship is fake, does not fit the theme of the repo, or is offensive.
+      options:
+        - label: "Yes, remove this internship"
+  - type: textarea
+    id: reason
+    attributes:
+      label: Reason for edit
+      description: If the reason for your edit is not obvious, please explain here.
+      placeholder: This internship is no longer accepting applications...
+    validations:
+      required: false
+  - type: input
+    id: email
+    attributes:
+      label: Email associated with your GitHub account (Optional)
+      description: |
+        If you would like to be listed as the contributor to the repository when our github action 
+        commits your contribution to the repo, please provide your email. This is the only time your 
+        email will be used. If left blank, your contribution will still be made, but it will be made 
+        by the bot actions@github.com.
+      placeholder: ex. firstLast@gmail.com
+    validations:
+      required: false
+      

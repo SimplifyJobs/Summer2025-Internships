@@ -1,0 +1,49 @@
+name: Update READMEs
+
+on:
+  push:
+    paths:
+      - '.github/scripts/listings.json'
+  workflow_dispatch:
+
+concurrency: 
+  group: listings_update
+  cancel-in-progress: true
+
+
+jobs:
+  run-python-script:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v3
+        with:
+          python-version: "3.9"
+
+      - name: execute update_readmes.py
+        id: python_script
+        run: python .github/scripts/update_readmes.py
+
+      - name: commit files
+        if: success()
+        run: |
+          git config --local user.email action@github.com
+          git config --local user.name 'Github Action'
+          git add README.md
+          git add README-Off-Season.md
+          git diff-index --quiet HEAD || (git commit -a -m "${{ steps.python_script.outputs.commit_message }}" --allow-empty)
+
+      - name: push changes
+        if: success()
+        uses: ad-m/github-push-action@v0.6.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: dev
+
+      - name: Problem With Action
+        run: echo "There was an error with the github action. ${{ steps.python_script.outputs.error_message }}"
+        if: failure()
