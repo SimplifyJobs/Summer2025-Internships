@@ -130,7 +130,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | **Voloridge Investment Management** | Trading Engineer Intern | Jupiter, FL | 🔒 | Jul |
 | **Volvo** | Intern: Engineering, Embedded Software | Hagerstown, MD | 🔒 | Jul |
 | **Kinaxis** | Service Automation Co-Op/Intern - GCC Operations | Canada | 🔒 | Jul |
-| **Palantir Technologies** | Palantir Path Intern (must be enrolled in a U.S. bachelor's program) | NYC <br/> Washington, DC | <a href="https://www.palantir.com/careers/students/path/?utm_source=SimplifyGH&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul |
 | **Kimley-Horn** | Software Developer Intern (No Sponsorship) | Raleigh, NC | <a href="https://careers-kimley-horn.icims.com/jobs/9773/software-developer-intern/job?utm_source=SimplifyGH&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul |
 | **Mercedes-Benz** | Data Products Intern | Sunnyvale, CA | <a href="https://jobs.lever.co/MBRDNA/59ae463c-5d10-4bb6-9dfd-4e26c7d84a69?utm_source=SimplifyGH&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul |
 | **Bridgewater Associates** | Investment Engineer Intern | Westport, CT | 🔒 | Jul |
