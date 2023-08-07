@@ -6345,5 +6345,24 @@
         ],
         "company_url": "https://simplify.jobs/c/JD-com-Inc",
         "is_visible": true
+    },
+    {
+        "date_updated": 1691424494,
+        "url": "https://example.com/test/test",
+        "company_name": "TEST",
+        "title": "Testy",
+        "locations": [
+            "Sana Francisco"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "matttreed",
+        "id": "eb4180d6-24fc-4b4e-a209-1fb67637cf24",
+        "date_posted": 1691424494,
+        "company_url": "",
+        "is_visible": true
     }
 ]
