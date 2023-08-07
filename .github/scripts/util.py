@@ -20,14 +20,15 @@ def fail(why):
     exit(1)
 
 def getLocations(listing):
-
+    locations = "</br>".join(listing["locations"])
     if len(listing["locations"]) <= 3:
-        return "</br>".join(listing["locations"])
-    return "</br>".join(listing["locations"][:2] + [str(len(listing["locations"]) - 2) + " other locations"])
+        return locations
+    num = str(len(listing["locations"])) + " locations"
+    return f'<details><summary>**{num}**</summary>{locations}</details>'
 
 def getSponsorship(listing):
     if listing["sponsorship"] == "Does Not Offer Sponsorship":
-        return " 🛂" #"💼❌"
+        return " 🛂"
     elif listing["sponsorship"] == "U.S. Citizenship is Required":
         return " 🇺🇸"
     return ""
