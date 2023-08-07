@@ -21,11 +21,9 @@ def fail(why):
 
 def getLocations(listing):
 
-    if len(listing["locations"]) == 1:
-        return listing["locations"][0]
-    if len(listing["locations"]) == 2:
-        return listing["locations"][0] + " <br/> " + listing["locations"][1]
-    return listing["locations"][0] + " and " + str(len(listing["locations"]) - 1) + " other locations"
+    if len(listing["locations"]) <= 3:
+        return "</br>".join(listing["locations"])
+    return "</br>".join(listing["locations"][:2] + [" and " + str(len(listing["locations"]) - 2) + " other locations"])
 
 def getLink(listing):
     if not listing["active"]:

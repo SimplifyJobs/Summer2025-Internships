@@ -32,12 +32,17 @@ def getData(body, is_edit, username):
         data["locations"] = [line.strip() for line in lines[7].split("|")]
     if "no response" not in lines[9].lower():
         data["terms"] = [line.strip() for line in lines[9].split(",")]
-    if "none" not in lines[11].lower():
-        data["active"] = "yes" in lines[11].lower()
+    if "no response" not in lines[11].lower():
+        data["sponsorship"] = "Other"
+        for option in ["Offers Sponsorship", "Does Not Offer Sponsorship", "U.S. Citizenship is Required"]:
+            if option in lines[11]:
+                data["sponsorship"] = option
+    if "none" not in lines[13].lower():
+        data["active"] = "yes" in lines[13].lower()
     if is_edit:
-        data["is_visible"] = "[x]" not in lines[13].lower()
+        data["is_visible"] = "[x]" not in lines[15].lower()
 
-    email = lines[17 if is_edit else 15].lower()
+    email = lines[19 if is_edit else 17].lower()
     if "no response" not in email:
         util.setOutput("commit_email", email)
         util.setOutput("commit_username", username)
@@ -53,14 +58,6 @@ def main():
 
     with open(event_file_path) as f:
         event_data = json.load(f)
-
-    # with open("debug.json", "w") as f:
-    #     f.write(json.dumps(event_data, indent=4))
-    # util.setOutput("commit_email", "action@github.com")
-    # util.setOutput("commit_username", "GitHub Action")
-    # util.setOutput("commit_message", "test")
-
-    # return
 
     
     # CHECK IF NEW OR OLD INTERNSHIP
