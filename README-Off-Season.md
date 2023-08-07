@@ -39,6 +39,11 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 ## The List 🚴🏔
 
+
+ - 🛂 - Does NOT offer Sponsorship
+ - 🇺🇸 - Requires U.S. Citizenship
+ - 🔒 - Internship application is closed
+
 > **Note**:
 > This README file is for **non-summer internships only**. For summer internships, please see the [Summer 2024 README](https://github.com/SimplifyJobs/Summer2024-Internships/blob/dev/README.md).
 
