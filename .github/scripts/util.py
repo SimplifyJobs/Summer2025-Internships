@@ -26,8 +26,8 @@ def getLocations(listing):
     return "</br>".join(listing["locations"][:2] + [str(len(listing["locations"]) - 2) + " other locations"])
 
 def getSponsorship(listing):
-    if listing["sponsorship"] == "Does Not Offer Sponsorship":
-        return "🌐" #"💼❌"
+    if listing["sponsorship"] == "Offers Sponsorship":
+        return "🌎" #"🌐" #"💼❌"
     elif listing["sponsorship"] == "U.S. Citizenship is Required":
         return "🇺🇸"
     return ""
