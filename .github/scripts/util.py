@@ -131,7 +131,8 @@ def sortListings(listings):
 def checkSchema(listings):
     props = ["source", "company_name",
              "id", "title", "active", "date_updated", "is_visible",
-             "date_posted", "url", "locations", "company_url", "terms"]
+             "date_posted", "url", "locations", "company_url", "terms",
+             "sponsorship"]
     for listing in listings:
         for prop in props:
             if prop not in listing:
