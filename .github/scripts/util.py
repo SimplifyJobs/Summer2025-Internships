@@ -27,7 +27,7 @@ def getLocations(listing):
 
 def getSponsorship(listing):
     if listing["sponsorship"] == "Does Not Offer Sponsorship":
-        return "💼❌"
+        return "🌐" #"💼❌"
     elif listing["sponsorship"] == "U.S. Citizenship is Required":
         return "🇺🇸"
     return ""
