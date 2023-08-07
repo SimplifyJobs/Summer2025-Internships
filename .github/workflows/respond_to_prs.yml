@@ -8,6 +8,10 @@ jobs:
   comment:
     runs-on: ubuntu-latest
     steps:
+
+    - name: Checkout Repository
+      uses: actions/checkout@v3
+      
     - name: Comment on PR
       run: gh pr comment ${{ github.event.pull_request.number }} --body "Hey ${{ github.event.pull_request.user.name }}! Thank you for submitting a PR. If you are attempted to add/edit an internship to our list, please close your pr and instead submit your submission as an issue (See [CONTRIBUTING.md](https://github.com/SimplifyJobs/Summer2024-Internships/blob/dev/CONTRIBUTING.md) for more ). If not, then we'll take a look at your pr and have it approved shortly."
       env:
