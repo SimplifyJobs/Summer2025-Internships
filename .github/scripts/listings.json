@@ -6866,5 +6866,43 @@
         "company_url": "",
         "is_visible": true,
         "sponsorship": "Does Not Offer Sponsorship"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "IMC Trading",
+        "id": "ae598fb7-5599-45f3-93d7-e50a0c2c26e7",
+        "title": "Quant Trader Intern - Summer 2021",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1689750956,
+        "date_posted": 1689750956,
+        "url": "https://imc.wd5.myworkdayjobs.com/en-US/invitation/job/Chicago/Quant-Trader-Intern---Summer-2021_REQ-00811",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/imc-trading",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "IMC Trading",
+        "id": "a7813fb6-456a-4e09-94c7-6e810b8b3aae",
+        "title": "Software Engineer Intern - Summer 2022",
+        "active": true,
+        "terms": [
+            "Summer 2022"
+        ],
+        "date_updated": 1691190246,
+        "date_posted": 1691190246,
+        "url": "https://imc.wd5.myworkdayjobs.com/en-US/invitation/job/Chicago/Software-Engineer-Intern----Summer-2022_REQ-01189",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/imc-trading",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
