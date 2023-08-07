@@ -6883,7 +6883,7 @@
             "Chicago, IL"
         ],
         "company_url": "https://simplify.jobs/c/imc-trading",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -6902,7 +6902,7 @@
             "Chicago, IL"
         ],
         "company_url": "https://simplify.jobs/c/imc-trading",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     }
 ]
