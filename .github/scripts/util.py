@@ -25,6 +25,13 @@ def getLocations(listing):
         return "</br>".join(listing["locations"])
     return "</br>".join(listing["locations"][:2] + [str(len(listing["locations"]) - 2) + " other locations"])
 
+def getSponsorship(listing):
+    if listing["sponsorship"] == "Does Not Offer Sponsorship":
+        return "💼❌"
+    elif listing["sponsorship"] == "U.S. Citizenship is Required":
+        return "🇺🇸"
+    return ""
+
 def getLink(listing):
     if not listing["active"]:
         return "🔒"
@@ -52,7 +59,7 @@ def create_md_table(listings, offSeason=False):
         company = f"[{company}]({company_url})" if len(
             company_url) > 0 and listing["active"] else company
         location = getLocations(listing)
-        position = listing["title"]
+        position = listing["title"] + getSponsorship(listing)
         terms = ", ".join(listing["terms"])
         link = getLink(listing)
         month = datetime.fromtimestamp(listing["date_posted"]).strftime('%b')
