@@ -85,6 +85,8 @@ def main():
 
     # remove utm-source
     utm = data["url"].find("?utm_source")
+    if utm == -1:
+        utm = data["url"].find("&utm_source")
     if utm != -1:
         data["url"] = data["url"][:utm]
 
