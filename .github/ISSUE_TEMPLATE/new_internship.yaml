@@ -27,7 +27,7 @@ body:
     id: title
     attributes:
       label: Internship Title
-      placeholder: ex. ML Software Intern (No Sponsorship)
+      placeholder: ex. ML Software Intern
     validations:
       required: true
   - type: input
