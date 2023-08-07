@@ -6347,7 +6347,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1691424494,
+        "date_updated": 1691424994,
         "url": "https://example.com/test/test",
         "company_name": "TEST",
         "title": "Testy",
@@ -6357,7 +6357,7 @@
         "terms": [
             "Summer 2024"
         ],
-        "sponsorship": "Offers Sponsorship",
+        "sponsorship": "U.S. Citizenship is Required",
         "active": true,
         "source": "matttreed",
         "id": "eb4180d6-24fc-4b4e-a209-1fb67637cf24",
