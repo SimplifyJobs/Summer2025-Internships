@@ -28,13 +28,13 @@ def getLocations(listing):
 def getLink(listing):
     if not listing["active"]:
         return "🔒"
-    link = listing["url"] + "?utm_source=Simplify-GH&ref=Simplify"
+    link = listing["url"] + "?utm_source=SimplifyGH&ref=Simplify"
     # return f'<a href="{link}" style="display: inline-block;"><img src="{SHORT_APPLY_BUTTON}" width="160" alt="Apply"></a>'
 
     if listing["source"] != "Simplify":
         return f'<a href="{link}"><img src="{LONG_APPLY_BUTTON}" width="118" alt="Apply"></a>'
     
-    simplifyLink = "https://simplify.jobs/p/" + listing["id"] + "?utm_source=GH-List"
+    simplifyLink = "https://simplify.jobs/p/" + listing["id"] + "?utm_source=GHList"
     return f'<a href="{link}"><img src="{SHORT_APPLY_BUTTON}" width="84" alt="Apply"></a> <a href="{simplifyLink}"><img src="{SQUARE_SIMPLIFY_BUTTON}" width="30" alt="Simplify"></a>'
  
 
