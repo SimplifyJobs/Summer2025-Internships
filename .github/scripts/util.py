@@ -23,7 +23,7 @@ def getLocations(listing):
 
     if len(listing["locations"]) <= 3:
         return "</br>".join(listing["locations"])
-    return "</br>".join(listing["locations"][:2] + [" and " + str(len(listing["locations"]) - 2) + " other locations"])
+    return "</br>".join(listing["locations"][:2] + [str(len(listing["locations"]) - 2) + " other locations"])
 
 def getLink(listing):
     if not listing["active"]:
