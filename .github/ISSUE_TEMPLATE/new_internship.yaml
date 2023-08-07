@@ -69,7 +69,7 @@ body:
         - U.S. Citizenship is Required
         - Other
     validations:
-      required: false
+      required: true
   - type: dropdown
     id: active
     attributes:
