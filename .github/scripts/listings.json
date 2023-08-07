@@ -6494,5 +6494,24 @@
         "date_posted": 1691256212,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1691424743,
+        "url": "https://www.vanguardjobs.com/job-search-results/?keyword=155135%20OR%20155134%20OR%20155124%20OR%20155126%20OR%20155125%20OR%20155138%20OR%20154888%20OR%20154890%20OR%20154891%20OR%20154778%20OR%20154777%20OR%20155079OR%20155397%20OR%20155147%20OR%20155148%20OR%20155149%20OR%20155150%20OR%20155153%20OR%20155154%20OR%20155155%20OR%20155156%20OR%20155151%20OR%20155152%20OR%20155079%20OR%20156565%20OR%20155397",
+        "company_name": "Vanguard",
+        "title": "IT Interns (No Sponsorship)",
+        "locations": [
+            "Malvern, PA",
+            "Charlotte, NC"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "active": true,
+        "source": "VanguardFan",
+        "id": "5f57a5c6-12ac-4136-a35d-0e030566b9c4",
+        "date_posted": 1691424743,
+        "company_url": "",
+        "is_visible": true
     }
 ]
