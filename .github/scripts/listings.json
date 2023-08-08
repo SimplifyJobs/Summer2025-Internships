@@ -2576,73 +2576,7 @@
             "Fall 2023"
         ],
         "date_updated": 1689739200,
-        "url": "https://jobs.lever.co/certik/cc4bc2b7-ee87-43be-81c9-09c8b0411a7e/apply",
-        "locations": [
-            "Seattle, WA",
-            "SF",
-            "Remote in USA",
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Certik",
-        "is_visible": true,
-        "date_posted": 1689739200,
-        "sponsorship": "Offers Sponsorship"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Certik",
-        "id": "854b92ca-4a15-4f64-aed1-b78e4ba1360a",
-        "title": "Internship - Development",
-        "active": true,
-        "terms": [
-            "Summer 2024"
-        ],
-        "date_updated": 1689739200,
-        "url": "https://jobs.lever.co/certik/2e33570a-f495-44ef-9d7d-a0c5a7fd8190/apply",
-        "locations": [
-            "Seattle, WA",
-            "SF",
-            "Remote in USA",
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Certik",
-        "is_visible": true,
-        "date_posted": 1689739200,
-        "sponsorship": "Offers Sponsorship"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Certik",
-        "id": "060015e8-5827-4c51-a56e-cda567016743",
-        "title": "Platform Engineering Intern",
-        "active": true,
-        "terms": [
-            "Summer 2024"
-        ],
-        "date_updated": 1689739200,
-        "url": "https://jobs.lever.co/certik/095fdcff-99e8-408d-bb8a-e638e44d0b40/apply",
-        "locations": [
-            "Seattle, WA",
-            "SF",
-            "Remote in USA",
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Certik",
-        "is_visible": true,
-        "date_posted": 1689739200,
-        "sponsorship": "Offers Sponsorship"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Certik",
-        "id": "b0eb7586-c63a-4d46-883c-b93401fbecec",
-        "title": "Full Stack Internship - Matrix",
-        "active": true,
-        "terms": [
-            "Summer 2024"
-        ],
-        "date_updated": 1689739200,
-        "url": "https://jobs.lever.co/certik/ca67aab6-9b8b-4c2f-ad80-ff5855292f48/apply",
+        "url": "https://jobs.lever.co/certik/cc4bc2b7-ee87-43be-81c9-09c8b0411a7e",
         "locations": [
             "Seattle, WA",
             "SF",
@@ -2670,10 +2604,10 @@
         "active": true,
         "url": "https://jobs.lever.co/certik/2e33570a-f495-44ef-9d7d-a0c5a7fd8190",
         "is_visible": true,
-        "source": "Markdown",
+        "source": "Simplify",
         "company_url": "https://simplify.jobs/c/Certik",
         "date_updated": 1690430400,
-        "id": "c783c999-09d9-47cd-a339-61375ac3acfe",
+        "id": "854b92ca-4a15-4f64-aed1-b78e4ba1360a",
         "sponsorship": "Offers Sponsorship"
     },
     {
@@ -2692,10 +2626,10 @@
         "active": true,
         "url": "https://jobs.lever.co/certik/095fdcff-99e8-408d-bb8a-e638e44d0b40",
         "is_visible": true,
-        "source": "Markdown",
+        "source": "Simplify",
         "company_url": "https://simplify.jobs/c/Certik",
         "date_updated": 1690430400,
-        "id": "010bfdf1-ea4f-453d-bf84-91bd727682c4",
+        "id": "060015e8-5827-4c51-a56e-cda567016743",
         "sponsorship": "Offers Sponsorship"
     },
     {
@@ -2714,10 +2648,10 @@
         "active": true,
         "url": "https://jobs.lever.co/certik/ca67aab6-9b8b-4c2f-ad80-ff5855292f48",
         "is_visible": true,
-        "source": "Markdown",
+        "source": "Simplify",
         "company_url": "https://simplify.jobs/c/Certik",
         "date_updated": 1690430400,
-        "id": "26af4425-3695-4afb-b91d-d759aaf61ab7",
+        "id": "b0eb7586-c63a-4d46-883c-b93401fbecec",
         "sponsorship": "Offers Sponsorship"
     },
     {
