@@ -945,7 +945,7 @@
         "company_name": "Fetch",
         "id": "af67715d-b33c-476c-9df8-71f547aee68d",
         "title": "Frontend Engineer Apprenticeship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -1652,7 +1652,7 @@
         "company_name": "Formlabs",
         "id": "fe976ad3-59c5-41fd-b977-aec0d3f06b9f",
         "title": "Algorithms Software Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2023"
         ],
@@ -1900,7 +1900,7 @@
         "company_name": "Capstone",
         "id": "df191a5b-d776-4c9a-9dad-7ff6a7fe36d0",
         "title": "Quantitative Risk Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -2359,7 +2359,7 @@
         "company_name": "Zipline",
         "id": "b7b2a22a-f42a-4477-ad38-e3d1899ae927",
         "title": "Embedded Systems Software Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2023"
         ],
@@ -3839,7 +3839,7 @@
         "company_name": "Workato",
         "id": "25e84640-9d56-46f6-8355-fd8da56b4ca5",
         "title": "Technical Writing Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -4434,7 +4434,7 @@
         "company_name": "Artisan Partners",
         "id": "15c72218-6ed0-48bc-8bf1-dab5a18b81cc",
         "title": "Software Developer Intern - Marketing & Distribution",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -5663,7 +5663,7 @@
         "company_name": "NVIDIA",
         "id": "0cfd1f74-ea5e-4e74-972a-f154e95cec20",
         "title": "Full-Stack Software Engineering Intern - AI Infrastructure - Winter 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2024"
         ],
@@ -6669,7 +6669,7 @@
         "company_name": "Jump Trading",
         "id": "0af15898-e2bd-48ee-8f3f-a6bcba0f0c9e",
         "title": "Campus \u2013 Intern - Quantitative Researcher",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -6688,7 +6688,7 @@
         "company_name": "Crowdstrike",
         "id": "857ed78e-792c-478f-a357-b8655c84daf8",
         "title": "Sales Excellence Data Analytics Extended Intern - Remote",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -6837,6 +6837,139 @@
         ],
         "company_url": "https://simplify.jobs/c/imc-trading",
         "is_visible": false,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "OpenFin",
+        "id": "bd1b04e6-03bb-4ce5-83de-606afcb955f2",
+        "title": "Engineering Intern",
+        "active": true,
+        "terms": [
+            "Spring 2023"
+        ],
+        "date_updated": 1691450350,
+        "date_posted": 1691450350,
+        "url": "https://boards.greenhouse.io/openfin95/jobs/5277187",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/OpenFin",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Ramp",
+        "id": "1dd3a459-5bdd-40c2-b78a-a2483ed064a9",
+        "title": "Software Engineer Internship - Frontend",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1691450828,
+        "date_posted": 1691450828,
+        "url": "https://jobs.ashbyhq.com/ramp/bbac1615-acf4-4d27-9100-47079ab35be5/application",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Ramp",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Garda Capital Partners",
+        "id": "d1bc12bf-bb73-4381-b65e-edd90a714047",
+        "title": "Quantitative Development Intern - Rates",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1691435770,
+        "date_posted": 1691421096,
+        "url": "https://boards.greenhouse.io/gardacp/jobs/4579779004",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Garda-Capital-Partners",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "OpenFin",
+        "id": "f80c60ed-e443-4b16-bc64-228515426ac4",
+        "title": "Engineering Intern",
+        "active": true,
+        "terms": [
+            "Spring 2023"
+        ],
+        "date_updated": 1691450348,
+        "date_posted": 1691450348,
+        "url": "https://boards.greenhouse.io/openfin95/jobs/5277131",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/OpenFin",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Garda Capital Partners",
+        "id": "85ee89b7-aa57-42c2-b96b-b74c12fff638",
+        "title": "Quantitative Development Intern - Equities & Commodity Derivatives",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1691428667,
+        "date_posted": 1691363916,
+        "url": "https://boards.greenhouse.io/gardacp/jobs/4948535004",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Garda-Capital-Partners",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Capital One",
+        "id": "9178111a-baa6-4763-b526-2b0938d06153",
+        "title": "Technology Early Internship Program - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1691421110,
+        "date_posted": 1691421110,
+        "url": "https://capitalone.wd1.myworkdayjobs.com/Capital_One/job/McLean-VA/Technology-Early-Internship-Program---Summer-2024_R169973-1",
+        "locations": [
+            "McLean, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Capital-One",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Two Six Technologies",
+        "id": "d7ca452a-c7b8-4736-bf01-95fcb0f3994f",
+        "title": "China SME Intern",
+        "active": true,
+        "terms": [
+            "Fall 2023"
+        ],
+        "date_updated": 1691392692,
+        "date_posted": 1691392692,
+        "url": "https://boards.greenhouse.io/twosixtechnologies/jobs/4942551004",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Two-Six-Technologies",
+        "is_visible": true,
         "sponsorship": "Other"
     }
 ]
