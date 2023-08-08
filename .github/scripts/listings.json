@@ -6971,5 +6971,24 @@
         "company_url": "https://simplify.jobs/c/Two-Six-Technologies",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1691519524,
+        "url": "https://careers.aqr.com/jobs/university-open-positions/greenwich-ct/2024-research-summer-analyst/5004675?gh_jid=5004675#/",
+        "company_name": "AQR Capital Management, LLC",
+        "title": "2024 Research Summer Analyst",
+        "locations": [
+            "Greenwich, CT"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "ManasBommakanti",
+        "id": "1199326b-ad3a-4631-b4c9-a12cb927b713",
+        "date_posted": 1691519524,
+        "company_url": "",
+        "is_visible": true
     }
 ]
