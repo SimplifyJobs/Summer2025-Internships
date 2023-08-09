@@ -7249,5 +7249,24 @@
         "date_posted": 1691621613,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1691621636,
+        "url": "https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=124932&clientkey=8E7F16AD6654E4ED3797EE9F40DB0A48",
+        "company_name": "Oklahoma City Thunder",
+        "title": "Software Engineer Intern Data Science And Solutions",
+        "locations": [
+            "Remote"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "hemanthy1",
+        "id": "7f936807-3e2c-48ba-88ce-17ece6562bf3",
+        "date_posted": 1691621636,
+        "company_url": "",
+        "is_visible": true
     }
 ]
