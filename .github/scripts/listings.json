@@ -1900,7 +1900,7 @@
         "company_name": "Capstone",
         "id": "df191a5b-d776-4c9a-9dad-7ff6a7fe36d0",
         "title": "Quantitative Risk Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -2937,7 +2937,7 @@
         "company_name": "Hewlett Packard (HP)",
         "id": "25a93696-1f6b-4ddd-9795-4f99bcee1277",
         "title": "Treasury Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -6148,7 +6148,7 @@
         "company_name": "HRL Laboratories",
         "id": "d10872b1-1451-441c-aa5a-7be0c9bb4e98",
         "title": "Graph Machine Learning Summer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -6302,7 +6302,7 @@
         "company_name": "Intel",
         "id": "9c78c620-0af8-420e-91f0-95d114d608fb",
         "title": "Undergrad Technical Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -6321,7 +6321,7 @@
         "company_name": "HRL Laboratories",
         "id": "7912130b-21ef-4eb1-b30e-8c8282fabfbf",
         "title": "Virtual Cyber Network Operations Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -6340,7 +6340,7 @@
         "company_name": "HRL Laboratories",
         "id": "ba3a8d68-5f5b-4e5d-9235-9e3e27b07a98",
         "title": "Causal Inference and Reasoning Summer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -6669,7 +6669,7 @@
         "company_name": "Jump Trading",
         "id": "0af15898-e2bd-48ee-8f3f-a6bcba0f0c9e",
         "title": "Campus \u2013 Intern - Quantitative Researcher",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -6707,7 +6707,7 @@
         "company_name": "Taboola",
         "id": "6b8c0e6e-7199-44de-8d6e-e05633ed10dc",
         "title": "Backend Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -6990,5 +6990,159 @@
         "date_posted": 1691519524,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Sony Pictures Imageworks",
+        "id": "c2644324-4e52-4f21-98d2-f030a7d46d81",
+        "title": "Software Engineer Co-op - Computer Graphics",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1691540068,
+        "date_posted": 1691540068,
+        "url": "https://boards.greenhouse.io/sonypicturesimageworks/jobs/5393907003",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Sony-Pictures-Imageworks",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Sony Pictures Imageworks",
+        "id": "718479af-c6c8-4d8e-8860-8b3710f65b06",
+        "title": "Software Engineer \u2013 Co-op - Computer Graphics",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1691540068,
+        "date_posted": 1691540068,
+        "url": "https://boards.greenhouse.io/sonypicturesimageworks/jobs/5654034003",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Sony-Pictures-Imageworks",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Fetch",
+        "id": "5f6bcfb1-da33-4a83-aef5-c25e2e8d0300",
+        "title": "Frontend Engineer Apprenticeship",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1691539746,
+        "date_posted": 1691539746,
+        "url": "https://boards.greenhouse.io/fetchrewards/jobs/4556805003",
+        "locations": [
+            "Madison, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/FetchRewards",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "CACI",
+        "id": "90c24450-cb8f-4283-8843-8eea3c07d9e6",
+        "title": "Cyber Engineering Internship - Fall 2023",
+        "active": true,
+        "terms": [
+            "Fall 2023"
+        ],
+        "date_updated": 1691539546,
+        "date_posted": 1691539546,
+        "url": "https://caci.wd1.myworkdayjobs.com/External/job/US-VA-Sterling/Cyber-Engineering-Internship-Spring-Summer-2023_269476-1",
+        "locations": [
+            "Annapolis Junction, MD",
+            "Remote",
+            "Dulles, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/CACI",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Intel",
+        "id": "0f33bc85-8a86-4f16-b40f-30c32c8db63a",
+        "title": "Software IP Engineer \u2013 PEY Intern",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1691539344,
+        "date_posted": 1691539344,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/Canada-Toronto/Software-IP--Engineer---PEY-Intern_JR0247107",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Garda Capital Partners",
+        "id": "53629351-b65d-486f-b884-ea7c35bdc05b",
+        "title": "Quantitative Development Intern - Rates",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1691539251,
+        "date_posted": 1691539251,
+        "url": "https://boards.greenhouse.io/gardacp/jobs/4950411004",
+        "locations": [
+            "Wayzata, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Garda-Capital-Partners",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Jump Trading",
+        "id": "93748893-b40d-4cae-a2a0-3f5297c18f21",
+        "title": "Campus Quantitative Trader \u2013 Intern",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1691539038,
+        "date_posted": 1691539038,
+        "url": "https://www.jumptrading.com/careers/5070997?gh_jid=5070997",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Jump-Trading",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "100ms",
+        "id": "e13cd541-5441-45c6-aeb7-78d7e3391fb9",
+        "title": "Devops Intern",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1689751071,
+        "date_posted": 1689751071,
+        "url": "https://jobs.lever.co/100ms/e7d5c887-0317-453f-9729-66be8824a5c1/apply",
+        "locations": [
+            "Remote"
+        ],
+        "company_url": "https://simplify.jobs/c/100ms",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
