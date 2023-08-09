@@ -7179,5 +7179,28 @@
         "date_posted": 1691597383,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1691621521,
+        "url": "https://paypal.eightfold.ai/careers?Codes=W-LINKEDIN&domain=paypal.com&query=R0106013&sort_by=relevance",
+        "company_name": "PayPal",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "San Jose, CA",
+            "Chicago, IL",
+            "Scottsdale, AZ",
+            "New York City, NY",
+            "Austin, TX"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "ArmyyA",
+        "id": "7d6b84dc-3f80-42fb-bc56-04690d352305",
+        "date_posted": 1691621521,
+        "company_url": "",
+        "is_visible": true
     }
 ]
