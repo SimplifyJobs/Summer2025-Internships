@@ -7202,5 +7202,24 @@
         "date_posted": 1691621521,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1691621569,
+        "url": "https://ea.gr8people.com/jobs/179637/software-engineer-intern?sid=4",
+        "company_name": "EA",
+        "title": "Software Intern",
+        "locations": [
+            "Marina Del Ray, CA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "hemanthy1",
+        "id": "9830e3e5-9eee-4e85-908b-82114293c557",
+        "date_posted": 1691621569,
+        "company_url": "",
+        "is_visible": true
     }
 ]
