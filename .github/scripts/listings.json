@@ -7221,5 +7221,33 @@
         "date_posted": 1691621569,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1691621613,
+        "url": "https://polaris.wd5.myworkdayjobs.com/PolarisJobs/job/Plymouth-MN-USA/Digital---Information-Technology-Intern---Summer-2024_R19542-1?Codes=W-LINKEDIN",
+        "company_name": "Polaris",
+        "title": "Digital & Information Technology Intern",
+        "locations": [
+            "Osceola, WI",
+            "Roseau, MN",
+            "Spirit Lake, IA",
+            "Huntsville, AL",
+            "Minneapolis, MN",
+            "Wyoming, MN",
+            "Plymouth, MN",
+            "Battle Ground, WA",
+            "Wilmington, OH",
+            "Vermillion, SD"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "hemanthy1",
+        "id": "c2f65c85-9a02-4e80-92b3-a041413931f7",
+        "date_posted": 1691621613,
+        "company_url": "",
+        "is_visible": true
     }
 ]
