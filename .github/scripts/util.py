@@ -132,7 +132,7 @@ def sortListings(listings):
         date_updated = listing["date_updated"]
         return str(date_posted) + listing["company_name"].lower() + str(date_updated)
 
-    listings.sort(key=getKey, reverse=False)
+    listings.sort(key=getKey, reverse=True)
 
     for listing in listings:
         listing["company_url"] = linkForCompany[listing["company_name"]]
