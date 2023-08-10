@@ -353,6 +353,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | **TikTok** | Software Engineer Intern (Privacy and Security-Big Data) | San Jose</br>US | <a href="https://careers.tiktok.com/position/7264779096583833914/detail?spread=5MWH5CQ&utm_source=SimplifyGH&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 10 |
 | **TikTok** | Software Engineer Intern (Anti Automation Solutions) | San Jose</br>US | <a href="https://careers.tiktok.com/position/7265122242602092856/detail?utm_source=SimplifyGH&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 10 |
 | **TikTok** | Software Engineer Intern (Product Foundation-Account) | San Jose</br>US | <a href="https://careers.tiktok.com/position/7265122301875980600/detail?utm_source=SimplifyGH&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 10 |
+| **Roblox** | Software Engineer Intern | San Mateo, CA | <a href="https://careers.roblox.com/jobs/5221293?disciplines=Early%20Career&utm_source=SimplifyGH&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 10 |
 
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
 [⬆️ Back to Top ⬆️](https://github.com/SimplifyJobs/Summer2024-Internships#the-list-)
