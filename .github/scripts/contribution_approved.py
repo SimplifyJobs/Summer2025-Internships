@@ -42,7 +42,7 @@ def getData(body, is_edit, username):
     if is_edit:
         data["is_visible"] = "[x]" not in lines[15].lower()
 
-    email = lines[19 if is_edit else 17].lower()
+    email = lines[17 if is_edit else 15].lower()
     if "no response" not in email:
         util.setOutput("commit_email", email)
         util.setOutput("commit_username", username)
