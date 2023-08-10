@@ -7519,5 +7519,24 @@
         "date_posted": 1691700394,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1691700433,
+        "url": "https://careers.comerica.com/job/18891110/summer-2024-technology-cybersecurity-internship-in-plano-mi-plano-tx/",
+        "company_name": "Comerica Bank",
+        "title": "Technology & Cybersecurity Internship",
+        "locations": [
+            "Plano, TX"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "hemanthy1",
+        "id": "5173cfdb-9e2e-4ff9-8eb9-ae743a7e8290",
+        "date_posted": 1691700433,
+        "company_url": "",
+        "is_visible": true
     }
 ]
