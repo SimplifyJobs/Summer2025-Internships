@@ -89,14 +89,6 @@ body:
       description: Only check this box if this internship is fake, does not fit the theme of the repo, or is offensive.
       options:
         - label: "Yes, remove this internship"
-  - type: textarea
-    id: reason
-    attributes:
-      label: Reason for edit
-      description: If the reason for your edit is not obvious, please explain here.
-      placeholder: This internship is no longer accepting applications...
-    validations:
-      required: false
   - type: input
     id: email
     attributes:
@@ -107,6 +99,14 @@ body:
         email will be used. If left blank, your contribution will still be made, but it will be made 
         by the bot actions@github.com.
       placeholder: ex. firstLast@gmail.com
+    validations:
+      required: false
+  - type: textarea
+    id: reason
+    attributes:
+      label: Reason for edit
+      description: If the reason for your edit is not obvious, please explain here.
+      placeholder: This internship is no longer accepting applications...
     validations:
       required: false
       
