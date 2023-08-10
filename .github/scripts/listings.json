@@ -7392,5 +7392,25 @@
         "company_url": "https://simplify.jobs/c/PayPal",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1691684536,
+        "url": "https://careers.tiktok.com/position/7264779096583833914/detail?spread=5MWH5CQ",
+        "company_name": "TikTok",
+        "title": "Software Engineer Intern (Privacy and Security-Big Data)",
+        "locations": [
+            "San Jose",
+            "US"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "cwcoogan",
+        "id": "67681aa0-6421-4267-b89a-765bfe782aa3",
+        "date_posted": 1691684536,
+        "company_url": "",
+        "is_visible": true
     }
 ]
