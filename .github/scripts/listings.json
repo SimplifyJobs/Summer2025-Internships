@@ -7500,5 +7500,24 @@
         "date_posted": 1691684637,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1691700394,
+        "url": "https://careers.comerica.com/job/18891109/summer-2024-technology-cybersecurity-internship-in-auburn-hills-mi-auburn-hills-mi/?utm_campaign=google_jobs_apply",
+        "company_name": "Comerica Bank",
+        "title": "Technology & Cybersecurity Internship",
+        "locations": [
+            "Auburn Hills, MI"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "hemanthy1",
+        "id": "d86edc04-1a0a-4ee8-bb42-ffb6b08228b8",
+        "date_posted": 1691700394,
+        "company_url": "",
+        "is_visible": true
     }
 ]
