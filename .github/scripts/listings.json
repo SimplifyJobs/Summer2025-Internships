@@ -7412,5 +7412,25 @@
         "date_posted": 1691684536,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1691684565,
+        "url": "https://careers.tiktok.com/position/7265122242602092856/detail",
+        "company_name": "TikTok",
+        "title": "Software Engineer Intern (Anti Automation Solutions)",
+        "locations": [
+            "San Jose",
+            "US"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "cwcoogan",
+        "id": "3671f4aa-87e3-4c75-bba2-d5c1573cbadc",
+        "date_posted": 1691684565,
+        "company_url": "",
+        "is_visible": true
     }
 ]
