@@ -7432,5 +7432,25 @@
         "date_posted": 1691684565,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1691684592,
+        "url": "https://careers.tiktok.com/position/7265122301875980600/detail",
+        "company_name": "TikTok",
+        "title": "Software Engineer Intern (Product Foundation-Account)",
+        "locations": [
+            "San Jose",
+            "US"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "cwcoogan",
+        "id": "b4c5c75a-502d-4ef6-99e3-535ef40140b0",
+        "date_posted": 1691684592,
+        "company_url": "",
+        "is_visible": true
     }
 ]
