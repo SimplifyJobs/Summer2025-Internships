@@ -3590,7 +3590,16 @@
     {
         "company_name": "Bank of America",
         "locations": [
-            "Multiple US Locations"
+            "Addison, TX",
+            "Charlotte, NC",
+            "Chicago, IL",
+            "Denver, CO",
+            "Pennington, NJ",
+            "Plano, TX",
+            "Richardson, TX",
+            "Washington, DC",
+            "Richmond, VA",
+            "NYC Metro, NY"
         ],
         "title": "Global Technology Summer Analyst Program",
         "date_posted": 1688961600,
@@ -3602,9 +3611,9 @@
         "is_visible": true,
         "source": "Markdown",
         "company_url": "",
-        "date_updated": 1690430400,
+        "date_updated": 1691685625,
         "id": "0e8b2a36-22fb-4449-a4b9-81dce5f51c4c",
-        "sponsorship": "Offers Sponsorship"
+        "sponsorship": "Other"
     },
     {
         "company_name": "Google",
