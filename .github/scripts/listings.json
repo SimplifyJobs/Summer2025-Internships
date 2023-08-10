@@ -1557,7 +1557,7 @@
         "company_name": "Sanctuary",
         "id": "4594fcbd-3652-43f7-858f-913b8b8286c4",
         "title": "Software Co-op: AI/Automation",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2023"
         ],
@@ -2937,7 +2937,7 @@
         "company_name": "Hewlett Packard (HP)",
         "id": "25a93696-1f6b-4ddd-9795-4f99bcee1277",
         "title": "Treasury Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -3288,7 +3288,7 @@
         "company_name": "Skydio",
         "id": "e477963c-22f1-42b5-9832-e227376b916e",
         "title": "Fall Embedded Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2023"
         ],
@@ -6148,7 +6148,7 @@
         "company_name": "HRL Laboratories",
         "id": "d10872b1-1451-441c-aa5a-7be0c9bb4e98",
         "title": "Graph Machine Learning Summer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -6302,7 +6302,7 @@
         "company_name": "Intel",
         "id": "9c78c620-0af8-420e-91f0-95d114d608fb",
         "title": "Undergrad Technical Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -6321,7 +6321,7 @@
         "company_name": "HRL Laboratories",
         "id": "7912130b-21ef-4eb1-b30e-8c8282fabfbf",
         "title": "Virtual Cyber Network Operations Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -6340,7 +6340,7 @@
         "company_name": "HRL Laboratories",
         "id": "ba3a8d68-5f5b-4e5d-9235-9e3e27b07a98",
         "title": "Causal Inference and Reasoning Summer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -6806,7 +6806,7 @@
         "company_name": "IMC Trading",
         "id": "ae598fb7-5599-45f3-93d7-e50a0c2c26e7",
         "title": "Quant Trader Intern - Summer 2021",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -6825,7 +6825,7 @@
         "company_name": "IMC Trading",
         "id": "a7813fb6-456a-4e09-94c7-6e810b8b3aae",
         "title": "Software Engineer Intern - Summer 2022",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2022"
         ],
@@ -7131,7 +7131,7 @@
         "company_name": "100ms",
         "id": "e13cd541-5441-45c6-aeb7-78d7e3391fb9",
         "title": "Devops Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -7268,5 +7268,129 @@
         "date_posted": 1691621636,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Jump Trading",
+        "id": "8f56995a-421e-4deb-93ed-f2c5f09eaa79",
+        "title": "Campus \u2013 Intern - Tech Ops Engineer",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1691623090,
+        "date_posted": 1691623090,
+        "url": "https://www.jumptrading.com/careers/4814330?gh_jid=4814330",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Jump-Trading",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Jump Trading",
+        "id": "c5ff8418-cb0e-4f70-a579-cb463843b6d4",
+        "title": "Campus Data Engineer \u2013 Intern",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1691623089,
+        "date_posted": 1691623089,
+        "url": "https://www.jumptrading.com/careers/5281435?gh_jid=5281435",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Jump-Trading",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Jump Trading",
+        "id": "1cdda8ce-b5b6-4c26-8a25-eea679db66c3",
+        "title": "Campus Software Engineer \u2013 Intern",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1691623087,
+        "date_posted": 1691623087,
+        "url": "https://www.jumptrading.com/careers/5281211?gh_jid=5281211",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Jump-Trading",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "NVIDIA",
+        "id": "8551cc5a-99be-403a-b4b8-b6cb87bf973f",
+        "title": "Software Intern - Server Firmware Manageability - Fall 2023",
+        "active": true,
+        "terms": [
+            "Fall 2023"
+        ],
+        "date_updated": 1691622381,
+        "date_posted": 1691622381,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Software-Intern--Server-Firmware-Manageability---Fall-2023_JR1969509",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "PayPal",
+        "id": "0e3dde91-f355-42c7-bfe6-d291763ba9ad",
+        "title": "Data Analyst Intern",
+        "active": true,
+        "terms": [
+            "Spring 2024",
+            "Fall 2024"
+        ],
+        "date_updated": 1691622751,
+        "date_posted": 1691622751,
+        "url": "https://wd1.myworkdaysite.com/recruiting/paypal/jobs/job/San-Jose-California-United-States-of-America/Data-Analyst-Intern_R0106075",
+        "locations": [
+            "Austin, TX",
+            "San Jose, CA",
+            "Chicago, IL",
+            "Scottsdale, AZ",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/PayPal",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "PayPal",
+        "id": "de7f25d2-af21-4fc7-be7f-633e662b4300",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Spring 2024",
+            "Fall 2024"
+        ],
+        "date_updated": 1691593578,
+        "date_posted": 1691593578,
+        "url": "https://wd1.myworkdaysite.com/recruiting/paypal/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer-Intern_R0106013",
+        "locations": [
+            "Austin, TX",
+            "San Jose, CA",
+            "Chicago, IL",
+            "Scottsdale, AZ",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/PayPal",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
