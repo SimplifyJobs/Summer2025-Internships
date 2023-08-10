@@ -7471,5 +7471,25 @@
         "date_posted": 1691684610,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1691684637,
+        "url": "https://careers.tiktok.com/position/7264779178602809637/detail",
+        "company_name": "TikTok",
+        "title": "Software Engineer Intern (Privacy and Security-Big Data)",
+        "locations": [
+            "Seattle",
+            "US"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "cwcoogan",
+        "id": "3559c5a5-49b3-4a49-acbb-f187d6335386",
+        "date_posted": 1691684637,
+        "company_url": "",
+        "is_visible": true
     }
 ]
