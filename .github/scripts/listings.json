@@ -7463,7 +7463,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1691684610,
+        "date_updated": 1691772136,
         "url": "https://careers.roblox.com/jobs/5221293?disciplines=Early%20Career",
         "company_name": "Roblox",
         "title": "Software Engineer Intern",
@@ -7473,13 +7473,13 @@
         "terms": [
             "Summer 2024"
         ],
-        "sponsorship": "Offers Sponsorship",
+        "sponsorship": "Other",
         "active": true,
         "source": "Mrkr1sher",
         "id": "805b92ef-92d5-43b1-adcc-8c5c6957732c",
         "date_posted": 1691684610,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1691684637,
