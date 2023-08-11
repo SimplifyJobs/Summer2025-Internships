@@ -888,7 +888,7 @@
         "company_name": "Fetch",
         "id": "e9f9aa30-d548-4879-bdd8-0d2f776d7169",
         "title": "Backend Engineering Apprenticeship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -1576,7 +1576,7 @@
         "company_name": "Sanctuary",
         "id": "93fb36c9-324a-4509-8314-89c31fdd3c90",
         "title": "Hardware Co-op: Firmware Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2023"
         ],
@@ -5732,7 +5732,7 @@
         "company_name": "Radix Trading",
         "id": "aa41bd87-b49d-4484-ab7e-4df9048434d8",
         "title": "C++ Quantitative Technologist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -5751,7 +5751,7 @@
         "company_name": "Radix Trading",
         "id": "9fb439ce-bfcf-4dc4-b326-87c48df3fa5f",
         "title": "Quantitative Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -6716,7 +6716,7 @@
         "company_name": "Taboola",
         "id": "6b8c0e6e-7199-44de-8d6e-e05633ed10dc",
         "title": "Backend Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -7558,5 +7558,214 @@
         "date_posted": 1691700761,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Fetch",
+        "id": "e89ef5d6-0389-4ccc-8a31-14f1c2457d3a",
+        "title": "Android \u2013 Apprenticeship - Mobile Engineer",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1691710292,
+        "date_posted": 1691710292,
+        "url": "https://boards.greenhouse.io/fetchrewards/jobs/5332492003",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/FetchRewards",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Allegion",
+        "id": "56afe36a-719e-432f-af7f-713815769928",
+        "title": "Summer Intern - Firmware Engineer - Connectivity and Sensing",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1691710289,
+        "date_posted": 1691710289,
+        "url": "https://allegion.wd5.myworkdayjobs.com/careers/job/Indianapolis-IN---Hague-Rd/Summer-Intern---Firmware-Engineer--Connectivity-and-Sensing-_JR26813",
+        "locations": [
+            "Indianapolis, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/allegion",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Fetch",
+        "id": "b45c61ad-9bab-432e-a79a-0224293bab3e",
+        "title": "Android \u2013 Apprenticeship - Mobile Engineer",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1691710284,
+        "date_posted": 1691710284,
+        "url": "https://boards.greenhouse.io/fetchrewards/jobs/5210557003",
+        "locations": [
+            "Birmingham, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/FetchRewards",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Vestmark",
+        "id": "4afe79f0-d002-45ed-80e5-a39026e28283",
+        "title": "Intern \u2013 Systems Engineer - Fall 2023",
+        "active": true,
+        "terms": [
+            "Fall 2023"
+        ],
+        "date_updated": 1691709865,
+        "date_posted": 1691709865,
+        "url": "https://boards.greenhouse.io/vestmark/jobs/5125498",
+        "locations": [
+            "Wakefield, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Vestmark",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "NVIDIA",
+        "id": "8137abdd-41b4-4a7e-b50a-8942c6a67045",
+        "title": "NVIDIA 2024 Internships: Artificial Intelligence Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1691708833,
+        "date_posted": 1691708833,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2024-Internships--Artificial-Intelligence-Engineering-Intern_JR1970080",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Roblox",
+        "id": "45d726a8-dec9-40ad-9974-9674f980012c",
+        "title": "Software Engineer \u2013 Intern - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1691680119,
+        "date_posted": 1691680119,
+        "url": "https://careers.roblox.com/jobs/5221293?gh_jid=5221293",
+        "locations": [
+            "Burlingame, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Roblox",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "NVIDIA",
+        "id": "e7324f4a-afd9-430d-aaf1-fe8325ff3873",
+        "title": "NVIDIA 2024 Internships: Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1691679926,
+        "date_posted": 1691679926,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2024-Internships--Software-Engineering-Intern_JR1970082",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "NVIDIA",
+        "id": "df1ff1b0-1c63-4714-b414-e826ad02975c",
+        "title": "NVIDIA 2024 Internships: Computer Architecture Intern",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1691679919,
+        "date_posted": 1691679919,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2024-Internships--Computer-Architecture-Intern_JR1970235-1",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "NVIDIA",
+        "id": "7c8a2794-971c-4a63-a1ff-fb7c8177c855",
+        "title": "NVIDIA 2024 Internships: Systems Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1691679931,
+        "date_posted": 1691679931,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2024-Internships--Systems-Software-Engineering-Intern_JR1970233",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "TransMarket Group\t",
+        "id": "a85844d9-5175-4cae-b0c4-51c7e612feda",
+        "title": "Quantitative Trader Intern",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1691652076,
+        "date_posted": 1691652076,
+        "url": "https://boards.greenhouse.io/transmarketgroup/jobs/4023644007",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/TransMarket-Group",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "TransMarket Group\t",
+        "id": "e96e7687-cfbb-435a-b764-95e7bf4446bb",
+        "title": "Algorithmic Trader Intern",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1691652059,
+        "date_posted": 1691652059,
+        "url": "https://boards.greenhouse.io/transmarketgroup/jobs/4023650007",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/TransMarket-Group",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
