@@ -1728,7 +1728,7 @@
         "company_name": "PointClickCare",
         "id": "f03288d3-54ff-4351-ab7f-efe31173cb5c",
         "title": "Jr.Database Administrator Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2023"
         ],
@@ -4519,7 +4519,7 @@
         "company_name": "Capital One",
         "id": "8ab08bfa-385b-4471-886e-4556b58a962f",
         "title": "Cyber Security Internship Program",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -6967,7 +6967,7 @@
         "company_name": "Two Six Technologies",
         "id": "d7ca452a-c7b8-4736-bf01-95fcb0f3994f",
         "title": "China SME Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2023"
         ],
@@ -7765,6 +7765,334 @@
             "Chicago, IL"
         ],
         "company_url": "https://simplify.jobs/c/TransMarket-Group",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Fetch",
+        "id": "6a5c6a53-1f85-44c1-93ac-604b7a976b0a",
+        "title": "Ios \u2013 Apprenticeship - Mobile Engineer",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1691796720,
+        "date_posted": 1691796720,
+        "url": "https://boards.greenhouse.io/fetchrewards/jobs/5332450003",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/FetchRewards",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Disco",
+        "id": "b045b515-ebe8-477c-bce3-033dd0158b5b",
+        "title": "Intern \u2013 Software Engineer",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1691796473,
+        "date_posted": 1691796473,
+        "url": "https://www.csdisco.com/careers-listing?gh_jid=6885077002",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Disco",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Disco",
+        "id": "20b2f20b-3f93-442a-845f-2b5f59835032",
+        "title": "Intern \u2013 Software Engineer",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1691796472,
+        "date_posted": 1691796472,
+        "url": "https://www.csdisco.com/careers-listing?gh_jid=6885075002",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Disco",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Verkada",
+        "id": "c276c97c-aeae-439f-b04b-f95a7503a66f",
+        "title": "Software Engineering Intern - Backend - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1691795574,
+        "date_posted": 1691795574,
+        "url": "https://jobs.lever.co/verkada/880f563d-3fff-4aff-b6f2-2aab0510ebf4/apply",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Verkada",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Verkada",
+        "id": "5efb6b36-0669-4691-81e9-ced20c059263",
+        "title": "Software Engineering Intern - Embedded - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1691795574,
+        "date_posted": 1691795574,
+        "url": "https://jobs.lever.co/verkada/c912b48a-b562-4691-a245-a9d30264247a/apply",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Verkada",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Verkada",
+        "id": "51c94047-8576-44d8-bd90-57b78ebf0533",
+        "title": "Software Engineering Intern - Backend - Winter 2024",
+        "active": true,
+        "terms": [
+            "Winter 2024"
+        ],
+        "date_updated": 1691795574,
+        "date_posted": 1691795574,
+        "url": "https://jobs.lever.co/verkada/6996d643-f54f-464b-8d06-e7ed0d95b7b6/apply",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Verkada",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Verkada",
+        "id": "6ac57d3b-e22b-48ee-b223-7c55f610a123",
+        "title": "Software Engineering Intern - Embedded - Winter 2024",
+        "active": true,
+        "terms": [
+            "Winter 2024"
+        ],
+        "date_updated": 1691795574,
+        "date_posted": 1691795574,
+        "url": "https://jobs.lever.co/verkada/fcb31ed3-5475-42a2-a292-de9000db8eda/apply",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Verkada",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Verkada",
+        "id": "ed31825b-9ed4-4713-aed5-1fec98285a25",
+        "title": "IOS Engineering Intern - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1691795566,
+        "date_posted": 1691795566,
+        "url": "https://jobs.lever.co/verkada/f8bf2f92-162e-497e-a42f-a849b4e5dfb2/apply",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Verkada",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Verkada",
+        "id": "57a6527c-93fd-4806-8be1-13f1ce1bb4b2",
+        "title": "Software Engineering Intern - Frontend - Winter 2024",
+        "active": true,
+        "terms": [
+            "Winter 2024"
+        ],
+        "date_updated": 1691795570,
+        "date_posted": 1691795570,
+        "url": "https://jobs.lever.co/verkada/911479d5-3823-4f4a-826a-571d7b8cca77/apply",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Verkada",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Verkada",
+        "id": "13d658f3-e11f-4d26-92a7-f2a64e00d207",
+        "title": "Software Engineering Intern - Frontend - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1691795571,
+        "date_posted": 1691795571,
+        "url": "https://jobs.lever.co/verkada/fd9a050a-d55d-4b68-97c1-b940c5a0b806/apply",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Verkada",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Verkada",
+        "id": "a62ee1c7-57bc-4da9-bbb2-814d87facd5a",
+        "title": "Android Engineering Intern - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1691795560,
+        "date_posted": 1691795560,
+        "url": "https://jobs.lever.co/verkada/ad8e440d-5eec-495f-b5bc-6c9cd36f0561/apply",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Verkada",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Rivian",
+        "id": "034c15f3-5bb1-4408-af0e-b72b786954a8",
+        "title": "UIUC Research Park Intern - Data Analytics",
+        "active": true,
+        "terms": [
+            "Fall 2023"
+        ],
+        "date_updated": 1691767537,
+        "date_posted": 1691767537,
+        "url": "https://careers.rivian.com/jobs/12197?lang=en-us&icims=1",
+        "locations": [
+            "Urbana, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Rivian",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Rivian",
+        "id": "284a4f9e-3f2c-472a-a63f-5df88fae3c68",
+        "title": "UIUC Research Park Intern - Special Projects",
+        "active": true,
+        "terms": [
+            "Fall 2023",
+            "Spring 2024",
+            "Summer 2024"
+        ],
+        "date_updated": 1691767524,
+        "date_posted": 1691767524,
+        "url": "https://careers.rivian.com/jobs/11821?lang=en-us&icims=1",
+        "locations": [
+            "Urbana, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Rivian",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "WorldQuant ",
+        "id": "9fcb6a26-cdd5-48cd-9688-7d2147400498",
+        "title": "WQBRAIN Research Intern",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1691767370,
+        "date_posted": 1691767370,
+        "url": "https://boards.greenhouse.io/worldquant/jobs/4254046006",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/4f93ab6b-6f5c-49fc-8f10-f578850424fa",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Intel",
+        "id": "25d071cf-f302-4c9c-9605-304fce0bbd2e",
+        "title": "Undergraduate Internship - Data Science - Bachelors",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1691766698,
+        "date_posted": 1691766698,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Arizona-Phoenix/Undergraduate-Internship---Data-Science---Bachelors-_JR0247229",
+        "locations": [
+            "Albuquerque, NM",
+            "Santa Clara, CA",
+            "Hillsboro, OR",
+            "Phoenix, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Arrowstreet Capital",
+        "id": "93b87840-eb8d-491c-b27d-e1aa4cf4950a",
+        "title": "Quantitative Researcher Intern - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1691742530,
+        "date_posted": 1691742530,
+        "url": "https://arrowstreetcapital.wd5.myworkdayjobs.com/en-US/Arrowstreet/job/Quantitative-Researcher-Intern--Summer-2024_R882",
+        "locations": [
+            "Remote"
+        ],
+        "company_url": "https://simplify.jobs/c/Arrowstreet-Capital",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Arrowstreet Capital",
+        "id": "e6cd4a3e-6e5e-496b-bf45-b3a4c48c592a",
+        "title": "Quantitative Developer Intern - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1691742528,
+        "date_posted": 1691742528,
+        "url": "https://arrowstreetcapital.wd5.myworkdayjobs.com/en-US/Arrowstreet/job/Quantitative-Developer-Intern--Summer-2024_R884",
+        "locations": [
+            "Remote"
+        ],
+        "company_url": "https://simplify.jobs/c/Arrowstreet-Capital",
         "is_visible": true,
         "sponsorship": "Other"
     }
