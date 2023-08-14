@@ -322,7 +322,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | **Voloridge Investment Management** | Software Engineer Intern | Jupiter, FL | 🔒 | Jul |
 | **Voloridge Investment Management** | Trading Engineer Intern | Jupiter, FL | 🔒 | Jul |
 | **Lumen Technologies** | Internship program (Express Interest) (U.S. work authorization required) | Remote, USA | <a href="https://jobs.lumen.com/global/en/job/324980/Intern-Summer-2024-Program-Submit-Interest?utm_source=SimplifyGH&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul |
-| **Castleton Commodities International** | Data Science Internship | Stamford, CT | <a href="https://osv-cci.wd1.myworkdayjobs.com/CCICareers/job/Stamford-CT/Data-Science-Internship--Summer-2023-_R622?utm_source=SimplifyGH&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul |
+| **Castleton Commodities International** | Data Science Internship | Stamford, CT | 🔒 | Jul |
 | **Medtronic** | Software Engineering Summer 2024 Intern  🛂 | Multiple | <a href="https://medtronic.eightfold.ai/careers/job/17363492?utm_source=SimplifyGH&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul |
 | **DRW** | Site Reliability Engineer Intern - Sre | Chicago, IL | 🔒 | Jul |
 | **Marotta Controls** | Software Engineering Intern  🇺🇸 | Parsippany, NJ | <a href="https://marotta.com/job-openings/?gnk=job&gni=8a7883ac879c5eca0187ef4d715d4fd8&lang=en&utm_source=SimplifyGH&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul |
