@@ -8324,5 +8324,27 @@
         "date_posted": 1692036813,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1692037518,
+        "url": "https://www.linkedin.com/jobs/view/3676847954/",
+        "company_name": "Whereabouts.ai",
+        "title": "Geospatial Software Development Intern",
+        "locations": [
+            "Seattle, Washington, United States (Preferred)",
+            "Phoenix, Arizona, United States (Preferred)",
+            "San Francisco Bay area, California",
+            "United States Remote, United States"
+        ],
+        "terms": [
+            "Fall 2023"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "andylin2004",
+        "id": "abd78329-98f9-436b-ba9d-591cc22ec60f",
+        "date_posted": 1692037518,
+        "company_url": "",
+        "is_visible": true
     }
 ]
