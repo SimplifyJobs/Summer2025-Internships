@@ -58,6 +58,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Humana** | Tech Internship Program 🛂 | Louisville, KY | <a href="https://careers.humana.com/job/18883550/college-tech-internship-program-summer-2024-remote/?source=Humana_Website#gtm-jobdetail-desc&utm_source=SimplifyGH&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 14 |
 | **Sandia National Laboratories** | TITANS Cybersecurity - R&D Undergraduate Intern 🛂 | Albuquerque, NM | <a href="https://sandia.jobs/albuquerque-nm/intern-titans-cybersecurity-rd-undergraduate-summer/3D411B082987438DA86DBEEBB1E1D11C/job/?utm_source=SimplifyGH&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 14 |
 | **[Radix Trading](https://simplify.jobs/c/Radix-Trading)** | Quantitative Research Intern | Chicago, IL | <a href="https://boards.greenhouse.io/radixuniversity/jobs/6870778002?utm_source=SimplifyGH&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 14 |
 | **[Radix Trading](https://simplify.jobs/c/Radix-Trading)** | C++ Quantitative Technologist Intern | Chicago, IL | <a href="https://boards.greenhouse.io/radixuniversity/jobs/6870802002?utm_source=SimplifyGH&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 14 |
