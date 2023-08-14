@@ -342,7 +342,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | **Maximus** | Software Engineer Intern | Mclean, VA | 🔒 | Jun |
 | **Infineon** | Software Automation Engineer Intern | Andover, MA</br>Warwick, RI | 🔒 | Jun |
 | **Entrust** | Software Engineer Intern | Sunrise, FL | <a href="https://entrust.wd1.myworkdayjobs.com/EntrustCareers/job/United-States---Sunrise-FL/Software-Engineering-Intern_R002369?utm_source=SimplifyGH&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun |
-| **Enphase Energy** | Embedded Firmware Engineer Intern | Austin, TX | <a href="https://jobs.jobvite.com/enphase-energy/job/oFPRmfwr?utm_source=SimplifyGH&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun |
+| **Enphase Energy** | Embedded Firmware Engineer Intern | Austin, TX | 🔒 | Jun |
 | **Körber** | Software Developer Intern | Fargo, ND | 🔒 | Jun |
 | **Intel** | Software Engineer - PEY Intern | Toronto, ON, Canada | 🔒 | Jun |
 | **SIG** | Software Engineering Internship Program (Express Interest) | Bala Cynwyd, PA | <a href="https://careers.sig.com/job/7102/Software-Engineering-Internship-Program-Summer-2024-Expression-of-Interest?utm_source=SimplifyGH&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun |
