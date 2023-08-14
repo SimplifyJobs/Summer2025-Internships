@@ -653,22 +653,21 @@
     {
         "company_name": "DRW",
         "locations": [
-            "Austin, TX",
-            "Chicago, IL"
+            "Austin, TX Chicago, IL"
         ],
-        "title": "Site Reliability Engineer Intern",
+        "title": "Site Reliability Engineer Intern\t",
         "date_posted": 1685332800,
         "terms": [
             "Summer 2024"
         ],
-        "active": true,
+        "active": false,
         "url": "https://drw.com/work-at-drw/listings/site-reliability-engineer-sre-intern-2569887",
         "is_visible": true,
         "source": "Markdown",
         "company_url": "https://simplify.jobs/c/DRW",
-        "date_updated": 1690430400,
+        "date_updated": 1692036829,
         "id": "88985b50-d616-4f3f-83b7-abc8f23851b7",
-        "sponsorship": "Offers Sponsorship"
+        "sponsorship": "Other"
     },
     {
         "company_name": "DRW",
