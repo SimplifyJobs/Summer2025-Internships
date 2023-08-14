@@ -58,6 +58,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Phillip Edison** | Information Technology Intern (Cybersecurity) - Sponsorship requirement unknown | Cincinnati, OH | <a href="https://recruiting.ultipro.com/PHI1009PHED/JobBoard/d8224c32-ade8-4917-8a97-3ea2d4094e2d/OpportunityDetail?opportunityId=70d18b2e-546d-4fb7-90a5-de41eedf2ead&utm_source=SimplifyGH&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 14 |
 | **Humana** | Tech Internship Program 🛂 | Louisville, KY | <a href="https://careers.humana.com/job/18883550/college-tech-internship-program-summer-2024-remote/?source=Humana_Website#gtm-jobdetail-desc&utm_source=SimplifyGH&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 14 |
 | **Sandia National Laboratories** | TITANS Cybersecurity - R&D Undergraduate Intern 🛂 | Albuquerque, NM | <a href="https://sandia.jobs/albuquerque-nm/intern-titans-cybersecurity-rd-undergraduate-summer/3D411B082987438DA86DBEEBB1E1D11C/job/?utm_source=SimplifyGH&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 14 |
 | **[Radix Trading](https://simplify.jobs/c/Radix-Trading)** | Quantitative Research Intern | Chicago, IL | <a href="https://boards.greenhouse.io/radixuniversity/jobs/6870778002?utm_source=SimplifyGH&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 14 |
