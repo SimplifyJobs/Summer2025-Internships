@@ -8228,5 +8228,24 @@
         "date_posted": 1692035815,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1692035966,
+        "url": "https://sandia.jobs/albuquerque-nm/intern-titans-cybersecurity-rd-undergraduate-summer/3D411B082987438DA86DBEEBB1E1D11C/job/",
+        "company_name": "Sandia National Laboratories",
+        "title": "TITANS Cybersecurity - R&D Undergraduate Intern",
+        "locations": [
+            "Albuquerque, NM"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "possibly-AA9",
+        "id": "1ba3c818-5a6c-483c-8aac-342050fd2b82",
+        "date_posted": 1692035966,
+        "company_url": "",
+        "is_visible": true
     }
 ]
