@@ -8114,5 +8114,24 @@
         "date_posted": 1691881577,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Granicus",
+        "id": "6ab2654b-4778-4483-b9fb-7b8e894454ba",
+        "title": "Intern Software Engineer",
+        "active": true,
+        "terms": [
+            "Spring 2023"
+        ],
+        "date_updated": 1691970113,
+        "date_posted": 1691970113,
+        "url": "https://jobs.lever.co/granicus/a2742274-a7da-46c5-9009-492862009459/apply",
+        "locations": [
+            "Remote"
+        ],
+        "company_url": "https://simplify.jobs/c/Granicus",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
