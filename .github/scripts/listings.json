@@ -8285,5 +8285,25 @@
         "date_posted": 1692036104,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1692036200,
+        "url": "https://pimco.wd1.myworkdayjobs.com/en-US/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2024-Summer-Intern---Software-Engineer--US_R102876?workerSubType=6e192a3f175201c5a610087a5209cf10&jobFamilies=b27adc21fb8410010c147bdeecc60000",
+        "company_name": "PIMCO",
+        "title": "Technology Analyst, Software Engineering (Sponsorship status unknown)",
+        "locations": [
+            "Newport Beach, CA",
+            "Austin, TX"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "possibly-AA9",
+        "id": "6706d8f6-eff0-4d7a-a1fe-0b6d1a37cf3e",
+        "date_posted": 1692036200,
+        "company_url": "",
+        "is_visible": true
     }
 ]
