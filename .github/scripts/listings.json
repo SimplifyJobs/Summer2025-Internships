@@ -8305,5 +8305,25 @@
         "date_posted": 1692036200,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1692036813,
+        "url": "https://recruiting.adp.com/srccar/public/RTI.home?c=2166501&d=WWTExternalCareerSite&r=5000976828200&_fromPublish=true#/",
+        "company_name": "World Wide Technology",
+        "title": "SWE Intern",
+        "locations": [
+            "Remote",
+            "St. Louis, MO"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "HyperionLegion",
+        "id": "111d3f26-a2d3-4abc-9b69-6cf2afb1abea",
+        "date_posted": 1692036813,
+        "company_url": "",
+        "is_visible": true
     }
 ]
