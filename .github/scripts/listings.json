@@ -8133,5 +8133,43 @@
         "company_url": "https://simplify.jobs/c/Granicus",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "iRobot",
+        "id": "b338ee83-3e4b-4a7c-a9f9-6c63de1f0f4d",
+        "title": "Fall 2023: Mobile Software Engineering Intern - Android or iOS",
+        "active": true,
+        "terms": [
+            "Fall 2023"
+        ],
+        "date_updated": 1692026276,
+        "date_posted": 1692026276,
+        "url": "https://irobot.wd5.myworkdayjobs.com/iRobot/job/US-Remote/Fall-2023--Mobile-Software-Engineering-Intern--Android-or-iOS_R3476",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/iRobot",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Palantir",
+        "id": "b9a66fc7-950d-4574-abc7-4b409156948b",
+        "title": "Software Engineer \u2013 Internship",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1692026115,
+        "date_posted": 1692026115,
+        "url": "https://jobs.lever.co/palantir/2fb19022-bb65-4af8-b6fa-31beb345c140/apply",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Palantir",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
