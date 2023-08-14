@@ -7751,21 +7751,21 @@
     },
     {
         "source": "Simplify",
-        "company_name": "TransMarket Group\t",
+        "company_name": "Transmarket Group",
         "id": "e96e7687-cfbb-435a-b764-95e7bf4446bb",
-        "title": "Algorithmic Trader Intern",
+        "title": "Algorithmic Trader",
         "active": true,
         "terms": [
             "Summer 2023"
         ],
-        "date_updated": 1691652059,
+        "date_updated": 1692035941,
         "date_posted": 1691652059,
         "url": "https://boards.greenhouse.io/transmarketgroup/jobs/4023650007",
         "locations": [
             "Chicago, IL"
         ],
         "company_url": "https://simplify.jobs/c/TransMarket-Group",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
