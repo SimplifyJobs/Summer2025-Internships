@@ -8171,5 +8171,24 @@
         "company_url": "https://simplify.jobs/c/Palantir",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1692035609,
+        "url": "https://careers.peraton.com/jobs/summer-2024-cyberspace-software-engineer-intern-herndon-virginia-jobs",
+        "company_name": "Peraton",
+        "title": "Cyberspace Software Engineer Intern",
+        "locations": [
+            "Herndon, VA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "source": "possibly-AA9",
+        "id": "a726d4d4-fdf8-41a5-895d-628e5a870e6a",
+        "date_posted": 1692035609,
+        "company_url": "",
+        "is_visible": true
     }
 ]
