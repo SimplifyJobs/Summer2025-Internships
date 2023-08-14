@@ -5401,23 +5401,23 @@
         "sponsorship": "Offers Sponsorship"
     },
     {
-        "company_name": "Kimley-Horn",
+        "company_name": "Kimley Horn",
         "locations": [
             "Raleigh, NC"
         ],
-        "title": "Software Developer Intern ",
+        "title": "Software Developer Intern",
         "date_posted": 1688788800,
         "terms": [
             "Summer 2024"
         ],
-        "active": true,
+        "active": false,
         "url": "https://careers-kimley-horn.icims.com/jobs/9773/software-developer-intern/job",
         "is_visible": true,
         "source": "Markdown",
         "company_url": "",
-        "date_updated": 1690862400,
+        "date_updated": 1692036844,
         "id": "f9d96b13-dbf2-4d87-b4bc-b9adc6f80005",
-        "sponsorship": "Does Not Offer Sponsorship"
+        "sponsorship": "Other"
     },
     {
         "company_name": "Gecko Robotics",

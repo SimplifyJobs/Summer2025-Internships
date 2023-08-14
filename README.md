@@ -317,7 +317,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | **Protiviti** | Technology Consulting Intern  🛂 | Phoenix, AZ | <a href="https://roberthalf.wd1.myworkdayjobs.com/en-US/ProtivitiNA/job/PHOENIX/Phoenix-Technology-Consulting-Intern---2024_JR-248209-2?Location_Country=bc33aa3152ec42d4995f4791a106ed09&Location_Region_State_Province=c7b20b0d4bc04711a00900569e9afabd&utm_source=SimplifyGH&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul |
 | **Bridgewater Associates** | Investment Engineer Intern | Westport, CT | 🔒 | Jul |
 | **Mercedes-Benz** | Data Products Intern | Sunnyvale, CA | 🔒 | Jul |
-| **Kimley-Horn** | Software Developer Intern  🛂 | Raleigh, NC | <a href="https://careers-kimley-horn.icims.com/jobs/9773/software-developer-intern/job?utm_source=SimplifyGH&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul |
+| **Kimley Horn** | Software Developer Intern | Raleigh, NC | 🔒 | Jul |
 | **Kinaxis** | Service Automation Co-Op/Intern - GCC Operations | Canada | 🔒 | Jul |
 | **Volvo** | Intern: Engineering, Embedded Software | Hagerstown, MD | 🔒 | Jul |
 | **Voloridge Investment Management** | Software Engineer Intern | Jupiter, FL | 🔒 | Jul |
