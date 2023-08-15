@@ -944,7 +944,7 @@
         "company_name": "Fetch",
         "id": "af67715d-b33c-476c-9df8-71f547aee68d",
         "title": "Frontend Engineer Apprenticeship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -2128,7 +2128,7 @@
         "company_name": "Autodesk",
         "id": "af16252d-f555-41c4-9ed4-273482b3f595",
         "title": "Software Engineer Intern - Business Process Team",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2023"
         ],
@@ -2147,7 +2147,7 @@
         "company_name": "Autodesk",
         "id": "c8edcbbd-9bfa-4ebc-a39e-bcb2fefd9ab9",
         "title": "Software Engineer Intern - Managed Collaboration Team",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2023"
         ],
@@ -2166,7 +2166,7 @@
         "company_name": "Autodesk",
         "id": "0eed6613-0f1b-4402-9e0f-518d7378947e",
         "title": "Stagiaire \u2013 /Intern - D\u00e9veloppeur - Euse - De logiciels - Forge - \u00c0 pourvoir - Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2023"
         ],
@@ -2185,7 +2185,7 @@
         "company_name": "Autodesk",
         "id": "f888c90f-e621-46bf-9c0f-35436174dfe7",
         "title": "Stagiaire \u2013 /Intern - D\u00e9veloppeur - Euse - De logiciels - Forge - \u00c0 pourvoir - Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2023"
         ],
@@ -2204,7 +2204,7 @@
         "company_name": "Autodesk",
         "id": "6e61ecea-c211-4d7a-a91f-f899cda43896",
         "title": "Intern \u2013 Software Developer - Fusion",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2023"
         ],
@@ -2281,7 +2281,7 @@
         "company_name": "Squarepoint Capital",
         "id": "b3ef65df-8815-4e9c-b53e-3fb28b6adc2f",
         "title": "Intern Software Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2023"
         ],
@@ -2475,7 +2475,7 @@
         "company_name": "NVIDIA",
         "id": "fc10e14e-96e7-47e7-9454-f165a0e7c338",
         "title": "System Validation Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2023"
         ],
@@ -2494,7 +2494,7 @@
         "company_name": "NVIDIA",
         "id": "bc3a1c7f-3aa8-4693-92c3-7fc68590f85c",
         "title": "System Validation Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2023"
         ],
@@ -2513,7 +2513,7 @@
         "company_name": "NVIDIA",
         "id": "4ac2f26e-30b0-4fe9-9c2b-2c6d6d5bb8bd",
         "title": "Silicon Validation Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2023"
         ],
@@ -3458,7 +3458,7 @@
         "company_name": "Bodo.ai",
         "id": "e3616907-a445-4710-b6df-3cbed409f178",
         "title": "Software Engineer Intern - Cloud Infrastructure",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -3926,7 +3926,7 @@
         "company_name": "Perpetua Labs",
         "id": "192879dc-7a64-4cf6-b491-dc5c354ec80b",
         "title": "Software Development Engineer In Test - Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -4587,7 +4587,7 @@
         "company_name": "Alarm.com",
         "id": "c44ecd3f-f243-421f-b0a3-014c6d8f3b68",
         "title": "Embedded Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -6213,7 +6213,7 @@
         "company_name": "NVIDIA",
         "id": "abda0c48-2ddf-4626-84c7-d84a44403ddf",
         "title": "Verification Intern - Fall 2023",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2023"
         ],
@@ -7042,7 +7042,7 @@
         "company_name": "Fetch",
         "id": "5f6bcfb1-da33-4a83-aef5-c25e2e8d0300",
         "title": "Frontend Engineer Apprenticeship",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2023"
         ],
@@ -7358,7 +7358,7 @@
         "company_name": "PayPal",
         "id": "0e3dde91-f355-42c7-bfe6-d291763ba9ad",
         "title": "Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024",
             "Fall 2024"
@@ -7382,7 +7382,7 @@
         "company_name": "PayPal",
         "id": "de7f25d2-af21-4fc7-be7f-633e662b4300",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024",
             "Fall 2024"
@@ -8397,7 +8397,7 @@
         "company_name": "Fetch",
         "id": "841e4fcb-f6c5-488a-b6e0-0a1306a46e1f",
         "title": "Backend Engineering \u2013 Apprenticeship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -8492,7 +8492,7 @@
         "company_name": "Walmart",
         "id": "98f3168b-ac5b-4940-b23c-4be4b393c232",
         "title": "2023 Intern Conversion: 2024 Return Intern Software Engineer II - Bentonville - AR",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -8638,5 +8638,25 @@
         "date_posted": 1692126012,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Safari AI",
+        "id": "48244551-fbd8-4fef-95d3-d0b27ef74c77",
+        "title": "CV/ML Intern",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1692112660,
+        "date_posted": 1692112660,
+        "url": "https://jobs.lever.co/safariai/dbf8de98-e922-450b-bf7b-177686c653d8/apply",
+        "locations": [
+            "Remote in USA",
+            "Remote"
+        ],
+        "company_url": "https://simplify.jobs/c/Safari-AI",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
