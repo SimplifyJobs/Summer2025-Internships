@@ -8505,5 +8505,24 @@
         "company_url": "https://simplify.jobs/c/Walmart",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1692125576,
+        "url": "https://careers-chickfila.icims.com/jobs/14373/dtt-software-engineering-summer-2024-intern/job",
+        "company_name": "Chick-fil-A",
+        "title": "Software Engineering Intern",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "orebitt",
+        "id": "bcbe0da0-9b8d-4211-90ac-57cd3e4f0548",
+        "date_posted": 1692125576,
+        "company_url": "",
+        "is_visible": true
     }
 ]
