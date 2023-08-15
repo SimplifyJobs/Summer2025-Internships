@@ -229,7 +229,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | **BlackRock** | Summer 2024 Internship Program | Americas | <a href="https://blackrock.tal.net/vx/lang-en-GB/mobile-0/brand-3/xf-232eb66ac89a/candidate/so/pm/1/pl/1/opp/7894-Summer-Internship-Program-Americas/en-GB?utm_source=SimplifyGH&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 23 |
 | **Discover** | Business Technology Internship Program  🛂 | Riverwoods, IL | 🔒 | Jul 22 |
 | **GE Appliances** | Digital Technology Intern | Louisville, KY | 🔒 | Jul 21 |
-| **Steris** | Software Engineer Intern | Richmond, CA | <a href="https://careers.steris.com/job/RICHMOND-Software-Engineering-Intern-CA-94804/1054522400/?utm_source=SimplifyGH&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 20 |
+| **Steris** | Software Engineer Intern | Richmond, CA | 🔒 | Jul 20 |
 | **100ms** | Devops Intern | Remote | 🔒 | Jul 19 |
 | **Workato** | Technical Writing Intern | Remote | 🔒 | Jul 19 |
 | **[WebFX](https://simplify.jobs/c/WebFX)** | Web Developer Internship | Harrisburg, PA | <a href="https://jobs.lever.co/webfx/1032ba2b-a4fc-4625-83d5-34f43063de7b/apply?utm_source=SimplifyGH&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/e34631c9-51fe-4c2e-b9d1-7ddf674b1777?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jul 19 |
