@@ -58,6 +58,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Schneider Electric** | Software Engineer Intern 🛂 | Andover, MA | <a href="https://www.se.com/ww/en/about-us/careers/job-details/software-engineering-intern--fall-2023-/55765/?utm_source=SimplifyGH&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 15 |
 | **Freddie Mac** | Software Developer Intern | McLean, VA | <a href="https://careers.freddiemac.com/us/en/job/FRMAUSJR11159EXTERNAL/Single-Family-Software-Developer-Intern-Summer-2024-Hybrid-3-Days-in-Office?utm_source=SimplifyGH&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 15 |
 | **WWT** | Internship - 2024 | Maryland Heights | <a href="https://recruiting.adp.com/srccar/public/RTI.home?r=5000976828200&c=2166501&d=WWTExternalCareerSite&rb=SIMPLIFY#/&utm_source=SimplifyGH&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 15 |
 | **Chick-fil-A** | Software Engineering Intern 🛂 | Atlanta, GA | <a href="https://careers-chickfila.icims.com/jobs/14373/dtt-software-engineering-summer-2024-intern/job?utm_source=SimplifyGH&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 15 |
