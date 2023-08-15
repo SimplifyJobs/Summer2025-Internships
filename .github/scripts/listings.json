@@ -8581,5 +8581,24 @@
         "date_posted": 1692125693,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1692125747,
+        "url": "https://careers.imc.com/us/en/job/REQ-03080/Software-Engineer-Intern-Summer-2024",
+        "company_name": "IMC Trading",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "leetcodeLover",
+        "id": "46adc4fa-51c6-486c-a52a-cfa334c19f9b",
+        "date_posted": 1692125747,
+        "company_url": "",
+        "is_visible": true
     }
 ]
