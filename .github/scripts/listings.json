@@ -887,7 +887,7 @@
         "company_name": "Fetch",
         "id": "e9f9aa30-d548-4879-bdd8-0d2f776d7169",
         "title": "Backend Engineering Apprenticeship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -944,7 +944,7 @@
         "company_name": "Fetch",
         "id": "af67715d-b33c-476c-9df8-71f547aee68d",
         "title": "Frontend Engineer Apprenticeship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -1670,7 +1670,7 @@
         "company_name": "Formlabs",
         "id": "44206dc8-396d-489f-bbbd-8b874a30ebcf",
         "title": "Embedded Software Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2023"
         ],
@@ -2898,7 +2898,7 @@
         "company_name": "Kodiak Robotics",
         "id": "d2488d3b-8f8c-4d42-aacc-aa4e10b87bc2",
         "title": "Video Visualization Engineer Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2023"
         ],
@@ -6137,7 +6137,7 @@
         "company_name": "HRL Laboratories",
         "id": "b839ec08-265f-4ebe-9ea0-4f1b698959f0",
         "title": "Natural Language Processing Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -7061,7 +7061,7 @@
         "company_name": "CACI",
         "id": "90c24450-cb8f-4283-8843-8eea3c07d9e6",
         "title": "Cyber Engineering Internship - Fall 2023",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2023"
         ],
@@ -7563,7 +7563,7 @@
         "company_name": "Fetch",
         "id": "e89ef5d6-0389-4ccc-8a31-14f1c2457d3a",
         "title": "Android \u2013 Apprenticeship - Mobile Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -7582,7 +7582,7 @@
         "company_name": "Allegion",
         "id": "56afe36a-719e-432f-af7f-713815769928",
         "title": "Summer Intern - Firmware Engineer - Connectivity and Sensing",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -7772,7 +7772,7 @@
         "company_name": "Fetch",
         "id": "6a5c6a53-1f85-44c1-93ac-604b7a976b0a",
         "title": "Ios \u2013 Apprenticeship - Mobile Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -8138,7 +8138,7 @@
         "company_name": "iRobot",
         "id": "b338ee83-3e4b-4a7c-a9f9-6c63de1f0f4d",
         "title": "Fall 2023: Mobile Software Engineering Intern - Android or iOS",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2023"
         ],
@@ -8346,5 +8346,145 @@
         "date_posted": 1692037518,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Salesforce",
+        "id": "bfac2955-ba3e-44f0-9d3a-db20df1afd31",
+        "title": "Futureforce Grace Hopper Conference \u2013 Software Engineer Internship for Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1692056609,
+        "date_posted": 1692056609,
+        "url": "https://salesforce.wd12.myworkdayjobs.com/en-us/External_Career_Site/job/California---San-Francisco/Futureforce-Grace-Hopper-Conference---Software-Engineer-Internship-for-Summer-2024_JR209830-1",
+        "locations": [
+            "Cambridge, MA",
+            "Seattle, WA",
+            "Indianapolis, IN",
+            "SF",
+            "Dallas, TX",
+            "Bellevue, WA",
+            "Atlanta, GA",
+            "Burlington, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Salesforce",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Semtech",
+        "id": "e05b42b3-133e-427f-83e5-8e6101bcb378",
+        "title": "Software Developer \u2013 Co-op",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1692056021,
+        "date_posted": 1692056021,
+        "url": "https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Richmond-BC/Software-Developer--Co-op_REQ1870",
+        "locations": [
+            "Richmond, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Semtech",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Fetch",
+        "id": "841e4fcb-f6c5-488a-b6e0-0a1306a46e1f",
+        "title": "Backend Engineering \u2013 Apprenticeship",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1692055968,
+        "date_posted": 1692055968,
+        "url": "https://boards.greenhouse.io/fetchrewards/jobs/5428204003",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/FetchRewards",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Tenstorrent",
+        "id": "cced56e0-c588-4be9-b1cf-2742e08f332a",
+        "title": "ML Intern \u2013 Customer Team",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1692055935,
+        "date_posted": 1692055935,
+        "url": "https://jobs.lever.co/tenstorrent/755c8dfa-668d-47a0-9452-561aed016e4f/apply",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Tenstorrent",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Golden Hippo",
+        "id": "511657d9-0a15-4fa9-81a3-2193f4ce9f65",
+        "title": "Analytics Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1692055683,
+        "date_posted": 1692055683,
+        "url": "https://boards.greenhouse.io/goldenhippo/jobs/4302677005",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Golden-Hippo",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Chime",
+        "id": "eb94e179-18e1-464a-a8e0-dbc13b7d0301",
+        "title": "Data Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1692055420,
+        "date_posted": 1692055420,
+        "url": "https://boards.greenhouse.io/chime/jobs/6858442002?gh_jid=6858442002",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Chime",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Zeno Group",
+        "id": "c4cb6783-339a-46d3-9fb4-2229a5220334",
+        "title": "Strategy and Planning Intern",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1692054726,
+        "date_posted": 1691767388,
+        "url": "https://jobs.lever.co/zenogroup/5d673578-a0c8-4a0f-836a-a95cfc69232b/apply",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/3f6c26e7-8dd4-404b-bc46-2174bd73fef9",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
