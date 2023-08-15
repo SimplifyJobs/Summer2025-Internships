@@ -8600,5 +8600,24 @@
         "date_posted": 1692125747,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1692125836,
+        "url": "https://jobs.careers.microsoft.com/global/en/job/1590499/Software-Engineering%3A-Intern-Opportunities-for-University-Students%2C-Redmond",
+        "company_name": "Microsoft",
+        "title": "Software Engineering Intern",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "lauralee00",
+        "id": "8ace2cc9-01e6-441c-a22f-63971e0d8a6e",
+        "date_posted": 1692125836,
+        "company_url": "",
+        "is_visible": true
     }
 ]

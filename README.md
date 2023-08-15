@@ -58,6 +58,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Microsoft** | Software Engineering Intern | Redmond, WA | <a href="https://jobs.careers.microsoft.com/global/en/job/1590499/Software-Engineering%3A-Intern-Opportunities-for-University-Students%2C-Redmond?utm_source=SimplifyGH&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 15 |
 | **[IMC Trading](https://simplify.jobs/c/imc-trading)** | Software Engineer Intern | Chicago, IL | <a href="https://careers.imc.com/us/en/job/REQ-03080/Software-Engineer-Intern-Summer-2024?utm_source=SimplifyGH&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 15 |
 | **Schneider Electric** | Software Engineer Intern 🛂 | Andover, MA | <a href="https://www.se.com/ww/en/about-us/careers/job-details/software-engineering-intern--fall-2023-/55765/?utm_source=SimplifyGH&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 15 |
 | **Freddie Mac** | Software Developer Intern | McLean, VA | <a href="https://careers.freddiemac.com/us/en/job/FRMAUSJR11159EXTERNAL/Single-Family-Software-Developer-Intern-Summer-2024-Hybrid-3-Days-in-Office?utm_source=SimplifyGH&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 15 |
