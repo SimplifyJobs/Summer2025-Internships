@@ -8486,5 +8486,24 @@
         "company_url": "https://simplify.jobs/c/3f6c26e7-8dd4-404b-bc46-2174bd73fef9",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Walmart",
+        "id": "98f3168b-ac5b-4940-b23c-4be4b393c232",
+        "title": "2023 Intern Conversion: 2024 Return Intern Software Engineer II - Bentonville - AR",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1692083711,
+        "date_posted": 1692083711,
+        "url": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/XMLNAME-2023-Intern-Conversion--2024-Return-Intern-Software-Engineer-II--Bentonville--AR-_R-1617434",
+        "locations": [
+            "Bentonville, AR"
+        ],
+        "company_url": "https://simplify.jobs/c/Walmart",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
