@@ -8619,5 +8619,24 @@
         "date_posted": 1692125836,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1692126012,
+        "url": "https://jobs.bytedance.com/en/position/7265708067697576247/detail?spread=BSPP2KS",
+        "company_name": "ByteDance",
+        "title": "Software Engineer Intern (AML-Global Recommendation)",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "rushilsrivastava",
+        "id": "a5b5df4b-92a4-4a44-b71d-b4669b66f11e",
+        "date_posted": 1692126012,
+        "company_url": "",
+        "is_visible": true
     }
 ]
