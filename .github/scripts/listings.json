@@ -7358,7 +7358,7 @@
         "company_name": "PayPal",
         "id": "0e3dde91-f355-42c7-bfe6-d291763ba9ad",
         "title": "Data Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2024",
             "Fall 2024"
@@ -8749,6 +8749,45 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/PayPal",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Leidos",
+        "id": "daca692b-f73e-4756-9ec7-2bc57bc905d0",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1692198826,
+        "date_posted": 1692198826,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Chantilly-VA/Software-Engineer-Intern_R-00115121",
+        "locations": [
+            "Aurora, CO",
+            "Chantilly, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "KAYAK",
+        "id": "25678472-7049-489c-b23f-79f9bd24951a",
+        "title": "Security Ops Intern",
+        "active": true,
+        "terms": [
+            "Fall 2023"
+        ],
+        "date_updated": 1692198679,
+        "date_posted": 1692198679,
+        "url": "https://boards.greenhouse.io/kayak/jobs/6890125002",
+        "locations": [
+            "Concord, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/KAYAK",
         "is_visible": true,
         "sponsorship": "Other"
     }
