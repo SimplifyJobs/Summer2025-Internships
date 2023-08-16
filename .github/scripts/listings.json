@@ -7791,7 +7791,7 @@
         "company_name": "Disco",
         "id": "b045b515-ebe8-477c-bce3-033dd0158b5b",
         "title": "Intern, Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -7810,7 +7810,7 @@
         "company_name": "Disco",
         "id": "20b2f20b-3f93-442a-845f-2b5f59835032",
         "title": "Intern \u2013 Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -8416,7 +8416,7 @@
         "company_name": "Tenstorrent",
         "id": "cced56e0-c588-4be9-b1cf-2742e08f332a",
         "title": "ML Intern \u2013 Customer Team",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -8695,7 +8695,7 @@
         "company_name": "Walmart",
         "id": "62ba7f6d-0107-4604-80c6-33e9522ba841",
         "title": "2023 Walmart Intern Conversion: 2024 Return Intern Software Engineer II - Sunnyvale - CA",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
