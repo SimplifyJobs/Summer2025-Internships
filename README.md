@@ -58,6 +58,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Workiva** | Software engineering intern | Remote | <a href="https://workiva.wd1.myworkdayjobs.com/en-US/careers/job/XMLNAME-2024-Summer---Software-Engineer_R7284?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 16 |
 | **[Leidos](https://simplify.jobs/c/Leidos)** | Software Engineer Intern | Aurora, CO</br>Chantilly, VA | <a href="https://leidos.wd5.myworkdayjobs.com/External/job/Chantilly-VA/Software-Engineer-Intern_R-00115121?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/daca692b-f73e-4756-9ec7-2bc57bc905d0?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Aug 16 |
 | **[Allegion](https://simplify.jobs/c/allegion)** | Summer Intern - Firmware | Golden, CO | <a href="https://allegion.wd5.myworkdayjobs.com/careers/job/Golden-CO/Summer-Intern---Firmware_JR26814?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/ce69a769-3aaf-48dc-8053-c41aaae04264?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Aug 15 |
 | **Walmart** | 2023 Walmart Intern Conversion: 2024 Return Intern Software Engineer II - Sunnyvale - CA | Sunnyvale, CA | 🔒 | Aug 15 |
