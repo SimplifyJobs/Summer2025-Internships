@@ -9127,5 +9127,24 @@
         "date_posted": 1692294734,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1692294910,
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/211161/",
+        "company_name": "Oracle",
+        "title": "Software Engineer Intern - Database Technologies",
+        "locations": [
+            "United States"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "IceColdBlizzard1",
+        "id": "9679882a-e39b-4b30-ba33-2e438d9b9a2e",
+        "date_posted": 1692294910,
+        "company_url": "",
+        "is_visible": true
     }
 ]
