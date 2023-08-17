@@ -3945,7 +3945,7 @@
         "company_name": "Rivos",
         "id": "81332a86-ed30-496f-ba64-4b49917cc85f",
         "title": "Silicon Microarchitecture & Logic Design Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -8454,7 +8454,7 @@
         "company_name": "Chime",
         "id": "eb94e179-18e1-464a-a8e0-dbc13b7d0301",
         "title": "Data Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -8757,7 +8757,7 @@
         "company_name": "Leidos",
         "id": "daca692b-f73e-4756-9ec7-2bc57bc905d0",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -8809,5 +8809,83 @@
         "date_posted": 1692220302,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Jump Trading",
+        "id": "29c090c4-e5fa-4643-89d5-f00f0915f6c6",
+        "title": "Campus UI Software Engineer \u2013 Intern",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1692228107,
+        "date_posted": 1692228107,
+        "url": "https://www.jumptrading.com/careers/5281473?gh_jid=5281473",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Jump-Trading",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Allegion",
+        "id": "7c527782-13c2-41f1-a447-ebe63f9ef98b",
+        "title": "Summer Intern - Quality Engineering",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1692227744,
+        "date_posted": 1692227744,
+        "url": "https://allegion.wd5.myworkdayjobs.com/careers/job/Carmel-IN/Summer-Intern---Quality-Engineering_JR26914",
+        "locations": [
+            "Carmel, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/allegion",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Workiva",
+        "id": "cf090d54-885c-4130-bc00-d14c98ea98d8",
+        "title": "2024 Summer \u2013 Security Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1692227509,
+        "date_posted": 1692227509,
+        "url": "https://workiva.wd1.myworkdayjobs.com/careers/job/Ames/XMLNAME-2024-Summer---Security-Engineering-Intern_R7097",
+        "locations": [
+            "Remote in USA",
+            "Ames, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/Workiva",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "NVIDIA",
+        "id": "c407fdf7-5f9e-4296-9f0a-9559033b5f54",
+        "title": "Software Intern - GPU Monitoring and Diagnostics - Winter 2024",
+        "active": true,
+        "terms": [
+            "Winter 2024"
+        ],
+        "date_updated": 1692227094,
+        "date_posted": 1692227094,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-WA-Redmond/Software-Intern--GPU-Monitoring-and-Diagnostics---Winter-2024_JR1970755",
+        "locations": [
+            "Urbana, IL",
+            "Redmond, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
