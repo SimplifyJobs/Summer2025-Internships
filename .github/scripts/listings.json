@@ -9029,5 +9029,24 @@
         "date_posted": 1692269114,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1692269160,
+        "url": "https://jobs.smartrecruiters.com/LLNL/3743990002372616-computing-undergraduate-student-intern-summer",
+        "company_name": "Lawrence Livermore National Laboratory",
+        "title": "Computing Undergraduate Student Intern",
+        "locations": [
+            "Livermore, CA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "RaiJashan17",
+        "id": "52c8eb20-f8b4-40db-bf0f-e20be77dbafa",
+        "date_posted": 1692269160,
+        "company_url": "",
+        "is_visible": true
     }
 ]

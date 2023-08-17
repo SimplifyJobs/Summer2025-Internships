@@ -58,6 +58,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Lawrence Livermore National Laboratory** | Computing Undergraduate Student Intern | Livermore, CA | <a href="https://jobs.smartrecruiters.com/LLNL/3743990002372616-computing-undergraduate-student-intern-summer?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 17 |
 | **Oracle** | Software Engineer Intern - Junior - OCI & Cloud Platforms | United States | <a href="https://careers.oracle.com/jobs/#en/sites/jobsearch/job/211124/?utm_medium=jobshare&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 17 |
 | **Oracle** | Software Engineer Intern - Masters - OCI & Cloud Platforms | United States | <a href="https://careers.oracle.com/jobs/#en/sites/jobsearch/job/211119/?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 17 |
 | **Oracle** | Software Engineer Intern - Applications Development | United States | <a href="https://careers.oracle.com/jobs/#en/sites/jobsearch/job/211250/?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 17 |
