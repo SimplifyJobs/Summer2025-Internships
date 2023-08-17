@@ -8966,5 +8966,24 @@
         "date_posted": 1692269040,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1692269072,
+        "url": "https://careers.oracle.com/jobs/#en/sites/jobsearch/job/211250/",
+        "company_name": "Oracle",
+        "title": "Software Engineer Intern - Applications Development",
+        "locations": [
+            "United States"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "smitpatel24",
+        "id": "0b5658b8-aea0-4416-b1bb-ea0c3d22fba5",
+        "date_posted": 1692269072,
+        "company_url": "",
+        "is_visible": true
     }
 ]
