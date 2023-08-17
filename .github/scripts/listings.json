@@ -9108,5 +9108,24 @@
         "date_posted": 1692294397,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1692294734,
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/211167/",
+        "company_name": "Oracle",
+        "title": "Software Engineer Intern - Global Business Unit",
+        "locations": [
+            "United States"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "IceColdBlizzard1",
+        "id": "b022dcd5-58b9-42c5-b734-21f29a9b2842",
+        "date_posted": 1692294734,
+        "company_url": "",
+        "is_visible": true
     }
 ]
