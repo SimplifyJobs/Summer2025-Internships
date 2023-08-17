@@ -9165,5 +9165,24 @@
         "date_posted": 1692295009,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1692295359,
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/211120/?utm_medium=jobshare",
+        "company_name": "Oracle",
+        "title": "Software Engineer Intern - Sophomore - OCI & Cloud Platforms",
+        "locations": [
+            "United States"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "IceColdBlizzard1",
+        "id": "af2bb832-c5bd-4ac6-bda1-fb4f51a0e142",
+        "date_posted": 1692295359,
+        "company_url": "",
+        "is_visible": true
     }
 ]
