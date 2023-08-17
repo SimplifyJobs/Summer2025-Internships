@@ -9088,5 +9088,25 @@
         "company_url": "https://simplify.jobs/c/Accenture",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1692294397,
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/211169/?utm_medium=jobshare",
+        "company_name": "Oracle",
+        "title": "Software Engineer Intern - Analytics Cloud",
+        "locations": [
+            "United States"
+        ],
+        "terms": [
+            "Summer 2024",
+            "Fall 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "IceColdBlizzard1",
+        "id": "d2eafa46-e079-49fd-ac40-dba13fe4c973",
+        "date_posted": 1692294397,
+        "company_url": "",
+        "is_visible": true
     }
 ]
