@@ -9007,5 +9007,27 @@
         "date_posted": 1692269095,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1692269114,
+        "url": "https://careers.oracle.com/jobs/#en/sites/jobsearch/job/211124/?utm_medium=jobshare",
+        "company_name": "Oracle",
+        "title": "Software Engineer Intern - Junior - OCI & Cloud Platforms",
+        "locations": [
+            "United States"
+        ],
+        "terms": [
+            "Winter 2024",
+            "Spring 2024",
+            "Summer 2024",
+            "Fall 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "smitpatel24",
+        "id": "175f217b-6277-4a92-8d87-be6e475d5ae0",
+        "date_posted": 1692269114,
+        "company_url": "",
+        "is_visible": true
     }
 ]
