@@ -8853,7 +8853,7 @@
         "company_name": "Workiva",
         "id": "cf090d54-885c-4130-bc00-d14c98ea98d8",
         "title": "2024 Summer \u2013 Security Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -8927,5 +8927,24 @@
         "date_posted": 1692230634,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Firework",
+        "id": "77712aa4-f59a-4884-b5e8-e3910f73545f",
+        "title": "Infrastructure/Devops Intern",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1692257054,
+        "date_posted": 1692257054,
+        "url": "https://boards.greenhouse.io/fireworkcareers/jobs/4890451004",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Firework",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
