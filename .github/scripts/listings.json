@@ -9146,5 +9146,24 @@
         "date_posted": 1692294910,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1692295009,
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/211258/",
+        "company_name": "Oracle",
+        "title": "Software Engineer Intern - Corporate Architecture",
+        "locations": [
+            "United States"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "IceColdBlizzard1",
+        "id": "fe77ec68-b3ed-4737-adf7-3ad65e6c5076",
+        "date_posted": 1692295009,
+        "company_url": "",
+        "is_visible": true
     }
 ]
