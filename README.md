@@ -58,6 +58,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Bayer** | Software Engineer Intern | Creve Coeur, MO | <a href="https://jobs.bayer.com/job/Creve-Coeur-Software-Engineer-Intern-Miss/971633501/?jobPipeline=Simplify&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 17 |
 | **[Intel](https://simplify.jobs/c/Intel)** | Undergraduate Internship - Computer Science (Bachelors) 🛂 | United States | <a href="https://jobs.intel.com/en/job/phoenix/undergraduate-internship-computer-science-bachelors/41147/52814615328?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 17 |
 | **Oshkosh Corporation** | Computer/Software Engineering Intern | Oshkosh, WI | <a href="https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Oshkosh-Wisconsin-United-States/Computer-Software-Engineering-Intern-Summer-2024_R22291?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 17 |
 | **Oracle** | Software Engineer Intern - Sophomore - OCI & Cloud Platforms 🛂 | United States | <a href="https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/211120/?utm_medium=jobshare&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 17 |
