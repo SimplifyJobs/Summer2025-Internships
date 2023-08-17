@@ -9203,5 +9203,24 @@
         "date_posted": 1692295456,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1692295511,
+        "url": "https://jobs.intel.com/en/job/phoenix/undergraduate-internship-computer-science-bachelors/41147/52814615328",
+        "company_name": "Intel",
+        "title": "Undergraduate Internship - Computer Science (Bachelors)",
+        "locations": [
+            "United States"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "IceColdBlizzard1",
+        "id": "41a86476-5860-4ff2-b8d6-ece7b8d2b2dc",
+        "date_posted": 1692295511,
+        "company_url": "",
+        "is_visible": true
     }
 ]
