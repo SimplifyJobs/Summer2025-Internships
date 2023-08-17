@@ -8946,5 +8946,25 @@
         "company_url": "https://simplify.jobs/c/Firework",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1692269040,
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/211266/",
+        "company_name": "Oracle NetSuite",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "Redwood City, CA",
+            "Austin, TX"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "RaiJashan17",
+        "id": "db67c5c6-9fda-46d4-9d48-2cd188880b66",
+        "date_posted": 1692269040,
+        "company_url": "",
+        "is_visible": true
     }
 ]
