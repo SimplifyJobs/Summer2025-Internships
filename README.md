@@ -58,6 +58,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Oracle** | Software Engineer Intern - Masters - OCI & Cloud Platforms | United States | <a href="https://careers.oracle.com/jobs/#en/sites/jobsearch/job/211119/?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 17 |
 | **Oracle** | Software Engineer Intern - Applications Development | United States | <a href="https://careers.oracle.com/jobs/#en/sites/jobsearch/job/211250/?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 17 |
 | **Oracle NetSuite** | Software Engineer Intern | Redwood City, CA</br>Austin, TX | <a href="https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/211266/?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 17 |
 | **[Firework](https://simplify.jobs/c/Firework)** | Infrastructure/Devops Intern | Remote in USA | <a href="https://boards.greenhouse.io/fireworkcareers/jobs/4890451004?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/77712aa4-f59a-4884-b5e8-e3910f73545f?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Aug 17 |
