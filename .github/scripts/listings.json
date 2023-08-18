@@ -1346,7 +1346,7 @@
         "company_name": "WebFX",
         "id": "e71bb9b3-5926-47b0-974d-9a79703b84b8",
         "title": "Business Data Analyst Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -2532,7 +2532,7 @@
         "company_name": "Truveta",
         "id": "1b22761b-794a-4448-839b-bbb14793334b",
         "title": "Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -2644,7 +2644,7 @@
         "terms": [
             "Summer 2024"
         ],
-        "active": true,
+        "active": false,
         "url": "https://jobs.lever.co/certik/ca67aab6-9b8b-4c2f-ad80-ff5855292f48",
         "is_visible": true,
         "source": "Simplify",
@@ -2936,7 +2936,7 @@
         "company_name": "Hewlett Packard (HP)",
         "id": "25a93696-1f6b-4ddd-9795-4f99bcee1277",
         "title": "Treasury Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -6156,7 +6156,7 @@
         "company_name": "HRL Laboratories",
         "id": "d10872b1-1451-441c-aa5a-7be0c9bb4e98",
         "title": "Graph Machine Learning Summer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -6270,9 +6270,9 @@
     {
         "source": "Simplify",
         "company_name": "Fidelity Investments",
-        "id": "8544fb79-671f-4b74-be78-233cad03bc06",
+        "id": "abddacb2-0847-4aab-9b40-c8709b94c171",
         "title": "Summer 2024 Quantitative Research Investment Internship-Undergraduate",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -6310,7 +6310,7 @@
         "company_name": "Intel",
         "id": "9c78c620-0af8-420e-91f0-95d114d608fb",
         "title": "Undergrad Technical Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -6329,7 +6329,7 @@
         "company_name": "HRL Laboratories",
         "id": "7912130b-21ef-4eb1-b30e-8c8282fabfbf",
         "title": "Virtual Cyber Network Operations Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -6519,7 +6519,7 @@
         "company_name": "Belvedere Trading",
         "id": "924f098c-9903-4842-b684-7aab04f957d7",
         "title": "Junior Quantitative Trading Analyst Intern - Summer 2024 Chicago",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -7358,7 +7358,7 @@
         "company_name": "PayPal",
         "id": "0e3dde91-f355-42c7-bfe6-d291763ba9ad",
         "title": "Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024",
             "Fall 2024"
@@ -8021,7 +8021,7 @@
         "company_name": "WorldQuant ",
         "id": "9fcb6a26-cdd5-48cd-9688-7d2147400498",
         "title": "WQBRAIN Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -8853,7 +8853,7 @@
         "company_name": "Workiva",
         "id": "cf090d54-885c-4130-bc00-d14c98ea98d8",
         "title": "2024 Summer \u2013 Security Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -9268,7 +9268,7 @@
         "company_name": "Weiss Asset Management",
         "id": "2963fd4c-7741-4c54-b1ef-559da3576868",
         "title": "Internship Information 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -9306,7 +9306,7 @@
         "company_name": "Jump Trading",
         "id": "7668245d-a3fe-4892-8582-d1d0020ef8f9",
         "title": "Campus Software Engineer \u2013 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023",
             "Winter 2024",
@@ -9350,7 +9350,7 @@
         "company_name": "Jump Trading",
         "id": "249054e9-9650-475b-ae97-a473852d4a8f",
         "title": "Campus Intern Quant Trader",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -9478,6 +9478,44 @@
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/Vectra",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Leidos",
+        "id": "03382678-6107-44eb-b6d0-74793bb397ef",
+        "title": "Transportation Systems R&D Intern",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1692141117,
+        "date_posted": 1692141117,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/McLean-VA/Transportation-Systems-R-D-Intern_R-00117091",
+        "locations": [
+            "McLean, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Code and Theory",
+        "id": "5001f3cb-149f-4e32-9250-c6ca8828db5e",
+        "title": "Product Strategy Intern",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1690391569,
+        "date_posted": 1689750912,
+        "url": "https://www.codeandtheory.com/careers/6802380002?gh_jid=6802380002",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/codeandtheory",
         "is_visible": true,
         "sponsorship": "Other"
     }
