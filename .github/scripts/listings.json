@@ -7382,7 +7382,7 @@
         "company_name": "PayPal",
         "id": "de7f25d2-af21-4fc7-be7f-633e662b4300",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2024",
             "Fall 2024"
@@ -9073,7 +9073,7 @@
         "company_name": "Accenture",
         "id": "938a2f65-e757-4cde-9c89-9c68b4e9dd60",
         "title": "Entry Level Technology Development Program \u2013 Summer Analyst \u2013 Intern - Naelfy24",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -9241,5 +9241,244 @@
         "date_posted": 1692305467,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Salesforce",
+        "id": "98a63973-af21-4f7b-90fe-ae2c523a35ee",
+        "title": "Summer 2024 Intern - Data Science - Data & Analytics",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1692344435,
+        "date_posted": 1692344435,
+        "url": "https://salesforce.wd12.myworkdayjobs.com/en-us/External_Career_Site/job/Texas---Dallas/Data-Science-Intern--Data---Analytics--Summer-2024-_JR211411-1",
+        "locations": [
+            "Indianapolis, IN",
+            "Dallas, TX",
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Salesforce",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Weiss Asset Management",
+        "id": "2963fd4c-7741-4c54-b1ef-559da3576868",
+        "title": "Internship Information 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1692344220,
+        "date_posted": 1692344220,
+        "url": "https://boards.greenhouse.io/weissassetmanagement/jobs/6874375002",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/cb8d0ea4-93ea-4a6e-982e-c2e0394150cf",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Jump Trading",
+        "id": "9d9202ff-4981-40ef-8664-1cef0ab1ba53",
+        "title": "Campus Tech Ops Engineer \u2013 Intern",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1692343960,
+        "date_posted": 1692343960,
+        "url": "https://www.jumptrading.com/careers/4816733?gh_jid=4816733",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Jump-Trading",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Jump Trading",
+        "id": "7668245d-a3fe-4892-8582-d1d0020ef8f9",
+        "title": "Campus Software Engineer \u2013 Intern",
+        "active": true,
+        "terms": [
+            "Summer 2023",
+            "Winter 2024",
+            "Spring 2024",
+            "Fall 2024"
+        ],
+        "date_updated": 1692343960,
+        "date_posted": 1692343960,
+        "url": "https://www.jumptrading.com/careers/5294018?gh_jid=5294018",
+        "locations": [
+            "Bristol, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Jump-Trading",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Jump Trading",
+        "id": "27fae3a1-0851-44f5-a9e6-42cbaa6a583a",
+        "title": "Campus UI Software Engineer \u2013 Intern",
+        "active": true,
+        "terms": [
+            "Summer 2023",
+            "Winter 2024",
+            "Spring 2024",
+            "Fall 2024"
+        ],
+        "date_updated": 1692343961,
+        "date_posted": 1692343961,
+        "url": "https://www.jumptrading.com/careers/5292214?gh_jid=5292214",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Jump-Trading",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Jump Trading",
+        "id": "249054e9-9650-475b-ae97-a473852d4a8f",
+        "title": "Campus Intern Quant Trader",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1692343963,
+        "date_posted": 1692343963,
+        "url": "https://www.jumptrading.com/careers/5286927?gh_jid=5286927",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Jump-Trading",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Jump Trading",
+        "id": "06f25b4d-f0b3-4ed2-a8d9-2c55cd10518a",
+        "title": "Campus Intern QR",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1692343958,
+        "date_posted": 1692343958,
+        "url": "https://www.jumptrading.com/careers/5286921?gh_jid=5286921",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Jump-Trading",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Businessolver",
+        "id": "acfc9a9d-2f7d-4868-8a82-e49ff579b3bd",
+        "title": "Software Engineering Internship - Java - React - Work-from-Home",
+        "active": true,
+        "terms": [
+            "Spring 2023"
+        ],
+        "date_updated": 1692343443,
+        "date_posted": 1692343443,
+        "url": "https://www.businessolver.com/careers/openings/?gh_jid=5306060",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Businessolver",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Walmart",
+        "id": "107b4c72-cab7-4b80-bb2f-f88f68ef61fb",
+        "title": "2023 Intern Conversion: 2024 Return Intern Software Engineer II",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1692343237,
+        "date_posted": 1692343237,
+        "url": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Sunnyvale-CA/XMLNAME-2023-Intern-Conversion--2024-Return-Intern-Software-Engineer-II_R-1619894-1",
+        "locations": [
+            "Bentonville, AR",
+            "Dallas, TX",
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Walmart",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Athelas",
+        "id": "a81239e9-ce73-4ea2-aa30-1cf8ca5453d4",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1692343080,
+        "date_posted": 1692343080,
+        "url": "https://jobs.ashbyhq.com/Athelas/693acb64-2be9-4633-9c88-09285faa8dc9/application",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Athelas",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Okta",
+        "id": "7676d54d-7c46-4649-9097-f3c94f5c0eff",
+        "title": "Software Engineer Intern - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1692342972,
+        "date_posted": 1692342972,
+        "url": "https://www.okta.com/company/careers/opportunity/5171924?gh_jid=5171924",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Okta",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Vectra",
+        "id": "c6bb4f96-69f4-46a5-b641-0f26b5fd7220",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1692342957,
+        "date_posted": 1692342957,
+        "url": "https://boards.greenhouse.io/vectranetworks/jobs/5296938",
+        "locations": [
+            "Austin, TX",
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Vectra",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
