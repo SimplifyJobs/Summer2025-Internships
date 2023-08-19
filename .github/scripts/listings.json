@@ -7772,7 +7772,7 @@
         "company_name": "Fetch",
         "id": "6a5c6a53-1f85-44c1-93ac-604b7a976b0a",
         "title": "Ios \u2013 Apprenticeship - Mobile Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2023"
         ],
@@ -8492,7 +8492,7 @@
         "company_name": "Walmart",
         "id": "98f3168b-ac5b-4940-b23c-4be4b393c232",
         "title": "2023 Intern Conversion: 2024 Return Intern Software Engineer II - Bentonville - AR",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2023"
         ],
@@ -8695,7 +8695,7 @@
         "company_name": "Walmart",
         "id": "62ba7f6d-0107-4604-80c6-33e9522ba841",
         "title": "2023 Walmart Intern Conversion: 2024 Return Intern Software Engineer II - Sunnyvale - CA",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2023"
         ],
@@ -9268,7 +9268,7 @@
         "company_name": "Weiss Asset Management",
         "id": "2963fd4c-7741-4c54-b1ef-559da3576868",
         "title": "Internship Information 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -9306,7 +9306,7 @@
         "company_name": "Jump Trading",
         "id": "7668245d-a3fe-4892-8582-d1d0020ef8f9",
         "title": "Campus Software Engineer \u2013 Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2023",
             "Winter 2024",
@@ -9350,7 +9350,7 @@
         "company_name": "Jump Trading",
         "id": "249054e9-9650-475b-ae97-a473852d4a8f",
         "title": "Campus Intern Quant Trader",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2023"
         ],
@@ -9516,6 +9516,161 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/codeandtheory",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Jump Trading",
+        "id": "23bff65c-e9b2-4b27-8e83-880fa29a4774",
+        "title": "Campus Quantitative Researcher \u2013 M1/M2 Intern",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1692401028,
+        "date_posted": 1692401028,
+        "url": "https://www.jumptrading.com/careers/5286934?gh_jid=5286934",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Jump-Trading",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Jump Trading",
+        "id": "10c7324d-4407-4930-9a35-7777b2b56471",
+        "title": "Campus Software Engineer \u2013 Intern",
+        "active": true,
+        "terms": [
+            "Summer 2023",
+            "Winter 2024",
+            "Spring 2024",
+            "Fall 2024"
+        ],
+        "date_updated": 1692401027,
+        "date_posted": 1692401027,
+        "url": "https://www.jumptrading.com/careers/5291648?gh_jid=5291648",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Jump-Trading",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "SpaceX",
+        "id": "094a951b-adfb-4a2d-b170-7a34f9395b48",
+        "title": "Spring 2024 Software Engineering Internship/Co-op",
+        "active": true,
+        "terms": [
+            "Spring 2024"
+        ],
+        "date_updated": 1692400866,
+        "date_posted": 1692400866,
+        "url": "https://boards.greenhouse.io/spacex/jobs/6854549002?gh_jid=6854549002",
+        "locations": [
+            "Remote"
+        ],
+        "company_url": "https://simplify.jobs/c/SpaceX",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Cambly",
+        "id": "1e0b9d44-937c-4a7b-b01b-15fbb7c0a0e8",
+        "title": "Software Engineering Internship - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1692400482,
+        "date_posted": 1692400482,
+        "url": "https://jobs.ashbyhq.com/Cambly/49491a8e-b548-4afb-8309-dc21b58850ac/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Cambly",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Vial",
+        "id": "6da0f03c-5536-4e10-9010-bbc1a817243b",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2023"
+        ],
+        "date_updated": 1692400461,
+        "date_posted": 1692400461,
+        "url": "https://jobs.lever.co/Vial/574e2485-a3ea-4766-861f-7adba543169a/apply",
+        "locations": [
+            "Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Vial",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Weave",
+        "id": "148a9b00-ae67-4d62-99b2-a4dc074c4364",
+        "title": "Data Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1692400047,
+        "date_posted": 1692400047,
+        "url": "https://boards.greenhouse.io/weavehq/jobs/5665820003",
+        "locations": [
+            "Lehi, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/Weave",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Databento",
+        "id": "a113d907-87db-49dd-945c-eb1a2ec2f94b",
+        "title": "Software Engineer Internship - Flexible timing",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1692382804,
+        "date_posted": 1692382804,
+        "url": "https://boards.greenhouse.io/databento/jobs/4374815",
+        "locations": [
+            "Remote"
+        ],
+        "company_url": "https://simplify.jobs/c/Databento",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Capstone",
+        "id": "05d2b99a-00b3-4ad1-807e-41cb3e3e5be1",
+        "title": "2024 Summer Internship - Software Engineer - NYC",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1692374768,
+        "date_posted": 1692374768,
+        "url": "https://boards.greenhouse.io/capstoneinvestmentadvisors/jobs/6784275002",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Capstone",
         "is_visible": true,
         "sponsorship": "Other"
     }
