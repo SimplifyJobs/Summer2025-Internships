@@ -1096,7 +1096,7 @@
         "company_name": "SpaceX",
         "id": "e891acd1-c99c-4e43-8ad2-04182c9f64aa",
         "title": "Software Engineering Internship/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2023"
         ],
@@ -1346,7 +1346,7 @@
         "company_name": "WebFX",
         "id": "e71bb9b3-5926-47b0-974d-9a79703b84b8",
         "title": "Business Data Analyst Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -2532,7 +2532,7 @@
         "company_name": "Truveta",
         "id": "1b22761b-794a-4448-839b-bbb14793334b",
         "title": "Research Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -2936,7 +2936,7 @@
         "company_name": "Hewlett Packard (HP)",
         "id": "25a93696-1f6b-4ddd-9795-4f99bcee1277",
         "title": "Treasury Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -4024,7 +4024,7 @@
         "company_name": "Second Order Effects",
         "id": "8626aa0c-b58c-4084-b5a1-519ed457bd12",
         "title": "Systems Integration/Test Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2023"
         ],
@@ -4566,7 +4566,7 @@
         "company_name": "Capital One",
         "id": "6f3bb88a-0beb-4df3-a2e9-e61b132fda4b",
         "title": "Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -6156,7 +6156,7 @@
         "company_name": "HRL Laboratories",
         "id": "d10872b1-1451-441c-aa5a-7be0c9bb4e98",
         "title": "Graph Machine Learning Summer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -6272,7 +6272,7 @@
         "company_name": "Fidelity Investments",
         "id": "abddacb2-0847-4aab-9b40-c8709b94c171",
         "title": "Summer 2024 Quantitative Research Investment Internship-Undergraduate",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -6329,7 +6329,7 @@
         "company_name": "HRL Laboratories",
         "id": "7912130b-21ef-4eb1-b30e-8c8282fabfbf",
         "title": "Virtual Cyber Network Operations Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -6519,7 +6519,7 @@
         "company_name": "Belvedere Trading",
         "id": "924f098c-9903-4842-b684-7aab04f957d7",
         "title": "Junior Quantitative Trading Analyst Intern - Summer 2024 Chicago",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -6576,7 +6576,7 @@
         "company_name": "Fidelity Investments",
         "id": "7c67c639-94b7-4f94-838b-7b922c9fdc69",
         "title": "Quantitative Development Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -6715,7 +6715,7 @@
         "company_name": "Taboola",
         "id": "6b8c0e6e-7199-44de-8d6e-e05633ed10dc",
         "title": "Backend Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -8021,7 +8021,7 @@
         "company_name": "WorldQuant ",
         "id": "9fcb6a26-cdd5-48cd-9688-7d2147400498",
         "title": "WQBRAIN Research Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2023"
         ],
@@ -8492,7 +8492,7 @@
         "company_name": "Walmart",
         "id": "98f3168b-ac5b-4940-b23c-4be4b393c232",
         "title": "2023 Intern Conversion: 2024 Return Intern Software Engineer II - Bentonville - AR",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -8695,7 +8695,7 @@
         "company_name": "Walmart",
         "id": "62ba7f6d-0107-4604-80c6-33e9522ba841",
         "title": "2023 Walmart Intern Conversion: 2024 Return Intern Software Engineer II - Sunnyvale - CA",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -8853,7 +8853,7 @@
         "company_name": "Workiva",
         "id": "cf090d54-885c-4130-bc00-d14c98ea98d8",
         "title": "2024 Summer \u2013 Security Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -9486,7 +9486,7 @@
         "company_name": "Leidos",
         "id": "03382678-6107-44eb-b6d0-74793bb397ef",
         "title": "Transportation Systems R&D Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -9505,7 +9505,7 @@
         "company_name": "Code and Theory",
         "id": "5001f3cb-149f-4e32-9250-c6ca8828db5e",
         "title": "Product Strategy Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -9641,7 +9641,7 @@
         "company_name": "Databento",
         "id": "a113d907-87db-49dd-945c-eb1a2ec2f94b",
         "title": "Software Engineer Internship - Flexible timing",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -9660,7 +9660,7 @@
         "company_name": "Capstone",
         "id": "05d2b99a-00b3-4ad1-807e-41cb3e3e5be1",
         "title": "2024 Summer Internship - Software Engineer - NYC",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
