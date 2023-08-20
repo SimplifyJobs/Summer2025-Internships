@@ -9692,5 +9692,24 @@
         "company_url": "https://simplify.jobs/c/Connor-Group",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1692554375,
+        "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Hagerstown-Maryland-United-States/Software-Engineering-Intern_R22395?jobPipeline=Indeed",
+        "company_name": "JLG Industries",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "Hagerstown, MD"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "hemanthy1",
+        "id": "093f96c5-49b2-4bcf-b149-f8314fe29d1d",
+        "date_posted": 1692554375,
+        "company_url": "",
+        "is_visible": true
     }
 ]
