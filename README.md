@@ -58,6 +58,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **LinkedIn** | Software Engineering Intern | Sunnyvale CA | <a href="https://www.linkedin.com/jobs/view/3690755535?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 20 |
 | **The Cigna Group** | Technology Development Program (TECDP) Summer Internship 🇺🇸 | <details><summary>**8 locations**</summary>Bloomfield, CT</br>Austin, TX</br>Bloomington, MN</br>Denver, CO</br>Morris Plains, NJ</br>Nashville, TN</br>Philadelphia, PA</br>St. Louis, MO</details> | <a href="https://jobs.thecignagroup.com/us/en/job/CIGNUS23015032EXTERNALENUS/Technology-Development-Program-TECDP-Summer-Intern-2024-Evernorth?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 20 |
 | **John Deere** | Software Engineering Summer Intern 🛂 | Moline, IL</br>Des Moines, IA | <a href="https://careers.deere.com/careers/job/137456548197?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 20 |
 | **Stripe** | Software Engineering Intern | San Francisco, CA</br>Seattle, WA</br>New York City, NY | <a href="https://stripe.com/jobs/listing/software-engineering-intern/5297261?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 20 |

@@ -9880,5 +9880,24 @@
         "date_posted": 1692555166,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1692555278,
+        "url": "https://www.linkedin.com/jobs/view/3690755535",
+        "company_name": "LinkedIn",
+        "title": "Software Engineering Intern",
+        "locations": [
+            "Sunnyvale CA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "jalamorosas",
+        "id": "47a11db2-afb2-45ba-9172-9f8ab98bfc71",
+        "date_posted": 1692555278,
+        "company_url": "",
+        "is_visible": true
     }
 ]
