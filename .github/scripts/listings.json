@@ -9918,5 +9918,24 @@
         "date_posted": 1692555635,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1692555664,
+        "url": "https://careers.tiktok.com/position/7267715087610153273/detail",
+        "company_name": "TikTok",
+        "title": "Software Engineer Intern (Monetization Ads interface And platform - SMB and Marketing AP)",
+        "locations": [
+            "San Jose, California"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "cwcoogan",
+        "id": "95762cc8-cfd3-4f33-ac2c-406cbdf1839b",
+        "date_posted": 1692555664,
+        "company_url": "",
+        "is_visible": true
     }
 ]
