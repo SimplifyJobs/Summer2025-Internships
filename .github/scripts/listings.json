@@ -9994,5 +9994,24 @@
         "date_posted": 1692555764,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1692555783,
+        "url": "https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/300726/",
+        "company_name": "Tradeweb",
+        "title": "Java Developer - Summer 2024 Internship",
+        "locations": [
+            "Jersey City, NJ"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "cwcoogan",
+        "id": "c2c30db1-b26c-4de8-b15c-94bcb3c43f01",
+        "date_posted": 1692555783,
+        "company_url": "",
+        "is_visible": true
     }
 ]
