@@ -9956,5 +9956,24 @@
         "date_posted": 1692555679,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1692555706,
+        "url": "https://www.schwabjobs.com/job/westlake/internship-2024-charles-schwab-software-engineering/33727/53168159328",
+        "company_name": "Charles Schwab",
+        "title": "Internship - 2024 Charles Schwab Software Engineering",
+        "locations": [
+            "Multiple"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "IceColdBlizzard1",
+        "id": "53e80e5c-5398-4230-b188-dede5a521363",
+        "date_posted": 1692555706,
+        "company_url": "",
+        "is_visible": true
     }
 ]
