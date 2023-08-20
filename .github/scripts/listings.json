@@ -9813,5 +9813,26 @@
         "date_posted": 1692554726,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1692554964,
+        "url": "https://stripe.com/jobs/listing/software-engineering-intern/5297261",
+        "company_name": "Stripe",
+        "title": "Software Engineering Intern",
+        "locations": [
+            "San Francisco, CA",
+            "Seattle, WA",
+            "New York City, NY"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "TNGO04",
+        "id": "e400c684-c98f-4f2e-88d6-9d58338d98b3",
+        "date_posted": 1692554964,
+        "company_url": "",
+        "is_visible": true
     }
 ]
