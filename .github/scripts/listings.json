@@ -9730,5 +9730,24 @@
         "date_posted": 1692554395,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1692554726,
+        "url": "https://jobs.us.pwc.com/job/-/-/932/52142564240",
+        "company_name": "PwC",
+        "title": "Data Platform Engineering Intern - Summer 2024",
+        "locations": [
+            "multiple locations"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "mcHan18",
+        "id": "ab3e9057-9fed-4f22-b47b-0553d742c353",
+        "date_posted": 1692554726,
+        "company_url": "",
+        "is_visible": true
     }
 ]
