@@ -9834,5 +9834,25 @@
         "date_posted": 1692554964,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1692555005,
+        "url": "https://careers.deere.com/careers/job/137456548197",
+        "company_name": "John Deere",
+        "title": "Software Engineering Summer Intern",
+        "locations": [
+            "Moline, IL",
+            "Des Moines, IA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "prathishpratt",
+        "id": "523425b3-f6cb-4f96-910b-1777d13c2103",
+        "date_posted": 1692555005,
+        "company_url": "",
+        "is_visible": true
     }
 ]
