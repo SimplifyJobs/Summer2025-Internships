@@ -9975,5 +9975,24 @@
         "date_posted": 1692555706,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1692555764,
+        "url": "https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/300723/",
+        "company_name": "Tradeweb",
+        "title": "C++ Developer - Summer 2024 internship",
+        "locations": [
+            "Jersey City, NJ"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "cwcoogan",
+        "id": "b5afa13e-fc6d-4e3c-b143-692f94863f2a",
+        "date_posted": 1692555764,
+        "company_url": "",
+        "is_visible": true
     }
 ]
