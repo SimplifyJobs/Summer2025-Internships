@@ -9673,5 +9673,24 @@
         "company_url": "https://simplify.jobs/c/Capstone",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Connor Group",
+        "id": "0cafc15c-d506-4b20-83aa-a88f3562e901",
+        "title": "2024 Digital Solutions Intern",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1692487104,
+        "date_posted": 1692487104,
+        "url": "https://jobs.lever.co/connorgp/b9239227-e042-449b-a54f-8b5a041e2b72/apply",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Connor-Group",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
