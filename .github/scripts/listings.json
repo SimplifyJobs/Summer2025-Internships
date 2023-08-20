@@ -9711,5 +9711,24 @@
         "date_posted": 1692554375,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1692554395,
+        "url": "https://aluperf.referrals.selectminds.com/jobs/software-engineering-coop-101464",
+        "company_name": "Nokia",
+        "title": "Software Engineering Coop",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "terms": [
+            "Spring 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "smrtl2187",
+        "id": "1117b376-de96-43e1-ac01-780b3c2a1726",
+        "date_posted": 1692554395,
+        "company_url": "",
+        "is_visible": true
     }
 ]
