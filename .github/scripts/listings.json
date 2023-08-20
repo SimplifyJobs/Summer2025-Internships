@@ -9937,5 +9937,24 @@
         "date_posted": 1692555664,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1692555679,
+        "url": "https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/300729",
+        "company_name": "Tradeweb",
+        "title": "Node.JS Developer - Summer 2024 internship",
+        "locations": [
+            "Jersey City, NJ"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "cwcoogan",
+        "id": "6fca476a-09bf-4bfa-aeee-5d1c5c0885c1",
+        "date_posted": 1692555679,
+        "company_url": "",
+        "is_visible": true
     }
 ]
