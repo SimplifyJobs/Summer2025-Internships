@@ -1266,23 +1266,23 @@
         "sponsorship": "Offers Sponsorship"
     },
     {
-        "company_name": "Cherry Bekaert",
+        "company_name": "Cherry Bekaert\t",
         "locations": [
             "Multiple Locations"
         ],
-        "title": "Cybersecurity Intern",
+        "title": "Cybersecurity Intern\t",
         "date_posted": 1686196800,
         "terms": [
             "Summer 2024"
         ],
-        "active": true,
+        "active": false,
         "url": "https://recruiting.ultipro.com/CHE1006CBH/JobBoard/fee83a4e-4604-4753-bd3a-98e8811baf6f/OpportunityDetail?opportunityId=b37f522e-3724-45df-8033-3b8c3bab795f",
         "is_visible": true,
         "source": "Markdown",
         "company_url": "",
-        "date_updated": 1690430400,
+        "date_updated": 1692555188,
         "id": "63e5896f-9a55-4fb4-9d2a-44d98dd4d15a",
-        "sponsorship": "Offers Sponsorship"
+        "sponsorship": "Other"
     },
     {
         "source": "Simplify",
