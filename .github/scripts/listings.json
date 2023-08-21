@@ -10070,5 +10070,24 @@
         "company_url": "https://simplify.jobs/c/HashiCorp",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1692640071,
+        "url": "https://career4.successfactors.com/career?career_ns=job_listing&company=beldeninc&navBarLevel=JOB_SEARCH&rcm_site_locale=en_US&career_job_req_id=17854",
+        "company_name": "Belden",
+        "title": "R&D Software Intern",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "mtlogs",
+        "id": "6474c7cd-54e9-4d7e-80ac-03b85f71c3d3",
+        "date_posted": 1692640071,
+        "company_url": "",
+        "is_visible": true
     }
 ]
