@@ -8096,7 +8096,7 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1691881577,
+        "date_updated": 1692583091,
         "url": "https://careers.peraton.com/jobs/summer-2024-software-engineer-intern-herndon-va-herndon-virginia-jobs",
         "company_name": "Peraton",
         "title": "Software Engineer Intern",
@@ -8106,13 +8106,13 @@
         "terms": [
             "Summer 2024"
         ],
-        "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "possibly-AA9",
         "id": "20b0738d-e18b-4386-8841-635bba230316",
         "date_posted": 1691881577,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "source": "Simplify",
