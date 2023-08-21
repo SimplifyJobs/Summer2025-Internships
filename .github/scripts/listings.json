@@ -10127,5 +10127,24 @@
         "date_posted": 1692659008,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1692659030,
+        "url": "https://www.wellsfargojobs.com/en/jobs/r-298768/2024-summer-internship-early-careers-technology-software-or-data-engineer",
+        "company_name": "Wells Fargo",
+        "title": "Software or Data Engineer Intern",
+        "locations": [
+            "Multiple"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "RaiJashan17",
+        "id": "e0fbee48-9344-4a6f-b082-078526954b91",
+        "date_posted": 1692659030,
+        "company_url": "",
+        "is_visible": true
     }
 ]
