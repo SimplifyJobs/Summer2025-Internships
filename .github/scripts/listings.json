@@ -10013,5 +10013,62 @@
         "date_posted": 1692555783,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Ontario Teachers' Pension Plan",
+        "id": "020b6a7a-fc87-418f-8372-f3ed8aa8a44a",
+        "title": "Intern \u2013 Programmer Analyst - Enterprise Architecture and Emerging Technologies - Winter 2024 - 8 or  Months",
+        "active": true,
+        "terms": [
+            "Winter 2024"
+        ],
+        "date_updated": 1692630920,
+        "date_posted": 1692630920,
+        "url": "https://otppb.wd3.myworkdayjobs.com/OntarioTeachers_Careers/job/Toronto-Canada/Intern---Programmer-Analyst--Enterprise-Architecture-and-Emerging-Technologies--Winter-2024---8-or-12--Months-_5350",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/d4b46db7-7c4d-4097-bc34-341875b5b6ab",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "HashiCorp",
+        "id": "e9bca96a-3e50-49ae-9176-efb344a147f7",
+        "title": "Software Engineering Intern - Undergraduate",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1692630470,
+        "date_posted": 1692630470,
+        "url": "https://www.hashicorp.com/career/5304406?gh_jid=5304406",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/HashiCorp",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "HashiCorp",
+        "id": "2c8c1b61-bbd1-44cf-bf63-7bb2c9dddac9",
+        "title": "Software Engineering Intern - Undergraduate",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1692630469,
+        "date_posted": 1692630469,
+        "url": "https://www.hashicorp.com/career/5305350?gh_jid=5305350",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/HashiCorp",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
