@@ -10108,5 +10108,24 @@
         "date_posted": 1692658937,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1692659008,
+        "url": "https://cgi.njoyn.com/corp/xweb/XWeb.asp?Page=JobDetails&Jobid=J0823-1153",
+        "company_name": "CGI",
+        "title": "Software Developer Intern (Summer Internship Program)",
+        "locations": [
+            "Fairfax, VA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "geddadahasita",
+        "id": "561fa0b4-7f24-4c77-b240-288eb6b03cc4",
+        "date_posted": 1692659008,
+        "company_url": "",
+        "is_visible": true
     }
 ]

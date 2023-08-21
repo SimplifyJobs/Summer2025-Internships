@@ -60,6 +60,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **CGI** | Software Developer Intern (Summer Internship Program) | Fairfax, VA | <a href="https://cgi.njoyn.com/corp/xweb/XWeb.asp?Page=JobDetails&Jobid=J0823-1153&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 21 |
 | **Ericsson** | Software Developer Intern 🛂 | Plano, TX | <a href="https://jobs.ericsson.com/careers/job/563121756491431?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 21 |
 | **Belden** | R&D Software Intern 🛂 | Santa Clara, CA | <a href="https://career4.successfactors.com/career?career_ns=job_listing&company=beldeninc&navBarLevel=JOB_SEARCH&rcm_site_locale=en_US&career_job_req_id=17854&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 21 |
 | **[HashiCorp](https://simplify.jobs/c/HashiCorp)** | Software Engineering Intern - Undergraduate | Austin, TX | <a href="https://www.hashicorp.com/career/5304406?gh_jid=5304406&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/e9bca96a-3e50-49ae-9176-efb344a147f7?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Aug 21 |
