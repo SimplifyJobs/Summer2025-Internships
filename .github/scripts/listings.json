@@ -10146,5 +10146,24 @@
         "date_posted": 1692659030,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1692659103,
+        "url": "https://jobs.disneycareers.com/job/lake-buena-vista/engineering-and-computer-science-intern-spring-2024/391/53277572400",
+        "company_name": "Disney",
+        "title": "Engineering and Computer Science Intern",
+        "locations": [
+            "Lake Buena Vista, FL"
+        ],
+        "terms": [
+            "Spring 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "ikatyal2110",
+        "id": "9e01704d-7011-42aa-8a7f-5c4937905bc8",
+        "date_posted": 1692659103,
+        "company_url": "",
+        "is_visible": true
     }
 ]
