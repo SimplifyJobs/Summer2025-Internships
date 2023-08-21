@@ -60,6 +60,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Datadog** | Software Engineering Intern | New York City, NY | <a href="https://app.ripplematch.com/v2/public/job/e9a5081a?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 21 |
 | **Wells Fargo** | Software or Data Engineer Intern 🛂 | Multiple | <a href="https://www.wellsfargojobs.com/en/jobs/r-298768/2024-summer-internship-early-careers-technology-software-or-data-engineer?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 21 |
 | **CGI** | Software Developer Intern (Summer Internship Program) | Fairfax, VA | <a href="https://cgi.njoyn.com/corp/xweb/XWeb.asp?Page=JobDetails&Jobid=J0823-1153&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 21 |
 | **Ericsson** | Software Developer Intern 🛂 | Plano, TX | <a href="https://jobs.ericsson.com/careers/job/563121756491431?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 21 |
