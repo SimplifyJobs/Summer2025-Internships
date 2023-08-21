@@ -3,16 +3,18 @@
 We're back! Use this repo to share and keep track of software, tech, CS, PM, quant internships for **Summer 2024**. The list is maintained collaboratively by the [Pitt Computer Science Club](https://pittcsc.org/) and [Simplify](https://simplify.jobs/)!
 
 
-> **Update (Aug 10, 2023)** :partying_face:
-> - Order of postings is now newest to oldest
-> - Sponsorship Information is now shown using emojis (see legend)
-
-
 :warning: Please note that this repository is exclusively for internships/co-ops in the United States, Canada, or Remote positions :earth_americas:
 
 🧠 For valuable tips on navigating the internship process, be sure to check out our guide [Zero to Offer](https://www.pittcs.wiki/zero-to-offer) 🧠.
 
 🙏 **Contribute by submitting an [issue](https://github.com/SimplifyJobs/Summer2024-Internships/issues/new/choose)! See the contribution guidelines [here](https://github.com/pittcsc/Summer2024-Internships/blob/dev/CONTRIBUTING.md)!** 🙏
+
+---
+
+### 🚀 2024 New Grad Tech Roles 🎊
+>You all asked for it, and now it's here!
+- 🥳 Today, we are launching a new repo: [2024-New-Grad-Tech-Roles](https://github.com/SimplifyJobs/2024-New-Grad-Tech-Roles)
+- ✨ Check it out for entry-level full-time software, tech, CS, PM, and quant positions.
 
 ---
 <div align="center">
