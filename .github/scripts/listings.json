@@ -3572,7 +3572,7 @@
         "company_name": "AON3D",
         "id": "94c711ff-2fba-4cf6-9f40-9caa8a465075",
         "title": "Internship: Webgl for CAD tools",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -7382,7 +7382,7 @@
         "company_name": "PayPal",
         "id": "de7f25d2-af21-4fc7-be7f-633e662b4300",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2024",
             "Fall 2024"
@@ -8378,7 +8378,7 @@
         "company_name": "Semtech",
         "id": "e05b42b3-133e-427f-83e5-8e6101bcb378",
         "title": "Software Developer \u2013 Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -8676,7 +8676,7 @@
         "company_name": "Allegion",
         "id": "ce69a769-3aaf-48dc-8053-c41aaae04264",
         "title": "Summer Intern - Firmware",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -9622,7 +9622,7 @@
         "company_name": "Weave",
         "id": "148a9b00-ae67-4d62-99b2-a4dc074c4364",
         "title": "Data Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -10203,5 +10203,103 @@
         "date_posted": 1692659198,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Stripe",
+        "id": "337c5d84-c6f7-4ff1-823d-2e526a189eb7",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1692659820,
+        "date_posted": 1692659820,
+        "url": "https://stripe.com/jobs/search?gh_jid=5297261",
+        "locations": [
+            "Seattle, WA",
+            "SF",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Stripe",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Stripe",
+        "id": "1e86e3b9-598d-4037-972f-1dead1349805",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1692659823,
+        "date_posted": 1692659823,
+        "url": "https://stripe.com/jobs/search?gh_jid=5306054",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Stripe",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Figma",
+        "id": "91f45d66-7b76-4993-8477-6170bf369f1a",
+        "title": "Software Engineer Intern - 2024",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1692659632,
+        "date_posted": 1692659632,
+        "url": "https://boards.greenhouse.io/figma/jobs/4942607004",
+        "locations": [
+            "SF",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Figma",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Okta",
+        "id": "7232f75c-fb55-432c-a710-8e549f9e8d93",
+        "title": "Software Engineer Intern - Customer Identity Cloud - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1692659470,
+        "date_posted": 1692659470,
+        "url": "https://www.okta.com/company/careers/opportunity/5311685?gh_jid=5311685",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Okta",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Hudl",
+        "id": "a598fced-a229-481d-8c13-0dd06dc65c16",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1692659410,
+        "date_posted": 1692659410,
+        "url": "https://boards.greenhouse.io/hudl/jobs/5284641",
+        "locations": [
+            "Lincoln, NE"
+        ],
+        "company_url": "https://simplify.jobs/c/Hudl",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
