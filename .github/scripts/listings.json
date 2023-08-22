@@ -2109,7 +2109,7 @@
         "company_name": "Klue",
         "id": "4bbcf0e2-31c1-4232-8912-9184788c6095",
         "title": "Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -5519,7 +5519,7 @@
         "company_name": "Allegiant Air",
         "id": "6283c11e-232d-49a4-a725-48cbd337d473",
         "title": "Intern \u2013 Reliability - Fall 2023",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2023"
         ],
@@ -10299,6 +10299,47 @@
             "Lincoln, NE"
         ],
         "company_url": "https://simplify.jobs/c/Hudl",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "DoorDash",
+        "id": "ae74cdd4-18bb-44a0-b849-8c6e6737bfa5",
+        "title": "Software Engineer \u2013 Intern - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1692688654,
+        "date_posted": 1692688654,
+        "url": "https://boards.greenhouse.io/doordash/jobs/5305271?gh_jid=5305271",
+        "locations": [
+            "Seattle, WA",
+            "SF",
+            "LA",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/DoorDash",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "DoorDash",
+        "id": "8f34b16d-78e4-4c98-a658-ab894945d31f",
+        "title": "Software Engineer \u2013 Intern - Toronto - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1692688649,
+        "date_posted": 1692688649,
+        "url": "https://boards.greenhouse.io/doordash/jobs/5309455?gh_jid=5309455",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/DoorDash",
         "is_visible": true,
         "sponsorship": "Other"
     }
