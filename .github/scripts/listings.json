@@ -10110,7 +10110,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1692659008,
+        "date_updated": 1692726692,
         "url": "https://cgi.njoyn.com/corp/xweb/XWeb.asp?Page=JobDetails&Jobid=J0823-1153",
         "company_name": "CGI",
         "title": "Software Developer Intern (Summer Internship Program)",
@@ -10121,7 +10121,7 @@
             "Summer 2024"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "geddadahasita",
         "id": "561fa0b4-7f24-4c77-b240-288eb6b03cc4",
         "date_posted": 1692659008,
