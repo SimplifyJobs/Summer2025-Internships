@@ -1289,7 +1289,7 @@
         "company_name": "Konrad Group",
         "id": "16483a46-92e5-444d-ba75-54d678b17775",
         "title": "Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2023"
         ],
@@ -1327,7 +1327,7 @@
         "company_name": "Konrad Group",
         "id": "ff321645-a9f4-4209-a034-6df813876cfa",
         "title": "Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2023"
         ],
@@ -1880,7 +1880,7 @@
         "company_name": "Capstone",
         "id": "38b35177-89cf-4758-a269-004dc1621844",
         "title": "Quantitative Risk Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -1899,7 +1899,7 @@
         "company_name": "Capstone",
         "id": "df191a5b-d776-4c9a-9dad-7ff6a7fe36d0",
         "title": "Quantitative Risk Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -7339,7 +7339,7 @@
         "company_name": "NVIDIA",
         "id": "8551cc5a-99be-403a-b4b8-b6cb87bf973f",
         "title": "Software Intern - Server Firmware Manageability - Fall 2023",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2023"
         ],
@@ -8733,7 +8733,7 @@
         "company_name": "PayPal",
         "id": "ae043eca-d42f-4b9d-8b84-09fa285c81c8",
         "title": "Finance & Accounting Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024",
             "Fall 2024"
@@ -9350,7 +9350,7 @@
         "company_name": "Jump Trading",
         "id": "249054e9-9650-475b-ae97-a473852d4a8f",
         "title": "Campus Intern Quant Trader",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -10340,6 +10340,186 @@
             "Toronto, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/DoorDash",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Jump Trading",
+        "id": "d2451682-3a7c-4860-99f9-866c4d87200f",
+        "title": "Campus Quantitative Trader \u2013 Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1692746589,
+        "date_posted": 1692746589,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=5311340",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Jump-Trading",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Scale AI",
+        "id": "a1bd424a-b4c7-44ab-b0e6-b7e17e0ad174",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Spring 2024",
+            "Fall 2024"
+        ],
+        "date_updated": 1692746133,
+        "date_posted": 1692746133,
+        "url": "https://boards.greenhouse.io/scaleai/jobs/4305863005",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Scale-AI",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Squarepoint Capital",
+        "id": "0b44670e-8c95-4b2c-90c4-4f1a0ad51a17",
+        "title": "Intern Software Developer - Winter 2024",
+        "active": true,
+        "terms": [
+            "Winter 2024"
+        ],
+        "date_updated": 1692746118,
+        "date_posted": 1692746118,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=5311435",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Squarepoint-Capital",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Ontario Teachers' Pension Plan",
+        "id": "cec90057-c23d-4ae2-ac45-42064ef32038",
+        "title": "Intern \u2013 Middleware Analyst - Summer - Month contract",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1692746006,
+        "date_posted": 1692746006,
+        "url": "https://otppb.wd3.myworkdayjobs.com/OntarioTeachers_Careers/job/Toronto-Canada/Intern--Middleware-Analyst--Summer---16-month-contract-_5302",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/d4b46db7-7c4d-4097-bc34-341875b5b6ab",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Alcon",
+        "id": "c2427f2a-25bd-428f-bf48-17ff9d3c5bea",
+        "title": "2024 R&D Summer Intern-Track 3",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1692745977,
+        "date_posted": 1692745977,
+        "url": "https://alcon.wd5.myworkdayjobs.com/careers_alcon/job/Fort-Worth-Texas/XMLNAME-2024-R-D-Summer-Intern--Track-3_R-2023-26886",
+        "locations": [
+            "Lake Forest, CA",
+            "Johns Creek, GA",
+            "San Carlos, CA",
+            "Goleta, CA",
+            "Fort Worth, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/alcon",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Alcon",
+        "id": "4be86ae3-ba0d-4f7a-af5d-f80f648e75b1",
+        "title": "2024 R&D Summer Intern-Track 2",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1692745982,
+        "date_posted": 1692745982,
+        "url": "https://alcon.wd5.myworkdayjobs.com/careers_alcon/job/Fort-Worth-Texas/XMLNAME-2024-R-D-Summer-Intern--Track-2_R-2023-26880",
+        "locations": [
+            "Lake Forest, CA",
+            "Johns Creek, GA",
+            "San Carlos, CA",
+            "Goleta, CA",
+            "Fort Worth, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/alcon",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Bracebridge Capital",
+        "id": "ac2ae178-d07f-4bd2-a612-759ae4c1da0d",
+        "title": "2024 Winternship",
+        "active": true,
+        "terms": [
+            "Winter 2024"
+        ],
+        "date_updated": 1692745850,
+        "date_posted": 1692745850,
+        "url": "https://boards.greenhouse.io/bracebridgecapital/jobs/4308226005",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Bracebridge-Capital",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Intel",
+        "id": "76795238-8782-4cef-b5d7-ecdbfdc70d6c",
+        "title": "Design Automation Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1692745813,
+        "date_posted": 1692745813,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Texas-Austin/Design-Automation-Intern_JR0247602-1",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Epic Games",
+        "id": "edff9260-c796-45d1-ab79-20773efbfc34",
+        "title": "Physics Programmer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1692745477,
+        "date_posted": 1692745477,
+        "url": "https://boards.greenhouse.io/epicgames/jobs/4957232004",
+        "locations": [
+            "Morrisville, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Epic-Games",
         "is_visible": true,
         "sponsorship": "Other"
     }
