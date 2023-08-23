@@ -9388,7 +9388,7 @@
         "company_name": "Businessolver",
         "id": "acfc9a9d-2f7d-4868-8a82-e49ff579b3bd",
         "title": "Software Engineering Internship - Java - React - Work-from-Home",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2023"
         ],
@@ -9679,7 +9679,7 @@
         "company_name": "Connor Group",
         "id": "0cafc15c-d506-4b20-83aa-a88f3562e901",
         "title": "2024 Digital Solutions Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -10520,6 +10520,63 @@
             "Morrisville, NC"
         ],
         "company_url": "https://simplify.jobs/c/Epic-Games",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Rivian",
+        "id": "f78950a0-501f-4562-a5cd-88055fa1f1ae",
+        "title": "Software Engineering \u2013 Summer 2024 Internships",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1692775522,
+        "date_posted": 1692775522,
+        "url": "https://careers.rivian.com/jobs/12822?lang=en-us&icims=1",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Rivian",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Intel",
+        "id": "d638b35d-c71b-4c2d-912b-32f9cffac5d5",
+        "title": "Compiler Engineering Co-op",
+        "active": true,
+        "terms": [
+            "Winter 2024"
+        ],
+        "date_updated": 1692774635,
+        "date_posted": 1692774635,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/Canada-Toronto/Compiler-Engineering-Co-op_JR0247683",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Intel",
+        "id": "37102699-9465-4503-b08a-e1d3a81694ec",
+        "title": "Compiler Engineering PEY Intern",
+        "active": true,
+        "terms": [
+            "Spring 2024"
+        ],
+        "date_updated": 1692774634,
+        "date_posted": 1692774634,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/Canada-Toronto/Compiler-Engineering-PEY-Intern_JR0247684",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
         "is_visible": true,
         "sponsorship": "Other"
     }
