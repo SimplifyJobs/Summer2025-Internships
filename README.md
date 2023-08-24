@@ -61,6 +61,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Lowes** | Software Engineer Intern | Charlotte, NC | <a href="https://talent.lowes.com/us/en/job/2671644BR/Software-Engineer-Undergraduate-Internship?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 24 |
 | **Qualtrics** | Software Engineer Intern 🛂 | Seattle, WA | <a href="https://www.qualtrics.com/careers/us/en/job/QUALUS5317651EXTERNALENUS/Software-Engineering-Intern-Summer-2024?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 24 |
 | **[Figma](https://simplify.jobs/c/Figma)** | Data Science Intern (2024) | San Francisco, CA</br>New York, NY | <a href="https://app.ripplematch.com/v2/public/job/f1076b21/details?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 24 |
 | **Boeing** | Information Technology And Data Analytics Intern 🛂 | Multiple | <a href="https://jobs.boeing.com/job/everett/boeing-summer-2024-internship-program-paid-information-technology-it-and-data-analytics-da-and-digi/185/53049783376?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 24 |

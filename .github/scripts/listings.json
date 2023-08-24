@@ -10895,5 +10895,24 @@
         "date_posted": 1692912914,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1692912932,
+        "url": "https://talent.lowes.com/us/en/job/2671644BR/Software-Engineer-Undergraduate-Internship",
+        "company_name": "Lowes",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "cwcoogan",
+        "id": "6f8625ee-4d26-4564-a655-880a7a5c4b51",
+        "date_posted": 1692912932,
+        "company_url": "",
+        "is_visible": true
     }
 ]
