@@ -10816,5 +10816,24 @@
         "date_posted": 1692903277,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1692903307,
+        "url": "https://jobs.boeing.com/job/everett/boeing-summer-2024-internship-program-paid-information-technology-it-and-data-analytics-da-and-digi/185/53049783376",
+        "company_name": "Boeing",
+        "title": "Information Technology And Data Analytics Intern",
+        "locations": [
+            "Multiple"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "RaiJashan17",
+        "id": "040845d7-3aca-48e5-95ed-73fab81f74e7",
+        "date_posted": 1692903307,
+        "company_url": "",
+        "is_visible": true
     }
 ]
