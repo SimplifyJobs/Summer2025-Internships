@@ -10739,5 +10739,24 @@
         "date_posted": 1692902394,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1692902546,
+        "url": "https://delta.avature.net/careers/JobDetail/Intern-IT-Software-Engineering-Summer-2024/21831",
+        "company_name": "Delta",
+        "title": "IT - Software Engineer Intern",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "cwcoogan",
+        "id": "91d768d6-b370-4c80-b173-819fa789f7cb",
+        "date_posted": 1692902546,
+        "company_url": "",
+        "is_visible": true
     }
 ]
