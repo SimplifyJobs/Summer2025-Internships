@@ -10637,5 +10637,25 @@
         "date_posted": 1692902256,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1692902282,
+        "url": "https://app.ripplematch.com/v2/public/job/e5a27ef5/details",
+        "company_name": "Figma",
+        "title": "Product Design Intern (2024)",
+        "locations": [
+            "San Francisco, CA",
+            "New York, NY"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "mtlogs",
+        "id": "d38b9b4a-1a81-4175-abe8-c626b9d02637",
+        "date_posted": 1692902282,
+        "company_url": "",
+        "is_visible": true
     }
 ]
