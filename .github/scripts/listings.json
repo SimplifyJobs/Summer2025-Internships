@@ -10876,5 +10876,24 @@
         "date_posted": 1692903599,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1692912914,
+        "url": "https://www.qualtrics.com/careers/us/en/job/QUALUS5317651EXTERNALENUS/Software-Engineering-Intern-Summer-2024",
+        "company_name": "Qualtrics",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "cwcoogan",
+        "id": "75600ca6-70a2-4f49-923f-245efd3b21af",
+        "date_posted": 1692912914,
+        "company_url": "",
+        "is_visible": true
     }
 ]
