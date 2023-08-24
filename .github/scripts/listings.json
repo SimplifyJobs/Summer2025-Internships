@@ -195,7 +195,7 @@
         "company_name": "Akuna Capital",
         "id": "57c57957-ea68-4251-a32f-3b474767da45",
         "title": "Software Engineer Intern - Web",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -1077,7 +1077,7 @@
         "company_name": "InterSystems",
         "id": "4566387d-3970-4ba5-8337-ced016562663",
         "title": "Sales Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -1308,7 +1308,7 @@
         "company_name": "Konrad Group",
         "id": "62b89c51-28d5-47b8-b560-cc33243f1953",
         "title": "Uoft PEY - Software Developer Intern - Months",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -6080,7 +6080,7 @@
         "company_name": "HRL Laboratories",
         "id": "93ea054e-8fd9-4f9d-a72f-dc13d03a39c0",
         "title": "Doctorate Intern in Machine Learning and Reasoning",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -6099,7 +6099,7 @@
         "company_name": "HRL Laboratories",
         "id": "e6b2013e-27d1-40a5-9bc1-60804a0f6e13",
         "title": "Summer Internship in Active Prediction",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -6175,7 +6175,7 @@
         "company_name": "HRL Laboratories",
         "id": "3b9166a2-ff2a-4e7c-b0d7-df8cd3d3760e",
         "title": "Undergrad Intern - AI Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -6194,7 +6194,7 @@
         "company_name": "HRL Laboratories",
         "id": "d1a00fe2-e467-45c1-9b96-cb81bc871cac",
         "title": "Autonomous Driving Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -7620,7 +7620,7 @@
         "company_name": "Vestmark",
         "id": "4afe79f0-d002-45ed-80e5-a39026e28283",
         "title": "Intern \u2013 Systems Engineer - Fall 2023",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2023"
         ],
@@ -8834,7 +8834,7 @@
         "company_name": "Allegion",
         "id": "7c527782-13c2-41f1-a447-ebe63f9ef98b",
         "title": "Summer Intern - Quality Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -8933,7 +8933,7 @@
         "company_name": "Firework",
         "id": "77712aa4-f59a-4884-b5e8-e3910f73545f",
         "title": "Infrastructure/Devops Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -10386,7 +10386,7 @@
         "company_name": "Squarepoint Capital",
         "id": "0b44670e-8c95-4b2c-90c4-4f1a0ad51a17",
         "title": "Intern Software Developer - Winter 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2024"
         ],
@@ -10914,5 +10914,43 @@
         "date_posted": 1692912932,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Domo",
+        "id": "d5056c52-948c-4ac7-83ad-087c78b06996",
+        "title": "Product Insights Intern",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1692832240,
+        "date_posted": 1692832240,
+        "url": "https://boards.greenhouse.io/domo/jobs/5316628",
+        "locations": [
+            "American Fork, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/Domo",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Epic Games",
+        "id": "2c884d56-0aaf-49bc-a818-98dd915c711c",
+        "title": "Tools and Workflow Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1692896851,
+        "date_posted": 1692831932,
+        "url": "https://boards.greenhouse.io/epicgames/jobs/4956920004",
+        "locations": [
+            "Morrisville, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Epic-Games",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
