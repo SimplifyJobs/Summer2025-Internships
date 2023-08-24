@@ -10720,5 +10720,24 @@
         "date_posted": 1692902367,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1692902394,
+        "url": "https://jobs.bytedance.com/en/position/7267298137634392380/detail",
+        "company_name": "ByteDance",
+        "title": "Frontend Software Engineer Intern (Product RD and Infrastructure-Global E-Commerce)",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "chelsey0527",
+        "id": "633f1e3c-5a44-4043-9ceb-806e4a3fe34e",
+        "date_posted": 1692902394,
+        "company_url": "",
+        "is_visible": true
     }
 ]
