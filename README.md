@@ -60,6 +60,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Notion** | Software Engineer Intern | San Francisco, CA</br>New York, NY | <a href="https://app.ripplematch.com/v2/public/job/107e5590?tl=ec697887&fromPage=tracking_link&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 24 |
 | **Delta** | IT - Software Engineer Intern | Atlanta, GA | <a href="https://delta.avature.net/careers/JobDetail/Intern-IT-Software-Engineering-Summer-2024/21831?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 24 |
 | **ByteDance** | Frontend Software Engineer Intern (Product RD and Infrastructure-Global E-Commerce) 🛂 | Seattle, WA | <a href="https://jobs.bytedance.com/en/position/7267298137634392380/detail?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 24 |
 | **Honeywell** | IT or Cybersecurity or Data Science Intern 🇺🇸 | Multiple | <a href="https://careers.honeywell.com/us/en/job/HONEUSREQ413283EXTERNALENUS/Information-Systems-IT-Cyber-Engineer-Data-Science-Summer-2024-Intern-Co-Ops-US-Person-Requir?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 24 |
