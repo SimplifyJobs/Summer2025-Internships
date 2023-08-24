@@ -10855,5 +10855,25 @@
         "date_posted": 1692903566,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1692903599,
+        "url": "https://app.ripplematch.com/v2/public/job/f1076b21/details",
+        "company_name": "Figma",
+        "title": "Data Science Intern (2024)",
+        "locations": [
+            "San Francisco, CA",
+            "New York, NY"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "mtlogs",
+        "id": "0f9f34b0-fd7a-4899-bce2-541bacfea81a",
+        "date_posted": 1692903599,
+        "company_url": "",
+        "is_visible": true
     }
 ]

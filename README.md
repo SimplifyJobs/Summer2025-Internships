@@ -60,6 +60,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **[Figma](https://simplify.jobs/c/Figma)** | Data Science Intern (2024) | San Francisco, CA</br>New York, NY | <a href="https://app.ripplematch.com/v2/public/job/f1076b21/details?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 24 |
 | **Boeing** | Information Technology And Data Analytics Intern 🛂 | Multiple | <a href="https://jobs.boeing.com/job/everett/boeing-summer-2024-internship-program-paid-information-technology-it-and-data-analytics-da-and-digi/185/53049783376?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 24 |
 | **Avaya** | Software Engineer Intern 🛂 | Irving, TX | <a href="https://careers.avaya.com/job/Irving-Intern-Software-Engineer-TX-75014/965223401/?feedId=178801&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 24 |
 | **Dell Technologies** | Dell ISG (Infrastructure Solutions Group) Software Engineering Intern | Round Rock, TX</br>Hopkinton, MA | <a href="https://dell.wd1.myworkdayjobs.com/ExternalNonPublic/job/Round-Rock-Texas-United-States/Software-Engineering-Intern_R232389?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 24 |
