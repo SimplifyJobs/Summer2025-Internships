@@ -10701,5 +10701,24 @@
         "date_posted": 1692902332,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1692902367,
+        "url": "https://careers.honeywell.com/us/en/job/HONEUSREQ413283EXTERNALENUS/Information-Systems-IT-Cyber-Engineer-Data-Science-Summer-2024-Intern-Co-Ops-US-Person-Requir",
+        "company_name": "Honeywell",
+        "title": "IT or Cybersecurity or Data Science Intern",
+        "locations": [
+            "Multiple"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "source": "RaiJashan17",
+        "id": "37594a1b-f05a-4b64-814b-1d14f91cd1fd",
+        "date_posted": 1692902367,
+        "company_url": "",
+        "is_visible": true
     }
 ]
