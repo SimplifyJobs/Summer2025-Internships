@@ -9224,7 +9224,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1692305467,
+        "date_updated": 1692903353,
         "url": "https://jobs.bayer.com/job/Creve-Coeur-Software-Engineer-Intern-Miss/971633501/?jobPipeline=Simplify",
         "company_name": "Bayer",
         "title": "Software Engineer Intern",
@@ -9235,7 +9235,7 @@
             "Summer 2024"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "hemanthy1",
         "id": "3ca4ee97-0ba4-4ad3-a12f-806367a85da5",
         "date_posted": 1692305467,
