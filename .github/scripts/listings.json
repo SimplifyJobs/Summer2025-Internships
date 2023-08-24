@@ -9815,7 +9815,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1692554964,
+        "date_updated": 1692904282,
         "url": "https://stripe.com/jobs/listing/software-engineering-intern/5297261",
         "company_name": "Stripe",
         "title": "Software Engineering Intern",
@@ -9833,7 +9833,7 @@
         "id": "e400c684-c98f-4f2e-88d6-9d58338d98b3",
         "date_posted": 1692554964,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1692555005,
