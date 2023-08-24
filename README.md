@@ -49,6 +49,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 ## The List 🚴🏔
 
+### Legend
  - 🛂 - Does NOT offer Sponsorship
  - 🇺🇸 - Requires U.S. Citizenship
  - 🔒 - Internship application is closed
