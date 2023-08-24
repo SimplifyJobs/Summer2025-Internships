@@ -10835,5 +10835,25 @@
         "date_posted": 1692903307,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1692903566,
+        "url": "https://jobs.rbc.com/ca/en/job/R-0000066167/2024-Winter-Student-Opportunities-Technology-Operations-Software-Developer-4-Months",
+        "company_name": "Royal Bank of Canada",
+        "title": "Software Developer Intern",
+        "locations": [
+            "Toronto, ON",
+            "Remote"
+        ],
+        "terms": [
+            "Winter 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "richardl2003",
+        "id": "a03b181c-9db1-4b1b-aee4-8b9d1b86a1e6",
+        "date_posted": 1692903566,
+        "company_url": "",
+        "is_visible": true
     }
 ]
