@@ -10797,5 +10797,24 @@
         "date_posted": 1692903239,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1692903277,
+        "url": "https://careers.avaya.com/job/Irving-Intern-Software-Engineer-TX-75014/965223401/?feedId=178801",
+        "company_name": "Avaya",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "Irving, TX"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "cwcoogan",
+        "id": "065a8fee-a61e-4bdb-83c9-7b0d231e2b07",
+        "date_posted": 1692903277,
+        "company_url": "",
+        "is_visible": true
     }
 ]
