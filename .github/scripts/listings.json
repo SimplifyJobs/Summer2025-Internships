@@ -10617,5 +10617,25 @@
         "company_url": "https://simplify.jobs/c/Leidos",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1692902256,
+        "url": "https://app.ripplematch.com/v2/public/job/2a760524/details?tl=b5ede793",
+        "company_name": "Notion",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "San Francisco, CA",
+            "New York, NY"
+        ],
+        "terms": [
+            "Winter 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "9brian",
+        "id": "247293b7-2927-4f04-a9c2-6cd19f335da9",
+        "date_posted": 1692902256,
+        "company_url": "",
+        "is_visible": true
     }
 ]
