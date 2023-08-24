@@ -10657,5 +10657,24 @@
         "date_posted": 1692902282,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1692902317,
+        "url": "https://www.visibility.com/about/careers",
+        "company_name": "Visibility Corp.",
+        "title": ".NET Application Software Engineer Intern",
+        "locations": [
+            "North Andover, MA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "source": "Frostfire25",
+        "id": "7a72d932-898d-4224-8fe2-4b01e9c19d71",
+        "date_posted": 1692902317,
+        "company_url": "",
+        "is_visible": true
     }
 ]
