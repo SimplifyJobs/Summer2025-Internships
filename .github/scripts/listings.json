@@ -10676,5 +10676,30 @@
         "date_posted": 1692902317,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1692902332,
+        "url": "https://careers.thetradedesk.com/us/en/job/TTDEUSREQ5795EXTERNALENUS/2024-Software-Engineering-Intern-North-America",
+        "company_name": "The Trade Desk",
+        "title": "2024 Software Engineering Intern - North America",
+        "locations": [
+            "New York, New York, United States of America",
+            "San Francisco, California, United States of America",
+            "Irvine, California, United States of America",
+            "Denver, Colorado, United States of America",
+            "Bellevue, Washington, United States of America",
+            "Boulder, Colorado, United States of America",
+            "Denver, Colorado, United States of America"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "ShaneYokota72",
+        "id": "a5e4facd-9300-479a-ab43-6e2e1db32292",
+        "date_posted": 1692902332,
+        "company_url": "",
+        "is_visible": true
     }
 ]
