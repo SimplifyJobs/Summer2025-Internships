@@ -10777,5 +10777,25 @@
         "date_posted": 1692902933,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1692903239,
+        "url": "https://dell.wd1.myworkdayjobs.com/ExternalNonPublic/job/Round-Rock-Texas-United-States/Software-Engineering-Intern_R232389",
+        "company_name": "Dell Technologies",
+        "title": "Dell ISG (Infrastructure Solutions Group) Software Engineering Intern",
+        "locations": [
+            "Round Rock, TX",
+            "Hopkinton, MA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "IceColdBlizzard1",
+        "id": "d40a0a85-7456-4048-bc0d-d0996c88d303",
+        "date_posted": 1692903239,
+        "company_url": "",
+        "is_visible": true
     }
 ]
