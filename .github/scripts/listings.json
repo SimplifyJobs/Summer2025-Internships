@@ -11317,5 +11317,24 @@
         "date_posted": 1692975094,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1692990859,
+        "url": "https://ea.gr8people.com/jobs/179737/software-engineer-intern?jobPipeline=Indeed",
+        "company_name": "EA",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "Redwood City, CA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "hemanthy1",
+        "id": "72dafd89-014c-495a-9329-41319d2b8706",
+        "date_posted": 1692990859,
+        "company_url": "",
+        "is_visible": true
     }
 ]
