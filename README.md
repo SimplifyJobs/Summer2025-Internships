@@ -156,7 +156,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | **[Jump Trading](https://simplify.jobs/c/Jump-Trading)** | Campus UI Software Engineer – Intern | Chicago, IL | <a href="https://www.jumptrading.com/careers/5281473?gh_jid=5281473&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/29c090c4-e5fa-4643-89d5-f00f0915f6c6?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Aug 16 |
 | **Allegion** | Summer Intern - Quality Engineering | Carmel, IN | 🔒 | Aug 16 |
 | **Workiva** | 2024 Summer – Security Engineering Intern | Remote in USA</br>Ames, IA | 🔒 | Aug 16 |
-| **[Workiva](https://simplify.jobs/c/Workiva)** | Software engineering intern | Remote | <a href="https://workiva.wd1.myworkdayjobs.com/en-US/careers/job/XMLNAME-2024-Summer---Software-Engineer_R7284?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 16 |
+| **Workiva** | Software engineering intern | Remote | 🔒 | Aug 16 |
 | **Leidos** | Software Engineer Intern | Aurora, CO</br>Chantilly, VA | 🔒 | Aug 16 |
 | **Allegion** | Summer Intern - Firmware | Golden, CO | 🔒 | Aug 15 |
 | **Walmart** | 2023 Walmart Intern Conversion: 2024 Return Intern Software Engineer II - Sunnyvale - CA | Sunnyvale, CA | 🔒 | Aug 15 |

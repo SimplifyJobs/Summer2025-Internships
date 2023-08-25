@@ -8792,7 +8792,7 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1692220302,
+        "date_updated": 1692974267,
         "url": "https://workiva.wd1.myworkdayjobs.com/en-US/careers/job/XMLNAME-2024-Summer---Software-Engineer_R7284",
         "company_name": "Workiva",
         "title": "Software engineering intern",
@@ -8802,8 +8802,8 @@
         "terms": [
             "Summer 2024"
         ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "firelordsokka",
         "id": "9a4b50e5-1135-4748-910e-e3e4fe39b156",
         "date_posted": 1692220302,
