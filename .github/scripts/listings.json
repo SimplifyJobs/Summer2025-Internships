@@ -1308,7 +1308,7 @@
         "company_name": "Konrad Group",
         "id": "62b89c51-28d5-47b8-b560-cc33243f1953",
         "title": "Uoft PEY - Software Developer Intern - Months",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -11223,5 +11223,83 @@
         "date_posted": 1692935895,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Figma",
+        "id": "70b99364-7f26-4da5-b0cd-4f194937d56f",
+        "title": "Data Scientist Intern - 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1692659631,
+        "date_posted": 1692659631,
+        "url": "https://boards.greenhouse.io/figma/jobs/4956894004",
+        "locations": [
+            "SF",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Figma",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "iRobot",
+        "id": "965e53f2-4bd4-496e-9cb5-a75ec4726e74",
+        "title": "September-December: Sales Analytics Intern - Undergrad",
+        "active": true,
+        "terms": [
+            "Fall 2023",
+            "Winter 2024"
+        ],
+        "date_updated": 1692141248,
+        "date_posted": 1692141248,
+        "url": "https://irobot.wd5.myworkdayjobs.com/iRobot/job/US-Remote/July-December--Sales-Analytics-Intern--Undergrad-_R3435",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/iRobot",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "CSL",
+        "id": "bbb30874-2eef-4c05-a300-4dbd9a70e2b3",
+        "title": "Strategic Analytics Co-op",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1692731552,
+        "date_posted": 1692055761,
+        "url": "https://csl.wd1.myworkdayjobs.com/CSL_External/job/Americas-US-PA-King-of-Prussia-CSL-Behring/Market-Insights-Co-op_R-211614",
+        "locations": [
+            "King of Prussia, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/d4f1200a-91a0-453b-b393-e1677d2317a8",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Golden Hippo",
+        "id": "e7397a7d-7366-430a-8551-dbf3e4bc9299",
+        "title": "SEO Data Scientist Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1691766737,
+        "date_posted": 1691766737,
+        "url": "https://boards.greenhouse.io/goldenhippo/jobs/4302676005",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Golden-Hippo",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
