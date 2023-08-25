@@ -7358,7 +7358,7 @@
         "company_name": "PayPal",
         "id": "0e3dde91-f355-42c7-bfe6-d291763ba9ad",
         "title": "Data Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2024",
             "Fall 2024"
@@ -10946,6 +10946,258 @@
         "date_updated": 1692896851,
         "date_posted": 1692831932,
         "url": "https://boards.greenhouse.io/epicgames/jobs/4956920004",
+        "locations": [
+            "Morrisville, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Epic-Games",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Qualtrics",
+        "id": "cd275ddc-bfed-4bba-8b4b-cb0ec98ffaab",
+        "title": "Software Engineering Intern - Summer 2024 - Provo",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1692919609,
+        "date_posted": 1692919609,
+        "url": "https://www.qualtrics.com/careers/us/en/job/5317665?gh_jid=5317665",
+        "locations": [
+            "Provo, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/Qualtrics",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "LivePerson",
+        "id": "781299aa-3afb-49d1-9041-acfb9ee89cc5",
+        "title": "SDE Intern",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1692919328,
+        "date_posted": 1692919328,
+        "url": "https://boards.greenhouse.io/liveperson/jobs/5294082",
+        "locations": [
+            "Remote"
+        ],
+        "company_url": "https://simplify.jobs/c/LivePerson",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "The Allen Institute for AI",
+        "id": "de10138c-10f1-4b4e-b526-8ae71be815b4",
+        "title": "Research Internship",
+        "active": true,
+        "terms": [
+            "Spring 2023",
+            "Summer 2023",
+            "Fall 2023"
+        ],
+        "date_updated": 1692918848,
+        "date_posted": 1692918848,
+        "url": "https://boards.greenhouse.io/thealleninstitute/jobs/2171612",
+        "locations": [
+            "Remote"
+        ],
+        "company_url": "https://simplify.jobs/c/allenai",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Leidos",
+        "id": "2e755418-3fee-45f9-9c28-cfd2d8037ebf",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1692918696,
+        "date_posted": 1692918696,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Remote-US/Software-Engineering-Intern_R-00117858",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Hudl",
+        "id": "fb00803f-f6b8-4ccf-8978-f1d1e0937bb6",
+        "title": "Software Quality Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1692918597,
+        "date_posted": 1692918597,
+        "url": "https://boards.greenhouse.io/hudl/jobs/5297285",
+        "locations": [
+            "Lincoln, NE"
+        ],
+        "company_url": "https://simplify.jobs/c/Hudl",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Anyscale",
+        "id": "696403a9-216f-464e-b879-d3c6651df3bc",
+        "title": "Software Engineer \u2013 Intern 2024",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1692918497,
+        "date_posted": 1692918497,
+        "url": "https://jobs.lever.co/anyscale/386efaac-c106-42ee-9bca-206b29b0aeae/apply",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Anyscale",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Qualtrics",
+        "id": "2e86c9a3-7dbc-4903-8957-d0b2bdbeb07c",
+        "title": "Software Engineering Intern - Summer 2024 - Reston - Virginia",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1692918571,
+        "date_posted": 1692918571,
+        "url": "https://www.qualtrics.com/careers/us/en/job/5317675?gh_jid=5317675",
+        "locations": [
+            "Reston, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Qualtrics",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Qualtrics",
+        "id": "1b5064d1-35ce-48ff-be8a-58bd543111ef",
+        "title": "Software Engineering Intern - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1692918573,
+        "date_posted": 1692918573,
+        "url": "https://www.qualtrics.com/careers/us/en/job/5317651?gh_jid=5317651",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Qualtrics",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Rockwell Automation",
+        "id": "f05f6a91-c862-4ac9-b853-83310aca4b4f",
+        "title": "Intern \u2013 Software Test",
+        "active": true,
+        "terms": [
+            "Fall 2023",
+            "Winter 2024",
+            "Spring 2024",
+            "Summer 2024"
+        ],
+        "date_updated": 1692918487,
+        "date_posted": 1692918487,
+        "url": "https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/United-States-of-America-Arizona-remote/Intern--Software-Test_R23-9478-1",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Rockwell-Automation",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Epic Games",
+        "id": "d2e866c6-9236-4ada-b644-7e6af79c9ec6",
+        "title": "Core Programmer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1692918268,
+        "date_posted": 1692918268,
+        "url": "https://boards.greenhouse.io/epicgames/jobs/4957152004",
+        "locations": [
+            "Morrisville, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Epic-Games",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Epic Games",
+        "id": "9aa1f016-43df-4d6e-975a-59016c2e27a8",
+        "title": "UI Programmer Intern",
+        "active": true,
+        "terms": [
+            "Spring 2024"
+        ],
+        "date_updated": 1692918266,
+        "date_posted": 1692918266,
+        "url": "https://boards.greenhouse.io/epicgames/jobs/4956952004",
+        "locations": [
+            "Morrisville, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Epic-Games",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Epic Games",
+        "id": "40db6fb3-2eff-41f3-ac3d-944addcf3e1e",
+        "title": "Tools Programmer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1692918265,
+        "date_posted": 1692918265,
+        "url": "https://boards.greenhouse.io/epicgames/jobs/4957229004",
+        "locations": [
+            "Morrisville, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Epic-Games",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Epic Games",
+        "id": "0a98fb5f-9a1b-4693-a028-c1ce916cb1eb",
+        "title": "Gameplay Programmer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1692918271,
+        "date_posted": 1692918271,
+        "url": "https://boards.greenhouse.io/epicgames/jobs/4957271004",
         "locations": [
             "Morrisville, NC"
         ],
