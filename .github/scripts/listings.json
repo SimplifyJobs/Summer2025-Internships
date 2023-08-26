@@ -43,7 +43,7 @@
         "company_name": "Akuna Capital",
         "id": "e11db57c-bdea-4be0-bc67-9001293524d6",
         "title": "Performance Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -3790,7 +3790,7 @@
         "company_name": "Verkada",
         "id": "f18e9e59-031e-453a-9625-8a2abec132f9",
         "title": "Technical Support Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024"
         ],
@@ -8733,7 +8733,7 @@
         "company_name": "PayPal",
         "id": "ae043eca-d42f-4b9d-8b84-09fa285c81c8",
         "title": "Finance & Accounting Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2024",
             "Fall 2024"
@@ -9407,7 +9407,7 @@
         "company_name": "Walmart",
         "id": "107b4c72-cab7-4b80-bb2f-f88f68ef61fb",
         "title": "2023 Intern Conversion: 2024 Return Intern Software Engineer II",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -11336,5 +11336,179 @@
         "date_posted": 1692990859,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Nutanix",
+        "id": "b5ec12d2-4310-460a-9dde-f44dfe75363d",
+        "title": "Software Engineering Intern - Undergraduates Only",
+        "active": true,
+        "terms": [
+            "Spring 2024",
+            "Summer 2024"
+        ],
+        "date_updated": 1693006069,
+        "date_posted": 1693006069,
+        "url": "https://jobs.jobvite.com/nutanix/job/oPg7nfwj?nl=1&nl=1&fr=false",
+        "locations": [
+            "San Jose, CA",
+            "Durham, NC",
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Nutanix",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "TS Imagine",
+        "id": "8a90ad77-0cda-4f48-b539-0c77e9201b5e",
+        "title": "Desktop Support Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1693005899,
+        "date_posted": 1693005899,
+        "url": "https://tsimagine.com/about/careers/job/?gh_jid=5267934",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/TSImagine",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "TS Imagine",
+        "id": "55eff49f-1a8c-4c68-98f2-18fbc8fa32e2",
+        "title": "Data Management Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1693005899,
+        "date_posted": 1693005899,
+        "url": "https://tsimagine.com/about/careers/job/?gh_jid=5267898",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/TSImagine",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "TS Imagine",
+        "id": "2ff239d4-67a0-4fcf-a2e8-92cb7d27efa5",
+        "title": "Financial Technology Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1693005899,
+        "date_posted": 1693005899,
+        "url": "https://tsimagine.com/about/careers/job/?gh_jid=4192659",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/TSImagine",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Santander",
+        "id": "d5617303-3771-4853-952e-961045f03c7a",
+        "title": "Technology Intern - SC",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1693005230,
+        "date_posted": 1693005230,
+        "url": "https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Irvine/Technology-Intern---SC_Req1199607-1",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Santander",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Leidos",
+        "id": "f1c887a8-ec02-4232-99f3-3f6a3fb0e23f",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1693005096,
+        "date_posted": 1693005096,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Charlottesville-VA/Software-Engineer-Intern_R-00117934-1",
+        "locations": [
+            "Charlottesville, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Proofpoint",
+        "id": "d7f7601c-4775-454c-b94f-a0e0a695c9b1",
+        "title": "Software Development Part-Time Intern - Undergrad",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1693005104,
+        "date_posted": 1693005104,
+        "url": "https://proofpoint.wd5.myworkdayjobs.com/en-US/ProofpointCareers/job/Pittsburgh-PA/Software-Development-Part-Time-Intern---Undergrad_R9627",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/proofpoint",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Proofpoint",
+        "id": "2761b6be-d126-46d0-b997-4d242a61e1bc",
+        "title": "Software Engineer Part-Time Intern - Undergrad",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1693005108,
+        "date_posted": 1693005108,
+        "url": "https://proofpoint.wd5.myworkdayjobs.com/en-US/ProofpointCareers/job/Sunnyvale-CA/Software-Engineer-Part-Time-Intern---Undergrad_R9615",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/proofpoint",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Epic Games",
+        "id": "8f5a7803-eb13-421c-9f3c-a0ae080f5134",
+        "title": "UI Programmer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1693004704,
+        "date_posted": 1693004704,
+        "url": "https://boards.greenhouse.io/epicgames/jobs/4956964004",
+        "locations": [
+            "Morrisville, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Epic-Games",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
