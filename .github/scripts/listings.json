@@ -11529,5 +11529,24 @@
         "company_url": "https://simplify.jobs/c/UrsaMajor",
         "is_visible": true,
         "sponsorship": "U.S. Citizenship is Required"
+    },
+    {
+        "date_updated": 1693094040,
+        "url": "https://jobs.bnsf.com/us/en/job/90748/Engineering-Network-Control-Systems-Summer-Intern-2024-Paid",
+        "company_name": "BNSF",
+        "title": "Network Control Systems Intern",
+        "locations": [
+            "Fort Worth, TX"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "dxiao01",
+        "id": "337a5136-2e94-4e44-ac1a-d2b52c0d66a4",
+        "date_posted": 1693094040,
+        "company_url": "",
+        "is_visible": true
     }
 ]
