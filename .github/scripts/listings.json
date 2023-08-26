@@ -2840,7 +2840,7 @@
         "company_name": "Chewie Labs",
         "id": "ee11c43a-0aec-49c4-adf0-138077204f31",
         "title": "Electrical Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -8473,7 +8473,7 @@
         "company_name": "Zeno Group",
         "id": "c4cb6783-339a-46d3-9fb4-2229a5220334",
         "title": "Strategy and Planning Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -8656,7 +8656,7 @@
         "company_name": "Safari AI",
         "id": "48244551-fbd8-4fef-95d3-d0b27ef74c77",
         "title": "CV/ML Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -11508,6 +11508,25 @@
             "Morrisville, NC"
         ],
         "company_url": "https://simplify.jobs/c/Epic-Games",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Ursa Major",
+        "id": "65ea08f3-f992-4183-bb4b-0c71b996e58b",
+        "title": "2024 Summer Avionics Software Engineer Internship",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1693034366,
+        "date_posted": 1693034366,
+        "url": "https://www.ursamajor.com/careers/4309511005?gh_jid=4309511005",
+        "locations": [
+            "Loveland, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/UrsaMajor",
         "is_visible": true,
         "sponsorship": "Other"
     }
