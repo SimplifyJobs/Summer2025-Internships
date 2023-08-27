@@ -11548,5 +11548,24 @@
         "date_posted": 1693094040,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1693101556,
+        "url": "https://jobs.bnsf.com/us/en/job/90821/Technology-Services-Summer-Intern-2024",
+        "company_name": "BNSF",
+        "title": "Technology Services Intern",
+        "locations": [
+            "Fort Worth, TX"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "dxiao01",
+        "id": "6e4000d4-259e-426c-acf5-5c7a824419aa",
+        "date_posted": 1693101556,
+        "company_url": "",
+        "is_visible": true
     }
 ]
