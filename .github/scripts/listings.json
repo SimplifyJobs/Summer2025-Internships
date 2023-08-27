@@ -7791,7 +7791,7 @@
         "company_name": "Disco",
         "id": "b045b515-ebe8-477c-bce3-033dd0158b5b",
         "title": "Intern, Software Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2023"
         ],
@@ -7810,7 +7810,7 @@
         "company_name": "Disco",
         "id": "20b2f20b-3f93-442a-845f-2b5f59835032",
         "title": "Intern \u2013 Software Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2023"
         ],
@@ -11567,5 +11567,24 @@
         "date_posted": 1693101556,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Tombras",
+        "id": "ed6d6fa5-d7ca-4fc0-8b27-045fe535537e",
+        "title": "Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1693121044,
+        "date_posted": 1693121044,
+        "url": "https://jobs.lever.co/tombras/f8d38509-20f5-4a22-a8ea-c1e0b4e0fc6a/apply",
+        "locations": [
+            "Knoxville, TN"
+        ],
+        "company_url": "https://simplify.jobs/c/Tombras",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
