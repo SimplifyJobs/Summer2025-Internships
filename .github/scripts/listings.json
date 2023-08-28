@@ -11478,19 +11478,19 @@
         "company_name": "Proofpoint",
         "id": "2761b6be-d126-46d0-b997-4d242a61e1bc",
         "title": "Software Engineer Part-Time Intern - Undergrad",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
-        "date_updated": 1693005108,
+        "date_updated": 1693264161,
         "date_posted": 1693005108,
         "url": "https://proofpoint.wd5.myworkdayjobs.com/en-US/ProofpointCareers/job/Sunnyvale-CA/Software-Engineer-Part-Time-Intern---Undergrad_R9615",
         "locations": [
-            "Sunnyvale, CA"
+            "Sunnyvale, California"
         ],
         "company_url": "https://simplify.jobs/c/proofpoint",
-        "is_visible": true,
-        "sponsorship": "Other"
+        "is_visible": false,
+        "sponsorship": "Offers Sponsorship"
     },
     {
         "source": "Simplify",
