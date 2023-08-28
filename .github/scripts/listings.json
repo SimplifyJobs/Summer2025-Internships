@@ -11650,5 +11650,27 @@
         "date_posted": 1693252955,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1693252993,
+        "url": "https://careers.moog.com/jobs/summer-2024-software-engineering-internship-11116",
+        "company_name": "Moog",
+        "title": "Summer 2024 Software Engineering Internship",
+        "locations": [
+            "Elma, NY",
+            "Gilbert, AZ",
+            "Goleta, CA",
+            "Torrance, CA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "mtlogs",
+        "id": "3505fe5a-bd0a-491b-9148-3a30d501a9a8",
+        "date_posted": 1693252993,
+        "company_url": "",
+        "is_visible": true
     }
 ]
