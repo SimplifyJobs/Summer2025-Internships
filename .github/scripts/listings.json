@@ -11630,5 +11630,25 @@
         "company_url": "https://simplify.jobs/c/Duolingo",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1693252955,
+        "url": "https://app.ripplematch.com/v2/public/job/03f11278/details",
+        "company_name": "Datadog",
+        "title": "Product Manager - Intern",
+        "locations": [
+            "New York, NY"
+        ],
+        "terms": [
+            "Winter 2024",
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "mtlogs",
+        "id": "5bd675c4-70ea-4b9d-93ed-03b4f115fb7b",
+        "date_posted": 1693252955,
+        "company_url": "",
+        "is_visible": true
     }
 ]
