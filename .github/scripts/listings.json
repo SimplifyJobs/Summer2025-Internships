@@ -11692,5 +11692,24 @@
         "date_posted": 1693261847,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1693263393,
+        "url": "https://jobs.lever.co/lucidmotors/eebc7335-8d0c-4c96-93f9-0ed12ebaa086?lever-source%255B%255D=LinkedIn&lever-source%5B%5D=LinkedIn&lever-origin=applied",
+        "company_name": "Lucid Motors",
+        "title": "Software Engineer Intern - Cloud Microservices",
+        "locations": [
+            "Newark, CA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "cwcoogan",
+        "id": "c6f392c3-018a-4a54-8190-7a898b242613",
+        "date_posted": 1693263393,
+        "company_url": "",
+        "is_visible": true
     }
 ]
