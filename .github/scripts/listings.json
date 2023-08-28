@@ -11586,5 +11586,49 @@
         "company_url": "https://simplify.jobs/c/Tombras",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Salesforce",
+        "id": "e1c3a74d-d804-44bc-8b7d-50fab2c941e0",
+        "title": "Summer 2024 Intern - Software Engineer",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1693236337,
+        "date_posted": 1693236337,
+        "url": "https://salesforce.wd12.myworkdayjobs.com/en-us/External_Career_Site/job/California---San-Francisco/Summer-2024-Intern---Software-Engineer_JR210683",
+        "locations": [
+            "Cambridge, MA",
+            "Seattle, WA",
+            "Indianapolis, IN",
+            "SF",
+            "Dallas, TX",
+            "Bellevue, WA",
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Salesforce",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Duolingo",
+        "id": "7c25a3dc-fc31-4629-80eb-b6e5782d900b",
+        "title": "Software Engineer \u2013 Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1693235432,
+        "date_posted": 1693235432,
+        "url": "https://boards.greenhouse.io/duolingo/jobs/6906928002",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Duolingo",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
