@@ -11459,19 +11459,19 @@
         "company_name": "Proofpoint",
         "id": "d7f7601c-4775-454c-b94f-a0e0a695c9b1",
         "title": "Software Development Part-Time Intern - Undergrad",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
-        "date_updated": 1693005104,
+        "date_updated": 1693264642,
         "date_posted": 1693005104,
         "url": "https://proofpoint.wd5.myworkdayjobs.com/en-US/ProofpointCareers/job/Pittsburgh-PA/Software-Development-Part-Time-Intern---Undergrad_R9627",
         "locations": [
             "Pittsburgh, PA"
         ],
         "company_url": "https://simplify.jobs/c/proofpoint",
-        "is_visible": true,
-        "sponsorship": "Other"
+        "is_visible": false,
+        "sponsorship": "Offers Sponsorship"
     },
     {
         "source": "Simplify",
