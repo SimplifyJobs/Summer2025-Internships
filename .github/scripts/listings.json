@@ -5822,7 +5822,7 @@
         "sponsorship": "Does Not Offer Sponsorship"
     },
     {
-        "date_updated": 1690948800,
+        "date_updated": 1693266878,
         "url": "https://careers-chickfila.icims.com/jobs/14373/dtt-software-engineering-summer-2024-intern/job?mode=job&iis=Job+Board&iisn=LinkedIn&mobile=false&width=1519&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240",
         "company_name": "Chic-Fil-A",
         "title": "Software Engineering Intern - Summer 2024",
@@ -5832,13 +5832,13 @@
         "terms": [
             "Summer 2024"
         ],
-        "active": true,
+        "active": false,
         "source": "gholtzap",
         "id": "9108e1a7-944c-437a-9eee-142aa4c10394",
         "date_posted": 1690948800,
         "company_url": "",
         "is_visible": true,
-        "sponsorship": "Offers Sponsorship"
+        "sponsorship": "Other"
     },
     {
         "date_updated": 1691035200,
