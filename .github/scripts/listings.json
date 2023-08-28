@@ -11711,5 +11711,24 @@
         "date_posted": 1693263393,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1693263634,
+        "url": "https://ea.gr8people.com/jobs/179701/software-engineer-intern?sid=4",
+        "company_name": "EA Sports",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "Orlando, FL"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "cwcoogan",
+        "id": "df983310-8c34-4fc1-845f-c979cd84bf5d",
+        "date_posted": 1693263634,
+        "company_url": "",
+        "is_visible": true
     }
 ]

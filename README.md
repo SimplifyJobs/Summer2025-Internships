@@ -61,6 +61,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **EA Sports** | Software Engineer Intern 🛂 | Orlando, FL | <a href="https://ea.gr8people.com/jobs/179701/software-engineer-intern?sid=4&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 28 |
 | **Lucid Motors** | Software Engineer Intern - Cloud Microservices | Newark, CA | <a href="https://jobs.lever.co/lucidmotors/eebc7335-8d0c-4c96-93f9-0ed12ebaa086?lever-source%255B%255D=LinkedIn&lever-source%5B%5D=LinkedIn&lever-origin=applied&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 28 |
 | **Yext** | 2024 Software Engineer Summer Intern - Product | New York, NY</br>Washington, DC | <a href="https://boards.greenhouse.io/yext/jobs/5315111?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 28 |
 | **Moog** | Summer 2024 Software Engineering Internship | <details><summary>**4 locations**</summary>Elma, NY</br>Gilbert, AZ</br>Goleta, CA</br>Torrance, CA</details> | <a href="https://careers.moog.com/jobs/summer-2024-software-engineering-internship-11116?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 28 |
