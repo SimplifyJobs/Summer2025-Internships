@@ -11672,5 +11672,25 @@
         "date_posted": 1693252993,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1693261847,
+        "url": "https://boards.greenhouse.io/yext/jobs/5315111",
+        "company_name": "Yext",
+        "title": "2024 Software Engineer Summer Intern - Product",
+        "locations": [
+            "New York, NY",
+            "Washington, DC"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "IceColdBlizzard1",
+        "id": "dba14c3e-4e09-4b5c-8c06-eba699dbe763",
+        "date_posted": 1693261847,
+        "company_url": "",
+        "is_visible": true
     }
 ]
