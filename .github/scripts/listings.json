@@ -12026,15 +12026,15 @@
         "terms": [
             "Summer 2024"
         ],
-        "date_updated": 1693264152,
+        "date_updated": 1693268615,
         "date_posted": 1693264152,
         "url": "https://boards.greenhouse.io/yext/jobs/5315129",
         "locations": [
             "Washington, DC"
         ],
         "company_url": "https://simplify.jobs/c/Yext",
-        "is_visible": true,
-        "sponsorship": "Other"
+        "is_visible": false,
+        "sponsorship": "Offers Sponsorship"
     },
     {
         "source": "Simplify",
