@@ -13,7 +13,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 ### Looking for 2024 New Grad Tech Roles?
 >You all asked for it, and now it's here! 🎊
-- 🥳 We are launched a new repo: [2024-New-Grad-Tech-Roles](https://github.com/SimplifyJobs/2024-New-Grad-Tech-Roles)
+- 🥳 We launched a new repo for new grads: [2024-New-Grad-Tech-Roles](https://github.com/SimplifyJobs/2024-New-Grad-Tech-Roles)
 - ✨ Check it out for entry-level full-time software, tech, CS, PM, and quant positions (and give it a ⭐!)
 
 ---
