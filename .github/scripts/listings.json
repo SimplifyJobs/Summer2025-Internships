@@ -10386,7 +10386,7 @@
         "company_name": "Squarepoint Capital",
         "id": "0b44670e-8c95-4b2c-90c4-4f1a0ad51a17",
         "title": "Intern Software Developer - Winter 2024",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2024"
         ],
@@ -10424,7 +10424,7 @@
         "company_name": "Alcon",
         "id": "c2427f2a-25bd-428f-bf48-17ff9d3c5bea",
         "title": "2024 R&D Summer Intern-Track 3",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -12297,7 +12297,7 @@
         "company_name": "Lucid Motors",
         "id": "725d4805-1f10-4793-9495-c217d528d29c",
         "title": "Intern \u2013 Test Automation and Unit Testing - Controls Software Engineer - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -12376,5 +12376,83 @@
         "date_posted": 1693322406,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Virtu Financial",
+        "id": "7e47dc7c-80d0-4b4c-b855-4a7aed7c2657",
+        "title": "Women's Winternship",
+        "active": true,
+        "terms": [
+            "Winter 2024"
+        ],
+        "date_updated": 1693322656,
+        "date_posted": 1693322656,
+        "url": "https://boards.greenhouse.io/virtu/jobs/6862904002",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Virtu-Financial",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Walmart",
+        "id": "d281fb73-380b-466b-ba43-cf1e24a012dc",
+        "title": "2024 Summer Intern: Economist Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1693322211,
+        "date_posted": 1693322211,
+        "url": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/New-York-NY/XMLNAME-2024-Summer-Intern--Economist-Intern_R-1640455-1",
+        "locations": [
+            "Bentonville, AR",
+            "Union City, NJ",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Walmart",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Sensata",
+        "id": "50a6b3aa-40d1-4394-9b3e-c4f16f043df2",
+        "title": "Software Engineer Intern-Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1693322060,
+        "date_posted": 1693322060,
+        "url": "https://sensata.wd1.myworkdayjobs.com/en-US/Sensata-Careers/job/Attleboro-Massachusetts/Software-Engineer-Intern--Summer-2024_IRC90446",
+        "locations": [
+            "Attleboro, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/sensata-tech",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Epic Games",
+        "id": "a09b0b2f-93d2-4e36-989a-bcd6c11c8e66",
+        "title": "Core Programmer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1693321651,
+        "date_posted": 1693321651,
+        "url": "https://boards.greenhouse.io/epicgames/jobs/4963893004",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Epic-Games",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
