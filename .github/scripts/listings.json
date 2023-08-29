@@ -11968,15 +11968,15 @@
         "terms": [
             "Summer 2024"
         ],
-        "date_updated": 1693264343,
+        "date_updated": 1693268502,
         "date_posted": 1693264343,
         "url": "https://jobs.ashbyhq.com/Jerry/935c8e16-9191-4965-9273-14e0e1942ff2/application",
         "locations": [
             "Toronto, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Jerry",
-        "is_visible": true,
-        "sponsorship": "Other"
+        "is_visible": false,
+        "sponsorship": "Offers Sponsorship"
     },
     {
         "source": "Simplify",
