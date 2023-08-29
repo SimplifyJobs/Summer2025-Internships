@@ -12495,7 +12495,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1693351978,
+        "date_updated": 1693352237,
         "url": "https://boards.greenhouse.io/benchling/jobs/5328395?gh_jid=5328395&gh_src=838b85821us",
         "company_name": "Benchling",
         "title": "Software Engineer Intern (Summer 2024)",
@@ -12505,13 +12505,13 @@
         "terms": [
             "Summer 2024"
         ],
-        "sponsorship": "Offers Sponsorship",
+        "sponsorship": "Other",
         "active": true,
         "source": "cwcoogan",
         "id": "040cd8c3-d338-4430-ace6-7cbe8b7026dc",
         "date_posted": 1693351978,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "source": "Simplify",
