@@ -12354,5 +12354,27 @@
         "date_posted": 1693322235,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1693322406,
+        "url": "https://jobs.statefarm.com/main/jobs/33008?lang=en-us&iis=LinkedIn&iisn=LinkedIn",
+        "company_name": "State Farm",
+        "title": "2024 Summer Intern Software Engineer - PCM",
+        "locations": [
+            "Bloomington, Illinois",
+            "Phoenix, Arizona",
+            "Dunwoody, Georgia",
+            "Richardson, Texas"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "cwcoogan",
+        "id": "6527cc61-d572-4f9c-a028-ee7c73d660e9",
+        "date_posted": 1693322406,
+        "company_url": "",
+        "is_visible": true
     }
 ]
