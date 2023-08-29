@@ -8853,7 +8853,7 @@
         "company_name": "Workiva",
         "id": "cf090d54-885c-4130-bc00-d14c98ea98d8",
         "title": "2024 Summer \u2013 Security Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -10038,7 +10038,7 @@
         "company_name": "HashiCorp",
         "id": "e9bca96a-3e50-49ae-9176-efb344a147f7",
         "title": "Software Engineering Intern - Undergraduate",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -10057,7 +10057,7 @@
         "company_name": "HashiCorp",
         "id": "2c8c1b61-bbd1-44cf-bf63-7bb2c9dddac9",
         "title": "Software Engineering Intern - Undergraduate",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -10603,7 +10603,7 @@
         "company_name": "Leidos",
         "id": "772b9eca-1219-40fb-bb87-4db6ed21369f",
         "title": "Software Developer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2024",
             "Spring 2024"
@@ -11017,7 +11017,7 @@
         "company_name": "Leidos",
         "id": "2e755418-3fee-45f9-9c28-cfd2d8037ebf",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -11364,7 +11364,7 @@
         "company_name": "TS Imagine",
         "id": "8a90ad77-0cda-4f48-b539-0c77e9201b5e",
         "title": "Desktop Support Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -11459,7 +11459,7 @@
         "company_name": "Proofpoint",
         "id": "d7f7601c-4775-454c-b94f-a0e0a695c9b1",
         "title": "Software Development Part-Time Intern - Undergrad",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -11573,7 +11573,7 @@
         "company_name": "Tombras",
         "id": "ed6d6fa5-d7ca-4fc0-8b27-045fe535537e",
         "title": "Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -11687,8 +11687,8 @@
         ],
         "sponsorship": "Other",
         "active": true,
-        "source": "IceColdBlizzard1",
-        "id": "dba14c3e-4e09-4b5c-8c06-eba699dbe763",
+        "source": "Simplify",
+        "id": "e65ae5a5-3901-4394-b9ef-d54e56c9764b",
         "date_posted": 1693261847,
         "company_url": "",
         "is_visible": true
@@ -11730,5 +11730,504 @@
         "date_posted": 1693263634,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Chamberlain Group",
+        "id": "6bbc8788-1301-46e6-9856-f94d140cdc2b",
+        "title": "Intern \u2013 Machine Learning - Computer Vision - And AI - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1693265169,
+        "date_posted": 1693265169,
+        "url": "https://chamberlain.wd1.myworkdayjobs.com/Chamberlain_Group/job/Oak-Brook-IL/Intern--Machine-Learning--Computer-Vision--and-AI--Summer-2024-_JR26221",
+        "locations": [
+            "Western Springs, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Chamberlain-Group",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Chamberlain Group",
+        "id": "d554be2b-0bb3-4783-ad06-f62d8dce338b",
+        "title": "Intern \u2013 Engineering - Test Automation - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1693265159,
+        "date_posted": 1693265159,
+        "url": "https://chamberlain.wd1.myworkdayjobs.com/Chamberlain_Group/job/Elmhurst-IL/Intern--Engineering---Test-Automation--Summer-2024-_JR26227",
+        "locations": [
+            "Elmhurst, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Chamberlain-Group",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Chamberlain Group",
+        "id": "cdb24e4a-4f93-4af8-ac42-dc61d4293d24",
+        "title": "Intern \u2013 Firmware Engineering - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1693265160,
+        "date_posted": 1693265160,
+        "url": "https://chamberlain.wd1.myworkdayjobs.com/Chamberlain_Group/job/Oak-Brook-IL/Intern--Firmware-Engineering--Summer-2024-_JR26222-1",
+        "locations": [
+            "Western Springs, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Chamberlain-Group",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Chamberlain Group",
+        "id": "a19c7494-530b-4891-b631-99642a9facc8",
+        "title": "Intern \u2013 Data Visualization - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1693265155,
+        "date_posted": 1693265155,
+        "url": "https://chamberlain.wd1.myworkdayjobs.com/Chamberlain_Group/job/Oak-Brook-IL/Intern--Data-Visualization--Summer-2024-_JR26219",
+        "locations": [
+            "Western Springs, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Chamberlain-Group",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Chamberlain Group",
+        "id": "7d62dd25-715d-4dd0-af10-3cae14c37454",
+        "title": "Intern \u2013 Data Science - Advanced Analytics - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1693265156,
+        "date_posted": 1693265156,
+        "url": "https://chamberlain.wd1.myworkdayjobs.com/Chamberlain_Group/job/Oak-Brook-IL/Intern--Data-Science---Advanced-Analytics--Summer-2024-_JR26218",
+        "locations": [
+            "Western Springs, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Chamberlain-Group",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Third Pole",
+        "id": "6a19ab17-ff58-4def-a84d-5515a5df2113",
+        "title": "Embedded Software Engineering Intern - Fall 2023",
+        "active": true,
+        "terms": [
+            "Fall 2023"
+        ],
+        "date_updated": 1693265122,
+        "date_posted": 1693265122,
+        "url": "https://boards.greenhouse.io/thirdpoleinc/jobs/4300838005",
+        "locations": [
+            "Waltham, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/ThirdPoleThera",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Chamberlain Group",
+        "id": "5399f528-ae28-4158-ad3b-74c08b7ce413",
+        "title": "Co-op \u2013 Data Visualization - Spring 2024",
+        "active": true,
+        "terms": [
+            "Spring 2024"
+        ],
+        "date_updated": 1693265155,
+        "date_posted": 1693265155,
+        "url": "https://chamberlain.wd1.myworkdayjobs.com/Chamberlain_Group/job/Oak-Brook-IL/Co-op--Data-Visualization--Spring-2024-_JR26220",
+        "locations": [
+            "Western Springs, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Chamberlain-Group",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Chamberlain Group",
+        "id": "1c123bbb-fd0a-4685-927a-d95ebbc03a9c",
+        "title": "Intern \u2013 Data Engineering - Advanced Analytics - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1693265157,
+        "date_posted": 1693265157,
+        "url": "https://chamberlain.wd1.myworkdayjobs.com/Chamberlain_Group/job/Oak-Brook-IL/Intern--Data-Engineering---Advanced-Analytics--Summer-2024-_JR26217",
+        "locations": [
+            "Western Springs, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Chamberlain-Group",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Hudson River Trading",
+        "id": "e607c330-004e-4d61-bd8a-8bbe3c2871e1",
+        "title": "Algorithm Development Internship - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1693264956,
+        "date_posted": 1693264956,
+        "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=5271783",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Hudson-River-Trading",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Hudson River Trading",
+        "id": "d4034fd6-df60-4eed-bc2f-97d980372a73",
+        "title": "Algorithm Development Internship - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1693264957,
+        "date_posted": 1693264957,
+        "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=5324587",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Hudson-River-Trading",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Hudson River Trading",
+        "id": "b7754fbe-26a3-4fdb-8d0b-d13426de7fc4",
+        "title": "Software Engineering Internship - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1693264978,
+        "date_posted": 1693264978,
+        "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=5271837",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Hudson-River-Trading",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Hudson River Trading",
+        "id": "2759544b-e56e-4b2d-bd79-41740fdf1abd",
+        "title": "Software Engineering Internship - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1693264977,
+        "date_posted": 1693264977,
+        "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=5324592",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Hudson-River-Trading",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Jerry",
+        "id": "e38ba5b4-5ad4-46a0-9eea-18fd23267eef",
+        "title": "Editorial Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1693264343,
+        "date_posted": 1693264343,
+        "url": "https://jobs.ashbyhq.com/Jerry/935c8e16-9191-4965-9273-14e0e1942ff2/application",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Jerry",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "DriveTime",
+        "id": "876d2c73-7d24-40c5-af76-d52942ad55dc",
+        "title": "Analytics Intern - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1693264333,
+        "date_posted": 1693264333,
+        "url": "https://drivetime.wd1.myworkdayjobs.com/DriveTime/job/1720-W-Rio-Salado-Pkwy-Tempe-AZ-85281/Analytics-Intern--Summer-2024-_R5346",
+        "locations": [
+            "Dallas, TX",
+            "Tempe, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/drivetime",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "F5",
+        "id": "3526b808-5c95-4628-85a2-65d7e2da6e73",
+        "title": "Summer 2024 Internship - Software Engineering",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1693264332,
+        "date_posted": 1693264332,
+        "url": "https://ffive.wd5.myworkdayjobs.com/en-US/f5jobs/job/Seattle/Summer-2024-Internship---Software-Engineering_RP1028585",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/f5",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Yext",
+        "id": "105a8544-b0cf-4e67-9ce9-ec93efe2e006",
+        "title": "2024 Software Engineer Summer Intern - Product",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1693264152,
+        "date_posted": 1693264152,
+        "url": "https://boards.greenhouse.io/yext/jobs/5315129",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/Yext",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Humane",
+        "id": "16238106-3868-42b6-b5a1-24d1a5c69a37",
+        "title": "System Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Spring 2024",
+            "Summer 2024",
+            "Fall 2024"
+        ],
+        "date_updated": 1693264105,
+        "date_posted": 1693264105,
+        "url": "https://boards.greenhouse.io/humane/jobs/4962883004",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Humane",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Humane",
+        "id": "ebc05612-2691-48b5-a727-de3acbee95f8",
+        "title": "Computer Vision Engineering Intern",
+        "active": true,
+        "terms": [
+            "Spring 2024",
+            "Summer 2024",
+            "Fall 2024"
+        ],
+        "date_updated": 1693264103,
+        "date_posted": 1693264103,
+        "url": "https://boards.greenhouse.io/humane/jobs/4962849004",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Humane",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Epic Games",
+        "id": "8d2c462e-9856-4266-a533-6467bb9c7d00",
+        "title": "Gameplay Programmer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1693263929,
+        "date_posted": 1693263929,
+        "url": "https://boards.greenhouse.io/epicgames/jobs/4956960004",
+        "locations": [
+            "Morrisville, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Epic-Games",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Epic Games",
+        "id": "63360e2d-ecfa-45e0-8d8f-78ed0c170b17",
+        "title": "Gameplay Programmer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1693263929,
+        "date_posted": 1693263929,
+        "url": "https://boards.greenhouse.io/epicgames/jobs/4956956004",
+        "locations": [
+            "Morrisville, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Epic-Games",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Epic Games",
+        "id": "e1a14374-4947-4ecd-a66e-7103e0ad79d2",
+        "title": "AI Programmer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1693263928,
+        "date_posted": 1693263928,
+        "url": "https://boards.greenhouse.io/epicgames/jobs/4957202004",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Epic-Games",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Epic Games",
+        "id": "54aaa38c-1cd6-4a04-b106-aef426e726e8",
+        "title": "Core Programmer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1693263927,
+        "date_posted": 1693263927,
+        "url": "https://boards.greenhouse.io/epicgames/jobs/4957153004",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Epic-Games",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Lucid Motors",
+        "id": "5ecf01c0-66b0-462f-8b3c-b4458fb154f6",
+        "title": "Intern \u2013 Product/Program Management - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1693263921,
+        "date_posted": 1693263921,
+        "url": "https://jobs.lever.co/lucidmotors/24496ae9-4a44-4aeb-af87-6a753231ebf5/apply",
+        "locations": [
+            "Newark, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Lucid-Motors",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Lucid Motors",
+        "id": "11f29822-fc63-455b-b5d6-e9bead5b794e",
+        "title": "Intern \u2013 Software Quality Assurance - Data Analyst - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1693263916,
+        "date_posted": 1693263916,
+        "url": "https://jobs.lever.co/lucidmotors/c066f600-4e24-492d-b3c9-186135fe1681/apply",
+        "locations": [
+            "Newark, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Lucid-Motors",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Lucid Motors",
+        "id": "08ad1e41-94c9-4cee-b6e0-d68e75d88cc9",
+        "title": "Intern \u2013 ADAS Perception Algorithm Engineer - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1693263915,
+        "date_posted": 1693263915,
+        "url": "https://jobs.lever.co/lucidmotors/3a883b34-1c3f-45de-95fc-d2a26f96372f/apply",
+        "locations": [
+            "Newark, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Lucid-Motors",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Lucid Motors",
+        "id": "888bba31-2fe5-4cfe-b435-265a700f293a",
+        "title": "Intern \u2013 Cloud Microservices Software Engineer - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1693263915,
+        "date_posted": 1693263915,
+        "url": "https://jobs.lever.co/lucidmotors/eebc7335-8d0c-4c96-93f9-0ed12ebaa086/apply",
+        "locations": [
+            "Newark, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Lucid-Motors",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
