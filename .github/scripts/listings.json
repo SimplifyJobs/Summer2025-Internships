@@ -12229,5 +12229,29 @@
         "company_url": "https://simplify.jobs/c/Lucid-Motors",
         "is_visible": false,
         "sponsorship": "Offers Sponsorship"
+    },
+    {
+        "date_updated": 1693269760,
+        "url": "https://careers.adobe.com/us/en/job/ADOBUSR139304EXTERNALENUS/2024-Intern-Software-Engineer",
+        "company_name": "Adobe",
+        "title": "2024 Intern - Software Engineer",
+        "locations": [
+            "San Jose, CA",
+            "Austin, TX",
+            "San Francisco, CA",
+            "Lehi, UT",
+            "Seattle, WA",
+            "New York, NY"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "cwcoogan",
+        "id": "b72f5ae9-b567-4b20-9a73-83911b228fc2",
+        "date_posted": 1693269760,
+        "company_url": "",
+        "is_visible": true
     }
 ]
