@@ -61,6 +61,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Benchling** | Software Engineer Intern (Summer 2024) | Boston, MA | <a href="https://boards.greenhouse.io/benchling/jobs/5328395?gh_jid=5328395&gh_src=838b85821us&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 29 |
 | **Dropbox** | Software Engineering Intern (Summer 2024) | Remote - US</br>Remote - Canada | <a href="https://jobs.dropbox.com/listing/5265677?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 29 |
 | **TD Bank** | 2024 SUMMER INTERNSHIP – SOFTWARE ENGINEERING – TD SECURITIES | New York, NY | <a href="https://jobs.td.com/en/job/18990187/2024-summer-internship-software-engineering-td-securities-new-york-ny/?utm_campaign=google_jobs_apply&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 29 |
 | **State Farm** | 2024 Summer Intern Software Engineer - PCM 🛂 | <details><summary>**4 locations**</summary>Bloomington, Illinois</br>Phoenix, Arizona</br>Dunwoody, Georgia</br>Richardson, Texas</details> | <a href="https://jobs.statefarm.com/main/jobs/33008?lang=en-us&iis=LinkedIn&iisn=LinkedIn&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 29 |
