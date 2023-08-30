@@ -12924,5 +12924,28 @@
         "date_posted": 1693403416,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1693407022,
+        "url": "https://app.ripplematch.com/v2/public/job/325e9a1c/details",
+        "company_name": "Ultimate Kronos Group (UKG)",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "Atlanta, GA",
+            "Lowell, MA",
+            "Weston, FL",
+            "Branchburg, NJ"
+        ],
+        "terms": [
+            "Spring 2024",
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "mtlogs",
+        "id": "5db48ba6-6ce8-4101-9063-d3e290537d34",
+        "date_posted": 1693407022,
+        "company_url": "",
+        "is_visible": true
     }
 ]
