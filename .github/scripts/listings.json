@@ -10230,7 +10230,7 @@
         "company_name": "Stripe",
         "id": "1e86e3b9-598d-4037-972f-1dead1349805",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -12278,7 +12278,7 @@
         "company_name": "Lucid Motors",
         "id": "039ba8aa-7bae-439f-b002-ab2dfff977b8",
         "title": "Intern \u2013 Android Applications Software Engineer - Summer 2023",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -12756,7 +12756,7 @@
         "company_name": "Intel",
         "id": "a4ba44c4-6654-46ce-8175-68dbc1c18928",
         "title": "Research Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -12854,7 +12854,7 @@
         "company_name": "Bristol-Myers Squibb",
         "id": "66bfcf1a-1e38-4565-be08-946578646844",
         "title": "Co-Op \u2013 Neuroscience - Spring 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024"
         ],
