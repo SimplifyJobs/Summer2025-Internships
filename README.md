@@ -61,6 +61,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **ZS Associates** | Software Engineer Intern | Evanston, Illinois | <a href="https://jobs.zs.com/jobs/18398?lang=en-us&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 30 |
 | **Visa** | Software Engineer, Intern - Summer 2024 🛂 | Ashburn, VA | <a href="https://jobs.smartrecruiters.com/Visa/743999927523368-software-engineer-intern-summer-2024?source=LinkedIn&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 30 |
 | **Ultimate Kronos Group (UKG)** | Software Engineer Intern 🛂 | <details><summary>**4 locations**</summary>Atlanta, GA</br>Lowell, MA</br>Weston, FL</br>Branchburg, NJ</details> | <a href="https://app.ripplematch.com/v2/public/job/325e9a1c/details?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 30 |
 | **Ericsson** | Software Automation Specialist Intern - Summer 2024 | Plano, TX | <a href="https://jobs.ericsson.com/careers/job?domain=ericsson.com&pid=563121756495080&query=software%20development%20intern&location=Plano%2CUnited%20States&domain=ericsson.com&sort_by=relevance&job_index=0&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 30 |

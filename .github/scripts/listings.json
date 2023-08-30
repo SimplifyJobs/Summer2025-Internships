@@ -12966,5 +12966,24 @@
         "date_posted": 1693436187,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1693436832,
+        "url": "https://jobs.zs.com/jobs/18398?lang=en-us",
+        "company_name": "ZS Associates",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "Evanston, Illinois"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "pratikshah11",
+        "id": "22e6dcfe-65d5-4d8f-9912-07d1b4001e03",
+        "date_posted": 1693436832,
+        "company_url": "",
+        "is_visible": true
     }
 ]
