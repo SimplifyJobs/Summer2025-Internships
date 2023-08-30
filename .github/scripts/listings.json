@@ -12905,5 +12905,24 @@
         "company_url": "https://simplify.jobs/c/Hewlett-Packard",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1693403416,
+        "url": "https://jobs.ericsson.com/careers/job?domain=ericsson.com&pid=563121756495080&query=software%20development%20intern&location=Plano%2CUnited%20States&domain=ericsson.com&sort_by=relevance&job_index=0",
+        "company_name": "Ericsson",
+        "title": "Software Automation Specialist Intern - Summer 2024",
+        "locations": [
+            "Plano, TX"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "Aleque2023",
+        "id": "bd8abff1-efe1-4a44-acc4-1dabd6e7862d",
+        "date_posted": 1693403416,
+        "company_url": "",
+        "is_visible": true
     }
 ]
