@@ -12867,5 +12867,43 @@
         "company_url": "https://simplify.jobs/c/Bristol-Myers-Squibb",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Dropbox",
+        "id": "d617f6c4-90a9-4f1b-bc5e-ed2c3bdd8f20",
+        "title": "Software Engineering Intern - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1693380267,
+        "date_posted": 1693380267,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=5309367",
+        "locations": [
+            "Remote"
+        ],
+        "company_url": "https://simplify.jobs/c/Dropbox",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Hewlett Packard (HP)",
+        "id": "9e05fa6e-42b6-4ac9-938e-6b09f9333186",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1693379459,
+        "date_posted": 1693379459,
+        "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Vancouver-Washington-United-States-of-America/Software-Engineer-Intern_3121814-1",
+        "locations": [
+            "Vancouver, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
