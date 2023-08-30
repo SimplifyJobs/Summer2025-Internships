@@ -10,13 +10,22 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 🙏 **Contribute by submitting an [issue](https://github.com/SimplifyJobs/Summer2024-Internships/issues/new/choose)! See the contribution guidelines [here](./CONTRIBUTING.md)!** 🙏
 
 ---
-
-### Looking for 2024 New Grad Tech Roles?
->You all asked for it, and now it's here! 🎊
-- 🥳 We launched a new repo for new grads: [2024-New-Grad-Tech-Roles](https://github.com/SimplifyJobs/2024-New-Grad-Tech-Roles)
-- ✨ Check it out for entry-level full-time software, tech, CS, PM, and quant positions (and give it a ⭐!)
+<div align="center">
+	<h3>😮‍💨 Tired of checking every day for new internships? 😩</h3>
+	<p>
+			A community member made ⬇️ <strong>SWE List</strong> ⬇️ that sends you email updates for this repo 
+			<br>
+			<div>
+			<a href="https://swelist.com">
+          <img src="https://i.imgur.com/3OE20pW.png" width="400" alt="Email">
+        </a>
+			</div>
+		<sub><i>Share any other cool projects you make using the repo, and we might give you a shoutout!</i></sub>
+	</p>
+</div>
 
 ---
+
 <div align="center">
 	<p>
 		<a href="https://simplify.jobs/?utm_source=GHList&utm_medium=banner">
@@ -34,17 +43,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 	</p>
 </div>
 
-
-
-<div align="center">
-  <h3>
-    Thanks for a great three years 💖💖
-  </h3>
-  <p>
-    <img src="https://api.star-history.com/svg?repos=pittcsc/Summer2024-Internships&type=Date" width="500" alt="Star History">
-  </p>
-</div>
-
 ---
 
 ## The List 🚴🏔
@@ -55,6 +53,8 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
  - 🔒 - Internship application is closed
 
 > This README file is for **2024 summer internships only**. For off-season internships, please see the [Off-Season 2024 README](./README-Off-Season.md).
+
+> For new-grad tech jobs, check out [2024-New-Grad-Tech-Jobs](https://github.com/SimplifyJobs/2024-New-Grad-Tech-Jobs).
 
 [⬇️ Jump to bottom ⬇️](https://github.com/SimplifyJobs/Summer2024-Internships#we-love-our-contributors-%EF%B8%8F%EF%B8%8F)
 <!-- Please leave a one line gap between this and the table TABLE_START (DO NOT CHANGE THIS LINE) -->
