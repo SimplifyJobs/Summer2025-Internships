@@ -7358,7 +7358,7 @@
         "company_name": "PayPal",
         "id": "0e3dde91-f355-42c7-bfe6-d291763ba9ad",
         "title": "Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024",
             "Fall 2024"
@@ -9407,7 +9407,7 @@
         "company_name": "Walmart",
         "id": "107b4c72-cab7-4b80-bb2f-f88f68ef61fb",
         "title": "2023 Intern Conversion: 2024 Return Intern Software Engineer II",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -10546,7 +10546,7 @@
         "company_name": "Intel",
         "id": "d638b35d-c71b-4c2d-912b-32f9cffac5d5",
         "title": "Compiler Engineering Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2024"
         ],
@@ -12672,7 +12672,7 @@
         "company_name": "Xylem",
         "id": "7b613602-d4b0-4f88-8fee-7fbf402caae7",
         "title": "Intern \u2013 Data Science - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -13163,7 +13163,7 @@
         "company_name": "Torc Robotics",
         "id": "2266a194-0f1b-4c7d-91d1-5afee3f01fd7",
         "title": "Data Engineer Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -13251,6 +13251,84 @@
             "Folsom, CA"
         ],
         "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Kinaxis",
+        "id": "94062fec-d88e-40ae-b1c5-d752e0dbf08b",
+        "title": "Co-Op/Intern Cloud Engineer - Observability",
+        "active": true,
+        "terms": [
+            "Winter 2024"
+        ],
+        "date_updated": 1693495120,
+        "date_posted": 1693495120,
+        "url": "https://boards.greenhouse.io/kinaxis/jobs/6914563002",
+        "locations": [
+            "Remote",
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Kinaxis",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Wayfair",
+        "id": "b9a1418f-388b-42fa-93f4-30059da91a14",
+        "title": "Software Engineering Internship - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1693494859,
+        "date_posted": 1693494859,
+        "url": "https://www.wayfair.com/careers/jobs/6914515002?gh_jid=6914515002",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Wayfair",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Wayfair",
+        "id": "984f3bcf-e8ab-4eee-8555-e997540e5bb2",
+        "title": "Data Engineering Co-op - January 2024",
+        "active": true,
+        "terms": [
+            "Winter 2024"
+        ],
+        "date_updated": 1693494852,
+        "date_posted": 1693494852,
+        "url": "https://www.wayfair.com/careers/jobs/6914547002?gh_jid=6914547002",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Wayfair",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Formlabs",
+        "id": "fd35bdaf-97ad-44da-84a2-8dfd75ad9f45",
+        "title": "Data Engineering Intern - Winter/Spring 2024",
+        "active": true,
+        "terms": [
+            "Winter 2025",
+            "Spring 2025"
+        ],
+        "date_updated": 1693494498,
+        "date_posted": 1693494498,
+        "url": "https://careers.formlabs.com/job/5330048/apply/?gh_jid=5330048",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Formlabs",
         "is_visible": true,
         "sponsorship": "Other"
     }
