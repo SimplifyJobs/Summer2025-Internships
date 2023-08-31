@@ -13215,5 +13215,43 @@
         "company_url": "https://simplify.jobs/c/Tanium",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "AEG",
+        "id": "26c7d703-4a2b-4272-bf23-66e79aca0384",
+        "title": "Intern \u2013 Data Engineer-LA Kings",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1693466264,
+        "date_posted": 1693466264,
+        "url": "https://www.aegworldwide.com/jobs?gh_jid=6911613002",
+        "locations": [
+            "El Segundo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/AEG",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Intel",
+        "id": "80f7ff84-f25d-4df8-b4c5-78e658786efc",
+        "title": "Graphics Software Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1693465911,
+        "date_posted": 1693465911,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-California-Folsom/Graphics-Software-Intern_JR0247930",
+        "locations": [
+            "Folsom, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
