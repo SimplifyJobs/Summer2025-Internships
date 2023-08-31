@@ -7382,7 +7382,7 @@
         "company_name": "PayPal",
         "id": "de7f25d2-af21-4fc7-be7f-633e662b4300",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024",
             "Fall 2024"
@@ -12985,5 +12985,216 @@
         "date_posted": 1693436832,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Cerebras",
+        "id": "7c02b22d-910f-4f7f-9d3c-6e23af0b1143",
+        "title": "Compiler Engineer \u2013 Internship - PEY 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1693437320,
+        "date_posted": 1693437320,
+        "url": "https://www.cerebras.net/career/?gh_jid=5728745003",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Cerebras-Systems",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Cerebras",
+        "id": "dbb12bfe-8c8d-4ca6-81e8-7da1d470a48f",
+        "title": "Kernel Engineer \u2013 Internship - PEY 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1693437319,
+        "date_posted": 1693437319,
+        "url": "https://www.cerebras.net/career/?gh_jid=5730076003",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Cerebras-Systems",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Cerebras",
+        "id": "849a6f1f-b45c-4d95-bf3e-4cbe0209965a",
+        "title": "Machine Learning Software Engineer \u2013 Internship - PEY 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1693437317,
+        "date_posted": 1693437317,
+        "url": "https://www.cerebras.net/career/?gh_jid=5730051003",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Cerebras-Systems",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Cerebras",
+        "id": "c2066e8b-0f3c-4406-8c1d-18e9d833d373",
+        "title": "Machine Learning Developer \u2013 Internship - Software Automation - PEY 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1693437317,
+        "date_posted": 1693437317,
+        "url": "https://www.cerebras.net/career/?gh_jid=5730049003",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Cerebras-Systems",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Cerebras",
+        "id": "8e52e09f-118a-4add-b7a0-48188893071f",
+        "title": "Machine Learning Runtime Engineer \u2013 Internship - PEY 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1693437316,
+        "date_posted": 1693437316,
+        "url": "https://www.cerebras.net/career/?gh_jid=5730065003",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Cerebras-Systems",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Cerebras",
+        "id": "13a8dfcb-7c5d-4fdf-a512-bd81867a1968",
+        "title": "Machine Learning Stack Engineer \u2013 Internship - PEY 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1693437316,
+        "date_posted": 1693437316,
+        "url": "https://www.cerebras.net/career/?gh_jid=5730057003",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Cerebras-Systems",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Wayfair",
+        "id": "4763b0fd-1ae8-4030-9f0b-65a96ac27172",
+        "title": "Supply Chain \u2013 And Operations Co-op - Service - January 2024",
+        "active": true,
+        "terms": [
+            "Winter 2024"
+        ],
+        "date_updated": 1693437276,
+        "date_posted": 1693437276,
+        "url": "https://www.wayfair.com/careers/jobs/6895079002?gh_jid=6895079002",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Wayfair",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Santander",
+        "id": "5c4b3664-c2be-47c0-b126-ae7233d6abf1",
+        "title": "Internal Audit Intern",
+        "active": true,
+        "terms": [
+            "Fall 2023"
+        ],
+        "date_updated": 1693437229,
+        "date_posted": 1693437229,
+        "url": "https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Boston/Internal-Audit-Intern_Req1203115",
+        "locations": [
+            "Cambridge, MA",
+            "Miami, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Santander",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Tanium",
+        "id": "86358b03-dc51-408f-9789-ff0c686869ca",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1693437171,
+        "date_posted": 1693437171,
+        "url": "https://www.tanium.com/careers/5322160?gh_jid=5322160",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tanium",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Torc Robotics",
+        "id": "2266a194-0f1b-4c7d-91d1-5afee3f01fd7",
+        "title": "Data Engineer Co-Op",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1693437074,
+        "date_posted": 1693437074,
+        "url": "https://boards.greenhouse.io/torcrobotics/jobs/6907477002",
+        "locations": [
+            "Blacksburg, VA",
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Torc-Robotics",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Nextdoor",
+        "id": "f3edd835-346d-4812-8dff-cc58b4324ecc",
+        "title": "Software Engineer Intern - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1693436696,
+        "date_posted": 1693436696,
+        "url": "https://about.nextdoor.com/careers-list/?gh_jid=5128512",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Nextdoor",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
