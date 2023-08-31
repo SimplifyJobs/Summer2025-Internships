@@ -6118,7 +6118,7 @@
         "company_name": "HRL Laboratories",
         "id": "701f5d63-6e96-4ff9-b4da-6519acae3452",
         "title": "Intern \u2013 Operational Autonomy Centers - Formal Methods",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -13194,6 +13194,25 @@
             "SF"
         ],
         "company_url": "https://simplify.jobs/c/Nextdoor",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Tanium",
+        "id": "ab08b863-a584-4d12-bfba-bd9fc0ce9405",
+        "title": "Business Data & Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1693437171,
+        "date_posted": 1693437171,
+        "url": "https://www.tanium.com/careers/5318898?gh_jid=5318898",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tanium",
         "is_visible": true,
         "sponsorship": "Other"
     }
