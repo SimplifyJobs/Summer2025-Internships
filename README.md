@@ -52,7 +52,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
  - 🇺🇸 - Requires U.S. Citizenship
  - 🔒 - Internship application is closed
 
-> This README file is for **2024 summer internships only**. For off-season internships, please see the [Off-Season 2024 README](./README-Off-Season.md).
+> For off-season internships, please see the [Off-Season 2024 README](./README-Off-Season.md).
 
 > For new-grad tech jobs, check out [2024-New-Grad-Tech-Jobs](https://github.com/SimplifyJobs/2024-New-Grad-Tech-Jobs).
 
