@@ -1318,7 +1318,7 @@
             "Toronto, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Konrad-Group",
-        "is_visible": true,
+        "is_visible": false,
         "date_posted": 1689739200,
         "sponsorship": "Offers Sponsorship"
     },
@@ -1928,7 +1928,7 @@
             "Toronto, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Intel",
-        "is_visible": true,
+        "is_visible": false,
         "date_posted": 1687060800,
         "sponsorship": "Offers Sponsorship"
     },
@@ -7093,7 +7093,7 @@
             "Toronto, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Intel",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -10576,7 +10576,7 @@
             "Toronto, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Intel",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -13002,7 +13002,7 @@
             "Toronto, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Cerebras-Systems",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -13021,7 +13021,7 @@
             "Toronto, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Cerebras-Systems",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -13040,7 +13040,7 @@
             "Toronto, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Cerebras-Systems",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -13059,7 +13059,7 @@
             "Toronto, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Cerebras-Systems",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -13078,7 +13078,7 @@
             "Toronto, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Cerebras-Systems",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -13097,7 +13097,7 @@
             "Toronto, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Cerebras-Systems",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
