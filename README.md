@@ -54,7 +54,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 > For off-season internships, please see the [Off-Season 2024 README](./README-Off-Season.md).
 
-> For new-grad tech jobs, check out [2024-New-Grad-Tech-Jobs](https://github.com/SimplifyJobs/2024-New-Grad-Tech-Jobs).
+> For new-grad tech jobs, check out [New-Grad-Positions](https://github.com/SimplifyJobs/New-Grad-Positions).
 
 [⬇️ Jump to bottom ⬇️](https://github.com/SimplifyJobs/Summer2024-Internships#we-love-our-contributors-%EF%B8%8F%EF%B8%8F)
 <!-- Please leave a one line gap between this and the table TABLE_START (DO NOT CHANGE THIS LINE) -->
