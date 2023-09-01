@@ -14068,5 +14068,26 @@
         "date_posted": 1693600130,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1693606007,
+        "url": "https://jobs.cisco.com/jobs/ProjectDetail/Site-Reliability-Engineer-Intern-Summer-2024-Internship-Meraki/1409439",
+        "company_name": "Cisco (Meraki)",
+        "title": "Site Reliability Engineer Intern",
+        "locations": [
+            "San Francisco, CA",
+            "Chicago, IL",
+            "Remote"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "RichardZhangRZ",
+        "id": "c6393efd-29cf-460c-bcad-be463243ad92",
+        "date_posted": 1693606007,
+        "company_url": "",
+        "is_visible": true
     }
 ]
