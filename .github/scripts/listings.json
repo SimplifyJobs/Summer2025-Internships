@@ -1308,7 +1308,7 @@
         "company_name": "Konrad Group",
         "id": "62b89c51-28d5-47b8-b560-cc33243f1953",
         "title": "Uoft PEY - Software Developer Intern - Months",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -12991,7 +12991,7 @@
         "company_name": "Cerebras",
         "id": "7c02b22d-910f-4f7f-9d3c-6e23af0b1143",
         "title": "Compiler Engineer \u2013 Internship - PEY 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -13010,7 +13010,7 @@
         "company_name": "Cerebras",
         "id": "dbb12bfe-8c8d-4ca6-81e8-7da1d470a48f",
         "title": "Kernel Engineer \u2013 Internship - PEY 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -13029,7 +13029,7 @@
         "company_name": "Cerebras",
         "id": "849a6f1f-b45c-4d95-bf3e-4cbe0209965a",
         "title": "Machine Learning Software Engineer \u2013 Internship - PEY 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -13048,7 +13048,7 @@
         "company_name": "Cerebras",
         "id": "c2066e8b-0f3c-4406-8c1d-18e9d833d373",
         "title": "Machine Learning Developer \u2013 Internship - Software Automation - PEY 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -13733,6 +13733,234 @@
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/SeatGeek",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "UiPath",
+        "id": "51c5e2c6-5f53-4a32-9fe8-027f323889a2",
+        "title": "Software Engineer Intern - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1693581747,
+        "date_posted": 1693581747,
+        "url": "https://careers.uipath.com/jobs/8096?lang=en-us&icims=1",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/UiPath",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Stryker",
+        "id": "915c4008-a038-424c-b926-b7c7ee9a2cf5",
+        "title": "Prairie View a&M University Summer Internship 2024 - Engineering-Michigan",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1693581464,
+        "date_posted": 1693581464,
+        "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Portage-Michigan/Prairie-View-A-M-University-Summer-Internship-2024---Engineering--Michigan_R505370",
+        "locations": [
+            "Portage, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Stryker",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Visa",
+        "id": "de190ec5-ae9e-4810-ba49-d94aa8f4c966",
+        "title": "Software Engineer \u2013 Intern - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1693581264,
+        "date_posted": 1693581264,
+        "url": "https://jobs.smartrecruiters.com/Visa/743999927638270",
+        "locations": [
+            "Highlands Ranch, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Visa",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Visa",
+        "id": "b557c83d-048b-408f-bc28-4e4ba4573558",
+        "title": "Site Reliability Engineer \u2013 Intern - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1693581264,
+        "date_posted": 1693581264,
+        "url": "https://jobs.smartrecruiters.com/Visa/743999927524903",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Visa",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Visa",
+        "id": "a11b1f94-e72e-4a2e-b5df-6c4fda6bac7f",
+        "title": "Software Engineer \u2013 Intern - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1693581263,
+        "date_posted": 1693581263,
+        "url": "https://jobs.smartrecruiters.com/Visa/743999927524523",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Visa",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Visa",
+        "id": "99142afc-19e6-4794-b691-b7ceb70d66e7",
+        "title": "Software Engineer \u2013 Intern - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1693581265,
+        "date_posted": 1693581265,
+        "url": "https://jobs.smartrecruiters.com/Visa/743999927523368",
+        "locations": [
+            "Ashburn, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Visa",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Visa",
+        "id": "83f8ab31-75ea-426a-a7ba-e6b738c1e43e",
+        "title": "Software Engineer \u2013 Intern - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1693581261,
+        "date_posted": 1693581261,
+        "url": "https://jobs.smartrecruiters.com/Visa/743999927641590",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Visa",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Visa",
+        "id": "5d04f7b5-09bd-488f-be96-9f6005d4ed32",
+        "title": "Site Reliability Engineer \u2013 Intern - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1693581267,
+        "date_posted": 1693581267,
+        "url": "https://jobs.smartrecruiters.com/Visa/743999927523654",
+        "locations": [
+            "Ashburn, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Visa",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Visa",
+        "id": "5601c955-f7d7-4092-936b-28e59dd7391a",
+        "title": "Systems Engineer \u2013 Intern - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1693581266,
+        "date_posted": 1693581266,
+        "url": "https://jobs.smartrecruiters.com/Visa/743999927524773",
+        "locations": [
+            "Ashburn, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Visa",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Visa",
+        "id": "29a9f90a-a362-4679-beaa-a20aa135184e",
+        "title": "Site Reliability Engineer \u2013 Intern - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1693581270,
+        "date_posted": 1693581270,
+        "url": "https://jobs.smartrecruiters.com/Visa/743999927524886",
+        "locations": [
+            "Highlands Ranch, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Visa",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Visa",
+        "id": "0e8087f9-e9df-4323-adb6-67d6f2d4a027",
+        "title": "Software Engineer \u2013 Intern - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1693581262,
+        "date_posted": 1693581262,
+        "url": "https://jobs.smartrecruiters.com/Visa/743999927640063",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Visa",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Visa",
+        "id": "087adb7c-2ccc-4b7f-8608-feba41f0f497",
+        "title": "Systems Engineer \u2013 Intern - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1693581270,
+        "date_posted": 1693581270,
+        "url": "https://jobs.smartrecruiters.com/Visa/743999927524803",
+        "locations": [
+            "Highlands Ranch, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Visa",
         "is_visible": true,
         "sponsorship": "Other"
     }
