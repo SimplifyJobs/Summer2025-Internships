@@ -14110,5 +14110,26 @@
         "date_posted": 1693606039,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1693606088,
+        "url": "https://jobs.cisco.com/jobs/ProjectDetail/Test-Automation-Engineer-Intern-Summer-2024-Meraki/1409520",
+        "company_name": "Cisco (Meraki)",
+        "title": "Test Automation Engineer Intern",
+        "locations": [
+            "San Francisco, CA",
+            "Chicago, IL",
+            "Remote"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "RichardZhangRZ",
+        "id": "36885a7c-98bc-46f9-90f6-1930b862fcd8",
+        "date_posted": 1693606088,
+        "company_url": "",
+        "is_visible": true
     }
 ]
