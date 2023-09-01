@@ -14089,5 +14089,26 @@
         "date_posted": 1693606007,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1693606039,
+        "url": "https://jobs.cisco.com/jobs/ProjectDetail/Firmware-Features-Intern-Summer-2024-FY24-Meraki/1409432",
+        "company_name": "Cisco (Meraki)",
+        "title": "Firmware/Features Intern",
+        "locations": [
+            "San Francisco, CA",
+            "Chicago, IL",
+            "Remote"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "RichardZhangRZ",
+        "id": "cf673094-dbd0-434c-9f3d-c9fab1b0ce27",
+        "date_posted": 1693606039,
+        "company_url": "",
+        "is_visible": true
     }
 ]
