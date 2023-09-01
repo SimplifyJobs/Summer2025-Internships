@@ -14131,5 +14131,26 @@
         "date_posted": 1693606088,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1693606119,
+        "url": "https://jobs.cisco.com/jobs/ProjectDetail/Full-Stack-Software-Engineer-Intern-Summer-2024-FY24-Meraki/1409430",
+        "company_name": "Cisco (Meraki)",
+        "title": "Full Stack Software Engineer Intern",
+        "locations": [
+            "San Francisco, CA",
+            "Chicago, IL",
+            "Remote"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "RichardZhangRZ",
+        "id": "ac86ea3b-98cf-4fa6-b88e-a9b663ffc87d",
+        "date_posted": 1693606119,
+        "company_url": "",
+        "is_visible": true
     }
 ]

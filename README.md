@@ -61,6 +61,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Cisco (Meraki)** | Full Stack Software Engineer Intern 🛂 | San Francisco, CA</br>Chicago, IL</br>Remote | <a href="https://jobs.cisco.com/jobs/ProjectDetail/Full-Stack-Software-Engineer-Intern-Summer-2024-FY24-Meraki/1409430?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 01 |
 | **Cisco (Meraki)** | Test Automation Engineer Intern 🛂 | San Francisco, CA</br>Chicago, IL</br>Remote | <a href="https://jobs.cisco.com/jobs/ProjectDetail/Test-Automation-Engineer-Intern-Summer-2024-Meraki/1409520?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 01 |
 | **Cisco (Meraki)** | Firmware/Features Intern 🛂 | San Francisco, CA</br>Chicago, IL</br>Remote | <a href="https://jobs.cisco.com/jobs/ProjectDetail/Firmware-Features-Intern-Summer-2024-FY24-Meraki/1409432?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 01 |
 | **Cisco (Meraki)** | Site Reliability Engineer Intern 🛂 | San Francisco, CA</br>Chicago, IL</br>Remote | <a href="https://jobs.cisco.com/jobs/ProjectDetail/Site-Reliability-Engineer-Intern-Summer-2024-Internship-Meraki/1409439?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 01 |
