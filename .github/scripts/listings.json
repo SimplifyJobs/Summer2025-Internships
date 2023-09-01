@@ -14043,5 +14043,30 @@
         "date_posted": 1693599854,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1693600130,
+        "url": "https://careers.hpe.com/us/en/job/1160952/Software-Engineering-Intern",
+        "company_name": "Hewlett Packard Enterprise",
+        "title": "Software Engineering Intern",
+        "locations": [
+            "Roseville, CA",
+            "San Jose, CA",
+            "Andover, MA",
+            "Bloomington, MN",
+            "Chippewa Falls, WI",
+            "Ft. Collins, CO",
+            "Durham, NC"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "IceColdBlizzard1",
+        "id": "1b9af15a-6032-4272-bd18-5f5383040ebc",
+        "date_posted": 1693600130,
+        "company_url": "",
+        "is_visible": true
     }
 ]
