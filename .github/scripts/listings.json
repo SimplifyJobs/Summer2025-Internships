@@ -14024,5 +14024,24 @@
         "date_posted": 1693599618,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1693599854,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/HTX99-Field-Office---TX-Remote-Location-Remote-City-TX-73301-USA/FlightAware---Software-Engineering-Internship--Summer-2024--Remote-_01647850?source=Linkedin",
+        "company_name": "FlightAware",
+        "title": "Software Engineering Intern",
+        "locations": [
+            "Remote"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "anshchaturvedi",
+        "id": "493643f5-02be-472f-b829-210f8b0880b1",
+        "date_posted": 1693599854,
+        "company_url": "",
+        "is_visible": true
     }
 ]
