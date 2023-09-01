@@ -10091,7 +10091,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1693404814,
+        "date_updated": 1693600091,
         "url": "https://jobs.ericsson.com/careers/job/563121756491431",
         "company_name": "Ericsson",
         "title": "Software Developer Intern",
@@ -10102,7 +10102,7 @@
             "Summer 2024"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "ikatyal2110",
         "id": "511cef9e-2e2b-44d1-ae83-34a43cc86c7c",
         "date_posted": 1692658937,
