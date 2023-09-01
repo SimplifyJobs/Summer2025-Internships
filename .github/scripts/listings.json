@@ -13963,5 +13963,27 @@
         "company_url": "https://simplify.jobs/c/Visa",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1693599578,
+        "url": "https://app.ripplematch.com/v2/public/job/e52e0bcd/details",
+        "company_name": "MongoDB",
+        "title": "2024 - Software Engineering Intern, Product",
+        "locations": [
+            "Austin, TX",
+            "San Francisco, CA",
+            "New York, NY",
+            "Seattle, WA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "mtlogs",
+        "id": "f6f298bf-aeab-4b88-aff8-364460958f83",
+        "date_posted": 1693599578,
+        "company_url": "",
+        "is_visible": true
     }
 ]
