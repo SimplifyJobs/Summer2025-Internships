@@ -13676,5 +13676,64 @@
         "company_url": "https://simplify.jobs/c/Epic-Games",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "SeatGeek",
+        "id": "32bf0fa1-eb45-4add-92ff-7fe954836e4a",
+        "title": "Software Engineer \u2013 Internship",
+        "active": true,
+        "terms": [
+            "Spring 2025",
+            "Summer 2025"
+        ],
+        "date_updated": 1693553209,
+        "date_posted": 1693553209,
+        "url": "https://seatgeek.com/jobs/125938?gh_jid=125938",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/SeatGeek",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Riot Games",
+        "id": "9a5248e5-2787-40eb-a644-dc10bab12041",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Fall 2023"
+        ],
+        "date_updated": 1693552015,
+        "date_posted": 1693552015,
+        "url": "https://www.riotgames.com/en/work-with-us/job/5330414?gh_jid=5330414",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Riot-Games",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "SeatGeek",
+        "id": "b909403e-d4cc-40f4-8928-0364b519310a",
+        "title": "Software Engineer \u2013 Internship",
+        "active": true,
+        "terms": [
+            "Spring 2025",
+            "Summer 2025"
+        ],
+        "date_updated": 1693552006,
+        "date_posted": 1693552006,
+        "url": "https://seatgeek.com/jobs/5327968?gh_jid=5327968",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/SeatGeek",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
