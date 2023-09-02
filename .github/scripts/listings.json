@@ -1613,7 +1613,7 @@
         "company_name": "Covariant",
         "id": "6c3f7766-854b-4b07-a73b-cbfa529ef5a2",
         "title": "Machine Learning - AI Research Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2023"
         ],
@@ -4663,7 +4663,7 @@
         "company_name": "Vestmark",
         "id": "90d693b7-1bae-401a-a20f-129cb1871d67",
         "title": "Intern \u2013 Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2023"
         ],
@@ -13144,7 +13144,7 @@
         "company_name": "Tanium",
         "id": "86358b03-dc51-408f-9789-ff0c686869ca",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -14152,5 +14152,256 @@
         "date_posted": 1693606119,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Wellmark",
+        "id": "8f7a873e-5389-43b4-8b68-821983bde018",
+        "title": "Data Analytics & Governance Intern",
+        "active": true,
+        "terms": [
+            "Winter 2025",
+            "Spring 2025"
+        ],
+        "date_updated": 1693610216,
+        "date_posted": 1693610216,
+        "url": "https://jobs.smartrecruiters.com/WellmarkInc/743999927886833",
+        "locations": [
+            "Des Moines, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/Wellmark",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Jerry",
+        "id": "2aa5eca5-9f9d-404a-92b5-f098cc00267d",
+        "title": "Editorial Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1693609945,
+        "date_posted": 1693609945,
+        "url": "https://jobs.ashbyhq.com/Jerry/7fd85dd1-7d62-436d-a596-2632883c8f45/application",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Jerry",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Stryker",
+        "id": "f55926e6-a4c6-45f5-97a0-7acabd50f80b",
+        "title": "Commercial Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1693610028,
+        "date_posted": 1693610028,
+        "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/San-Jose-California/Commercial-Analytics-Intern_R504859",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Stryker",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Stryker",
+        "id": "3b9206b7-3bb1-4250-a815-4bcc507812bd",
+        "title": "Data Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1693610023,
+        "date_posted": 1693610023,
+        "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/San-Jose-California/Data-Analytics-Intern_R505026",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Stryker",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "The Allen Institute for AI",
+        "id": "4843c4d2-17fb-4cf9-89ad-c7df5fbbc391",
+        "title": "Research Internship",
+        "active": true,
+        "terms": [
+            "Fall 2023"
+        ],
+        "date_updated": 1693610128,
+        "date_posted": 1693610128,
+        "url": "https://boards.greenhouse.io/thealleninstitute/jobs/2171558",
+        "locations": [
+            "Remote"
+        ],
+        "company_url": "https://simplify.jobs/c/allenai",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Stryker",
+        "id": "d33590b5-f52f-4208-96bd-44bc3cfe0427",
+        "title": "Summer Internship 2024 - Software Engineering - Michigan",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1693610062,
+        "date_posted": 1693610062,
+        "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Portage-Michigan/Summer-Internship-2024---Software-Engineering---Michigan_R505248",
+        "locations": [
+            "Portage, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Stryker",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Stryker",
+        "id": "b5c541a5-ffd9-4dc9-9681-8d218b52a425",
+        "title": "Summer Internship 2024 - Software Engineering - Indiana",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1693610063,
+        "date_posted": 1693610063,
+        "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Indiana-Fort-Wayne-1950-West-Cook-Road/Summer-Internship-2024---Software-Engineering---Indiana_R505275",
+        "locations": [
+            "Fort Wayne, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/Stryker",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Stryker",
+        "id": "5e84a82e-b774-41a9-9cac-ce9b0f3040a2",
+        "title": "Summer Internship 2024 - Software Engineering-Florida",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1693610062,
+        "date_posted": 1693610062,
+        "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Fort-Lauderdale-Florida/Summer-Internship-2024---Software-Engineering--Florida_R505274",
+        "locations": [
+            "Fort Lauderdale, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Stryker",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Stryker",
+        "id": "edbaf5c3-5bef-4835-98b6-4b261234e5b8",
+        "title": "Summer Internship 2024 - Data Analytics - Michigan",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1693610054,
+        "date_posted": 1693610054,
+        "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Portage-Michigan/Summer-Internship-2024---Data-Analytics---Michigan_R505283",
+        "locations": [
+            "Portage, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Stryker",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Stryker",
+        "id": "73dfb004-8b5d-4862-a73e-9d68e512dfc8",
+        "title": "Intern \u2013 Data Analytics",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1693610052,
+        "date_posted": 1693610052,
+        "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Portage-Michigan/Intern--Data-Analytics_R504871",
+        "locations": [
+            "Portage, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Stryker",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Intel",
+        "id": "97f615ee-aeb2-4b08-bd24-99bbdb271bc5",
+        "title": "Software Development-Undergraduate Intern",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1693609851,
+        "date_posted": 1693609851,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Software-Development-Undergraduate-Intern_JR0248298",
+        "locations": [
+            "Santa Clara, CA",
+            "Hillsboro, OR",
+            "Folsom, CA",
+            "Phoenix, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "A Thinking Ape",
+        "id": "3afee123-3b59-4356-91d0-0bbb1da9cad2",
+        "title": "Software Engineer Co-op - Jan 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1693609660,
+        "date_posted": 1693609660,
+        "url": "https://boards.greenhouse.io/athinkingape/jobs/5334530",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/A-Thinking-Ape",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Oshkosh",
+        "id": "045ae4e2-0390-40bc-b10c-49660765cfc5",
+        "title": "AI/ Autonomy Engineering Internship",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1693609552,
+        "date_posted": 1693609552,
+        "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Hagerstown-Maryland-United-States/AI--Autonomy-Engineering-Internship_R21834",
+        "locations": [
+            "Hagerstown, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Oshkosh",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
