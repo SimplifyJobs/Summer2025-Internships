@@ -558,7 +558,7 @@
         "company_name": "DRW",
         "id": "efd1fbf2-b673-4f23-948a-c579135018e2",
         "title": "Accounting Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -12159,7 +12159,7 @@
         "company_name": "Lucid Motors",
         "id": "5ecf01c0-66b0-462f-8b3c-b4458fb154f6",
         "title": "Intern \u2013 Product/Program Management - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
