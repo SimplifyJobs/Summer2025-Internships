@@ -14405,5 +14405,24 @@
         "company_url": "https://simplify.jobs/c/Oshkosh",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1693629539,
+        "url": "https://careers.snowflake.com/us/en/job/6918413002/Software-Engineer-Intern-Core-Database-Engineering-Spring-2024",
+        "company_name": "Snowflake",
+        "title": "Software Engineer Intern (Core/Database Engineering) - Spring 2024",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "terms": [
+            "Spring 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "IceColdBlizzard1",
+        "id": "100b57ad-0194-4b28-a19e-e1859a4d4cb2",
+        "date_posted": 1693629539,
+        "company_url": "",
+        "is_visible": true
     }
 ]
