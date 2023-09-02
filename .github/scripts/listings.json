@@ -14462,5 +14462,24 @@
         "date_posted": 1693631930,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "SpaceX",
+        "id": "9f52978c-7083-440e-8d32-f3fa6fa5d523",
+        "title": "Summer 2024 Software Engineering Internship/Co-op",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1693639245,
+        "date_posted": 1693639245,
+        "url": "https://boards.greenhouse.io/spacex/jobs/6917839002",
+        "locations": [
+            "Remote"
+        ],
+        "company_url": "https://simplify.jobs/c/SpaceX",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
