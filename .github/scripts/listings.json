@@ -14443,5 +14443,24 @@
         "date_posted": 1693629579,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1693631930,
+        "url": "https://careers.snowflake.com/us/en/job/6918415002/Software-Engineer-Intern-Core-Database-Engineering-Spring-2024",
+        "company_name": "Snowflake",
+        "title": "Software Engineer Intern (Core/Database Engineering) - Spring 2024",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "terms": [
+            "Spring 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "IceColdBlizzard1",
+        "id": "a348d085-d2c5-4fbc-aca2-cde59a54ba69",
+        "date_posted": 1693631930,
+        "company_url": "",
+        "is_visible": true
     }
 ]
