@@ -14424,5 +14424,24 @@
         "date_posted": 1693629539,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1693629579,
+        "url": "https://careers.snowflake.com/us/en/job/6918464002/Software-Engineer-Intern-Infrastructure-Automation-Spring-2024",
+        "company_name": "Snowflake",
+        "title": "Software Engineer Intern (Infrastructure Automation) - Spring 2024",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "terms": [
+            "Spring 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "IceColdBlizzard1",
+        "id": "56aad942-bc3d-4133-a3fb-5f256ee00521",
+        "date_posted": 1693629579,
+        "company_url": "",
+        "is_visible": true
     }
 ]
