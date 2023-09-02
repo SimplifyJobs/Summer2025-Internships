@@ -14481,5 +14481,139 @@
         "company_url": "https://simplify.jobs/c/SpaceX",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Stryker",
+        "id": "b20fd8c6-e305-439d-a860-3067c27d1010",
+        "title": "Sales Support Data Analytics Internship",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1693667584,
+        "date_posted": 1693667584,
+        "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Cary-Illinois/Sales-Support-Data-Analytics-Internship_R504895",
+        "locations": [
+            "Cary, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Stryker",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Stryker",
+        "id": "21401ba7-a5b9-45b8-8943-2a850c075dce",
+        "title": "New Product Development Engineering Intern-Illinois",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1693667582,
+        "date_posted": 1693667582,
+        "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Cary-Illinois/New-Product-Development-Engineering-Intern-Illinois_R504956",
+        "locations": [
+            "Cary, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Stryker",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Stryker",
+        "id": "9bf8eaff-702c-48f2-9db0-517dd11a99be",
+        "title": "Florida a&M University Summer Internship 2024 - Engineering-Michigan",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1693667582,
+        "date_posted": 1693667582,
+        "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Portage-Michigan/Florida-A-M-University-Summer-Internship-2024---Engineering--Michigan_R505371",
+        "locations": [
+            "Portage, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Stryker",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Stryker",
+        "id": "44148087-a010-413d-8038-951f05dfe1fd",
+        "title": "Howard University Summer Internship 2024 - Engineering-Michigan",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1693667567,
+        "date_posted": 1693667567,
+        "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Portage-Michigan/Howard-University-Summer-Internship-2024---Engineering_R505368",
+        "locations": [
+            "Portage, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Stryker",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Stryker",
+        "id": "63d27186-707a-4fe7-ac2b-b77268e8418a",
+        "title": "R&D Engineering Intern-Minnesota",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1693667582,
+        "date_posted": 1693667582,
+        "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Plymouth-Minnesota/R-D-Engineering-Intern--Minnesota_R504787",
+        "locations": [
+            "Wayzata, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Stryker",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Stryker",
+        "id": "c94edd2a-aa2d-40cf-ab9a-11552295517a",
+        "title": "Finance Data Science Intern",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1693667580,
+        "date_posted": 1693667580,
+        "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Flower-Mound-Texas/Finance-Data-Science-Intern_R504849",
+        "locations": [
+            "Flower Mound, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Stryker",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Stryker",
+        "id": "18be768c-417d-4de8-b667-5a85844b1568",
+        "title": "Summer Internship 2024 - Software Engineering - California",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1693667581,
+        "date_posted": 1693667581,
+        "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/San-Jose-California/Summer-Internship-2024---Software-Engineering---California_R505271-1",
+        "locations": [
+            "San Jose, CA",
+            "Menlo Park, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Stryker",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
