@@ -8987,7 +8987,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1692269095,
+        "date_updated": 1693749021,
         "url": "https://careers.oracle.com/jobs/#en/sites/jobsearch/job/211119/",
         "company_name": "Oracle",
         "title": "Software Engineer Intern - Masters - OCI & Cloud Platforms",
@@ -9000,8 +9000,8 @@
             "Summer 2024",
             "Fall 2024"
         ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "smitpatel24",
         "id": "19099fa6-11e4-4c64-a7b8-12a925d413ed",
         "date_posted": 1692269095,
