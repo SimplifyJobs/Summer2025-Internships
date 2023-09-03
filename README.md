@@ -577,7 +577,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | **Volvo** | Intern: Engineering, Embedded Software | Hagerstown, MD | 🔒 | Jul |
 | **Voloridge Investment Management** | Software Engineer Intern | Jupiter, FL | 🔒 | Jul |
 | **Voloridge Investment Management** | Trading Engineer Intern | Jupiter, FL | 🔒 | Jul |
-| **Lumen Technologies** | Internship program (Express Interest) (U.S. work authorization required) | Remote, USA | <a href="https://jobs.lumen.com/global/en/job/324980/Intern-Summer-2024-Program-Submit-Interest?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul |
+| **Lumen Technologies** | Internship program (Express Interest) (U.S. work authorization required) 🛂 | Remote, USA | 🔒 | Jul |
 | **Castleton Commodities International** | Data Science Internship | Stamford, CT | 🔒 | Jul |
 | **Medtronic** | Software Engineering Summer 2024 Intern  🛂 | Multiple | <a href="https://medtronic.eightfold.ai/careers/job/17363492?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul |
 | **DRW** | Site Reliability Engineer Intern - Sre | Chicago, IL | 🔒 | Jul |
