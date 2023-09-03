@@ -14655,5 +14655,24 @@
         "date_posted": 1693706589,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1693706622,
+        "url": "https://careers.zebra.com/careers/job/343614986125",
+        "company_name": "Zebra Technologies Corporation",
+        "title": "Software Engineer Internship",
+        "locations": [
+            "Holtsville, New York"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "ngitman",
+        "id": "1bf47550-bf0f-4c01-ae85-ffa3f63b7772",
+        "date_posted": 1693706622,
+        "company_url": "",
+        "is_visible": true
     }
 ]
