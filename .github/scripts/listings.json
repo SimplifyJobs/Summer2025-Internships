@@ -14615,5 +14615,24 @@
         "company_url": "https://simplify.jobs/c/Stryker",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1693706557,
+        "url": "https://www.cerebras.net/careers/?gh_jid=5728745003",
+        "company_name": "Cerebras",
+        "title": "Compiler Engineer \u2013 Internship - PEY 2024",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "Aleque2023",
+        "id": "7198848f-8e79-44c0-b943-9112f2af666d",
+        "date_posted": 1693706557,
+        "company_url": "",
+        "is_visible": true
     }
 ]
