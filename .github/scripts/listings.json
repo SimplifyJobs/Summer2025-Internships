@@ -14711,5 +14711,81 @@
         "date_posted": 1693836108,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Sumo Digital",
+        "id": "9fefca5b-e7a4-425a-b011-677ce5410283",
+        "title": "Games Programming Apprenticeship",
+        "active": true,
+        "terms": [
+            "Winter 2024"
+        ],
+        "date_updated": 1693840685,
+        "date_posted": 1693840685,
+        "url": "https://jobs.lever.co/sumo-digital/dcf78eb9-a306-4cd3-9ae2-04cf41b36876/apply",
+        "locations": [
+            "Sheffield, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sumo-Digital",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Maven Securities",
+        "id": "f9444a25-4ce3-48a1-bd87-f0f8b9dee10e",
+        "title": "Software Developer Summer Internship London 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1693840343,
+        "date_posted": 1693840343,
+        "url": "https://boards.greenhouse.io/mavensecuritiesholdingltd/jobs/4947751",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Maven-Securities",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Maven Securities",
+        "id": "0968a017-62b8-4c9d-8826-dea0bee5f606",
+        "title": "Trader Summer Internship London 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1693840348,
+        "date_posted": 1693840348,
+        "url": "https://boards.greenhouse.io/mavensecuritiesholdingltd/jobs/4734359",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Maven-Securities",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Live Nation Entertainment",
+        "id": "aef6ef15-a299-4d6e-aa78-610ea1361290",
+        "title": "Field IT Support Apprentice",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1693840181,
+        "date_posted": 1693840181,
+        "url": "https://livenation.wd1.myworkdayjobs.com/en-US/LNExternalSite/job/London-United-Kingdom/Field-IT-Support-Apprentice_JR-46932",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Live-Nation-Entertainment",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
