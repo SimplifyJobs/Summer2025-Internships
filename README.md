@@ -61,6 +61,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Peraton** | Software Engineer Intern 🇺🇸 | Blacksburg, VA | <a href="https://careers-peraton.icims.com/jobs/136572/job?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 04 |
 | **Zebra Technologies Corporation** | Software Engineer Internship 🛂 | Holtsville, New York | <a href="https://careers.zebra.com/careers/job/343614986125?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 03 |
 | **Broadridge** | Technology Internship 🛂 | New York, NY</br>Edgewood, NY</br>Newark, NJ | <a href="https://broadridge.wd5.myworkdayjobs.com/Careers/job/New-York-NY/Broadridge-Technology-Internship---Summer-2024_JR1058524?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 03 |
 | **[Cerebras](https://simplify.jobs/c/Cerebras-Systems)** | Compiler Engineer – Internship - PEY 2024 🛂 | Toronto, ON, Canada | <a href="https://www.cerebras.net/careers/?gh_jid=5728745003&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 03 |

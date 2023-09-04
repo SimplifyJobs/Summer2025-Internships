@@ -14673,5 +14673,24 @@
         "date_posted": 1693706622,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1693794108,
+        "url": "https://careers-peraton.icims.com/jobs/136572/job",
+        "company_name": "Peraton",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "Blacksburg, VA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "source": "neelthepatel8",
+        "id": "04ec0571-c87e-4ddf-b177-2ebcbea3b618",
+        "date_posted": 1693794108,
+        "company_url": "",
+        "is_visible": true
     }
 ]
