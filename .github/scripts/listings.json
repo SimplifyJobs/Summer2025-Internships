@@ -7523,7 +7523,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1691700761,
+        "date_updated": 1693866010,
         "url": "https://jobs.bayer.com/job/Residence-Based-Cloud-Developer-Intern-Resi/966220501/",
         "company_name": "Bayer",
         "title": "Cloud Developer Intern (Sponsorship Unknown)",
@@ -7531,11 +7531,10 @@
             "Multiple Locations"
         ],
         "terms": [
-            "Summer 2024",
-            "Fall 2024"
+            "Summer 2024"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "shreeyapatell",
         "id": "ea7bdf40-ecd2-48ad-9941-da4a7a8c5e39",
         "date_posted": 1691700761,
