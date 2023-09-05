@@ -14770,5 +14770,24 @@
         "company_url": "https://simplify.jobs/c/Live-Nation-Entertainment",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Weiss Asset Management",
+        "id": "3ce7048c-320e-4175-b06f-1596c674cfb2",
+        "title": "Business Rotational Summer Internship 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1693869538,
+        "date_posted": 1693869538,
+        "url": "https://boards.greenhouse.io/weissassetmanagement/jobs/6918993002",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/cb8d0ea4-93ea-4a6e-982e-c2e0394150cf",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
