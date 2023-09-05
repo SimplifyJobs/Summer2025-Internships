@@ -9884,7 +9884,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1692555635,
+        "date_updated": 1693931817,
         "url": "https://ea.gr8people.com/jobs/179825/software-engineer-intern?locale=en",
         "company_name": "Maxis Studios",
         "title": "Software Engineer Intern",
@@ -9894,8 +9894,8 @@
         "terms": [
             "Summer 2024"
         ],
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "RaiJashan17",
         "id": "7407250c-3e89-4df1-b954-644a6198dd39",
         "date_posted": 1692555635,
