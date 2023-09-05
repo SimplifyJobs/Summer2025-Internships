@@ -14941,5 +14941,24 @@
         "company_url": "https://simplify.jobs/c/Wealthsimple",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1693956575,
+        "url": "https://fetchnotifs.com/careers",
+        "company_name": "FetchNotifs",
+        "title": "Software Engineering Intern (Summer 2024)",
+        "locations": [
+            "Remote"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "sananov",
+        "id": "6519f30f-81fe-4937-becd-254d8df54202",
+        "date_posted": 1693956575,
+        "company_url": "",
+        "is_visible": true
     }
 ]
