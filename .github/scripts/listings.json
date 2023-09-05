@@ -8547,18 +8547,18 @@
         "is_visible": true
     },
     {
-        "date_updated": 1692125693,
+        "date_updated": 1693921912,
         "url": "https://www.se.com/ww/en/about-us/careers/job-details/software-engineering-intern--fall-2023-/55765/",
         "company_name": "Schneider Electric",
-        "title": "Software Engineer Intern",
+        "title": "Software Engineer Intern \ud83d\udec2",
         "locations": [
             "Andover, MA"
         ],
         "terms": [
             "Summer 2024"
         ],
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "leetcodeLover",
         "id": "b28ccc9d-d1dd-46e6-b7d5-cd2ffc68e97c",
         "date_posted": 1692125693,
