@@ -9169,7 +9169,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1692295456,
+        "date_updated": 1693936150,
         "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Oshkosh-Wisconsin-United-States/Computer-Software-Engineering-Intern-Summer-2024_R22291",
         "company_name": "Oshkosh Corporation",
         "title": "Computer/Software Engineering Intern",
@@ -9179,8 +9179,8 @@
         "terms": [
             "Summer 2024"
         ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "cwcoogan",
         "id": "b5e1c0c8-85af-4e4e-94ff-18181014905f",
         "date_posted": 1692295456,
