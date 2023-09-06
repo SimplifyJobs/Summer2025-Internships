@@ -15653,5 +15653,24 @@
         "company_url": "https://simplify.jobs/c/Dun-and-Bradstreet",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1694039830,
+        "url": "https://www.linkedin.com/jobs/view/3705752503/",
+        "company_name": "Linkedin",
+        "title": "Systems and Infrastructure Engineer Internship - Graduate level",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "yukikazedayo",
+        "id": "5f47d453-416d-4b00-809f-0837058248d9",
+        "date_posted": 1694039830,
+        "company_url": "",
+        "is_visible": true
     }
 ]
