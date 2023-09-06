@@ -15287,5 +15287,24 @@
         "company_url": "https://simplify.jobs/c/Klaviyo",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1693961981,
+        "url": "https://talent.siemens.com/privateapply?folderId=384920&source=Handshake&tags=handshake",
+        "company_name": "SIEMENS",
+        "title": "Grid Software Internship: Software Developer",
+        "locations": [
+            "Minnetonka, MN."
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "celine-zhang",
+        "id": "d72d7133-f483-48f2-ad89-772811d99800",
+        "date_posted": 1693961981,
+        "company_url": "",
+        "is_visible": true
     }
 ]
