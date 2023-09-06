@@ -4777,7 +4777,7 @@
         "company_name": "Flow Traders",
         "id": "76fc51d4-9af1-45b4-bad3-5082cdaff654",
         "title": "Trading Intern Summer 2024",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -14374,7 +14374,7 @@
         "company_name": "Oshkosh",
         "id": "045ae4e2-0390-40bc-b10c-49660765cfc5",
         "title": "AI/ Autonomy Engineering Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -14960,5 +14960,332 @@
         "date_posted": 1693956575,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Kinaxis",
+        "id": "bfdfa2a0-49c1-45cd-9d66-215d2dd449af",
+        "title": "Co-Op/Intern Developer - IT Application Excellence",
+        "active": true,
+        "terms": [
+            "Winter 2024"
+        ],
+        "date_updated": 1693956454,
+        "date_posted": 1693956454,
+        "url": "https://boards.greenhouse.io/kinaxis/jobs/6920460002",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Kinaxis",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Optiver US",
+        "id": "8058a709-660d-4f87-b153-f5bca413778c",
+        "title": "Trading Operations Analyst Intern - Summer 2024 Start",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1693956139,
+        "date_posted": 1693956139,
+        "url": "https://optiver.com/working-at-optiver/career-opportunities/6915259002/?gh_jid=6915259002",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Optiver-US",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "MongoDB",
+        "id": "77c1f25b-0600-4487-a6f2-5e80da4a0015",
+        "title": "2024 \u2013 Software Engineering Intern - Product",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1693955932,
+        "date_posted": 1693955932,
+        "url": "https://www.mongodb.com/careers/job/?gh_jid=4842404",
+        "locations": [
+            "SF",
+            "Austin, TX",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/MongoDB",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Modernizing Medicine",
+        "id": "c47dd742-c2fc-457c-bd47-6214870fd4b5",
+        "title": "Software Product Development Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1693955785,
+        "date_posted": 1693955785,
+        "url": "https://www.modmed.com/company/careers/?gh_jid=6919750002",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/ModMed",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Immuta",
+        "id": "65cf17b4-c49e-45a8-86da-f9123a0746be",
+        "title": "Product Engineering Internship - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1693955711,
+        "date_posted": 1693955711,
+        "url": "https://jobs.lever.co/immuta/53b0de78-a430-4647-87f2-8a9a70110f88/apply",
+        "locations": [
+            "Columbus, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Immuta",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Immuta",
+        "id": "76a7013f-4936-497c-85b7-6ae8cd8b3c0b",
+        "title": "Product Engineering Internship - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1693955720,
+        "date_posted": 1693955720,
+        "url": "https://jobs.lever.co/immuta/481ea950-685f-471a-8939-046df22cd574/apply",
+        "locations": [
+            "Hyattsville, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Immuta",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Leidos",
+        "id": "f569a3dd-d3b2-454f-9b12-e5fe7d2e2715",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1693955539,
+        "date_posted": 1693955539,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Omaha-NE/Software-Engineer-Intern_R-00117940",
+        "locations": [
+            "Omaha, NE"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Intel",
+        "id": "9a9d59f7-066c-445c-a727-38aabd5b908a",
+        "title": "Development Tools Software Engineer \u2013 Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1693955461,
+        "date_posted": 1693955461,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-California-Folsom/Development-Tools-Software-Engineer--Intern-_JR0247710",
+        "locations": [
+            "Folsom, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Intel",
+        "id": "30e5e5af-175f-48ac-b675-2571cc0b1e51",
+        "title": "FPGA Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1693955469,
+        "date_posted": 1693955469,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/Canada-Toronto/FPGA-Software-Engineering-Intern_JR0247917",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Torc Robotics",
+        "id": "07fbb0c2-fa0d-4fec-a9ab-1abdf6e24660",
+        "title": "Software Development Engineer in Test \u2013 Co-Op - Sdet",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1693955505,
+        "date_posted": 1693955505,
+        "url": "https://boards.greenhouse.io/torcrobotics/jobs/6919624002",
+        "locations": [
+            "Blacksburg, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Torc-Robotics",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "The Hub Project",
+        "id": "280bc49b-fe60-41fa-b45b-6152fa41c702",
+        "title": "Internship - Polling &amp; Analytics",
+        "active": true,
+        "terms": [
+            "Fall 2023"
+        ],
+        "date_updated": 1693955404,
+        "date_posted": 1693955404,
+        "url": "https://jobs.lever.co/thehubproject/50f30f23-e978-42fd-9169-ff21cd71b5a0/apply",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/The-Hub-Project",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Humane",
+        "id": "9f6e6f1a-2286-4a1c-9b47-878c53c66b75",
+        "title": "Quality Engineering Intern",
+        "active": true,
+        "terms": [
+            "Spring 2024",
+            "Summer 2024",
+            "Fall 2024"
+        ],
+        "date_updated": 1693955289,
+        "date_posted": 1693955289,
+        "url": "https://boards.greenhouse.io/humane/jobs/4966440004",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Humane",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Rockwell Automation",
+        "id": "2d1a8260-a81c-4ec7-a73e-174388b1a5d5",
+        "title": "Intern \u2013 Information Technology",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1693955288,
+        "date_posted": 1693955288,
+        "url": "https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Milwaukee-Wisconsin-United-States/Intern--Information-Technology_R23-7826-2",
+        "locations": [
+            "Milwaukee, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Rockwell-Automation",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Plaid",
+        "id": "e7e0daf4-e82d-4155-a565-d50761681dbb",
+        "title": "Software Engineer \u2013 Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1693955230,
+        "date_posted": 1693955230,
+        "url": "https://jobs.lever.co/plaid/166b394b-5bf0-48f7-a599-f15030d40162/apply",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Plaid",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Oshkosh",
+        "id": "95bea62b-a28a-4754-8573-6d7f518226b2",
+        "title": "Hardware Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1693955146,
+        "date_posted": 1693955146,
+        "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Hagerstown-Maryland-United-States/Hardware-Engineering-Intern_R21821",
+        "locations": [
+            "Hagerstown, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Oshkosh",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "NVIDIA",
+        "id": "42034b12-aac6-4fba-8076-3e99480ce3d4",
+        "title": "Governance and Infrastructure Full Stack Engineer Intern - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1693955087,
+        "date_posted": 1693955087,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Governance-and-Infrastructure-Full-Stack-Engineer-Intern---Summer-2024_JR1971310",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Klaviyo",
+        "id": "2aa0e5ee-4b76-4ce5-a0cf-61b77ec07970",
+        "title": "Summer 2024 Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1693955134,
+        "date_posted": 1693955134,
+        "url": "https://careers.klaviyo.com/en/search-jobs/?gh_jid=5710048003",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Klaviyo",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
