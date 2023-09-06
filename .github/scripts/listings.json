@@ -15306,5 +15306,24 @@
         "date_posted": 1693961981,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1693972703,
+        "url": "https://nordstrom.wd5.myworkdayjobs.com/en-US/nordstrom_careers/details/Software-Engineer---Corporate-Internship_R-582605/apply?q=intern",
+        "company_name": "nordstorm",
+        "title": "Software Engineer - Corporate Internship",
+        "locations": [
+            "Seattle"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "mcHan18",
+        "id": "99434c95-1e74-416e-9cb8-6fb65c4d0d9f",
+        "date_posted": 1693972703,
+        "company_url": "",
+        "is_visible": true
     }
 ]

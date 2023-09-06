@@ -61,6 +61,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **nordstorm** | Software Engineer - Corporate Internship | Seattle | <a href="https://nordstrom.wd5.myworkdayjobs.com/en-US/nordstrom_careers/details/Software-Engineer---Corporate-Internship_R-582605/apply?q=intern&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 06 |
 | **SIEMENS** | Grid Software Internship: Software Developer | Minnetonka, MN. | <a href="https://talent.siemens.com/privateapply?folderId=384920&source=Handshake&tags=handshake&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 06 |
 | **FetchNotifs** | Software Engineering Intern (Summer 2024) 🛂 | Remote | <a href="https://fetchnotifs.com/careers?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 05 |
 | **[Optiver US](https://simplify.jobs/c/Optiver-US)** | Trading Operations Analyst Intern - Summer 2024 Start | Chicago, IL | <a href="https://optiver.com/working-at-optiver/career-opportunities/6915259002/?gh_jid=6915259002&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/8058a709-660d-4f87-b153-f5bca413778c?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Sep 05 |
