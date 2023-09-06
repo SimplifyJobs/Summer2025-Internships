@@ -15672,5 +15672,24 @@
         "date_posted": 1694039830,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1694039861,
+        "url": "https://app.ripplematch.com/v2/public/job/f66c09ea",
+        "company_name": "Samsara",
+        "title": "Software Engineering Intern",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "yukikazedayo",
+        "id": "d20fe40b-e10f-43d3-886b-b5a885c05bbc",
+        "date_posted": 1694039861,
+        "company_url": "",
+        "is_visible": true
     }
 ]

@@ -61,6 +61,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Samsara** | Software Engineering Intern | San Francisco, CA | <a href="https://app.ripplematch.com/v2/public/job/f66c09ea?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 06 |
 | **Linkedin** | Systems and Infrastructure Engineer Internship - Graduate level | Sunnyvale, CA | <a href="https://www.linkedin.com/jobs/view/3705752503/?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 06 |
 | **Hubspot** | HubSpot Software Engineer Internship & Co-op Program (USA) | Cambridge, MA | <a href="https://boards.greenhouse.io/embed/job_app?token=5269266&gh_src=240b46771&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 06 |
 | **Principal Financial Group** | Software Engineer Intern 🛂 | Des Moines, IA</br>Charlotte, NC</br>Remote | <a href="https://careers.principal.com/us/jobs/40528?lang=en-us&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 06 |
