@@ -4796,7 +4796,7 @@
         "company_name": "Alert Innovation",
         "id": "32572ef0-3812-4b80-b64e-c237eaf6fd2c",
         "title": "Software Engineer Co Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2023"
         ],
@@ -13165,7 +13165,7 @@
         "company_name": "Nextdoor",
         "id": "f3edd835-346d-4812-8dff-cc58b4324ecc",
         "title": "Software Engineer Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -14833,7 +14833,7 @@
         "company_name": "T. Rowe Price",
         "id": "190a630c-1e8e-416f-86e6-838161a770b4",
         "title": "2024 Quantitative Investing Internship Program",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -14890,7 +14890,7 @@
         "company_name": "T. Rowe Price",
         "id": "8f866a33-aa28-4cdf-90cd-42182ccd44e6",
         "title": "2024 Global Trading Internship Program",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
