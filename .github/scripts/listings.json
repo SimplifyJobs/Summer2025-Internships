@@ -15363,5 +15363,26 @@
         "date_posted": 1693975002,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1694015340,
+        "url": "https://careers.principal.com/us/jobs/40528?lang=en-us",
+        "company_name": "Principal Financial Group",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "Des Moines, IA",
+            "Charlotte, NC",
+            "Remote"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "mygcho",
+        "id": "a43081bd-d3a8-47f9-83dc-49af5339f9a1",
+        "date_posted": 1694015340,
+        "company_url": "",
+        "is_visible": true
     }
 ]

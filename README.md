@@ -61,6 +61,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Principal Financial Group** | Software Engineer Intern 🛂 | Des Moines, IA</br>Charlotte, NC</br>Remote | <a href="https://careers.principal.com/us/jobs/40528?lang=en-us&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 06 |
 | **Veritas Technologies** | Summer 2024- Software Engineer Intern- Graduate Degree | US - Remote Heathrow, FL - All locations | <a href="https://veritas.wd1.myworkdayjobs.com/careers/job/US---Remote/Summer-2024--Software-Engineer-Intern--Graduate-Degree_62098?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 06 |
 | **Calix** | Software Engineering Intern | Remote - North America | <a href="https://calix.wd1.myworkdayjobs.com/en-US/External/job/Software-Engineering-Intern_R-9291?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 06 |
 | **nordstorm** | Software Engineer - Corporate Internship | Seattle | <a href="https://nordstrom.wd5.myworkdayjobs.com/en-US/nordstrom_careers/details/Software-Engineer---Corporate-Internship_R-582605/apply?q=intern&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 06 |
