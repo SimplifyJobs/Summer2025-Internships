@@ -12816,7 +12816,7 @@
         "company_name": "Oshkosh",
         "id": "cd19d7a7-9167-4f7a-8d2b-9cfe914abf0c",
         "title": "Engineer Intern - Software - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -14757,7 +14757,7 @@
         "company_name": "Live Nation Entertainment",
         "id": "aef6ef15-a299-4d6e-aa78-610ea1361290",
         "title": "Field IT Support Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -15004,7 +15004,7 @@
         "company_name": "MongoDB",
         "id": "77c1f25b-0600-4487-a6f2-5e80da4a0015",
         "title": "2024 \u2013 Software Engineering Intern - Product",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -15402,5 +15402,256 @@
         "date_posted": 1694015709,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "CACI",
+        "id": "e135fa5f-911a-4cab-8470-e6332ca0d824",
+        "title": "Software Developer Intern - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1694013319,
+        "date_posted": 1694013319,
+        "url": "https://caci.wd1.myworkdayjobs.com/External/job/US-TX-Austin/Software-Developer-Intern---Summer-2024_285919-1",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/CACI",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Asana",
+        "id": "587a7c0b-dca2-44f3-9c15-5c025f164284",
+        "title": "NYC Summer Software Engineering Internship",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1694013335,
+        "date_posted": 1694013335,
+        "url": "https://www.asana.com/jobs/apply/5175421?gh_jid=5175421",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Asana",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Asana",
+        "id": "36f4b007-9280-4f5e-9a12-e50b28158c58",
+        "title": "SF Summer Software Engineering Internship",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1694013336,
+        "date_posted": 1694013336,
+        "url": "https://www.asana.com/jobs/apply/5175392?gh_jid=5175392",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Asana",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Walmart",
+        "id": "070546c8-638a-491e-addc-6dd3704b17d7",
+        "title": "2024 Summer Walmart Intern: Availability Operations",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1694013328,
+        "date_posted": 1694013328,
+        "url": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/XMLNAME-2024-Summer-Walmart-Intern--Availability-Operations_R-1623854",
+        "locations": [
+            "Bentonville, AR"
+        ],
+        "company_url": "https://simplify.jobs/c/Walmart",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Viam",
+        "id": "59aa4bfc-a2a7-4ad1-a58b-f5e3090c2905",
+        "title": "Software Engineering Intern - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1694013197,
+        "date_posted": 1694013197,
+        "url": "https://boards.greenhouse.io/viamrobotics/jobs/4939021004",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Viam",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "HubSpot",
+        "id": "e923e3ae-b9d2-48d5-b718-8439c79b1b74",
+        "title": "Hubspot Software Engineer Internship & Placement Program - Ireland",
+        "active": true,
+        "terms": [
+            "Winter 2025",
+            "Spring 2025"
+        ],
+        "date_updated": 1694013015,
+        "date_posted": 1694013015,
+        "url": "https://www.hubspot.com/careers/jobs/5335583?gh_jid=5335583",
+        "locations": [
+            "Remote"
+        ],
+        "company_url": "https://simplify.jobs/c/HubSpot",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "HubSpot",
+        "id": "89a6c281-fe8d-4a7a-aa9f-ca5d33bea309",
+        "title": "Hubspot Software Engineer Internship & Co-op Program - Canada",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1694013021,
+        "date_posted": 1694013021,
+        "url": "https://www.hubspot.com/careers/jobs/5272403?gh_jid=5272403",
+        "locations": [
+            "Remote"
+        ],
+        "company_url": "https://simplify.jobs/c/HubSpot",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "HubSpot",
+        "id": "5c0cc5d4-b6b5-4a8e-8124-9c26546a397c",
+        "title": "Hubspot Software Engineer Internship & Co-op Program - USA",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1694013018,
+        "date_posted": 1694013018,
+        "url": "https://www.hubspot.com/careers/jobs/5335568?gh_jid=5335568",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/HubSpot",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "HubSpot",
+        "id": "48581c6d-075a-46ac-87d0-ddcc0732f3bd",
+        "title": "Hubspot Software Engineer Internship & Placement Program - UK",
+        "active": true,
+        "terms": [
+            "Winter 2025",
+            "Spring 2025"
+        ],
+        "date_updated": 1694013012,
+        "date_posted": 1694013012,
+        "url": "https://www.hubspot.com/careers/jobs/5335588?gh_jid=5335588",
+        "locations": [
+            "Remote"
+        ],
+        "company_url": "https://simplify.jobs/c/HubSpot",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "HubSpot",
+        "id": "45c936e4-8960-4c46-9139-6d27f2ce12e2",
+        "title": "Hubspot Software Engineer Internship & Co-op Program - USA",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1694013018,
+        "date_posted": 1694013018,
+        "url": "https://www.hubspot.com/careers/jobs/5269266?gh_jid=5269266",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/HubSpot",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "HubSpot",
+        "id": "24c8f945-43ad-4467-ab37-c686fa8451e4",
+        "title": "Hubspot Software Engineer Internship & Placement Program - Germany",
+        "active": true,
+        "terms": [
+            "Winter 2025",
+            "Spring 2025"
+        ],
+        "date_updated": 1694013016,
+        "date_posted": 1694013016,
+        "url": "https://www.hubspot.com/careers/jobs/5335580?gh_jid=5335580",
+        "locations": [
+            "Remote"
+        ],
+        "company_url": "https://simplify.jobs/c/HubSpot",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "HubSpot",
+        "id": "21e91fc6-9a40-4753-8362-4fff12a302c3",
+        "title": "Hubspot Software Engineer Internship & Placement Program - UK",
+        "active": true,
+        "terms": [
+            "Winter 2025",
+            "Spring 2025"
+        ],
+        "date_updated": 1694013014,
+        "date_posted": 1694013014,
+        "url": "https://www.hubspot.com/careers/jobs/5272398?gh_jid=5272398",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/HubSpot",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Dun & Bradstreet",
+        "id": "ba806a34-bbfb-455d-8197-c952d326a2a2",
+        "title": "2024 Summer Internship Program - Technology",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1694012811,
+        "date_posted": 1694012811,
+        "url": "https://jobs.lever.co/dnb/8c4a0bb0-7d05-4010-980f-20698d9a1c87/apply",
+        "locations": [
+            "Jacksonville, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Dun-and-Bradstreet",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
