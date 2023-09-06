@@ -139,7 +139,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | **NVIDIA** | Full-Stack Software Engineering Intern - AI Infrastructure - Winter 2024 | Santa Clara, CA | Winter 2024 | 🔒 | Aug 01 |
 | **Bank of Montreal (BMO)** | Data Scientist – Fraud Analytics Intern – Internship - Fall 2023 - 4 Months - Part-Time - Evergreen - Open | Jacksonville, FL | Fall 2023 | 🔒 | Aug 01 |
 | **Allegiant Air** | Intern – Reliability - Fall 2023 | Las Vegas, NV | Fall 2023 | 🔒 | Aug 01 |
-| **[Alert Innovation](https://simplify.jobs/c/Alert-Innovation)** | Software Engineer Co Op | Andover, MA | Fall 2023 | <a href="https://boards.greenhouse.io/alertinnovation/jobs/4222910005?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/32572ef0-3812-4b80-b64e-c237eaf6fd2c?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Aug 01 |
+| **Alert Innovation** | Software Engineer Co Op | Andover, MA | Fall 2023 | 🔒 | Aug 01 |
 | **Vestmark** | Intern – Software Engineer | Wakefield, MA | Fall 2023 | 🔒 | Jul 31 |
 | **Bank of Montreal (BMO)** | Software Developer – Co-op/Internship | Toronto, ON, Canada | Fall 2023 | 🔒 | Jul 28 |
 | **Mathworks** | Engineering Development Group Internship | Natick, MA | Fall 2023 | <a href="https://www.mathworks.com/company/jobs/opportunities/25610-multiple-openings-engineering-development-group-internship?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 26 |
