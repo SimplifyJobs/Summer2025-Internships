@@ -61,6 +61,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Calix** | Software Engineering Intern | Remote - North America | <a href="https://calix.wd1.myworkdayjobs.com/en-US/External/job/Software-Engineering-Intern_R-9291?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 06 |
 | **nordstorm** | Software Engineer - Corporate Internship | Seattle | <a href="https://nordstrom.wd5.myworkdayjobs.com/en-US/nordstrom_careers/details/Software-Engineer---Corporate-Internship_R-582605/apply?q=intern&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 06 |
 | **SIEMENS** | Grid Software Internship: Software Developer | Minnetonka, MN. | <a href="https://talent.siemens.com/privateapply?folderId=384920&source=Handshake&tags=handshake&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 06 |
 | **FetchNotifs** | Software Engineering Intern (Summer 2024) 🛂 | Remote | <a href="https://fetchnotifs.com/careers?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 05 |

@@ -15325,5 +15325,24 @@
         "date_posted": 1693972703,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1693974973,
+        "url": "https://calix.wd1.myworkdayjobs.com/en-US/External/job/Software-Engineering-Intern_R-9291",
+        "company_name": "Calix",
+        "title": "Software Engineering Intern",
+        "locations": [
+            "Remote - North America"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "mcHan18",
+        "id": "d6484364-3fdd-4763-b58e-3b94be03f88e",
+        "date_posted": 1693974973,
+        "company_url": "",
+        "is_visible": true
     }
 ]
