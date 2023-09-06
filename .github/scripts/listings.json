@@ -15344,5 +15344,24 @@
         "date_posted": 1693974973,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1693975002,
+        "url": "https://veritas.wd1.myworkdayjobs.com/careers/job/US---Remote/Summer-2024--Software-Engineer-Intern--Graduate-Degree_62098",
+        "company_name": "Veritas Technologies",
+        "title": "Summer 2024- Software Engineer Intern- Graduate Degree",
+        "locations": [
+            "US - Remote Heathrow, FL - All locations"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "mcHan18",
+        "id": "d70ed70e-a713-4b55-8e01-3cf88f67ab50",
+        "date_posted": 1693975002,
+        "company_url": "",
+        "is_visible": true
     }
 ]
