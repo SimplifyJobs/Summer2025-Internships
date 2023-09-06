@@ -15006,18 +15006,16 @@
         "title": "2024 \u2013 Software Engineering Intern - Product",
         "active": true,
         "terms": [
-            "Summer 2023"
+            "Summer 2024"
         ],
-        "date_updated": 1693955932,
+        "date_updated": 1694018221,
         "date_posted": 1693955932,
         "url": "https://www.mongodb.com/careers/job/?gh_jid=4842404",
         "locations": [
-            "SF",
-            "Austin, TX",
-            "NYC"
+            "SF Austin, TX NYC"
         ],
         "company_url": "https://simplify.jobs/c/MongoDB",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
