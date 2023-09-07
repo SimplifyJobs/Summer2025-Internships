@@ -667,7 +667,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | **JBS USA** | Information Technology Intern | Greeley, CO | 🔒 | Jun |
 | **Forvis** | Information Technology Risk Intern  🛂 | Multiple Locations | 🔒 | Jun |
 | **JBS USA** | Information technology intern | Greeley, CO | 🔒 | Jun |
-| **Align Technology** | Summer 2024 Internship (Expression of Interest) | Multiple Locations | <a href="https://jobs.aligntech.com/jobs/36257?iis=Job+Board&iisn=LinkedIn&lang=en-us&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun |
+| **Align Technology** | Summer 2024 Internship (Expression of Interest) | Multiple Locations | 🔒 | Jun |
 | **Crestron** | Internship Program | Plano, TX</br>Rockleigh, NJ | 🔒 | Jun |
 | **Cherry Bekaert** | Digital Platform & Analytics Intern | Multiple Locations | <a href="https://recruiting.ultipro.com/CHE1006CBH/JobBoard/fee83a4e-4604-4753-bd3a-98e8811baf6f/OpportunityDetail?opportunityId=0ced27e9-9198-4f3b-a2ba-4d18d75b0935&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun |
 | **Cherry Bekaert	** | Cybersecurity Intern	 | Multiple Locations | 🔒 | Jun |
