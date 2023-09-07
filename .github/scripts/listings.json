@@ -15963,5 +15963,24 @@
         "company_url": "https://simplify.jobs/c/IXL-Learning",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1694102441,
+        "url": "https://mycareer.verizon.com/jobs/r-1014349/ai-ml-engineering-summer-2024-internship/",
+        "company_name": "Verizon",
+        "title": "AI/ML Engineering Summer 2024 Internship",
+        "locations": [
+            "Basking Ridge, New Jersey 600 Hidden Ridge, Irving, TX (TX0326) Boston, Massachusetts"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "j0hnxie",
+        "id": "60c59d16-f7a7-4230-be45-8e12b53b11c4",
+        "date_posted": 1694102441,
+        "company_url": "",
+        "is_visible": true
     }
 ]
