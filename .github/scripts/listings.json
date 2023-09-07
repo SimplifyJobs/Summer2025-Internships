@@ -11366,7 +11366,7 @@
         "company_name": "TS Imagine",
         "id": "55eff49f-1a8c-4c68-98f2-18fbc8fa32e2",
         "title": "Data Management Intern\t",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -11385,7 +11385,7 @@
         "company_name": "TS Imagine",
         "id": "2ff239d4-67a0-4fcf-a2e8-92cb7d27efa5",
         "title": "Financial Technology Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -14833,7 +14833,7 @@
         "company_name": "T. Rowe Price",
         "id": "190a630c-1e8e-416f-86e6-838161a770b4",
         "title": "2024 Quantitative Investing Internship Program",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2023"
         ],
@@ -14890,7 +14890,7 @@
         "company_name": "T. Rowe Price",
         "id": "8f866a33-aa28-4cdf-90cd-42182ccd44e6",
         "title": "2024 Global Trading Internship Program",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2023"
         ],
@@ -16020,5 +16020,62 @@
         "date_posted": 1694104579,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "The Boeing Company",
+        "id": "eba24b53-21a2-4111-9d69-3877602f29c2",
+        "title": "Software Development Intern",
+        "active": true,
+        "terms": [
+            "Winter 2024"
+        ],
+        "date_updated": 1694100467,
+        "date_posted": 1694100467,
+        "url": "https://boeing.wd1.myworkdayjobs.com/external_careers/job/CAN---Richmond-Canada/Software-Development-Intern_00000392629-1",
+        "locations": [
+            "Richmond, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "WhatNot",
+        "id": "4068ac5b-b6db-42ce-b6c4-82e03172fbc2",
+        "title": "Software Engineering Intern - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1694099544,
+        "date_posted": 1694099544,
+        "url": "https://boards.greenhouse.io/whatnot/jobs/4957334004",
+        "locations": [
+            "Remote"
+        ],
+        "company_url": "https://simplify.jobs/c/WhatNot",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "PayPal",
+        "id": "da923e9c-8a2c-45b7-b766-f6ab115d0028",
+        "title": "Data Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1694099158,
+        "date_posted": 1694099158,
+        "url": "https://wd1.myworkdaysite.com/recruiting/paypal/jobs/job/London-County-London-England-United-Kingdom/Data-Analyst-Intern_R0107088",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/PayPal",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
