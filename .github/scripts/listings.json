@@ -15835,20 +15835,20 @@
         "source": "Simplify",
         "company_name": "Epic Games",
         "id": "f0a82654-ed6d-43f7-b6f1-5d756c5c7de2",
-        "title": "Audio Research Intern",
+        "title": "Audio Research Intern\t",
         "active": true,
         "terms": [
             "Summer 2024"
         ],
-        "date_updated": 1694041466,
+        "date_updated": 1694093674,
         "date_posted": 1694041466,
         "url": "https://boards.greenhouse.io/epicgames/jobs/4957205004",
         "locations": [
             "Morrisville, NC"
         ],
         "company_url": "https://simplify.jobs/c/Epic-Games",
-        "is_visible": true,
-        "sponsorship": "Other"
+        "is_visible": false,
+        "sponsorship": "Offers Sponsorship"
     },
     {
         "source": "Simplify",
