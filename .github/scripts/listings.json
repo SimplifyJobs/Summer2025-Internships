@@ -11365,12 +11365,12 @@
         "source": "Simplify",
         "company_name": "TS Imagine",
         "id": "55eff49f-1a8c-4c68-98f2-18fbc8fa32e2",
-        "title": "Data Management Intern",
-        "active": true,
+        "title": "Data Management Intern\t",
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
-        "date_updated": 1693252837,
+        "date_updated": 1694091190,
         "date_posted": 1693005899,
         "url": "https://tsimagine.com/about/careers/job/?gh_jid=5267898",
         "locations": [
