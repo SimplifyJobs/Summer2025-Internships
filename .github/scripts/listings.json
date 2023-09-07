@@ -16001,5 +16001,24 @@
         "date_posted": 1694102466,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1694104579,
+        "url": "https://mycareer.verizon.com/jobs/r-1014366/network-performance-summer-2024-internship/",
+        "company_name": "Verizon",
+        "title": "Network Performance Summer 2024 Internship",
+        "locations": [
+            "Basking Ridge, New Jersey Bedminster, New Jersey Temple Terrace, Florida Lake Mary, Florida Walnut Creek, California Twinsburg, Ohio Ashburn, Virginia Irving, Texas Cary, North Carolina Irvine, California New York, New York Rolling Meadows, Illinois Alpharetta, Georgia Boston, Massachusetts Branchburg, New Jersey"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "j0hnxie",
+        "id": "fcc0bd31-f868-47f5-bad3-8e4b9747575e",
+        "date_posted": 1694104579,
+        "company_url": "",
+        "is_visible": true
     }
 ]
