@@ -14943,7 +14943,7 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1693956575,
+        "date_updated": 1694046288,
         "url": "https://fetchnotifs.com/careers",
         "company_name": "FetchNotifs",
         "title": "Software Engineering Intern (Summer 2024)",
@@ -14953,8 +14953,8 @@
         "terms": [
             "Summer 2024"
         ],
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "sananov",
         "id": "6519f30f-81fe-4937-becd-254d8df54202",
         "date_posted": 1693956575,
