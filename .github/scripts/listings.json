@@ -7366,7 +7366,7 @@
         "company_name": "PayPal",
         "id": "de7f25d2-af21-4fc7-be7f-633e662b4300",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2024",
             "Fall 2024"
@@ -11499,7 +11499,7 @@
         "company_name": "Ursa Major",
         "id": "65ea08f3-f992-4183-bb4b-0c71b996e58b",
         "title": "2024 Summer Avionics Software Engineer Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -11814,7 +11814,7 @@
         "company_name": "Third Pole",
         "id": "6a19ab17-ff58-4def-a84d-5515a5df2113",
         "title": "Embedded Software Engineering Intern - Fall 2023",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2023"
         ],
@@ -15080,7 +15080,7 @@
         "company_name": "Leidos",
         "id": "f569a3dd-d3b2-454f-9b12-e5fe7d2e2715",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -15118,7 +15118,7 @@
         "company_name": "Intel",
         "id": "30e5e5af-175f-48ac-b675-2571cc0b1e51",
         "title": "FPGA Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -15640,7 +15640,7 @@
         "company_name": "Dun & Bradstreet",
         "id": "ba806a34-bbfb-455d-8197-c952d326a2a2",
         "title": "2024 Summer Internship Program - Technology",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -15691,5 +15691,220 @@
         "date_posted": 1694039861,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "SunPower Corporation",
+        "id": "6d82aa1d-54cb-4625-8785-05580ae7dd31",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1694042968,
+        "date_posted": 1694042968,
+        "url": "https://jobs.lever.co/sunpower/e4ebc15d-8a8b-4495-bb16-0089d2491356/apply",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/SunPower-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Accenture Federal Services",
+        "id": "b17ae975-780a-43a8-b8d9-9777e55aff1f",
+        "title": "Summer Analyst",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1694042743,
+        "date_posted": 1694042743,
+        "url": "https://boards.greenhouse.io/accenturefederalservices/jobs/4272422006",
+        "locations": [
+            "Arlington, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/AccentureFederalServices",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Chan Zuckerberg Initiative",
+        "id": "fb8e1226-f5a7-48a1-8c58-94e2445171df",
+        "title": "Data Science Intern - Science",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1694041843,
+        "date_posted": 1694041843,
+        "url": "https://boards.greenhouse.io/chanzuckerberginitiative/jobs/5339527",
+        "locations": [
+            "San Carlos, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Chan-Zuckerberg-Initiative",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Chan Zuckerberg Initiative",
+        "id": "de8b0266-1b67-4f1d-9227-886236c2db11",
+        "title": "Software Engineer \u2013 Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1694041843,
+        "date_posted": 1694041843,
+        "url": "https://boards.greenhouse.io/chanzuckerberginitiative/jobs/5350681",
+        "locations": [
+            "San Carlos, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Chan-Zuckerberg-Initiative",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Hewlett Packard (HP)",
+        "id": "61d389b0-e40a-4468-80a3-75506c4bd420",
+        "title": "Personal Systems Software Engineer Internship",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1694041884,
+        "date_posted": 1694041884,
+        "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Spring-Texas-United-States-of-America/Personal-Systems-Software-Engineer-Internship_3122886-1",
+        "locations": [
+            "Austin, TX",
+            "Spring, TX",
+            "Santa Cruz, CA",
+            "Westminster, CO",
+            "Fort Collins, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Chan Zuckerberg Initiative",
+        "id": "5734a82b-26c5-4dc3-b2c1-258f1490d5c8",
+        "title": "Software Engineer \u2013 Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1694041846,
+        "date_posted": 1694041846,
+        "url": "https://boards.greenhouse.io/chanzuckerberginitiative/jobs/5350592",
+        "locations": [
+            "San Carlos, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Chan-Zuckerberg-Initiative",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Humane",
+        "id": "27758759-a0ba-4474-9209-211178c8b796",
+        "title": "Firmware Engineering Intern",
+        "active": true,
+        "terms": [
+            "Spring 2024",
+            "Summer 2024",
+            "Fall 2024"
+        ],
+        "date_updated": 1694041657,
+        "date_posted": 1694041657,
+        "url": "https://boards.greenhouse.io/humane/jobs/4968822004",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Humane",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Epic Games",
+        "id": "f0a82654-ed6d-43f7-b6f1-5d756c5c7de2",
+        "title": "Audio Research Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1694041466,
+        "date_posted": 1694041466,
+        "url": "https://boards.greenhouse.io/epicgames/jobs/4957205004",
+        "locations": [
+            "Morrisville, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Epic-Games",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Epic Games",
+        "id": "e0d830b5-1792-409d-90f7-40b343973a80",
+        "title": "Data Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1694041473,
+        "date_posted": 1694041473,
+        "url": "https://boards.greenhouse.io/epicgames/jobs/4957105004",
+        "locations": [
+            "Morrisville, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Epic-Games",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Epic Games",
+        "id": "42baddb5-572a-4113-af0b-d03dc7fe936e",
+        "title": "Tools Programmer Intern - Virtual Production",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1694041471,
+        "date_posted": 1694041471,
+        "url": "https://boards.greenhouse.io/epicgames/jobs/4957131004",
+        "locations": [
+            "Morrisville, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Epic-Games",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Oshkosh",
+        "id": "2a0a015d-f21a-48ee-92fc-07541f0a12f9",
+        "title": "Data Science Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1694041532,
+        "date_posted": 1694041532,
+        "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Hagerstown-Maryland-United-States/Data-Science-Intern_R21845",
+        "locations": [
+            "Hagerstown, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Oshkosh",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
