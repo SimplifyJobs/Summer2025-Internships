@@ -15925,5 +15925,43 @@
         "date_posted": 1694044883,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Applied Materials",
+        "id": "0fe3080f-5e6b-41ba-9ae4-2ff129313e72",
+        "title": "Mechanical \u2013 & Process Engineering Internships - Electrical - Bachelor's Level - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1694070779,
+        "date_posted": 1694070779,
+        "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Mechanical--Electrical----Process-Engineering-Internships--Bachelor-s-Level----Summer-2024_R2315572-1",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/AMAT",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "IXL Learning",
+        "id": "00f9fd1a-2575-46ff-9a07-2f58430878c5",
+        "title": "Software Engineer \u2013 Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1694070487,
+        "date_posted": 1694070487,
+        "url": "https://www.ixl.com/company/jobs?gh_jid=6878169002",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/IXL-Learning",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
