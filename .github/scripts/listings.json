@@ -11385,11 +11385,11 @@
         "company_name": "TS Imagine",
         "id": "2ff239d4-67a0-4fcf-a2e8-92cb7d27efa5",
         "title": "Financial Technology Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
-        "date_updated": 1693252864,
+        "date_updated": 1694091174,
         "date_posted": 1693005899,
         "url": "https://tsimagine.com/about/careers/job/?gh_jid=4192659",
         "locations": [
