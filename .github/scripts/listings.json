@@ -16366,5 +16366,24 @@
         "date_posted": 1694144516,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1694148244,
+        "url": "https://mycareer.verizon.com/jobs/r-1014359/network-automation-summer-2024-internship/",
+        "company_name": "Verizon",
+        "title": "Network Automation Summer 2024 Internship",
+        "locations": [
+            "asking Ridge, New Jersey Irving, Texas Ashburn, Virginia ... ( [All 4 locations] ) US: Basking Ridge, New Jersey Irving, Texas Ashburn, Virginia Cary, North Carolina"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "j0hnxie",
+        "id": "bd40760a-f3bc-44ca-a50e-cc934ea626b7",
+        "date_posted": 1694148244,
+        "company_url": "",
+        "is_visible": true
     }
 ]
