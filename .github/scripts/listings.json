@@ -15155,20 +15155,20 @@
         "source": "Simplify",
         "company_name": "The Hub Project",
         "id": "280bc49b-fe60-41fa-b45b-6152fa41c702",
-        "title": "Internship - Polling &amp; Analytics",
+        "title": "Internship - Polling & Analytics\t",
         "active": true,
         "terms": [
             "Fall 2023"
         ],
-        "date_updated": 1693955404,
+        "date_updated": 1694147004,
         "date_posted": 1693955404,
         "url": "https://jobs.lever.co/thehubproject/50f30f23-e978-42fd-9169-ff21cd71b5a0/apply",
         "locations": [
             "Washington, DC"
         ],
         "company_url": "https://simplify.jobs/c/The-Hub-Project",
-        "is_visible": true,
-        "sponsorship": "Other"
+        "is_visible": false,
+        "sponsorship": "Offers Sponsorship"
     },
     {
         "source": "Simplify",
