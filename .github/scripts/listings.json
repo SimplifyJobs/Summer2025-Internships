@@ -8437,7 +8437,7 @@
         "company_name": "Chime",
         "id": "eb94e179-18e1-464a-a8e0-dbc13b7d0301",
         "title": "Data Analytics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2023"
         ],
@@ -15215,7 +15215,7 @@
         "company_name": "Plaid",
         "id": "e7e0daf4-e82d-4155-a565-d50761681dbb",
         "title": "Software Engineer \u2013 Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
