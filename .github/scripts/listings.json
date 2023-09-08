@@ -10510,7 +10510,7 @@
         "company_name": "Rivian",
         "id": "f78950a0-501f-4562-a5cd-88055fa1f1ae",
         "title": "Software Engineering \u2013 Summer 2024 Internships",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -12836,7 +12836,7 @@
         "company_name": "Bristol-Myers Squibb",
         "id": "66bfcf1a-1e38-4565-be08-946578646844",
         "title": "Co-Op \u2013 Neuroscience - Spring 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024"
         ],
@@ -16385,5 +16385,24 @@
         "date_posted": 1694148244,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Prime Medicine",
+        "id": "51fc58d4-250c-41ae-8a23-d21799b79510",
+        "title": "Spring 2024 Co-op: Research Systems Informatics",
+        "active": true,
+        "terms": [
+            "Spring 2024"
+        ],
+        "date_updated": 1694128354,
+        "date_posted": 1694128354,
+        "url": "https://boards.greenhouse.io/primemedicine/jobs/4970042004",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Prime-Medicine",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
