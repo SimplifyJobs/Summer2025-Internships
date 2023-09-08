@@ -16347,5 +16347,24 @@
         "company_url": "https://simplify.jobs/c/Oshkosh",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1694144516,
+        "url": "https://jobs.erieinsurance.com/job/Erie-Software-Engineer-Intern-PA-16530/1072693300/",
+        "company_name": "Erie Insurance Group",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "Erie, PA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "jeffzheng13",
+        "id": "d5000e64-d2ab-40e4-b27c-2e3a4b72acbd",
+        "date_posted": 1694144516,
+        "company_url": "",
+        "is_visible": true
     }
 ]
