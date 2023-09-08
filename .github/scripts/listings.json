@@ -12836,7 +12836,7 @@
         "company_name": "Bristol-Myers Squibb",
         "id": "66bfcf1a-1e38-4565-be08-946578646844",
         "title": "Co-Op \u2013 Neuroscience - Spring 2024",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2024"
         ],
@@ -14179,7 +14179,7 @@
         "company_name": "Stryker",
         "id": "f55926e6-a4c6-45f5-97a0-7acabd50f80b",
         "title": "Commercial Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -14198,7 +14198,7 @@
         "company_name": "Stryker",
         "id": "3b9206b7-3bb1-4250-a815-4bcc507812bd",
         "title": "Data Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -15215,7 +15215,7 @@
         "company_name": "Plaid",
         "id": "e7e0daf4-e82d-4155-a565-d50761681dbb",
         "title": "Software Engineer \u2013 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -16026,7 +16026,7 @@
         "company_name": "The Boeing Company",
         "id": "eba24b53-21a2-4111-9d69-3877602f29c2",
         "title": "Software Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2024"
         ],
@@ -16075,6 +16075,276 @@
             "London, UK"
         ],
         "company_url": "https://simplify.jobs/c/PayPal",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Prime Medicine",
+        "id": "3088e462-6441-4806-8645-487a743e9c96",
+        "title": "Spring 2024 Co-op: Computational Sciences",
+        "active": true,
+        "terms": [
+            "Spring 2024"
+        ],
+        "date_updated": 1694129256,
+        "date_posted": 1694129256,
+        "url": "https://boards.greenhouse.io/primemedicine/jobs/4970359004",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Prime-Medicine",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Point72",
+        "id": "7b8cfe09-fb30-4d8a-8764-bb697642202e",
+        "title": "2024 Point72 Academy Investment Analyst Winternship",
+        "active": true,
+        "terms": [
+            "Winter 2024"
+        ],
+        "date_updated": 1694129161,
+        "date_posted": 1694129161,
+        "url": "https://boards.greenhouse.io/point72/jobs/6915947002",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Point72",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Zello",
+        "id": "0c77230c-f2f8-4c83-b95a-88c36a14bbc5",
+        "title": "Data Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1694129177,
+        "date_posted": 1694129177,
+        "url": "https://jobs.ashbyhq.com/Zello/84006244-1cdd-4626-92ef-6abf7ac3d807/application",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Zello",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Eight Sleep",
+        "id": "88ad9b27-7e03-48f3-b193-5a933468d34b",
+        "title": "Data Engineering Co-Op - Research & Development",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1694128411,
+        "date_posted": 1694128411,
+        "url": "https://jobs.ashbyhq.com/eightsleep/70a2ba22-04be-45b0-823a-8fc348035e0f/application",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Eight-Sleep",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Gilead Sciences",
+        "id": "ccc82cbe-6466-473b-9182-3191e60872ce",
+        "title": "Intern-HPC Software Engineer",
+        "active": true,
+        "terms": [
+            "Spring 2023",
+            "Summer 2023"
+        ],
+        "date_updated": 1694128269,
+        "date_posted": 1694128269,
+        "url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern--HPC-Software-Engineer_R0037619",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Gilead-Sciences",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Gilead Sciences",
+        "id": "c7f60902-af34-4aa5-9652-8a126db97c6b",
+        "title": "Intern \u2013 Associate Data Visualization Programmer",
+        "active": true,
+        "terms": [
+            "Spring 2023",
+            "Summer 2023"
+        ],
+        "date_updated": 1694128266,
+        "date_posted": 1694128266,
+        "url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---Associate-Data-Visualization-Programmer_R0037774",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Gilead-Sciences",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Hewlett Packard (HP)",
+        "id": "93eced5c-5946-4227-8ce8-b00e1f8bee21",
+        "title": "Finance Data Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1694128262,
+        "date_posted": 1694128262,
+        "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Spring-Texas-United-States-of-America/Finance-Data-Analyst-Intern_3123209",
+        "locations": [
+            "Spring, TX",
+            "Vancouver, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Workiva",
+        "id": "4c846b79-598f-4334-b8d2-0cb0f8a655b9",
+        "title": "2024 Summer \u2013 Business Intelligence Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1694128257,
+        "date_posted": 1694128257,
+        "url": "https://workiva.wd1.myworkdayjobs.com/careers/job/USA---Remote/XMLNAME-2024-Summer---Business-Intelligence-Engineer-Intern_R7363",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Workiva",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Gilead Sciences",
+        "id": "3acd150e-5106-4525-94c0-e65479ea163f",
+        "title": "Intern \u2013 Biostatistics - Oncology",
+        "active": true,
+        "terms": [
+            "Spring 2023",
+            "Summer 2023"
+        ],
+        "date_updated": 1694128273,
+        "date_posted": 1694128273,
+        "url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---Biostatistics--Oncology_R0037846",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Gilead-Sciences",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "DataCamp",
+        "id": "46546c29-7736-4677-bd73-0cbab7ff6610",
+        "title": "Content Development Intern - ML & Data Engineering",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1694128076,
+        "date_posted": 1694128076,
+        "url": "https://boards.greenhouse.io/datacamp/jobs/5354814",
+        "locations": [
+            "Remote"
+        ],
+        "company_url": "https://simplify.jobs/c/DataCamp",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "DataCamp",
+        "id": "9e739491-6bf1-4c88-9f5b-6ef70ce7a7f3",
+        "title": "Content Development Intern - ML & Data Engineering",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1694128073,
+        "date_posted": 1694128073,
+        "url": "https://boards.greenhouse.io/datacamp/jobs/5354817",
+        "locations": [
+            "Remote"
+        ],
+        "company_url": "https://simplify.jobs/c/DataCamp",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Nextdoor",
+        "id": "e96aaef7-62ae-4658-855b-73cd71f02181",
+        "title": "Generative AI Intern - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1694127925,
+        "date_posted": 1694127925,
+        "url": "https://about.nextdoor.com/careers-list/?gh_jid=5354524",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Nextdoor",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Oshkosh",
+        "id": "c489b013-d264-4c57-ad4a-62c1bc2e2a18",
+        "title": "DT Data Scientist Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1694127935,
+        "date_posted": 1694127935,
+        "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Hagerstown-Maryland-United-States/DT-Data-Scientist-Intern_R21950",
+        "locations": [
+            "Hagerstown, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Oshkosh",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Oshkosh",
+        "id": "220d752f-4711-4a7f-b0b2-91131d777d99",
+        "title": "DT Data Scientist Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1694127933,
+        "date_posted": 1694127933,
+        "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Hagerstown-Maryland-United-States/DT-Data-Scientist-Intern_R21900",
+        "locations": [
+            "Hagerstown, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Oshkosh",
         "is_visible": true,
         "sponsorship": "Other"
     }
