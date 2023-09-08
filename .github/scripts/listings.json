@@ -16404,5 +16404,24 @@
         "company_url": "https://simplify.jobs/c/Prime-Medicine",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1694180934,
+        "url": "https://careers.united.com/us/en/job/UAIUADUSWHQ00022373EXTERNALENUSTALEO/Intern-Machine-Learning-Summer-2024",
+        "company_name": "United Airlines",
+        "title": "ML Software Intern",
+        "locations": [
+            "Chicago, Illinois"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "San68bot",
+        "id": "dee48dd5-e8e0-467f-86a8-e0d7a9855b21",
+        "date_posted": 1694180934,
+        "company_url": "",
+        "is_visible": true
     }
 ]
