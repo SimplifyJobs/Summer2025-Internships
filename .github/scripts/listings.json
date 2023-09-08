@@ -16499,5 +16499,25 @@
         "company_url": "https://simplify.jobs/c/Logitech",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1694203301,
+        "url": "https://ats.rippling.com/rippling/jobs/eed09f08-a8b2-4d7c-8f8f-16402f3f4379",
+        "company_name": "Rippling",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "New York, NY",
+            "San Francisco, CA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "mghanem8",
+        "id": "693271fe-9c52-488c-9d8b-fad473bcca0b",
+        "date_posted": 1694203301,
+        "company_url": "",
+        "is_visible": true
     }
 ]
