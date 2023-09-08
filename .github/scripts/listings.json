@@ -14618,10 +14618,10 @@
         "is_visible": true
     },
     {
-        "date_updated": 1693706589,
+        "date_updated": 1694186333,
         "url": "https://broadridge.wd5.myworkdayjobs.com/Careers/job/New-York-NY/Broadridge-Technology-Internship---Summer-2024_JR1058524",
         "company_name": "Broadridge",
-        "title": "Technology Internship",
+        "title": "Technology Internship \ud83d\udec2\t",
         "locations": [
             "New York, NY",
             "Edgewood, NY",
@@ -14630,8 +14630,8 @@
         "terms": [
             "Summer 2024"
         ],
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "ngitman",
         "id": "f13e21d0-fd6f-4d9d-bf52-2818993f6b2a",
         "date_posted": 1693706589,
