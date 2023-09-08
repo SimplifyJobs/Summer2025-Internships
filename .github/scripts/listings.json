@@ -16237,21 +16237,21 @@
         "source": "Simplify",
         "company_name": "Gilead Sciences",
         "id": "3acd150e-5106-4525-94c0-e65479ea163f",
-        "title": "Intern \u2013 Biostatistics - Oncology",
+        "title": "Intern \u2013 Biostatistics - Oncology\t",
         "active": true,
         "terms": [
-            "Spring 2023",
-            "Summer 2023"
+            "Spring 2024",
+            "Summer 2024"
         ],
-        "date_updated": 1694128273,
+        "date_updated": 1694147191,
         "date_posted": 1694128273,
         "url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---Biostatistics--Oncology_R0037846",
         "locations": [
             "San Mateo, CA"
         ],
         "company_url": "https://simplify.jobs/c/Gilead-Sciences",
-        "is_visible": true,
-        "sponsorship": "Other"
+        "is_visible": false,
+        "sponsorship": "Offers Sponsorship"
     },
     {
         "source": "Simplify",
