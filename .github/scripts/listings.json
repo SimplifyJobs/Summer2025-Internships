@@ -16519,5 +16519,24 @@
         "date_posted": 1694203301,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1694205543,
+        "url": "https://careers.fedex.com/intern/jobs/RC659828?lang=en-us&previousLocale=en-US",
+        "company_name": "FedEx",
+        "title": "Customer Solutions - Business Intelligence & Analytics Intern",
+        "locations": [
+            "Memphis, TN"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "Mario750614",
+        "id": "c8e9c9a3-6aa3-45da-a05e-1a2aaf516f7a",
+        "date_posted": 1694205543,
+        "company_url": "",
+        "is_visible": true
     }
 ]
