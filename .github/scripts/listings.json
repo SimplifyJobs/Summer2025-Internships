@@ -14639,10 +14639,10 @@
         "is_visible": true
     },
     {
-        "date_updated": 1693962003,
+        "date_updated": 1694186313,
         "url": "https://careers.zebra.com/careers/job/343614986125",
         "company_name": "Zebra Technologies Corporation",
-        "title": "Software Engineer Internship",
+        "title": "Software Engineer Internship\t",
         "locations": [
             "New York, NY Edgewood, NY Newark, NJ"
         ],
@@ -14650,7 +14650,7 @@
             "Summer 2024"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "ngitman",
         "id": "1bf47550-bf0f-4c01-ae85-ffa3f63b7772",
         "date_posted": 1693706622,
