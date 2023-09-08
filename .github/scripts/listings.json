@@ -16295,19 +16295,19 @@
         "source": "Simplify",
         "company_name": "Nextdoor",
         "id": "e96aaef7-62ae-4658-855b-73cd71f02181",
-        "title": "Generative AI Intern - Summer 2024",
-        "active": true,
+        "title": "Generative AI Intern - Summer 2024\t",
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
-        "date_updated": 1694127925,
+        "date_updated": 1694147407,
         "date_posted": 1694127925,
         "url": "https://about.nextdoor.com/careers-list/?gh_jid=5354524",
         "locations": [
             "SF"
         ],
         "company_url": "https://simplify.jobs/c/Nextdoor",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
