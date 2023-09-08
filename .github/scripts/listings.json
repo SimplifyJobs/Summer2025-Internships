@@ -7366,7 +7366,7 @@
         "company_name": "PayPal",
         "id": "de7f25d2-af21-4fc7-be7f-633e662b4300",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024",
             "Fall 2024"
@@ -16423,5 +16423,81 @@
         "date_posted": 1694180934,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "EquipmentShare",
+        "id": "c3290e02-c1be-40eb-9e37-9eabb290005f",
+        "title": "Intern: Software Engineer",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1694186480,
+        "date_posted": 1694186480,
+        "url": "https://www.equipmentshare.com/careers/openings?gh_jid=5349853",
+        "locations": [
+            "Columbia, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Equipment-Share",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Strapi",
+        "id": "c9498937-70fb-40d5-9477-050d934ad6d6",
+        "title": "Technical Writer \u2013 Internship",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1694186157,
+        "date_posted": 1694186157,
+        "url": "https://jobs.lever.co/strapi/2bd857de-3195-4118-a63c-bb6089154c55/apply",
+        "locations": [
+            "Remote"
+        ],
+        "company_url": "https://simplify.jobs/c/Strapi",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Wolverine Trading",
+        "id": "b7f1b69a-8bfc-4a24-9bd7-93938d6fbd5b",
+        "title": "Software Engineer Intern - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1694185886,
+        "date_posted": 1694185886,
+        "url": "https://jobs.lever.co/wolve/30de7311-5504-4092-afbb-061e61bb7318/apply",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/wolverine-trading",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Logitech",
+        "id": "5fe35656-452b-4c0b-8b22-1835458e4d37",
+        "title": "Intern in Software Data Science Team",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1694185581,
+        "date_posted": 1694185581,
+        "url": "https://jobs.jobvite.com/logitech/job/ooCVmfw1?nl=1&nl=1&fr=false",
+        "locations": [
+            "Lausanne, Switzerland"
+        ],
+        "company_url": "https://simplify.jobs/c/Logitech",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
