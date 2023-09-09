@@ -16883,5 +16883,25 @@
         "company_url": "https://simplify.jobs/c/Enova",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1694226593,
+        "url": "https://careers.humana.com/job/19065118/humana-2024-it-summer-internship-remote/",
+        "company_name": "Humana",
+        "title": "2024 IT Summer Internship",
+        "locations": [
+            "Louisville, KY",
+            "Remote"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "henryxu0",
+        "id": "dbbd15cb-d13a-4230-9592-b65ef9a36c06",
+        "date_posted": 1694226593,
+        "company_url": "",
+        "is_visible": true
     }
 ]
