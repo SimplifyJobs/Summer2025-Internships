@@ -101,13 +101,22 @@ def main():
             util.fail("This internship is already in our list. See CONTRIBUTING.md for how to edit a listing")
         for key, value in data.items():
             listing_to_update[key] = value
+
+        closed_text = "" if listing_to_update["active"] else "(Closed)"
+        sponsorship_text = "" if listing_to_update["sponsorship"] == "Other" else ("(" + listing_to_update["sponsorship"] + ")")
+        listing_text = (listing_to_update["title"] + " at " + listing_to_update["company_name"] + " " + closed_text + " " + sponsorship_text).strip()
         
-        util.setOutput("commit_message", "updated listing: " + listing_to_update["title"] + " at " + listing_to_update["company_name"])
+        util.setOutput("commit_message", "updated listing: " + listing_text)
     else:
         if edit_internship:
             util.fail("We could not find this internship in our list. Please double check you inserted the right url")
         listings.append(data)
-        util.setOutput("commit_message", "added listing: " + data["title"] + " at " + data["company_name"])
+
+        closed_text = "" if data["active"] else "(Closed)"
+        sponsorship_text = "" if data["sponsorship"] == "Other" else ("(" + data["sponsorship"] + ")")
+        listing_text = (data["title"] + " at " + data["company_name"] + " " + closed_text + " " + sponsorship_text).strip()
+
+        util.setOutput("commit_message", "added listing: " + listing_text)
 
     with open(".github/scripts/listings.json", "w") as f:
         f.write(json.dumps(listings, indent=4))
