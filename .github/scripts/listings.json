@@ -13700,19 +13700,18 @@
     },
     {
         "source": "Simplify",
-        "company_name": "SeatGeek",
+        "company_name": "Seatgeek",
         "id": "b909403e-d4cc-40f4-8928-0364b519310a",
         "title": "Software Engineer \u2013 Internship",
         "active": false,
         "terms": [
-            "Spring 2025",
-            "Summer 2025"
+            "Summer 2024"
         ],
-        "date_updated": 1693552006,
+        "date_updated": 1694223305,
         "date_posted": 1693552006,
         "url": "https://seatgeek.com/jobs/5327968?gh_jid=5327968",
         "locations": [
-            "Remote in USA"
+            "Remote"
         ],
         "company_url": "https://simplify.jobs/c/SeatGeek",
         "is_visible": true,
