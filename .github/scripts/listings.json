@@ -16903,5 +16903,44 @@
         "date_posted": 1694226593,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Plexus",
+        "id": "18bd6f56-e481-46da-af77-6a2d88bc5465",
+        "title": "Intern \u2013 Software Engineer-Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1694272370,
+        "date_posted": 1694272370,
+        "url": "https://plexus.wd5.myworkdayjobs.com/en-US/Plexus_Careers/job/Raleigh-NC/Intern---Software-Engineer--Summer-2024_R027167",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Plexus",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Gilead Sciences",
+        "id": "b21afb15-1fb9-4dc4-8550-bc353903577c",
+        "title": "Intern \u2013 Medical Writing - Disclosure & Transparency",
+        "active": true,
+        "terms": [
+            "Spring 2023",
+            "Summer 2023"
+        ],
+        "date_updated": 1694272295,
+        "date_posted": 1694272295,
+        "url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---Medical-Writing--Disclosure---Transparency_R0037732",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Gilead-Sciences",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
