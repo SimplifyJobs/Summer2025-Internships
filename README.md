@@ -691,7 +691,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | **Sandhills** | Software Development Intern | Lincoln, Nebraska | <a href="https://www.sandhills.com/careers-and-internships/details/careers/sandhills/1195/software-development-intern?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun |
 | **Maximus** | Software Engineer Intern | Mclean, VA | 🔒 | Jun |
 | **Infineon** | Software Automation Engineer Intern | Andover, MA</br>Warwick, RI | 🔒 | Jun |
-| **Entrust** | Software Engineer Intern | Sunrise, FL | <a href="https://entrust.wd1.myworkdayjobs.com/EntrustCareers/job/United-States---Sunrise-FL/Software-Engineering-Intern_R002369?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun |
+| **Entrust** | Software Engineer Intern | Sunrise, FL | 🔒 | Jun |
 | **Enphase Energy** | Embedded Firmware Engineer Intern | Austin, TX | 🔒 | Jun |
 | **Körber** | Software Developer Intern | Fargo, ND | 🔒 | Jun |
 | **SIG** | Software Engineering Internship Program (Express Interest) | Bala Cynwyd, PA | <a href="https://careers.sig.com/job/7102/Software-Engineering-Internship-Program-Summer-2024-Expression-of-Interest?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun |
