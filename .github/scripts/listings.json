@@ -13661,19 +13661,18 @@
     },
     {
         "source": "Simplify",
-        "company_name": "SeatGeek",
+        "company_name": "Seatgeek",
         "id": "32bf0fa1-eb45-4add-92ff-7fe954836e4a",
         "title": "Software Engineer \u2013 Internship",
         "active": false,
         "terms": [
-            "Spring 2025",
-            "Summer 2025"
+            "Summer 2024"
         ],
-        "date_updated": 1693553209,
+        "date_updated": 1694223344,
         "date_posted": 1693553209,
         "url": "https://seatgeek.com/jobs/125938?gh_jid=125938",
         "locations": [
-            "NYC"
+            "New York"
         ],
         "company_url": "https://simplify.jobs/c/SeatGeek",
         "is_visible": true,
