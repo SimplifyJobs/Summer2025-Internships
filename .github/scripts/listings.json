@@ -1384,7 +1384,7 @@
         "company_name": "Ambi Robotics",
         "id": "8fae5c92-7efe-49a1-b0ee-2443e39f47e5",
         "title": "ML Software Engineering Intern - MS",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2023"
         ],
@@ -11776,7 +11776,7 @@
         "company_name": "Chamberlain Group",
         "id": "a19c7494-530b-4891-b631-99642a9facc8",
         "title": "Intern \u2013 Data Visualization - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -13664,7 +13664,7 @@
         "company_name": "SeatGeek",
         "id": "32bf0fa1-eb45-4add-92ff-7fe954836e4a",
         "title": "Software Engineer \u2013 Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025",
             "Summer 2025"
@@ -13703,7 +13703,7 @@
         "company_name": "SeatGeek",
         "id": "b909403e-d4cc-40f4-8928-0364b519310a",
         "title": "Software Engineer \u2013 Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025",
             "Summer 2025"
@@ -16538,5 +16538,352 @@
         "date_posted": 1694205543,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Kinaxis",
+        "id": "ccd64d94-5cca-4a1f-abbb-05db19e0745c",
+        "title": "Co-Op/Intern Software Developer - Architecture & Innovation",
+        "active": true,
+        "terms": [
+            "Winter 2024"
+        ],
+        "date_updated": 1694215522,
+        "date_posted": 1694215522,
+        "url": "https://boards.greenhouse.io/kinaxis/jobs/6926238002",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Kinaxis",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Kinaxis",
+        "id": "b8497f72-2279-44e1-87b4-e7a2a419769e",
+        "title": "Co-Op/Intern Developer - Clients - Front End Technologies",
+        "active": true,
+        "terms": [
+            "Winter 2024"
+        ],
+        "date_updated": 1694215524,
+        "date_posted": 1694215524,
+        "url": "https://boards.greenhouse.io/kinaxis/jobs/6925278002",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Kinaxis",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Kinaxis",
+        "id": "101f0f64-2f4b-4623-a55a-be146358d89f",
+        "title": "Co-Op/Intern Software Test Developer - Algorithms",
+        "active": true,
+        "terms": [
+            "Winter 2024"
+        ],
+        "date_updated": 1694215521,
+        "date_posted": 1694215521,
+        "url": "https://boards.greenhouse.io/kinaxis/jobs/6925921002",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Kinaxis",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Atlassian",
+        "id": "6e36fb02-fde8-4cbf-95de-10e273cc5ea5",
+        "title": "Finance & Accounting Intern - 2024 Summer U.S",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1694214808,
+        "date_posted": 1694214808,
+        "url": "https://jobs.lever.co/atlassian/cfb254a3-e3d9-4666-b425-92b2744db34d/apply",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Atlassian",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Northwestern Mutual",
+        "id": "e01e7595-3268-4b6d-9215-93a0959fae2f",
+        "title": "Investment Data \u2013 Analytics & Research Internship",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1694214790,
+        "date_posted": 1694214790,
+        "url": "https://northwesternmutual.wd5.myworkdayjobs.com/corporate-careers/job/Milwaukee-WI-Corporate/Investment-Data--Analytics---Research-Internship_JR-39422-1",
+        "locations": [
+            "Milwaukee, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Northwestern-Mutual",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Spring Health",
+        "id": "01ce30c8-b5f3-4319-b280-6a8b561d0055",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Spring 2024",
+            "Summer 2024"
+        ],
+        "date_updated": 1694214767,
+        "date_posted": 1694214767,
+        "url": "https://boards.greenhouse.io/springhealth66/jobs/4315743005",
+        "locations": [
+            "Remote"
+        ],
+        "company_url": "https://simplify.jobs/c/Spring-Health",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Spring Health",
+        "id": "47d18ddf-37c7-40e8-95f9-e21693a45f0a",
+        "title": "Data Science Intern",
+        "active": true,
+        "terms": [
+            "Spring 2023"
+        ],
+        "date_updated": 1694214759,
+        "date_posted": 1694214759,
+        "url": "https://boards.greenhouse.io/springhealth66/jobs/4315721005",
+        "locations": [
+            "Remote"
+        ],
+        "company_url": "https://simplify.jobs/c/Spring-Health",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Wolverine Trading",
+        "id": "8a1e51a5-75a8-485c-b023-55f5b7727d7a",
+        "title": "Legal and Compliance Intern - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1694214647,
+        "date_posted": 1694214647,
+        "url": "https://jobs.lever.co/wolve/50397c44-c2df-4370-8d29-db6d48ca6e09/apply",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/wolverine-trading",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Okta",
+        "id": "2eef523e-78cb-460d-8db7-4f553d365c60",
+        "title": "Machine Learning Engineer Intern - Customer Identity Cloud - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1694214626,
+        "date_posted": 1694214626,
+        "url": "https://www.okta.com/company/careers/opportunity/5358229?gh_jid=5358229",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Okta",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Bankers Healthcare Group",
+        "id": "d47c93b6-7fd0-4add-8c3b-8a99af438896",
+        "title": "Software Development Engineer in Test Intern - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1694214485,
+        "date_posted": 1694214485,
+        "url": "https://jobs.lever.co/bhg-inc/a2fc79ba-9955-41a0-b640-62a3d2f3d674/apply",
+        "locations": [
+            "Fort Lauderdale, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Bankers-Healthcare-Group",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Rockwell Automation",
+        "id": "5a914356-cd7f-45a5-bf26-10c24b5fa793",
+        "title": "Intern \u2013 Hardware Engineer",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1694214463,
+        "date_posted": 1694214463,
+        "url": "https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Intern--Hardware-Engineer_R23-9074-1",
+        "locations": [
+            "Mayfield Heights, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Rockwell-Automation",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Rockwell Automation",
+        "id": "71791bdb-6569-41ba-8090-39309cf8d473",
+        "title": "Intern \u2013 Customer Response Team",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1694214461,
+        "date_posted": 1694214461,
+        "url": "https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Intern--Customer-Response-Team_R23-10525-1",
+        "locations": [
+            "Mayfield Heights, OH",
+            "Milwaukee, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Rockwell-Automation",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Rockwell Automation",
+        "id": "f510cd3a-39bf-4f8d-b027-baf6ca4359ba",
+        "title": "Intern \u2013 Power HW Development",
+        "active": true,
+        "terms": [
+            "Fall 2023"
+        ],
+        "date_updated": 1694214461,
+        "date_posted": 1694214461,
+        "url": "https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Mequon-Wisconsin-United-States/Intern--Power-HW-Development_R23-10443-2",
+        "locations": [
+            "Mequon, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Rockwell-Automation",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Rockwell Automation",
+        "id": "37b1553d-1e94-4834-b780-6c54fb965dc4",
+        "title": "Intern \u2013 Firmware Engineering",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1694214465,
+        "date_posted": 1694214465,
+        "url": "https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Milwaukee-Wisconsin-United-States/Intern--Firmware-Engineering_R23-8956-2",
+        "locations": [
+            "Milwaukee, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Rockwell-Automation",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Rockwell Automation",
+        "id": "5e5328e3-d738-4413-919e-7125bb1d1766",
+        "title": "Intern \u2013 Innovation Platform Software Engineer",
+        "active": true,
+        "terms": [
+            "Spring 2024",
+            "Summer 2024"
+        ],
+        "date_updated": 1694214464,
+        "date_posted": 1694214464,
+        "url": "https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Milwaukee-Wisconsin-United-States/Intern--Innovation-Platform-Software-Engineer_R23-10171-1",
+        "locations": [
+            "Mayfield Heights, OH",
+            "Remote in USA",
+            "Milwaukee, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Rockwell-Automation",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Enova",
+        "id": "9377b057-4b1e-4af9-a7e7-cfe16147779d",
+        "title": "Analytics Internship Summer 2024 - Hybrid",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1694214332,
+        "date_posted": 1694214332,
+        "url": "https://boards.greenhouse.io/enova/jobs/5346778",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Enova",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Epic Games",
+        "id": "7f5d2a5b-c96f-42ed-b89c-8a15fd757ec3",
+        "title": "Full Stack Web Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1694214273,
+        "date_posted": 1694214273,
+        "url": "https://boards.greenhouse.io/epicgames/jobs/4965730004",
+        "locations": [
+            "Morrisville, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Epic-Games",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Enova",
+        "id": "1dc67fac-4d1e-4d5b-a8b8-5a28037dec4b",
+        "title": "Software Engineer Internship Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1694214330,
+        "date_posted": 1694214330,
+        "url": "https://boards.greenhouse.io/enova/jobs/5353292",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Enova",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
