@@ -17001,5 +17001,24 @@
         "date_posted": 1694354151,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1694389080,
+        "url": "https://careers.leidos.com/jobs/13272911-devops-engineer-intern?ref=levels.fyi",
+        "company_name": "Leidos",
+        "title": "Devops Engineer Intern",
+        "locations": [
+            "Charlottesville, VA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "source": "disha-baldawa",
+        "id": "7d563f7f-7400-45ae-8d92-b614f406e866",
+        "date_posted": 1694389080,
+        "company_url": "",
+        "is_visible": true
     }
 ]
