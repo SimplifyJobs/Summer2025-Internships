@@ -16961,5 +16961,24 @@
         "company_url": "https://simplify.jobs/c/Plexus",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1694353949,
+        "url": "https://athenahealth.wd1.myworkdayjobs.com/External/job/Watertown-MA/XMLNAME-2024-Summer-Software-Engineering-Intern_R8891?source=Linkedin",
+        "company_name": "athenahealth",
+        "title": "2024 Summer Software Engineering Intern",
+        "locations": [
+            "Watertown, MA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "mcHan18",
+        "id": "b6f5eb74-8a61-4c1e-b15c-ef2be2ca90aa",
+        "date_posted": 1694353949,
+        "company_url": "",
+        "is_visible": true
     }
 ]
