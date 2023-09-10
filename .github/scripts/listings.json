@@ -16942,5 +16942,24 @@
         "company_url": "https://simplify.jobs/c/Gilead-Sciences",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Plexus",
+        "id": "3cee6b16-622c-4e87-9c51-1c2b11acc8a3",
+        "title": "Intern \u2013 Software Engineer - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1694301134,
+        "date_posted": 1694301134,
+        "url": "https://plexus.wd5.myworkdayjobs.com/en-US/Plexus_Careers/job/Neenah-WI/Intern---Software-Engineer---Summer-2024_R027169",
+        "locations": [
+            "Neenah, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Plexus",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
