@@ -16638,13 +16638,13 @@
         "source": "Simplify",
         "company_name": "Spring Health",
         "id": "01ce30c8-b5f3-4319-b280-6a8b561d0055",
-        "title": "Software Engineer Intern",
-        "active": true,
+        "title": "Software Engineer Internship",
+        "active": false,
         "terms": [
             "Spring 2024",
             "Summer 2024"
         ],
-        "date_updated": 1694214767,
+        "date_updated": 1694463195,
         "date_posted": 1694214767,
         "url": "https://boards.greenhouse.io/springhealth66/jobs/4315743005",
         "locations": [
