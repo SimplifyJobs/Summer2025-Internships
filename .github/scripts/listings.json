@@ -17270,5 +17270,24 @@
         "company_url": "https://simplify.jobs/c/Capital-One",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1694463126,
+        "url": "https://jobs.genpt.com/job/atlanta/technology-intern-summer-2024/505/54028629824",
+        "company_name": "Genuine Parts Company",
+        "title": "Technology Intern",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "keenebrogan",
+        "id": "f63b8477-d413-493d-ad04-9ee972139e76",
+        "date_posted": 1694463126,
+        "company_url": "",
+        "is_visible": true
     }
 ]
