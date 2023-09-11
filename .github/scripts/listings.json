@@ -17020,5 +17020,43 @@
         "date_posted": 1694389080,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "SoundHound AI",
+        "id": "690714e8-9860-4617-93ce-2f25090f83cc",
+        "title": "UPCOMING: Language Specialist Intern - Tamil",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1694387371,
+        "date_posted": 1694387371,
+        "url": "https://boards.greenhouse.io/soundhoundinc/jobs/6864324002",
+        "locations": [
+            "Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/SoundHound-AI",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "SoundHound AI",
+        "id": "381da1ee-307f-48f9-a2e7-b7640247f299",
+        "title": "UPCOMING: Language Specialist Intern - Bengali",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1694387371,
+        "date_posted": 1694387371,
+        "url": "https://boards.greenhouse.io/soundhoundinc/jobs/6864321002",
+        "locations": [
+            "Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/SoundHound-AI",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
