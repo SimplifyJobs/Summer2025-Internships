@@ -17058,5 +17058,62 @@
         "company_url": "https://simplify.jobs/c/SoundHound-AI",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Plexus",
+        "id": "48b2283e-6f68-4f0e-91f5-64d26be7158e",
+        "title": "Intern \u2013 Software Engineer - Spring 2024",
+        "active": true,
+        "terms": [
+            "Spring 2024"
+        ],
+        "date_updated": 1694417255,
+        "date_posted": 1694417255,
+        "url": "https://plexus.wd5.myworkdayjobs.com/en-US/Plexus_Careers/job/Raleigh-NC/Intern---Software-Engineer---Spring-2024_R027172",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Plexus",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Simply Business",
+        "id": "2cb229bc-d673-4f29-a435-8eb715b33836",
+        "title": "Engineering Summer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1694416430,
+        "date_posted": 1694416430,
+        "url": "https://jobs.lever.co/simplybusiness/18c56594-06cb-4a7a-b951-26e58a667999/apply",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/SimplyBusiness",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Sol de Janeiro",
+        "id": "319e4086-f732-4d59-9786-8abe3a67016e",
+        "title": "Global Product Marketing Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1694416224,
+        "date_posted": 1694416224,
+        "url": "https://boards.greenhouse.io/soldejaneiro/jobs/4022022007",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/SoldeJaneiro",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
