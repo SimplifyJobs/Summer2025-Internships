@@ -17115,5 +17115,24 @@
         "company_url": "https://simplify.jobs/c/SoldeJaneiro",
         "is_visible": false,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1694442899,
+        "url": "https://veritas.wd1.myworkdayjobs.com/en-US/careers/job/US---Remote/Summer-2024--Software-Engineering-Intern--Undergraduate_62097",
+        "company_name": "VERITAS",
+        "title": "Software Engineering Intern- Undergraduate",
+        "locations": [
+            "US - Remote Heathrow, FL - All locations"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "VitaliPri",
+        "id": "2b4a6660-b50e-4097-8d83-ee7d21eb5466",
+        "date_posted": 1694442899,
+        "company_url": "",
+        "is_visible": true
     }
 ]
