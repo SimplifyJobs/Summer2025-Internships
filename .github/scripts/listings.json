@@ -18161,5 +18161,27 @@
         "company_url": "https://simplify.jobs/c/Oshkosh",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1694527589,
+        "url": "https://simplify.jobs/p/af3bc6af-5c85-4cd2-95cf-8421da78cde8/Software-Engineering-Intern",
+        "company_name": "WillowTree",
+        "title": "Software Engineering Intern",
+        "locations": [
+            "Cambridge, MA",
+            "Durham, NC",
+            "Columbus, OH",
+            "Charlottesville, VA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "samgilmore",
+        "id": "c21e7abc-b60f-4a03-bb5c-d4b94732c823",
+        "date_posted": 1694527589,
+        "company_url": "",
+        "is_visible": true
     }
 ]
