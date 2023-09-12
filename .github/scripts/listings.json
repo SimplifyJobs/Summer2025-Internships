@@ -18202,5 +18202,24 @@
         "date_posted": 1694527613,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1694527643,
+        "url": "https://www.myrocketcareer.com/job-detail-page/19076652/software-engineer-intern-summer-2024-detroit-mi/",
+        "company_name": "Rocket Mortgage",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "Detroit, MI"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "Michael-ha02",
+        "id": "84451e87-236d-4a53-ac12-23b1def38471",
+        "date_posted": 1694527643,
+        "company_url": "",
+        "is_visible": true
     }
 ]
