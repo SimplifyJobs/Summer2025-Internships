@@ -2938,7 +2938,7 @@
         "company_name": "Hewlett Packard (HP)",
         "id": "25a93696-1f6b-4ddd-9795-4f99bcee1277",
         "title": "Treasury Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -7548,7 +7548,7 @@
         "company_name": "Fetch",
         "id": "e89ef5d6-0389-4ccc-8a31-14f1c2457d3a",
         "title": "Android \u2013 Apprenticeship - Mobile Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2023"
         ],
@@ -10943,7 +10943,7 @@
         "company_name": "Qualtrics",
         "id": "cd275ddc-bfed-4bba-8b4b-cb0ec98ffaab",
         "title": "Software Engineering Intern - Summer 2024 - Provo",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -11059,7 +11059,7 @@
         "company_name": "Qualtrics",
         "id": "2e86c9a3-7dbc-4903-8957-d0b2bdbeb07c",
         "title": "Software Engineering Intern - Summer 2024 - Reston - Virginia",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -12087,7 +12087,7 @@
         "company_name": "Epic Games",
         "id": "63360e2d-ecfa-45e0-8d8f-78ed0c170b17",
         "title": "Gameplay Programmer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -13186,7 +13186,7 @@
         "company_name": "Tanium",
         "id": "ab08b863-a584-4d12-bfba-bd9fc0ce9405",
         "title": "Business Data & Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -15754,7 +15754,7 @@
         "company_name": "Chan Zuckerberg Initiative",
         "id": "de8b0266-1b67-4f1d-9227-886236c2db11",
         "title": "Software Engineer \u2013 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -15796,7 +15796,7 @@
         "company_name": "Chan Zuckerberg Initiative",
         "id": "5734a82b-26c5-4dc3-b2c1-258f1490d5c8",
         "title": "Software Engineer \u2013 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -16716,7 +16716,7 @@
         "company_name": "Bankers Healthcare Group",
         "id": "d47c93b6-7fd0-4add-8c3b-8a99af438896",
         "title": "Software Development Engineer in Test Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -17256,7 +17256,7 @@
         "company_name": "Capital One",
         "id": "d56af935-d991-4e6a-87a5-5dc697918a03",
         "title": "Technology Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -17289,5 +17289,427 @@
         "date_posted": 1694463126,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "ServiceNow",
+        "id": "d2901ef5-1ee9-4b20-a5de-9d1e25fe7530",
+        "title": "Utg \u2013 Software Engineer Internships - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1694475104,
+        "date_posted": 1694475104,
+        "url": "https://jobs.smartrecruiters.com/ServiceNow/743999929821263",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ServiceNow",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Plexus",
+        "id": "210fa9b8-9186-492e-a2ef-543f928a486d",
+        "title": "Intern \u2013 Software Engineer - Fall 2024",
+        "active": true,
+        "terms": [
+            "Fall 2024"
+        ],
+        "date_updated": 1694475056,
+        "date_posted": 1694475056,
+        "url": "https://plexus.wd5.myworkdayjobs.com/en-US/Plexus_Careers/job/Neenah-WI/Intern---Software-Engineer---Fall-2024_R027201",
+        "locations": [
+            "Neenah, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Plexus",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Kinaxis",
+        "id": "5f913a9b-3587-4aea-8548-20d0e1a2e59d",
+        "title": "Co-Op/Intern Test Developer - Product Verification",
+        "active": true,
+        "terms": [
+            "Winter 2024"
+        ],
+        "date_updated": 1694474598,
+        "date_posted": 1694474598,
+        "url": "https://boards.greenhouse.io/kinaxis/jobs/6928462002",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Kinaxis",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Kinaxis",
+        "id": "32a292b8-6bdf-4feb-bd61-315bfd8726e2",
+        "title": "Co-Op/Intern Cloud Developer - Platform Engineering",
+        "active": true,
+        "terms": [
+            "Winter 2024"
+        ],
+        "date_updated": 1694474617,
+        "date_posted": 1694474617,
+        "url": "https://boards.greenhouse.io/kinaxis/jobs/6927820002",
+        "locations": [
+            "Canada",
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Kinaxis",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Kinaxis",
+        "id": "0802a954-ac06-455e-86ce-076448d794b9",
+        "title": "Co-Op/Intern Developer - Devops",
+        "active": true,
+        "terms": [
+            "Winter 2024"
+        ],
+        "date_updated": 1694474601,
+        "date_posted": 1694474601,
+        "url": "https://boards.greenhouse.io/kinaxis/jobs/6928197002",
+        "locations": [
+            "Canada",
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Kinaxis",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "FullScript",
+        "id": "16a49d89-53c9-463a-9a40-64f64b987be8",
+        "title": "Co-op/Intern Ruby Developer - Winter 2024",
+        "active": true,
+        "terms": [
+            "Winter 2024"
+        ],
+        "date_updated": 1694474327,
+        "date_posted": 1694474327,
+        "url": "https://jobs.lever.co/fullscript/b7889be3-0bb7-4714-ab3b-c6004057ac36/apply",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/FullScript",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Rugged Robotics",
+        "id": "63e5940e-5192-4178-8bc2-ed62cf68db03",
+        "title": "Robotic Software Intern/Co-op - Spring 2024",
+        "active": true,
+        "terms": [
+            "Spring 2024"
+        ],
+        "date_updated": 1694474240,
+        "date_posted": 1694474240,
+        "url": "https://boards.greenhouse.io/ruggedrobotics/jobs/4310133005",
+        "locations": [
+            "Houston, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/RuggedRobotics",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Rugged Robotics",
+        "id": "461047bd-3521-43bb-888a-de27a845a135",
+        "title": "Robotic Software Intern/Co-op - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1694474231,
+        "date_posted": 1694474231,
+        "url": "https://boards.greenhouse.io/ruggedrobotics/jobs/4310134005",
+        "locations": [
+            "Houston, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/RuggedRobotics",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Pison",
+        "id": "be143a4a-374e-42f4-a482-4a61b4632c04",
+        "title": "Software Engineer Fall Intern",
+        "active": true,
+        "terms": [
+            "Fall 2023"
+        ],
+        "date_updated": 1694474170,
+        "date_posted": 1694474170,
+        "url": "https://jobs.lever.co/pison/7d5d0766-95d6-405a-90a7-76fdbc4f2263/apply",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/PisonTech",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Stryker",
+        "id": "5ac4fa2c-8c2e-465f-9484-551aa7956fec",
+        "title": "Materials Engineering Intern - Design Assurance",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1694474152,
+        "date_posted": 1694474152,
+        "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Mahwah-New-Jersey/Materials-Engineering-Intern--Design-Assurance_R504950",
+        "locations": [
+            "Mahwah, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/Stryker",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Concurrency",
+        "id": "a0cecbf7-299e-4c22-bda8-386446596a07",
+        "title": "Digital Operations Intern",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1694474102,
+        "date_posted": 1694474102,
+        "url": "https://jobs.lever.co/concurrency/8b28ce7f-9a6b-4945-9be1-13f155c5df28/apply",
+        "locations": [
+            "Brookfield, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Concurrency",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "T. Rowe Price",
+        "id": "5de72895-14c4-4e5d-80b9-6dcac9270b09",
+        "title": "2024 Global Trading Internship Program",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1694474098,
+        "date_posted": 1694474098,
+        "url": "https://troweprice.wd5.myworkdayjobs.com/en-US/TRowePrice/job/Baltimore-MD/XMLNAME-2024-Global-Trading-Internship-Program_67819",
+        "locations": [
+            "Baltimore, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/t-rowe-price",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "T. Rowe Price",
+        "id": "68aeb302-58fc-406a-afca-8feeb2e2fd32",
+        "title": "2024 Quantitative Investing Internship Program",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1694474096,
+        "date_posted": 1694474096,
+        "url": "https://troweprice.wd5.myworkdayjobs.com/en-US/TRowePrice/job/Baltimore-MD/XMLNAME-2024-Quantitative-Investing-Internship-Program_67820",
+        "locations": [
+            "Baltimore, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/t-rowe-price",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Stevens Capital Management LP",
+        "id": "49be9ce1-98f8-4c21-ba2c-6ecfd467eff0",
+        "title": "Developer Internship",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1694473989,
+        "date_posted": 1694473989,
+        "url": "https://boards.greenhouse.io/scm/jobs/721888",
+        "locations": [
+            "Villanova, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/SCM",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Spring Health",
+        "id": "de6b0924-bfd4-43df-bd1f-b7e23ed1aeef",
+        "title": "IT Intern",
+        "active": true,
+        "terms": [
+            "Spring 2024",
+            "Summer 2024"
+        ],
+        "date_updated": 1694473825,
+        "date_posted": 1694473825,
+        "url": "https://boards.greenhouse.io/springhealth66/jobs/4315764005",
+        "locations": [
+            "Remote"
+        ],
+        "company_url": "https://simplify.jobs/c/Spring-Health",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Pear VC",
+        "id": "14e11be4-38f7-40a7-8ab2-075b55f8b3fc",
+        "title": "Software Engineer Intern - Abstractive Health",
+        "active": true,
+        "terms": [
+            "Fall 2023",
+            "Winter 2024"
+        ],
+        "date_updated": 1694473697,
+        "date_posted": 1694473697,
+        "url": "https://jobs.ashbyhq.com/pear/2e402180-023c-4c4a-87bf-a14cfe96be26/application",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/PearVC",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "SingleStore",
+        "id": "5f587324-b55c-446f-a017-c870c910713a",
+        "title": "Software Engineer \u2013 Infrastructure Intern - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1694473644,
+        "date_posted": 1694473644,
+        "url": "https://boards.greenhouse.io/singlestore/jobs/5355045",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/SingleStore",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "SingleStore",
+        "id": "e0ca8a3e-3afa-494b-a0e7-d768b67958b5",
+        "title": "Software Engineer \u2013 DB Engine Intern - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1694473641,
+        "date_posted": 1694473641,
+        "url": "https://boards.greenhouse.io/singlestore/jobs/5355028",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/SingleStore",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "SingleStore",
+        "id": "c3e9cae3-46a2-40c7-bf19-0f16e3b62d69",
+        "title": "Software Engineer \u2013 DB Engine Intern - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1694473640,
+        "date_posted": 1694473640,
+        "url": "https://boards.greenhouse.io/singlestore/jobs/5355029",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/SingleStore",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "SingleStore",
+        "id": "f7769a27-f818-409f-8420-283856010923",
+        "title": "Software Engineer \u2013 Managed Service Intern - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1694473639,
+        "date_posted": 1694473639,
+        "url": "https://boards.greenhouse.io/singlestore/jobs/5355037",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/SingleStore",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "SingleStore",
+        "id": "ce07a662-d0e6-47ed-a1c2-f002dbd5e066",
+        "title": "Software Engineer \u2013 Managed Service Intern - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1694473640,
+        "date_posted": 1694473640,
+        "url": "https://boards.greenhouse.io/singlestore/jobs/5355036",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/SingleStore",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Klaviyo",
+        "id": "b045cf9c-7398-48dd-8579-fb929ce58d71",
+        "title": "Summer 2024 Data Science Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1694473548,
+        "date_posted": 1694473548,
+        "url": "https://careers.klaviyo.com/en/search-jobs/?gh_jid=5739561003",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Klaviyo",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
