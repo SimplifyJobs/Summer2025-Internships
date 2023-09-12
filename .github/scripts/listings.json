@@ -2262,7 +2262,7 @@
         "company_name": "Plexus",
         "id": "9b77fd7d-ad08-47b0-992f-8e628402fd56",
         "title": "Intern \u2013 Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2023"
         ],
@@ -11078,7 +11078,7 @@
         "company_name": "Qualtrics",
         "id": "1b5064d1-35ce-48ff-be8a-58bd543111ef",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -17709,6 +17709,25 @@
             "Cambridge, MA"
         ],
         "company_url": "https://simplify.jobs/c/Klaviyo",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "D2L",
+        "id": "b783432e-1a77-41eb-afe5-fb54fe95c5b9",
+        "title": "Software Developer \u2013 Winter 2024 Co-op - Toronto",
+        "active": true,
+        "terms": [
+            "Winter 2024"
+        ],
+        "date_updated": 1694474341,
+        "date_posted": 1694474341,
+        "url": "https://www.d2l.com/careers/jobs/?job_id=5361104&gh_jid=5361104",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/D2L",
         "is_visible": true,
         "sponsorship": "Other"
     }
