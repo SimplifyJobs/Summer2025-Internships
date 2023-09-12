@@ -61,6 +61,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **L’Oréal** | Information Technology Intership 🛂 | NYC | <a href="https://careers.loreal.com/en_US/jobs/JobDetail/2024-L-Or-al-USA-IT-Summer-Internship-Undergraduate-Information-Technology/161749?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 12 |
 | **Rocket Mortgage** | Software Engineer Intern | Detroit, MI | <a href="https://www.myrocketcareer.com/job-detail-page/19076652/software-engineer-intern-summer-2024-detroit-mi/?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 12 |
 | **Lockheed Martin** | Software Engineer 🇺🇸 | Manassas, Virginia | <a href="https://www.lockheedmartinjobs.com/job/manassas/software-engineer-intern/694/54027923856?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 12 |
 | **WillowTree** | Software Engineering Intern 🛂 | <details><summary>**4 locations**</summary>Cambridge, MA</br>Durham, NC</br>Columbus, OH</br>Charlottesville, VA</details> | <a href="https://simplify.jobs/p/af3bc6af-5c85-4cd2-95cf-8421da78cde8/Software-Engineering-Intern?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 12 |

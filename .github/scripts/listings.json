@@ -18221,5 +18221,24 @@
         "date_posted": 1694527643,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1694527668,
+        "url": "https://careers.loreal.com/en_US/jobs/JobDetail/2024-L-Or-al-USA-IT-Summer-Internship-Undergraduate-Information-Technology/161749",
+        "company_name": "L\u2019Or\u00e9al",
+        "title": "Information Technology Intership",
+        "locations": [
+            "NYC"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "VitaliPri",
+        "id": "2b5152f0-7332-4aeb-a096-a755a58dc06e",
+        "date_posted": 1694527668,
+        "company_url": "",
+        "is_visible": true
     }
 ]
