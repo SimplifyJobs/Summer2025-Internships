@@ -18373,5 +18373,24 @@
         "company_url": "https://simplify.jobs/c/Schonfeld",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1694559557,
+        "url": "https://jobs.citi.com/job/new-york/nam-icg-technology-summer-software-development-analyst-new-york-new-jersey-us-2024/287/53616363280",
+        "company_name": "Citi Bank",
+        "title": "Software Development Analyst",
+        "locations": [
+            "NYC"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "VitaliPri",
+        "id": "a77ce71a-02e5-40cc-b65a-38712abc311a",
+        "date_posted": 1694559557,
+        "company_url": "",
+        "is_visible": true
     }
 ]
