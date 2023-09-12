@@ -18183,5 +18183,24 @@
         "date_posted": 1694527589,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1694527613,
+        "url": "https://www.lockheedmartinjobs.com/job/manassas/software-engineer-intern/694/54027923856",
+        "company_name": "Lockheed Martin",
+        "title": "Software Engineer",
+        "locations": [
+            "Manassas, Virginia"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "source": "San68bot",
+        "id": "86a41632-f69a-46eb-ad9a-0af4cece9e92",
+        "date_posted": 1694527613,
+        "company_url": "",
+        "is_visible": true
     }
 ]
