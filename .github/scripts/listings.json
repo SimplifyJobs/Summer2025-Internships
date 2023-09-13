@@ -18475,16 +18475,15 @@
         "company_name": "Leidos",
         "id": "b3b118c3-8f3c-4286-8450-99f117f62130",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
-        "date_updated": 1694560520,
+        "date_updated": 1694627833,
         "date_posted": 1694560520,
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Shiloh-IL/Software-Engineering-Intern_R-00118768",
         "locations": [
-            "O'Fallon, IL",
-            "Odenton, MD"
+            "O'Fallon, IL Odenton, MD"
         ],
         "company_url": "https://simplify.jobs/c/Leidos",
         "is_visible": true,
