@@ -18895,5 +18895,25 @@
         "company_url": "https://simplify.jobs/c/MarketAxess",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1694645646,
+        "url": "https://app.ripplematch.com/v2/public/job/f2669bd9/details",
+        "company_name": "Juniper Networks",
+        "title": "Software Engineering Intern Summer 2024",
+        "locations": [
+            "Sunnyvale, CA",
+            "Westford, MA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "mtlogs",
+        "id": "cedaf4b4-c8d4-4837-aef4-88cb1cbbc86e",
+        "date_posted": 1694645646,
+        "company_url": "",
+        "is_visible": true
     }
 ]
