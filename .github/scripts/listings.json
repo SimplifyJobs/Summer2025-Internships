@@ -4779,7 +4779,7 @@
         "company_name": "Flow Traders",
         "id": "76fc51d4-9af1-45b4-bad3-5082cdaff654",
         "title": "Trading Intern Summer 2024",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -16735,7 +16735,7 @@
         "company_name": "Rockwell Automation",
         "id": "5a914356-cd7f-45a5-bf26-10c24b5fa793",
         "title": "Intern \u2013 Hardware Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -18360,7 +18360,7 @@
         "company_name": "Schonfeld",
         "id": "5ec061f2-6fce-44b1-9bd1-c1ca14162f98",
         "title": "2024 Quantitative Researcher Summer Intern - NYC",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -18475,7 +18475,7 @@
         "company_name": "Leidos",
         "id": "b3b118c3-8f3c-4286-8450-99f117f62130",
         "title": "Software Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -18700,6 +18700,199 @@
             "Washington, DC"
         ],
         "company_url": "https://simplify.jobs/c/Weber-Shandwick",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Wellmark",
+        "id": "486a4e92-0406-440b-8405-785566642acb",
+        "title": "Information Security Cloud Engineer Internship",
+        "active": true,
+        "terms": [
+            "Spring 2024"
+        ],
+        "date_updated": 1694618940,
+        "date_posted": 1694618940,
+        "url": "https://jobs.smartrecruiters.com/WellmarkInc/743999930248320",
+        "locations": [
+            "Des Moines, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/Wellmark",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Genesis Therapeutics",
+        "id": "2ae7ef5d-989b-45c5-bd0c-dacf383f1535",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1694618845,
+        "date_posted": 1694618845,
+        "url": "https://jobs.lever.co/genesistherapeutics/6caa03ec-897a-489c-a8f2-e29b0c9b0c32/apply",
+        "locations": [
+            "Burlingame, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Genesis-Thera",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Symphony",
+        "id": "6b3d2cf1-f0fd-43b5-a3ec-ec4e0a46b426",
+        "title": "Intern \u2013 Software Developer - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1694618836,
+        "date_posted": 1694618836,
+        "url": "https://symphony.com/company/apply?gh_jid=5362877",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Symphony-Comm",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "HRL Laboratories",
+        "id": "c5bfc04f-dcbd-4ac4-a514-8e86e8a27fe2",
+        "title": "Future Consideration \u2013 Internship",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1694618481,
+        "date_posted": 1694618481,
+        "url": "https://jobs.lever.co/dodmg/f5e042e6-688d-4ba3-8e0f-e89bcd342254/apply",
+        "locations": [
+            "Malibu, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/HRL-Laboratories",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Leidos",
+        "id": "865b1dcc-bbbf-4434-8f94-addf636774b8",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1694618231,
+        "date_posted": 1694618231,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/Software-Engineer-Intern_R-00118949",
+        "locations": [
+            "Arlington, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "MemryX",
+        "id": "f6db1665-f07b-4ff0-b3bb-3c0ad8e76ea2",
+        "title": "Software Engineer Intern - Applications/CE team",
+        "active": true,
+        "terms": [
+            "Winter 2024",
+            "Summer 2024"
+        ],
+        "date_updated": 1694612207,
+        "date_posted": 1694612207,
+        "url": "https://boards.greenhouse.io/memryx/jobs/4314756005",
+        "locations": [
+            "Ann Arbor, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/MemryX",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "MarketAxess",
+        "id": "8ea9668d-f05d-47f7-9d68-c6de832099c3",
+        "title": "Research Intern 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1694611305,
+        "date_posted": 1694611305,
+        "url": "https://boards.greenhouse.io/marketaxesscorporation/jobs/4268787006",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/MarketAxess",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Mercedes-Benz",
+        "id": "fd8f9c86-9460-4492-a4d3-0e74a9772ba9",
+        "title": "Software Engineering Intern Data",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1694611288,
+        "date_posted": 1694611288,
+        "url": "https://jobs.lever.co/MBRDNA/4d8a682e-c6ec-4523-9be4-21c0f73ac826/apply",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Mercedes-Benz",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Mercedes-Benz",
+        "id": "ea75acc8-c112-4e45-86a1-ced3aafceddb",
+        "title": "Machine Learning Intern - Fall/Spring",
+        "active": true,
+        "terms": [
+            "Fall 2023",
+            "Winter 2024",
+            "Spring 2024"
+        ],
+        "date_updated": 1694611283,
+        "date_posted": 1694611283,
+        "url": "https://jobs.lever.co/MBRDNA/15d6d316-7174-4c16-8326-2732e4ec8582/apply",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Mercedes-Benz",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "MarketAxess",
+        "id": "d43d7758-4d60-4a23-a97d-3ec8d41cfe5a",
+        "title": "Data Software Engineering Intern 2024",
+        "active": true,
+        "terms": [
+            "Spring 2023"
+        ],
+        "date_updated": 1694611252,
+        "date_posted": 1694611252,
+        "url": "https://boards.greenhouse.io/marketaxesscorporation/jobs/4268746006",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/MarketAxess",
         "is_visible": true,
         "sponsorship": "Other"
     }
