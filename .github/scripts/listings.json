@@ -7966,7 +7966,7 @@
         "company_name": "Rivian",
         "id": "034c15f3-5bb1-4408-af0e-b72b786954a8",
         "title": "UIUC Research Park Intern - Data Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2023"
         ],
@@ -16026,7 +16026,7 @@
         "company_name": "The Boeing Company",
         "id": "eba24b53-21a2-4111-9d69-3877602f29c2",
         "title": "Software Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2024"
         ],
@@ -18360,11 +18360,11 @@
         "company_name": "Schonfeld",
         "id": "5ec061f2-6fce-44b1-9bd1-c1ca14162f98",
         "title": "2024 Quantitative Researcher Summer Intern - NYC",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
-        "date_updated": 1694531510,
+        "date_updated": 1694616312,
         "date_posted": 1694531510,
         "url": "https://boards.greenhouse.io/schonfeld/jobs/5311469",
         "locations": [
