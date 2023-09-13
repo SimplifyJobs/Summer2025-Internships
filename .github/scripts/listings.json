@@ -15697,7 +15697,7 @@
         "company_name": "SunPower Corporation",
         "id": "6d82aa1d-54cb-4625-8785-05580ae7dd31",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -15796,7 +15796,7 @@
         "company_name": "Chan Zuckerberg Initiative",
         "id": "5734a82b-26c5-4dc3-b2c1-258f1490d5c8",
         "title": "Software Engineer \u2013 Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -16026,7 +16026,7 @@
         "company_name": "The Boeing Company",
         "id": "eba24b53-21a2-4111-9d69-3877602f29c2",
         "title": "Software Development Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2024"
         ],
@@ -16429,7 +16429,7 @@
         "company_name": "EquipmentShare",
         "id": "c3290e02-c1be-40eb-9e37-9eabb290005f",
         "title": "Intern: Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -16486,7 +16486,7 @@
         "company_name": "Logitech",
         "id": "5fe35656-452b-4c0b-8b22-1835458e4d37",
         "title": "Intern in Software Data Science Team",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -18392,5 +18392,316 @@
         "date_posted": 1694559557,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Kinaxis",
+        "id": "73af7191-302e-44e2-bee2-c0055567239f",
+        "title": "Co-Op/Intern Developer - Machine Learning",
+        "active": true,
+        "terms": [
+            "Winter 2024"
+        ],
+        "date_updated": 1694560970,
+        "date_posted": 1694560970,
+        "url": "https://boards.greenhouse.io/kinaxis/jobs/6930249002",
+        "locations": [
+            "Canada",
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Kinaxis",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Achronix Semiconductor",
+        "id": "2f588843-968e-4793-ad3d-cbfc90e9715e",
+        "title": "GUI Developer Internship",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1694560795,
+        "date_posted": 1694560795,
+        "url": "https://boards.greenhouse.io/achronixsemiconductor/jobs/4231607006",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Achronix",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "D2L",
+        "id": "36f0b181-5792-4b7e-8c69-625c61612a27",
+        "title": "Software Developer \u2013 Winter 2024 Co-op - Kitchener",
+        "active": true,
+        "terms": [
+            "Winter 2024"
+        ],
+        "date_updated": 1694560737,
+        "date_posted": 1694560737,
+        "url": "https://www.d2l.com/careers/jobs/?job_id=5361101&gh_jid=5361101",
+        "locations": [
+            "Kitchener, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/D2L",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Genesis Therapeutics",
+        "id": "74236fd1-563e-4647-acfe-c4a18c881e25",
+        "title": "ML Research Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1694560711,
+        "date_posted": 1694560711,
+        "url": "https://jobs.lever.co/genesistherapeutics/2c7e03e2-3789-4c0f-98d9-d1f835963897/apply",
+        "locations": [
+            "Burlingame, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Genesis-Thera",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Leidos",
+        "id": "b3b118c3-8f3c-4286-8450-99f117f62130",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1694560520,
+        "date_posted": 1694560520,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Shiloh-IL/Software-Engineering-Intern_R-00118768",
+        "locations": [
+            "O'Fallon, IL",
+            "Odenton, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Gilead Sciences",
+        "id": "4855de7d-e6ad-4560-8fe3-8d7adc35df50",
+        "title": "Intern \u2013 Global Clinical Data Standards",
+        "active": true,
+        "terms": [
+            "Spring 2023",
+            "Summer 2023"
+        ],
+        "date_updated": 1694560506,
+        "date_posted": 1694560506,
+        "url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---Global-Clinical-Data-Standards_R0037772",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Gilead-Sciences",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Gilead Sciences",
+        "id": "9e8ba8a0-862e-4460-b2ca-55499383b769",
+        "title": "Intern \u2013 Development Systems Shared Solutions",
+        "active": true,
+        "terms": [
+            "Spring 2023",
+            "Summer 2023"
+        ],
+        "date_updated": 1694560503,
+        "date_posted": 1694560503,
+        "url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---Development-Systems-Shared-Solutions_R0037781",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Gilead-Sciences",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Garda Capital Partners",
+        "id": "22af376d-6088-4acc-ad84-0257ded57916",
+        "title": "Trading Assistant Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1694560386,
+        "date_posted": 1694560386,
+        "url": "https://boards.greenhouse.io/gardacp/jobs/4308947004",
+        "locations": [
+            "Wayzata, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Garda-Capital-Partners",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "CACI",
+        "id": "9b8a3580-efca-4b42-be7a-48afc1a5fc83",
+        "title": "Software Engineering Intern - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1694560636,
+        "date_posted": 1694560636,
+        "url": "https://caci.wd1.myworkdayjobs.com/External/job/US-IL-Lisle/Software-Engineering-Intern---Summer-2024_286165-1",
+        "locations": [
+            "Downers Grove, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/CACI",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Walmart",
+        "id": "9314a202-25a9-4b46-b9c9-ab37502f283c",
+        "title": "2024 Summer Intern: Walmart Connect \u2013 Walmart Intern - Data Science",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1694560623,
+        "date_posted": 1694560623,
+        "url": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Hoboken-NJ/XMLNAME-2024-Summer-Intern--Walmart-Connect--Data-Science--Walmart-Intern_R-1650896-1",
+        "locations": [
+            "Bentonville, AR",
+            "San Bruno, CA",
+            "Union City, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/Walmart",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Sigma Computing",
+        "id": "5b36c05b-29a0-4fbc-9d3d-cdea9cec4108",
+        "title": "Software Engineering Intern \u2013 Recent Grad - Fall 2023",
+        "active": true,
+        "terms": [
+            "Fall 2023"
+        ],
+        "date_updated": 1694560595,
+        "date_posted": 1694560595,
+        "url": "https://boards.greenhouse.io/sigmacomputing/jobs/5742399003",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Sigma-Computing",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Gilead Sciences",
+        "id": "ca4ec9ac-14d1-4457-a1e7-5b9697b0e2b0",
+        "title": "Intern \u2013 Clinical Data Science - Development Systems",
+        "active": true,
+        "terms": [
+            "Spring 2023",
+            "Summer 2023"
+        ],
+        "date_updated": 1694560504,
+        "date_posted": 1694560504,
+        "url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---Clinical-Data-Science--Development-Systems_R0037853",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Gilead-Sciences",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Leidos",
+        "id": "7e34aa04-e0e8-446e-84d5-46c19dd96449",
+        "title": "Cybersecurity Engineer Summer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1694560512,
+        "date_posted": 1694560512,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Remote-US/Cybersecurity-Engineer-Summer-Intern_R-00118948",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Hewlett Packard (HP)",
+        "id": "75aeb815-9001-4251-a70f-a1af246de451",
+        "title": "Job Description HP Inc. Workforce Services & Solutions Technical Internship",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1694560501,
+        "date_posted": 1694560501,
+        "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Spring-Texas-United-States-of-America/Job-Description-HP-Inc-Workforce-Services---Solutions-Technical-Internship_3123306",
+        "locations": [
+            "Spring, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Noah Medical",
+        "id": "a8cf70a4-87b0-4803-835c-6034841f0752",
+        "title": "Navigation Intern",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1694560136,
+        "date_posted": 1694560136,
+        "url": "https://jobs.lever.co/noahmed/a348afb9-6943-4bca-a4a5-c057440df153/apply",
+        "locations": [
+            "San Carlos, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NoahMedical",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Weber Shandwick",
+        "id": "a332aba4-f263-40c3-a8d9-680c41db0a35",
+        "title": "Data Science Intern - Fall 2023",
+        "active": true,
+        "terms": [
+            "Fall 2023"
+        ],
+        "date_updated": 1694545927,
+        "date_posted": 1694474836,
+        "url": "https://www.webershandwick.com/work-at-weber/careers/?gh_jid=6921331002",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/Weber-Shandwick",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
