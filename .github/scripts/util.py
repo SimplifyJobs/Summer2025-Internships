@@ -20,17 +20,27 @@ def fail(why):
     exit(1)
 
 def getLocations(listing):
+    locations = "</br>".join(listing["locations"])
+    if len(listing["locations"]) <= 3:
+        return locations
+    num = str(len(listing["locations"])) + " locations"
+    return f'<details><summary>**{num}**</summary>{locations}</details>'
 
-    if len(listing["locations"]) == 1:
-        return listing["locations"][0]
-    if len(listing["locations"]) == 2:
-        return listing["locations"][0] + " <br/> " + listing["locations"][1]
-    return listing["locations"][0] + " and " + str(len(listing["locations"]) - 1) + " other locations"
+def getSponsorship(listing):
+    if listing["sponsorship"] == "Does Not Offer Sponsorship":
+        return " 🛂"
+    elif listing["sponsorship"] == "U.S. Citizenship is Required":
+        return " 🇺🇸"
+    return ""
 
 def getLink(listing):
     if not listing["active"]:
         return "🔒"
-    link = listing["url"] + "?utm_source=SimplifyGH&ref=Simplify"
+    link = listing["url"] 
+    if "?" not in link:
+        link += "?utm_source=Simplify&ref=Simplify"
+    else:
+        link += "&utm_source=Simplify&ref=Simplify"
     # return f'<a href="{link}" style="display: inline-block;"><img src="{SHORT_APPLY_BUTTON}" width="160" alt="Apply"></a>'
 
     if listing["source"] != "Simplify":
@@ -54,7 +64,7 @@ def create_md_table(listings, offSeason=False):
         company = f"[{company}]({company_url})" if len(
             company_url) > 0 and listing["active"] else company
         location = getLocations(listing)
-        position = listing["title"]
+        position = listing["title"] + getSponsorship(listing)
         terms = ", ".join(listing["terms"])
         link = getLink(listing)
         month = datetime.fromtimestamp(listing["date_posted"]).strftime('%b')
@@ -122,7 +132,7 @@ def sortListings(listings):
         date_updated = listing["date_updated"]
         return str(date_posted) + listing["company_name"].lower() + str(date_updated)
 
-    listings.sort(key=getKey, reverse=False)
+    listings.sort(key=getKey, reverse=True)
 
     for listing in listings:
         listing["company_url"] = linkForCompany[listing["company_name"]]
@@ -133,7 +143,8 @@ def sortListings(listings):
 def checkSchema(listings):
     props = ["source", "company_name",
              "id", "title", "active", "date_updated", "is_visible",
-             "date_posted", "url", "locations", "company_url", "terms"]
+             "date_posted", "url", "locations", "company_url", "terms",
+             "sponsorship"]
     for listing in listings:
         for prop in props:
             if prop not in listing:

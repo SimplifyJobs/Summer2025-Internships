@@ -26,12 +26,18 @@ jobs:
           GITHUB_EVENT_PATH: ${{ github.event_path }}
         run: python .github/scripts/contribution_approved.py $GITHUB_EVENT_PATH
 
+      - name: execute update_readmes.py
+        id: python_script_readme
+        run: python .github/scripts/update_readmes.py
+
       - name: commit files
         if: success()
         run: |
           git config --local user.email ${{ steps.python_script.outputs.commit_email }}
           git config --local user.name ${{ steps.python_script.outputs.commit_username }}
           git add .github/scripts/listings.json
+          git add README.md
+          git add README-Off-Season.md
           git diff-index --quiet HEAD || (git commit -a -m "${{ steps.python_script.outputs.commit_message }}" --allow-empty)
 
       - name: push changes
@@ -48,7 +54,7 @@ jobs:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Problem With Action
-        run: gh issue comment ${{ github.event.issue.number }} --body "There was an error with our github action. ${{ steps.python_script.outputs.error_message }}"
+        run: gh issue comment ${{ github.event.issue.number }} --body "There was an error with our github action. Error - ${{ steps.python_script.outputs.error_message }} ${{ steps.python_script_readme.outputs.error_message }}"
         if: failure()
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}

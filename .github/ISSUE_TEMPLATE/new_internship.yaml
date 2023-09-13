@@ -27,10 +27,7 @@ body:
     id: title
     attributes:
       label: Internship Title
-      placeholder: ex. ML Software Intern (No Sponsorship)
-      description: |
-        If this position requires citizenship or does not offer sponsorship, 
-        please include it in parentheses at the end.
+      placeholder: ex. ML Software Intern
     validations:
       required: true
   - type: input
@@ -58,6 +55,22 @@ body:
     validations:
       required: true
   - type: dropdown
+    id: sponsorship
+    attributes:
+      label: Does this internship offer sponsorship?
+      description: |
+        If the posting does not specify, or it does not fall into one of these
+        categories, select "Other" then specify in parentheses at the end of
+        the Internship Title what the sponsorship status is
+      multiple: false
+      options:
+        - Offers Sponsorship
+        - Does Not Offer Sponsorship
+        - U.S. Citizenship is Required
+        - Other
+    validations:
+      required: true
+  - type: dropdown
     id: active
     attributes:
       label: Is this internship currently accepting applications?
@@ -67,16 +80,6 @@ body:
         - "No"
     validations:
       required: true
-  - type: textarea
-    id: reason
-    attributes:
-      label: Extra Notes (Optional)
-      description: |
-        Optionally, you may provide extra context/insights to our team about the internship.
-        This will not be shown anywhere on the repo, but might ensure your contribution is accepted.
-      placeholder: This is an exciting new company in the vr space...
-    validations:
-      required: false
   - type: input
     id: email
     attributes:
@@ -87,5 +90,15 @@ body:
         email will be used. If left blank, your contribution will still be made, but it will be made 
         by the bot actions@github.com.
       placeholder: ex. firstLast@gmail.com
+    validations:
+      required: false
+  - type: textarea
+    id: reason
+    attributes:
+      label: Extra Notes (Optional)
+      description: |
+        Optionally, you may provide extra context/insights to our team about the internship.
+        This will not be shown anywhere on the repo, but might ensure your contribution is accepted.
+      placeholder: This is an exciting new company in the vr space...
     validations:
       required: false
