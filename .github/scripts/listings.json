@@ -7156,10 +7156,10 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1693865896,
+        "date_updated": 1694698537,
         "url": "https://careers.mitre.org/us/en/job/MITRUSR111593EXTERNALENUS/Computer-Science-and-Software-Engineering-Intern-positions",
         "company_name": "Mitre",
-        "title": "Software Engineering Intern \ud83c\uddfa\ud83c\uddf8\t",
+        "title": "Software Engineering Intern",
         "locations": [
             "Multiple"
         ],
@@ -7167,12 +7167,12 @@
             "Summer 2024"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "hemanthy1",
         "id": "93b41758-4229-400f-8d49-bede81e7f64a",
         "date_posted": 1691597383,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1692125883,
