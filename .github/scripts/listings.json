@@ -11425,7 +11425,7 @@
         "company_name": "Leidos",
         "id": "f1c887a8-ec02-4232-99f3-3f6a3fb0e23f",
         "title": "Software Engineer Intern\ud83c\uddfa\ud83c\uddf8",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -15023,7 +15023,7 @@
         "company_name": "Modernizing Medicine",
         "id": "c47dd742-c2fc-457c-bd47-6214870fd4b5",
         "title": "Software Product Development Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -18632,7 +18632,7 @@
         "company_name": "Leidos",
         "id": "7e34aa04-e0e8-446e-84d5-46c19dd96449",
         "title": "Cybersecurity Engineer Summer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2023"
         ],
@@ -19163,6 +19163,82 @@
             "Chicago, IL"
         ],
         "company_url": "https://simplify.jobs/c/Valkyrie-Trading",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Schonfeld",
+        "id": "9e51e998-348c-42a6-b8e3-e6b35b92e7f2",
+        "title": "2024 Risk Analyst Summer Internship",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1694704271,
+        "date_posted": 1694704271,
+        "url": "https://boards.greenhouse.io/schonfeld/jobs/5356915",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Schonfeld",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "NinjaTrader",
+        "id": "cc4031c9-436d-4bb2-90cc-19e3eaabc224",
+        "title": "Site Reliability Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1694704178,
+        "date_posted": 1694704178,
+        "url": "https://ninjatrader.com/job-openings/?gh_jid=4278457006",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/NinjaTrader",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "NinjaTrader",
+        "id": "9fed13d5-211c-4f66-b88c-859eb75c5161",
+        "title": "Trading Operations Intern",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1694704178,
+        "date_posted": 1694704178,
+        "url": "https://ninjatrader.com/job-openings/?gh_jid=4278489006",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/NinjaTrader",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "NinjaTrader",
+        "id": "21035827-7a1d-46be-9ed7-fabb670ad8d4",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1694704180,
+        "date_posted": 1694704180,
+        "url": "https://ninjatrader.com/job-openings/?gh_jid=4278467006",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/NinjaTrader",
         "is_visible": true,
         "sponsorship": "Other"
     }
