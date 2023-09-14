@@ -17102,7 +17102,7 @@
         "company_name": "Sol de Janeiro",
         "id": "319e4086-f732-4d59-9786-8abe3a67016e",
         "title": "Global Product Marketing Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -18632,7 +18632,7 @@
         "company_name": "Leidos",
         "id": "7e34aa04-e0e8-446e-84d5-46c19dd96449",
         "title": "Cybersecurity Engineer Summer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -18882,7 +18882,7 @@
         "company_name": "MarketAxess",
         "id": "d43d7758-4d60-4a23-a97d-3ec8d41cfe5a",
         "title": "Data Software Engineering Intern 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2023"
         ],
