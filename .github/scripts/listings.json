@@ -9588,7 +9588,7 @@
         "company_name": "Vial",
         "id": "6da0f03c-5536-4e10-9010-bbc1a817243b",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2023"
         ],
@@ -12182,7 +12182,7 @@
         "company_name": "Lucid Motors",
         "id": "08ad1e41-94c9-4cee-b6e0-d68e75d88cc9",
         "title": "Intern \u2013 ADAS Perception Algorithm Engineer - Summer 2024",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -12263,7 +12263,7 @@
         "company_name": "Lucid Motors",
         "id": "039ba8aa-7bae-439f-b002-ab2dfff977b8",
         "title": "Intern \u2013 Android Applications Software Engineer - Summer 2023",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2023"
         ],
@@ -13224,7 +13224,7 @@
         "company_name": "Intel",
         "id": "80f7ff84-f25d-4df8-b4c5-78e658786efc",
         "title": "Graphics Software Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -17952,7 +17952,7 @@
         "company_name": "ClimateAI",
         "id": "7b08b41c-4938-4510-b0e6-a5e9e4e67563",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -18999,7 +18999,7 @@
         "company_name": "ClimateAI",
         "id": "e55b2a27-8784-4169-ab41-c0774570ffee",
         "title": "Data Science Intern - Full time preferred / part time",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
