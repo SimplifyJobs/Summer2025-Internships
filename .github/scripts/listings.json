@@ -4779,7 +4779,7 @@
         "company_name": "Flow Traders",
         "id": "76fc51d4-9af1-45b4-bad3-5082cdaff654",
         "title": "Trading Intern Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -10531,7 +10531,7 @@
         "company_name": "Intel",
         "id": "d638b35d-c71b-4c2d-912b-32f9cffac5d5",
         "title": "Compiler Engineering Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2024"
         ],
@@ -12163,7 +12163,7 @@
         "company_name": "Lucid Motors",
         "id": "11f29822-fc63-455b-b5d6-e9bead5b794e",
         "title": "Intern \u2013 Software Quality Assurance - Data Analyst - Summer 2024",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -12201,7 +12201,7 @@
         "company_name": "Lucid Motors",
         "id": "888bba31-2fe5-4cfe-b435-265a700f293a",
         "title": "Intern \u2013 Cloud Microservices Software Engineer - Summer 2024",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -12282,7 +12282,7 @@
         "company_name": "Lucid Motors",
         "id": "725d4805-1f10-4793-9495-c217d528d29c",
         "title": "Intern \u2013 Test Automation and Unit Testing - Controls Software Engineer - Summer 2024",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -13416,7 +13416,7 @@
         "company_name": "Konrad Group",
         "id": "00434967-1add-485b-ac95-73ff234c4cc5",
         "title": "Software Developer Intern - January 2024 - 4 months",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2024"
         ],
@@ -13435,7 +13435,7 @@
         "company_name": "Konrad Group",
         "id": "b0833c6e-cde1-45ed-a1c7-7641e3f1b1e3",
         "title": "Software Developer Intern - January 2024 - 4 months",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2024"
         ],
@@ -16812,7 +16812,7 @@
         "company_name": "Rockwell Automation",
         "id": "5e5328e3-d738-4413-919e-7125bb1d1766",
         "title": "Intern \u2013 Innovation Platform Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024",
             "Summer 2024"
@@ -17832,7 +17832,7 @@
         "company_name": "Walmart",
         "id": "fbeb04d4-bee3-444d-8be1-fd3101a7eb68",
         "title": "2024 Summer Intern: Data Science - Sam's Club",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -17911,7 +17911,7 @@
         "company_name": "Walmart",
         "id": "a7c06153-f4c3-4974-a881-e4add50bb3df",
         "title": "2024 Summer Intern: Sr. Data Scientist - Sam's Club",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -17971,7 +17971,7 @@
         "company_name": "Walmart",
         "id": "55a4ef53-5d1a-4faf-b1b6-c83149bd5803",
         "title": "2024 Summer Intern: Software Engineer III - Sam's Club",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -18784,7 +18784,7 @@
         "company_name": "Leidos",
         "id": "865b1dcc-bbbf-4434-8f94-addf636774b8",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -18823,7 +18823,7 @@
         "company_name": "MarketAxess",
         "id": "8ea9668d-f05d-47f7-9d68-c6de832099c3",
         "title": "Research Intern 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -19094,7 +19094,7 @@
         "company_name": "Loop Returns",
         "id": "be020c1f-bca7-4aff-9cbe-120eaa0e3493",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2023",
             "Summer 2023"
@@ -19239,6 +19239,277 @@
             "Chicago, IL"
         ],
         "company_url": "https://simplify.jobs/c/NinjaTrader",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Extreme Networks",
+        "id": "3182b53c-7ece-48b5-8470-fbf974b33c99",
+        "title": "Product & Office of the CTO \u2013 Intern - Octo",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1694733528,
+        "date_posted": 1694733528,
+        "url": "https://jobs.lever.co/extremenetworks/24c029d2-e65e-4b1c-b490-b5067b47556e/apply",
+        "locations": [
+            "Toronto, ON, Canada",
+            "North York, Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Extreme-Networks",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Vectra",
+        "id": "6a70b2c0-4a2e-48bd-9454-e7559e6eb33b",
+        "title": "Data Science Internship - Boston - MA",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1694733250,
+        "date_posted": 1694733250,
+        "url": "https://boards.greenhouse.io/vectranetworks/jobs/5330891",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Vectra",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Bankers Healthcare Group",
+        "id": "c123b715-344e-495c-a64b-9dfa255b361d",
+        "title": "Application Support Analyst Intern - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1694733117,
+        "date_posted": 1694733117,
+        "url": "https://jobs.lever.co/bhg-inc/bec05b43-4f37-40c0-9706-94b9e84d08fe/apply",
+        "locations": [
+            "Remote"
+        ],
+        "company_url": "https://simplify.jobs/c/Bankers-Healthcare-Group",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Formlabs",
+        "id": "7d487144-6a6d-4ba9-b6dc-6796dca6c2b8",
+        "title": "Algorithms Software Intern - Winter/Spring 2024",
+        "active": true,
+        "terms": [
+            "Winter 2025",
+            "Spring 2025"
+        ],
+        "date_updated": 1694733047,
+        "date_posted": 1694733047,
+        "url": "https://careers.formlabs.com/job/5369758/apply/?gh_jid=5369758",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Formlabs",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Rockwell Automation",
+        "id": "dcca8906-c9e8-49b8-b9fb-9b9ed2f1e2cc",
+        "title": "Co-op \u2013 Software Developer",
+        "active": true,
+        "terms": [
+            "Spring 2024",
+            "Summer 2024",
+            "Fall 2024",
+            "Winter 2025"
+        ],
+        "date_updated": 1694733044,
+        "date_posted": 1694733044,
+        "url": "https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Co-op--Software-Developer_R23-10261-1",
+        "locations": [
+            "Mayfield Heights, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Rockwell-Automation",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Cockroach Labs",
+        "id": "6bda6004-d301-4226-ba83-f09251df84f7",
+        "title": "Software Engineer Winter Intern - Backend - New York City",
+        "active": true,
+        "terms": [
+            "Winter 2024"
+        ],
+        "date_updated": 1694732935,
+        "date_posted": 1694732935,
+        "url": "https://www.cockroachlabs.com/careers/job/?gh_jid=5366318",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Cockroach-Labs",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Cockroach Labs",
+        "id": "89f6e71b-4932-42d6-b7c8-cc37c1a4a449",
+        "title": "Software Engineer Winter Intern - Frontend - New York City",
+        "active": true,
+        "terms": [
+            "Winter 2024"
+        ],
+        "date_updated": 1694732932,
+        "date_posted": 1694732932,
+        "url": "https://www.cockroachlabs.com/careers/job/?gh_jid=5370045",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Cockroach-Labs",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Lucid Motors",
+        "id": "c26f2149-cba3-4364-87eb-d5e069b2e938",
+        "title": "Intern \u2013 Embedded Software Engineer - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1694732829,
+        "date_posted": 1694732829,
+        "url": "https://jobs.lever.co/lucidmotors/8bd27de8-f5d6-42a6-a36f-f7c270f8d460/apply",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Lucid-Motors",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Lucid Motors",
+        "id": "bba269ad-febe-491b-87b4-0166f01f5616",
+        "title": "Intern \u2013 Android Applications Engineer - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1694732829,
+        "date_posted": 1694732829,
+        "url": "https://jobs.lever.co/lucidmotors/88c4e585-ac2f-4b7b-aa5c-b6725687ca3c/apply",
+        "locations": [
+            "Newark, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Lucid-Motors",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Lucid Motors",
+        "id": "836110a0-e6e2-44f0-b6c6-aa46ed731b7c",
+        "title": "Intern \u2013 SOAR Automation - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1694732837,
+        "date_posted": 1694732837,
+        "url": "https://jobs.lever.co/lucidmotors/8f621744-fc04-4cfe-b6c7-cb0c15c0c42d/apply",
+        "locations": [
+            "Newark, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Lucid-Motors",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Lucid Motors",
+        "id": "75fd614d-296a-4107-931a-264c1ea82766",
+        "title": "Intern \u2013 Battery Cell Modeling - Data Science Engineer - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1694732827,
+        "date_posted": 1694732827,
+        "url": "https://jobs.lever.co/lucidmotors/3cacc162-dc7f-4f5e-9472-ed0c73faa5af/apply",
+        "locations": [
+            "Newark, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Lucid-Motors",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Lucid Motors",
+        "id": "1d2b3665-8d07-4be6-829b-ad84d7355209",
+        "title": "Intern \u2013 Software Automation Engineer - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1694732826,
+        "date_posted": 1694732826,
+        "url": "https://jobs.lever.co/lucidmotors/33caa3a0-b919-4e04-bb5e-f5119db476ff/apply",
+        "locations": [
+            "Newark, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Lucid-Motors",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Lucid Motors",
+        "id": "11837785-cb80-4464-8bd7-5ea5d803e1ec",
+        "title": "Intern \u2013 Cloud Engineer - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1694732838,
+        "date_posted": 1694732838,
+        "url": "https://jobs.lever.co/lucidmotors/983b6734-45da-4ebf-babb-c398e89d0509/apply",
+        "locations": [
+            "Newark, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Lucid-Motors",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Walmart",
+        "id": "93559ecd-fe26-4496-b2af-de07f53e6796",
+        "title": "2024 Summer Intern: Master's Sam's Club Supply Chain Data Analyst",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1694718821,
+        "date_posted": 1694611380,
+        "url": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/XMLNAME-2024-Summer-Intern--Master-s-Sam-s-Club-Supply-Chain-Data-Analyst_R-1652734-1",
+        "locations": [
+            "Bentonville, AR"
+        ],
+        "company_url": "https://simplify.jobs/c/Walmart",
         "is_visible": true,
         "sponsorship": "Other"
     }
