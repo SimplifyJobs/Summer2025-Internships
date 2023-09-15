@@ -4779,7 +4779,7 @@
         "company_name": "Flow Traders",
         "id": "76fc51d4-9af1-45b4-bad3-5082cdaff654",
         "title": "Trading Intern Summer 2024",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -19510,6 +19510,138 @@
             "Bentonville, AR"
         ],
         "company_url": "https://simplify.jobs/c/Walmart",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Blizzard Entertainment",
+        "id": "9d7a5694-fff8-4b5d-9ac3-1288cd422ecc",
+        "title": "2024 US Summer Internship - Game Engineering",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1694763415,
+        "date_posted": 1694763415,
+        "url": "https://activision.wd1.myworkdayjobs.com/Blizzard_External_Careers/job/Santa-Monica/XMLNAME-2024-US-Summer-Internship---Game-Engineering_R021267",
+        "locations": [
+            "Derby, KS",
+            "Santa Monica, CA",
+            "Austin, TX",
+            "Canoga Park, LA",
+            "San Mateo, CA",
+            "Irvine, CA",
+            "Carlsbad, CA",
+            "Culver City, CA",
+            "Novato, CA",
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Blizzard-Entertainment",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Activision-Blizzard",
+        "id": "733ab333-6e2d-4ea5-b02f-65d91a57a570",
+        "title": "2024 US Summer Internship - Computer Graphics",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1694762473,
+        "date_posted": 1694762473,
+        "url": "https://activision.wd1.myworkdayjobs.com/External/job/Playa-Vista/XMLNAME-2024-US-Summer-Internship---Computer-Graphics_R021264-1",
+        "locations": [
+            "Irvine, CA",
+            "Carlsbad, CA",
+            "Culver City, CA",
+            "Portland, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/Activision-Blizzard",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Activision-Blizzard",
+        "id": "0ad28558-e3bc-4aca-952f-eccb1e783161",
+        "title": "2024 US Summer Internship - Cyber Security",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1694762468,
+        "date_posted": 1694762468,
+        "url": "https://activision.wd1.myworkdayjobs.com/External/job/Sherman-Oaks/XMLNAME-2024-US-Summer-Internship---Cyber-Security_R021266",
+        "locations": [
+            "Santa Monica, CA",
+            "Sherman Oaks, LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Activision-Blizzard",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Blizzard Entertainment",
+        "id": "001ad17a-cf0a-49c9-a0f6-752e53765f4a",
+        "title": "2024 US Summer Internship \u2013 SPARX Internship",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1694763403,
+        "date_posted": 1694762465,
+        "url": "https://activision.wd1.myworkdayjobs.com/Blizzard_External_Careers/job/Santa-Monica/XMLNAME-2024-US-Summer-Internship---SPARX-Internship_R021607",
+        "locations": [
+            "Cambridge, MA",
+            "Santa Monica, CA",
+            "Austin, TX",
+            "Irvine, CA",
+            "Albany, NY",
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Blizzard-Entertainment",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "AeroVironment",
+        "id": "f2ee0e62-3753-41f9-b299-da69bc0054fa",
+        "title": "Summer Intern - Software Engineering",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1694762299,
+        "date_posted": 1694762299,
+        "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Minneapolis-MN/Summer-Intern---Software-Engineering_4114",
+        "locations": [
+            "Minneapolis, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/AeroVironment",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "AeroVironment",
+        "id": "b1ad6ea2-70e8-413f-ac51-7ce2feb62217",
+        "title": "Summer Intern - Software Engineering",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1694762295,
+        "date_posted": 1694762295,
+        "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Minneapolis-MN/Summer-Intern---Software-Engineering_4113",
+        "locations": [
+            "Minneapolis, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/AeroVironment",
         "is_visible": true,
         "sponsorship": "Other"
     }
