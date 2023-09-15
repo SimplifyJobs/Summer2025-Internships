@@ -15215,7 +15215,7 @@
         "company_name": "Plaid",
         "id": "e7e0daf4-e82d-4155-a565-d50761681dbb",
         "title": "Software Engineer \u2013 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -15735,7 +15735,7 @@
         "company_name": "Chan Zuckerberg Initiative",
         "id": "fb8e1226-f5a7-48a1-8c58-94e2445171df",
         "title": "Data Science Intern - Science",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -16716,7 +16716,7 @@
         "company_name": "Bankers Healthcare Group",
         "id": "d47c93b6-7fd0-4add-8c3b-8a99af438896",
         "title": "Software Development Engineer in Test Intern - Summer 2024",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -18632,7 +18632,7 @@
         "company_name": "Leidos",
         "id": "7e34aa04-e0e8-446e-84d5-46c19dd96449",
         "title": "Cybersecurity Engineer Summer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -18882,7 +18882,7 @@
         "company_name": "MarketAxess",
         "id": "d43d7758-4d60-4a23-a97d-3ec8d41cfe5a",
         "title": "Data Software Engineering Intern 2024",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2023"
         ],
@@ -18921,7 +18921,7 @@
         "company_name": "Two Six Technologies",
         "id": "a0f0f072-de75-49dd-926c-27c7119e83cc",
         "title": "Research Intern - Machine Learning - Adversarial Attacks",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2023"
         ],
@@ -19642,6 +19642,65 @@
             "Minneapolis, MN"
         ],
         "company_url": "https://simplify.jobs/c/AeroVironment",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Squarepoint Capital",
+        "id": "cc3ba406-f236-48f5-9629-b82451f9c230",
+        "title": "Intern Software Developer - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1694791382,
+        "date_posted": 1694791382,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=5342482",
+        "locations": [
+            "Montreal, QC, Canada",
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Squarepoint-Capital",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Code42",
+        "id": "7a974d7d-55fb-47f0-9421-5f3acf44a3a1",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Spring 2023",
+            "Summer 2023"
+        ],
+        "date_updated": 1694791366,
+        "date_posted": 1694791366,
+        "url": "https://boards.greenhouse.io/code42/jobs/4317471005",
+        "locations": [
+            "Minneapolis, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Code42",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "MarketAxess",
+        "id": "e9db452f-e1a7-48dc-ad45-9c9b200ab57d",
+        "title": "Software Engineering Intern 2024",
+        "active": true,
+        "terms": [
+            "Spring 2023"
+        ],
+        "date_updated": 1694790929,
+        "date_posted": 1694790929,
+        "url": "https://boards.greenhouse.io/marketaxesscorporation/jobs/4043819006",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/MarketAxess",
         "is_visible": true,
         "sponsorship": "Other"
     }
