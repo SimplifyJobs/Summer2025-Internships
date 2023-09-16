@@ -18937,14 +18937,14 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Udig",
+        "company_name": "UDig",
         "id": "e820353f-6d50-429e-8995-dd9e0d06e9b6",
         "title": "Technical Consultant Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
-        "date_updated": 1694647952,
+        "date_updated": 1694835256,
         "date_posted": 1694647952,
         "url": "https://www.udig.com/careers/job-listing/5675350003?gh_jid=5675350003",
         "locations": [
@@ -18953,7 +18953,7 @@
         ],
         "company_url": "https://simplify.jobs/c/Udig",
         "is_visible": true,
-        "sponsorship": "Other"
+        "sponsorship": "Does Not Offer Sponsorship"
     },
     {
         "source": "Simplify",
