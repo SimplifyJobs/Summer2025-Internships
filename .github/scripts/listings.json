@@ -20163,5 +20163,100 @@
         "company_url": "https://simplify.jobs/c/Bristol-Myers-Squibb",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Bizly",
+        "id": "c2495271-e0fa-4a2f-800f-bebc88556957",
+        "title": "Backend Developer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1694848587,
+        "date_posted": 1694848587,
+        "url": "https://jobs.ashbyhq.com/Bizly/adcd027f-ead4-4f59-a73f-42af31cd592a/application",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Bizly",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Semgrep",
+        "id": "def53e01-230c-4b9f-8760-dba3cccd44b3",
+        "title": "Intern Software Engineer - Application Development",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1694848410,
+        "date_posted": 1694848410,
+        "url": "https://boards.greenhouse.io/semgrep/jobs/4080955007",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Semgrep",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Semgrep",
+        "id": "411ee486-8a3f-4544-bd9c-0b1bf07ea2e3",
+        "title": "Intern Software Engineer - Program Analysis",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1694848407,
+        "date_posted": 1694848407,
+        "url": "https://boards.greenhouse.io/semgrep/jobs/4080956007",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Semgrep",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Reliable Robotics",
+        "id": "c7056e24-7921-4d55-98d4-acd42ff4bc53",
+        "title": "Embedded Systems Engineer \u2013 Summer 2024 Internship",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1694848337,
+        "date_posted": 1694848337,
+        "url": "https://jobs.lever.co/reliable/7fb833d0-0abf-4cea-9d14-8d71ab99b8cb/apply",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Reliable-Robotics",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Reliable Robotics",
+        "id": "0973273e-dabd-430c-bbe0-11d1dd807e13",
+        "title": "Software Engineer \u2013 Summer 2024 Internship",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1694848336,
+        "date_posted": 1694848336,
+        "url": "https://jobs.lever.co/reliable/df698b61-f9b6-40f6-81e5-c7a066b58f33/apply",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Reliable-Robotics",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
