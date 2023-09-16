@@ -14909,7 +14909,7 @@
         "company_name": "Wealthsimple",
         "id": "ab0f7ec3-ca21-4a55-8a93-3e43805005d4",
         "title": "Intern \u2013 Data Science - Winter 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2024"
         ],
@@ -14928,7 +14928,7 @@
         "company_name": "Wealthsimple",
         "id": "68a70fab-725d-44fd-8bd4-e9c0592605f6",
         "title": "Intern \u2013 Software Development - Winter 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2024"
         ],
@@ -18651,7 +18651,7 @@
         "company_name": "Hewlett Packard (HP)",
         "id": "75aeb815-9001-4251-a70f-a1af246de451",
         "title": "Job Description HP Inc. Workforce Services & Solutions Technical Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -18842,7 +18842,7 @@
         "company_name": "Mercedes-Benz",
         "id": "fd8f9c86-9460-4492-a4d3-0e74a9772ba9",
         "title": "Software Engineering Intern Data",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -18940,7 +18940,7 @@
         "company_name": "UDig",
         "id": "e820353f-6d50-429e-8995-dd9e0d06e9b6",
         "title": "Technical Consultant Intern - Summer 2024",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -19690,7 +19690,7 @@
         "company_name": "MarketAxess",
         "id": "e9db452f-e1a7-48dc-ad45-9c9b200ab57d",
         "title": "Software Engineering Intern 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2023"
         ],
