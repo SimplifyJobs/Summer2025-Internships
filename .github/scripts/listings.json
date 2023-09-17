@@ -737,14 +737,14 @@
         "terms": [
             "Summer 2024"
         ],
-        "active": true,
+        "active": false,
         "url": "https://morganstanley.tal.net/vx/candidate/apply/15076",
         "is_visible": true,
         "source": "Markdown",
         "company_url": "",
-        "date_updated": 1690430400,
+        "date_updated": 1694971445,
         "id": "c99dbb07-fe1f-4219-8d22-49329dcee356",
-        "sponsorship": "Offers Sponsorship"
+        "sponsorship": "Other"
     },
     {
         "company_name": "Nomura",

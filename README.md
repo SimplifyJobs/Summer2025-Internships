@@ -831,8 +831,8 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | **KeyBank** | Digital Banking Intern  🛂 | Brooklyn, OH | 🔒 | Jun |
 | **Blackstone** | Quantitative Strategy Intern | NYC | 🔒 | Jun |
 | **Nomura** | Information Technology Summer Analyst Program | NYC | <a href="https://nomuracampus.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/xf-3348347fc789/candidate/so/pm/1/pl/1/opp/877-2024-Information-Technology-Summer-Analyst-Program/en-GB?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun |
+| **Morgan Stanley** | Technology Summer Analyst Program | NYC | 🔒 | May |
 | **Morgan Stanley** | Technology Summer Analyst Program | Alpharetta, GA | <a href="https://morganstanley.tal.net/vx/candidate/apply/15068?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May |
-| **Morgan Stanley** | Technology Summer Analyst Program | NYC | <a href="https://morganstanley.tal.net/vx/candidate/apply/15076?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May |
 | **BNP Paribas** | Analyst Internship - Technology | Jersey City, NJ | <a href="https://bnppus.tal.net/vx/mobile-0/appcentre-ext/brand-7/candidate/so/pm/1/pl/2/opp/778-2024-Summer-Analyst-Internship-Technology/en-GB?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May |
 | **DRW** | Site Reliability Engineer Intern	 | Austin, TX Chicago, IL | 🔒 | May |
 | **[DRW](https://simplify.jobs/c/DRW)** | Software Developer Intern  | Austin, TX</br>Chicago, IL | <a href="https://drw.com/work-at-drw/listings/software-developer-intern-2567189?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May |
