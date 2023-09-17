@@ -690,23 +690,23 @@
         "sponsorship": "Offers Sponsorship"
     },
     {
-        "company_name": "BNP Paribas",
+        "company_name": "BNP",
         "locations": [
             "Jersey City, NJ"
         ],
-        "title": "Analyst Internship - Technology",
+        "title": "Software Engineering Intern",
         "date_posted": 1685419200,
         "terms": [
             "Summer 2024"
         ],
-        "active": true,
+        "active": false,
         "url": "https://bnppus.tal.net/vx/mobile-0/appcentre-ext/brand-7/candidate/so/pm/1/pl/2/opp/778-2024-Summer-Analyst-Internship-Technology/en-GB",
         "is_visible": true,
         "source": "Markdown",
         "company_url": "",
-        "date_updated": 1690430400,
+        "date_updated": 1694979171,
         "id": "7f4d0949-8041-43af-b81f-bf9ebedadc6f",
-        "sponsorship": "Offers Sponsorship"
+        "sponsorship": "Other"
     },
     {
         "company_name": "Morgan Stanley",
