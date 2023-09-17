@@ -20298,5 +20298,24 @@
         "date_posted": 1694971273,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1694971302,
+        "url": "https://careers.arm.com/job/boston/intern-software-engineer/33099/54450222080",
+        "company_name": "Arm",
+        "title": "Intern Software Engineer",
+        "locations": [
+            "Boston"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "MatthewZepf",
+        "id": "05bcfbf9-9700-424c-9f6f-23b55ae5fe50",
+        "date_posted": 1694971302,
+        "company_url": "",
+        "is_visible": true
     }
 ]
