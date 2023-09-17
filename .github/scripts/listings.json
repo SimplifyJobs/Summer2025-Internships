@@ -20258,5 +20258,26 @@
         "company_url": "https://simplify.jobs/c/Reliable-Robotics",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1694971246,
+        "url": "https://mantech.wd1.myworkdayjobs.com/External/job/USA-WV-Clarksburg/Application-Developer-Intern_R42953?source=LinkedIn",
+        "company_name": "ManTech",
+        "title": "Application Developer Intern",
+        "locations": [
+            "Clarksburg, WV"
+        ],
+        "terms": [
+            "Fall 2023",
+            "Winter 2024",
+            "Spring 2024"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "source": "VitaliPri",
+        "id": "9d75b6f3-efd5-4be2-8557-37cf151c4200",
+        "date_posted": 1694971246,
+        "company_url": "",
+        "is_visible": true
     }
 ]
