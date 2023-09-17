@@ -20279,5 +20279,24 @@
         "date_posted": 1694971246,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1694971273,
+        "url": "https://jobs.stryten.com/stryten-home/jobs/4252?lang=en-us",
+        "company_name": "Stryten Energy",
+        "title": "Frontend and/or Backend engineering",
+        "locations": [
+            "Alpharetta, Georgia"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "VitaliPri",
+        "id": "0467dc14-66f0-4317-a13c-956fbad44563",
+        "date_posted": 1694971273,
+        "company_url": "",
+        "is_visible": true
     }
 ]
