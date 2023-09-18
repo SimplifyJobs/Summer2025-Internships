@@ -93,7 +93,7 @@ def main():
     def get_commit_text(listing):
         closed_text = "" if listing["active"] else "(Closed)"
         sponsorship_text = "" if listing["sponsorship"] == "Other" else ("(" + listing["sponsorship"] + ")")
-        listing_text = (listing["title"] + " at " + listing["company_name"] + " " + closed_text + " " + sponsorship_text).strip()
+        listing_text = (listing["title"].strip() + " at " + listing["company_name"].strip() + " " + closed_text + " " + sponsorship_text).strip()
         return listing_text
 
     listings = []
