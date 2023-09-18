@@ -20317,5 +20317,24 @@
         "date_posted": 1694971302,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Plexus",
+        "id": "65750dfd-5fab-4de4-a5df-a7bdbdc75d54",
+        "title": "Intern \u2013 Software Engineer - Fall 2024",
+        "active": true,
+        "terms": [
+            "Fall 2024"
+        ],
+        "date_updated": 1695021577,
+        "date_posted": 1695021577,
+        "url": "https://plexus.wd5.myworkdayjobs.com/en-US/Plexus_Careers/job/Raleigh-NC/Intern---Software-Engineer---Fall-2024_R027242",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Plexus",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
