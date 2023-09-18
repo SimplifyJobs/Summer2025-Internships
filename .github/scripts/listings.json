@@ -4779,7 +4779,7 @@
         "company_name": "Flow Traders",
         "id": "76fc51d4-9af1-45b4-bad3-5082cdaff654",
         "title": "Trading Intern Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -7344,7 +7344,7 @@
         "company_name": "PayPal",
         "id": "0e3dde91-f355-42c7-bfe6-d291763ba9ad",
         "title": "Data Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2024",
             "Fall 2024"
@@ -7368,7 +7368,7 @@
         "company_name": "PayPal",
         "id": "de7f25d2-af21-4fc7-be7f-633e662b4300",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2024",
             "Fall 2024"
@@ -11425,7 +11425,7 @@
         "company_name": "Leidos",
         "id": "f1c887a8-ec02-4232-99f3-3f6a3fb0e23f",
         "title": "Software Engineer Intern\ud83c\uddfa\ud83c\uddf8",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -14852,7 +14852,7 @@
         "company_name": "CACI",
         "id": "eb8ae481-79cc-46f5-8e35-4825d8433184",
         "title": "Signal Processing and Data Analysis Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -17506,7 +17506,7 @@
         "company_name": "T. Rowe Price",
         "id": "5de72895-14c4-4e5d-80b9-6dcac9270b09",
         "title": "2024 Global Trading Internship Program",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -17525,7 +17525,7 @@
         "company_name": "T. Rowe Price",
         "id": "68aeb302-58fc-406a-afca-8feeb2e2fd32",
         "title": "2024 Quantitative Investing Internship Program",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -18632,7 +18632,7 @@
         "company_name": "Leidos",
         "id": "7e34aa04-e0e8-446e-84d5-46c19dd96449",
         "title": "Cybersecurity Engineer Summer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -18882,7 +18882,7 @@
         "company_name": "MarketAxess",
         "id": "d43d7758-4d60-4a23-a97d-3ec8d41cfe5a",
         "title": "Data Software Engineering Intern 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2023"
         ],
@@ -19650,7 +19650,7 @@
         "company_name": "Squarepoint Capital",
         "id": "cc3ba406-f236-48f5-9629-b82451f9c230",
         "title": "Intern Software Developer - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -20358,5 +20358,62 @@
         "date_posted": 1695052497,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Kinaxis",
+        "id": "8a11715c-54ec-40e0-a6c1-fd49fdbc188f",
+        "title": "Co-Op/Intern Machine Learning Developer - ML Solutions",
+        "active": true,
+        "terms": [
+            "Winter 2024"
+        ],
+        "date_updated": 1695051427,
+        "date_posted": 1695051427,
+        "url": "https://boards.greenhouse.io/kinaxis/jobs/6936858002",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Kinaxis",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Thrivent",
+        "id": "2ac268d4-1d20-44db-ab76-fa930807cf61",
+        "title": "Investments IT Application Engineer Intern - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1695050477,
+        "date_posted": 1695050477,
+        "url": "https://thrivent.wd5.myworkdayjobs.com/external/job/Mpls-Investments-Office/Investments-IT-Application-Engineer-Intern---Summer-2024_REQ-35952",
+        "locations": [
+            "Minneapolis, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Thrivent",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Leidos",
+        "id": "7a9b97bf-ed86-441b-9b13-5b64c1d1f301",
+        "title": "Software Engineer Co-op",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1695050308,
+        "date_posted": 1695050308,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/King-Of-Prussia-PA/Software-Engineer-Co-op_R-00119294",
+        "locations": [
+            "King of Prussia, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
