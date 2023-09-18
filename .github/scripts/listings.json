@@ -20338,21 +20338,21 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1695052497,
+        "date_updated": 1695053680,
         "url": "https://www.google.com/about/careers/applications/jobs/results/76457290250494662-associate-product-manager-intern-summer-2024?src=Online%2FGoogle%20Website%2FByF",
         "company_name": "Google",
         "title": "Associate Product Manager Intern",
         "locations": [
-            "San Bruno, CA, USA",
-            "San Francisco, CA, USA",
-            "Mountain View, CA, USA",
-            "New York, NY, USA."
+            "San Bruno, CA",
+            "San Francisco, CA",
+            "USA Mountain View, CA",
+            "New York, NY"
         ],
         "terms": [
             "Summer 2024"
         ],
         "sponsorship": "Offers Sponsorship",
-        "active": false,
+        "active": true,
         "source": "t-iuy987",
         "id": "6a3bbada-47a6-4628-92de-00213c9abddf",
         "date_posted": 1695052497,
