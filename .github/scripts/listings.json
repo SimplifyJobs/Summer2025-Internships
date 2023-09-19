@@ -2224,7 +2224,7 @@
         "company_name": "Autodesk",
         "id": "41e37bba-3214-4034-ad36-fd654d2a4eae",
         "title": "Intern \u2013 Software Developer - Alias - 1 Year Term",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -11251,7 +11251,7 @@
         "company_name": "CSL",
         "id": "bbb30874-2eef-4c05-a300-4dbd9a70e2b3",
         "title": "Strategic Analytics Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -12503,7 +12503,7 @@
         "company_name": "Visier Solutions",
         "id": "79f194d5-5b9f-42fd-bc25-ceb39cb6aa06",
         "title": "Test Developer Co-op - Jan 2024 - Aug 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -13070,7 +13070,7 @@
         "company_name": "Cerebras",
         "id": "13a8dfcb-7c5d-4fdf-a512-bd81867a1968",
         "title": "Machine Learning Stack Engineer \u2013 Internship - PEY 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -20402,7 +20402,7 @@
         "company_name": "Leidos",
         "id": "7a9b97bf-ed86-441b-9b13-5b64c1d1f301",
         "title": "Software Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -20779,6 +20779,25 @@
             "Santa Clara, CA"
         ],
         "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "The Boeing Company",
+        "id": "0aa1443e-9018-44b7-b87b-dcfd7dbe45d3",
+        "title": "Business Operations Intern - Data Science",
+        "active": true,
+        "terms": [
+            "Winter 2024"
+        ],
+        "date_updated": 1695079045,
+        "date_posted": 1695079045,
+        "url": "https://boeing.wd1.myworkdayjobs.com/external_careers/job/CAN---Richmond-Canada/Business-Operations-Intern---Data-Science_00000392310-1",
+        "locations": [
+            "Richmond, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
         "is_visible": true,
         "sponsorship": "Other"
     }
