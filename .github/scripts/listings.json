@@ -20918,5 +20918,26 @@
         "date_posted": 1695125958,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1695132443,
+        "url": "https://amazon.jobs/en/jobs/2408093/software-development-engineer-intern-2024-canada",
+        "company_name": "Amazon",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "Canada"
+        ],
+        "terms": [
+            "Winter 2024",
+            "Spring 2024",
+            "Summer 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "anshchaturvedi",
+        "id": "bf87ffc6-036b-4cec-9011-e746044e6383",
+        "date_posted": 1695132443,
+        "company_url": "",
+        "is_visible": true
     }
 ]
