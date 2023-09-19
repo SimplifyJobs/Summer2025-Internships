@@ -18475,7 +18475,7 @@
         "company_name": "Leidos",
         "id": "b3b118c3-8f3c-4286-8450-99f117f62130",
         "title": "Software Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -20798,6 +20798,101 @@
             "Richmond, BC, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Anduril",
+        "id": "27c9687d-0d04-4bc5-a1b7-0759751aaf8f",
+        "title": "Robotics Software Engineer Intern - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1695107522,
+        "date_posted": 1695107522,
+        "url": "https://jobs.lever.co/anduril/c0344170-e984-49d7-b3e7-42be89775006/apply",
+        "locations": [
+            "Newport Beach, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Anduril",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Lucid Motors",
+        "id": "dbc9ac0d-3037-4ac8-b6e0-73511e6f631f",
+        "title": "Intern \u2013 Embedded Platform Software Engineer - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1695107353,
+        "date_posted": 1695107353,
+        "url": "https://jobs.lever.co/lucidmotors/cdface54-a2d6-4165-90f3-437c6c9255cf/apply",
+        "locations": [
+            "Newark, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Lucid-Motors",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Lucid Motors",
+        "id": "7ee1027b-99b8-4274-af45-345c13324fec",
+        "title": "Intern \u2013 Software Validation Engineer - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1695107352,
+        "date_posted": 1695107352,
+        "url": "https://jobs.lever.co/lucidmotors/23bd785d-80c1-4841-b3e0-f920e05c5780/apply",
+        "locations": [
+            "Newark, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Lucid-Motors",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Lucid Motors",
+        "id": "63f05467-7efe-447a-bee7-a39212548119",
+        "title": "Intern \u2013 Bootloader Embedded Engineer - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1695107352,
+        "date_posted": 1695107352,
+        "url": "https://jobs.lever.co/lucidmotors/227b32d4-ddeb-4a24-a1cc-4a126c9ac658/apply",
+        "locations": [
+            "Newark, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Lucid-Motors",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Lucid Motors",
+        "id": "48b79d50-8267-4f5f-b38b-9eab64a1da77",
+        "title": "Intern \u2013 Android Infotainment Software Engineer - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1695107358,
+        "date_posted": 1695107358,
+        "url": "https://jobs.lever.co/lucidmotors/9392e377-d596-423e-8c25-93f94d0b6a18/apply",
+        "locations": [
+            "Newark, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Lucid-Motors",
         "is_visible": true,
         "sponsorship": "Other"
     }
