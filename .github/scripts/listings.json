@@ -16774,7 +16774,7 @@
         "company_name": "Rockwell Automation",
         "id": "f510cd3a-39bf-4f8d-b027-baf6ca4359ba",
         "title": "Intern \u2013 Power HW Development",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2023"
         ],
@@ -19650,7 +19650,7 @@
         "company_name": "Squarepoint Capital",
         "id": "cc3ba406-f236-48f5-9629-b82451f9c230",
         "title": "Intern Software Developer",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -20939,5 +20939,102 @@
         "date_posted": 1695132443,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Wellmark",
+        "id": "1ee13fc1-1abc-4e8a-bdd7-3a62fc36d46f",
+        "title": "Software Engineer Internship - Total Cost of Care",
+        "active": true,
+        "terms": [
+            "Spring 2024"
+        ],
+        "date_updated": 1695137823,
+        "date_posted": 1695137823,
+        "url": "https://jobs.smartrecruiters.com/WellmarkInc/743999931338047",
+        "locations": [
+            "Des Moines, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/Wellmark",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Recorded Future",
+        "id": "f62d32e9-856f-40d1-a5fc-42f6fb60d1b7",
+        "title": "Data Science Co-op - Research - Python - Nosql",
+        "active": true,
+        "terms": [
+            "Winter 2024",
+            "Spring 2024",
+            "Summer 2024"
+        ],
+        "date_updated": 1695136777,
+        "date_posted": 1695136777,
+        "url": "https://boards.greenhouse.io/recordedfuture/jobs/6937026002",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Recorded-Future",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Thrivent",
+        "id": "b4948ad2-1e5e-4a32-95dd-9e775725d8ac",
+        "title": "Investment Data Analyst Intern - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1695136785,
+        "date_posted": 1695136785,
+        "url": "https://thrivent.wd5.myworkdayjobs.com/external/job/Mpls-Investments-Office/Investment-Data-Analyst-Intern---Summer-2024_REQ-35955",
+        "locations": [
+            "Minneapolis, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Thrivent",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Lucid Motors",
+        "id": "c399bc6f-a5b5-4db3-b17c-1ed5a4029604",
+        "title": "Intern \u2013 Infotainment Android Application Software Engineer - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1695107356,
+        "date_posted": 1695107356,
+        "url": "https://jobs.lever.co/lucidmotors/1f09bbb8-edee-48e6-93d3-7f354999a736/apply",
+        "locations": [
+            "Newark, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Lucid-Motors",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Lucid Motors",
+        "id": "c0424f75-b173-485b-a42a-4e10717da988",
+        "title": "Intern \u2013 ADAS System Engineering Validation Engineer - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1695107357,
+        "date_posted": 1695107357,
+        "url": "https://jobs.lever.co/lucidmotors/e852b40c-5d8d-42d0-a28a-0eb1ef863626/apply",
+        "locations": [
+            "Newark, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Lucid-Motors",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
