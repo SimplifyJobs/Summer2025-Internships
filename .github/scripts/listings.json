@@ -4779,7 +4779,7 @@
         "company_name": "Flow Traders",
         "id": "76fc51d4-9af1-45b4-bad3-5082cdaff654",
         "title": "Trading Intern Summer 2024",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -10512,7 +10512,7 @@
         "company_name": "Rivian",
         "id": "f78950a0-501f-4562-a5cd-88055fa1f1ae",
         "title": "Software Engineering \u2013 Summer 2024 Internships",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -10981,7 +10981,7 @@
         "company_name": "The Allen Institute for AI",
         "id": "de10138c-10f1-4b4e-b526-8ae71be815b4",
         "title": "Research Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2023",
             "Summer 2023",
@@ -14333,7 +14333,7 @@
         "company_name": "Intel",
         "id": "97f615ee-aeb2-4b08-bd24-99bbdb271bc5",
         "title": "Software Development-Undergraduate Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -16045,7 +16045,7 @@
         "company_name": "WhatNot",
         "id": "4068ac5b-b6db-42ce-b6c4-82e03172fbc2",
         "title": "Software Engineering Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -17717,7 +17717,7 @@
         "company_name": "D2L",
         "id": "b783432e-1a77-41eb-afe5-fb54fe95c5b9",
         "title": "Software Developer \u2013 Winter 2024 Co-op - Toronto",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2024"
         ],
@@ -18437,7 +18437,7 @@
         "company_name": "D2L",
         "id": "36f0b181-5792-4b7e-8c69-625c61612a27",
         "title": "Software Developer \u2013 Winter 2024 Co-op - Kitchener",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2024"
         ],
@@ -18651,7 +18651,7 @@
         "company_name": "Hewlett Packard (HP)",
         "id": "75aeb815-9001-4251-a70f-a1af246de451",
         "title": "Job Description HP Inc. Workforce Services & Solutions Technical Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -19849,7 +19849,7 @@
         "company_name": "Vail Systems",
         "id": "bb40c649-6fa6-4ce5-a60a-fc8fe0c296a3",
         "title": "Web Software Engineer Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -20169,7 +20169,7 @@
         "company_name": "Bizly",
         "id": "c2495271-e0fa-4a2f-800f-bebc88556957",
         "title": "Backend Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -20226,7 +20226,7 @@
         "company_name": "Reliable Robotics",
         "id": "c7056e24-7921-4d55-98d4-acd42ff4bc53",
         "title": "Embedded Systems Engineer \u2013 Summer 2024 Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -20245,7 +20245,7 @@
         "company_name": "Reliable Robotics",
         "id": "0973273e-dabd-430c-bbe0-11d1dd807e13",
         "title": "Software Engineer \u2013 Summer 2024 Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -20413,6 +20413,372 @@
             "King of Prussia, PA"
         ],
         "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Bristol-Myers Squibb",
+        "id": "9381274e-6cf7-403d-b82e-31e974f07a0f",
+        "title": "Co-Op \u2013 Data Science Co-Op - Spring 2024",
+        "active": true,
+        "terms": [
+            "Spring 2024"
+        ],
+        "date_updated": 1695080054,
+        "date_posted": 1695080054,
+        "url": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/en-US/BMS/job/Princeton---NJ---US/Co-Op---Data-Science-Co-Op----Spring-2024-_R1573393",
+        "locations": [
+            "Princeton, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/Bristol-Myers-Squibb",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Kinaxis",
+        "id": "4f362eec-6114-4409-abf9-10411bdbb7c7",
+        "title": "Co-Op/Intern Software Engineer - AI Platform",
+        "active": true,
+        "terms": [
+            "Winter 2024"
+        ],
+        "date_updated": 1695079553,
+        "date_posted": 1695079553,
+        "url": "https://boards.greenhouse.io/kinaxis/jobs/6936971002",
+        "locations": [
+            "Toronto, ON, Canada",
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Kinaxis",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Splunk",
+        "id": "1f4b772e-576b-4304-aa7f-800079079f3f",
+        "title": "Software Engineer Co-op - Front-end - Remote Canada - Winter 2024",
+        "active": true,
+        "terms": [
+            "Winter 2024"
+        ],
+        "date_updated": 1695079342,
+        "date_posted": 1695079342,
+        "url": "https://jobs.jobvite.com/splunk-careers/job/o8Hqofwn?nl=1&nl=1&fr=false",
+        "locations": [
+            "Canada",
+            "Remote"
+        ],
+        "company_url": "https://simplify.jobs/c/Splunk",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Verisign",
+        "id": "1fdfe2a8-ddf6-427b-a9aa-574ba991b9bc",
+        "title": "Summer 2024 Undergraduate Technical Internships",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1695079212,
+        "date_posted": 1695079212,
+        "url": "https://boards.greenhouse.io/verisign/jobs/5748047003",
+        "locations": [
+            "Reston, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Verisign",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Applied Materials",
+        "id": "8ac53a00-486a-4e9f-8f71-45157981400e",
+        "title": "Software Engineer Intern - Common Systems Software - Santa Clara",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1695079143,
+        "date_posted": 1695079143,
+        "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Software-Engineer-Intern--Common-Systems-Software----Santa-Clara_R2315862-1",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/AMAT",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "CesiumAstro",
+        "id": "a5936f00-251d-4f04-93ec-27d83dd9d1c8",
+        "title": "Summer 2024 \u2013 Embedded Software Engineering Internship",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1695079038,
+        "date_posted": 1695079038,
+        "url": "https://jobs.lever.co/CesiumAstro/f105c129-e28e-4f2d-8b6c-582c6b3ad332/apply",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/CesiumAstro",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "ZipRecruiter",
+        "id": "0db74e48-45ce-47cc-b52a-dd7467a8a6c4",
+        "title": "Software Engineer \u2013 Intern",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1695078993,
+        "date_posted": 1695078993,
+        "url": "https://boards.greenhouse.io/ziprecruiter/jobs/5281195",
+        "locations": [
+            "Santa Monica, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ZipRecruiter",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Cowen",
+        "id": "df8ead97-1f5b-45ef-810b-98bb4eae5575",
+        "title": "2024 Markets Summer Analyst Program",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1695078966,
+        "date_posted": 1695078966,
+        "url": "https://boards.greenhouse.io/cowen/jobs/6893893002",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/TD-Cowen",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Leidos",
+        "id": "a6f1326c-1035-4bf3-9799-c370bd0ba976",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1695078962,
+        "date_posted": 1695078962,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/Software-Engineer-Intern_R-00119114",
+        "locations": [
+            "Arlington, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Leidos",
+        "id": "9d40d53a-1727-40fe-a3b2-5ab84c822db2",
+        "title": "Software Developer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1695078961,
+        "date_posted": 1695078961,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Eagan-MN/Software-Developer-Intern_R-00119316",
+        "locations": [
+            "Eagan, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Leidos",
+        "id": "74fe0244-17cd-4905-8010-fb34ef999470",
+        "title": "Data Scientist Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1695078973,
+        "date_posted": 1695078973,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/Data-Scientist-Intern_R-00119115",
+        "locations": [
+            "Arlington, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Leidos",
+        "id": "29569f40-8b74-4677-968b-a35aaca8dc3c",
+        "title": "System Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1695078961,
+        "date_posted": 1695078961,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/System-Engineer-Intern_R-00119116",
+        "locations": [
+            "Arlington, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Anduril",
+        "id": "d144d168-f4b8-4835-8dc8-a78fab8233d7",
+        "title": "Software Engineer Intern - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1695078654,
+        "date_posted": 1695078654,
+        "url": "https://jobs.lever.co/anduril/678e291a-29a7-4823-9bef-5a565660d67e/apply",
+        "locations": [
+            "Cambridge, MA",
+            "Seattle, WA",
+            "Newport Beach, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Anduril",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Clever",
+        "id": "63ece3e0-55ba-43ed-9fc4-f2c0d00dcb31",
+        "title": "Software Engineer \u2013 Apprentice",
+        "active": true,
+        "terms": [
+            "Fall 2023"
+        ],
+        "date_updated": 1695078609,
+        "date_posted": 1695078609,
+        "url": "https://www.clever.com/about/careers?gh_jid=5372423",
+        "locations": [
+            "SF",
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Clever",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Chicago Trading Company",
+        "id": "2e3acd2e-6d09-4d2f-a860-efba489b5d15",
+        "title": "Quant Trading Analyst Internship - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1695078552,
+        "date_posted": 1695078552,
+        "url": "https://boards.greenhouse.io/chicagotradingcampus/jobs/4299698005",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/ChicagoTradingCo",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Chicago Trading Company",
+        "id": "7c091077-6c1e-48e4-9f75-da3b36ba6b23",
+        "title": "Quant Trading Analyst Internship - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1695078552,
+        "date_posted": 1695078552,
+        "url": "https://boards.greenhouse.io/chicagotradingcampus/jobs/4252076005",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/ChicagoTradingCo",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Epic Games",
+        "id": "bc4e16d3-ff0f-4ba8-9883-4ba05255c7c3",
+        "title": "Backend Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1695078518,
+        "date_posted": 1695078518,
+        "url": "https://boards.greenhouse.io/epicgames/jobs/4966249004",
+        "locations": [
+            "Morrisville, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Epic-Games",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Chicago Trading Company",
+        "id": "28ea18de-f283-4c4f-af18-49b6594bac26",
+        "title": "Software Engineer Internship - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1695078552,
+        "date_posted": 1695078552,
+        "url": "https://boards.greenhouse.io/chicagotradingcampus/jobs/4252082005",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/ChicagoTradingCo",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "NVIDIA",
+        "id": "6a4937e3-4fda-43de-a177-fb90f2a5e77c",
+        "title": "Technical Program Manager Intern - Deep Learning Software - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1695078453,
+        "date_posted": 1695078453,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Technical-Program-Manager-Intern--Deep-Learning-Software---Summer-2024_JR1972217",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
         "is_visible": true,
         "sponsorship": "Other"
     }
