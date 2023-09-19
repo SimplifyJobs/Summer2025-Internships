@@ -20895,5 +20895,28 @@
         "company_url": "https://simplify.jobs/c/Lucid-Motors",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1695125958,
+        "url": "https://paypal.eightfold.ai/careers/job/274895391783",
+        "company_name": "PayPal",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "San Jose, CA",
+            "Chicago, IL",
+            "Scottsdale, AZ",
+            "New York City, NY",
+            "Austin, TX"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "cptbtptp01",
+        "id": "1196d71e-206b-4a34-be54-8e6aee758f3e",
+        "date_posted": 1695125958,
+        "company_url": "",
+        "is_visible": true
     }
 ]
