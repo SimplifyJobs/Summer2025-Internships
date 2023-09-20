@@ -21799,5 +21799,24 @@
         "date_posted": 1695236192,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1695236220,
+        "url": "https://careers.ibm.com/job/19124488/2024-summer-intern-back-end-developer-remote/?codes=JB_Indeed&codes=1-INDEED",
+        "company_name": "IBM",
+        "title": "Back End Developer",
+        "locations": [
+            "Armonk, NY Austin, TX Durham, NC Lowell, MA New York, NY Poughkeepsie, NY"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "VitaliPri",
+        "id": "4018eba8-f2d3-4f8a-a60e-a1a262b64355",
+        "date_posted": 1695236220,
+        "company_url": "",
+        "is_visible": true
     }
 ]
