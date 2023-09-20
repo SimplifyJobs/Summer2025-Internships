@@ -21779,5 +21779,25 @@
         "date_posted": 1695236157,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1695236192,
+        "url": "https://app.ripplematch.com/v2/public/job/b0806ba2/details?tl=93f2e561&fromPage=tracking_link",
+        "company_name": "Robinhood",
+        "title": "Security Intern",
+        "locations": [
+            "Menlo Park, CA",
+            "New York City, NY"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "sgabrani",
+        "id": "0b0ea30d-6bd9-4791-a2ad-89761f1342e1",
+        "date_posted": 1695236192,
+        "company_url": "",
+        "is_visible": true
     }
 ]
