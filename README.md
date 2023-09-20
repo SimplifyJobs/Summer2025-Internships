@@ -846,7 +846,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | **Castleton Commodities International** | Data Science Internship | Stamford, CT | 🔒 | Jul |
 | **Medtronic** | Software Engineering Summer 2024 Intern  🛂 | Multiple | <a href="https://medtronic.eightfold.ai/careers/job/17363492?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul |
 | **DRW** | Site Reliability Engineer Intern - Sre | Chicago, IL | 🔒 | Jul |
-| **Marotta Controls** | Software Engineering Intern  🇺🇸 | Parsippany, NJ | <a href="https://marotta.com/job-openings/?gnk=job&gni=8a7883ac879c5eca0187ef4d715d4fd8&lang=en&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul |
+| **Marotta Controls** | Software Engineering Intern us | Parisppany, NJ | 🔒 | Jul |
 | **Trane Technologies** | 2024 Analytics & Data Science Intern  🇺🇸 | Davidson, NC</br>Minneapolis, MN | 🔒 | Jul |
 | **RSM** | Intelligent Automation Consulting Intern US | Denver, CO</br>Dallas, TX | 🔒 | Jul |
 | **RSM** | Data Migration Consulting Intern 🇺🇸 | Denver, CO</br>Dallas, TX | 🔒 | Jul |
