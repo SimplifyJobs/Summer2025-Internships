@@ -21676,5 +21676,28 @@
         "company_url": "https://simplify.jobs/c/bose",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1695236061,
+        "url": "https://careers.ibm.com/job/19124490/2024-summer-intern-front-end-developer-remote/",
+        "company_name": "IBM",
+        "title": "2024 Summer Intern: Front End Developer",
+        "locations": [
+            "Lowell",
+            "San Jose",
+            "Poughkeepsie",
+            "Research Triangle Park",
+            "Austin"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "MatthewZepf",
+        "id": "7dcd1397-33c7-461d-9e02-beeb22a45452",
+        "date_posted": 1695236061,
+        "company_url": "",
+        "is_visible": true
     }
 ]
