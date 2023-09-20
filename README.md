@@ -61,6 +61,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Robinhood** | iOS Engineer Intern | Menlo Park, CA</br>New York City, NY | <a href="https://app.ripplematch.com/v2/public/job/801850f8/details?tl=35f14a88&fromPage=tracking_link&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 20 |
 | **Robinhood** | Android Engineer Intern | Menlo Park, CA</br>New York City, NY | <a href="https://app.ripplematch.com/v2/public/job/e50341fc/details?tl=b23ee1f4&fromPage=tracking_link&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 20 |
 | **Robinhood** | Backend Engineer Intern | Menlo Park, CA</br>New York City, NY | <a href="https://app.ripplematch.com/v2/public/job/3dd1d6c4/details?tl=9e7bc756&fromPage=tracking_link&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 20 |
 | **IBM** | 2024 Summer Intern: Front End Developer | <details><summary>**5 locations**</summary>Lowell</br>San Jose</br>Poughkeepsie</br>Research Triangle Park</br>Austin</details> | <a href="https://careers.ibm.com/job/19124490/2024-summer-intern-front-end-developer-remote/?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 20 |
