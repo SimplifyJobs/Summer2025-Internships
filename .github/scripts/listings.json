@@ -21472,5 +21472,28 @@
         "company_url": "https://simplify.jobs/c/2b8dcffa-a3d1-4a7c-9f9e-50e1e47679de",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1695169748,
+        "url": "https://warnerbros.wd5.myworkdayjobs.com/en-US/global/job/Software-Engineering-Intern---Summer-2024_R000072947",
+        "company_name": "Warner Bros. Discovery",
+        "title": "Software Engineering Intern",
+        "locations": [
+            "Atlanta, GA",
+            "San Francisco, CA",
+            "NYC",
+            "LA",
+            "Bellevue, WA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "ngitman",
+        "id": "f97c2b28-c63b-4da8-a462-3273ab3dcf6c",
+        "date_posted": 1695169748,
+        "company_url": "",
+        "is_visible": true
     }
 ]
