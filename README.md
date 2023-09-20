@@ -711,7 +711,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | **Capital One** | Technology Internship Program | <details><summary>**10 locations**</summary>Cambridge, MA</br>SF</br>Philadelphia, PA</br>Plano, TX</br>McLean, VA</br>Richmond, VA</br>Chicago, IL</br>NYC</br>Roswell, GA</br>Wilmington, DE</details> | 🔒 | Jul 31 |
 | **Capital One** | Data Analyst Intern | Plano, TX</br>McLean, VA</br>Richmond, VA | 🔒 | Jul 31 |
 | **Artisan Partners** | Software Developer Intern - Marketing & Distribution | Milwaukee, WI | 🔒 | Jul 31 |
-| **PCMI Corporation** | BI QA Analyst Intern | Park Ridge, IL | <a href="https://www.indeed.com/cmp/Pcmi-Corporation-2/jobs?jk=e35b465c20d1a7c2&start=0&clearPrefilter=1&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 30 |
+| **PCMI Corporation** | BI QA Analyst Intern | Park Ridge, IL | 🔒 | Jul 30 |
 | **Protective** | Technology Summer Internship | Birmingham, AL | <a href="https://jobs.lever.co/protective/2761edea-63bc-4be7-8b48-6e925c1be3f8/?lever-source%5B%5D=DiversityJobs&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 29 |
 | **StackAdapt** | Software Engineer Intern - Backend | Canada | 🔒 | Jul 28 |
 | **Rockwell Automation** | Data Engineer Co-op/Intern - Fiix Software | Toronto, ON, Canada | 🔒 | Jul 28 |
