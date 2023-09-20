@@ -848,8 +848,8 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | **DRW** | Site Reliability Engineer Intern - Sre | Chicago, IL | 🔒 | Jul |
 | **Marotta Controls** | Software Engineering Intern  🇺🇸 | Parsippany, NJ | <a href="https://marotta.com/job-openings/?gnk=job&gni=8a7883ac879c5eca0187ef4d715d4fd8&lang=en&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul |
 | **Trane Technologies** | 2024 Analytics & Data Science Intern  🇺🇸 | Davidson, NC</br>Minneapolis, MN | 🔒 | Jul |
+| **RSM** | Intelligent Automation Consulting Intern US | Denver, CO</br>Dallas, TX | 🔒 | Jul |
 | **RSM** | Data Migration Consulting Intern 🇺🇸 | Denver, CO</br>Dallas, TX | 🔒 | Jul |
-| **RSM** | Intelligent Automation Consulting Intern  🇺🇸 | Denver, CO</br>Dallas, TX | <a href="https://jobs.rsmus.com/job/17580693/intelligent-automation-consulting-intern-summer-2024-denver-co/?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul |
 | **Scholastic** | Scholastic Summer Software Engineer Intern | NYC | 🔒 | Jun |
 | **Scholastic** | Scholastic Summer Software Development Test Intern | NYC | <a href="https://scholastic.wd5.myworkdayjobs.com/en-US/External/job/Scholastic-Summer-Software-Development-Engineer-In-Test-Intern_R12103?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun |
 | **Elbit Systems of America** | Software Engineering Intern  🇺🇸 | Birdsboro, PA | <a href="https://jobs.smartrecruiters.com/ElbitSystemsOfAmerica/743999907500503-software-engineering-intern-ref1380b-?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun |
