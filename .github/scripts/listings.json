@@ -15408,7 +15408,7 @@
         "company_name": "CACI",
         "id": "e135fa5f-911a-4cab-8470-e6332ca0d824",
         "title": "Software Developer Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -18823,7 +18823,7 @@
         "company_name": "MarketAxess",
         "id": "8ea9668d-f05d-47f7-9d68-c6de832099c3",
         "title": "Research Intern 2024",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -18882,7 +18882,7 @@
         "company_name": "MarketAxess",
         "id": "d43d7758-4d60-4a23-a97d-3ec8d41cfe5a",
         "title": "Data Software Engineering Intern 2024",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2023"
         ],
@@ -19690,7 +19690,7 @@
         "company_name": "MarketAxess",
         "id": "e9db452f-e1a7-48dc-ad45-9c9b200ab57d",
         "title": "Software Engineering Intern 2024",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2023"
         ],
@@ -21380,7 +21380,7 @@
         "company_name": "Lunar Energy",
         "id": "fbd96cc6-f762-4e6b-81f9-d62981362c6a",
         "title": "Data Engineering and Analytical Tools Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -21541,7 +21541,7 @@
         "company_name": "Bose",
         "id": "8a1157b3-1f85-483f-923f-9fb3ca091305",
         "title": "Audio Machine Learning Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -21634,6 +21634,46 @@
             "Newark, CA"
         ],
         "company_url": "https://simplify.jobs/c/Lucid-Motors",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Leidos",
+        "id": "d00fc675-0ca2-4e63-812e-945fbec734d0",
+        "title": "Jr. Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1695223041,
+        "date_posted": 1695223041,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Tucson-AZ/Jr-Software-Engineer-Intern_R-00119068",
+        "locations": [
+            "Tucson, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Bose",
+        "id": "4b574f28-8504-4b76-aa58-65c652c0f6cc",
+        "title": "DSP Research Co-op",
+        "active": true,
+        "terms": [
+            "Winter 2025",
+            "Spring 2025",
+            "Summer 2025"
+        ],
+        "date_updated": 1695194395,
+        "date_posted": 1695194395,
+        "url": "https://boseallaboutme.wd1.myworkdayjobs.com/en-US/Bose_Careers/job/US-MA---Framingham/DSP-Research-Co-op_R25823",
+        "locations": [
+            "Framingham, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/bose",
         "is_visible": true,
         "sponsorship": "Other"
     }
