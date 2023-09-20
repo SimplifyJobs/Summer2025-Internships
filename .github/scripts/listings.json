@@ -5688,7 +5688,7 @@
         "sponsorship": "Offers Sponsorship"
     },
     {
-        "date_updated": 1690948800,
+        "date_updated": 1695219836,
         "url": "https://pef.fa.us1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions?keyword=Software+Engineering+Intern&mode=location&sortBy=RELEVANCY",
         "company_name": "National Instruments",
         "title": "Software Engineer",
@@ -5698,13 +5698,13 @@
         "terms": [
             "Summer 2024"
         ],
-        "active": true,
+        "active": false,
         "source": "hemanthy1",
         "id": "48ae226e-5f6e-4c8f-98be-d0a9256561d9",
         "date_posted": 1690948800,
         "company_url": "",
         "is_visible": true,
-        "sponsorship": "Offers Sponsorship"
+        "sponsorship": "Other"
     },
     {
         "source": "Simplify",
