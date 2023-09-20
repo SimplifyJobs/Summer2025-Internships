@@ -21759,5 +21759,25 @@
         "date_posted": 1695236137,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1695236157,
+        "url": "https://app.ripplematch.com/v2/public/job/a5c57f16/details?tl=87b54c48&fromPage=tracking_link",
+        "company_name": "Robinhood",
+        "title": "Web Engineer Intern",
+        "locations": [
+            "Menlo Park, CA",
+            "New York City, NY"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "sgabrani",
+        "id": "0a4bfb83-959d-4fe8-92e4-a1c382cf0cc2",
+        "date_posted": 1695236157,
+        "company_url": "",
+        "is_visible": true
     }
 ]

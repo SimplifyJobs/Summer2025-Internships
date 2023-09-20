@@ -61,6 +61,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Robinhood** | Web Engineer Intern | Menlo Park, CA</br>New York City, NY | <a href="https://app.ripplematch.com/v2/public/job/a5c57f16/details?tl=87b54c48&fromPage=tracking_link&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 20 |
 | **Robinhood** | iOS Engineer Intern | Menlo Park, CA</br>New York City, NY | <a href="https://app.ripplematch.com/v2/public/job/801850f8/details?tl=35f14a88&fromPage=tracking_link&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 20 |
 | **Robinhood** | Android Engineer Intern | Menlo Park, CA</br>New York City, NY | <a href="https://app.ripplematch.com/v2/public/job/e50341fc/details?tl=b23ee1f4&fromPage=tracking_link&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 20 |
 | **Robinhood** | Backend Engineer Intern | Menlo Park, CA</br>New York City, NY | <a href="https://app.ripplematch.com/v2/public/job/3dd1d6c4/details?tl=9e7bc756&fromPage=tracking_link&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 20 |
