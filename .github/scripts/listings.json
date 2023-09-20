@@ -21699,5 +21699,25 @@
         "date_posted": 1695236061,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1695236077,
+        "url": "https://app.ripplematch.com/v2/public/job/3dd1d6c4/details?tl=9e7bc756&fromPage=tracking_link",
+        "company_name": "Robinhood",
+        "title": "Backend Engineer Intern",
+        "locations": [
+            "Menlo Park, CA",
+            "New York City, NY"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "sgabrani",
+        "id": "7c60134a-e317-45d7-99df-ad5a4fea44d1",
+        "date_posted": 1695236077,
+        "company_url": "",
+        "is_visible": true
     }
 ]
