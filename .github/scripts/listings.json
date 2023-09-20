@@ -21719,5 +21719,25 @@
         "date_posted": 1695236077,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1695236115,
+        "url": "https://app.ripplematch.com/v2/public/job/e50341fc/details?tl=b23ee1f4&fromPage=tracking_link",
+        "company_name": "Robinhood",
+        "title": "Android Engineer Intern",
+        "locations": [
+            "Menlo Park, CA",
+            "New York City, NY"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "sgabrani",
+        "id": "77484fc4-c6bb-4391-98bc-81dcdb7b27df",
+        "date_posted": 1695236115,
+        "company_url": "",
+        "is_visible": true
     }
 ]
