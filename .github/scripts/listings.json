@@ -9005,7 +9005,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1692269219,
+        "date_updated": 1695339099,
         "url": "https://careers.ibm.com/job/18918106/technology-engineer-intern-2024-remote/",
         "company_name": "IBM",
         "title": "Technology Engineer Intern",
@@ -9015,8 +9015,8 @@
         "terms": [
             "Summer 2024"
         ],
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "RaiJashan17",
         "id": "0fe13038-76e0-442c-b621-9562e6e8a006",
         "date_posted": 1692269219,
