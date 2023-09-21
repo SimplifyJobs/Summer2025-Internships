@@ -22180,5 +22180,25 @@
         "company_url": "https://simplify.jobs/c/proofpoint",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1695306819,
+        "url": "https://boards.greenhouse.io/8451university/jobs/6864930002",
+        "company_name": "84.51\u00b0",
+        "title": "Data Scientist Intern",
+        "locations": [
+            "Chicago, IL",
+            "Cincinnati, OH"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "lizebear",
+        "id": "3b270c39-5295-4793-bc31-2f2561bfd608",
+        "date_posted": 1695306819,
+        "company_url": "",
+        "is_visible": true
     }
 ]
