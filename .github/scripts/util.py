@@ -63,7 +63,7 @@ def create_md_table(listings, offSeason=False):
     for listing in listings:
         company_url = listing["company_url"]
         company = f"**[{listing['company_name']}]({company_url})**" if len(
-            company_url) > 0 and listing["active"] else company
+            company_url) > 0 and listing["active"] else listing["company_name"]
         location = getLocations(listing)
         position = listing["title"] + getSponsorship(listing)
         terms = ", ".join(listing["terms"])
@@ -75,12 +75,10 @@ def create_md_table(listings, offSeason=False):
         date_posted = month if is_before_july_18 else day_month
 
         if prev_company == company and prev_date == date_posted:
-            prev_company = company
             company = ""
         else:
             prev_company = company
-
-        prev_date = date_posted
+            prev_date = date_posted
         
         if offSeason:
             table += f"| {company} | {position} | {location} | {terms} | {link} | {date_posted} |\n"
