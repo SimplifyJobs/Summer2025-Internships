@@ -7976,7 +7976,7 @@
         "company_name": "WorldQuant ",
         "id": "9fcb6a26-cdd5-48cd-9688-7d2147400498",
         "title": "WQBRAIN Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -14993,7 +14993,7 @@
         "company_name": "Modernizing Medicine",
         "id": "c47dd742-c2fc-457c-bd47-6214870fd4b5",
         "title": "Software Product Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -15397,7 +15397,7 @@
         "company_name": "Asana",
         "id": "587a7c0b-dca2-44f3-9c15-5c025f164284",
         "title": "NYC Summer Software Engineering Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -15416,7 +15416,7 @@
         "company_name": "Asana",
         "id": "36f4b007-9280-4f5e-9a12-e50b28158c58",
         "title": "SF Summer Software Engineering Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -18852,7 +18852,7 @@
         "company_name": "MarketAxess",
         "id": "d43d7758-4d60-4a23-a97d-3ec8d41cfe5a",
         "title": "Data Software Engineering Intern 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2023"
         ],
@@ -19660,7 +19660,7 @@
         "company_name": "MarketAxess",
         "id": "e9db452f-e1a7-48dc-ad45-9c9b200ab57d",
         "title": "Software Engineering Intern 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2023"
         ],
@@ -22200,5 +22200,128 @@
         "date_posted": 1695306819,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Chamberlain Group",
+        "id": "ecb6b20a-a76b-4fbf-8c8c-cd1d6e87b2c5",
+        "title": "Intern \u2013 Myq Middleware - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1695310335,
+        "date_posted": 1695310335,
+        "url": "https://chamberlain.wd1.myworkdayjobs.com/Chamberlain_Group/job/Oak-Brook-IL/Intern--myQ-Middleware--Summer-2024-_JR26198",
+        "locations": [
+            "Western Springs, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Chamberlain-Group",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Klaviyo",
+        "id": "c65ba711-beb5-486d-a175-7db69e6dc031",
+        "title": "2024 Spring Co-op Software Engineer",
+        "active": true,
+        "terms": [
+            "Spring 2024"
+        ],
+        "date_updated": 1695309443,
+        "date_posted": 1695309443,
+        "url": "https://careers.klaviyo.com/en/search-jobs/?gh_jid=5746787003",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Klaviyo",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Generally Intelligent",
+        "id": "c0065d69-c8c5-45e5-b660-e076b074177c",
+        "title": "Internship",
+        "active": true,
+        "terms": [
+            "Summer 2023",
+            "Fall 2023",
+            "Winter 2024"
+        ],
+        "date_updated": 1695309429,
+        "date_posted": 1695309429,
+        "url": "https://jobs.lever.co/generallyintelligent/3bd15037-6dd3-4838-a6c9-c0452b3ac8b5/apply",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Generally-Intelligent",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "STR",
+        "id": "895280d4-fa74-4b4e-a6f0-558c28d5a0a5",
+        "title": "Sensors Summer Internship",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1695309390,
+        "date_posted": 1695309390,
+        "url": "https://boards.greenhouse.io/systemstechnologyresearch/jobs/4273109006",
+        "locations": [
+            "Dayton, OH",
+            "Arlington, VA",
+            "San Diego, CA",
+            "Burlington, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/STR",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "STR",
+        "id": "ab0100e5-fe60-4096-b771-dec8766a5a41",
+        "title": "Analytics Summer Internship",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1695309382,
+        "date_posted": 1695309382,
+        "url": "https://boards.greenhouse.io/systemstechnologyresearch/jobs/4273104006",
+        "locations": [
+            "Dayton, OH",
+            "Arlington, VA",
+            "Burlington, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/STR",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "STR",
+        "id": "b8ca7a9d-7ac7-4c03-8544-41f42a4e668a",
+        "title": "Cyber Summer Internship",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1695309385,
+        "date_posted": 1695309385,
+        "url": "https://boards.greenhouse.io/systemstechnologyresearch/jobs/4272805006",
+        "locations": [
+            "Arlington, VA",
+            "Melbourne, FL",
+            "Burlington, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/STR",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
