@@ -15890,18 +15890,18 @@
         "is_visible": true
     },
     {
-        "date_updated": 1694102466,
+        "date_updated": 1695338953,
         "url": "https://mycareer.verizon.com/jobs/r-1014280/full-stack-software-development-summer-2024-internship/",
         "company_name": "Verizon",
-        "title": "Full Stack Software Development Summer 2024 Internship",
+        "title": "Full Stack Software Development Summer Internship",
         "locations": [
             "US: Basking Ridge, New Jersey Alpharetta, Georgia Irving, Texas Boston, Massachusetts Lone Tree, Colorado Irvine, California Walnut Creek, California"
         ],
         "terms": [
             "Summer 2024"
         ],
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "j0hnxie",
         "id": "99cb82cd-6771-4e59-b857-13d41c33b4b5",
         "date_posted": 1694102466,
