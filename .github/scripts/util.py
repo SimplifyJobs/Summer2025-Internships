@@ -75,15 +75,17 @@ def create_md_table(listings, offSeason=False):
         date_posted = month if is_before_july_18 else day_month
 
         if prev_company == company and prev_date == date_posted:
+            prev_company = company
             company = ""
+        else:
+            prev_company = company
 
+        prev_date = date_posted
+        
         if offSeason:
             table += f"| {company} | {position} | {location} | {terms} | {link} | {date_posted} |\n"
         else:
             table += f"| {company} | {position} | {location} | {link} | {date_posted} |\n"
-
-        prev_company = company
-        prev_date = date_posted
 
     return table
 
