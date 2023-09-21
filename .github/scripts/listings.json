@@ -12551,7 +12551,7 @@
         "company_name": "Stripe",
         "id": "2ba615b1-880c-4f7e-9640-7cc86fb1d60b",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -22026,7 +22026,7 @@
         "company_name": "Recorded Future",
         "id": "40f89d09-d901-454e-bdf2-2fd8a7675e76",
         "title": "Data Engineering Intern - Web Scraping",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2024",
             "Spring 2024",
