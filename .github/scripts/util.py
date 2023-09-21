@@ -62,7 +62,7 @@ def create_md_table(listings, offSeason=False):
     prev_date = None
     for listing in listings:
         company_url = listing["company_url"]
-        company = f"[{listing['company_name']}]({company_url})" if len(
+        company = f"**[{listing['company_name']}]({company_url})**" if len(
             company_url) > 0 and listing["active"] else company
         location = getLocations(listing)
         position = listing["title"] + getSponsorship(listing)
@@ -78,9 +78,9 @@ def create_md_table(listings, offSeason=False):
             company = ""
 
         if offSeason:
-            table += f"| **{company}** | {position} | {location} | {terms} | {link} | {date_posted} |\n"
+            table += f"| {company} | {position} | {location} | {terms} | {link} | {date_posted} |\n"
         else:
-            table += f"| **{company}** | {position} | {location} | {link} | {date_posted} |\n"
+            table += f"| {company} | {position} | {location} | {link} | {date_posted} |\n"
 
         prev_company = company
         prev_date = date_posted
