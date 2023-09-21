@@ -21548,15 +21548,15 @@
         "company_name": "Leidos",
         "id": "d00fc675-0ca2-4e63-812e-945fbec734d0",
         "title": "Jr. Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
-        "date_updated": 1695223041,
+        "date_updated": 1695339048,
         "date_posted": 1695223041,
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Tucson-AZ/Jr-Software-Engineer-Intern_R-00119068",
         "locations": [
-            "Tucson, AZ"
+            "Tuscon, AZ"
         ],
         "company_url": "https://simplify.jobs/c/Leidos",
         "is_visible": true,
