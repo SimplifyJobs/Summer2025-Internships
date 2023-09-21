@@ -61,7 +61,13 @@ def create_md_table(listings, offSeason=False):
     prev_company = None
     prev_date = None
     for listing in listings:
-        company = listing["company_name"]
+        company_url = listing["company_url"]
+        company = f"[{listing['company_name']}]({company_url})" if len(
+            company_url) > 0 and listing["active"] else company
+        location = getLocations(listing)
+        position = listing["title"] + getSponsorship(listing)
+        terms = ", ".join(listing["terms"])
+        link = getLink(listing)
 
         month = datetime.fromtimestamp(listing["date_posted"]).strftime('%b')
         day_month = datetime.fromtimestamp(listing["date_posted"]).strftime('%b %d')
@@ -72,11 +78,11 @@ def create_md_table(listings, offSeason=False):
             company = ""
 
         if offSeason:
-            table += f"| {company} | {listing['title']} | {getLocations(listing)} | {' / '.join(listing['terms'])} | {getLink(listing)} | {date_posted} |\n"
+            table += f"| **{company}** | {position} | {location} | {terms} | {link} | {date_posted} |\n"
         else:
-            table += f"| {company} | {listing['title']} | {getLocations(listing)} | {getLink(listing)} | {date_posted} |\n"
+            table += f"| **{company}** | {position} | {location} | {link} | {date_posted} |\n"
 
-        prev_company = listing["company_name"]
+        prev_company = company
         prev_date = date_posted
 
     return table
