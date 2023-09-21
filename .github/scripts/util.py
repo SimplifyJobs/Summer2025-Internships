@@ -11,7 +11,7 @@ LONG_APPLY_BUTTON = "https://i.imgur.com/u1KNU8z.png"
 
 def setOutput(key, value):
     if output := os.getenv('GITHUB_OUTPUT', None):
-        with output as fh:
+        with open(output, 'a') as fh:
             print(f'{key}={value}', file=fh)
 
 def fail(why):
