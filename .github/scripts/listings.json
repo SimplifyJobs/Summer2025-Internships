@@ -22138,5 +22138,47 @@
         "company_url": "https://simplify.jobs/c/Garda-Capital-Partners",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Stryker",
+        "id": "a01392bc-7a82-420a-81dd-bf8ae0f5c1a7",
+        "title": "R&D Intern",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1695280639,
+        "date_posted": 1695280639,
+        "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Arizona-Tempe-1810-W-Drake-Dr/R-D-Intern_R505039",
+        "locations": [
+            "Tempe, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Stryker",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Proofpoint",
+        "id": "72fe063f-407b-462c-9106-7f3137c8450d",
+        "title": "Software Engineer Part-time Intern - Undergrad",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1695280517,
+        "date_posted": 1695280517,
+        "url": "https://proofpoint.wd5.myworkdayjobs.com/en-US/ProofpointCareers/job/Colorado/Software-Engineer-Part-time-Intern---Undergrad_R9669",
+        "locations": [
+            "Texas",
+            "Colorado",
+            "Utah",
+            "Missouri",
+            "Illinois"
+        ],
+        "company_url": "https://simplify.jobs/c/proofpoint",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
