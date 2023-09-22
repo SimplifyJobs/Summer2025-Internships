@@ -1613,7 +1613,7 @@
         "company_name": "Covariant",
         "id": "6c3f7766-854b-4b07-a73b-cbfa529ef5a2",
         "title": "Machine Learning - AI Research Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2023"
         ],
@@ -9421,7 +9421,7 @@
         "company_name": "Vectra",
         "id": "c6bb4f96-69f4-46a5-b641-0f26b5fd7220",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -11041,7 +11041,7 @@
         "company_name": "Epic Games",
         "id": "9aa1f016-43df-4d6e-975a-59016c2e27a8",
         "title": "UI Programmer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024"
         ],
@@ -11079,7 +11079,7 @@
         "company_name": "Epic Games",
         "id": "0a98fb5f-9a1b-4693-a028-c1ce916cb1eb",
         "title": "Gameplay Programmer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -11388,7 +11388,7 @@
         "company_name": "Epic Games",
         "id": "8f5a7803-eb13-421c-9f3c-a0ae080f5134",
         "title": "UI Programmer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -11974,7 +11974,7 @@
         "company_name": "Epic Games",
         "id": "8d2c462e-9856-4266-a533-6467bb9c7d00",
         "title": "Gameplay Programmer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -15742,7 +15742,7 @@
         "company_name": "Epic Games",
         "id": "f0a82654-ed6d-43f7-b6f1-5d756c5c7de2",
         "title": "Audio Research Intern\t",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -16469,7 +16469,7 @@
         "company_name": "Kinaxis",
         "id": "b8497f72-2279-44e1-87b4-e7a2a419769e",
         "title": "Co-Op/Intern Developer - Clients - Front End Technologies",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2024"
         ],
@@ -16759,7 +16759,7 @@
         "company_name": "Epic Games",
         "id": "7f5d2a5b-c96f-42ed-b89c-8a15fd757ec3",
         "title": "Full Stack Web Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -19153,7 +19153,7 @@
         "company_name": "Extreme Networks",
         "id": "3182b53c-7ece-48b5-8470-fbf974b33c99",
         "title": "Product & Office of the CTO \u2013 Intern - Octo",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -20731,7 +20731,7 @@
         "company_name": "Lucid Motors",
         "id": "dbc9ac0d-3037-4ac8-b6e0-73511e6f631f",
         "title": "Intern \u2013 Embedded Platform Software Engineer - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -22257,6 +22257,178 @@
             "Burlington, MA"
         ],
         "company_url": "https://simplify.jobs/c/STR",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "NVIDIA",
+        "id": "80c35150-86ec-471f-a438-68903aeb542b",
+        "title": "Rapids Intern - C++ and CUDA - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1695339340,
+        "date_posted": 1695339340,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/RAPIDS-Intern--C---and-CUDA---Summer-2024_JR1970212-1",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Kinaxis",
+        "id": "74489d90-225f-4e4e-8eae-6fdf33f2b9d0",
+        "title": "Co-Op/Intern Algorithm Developer - Scheduling",
+        "active": true,
+        "terms": [
+            "Winter 2024"
+        ],
+        "date_updated": 1695339280,
+        "date_posted": 1695339280,
+        "url": "https://boards.greenhouse.io/kinaxis/jobs/6942870002",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Kinaxis",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "ReNAgade Therapeutics",
+        "id": "0faf57b7-e13e-4927-879d-ace73ccc5ba3",
+        "title": "Co-Op Bio Informatics",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1695339301,
+        "date_posted": 1695339301,
+        "url": "https://boards.greenhouse.io/renagadetherapeutics/jobs/4281887006",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Renagadetx",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Chamberlain Group",
+        "id": "033c297f-a10c-4666-8ff7-c3fcfb00a477",
+        "title": "Intern \u2013 SW Test Automation Engineer - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1695339242,
+        "date_posted": 1695339242,
+        "url": "https://chamberlain.wd1.myworkdayjobs.com/Chamberlain_Group/job/Oak-Brook-IL/Intern--SW-Test-Automation-Engineer--Summer-2024-_JR26358",
+        "locations": [
+            "Western Springs, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Chamberlain-Group",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "StackAdapt",
+        "id": "012d775f-3de1-4379-b1b8-6a93bd993e27",
+        "title": "Data Analyst \u2013 Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1695338524,
+        "date_posted": 1695338524,
+        "url": "https://jobs.lever.co/stackadapt/fb4adade-d082-40bc-a71a-a5be6c05c6d6/apply",
+        "locations": [
+            "Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/StackAdapt",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "SEP",
+        "id": "e36b24ae-6f4d-4471-ba44-05cbdffb3b06",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1695338182,
+        "date_posted": 1695338182,
+        "url": "https://jobs.lever.co/sep/867bd723-092e-496a-9633-cc68b766735a/apply",
+        "locations": [
+            "Carmel, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/SEP",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Intel",
+        "id": "c77d20d1-0d2b-4264-87d0-dbb5aca69509",
+        "title": "Undergraduate Intern Technical",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1695338175,
+        "date_posted": 1695338175,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-California-Santa-Clara/Undergraduate-Intern-Technical_JR0247936",
+        "locations": [
+            "Santa Clara, CA",
+            "Hillsboro, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Sony Pictures Imageworks",
+        "id": "da74e838-1495-4f61-86c9-dc03aa5b8bdf",
+        "title": "Software Engineer \u2013 Co-op",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1695338122,
+        "date_posted": 1695338122,
+        "url": "https://boards.greenhouse.io/sonypicturesimageworks/jobs/4904355003",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Sony-Pictures-Imageworks",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Zoox",
+        "id": "c2adea94-0254-4a3f-8edf-aa2f8d7ff506",
+        "title": "January \u2013 Human Computer Interaction Research Internship - April 2024 start",
+        "active": true,
+        "terms": [
+            "Winter 2024"
+        ],
+        "date_updated": 1695338091,
+        "date_posted": 1695338091,
+        "url": "https://jobs.lever.co/zoox/c0dfaaba-ec1e-418a-9379-3a340fefa9b5/apply",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Zoox",
         "is_visible": true,
         "sponsorship": "Other"
     }
