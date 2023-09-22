@@ -21737,7 +21737,12 @@
         "company_name": "IBM",
         "title": "Back End Developer",
         "locations": [
-            "Armonk, NY", "Austin, TX", "Durham, NC", "Lowell, MA", "New York, NY", "Poughkeepsie, NY"
+            "Armonk, NY",
+            "Austin, TX",
+            "Durham, NC",
+            "Lowell, MA",
+            "New York, NY",
+            "Poughkeepsie, NY"
         ],
         "terms": [
             "Summer 2024"
@@ -22109,14 +22114,14 @@
         "terms": [
             "Summer 2023"
         ],
-        "date_updated": 1695280639,
+        "date_updated": 1695354272,
         "date_posted": 1695280639,
         "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Arizona-Tempe-1810-W-Drake-Dr/R-D-Intern_R505039",
         "locations": [
             "Tempe, AZ"
         ],
         "company_url": "https://simplify.jobs/c/Stryker",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
