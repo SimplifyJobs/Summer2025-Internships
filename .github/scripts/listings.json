@@ -12069,7 +12069,7 @@
         "company_name": "Lucid Motors",
         "id": "11f29822-fc63-455b-b5d6-e9bead5b794e",
         "title": "Intern \u2013 Software Quality Assurance - Data Analyst - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -12188,7 +12188,7 @@
         "company_name": "Lucid Motors",
         "id": "725d4805-1f10-4793-9495-c217d528d29c",
         "title": "Intern \u2013 Test Automation and Unit Testing - Controls Software Engineer - Summer 2024",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -13149,7 +13149,7 @@
         "company_name": "Kinaxis",
         "id": "94062fec-d88e-40ae-b1c5-d752e0dbf08b",
         "title": "Co-Op/Intern Cloud Engineer - Observability",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2024"
         ],
@@ -20062,7 +20062,7 @@
         "company_name": "Bristol-Myers Squibb",
         "id": "457571ea-1d8f-4bdc-9ce5-60f885ce9220",
         "title": "MSAT Process Engineer Co-op - Sepax Cell Washer Data Analysis",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -22557,6 +22557,65 @@
             "Newark, CA"
         ],
         "company_url": "https://simplify.jobs/c/Lucid-Motors",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Bank of Montreal (BMO)",
+        "id": "97a81596-3b71-4782-aecb-a20c435289b9",
+        "title": "Software Developer \u2013 Co-op/Internship - Winter 2024 - 8 months",
+        "active": true,
+        "terms": [
+            "Winter 2024"
+        ],
+        "date_updated": 1695397027,
+        "date_posted": 1695397027,
+        "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Naperville-IL-USA/Software-Developer--Winter-2024--Co-op-Internship-----8-months_R230016247",
+        "locations": [
+            "Naperville, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/BMO",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Tutor Intelligence",
+        "id": "bcde9fb9-0e08-41cc-815c-d5d948e0c5b2",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1695396756,
+        "date_posted": 1695396756,
+        "url": "https://jobs.lever.co/tutorintelligence/00a57f3f-2039-4cc2-8ccc-1d6de558315d/apply",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/TutorIntelligence",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Recorded Future",
+        "id": "dc387056-d461-4e3f-b848-2594494dfc1e",
+        "title": "Data Engineering Intern - Structured Data",
+        "active": true,
+        "terms": [
+            "Winter 2024",
+            "Spring 2024",
+            "Summer 2024"
+        ],
+        "date_updated": 1695395983,
+        "date_posted": 1695395983,
+        "url": "https://boards.greenhouse.io/recordedfuture/jobs/6932065002",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Recorded-Future",
         "is_visible": true,
         "sponsorship": "Other"
     }
