@@ -69,10 +69,10 @@ def create_md_table(listings, offSeason=False):
         terms = ", ".join(listing["terms"])
         link = getLink(listing)
 
-        month = datetime.fromtimestamp(listing["date_posted"]).strftime('%b')
+        year_month = datetime.fromtimestamp(listing["date_posted"]).strftime('%b %Y')
         day_month = datetime.fromtimestamp(listing["date_posted"]).strftime('%b %d')
         is_before_july_18 = datetime.fromtimestamp(listing["date_posted"]) < datetime(2023, 7, 18, 0, 0, 0)
-        date_posted = month if is_before_july_18 else day_month
+        date_posted = year_month if is_before_july_18 else day_month
 
         if prev_company == listing['company_name'] and prev_date == date_posted:
             company = ""
