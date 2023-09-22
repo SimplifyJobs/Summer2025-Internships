@@ -63,7 +63,7 @@ def create_md_table(listings, offSeason=False):
     for listing in listings:
         company_url = listing["company_url"]
         company = f"**[{listing['company_name']}]({company_url})**" if len(
-            company_url) > 0 and listing["active"] else listing["company_name"]
+            company_url) > 0 else listing["company_name"]
         location = getLocations(listing)
         position = listing["title"] + getSponsorship(listing)
         terms = ", ".join(listing["terms"])
@@ -74,10 +74,10 @@ def create_md_table(listings, offSeason=False):
         is_before_july_18 = datetime.fromtimestamp(listing["date_posted"]) < datetime(2023, 7, 18, 0, 0, 0)
         date_posted = month if is_before_july_18 else day_month
 
-        if prev_company == company and prev_date == date_posted:
+        if prev_company == listing['company_name'] and prev_date == date_posted:
             company = ""
         else:
-            prev_company = company
+            prev_company = listing['company_name']
             prev_date = date_posted
         
         if offSeason:
@@ -134,7 +134,7 @@ def sortListings(listings):
         if listing["company_name"] not in linkForCompany or len(listing["company_url"]) > 0:
             linkForCompany[listing["company_name"]] = listing["company_url"]
 
-    listings.sort(key=lambda x: (x['date_posted'], x['company_name'].lower(), x['date_updated']), reverse=True)
+    listings.sort(key=lambda x: (datetime.fromtimestamp(x["date_posted"]).strftime('%b %d'), x['company_name'].lower(), x['date_updated']), reverse=True)
 
     for listing in listings:
         listing["company_url"] = linkForCompany[listing["company_name"]]
