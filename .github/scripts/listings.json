@@ -21737,7 +21737,7 @@
         "company_name": "IBM",
         "title": "Back End Developer",
         "locations": [
-            "Armonk, NY Austin, TX Durham, NC Lowell, MA New York, NY Poughkeepsie, NY"
+            "Armonk, NY", "Austin, TX", "Durham, NC", "Lowell, MA", "New York, NY", "Poughkeepsie, NY"
         ],
         "terms": [
             "Summer 2024"
