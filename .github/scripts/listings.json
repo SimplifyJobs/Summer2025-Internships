@@ -18828,7 +18828,7 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1694645646,
+        "date_updated": 1695411511,
         "url": "https://app.ripplematch.com/v2/public/job/f2669bd9/details",
         "company_name": "Juniper Networks",
         "title": "Software Engineering Intern Summer 2024",
@@ -18840,7 +18840,7 @@
             "Summer 2024"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "mtlogs",
         "id": "cedaf4b4-c8d4-4837-aef4-88cb1cbbc86e",
         "date_posted": 1694645646,
