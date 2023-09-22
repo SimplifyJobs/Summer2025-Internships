@@ -22480,5 +22480,84 @@
         "company_url": "https://simplify.jobs/c/PsiQuantum",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "PlayStation Global",
+        "id": "39bc5e03-871a-4dbf-a612-9d80ed5ce737",
+        "title": "Data Science Intern",
+        "active": true,
+        "terms": [
+            "Spring 2023",
+            "Summer 2023",
+            "Fall 2023"
+        ],
+        "date_updated": 1695367979,
+        "date_posted": 1695367979,
+        "url": "https://boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/4979014004",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/PlayStation-Global",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Glean",
+        "id": "1701d8eb-a896-4155-b70e-b2bede7c380d",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1695367192,
+        "date_posted": 1695367192,
+        "url": "https://boards.greenhouse.io/gleanwork/jobs/4006910005",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Glean",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Dell Technologies",
+        "id": "e04eb448-c3f4-4123-8fbb-01f6f993e045",
+        "title": "Undergraduate Intern",
+        "active": true,
+        "terms": [
+            "Spring 2024"
+        ],
+        "date_updated": 1695366803,
+        "date_posted": 1695366803,
+        "url": "https://dell.wd1.myworkdayjobs.com/External/job/Round-Rock-Texas-United-States/Undergraduate-Intern_R230279-1",
+        "locations": [
+            "Round Rock, TX",
+            "Westborough, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Dell-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Lucid Motors",
+        "id": "d27c46e6-7dce-4b88-8c20-4d594e90e3dc",
+        "title": "Intern \u2013 Embedded Platform Software - Development Engineer - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1695366506,
+        "date_posted": 1695366506,
+        "url": "https://jobs.lever.co/lucidmotors/eb3a7ed2-0fa4-4dda-9434-60dbdfd15a0e/apply",
+        "locations": [
+            "Newark, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Lucid-Motors",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
