@@ -134,7 +134,19 @@ def sortListings(listings):
         if listing["company_name"] not in linkForCompany or len(listing["company_url"]) > 0:
             linkForCompany[listing["company_name"]] = listing["company_url"]
 
-    listings.sort(key=lambda x: (datetime.fromtimestamp(x["date_posted"]).strftime('%b %d'), x['company_name'].lower(), x['date_updated']), reverse=True)
+    listings.sort(
+        key=lambda x: (
+            datetime(
+                datetime.fromtimestamp(x["date_posted"]).year,
+                datetime.fromtimestamp(x["date_posted"]).month,
+                datetime.fromtimestamp(x["date_posted"]).day
+            ),
+            x['company_name'].lower(),
+            x["active"],
+            x['date_updated']
+        ),
+        reverse=True
+    )
 
     for listing in listings:
         listing["company_url"] = linkForCompany[listing["company_name"]]
