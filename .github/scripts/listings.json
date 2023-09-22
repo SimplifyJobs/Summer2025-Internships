@@ -22660,5 +22660,26 @@
         "date_posted": 1695411465,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1695411482,
+        "url": "https://app.careerpuck.com/job-board/lyft/job/6941076002?gh_jid=6941076002",
+        "company_name": "Lyft",
+        "title": "Software Engineer Intern, Frontend (2024)",
+        "locations": [
+            "San Francisco, CA",
+            "New York, NY",
+            "Seattle, WA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "IceColdBlizzard1",
+        "id": "852c4b05-63f4-447c-a17c-ab15a9dcd6f4",
+        "date_posted": 1695411482,
+        "company_url": "",
+        "is_visible": true
     }
 ]
