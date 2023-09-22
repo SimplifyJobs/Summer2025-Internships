@@ -22681,5 +22681,24 @@
         "date_posted": 1695411482,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1695425607,
+        "url": "https://careers.qualcomm.com/careers/job/446694509037-software-engineering-internship-summer-2024-san-diego-california-united-states-of-america?domain=qualcomm.com",
+        "company_name": "Qualcomm",
+        "title": "Software Engineering Internship",
+        "locations": [
+            "Bridgewater USA; Austin USA; Santa Clara USA; Boulder USA; Boxborough USA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "zimo27",
+        "id": "b613b328-0dc0-4799-8b5f-fb6f601ffc3b",
+        "date_posted": 1695425607,
+        "company_url": "",
+        "is_visible": true
     }
 ]
