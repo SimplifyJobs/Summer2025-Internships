@@ -8409,7 +8409,7 @@
         "company_name": "Chime",
         "id": "eb94e179-18e1-464a-a8e0-dbc13b7d0301",
         "title": "Data Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -10811,7 +10811,7 @@
         "company_name": "Domo",
         "id": "d5056c52-948c-4ac7-83ad-087c78b06996",
         "title": "Product Insights Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -12188,7 +12188,7 @@
         "company_name": "Lucid Motors",
         "id": "725d4805-1f10-4793-9495-c217d528d29c",
         "title": "Intern \u2013 Test Automation and Unit Testing - Controls Software Engineer - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -20506,7 +20506,7 @@
         "company_name": "Leidos",
         "id": "a6f1326c-1035-4bf3-9799-c370bd0ba976",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -20544,7 +20544,7 @@
         "company_name": "Leidos",
         "id": "74fe0244-17cd-4905-8010-fb34ef999470",
         "title": "Data Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -20563,7 +20563,7 @@
         "company_name": "Leidos",
         "id": "29569f40-8b74-4677-968b-a35aaca8dc3c",
         "title": "Systems Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -20699,7 +20699,7 @@
         "company_name": "NVIDIA",
         "id": "6a4937e3-4fda-43de-a177-fb90f2a5e77c",
         "title": "Technical Program Manager Intern - Deep Learning Software - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -22210,7 +22210,7 @@
         "company_name": "Generally Intelligent",
         "id": "c0065d69-c8c5-45e5-b660-e076b074177c",
         "title": "Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023",
             "Fall 2023",
@@ -22448,7 +22448,7 @@
         "company_name": "Zoox",
         "id": "c2adea94-0254-4a3f-8edf-aa2f8d7ff506",
         "title": "January \u2013 Human Computer Interaction Research Internship - April 2024 start",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2024"
         ],
@@ -22459,6 +22459,25 @@
             "San Mateo, CA"
         ],
         "company_url": "https://simplify.jobs/c/Zoox",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "PsiQuantum",
+        "id": "ab50009f-afd3-4fcb-a7a9-49d87c3aa761",
+        "title": "Intern \u2013 Quantum Architecture",
+        "active": true,
+        "terms": [
+            "Winter 2024"
+        ],
+        "date_updated": 1695338237,
+        "date_posted": 1695338237,
+        "url": "https://www.psiquantum.com/apply?gh_jid=5557710003",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/PsiQuantum",
         "is_visible": true,
         "sponsorship": "Other"
     }
