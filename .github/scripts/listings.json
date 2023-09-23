@@ -10887,7 +10887,7 @@
         "company_name": "The Allen Institute for AI",
         "id": "de10138c-10f1-4b4e-b526-8ae71be815b4",
         "title": "Research Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2023",
             "Summer 2023",
@@ -12428,7 +12428,7 @@
         "company_name": "Visier Solutions",
         "id": "eef35a1f-107f-4538-be50-0b6ebb277e49",
         "title": "Data Scientist Co-op - January 2024 - August 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025",
             "Spring 2025",
@@ -12468,7 +12468,7 @@
         "company_name": "Visier Solutions",
         "id": "12bfa309-414d-4825-8424-15ab4d536a46",
         "title": "Software Developer Co-op - Jan 2024 - Aug 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -12487,7 +12487,7 @@
         "company_name": "Stripe",
         "id": "2ba615b1-880c-4f7e-9640-7cc86fb1d60b",
         "title": "Software Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -14606,7 +14606,7 @@
         "company_name": "Sumo Digital",
         "id": "9fefca5b-e7a4-425a-b011-677ce5410283",
         "title": "Games Programming Apprenticeship",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2024"
         ],
@@ -15333,7 +15333,7 @@
         "company_name": "Asana",
         "id": "587a7c0b-dca2-44f3-9c15-5c025f164284",
         "title": "NYC Summer Software Engineering Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2023"
         ],
@@ -15352,7 +15352,7 @@
         "company_name": "Asana",
         "id": "36f4b007-9280-4f5e-9a12-e50b28158c58",
         "title": "SF Summer Software Engineering Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2023"
         ],
@@ -15742,7 +15742,7 @@
         "company_name": "Epic Games",
         "id": "f0a82654-ed6d-43f7-b6f1-5d756c5c7de2",
         "title": "Audio Research Intern\t",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -18406,7 +18406,7 @@
         "company_name": "Leidos",
         "id": "b3b118c3-8f3c-4286-8450-99f117f62130",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -18754,7 +18754,7 @@
         "company_name": "MarketAxess",
         "id": "8ea9668d-f05d-47f7-9d68-c6de832099c3",
         "title": "Research Intern 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -22634,8 +22634,8 @@
         ],
         "sponsorship": "Other",
         "active": true,
-        "source": "IceColdBlizzard1",
-        "id": "6e1994d8-ddec-4f35-9d00-116cae7a4c94",
+        "source": "Simplify",
+        "id": "fdd1e7c6-44a7-4d45-ad7d-e43b253d93ad",
         "date_posted": 1695411441,
         "company_url": "",
         "is_visible": true
@@ -22655,8 +22655,8 @@
         ],
         "sponsorship": "Offers Sponsorship",
         "active": true,
-        "source": "IceColdBlizzard1",
-        "id": "a58ac5fc-c825-438b-aa1e-40d434e913f5",
+        "source": "Simplify",
+        "id": "86dc8348-be9c-4d07-a04a-b9c739de9ac3",
         "date_posted": 1695411465,
         "company_url": "",
         "is_visible": true
@@ -22676,8 +22676,8 @@
         ],
         "sponsorship": "Other",
         "active": true,
-        "source": "IceColdBlizzard1",
-        "id": "852c4b05-63f4-447c-a17c-ab15a9dcd6f4",
+        "source": "Simplify",
+        "id": "68b4ea24-388c-4065-b03e-cd86d6cf2a5f",
         "date_posted": 1695411482,
         "company_url": "",
         "is_visible": true
@@ -22700,5 +22700,233 @@
         "date_posted": 1695425607,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Chamberlain Group",
+        "id": "79782810-790c-4c46-b849-44a0f912d63c",
+        "title": "Intern \u2013 Myq Mobile Developer - Android or iOS - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1695425667,
+        "date_posted": 1695425667,
+        "url": "https://chamberlain.wd1.myworkdayjobs.com/Chamberlain_Group/job/Oak-Brook-IL/Intern--myQ-Mobile-Developer--Android-or-iOS---Summer-2024-_JR26257",
+        "locations": [
+            "Western Springs, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Chamberlain-Group",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "AQR Capital Management",
+        "id": "e1621cbc-a18b-43b6-97cc-2ca265e39d81",
+        "title": "2024 Quantitative Research Development Summer Analyst",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1695425347,
+        "date_posted": 1695425347,
+        "url": "https://careers.aqr.com/jobs?gh_jid=5388649&gh_jid=5388649",
+        "locations": [
+            "Greenwich, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/5dd45b67-2959-4360-b1af-d73f66ed2930",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Zocdoc",
+        "id": "e1d86b04-f913-4679-8064-d644abbb2efc",
+        "title": "Software Engineering Summer Internship",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1695425310,
+        "date_posted": 1695425310,
+        "url": "https://www.zocdoc.com/about/careers/?job_id=5198282&gh_jid=5198282",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Zocdoc",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Lyft",
+        "id": "7e3ea383-1671-4106-910e-d31b2adb2800",
+        "title": "Software Engineer Intern - Frontend - 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1695425013,
+        "date_posted": 1695425013,
+        "url": "https://app.careerpuck.com/job-board/lyft/job/6941073002?gh_jid=6941073002",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Lyft",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Lyft",
+        "id": "da66605a-653a-4bc8-ac66-f91ab6378bd5",
+        "title": "Software Engineer Intern - Frontend - 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1695425010,
+        "date_posted": 1695425010,
+        "url": "https://app.careerpuck.com/job-board/lyft/job/6941075002?gh_jid=6941075002",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Lyft",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Lyft",
+        "id": "33768580-60be-49be-bdb8-06a6311e483e",
+        "title": "Software Engineer Intern - Mobile Android - 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1695425008,
+        "date_posted": 1695425008,
+        "url": "https://app.careerpuck.com/job-board/lyft/job/6941106002?gh_jid=6941106002",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Lyft",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Lyft",
+        "id": "74feb2e8-45f1-4322-916b-51a4d31341f6",
+        "title": "Software Engineer Intern - Backend - 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1695425006,
+        "date_posted": 1695425006,
+        "url": "https://app.careerpuck.com/job-board/lyft/job/6932377002?gh_jid=6932377002",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Lyft",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Lyft",
+        "id": "859d6dac-38b8-4a0d-97dc-3f16a2cec032",
+        "title": "Software Engineer Intern - Backend - 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1695425006,
+        "date_posted": 1695425006,
+        "url": "https://app.careerpuck.com/job-board/lyft/job/6932374002?gh_jid=6932374002",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Lyft",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Lyft",
+        "id": "19e655e4-af25-4ef5-b86a-52d9913d2bb4",
+        "title": "Software Engineer Intern - Mobile Android - 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1695425007,
+        "date_posted": 1695425007,
+        "url": "https://app.careerpuck.com/job-board/lyft/job/6941102002?gh_jid=6941102002",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Lyft",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Linden Lab",
+        "id": "204a49b6-d3c0-4585-85ef-ed6bcbb9abea",
+        "title": "Web Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1695424505,
+        "date_posted": 1695424505,
+        "url": "https://www.lindenlab.com/careers?gh_jid=5673435003",
+        "locations": [
+            "Remote"
+        ],
+        "company_url": "https://simplify.jobs/c/LindenLab",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Moonhub",
+        "id": "e4bf14bc-c30f-4b40-8ff7-9bbe4b5fb34e",
+        "title": "Engineering Intern - Full-stack",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1695424205,
+        "date_posted": 1695424205,
+        "url": "https://jobs.lever.co/Moonhub/de312f69-9a9a-4cca-a93a-de3abb46cdf4/apply",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/MoonhubAI",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Moonhub",
+        "id": "39c631c3-6674-4ec0-b030-4e962196e64b",
+        "title": "ML Intern \u2013 Large Language Models",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1695424206,
+        "date_posted": 1695424206,
+        "url": "https://jobs.lever.co/Moonhub/280886f1-1c44-4497-acdf-bf26117e5919/apply",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/MoonhubAI",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
