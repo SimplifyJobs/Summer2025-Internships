@@ -12107,7 +12107,7 @@
         "company_name": "Lucid Motors",
         "id": "888bba31-2fe5-4cfe-b435-265a700f293a",
         "title": "Intern \u2013 Cloud Microservices Software Engineer - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -21953,7 +21953,7 @@
         "company_name": "Applied Materials",
         "id": "3e90ddc2-364f-4462-81a4-528c077be98f",
         "title": "Embedded Firmware Co-Op - Fall 2023",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2023"
         ],
@@ -22409,7 +22409,7 @@
         "company_name": "Intel",
         "id": "c77d20d1-0d2b-4264-87d0-dbb5aca69509",
         "title": "Undergraduate Intern Technical",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
