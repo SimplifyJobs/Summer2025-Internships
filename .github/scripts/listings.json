@@ -17945,7 +17945,7 @@
         "company_name": "Galaxy",
         "id": "d1dd91d7-48c9-45ec-88c2-23c363bd2407",
         "title": "2024 Infrastructure Summer Internship Program - New York",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -22926,6 +22926,84 @@
             "Palo Alto, CA"
         ],
         "company_url": "https://simplify.jobs/c/MoonhubAI",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Zipline",
+        "id": "f71a577f-e7b0-4907-8400-6a4961bbb586",
+        "title": "Embedded Engineering Intern Spring 2024",
+        "active": true,
+        "terms": [
+            "Spring 2024"
+        ],
+        "date_updated": 1695453547,
+        "date_posted": 1695453547,
+        "url": "https://www.flyzipline.com/careers/open-roles?gh_jid=5747841003",
+        "locations": [
+            "San Bruno, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Zipline",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Zipline",
+        "id": "a1f33f3f-5aa3-4a8e-8545-4266af8561d4",
+        "title": "Environmental Impact Data Analyst Intern Spring 2024",
+        "active": true,
+        "terms": [
+            "Spring 2024"
+        ],
+        "date_updated": 1695453543,
+        "date_posted": 1695453543,
+        "url": "https://www.flyzipline.com/careers/open-roles?gh_jid=5747948003",
+        "locations": [
+            "San Bruno, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Zipline",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Zipline",
+        "id": "462a77c9-6d3d-409d-b082-3a6ea8c3a8a1",
+        "title": "Motion Planning Intern Spring/Summer 2024",
+        "active": true,
+        "terms": [
+            "Spring 2024",
+            "Summer 2024"
+        ],
+        "date_updated": 1695453548,
+        "date_posted": 1695453548,
+        "url": "https://www.flyzipline.com/careers/open-roles?gh_jid=5747988003",
+        "locations": [
+            "San Bruno, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Zipline",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Zipline",
+        "id": "1c43fdf0-c472-4236-911c-6cafcac34688",
+        "title": "Guidance \u2013 Intern Spring/Summer 2024 - Naviagation - & Controls - Gnc",
+        "active": true,
+        "terms": [
+            "Spring 2024",
+            "Summer 2024"
+        ],
+        "date_updated": 1695453546,
+        "date_posted": 1695453546,
+        "url": "https://www.flyzipline.com/careers/open-roles?gh_jid=5747930003",
+        "locations": [
+            "San Bruno, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Zipline",
         "is_visible": true,
         "sponsorship": "Other"
     }
