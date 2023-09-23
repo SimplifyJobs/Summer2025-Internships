@@ -23006,5 +23006,24 @@
         "company_url": "https://simplify.jobs/c/Zipline",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1695487951,
+        "url": "https://jobs.nike.com/job/R-10295?from=job%20search%20funnel",
+        "company_name": "NIKE",
+        "title": "Software Engineering Intern",
+        "locations": [
+            "Beaverton, Oregon"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "VitaliPri",
+        "id": "2cb0556d-dd3f-4ce1-8468-b2708c5abeae",
+        "date_posted": 1695487951,
+        "company_url": "",
+        "is_visible": true
     }
 ]
