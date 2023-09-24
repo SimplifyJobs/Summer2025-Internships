@@ -23061,5 +23061,139 @@
         "company_url": "https://simplify.jobs/c/Zipline",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "TWO",
+        "id": "1e3510f8-891c-44e4-922d-a23165112278",
+        "title": "Engineer \u2013 Intern - Mobile Apps",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1695568585,
+        "date_posted": 1695568585,
+        "url": "https://boards.greenhouse.io/two/jobs/4006270005",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TwoPlatforms",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "TWO",
+        "id": "a04a0880-ce6d-4c76-a729-c48bcf9c5969",
+        "title": "Engineer \u2013 Intern - NLP",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1695568583,
+        "date_posted": 1695568583,
+        "url": "https://boards.greenhouse.io/two/jobs/4000581005",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TwoPlatforms",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "TWO",
+        "id": "67b87f69-5414-4b95-8ab1-5ee0452c6f44",
+        "title": "Engineer \u2013 Intern - Machine Learning",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1695568582,
+        "date_posted": 1695568582,
+        "url": "https://boards.greenhouse.io/two/jobs/4000592005",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TwoPlatforms",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Arine",
+        "id": "e2f95095-7040-4f00-9e89-7a4612b907f1",
+        "title": "Full Stack Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1695568576,
+        "date_posted": 1695568576,
+        "url": "https://boards.greenhouse.io/arine/jobs/4978160004",
+        "locations": [
+            "SF",
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Arine",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Ample",
+        "id": "4ed27a77-82af-490d-ac7f-3e0bb39b2e0c",
+        "title": "Computer Vision Software Engineer \u2013 Intern - January 2024",
+        "active": true,
+        "terms": [
+            "Winter 2024"
+        ],
+        "date_updated": 1695568585,
+        "date_posted": 1695568585,
+        "url": "https://ample.com/jobs?gh_jid=4318004005",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Ample",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Honeybee Robotics",
+        "id": "904cebd5-7c0d-4928-b089-488b4693c7f0",
+        "title": "Summer 2024 Software Engineering Internship",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1695568540,
+        "date_posted": 1695568540,
+        "url": "https://jobs.lever.co/honeybeerobotics/d756398d-053f-4302-9615-ad7b4ada65bc/apply",
+        "locations": [
+            "Pasadena, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/HoneybeeRobotics",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "HPR (Hyannis Port Research)",
+        "id": "ae76d82f-38bb-4de0-aa82-5d509e9dc1db",
+        "title": "Software Engineering Intern - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1695568488,
+        "date_posted": 1695568488,
+        "url": "https://boards.greenhouse.io/hyannisportresearch/jobs/5698876003",
+        "locations": [
+            "Needham, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/HyannisPortResearch",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
