@@ -22600,21 +22600,21 @@
         "source": "Simplify",
         "company_name": "Recorded Future",
         "id": "dc387056-d461-4e3f-b848-2594494dfc1e",
-        "title": "Data Engineering Intern - Structured Data",
+        "title": "Data Engineer - Structured Data",
         "active": true,
         "terms": [
             "Winter 2024",
             "Spring 2024",
             "Summer 2024"
         ],
-        "date_updated": 1695395983,
+        "date_updated": 1695661008,
         "date_posted": 1695395983,
         "url": "https://boards.greenhouse.io/recordedfuture/jobs/6932065002",
         "locations": [
             "Cambridge, MA"
         ],
         "company_url": "https://simplify.jobs/c/Recorded-Future",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
