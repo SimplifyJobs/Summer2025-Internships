@@ -23233,5 +23233,25 @@
         "company_url": "https://simplify.jobs/c/HereticVentures",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1695601719,
+        "url": "https://www.atlassian.com/company/careers/details/10623",
+        "company_name": "Atlassian",
+        "title": "Associate Product Management Intern, 2024 Summer U.S.",
+        "locations": [
+            "San Francisco, CA",
+            "Remote, USA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "NFeruch",
+        "id": "89591dba-1681-4f7c-98c0-0a6ef9aeacf9",
+        "date_posted": 1695601719,
+        "company_url": "",
+        "is_visible": true
     }
 ]
