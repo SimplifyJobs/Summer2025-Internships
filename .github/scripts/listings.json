@@ -23195,5 +23195,43 @@
         "company_url": "https://simplify.jobs/c/HyannisPortResearch",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Deep Genomics",
+        "id": "d34c388b-e274-4cc0-b3eb-7ecedcd12bbd",
+        "title": "Software Engineering Infrastructure Intern - Jan 2024-Aug 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1695597206,
+        "date_posted": 1695597206,
+        "url": "https://jobs.lever.co/deepgenomics/9dc8ee4b-e597-4043-8e1d-26a4f3cc9b2a/apply",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/DeepGenomics",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Heretic",
+        "id": "4476c8ec-faca-4eb5-84fd-dc876cf30b04",
+        "title": "Applied AI/ML Engineering Intern",
+        "active": true,
+        "terms": [
+            "Fall 2023"
+        ],
+        "date_updated": 1695596784,
+        "date_posted": 1695596784,
+        "url": "https://jobs.lever.co/heretic-fund/3062f423-e891-475c-9dff-9bd790f6d9be/apply",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/HereticVentures",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
