@@ -8712,7 +8712,7 @@
         "company_name": "Leidos",
         "id": "daca692b-f73e-4756-9ec7-2bc57bc905d0",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -16145,7 +16145,7 @@
         "company_name": "Workiva",
         "id": "4c846b79-598f-4334-b8d2-0cb0f8a655b9",
         "title": "2024 Summer \u2013 Business Intelligence Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -17943,7 +17943,7 @@
         "company_name": "Galaxy",
         "id": "d1dd91d7-48c9-45ec-88c2-23c363bd2407",
         "title": "2024 Infrastructure Summer Internship Program - New York",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -20523,7 +20523,7 @@
         "company_name": "Leidos",
         "id": "9d40d53a-1727-40fe-a3b2-5ab84c822db2",
         "title": "Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -22189,7 +22189,7 @@
         "company_name": "Klaviyo",
         "id": "c65ba711-beb5-486d-a175-7db69e6dc031",
         "title": "2024 Spring Co-op Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024"
         ],
@@ -22331,7 +22331,7 @@
         "company_name": "ReNAgade Therapeutics",
         "id": "0faf57b7-e13e-4927-879d-ace73ccc5ba3",
         "title": "Co-Op Bio Informatics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -22369,7 +22369,7 @@
         "company_name": "StackAdapt",
         "id": "012d775f-3de1-4379-b1b8-6a93bd993e27",
         "title": "Data Analyst \u2013 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -23253,5 +23253,139 @@
         "date_posted": 1695601719,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "AQR Capital Management",
+        "id": "f9dd29f3-7e34-47dc-b426-466b99e96bd3",
+        "title": "2024 Software Engineering Summer Analyst - Risk - Compliance and Legal",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1695655827,
+        "date_posted": 1695655827,
+        "url": "https://careers.aqr.com/jobs?gh_jid=5390847&gh_jid=5390847",
+        "locations": [
+            "Greenwich, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/5dd45b67-2959-4360-b1af-d73f66ed2930",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Workato",
+        "id": "312749c2-c9d4-46db-8c71-abf4091badd6",
+        "title": "Intern \u2013 Business Intelligence",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1695655388,
+        "date_posted": 1695655388,
+        "url": "https://boards.greenhouse.io/workato/jobs/6940964002",
+        "locations": [
+            "Remote"
+        ],
+        "company_url": "https://simplify.jobs/c/Workato",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Sensata",
+        "id": "9678a05d-0508-4bf3-b2b8-99b2a61e11d3",
+        "title": "Automation and Control Electrical Engineer Intern-Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1695654795,
+        "date_posted": 1695654795,
+        "url": "https://sensata.wd1.myworkdayjobs.com/en-US/Sensata-Careers/job/Attleboro-Massachusetts/Automation-and-Control-Electrical-Engineer-Intern--Summer-2024_IRC91110",
+        "locations": [
+            "Attleboro, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/sensata-tech",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Leidos",
+        "id": "7f362ae9-58db-4968-9785-72a7565d40dd",
+        "title": "Data Science Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1695654780,
+        "date_posted": 1695654780,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Chantilly-VA/Data-Science-Intern_R-00115124-1",
+        "locations": [
+            "Aurora, CO",
+            "Chantilly, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Leidos",
+        "id": "433360af-8fa1-49cf-b4a4-cb530374ee21",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1695654776,
+        "date_posted": 1695654776,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Gaithersburg-MD/Software-Engineering-Intern_R-00119682",
+        "locations": [
+            "Gaithersburg, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Duolingo",
+        "id": "0b05c65c-c0ef-439e-bea5-27eae77379d4",
+        "title": "Software Engineer \u2013 Thrive Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1695654514,
+        "date_posted": 1695654514,
+        "url": "https://boards.greenhouse.io/duolingo/jobs/6936339002",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Duolingo",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Nutanix",
+        "id": "b6456763-2869-4d0f-9460-e48f9d29ac31",
+        "title": "Software Engineer Intern - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1695654413,
+        "date_posted": 1695654413,
+        "url": "https://jobs.jobvite.com/nutanix/job/ok7sofw1?nl=1&nl=1&fr=false",
+        "locations": [
+            "Cambridge, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Nutanix",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
