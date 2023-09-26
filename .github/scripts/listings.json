@@ -23389,12 +23389,13 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1695691100,
+        "date_updated": 1695736054,
         "url": "https://careers.homedepot.com/job/19064809/software-engineer-internship-remote-atlanta-ga/",
         "company_name": "Home Depot",
-        "title": "Software Engineer Internship",
+        "title": "Software Engineer Intern",
         "locations": [
-            "Atlanta"
+            "Atlanta",
+            "Remote"
         ],
         "terms": [
             "Summer 2024"
