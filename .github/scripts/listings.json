@@ -23445,5 +23445,26 @@
         "date_posted": 1695771672,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1695772125,
+        "url": "https://jobs.careers.microsoft.com/global/en/job/1590522/Explore-Program%3A-Internship-Opportunities-for-Second-Year-University-Students",
+        "company_name": "Microsoft",
+        "title": "Software Engineering Intern - Explore Program",
+        "locations": [
+            "Redmond, WA",
+            "Mountain View, CA",
+            "Atlanta, GA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "cobalt1164",
+        "id": "7efebab3-7e04-46cd-afd8-42f644278750",
+        "date_posted": 1695772125,
+        "company_url": "",
+        "is_visible": true
     }
 ]
