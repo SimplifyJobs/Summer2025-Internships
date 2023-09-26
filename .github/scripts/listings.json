@@ -23426,5 +23426,24 @@
         "date_posted": 1695691051,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1695771672,
+        "url": "https://www.pinterestcareers.com/en/jobs/5379900/software-engineering-intern-2024-usa/?gh_jid=5379900",
+        "company_name": "Pinterest",
+        "title": "Software Engineering Intern 2024 (USA)",
+        "locations": [
+            "Remote"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "andrew-kan",
+        "id": "9ef51a99-5074-4219-b4e8-e9e23cb0cb9f",
+        "date_posted": 1695771672,
+        "company_url": "",
+        "is_visible": true
     }
 ]
