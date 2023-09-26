@@ -23387,5 +23387,24 @@
         "company_url": "https://simplify.jobs/c/Nutanix",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1695690995,
+        "url": "https://careers.homedepot.com/job/19064809/software-engineer-internship-remote-atlanta-ga/",
+        "company_name": "Home Depot",
+        "title": "SOFTWARE ENGINEER INTERNSHIP (REMOTE)",
+        "locations": [
+            "Atlanta"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "VitaliPri",
+        "id": "0f1fc94b-178e-47e4-bdf6-a9a6e926ad9f",
+        "date_posted": 1695690995,
+        "company_url": "",
+        "is_visible": true
     }
 ]
