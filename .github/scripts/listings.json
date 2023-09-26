@@ -11930,7 +11930,7 @@
         "company_name": "Humane",
         "id": "16238106-3868-42b6-b5a1-24d1a5c69a37",
         "title": "System Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024",
             "Summer 2024",
@@ -11951,7 +11951,7 @@
         "company_name": "Humane",
         "id": "ebc05612-2691-48b5-a727-de3acbee95f8",
         "title": "Computer Vision Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024",
             "Summer 2024",
@@ -12663,7 +12663,7 @@
         "company_name": "Humane",
         "id": "262decca-805c-4b33-89f8-3a154427adc6",
         "title": "Software Engineering Intern - Device Experiences",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024",
             "Summer 2024",
@@ -13225,7 +13225,7 @@
         "company_name": "ServiceNow",
         "id": "fbd75998-0b7b-4059-8594-91ea0d178936",
         "title": "Unified Technology Group \u2013 Software QA Engineer Intern - Utg - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -13377,7 +13377,7 @@
         "company_name": "ServiceNow",
         "id": "e0ce464c-5b1a-46b2-9cba-47cd0a2bddd1",
         "title": "Digital Technology \u2013 Data Informatics Analyst Intern - Dt - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -13396,7 +13396,7 @@
         "company_name": "ServiceNow",
         "id": "48757231-cfbc-4379-b961-f7ab1f1089a3",
         "title": "Digital Technology \u2013 Software Engineer Internships - Dt - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -13510,7 +13510,7 @@
         "company_name": "Humane",
         "id": "2559148c-0f4a-4e45-9b35-e7d8230a5f05",
         "title": "Software Engineering Intern - Product Security",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024",
             "Summer 2024",
@@ -15719,7 +15719,7 @@
         "company_name": "Humane",
         "id": "27758759-a0ba-4474-9209-211178c8b796",
         "title": "Firmware Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024",
             "Summer 2024",
@@ -17224,7 +17224,7 @@
         "company_name": "ServiceNow",
         "id": "d2901ef5-1ee9-4b20-a5de-9d1e25fe7530",
         "title": "Utg \u2013 Software Engineer Internships - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -18175,7 +18175,7 @@
         "company_name": "ServiceNow",
         "id": "3bcba420-cef6-48db-971d-5d7de3a71715",
         "title": "Utg \u2013 New College Grad - Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -19734,7 +19734,7 @@
         "company_name": "Proofpoint",
         "id": "89ec7df6-aeab-42b4-984e-1548f283a984",
         "title": "Software Engineer Part-Time Intern - Undergrad",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -20990,7 +20990,7 @@
         "company_name": "Bose",
         "id": "9e876b65-7be7-48db-8712-6e3e5aa306c0",
         "title": "Software Engineering / Product Innovation Co-op Spring",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2023"
         ],
@@ -21028,7 +21028,7 @@
         "company_name": "Bose",
         "id": "3402f16c-50a7-4cd4-90f0-9d3c1a3d3d90",
         "title": "Embedded Software Engineer Co-Op - Diagnostics",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025",
             "Spring 2025",
@@ -21144,7 +21144,7 @@
         "company_name": "Bose",
         "id": "0759494c-6fab-4f2e-a436-2dcebd93989b",
         "title": "Wearables Embedded Engineering Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025",
             "Spring 2025",
@@ -21165,7 +21165,7 @@
         "company_name": "Behaviour Interactive",
         "id": "2b0f18ca-c82f-4e6b-a30e-3e5f64363fad",
         "title": "Programmer \u2013 Internship - Winter 2024 - Programmeur\u00b7se - Stage - Hiver 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2024"
         ],
@@ -21449,7 +21449,7 @@
         "company_name": "Bose",
         "id": "2c06f227-cb30-4dcf-a269-01ef6bdeea0c",
         "title": "Data Science Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025",
             "Spring 2025",
@@ -21491,7 +21491,7 @@
         "company_name": "Bose",
         "id": "d9c34501-3a3b-4715-9fa7-1fb0358b38a6",
         "title": "Data Science Co-Op - NLP",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025",
             "Spring 2025",
@@ -21512,7 +21512,7 @@
         "company_name": "Bose",
         "id": "99ed5551-77d6-4cfa-ad5a-bfe1a1088b53",
         "title": "Data Engineer Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025",
             "Spring 2025",
@@ -22544,7 +22544,7 @@
         "company_name": "Lucid Motors",
         "id": "d27c46e6-7dce-4b88-8c20-4d594e90e3dc",
         "title": "Intern \u2013 Embedded Platform Software - Development Engineer - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -23336,7 +23336,7 @@
         "company_name": "Leidos",
         "id": "433360af-8fa1-49cf-b4a4-cb530374ee21",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
