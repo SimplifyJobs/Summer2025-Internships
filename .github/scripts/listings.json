@@ -23124,11 +23124,11 @@
         "company_name": "Arine",
         "id": "e2f95095-7040-4f00-9e89-7a4612b907f1",
         "title": "Full Stack Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
-        "date_updated": 1695568576,
+        "date_updated": 1695699717,
         "date_posted": 1695568576,
         "url": "https://boards.greenhouse.io/arine/jobs/4978160004",
         "locations": [
