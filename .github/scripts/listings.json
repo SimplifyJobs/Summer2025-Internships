@@ -23406,5 +23406,25 @@
         "date_posted": 1695690995,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1695691051,
+        "url": "https://careers-sas.icims.com/jobs/33550/summer-2024---technical-intern/job?hub=9&_gl=1*6augn5*_ga*MTIwOTg1OTYxMC4xNjk0MDIyMTE5*_ga_5Y2BYGL910*MTY5NTY2NzI3My4zLjEuMTY5NTY2Nzk0Ny4wLjAuMA..&mobile=false&width=1180&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240",
+        "company_name": "SAS Institute",
+        "title": "Technical Intern",
+        "locations": [
+            "Cary, NC",
+            "Remote"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "cg2916",
+        "id": "edd313e6-a095-4eba-8e7a-1560fa62b091",
+        "date_posted": 1695691051,
+        "company_url": "",
+        "is_visible": true
     }
 ]
