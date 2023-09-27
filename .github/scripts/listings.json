@@ -23524,5 +23524,24 @@
         "date_posted": 1695852572,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1695852601,
+        "url": "https://getcruise.com/careers/jobs/2677317/",
+        "company_name": "Cruise",
+        "title": "Intern, Systems Engineering",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "bzhang0",
+        "id": "b1970710-6adb-4c55-8914-95665e2e122c",
+        "date_posted": 1695852601,
+        "company_url": "",
+        "is_visible": true
     }
 ]
