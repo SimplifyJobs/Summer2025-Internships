@@ -23486,5 +23486,24 @@
         "date_posted": 1695785207,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1695785310,
+        "url": "https://boards.greenhouse.io/springhealth66/jobs/4315743005?gh_src=a8d055a25us",
+        "company_name": "Spring Health",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "Remote"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "rohitgandhari",
+        "id": "5e08f825-cfb2-4622-9bef-4eafd6d84dcc",
+        "date_posted": 1695785310,
+        "company_url": "",
+        "is_visible": true
     }
 ]
