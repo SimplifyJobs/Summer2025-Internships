@@ -23466,5 +23466,25 @@
         "date_posted": 1695772125,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1695785207,
+        "url": "https://foodclub.live/ios-internship",
+        "company_name": "FoodCLUB",
+        "title": "IOS Internship",
+        "locations": [
+            "Remote"
+        ],
+        "terms": [
+            "Fall 2023",
+            "Winter 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "rohitgandhari",
+        "id": "2b14add8-98be-459b-8e09-12e4ebfeffa3",
+        "date_posted": 1695785207,
+        "company_url": "",
+        "is_visible": true
     }
 ]
