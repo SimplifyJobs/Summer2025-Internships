@@ -23563,5 +23563,24 @@
         "date_posted": 1695908147,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1695940304,
+        "url": "https://jobs.intel.com/en/job/-/-/599/54996635760",
+        "company_name": "Intel",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "Hillsboro, Oregon, United States"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": false,
+        "source": "Vn0m",
+        "id": "0033a34b-ed49-42ab-aad1-140da673b811",
+        "date_posted": 1695940304,
+        "company_url": "",
+        "is_visible": true
     }
 ]
