@@ -23543,5 +23543,25 @@
         "date_posted": 1695852601,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1695908147,
+        "url": "https://boards.greenhouse.io/grammarly/jobs/5396077?gh_src=0bb770131",
+        "company_name": "Grammarly",
+        "title": "Software Engineering Intern",
+        "locations": [
+            "USA",
+            "Canada"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "KathyJDev",
+        "id": "9fa6f1c9-ff6e-4137-b06d-60ad46c16828",
+        "date_posted": 1695908147,
+        "company_url": "",
+        "is_visible": true
     }
 ]

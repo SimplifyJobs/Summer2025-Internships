@@ -61,6 +61,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Grammarly | Software Engineering Intern | USA</br>Canada | <a href="https://boards.greenhouse.io/grammarly/jobs/5396077?gh_src=0bb770131&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 28 |
 | Cruise | Intern, Systems Engineering | San Francisco, CA | <a href="https://getcruise.com/careers/jobs/2677317/?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 27 |
 |  | Intern, Systems Engineering | San Francisco, CA | <a href="https://getcruise.com/careers/jobs/2677320/?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 27 |
 | SAS Institute | Summer 2024 - Technical Intern 🛂 | Cary, NC Remote | <a href="https://careers-sas.icims.com/jobs/33550/summer-2024---technical-intern/job?hub=9&_gl=1*6augn5*_ga*MTIwOTg1OTYxMC4xNjk0MDIyMTE5*_ga_5Y2BYGL910*MTY5NTY2NzI3My4zLjEuMTY5NTY2Nzk0Ny4wLjAuMA..&mobile=false&width=1180&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 26 |
