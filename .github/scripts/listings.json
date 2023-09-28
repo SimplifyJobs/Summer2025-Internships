@@ -22293,7 +22293,7 @@
         "company_name": "NVIDIA",
         "id": "80c35150-86ec-471f-a438-68903aeb542b",
         "title": "Rapids Intern - C++ and CUDA - Summer 2024",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
