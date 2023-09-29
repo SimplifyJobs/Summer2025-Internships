@@ -8158,8 +8158,8 @@
         ],
         "sponsorship": "Offers Sponsorship",
         "active": true,
-        "source": "developer123123123123",
-        "id": "3b790208-1cf9-4e13-9d15-22e2d14d2229",
+        "source": "Simplify",
+        "id": "4bbc9f9c-7da7-491b-97b8-261834f8f5aa",
         "date_posted": 1692035653,
         "company_url": "",
         "is_visible": true
@@ -8177,8 +8177,8 @@
         ],
         "sponsorship": "Offers Sponsorship",
         "active": true,
-        "source": "developer123123123123",
-        "id": "5b7b0816-cc24-42d8-b6fe-403e09989c9b",
+        "source": "Simplify",
+        "id": "db06aa17-b068-4728-9165-bc972a337c0e",
         "date_posted": 1692035815,
         "company_url": "",
         "is_visible": true
@@ -22159,8 +22159,8 @@
         ],
         "sponsorship": "Does Not Offer Sponsorship",
         "active": true,
-        "source": "lizebear",
-        "id": "3b270c39-5295-4793-bc31-2f2561bfd608",
+        "source": "Simplify",
+        "id": "033b0a3d-3973-4efc-b7ee-1d3221ea95a9",
         "date_posted": 1695306819,
         "company_url": "",
         "is_visible": true
@@ -24658,6 +24658,348 @@
             "Vancouver, WA"
         ],
         "company_url": "https://simplify.jobs/c/Hewlett-Packard",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Cruise",
+        "id": "a8ede38b-c50b-458a-bd08-c4072a322e53",
+        "title": "Intern \u2013 ML Horizontal Platforms",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1695987921,
+        "date_posted": 1695987921,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=5364440",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Cruise",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Cruise",
+        "id": "db856474-06da-4481-987a-d517e6c4533d",
+        "title": "Intern \u2013 Data Analyst",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1695987918,
+        "date_posted": 1695987918,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=5364434",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Cruise",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Cruise",
+        "id": "72cb1eff-ce53-40dd-8f27-2ecc6569e1ae",
+        "title": "Intern \u2013 Developer Environments",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1695987916,
+        "date_posted": 1695987916,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=5364432",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Cruise",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Cruise",
+        "id": "19b2f7d3-8993-4d80-adfb-328567599bd3",
+        "title": "Intern \u2013 Sre - Reliability Insights",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1695987916,
+        "date_posted": 1695987916,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=5364462",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Cruise",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Cruise",
+        "id": "75580459-5729-495a-b9af-f4b9711a0834",
+        "title": "Intern \u2013 Security Engineering",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1695987912,
+        "date_posted": 1695987912,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=5364438",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Cruise",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Cruise",
+        "id": "eb3eb364-53e5-4bc4-921a-f37a637a5df6",
+        "title": "Intern \u2013 Enterprise Integration Services",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1695987909,
+        "date_posted": 1695987909,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=5364446",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Cruise",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Cruise",
+        "id": "8526b992-0261-4795-835c-75ab124238f1",
+        "title": "Intern \u2013 In-Car Experience - Production Engineering",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1695987900,
+        "date_posted": 1695987900,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=5364452",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Cruise",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Cruise",
+        "id": "23acfdc5-d688-4421-b828-cb1dc835c923",
+        "title": "Intern \u2013 Behaviors",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1695987898,
+        "date_posted": 1695987898,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=5364458",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Cruise",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Bridgewater Associates",
+        "id": "328683e6-519f-4e0c-97c1-5237c57176cd",
+        "title": "Investment Engineer Intern - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1695987784,
+        "date_posted": 1695987784,
+        "url": "https://boards.greenhouse.io/bridgewatercampusrecruiting/jobs/6716062002",
+        "locations": [
+            "Westport, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/Bridgewater-Associates",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Optiver",
+        "id": "0bac3a48-4573-48eb-8184-5380f413c46e",
+        "title": "Campus: Software Engineer Intern - Summer 2024 - Chicago",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1695987651,
+        "date_posted": 1695987651,
+        "url": "https://boards.greenhouse.io/optiverinternreferralc4/jobs/6782412002",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Optiver",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Optiver",
+        "id": "4cb3632f-a207-48af-bfef-bb5be6642d3f",
+        "title": "Campus: Software Engineer Intern - Summer 2024 - Austin",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1695987649,
+        "date_posted": 1695987649,
+        "url": "https://boards.greenhouse.io/optiverinternreferralc4/jobs/6782407002",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Optiver",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "84.51 Degrees",
+        "id": "b2223549-ee20-4080-ab2f-70a2b7698fbf",
+        "title": "Software Engineer \u2013 Co-op Program - Spring 2024",
+        "active": true,
+        "terms": [
+            "Spring 2024"
+        ],
+        "date_updated": 1695987391,
+        "date_posted": 1695987391,
+        "url": "https://boards.greenhouse.io/8451university/jobs/6867269002",
+        "locations": [
+            "Cincinnati, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/84-51",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Optiver",
+        "id": "79ce71c3-b215-4b97-af7f-d63f2ec647d2",
+        "title": "Quantitative Trader Intern - Summer 2024 - Chicago",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1695987205,
+        "date_posted": 1695987205,
+        "url": "https://boards.greenhouse.io/optiverprivate/jobs/6907147002",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Optiver",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Optiver",
+        "id": "759c4896-2c05-4472-9cf2-cc0057a3e529",
+        "title": "Software Engineer Intern - Summer 2024 - Chicago",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1695987197,
+        "date_posted": 1695987197,
+        "url": "https://boards.greenhouse.io/optiverprivate/jobs/6907876002",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Optiver",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "84.51 Degrees",
+        "id": "25ce4293-9f8c-4722-97bf-ef4808949ba8",
+        "title": "Data Science \u2013 Co-op Program - Spring 2024",
+        "active": true,
+        "terms": [
+            "Spring 2024"
+        ],
+        "date_updated": 1695987193,
+        "date_posted": 1695987193,
+        "url": "https://boards.greenhouse.io/8451university/jobs/6896663002",
+        "locations": [
+            "Cincinnati, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/84-51",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Optiver",
+        "id": "1c0a9a89-a534-4246-8d4b-bf08b4728317",
+        "title": "Campus: Quantitative Trader Intern - Summer 2024 - Chicago",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1695987102,
+        "date_posted": 1695987102,
+        "url": "https://boards.greenhouse.io/optiverinternreferralc4/jobs/6782248002",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Optiver",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Zoox",
+        "id": "a656d400-7415-43ef-89e8-2b9fc2159fc7",
+        "title": "Energy Modeling & Machine Learning Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1695971646,
+        "date_posted": 1695971646,
+        "url": "https://jobs.lever.co/zoox/66543f43-5170-478f-9948-856895cf7035/apply",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Zoox",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Pure Storage",
+        "id": "a594d157-32fb-4692-b99e-9e65c7e56561",
+        "title": "Software Engineer Intern - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1695971258,
+        "date_posted": 1695971258,
+        "url": "https://boards.greenhouse.io/purestorage/jobs/5370624",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Pure-Storage",
         "is_visible": true,
         "sponsorship": "Other"
     }
