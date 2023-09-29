@@ -968,7 +968,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | Trane Technologies | 2024 Analytics & Data Science Intern  🇺🇸 | Davidson, NC</br>Minneapolis, MN | 🔒 | Jul 2023 |
 | RSM | Intelligent Automation Consulting Intern US | Denver, CO</br>Dallas, TX | 🔒 | Jul 2023 |
 |  | Data Migration Consulting Intern 🇺🇸 | Denver, CO</br>Dallas, TX | 🔒 | Jul 2023 |
-| Scholastic | Scholastic Summer Software Development Test Intern | NYC | <a href="https://scholastic.wd5.myworkdayjobs.com/en-US/External/job/Scholastic-Summer-Software-Development-Engineer-In-Test-Intern_R12103?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 2023 |
+| Scholastic | Scholastic Summer Software Development Test Intern | NYC | 🔒 | Jun 2023 |
 |  | Scholastic Summer Software Engineer Intern | NYC | 🔒 | Jun 2023 |
 | Elbit Systems of America | Software Engineering Intern  🇺🇸 | Birdsboro, PA | <a href="https://jobs.smartrecruiters.com/ElbitSystemsOfAmerica/743999907500503-software-engineering-intern-ref1380b-?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 2023 |
 | **[Accenture](https://simplify.jobs/c/Accenture)** | Federal - Software Engineering Intern 🇺🇸 | Tampa, FL | 🔒 | Jun 2023 |
