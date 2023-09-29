@@ -7033,7 +7033,7 @@
         "company_name": "CACI",
         "id": "90c24450-cb8f-4283-8843-8eea3c07d9e6",
         "title": "Cyber Engineering Internship - Fall 2023",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2023"
         ],
@@ -7338,7 +7338,7 @@
         "company_name": "PayPal",
         "id": "de7f25d2-af21-4fc7-be7f-633e662b4300",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024",
             "Fall 2024"
@@ -10868,7 +10868,7 @@
         "company_name": "LivePerson",
         "id": "781299aa-3afb-49d1-9041-acfb9ee89cc5",
         "title": "SDE Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2023"
         ],
@@ -11272,7 +11272,7 @@
         "company_name": "TS Imagine",
         "id": "55eff49f-1a8c-4c68-98f2-18fbc8fa32e2",
         "title": "Data Management Intern\t",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -19599,7 +19599,7 @@
         "company_name": "Code42",
         "id": "7a974d7d-55fb-47f0-9421-5f3acf44a3a1",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2023",
             "Summer 2023"
@@ -22049,7 +22049,7 @@
         "company_name": "PlayStation Global",
         "id": "902367e2-d064-41d0-ad3f-c5831d860ba5",
         "title": "Gameplay Programming Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2023",
             "Summer 2023",
@@ -24165,7 +24165,7 @@
         "company_name": "iRobot",
         "id": "63aae90a-9457-4b41-86a8-ece81d62b467",
         "title": "January-June 2024: Software Engineer in Test Intern - Undergraduate",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025",
             "Spring 2025",
@@ -24704,7 +24704,7 @@
         "company_name": "Cruise",
         "id": "72cb1eff-ce53-40dd-8f27-2ecc6569e1ae",
         "title": "Intern \u2013 Developer Environments",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -25025,5 +25025,124 @@
         "date_posted": 1696008922,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Cruise",
+        "id": "c5a385a4-9b45-43ee-bb80-698b1b812eec",
+        "title": "Intern \u2013 ML Behaviors Data",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1696001241,
+        "date_posted": 1696001241,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=5364460",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Cruise",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Cruise",
+        "id": "8384c32a-fba0-4408-b788-b74c25787d4c",
+        "title": "Intern \u2013 ML Performance Tooling",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1696001241,
+        "date_posted": 1696001241,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=5394954",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Cruise",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Cruise",
+        "id": "74769164-3e36-4d67-a043-9ec7b8b3b823",
+        "title": "Intern \u2013 Embedded Systems - Sensing Software",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1696001241,
+        "date_posted": 1696001241,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=5364444",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Cruise",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Gearset",
+        "id": "cc835435-f4e9-4120-bffa-150e1eb181c2",
+        "title": "Software Engineer Intern 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1696001035,
+        "date_posted": 1696001035,
+        "url": "https://jobs.lever.co/gearset/b06e0816-8503-4163-a7ba-f04e52b24231/apply",
+        "locations": [
+            "Cambridge, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Gearset",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "84.51 Degrees",
+        "id": "c6800572-03ff-4f80-82c9-0925abe1be1d",
+        "title": "Software Engineer \u2013 Internship Program 2024",
+        "active": true,
+        "terms": [
+            "Spring 2024",
+            "Summer 2024"
+        ],
+        "date_updated": 1696000666,
+        "date_posted": 1696000666,
+        "url": "https://boards.greenhouse.io/8451university/jobs/6867212002",
+        "locations": [
+            "Chicago, IL",
+            "Cincinnati, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/84-51",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Rockwell Automation",
+        "id": "a9008b5b-bccb-411e-bd34-2d9f3b8f4ea4",
+        "title": "Co-Op \u2013 Embedded Software",
+        "active": true,
+        "terms": [
+            "Spring 2024",
+            "Summer 2024",
+            "Fall 2024",
+            "Winter 2025"
+        ],
+        "date_updated": 1696000390,
+        "date_posted": 1696000390,
+        "url": "https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Co-Op--Embedded-Software_R23-10031-2",
+        "locations": [
+            "Mayfield Heights, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Rockwell-Automation",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
