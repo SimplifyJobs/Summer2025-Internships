@@ -25002,5 +25002,28 @@
         "company_url": "https://simplify.jobs/c/Pure-Storage",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1696008922,
+        "url": "https://careers.ibm.com/job/19124488/2024-summer-intern-back-end-developer-remote/?codes=WEB_SEARCH_NA",
+        "company_name": "IBM",
+        "title": "Back End Developer",
+        "locations": [
+            "Armonk",
+            "Lowell",
+            "New York",
+            "Durham",
+            "Austin"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "ZeyadAttia5",
+        "id": "26a2f18a-5ef9-4cd3-8b7c-cfeb2d1cb2fb",
+        "date_posted": 1696008922,
+        "company_url": "",
+        "is_visible": true
     }
 ]
