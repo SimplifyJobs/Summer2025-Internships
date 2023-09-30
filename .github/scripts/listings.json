@@ -25543,5 +25543,25 @@
         "company_url": "https://simplify.jobs/c/Skydio",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1696086875,
+        "url": "https://generacta.avature.net/careers/JobDetail/Reno-Nevada-United-States-Software-Engineering-Co-Op-Clean-Energy/10866",
+        "company_name": "Generac Clean Energy",
+        "title": "Software-Engineering-Co-Op-Clean-Energy",
+        "locations": [
+            "Reno, NV"
+        ],
+        "terms": [
+            "Spring 2024",
+            "Summer 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "gnoulk",
+        "id": "bba29fff-119e-4a63-8ef5-5aaa8e12fa93",
+        "date_posted": 1696086875,
+        "company_url": "",
+        "is_visible": true
     }
 ]
