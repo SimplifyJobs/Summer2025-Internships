@@ -418,7 +418,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | **[SunPower Corporation](https://simplify.jobs/c/SunPower-Corporation)** | Software Engineering Intern | Remote in USA | 🔒 | Sep 06 |
 | SIEMENS | Grid Software Internship: Software Developer | Minnetonka, MN. | <a href="https://talent.siemens.com/privateapply?folderId=384920&source=Handshake&tags=handshake&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 06 |
 | Samsara | Software Engineering Intern | San Francisco, CA | <a href="https://app.ripplematch.com/v2/public/job/f66c09ea?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 06 |
-| Principal Financial Group | Software Engineer Intern 🛂 | Des Moines, IA</br>Charlotte, NC</br>Remote | <a href="https://careers.principal.com/us/jobs/40528?lang=en-us&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 06 |
+| Principal Financial Group | Software Engineer Intern | Des Moines, IA</br>Charlotte, NC</br>Remote | 🔒 | Sep 06 |
 | **[Oshkosh](https://simplify.jobs/c/Oshkosh)** | Data Science Intern | Hagerstown, MD | 🔒 | Sep 06 |
 | nordstorm | Software Engineer - Corporate Internship	 | Seattle,WA | 🔒 | Sep 06 |
 | Linkedin | Systems and Infrastructure Engineer Internship - Graduate level | Sunnyvale, CA | <a href="https://www.linkedin.com/jobs/view/3705752503/?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 06 |

@@ -15267,7 +15267,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1694015340,
+        "date_updated": 1696180646,
         "url": "https://careers.principal.com/us/jobs/40528?lang=en-us",
         "company_name": "Principal Financial Group",
         "title": "Software Engineer Intern",
@@ -15279,8 +15279,8 @@
         "terms": [
             "Summer 2024"
         ],
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "mygcho",
         "id": "a43081bd-d3a8-47f9-83dc-49af5339f9a1",
         "date_posted": 1694015340,
