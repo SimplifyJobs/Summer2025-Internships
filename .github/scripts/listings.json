@@ -15288,19 +15288,18 @@
         "is_visible": true
     },
     {
-        "date_updated": 1694015709,
+        "date_updated": 1696180578,
         "url": "https://boards.greenhouse.io/embed/job_app?token=5269266&gh_src=240b46771",
         "company_name": "Hubspot",
-        "title": "HubSpot Software Engineer Internship & Co-op Program (USA)",
+        "title": "Hubspot Software Engineer Internship & Co-op Program (USA)",
         "locations": [
             "Cambridge, MA"
         ],
         "terms": [
-            "Spring 2024",
             "Summer 2024"
         ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "cwcoogan",
         "id": "9dadb3eb-3378-482d-8981-e1742d20ffd0",
         "date_posted": 1694015709,

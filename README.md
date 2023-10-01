@@ -423,7 +423,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | nordstorm | Software Engineer - Corporate Internship	 | Seattle,WA | 🔒 | Sep 06 |
 | Linkedin | Systems and Infrastructure Engineer Internship - Graduate level | Sunnyvale, CA | <a href="https://www.linkedin.com/jobs/view/3705752503/?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 06 |
 | **[Humane](https://simplify.jobs/c/Humane)** | Firmware Engineering Intern | SF | 🔒 | Sep 06 |
-| Hubspot | HubSpot Software Engineer Internship & Co-op Program (USA) | Cambridge, MA | <a href="https://boards.greenhouse.io/embed/job_app?token=5269266&gh_src=240b46771&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 06 |
+| Hubspot | Hubspot Software Engineer Internship & Co-op Program (USA) | Cambridge, MA | 🔒 | Sep 06 |
 | **[HubSpot](https://simplify.jobs/c/HubSpot)** | Hubspot Software Engineer Internship & Co-op Program - Canada | Remote | 🔒 | Sep 06 |
 |  | Hubspot Software Engineer Internship & Co-op Program - USA | Remote in USA | 🔒 | Sep 06 |
 |  | Hubspot Software Engineer Internship & Co-op Program - USA | Cambridge, MA | 🔒 | Sep 06 |
