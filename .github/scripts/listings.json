@@ -16429,7 +16429,7 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1694203301,
+        "date_updated": 1696180598,
         "url": "https://ats.rippling.com/rippling/jobs/eed09f08-a8b2-4d7c-8f8f-16402f3f4379",
         "company_name": "Rippling",
         "title": "Software Engineer Intern",
@@ -16441,7 +16441,7 @@
             "Summer 2024"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "mghanem8",
         "id": "693271fe-9c52-488c-9d8b-fad473bcca0b",
         "date_posted": 1694203301,
