@@ -25563,5 +25563,25 @@
         "date_posted": 1696086875,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1696178114,
+        "url": "https://careers.southwestair.com/job/R-2023-35568/Software-Engineer-Summer-2024-Internship%C2%A0",
+        "company_name": "Southwest Airlines",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "Dallas, Texas",
+            "Remote"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "KathyJDev",
+        "id": "d3cf5542-6e21-4e0a-83f7-b13fc0840992",
+        "date_posted": 1696178114,
+        "company_url": "",
+        "is_visible": true
     }
 ]
