@@ -5711,7 +5711,7 @@
         "company_name": "Torc Robotics",
         "id": "96e998af-bae3-437f-8792-02915bbbbff1",
         "title": "Mapping & Localization \u2013 Co-Op Software Engineer Localization",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -13627,7 +13627,7 @@
         "company_name": "UiPath",
         "id": "51c5e2c6-5f53-4a32-9fe8-027f323889a2",
         "title": "Software Engineer Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -17146,7 +17146,7 @@
         "company_name": "Bank of Montreal (BMO)",
         "id": "0185d1c5-c758-4e1e-95bb-1fd025e762ba",
         "title": "Software Developer \u2013 Co-op/Internship - Winter 2024 - 4 Months",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2024"
         ],
@@ -17165,7 +17165,7 @@
         "company_name": "Bank of Montreal (BMO)",
         "id": "d1e1ab29-d7d3-460d-b3ea-3049b0499436",
         "title": "Software Developer \u2013 Co-op/Internship - Winter 2024 - 8 Months",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2024"
         ],
@@ -18751,7 +18751,7 @@
         "company_name": "MarketAxess",
         "id": "8ea9668d-f05d-47f7-9d68-c6de832099c3",
         "title": "Research Intern 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -19637,7 +19637,7 @@
         "company_name": "The Boeing Company",
         "id": "c009f8cc-aa3d-41fc-a49e-5f367d222eb3",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2024"
         ],
@@ -20484,7 +20484,7 @@
         "company_name": "Cowen",
         "id": "df8ead97-1f5b-45ef-810b-98bb4eae5575",
         "title": "2024 Markets Summer Analyst Program",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -20639,7 +20639,7 @@
         "company_name": "Chicago Trading Company",
         "id": "7c091077-6c1e-48e4-9f75-da3b36ba6b23",
         "title": "Quant Trading Analyst Internship - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -20677,7 +20677,7 @@
         "company_name": "Chicago Trading Company",
         "id": "28ea18de-f283-4c4f-af18-49b6594bac26",
         "title": "Software Engineer Internship - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -20715,7 +20715,7 @@
         "company_name": "The Boeing Company",
         "id": "0aa1443e-9018-44b7-b87b-dcfd7dbe45d3",
         "title": "Business Operations Intern - Data Science",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2024"
         ],
@@ -23196,7 +23196,7 @@
         "company_name": "Deep Genomics",
         "id": "d34c388b-e274-4cc0-b3eb-7ecedcd12bbd",
         "title": "Software Engineering Infrastructure Intern - Jan 2024-Aug 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -23813,7 +23813,7 @@
         "company_name": "HBK Capital Management",
         "id": "2a2cfc08-c664-4e92-a543-2cd71f184301",
         "title": "Software Engineer Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -23965,7 +23965,7 @@
         "company_name": "Leidos",
         "id": "dec6fcf6-3a2d-4085-a094-380c98d7f4c4",
         "title": "Signal Processing Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -24220,7 +24220,7 @@
         "company_name": "HBK Capital Management",
         "id": "3d8db715-c7a6-419b-a8cc-cb47beeec233",
         "title": "Software Developer Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -24564,7 +24564,7 @@
         "company_name": "Leidos",
         "id": "61f2300a-28f7-408d-bba5-b71a6e1cdd03",
         "title": "Data Scientist \u2013 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -25696,5 +25696,138 @@
         "date_posted": 1696267233,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Lucid",
+        "id": "7ca48f6a-5ac2-4f2b-bc04-dbda1c934865",
+        "title": "Data Analyst Internship - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1696260122,
+        "date_posted": 1696260122,
+        "url": "https://boards.greenhouse.io/lucidsoftware/jobs/4983268004",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Lucid",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Partiful",
+        "id": "102903d2-b37b-4f28-8a48-917bc3ef5a9c",
+        "title": "Product Engineer Internship",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1696259940,
+        "date_posted": 1696259940,
+        "url": "https://jobs.lever.co/partiful/680f3a9c-82ba-406f-b574-d36aeb2a296a/apply",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Partiful",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "CACI",
+        "id": "a00f07b5-7984-405a-986f-deb44418210f",
+        "title": "Software Development Intern - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1696259911,
+        "date_posted": 1696259911,
+        "url": "https://caci.wd1.myworkdayjobs.com/External/job/US-CO-Denver/Software-Development-Intern---Summer-2024_286803",
+        "locations": [
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/CACI",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "CACI",
+        "id": "79d2b764-245d-4a17-b9f2-f3080d3153de",
+        "title": "Application Developer Intern - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1696259913,
+        "date_posted": 1696259913,
+        "url": "https://caci.wd1.myworkdayjobs.com/External/job/US-VA-King-George/Application-Developer-Intern---Summer-2024_285967",
+        "locations": [
+            "King George County, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/CACI",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Wise",
+        "id": "ab097692-8fbf-4c26-a627-72f33d0c42c3",
+        "title": "Software Engineering Internship",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1696259671,
+        "date_posted": 1696259671,
+        "url": "https://boards.greenhouse.io/transferwise/jobs/5315901",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Wise",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Visa",
+        "id": "11ea6661-efdf-4934-90c6-db717e02ebf0",
+        "title": "Intern/Placement Software Engineer months",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1696259566,
+        "date_posted": 1696259566,
+        "url": "https://jobs.smartrecruiters.com/Visa/743999934234973",
+        "locations": [
+            "Belfast, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Visa",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Visa",
+        "id": "96b1a0b6-5180-48b5-b538-fd139803c0ea",
+        "title": "Summer Intern - Software Engineering and Testing",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1696259565,
+        "date_posted": 1696259565,
+        "url": "https://jobs.smartrecruiters.com/Visa/743999934293514",
+        "locations": [
+            "Reading, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Visa",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
