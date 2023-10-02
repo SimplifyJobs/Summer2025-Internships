@@ -12837,7 +12837,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1693436187,
+        "date_updated": 1696220800,
         "url": "https://jobs.smartrecruiters.com/Visa/743999927523368-software-engineer-intern-summer-2024?source=LinkedIn",
         "company_name": "Visa",
         "title": "Software Engineer, Intern - Summer 2024",
@@ -12847,8 +12847,8 @@
         "terms": [
             "Summer 2024"
         ],
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "cwcoogan",
         "id": "c37ff85a-ca0a-4853-a154-dc9afa734468",
         "date_posted": 1693436187,
