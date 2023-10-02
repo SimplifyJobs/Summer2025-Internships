@@ -25658,5 +25658,24 @@
         "date_posted": 1696267148,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1696267171,
+        "url": "https://www.google.com/about/careers/applications/jobs/results/97288107323204294-step-intern-firstyear-student-summer-2024?q=STEP",
+        "company_name": "Google",
+        "title": "STEP Intern, First-Year Student",
+        "locations": [
+            "Multiple"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "Eric-exe",
+        "id": "f6392b22-7110-4644-9f06-c0065b32265a",
+        "date_posted": 1696267171,
+        "company_url": "",
+        "is_visible": true
     }
 ]
