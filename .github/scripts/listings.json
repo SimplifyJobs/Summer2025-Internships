@@ -12345,10 +12345,10 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1693340509,
+        "date_updated": 1696254123,
         "url": "https://jobs.td.com/en/job/18990187/2024-summer-internship-software-engineering-td-securities-new-york-ny/?utm_campaign=google_jobs_apply",
         "company_name": "TD Bank",
-        "title": "2024 SUMMER INTERNSHIP \u2013 SOFTWARE ENGINEERING \u2013 TD SECURITIES",
+        "title": "2024 SUMMER INTERNSHIP \\u2013 SOFTWARE ENGINEERING \\u2013 TD SECURITIES",
         "locations": [
             "New York, NY"
         ],
@@ -12356,7 +12356,7 @@
             "Summer 2024"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "mtlogs",
         "id": "d6d5d3b9-5cf4-4647-80e3-939b03cbdfaf",
         "date_posted": 1693340509,
