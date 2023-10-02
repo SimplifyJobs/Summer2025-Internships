@@ -25829,5 +25829,24 @@
         "company_url": "https://simplify.jobs/c/Visa",
         "is_visible": false,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1696277778,
+        "url": "https://www.google.com/about/careers/applications/jobs/results/112724967109337798-software-engineering-intern-bs-summer-2024",
+        "company_name": "Google",
+        "title": "Software Engineer Intern BS",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "ajain02",
+        "id": "4db7a231-e8f2-4b7f-92e0-b1ec28249d33",
+        "date_posted": 1696277778,
+        "company_url": "",
+        "is_visible": true
     }
 ]
