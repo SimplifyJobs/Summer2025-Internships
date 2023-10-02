@@ -25639,5 +25639,24 @@
         "company_url": "https://simplify.jobs/c/alcon",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1696267148,
+        "url": "https://careers.fedex.com/services/jobs/RC658343?lang=en-US",
+        "company_name": "FedEx",
+        "title": "Intern I Information Technology - Memphis",
+        "locations": [
+            "Memphis, TN"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "Mario750614",
+        "id": "e032f565-480c-481d-adbc-aeac7e592273",
+        "date_posted": 1696267148,
+        "company_url": "",
+        "is_visible": true
     }
 ]
