@@ -17064,18 +17064,18 @@
         "is_visible": true
     },
     {
-        "date_updated": 1694452535,
+        "date_updated": 1696254239,
         "url": "https://app.ripplematch.com/v2/public/job/603f9599/details",
         "company_name": "Texas Instruments",
-        "title": "Software Engineering Intern",
+        "title": "Software Engineer Intern",
         "locations": [
             "Dallas, TX"
         ],
         "terms": [
             "Summer 2024"
         ],
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "sponsorship": "Offers Sponsorship",
+        "active": false,
         "source": "mtlogs",
         "id": "62c61eca-c54c-4e5f-9d1b-cb78e3970b4e",
         "date_posted": 1694452535,
