@@ -25867,5 +25867,24 @@
         "date_posted": 1696277805,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1696289396,
+        "url": "https://careers.twosigma.com/careers/JobDetail?jobId=11991&source=LinkedIn",
+        "company_name": "Two Sigma",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "New York, NYC"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "SowadK25",
+        "id": "5cd29d97-c7ba-4935-ba9d-88f51cf89e21",
+        "date_posted": 1696289396,
+        "company_url": "",
+        "is_visible": true
     }
 ]
