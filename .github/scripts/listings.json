@@ -25848,5 +25848,24 @@
         "date_posted": 1696277778,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1696277805,
+        "url": "https://careers.bloomberg.com/job/detail/118244",
+        "company_name": "Bloomberg",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "New York, NY"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "quantumscholar",
+        "id": "84a687df-1824-44aa-b3dd-d8571ea7c5a8",
+        "date_posted": 1696277805,
+        "company_url": "",
+        "is_visible": true
     }
 ]
