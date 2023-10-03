@@ -26295,5 +26295,26 @@
         "date_posted": 1696343559,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1696343585,
+        "url": "https://careers.fedex.com/services/jobs/RC658370?lang=en-US",
+        "company_name": "FedEx Services",
+        "title": "Intern I Information Technology - Supporting FedEx Freight",
+        "locations": [
+            "Colorado Springs, CO",
+            "Harrison, AR",
+            "Collierville, TN"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "Mario750614",
+        "id": "87b44c9f-3930-4a23-b584-08d5ebaf86b9",
+        "date_posted": 1696343585,
+        "company_url": "",
+        "is_visible": true
     }
 ]
