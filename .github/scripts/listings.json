@@ -26276,5 +26276,24 @@
         "date_posted": 1696343525,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1696343559,
+        "url": "https://careers.fedex.com/services/jobs/RC660078?lang=en-US",
+        "company_name": "FedEx",
+        "title": "Intern I Information Technology - Dallas",
+        "locations": [
+            "Plano, TX"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "Mario750614",
+        "id": "2b10e3d4-c48c-433e-be36-80a69abc4714",
+        "date_posted": 1696343559,
+        "company_url": "",
+        "is_visible": true
     }
 ]
