@@ -26257,5 +26257,24 @@
         "company_url": "https://simplify.jobs/c/elevance-health",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1696343525,
+        "url": "https://careers.fedex.com/services/jobs/RC660065?lang=en-US",
+        "company_name": "FedEx",
+        "title": "Intern I Information Technology - Orlando",
+        "locations": [
+            "Orlando, FL"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "Mario750614",
+        "id": "db40e349-2fc2-4d01-820d-a4009a9e1623",
+        "date_posted": 1696343525,
+        "company_url": "",
+        "is_visible": true
     }
 ]
