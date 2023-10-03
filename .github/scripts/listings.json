@@ -26335,5 +26335,24 @@
         "date_posted": 1696349730,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1696349772,
+        "url": "https://www.atlassian.com/company/careers/details/10594",
+        "company_name": "Atlassian",
+        "title": "Data Science Intern",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "ajain02",
+        "id": "af7ff9a8-55a1-4aed-9deb-575863df0bbc",
+        "date_posted": 1696349772,
+        "company_url": "",
+        "is_visible": true
     }
 ]
