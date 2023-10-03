@@ -21082,7 +21082,7 @@
         "company_name": "Bose",
         "id": "c2f4fb91-ad53-4e94-b909-ab903f373929",
         "title": "DSP Research Engineer Summer Intern 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -26354,5 +26354,124 @@
         "date_posted": 1696349772,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Kinaxis",
+        "id": "a7bedbf0-13d5-462b-88fd-f35df6cbf39e",
+        "title": "Marketing Operations Co-Op/Intern",
+        "active": true,
+        "terms": [
+            "Winter 2024"
+        ],
+        "date_updated": 1696347199,
+        "date_posted": 1696347199,
+        "url": "https://boards.greenhouse.io/kinaxis/jobs/6957200002",
+        "locations": [
+            "Canada",
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Kinaxis",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Autodesk",
+        "id": "de19207f-9750-42f1-9e53-df1c93d34cf5",
+        "title": "Software Engineer Intern - Winter 2024",
+        "active": true,
+        "terms": [
+            "Winter 2024"
+        ],
+        "date_updated": 1696346352,
+        "date_posted": 1696346352,
+        "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Ontario-CAN---Remote/Software-Engineer-Intern--Winter-2024-_23WD72449-1",
+        "locations": [
+            "Montreal, QC, Canada",
+            "Remote"
+        ],
+        "company_url": "https://simplify.jobs/c/Autodesk",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Asana",
+        "id": "d0efbf35-928b-4b91-b860-115be36be6f6",
+        "title": "NYC Summer Data Science Internship",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1696346158,
+        "date_posted": 1696346158,
+        "url": "https://www.asana.com/jobs/apply/5175558?gh_jid=5175558",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Asana",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Asana",
+        "id": "d94efb31-28d3-40ed-9b48-2fe2a286ff2b",
+        "title": "SF Summer Data Science Internship",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1696346160,
+        "date_posted": 1696346160,
+        "url": "https://www.asana.com/jobs/apply/5175585?gh_jid=5175585",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Asana",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Symbotic",
+        "id": "7483ed3f-225d-4d51-988a-9c2be6f64c11",
+        "title": "Co-op-Software Engineer - UI",
+        "active": true,
+        "terms": [
+            "Summer 2023",
+            "Spring 2024",
+            "Fall 2024"
+        ],
+        "date_updated": 1696346134,
+        "date_posted": 1696346134,
+        "url": "https://symbotic.wd1.myworkdayjobs.com/en-US/Symbotic/job/USA-Wilmington--MA---HQ/Co-op--Software-Engineer--UI-_R2768",
+        "locations": [
+            "Burlington, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/symbotic",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "MetroStar",
+        "id": "0e56e464-80dc-4784-bf46-56052c3b9716",
+        "title": "Technology Internship - Winter-Spring 2024",
+        "active": true,
+        "terms": [
+            "Winter 2025",
+            "Spring 2025"
+        ],
+        "date_updated": 1696345729,
+        "date_posted": 1696345729,
+        "url": "https://metrostar.com/job-post/?gh_jid=5754157003",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/MetroStarSystems",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
