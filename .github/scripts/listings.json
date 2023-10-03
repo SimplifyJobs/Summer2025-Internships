@@ -26316,5 +26316,24 @@
         "date_posted": 1696343585,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1696349730,
+        "url": "https://www.atlassian.com/company/careers/details/10613",
+        "company_name": "Atlassian",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "ajain02",
+        "id": "6989f63b-f78b-4939-9cbd-2ad6e169e5a8",
+        "date_posted": 1696349730,
+        "company_url": "",
+        "is_visible": true
     }
 ]
