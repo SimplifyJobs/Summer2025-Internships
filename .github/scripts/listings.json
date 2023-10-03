@@ -8631,7 +8631,7 @@
         "company_name": "Allegion",
         "id": "ce69a769-3aaf-48dc-8053-c41aaae04264",
         "title": "Summer Intern - Firmware",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2023"
         ],
@@ -11930,7 +11930,7 @@
         "company_name": "Humane",
         "id": "16238106-3868-42b6-b5a1-24d1a5c69a37",
         "title": "System Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024",
             "Summer 2024",
@@ -11951,7 +11951,7 @@
         "company_name": "Humane",
         "id": "ebc05612-2691-48b5-a727-de3acbee95f8",
         "title": "Computer Vision Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024",
             "Summer 2024",
@@ -12663,7 +12663,7 @@
         "company_name": "Humane",
         "id": "262decca-805c-4b33-89f8-3a154427adc6",
         "title": "Software Engineering Intern - Device Experiences",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024",
             "Summer 2024",
@@ -12722,7 +12722,7 @@
         "company_name": "Oshkosh",
         "id": "cd19d7a7-9167-4f7a-8d2b-9cfe914abf0c",
         "title": "Engineer Intern - Software - Summer 2024",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -14870,7 +14870,7 @@
         "company_name": "Kinaxis",
         "id": "bfdfa2a0-49c1-45cd-9d66-215d2dd449af",
         "title": "Co-Op/Intern Developer - IT Application Excellence",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2024"
         ],
@@ -16548,7 +16548,7 @@
         "company_name": "Northwestern Mutual",
         "id": "e01e7595-3268-4b6d-9215-93a0959fae2f",
         "title": "Investment Data \u2013 Analytics & Research Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -17011,7 +17011,7 @@
         "company_name": "Simply Business",
         "id": "2cb229bc-d673-4f29-a435-8eb715b33836",
         "title": "Engineering Summer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -17300,7 +17300,7 @@
         "company_name": "Kinaxis",
         "id": "0802a954-ac06-455e-86ce-076448d794b9",
         "title": "Co-Op/Intern Developer - Devops",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2024"
         ],
@@ -17339,7 +17339,7 @@
         "company_name": "Rugged Robotics",
         "id": "63e5940e-5192-4178-8bc2-ed62cf68db03",
         "title": "Robotic Software Intern/Co-op - Spring 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024"
         ],
@@ -17358,7 +17358,7 @@
         "company_name": "Rugged Robotics",
         "id": "461047bd-3521-43bb-888a-de27a845a135",
         "title": "Robotic Software Intern/Co-op - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -19867,7 +19867,7 @@
         "company_name": "Dev Technology Group",
         "id": "dbfb863a-1944-4209-90cf-b92b724b57ae",
         "title": "Summer React/Node Application Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -19886,7 +19886,7 @@
         "company_name": "Dev Technology Group",
         "id": "094586a2-53f3-445a-bea1-da87f1cbe8dd",
         "title": "Microsoft Powerapps Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -19905,7 +19905,7 @@
         "company_name": "Dev Technology Group",
         "id": "0ad38fd3-6aa1-41b0-9c8d-769fe4f4997b",
         "title": "Summer Low-Code/No Code \u2013 Developer Intern - Servicenow",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -19924,7 +19924,7 @@
         "company_name": "Dev Technology Group",
         "id": "2c566b4d-1f19-49fd-8b5b-9577305e0c22",
         "title": "AI/ML Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -22737,7 +22737,7 @@
         "company_name": "Zocdoc",
         "id": "e1d86b04-f913-4679-8064-d644abbb2efc",
         "title": "Software Engineering Summer Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -24041,7 +24041,7 @@
         "company_name": "Quanterix",
         "id": "27eaf577-7162-4954-9f9a-f948db35257b",
         "title": "Simoa Software Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -25468,7 +25468,7 @@
         "company_name": "Kitware",
         "id": "5eb32b49-7f43-4037-95ad-93d8c75ec6a6",
         "title": "Computer Vision Software Development Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -25487,7 +25487,7 @@
         "company_name": "Kitware",
         "id": "2fe9cccb-dc06-461e-8668-24ed874ae008",
         "title": "Computer Vision Software Development Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -25886,5 +25886,357 @@
         "date_posted": 1696289396,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Guidewire",
+        "id": "862dd1f0-3471-4f30-91ac-2050d410b338",
+        "title": "Summer 2024 Software Engineering Intern - Birmingham - AL",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1696289350,
+        "date_posted": 1696289350,
+        "url": "https://jobs.lever.co/guidewire/95925401-6c61-4c8b-b143-c197916b7db4/apply",
+        "locations": [
+            "Birmingham, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/Guidewire",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Kinaxis",
+        "id": "bf960e8f-5818-41af-b35b-6e877906bfb2",
+        "title": "Co-Op/Intern Software Developer - Core Algorithms",
+        "active": true,
+        "terms": [
+            "Winter 2024"
+        ],
+        "date_updated": 1696288873,
+        "date_posted": 1696288873,
+        "url": "https://boards.greenhouse.io/kinaxis/jobs/6955629002",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Kinaxis",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "GrayMatter Robotics",
+        "id": "aaba27ea-5826-4183-abb9-0602ce0c0eda",
+        "title": "Full Stack Developer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1696288672,
+        "date_posted": 1696288672,
+        "url": "https://boards.greenhouse.io/graymatterrobotics/jobs/4324332005",
+        "locations": [
+            "Remote"
+        ],
+        "company_url": "https://simplify.jobs/c/GrayMatterRobotics",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Voya Financial",
+        "id": "1f42e384-65d1-4366-9837-6dc22c13ade8",
+        "title": "Internal Audit Data Analyst Intern",
+        "active": true,
+        "terms": [
+            "Spring 2024"
+        ],
+        "date_updated": 1696288563,
+        "date_posted": 1696288563,
+        "url": "https://godirect.wd5.myworkdayjobs.com/voya_jobs/job/United-States-Remote/Internal-Audit-Data-Analyst-Intern_JR0028383",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/VoyaFinancial",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "GoodRx",
+        "id": "ac2eadfa-1d5b-4921-a465-7d4533810241",
+        "title": "Editorial Internship: Copy-editing - Writing - Or Operations - 6 Months",
+        "active": true,
+        "terms": [
+            "Winter 2024",
+            "Spring 2024",
+            "Summer 2024"
+        ],
+        "date_updated": 1696288576,
+        "date_posted": 1696288576,
+        "url": "https://jobs.lever.co/goodrx/6e17494d-5917-4ea6-83d8-f77f7a53ecd4/apply",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/GoodRx",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Autodesk",
+        "id": "32527fbe-bc73-41a9-9fe4-82be7015833f",
+        "title": "Intern \u2013 Software Developer - Alias - 1 Year",
+        "active": true,
+        "terms": [
+            "Winter 2025",
+            "Spring 2025",
+            "Summer 2025",
+            "Fall 2025",
+            "Winter 2026"
+        ],
+        "date_updated": 1696288528,
+        "date_posted": 1696288528,
+        "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Intern--Software-Developer---Alias--1-Year-_23WD72629-1",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Autodesk",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Northwestern Mutual",
+        "id": "fc0435c0-d41b-467a-ba48-e1eabb1699ad",
+        "title": "Software Engineering Internship - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1696288503,
+        "date_posted": 1696288503,
+        "url": "https://northwesternmutual.wd5.myworkdayjobs.com/corporate-careers/job/Milwaukee-WI-Corporate/Software-Engineering-Internship--Summer-2024_JR-39387-1",
+        "locations": [
+            "Milwaukee, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Northwestern-Mutual",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Elevance Health",
+        "id": "993f0b90-6faf-4d92-ba47-964793b68e31",
+        "title": "Engineer Intern-Undergraduate-Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1696288474,
+        "date_posted": 1696288474,
+        "url": "https://elevancehealth.wd1.myworkdayjobs.com/en-US/ANT/job/CA-WOODLAND-HILLS-21215-BURBANK-BLVD/Engineer-Intern--Undergraduate--Summer-2024_JR89595",
+        "locations": [
+            "Palo Alto, CA",
+            "Canoga Park, LA",
+            "Burbank, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/elevance-health",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Guidewire",
+        "id": "ff1e50f4-5e4b-48d5-b834-c9dd2c08e58a",
+        "title": "Summer 2024 Software Full stack Engineering Intern - Bedford - MA",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1696288369,
+        "date_posted": 1696288369,
+        "url": "https://jobs.lever.co/guidewire/18c21a80-f5fb-490b-9823-2b679da77cd8/apply",
+        "locations": [
+            "Bedford, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Guidewire",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Guidewire",
+        "id": "a5bcfc1f-1bae-478a-a004-d6035d919044",
+        "title": "Summer 2024 Software Engineering Intern - San Mateo",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1696288368,
+        "date_posted": 1696288368,
+        "url": "https://jobs.lever.co/guidewire/b61a9a59-9c7c-4bad-9a38-d62ddedcb654/apply",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Guidewire",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Guidewire",
+        "id": "63fa90fc-0522-4cb0-9448-d4cbbd9cfdaa",
+        "title": "Summer 2024 Software Engineering Intern - Exton - PA",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1696288367,
+        "date_posted": 1696288367,
+        "url": "https://jobs.lever.co/guidewire/f64534b9-fc2b-47ec-ab99-922a788cc4bc/apply",
+        "locations": [
+            "Exton, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Guidewire",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Symbotic",
+        "id": "c517f3dd-b223-46b0-bcb1-7f7f783ba806",
+        "title": "Co-op-Controls Engineer - Spring",
+        "active": true,
+        "terms": [
+            "Spring 2023"
+        ],
+        "date_updated": 1696288341,
+        "date_posted": 1696288341,
+        "url": "https://symbotic.wd1.myworkdayjobs.com/en-US/Symbotic/job/USA-Wilmington--MA---HQ/Co-op--Controls-Engineer--Spring--24-_R2757",
+        "locations": [
+            "Burlington, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/symbotic",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Symbotic",
+        "id": "29c3bcd1-94b8-4128-b45f-977fa1f38603",
+        "title": "Intern-Minibot Controls - Routing",
+        "active": true,
+        "terms": [
+            "Summer 2023",
+            "Spring 2024",
+            "Fall 2024"
+        ],
+        "date_updated": 1696288340,
+        "date_posted": 1696288340,
+        "url": "https://symbotic.wd1.myworkdayjobs.com/en-US/Symbotic/job/USA-Wilmington--MA---HQ/Intern--Minibot-Controls--Routing-_R2765",
+        "locations": [
+            "Burlington, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/symbotic",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Symbotic",
+        "id": "22c173e1-4239-4d47-b5a4-2512995fdabd",
+        "title": "Co-op-Embedded Software Engineer - Spring",
+        "active": true,
+        "terms": [
+            "Spring 2023"
+        ],
+        "date_updated": 1696288339,
+        "date_posted": 1696288339,
+        "url": "https://symbotic.wd1.myworkdayjobs.com/en-US/Symbotic/job/USA-Wilmington--MA---HQ/Co-op--Embedded-Software-Engineer--Spring--24-_R2756",
+        "locations": [
+            "Burlington, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/symbotic",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Zoox",
+        "id": "cc3e6076-0787-472a-84ea-92518ee23924",
+        "title": "Software Systems Infrastructure \u2013 Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1696288173,
+        "date_posted": 1696288173,
+        "url": "https://jobs.lever.co/zoox/5de0e028-b835-4c7a-86d1-b22a5a6d93a2/apply",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Zoox",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Zoox",
+        "id": "f1c4e1dc-83f6-4afe-9434-c95361fdfaeb",
+        "title": "Software Architecture Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1696288172,
+        "date_posted": 1696288172,
+        "url": "https://jobs.lever.co/zoox/3e7d8626-ee77-4e67-93c6-3180072a20c3/apply",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Zoox",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Zoox",
+        "id": "cc6d48e0-ec1e-4bb1-91e7-8a8b93f7384e",
+        "title": "Robot Software Infrastructure \u2013 Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1696288168,
+        "date_posted": 1696288168,
+        "url": "https://jobs.lever.co/zoox/17940748-8d1b-44ae-bc85-d9306d7b32c7/apply",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Zoox",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Old Mission",
+        "id": "f4f8b92f-ee94-48cc-a0f5-0a89d1972564",
+        "title": "Micro-Internship - Quant Trader - January 2024",
+        "active": true,
+        "terms": [
+            "Winter 2024"
+        ],
+        "date_updated": 1696287865,
+        "date_posted": 1696287865,
+        "url": "https://www.oldmissioncapital.com/careers/?gh_jid=5762219003",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Old-Mission",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
