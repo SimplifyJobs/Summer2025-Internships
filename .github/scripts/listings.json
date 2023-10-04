@@ -27039,5 +27039,24 @@
         "company_url": "https://simplify.jobs/c/Dell-Technologies",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1696437419,
+        "url": "https://genesys.wd1.myworkdayjobs.com/Genesys/job/Durham-NC-USA/Summer--24-Software-Engineer-Intern_JR102218-1",
+        "company_name": "Genesys",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "Remote"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "bilala45",
+        "id": "226ddf69-e919-485d-b49d-a9296fd52d2a",
+        "date_posted": 1696437419,
+        "company_url": "",
+        "is_visible": true
     }
 ]
