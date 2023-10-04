@@ -27172,5 +27172,24 @@
         "company_url": "https://simplify.jobs/c/Toyota-Research-Institute",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1696457148,
+        "url": "https://boards.greenhouse.io/twitch/jobs/6948898002",
+        "company_name": "Twitch",
+        "title": "Undergrad Engineering Intern",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "anjulo",
+        "id": "c9ebf1f1-9a55-41a7-bbb1-5a54e0371b8b",
+        "date_posted": 1696457148,
+        "company_url": "",
+        "is_visible": true
     }
 ]
