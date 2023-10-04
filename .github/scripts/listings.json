@@ -20484,7 +20484,7 @@
         "company_name": "Cowen",
         "id": "df8ead97-1f5b-45ef-810b-98bb4eae5575",
         "title": "2024 Markets Summer Analyst Program",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -24022,7 +24022,7 @@
         "company_name": "Cohere Health",
         "id": "4903a85b-9997-4c67-925a-d6323a38fa3d",
         "title": "Software Engineer Co-Op - 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -27058,5 +27058,119 @@
         "date_posted": 1696437419,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "CACI",
+        "id": "e38132d8-83fd-41e4-9e8b-89374dcba93d",
+        "title": "Mechanical Engineering Intern - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1696439724,
+        "date_posted": 1696439724,
+        "url": "https://caci.wd1.myworkdayjobs.com/External/job/US-VA-Sterling/Mechanical-Engineering-Intern---Summer-2024_287468",
+        "locations": [
+            "Dulles, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/CACI",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "1Password",
+        "id": "01b50160-32af-4cd9-af7a-b9fce7a8ef7c",
+        "title": "Developer Intern - User Lifecycle & Growth - Winter 2024",
+        "active": true,
+        "terms": [
+            "Winter 2024"
+        ],
+        "date_updated": 1696439625,
+        "date_posted": 1696439625,
+        "url": "https://jobs.lever.co/1password/b9e9cf37-1cd6-4e39-b067-88f20153b1c9/apply",
+        "locations": [
+            "Remote"
+        ],
+        "company_url": "https://simplify.jobs/c/1Password",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "1Password",
+        "id": "7a4eec6c-001f-4948-9ae1-498b10c75f3b",
+        "title": "Developer Intern - Filling & Saving - Winter 2024",
+        "active": true,
+        "terms": [
+            "Winter 2024"
+        ],
+        "date_updated": 1696439623,
+        "date_posted": 1696439623,
+        "url": "https://jobs.lever.co/1password/1dac8fba-398f-4000-b041-62fee770701b/apply",
+        "locations": [
+            "Remote"
+        ],
+        "company_url": "https://simplify.jobs/c/1Password",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "1Password",
+        "id": "e235980f-415b-498c-83e1-0d75895e4c85",
+        "title": "Developer Intern - Internal Tools - Winter 2024",
+        "active": true,
+        "terms": [
+            "Winter 2024"
+        ],
+        "date_updated": 1696439623,
+        "date_posted": 1696439623,
+        "url": "https://jobs.lever.co/1password/7e9d94fd-dc96-4801-b929-abf048d9d514/apply",
+        "locations": [
+            "Remote"
+        ],
+        "company_url": "https://simplify.jobs/c/1Password",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "1Password",
+        "id": "928e36d5-2ea8-4725-b48b-6925995a0d14",
+        "title": "Developer Intern - Item Management - Winter 2024",
+        "active": true,
+        "terms": [
+            "Winter 2024"
+        ],
+        "date_updated": 1696439626,
+        "date_posted": 1696439626,
+        "url": "https://jobs.lever.co/1password/56f61a70-1ddf-44a1-930f-cab8a6edbefa/apply",
+        "locations": [
+            "Remote"
+        ],
+        "company_url": "https://simplify.jobs/c/1Password",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Toyota Research Institute",
+        "id": "552775e9-3b1c-4572-a071-7730719a1b2f",
+        "title": "Robotics Intern - Dexterous Manipulation - Large Behavior Models",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1696439333,
+        "date_posted": 1696439333,
+        "url": "https://jobs.lever.co/tri/dcec1318-aa6f-494a-b406-980cd0cd99a5/apply",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Toyota-Research-Institute",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
