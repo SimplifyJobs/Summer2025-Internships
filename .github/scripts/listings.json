@@ -27135,7 +27135,7 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1696437419,
+        "date_updated": 1696532632,
         "url": "https://genesys.wd1.myworkdayjobs.com/Genesys/job/Durham-NC-USA/Summer--24-Software-Engineer-Intern_JR102218-1",
         "company_name": "Genesys",
         "title": "Software Engineer Intern",
@@ -27145,8 +27145,8 @@
         "terms": [
             "Summer 2024"
         ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "bilala45",
         "id": "226ddf69-e919-485d-b49d-a9296fd52d2a",
         "date_posted": 1696437419,
