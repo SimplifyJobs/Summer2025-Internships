@@ -17374,7 +17374,7 @@
         "company_name": "Kinaxis",
         "id": "32a292b8-6bdf-4feb-bd61-315bfd8726e2",
         "title": "Co-Op/Intern Cloud Developer - Platform Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2024"
         ],
@@ -18497,7 +18497,7 @@
         "company_name": "Leidos",
         "id": "b3b118c3-8f3c-4286-8450-99f117f62130",
         "title": "Software Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -26812,7 +26812,7 @@
         "company_name": "Leidos",
         "id": "6ccecfab-4294-42bb-b6aa-bf7c45e982d0",
         "title": "Software Engineer Intern Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2024"
         ],
@@ -27291,7 +27291,7 @@
         "company_name": "Flawless",
         "id": "ab9d410b-00bc-4378-a55d-c62bdf987580",
         "title": "Data Engineer Internship - Deep Learning",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -27646,6 +27646,127 @@
             "LA"
         ],
         "company_url": "https://simplify.jobs/c/SecondSpectrum",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Rivian",
+        "id": "11986f0c-57e7-4595-bf33-14affdde1254",
+        "title": "Engineering Intern \u2013 7-Month Co-Op Program - Machine Learning - Manufacturing Engineering",
+        "active": true,
+        "terms": [
+            "Spring 2024",
+            "Summer 2024",
+            "Fall 2024",
+            "Winter 2025"
+        ],
+        "date_updated": 1696523914,
+        "date_posted": 1696523914,
+        "url": "https://careers.rivian.com/jobs/13705?lang=en-us&icims=1",
+        "locations": [
+            "Normal, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Rivian",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Kepler Communications",
+        "id": "885f601c-ee24-4bda-b176-d5ceda71f7fd",
+        "title": "Embedded Software Engineer Intern - Winter 2024 - 4 - Months",
+        "active": true,
+        "terms": [
+            "Winter 2024"
+        ],
+        "date_updated": 1696523780,
+        "date_posted": 1696523780,
+        "url": "https://jobs.lever.co/kepler/9199ebb4-896d-4b88-95bd-2d1d1af40fee/apply",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/c62e5e85-8369-4099-a78d-796cb56aa83f",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Plexus",
+        "id": "d471f138-8281-4b38-94d6-a96e092bd855",
+        "title": "Intern \u2013 Software Engineer - Fall 2024",
+        "active": true,
+        "terms": [
+            "Fall 2024"
+        ],
+        "date_updated": 1696523484,
+        "date_posted": 1696523484,
+        "url": "https://plexus.wd5.myworkdayjobs.com/en-US/Plexus_Careers/job/Neenah-WI/Intern---Software-Engineer---Fall-2024_R027426",
+        "locations": [
+            "Neenah, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Plexus",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Elevance Health",
+        "id": "5d8e39b5-801e-4951-8b54-d106adbd591e",
+        "title": "Data Analyst Internship - Summer 2024 - Undergraduate",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1696523496,
+        "date_posted": 1696523496,
+        "url": "https://elevancehealth.wd1.myworkdayjobs.com/en-US/ANT/job/IL-CHICAGO-233-S-WACKER-DR-STE-3700/Data-Analyst-Internship---Summer-2024--Undergraduate_JR89066",
+        "locations": [
+            "Indianapolis, IN",
+            "Chicago, IL",
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/elevance-health",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Symbotic",
+        "id": "d816a81f-6a5b-4c31-80f8-291538b84301",
+        "title": "Intern-Robotics Path Planning",
+        "active": true,
+        "terms": [
+            "Summer 2023",
+            "Spring 2024",
+            "Fall 2024"
+        ],
+        "date_updated": 1696523353,
+        "date_posted": 1696523353,
+        "url": "https://symbotic.wd1.myworkdayjobs.com/en-US/Symbotic/job/USA-Wilmington--MA---HQ/Intern--Robotics-Path-Planning_R2797",
+        "locations": [
+            "Burlington, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/symbotic",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Taboola",
+        "id": "7c60f71f-8628-4347-8da6-8450f187c988",
+        "title": "Frontend Engineer Intern",
+        "active": true,
+        "terms": [
+            "Spring 2023"
+        ],
+        "date_updated": 1696523137,
+        "date_posted": 1696523137,
+        "url": "https://www.taboola.com/careers/job/5409697?gh_jid=5409697",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Taboola",
         "is_visible": true,
         "sponsorship": "Other"
     }
