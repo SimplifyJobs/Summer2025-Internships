@@ -27769,5 +27769,24 @@
         "company_url": "https://simplify.jobs/c/Taboola",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1696532566,
+        "url": "https://app.ripplematch.com/v2/public/job/787afef6/details",
+        "company_name": "Notion",
+        "title": "Data Scientist Intern, Growth (Summer 2024)",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "mtlogs",
+        "id": "15ab1ea2-d5ef-4aa9-bd90-14e380f15a89",
+        "date_posted": 1696532566,
+        "company_url": "",
+        "is_visible": true
     }
 ]
