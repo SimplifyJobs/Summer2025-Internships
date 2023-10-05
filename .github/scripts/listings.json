@@ -16319,7 +16319,7 @@
         "company_name": "Prime Medicine",
         "id": "51fc58d4-250c-41ae-8a23-d21799b79510",
         "title": "Spring 2024 Co-op: Research Systems Informatics",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024"
         ],
@@ -18712,7 +18712,7 @@
         "company_name": "Leidos",
         "id": "865b1dcc-bbbf-4434-8f94-addf636774b8",
         "title": "Software Engineer Intern \ud83c\uddfa\ud83c\uddf8",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -24927,7 +24927,7 @@
         "company_name": "84.51 Degrees",
         "id": "25ce4293-9f8c-4722-97bf-ef4808949ba8",
         "title": "Data Science \u2013 Co-op Program - Spring 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024"
         ],
@@ -27191,5 +27191,254 @@
         "date_posted": 1696457148,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Flawless",
+        "id": "ab9d410b-00bc-4378-a55d-c62bdf987580",
+        "title": "Data Engineer Internship - Deep Learning",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1696461519,
+        "date_posted": 1696461519,
+        "url": "https://jobs.lever.co/flawlessai/56dcb5dc-a891-4f0f-9609-7adb5e45ae09/apply",
+        "locations": [
+            "Santa Monica, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Flawless",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "AppLovin",
+        "id": "f58e872a-d66e-413b-a7a8-a2862def4739",
+        "title": "Mobile Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1696461511,
+        "date_posted": 1696461510,
+        "url": "https://boards.greenhouse.io/applovin/jobs/4286125006",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/AppLovin",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "AppLovin",
+        "id": "7c34a826-4f1e-4842-8948-9d5c73219250",
+        "title": "Mobile Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1696461510,
+        "date_posted": 1696461510,
+        "url": "https://boards.greenhouse.io/applovin/jobs/4288281006",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/AppLovin",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Unity",
+        "id": "9d89604e-10fc-437d-963d-997b10e38235",
+        "title": "Stagiaire en d\u00e9veloppement de logiciels \u2013 Software Developer Intern",
+        "active": true,
+        "terms": [
+            "Spring 2024"
+        ],
+        "date_updated": 1696461470,
+        "date_posted": 1696461470,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=5413624",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Unity",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Unity",
+        "id": "5709d283-fff0-4bd4-967b-99b0b74fceb1",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1696461467,
+        "date_posted": 1696461467,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=5412963",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Unity",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Parallel Systems",
+        "id": "033194ce-35e9-4b20-8fa1-0080ed19805d",
+        "title": "Internship - Software Engineer - Spring 2024",
+        "active": true,
+        "terms": [
+            "Spring 2024"
+        ],
+        "date_updated": 1696461376,
+        "date_posted": 1696461376,
+        "url": "https://boards.greenhouse.io/parallel/jobs/4097409007",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Parallel-Systems",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Second Order Effects",
+        "id": "b9cb1bf6-42c5-4224-964b-13974e3bd474",
+        "title": "Systems Integration/Test Engineering Intern - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1696461329,
+        "date_posted": 1696461329,
+        "url": "https://boards.greenhouse.io/soeffects/jobs/5765163003",
+        "locations": [
+            "El Segundo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Second-Order-Effects",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Second Order Effects",
+        "id": "6d3bfd67-d72a-4918-a809-362786fafac3",
+        "title": "Systems Integration/Test Engineering Intern - Spring 2024",
+        "active": true,
+        "terms": [
+            "Spring 2024"
+        ],
+        "date_updated": 1696461328,
+        "date_posted": 1696461328,
+        "url": "https://boards.greenhouse.io/soeffects/jobs/5765155003",
+        "locations": [
+            "El Segundo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Second-Order-Effects",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Plexus",
+        "id": "5bcfab3d-cd1f-4192-81a6-6e05f247c326",
+        "title": "Intern \u2013 Software Engineer - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1696461314,
+        "date_posted": 1696461314,
+        "url": "https://plexus.wd5.myworkdayjobs.com/en-US/Plexus_Careers/job/Neenah-WI/Intern---Software-Engineer---Summer-2024_R027425",
+        "locations": [
+            "Neenah, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Plexus",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Symbotic",
+        "id": "d26c38c9-6a64-4bb6-abf7-b291c48f2915",
+        "title": "Intern-Robot Perception",
+        "active": true,
+        "terms": [
+            "Summer 2023",
+            "Spring 2024",
+            "Fall 2024"
+        ],
+        "date_updated": 1696461201,
+        "date_posted": 1696461201,
+        "url": "https://symbotic.wd1.myworkdayjobs.com/en-US/Symbotic/job/USA-Wilmington--MA---HQ/Intern--Robot-Perception_R2792",
+        "locations": [
+            "Burlington, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/symbotic",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Zoox",
+        "id": "a5d62cf4-e345-4515-81d0-352e6a8a70ff",
+        "title": "CLAMS HD Mapping Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1696461059,
+        "date_posted": 1696461059,
+        "url": "https://jobs.lever.co/zoox/517fd093-7b21-4a50-b715-ada8122386a4/apply",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Zoox",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Skydio",
+        "id": "3c1095d5-8698-45cc-8bf1-faf1e45110d0",
+        "title": "Mobile Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1696460693,
+        "date_posted": 1696460693,
+        "url": "https://boards.greenhouse.io/skydio/jobs/5738863003",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Skydio",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "1Password",
+        "id": "06421c8f-e8ed-4f93-8a89-1ea61b237d4b",
+        "title": "Developer Intern - Developer Ecosystems - Winter 2024",
+        "active": true,
+        "terms": [
+            "Winter 2024"
+        ],
+        "date_updated": 1696440633,
+        "date_posted": 1696440633,
+        "url": "https://jobs.lever.co/1password/1fda9f57-1d6b-4918-ac95-f0e8edcbf2a8/apply",
+        "locations": [
+            "Remote"
+        ],
+        "company_url": "https://simplify.jobs/c/1Password",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
