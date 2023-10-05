@@ -1044,7 +1044,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | ↳ | Trading Engineer Intern | Jupiter, FL | 🔒 | Jul 2023 |
 | Lumen Technologies | Internship program (Express Interest) (U.S. work authorization required) 🛂 | Remote, USA | 🔒 | Jul 2023 |
 | Castleton Commodities International | Data Science Internship | Stamford, CT | 🔒 | Jul 2023 |
-| Medtronic | Software Engineering Summer 2024 Intern  🛂 | Multiple | <a href="https://medtronic.eightfold.ai/careers/job/17363492?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 2023 |
+| Medtronic | Software Engineer Summer 2024 Intern | Multiple | 🔒 | Jul 2023 |
 | **[DRW](https://simplify.jobs/c/DRW)** | Site Reliability Engineer Intern - Sre | Chicago, IL | 🔒 | Jul 2023 |
 | Marotta Controls | Software Engineering Intern us | Parisppany, NJ | 🔒 | Jul 2023 |
 | Trane Technologies | 2024 Analytics & Data Science Intern  🇺🇸 | Davidson, NC</br>Minneapolis, MN | 🔒 | Jul 2023 |
