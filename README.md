@@ -1052,7 +1052,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | ↳ | Data Migration Consulting Intern 🇺🇸 | Denver, CO</br>Dallas, TX | 🔒 | Jul 2023 |
 | Scholastic | Scholastic Summer Software Development Test Intern | NYC | 🔒 | Jun 2023 |
 | ↳ | Scholastic Summer Software Engineer Intern | NYC | 🔒 | Jun 2023 |
-| Elbit Systems of America | Software Engineering Intern  🇺🇸 | Birdsboro, PA | <a href="https://jobs.smartrecruiters.com/ElbitSystemsOfAmerica/743999907500503-software-engineering-intern-ref1380b-?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 2023 |
+| Elbit Systems of America | Software Engineering Intern us | Birdsboro, PA | 🔒 | Jun 2023 |
 | **[Accenture](https://simplify.jobs/c/Accenture)** | Federal - Software Engineering Intern 🇺🇸 | Tampa, FL | 🔒 | Jun 2023 |
 | JPMorgan Chase | Software Engineer Intern  🛂 | Multiple Locations | <a href="https://careers.jpmorgan.com/us/en/students/programs/software-engineer-summer?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 2023 |
 | Citadel | Software Engineer Intern | Chicago, IL</br>NYC | <a href="https://www.citadel.com/careers/details/software-engineer-intern-us/?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 2023 |
