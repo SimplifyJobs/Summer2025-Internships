@@ -138,7 +138,7 @@
         "company_name": "Akuna Capital",
         "id": "e315827a-8ac3-487d-ab3a-4ce62b53764f",
         "title": "Software Engineer Intern - Data Platform",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -10292,7 +10292,7 @@
         "company_name": "DoorDash",
         "id": "ae74cdd4-18bb-44a0-b849-8c6e6737bfa5",
         "title": "Software Engineer \u2013 Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -10314,7 +10314,7 @@
         "company_name": "DoorDash",
         "id": "8f34b16d-78e4-4c98-a658-ab894945d31f",
         "title": "Software Engineer \u2013 Intern - Toronto - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -15154,7 +15154,7 @@
         "company_name": "The Hub Project",
         "id": "280bc49b-fe60-41fa-b45b-6152fa41c702",
         "title": "Internship - Polling & Analytics\t",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2023"
         ],
@@ -16277,7 +16277,7 @@
         "company_name": "DataCamp",
         "id": "46546c29-7736-4677-bd73-0cbab7ff6610",
         "title": "Content Development Intern - ML & Data Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -16296,7 +16296,7 @@
         "company_name": "DataCamp",
         "id": "9e739491-6bf1-4c88-9f5b-6ef70ce7a7f3",
         "title": "Content Development Intern - ML & Data Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -19540,7 +19540,7 @@
         "company_name": "Blizzard Entertainment",
         "id": "9d7a5694-fff8-4b5d-9ac3-1288cd422ecc",
         "title": "2024 US Summer Internship - Game Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -19568,7 +19568,7 @@
         "company_name": "Activision-Blizzard",
         "id": "733ab333-6e2d-4ea5-b02f-65d91a57a570",
         "title": "2024 US Summer Internship - Computer Graphics",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -19590,7 +19590,7 @@
         "company_name": "Activision-Blizzard",
         "id": "0ad28558-e3bc-4aca-952f-eccb1e783161",
         "title": "2024 US Summer Internship - Cyber Security",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -23907,7 +23907,7 @@
         "company_name": "HBK Capital Management",
         "id": "2a2cfc08-c664-4e92-a543-2cd71f184301",
         "title": "Software Engineer Intern - Summer 2024",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -24135,7 +24135,7 @@
         "company_name": "Quanterix",
         "id": "27eaf577-7162-4954-9f9a-f948db35257b",
         "title": "Simoa Software Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -24314,7 +24314,7 @@
         "company_name": "HBK Capital Management",
         "id": "3d8db715-c7a6-419b-a8cc-cb47beeec233",
         "title": "Software Developer Intern - Summer 2024",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -27120,7 +27120,7 @@
         "company_name": "Dell Technologies",
         "id": "8a083889-5e9e-49d0-b8b7-4268a92a5460",
         "title": "Data Science Undergraduate Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -27788,5 +27788,221 @@
         "date_posted": 1696532566,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Ontario Teachers' Pension Plan",
+        "id": "4d4801d6-818a-457f-8a72-98c9ddaad89c",
+        "title": "Intern \u2013 Trading Floor Risk Analyst - Fall 2024 - Month term",
+        "active": true,
+        "terms": [
+            "Fall 2024"
+        ],
+        "date_updated": 1696547720,
+        "date_posted": 1696547720,
+        "url": "https://otppb.wd3.myworkdayjobs.com/OntarioTeachers_Careers/job/Toronto-Canada/Intern---Trading-Floor-Risk-Analyst--Fall-2024---8-Month-or-12-Month-term-_5432",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/d4b46db7-7c4d-4097-bc34-341875b5b6ab",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Sanctuary AI",
+        "id": "58193da6-3925-45e4-abed-bb98c61d6837",
+        "title": "Software Co-op: AI/Automation - January 2024 term",
+        "active": true,
+        "terms": [
+            "Winter 2024"
+        ],
+        "date_updated": 1696547610,
+        "date_posted": 1696547610,
+        "url": "https://jobs.lever.co/sanctuary/70f14679-e5e6-4bc0-8edb-92917da7fe47/apply",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Sanctuary-AI",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Sanctuary AI",
+        "id": "0fa5bc10-0622-4e66-bebc-69447b5cd103",
+        "title": "Software Co-op: Cognitive Platform - January 2024 term",
+        "active": true,
+        "terms": [
+            "Winter 2024"
+        ],
+        "date_updated": 1696547615,
+        "date_posted": 1696547615,
+        "url": "https://jobs.lever.co/sanctuary/de9e65f9-852c-465c-8444-c9c8b9164eb1/apply",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Sanctuary-AI",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Sanctuary AI",
+        "id": "78766709-e7f6-4b40-9b52-4571355ccb4d",
+        "title": "Software Co-op: Web Services - January 2024 term",
+        "active": true,
+        "terms": [
+            "Winter 2024"
+        ],
+        "date_updated": 1696547613,
+        "date_posted": 1696547613,
+        "url": "https://jobs.lever.co/sanctuary/cd0420ed-ae01-40d9-b4a2-53036fb43172/apply",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Sanctuary-AI",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Sanctuary AI",
+        "id": "4c241c26-4016-4c4a-b301-c498200da74a",
+        "title": "Software Co-op: Machine Learning Operations - January 2024 term",
+        "active": true,
+        "terms": [
+            "Winter 2024"
+        ],
+        "date_updated": 1696547612,
+        "date_posted": 1696547612,
+        "url": "https://jobs.lever.co/sanctuary/651376b2-8b6c-4ea2-a7ac-1749748d8eaa/apply",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Sanctuary-AI",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Sanctuary AI",
+        "id": "6f262dcc-aa0d-4e83-a3c4-de56aa8f7446",
+        "title": "Hardware Co-op: Firmware Engineering - January 2024 term",
+        "active": true,
+        "terms": [
+            "Winter 2024"
+        ],
+        "date_updated": 1696547614,
+        "date_posted": 1696547614,
+        "url": "https://jobs.lever.co/sanctuary/0bd625c2-3fa2-4811-b072-60e0d570f966/apply",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Sanctuary-AI",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Symbotic",
+        "id": "c73130c5-0cbe-4972-a981-b5935a164274",
+        "title": "Intern-Embedded Software Engineer",
+        "active": true,
+        "terms": [
+            "Summer 2023",
+            "Spring 2024",
+            "Fall 2024"
+        ],
+        "date_updated": 1696547572,
+        "date_posted": 1696547572,
+        "url": "https://symbotic.wd1.myworkdayjobs.com/en-US/Symbotic/job/USA-Wilmington--MA---HQ/Intern--Embedded-Software-Engineer_R2804",
+        "locations": [
+            "Burlington, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/symbotic",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Symbotic",
+        "id": "723fe65e-af90-4fc4-bbcc-8fcf288ebffa",
+        "title": "Intern-Controls Engineer",
+        "active": true,
+        "terms": [
+            "Summer 2023",
+            "Spring 2024",
+            "Fall 2024"
+        ],
+        "date_updated": 1696547574,
+        "date_posted": 1696547574,
+        "url": "https://symbotic.wd1.myworkdayjobs.com/en-US/Symbotic/job/USA-Wilmington--MA---HQ/Intern--Controls-Engineer_R2807",
+        "locations": [
+            "Burlington, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/symbotic",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Productiv Inc.",
+        "id": "19878135-2fa6-4b12-9e74-a1155ad2298b",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1696547279,
+        "date_posted": 1696547279,
+        "url": "https://boards.greenhouse.io/productiv/jobs/5763658003",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Productiv",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Rockwell Automation",
+        "id": "cb69b78e-c4e6-48fe-9a86-c5f7c5277c93",
+        "title": "Intern \u2013 Rockwell Engineering Pathways Program",
+        "active": true,
+        "terms": [
+            "Spring 2024"
+        ],
+        "date_updated": 1696547327,
+        "date_posted": 1696547327,
+        "url": "https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Milwaukee-Wisconsin-United-States/Intern--Rockwell-Engineering-Pathways-Program_R23-8951-2",
+        "locations": [
+            "Mayfield Heights, OH",
+            "Milwaukee, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Rockwell-Automation",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Clever",
+        "id": "efc3454e-6008-40ec-b92c-990b9ccce90c",
+        "title": "Software Engineer \u2013 Internship",
+        "active": true,
+        "terms": [
+            "Spring 2024",
+            "Summer 2024"
+        ],
+        "date_updated": 1696547216,
+        "date_posted": 1696547216,
+        "url": "https://www.clever.com/about/careers?gh_jid=5409458",
+        "locations": [
+            "SF",
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Clever",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
