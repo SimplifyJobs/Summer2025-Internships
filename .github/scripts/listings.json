@@ -28040,5 +28040,24 @@
         "date_posted": 1696648452,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1696649847,
+        "url": "https://app.ripplematch.com/v2/public/job/041fe806/details",
+        "company_name": "Notion",
+        "title": "Data Scientist Intern, Sales and Success (Summer 2024)",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "mtlogs",
+        "id": "340fb404-a11c-4290-9364-d386d3565962",
+        "date_posted": 1696649847,
+        "company_url": "",
+        "is_visible": true
     }
 ]
