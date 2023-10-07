@@ -28116,5 +28116,24 @@
         "date_posted": 1696649992,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1696650013,
+        "url": "https://jobs.spectrum.com/job/greenwood-village/2024-summer-intern-mobile-software-engineer/4673/55037758624",
+        "company_name": "Spectrum",
+        "title": "Mobile Software Engineer",
+        "locations": [
+            "Greenwood Village, Colorado"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "VitaliPri",
+        "id": "f3b38233-bbbd-4f86-a0b4-fbe505605f09",
+        "date_posted": 1696650013,
+        "company_url": "",
+        "is_visible": true
     }
 ]
