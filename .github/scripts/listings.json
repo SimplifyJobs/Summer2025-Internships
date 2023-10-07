@@ -28002,5 +28002,24 @@
         "company_url": "https://simplify.jobs/c/Clever",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1696648408,
+        "url": "https://jobs.spectrum.com/job/charlotte/2024-summer-intern-software-development-engineer-i/4673/55031299424",
+        "company_name": "Spectrum",
+        "title": "Software Development Engineer I",
+        "locations": [
+            "Charlotte, North Carolina"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "VitaliPri",
+        "id": "1b347683-df3a-4f77-a021-6c23637fe703",
+        "date_posted": 1696648408,
+        "company_url": "",
+        "is_visible": true
     }
 ]
