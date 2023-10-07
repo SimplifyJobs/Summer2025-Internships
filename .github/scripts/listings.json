@@ -28135,5 +28135,24 @@
         "date_posted": 1696650013,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1696650029,
+        "url": "https://jobs.spectrum.com/job/charlotte/2024-summer-intern-assoc-software-engineer/4673/55277640736",
+        "company_name": "Spectrum",
+        "title": "Assoc Software Engineer",
+        "locations": [
+            "Charlotte, North Carolina"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "VitaliPri",
+        "id": "192eb10e-e6c7-4abe-a6be-e68d0a88de8c",
+        "date_posted": 1696650029,
+        "company_url": "",
+        "is_visible": true
     }
 ]

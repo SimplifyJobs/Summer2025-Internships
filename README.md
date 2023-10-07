@@ -61,7 +61,8 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
-| Spectrum | Mobile Software Engineer 🛂 | Greenwood Village, Colorado | <a href="https://jobs.spectrum.com/job/greenwood-village/2024-summer-intern-mobile-software-engineer/4673/55037758624?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 06 |
+| Spectrum | Assoc Software Engineer 🛂 | Charlotte, North Carolina | <a href="https://jobs.spectrum.com/job/charlotte/2024-summer-intern-assoc-software-engineer/4673/55277640736?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 06 |
+| ↳ | Mobile Software Engineer 🛂 | Greenwood Village, Colorado | <a href="https://jobs.spectrum.com/job/greenwood-village/2024-summer-intern-mobile-software-engineer/4673/55037758624?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 06 |
 | ↳ | Data Science 🛂 | Greenwood Village, Colorado | <a href="https://jobs.spectrum.com/job/greenwood-village/2024-summer-intern-data-science/4673/54899712928?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 06 |
 | ↳ | Network Engineer 🛂 | Tampa | <a href="https://jobs.spectrum.com/job/tampa/2024-summer-intern-network-engineer-intern-spectrum-enterprise/4673/54893807584?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 06 |
 | ↳ | Data Developer 🛂 | Greenwood Village, Colorado | <a href="https://jobs.spectrum.com/job/greenwood-village/2024-summer-intern-data-developer/4673/54742370256?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 06 |
