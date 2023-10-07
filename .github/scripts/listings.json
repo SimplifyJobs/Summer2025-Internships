@@ -28154,5 +28154,24 @@
         "date_posted": 1696650029,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1696650047,
+        "url": "https://jobs.spectrum.com/job/charlotte/2024-summer-intern-devops-engineer-spectrum-enterprise/4673/55258784128",
+        "company_name": "Spectrum",
+        "title": "DevOps Engineer",
+        "locations": [
+            "Charlotte, North Carolina"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "VitaliPri",
+        "id": "8f0bc56e-20d7-46c8-b416-9bcbd7f6ed4a",
+        "date_posted": 1696650047,
+        "company_url": "",
+        "is_visible": true
     }
 ]
