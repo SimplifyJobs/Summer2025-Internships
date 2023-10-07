@@ -28059,5 +28059,24 @@
         "date_posted": 1696649847,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1696649910,
+        "url": "https://jobs.spectrum.com/job/greenwood-village/2024-summer-intern-data-developer/4673/54742370256",
+        "company_name": "Spectrum",
+        "title": "Data Developer",
+        "locations": [
+            "Greenwood Village, Colorado"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "VitaliPri",
+        "id": "6bd33b70-0904-4ef7-b2ed-c23323a6141b",
+        "date_posted": 1696649910,
+        "company_url": "",
+        "is_visible": true
     }
 ]
