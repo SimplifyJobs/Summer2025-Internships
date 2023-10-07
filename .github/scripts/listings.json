@@ -28173,5 +28173,24 @@
         "date_posted": 1696650047,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1696650142,
+        "url": "https://www.linkedin.com/jobs/view/spectrum-2024-summer-intern-front-end-software-developer-spectrum-enterprise-application-via-wayup-at-spectrum-real-time-visual-solutions-3731909713/",
+        "company_name": "Spectrum",
+        "title": "Front End Software Developer",
+        "locations": [
+            "Austin, TX"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "VitaliPri",
+        "id": "d84a21f1-55a5-40d8-936e-e6066f39d2be",
+        "date_posted": 1696650142,
+        "company_url": "",
+        "is_visible": true
     }
 ]
