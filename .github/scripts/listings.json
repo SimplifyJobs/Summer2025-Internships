@@ -28097,5 +28097,24 @@
         "date_posted": 1696649930,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1696649992,
+        "url": "https://jobs.spectrum.com/job/greenwood-village/2024-summer-intern-data-science/4673/54899712928",
+        "company_name": "Spectrum",
+        "title": "Data Science",
+        "locations": [
+            "Greenwood Village, Colorado"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "VitaliPri",
+        "id": "4ca25d36-4999-4db8-b421-5c6149e1c0cb",
+        "date_posted": 1696649992,
+        "company_url": "",
+        "is_visible": true
     }
 ]
