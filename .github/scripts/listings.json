@@ -28078,5 +28078,24 @@
         "date_posted": 1696649910,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1696649930,
+        "url": "https://jobs.spectrum.com/job/tampa/2024-summer-intern-network-engineer-intern-spectrum-enterprise/4673/54893807584",
+        "company_name": "Spectrum",
+        "title": "Network Engineer",
+        "locations": [
+            "Tampa"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "VitaliPri",
+        "id": "a5240c75-81bb-4006-b487-9ffa3eb81fe8",
+        "date_posted": 1696649930,
+        "company_url": "",
+        "is_visible": true
     }
 ]
