@@ -28021,5 +28021,24 @@
         "date_posted": 1696648408,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1696648452,
+        "url": "https://jobs.spectrum.com/job/st-louis/2024-summer-intern-software-engineer/4673/54742371184?utm_campaign=google_jobs_apply",
+        "company_name": "Spectrum",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "St Louis, Missouri"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "VitaliPri",
+        "id": "5a789e0d-40aa-44d0-ab4e-38c3cac6a44f",
+        "date_posted": 1696648452,
+        "company_url": "",
+        "is_visible": true
     }
 ]
