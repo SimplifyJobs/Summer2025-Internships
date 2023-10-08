@@ -1,6 +1,11 @@
 import json
 import os
 from datetime import datetime
+import time
+
+# Set the TZ environment variable to PST
+os.environ['TZ'] = 'America/Los_Angeles'
+time.tzset()
 
 # SIMPLIFY_BUTTON = "https://i.imgur.com/kvraaHg.png"
 SIMPLIFY_BUTTON = "https://i.imgur.com/MXdpmi0.png" # says apply
@@ -75,7 +80,7 @@ def create_md_table(listings, offSeason=False):
         date_posted = year_month if is_before_july_18 else day_month
 
         if prev_company == listing['company_name'] and prev_date == date_posted:
-            company = ""
+            company = "↳"
         else:
             prev_company = listing['company_name']
             prev_date = date_posted

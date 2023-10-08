@@ -8,17 +8,15 @@ import re
 
 def add_https_to_url(url):
     if not url.startswith(("http://", "https://")):
-        url = "https://" + url
+        url = f"https://{url}"
     return url
 
 
 def getData(body, is_edit, username):
-    data = {}
     lines = [text.strip("# ") for text in re.split('[\n\r]+', body)]
-    #["Company Name", "_No response_", "Internship Title", "_No response_", "Link to Internship Posting", "example.com/link/to/posting", "Locatio", "San Franciso, CA | Austin, TX | Remote" ,"What term(s) is this internship offered for?", "_No response_"]
     
-    data["date_updated"] = int(datetime.now().timestamp())
-
+    # ["Company Name", "_No response_", "Internship Title", "_No response_", "Link to Internship Posting", "example.com/link/to/posting", "Locatio", "San Franciso, CA | Austin, TX | Remote" ,"What term(s) is this internship offered for?", "_No response_"]
+    data = {"date_updated": int(datetime.now().timestamp())}
     if "no response" not in lines[1].lower():
         data["url"] = add_https_to_url(lines[1].strip())
     if "no response" not in lines[3].lower():
@@ -56,15 +54,15 @@ def main():
     with open(event_file_path) as f:
         event_data = json.load(f)
 
-    
+
     # CHECK IF NEW OR OLD INTERNSHIP
 
     new_internship = "new_internship" in [label["name"] for label in event_data["issue"]["labels"]]
     edit_internship = "edit_internship" in [label["name"] for label in event_data["issue"]["labels"]]
-    
+
     if not new_internship and not edit_internship:
         util.fail("Only new_internship and edit_internship issues can be approved")
-    
+
 
     # GET DATA FROM ISSUE FORM
 
@@ -72,7 +70,7 @@ def main():
     issue_user = event_data['issue']['user']['login']
 
     data = getData(issue_body, is_edit=edit_internship, username=issue_user)
-    
+
     if new_internship:
         data["source"] = issue_user
         data["id"] = str(uuid.uuid4())
@@ -96,13 +94,12 @@ def main():
         listing_text = (listing["title"].strip() + " at " + listing["company_name"].strip() + " " + closed_text + " " + sponsorship_text).strip()
         return listing_text
 
-    listings = []
     with open(".github/scripts/listings.json", "r") as f:
         listings = json.load(f)
 
-    listing_to_update = next(
-        (item for item in listings if item["url"] == data["url"]), None)
-    if listing_to_update:
+    if listing_to_update := next(
+        (item for item in listings if item["url"] == data["url"]), None
+    ):
         if new_internship:
             util.fail("This internship is already in our list. See CONTRIBUTING.md for how to edit a listing")
         for key, value in data.items():
