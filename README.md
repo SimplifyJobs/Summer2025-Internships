@@ -61,6 +61,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| **[Wayfair](https://simplify.jobs/c/Wayfair)** | Software Engineering Internship | Boston, Massachusetts | <a href="https://www.wayfair.com/careers/job/software-engineering-internship---summer-----/6914515002?gh_src=&source=&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 09 |
 | Spectrum | Front End Software Developer | Austin, TX | <a href="https://www.linkedin.com/jobs/view/spectrum-2024-summer-intern-front-end-software-developer-spectrum-enterprise-application-via-wayup-at-spectrum-real-time-visual-solutions-3731909713/?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 06 |
 | ↳ | DevOps Engineer 🛂 | Charlotte, North Carolina | <a href="https://jobs.spectrum.com/job/charlotte/2024-summer-intern-devops-engineer-spectrum-enterprise/4673/55258784128?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 06 |
 | ↳ | Assoc Software Engineer 🛂 | Charlotte, North Carolina | <a href="https://jobs.spectrum.com/job/charlotte/2024-summer-intern-assoc-software-engineer/4673/55277640736?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 06 |

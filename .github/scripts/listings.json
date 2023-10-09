@@ -28192,5 +28192,24 @@
         "date_posted": 1696650142,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1696859481,
+        "url": "https://www.wayfair.com/careers/job/software-engineering-internship---summer-----/6914515002?gh_src=&source=",
+        "company_name": "Wayfair",
+        "title": "Software Engineering Internship",
+        "locations": [
+            "Boston, Massachusetts"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "varun-kanna",
+        "id": "15a996ea-dccf-4b1c-8aeb-09f8d0abd8ad",
+        "date_posted": 1696859481,
+        "company_url": "",
+        "is_visible": true
     }
 ]
