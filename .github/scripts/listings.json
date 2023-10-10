@@ -28794,5 +28794,29 @@
         "company_url": "https://simplify.jobs/c/Zoox",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1696949889,
+        "url": "https://jobs.disneycareers.com/job/bristol/software-engineering-intern-disney-entertainment-and-espn-technology-summer-2024/391/55512551056",
+        "company_name": "The Walt Disney Company",
+        "title": "Software Engineering Intern",
+        "locations": [
+            "Bristol, Connecticut, United States",
+            "Town of Bristol, Connecticut, United States",
+            "Santa Monica, California, United States",
+            "Glendale, California, United States",
+            "New York, New York, United States",
+            "Seattle, Washington, United States"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "itskevinshi",
+        "id": "43a5e827-6e3f-4538-8778-230915c6ad55",
+        "date_posted": 1696949889,
+        "company_url": "",
+        "is_visible": true
     }
 ]
