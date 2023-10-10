@@ -28818,5 +28818,24 @@
         "date_posted": 1696949889,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1696950106,
+        "url": "https://app.ripplematch.com/v2/public/job/9d0183ee/details",
+        "company_name": "Appian",
+        "title": "Product Manager Intern",
+        "locations": [
+            "McLean, VA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "mtlogs",
+        "id": "ddb7c3f8-3ab0-4e65-ba29-16ca63076263",
+        "date_posted": 1696950106,
+        "company_url": "",
+        "is_visible": true
     }
 ]
