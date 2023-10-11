@@ -10882,7 +10882,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1692968981,
+        "date_updated": 1697058242,
         "url": "https://talent.lowes.com/us/en/job/2671644BR/Software-Engineer-Undergraduate-Internship",
         "company_name": "Lowes",
         "title": "Software Engineer Intern",
@@ -10892,8 +10892,8 @@
         "terms": [
             "Summer 2024"
         ],
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "sponsorship": "Offers Sponsorship",
+        "active": false,
         "source": "cwcoogan",
         "id": "6f8625ee-4d26-4564-a655-880a7a5c4b51",
         "date_posted": 1692912932,
