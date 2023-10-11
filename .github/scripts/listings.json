@@ -29393,5 +29393,24 @@
         "date_posted": 1697058459,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1697058543,
+        "url": "https://www.google.com/about/careers/applications/jobs/results/143383981266477766-software-engineering-intern-ms-summer-2024",
+        "company_name": "Google",
+        "title": "Software Engineering Intern MS",
+        "locations": [
+            "United States"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "chaurasia-aditya",
+        "id": "215238b2-0d25-451c-b71f-90d2b3ab425c",
+        "date_posted": 1697058543,
+        "company_url": "",
+        "is_visible": true
     }
 ]
