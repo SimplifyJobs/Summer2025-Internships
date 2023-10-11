@@ -29239,5 +29239,24 @@
         "company_url": "https://simplify.jobs/c/XTXMarkets",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1697058094,
+        "url": "https://sabre.wd1.myworkdayjobs.com/en-US/SabreJobs/job/Dallas-Fort-Worth-Metroplex/Site-Reliability-Engineer---2024-Summer-Intern_JR102558",
+        "company_name": "Sabre",
+        "title": "Site Reliability Engineer",
+        "locations": [
+            "Dallas-Fort Worth Metroplex"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "VitaliPri",
+        "id": "b2d2e1b7-cd3d-41ee-a7d6-c824f3b61642",
+        "date_posted": 1697058094,
+        "company_url": "",
+        "is_visible": true
     }
 ]
