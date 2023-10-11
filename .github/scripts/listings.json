@@ -28837,5 +28837,24 @@
         "date_posted": 1696950106,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Netflix",
+        "id": "558a2b82-3eac-4505-aa3e-3f63adfa1e12",
+        "title": "Software Engineer Intern - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1696992898,
+        "date_posted": 1696992898,
+        "url": "https://jobs.lever.co/netflix/c92c92a6-90a5-4a5f-a2b8-0cceccf1b174/apply",
+        "locations": [
+            "Los Gatos, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Netflix",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
