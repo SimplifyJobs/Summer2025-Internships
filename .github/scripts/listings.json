@@ -29335,5 +29335,24 @@
         "date_posted": 1697058265,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1697058325,
+        "url": "https://jobs.netflix.com/jobs/298350570",
+        "company_name": "Netflix",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "Los Gatos, CA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "RodrigoJC20",
+        "id": "b7b9924b-e68b-4980-b172-8a0ef87c6aea",
+        "date_posted": 1697058325,
+        "company_url": "",
+        "is_visible": true
     }
 ]
