@@ -28881,11 +28881,11 @@
         "company_name": "Eulerity",
         "id": "602118ef-0612-4617-b10d-9b190659a75c",
         "title": "Backend Java Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
-        "date_updated": 1697009583,
+        "date_updated": 1697058772,
         "date_posted": 1697009583,
         "url": "https://boards.greenhouse.io/eulerity/jobs/4046704006",
         "locations": [
