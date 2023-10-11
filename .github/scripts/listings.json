@@ -29315,5 +29315,25 @@
         "date_posted": 1697058173,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1697058265,
+        "url": "https://jobs.netflix.com/jobs/292146901",
+        "company_name": "Netflix",
+        "title": "Machine Learning Intern, Research",
+        "locations": [
+            "Los Gatos, CA"
+        ],
+        "terms": [
+            "Fall 2023",
+            "Winter 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "RodrigoJC20",
+        "id": "4323b061-5fdc-419a-aba3-4c86575e679c",
+        "date_posted": 1697058265,
+        "company_url": "",
+        "is_visible": true
     }
 ]
