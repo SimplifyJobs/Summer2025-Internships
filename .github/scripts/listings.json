@@ -29258,5 +29258,24 @@
         "date_posted": 1697058094,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1697058111,
+        "url": "https://sabre.wd1.myworkdayjobs.com/en-US/SabreJobs/job/Dallas-Fort-Worth-Metroplex/UX-Designer---2024-Summer-Intern_JR102528",
+        "company_name": "Sabre",
+        "title": "UX Designer",
+        "locations": [
+            "Dallas-Fort Worth Metroplex"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "VitaliPri",
+        "id": "9f11506e-4579-44da-ad2a-d344bb162b4a",
+        "date_posted": 1697058111,
+        "company_url": "",
+        "is_visible": true
     }
 ]
