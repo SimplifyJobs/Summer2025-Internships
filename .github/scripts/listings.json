@@ -4817,7 +4817,7 @@
         "company_name": "Gecko Robotics",
         "id": "1e81f406-0174-4e22-bc7a-e02ae8a56b98",
         "title": "Software Engineer - Robot Systems-Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -6483,7 +6483,7 @@
         "company_name": "Sezzle",
         "id": "04de6428-bb1a-4a42-82d8-a4be9cf54dd0",
         "title": "Software Engineering Intern (undergraduate senior only)",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -7344,7 +7344,7 @@
         "company_name": "PayPal",
         "id": "0e3dde91-f355-42c7-bfe6-d291763ba9ad",
         "title": "Data Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2024",
             "Fall 2024"
@@ -8718,7 +8718,7 @@
         "company_name": "PayPal",
         "id": "ae043eca-d42f-4b9d-8b84-09fa285c81c8",
         "title": "Finance & Accounting Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024",
             "Fall 2024"
@@ -10352,7 +10352,7 @@
         "company_name": "Scale AI",
         "id": "a1bd424a-b4c7-44ab-b0e6-b7e17e0ad174",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -12104,7 +12104,7 @@
         "company_name": "Epic Games",
         "id": "e1a14374-4947-4ecd-a66e-7103e0ad79d2",
         "title": "AI Programmer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -13645,7 +13645,7 @@
         "company_name": "Epic Games",
         "id": "6aef09f5-5c61-42a1-86fd-b71d55396ab4",
         "title": "AI Programmer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -14850,7 +14850,7 @@
         "company_name": "CACI",
         "id": "eb8ae481-79cc-46f5-8e35-4825d8433184",
         "title": "Signal Processing and Data Analysis Intern - Summer 2024",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -15405,7 +15405,7 @@
         "company_name": "CACI",
         "id": "e135fa5f-911a-4cab-8470-e6332ca0d824",
         "title": "Software Developer Intern - Summer 2024",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -15833,7 +15833,7 @@
         "company_name": "Epic Games",
         "id": "f0a82654-ed6d-43f7-b6f1-5d756c5c7de2",
         "title": "Audio Research Intern\t",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -16738,7 +16738,7 @@
         "company_name": "Bankers Healthcare Group",
         "id": "d47c93b6-7fd0-4add-8c3b-8a99af438896",
         "title": "Software Development Engineer in Test Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -19388,7 +19388,7 @@
         "company_name": "Cockroach Labs",
         "id": "89f6e71b-4932-42d6-b7c8-cc37c1a4a449",
         "title": "Software Engineer Winter Intern - Frontend - New York City",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2024"
         ],
@@ -19426,7 +19426,7 @@
         "company_name": "Lucid Motors",
         "id": "bba269ad-febe-491b-87b4-0166f01f5616",
         "title": "Intern \u2013 Android Applications Engineer - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -20578,7 +20578,7 @@
         "company_name": "Cowen",
         "id": "df8ead97-1f5b-45ef-810b-98bb4eae5575",
         "title": "2024 Markets Summer Analyst Program",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -24716,7 +24716,7 @@
         "company_name": "Zipline",
         "id": "e87ee409-a550-490b-b5ad-ef3b4b97fae7",
         "title": "Flight Routes Software Engineering Intern Spring/Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024",
             "Summer 2024"
@@ -26573,7 +26573,7 @@
         "company_name": "Braze",
         "id": "9afe7578-87f0-429b-a476-8fb4a30098b9",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2023",
             "Summer 2023"
@@ -27025,7 +27025,7 @@
         "company_name": "AccelByte",
         "id": "b93eee8b-7944-4c38-9337-3b7240b81a7d",
         "title": "Software Testing Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -27101,7 +27101,7 @@
         "company_name": "Zoox",
         "id": "b5778e87-34ad-4cbb-8adb-5c33abf179f0",
         "title": "Software Development Engineer in Test \u2013 Intern - Sdet",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -28314,7 +28314,7 @@
         "company_name": "AppLovin",
         "id": "2eb56afb-4b70-4d0e-a1c1-51963f53bf5e",
         "title": "Backend Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -28526,7 +28526,7 @@
         "company_name": "Branch",
         "id": "a543392a-c12a-4bdb-967a-a2855c969fac",
         "title": "Frontend Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -28565,7 +28565,7 @@
         "company_name": "Leidos",
         "id": "8fdd3656-c667-48c4-b8e3-2a9c6778d71d",
         "title": "Software Engineer \u2013 CO-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -28641,7 +28641,7 @@
         "company_name": "Crowdstrike",
         "id": "bdc44fef-5e50-4f4b-b0b4-d32bbc77ac35",
         "title": "Sensor Engineer Intern - Summer 2024 - Remote",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -29199,6 +29199,44 @@
             "Sherman Oaks, LA"
         ],
         "company_url": "https://simplify.jobs/c/Blizzard-Entertainment",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Oshkosh",
+        "id": "e00f2f83-2d06-4cc9-b2fd-ed7573205041",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1697038031,
+        "date_posted": 1697038031,
+        "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Hagerstown-Maryland-United-States/Software-Engineering-Intern_R21819",
+        "locations": [
+            "Hagerstown, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Oshkosh",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "XTX Markets",
+        "id": "a7efa36a-0c06-46c1-9c18-cb26ceb3d089",
+        "title": "2024 Internship",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1697037188,
+        "date_posted": 1697037188,
+        "url": "https://boards.greenhouse.io/xtxmarketstechnologies/jobs/5772155003",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/XTXMarkets",
         "is_visible": true,
         "sponsorship": "Other"
     }
