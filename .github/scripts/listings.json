@@ -29374,5 +29374,24 @@
         "date_posted": 1697058347,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1697058459,
+        "url": "https://jobs.nike.com/job/R-14197?source=BY_LinkedIn_OrganicFeed",
+        "company_name": "Nike",
+        "title": "Nike Software Engineer Graduate Intern",
+        "locations": [
+            "Beaverton, Oregon US"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "user1689",
+        "id": "996e2c0f-ffd8-4518-89ca-de57cbd777d3",
+        "date_posted": 1697058459,
+        "company_url": "",
+        "is_visible": true
     }
 ]
