@@ -29412,5 +29412,29 @@
         "date_posted": 1697058543,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1697058561,
+        "url": "https://careers.adobe.com/us/en/job/R141150/2024-Intern-Machine-Learning-Engineer",
+        "company_name": "Adobe",
+        "title": "2024 Intern - Machine Learning Engineer",
+        "locations": [
+            "San Jose, CA",
+            "Austin, TX",
+            "San Francisco, CA",
+            "Lehi, UT",
+            "Seattle, WA",
+            "New York, NY"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "IceColdBlizzard1",
+        "id": "2622f999-f9c7-4d39-a2de-cfcf533bbf07",
+        "date_posted": 1697058561,
+        "company_url": "",
+        "is_visible": true
     }
 ]
