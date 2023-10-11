@@ -29296,5 +29296,24 @@
         "date_posted": 1697058144,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1697058173,
+        "url": "https://sabre.wd1.myworkdayjobs.com/en-US/SabreJobs/en-US/SabreJobs/en-US/SabreJobs/job/Dallas-Fort-Worth-Metroplex/Front-End-Developer---2024-Summer-Intern_JR102554",
+        "company_name": "Sabre",
+        "title": "Front End Developer",
+        "locations": [
+            "Dallas-Fort Worth Metroplex"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "VitaliPri",
+        "id": "272d735e-e7bf-4512-9571-5668391d98ab",
+        "date_posted": 1697058173,
+        "company_url": "",
+        "is_visible": true
     }
 ]
