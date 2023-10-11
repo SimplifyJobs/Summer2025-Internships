@@ -25773,7 +25773,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1696267233,
+        "date_updated": 1697058974,
         "url": "https://www.google.com/about/careers/applications/jobs/results/75057768915968710-step-intern-secondyear-student-summer-2024?q=STEP",
         "company_name": "Google",
         "title": "STEP Intern, Second-Year Student",
@@ -25784,7 +25784,7 @@
             "Summer 2024"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "Eric-exe",
         "id": "794810d4-16e3-4e03-9fb0-c1a5ba6a9fb3",
         "date_posted": 1696267233,
