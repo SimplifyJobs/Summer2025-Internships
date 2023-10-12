@@ -29967,5 +29967,24 @@
         "company_url": "https://simplify.jobs/c/Santander",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1697135730,
+        "url": "https://jobs.lever.co/Moonhub/280886f1-1c44-4497-acdf-bf26117e5919",
+        "company_name": "Moonhub",
+        "title": "ML Intern (Large Language Models)",
+        "locations": [
+            "PALO ALTO, CA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "VitaliPri",
+        "id": "84eb0c40-e441-46e7-869a-b1d6db6fc5bd",
+        "date_posted": 1697135730,
+        "company_url": "",
+        "is_visible": true
     }
 ]
