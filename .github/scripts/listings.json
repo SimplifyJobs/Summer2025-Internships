@@ -30373,5 +30373,24 @@
         "date_posted": 1697232656,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1697232688,
+        "url": "https://campus-americas.icims.com/jobs/10594/job",
+        "company_name": "Atlassian",
+        "title": "Data Science Intern",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "rygeorge",
+        "id": "6e87fd15-7b0d-40a7-baef-34025e403f20",
+        "date_posted": 1697232688,
+        "company_url": "",
+        "is_visible": true
     }
 ]
