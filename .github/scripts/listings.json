@@ -5616,7 +5616,7 @@
         "company_name": "Palantir",
         "id": "d58f726c-620e-4c0c-89d7-8b54421280ab",
         "title": "Forward Deployed Software Engineer \u2013 Internship - US Government",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -5654,7 +5654,7 @@
         "company_name": "Palantir",
         "id": "e0e2d81b-c99d-4f8d-a2fa-73f8125abc80",
         "title": "Forward Deployed Software Engineer \u2013 Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -10042,7 +10042,7 @@
         "company_name": "HashiCorp",
         "id": "2c8c1b61-bbd1-44cf-bf63-7bb2c9dddac9",
         "title": "Software Engineering Intern - Undergraduate",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -11480,7 +11480,7 @@
         "company_name": "Epic Games",
         "id": "8f5a7803-eb13-421c-9f3c-a0ae080f5134",
         "title": "UI Programmer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -18014,7 +18014,7 @@
         "company_name": "Walmart",
         "id": "41e26880-c5ba-48e4-96c1-1c6200f05ce5",
         "title": "2024 Summer Intern: Software Engineer II - Sam's Club \ud83d\udec2",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -18170,7 +18170,7 @@
         "company_name": "Oshkosh",
         "id": "9491b7a4-a5de-4c69-9105-5d47e6a6c78f",
         "title": "Software Engineering Intern-Connected Solutions",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -27967,7 +27967,7 @@
         "company_name": "Rockwell Automation",
         "id": "cb69b78e-c4e6-48fe-9a86-c5f7c5277c93",
         "title": "Intern \u2013 Rockwell Engineering Pathways Program",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2024"
         ],
@@ -28295,7 +28295,7 @@
         "company_name": "Intel",
         "id": "1b29ea90-8ae1-4d8a-875b-57dfdec99522",
         "title": "Discrete Graphics Validation Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -28938,7 +28938,7 @@
         "company_name": "Locus Robotics",
         "id": "85272a26-d0a6-4cb2-9ad5-1d45dd64a51b",
         "title": "Software Engineer Intern - Planning and Controls",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -29207,7 +29207,7 @@
         "company_name": "Oshkosh",
         "id": "e00f2f83-2d06-4cc9-b2fd-ed7573205041",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -29483,7 +29483,7 @@
         "company_name": "Branch",
         "id": "9fcfa6f0-29de-4576-8599-3e3d4a092d3c",
         "title": "Backend Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -29986,5 +29986,160 @@
         "date_posted": 1697135730,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Extreme Networks",
+        "id": "3f45eb29-d0c3-41de-b089-419338372659",
+        "title": "Software Engineer Intern - Devsecops",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1697153319,
+        "date_posted": 1697153319,
+        "url": "https://jobs.lever.co/extremenetworks/683a2211-6bc0-4e01-bf36-ef672cf276d4/apply",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Extreme-Networks",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Extreme Networks",
+        "id": "3a05ff50-353c-4c2b-979f-e3a3111849d8",
+        "title": "Software Engineer Intern - Forwarding",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1697153319,
+        "date_posted": 1697153319,
+        "url": "https://jobs.lever.co/extremenetworks/7f5365eb-3e5d-4c8d-b305-eff8f7817829/apply",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Extreme-Networks",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Leidos",
+        "id": "79b75f04-2541-4d9c-b91c-03aab9b8609d",
+        "title": "Technical Intern",
+        "active": true,
+        "terms": [
+            "Spring 2024",
+            "Summer 2024"
+        ],
+        "date_updated": 1697152876,
+        "date_posted": 1697152876,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Reston-VA/Technical-Intern_R-00120986",
+        "locations": [
+            "Reston, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Gilead Sciences",
+        "id": "2593137e-ea54-45e6-bcc1-5b044c6f7e77",
+        "title": "Intern \u2013 Biomarker Sciences",
+        "active": true,
+        "terms": [
+            "Spring 2023",
+            "Summer 2023"
+        ],
+        "date_updated": 1697152908,
+        "date_posted": 1697152908,
+        "url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---Biomarker-Sciences_R0038216",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Gilead-Sciences",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Intel",
+        "id": "e472d22e-b2c7-4632-af42-5c3d1c03d574",
+        "title": "2023 Fall Recruiting Season: Software Engineer Undergrad Intern",
+        "active": true,
+        "terms": [
+            "Fall 2023"
+        ],
+        "date_updated": 1697152749,
+        "date_posted": 1697152749,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/Virtual-US/XMLNAME-2023-Fall-Recruiting-Season--Software-Engineer-Undergrad-Intern_JR0249484",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "CACI",
+        "id": "77cd5279-838c-4eb8-ae81-971f133269e5",
+        "title": "Data Science Intern - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1697152486,
+        "date_posted": 1697152486,
+        "url": "https://caci.wd1.myworkdayjobs.com/External/job/US-CO-Denver/Data-Science-Intern---Summer-2024_287884-1",
+        "locations": [
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/CACI",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Cohere Health",
+        "id": "a1ff2fd3-57de-4399-8091-c2e9bb2b2f71",
+        "title": "Data Science Intern - Starting November 2023",
+        "active": true,
+        "terms": [
+            "Fall 2023"
+        ],
+        "date_updated": 1697152217,
+        "date_posted": 1697152217,
+        "url": "https://boards.greenhouse.io/coherehealth/jobs/5774322003",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/897d9f54-64bb-4399-a926-10ea9a114bdd",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Walmart",
+        "id": "c1aa4791-e1f4-4453-af4d-b8f2d16f1675",
+        "title": "2024 Summer MBA Intern: Walmart Connect Product Management",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1697151958,
+        "date_posted": 1697151958,
+        "url": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/San-Bruno-CA/XMLNAME-2024-Summer-MBA-Intern--Walmart-Connect-Product-Management_R-1684764",
+        "locations": [
+            "San Bruno, CA",
+            "Union City, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/Walmart",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
