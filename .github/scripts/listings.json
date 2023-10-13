@@ -20885,7 +20885,7 @@
         "company_name": "Lucid Motors",
         "id": "63f05467-7efe-447a-bee7-a39212548119",
         "title": "Intern \u2013 Bootloader Embedded Engineer - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -26454,7 +26454,7 @@
         "company_name": "Kinaxis",
         "id": "a7bedbf0-13d5-462b-88fd-f35df6cbf39e",
         "title": "Marketing Operations Co-Op/Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2024"
         ],
@@ -27676,7 +27676,7 @@
         "company_name": "Kepler Communications",
         "id": "885f601c-ee24-4bda-b176-d5ceda71f7fd",
         "title": "Embedded Software Engineer Intern - Winter 2024 - 4 - Months",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2024"
         ],
@@ -29128,7 +29128,7 @@
         "company_name": "Kepler Communications",
         "id": "490bc475-11c1-477d-8797-57034fa17eee",
         "title": "Software Engineering Intern - Winter 2024 - 4 - Months",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2024"
         ],
@@ -29992,7 +29992,7 @@
         "company_name": "Extreme Networks",
         "id": "3f45eb29-d0c3-41de-b089-419338372659",
         "title": "Software Engineer Intern - Devsecops",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -30011,7 +30011,7 @@
         "company_name": "Extreme Networks",
         "id": "3a05ff50-353c-4c2b-979f-e3a3111849d8",
         "title": "Software Engineer Intern - Forwarding",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -30159,6 +30159,199 @@
             "Burlington, MA"
         ],
         "company_url": "https://simplify.jobs/c/Salesforce",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Perpay",
+        "id": "dae59080-7198-4a2d-b2f6-6e128fee6d03",
+        "title": "Software Engineering Co-Op",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1697213535,
+        "date_posted": 1697213535,
+        "url": "https://boards.greenhouse.io/perpay/jobs/4046596007",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Perpay",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "STR",
+        "id": "d81e4a1a-ba05-4636-9222-42edc92c28a8",
+        "title": "Cyber Summer Internship",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1697212397,
+        "date_posted": 1697212397,
+        "url": "https://boards.greenhouse.io/systemstechnologyresearch/jobs/4291536006",
+        "locations": [
+            "Burlington, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/STR",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "STR",
+        "id": "87b426ca-6ac3-414b-bac6-6ed02ea4815e",
+        "title": "Sensors Summer Internship",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1697212405,
+        "date_posted": 1697212405,
+        "url": "https://boards.greenhouse.io/systemstechnologyresearch/jobs/4291532006",
+        "locations": [
+            "Burlington, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/STR",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "STR",
+        "id": "7ee54669-5184-4775-a408-7da819c5fd1d",
+        "title": "Sensors Summer Internship",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1697212404,
+        "date_posted": 1697212404,
+        "url": "https://boards.greenhouse.io/systemstechnologyresearch/jobs/4291533006",
+        "locations": [
+            "Dayton, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/STR",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "STR",
+        "id": "590b3cea-09cf-4e33-bba2-789fa78b3c84",
+        "title": "Cyber Summer Internship",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1697212394,
+        "date_posted": 1697212394,
+        "url": "https://boards.greenhouse.io/systemstechnologyresearch/jobs/4291537006",
+        "locations": [
+            "Melbourne, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/STR",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "STR",
+        "id": "4240cb70-fb36-4153-9eaa-f7efee2ea800",
+        "title": "Analytics Summer Internship",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1697212395,
+        "date_posted": 1697212395,
+        "url": "https://boards.greenhouse.io/systemstechnologyresearch/jobs/4291530006",
+        "locations": [
+            "Dayton, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/STR",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "STR",
+        "id": "222fd03d-7b8a-4165-b283-f83717d0941b",
+        "title": "Analytics Summer Internship",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1697212394,
+        "date_posted": 1697212394,
+        "url": "https://boards.greenhouse.io/systemstechnologyresearch/jobs/4291528006",
+        "locations": [
+            "Burlington, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/STR",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "STR",
+        "id": "1d444844-ac50-4dd7-acc5-b3588d82fa61",
+        "title": "Sensors Summer Internship",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1697212407,
+        "date_posted": 1697212407,
+        "url": "https://boards.greenhouse.io/systemstechnologyresearch/jobs/4291534006",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/STR",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Tamr",
+        "id": "45f87a7b-434d-46d7-816e-adf2da278536",
+        "title": "Devops Engineering Co-Op",
+        "active": true,
+        "terms": [
+            "Summer 2023",
+            "Fall 2023",
+            "Winter 2024"
+        ],
+        "date_updated": 1697211436,
+        "date_posted": 1697211436,
+        "url": "https://jobs.lever.co/tamr/2b610183-7c1e-42af-b5e4-0c680fea886c/apply",
+        "locations": [
+            "Cambridge, MA",
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tamr",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Autodesk",
+        "id": "99bf3946-8f3b-4d6a-b1f2-3e43d5ae78b4",
+        "title": "Intern \u2013 Backend Software Engineer - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1697211208,
+        "date_posted": 1697211208,
+        "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Ontario-CAN---Remote/Intern--Backend-Software-Engineer--Summer-2024-_23WD72860",
+        "locations": [
+            "Remote"
+        ],
+        "company_url": "https://simplify.jobs/c/Autodesk",
         "is_visible": true,
         "sponsorship": "Other"
     }
