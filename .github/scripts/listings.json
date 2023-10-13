@@ -30354,5 +30354,24 @@
         "company_url": "https://simplify.jobs/c/Autodesk",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1697232656,
+        "url": "https://campus-americas.icims.com/jobs/11273/machine-learning-scientist-intern%252c-2024-summer-u.s/job?iis=LINKEDIN&iisn=LINKEDIN&trid=1e0b9127-2df6-4b3d-8bc4-d81ae332a601",
+        "company_name": "Atlassian",
+        "title": "Machine Learning Scientist Intern",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "rygeorge",
+        "id": "3c2ca7c7-610c-4600-8110-6bc920bc1ae3",
+        "date_posted": 1697232656,
+        "company_url": "",
+        "is_visible": true
     }
 ]
