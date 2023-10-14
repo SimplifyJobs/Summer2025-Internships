@@ -6502,7 +6502,7 @@
         "company_name": "Belvedere Trading",
         "id": "633e3ffc-370c-4bab-8b60-8286be8e77b0",
         "title": "Junior Trader Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -6540,7 +6540,7 @@
         "company_name": "Belvedere Trading",
         "id": "c5db3eae-bc3a-425d-ad48-cebdf5720f79",
         "title": "Software Engineer Intern - Summer 2024 Boulder",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -6559,7 +6559,7 @@
         "company_name": "Belvedere Trading",
         "id": "91d9f52e-ac15-4b7d-884c-45f2bd14ae45",
         "title": "Software Engineer Intern - Summer 2024 Chicago",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -8187,7 +8187,7 @@
             "Summer 2024"
         ],
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "source": "Simplify",
         "id": "4bbc9f9c-7da7-491b-97b8-261834f8f5aa",
         "date_posted": 1692035653,
@@ -8206,7 +8206,7 @@
             "Summer 2024"
         ],
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "source": "Simplify",
         "id": "db06aa17-b068-4728-9165-bc972a337c0e",
         "date_posted": 1692035815,
@@ -14353,7 +14353,7 @@
         "company_name": "A Thinking Ape",
         "id": "3afee123-3b59-4356-91d0-0bbb1da9cad2",
         "title": "Software Engineer Co-op - Jan 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -14543,7 +14543,7 @@
         "company_name": "Stryker",
         "id": "63d27186-707a-4fe7-ac2b-b77268e8418a",
         "title": "R&D Engineering Intern-Minnesota",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -21377,7 +21377,7 @@
         "company_name": "Procore Technologies",
         "id": "d1d37632-28e8-4dc5-9259-222cf8b980a6",
         "title": "Intern \u2013 Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024",
             "Summer 2024",
@@ -24755,7 +24755,7 @@
         "company_name": "Cruise",
         "id": "a8ede38b-c50b-458a-bd08-c4072a322e53",
         "title": "Intern \u2013 ML Horizontal Platforms",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -24774,7 +24774,7 @@
         "company_name": "Cruise",
         "id": "db856474-06da-4481-987a-d517e6c4533d",
         "title": "Intern \u2013 Data Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -24812,7 +24812,7 @@
         "company_name": "Cruise",
         "id": "19b2f7d3-8993-4d80-adfb-328567599bd3",
         "title": "Intern \u2013 Sre - Reliability Insights",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -24831,7 +24831,7 @@
         "company_name": "Cruise",
         "id": "75580459-5729-495a-b9af-f4b9711a0834",
         "title": "Intern \u2013 Security Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -24850,7 +24850,7 @@
         "company_name": "Cruise",
         "id": "eb3eb364-53e5-4bc4-921a-f37a637a5df6",
         "title": "Intern \u2013 Enterprise Integration Services",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -24869,7 +24869,7 @@
         "company_name": "Cruise",
         "id": "8526b992-0261-4795-835c-75ab124238f1",
         "title": "Intern \u2013 In-Car Experience - Production Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -24888,7 +24888,7 @@
         "company_name": "Cruise",
         "id": "23acfdc5-d688-4421-b828-cb1dc835c923",
         "title": "Intern \u2013 Behaviors",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -24907,7 +24907,7 @@
         "company_name": "Bridgewater Associates",
         "id": "328683e6-519f-4e0c-97c1-5237c57176cd",
         "title": "Investment Engineer Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -25120,7 +25120,7 @@
         "company_name": "Cruise",
         "id": "c5a385a4-9b45-43ee-bb80-698b1b812eec",
         "title": "Intern \u2013 ML Behaviors Data",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -25139,7 +25139,7 @@
         "company_name": "Cruise",
         "id": "8384c32a-fba0-4408-b788-b74c25787d4c",
         "title": "Intern \u2013 ML Performance Tooling",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -25158,7 +25158,7 @@
         "company_name": "Cruise",
         "id": "74769164-3e36-4d67-a043-9ec7b8b3b823",
         "title": "Intern \u2013 Embedded Systems - Sensing Software",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -26593,7 +26593,7 @@
         "company_name": "Cruise",
         "id": "d96f8c75-32d2-4dd3-a5a6-d980a9199e97",
         "title": "Intern \u2013 Simulation Applications",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -26987,7 +26987,7 @@
         "company_name": "Khan Academy",
         "id": "aff6df81-29fe-4686-b843-f4abacbfab43",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -28314,7 +28314,7 @@
         "company_name": "AppLovin",
         "id": "2eb56afb-4b70-4d0e-a1c1-51963f53bf5e",
         "title": "Backend Software Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -28430,7 +28430,7 @@
         "company_name": "Plexus",
         "id": "1aaf929b-6be7-4ea8-839c-b43820a7e5ab",
         "title": "Intern \u2013 Software Engineer - Fall 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2024"
         ],
@@ -29666,7 +29666,7 @@
         "company_name": "Centerfield",
         "id": "6149828d-4c1f-441a-ada1-7a25554b7cb0",
         "title": "Software Engineer Intern - Summer 2024",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -29685,7 +29685,7 @@
         "company_name": "Centerfield",
         "id": "246c1a1f-9c7e-4ba0-8bca-b1adde90887a",
         "title": "Data Engineer Intern - Summer 2024",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -30764,6 +30764,82 @@
             "Needham, MA"
         ],
         "company_url": "https://simplify.jobs/c/SharkNinja",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Ample",
+        "id": "68bee7ce-b592-4686-bd77-948d18852563",
+        "title": "Full Stack Software Engineer INTERN - January 2024",
+        "active": true,
+        "terms": [
+            "Winter 2024"
+        ],
+        "date_updated": 1697243500,
+        "date_posted": 1697243500,
+        "url": "https://ample.com/jobs?gh_jid=4328562005",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Ample",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Ample",
+        "id": "12d88d3c-2431-4229-b5fe-dbfaa18f1d0f",
+        "title": "Embedded Software Engineer INTERN - January 2024",
+        "active": true,
+        "terms": [
+            "Winter 2024"
+        ],
+        "date_updated": 1697243496,
+        "date_posted": 1697243496,
+        "url": "https://ample.com/jobs?gh_jid=4328560005",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Ample",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Epic Games",
+        "id": "36ca6b84-0964-40ff-9823-9a995e284adf",
+        "title": "Gameplay Programmer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1697243067,
+        "date_posted": 1697243067,
+        "url": "https://boards.greenhouse.io/epicgames/jobs/4996388004",
+        "locations": [
+            "Morrisville, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Epic-Games",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Hudson River Trading",
+        "id": "4dc06a91-7e3a-4f6b-885e-a2ae0d7025e1",
+        "title": "Women in Trading Technology Internship - Witti - Winter 2024",
+        "active": true,
+        "terms": [
+            "Winter 2024"
+        ],
+        "date_updated": 1697242601,
+        "date_posted": 1697242601,
+        "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=5417358",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Hudson-River-Trading",
         "is_visible": true,
         "sponsorship": "Other"
     }
