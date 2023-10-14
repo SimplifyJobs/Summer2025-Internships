@@ -10194,7 +10194,7 @@
         "company_name": "Stripe",
         "id": "337c5d84-c6f7-4ff1-823d-2e526a189eb7",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -12679,7 +12679,7 @@
         "company_name": "Dropbox",
         "id": "6ecce6a8-b55c-4d5a-b802-2aebfc11c38d",
         "title": "Software Engineering Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -12816,7 +12816,7 @@
         "company_name": "Oshkosh",
         "id": "cd19d7a7-9167-4f7a-8d2b-9cfe914abf0c",
         "title": "Engineer Intern - Software - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -12855,7 +12855,7 @@
         "company_name": "Dropbox",
         "id": "d617f6c4-90a9-4f1b-bc5e-ed2c3bdd8f20",
         "title": "Software Engineering Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -24926,7 +24926,7 @@
         "company_name": "Optiver",
         "id": "0bac3a48-4573-48eb-8184-5380f413c46e",
         "title": "Campus: Software Engineer Intern - Summer 2024 - Chicago",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -24945,7 +24945,7 @@
         "company_name": "Optiver",
         "id": "4cb3632f-a207-48af-bfef-bb5be6642d3f",
         "title": "Campus: Software Engineer Intern - Summer 2024 - Austin",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -25040,7 +25040,7 @@
         "company_name": "Optiver",
         "id": "1c0a9a89-a534-4246-8d4b-bf08b4728317",
         "title": "Campus: Quantitative Trader Intern - Summer 2024 - Chicago",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -26831,7 +26831,7 @@
         "company_name": "Cockroach Labs",
         "id": "33957442-f140-45cb-a1bb-f2b280792d78",
         "title": "Software Engineer Winter Intern - Site Reliability - New York City",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2024"
         ],
@@ -28526,7 +28526,7 @@
         "company_name": "Branch",
         "id": "a543392a-c12a-4bdb-967a-a2855c969fac",
         "title": "Frontend Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -30392,5 +30392,379 @@
         "date_posted": 1697232688,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Branch",
+        "id": "757be142-9d42-43e5-bde5-031c7b2a3854",
+        "title": "Data Scientist Intern",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1697241152,
+        "date_posted": 1697241152,
+        "url": "https://branch.io/careers/apply/?gh_jid=5420734",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/BranchMetrics",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Okta",
+        "id": "cc0cc4e3-c4b8-4bfa-84e6-84e064aec55f",
+        "title": "Site Reliability Engineer Intern - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1697240319,
+        "date_posted": 1697240319,
+        "url": "https://www.okta.com/company/careers/opportunity/5437074?gh_jid=5437074",
+        "locations": [
+            "Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Okta",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Crowdstrike",
+        "id": "f6000d3d-432b-4f4b-8324-5e3daf7d5c05",
+        "title": "Sales Excellence Data Quality Intern - Part Time",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1697239713,
+        "date_posted": 1697239713,
+        "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-us/crowdstrikecareers/job/USA---Austin-TX/Sales-Excellence-Data-Quality-Intern---Part-Time_R14733",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Crowdstrike",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Crowdstrike",
+        "id": "b999348e-5ace-4d77-a167-75e6f4f73d7b",
+        "title": "Sales Excellence Data Quality Intern - Part Time",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1697239711,
+        "date_posted": 1697239711,
+        "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-us/crowdstrikecareers/job/USA---Austin-TX/Sales-Excellence-Data-Quality-Intern---Part-Time_R14732",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Crowdstrike",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Crowdstrike",
+        "id": "98940c21-f247-4adc-867b-a5bd074487e9",
+        "title": "Sales Excellence Data Quality Intern - Part Time",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1697239714,
+        "date_posted": 1697239714,
+        "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-us/crowdstrikecareers/job/USA---Austin-TX/Sales-Excellence-Data-Quality-Intern---Part-Time_R14734",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Crowdstrike",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "FanDuel",
+        "id": "6035e90b-8583-4f45-8e61-849e6ecaff9d",
+        "title": "Commercial Strategy Internship - Dfs - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1697239270,
+        "date_posted": 1697239270,
+        "url": "https://www.fanduel.careers/open-positions?gh_jid=5436920",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/FanDuel",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "FanDuel",
+        "id": "dcce3f9b-92c7-42d4-a233-683020bc3f2d",
+        "title": "Software Engineering Internship - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1697239283,
+        "date_posted": 1697239283,
+        "url": "https://www.fanduel.careers/open-positions?gh_jid=5429758",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/FanDuel",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "FanDuel",
+        "id": "0b8c18a6-1afe-4374-8798-12f29a669eb5",
+        "title": "Commercial Strategy Internship - Dfs - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1697239270,
+        "date_posted": 1697239270,
+        "url": "https://www.fanduel.careers/open-positions?gh_jid=5436770",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/FanDuel",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "FanDuel",
+        "id": "b324b4d7-c4dc-4b41-bf84-29728c819200",
+        "title": "Commercial Internship - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1697239267,
+        "date_posted": 1697239267,
+        "url": "https://www.fanduel.careers/open-positions?gh_jid=5436774",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/FanDuel",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "FanDuel",
+        "id": "598eaf0e-c59f-4f27-817e-c5675dda7286",
+        "title": "Software Engineering Internship - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1697239284,
+        "date_posted": 1697239284,
+        "url": "https://www.fanduel.careers/open-positions?gh_jid=5433978",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/FanDuel",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Autodesk",
+        "id": "3312a566-5fbd-4be2-a04a-9fb85b7fb784",
+        "title": "Intern \u2013 Infrastructure Engineer",
+        "active": true,
+        "terms": [
+            "Spring 2024",
+            "Summer 2024",
+            "Fall 2024"
+        ],
+        "date_updated": 1697239066,
+        "date_posted": 1697239066,
+        "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/California-USA---Remote/Intern--Infrastructure-Engineer_23WD73055-1",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Autodesk",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Autodesk",
+        "id": "dad447f0-0226-4ae3-8fa4-27db41c7798a",
+        "title": "Intern \u2013 Backend Software Engineer",
+        "active": true,
+        "terms": [
+            "Spring 2024",
+            "Summer 2024",
+            "Fall 2024"
+        ],
+        "date_updated": 1697239065,
+        "date_posted": 1697239065,
+        "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/California-USA---Remote/Intern--Backend-Software-Engineer_23WD73039-1",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Autodesk",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Autodesk",
+        "id": "b6949cef-0dde-4f5c-8ea9-935eff13c682",
+        "title": "Intern \u2013 Security Engineer - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1697239063,
+        "date_posted": 1697239063,
+        "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/California-USA---Remote/Intern--Security-Engineer--Summer-2024-_23WD73082-1",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Autodesk",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Autodesk",
+        "id": "11684007-7787-4edd-981e-e8867f8790a5",
+        "title": "Intern \u2013 Software Engineer - Graphics Development",
+        "active": true,
+        "terms": [
+            "Spring 2024",
+            "Summer 2024",
+            "Fall 2024"
+        ],
+        "date_updated": 1697239063,
+        "date_posted": 1697239063,
+        "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/California-USA---Remote/Intern--Software-Engineer---Graphics-Development_23WD72435-1",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Autodesk",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Autodesk",
+        "id": "6daa9a62-b5f9-4f57-8a1b-4feb6015487d",
+        "title": "Intern \u2013 Data Engineer",
+        "active": true,
+        "terms": [
+            "Spring 2024",
+            "Summer 2024",
+            "Fall 2024"
+        ],
+        "date_updated": 1697239062,
+        "date_posted": 1697239062,
+        "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/California-USA---Remote/Intern--Data-Engineer_23WD73054-1",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Autodesk",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Autodesk",
+        "id": "b70c5cc0-c78a-45c6-bfa9-3bd47310088a",
+        "title": "Intern \u2013 Technical Program Manager - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1697239061,
+        "date_posted": 1697239061,
+        "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/California-USA---Remote/Intern--Technical-Program-Manager--Summer-2024-_23WD72391-1",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Autodesk",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Autodesk",
+        "id": "81c18352-8d52-4a63-ba7f-b8ca080cbb9e",
+        "title": "Intern \u2013 Software Engineer",
+        "active": true,
+        "terms": [
+            "Spring 2024",
+            "Summer 2024",
+            "Fall 2024"
+        ],
+        "date_updated": 1697239060,
+        "date_posted": 1697239060,
+        "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Novi-MI-USA/Intern--Software-Engineer_23WD72396-1",
+        "locations": [
+            "Novi, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Autodesk",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Autodesk",
+        "id": "4635ea75-353c-4386-b8dc-4a23b9fb9023",
+        "title": "Intern \u2013 Software Engineer - Fusion",
+        "active": true,
+        "terms": [
+            "Spring 2024",
+            "Summer 2024",
+            "Fall 2024"
+        ],
+        "date_updated": 1697239060,
+        "date_posted": 1697239060,
+        "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Novi-MI-USA/Intern--Software-Engineer---Fusion-360_23WD72471-1",
+        "locations": [
+            "Novi, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Autodesk",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "SharkNinja",
+        "id": "95fd6999-6b22-4af1-8b5c-f304c8e15b2d",
+        "title": "Summer \u2013 Advanced Analytics Intern: May to August 2024",
+        "active": true,
+        "terms": [
+            "Spring 2024",
+            "Summer 2024"
+        ],
+        "date_updated": 1697238574,
+        "date_posted": 1697238574,
+        "url": "https://www.sharkninja.com/careers-application/?gh_jid=4290437006",
+        "locations": [
+            "Needham, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/SharkNinja",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
