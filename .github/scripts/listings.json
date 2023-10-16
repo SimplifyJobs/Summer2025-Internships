@@ -30842,5 +30842,24 @@
         "company_url": "https://simplify.jobs/c/Hudson-River-Trading",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1697480171,
+        "url": "https://jobs.lever.co/arkbiotech/28a1b65c-b984-4c98-9685-7490b810dbdc",
+        "company_name": "Ark Biotech (Sponsors Canadians)",
+        "title": "Software Engineering Intern",
+        "locations": [
+            "Boston, MA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "taran317",
+        "id": "0a073f56-f7b5-422e-b9b9-62ebdfcf517b",
+        "date_posted": 1697480171,
+        "company_url": "",
+        "is_visible": true
     }
 ]
