@@ -30900,5 +30900,24 @@
         "date_posted": 1697480492,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1697480530,
+        "url": "https://jobs.lumen.com/global/en/job/331271/Intern-Software-Engineer-Summer-2024",
+        "company_name": "Lumen",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "Remote"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "VitaliPri",
+        "id": "98e13437-6988-45df-8aec-53a44903293a",
+        "date_posted": 1697480530,
+        "company_url": "",
+        "is_visible": true
     }
 ]
