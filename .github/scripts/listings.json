@@ -30938,5 +30938,24 @@
         "date_posted": 1697560863,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1697560882,
+        "url": "https://corningjobs.corning.com/job/Corning-Data-Science-Intern-NY-14831/1082184300/",
+        "company_name": "Corning",
+        "title": "Data Science Intern",
+        "locations": [
+            "Corning, NY"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "rygeorge",
+        "id": "7fb0c186-8b5d-41f1-93a8-8714aa9e81d4",
+        "date_posted": 1697560882,
+        "company_url": "",
+        "is_visible": true
     }
 ]
