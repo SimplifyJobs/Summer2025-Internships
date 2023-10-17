@@ -30919,5 +30919,24 @@
         "date_posted": 1697480530,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1697560863,
+        "url": "https://careers-stonex.icims.com/jobs/9844/intern---web-developer/job?mode=job&iis=Job+Board&iisn=LinkedIn&mobile=false&width=1569&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240",
+        "company_name": "StoneX",
+        "title": "Web Developer",
+        "locations": [
+            "Winter Park, FL"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "VitaliPri",
+        "id": "1104fa6c-1cfa-423f-a1e2-5f4505a55e5b",
+        "date_posted": 1697560863,
+        "company_url": "",
+        "is_visible": true
     }
 ]
