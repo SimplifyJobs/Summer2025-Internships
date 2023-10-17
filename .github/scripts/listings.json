@@ -30976,5 +30976,24 @@
         "date_posted": 1697560901,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1697560938,
+        "url": "https://sabre.wd1.myworkdayjobs.com/en-US/SabreJobs/job/Dallas-Fort-Worth-Metroplex/Data-Science---2024-Summer-Intern_JR102529",
+        "company_name": "Sabre",
+        "title": "Data Science - 2024 Summer Intern",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "rygeorge",
+        "id": "53b22acb-d964-468f-99ca-a639d23e796f",
+        "date_posted": 1697560938,
+        "company_url": "",
+        "is_visible": true
     }
 ]
