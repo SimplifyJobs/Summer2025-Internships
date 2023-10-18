@@ -212,21 +212,21 @@
     {
         "company_name": "Panasonic",
         "locations": [
-            "The Colony, TX"
+            "TX"
         ],
         "title": "Software Electrical Engineer Intern",
         "date_posted": 1684036800,
         "terms": [
             "Summer 2024"
         ],
-        "active": true,
+        "active": false,
         "url": "https://careers.na.panasonic.com/careers/software-electrical-engineer-intern",
         "is_visible": true,
         "source": "Markdown",
         "company_url": "",
-        "date_updated": 1690430400,
+        "date_updated": 1697591864,
         "id": "2a5eb400-51dd-4b98-aeec-1cfbf30ea0f1",
-        "sponsorship": "Offers Sponsorship"
+        "sponsorship": "Other"
     },
     {
         "company_name": "Internet Brands",

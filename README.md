@@ -1235,7 +1235,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | BTIG | Internship Program  🛂 | NYC</br>SF | <a href="https://boards.greenhouse.io/btig27/jobs/6743060002?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 2023 |
 | Rocket Lab | Software Engineer Intern  🇺🇸 | Multiple Locations | <a href="https://boards.greenhouse.io/rocketlab/jobs/5679154003?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 2023 |
 | Internet Brands | Intern Software Engineer | Los Angeles, California | 🔒 | May 2023 |
-| Panasonic | Software Electrical Engineer Intern | The Colony, TX | <a href="https://careers.na.panasonic.com/careers/software-electrical-engineer-intern?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 2023 |
+| Panasonic | Software Electrical Engineer Intern | TX | 🔒 | May 2023 |
 | **[Capital One](https://simplify.jobs/c/Capital-One)** | Product Development Intern  🛂 | McLean, VA</br>Plano, TX | 🔒 | May 2023 |
 | **[Fyusion](https://simplify.jobs/c/Fyusion)** | Computer Vision Intern - Deep Learning | SF | <a href="https://jobs.lever.co/fyusion/31540b34-b559-4f3b-8c0a-688d504d7288/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/c9061fa0-beb8-4c43-b13a-ff96309fa7f3?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Nov 2022 |
 
