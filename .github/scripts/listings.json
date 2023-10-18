@@ -2572,7 +2572,7 @@
         "company_name": "Certik",
         "id": "fd9fc3c7-c24c-4053-b178-1c1d3c40e3ca",
         "title": "Software Engineer Intern \u2013 Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2023"
         ],
@@ -2602,7 +2602,7 @@
         "terms": [
             "Summer 2024"
         ],
-        "active": true,
+        "active": false,
         "url": "https://jobs.lever.co/certik/2e33570a-f495-44ef-9d7d-a0c5a7fd8190",
         "is_visible": true,
         "source": "Simplify",
@@ -2624,7 +2624,7 @@
         "terms": [
             "Summer 2024"
         ],
-        "active": true,
+        "active": false,
         "url": "https://jobs.lever.co/certik/095fdcff-99e8-408d-bb8a-e638e44d0b40",
         "is_visible": true,
         "source": "Simplify",
@@ -5540,7 +5540,7 @@
         "company_name": "Sentry",
         "id": "89a6717f-2c68-42f5-a0bd-fd74b16b9b45",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -7890,7 +7890,7 @@
         "company_name": "Verkada",
         "id": "ed31825b-9ed4-4713-aed5-1fec98285a25",
         "title": "IOS Engineering Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -8382,7 +8382,7 @@
         "company_name": "Fetch",
         "id": "841e4fcb-f6c5-488a-b6e0-0a1306a46e1f",
         "title": "Backend Engineering \u2013 Apprenticeship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -9569,7 +9569,7 @@
         "company_name": "Cambly",
         "id": "1e0b9d44-937c-4a7b-b01b-15fbb7c0a0e8",
         "title": "Software Engineering Internship - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -13106,7 +13106,7 @@
         "company_name": "Santander",
         "id": "5c4b3664-c2be-47c0-b126-ae7233d6abf1",
         "title": "Internal Audit Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2023"
         ],
@@ -13528,7 +13528,7 @@
         "company_name": "Santander",
         "id": "ac81300a-d247-4e05-9ea0-3b75d1cdca7c",
         "title": "Risk Analytics Intern - Dallas - TX",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2023"
         ],
@@ -13547,7 +13547,7 @@
         "company_name": "Santander",
         "id": "baa8ab34-9cee-4c3a-931a-0d1db7f4b4e3",
         "title": "Risk Analytics Intern - Dallas - TX",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2023"
         ],
@@ -14486,7 +14486,7 @@
         "company_name": "Stryker",
         "id": "21401ba7-a5b9-45b8-8943-2a850c075dce",
         "title": "New Product Development Engineering Intern-Illinois",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -14793,7 +14793,7 @@
         "company_name": "InterSystems",
         "id": "6b081242-a0db-44cb-8736-7da8372109c1",
         "title": "Summer Internship 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -15270,7 +15270,7 @@
         "company_name": "Klaviyo",
         "id": "2aa0e5ee-4b76-4ce5-a0cf-61b77ec07970",
         "title": "Summer 2024 Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -16121,7 +16121,7 @@
         "company_name": "Point72",
         "id": "7b8cfe09-fb30-4d8a-8764-bb697642202e",
         "title": "2024 Point72 Academy Investment Analyst Winternship\t",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2024"
         ],
@@ -16218,7 +16218,7 @@
         "company_name": "Hewlett Packard (HP)",
         "id": "93eced5c-5946-4227-8ce8-b00e1f8bee21",
         "title": "Finance Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -18497,7 +18497,7 @@
         "company_name": "Leidos",
         "id": "b3b118c3-8f3c-4286-8450-99f117f62130",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -20521,7 +20521,7 @@
         "company_name": "Applied Materials",
         "id": "8ac53a00-486a-4e9f-8f71-45157981400e",
         "title": "Software Engineer Intern - Common Systems Software - Santa Clara",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -22652,7 +22652,7 @@
         "company_name": "Bank of Montreal (BMO)",
         "id": "97a81596-3b71-4782-aecb-a20c435289b9",
         "title": "Software Developer \u2013 Co-op/Internship - Winter 2024 - 8 months",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2024"
         ],
@@ -24352,7 +24352,7 @@
         "company_name": "FiscalNote",
         "id": "2fc88d4e-2b31-4595-adc8-828db3d35c96",
         "title": "Fiscalnote AI Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -26888,7 +26888,7 @@
         "company_name": "OpenAI",
         "id": "636bb9f1-ab25-4add-b4fd-fe68ace8b70c",
         "title": "Openai Residency",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -27177,7 +27177,7 @@
         "company_name": "1Password",
         "id": "01b50160-32af-4cd9-af7a-b9fce7a8ef7c",
         "title": "Developer Intern - User Lifecycle & Growth - Winter 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2024"
         ],
@@ -27215,7 +27215,7 @@
         "company_name": "1Password",
         "id": "e235980f-415b-498c-83e1-0d75895e4c85",
         "title": "Developer Intern - Internal Tools - Winter 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2024"
         ],
@@ -27234,7 +27234,7 @@
         "company_name": "1Password",
         "id": "928e36d5-2ea8-4725-b48b-6925995a0d14",
         "title": "Developer Intern - Item Management - Winter 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2024"
         ],
@@ -27521,7 +27521,7 @@
         "company_name": "1Password",
         "id": "06421c8f-e8ed-4f93-8a89-1ea61b237d4b",
         "title": "Developer Intern - Developer Ecosystems - Winter 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2024"
         ],
@@ -28976,7 +28976,7 @@
         "company_name": "Hewlett Packard (HP)",
         "id": "4fc7a41e-3701-4ae7-a6aa-6e1e575e8ffa",
         "title": "Associate Software Developer-Cloud Solutions & Services \u2013 Co-op position",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2024"
         ],
@@ -29423,7 +29423,7 @@
         "company_name": "Crowdstrike",
         "id": "02f28a12-297d-4ec8-b0f4-3de733721c4d",
         "title": "Product Security Intern - Summer 2024 - Remote",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -29820,7 +29820,7 @@
         "company_name": "PayPal",
         "id": "efced37e-aa8f-4bb0-9e5d-62740648bf01",
         "title": "Decision/Data Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -29896,7 +29896,7 @@
         "company_name": "NVIDIA",
         "id": "8b9d3928-8b44-4eda-9fca-d93680b8306c",
         "title": "Research Intern - Simulation Technology - Fall 2023",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2023"
         ],
@@ -29934,7 +29934,7 @@
         "company_name": "1Password",
         "id": "b45b8874-a3ce-41ee-b79b-2efa5bfede98",
         "title": "Developer Intern - Build and Release - Winter 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2024"
         ],
@@ -30030,7 +30030,7 @@
         "company_name": "Leidos",
         "id": "79b75f04-2541-4d9c-b91c-03aab9b8609d",
         "title": "Technical Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024",
             "Summer 2024"
@@ -30070,7 +30070,7 @@
         "company_name": "Intel",
         "id": "e472d22e-b2c7-4632-af42-5c3d1c03d574",
         "title": "2023 Fall Recruiting Season: Software Engineer Undergrad Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2023"
         ],
@@ -30319,7 +30319,7 @@
         "company_name": "Tamr",
         "id": "45f87a7b-434d-46d7-816e-adf2da278536",
         "title": "Devops Engineering Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023",
             "Fall 2023",
@@ -30398,7 +30398,7 @@
         "company_name": "Branch",
         "id": "757be142-9d42-43e5-bde5-031c7b2a3854",
         "title": "Data Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -30493,7 +30493,7 @@
         "company_name": "FanDuel",
         "id": "6035e90b-8583-4f45-8e61-849e6ecaff9d",
         "title": "Commercial Strategy Internship - Dfs - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -30531,7 +30531,7 @@
         "company_name": "FanDuel",
         "id": "0b8c18a6-1afe-4374-8798-12f29a669eb5",
         "title": "Commercial Strategy Internship - Dfs - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -30710,7 +30710,7 @@
         "company_name": "Autodesk",
         "id": "81c18352-8d52-4a63-ba7f-b8ca080cbb9e",
         "title": "Intern \u2013 Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024",
             "Summer 2024",
@@ -30731,7 +30731,7 @@
         "company_name": "Autodesk",
         "id": "4635ea75-353c-4386-b8dc-4a23b9fb9023",
         "title": "Intern \u2013 Software Engineer - Fusion",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024",
             "Summer 2024",
@@ -30752,7 +30752,7 @@
         "company_name": "SharkNinja",
         "id": "95fd6999-6b22-4af1-8b5c-f304c8e15b2d",
         "title": "Summer \u2013 Advanced Analytics Intern: May to August 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024",
             "Summer 2024"
@@ -30810,7 +30810,7 @@
         "company_name": "Epic Games",
         "id": "36ca6b84-0964-40ff-9823-9a995e284adf",
         "title": "Gameplay Programmer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
