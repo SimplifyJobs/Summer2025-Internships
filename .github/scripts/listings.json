@@ -15890,7 +15890,7 @@
         "company_name": "Oshkosh",
         "id": "2a0a015d-f21a-48ee-92fc-07541f0a12f9",
         "title": "Data Science Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -18170,7 +18170,7 @@
         "company_name": "Oshkosh",
         "id": "9491b7a4-a5de-4c69-9105-5d47e6a6c78f",
         "title": "Software Engineering Intern-Connected Solutions",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -21438,7 +21438,7 @@
         "company_name": "Bankers Healthcare Group",
         "id": "d07157a1-cd5f-4935-bc88-b09f7209ee67",
         "title": "Quantitative Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024",
             "Summer 2024"
@@ -26812,7 +26812,7 @@
         "company_name": "Leidos",
         "id": "6ccecfab-4294-42bb-b6aa-bf7c45e982d0",
         "title": "Software Engineer Intern Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2024"
         ],
@@ -27082,7 +27082,7 @@
         "company_name": "Intel",
         "id": "0188e0a7-1816-4854-bff8-73cd61c4392d",
         "title": "Customer Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -28411,7 +28411,7 @@
         "company_name": "Bankers Healthcare Group",
         "id": "c735cbce-3e1a-470c-8bf3-a7fad53abb7b",
         "title": "Quantitative Analyst Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -29423,7 +29423,7 @@
         "company_name": "Crowdstrike",
         "id": "02f28a12-297d-4ec8-b0f4-3de733721c4d",
         "title": "Product Security Intern - Summer 2024 - Remote",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -32230,6 +32230,101 @@
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/AppLovin",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Two Six Technologies",
+        "id": "39d100dc-fdd2-4f46-8e32-73cac01144bd",
+        "title": "Software Engineer Summer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1697729266,
+        "date_posted": 1697729266,
+        "url": "https://boards.greenhouse.io/twosixtechnologies/jobs/4992883004",
+        "locations": [
+            "Arlington, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Two-Six-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Two Six Technologies",
+        "id": "e9327318-f1a9-4525-8cef-662731911935",
+        "title": "Software Engineer Summer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1697729266,
+        "date_posted": 1697729266,
+        "url": "https://boards.greenhouse.io/twosixtechnologies/jobs/4992903004",
+        "locations": [
+            "Arlington, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Two-Six-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Two Six Technologies",
+        "id": "1ed044a3-1a0a-4380-a777-c9fe74294a09",
+        "title": "Infrastructure Summer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1697729260,
+        "date_posted": 1697729260,
+        "url": "https://boards.greenhouse.io/twosixtechnologies/jobs/4992931004",
+        "locations": [
+            "Arlington, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Two-Six-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Two Six Technologies",
+        "id": "c18e86ae-994d-4bcd-87ac-95dd899537a0",
+        "title": "Front End Software Engineer Summer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1697729259,
+        "date_posted": 1697729259,
+        "url": "https://boards.greenhouse.io/twosixtechnologies/jobs/4990869004",
+        "locations": [
+            "Arlington, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Two-Six-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Badger Meter",
+        "id": "bac90aa8-475a-47d8-ac4f-8b8786e03971",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1697728694,
+        "date_posted": 1697728694,
+        "url": "https://badgermeter.wd5.myworkdayjobs.com/US_CareerSite/job/Badger-Meter---BMI---Global-Water-Center---Milwaukee/Software-Engineering-Intern_2937",
+        "locations": [
+            "Milwaukee, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Badger-Meter",
         "is_visible": true,
         "sponsorship": "Other"
     }
