@@ -8187,7 +8187,7 @@
             "Summer 2024"
         ],
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "source": "Simplify",
         "id": "4bbc9f9c-7da7-491b-97b8-261834f8f5aa",
         "date_posted": 1692035653,
@@ -8206,7 +8206,7 @@
             "Summer 2024"
         ],
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "source": "Simplify",
         "id": "db06aa17-b068-4728-9165-bc972a337c0e",
         "date_posted": 1692035815,
@@ -9664,7 +9664,7 @@
         "company_name": "Connor Group",
         "id": "0cafc15c-d506-4b20-83aa-a88f3562e901",
         "title": "2024 Digital Solutions Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -15173,7 +15173,7 @@
         "company_name": "Humane",
         "id": "9f6e6f1a-2286-4a1c-9b47-878c53c66b75",
         "title": "Quality Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024",
             "Summer 2024",
@@ -17758,7 +17758,7 @@
         "company_name": "AeroVect",
         "id": "e111bc73-6d16-412b-8e8a-f3543823eb5f",
         "title": "Perception Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2024"
         ],
@@ -17815,7 +17815,7 @@
         "company_name": "AeroVect",
         "id": "9639d8ce-1336-459e-8e28-6dd81954522b",
         "title": "Embedded Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2024"
         ],
@@ -19269,7 +19269,7 @@
         "company_name": "Extreme Networks",
         "id": "3182b53c-7ece-48b5-8470-fbf974b33c99",
         "title": "Product & Office of the CTO \u2013 Intern - Octo",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -23309,7 +23309,7 @@
         "company_name": "Heretic",
         "id": "4476c8ec-faca-4eb5-84fd-dc876cf30b04",
         "title": "Applied AI/ML Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2023"
         ],
@@ -24755,7 +24755,7 @@
         "company_name": "Cruise",
         "id": "a8ede38b-c50b-458a-bd08-c4072a322e53",
         "title": "Intern \u2013 ML Horizontal Platforms",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -24774,7 +24774,7 @@
         "company_name": "Cruise",
         "id": "db856474-06da-4481-987a-d517e6c4533d",
         "title": "Intern \u2013 Data Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -24812,7 +24812,7 @@
         "company_name": "Cruise",
         "id": "19b2f7d3-8993-4d80-adfb-328567599bd3",
         "title": "Intern \u2013 Sre - Reliability Insights",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -24831,7 +24831,7 @@
         "company_name": "Cruise",
         "id": "75580459-5729-495a-b9af-f4b9711a0834",
         "title": "Intern \u2013 Security Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -24850,7 +24850,7 @@
         "company_name": "Cruise",
         "id": "eb3eb364-53e5-4bc4-921a-f37a637a5df6",
         "title": "Intern \u2013 Enterprise Integration Services",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -24869,7 +24869,7 @@
         "company_name": "Cruise",
         "id": "8526b992-0261-4795-835c-75ab124238f1",
         "title": "Intern \u2013 In-Car Experience - Production Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -24888,7 +24888,7 @@
         "company_name": "Cruise",
         "id": "23acfdc5-d688-4421-b828-cb1dc835c923",
         "title": "Intern \u2013 Behaviors",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -24907,7 +24907,7 @@
         "company_name": "Bridgewater Associates",
         "id": "328683e6-519f-4e0c-97c1-5237c57176cd",
         "title": "Investment Engineer Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -24926,7 +24926,7 @@
         "company_name": "Optiver",
         "id": "0bac3a48-4573-48eb-8184-5380f413c46e",
         "title": "Campus: Software Engineer Intern - Summer 2024 - Chicago",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -24945,7 +24945,7 @@
         "company_name": "Optiver",
         "id": "4cb3632f-a207-48af-bfef-bb5be6642d3f",
         "title": "Campus: Software Engineer Intern - Summer 2024 - Austin",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -25040,7 +25040,7 @@
         "company_name": "Optiver",
         "id": "1c0a9a89-a534-4246-8d4b-bf08b4728317",
         "title": "Campus: Quantitative Trader Intern - Summer 2024 - Chicago",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -25120,7 +25120,7 @@
         "company_name": "Cruise",
         "id": "c5a385a4-9b45-43ee-bb80-698b1b812eec",
         "title": "Intern \u2013 ML Behaviors Data",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -25139,7 +25139,7 @@
         "company_name": "Cruise",
         "id": "8384c32a-fba0-4408-b788-b74c25787d4c",
         "title": "Intern \u2013 ML Performance Tooling",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -25158,7 +25158,7 @@
         "company_name": "Cruise",
         "id": "74769164-3e36-4d67-a043-9ec7b8b3b823",
         "title": "Intern \u2013 Embedded Systems - Sensing Software",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -26593,7 +26593,7 @@
         "company_name": "Cruise",
         "id": "d96f8c75-32d2-4dd3-a5a6-d980a9199e97",
         "title": "Intern \u2013 Simulation Applications",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -31502,7 +31502,7 @@
         "company_name": "Two Six Technologies",
         "id": "78ce4045-a48a-4906-b4f2-4f94f387d191",
         "title": "Cleared Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -32154,6 +32154,63 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/GlobalAtlantic",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Beacon Platform",
+        "id": "c3dee852-4168-493c-af99-ce27d7a2aba5",
+        "title": "Core Developer \u2013 Summer Internship",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1697671946,
+        "date_posted": 1697671946,
+        "url": "https://boards.greenhouse.io/beaconplatform/jobs/4998403004",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Beacon-Platform",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Intel",
+        "id": "8f20c43f-0337-40f0-9b23-9e9b5bdadc56",
+        "title": "Foundational AI Research Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1697671190,
+        "date_posted": 1697671190,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/Virtual-US/Foundational-AI-Research-Intern_JR0250699",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Intel",
+        "id": "2b89a119-f1c7-4bae-9d56-1f0569cf89e2",
+        "title": "Foundational AI Research Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1697671188,
+        "date_posted": 1697671188,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/Virtual-US/Foundational-AI-Research-Intern_JR0250700",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
         "is_visible": true,
         "sponsorship": "Other"
     }
