@@ -32806,5 +32806,27 @@
         "company_url": "https://simplify.jobs/c/Intel",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1697837633,
+        "url": "https://workday.wd5.myworkdayjobs.com/en-US/Workday_Early_Career/job/Software-Development-Engineer-Intern_JR-81163",
+        "company_name": "Workday",
+        "title": "Software Development Engineer Intern",
+        "locations": [
+            "Pleasanton, CA",
+            "Beaverton, OR",
+            "Atlanta, GA",
+            "Boulder, CO"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "MJFree34",
+        "id": "765af622-618d-4a01-9688-357693ebbbdf",
+        "date_posted": 1697837633,
+        "company_url": "",
+        "is_visible": true
     }
 ]
