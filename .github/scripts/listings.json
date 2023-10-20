@@ -33042,5 +33042,24 @@
         "date_posted": 1697839199,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1697839220,
+        "url": "https://careers.ancestry.com/jobs/f3f46ea1-7550-4bb2-86ef-a9e3574752f7?src=LinkedIn&source=linkedin",
+        "company_name": "Ancestry",
+        "title": "Product Manager, Summer Intern - Search",
+        "locations": [
+            "Lehi, UT"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "rygeorge",
+        "id": "8fb64d32-a26a-4991-a906-2fe452586ff5",
+        "date_posted": 1697839220,
+        "company_url": "",
+        "is_visible": true
     }
 ]
