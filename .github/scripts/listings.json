@@ -32730,5 +32730,24 @@
         "company_url": "https://simplify.jobs/c/SharkNinja",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1697770911,
+        "url": "https://careers.snowflake.com/us/en/job/SNCOUS6979959002EXTERNALENUS/Product-Data-Science-Intern-Spring-2024",
+        "company_name": "Snowflake",
+        "title": "Product Data Science Intern",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "terms": [
+            "Spring 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "rygeorge",
+        "id": "c25e18cf-3933-4028-9ffe-a18be9fe8086",
+        "date_posted": 1697770911,
+        "company_url": "",
+        "is_visible": true
     }
 ]
