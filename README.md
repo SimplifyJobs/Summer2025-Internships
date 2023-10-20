@@ -1142,7 +1142,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | ↳ | Quantitative Trader Internship | NYC | <a href="https://www.janestreet.com/join-jane-street/position/6850721002/?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 25 |
 | ↳ | Quantitative Researcher Internship | NYC | <a href="https://www.janestreet.com/join-jane-street/position/6838982002/?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 25 |
 | General Motors | 2024 Summer Intern – Digital Transformation – Data Analyst or Data Scientist  | Digital Information | 🔒 | Jul 24 |
-| SkyWorks | Embedded FW Summer Intern | Austin, TX | <a href="https://careers.skyworksinc.com/job/Austin-Embedded-FW-Summer-Intern-2024-TX-73301/1054957600?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 23 |
+| SkyWorks | Embedded FW Summer Intern | Austin, TX | 🔒 | Jul 23 |
 | Cole Engineering Services, Inc. | Intern us | Orlando, FL | 🔒 | Jul 22 |
 | BlackRock | Summer 2024 Internship Program | Americas | <a href="https://blackrock.tal.net/vx/lang-en-GB/mobile-0/brand-3/xf-232eb66ac89a/candidate/so/pm/1/pl/1/opp/7894-Summer-Internship-Program-Americas/en-GB?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 22 |
 | Discover | Business Technology Internship Program  🛂 | Riverwoods, IL | 🔒 | Jul 21 |
