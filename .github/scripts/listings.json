@@ -33023,5 +33023,24 @@
         "date_posted": 1697839179,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1697839199,
+        "url": "https://jobs.lumen.com/global/en/job/331304/Intern-Robotic-Process-Developer-Summer-2024",
+        "company_name": "Lumen",
+        "title": "Robotic Process Developer",
+        "locations": [
+            "Remote"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "VitaliPri",
+        "id": "17f743b0-8711-46a3-a644-64485c1825f7",
+        "date_posted": 1697839199,
+        "company_url": "",
+        "is_visible": true
     }
 ]
