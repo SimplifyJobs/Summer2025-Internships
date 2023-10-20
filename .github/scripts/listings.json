@@ -32965,5 +32965,24 @@
         "date_posted": 1697838888,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1697839068,
+        "url": "https://us-redhat.icims.com/jobs/100485/software-engineering-intern---pipeline/job?mobile=false&width=1140&height=500&bga=true&needsRedirect=false&jan1offset=-480&jun1offset=-420",
+        "company_name": "Red Hat",
+        "title": "Software Engineering Intern",
+        "locations": [
+            "Remote"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "rygeorge",
+        "id": "6d01810b-6843-4559-bd94-6a71bf836394",
+        "date_posted": 1697839068,
+        "company_url": "",
+        "is_visible": true
     }
 ]
