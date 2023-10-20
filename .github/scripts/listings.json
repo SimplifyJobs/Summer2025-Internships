@@ -33004,5 +33004,24 @@
         "date_posted": 1697839094,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1697839179,
+        "url": "https://jobs.lumen.com/global/en/job/331383/Intern-Data-Science-Summer-2024",
+        "company_name": "Lumen",
+        "title": "Data Science",
+        "locations": [
+            "Remote"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "VitaliPri",
+        "id": "2cba0deb-f6cf-4525-8cb1-a31a4c97a672",
+        "date_posted": 1697839179,
+        "company_url": "",
+        "is_visible": true
     }
 ]
