@@ -32847,5 +32847,24 @@
         "date_posted": 1697837730,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1697837791,
+        "url": "https://careers-keysight.icims.com/jobs/13612/intern-tech-ii/job",
+        "company_name": "Keysight Technologies",
+        "title": "Intern Tech II",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "MJFree34",
+        "id": "a4cbf855-486b-4fef-8bc8-8835b243b7d9",
+        "date_posted": 1697837791,
+        "company_url": "",
+        "is_visible": true
     }
 ]
