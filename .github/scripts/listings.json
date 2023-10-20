@@ -32828,5 +32828,24 @@
         "date_posted": 1697837633,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1697837730,
+        "url": "https://careers-keysight.icims.com/jobs/13604/software-engineering-internship/job",
+        "company_name": "Keysight Technologies",
+        "title": "Software Engineering Internship",
+        "locations": [
+            "Austin, TX"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "MJFree34",
+        "id": "38a79a9d-94a7-4fe1-aa30-2d5e9825fd73",
+        "date_posted": 1697837730,
+        "company_url": "",
+        "is_visible": true
     }
 ]
