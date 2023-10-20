@@ -7044,7 +7044,7 @@
         "company_name": "Fetch",
         "id": "5f6bcfb1-da33-4a83-aef5-c25e2e8d0300",
         "title": "Frontend Engineer Apprenticeship",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2023"
         ],
@@ -25910,7 +25910,7 @@
         "company_name": "Visa",
         "id": "96b1a0b6-5180-48b5-b538-fd139803c0ea",
         "title": "Summer Intern - Software Engineering and Testing",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -27082,7 +27082,7 @@
         "company_name": "Intel",
         "id": "0188e0a7-1816-4854-bff8-73cd61c4392d",
         "title": "Customer Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -27291,7 +27291,7 @@
         "company_name": "Flawless",
         "id": "ab9d410b-00bc-4378-a55d-c62bdf987580",
         "title": "Data Engineer Internship - Deep Learning",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -27792,7 +27792,7 @@
         "company_name": "Ontario Teachers' Pension Plan",
         "id": "4d4801d6-818a-457f-8a72-98c9ddaad89c",
         "title": "Intern \u2013 Trading Floor Risk Analyst - Fall 2024 - Month term",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2024"
         ],
@@ -31962,7 +31962,7 @@
         "company_name": "FanDuel",
         "id": "b58dfd23-af81-43d7-b04e-efa842ae73e6",
         "title": "Sports Trader Internship - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -32238,7 +32238,7 @@
         "company_name": "Two Six Technologies",
         "id": "39d100dc-fdd2-4f46-8e32-73cac01144bd",
         "title": "Software Engineer Summer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2023"
         ],
@@ -32766,6 +32766,44 @@
             "Arlington, VA"
         ],
         "company_url": "https://simplify.jobs/c/Two-Six-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Two Six Technologies",
+        "id": "b091ceef-7748-4828-9658-d889a3fd50f2",
+        "title": "Front End Software Engineer Summer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1697815897,
+        "date_posted": 1697815897,
+        "url": "https://boards.greenhouse.io/twosixtechnologies/jobs/4992838004",
+        "locations": [
+            "Arlington, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Two-Six-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Intel",
+        "id": "d50c8d3d-1c93-42fd-8d4c-628711fb2fd4",
+        "title": "Customer Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1697815247,
+        "date_posted": 1697815247,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/England-Swindon/Customer-Engineer-Intern_JR0251000",
+        "locations": [
+            "Swindon, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
         "is_visible": true,
         "sponsorship": "Other"
     }
