@@ -32866,5 +32866,25 @@
         "date_posted": 1697837791,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1697838187,
+        "url": "https://jobs.dish.com/jobs/80708?mode=job&iis=Job+Board&iisn=LinkedIN.COM",
+        "company_name": "Dish",
+        "title": "Intern - SWE: Front End Development - Summer '24",
+        "locations": [
+            "Littleton, CO, US",
+            "Englewood, Colorado, US"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "MonishSoundarRaj",
+        "id": "b4525b2f-69ae-43ed-a2a6-27c5359b049c",
+        "date_posted": 1697838187,
+        "company_url": "",
+        "is_visible": true
     }
 ]
