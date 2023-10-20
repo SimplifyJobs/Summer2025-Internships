@@ -33061,5 +33061,24 @@
         "date_posted": 1697839220,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1697839246,
+        "url": "https://toyota.wd5.myworkdayjobs.com/TMNA_College/job/Plano-Texas/TFS-Data-Science-Summer-2024-Internship_10243939",
+        "company_name": "Toyota",
+        "title": "TFS Data Science Summer 2024 Internship",
+        "locations": [
+            "Plano, TX"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "rygeorge",
+        "id": "ab823b66-7f95-4397-a089-f07b5e015114",
+        "date_posted": 1697839246,
+        "company_url": "",
+        "is_visible": true
     }
 ]
