@@ -32946,5 +32946,24 @@
         "date_posted": 1697838771,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1697838888,
+        "url": "https://pearson.jobs/durham-nc/intern-software-engineer/BA04FCAEABA1470080E438016D7D8666/job/?vs=10",
+        "company_name": "Pearson",
+        "title": "Intern - Software Engineer",
+        "locations": [
+            "Durham, North Carolina, US"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "MonishSoundarRaj",
+        "id": "7d5f9ac5-9244-4714-9ec6-014cc2946a3c",
+        "date_posted": 1697838888,
+        "company_url": "",
+        "is_visible": true
     }
 ]
