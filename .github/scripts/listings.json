@@ -100,7 +100,7 @@
         "company_name": "Akuna Capital",
         "id": "a4225cd4-255f-40ef-b945-75dc712c4c09",
         "title": "Quantitative Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -12579,7 +12579,7 @@
         "company_name": "Stripe",
         "id": "2ba615b1-880c-4f7e-9640-7cc86fb1d60b",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -14543,7 +14543,7 @@
         "company_name": "Stryker",
         "id": "63d27186-707a-4fe7-ac2b-b77268e8418a",
         "title": "R&D Engineering Intern-Minnesota",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2023"
         ],
@@ -22259,7 +22259,7 @@
         "company_name": "Chamberlain Group",
         "id": "ecb6b20a-a76b-4fbf-8c8c-cd1d6e87b2c5",
         "title": "Intern \u2013 Myq Middleware - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -22458,7 +22458,7 @@
         "company_name": "StackAdapt",
         "id": "012d775f-3de1-4379-b1b8-6a93bd993e27",
         "title": "Data Analyst \u2013 Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -26062,7 +26062,7 @@
         "company_name": "GoodRx",
         "id": "ac2eadfa-1d5b-4921-a465-7d4533810241",
         "title": "Editorial Internship: Copy-editing - Writing - Or Operations - 6 Months",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2024",
             "Spring 2024",
@@ -27676,7 +27676,7 @@
         "company_name": "Kepler Communications",
         "id": "885f601c-ee24-4bda-b176-d5ceda71f7fd",
         "title": "Embedded Software Engineer Intern - Winter 2024 - 4 - Months",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2024"
         ],
@@ -27906,7 +27906,7 @@
         "company_name": "Symbotic",
         "id": "c73130c5-0cbe-4972-a981-b5935a164274",
         "title": "Intern-Embedded Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023",
             "Spring 2024",
@@ -31122,7 +31122,7 @@
         "company_name": "Beacon Platform",
         "id": "b8c17ea4-1f4d-4eae-81e4-07a8c499f952",
         "title": "Front Office Suite \u2013 Summer Internship - Applications Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -31160,7 +31160,7 @@
         "company_name": "Beacon Platform",
         "id": "0947a2dd-4b35-4b53-a048-a9a2b8a09328",
         "title": "Front Office Suite \u2013 Summer Internship - Applications Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -31179,7 +31179,7 @@
         "company_name": "Beacon Platform",
         "id": "07005727-f31e-4b67-a50e-241954a69d0d",
         "title": "Front Office Suite \u2013 Summer Internship - Applications Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -31198,7 +31198,7 @@
         "company_name": "Beacon Platform",
         "id": "1a28c378-30c8-457c-889c-eb5493cd55ac",
         "title": "Front Office Suite \u2013 Summer Internship - Applications Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -31502,7 +31502,7 @@
         "company_name": "Two Six Technologies",
         "id": "78ce4045-a48a-4906-b4f2-4f94f387d191",
         "title": "Cleared Research Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -32325,6 +32325,409 @@
             "Milwaukee, WI"
         ],
         "company_url": "https://simplify.jobs/c/Badger-Meter",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Beacon Platform",
+        "id": "59cccdd4-0cd7-4b9d-b20a-c8afaff47ce3",
+        "title": "Integrations Engineer \u2013 Summer Internship",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1697758037,
+        "date_posted": 1697758037,
+        "url": "https://boards.greenhouse.io/beaconplatform/jobs/5001317004",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Beacon-Platform",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Beacon Platform",
+        "id": "a820f32d-1af2-411c-a985-79773b576cd9",
+        "title": "Risk Framework Engineer \u2013 Summer Internship",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1697758035,
+        "date_posted": 1697758035,
+        "url": "https://boards.greenhouse.io/beaconplatform/jobs/5000900004",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Beacon-Platform",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Beacon Platform",
+        "id": "df380426-1342-4e79-b5d2-f81241bc64ea",
+        "title": "Platform Engineer \u2013 Summer Internship",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1697758034,
+        "date_posted": 1697758034,
+        "url": "https://boards.greenhouse.io/beaconplatform/jobs/5001070004",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Beacon-Platform",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Beacon Platform",
+        "id": "803af091-0165-4323-b354-04a514998187",
+        "title": "Foundations Engineer \u2013 Summer Internship",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1697758033,
+        "date_posted": 1697758033,
+        "url": "https://boards.greenhouse.io/beaconplatform/jobs/5001263004",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Beacon-Platform",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Two Six Technologies",
+        "id": "efc2dc0c-395d-454d-b4e6-d622bc7cb003",
+        "title": "Software Engineer Summer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1697757917,
+        "date_posted": 1697757917,
+        "url": "https://boards.greenhouse.io/twosixtechnologies/jobs/4992891004",
+        "locations": [
+            "Arlington, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Two-Six-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Two Six Technologies",
+        "id": "11490762-7199-43fd-8676-f88aeeb2e0ae",
+        "title": "Software Testing Summer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1697757916,
+        "date_posted": 1697757916,
+        "url": "https://boards.greenhouse.io/twosixtechnologies/jobs/4992918004",
+        "locations": [
+            "Arlington, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Two-Six-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Two Six Technologies",
+        "id": "7ef22853-60b5-492e-ae9f-822a370f7ced",
+        "title": "Infrastructure Summer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1697757904,
+        "date_posted": 1697757904,
+        "url": "https://boards.greenhouse.io/twosixtechnologies/jobs/4992935004",
+        "locations": [
+            "Arlington, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Two-Six-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Two Six Technologies",
+        "id": "e4feb5da-693f-44d2-9c84-cea92b7a0c6c",
+        "title": "Front End Software Engineer Summer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1697757904,
+        "date_posted": 1697757904,
+        "url": "https://boards.greenhouse.io/twosixtechnologies/jobs/4992877004",
+        "locations": [
+            "Arlington, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Two-Six-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Rhombus",
+        "id": "a2507c3c-8138-494b-9c39-a71d004a0bbd",
+        "title": "Summer Engineering Internship",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1697757627,
+        "date_posted": 1697757627,
+        "url": "https://jobs.lever.co/rhombus-systems/f0dbe3f9-aca0-4221-879d-4f1047931d62/apply",
+        "locations": [
+            "Sacramento, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Rhombus-Systems",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Bristol-Myers Squibb",
+        "id": "7b2e0988-41e7-4375-8160-ef5d371f9083",
+        "title": "Summer 2024 \u2013 Internship - Applied Statistical Learning - Informatics & Predictive Science - Ips",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1697757588,
+        "date_posted": 1697757588,
+        "url": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/en-US/BMS/job/Cambridge-Crossing---MA---US/Summer-2024---Applied-Statistical-Learning---Informatics---Predictive-Science--IPS--Internship_R1574588",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Bristol-Myers-Squibb",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Bristol-Myers Squibb",
+        "id": "9fc85704-b943-4714-9970-421f83f61605",
+        "title": "Summer 2024 \u2013 Internship - Informatics and Predictive Sciences - Ips",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1697757585,
+        "date_posted": 1697757585,
+        "url": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/en-US/BMS/job/Cambridge-Crossing---MA---US/Summer-2024---Informatics-and-Predictive-Sciences--IPS--Internship_R1574590",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Bristol-Myers-Squibb",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Bristol-Myers Squibb",
+        "id": "ef9e7469-b321-4d3e-9bf1-d381f6e54c23",
+        "title": "Summer 2024 \u2013 Internship - Data Science - Informatics and Predictive Sciences - Ips",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1697757585,
+        "date_posted": 1697757585,
+        "url": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/en-US/BMS/job/Cambridge-Crossing---MA---US/Summer-2024---Data-Science---Informatics-and-Predictive-Sciences--IPS--Internship_R1574598",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Bristol-Myers-Squibb",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Bristol-Myers Squibb",
+        "id": "adb68f63-be67-4f39-8715-43ce42904a93",
+        "title": "Summer 2024 \u2013 Internship - Machine Learning and Bioinformatics - Informatics and Predictive Science - Ips",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1697757585,
+        "date_posted": 1697757585,
+        "url": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/en-US/BMS/job/Cambridge-Crossing---MA---US/Summer-2024---Machine-Learning-and-Bioinformatics---Informatics-and-Predictive-Science--IPS--Internship_R1574592",
+        "locations": [
+            "Cambridge, MA",
+            "Summit, NJ",
+            "Princeton, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/Bristol-Myers-Squibb",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Dropbox",
+        "id": "f19ab67a-f0e0-4b5a-b63a-fac43ff0f8ac",
+        "title": "Software Engineer Intern - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1697757479,
+        "date_posted": 1697757479,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=5449187",
+        "locations": [
+            "Remote"
+        ],
+        "company_url": "https://simplify.jobs/c/Dropbox",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Vectra",
+        "id": "d465e0ea-1f77-414c-b227-142e0bbcdbfd",
+        "title": "Data Engineering Internship",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1697757440,
+        "date_posted": 1697757440,
+        "url": "https://boards.greenhouse.io/vectranetworks/jobs/5449095",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Vectra",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Vectra",
+        "id": "1b8eaeb5-5fe4-450b-bfee-ce0d77a8dc61",
+        "title": "Data Science Internship - San Jose",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1697757440,
+        "date_posted": 1697757440,
+        "url": "https://boards.greenhouse.io/vectranetworks/jobs/5448970",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Vectra",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Hudl",
+        "id": "b5928c5f-af56-4ed4-9728-4df1489c156e",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1697757471,
+        "date_posted": 1697757471,
+        "url": "https://boards.greenhouse.io/hudl/jobs/5450878",
+        "locations": [
+            "Lexington, KY"
+        ],
+        "company_url": "https://simplify.jobs/c/Hudl",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Taboola",
+        "id": "30a235f3-b436-46b3-b156-02901ed06fb7",
+        "title": "Full-time Data Science Intern - Immediate start",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1697757277,
+        "date_posted": 1697757277,
+        "url": "https://www.taboola.com/careers/job/5452094?gh_jid=5452094",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Taboola",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Schonfeld",
+        "id": "2b8b13ee-7e97-4e99-8dbe-963782f97f45",
+        "title": "2024 Execution Risk Analyst Summer Internship",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1697757202,
+        "date_posted": 1697757202,
+        "url": "https://boards.greenhouse.io/schonfeld/jobs/5357534",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Schonfeld",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Crowdstrike",
+        "id": "cbb6ce6f-a268-4242-a3f6-3496894c52e7",
+        "title": "Software Engineer Intern - Summer 2024 - Remote",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1697757197,
+        "date_posted": 1697757197,
+        "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-us/crowdstrikecareers/job/USA---Remote/Software-Engineer-Intern---Summer-2024--Remote-_R14738",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Crowdstrike",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "SharkNinja",
+        "id": "2d1b8ebf-1fe5-4099-831e-e74cba4eaa60",
+        "title": "Spring \u2013 SQA Test Automation Engineer Co-op: January to June 2024",
+        "active": true,
+        "terms": [
+            "Winter 2025",
+            "Spring 2025",
+            "Summer 2025"
+        ],
+        "date_updated": 1697756777,
+        "date_posted": 1697756777,
+        "url": "https://www.sharkninja.com/careers-application/?gh_jid=4291653006",
+        "locations": [
+            "Needham, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/SharkNinja",
         "is_visible": true,
         "sponsorship": "Other"
     }
