@@ -32984,5 +32984,25 @@
         "date_posted": 1697839068,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1697839094,
+        "url": "https://www.tesla.com/careers/search/job/203929",
+        "company_name": "Tesla",
+        "title": "Software Engineer Intern - Data Platforms",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "terms": [
+            "Winter 2024",
+            "Spring 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "rygeorge",
+        "id": "1da4ad1d-3a9d-4b19-ab52-8e90cd2ee454",
+        "date_posted": 1697839094,
+        "company_url": "",
+        "is_visible": true
     }
 ]
