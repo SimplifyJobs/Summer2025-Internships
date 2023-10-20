@@ -8893,7 +8893,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1692230634,
+        "date_updated": 1697838397,
         "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/OFallon-Missouri/Software-Engineer-Intern--Summer-2024---United-States_R-201216-1",
         "company_name": "Mastercard",
         "title": "Software Engineer Intern",
@@ -8905,8 +8905,8 @@
         "terms": [
             "Summer 2024"
         ],
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "TNGO04",
         "id": "7bd5a9c2-de42-427c-a939-d9b85ae67f2a",
         "date_posted": 1692230634,
