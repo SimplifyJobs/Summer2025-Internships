@@ -1423,7 +1423,7 @@
         "company_name": "Northwestern Mutual",
         "id": "32790880-c7dc-4f07-90b2-70d21f6d8982",
         "title": "Public Investments - Municipal Trading Analytics Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -8187,7 +8187,7 @@
             "Summer 2024"
         ],
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "source": "Simplify",
         "id": "4bbc9f9c-7da7-491b-97b8-261834f8f5aa",
         "date_posted": 1692035653,
@@ -8206,7 +8206,7 @@
             "Summer 2024"
         ],
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "source": "Simplify",
         "id": "db06aa17-b068-4728-9165-bc972a337c0e",
         "date_posted": 1692035815,
@@ -19769,7 +19769,7 @@
         "company_name": "Kodiak Robotics",
         "id": "6d21a7b8-64a0-46b2-b886-fa8307b78037",
         "title": "Winter 2024 Full Stack Engineer Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2024"
         ],
@@ -23348,7 +23348,7 @@
         "company_name": "AQR Capital Management",
         "id": "f9dd29f3-7e34-47dc-b426-466b99e96bd3",
         "title": "2024 Software Engineering Summer Analyst - Risk - Compliance and Legal",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -24755,7 +24755,7 @@
         "company_name": "Cruise",
         "id": "a8ede38b-c50b-458a-bd08-c4072a322e53",
         "title": "Intern \u2013 ML Horizontal Platforms",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -24774,7 +24774,7 @@
         "company_name": "Cruise",
         "id": "db856474-06da-4481-987a-d517e6c4533d",
         "title": "Intern \u2013 Data Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -24812,7 +24812,7 @@
         "company_name": "Cruise",
         "id": "19b2f7d3-8993-4d80-adfb-328567599bd3",
         "title": "Intern \u2013 Sre - Reliability Insights",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -24831,7 +24831,7 @@
         "company_name": "Cruise",
         "id": "75580459-5729-495a-b9af-f4b9711a0834",
         "title": "Intern \u2013 Security Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -24850,7 +24850,7 @@
         "company_name": "Cruise",
         "id": "eb3eb364-53e5-4bc4-921a-f37a637a5df6",
         "title": "Intern \u2013 Enterprise Integration Services",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -24869,7 +24869,7 @@
         "company_name": "Cruise",
         "id": "8526b992-0261-4795-835c-75ab124238f1",
         "title": "Intern \u2013 In-Car Experience - Production Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -24888,7 +24888,7 @@
         "company_name": "Cruise",
         "id": "23acfdc5-d688-4421-b828-cb1dc835c923",
         "title": "Intern \u2013 Behaviors",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -24907,7 +24907,7 @@
         "company_name": "Bridgewater Associates",
         "id": "328683e6-519f-4e0c-97c1-5237c57176cd",
         "title": "Investment Engineer Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -24926,7 +24926,7 @@
         "company_name": "Optiver",
         "id": "0bac3a48-4573-48eb-8184-5380f413c46e",
         "title": "Campus: Software Engineer Intern - Summer 2024 - Chicago",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -24945,7 +24945,7 @@
         "company_name": "Optiver",
         "id": "4cb3632f-a207-48af-bfef-bb5be6642d3f",
         "title": "Campus: Software Engineer Intern - Summer 2024 - Austin",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -25040,7 +25040,7 @@
         "company_name": "Optiver",
         "id": "1c0a9a89-a534-4246-8d4b-bf08b4728317",
         "title": "Campus: Quantitative Trader Intern - Summer 2024 - Chicago",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -25120,7 +25120,7 @@
         "company_name": "Cruise",
         "id": "c5a385a4-9b45-43ee-bb80-698b1b812eec",
         "title": "Intern \u2013 ML Behaviors Data",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -25139,7 +25139,7 @@
         "company_name": "Cruise",
         "id": "8384c32a-fba0-4408-b788-b74c25787d4c",
         "title": "Intern \u2013 ML Performance Tooling",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -25158,7 +25158,7 @@
         "company_name": "Cruise",
         "id": "74769164-3e36-4d67-a043-9ec7b8b3b823",
         "title": "Intern \u2013 Embedded Systems - Sensing Software",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -26593,7 +26593,7 @@
         "company_name": "Cruise",
         "id": "d96f8c75-32d2-4dd3-a5a6-d980a9199e97",
         "title": "Intern \u2013 Simulation Applications",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -29128,7 +29128,7 @@
         "company_name": "Kepler Communications",
         "id": "490bc475-11c1-477d-8797-57034fa17eee",
         "title": "Software Engineering Intern - Winter 2024 - 4 - Months",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2024"
         ],
@@ -31749,7 +31749,7 @@
         "company_name": "NVIDIA",
         "id": "03a9c23f-bca3-4dd1-9619-4d3082b1fc3e",
         "title": "Program Operations and Analytics Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -31826,7 +31826,7 @@
         "company_name": "Leidos",
         "id": "e36b7c25-1b3d-458f-9a97-5ccf9c3e17b6",
         "title": "Data Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -32000,7 +32000,7 @@
         "company_name": "Autodesk",
         "id": "904bcdf0-cfa7-4c10-953d-399b8ed95610",
         "title": "Intern \u2013 Data Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024",
             "Summer 2024",
@@ -32021,7 +32021,7 @@
         "company_name": "Autodesk",
         "id": "9e1a77a5-bcf5-4a77-a256-ec70dc99615b",
         "title": "Intern \u2013 Machine Learning Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024",
             "Summer 2024",
@@ -32043,7 +32043,7 @@
         "company_name": "Autodesk",
         "id": "7cff6207-c0ae-4ab9-a170-f1afb0e02281",
         "title": "Intern \u2013 Frontend Software Engineer - Fusion",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024",
             "Summer 2024",
@@ -32238,7 +32238,7 @@
         "company_name": "Two Six Technologies",
         "id": "39d100dc-fdd2-4f46-8e32-73cac01144bd",
         "title": "Software Engineer Summer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -32749,5 +32749,24 @@
         "date_posted": 1697770911,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Two Six Technologies",
+        "id": "f6e1fd22-bb96-4dec-a10e-85096abfc847",
+        "title": "Software Testing Summer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1697764645,
+        "date_posted": 1697729268,
+        "url": "https://boards.greenhouse.io/twosixtechnologies/jobs/4992907004",
+        "locations": [
+            "Arlington, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Two-Six-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
