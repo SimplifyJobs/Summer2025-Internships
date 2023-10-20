@@ -32925,5 +32925,26 @@
         "date_posted": 1697838698,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1697838771,
+        "url": "https://app.ripplematch.com/v2/public/job/5ac02637/details?from_page=company_branded_page",
+        "company_name": "eBay",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "San Jose, CA",
+            "Bellevue, WA",
+            "New York, NY"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "rygeorge",
+        "id": "8b3d6b96-b4e4-4a6b-b28e-4a17e1a0140e",
+        "date_posted": 1697838771,
+        "company_url": "",
+        "is_visible": true
     }
 ]
