@@ -9569,7 +9569,7 @@
         "company_name": "Cambly",
         "id": "1e0b9d44-937c-4a7b-b01b-15fbb7c0a0e8",
         "title": "Software Engineering Internship - Summer 2024",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -17278,7 +17278,7 @@
         "company_name": "Capital One",
         "id": "d56af935-d991-4e6a-87a5-5dc697918a03",
         "title": "Technology Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -19788,7 +19788,7 @@
         "company_name": "T.Rowe Price",
         "id": "a27bc46e-84da-4b1c-b430-135b3dc9a1b2",
         "title": "2024 Software Engineering Internship Program",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -24964,7 +24964,7 @@
         "company_name": "84.51 Degrees",
         "id": "b2223549-ee20-4080-ab2f-70a2b7698fbf",
         "title": "Software Engineer \u2013 Co-op Program - Spring 2024",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2024"
         ],
@@ -27792,7 +27792,7 @@
         "company_name": "Ontario Teachers' Pension Plan",
         "id": "4d4801d6-818a-457f-8a72-98c9ddaad89c",
         "title": "Intern \u2013 Trading Floor Risk Analyst - Fall 2024 - Month term",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2024"
         ],
@@ -28703,7 +28703,7 @@
         "company_name": "Cohere Health",
         "id": "987ca5b1-00cf-48d2-91f3-40fae7eda29a",
         "title": "Data Science Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -29877,7 +29877,7 @@
         "company_name": "Locus Robotics",
         "id": "f22eaa56-c8a7-4203-a822-7ac834f78e3b",
         "title": "Software Engineer Intern - ML / Perception",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -30493,7 +30493,7 @@
         "company_name": "FanDuel",
         "id": "6035e90b-8583-4f45-8e61-849e6ecaff9d",
         "title": "Commercial Strategy Internship - Dfs - Summer 2024",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -30531,7 +30531,7 @@
         "company_name": "FanDuel",
         "id": "0b8c18a6-1afe-4374-8798-12f29a669eb5",
         "title": "Commercial Strategy Internship - Dfs - Summer 2024",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -32333,7 +32333,7 @@
         "company_name": "Beacon Platform",
         "id": "59cccdd4-0cd7-4b9d-b20a-c8afaff47ce3",
         "title": "Integrations Engineer \u2013 Summer Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -32390,7 +32390,7 @@
         "company_name": "Beacon Platform",
         "id": "803af091-0165-4323-b354-04a514998187",
         "title": "Foundations Engineer \u2013 Summer Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -32696,7 +32696,7 @@
         "company_name": "Crowdstrike",
         "id": "cbb6ce6f-a268-4242-a3f6-3496894c52e7",
         "title": "Software Engineer Intern - Summer 2024 - Remote",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -33080,5 +33080,218 @@
         "date_posted": 1697839246,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "OCC",
+        "id": "d47ab259-1a4a-44ad-a9aa-3ace8501ac4a",
+        "title": "Year-Round Intern - UI/UX",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1697844853,
+        "date_posted": 1697844853,
+        "url": "https://theocc.wd5.myworkdayjobs.com/careers/job/Chicago---125-S-Franklin/Year-Round-Intern---UI-UX_REQ-3498",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/OptionsClearingCorporation",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Global Atlantic Financial Group",
+        "id": "042b8387-629e-4d9b-be7c-af0b3de05ec5",
+        "title": "2024 Investments & Risk Technology Intern",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1697844859,
+        "date_posted": 1697844859,
+        "url": "https://boards.greenhouse.io/gainternships/jobs/5406894",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/GlobalAtlantic",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "HashiCorp",
+        "id": "ec8bca34-d553-4535-a332-c1c1a40b5750",
+        "title": "Cloud Support Intern - Undergraduate",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1697844726,
+        "date_posted": 1697844726,
+        "url": "https://www.hashicorp.com/career/5319663?gh_jid=5319663",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/HashiCorp",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Locus Robotics",
+        "id": "8e7f9327-1ef7-490a-bf34-8675d08331f7",
+        "title": "Simulation Developer Intern - Spring 2024",
+        "active": true,
+        "terms": [
+            "Spring 2024"
+        ],
+        "date_updated": 1697844243,
+        "date_posted": 1697844243,
+        "url": "https://jobs.smartrecruiters.com/LocusRobotics/743999938549115",
+        "locations": [
+            "Stillwater, OK",
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/LocusRobotics",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Guidewire",
+        "id": "1cc1e814-bf7c-49ac-bb98-e31f5b712d47",
+        "title": "Machine Learning Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1697844197,
+        "date_posted": 1697844197,
+        "url": "https://jobs.lever.co/guidewire/b8768601-a37f-4170-85fa-36100ea059c1/apply",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Guidewire",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Torc Robotics",
+        "id": "b30178ca-1784-4381-8f71-26c0e53b415d",
+        "title": "Motion Estimation Internship - Masters Degree",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1697843979,
+        "date_posted": 1697843979,
+        "url": "https://boards.greenhouse.io/torcrobotics/jobs/6869782002",
+        "locations": [
+            "Blacksburg, VA",
+            "Austin, TX",
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Torc-Robotics",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "NVIDIA",
+        "id": "472aa166-accb-4282-aac2-47fd686c06ee",
+        "title": "Digital Marketing Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1697843837,
+        "date_posted": 1697843837,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/UK-Reading/Digital-Marketing-Intern_JR1973956",
+        "locations": [
+            "Reading, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "NVIDIA",
+        "id": "8333b73b-d88a-4ecb-85bd-7a743b6dc31a",
+        "title": "MBA 2024 Internships: Product Management - Marketing - Finance and Operations",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1697843836,
+        "date_posted": 1697843836,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/MBA-2024-Internships--Product-Management--Marketing--Finance-and-Operations_JR1974403",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Alchemy",
+        "id": "e2ce5fc8-c368-4a87-b196-3bf803084143",
+        "title": "Engineering Internship - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1697843178,
+        "date_posted": 1697843178,
+        "url": "https://boards.greenhouse.io/alchemy/jobs/4330442005",
+        "locations": [
+            "SF",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Alchemy",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "OCC",
+        "id": "6cc65b6b-61c0-4ca2-8a43-39b7aebebe6d",
+        "title": "Year-Round Intern - Security Engineering PAM",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1697843168,
+        "date_posted": 1697843168,
+        "url": "https://theocc.wd5.myworkdayjobs.com/careers/job/Chicago---125-S-Franklin/Year-Round-Intern---Security-Engineering-PAM_REQ-3492-1",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/OptionsClearingCorporation",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "OCC",
+        "id": "08f29f1b-1e01-48c9-a6d0-46cabdfe5113",
+        "title": "Year-Round Intern - Enterprise Delivery Governance - Edg - Analyst",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1697843166,
+        "date_posted": 1697843166,
+        "url": "https://theocc.wd5.myworkdayjobs.com/careers/job/Chicago---125-S-Franklin/Year-Round-Intern---Enterprise-Delivery-Governance--EDG--Analyst_REQ-3490",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/OptionsClearingCorporation",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
