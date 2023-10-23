@@ -33481,5 +33481,24 @@
         "date_posted": 1698084452,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1698084500,
+        "url": "https://careers.blizzard.com/global/en/job/R021281/2024-US-Summer-Internship-UI-UX-Design",
+        "company_name": "Blizzard Entertainment",
+        "title": "2024 US Summer Internship - UI/UX Design",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "rygeorge",
+        "id": "5f812283-bba0-435d-989d-d9094a3c620e",
+        "date_posted": 1698084500,
+        "company_url": "",
+        "is_visible": true
     }
 ]
