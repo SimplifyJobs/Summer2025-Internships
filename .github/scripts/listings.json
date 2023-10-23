@@ -5861,7 +5861,7 @@
         "sponsorship": "U.S. Citizenship is Required"
     },
     {
-        "date_updated": 1691035200,
+        "date_updated": 1698083599,
         "url": "https://careers.skyworksinc.com/job/Hillsboro-AI-Engineering-Intern-OR-97006/1050573100/",
         "company_name": "Skyworks",
         "title": "AI Engineering Intern",
@@ -5871,13 +5871,13 @@
         "terms": [
             "Summer 2024"
         ],
-        "active": true,
+        "active": false,
         "source": "hemanthy1",
         "id": "f02f97fd-7982-4d1a-b0b6-3fee1b29ba27",
         "date_posted": 1691035200,
         "company_url": "",
         "is_visible": true,
-        "sponsorship": "Offers Sponsorship"
+        "sponsorship": "Other"
     },
     {
         "date_updated": 1693854270,
