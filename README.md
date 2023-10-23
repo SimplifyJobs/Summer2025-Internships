@@ -1330,7 +1330,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | ↳ | Deployment Engineer Intern | Oklahoma City, OK | 🔒 | May 2023 |
 | Sensata Technologies | Software Engineer Intern | Attleboro, MA | 🔒 | May 2023 |
 | Northrop Grumman | Software Engineer Intern  🇺🇸 | Redondo Beach, CA | 🔒 | May 2023 |
-| PwC | Digital Assurance & Transparency Technology Intern | Multiple Locations | <a href="https://jobs.us.pwc.com/job/atlanta/digital-assurance-and-transparency-dat-tech-intern-summer-2024/932/51608860064?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 2023 |
+| PwC | Digital Assurance & Transparency Technology Intern | Multiple Locations | 🔒 | May 2023 |
 | ↳ | Digital Assurance & Transparency Data Science Intern | Multiple Locations | 🔒 | May 2023 |
 | Zurich | Internship Program  🛂 | Multiple Locations | <a href="https://www.careers.zurich.com/job/Schaumburg-Zurich-North-America-Summer-Internship-Program-%282024%29-IL-60159/774993902/?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 2023 |
 | Rocket Lab | Software Engineer Intern  🇺🇸 | Multiple Locations | <a href="https://boards.greenhouse.io/rocketlab/jobs/5679154003?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 2023 |
