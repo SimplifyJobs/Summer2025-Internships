@@ -33442,5 +33442,26 @@
         "date_posted": 1698083878,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1698084281,
+        "url": "https://app.ripplematch.com/v2/public/job/832b2d10/details",
+        "company_name": "eBay",
+        "title": "Technical Product Manager Intern",
+        "locations": [
+            "San Jose, CA",
+            "Bellevue, WA",
+            "New York, NY"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "mtlogs",
+        "id": "0df9dfb8-8a2b-4afd-a03b-8678e94fbabe",
+        "date_posted": 1698084281,
+        "company_url": "",
+        "is_visible": true
     }
 ]
