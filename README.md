@@ -796,7 +796,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | **[Seatgeek](https://simplify.jobs/c/SeatGeek)** | Software Engineer – Internship | New York | 🔒 | Sep 01 |
 | ↳ | Software Engineer – Internship | Remote | 🔒 | Sep 01 |
 | **[Riot Games](https://simplify.jobs/c/Riot-Games)** | Software Engineering Intern 🛂 | Los Angeles, USA | <a href="https://www.riotgames.com/en/work-with-us/job/5330414/software-engineering-intern-los-angeles-usa?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 01 |
-| Parsons | Software Development Intern 🛂 | Saint Louis, MO</br>US - Remote | <a href="https://jobs.parsons.com/job/18988955/software-development-intern-summer-2024-remote/?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 01 |
+| Parsons | Software Development Intern 🛂 | Saint Louis, MO</br>US - Remote | 🔒 | Sep 01 |
 | **[Oshkosh](https://simplify.jobs/c/Oshkosh)** | AI/ Autonomy Engineering Internship | Hagerstown, MD | 🔒 | Sep 01 |
 | **[MongoDB](https://simplify.jobs/c/MongoDB)** | 2024 - Software Engineering Intern, Product | <details><summary>**4 locations**</summary>Austin, TX</br>San Francisco, CA</br>New York, NY</br>Seattle, WA</details> | <a href="https://app.ripplematch.com/v2/public/job/e52e0bcd/details?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 01 |
 | **[Intel](https://simplify.jobs/c/Intel)** | Software Development-Undergraduate Intern 🛂 | <details><summary>**4 locations**</summary>Santa Clara, CA</br>Hillsboro, OR</br>Folsom, CA</br>Phoenix, AZ</details> | 🔒 | Sep 01 |
