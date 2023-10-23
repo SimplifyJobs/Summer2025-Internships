@@ -61,7 +61,8 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
-| **[Lyft](https://simplify.jobs/c/Lyft)** | UX Research Intern | San Francisco, CA | <a href="https://app.careerpuck.com/job-board/lyft/job/6979428002?gh_jid=6979428002&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 23 |
+| **[Lyft](https://simplify.jobs/c/Lyft)** | Product Design Intern | San Francisco, CA | <a href="https://app.careerpuck.com/job-board/lyft/job/6979418002?gh_jid=6979418002&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 23 |
+| ↳ | UX Research Intern | San Francisco, CA | <a href="https://app.careerpuck.com/job-board/lyft/job/6979428002?gh_jid=6979428002&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 23 |
 | Keysight Technologies | Software Developer Internship 🛂 | Santa Rosa, CA | <a href="https://careers-keysight.icims.com/jobs/13706/software-developer-internship/job?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 23 |
 | ↳ | Full Stack Software Development Internship 🛂 | Colorado Springs, CO | <a href="https://careers-keysight.icims.com/jobs/13651/full-stack-software-development-internship/job?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 23 |
 | ↳ | Full Stack Software Development Internship 🛂 | Colorado Springs, CO | <a href="https://careers-keysight.icims.com/jobs/13650/full-stack-software-development-internship/job?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 23 |

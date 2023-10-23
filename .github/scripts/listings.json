@@ -33500,5 +33500,24 @@
         "date_posted": 1698084500,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1698084630,
+        "url": "https://app.careerpuck.com/job-board/lyft/job/6979418002?gh_jid=6979418002",
+        "company_name": "Lyft",
+        "title": "Product Design Intern",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "rygeorge",
+        "id": "ae4b4629-27fb-4358-83f3-ec1280206730",
+        "date_posted": 1698084630,
+        "company_url": "",
+        "is_visible": true
     }
 ]
