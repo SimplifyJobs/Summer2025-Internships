@@ -33557,5 +33557,24 @@
         "date_posted": 1698085019,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1698085036,
+        "url": "https://careers-keysight.icims.com/jobs/13765/machine-learning-engineering-internship/job",
+        "company_name": "Keysight Technologies",
+        "title": "Machine Learning Engineering Internship",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "MJFree34",
+        "id": "56140e09-bd24-45a0-b903-8b4bb3e0d1ad",
+        "date_posted": 1698085036,
+        "company_url": "",
+        "is_visible": true
     }
 ]
