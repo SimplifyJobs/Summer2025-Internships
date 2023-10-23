@@ -8249,7 +8249,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1692036104,
+        "date_updated": 1698084896,
         "url": "https://recruiting.ultipro.com/PHI1009PHED/JobBoard/d8224c32-ade8-4917-8a97-3ea2d4094e2d/OpportunityDetail?opportunityId=70d18b2e-546d-4fb7-90a5-de41eedf2ead",
         "company_name": "Phillip Edison",
         "title": "Information Technology Intern (Cybersecurity) - Sponsorship requirement unknown",
@@ -8260,7 +8260,7 @@
             "Summer 2024"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "possibly-AA9",
         "id": "701ecabf-bbf9-4ff3-a57c-7ae288e9ff2f",
         "date_posted": 1692036104,
