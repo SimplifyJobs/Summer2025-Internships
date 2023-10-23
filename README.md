@@ -1259,7 +1259,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | D.E. Shaw | Software Development Intern | NYC | <a href="https://www.deshaw.com/careers/software-developer-intern-new-york-summer-2024-4803?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 2023 |
 | ↳ | Systems Technical Program Manager Intern | NYC | <a href="https://www.deshaw.com/careers/systems-technical-program-manager-intern-new-york-summer-2024-4786?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 2023 |
 | ↳ | Systems Administrator Intern | NYC | <a href="https://www.deshaw.com/careers/systems-administrator-intern-new-york-summer-2024-4782?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 2023 |
-| ↳ | Systems Technologist Intern | NYC | <a href="https://www.deshaw.com/careers/systems-technologist-intern-new-york-summer-2024-4785?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 2023 |
+| ↳ | Systems Technologist Intern | NYC | 🔒 | Jul 2023 |
 | New York Life | 2024 Technology Summer Internship Program | NYC | 🔒 | Jul 2023 |
 | Johnson & Johnson | Technology Summer Intern  🛂 | Multiple Locations | <a href="https://jobs.jnj.com/en/jobs/2306128806w/technology-internship-2024-summer-jjt-intern/?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 2023 |
 | Google | Software Engineering Intern (BS) | Multiple US Locations | 🔒 | Jul 2023 |
