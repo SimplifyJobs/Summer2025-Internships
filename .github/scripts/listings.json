@@ -33576,5 +33576,24 @@
         "date_posted": 1698085036,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1698085065,
+        "url": "https://careers-keysight.icims.com/jobs/13796/software-development-internship/job",
+        "company_name": "Keysight Technologies",
+        "title": "Software Development Internship",
+        "locations": [
+            "Colorado Springs, CO"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "MJFree34",
+        "id": "8c8d88f2-1e8b-4e8a-b3f1-47d2e8aea591",
+        "date_posted": 1698085065,
+        "company_url": "",
+        "is_visible": true
     }
 ]
