@@ -33519,5 +33519,24 @@
         "date_posted": 1698084630,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1698084853,
+        "url": "https://careers-keysight.icims.com/jobs/13594/software-digital-transformation-internship/job",
+        "company_name": "Keysight Technologies",
+        "title": "Software Digital Transformation Internship",
+        "locations": [
+            "Santa Rosa, CA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "MJFree34",
+        "id": "fbf1e502-ca59-4066-a829-ae47d01d20f8",
+        "date_posted": 1698084853,
+        "company_url": "",
+        "is_visible": true
     }
 ]
