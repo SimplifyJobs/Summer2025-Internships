@@ -33423,5 +33423,24 @@
         "date_posted": 1698083861,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1698083878,
+        "url": "https://careers-keysight.icims.com/jobs/13706/software-developer-internship/job",
+        "company_name": "Keysight Technologies",
+        "title": "Software Developer Internship",
+        "locations": [
+            "Santa Rosa, CA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "MJFree34",
+        "id": "84bf10b6-924c-4c2b-b913-251384d28493",
+        "date_posted": 1698083878,
+        "company_url": "",
+        "is_visible": true
     }
 ]
