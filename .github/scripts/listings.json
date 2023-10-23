@@ -6444,7 +6444,7 @@
         "company_name": "Point72",
         "id": "180bd680-96fb-4069-a847-daf86d11d550",
         "title": "2024 Summer Internship - Data Scientist - Proprietary Research",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -6463,7 +6463,7 @@
         "company_name": "Point72",
         "id": "e738af7e-485d-4322-95e7-75ddb0ab0420",
         "title": "2024 Summer Internship - Data Engineer - Proprietary Research",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -14847,7 +14847,7 @@
         "company_name": "CACI",
         "id": "eb8ae481-79cc-46f5-8e35-4825d8433184",
         "title": "Signal Processing and Data Analysis Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -19785,7 +19785,7 @@
         "company_name": "T.Rowe Price",
         "id": "a27bc46e-84da-4b1c-b430-135b3dc9a1b2",
         "title": "2024 Software Engineering Internship Program",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -32061,7 +32061,7 @@
         "company_name": "Autodesk",
         "id": "6d45ab4b-52be-43e1-9862-99d4cc0262bd",
         "title": "Intern \u2013 Machine Learning Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024",
             "Summer 2024",
@@ -32178,7 +32178,7 @@
         "company_name": "Intel",
         "id": "8f20c43f-0337-40f0-9b23-9e9b5bdadc56",
         "title": "Foundational AI Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
