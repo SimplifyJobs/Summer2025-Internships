@@ -33595,5 +33595,25 @@
         "date_posted": 1698085065,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1698085141,
+        "url": "https://careers-keysight.icims.com/jobs/13769/product-designer-%28ui-ux%29-internship/job",
+        "company_name": "Keysight Technologies",
+        "title": "Product Designer (UI/UX) Internship",
+        "locations": [
+            "Sacramento, CA",
+            "Santa Rosa, CA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "MJFree34",
+        "id": "57970042-73c6-4ed3-b87a-2fdc835063a5",
+        "date_posted": 1698085141,
+        "company_url": "",
+        "is_visible": true
     }
 ]
