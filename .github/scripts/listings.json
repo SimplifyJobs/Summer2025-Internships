@@ -33366,5 +33366,24 @@
         "company_url": "https://simplify.jobs/c/Zipline",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1698083820,
+        "url": "https://careers-keysight.icims.com/jobs/13589/software-engineering-internship-%28iot%29/job",
+        "company_name": "Keysight Technologies",
+        "title": "Software Development Internship",
+        "locations": [
+            "Colorado Springs, CO"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "MJFree34",
+        "id": "e362566f-3446-456c-9374-05e8a89a77bf",
+        "date_posted": 1698083820,
+        "company_url": "",
+        "is_visible": true
     }
 ]
