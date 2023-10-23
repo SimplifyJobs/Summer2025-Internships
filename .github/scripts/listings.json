@@ -33462,5 +33462,24 @@
         "date_posted": 1698084281,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1698084452,
+        "url": "https://app.careerpuck.com/job-board/lyft/job/6979428002?gh_jid=6979428002",
+        "company_name": "Lyft",
+        "title": "UX Research Intern",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "rygeorge",
+        "id": "86945d6f-e724-4110-8a85-3f07a1869ee3",
+        "date_posted": 1698084452,
+        "company_url": "",
+        "is_visible": true
     }
 ]
