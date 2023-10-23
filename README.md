@@ -889,7 +889,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | **[Tombras](https://simplify.jobs/c/Tombras)** | Analytics Intern | Knoxville, TN | 🔒 | Aug 27 |
 | **[Ursa Major](https://simplify.jobs/c/UrsaMajor)** | 2024 Summer Avionics Software Engineer Internship 🇺🇸 | Loveland, CO | 🔒 | Aug 26 |
 | BNSF | Technology Services Intern 🛂 | Fort Worth, TX | <a href="https://jobs.bnsf.com/us/en/job/90821/Technology-Services-Summer-Intern-2024?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 26 |
-| ↳ | Network Control Systems Intern 🛂 | Fort Worth, TX | <a href="https://jobs.bnsf.com/us/en/job/90748/Engineering-Network-Control-Systems-Summer-Intern-2024-Paid?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 26 |
+| ↳ | Technology Services Intern 🛂 | Fort Worth, TX | 🔒 | Aug 26 |
 | **[TS Imagine](https://simplify.jobs/c/TSImagine)** | Data Management Intern	 | London, UK | 🔒 | Aug 25 |
 | ↳ | Financial Technology Intern | London, UK | 🔒 | Aug 25 |
 | ↳ | Desktop Support Intern | London, UK | 🔒 | Aug 25 |
