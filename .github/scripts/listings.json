@@ -33615,5 +33615,24 @@
         "date_posted": 1698085141,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1698085160,
+        "url": "https://careers-keysight.icims.com/jobs/13711/software-engineering-intern-%28ui-libraries%29/job",
+        "company_name": "Keysight Technologies",
+        "title": "Software Developer Internship",
+        "locations": [
+            "Santa Rosa, CA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "MJFree34",
+        "id": "74a349be-5df5-48ba-88db-11386dbdad1f",
+        "date_posted": 1698085160,
+        "company_url": "",
+        "is_visible": true
     }
 ]
