@@ -1260,7 +1260,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | Deloitte | Software Engineer Intern - Technology Assets | Multiple Locations | 🔒 | Jul 2023 |
 | ↳ | Software Engineer Intern - Digital Assets/Blockchain | Multiple Locations | 🔒 | Jul 2023 |
 | **[Palantir](https://simplify.jobs/c/Palantir)** | Palantir Path Internship | Washington, DC | 🔒 | Jul 2023 |
-| Capstone Investment Advisors | Software Engineer Intern | NYC | 🔒 | Jul 2023 |
 | GE Aerospace | Digital Technology Intern | Multiple US Locations | <a href="https://ge.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/GE-Aerospace-US-Digital-Technology-Intern---Summer-2024_R3718425-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 2023 |
 | ↳ | Engineering Engines Computer or Software Engineering Intern | Multiple US Locations | <a href="https://ge.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/GE-Aerospace-Engineering-Engines-Computer-or-Software-Engineering-Intern---Summer-2024_R3726060?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 2023 |
 | ↳ | Systems Engineering Intern | Multiple US Locations | <a href="https://ge.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/GE-Aerospace-Systems-Engineering-Intern---Summer-2024_R3696296-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 2023 |
