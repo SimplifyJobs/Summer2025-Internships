@@ -33385,5 +33385,24 @@
         "date_posted": 1698083820,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1698083843,
+        "url": "https://careers-keysight.icims.com/jobs/13650/full-stack-software-development-internship/job",
+        "company_name": "Keysight Technologies",
+        "title": "Full Stack Software Development Internship",
+        "locations": [
+            "Colorado Springs, CO"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "MJFree34",
+        "id": "563e1eeb-111c-4e9f-b850-55b767a780a7",
+        "date_posted": 1698083843,
+        "company_url": "",
+        "is_visible": true
     }
 ]
