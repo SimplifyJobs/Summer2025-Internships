@@ -8871,7 +8871,7 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1692230527,
+        "date_updated": 1698084799,
         "url": "https://aexp.eightfold.ai/careers/job/17434998",
         "company_name": "American Express",
         "title": "Software Engineering Intern",
@@ -8882,7 +8882,7 @@
             "Summer 2024"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "TNGO04",
         "id": "09164286-8e48-4fca-a068-50162b04e0b9",
         "date_posted": 1692230527,

@@ -997,7 +997,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | Mastercard | Software Engineer Intern | O'Fallon, MO</br>Atlanta, GA</br>Salt Lake City, UT | 🔒 | Aug 16 |
 | **[Leidos](https://simplify.jobs/c/Leidos)** | Software Engineer Intern | Aurora, CO</br>Chantilly, VA | 🔒 | Aug 16 |
 | **[Jump Trading](https://simplify.jobs/c/Jump-Trading)** | Campus UI Software Engineer – Intern | Chicago, IL | <a href="https://www.jumptrading.com/careers/5281473?gh_jid=5281473&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/29c090c4-e5fa-4643-89d5-f00f0915f6c6?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Aug 16 |
-| American Express | Software Engineering Intern | Phoenix, AZ | <a href="https://aexp.eightfold.ai/careers/job/17434998?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 16 |
+| American Express | Software Engineering Intern | Phoenix, AZ | 🔒 | Aug 16 |
 | **[Allegion](https://simplify.jobs/c/allegion)** | Summer Intern - Quality Engineering | Carmel, IN | 🔒 | Aug 16 |
 | WWT | Internship - 2024 | Maryland Heights | <a href="https://recruiting.adp.com/srccar/public/RTI.home?r=5000976828200&c=2166501&d=WWTExternalCareerSite&rb=SIMPLIFY#/&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 15 |
 | **[Walmart](https://simplify.jobs/c/Walmart)** | 2023 Walmart Intern Conversion: 2024 Return Intern Software Engineer II - Sunnyvale - CA | Sunnyvale, CA | 🔒 | Aug 15 |
