@@ -326,22 +326,21 @@
     {
         "company_name": "BTIG",
         "locations": [
-            "NYC",
-            "SF"
+            "NYC SF"
         ],
-        "title": "Internship Program ",
+        "title": "Internship Program \ud83d\udec2",
         "date_posted": 1684555200,
         "terms": [
             "Summer 2024"
         ],
-        "active": true,
+        "active": false,
         "url": "https://boards.greenhouse.io/btig27/jobs/6743060002",
-        "is_visible": true,
+        "is_visible": false,
         "source": "Markdown",
         "company_url": "",
-        "date_updated": 1690430400,
+        "date_updated": 1698045755,
         "id": "95411fb3-8e62-4669-a456-9e6939d73e75",
-        "sponsorship": "Does Not Offer Sponsorship"
+        "sponsorship": "Other"
     },
     {
         "company_name": "Zurich",
