@@ -326,19 +326,19 @@
     {
         "company_name": "BTIG",
         "locations": [
-            "NYC SF"
+            "Multiple Locations"
         ],
-        "title": "Internship Program \ud83d\udec2",
+        "title": "Software Engineer Intern",
         "date_posted": 1684555200,
         "terms": [
             "Summer 2024"
         ],
         "active": false,
         "url": "https://boards.greenhouse.io/btig27/jobs/6743060002",
-        "is_visible": false,
+        "is_visible": true,
         "source": "Markdown",
         "company_url": "",
-        "date_updated": 1698045755,
+        "date_updated": 1698084836,
         "id": "95411fb3-8e62-4669-a456-9e6939d73e75",
         "sponsorship": "Other"
     },
