@@ -9838,7 +9838,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1692555166,
+        "date_updated": 1698084376,
         "url": "https://jobs.thecignagroup.com/us/en/job/CIGNUS23015032EXTERNALENUS/Technology-Development-Program-TECDP-Summer-Intern-2024-Evernorth",
         "company_name": "The Cigna Group",
         "title": "Technology Development Program (TECDP) Summer Internship",
@@ -9848,15 +9848,14 @@
             "Bloomington, MN",
             "Denver, CO",
             "Morris Plains, NJ",
-            "Nashville, TN",
-            "Philadelphia, PA",
+            "Nashville, TN Philadelphia, PA",
             "St. Louis, MO"
         ],
         "terms": [
             "Summer 2024"
         ],
-        "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "mtlogs",
         "id": "6e2e84e5-b550-4e3d-bdeb-59e18e227630",
         "date_posted": 1692555166,
