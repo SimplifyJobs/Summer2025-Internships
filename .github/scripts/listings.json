@@ -23110,10 +23110,10 @@
         "is_visible": true
     },
     {
-        "date_updated": 1695488921,
+        "date_updated": 1698084537,
         "url": "https://starbucks.taleo.net/careersection/1000222intern/jobdetail.ftl?job=230066246&tz=GMT-05:00&tzname=America/Chicago",
         "company_name": "Starbucks",
-        "title": "Software Engineering Intern",
+        "title": "Software Engineer, Intern - Summer 2024",
         "locations": [
             "Seattle"
         ],
@@ -23121,7 +23121,7 @@
             "Summer 2024"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "VitaliPri",
         "id": "218cebd0-d674-42c4-afe8-77137d92905e",
         "date_posted": 1695488921,

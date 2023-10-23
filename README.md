@@ -446,7 +446,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | **[Atlassian](https://simplify.jobs/c/Atlassian)** | Associate Product Management Intern, 2024 Summer U.S. 🛂 | San Francisco, CA</br>Remote, USA | <a href="https://www.atlassian.com/company/careers/details/10623?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 24 |
 | **[Arine](https://simplify.jobs/c/Arine)** | Full Stack Engineer Intern | SF</br>Remote in USA | 🔒 | Sep 24 |
 | **[Zipline](https://simplify.jobs/c/Zipline)** | Flight Routes Software Engineering Intern Spring/Summer 2024 | San Bruno, CA | 🔒 | Sep 23 |
-| Starbucks | Software Engineering Intern | Seattle | <a href="https://starbucks.taleo.net/careersection/1000222intern/jobdetail.ftl?job=230066246&tz=GMT-05:00&tzname=America/Chicago&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 23 |
+| Starbucks | Software Engineer, Intern - Summer 2024 | Seattle | 🔒 | Sep 23 |
 | NIKE | Nike Software Engineer Undergraduate Intern | Beaverton, Oregon | 🔒 | Sep 23 |
 | **[Zocdoc](https://simplify.jobs/c/Zocdoc)** | Software Engineering Summer Internship | NYC | 🔒 | Sep 22 |
 | **[Tutor Intelligence](https://simplify.jobs/c/TutorIntelligence)** | Software Engineering Intern | Cambridge, MA | 🔒 | Sep 22 |
