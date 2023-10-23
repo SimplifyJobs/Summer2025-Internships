@@ -23630,7 +23630,7 @@
         "is_visible": false
     },
     {
-        "date_updated": 1695908147,
+        "date_updated": 1698084555,
         "url": "https://boards.greenhouse.io/grammarly/jobs/5396077?gh_src=0bb770131",
         "company_name": "Grammarly",
         "title": "Software Engineering Intern",
@@ -23641,8 +23641,8 @@
         "terms": [
             "Summer 2024"
         ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "KathyJDev",
         "id": "9fa6f1c9-ff6e-4137-b06d-60ad46c16828",
         "date_posted": 1695908147,
