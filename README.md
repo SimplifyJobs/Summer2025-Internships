@@ -560,7 +560,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | ↳ | Software Developer Intern 🇺🇸 | Eagan, MN | 🔒 | Sep 18 |
 | ↳ | Software Engineer Co-op | King of Prussia, PA | 🔒 | Sep 18 |
 | ↳ | Systems Engineer Intern 🇺🇸 | Arlington, VA | 🔒 | Sep 18 |
-| Google | Associate Product Manager Intern | <details><summary>**4 locations**</summary>San Bruno, CA</br>San Francisco, CA</br>USA Mountain View, CA</br>New York, NY</details> | <a href="https://www.google.com/about/careers/applications/jobs/results/76457290250494662-associate-product-manager-intern-summer-2024?src=Online%2FGoogle%20Website%2FByF&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 18 |
+| Google | Associate Product Manager Intern | <details><summary>**4 locations**</summary>San Bruno, CA</br>San Francisco, CA</br>USA Mountain View, CA</br>New York, NY</details> | 🔒 | Sep 18 |
 | **[Epic Games](https://simplify.jobs/c/Epic-Games)** | Backend Engineer Intern | Morrisville, NC | 🔒 | Sep 18 |
 | **[Cowen](https://simplify.jobs/c/TD-Cowen)** | 2024 Markets Summer Analyst Program | NYC | 🔒 | Sep 18 |
 | **[Chicago Trading Company](https://simplify.jobs/c/ChicagoTradingCo)** | Quant Trading Analyst Internship - Summer 2024 | London, UK | <a href="https://boards.greenhouse.io/chicagotradingcampus/jobs/4299698005?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/2e3acd2e-6d09-4d2f-a860-efba489b5d15?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Sep 18 |
