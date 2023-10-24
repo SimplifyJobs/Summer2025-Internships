@@ -33851,5 +33851,28 @@
         "company_url": "https://simplify.jobs/c/Intel",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1698174160,
+        "url": "https://www.esri.com/careers/software-development-internships-19149",
+        "company_name": "Esri",
+        "title": "Software Development Internships",
+        "locations": [
+            "Redlands, CA",
+            "Vienna, VA",
+            "Arlington, VA",
+            "Portland, ME",
+            "Portland, OR"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "MJFree34",
+        "id": "21985018-65ba-45fd-aecb-c53f0c8d3fe4",
+        "date_posted": 1698174160,
+        "company_url": "",
+        "is_visible": true
     }
 ]
