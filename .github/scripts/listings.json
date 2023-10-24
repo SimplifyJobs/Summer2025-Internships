@@ -24523,7 +24523,7 @@
         "company_name": "Lucid Motors",
         "id": "7a4720d3-05ff-4cea-bd40-67d33f0c9557",
         "title": "Intern \u2013 Software Tools - Diagnostic Systems - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -32751,7 +32751,7 @@
         "company_name": "Two Six Technologies",
         "id": "f6e1fd22-bb96-4dec-a10e-85096abfc847",
         "title": "Software Testing Summer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -33830,6 +33830,25 @@
             "Boulder, CO"
         ],
         "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Intel",
+        "id": "04ad12dd-5852-4a2f-835d-d3c62be035d9",
+        "title": "Graphics Hardware Engineer / Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1698160638,
+        "date_posted": 1698160638,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/Virtual-Poland/Graphics-Hardware-Engineer---Intern_JR0251004",
+        "locations": [
+            "Remote"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
         "is_visible": true,
         "sponsorship": "Other"
     }
