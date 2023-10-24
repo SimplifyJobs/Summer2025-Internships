@@ -16383,7 +16383,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1694148244,
+        "date_updated": 1698118488,
         "url": "https://mycareer.verizon.com/jobs/r-1014359/network-automation-summer-2024-internship/",
         "company_name": "Verizon",
         "title": "Network Automation Summer 2024 Internship",
@@ -16396,8 +16396,8 @@
         "terms": [
             "Summer 2024"
         ],
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "j0hnxie",
         "id": "bd40760a-f3bc-44ca-a50e-cc934ea626b7",
         "date_posted": 1694148244,
