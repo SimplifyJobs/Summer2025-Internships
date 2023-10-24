@@ -24,7 +24,7 @@
         "company_name": "Akuna Capital",
         "id": "0b82dc72-56a8-4fc9-aae5-c008f6da0b02",
         "title": "Trading Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -6891,7 +6891,7 @@
         "company_name": "Garda Capital Partners",
         "id": "d1bc12bf-bb73-4381-b65e-edd90a714047",
         "title": "Quantitative Development Intern - Rates",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -7944,7 +7944,7 @@
         "company_name": "Verkada",
         "id": "a62ee1c7-57bc-4da9-bbb2-814d87facd5a",
         "title": "Android Engineering Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -19517,7 +19517,7 @@
         "company_name": "Walmart",
         "id": "93559ecd-fe26-4496-b2af-de07f53e6796",
         "title": "2024 Summer Intern: Master's Sam's Club Supply Chain Data Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -20092,7 +20092,7 @@
         "company_name": "DV Trading",
         "id": "d4fa2447-7d01-42e4-864b-5e9f6d0265d5",
         "title": "2024 Summer Internship - Quantitative Researcher",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -22096,7 +22096,7 @@
         "company_name": "Badger Meter",
         "id": "4a22cceb-f022-4227-8cb8-9fb2d2f919a6",
         "title": "Mechanical Data Analysis Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -22416,7 +22416,7 @@
         "company_name": "ReNAgade Therapeutics",
         "id": "0faf57b7-e13e-4927-879d-ace73ccc5ba3",
         "title": "Co-Op Bio Informatics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -26528,7 +26528,7 @@
         "company_name": "Symbotic",
         "id": "7483ed3f-225d-4d51-988a-9c2be6f64c11",
         "title": "Co-op-Software Engineer - UI",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2023",
             "Spring 2024",
@@ -26728,7 +26728,7 @@
         "company_name": "Walmart",
         "id": "c51937d3-f399-4717-a06d-56bc2f80c12a",
         "title": "2024 Summer Intern: Sam's Club MAP - Jr Business Intelligence Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -28522,7 +28522,7 @@
         "company_name": "Branch",
         "id": "a543392a-c12a-4bdb-967a-a2855c969fac",
         "title": "Frontend Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2023"
         ],
@@ -31688,7 +31688,7 @@
         "company_name": "Hewlett Packard (HP)",
         "id": "9bea7eac-0bb7-4c48-8177-98ca06939910",
         "title": "Associate Software Developer \u2013 Co-op position - HP Anyware",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2024"
         ],
@@ -31707,7 +31707,7 @@
         "company_name": "Hewlett Packard (HP)",
         "id": "2f95dc48-d75a-4207-af67-e3ce0d2b7349",
         "title": "Associate Software Developer \u2013 Co-op position - In Test",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2024"
         ],
@@ -31726,7 +31726,7 @@
         "company_name": "Hewlett Packard (HP)",
         "id": "77193977-3ad6-4d03-9bcf-eb67df476c59",
         "title": "Fullstack Application Developer \u2013 Co-op position",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2024"
         ],
@@ -32310,7 +32310,7 @@
         "company_name": "Badger Meter",
         "id": "bac90aa8-475a-47d8-ac4f-8b8786e03971",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -33139,7 +33139,7 @@
         "company_name": "Locus Robotics",
         "id": "8e7f9327-1ef7-490a-bf34-8675d08331f7",
         "title": "Simulation Developer Intern - Spring 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024"
         ],
@@ -33634,5 +33634,182 @@
         "date_posted": 1698085160,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Zoox",
+        "id": "f1bb75e9-db1e-4fdc-a7d9-67e81358c97e",
+        "title": "Digital Signal Processing Internship/Co-op",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1698103843,
+        "date_posted": 1698103843,
+        "url": "https://jobs.lever.co/zoox/1a34f8a1-15ca-4a88-8eee-f7947977396a/apply",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Zoox",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Zoox",
+        "id": "ece9d59c-c6ea-48af-b2fb-3bad905ad3c2",
+        "title": "Motion Planning Cost Development Internship/Co-op",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1698103849,
+        "date_posted": 1698103849,
+        "url": "https://jobs.lever.co/zoox/bb2642c7-aa41-410c-8084-3edcf6418103/apply",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Zoox",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Garda Capital Partners",
+        "id": "119df024-d1de-42c5-a042-ab00810574cb",
+        "title": "Software Engineer Intern - Python",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1698103653,
+        "date_posted": 1698103653,
+        "url": "https://boards.greenhouse.io/gardacp/jobs/4174194004",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Garda-Capital-Partners",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Credit Karma",
+        "id": "e8b50019-b51c-454a-a43c-5b372f508ee3",
+        "title": "Software Engineering Intern - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1698103567,
+        "date_posted": 1698103567,
+        "url": "https://boards.greenhouse.io/creditkarma/jobs/5760872003",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Credit-Karma",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Red Cell Partners",
+        "id": "e858e4b1-1ae5-47d5-b1e4-f53eaea06ed0",
+        "title": "DEFCON Analytics Internship",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1698103531,
+        "date_posted": 1698103531,
+        "url": "https://boards.greenhouse.io/redcellpartners/jobs/4105000007",
+        "locations": [
+            "Remote"
+        ],
+        "company_url": "https://simplify.jobs/c/RedCellPartners",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Pax8",
+        "id": "975b659b-c414-4d1f-b9ff-694a49cbe315",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1698103391,
+        "date_posted": 1698103391,
+        "url": "https://www.pax8.com/en-us/careers/job-openings?gh_jid=5004805004",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Pax8",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Businessolver",
+        "id": "a029ae2d-243a-4a8d-ab3d-8310441dd4f1",
+        "title": "React Native Software Engineering Internship - Work-from-Home",
+        "active": true,
+        "terms": [
+            "Spring 2023"
+        ],
+        "date_updated": 1698102616,
+        "date_posted": 1698102616,
+        "url": "https://www.businessolver.com/careers/openings/?gh_jid=5373505",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Businessolver",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Walmart",
+        "id": "ffa54840-8e18-45cf-9c63-101562ad3a12",
+        "title": "2024 Summer Intern: Data Science - Sam's Club",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1698102353,
+        "date_posted": 1698102353,
+        "url": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-AR-BENTONVILLE-Home-Office-Sams-Home-Office/XMLNAME-2024-Summer-Intern--Data-Science--Sam-s-Club-_R-1710243-1",
+        "locations": [
+            "Bentonville, AR",
+            "Dallas, TX",
+            "Remote in USA",
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Walmart",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Walmart",
+        "id": "b08d0459-0c5c-45f2-9384-3253402deaad",
+        "title": "2024 Summer Intern: Sr. Data Scientist - Sam's Club",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1698102352,
+        "date_posted": 1698102352,
+        "url": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-AR-BENTONVILLE-Home-Office-Sams-Home-Office/XMLNAME-2024-Summer-Intern--Sr-Data-Scientist--Sam-s-Club-_R-1710244-1",
+        "locations": [
+            "Bentonville, AR",
+            "Dallas, TX",
+            "Remote in USA",
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Walmart",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
