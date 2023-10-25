@@ -7367,7 +7367,7 @@
         "company_name": "PayPal",
         "id": "de7f25d2-af21-4fc7-be7f-633e662b4300",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024",
             "Fall 2024"
@@ -17177,7 +17177,7 @@
         "company_name": "Kinaxis",
         "id": "63e0c583-fb70-4d6b-be9d-76b4e9546fae",
         "title": "Co-Op/Intern Developer - Data Server Tools - Back End Technologies",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2024"
         ],
@@ -26528,7 +26528,7 @@
         "company_name": "Symbotic",
         "id": "7483ed3f-225d-4d51-988a-9c2be6f64c11",
         "title": "Co-op-Software Engineer - UI",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023",
             "Spring 2024",
