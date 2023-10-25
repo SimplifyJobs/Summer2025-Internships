@@ -18474,18 +18474,18 @@
         "company_name": "Genesis Therapeutics",
         "id": "74236fd1-563e-4647-acfe-c4a18c881e25",
         "title": "ML Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
-        "date_updated": 1694560711,
+        "date_updated": 1698205262,
         "date_posted": 1694560711,
         "url": "https://jobs.lever.co/genesistherapeutics/2c7e03e2-3789-4c0f-98d9-d1f835963897/apply",
         "locations": [
             "Burlingame, CA"
         ],
         "company_url": "https://simplify.jobs/c/Genesis-Thera",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
