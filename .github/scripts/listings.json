@@ -34249,5 +34249,24 @@
         "date_posted": 1698314097,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1698314339,
+        "url": "https://careers.mitre.org/us/en/job/MITRUSR111766EXTERNALENUS",
+        "company_name": "MITRE",
+        "title": "Internships in Software Engineering or Computer Science",
+        "locations": [
+            "Multiple Locations"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "source": "PresidentSam100",
+        "id": "5dddf1f4-6239-4553-99a6-6da9bcb307c2",
+        "date_posted": 1698314339,
+        "company_url": "",
+        "is_visible": true
     }
 ]
