@@ -16657,7 +16657,7 @@
         "company_name": "Spring Health",
         "id": "01ce30c8-b5f3-4319-b280-6a8b561d0055",
         "title": "Software Engineer Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024",
             "Summer 2024"
@@ -17217,7 +17217,7 @@
         "company_name": "Plastipak",
         "id": "1eaf6c7e-ea40-4408-9a15-58785fb1ad5c",
         "title": "Software Engineering 2024 Summer Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -24484,7 +24484,7 @@
         "company_name": "SambaNova Systems",
         "id": "8589b610-50a5-4024-a8f9-41898f0a301a",
         "title": "Intern \u2013 Software Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2024",
             "Summer 2024"
@@ -27458,7 +27458,7 @@
         "company_name": "Symbotic",
         "id": "d26c38c9-6a64-4bb6-abf7-b291c48f2915",
         "title": "Intern-Robot Perception",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023",
             "Spring 2024",
@@ -30748,7 +30748,7 @@
         "company_name": "SharkNinja",
         "id": "95fd6999-6b22-4af1-8b5c-f304c8e15b2d",
         "title": "Summer \u2013 Advanced Analytics Intern: May to August 2024",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2024",
             "Summer 2024"
@@ -32234,7 +32234,7 @@
         "company_name": "Two Six Technologies",
         "id": "39d100dc-fdd2-4f46-8e32-73cac01144bd",
         "title": "Software Engineer Summer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -32557,7 +32557,7 @@
         "company_name": "Bristol-Myers Squibb",
         "id": "adb68f63-be67-4f39-8715-43ce42904a93",
         "title": "Summer 2024 \u2013 Internship - Machine Learning and Bioinformatics - Informatics and Predictive Science - Ips",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -34055,5 +34055,141 @@
         "date_posted": 1698253721,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Recursion Pharmaceuticals",
+        "id": "4ac17f5a-277b-4c19-9b45-43267cc3f10b",
+        "title": "Software Engineering Intern - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1698277578,
+        "date_posted": 1698277578,
+        "url": "https://boards.greenhouse.io/recursionpharmaceuticals/jobs/5463977",
+        "locations": [
+            "Salt Lake City, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/RecursionPharma",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Bank of Montreal (BMO)",
+        "id": "1d53f581-de13-4a20-a935-c373df3edb1b",
+        "title": "Cloud Business Office Analytics Analyst \u2013 Co-op/Internship - Winter 2024 - 4 months",
+        "active": true,
+        "terms": [
+            "Winter 2024"
+        ],
+        "date_updated": 1698277329,
+        "date_posted": 1698277329,
+        "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Cloud-Business-Office-Analytics-Analyst--Winter-2024--Co-op-Internship----4-months_R230016531-1",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/BMO",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "CACI",
+        "id": "e2fe8ddb-0968-418d-9312-3a4b4ff5e5c7",
+        "title": "VA Software Development Intern - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1698276944,
+        "date_posted": 1698276944,
+        "url": "https://caci.wd1.myworkdayjobs.com/External/job/US-VA-Manassas/VA-Software-Development-Intern---Summer-2024_288391-1",
+        "locations": [
+            "Manassas, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/CACI",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "iCapital Network",
+        "id": "5bed7c99-3625-44b2-a4bd-65ae5fb2ef78",
+        "title": "Platform Engineering Intern",
+        "active": true,
+        "terms": [
+            "Fall 2023",
+            "Winter 2024"
+        ],
+        "date_updated": 1698276183,
+        "date_posted": 1698276183,
+        "url": "https://boards.greenhouse.io/icapitalnetwork/jobs/6988545002",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/iCapital-Network",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Recursion Pharmaceuticals",
+        "id": "8e22eaad-fc3d-4b77-be49-f6a860d2e124",
+        "title": "Data Science Intern - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1698275918,
+        "date_posted": 1698275918,
+        "url": "https://boards.greenhouse.io/recursionpharmaceuticals/jobs/5459607",
+        "locations": [
+            "Salt Lake City, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/RecursionPharma",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Symbotic",
+        "id": "6b9066be-dc82-44fa-9630-40a3a8b8ff31",
+        "title": "Intern-Robotics Case Handling",
+        "active": true,
+        "terms": [
+            "Summer 2023",
+            "Spring 2024",
+            "Fall 2024"
+        ],
+        "date_updated": 1698275893,
+        "date_posted": 1698275893,
+        "url": "https://symbotic.wd1.myworkdayjobs.com/en-US/Symbotic/job/USA-Wilmington--MA---HQ/Intern--Robotics-Case-Handling_R2795",
+        "locations": [
+            "Burlington, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/symbotic",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Lucid Motors",
+        "id": "9bae7a9b-e82a-45fc-ab3f-9a065aa5dd01",
+        "title": "Intern \u2013 Motor Control Software Development and Validation Engineer - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1698275649,
+        "date_posted": 1698275649,
+        "url": "https://jobs.lever.co/lucidmotors/5eb9a0ec-6c20-4ef8-a933-8ec5003682b1/apply",
+        "locations": [
+            "Newark, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Lucid-Motors",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
