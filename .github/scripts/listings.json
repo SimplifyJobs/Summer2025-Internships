@@ -34345,5 +34345,24 @@
         "date_posted": 1698314732,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1698314759,
+        "url": "https://boards.greenhouse.io/scaleai/jobs/4305872005",
+        "company_name": "Scale AI",
+        "title": "Machine Learning Research Engineering Intern",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "PresidentSam100",
+        "id": "bbc56472-4ba3-4572-afef-5e24af92544a",
+        "date_posted": 1698314759,
+        "company_url": "",
+        "is_visible": true
     }
 ]
