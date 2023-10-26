@@ -34326,5 +34326,24 @@
         "date_posted": 1698314636,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1698314732,
+        "url": "https://boards.greenhouse.io/benchling/jobs/5325508",
+        "company_name": "Benchling",
+        "title": "Security Engineer Intern (Summer 2024)",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "PresidentSam100",
+        "id": "1cf7d1f2-92db-496b-9ed3-c9e46673bbd4",
+        "date_posted": 1698314732,
+        "company_url": "",
+        "is_visible": true
     }
 ]
