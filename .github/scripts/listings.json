@@ -34517,5 +34517,24 @@
         "company_url": "https://simplify.jobs/c/iCapital-Network",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1698345942,
+        "url": "https://careers.highmarkhealth.org/explore-jobs/job/j233159-angular-developer-undergraduate-intern/?source=INDEED",
+        "company_name": "Highmark Health",
+        "title": "Angular Developer (Part Time)",
+        "locations": [
+            "Pittsburgh,PA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "VitaliPri",
+        "id": "c7456e32-7e1f-4497-9492-f537dee6fb08",
+        "date_posted": 1698345942,
+        "company_url": "",
+        "is_visible": true
     }
 ]
