@@ -34440,5 +34440,24 @@
         "date_posted": 1698315788,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1698315902,
+        "url": "https://jobs.smartrecruiters.com/Visa/743999934414613-staff-research-scientist-intern-summer-2024?trid=623f64f4-c657-499b-989f-16ab0ccee0d9",
+        "company_name": "Visa",
+        "title": "Staff Research Scientist, Intern - Summer 2024",
+        "locations": [
+            "Atlanta, GA, USA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "source": "PresidentSam100",
+        "id": "ab391a39-302c-4052-9ef5-17a6446f7ffb",
+        "date_posted": 1698315902,
+        "company_url": "",
+        "is_visible": true
     }
 ]
