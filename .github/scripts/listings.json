@@ -34268,5 +34268,25 @@
         "date_posted": 1698314339,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1698314375,
+        "url": "https://www.okta.com/company/careers/engineering/technical-program-manager-intern-customer-identity-cloud-summer-2024/",
+        "company_name": "Okta",
+        "title": "Technical Program Manager Intern, Customer Identity Cloud (Summer 2024)",
+        "locations": [
+            "United States",
+            "Canada"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "PresidentSam100",
+        "id": "9c2c1cd5-844b-410d-a881-312cc701aa07",
+        "date_posted": 1698314375,
+        "company_url": "",
+        "is_visible": true
     }
 ]
