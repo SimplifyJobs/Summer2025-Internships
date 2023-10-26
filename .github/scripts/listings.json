@@ -34383,5 +34383,24 @@
         "date_posted": 1698315047,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1698315140,
+        "url": "https://illumina.wd1.myworkdayjobs.com/en-US/illumina-universityrecruiting/details/Software-Engineer-Intern--Bachelors-Masters-_36776-JOB?locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+        "company_name": "Illumina",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "Remote"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "prathishpratt",
+        "id": "aac8b22e-59d2-4c95-bc7e-669e92847d3b",
+        "date_posted": 1698315140,
+        "company_url": "",
+        "is_visible": true
     }
 ]
