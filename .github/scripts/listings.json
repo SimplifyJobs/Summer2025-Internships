@@ -34364,5 +34364,24 @@
         "date_posted": 1698314759,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1698315047,
+        "url": "https://www.equipmentshare.com/careers/openings?gh_jid=5337582",
+        "company_name": "EquipmentShare",
+        "title": "Engineering Intern",
+        "locations": [
+            "Columbia, MO"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "PresidentSam100",
+        "id": "4e7a6d1e-07c9-4146-8fa9-5e5afeb29c55",
+        "date_posted": 1698315047,
+        "company_url": "",
+        "is_visible": true
     }
 ]
