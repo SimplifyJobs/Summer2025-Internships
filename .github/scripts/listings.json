@@ -30859,7 +30859,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1697480213,
+        "date_updated": 1698348283,
         "url": "https://boards.greenhouse.io/samsungresearchamericainternship/jobs/6804869002?gh_src=13c38d562us&source=LinkedIn",
         "company_name": "Samsung",
         "title": "Data Science Researcher Intern",
@@ -30867,11 +30867,10 @@
             "Mountain View, CA"
         ],
         "terms": [
-            "Spring 2024",
             "Summer 2024"
         ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "rygeorge",
         "id": "d043e9c5-3cd6-4bfe-b2fd-6e71e028d395",
         "date_posted": 1697480213,
