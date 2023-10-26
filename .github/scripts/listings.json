@@ -21488,7 +21488,7 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1695169748,
+        "date_updated": 1698311092,
         "url": "https://warnerbros.wd5.myworkdayjobs.com/en-US/global/job/Software-Engineering-Intern---Summer-2024_R000072947",
         "company_name": "Warner Bros. Discovery",
         "title": "Software Engineering Intern",
@@ -21502,8 +21502,8 @@
         "terms": [
             "Summer 2024"
         ],
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "ngitman",
         "id": "f97c2b28-c63b-4da8-a462-3273ab3dcf6c",
         "date_posted": 1695169748,
