@@ -34307,5 +34307,24 @@
         "date_posted": 1698314552,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1698314636,
+        "url": "https://www.okta.com/company/careers/engineering/software-engineer-intern-summer-2024-5171924/",
+        "company_name": "Okta",
+        "title": "Software Engineer Intern, Summer 2024",
+        "locations": [
+            "Canada"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "PresidentSam100",
+        "id": "909ac9c3-9b24-4454-8328-c728fc4d742a",
+        "date_posted": 1698314636,
+        "company_url": "",
+        "is_visible": true
     }
 ]
