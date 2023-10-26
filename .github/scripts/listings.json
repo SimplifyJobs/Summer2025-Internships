@@ -34230,5 +34230,24 @@
         "date_posted": 1698313489,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1698314097,
+        "url": "https://huaweicanada.recruitee.com/o/co-op-software-engineer-web-2",
+        "company_name": "HuaWei",
+        "title": "Co-op Software Engineer - Web",
+        "locations": [
+            "Markham, ON"
+        ],
+        "terms": [
+            "Winter 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "Vermillion-Chen",
+        "id": "a48352c9-55f2-42c5-a861-e55318870366",
+        "date_posted": 1698314097,
+        "company_url": "",
+        "is_visible": true
     }
 ]
