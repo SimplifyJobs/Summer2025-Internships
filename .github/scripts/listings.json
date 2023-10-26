@@ -16466,7 +16466,7 @@
         "company_name": "Strapi",
         "id": "c9498937-70fb-40d5-9477-050d934ad6d6",
         "title": "Technical Writer \u2013 Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -18416,7 +18416,7 @@
         "company_name": "Kinaxis",
         "id": "73af7191-302e-44e2-bee2-c0055567239f",
         "title": "Co-Op/Intern Developer - Machine Learning",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2024"
         ],
@@ -20612,7 +20612,7 @@
         "company_name": "Leidos",
         "id": "9d40d53a-1727-40fe-a3b2-5ab84c822db2",
         "title": "Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -20999,7 +20999,7 @@
         "company_name": "Thrivent",
         "id": "b4948ad2-1e5e-4a32-95dd-9e775725d8ac",
         "title": "Investment Data Analyst Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -26039,7 +26039,7 @@
         "company_name": "Voya Financial",
         "id": "1f42e384-65d1-4366-9837-6dc22c13ade8",
         "title": "Internal Audit Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024"
         ],
@@ -28718,7 +28718,7 @@
         "company_name": "Cohere Health",
         "id": "181b2c7f-0a9c-4339-a592-0272a257e978",
         "title": "Data Analyst Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -30104,7 +30104,7 @@
         "company_name": "Cohere Health",
         "id": "a1ff2fd3-57de-4399-8091-c2e9bb2b2f71",
         "title": "Data Science Intern - Starting November 2023",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2023"
         ],
@@ -34118,7 +34118,7 @@
         "company_name": "iCapital Network",
         "id": "5bed7c99-3625-44b2-a4bd-65ae5fb2ef78",
         "title": "Platform Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2023",
             "Winter 2024"
@@ -34495,6 +34495,26 @@
             "Santa Clara, CA"
         ],
         "company_url": "https://simplify.jobs/c/AMAT",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "iCapital Network",
+        "id": "9294cf9f-0159-4d5f-9328-747ea37a3e38",
+        "title": "ML Engineering Intern",
+        "active": true,
+        "terms": [
+            "Fall 2023",
+            "Winter 2024"
+        ],
+        "date_updated": 1698333311,
+        "date_posted": 1698333311,
+        "url": "https://boards.greenhouse.io/icapitalnetwork/jobs/6992173002",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/iCapital-Network",
         "is_visible": true,
         "sponsorship": "Other"
     }
