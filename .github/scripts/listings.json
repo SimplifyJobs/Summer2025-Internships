@@ -34990,5 +34990,26 @@
         "company_url": "https://simplify.jobs/c/MarketAxess",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1698450697,
+        "url": "https://careers.paramount.com/Paramount/job/Burbank-Software-Engineering-Intern-%28Summer-2024-NYC%2C-LA-or-Remote%29-CA-91505/1082274800/",
+        "company_name": "Paramount",
+        "title": "Software Engineering Intern",
+        "locations": [
+            "Los Angeles, CA",
+            "New York, NY",
+            "Remote"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "JosephWong123",
+        "id": "8d3064f3-19a9-43a8-849f-f3ebd91a79cd",
+        "date_posted": 1698450697,
+        "company_url": "",
+        "is_visible": true
     }
 ]
