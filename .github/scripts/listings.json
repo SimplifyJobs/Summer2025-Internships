@@ -18010,7 +18010,7 @@
         "company_name": "Walmart",
         "id": "41e26880-c5ba-48e4-96c1-1c6200f05ce5",
         "title": "2024 Summer Intern: Software Engineer II - Sam's Club \ud83d\udec2",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -32157,7 +32157,7 @@
         "company_name": "Beacon Platform",
         "id": "c3dee852-4168-493c-af99-ce27d7a2aba5",
         "title": "Core Developer \u2013 Summer Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -32366,7 +32366,7 @@
         "company_name": "Beacon Platform",
         "id": "df380426-1342-4e79-b5d2-f81241bc64ea",
         "title": "Platform Engineer \u2013 Summer Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2023"
         ],
@@ -34117,7 +34117,7 @@
         "company_name": "iCapital Network",
         "id": "5bed7c99-3625-44b2-a4bd-65ae5fb2ef78",
         "title": "Platform Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2023",
             "Winter 2024"
@@ -34535,5 +34535,326 @@
         "date_posted": 1698345942,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Verkada",
+        "id": "6d3ef9c3-8f98-41ce-960d-1c5be7ab89ba",
+        "title": "Computer Vision Engineering Intern - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1698363490,
+        "date_posted": 1698363490,
+        "url": "https://jobs.lever.co/verkada/b932ee0c-4d6a-4596-a421-c8013857e7a9/apply",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Verkada",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "FanDuel",
+        "id": "73dc57a0-4c45-4527-a83a-bc001b116e68",
+        "title": "Sports Operations Insights Internship - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1698363349,
+        "date_posted": 1698363349,
+        "url": "https://www.fanduel.careers/open-positions?gh_jid=5457496",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/FanDuel",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "MarketAxess",
+        "id": "264a4482-ad08-464d-9a93-81a79b5f1d81",
+        "title": "Software Engineering Intern 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1698362832,
+        "date_posted": 1698362832,
+        "url": "https://www.marketaxess.com/careers/current-openings/detail/jobs/4297752006?gh_jid=4297752006",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/MarketAxess",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Fetch",
+        "id": "9bc936f4-9efa-4289-a5a0-0014a46c0e17",
+        "title": "Machine Learning Engineer Apprentice",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1698362658,
+        "date_posted": 1698362658,
+        "url": "https://boards.greenhouse.io/fetchrewards/jobs/5787815003",
+        "locations": [
+            "Madison, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/FetchRewards",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Fetch",
+        "id": "58c34904-14e2-4c3b-a902-5945be0d2f5a",
+        "title": "Machine Learning Engineer Apprentice",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1698362655,
+        "date_posted": 1698362655,
+        "url": "https://boards.greenhouse.io/fetchrewards/jobs/5787816003",
+        "locations": [
+            "Birmingham, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/FetchRewards",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Fetch",
+        "id": "32c88826-bee3-446f-85c3-b2d3fe7a8544",
+        "title": "Machine Learning Engineer Apprentice",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1698362657,
+        "date_posted": 1698362657,
+        "url": "https://boards.greenhouse.io/fetchrewards/jobs/5787814003",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/FetchRewards",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "PostEra",
+        "id": "cb18dbab-f9ec-414b-adc2-9a8c9333ce6c",
+        "title": "Software Engineering Intern - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1698362419,
+        "date_posted": 1698362419,
+        "url": "https://jobs.lever.co/postera/ec729ded-1046-47bc-9648-b7dc96959023/apply",
+        "locations": [
+            "Remote"
+        ],
+        "company_url": "https://simplify.jobs/c/Postera",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Fizz",
+        "id": "ee4c4767-96a3-4601-8587-d08e59f36b66",
+        "title": "Software Engineering Intern - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1698362212,
+        "date_posted": 1698362212,
+        "url": "https://jobs.lever.co/fizz/68fc24f5-54a2-42ce-88b5-bee3e8032386/apply",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Fizz-Social",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "First Mode",
+        "id": "8ea03deb-a142-47bd-bfe1-5f812b4a1aaa",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1698362172,
+        "date_posted": 1698362172,
+        "url": "https://boards.greenhouse.io/firstmode/jobs/4329561005",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/FirstMode",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Western Digital",
+        "id": "cf533068-1343-4d8e-8ccd-c613b56e7d0e",
+        "title": "Internship \u2013 Firmware Development Engineer Intern - Jan - May",
+        "active": true,
+        "terms": [
+            "Spring 2023"
+        ],
+        "date_updated": 1698362078,
+        "date_posted": 1698362078,
+        "url": "https://jobs.smartrecruiters.com/WesternDigital/743999940179823",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Western-Digital",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Intel",
+        "id": "c3261495-8997-4a1a-a82d-e52e00a55830",
+        "title": "Computer Vision Internship",
+        "active": true,
+        "terms": [
+            "Spring 2023",
+            "Summer 2023"
+        ],
+        "date_updated": 1698362013,
+        "date_posted": 1698362013,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/Virtual-US/Computer-Vision-Internship_JR0250587",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Oshkosh",
+        "id": "66aeef74-78ed-4289-9909-eda229887348",
+        "title": "Software Engineering Intern - Purdue University - West Lafayette",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1698361822,
+        "date_posted": 1698361822,
+        "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Indianapolis-Indiana-United-States/Software-Engineering-Intern---Purdue-University--West-Lafayette-_R23479",
+        "locations": [
+            "Indianapolis, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/Oshkosh",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Oshkosh",
+        "id": "901d7e96-fadf-4bf9-bf02-2bcd8a3dd1fc",
+        "title": "Computer/Software Engineering Intern-Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1698361820,
+        "date_posted": 1698361820,
+        "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Oshkosh-Wisconsin-United-States/Computer-Software-Engineering-Intern-Summer-2024_R22291",
+        "locations": [
+            "Appleton, WI",
+            "Oshkosh, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Oshkosh",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Illumina",
+        "id": "b87ff1ea-061a-47cc-86d0-4fd02b83c54a",
+        "title": "Scientific Intern - Bachelors/Masters/Phd",
+        "active": true,
+        "terms": [
+            "Spring 2023",
+            "Summer 2023",
+            "Fall 2023"
+        ],
+        "date_updated": 1698361554,
+        "date_posted": 1698361554,
+        "url": "https://illumina.wd1.myworkdayjobs.com/en-US/illumina-universityrecruiting/job/US---Remote/Scientific-Intern--Bachelors-Masters-PhD-_36782-JOB",
+        "locations": [
+            "Madison, WI",
+            "Remote in USA",
+            "Hayward, CA",
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Illumina",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Illumina",
+        "id": "5406823f-e8f2-4208-8cd3-af2c1edbbfa1",
+        "title": "Bioinformatics Intern - Bachelors/Masters/Phd",
+        "active": true,
+        "terms": [
+            "Spring 2023",
+            "Summer 2023",
+            "Fall 2023"
+        ],
+        "date_updated": 1698361551,
+        "date_posted": 1698361551,
+        "url": "https://illumina.wd1.myworkdayjobs.com/en-US/illumina-universityrecruiting/job/US---Remote/Bioinformatics-Intern--Bachelors-Masters-PhD-_36781-JOB",
+        "locations": [
+            "Madison, WI",
+            "Remote in USA",
+            "Hayward, CA",
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Illumina",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Illumina",
+        "id": "297ca0d1-bf26-4a78-abd9-4d3b2ff77e9b",
+        "title": "Software Engineer Intern - Bachelors/Masters",
+        "active": true,
+        "terms": [
+            "Spring 2023",
+            "Summer 2023",
+            "Fall 2023"
+        ],
+        "date_updated": 1698361554,
+        "date_posted": 1698361554,
+        "url": "https://illumina.wd1.myworkdayjobs.com/en-US/illumina-universityrecruiting/job/US---Remote/Software-Engineer-Intern--Bachelors-Masters-_36776-JOB",
+        "locations": [
+            "Madison, WI",
+            "Remote in USA",
+            "Hayward, CA",
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Illumina",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
