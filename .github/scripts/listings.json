@@ -7982,7 +7982,7 @@
         "company_name": "Rivian",
         "id": "284a4f9e-3f2c-472a-a63f-5df88fae3c68",
         "title": "UIUC Research Park Intern - Special Projects",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2023",
             "Spring 2024",
@@ -11715,7 +11715,7 @@
         "company_name": "Chamberlain Group",
         "id": "6bbc8788-1301-46e6-9856-f94d140cdc2b",
         "title": "Intern \u2013 Machine Learning - Computer Vision - And AI - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -14713,7 +14713,7 @@
         "company_name": "Maven Securities",
         "id": "f9444a25-4ce3-48a1-bd87-f0f8b9dee10e",
         "title": "Software Developer Summer Internship London 2024 And Trader Summer Internship London 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -14732,7 +14732,7 @@
         "company_name": "Maven Securities",
         "id": "0968a017-62b8-4c9d-8826-dea0bee5f606",
         "title": "Trader Summer Internship London 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -18745,7 +18745,7 @@
         "company_name": "Genesis Therapeutics",
         "id": "2ae7ef5d-989b-45c5-bd0c-dacf383f1535",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -20959,7 +20959,7 @@
         "company_name": "Wellmark",
         "id": "1ee13fc1-1abc-4e8a-bdd7-3a62fc36d46f",
         "title": "Software Engineer Internship - Total Cost of Care",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024"
         ],
@@ -24960,7 +24960,7 @@
         "company_name": "84.51 Degrees",
         "id": "b2223549-ee20-4080-ab2f-70a2b7698fbf",
         "title": "Software Engineer \u2013 Co-op Program - Spring 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024"
         ],
@@ -28656,7 +28656,7 @@
         "company_name": "Rivian",
         "id": "47769a95-30cc-4d23-b892-c5ff798d8b67",
         "title": "UIUC Research Park Intern - Embedded Systems Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2023",
             "Spring 2024",
@@ -34117,7 +34117,7 @@
         "company_name": "iCapital Network",
         "id": "5bed7c99-3625-44b2-a4bd-65ae5fb2ef78",
         "title": "Platform Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2023",
             "Winter 2024"
@@ -34502,7 +34502,7 @@
         "company_name": "iCapital Network",
         "id": "9294cf9f-0159-4d5f-9328-747ea37a3e38",
         "title": "ML Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2023",
             "Winter 2024"
@@ -34930,6 +34930,64 @@
             "Remote"
         ],
         "company_url": "https://simplify.jobs/c/Smartsheet",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "ServiceNow",
+        "id": "57c8f7f4-5b81-4c1a-99ab-8bb86bf17226",
+        "title": "Data Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1698420856,
+        "date_posted": 1698420856,
+        "url": "https://jobs.smartrecruiters.com/ServiceNow/743999940380538",
+        "locations": [
+            "Remote in USA",
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ServiceNow",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "ActiveCampaign",
+        "id": "0eb41429-8b7e-4973-a1b2-d2eb78dfc5ea",
+        "title": "Summer 2024 Software Engineering Internship",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1698420660,
+        "date_posted": 1698420660,
+        "url": "https://jobs.lever.co/activecampaign/2d34cbb1-43f9-4448-8fa9-d51c6950d8b6/apply",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/ActiveCampaign",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "MarketAxess",
+        "id": "5fedc293-ecf5-402b-aa35-627cbe8177af",
+        "title": "Open Trading Intern 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1698420548,
+        "date_posted": 1698420548,
+        "url": "https://www.marketaxess.com/careers/current-openings/detail/jobs/4298019006?gh_jid=4298019006",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/MarketAxess",
         "is_visible": true,
         "sponsorship": "Other"
     }
