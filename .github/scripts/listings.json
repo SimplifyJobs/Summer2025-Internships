@@ -18745,18 +18745,18 @@
         "company_name": "Genesis Therapeutics",
         "id": "2ae7ef5d-989b-45c5-bd0c-dacf383f1535",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
-        "date_updated": 1694618845,
+        "date_updated": 1698417655,
         "date_posted": 1694618845,
         "url": "https://jobs.lever.co/genesistherapeutics/6caa03ec-897a-489c-a8f2-e29b0c9b0c32/apply",
         "locations": [
-            "Burlingame, CA"
+            "BURLINGAME, CA"
         ],
         "company_url": "https://simplify.jobs/c/Genesis-Thera",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
