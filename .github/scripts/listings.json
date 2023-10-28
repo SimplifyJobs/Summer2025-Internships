@@ -35222,5 +35222,24 @@
         "date_posted": 1698477012,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1698485707,
+        "url": "https://careers.siriusxm.com/careers/jobs/15048?lang=en-us",
+        "company_name": "SiriusXM",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "New York City, New York"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "rygeorge",
+        "id": "2c15f8cf-1817-48b7-9348-2766233b1ded",
+        "date_posted": 1698485707,
+        "company_url": "",
+        "is_visible": true
     }
 ]
