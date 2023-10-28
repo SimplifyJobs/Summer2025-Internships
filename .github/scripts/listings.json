@@ -35241,5 +35241,24 @@
         "date_posted": 1698485707,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1698528601,
+        "url": "https://careers.siriusxm.com/careers/jobs/15089/job",
+        "company_name": "SiriusXM",
+        "title": "Android Automotive Application Developer",
+        "locations": [
+            "Deerfield Beach, Florida"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "VitaliPri",
+        "id": "77d2fc15-69e3-4402-aef7-6dfbb56b2fb1",
+        "date_posted": 1698528601,
+        "company_url": "",
+        "is_visible": true
     }
 ]
