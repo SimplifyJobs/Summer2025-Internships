@@ -35202,5 +35202,25 @@
         "company_url": "https://simplify.jobs/c/Zoox",
         "is_visible": false,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1698477012,
+        "url": "https://www.coinbase.com/careers/positions/5455689",
+        "company_name": "Coinbase",
+        "title": "Summer 2024 - Software Engineer Intern, Frontend",
+        "locations": [
+            "Remote USA",
+            "Remote Canada"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "ashaikh23",
+        "id": "bedbd939-55c4-4f8c-8fa0-b23bffc63b1e",
+        "date_posted": 1698477012,
+        "company_url": "",
+        "is_visible": true
     }
 ]
