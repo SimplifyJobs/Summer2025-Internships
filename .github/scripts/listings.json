@@ -35260,5 +35260,34 @@
         "date_posted": 1698528601,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1698551435,
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210429295/",
+        "company_name": "JPMorgan Chase & CO",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "New York City, New York",
+            "Columbus, OH",
+            "Houston, TX",
+            "Chicago, IL",
+            "Wilmington, DE",
+            "Palo Alto, CA",
+            "Plano, TX",
+            "Seattle, WA",
+            "Tampla, FL",
+            "Atlanta, GA",
+            "Jersey City, NJ"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "rygeorge",
+        "id": "6217e33c-f4ea-452e-886b-a96445102d2e",
+        "date_posted": 1698551435,
+        "company_url": "",
+        "is_visible": true
     }
 ]
