@@ -35308,5 +35308,25 @@
         "date_posted": 1698553216,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1698562062,
+        "url": "https://www.coinbase.com/careers/positions/5458493?gh_jid=5458493&gh_src=20687b321us",
+        "company_name": "Coinbase",
+        "title": "Product Design Intern",
+        "locations": [
+            "Remote USA",
+            "Remote Canada"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "rygeorge",
+        "id": "4c2caa68-a8d9-4cf4-be39-7c166e280678",
+        "date_posted": 1698562062,
+        "company_url": "",
+        "is_visible": true
     }
 ]
