@@ -35289,5 +35289,24 @@
         "date_posted": 1698551435,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1698553216,
+        "url": "https://boards.greenhouse.io/duolingouniversityrecruitment/jobs/6982219002?gh_src=5288c6c62us",
+        "company_name": "Duolingo",
+        "title": "Product Designer Intern",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "rygeorge",
+        "id": "0926ade8-e508-4f39-82da-4c056711be80",
+        "date_posted": 1698553216,
+        "company_url": "",
+        "is_visible": true
     }
 ]
