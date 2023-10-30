@@ -17581,7 +17581,7 @@
         "company_name": "Spring Health",
         "id": "de6b0924-bfd4-43df-bd1f-b7e23ed1aeef",
         "title": "IT Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024",
             "Summer 2024"
@@ -19784,7 +19784,7 @@
         "company_name": "T.Rowe Price",
         "id": "a27bc46e-84da-4b1c-b430-135b3dc9a1b2",
         "title": "2024 Software Engineering Internship Program",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -22473,7 +22473,7 @@
         "company_name": "SEP",
         "id": "e36b24ae-6f4d-4471-ba44-05cbdffb3b06",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -23459,7 +23459,7 @@
         "company_name": "Nutanix",
         "id": "b6456763-2869-4d0f-9460-e48f9d29ac31",
         "title": "Software Engineer Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -29222,7 +29222,7 @@
         "company_name": "XTX Markets",
         "id": "a7efa36a-0c06-46c1-9c18-cb26ceb3d089",
         "title": "2024 Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -29719,7 +29719,7 @@
         "company_name": "FanDuel",
         "id": "be58e381-0713-4f04-a9cb-9221599ba95f",
         "title": "Commercial Internship - Winter 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2024"
         ],
@@ -32404,7 +32404,7 @@
         "company_name": "Two Six Technologies",
         "id": "efc2dc0c-395d-454d-b4e6-d622bc7cb003",
         "title": "Software Engineer Summer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -32499,7 +32499,7 @@
         "company_name": "Bristol-Myers Squibb",
         "id": "7b2e0988-41e7-4375-8160-ef5d371f9083",
         "title": "Summer 2024 \u2013 Internship - Applied Statistical Learning - Informatics & Predictive Science - Ips",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -35328,5 +35328,43 @@
         "date_posted": 1698562062,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Cowen",
+        "id": "3d284b1c-8fff-4f1f-88da-5c5f6c9d4b6f",
+        "title": "Markets Summer Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1698679899,
+        "date_posted": 1698679899,
+        "url": "https://boards.greenhouse.io/cowen/jobs/6997997002",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/TD-Cowen",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Techstars",
+        "id": "87b9aab3-64b1-4318-b8dd-4cab3607ec91",
+        "title": "Engineering Internship - Software Development - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1698679736,
+        "date_posted": 1698679736,
+        "url": "https://boards.greenhouse.io/techstars57/jobs/6986054002",
+        "locations": [
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Techstars",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
