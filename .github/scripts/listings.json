@@ -11665,7 +11665,7 @@
             "Summer 2024"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "Simplify",
         "id": "e65ae5a5-3901-4394-b9ef-d54e56c9764b",
         "date_posted": 1693261847,
@@ -12001,7 +12001,7 @@
         "company_name": "Yext",
         "id": "105a8544-b0cf-4e67-9ce9-ec93efe2e006",
         "title": "2024 Software Engineer Summer Intern - Product",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -18010,7 +18010,7 @@
         "company_name": "Walmart",
         "id": "41e26880-c5ba-48e4-96c1-1c6200f05ce5",
         "title": "2024 Summer Intern: Software Engineer II - Sam's Club \ud83d\udec2",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -18166,7 +18166,7 @@
         "company_name": "Oshkosh",
         "id": "9491b7a4-a5de-4c69-9105-5d47e6a6c78f",
         "title": "Software Engineering Intern-Connected Solutions",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -19074,7 +19074,7 @@
         "company_name": "Palantir",
         "id": "3d2ecca4-2fae-4709-a172-1aaf712411c1",
         "title": "Information Security Engineer \u2013 Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -27287,7 +27287,7 @@
         "company_name": "Flawless",
         "id": "ab9d410b-00bc-4378-a55d-c62bdf987580",
         "title": "Data Engineer Internship - Deep Learning",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -31898,7 +31898,7 @@
         "company_name": "Netskope",
         "id": "8b70757f-1d7e-43d7-8510-9ce01e01a4df",
         "title": "Intern \u2013 CSO Data Analyst - Spring 2024 & Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024",
             "Summer 2024"
@@ -32252,7 +32252,7 @@
         "company_name": "Two Six Technologies",
         "id": "e9327318-f1a9-4525-8cef-662731911935",
         "title": "Software Engineer Summer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -32271,7 +32271,7 @@
         "company_name": "Two Six Technologies",
         "id": "1ed044a3-1a0a-4380-a777-c9fe74294a09",
         "title": "Infrastructure Summer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -32290,7 +32290,7 @@
         "company_name": "Two Six Technologies",
         "id": "c18e86ae-994d-4bcd-87ac-95dd899537a0",
         "title": "Front End Software Engineer Summer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -32442,7 +32442,7 @@
         "company_name": "Two Six Technologies",
         "id": "7ef22853-60b5-492e-ae9f-822a370f7ced",
         "title": "Infrastructure Summer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -32461,7 +32461,7 @@
         "company_name": "Two Six Technologies",
         "id": "e4feb5da-693f-44d2-9c84-cea92b7a0c6c",
         "title": "Front End Software Engineer Summer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -32769,7 +32769,7 @@
         "company_name": "Two Six Technologies",
         "id": "b091ceef-7748-4828-9658-d889a3fd50f2",
         "title": "Front End Software Engineer Summer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -33940,7 +33940,7 @@
         "company_name": "Symbotic",
         "id": "a798e829-97a6-4a9d-83b2-75dcfabc1bbb",
         "title": "Intern-Software Engineer - Applications",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023",
             "Spring 2024",
@@ -34693,7 +34693,7 @@
         "company_name": "First Mode",
         "id": "8ea03deb-a142-47bd-bfe1-5f812b4a1aaa",
         "title": "Software Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -34938,7 +34938,7 @@
         "company_name": "ServiceNow",
         "id": "57c8f7f4-5b81-4c1a-99ab-8bb86bf17226",
         "title": "Data Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -35037,7 +35037,7 @@
         "company_name": "Smartsheet",
         "id": "fa760b1d-93a4-40e2-aa2d-c5567ebc275d",
         "title": "Software Engineer Intern - Attachment Architects",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -35075,7 +35075,7 @@
         "company_name": "Smartsheet",
         "id": "51c6f5c3-4eed-4375-9131-72d06afd1ab2",
         "title": "Software Engineer Intern - Home Team",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -35094,7 +35094,7 @@
         "company_name": "Smartsheet",
         "id": "61d3fb8b-fd3a-40b4-9c58-9c2b8ed8128b",
         "title": "Software Engineer Intern - Resource Management",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -35364,6 +35364,159 @@
             "Denver, CO"
         ],
         "company_url": "https://simplify.jobs/c/Techstars",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Aurora Innovation",
+        "id": "8ea73ed0-10d4-4e73-85b4-219d683698de",
+        "title": "Software Engineering Internship - Summer 2024 - Mountain View",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1698709093,
+        "date_posted": 1698709093,
+        "url": "https://boards.greenhouse.io/aurorainnovation/jobs/6955466002",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Aurora-Innovation",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Aurora Innovation",
+        "id": "27a12c43-1896-4cc5-bc7e-34d45771681c",
+        "title": "Software Engineering Internship - Summer 2024 - Pittsburgh",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1698709094,
+        "date_posted": 1698709094,
+        "url": "https://boards.greenhouse.io/aurorainnovation/jobs/6955469002",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Aurora-Innovation",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "WeRide",
+        "id": "3c1d76fd-93f2-4924-9541-10fda2cabfc1",
+        "title": "Software Engineer Intern Spring/Summer 2024",
+        "active": true,
+        "terms": [
+            "Spring 2024",
+            "Summer 2024"
+        ],
+        "date_updated": 1698709075,
+        "date_posted": 1698709075,
+        "url": "https://jobs.lever.co/weride/18ee06ad-a8a7-4bd9-9205-3f465f5068be/apply",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/WeRide",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Shamrock Trading",
+        "id": "c428cc42-1443-40fd-84aa-f1c5cab62ff1",
+        "title": "Data Services Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1698708949,
+        "date_posted": 1698708949,
+        "url": "https://jobs.jobvite.com/shamrock/job/ozqdpfwl?nl=1&nl=1&fr=false",
+        "locations": [
+            "Overland Park, KS"
+        ],
+        "company_url": "https://simplify.jobs/c/Shamrock-Trading",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Shamrock Trading",
+        "id": "18dc861b-4f2e-4c50-9b90-e903ef90ea49",
+        "title": "Software Developer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1698708951,
+        "date_posted": 1698708951,
+        "url": "https://jobs.jobvite.com/shamrock/job/oSodpfwC?nl=1&nl=1&fr=false",
+        "locations": [
+            "Overland Park, KS"
+        ],
+        "company_url": "https://simplify.jobs/c/Shamrock-Trading",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Galaxy",
+        "id": "b0f53ff8-e565-4034-82be-21f69901646f",
+        "title": "2024 Tech Trading Summer Internship Program - London",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1698708313,
+        "date_posted": 1698708313,
+        "url": "https://boards.greenhouse.io/galaxydigitalservices/jobs/5009582004",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Galaxy",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Capco",
+        "id": "82ad948d-61b0-4594-9759-e8cd09cfbb0a",
+        "title": "Winter 2024 \u2013 Developer Co-op",
+        "active": true,
+        "terms": [
+            "Winter 2024"
+        ],
+        "date_updated": 1698707708,
+        "date_posted": 1698707708,
+        "url": "https://boards.greenhouse.io/capco/jobs/5471641",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Capco",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Oshkosh",
+        "id": "d028fa62-6194-46cc-aa9a-fb63f4885de3",
+        "title": "AI/Autonomy Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1698707494,
+        "date_posted": 1698707494,
+        "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Hagerstown-Maryland-United-States/AI-Autonomy-Engineering-Intern_R21833",
+        "locations": [
+            "Hagerstown, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Oshkosh",
         "is_visible": true,
         "sponsorship": "Other"
     }
