@@ -13102,7 +13102,7 @@
         "company_name": "Santander",
         "id": "5c4b3664-c2be-47c0-b126-ae7233d6abf1",
         "title": "Internal Audit Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2023"
         ],
@@ -15458,7 +15458,7 @@
         "company_name": "Walmart",
         "id": "070546c8-638a-491e-addc-6dd3704b17d7",
         "title": "2024 Summer Walmart Intern: Availability Operations",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -28858,7 +28858,7 @@
         "company_name": "Visa",
         "id": "769bb8dc-2303-45f7-bea5-27446ec641df",
         "title": "Data Engineer \u2013 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -31017,7 +31017,7 @@
         "company_name": "PayPal",
         "id": "bae20e40-40f4-460c-ac04-a0d18f9f97e7",
         "title": "Integration Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -31440,7 +31440,7 @@
         "company_name": "Two Six Technologies",
         "id": "25ec788d-08ca-46cd-9554-7b4f828267d6",
         "title": "Deployed Systems Summer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -31459,7 +31459,7 @@
         "company_name": "Two Six Technologies",
         "id": "5696d816-af47-4135-a437-5d7fb3f3a44f",
         "title": "Deployed Systems Summer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -31478,7 +31478,7 @@
         "company_name": "Two Six Technologies",
         "id": "aa8fa088-08d6-4b63-b724-7d6bafc8ec19",
         "title": "Deployed Systems Summer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -31497,7 +31497,7 @@
         "company_name": "Two Six Technologies",
         "id": "78ce4045-a48a-4906-b4f2-4f94f387d191",
         "title": "Cleared Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -31516,7 +31516,7 @@
         "company_name": "CACI",
         "id": "e4c73f6f-1fff-4d92-b333-f33133947b9b",
         "title": "Test Engineering Software Intern - Winter 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2024"
         ],
@@ -31535,7 +31535,7 @@
         "company_name": "Two Six Technologies",
         "id": "c9d77e3a-cd2f-45ed-8cb4-6a30dfcd8df9",
         "title": "Deployed Systems Summer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -35353,7 +35353,7 @@
         "company_name": "Techstars",
         "id": "87b9aab3-64b1-4318-b8dd-4cab3607ec91",
         "title": "Engineering Internship - Software Development - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -35540,6 +35540,63 @@
             "Atlanta, GA"
         ],
         "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Virtu Financial",
+        "id": "efc1de62-7798-4a50-847e-7d3c591fd2e9",
+        "title": "Internship - Trading Operations Analyst",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1698766063,
+        "date_posted": 1698766063,
+        "url": "https://boards.greenhouse.io/virtu/jobs/5827302002",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Virtu-Financial",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Walmart",
+        "id": "ad9e8041-7323-445c-9ff2-3ec0f96a9f56",
+        "title": "2024 Summer Corporate Intern: Availability Operations",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1698766070,
+        "date_posted": 1698766070,
+        "url": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/XMLNAME-2024-Summer-Corporate-Intern--Availability-Operations_R-1708220",
+        "locations": [
+            "Bentonville, AR"
+        ],
+        "company_url": "https://simplify.jobs/c/Walmart",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Leidos",
+        "id": "25d05285-9cd7-4aad-befa-d82a987f0fa4",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1698765137,
+        "date_posted": 1698765137,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/Software-Engineer-Intern_R-00121423",
+        "locations": [
+            "Arlington, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
         "is_visible": true,
         "sponsorship": "Other"
     }
