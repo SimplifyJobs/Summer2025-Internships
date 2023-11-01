@@ -35968,5 +35968,24 @@
         "date_posted": 1698863292,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1698863576,
+        "url": "https://careers-shure.icims.com/jobs/3360/job",
+        "company_name": "Shure",
+        "title": "Applications Software Development",
+        "locations": [
+            "US-IL-Niles"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "VitaliPri",
+        "id": "639079ad-0b45-4aee-9418-960da1d9b880",
+        "date_posted": 1698863576,
+        "company_url": "",
+        "is_visible": true
     }
 ]
