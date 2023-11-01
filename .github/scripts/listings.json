@@ -35949,5 +35949,24 @@
         "company_url": "https://simplify.jobs/c/FetchRewards",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1698863292,
+        "url": "https://careers-cnhind.icims.com/jobs/25064/job",
+        "company_name": "CNH",
+        "title": "Software Engineer, Intern - Summer 2024",
+        "locations": [
+            "USA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "VitaliPri",
+        "id": "db9a7323-a862-411e-9cea-1cce542f67a9",
+        "date_posted": 1698863292,
+        "company_url": "",
+        "is_visible": true
     }
 ]
