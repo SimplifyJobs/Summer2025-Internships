@@ -35987,5 +35987,24 @@
         "date_posted": 1698863576,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1698865065,
+        "url": "https://tech.seo-usa.org/?_gl=1%2A1yntmt7%2A_ga%2AMjA3MDE4MTM4OS4xNjk4Mzc2Mzkx%2A_ga_HZWTKTGFZ2%2AMTY5ODc4NjQ2My4xLjEuMTY5ODc4NjQ3NC40OS4wLjA.%2A_ga_KVS7YHYKP7%2AMTY5ODc4NjQ2NC4xLjAuMTY5ODc4NjQ2NC4wLjAuMA..%2A_ga_FTDSNDNYSG%2AMTY5ODc4NjQ2NC4xLjAuMTY5ODc4NjQ2NC4wLjAuMA..%2A_ga_YLDJ2BN9PL%2AMTY5ODc4NjQ2NC4xLjAuMTY5ODc4NjQ2NC4wLjAuMA..",
+        "company_name": "SEO",
+        "title": "Tech Developer Immersion Program",
+        "locations": [
+            "Remote"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "237Codes",
+        "id": "d593e32a-50a3-414d-9788-ea14caf256a7",
+        "date_posted": 1698865065,
+        "company_url": "",
+        "is_visible": true
     }
 ]
