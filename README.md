@@ -213,8 +213,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | ↳ | Summer 2024 – Internship - Applied Statistical Learning - Informatics & Predictive Science - Ips | Cambridge, MA | 🔒 | Oct 19 |
 | ↳ | Summer 2024 – Internship - Data Science - Informatics and Predictive Sciences - Ips | Cambridge, MA | 🔒 | Oct 19 |
 | ↳ | Summer 2024 – Internship - Machine Learning and Bioinformatics - Informatics and Predictive Science - Ips | Cambridge, MA</br>Summit, NJ</br>Princeton, NJ | 🔒 | Oct 19 |
-| **[Beacon Platform](https://simplify.jobs/c/Beacon-Platform)** | Platform Engineer – Summer Internship | London, UK | <a href="https://boards.greenhouse.io/beaconplatform/jobs/5001070004?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/df380426-1342-4e79-b5d2-f81241bc64ea?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Oct 19 |
-| ↳ | Integrations Engineer – Summer Internship | NYC | 🔒 | Oct 19 |
+| **[Beacon Platform](https://simplify.jobs/c/Beacon-Platform)** | Integrations Engineer – Summer Internship | NYC | 🔒 | Oct 19 |
 | ↳ | Foundations Engineer – Summer Internship | NYC | 🔒 | Oct 19 |
 | **[Badger Meter](https://simplify.jobs/c/Badger-Meter)** | Software Engineering Intern | Milwaukee, WI | 🔒 | Oct 19 |
 | **[Wayfair](https://simplify.jobs/c/Wayfair)** | Software Engineering Intern - Summer 2024 | Toronto, ON, Canada | <a href="https://www.wayfair.com/careers/jobs/6977400002?gh_jid=6977400002&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/5f918cc2-681c-4cea-83ee-dc9aac35dcb8?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Oct 18 |
