@@ -62,7 +62,7 @@
         "company_name": "Akuna Capital",
         "id": "6f863309-148d-494d-aa36-f375a1af4bef",
         "title": "Quantitative Strategist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -8334,7 +8334,7 @@
         "company_name": "Salesforce",
         "id": "bfac2955-ba3e-44f0-9d3a-db20df1afd31",
         "title": "Futureforce Grace Hopper Conference \u2013 Software Engineer Internship for Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -20710,7 +20710,7 @@
         "company_name": "Chicago Trading Company",
         "id": "2e3acd2e-6d09-4d2f-a860-efba489b5d15",
         "title": "Quant Trading Analyst Internship - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -25716,7 +25716,7 @@
         "company_name": "Alcon",
         "id": "d8eec79f-796a-42c6-becd-5df0c5dda83c",
         "title": "Summer 2024 Intern - Information Technology - IT - Portfolio Management",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -35017,7 +35017,7 @@
         "company_name": "Thrivent",
         "id": "35288d7f-1d50-4b65-b9cd-c67edce444ae",
         "title": "Business Intelligence Analyst Intern - Sophomores Preferred - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -35353,7 +35353,7 @@
         "company_name": "Techstars",
         "id": "87b9aab3-64b1-4318-b8dd-4cab3607ec91",
         "title": "Engineering Internship - Software Development - Summer 2024",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -35506,7 +35506,7 @@
         "company_name": "Oshkosh",
         "id": "d028fa62-6194-46cc-aa9a-fb63f4885de3",
         "title": "AI/Autonomy Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -35909,6 +35909,44 @@
             "Montreal, QC, Canada"
         ],
         "company_url": "https://simplify.jobs/c/ServiceNow",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "SMX",
+        "id": "dcb810b7-7af2-4a24-867d-44b28b16c916",
+        "title": "Summer Internship - Data and Software Engineering",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1698853073,
+        "date_posted": 1698853073,
+        "url": "https://www.smxtech.com/careers/?gh_jid=5789045003",
+        "locations": [
+            "Reston, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Smx",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Fetch",
+        "id": "55c22c9c-d85f-4423-8e2f-536aaf88e511",
+        "title": "Software Development Engineer in Test Apprentice - Sdet",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1698852453,
+        "date_posted": 1698852453,
+        "url": "https://boards.greenhouse.io/fetchrewards/jobs/5792458003",
+        "locations": [
+            "Madison, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/FetchRewards",
         "is_visible": true,
         "sponsorship": "Other"
     }
