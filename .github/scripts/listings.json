@@ -36386,5 +36386,24 @@
         "company_url": "https://simplify.jobs/c/Astranis",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1698905949,
+        "url": "https://www.konrad.com/careers/job/software-developer-intern-may-2024-4-months_5730015003",
+        "company_name": "Konrad",
+        "title": "Software Developer Intern",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "rygeorge",
+        "id": "52b5f85c-d1e6-4f77-b52f-124159f093cd",
+        "date_posted": 1698905949,
+        "company_url": "",
+        "is_visible": true
     }
 ]
