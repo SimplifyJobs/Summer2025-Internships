@@ -18321,7 +18321,7 @@
         "company_name": "Perpay",
         "id": "2eee6626-9257-4fab-b76a-0a8674d9aa8a",
         "title": "Data Science Internship - 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -35917,7 +35917,7 @@
         "company_name": "SMX",
         "id": "dcb810b7-7af2-4a24-867d-44b28b16c916",
         "title": "Summer Internship - Data and Software Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -35936,7 +35936,7 @@
         "company_name": "Fetch",
         "id": "55c22c9c-d85f-4423-8e2f-536aaf88e511",
         "title": "Software Development Engineer in Test Apprentice - Sdet",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -36031,7 +36031,7 @@
         "company_name": "SMX",
         "id": "e06f9ffb-7fa2-4f0b-8cc9-4d60cac14e37",
         "title": "Summer Internship - Data and Software Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -36460,6 +36460,44 @@
             "SF"
         ],
         "company_url": "https://simplify.jobs/c/Oura",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Brooklyn Investment Group",
+        "id": "0abe4acb-5d9d-4f8b-b839-797ed9e8168b",
+        "title": "Full-Stack Software Engineering Intern - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1698939422,
+        "date_posted": 1698939422,
+        "url": "https://jobs.lever.co/bkln/f17b6375-b9ae-4108-86a1-c380acb1f27d/apply",
+        "locations": [
+            "Brooklyn, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/bklninvest",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Bank of Montreal (BMO)",
+        "id": "598dd2e2-99fe-4bbc-8633-e01a021d10ac",
+        "title": "Software Developer \u2013 Co-op/Internship - Winter 2024 - 8 Months",
+        "active": true,
+        "terms": [
+            "Winter 2024"
+        ],
+        "date_updated": 1698937902,
+        "date_posted": 1698937902,
+        "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Software-Developer--Winter-2024--Co-op-Internship----8-Months_R230018877",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/BMO",
         "is_visible": true,
         "sponsorship": "Other"
     }
