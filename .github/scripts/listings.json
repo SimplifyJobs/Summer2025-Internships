@@ -36405,5 +36405,24 @@
         "date_posted": 1698905949,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1698906117,
+        "url": "https://jobs.gecareers.com/healthcare/global/en/job/R3730882/MR-Application-PSD-Development-Engineer-Internship",
+        "company_name": "GE",
+        "title": "MR Application/PSD Development Engineer",
+        "locations": [
+            "Waukesha, Wisconsin"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "VitaliPri",
+        "id": "117ef068-9a13-4ed8-a467-91e0420b1693",
+        "date_posted": 1698906117,
+        "company_url": "",
+        "is_visible": true
     }
 ]
