@@ -12020,7 +12020,7 @@
         "company_name": "Humane",
         "id": "16238106-3868-42b6-b5a1-24d1a5c69a37",
         "title": "System Software Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2024",
             "Summer 2024",
@@ -13679,7 +13679,7 @@
         "company_name": "Riot Games",
         "id": "9a5248e5-2787-40eb-a644-dc10bab12041",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2023"
         ],
@@ -18010,7 +18010,7 @@
         "company_name": "Walmart",
         "id": "41e26880-c5ba-48e4-96c1-1c6200f05ce5",
         "title": "2024 Summer Intern: Software Engineer II - Sam's Club \ud83d\udec2",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -26569,7 +26569,7 @@
         "company_name": "Braze",
         "id": "9afe7578-87f0-429b-a476-8fb4a30098b9",
         "title": "Software Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2023",
             "Summer 2023"
@@ -31250,7 +31250,7 @@
         "company_name": "Shield AI",
         "id": "6fa309af-1027-4df7-a331-daf596523fab",
         "title": "Integration & Test Engineering Intern - Summer 2024 - R2344",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -31402,7 +31402,7 @@
         "company_name": "Shield AI",
         "id": "954b7f2a-b390-4ef0-bd98-28cee7ad1906",
         "title": "Platform Automation Engineering Intern - Summer 2024 - R2343",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -31821,7 +31821,7 @@
         "company_name": "Leidos",
         "id": "e36b7c25-1b3d-458f-9a97-5ccf9c3e17b6",
         "title": "Data Scientist Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -35586,7 +35586,7 @@
         "company_name": "Leidos",
         "id": "25d05285-9cd7-4aad-befa-d82a987f0fa4",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -35662,7 +35662,7 @@
         "company_name": "Smartsheet",
         "id": "026b675f-bd6e-432f-9cb9-db0617d3283a",
         "title": "Software Engineer Intern - Timeline",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -35896,7 +35896,7 @@
         "company_name": "ServiceNow",
         "id": "f0e9d025-5134-42ba-a38f-c5af98a1c639",
         "title": "Machine Learning Engineer Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024",
             "Summer 2024",
@@ -36006,5 +36006,385 @@
         "date_posted": 1698865065,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Trace3",
+        "id": "67f5a7a8-7d94-44e6-8277-18c824902697",
+        "title": "AI Program Intern - Hybrid",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1698881962,
+        "date_posted": 1698881962,
+        "url": "https://boards.greenhouse.io/trace3/jobs/5477963",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Trace3",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "SMX",
+        "id": "e06f9ffb-7fa2-4f0b-8cc9-4d60cac14e37",
+        "title": "Summer Internship - Data and Software Engineering",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1698881797,
+        "date_posted": 1698881797,
+        "url": "https://www.smxtech.com/careers/?gh_jid=5789096003",
+        "locations": [
+            "Tampa, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Smx",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Kabam",
+        "id": "0d83ffbe-b984-4e33-b04a-55d559a31ba0",
+        "title": "Gameplay Engineer \u2013 Co-Op - January 2024",
+        "active": true,
+        "terms": [
+            "Winter 2024"
+        ],
+        "date_updated": 1698881731,
+        "date_posted": 1698881731,
+        "url": "https://jobs.lever.co/kabam/a98849e6-f64a-4def-9690-bb1ae1a7fc05/apply",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Kabam",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Salesforce",
+        "id": "0e3891ef-24b7-48f9-8854-2d4c92e1cc63",
+        "title": "Summer 2024 Intern - Developer Relations - Slack",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1698881411,
+        "date_posted": 1698881411,
+        "url": "https://salesforce.wd12.myworkdayjobs.com/en-us/External_Career_Site/job/California---San-Francisco/Summer-2024-Intern---Developer-Relations---Slack_JR226667-2",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Salesforce",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "ArteraAI",
+        "id": "92c65473-8766-45ed-9c88-c17cba11b5ec",
+        "title": "Machine Learning Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1698881391,
+        "date_posted": 1698881391,
+        "url": "https://jobs.lever.co/artera/82c93c81-1d5d-4490-9dbc-4c68af88e34f/apply",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/ArteraAI",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Northwestern Mutual",
+        "id": "beac7568-91c7-4ce0-b35a-e55a8ca4e4ff",
+        "title": "Data Science Internship - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1698881264,
+        "date_posted": 1698881264,
+        "url": "https://northwesternmutual.wd5.myworkdayjobs.com/corporate-careers/job/Milwaukee-WI-Corporate/Data-Science-Internship--Summer-2024_JR-39742",
+        "locations": [
+            "Milwaukee, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Northwestern-Mutual",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Intradiem",
+        "id": "dd25a35f-520a-4694-a7b7-6da3d546eed8",
+        "title": "Summer 2024 Architecture Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1698880689,
+        "date_posted": 1698880689,
+        "url": "https://boards.greenhouse.io/intradiem/jobs/4285807006",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Intradiem",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Intradiem",
+        "id": "b509987f-b0a4-4526-a8a3-599804f5a830",
+        "title": "Summer 2024 AI/ML Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1698880687,
+        "date_posted": 1698880687,
+        "url": "https://boards.greenhouse.io/intradiem/jobs/4285801006",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Intradiem",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Intradiem",
+        "id": "8c73b0d8-becc-4081-a24c-66ab5b3bf37b",
+        "title": "Summer 2024 Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1698880686,
+        "date_posted": 1698880686,
+        "url": "https://boards.greenhouse.io/intradiem/jobs/4285799006",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Intradiem",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Schonfeld",
+        "id": "6b720a32-14ac-4dda-84f0-e38ed1e8a82b",
+        "title": "2024 Operations Summer Internship",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1698880323,
+        "date_posted": 1698880323,
+        "url": "https://boards.greenhouse.io/schonfeld/jobs/5476077",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Schonfeld",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Bank of Montreal (BMO)",
+        "id": "adf40de8-6b36-4da8-81d4-595ad3c86dce",
+        "title": "Software Developer \u2013 Co-op/Internship - Winter 2024 - 4 months",
+        "active": true,
+        "terms": [
+            "Winter 2024"
+        ],
+        "date_updated": 1698880219,
+        "date_posted": 1698880219,
+        "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Software-Developer--Winter-2024--Co-op-Internship----4-months_R230018827",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/BMO",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "NVIDIA",
+        "id": "f1e26616-1ebb-450d-a7e7-ca3136bdb9bc",
+        "title": "Data Analyst Intern - Developer Programs - Spring 2024",
+        "active": true,
+        "terms": [
+            "Spring 2024"
+        ],
+        "date_updated": 1698880135,
+        "date_posted": 1698880135,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Data-Analyst-Intern--Developer-Programs---Spring-2024_JR1974558",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Astranis",
+        "id": "3522dad6-9198-4047-9211-3b26a01e6880",
+        "title": "Flight Software \u2013 Intern - Fall 2024",
+        "active": true,
+        "terms": [
+            "Fall 2024"
+        ],
+        "date_updated": 1698879999,
+        "date_posted": 1698879999,
+        "url": "https://boards.greenhouse.io/astranis/jobs/4300139006",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Astranis",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Astranis",
+        "id": "0acf59de-16a3-485c-b4e4-dc71711cbd60",
+        "title": "Flight Software \u2013 Intern - Winter 2024",
+        "active": true,
+        "terms": [
+            "Winter 2024"
+        ],
+        "date_updated": 1698879999,
+        "date_posted": 1698879999,
+        "url": "https://boards.greenhouse.io/astranis/jobs/4300138006",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Astranis",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Astranis",
+        "id": "0d4f8631-edb6-458d-a2bf-3e723c1ed399",
+        "title": "Ground Software \u2013 Intern - Winter 2024",
+        "active": true,
+        "terms": [
+            "Winter 2024"
+        ],
+        "date_updated": 1698879999,
+        "date_posted": 1698879999,
+        "url": "https://boards.greenhouse.io/astranis/jobs/4300167006",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Astranis",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Astranis",
+        "id": "1a76562e-ae02-452d-94ac-1ae46101eb92",
+        "title": "Ground Software \u2013 Intern - Spring 2024",
+        "active": true,
+        "terms": [
+            "Spring 2024"
+        ],
+        "date_updated": 1698879999,
+        "date_posted": 1698879999,
+        "url": "https://boards.greenhouse.io/astranis/jobs/4300164006",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Astranis",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Astranis",
+        "id": "c95680fe-f872-45fc-a9b4-9fcb165b2ded",
+        "title": "Flight Software \u2013 Intern - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1698879999,
+        "date_posted": 1698879999,
+        "url": "https://boards.greenhouse.io/astranis/jobs/4300140006",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Astranis",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Astranis",
+        "id": "5805f230-6e65-4d07-91d9-ae3d44a35fda",
+        "title": "Ground Software \u2013 Intern - Fall 2024",
+        "active": true,
+        "terms": [
+            "Fall 2024"
+        ],
+        "date_updated": 1698879998,
+        "date_posted": 1698879998,
+        "url": "https://boards.greenhouse.io/astranis/jobs/4300166006",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Astranis",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Astranis",
+        "id": "c82e02ba-b7c7-4ca9-8e46-28fe376a077c",
+        "title": "Flight Software \u2013 Intern - Spring 2024",
+        "active": true,
+        "terms": [
+            "Spring 2024"
+        ],
+        "date_updated": 1698879999,
+        "date_posted": 1698879999,
+        "url": "https://boards.greenhouse.io/astranis/jobs/4300137006",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Astranis",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Astranis",
+        "id": "781044ed-495d-4305-be22-449d5af4ff70",
+        "title": "Ground Software \u2013 Intern - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1698879999,
+        "date_posted": 1698879999,
+        "url": "https://boards.greenhouse.io/astranis/jobs/4300165006",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Astranis",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
