@@ -290,7 +290,7 @@
         "company_name": "PDT Partners",
         "id": "25342808-efbf-49cd-83be-6c0a809f5e22",
         "title": "Software Engineering Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -1038,7 +1038,7 @@
         "company_name": "Optiver US",
         "id": "8e3cc7a7-5d35-4a95-a1e5-53c4e791862e",
         "title": "HFT Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -6618,7 +6618,7 @@
         "company_name": "JD.com Inc",
         "id": "64ffd433-e533-476e-ac7d-e334067e1c1d",
         "title": "JD Logistics \u2013 Data Analyst Intern - Logistics/Supply Chain",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -11552,7 +11552,7 @@
         "company_name": "Tombras",
         "id": "ed6d6fa5-d7ca-4fc0-8b27-045fe535537e",
         "title": "Analytics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -20168,7 +20168,7 @@
         "company_name": "Bristol-Myers Squibb",
         "id": "1eae4a6e-4a34-4f8f-9be8-0c68ad9f4f91",
         "title": "Gene Delivery Process Development Intern or Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -27344,7 +27344,7 @@
         "company_name": "Unity",
         "id": "9d89604e-10fc-437d-963d-997b10e38235",
         "title": "Stagiaire en d\u00e9veloppement de logiciels \u2013 Software Developer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2024"
         ],
@@ -27536,7 +27536,7 @@
         "company_name": "Unity",
         "id": "7888e4e1-ecb6-49f2-bf89-45a136305212",
         "title": "Software Developer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2024"
         ],
@@ -27593,7 +27593,7 @@
         "company_name": "Unity",
         "id": "06f187a5-897b-4c12-92e0-04975e0da7e1",
         "title": "Software Developer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2024"
         ],
@@ -27612,7 +27612,7 @@
         "company_name": "Unity",
         "id": "eac79ee3-d461-46b5-a3b0-8b284f4d8426",
         "title": "Software Developer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2024"
         ],
@@ -27788,7 +27788,7 @@
         "company_name": "Ontario Teachers' Pension Plan",
         "id": "4d4801d6-818a-457f-8a72-98c9ddaad89c",
         "title": "Intern \u2013 Trading Floor Risk Analyst - Fall 2024 - Month term",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2024"
         ],
@@ -32499,7 +32499,7 @@
         "company_name": "Bristol-Myers Squibb",
         "id": "7b2e0988-41e7-4375-8160-ef5d371f9083",
         "title": "Summer 2024 \u2013 Internship - Applied Statistical Learning - Informatics & Predictive Science - Ips",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -32537,7 +32537,7 @@
         "company_name": "Bristol-Myers Squibb",
         "id": "ef9e7469-b321-4d3e-9bf1-d381f6e54c23",
         "title": "Summer 2024 \u2013 Internship - Data Science - Informatics and Predictive Sciences - Ips",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -36939,6 +36939,107 @@
             "Folsom, CA"
         ],
         "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Smartsheet",
+        "id": "d52ba3ba-0fd7-4115-a24d-da25c225dcc6",
+        "title": "Software Engineer Intern - Core Views",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1699026188,
+        "date_posted": 1699026188,
+        "url": "https://boards.greenhouse.io/smartsheet/jobs/5482530",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Smartsheet",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "CACI",
+        "id": "a0c4c989-6b8a-4f7e-b3df-b4d5c6202cd1",
+        "title": "Junior Software Developer Internship - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1699025255,
+        "date_posted": 1699025255,
+        "url": "https://caci.wd1.myworkdayjobs.com/External/job/US-VA-Ashburn/Junior-Software-Developer-Internship---Summer-2024_288747-1",
+        "locations": [
+            "Ashburn, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/CACI",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Leidos",
+        "id": "eb18d52e-ece2-4c12-9c61-cf6a7bafaf7b",
+        "title": "Cloud Onboarding Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1699024292,
+        "date_posted": 1699024292,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Orlando-FL/Cloud-Onboarding-Intern_R-00122381",
+        "locations": [
+            "Orlando, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Proofpoint",
+        "id": "93ff6a62-e0d2-454a-b7fa-b1c92fdd8ba1",
+        "title": "Software Engineer Placement Year Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024",
+            "Fall 2024",
+            "Winter 2025",
+            "Spring 2025"
+        ],
+        "date_updated": 1699024210,
+        "date_posted": 1699024210,
+        "url": "https://proofpoint.wd5.myworkdayjobs.com/en-US/ProofpointCareers/job/Belfast-Northern-Ireland/Software-Engineer-Placement-Year-Intern_R9814",
+        "locations": [
+            "Belfast, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/proofpoint",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Proofpoint",
+        "id": "1980a2c6-1e73-49d4-942e-669883407ccb",
+        "title": "Software Engineer Placement Year Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024",
+            "Fall 2024",
+            "Winter 2025",
+            "Spring 2025"
+        ],
+        "date_updated": 1699024210,
+        "date_posted": 1699024210,
+        "url": "https://proofpoint.wd5.myworkdayjobs.com/en-US/ProofpointCareers/job/Belfast-Northern-Ireland/Software-Engineer-Placement-Year-Intern_R9813",
+        "locations": [
+            "Belfast, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/proofpoint",
         "is_visible": true,
         "sponsorship": "Other"
     }
