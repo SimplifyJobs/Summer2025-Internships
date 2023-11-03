@@ -886,7 +886,7 @@
         "company_name": "Fetch",
         "id": "e9f9aa30-d548-4879-bdd8-0d2f776d7169",
         "title": "Backend Engineering Apprenticeship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -4462,7 +4462,7 @@
         "company_name": "Fetch",
         "id": "dc06cfde-bf97-4015-b373-43fe379914dd",
         "title": "Backend Engineering \u2013 Apprenticeship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -11791,7 +11791,7 @@
         "company_name": "Chamberlain Group",
         "id": "7d62dd25-715d-4dd0-af10-3cae14c37454",
         "title": "Intern \u2013 Data Science - Advanced Analytics - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -19957,7 +19957,7 @@
         "company_name": "Dev Technology Group",
         "id": "dbfb863a-1944-4209-90cf-b92b724b57ae",
         "title": "Summer React/Node Application Developer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2023"
         ],
@@ -19995,7 +19995,7 @@
         "company_name": "Dev Technology Group",
         "id": "0ad38fd3-6aa1-41b0-9c8d-769fe4f4997b",
         "title": "Summer Low-Code/No Code \u2013 Developer Intern - Servicenow",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2023"
         ],
@@ -21229,7 +21229,7 @@
         "company_name": "Bose",
         "id": "0759494c-6fab-4f2e-a436-2dcebd93989b",
         "title": "Wearables Embedded Engineering Co-Op",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025",
             "Spring 2025",
@@ -24131,7 +24131,7 @@
         "company_name": "Quanterix",
         "id": "27eaf577-7162-4954-9f9a-f948db35257b",
         "title": "Simoa Software Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -31918,7 +31918,7 @@
         "company_name": "Duolingo",
         "id": "f4990d75-553a-4751-a1ef-483cef53799a",
         "title": "Operations Engineer \u2013 Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2023"
         ],
@@ -34693,7 +34693,7 @@
         "company_name": "First Mode",
         "id": "8ea03deb-a142-47bd-bfe1-5f812b4a1aaa",
         "title": "Software Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -36498,6 +36498,388 @@
             "Toronto, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/BMO",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Lyft",
+        "id": "bd0d2320-8de8-4889-b9f5-dfa3b550afbc",
+        "title": "Software Engineer Intern - Backend - Toronto - 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1698968433,
+        "date_posted": 1698968433,
+        "url": "https://app.careerpuck.com/job-board/lyft/job/7001950002?gh_jid=7001950002",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Lyft",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Lyft",
+        "id": "ad132b4f-ea5f-474d-a57c-63bc36f80c23",
+        "title": "Software Engineer Intern - Mobile iOS - Toronto - 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1698968433,
+        "date_posted": 1698968433,
+        "url": "https://app.careerpuck.com/job-board/lyft/job/7003369002?gh_jid=7003369002",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Lyft",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Lyft",
+        "id": "6f1ea2ad-221e-42a5-89d9-2aee7562e02f",
+        "title": "Software Engineer Intern - Mobile Android - Toronto - 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1698968433,
+        "date_posted": 1698968433,
+        "url": "https://app.careerpuck.com/job-board/lyft/job/7001972002?gh_jid=7001972002",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Lyft",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Weee!",
+        "id": "a14fc805-6cdd-4fde-a5f0-d9cbf68a2ea4",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1698968375,
+        "date_posted": 1698968375,
+        "url": "https://about.sayweee.com/careers/career_list?gh_jid=5791537003",
+        "locations": [
+            "Fremont, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Weee!",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Blizzard Entertainment",
+        "id": "01774b33-56d0-498b-b886-e7a30bb8a2a1",
+        "title": "2024 US Summer Internship - Analytics & Data Science",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1698968398,
+        "date_posted": 1698968398,
+        "url": "https://activision.wd1.myworkdayjobs.com/Blizzard_External_Careers/job/Irvine---Blizzard---Blizzard-Way/XMLNAME-2024-US-Summer-Internship---Analytics---Data-Science_R021985",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Blizzard-Entertainment",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Smartsheet",
+        "id": "3c6ec658-c370-4cb1-bd80-ca75ddbf9f20",
+        "title": "Software Engineer Intern - Workspaces",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1698968342,
+        "date_posted": 1698968342,
+        "url": "https://boards.greenhouse.io/smartsheet/jobs/5481225",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Smartsheet",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Alluxio",
+        "id": "c5cb6a57-723a-4944-ba62-aabd4bd633de",
+        "title": "Distributed Systems Engineer Intern - Foster City",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1698968325,
+        "date_posted": 1698968325,
+        "url": "https://jobs.lever.co/alluxio/6c267338-02d6-44f4-9668-782c06d9542c/apply",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Alluxio",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Toyota Research Institute",
+        "id": "bf87fb64-fc33-4840-be0c-50c01222e774",
+        "title": "Robotics Intern - Dynamics and Simulation",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1698967711,
+        "date_posted": 1698967711,
+        "url": "https://jobs.lever.co/tri/e602a5e6-a400-412b-96cf-c5c82a9adb33/apply",
+        "locations": [
+            "Cambridge, MA",
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Toyota-Research-Institute",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Toyota Research Institute",
+        "id": "79989bda-e234-40e1-a631-10a0e1b9d5fa",
+        "title": "Robotics Intern - Mobile Manipulation - Behaviors",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1698967710,
+        "date_posted": 1698967710,
+        "url": "https://jobs.lever.co/tri/210bb761-412d-405d-b928-32a98d8088cc/apply",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Toyota-Research-Institute",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Toyota Research Institute",
+        "id": "a045a046-4fba-4137-95ab-007e4bd08410",
+        "title": "ML for Battery Manufacturing Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1698967702,
+        "date_posted": 1698967702,
+        "url": "https://jobs.lever.co/tri/a2012e76-64a8-43f5-8689-568535101fb6/apply",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Toyota-Research-Institute",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Wayfair",
+        "id": "155da825-e203-4ba5-b5d2-4ab887f40c36",
+        "title": "Marketing Technical Analyst Intern - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1698967094,
+        "date_posted": 1698967094,
+        "url": "https://www.wayfair.com/careers/jobs/7004568002?gh_jid=7004568002",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Wayfair",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Anduril",
+        "id": "c437a296-5d01-42ad-829c-b35d7adc11c3",
+        "title": "Firmware Engineer Intern-Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1698966882,
+        "date_posted": 1698966882,
+        "url": "https://jobs.lever.co/anduril/097a5e73-0a9f-4f8a-8ec3-15fd04629e7e/apply",
+        "locations": [
+            "Newport Beach, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Anduril",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Symbotic",
+        "id": "bb461fb3-295e-453e-97a9-3bf751f15543",
+        "title": "Intern-Wireless Communication",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1698966680,
+        "date_posted": 1698966680,
+        "url": "https://symbotic.wd1.myworkdayjobs.com/en-US/Symbotic/job/USA-Wilmington--MA---HQ/Intern-Wireless-Communication_R2858",
+        "locations": [
+            "Burlington, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/symbotic",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "NVIDIA",
+        "id": "69564cc1-019f-438a-92d9-3f2f6e89dbb4",
+        "title": "Research Scientist Intern - Simulation Technology - 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1698966573,
+        "date_posted": 1698966573,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/Canada-Toronto/Research-Scientist-Intern--Simulation-Technology---2024_JR1973536",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Astranis",
+        "id": "a4d46041-dd86-4679-ae0e-46dc85ee4eea",
+        "title": "Software Systems Hardware Integration Engineer \u2013 Intern - Spring 2024",
+        "active": true,
+        "terms": [
+            "Spring 2024"
+        ],
+        "date_updated": 1698966413,
+        "date_posted": 1698966413,
+        "url": "https://boards.greenhouse.io/astranis/jobs/4300485006",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Astranis",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Astranis",
+        "id": "5b567771-90d1-42de-ac76-5cd8d0136f4c",
+        "title": "Software Systems Hardware Integration Engineer \u2013 Intern - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1698966409,
+        "date_posted": 1698966409,
+        "url": "https://boards.greenhouse.io/astranis/jobs/4300486006",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Astranis",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Astranis",
+        "id": "42844860-966a-4756-a373-2c6fe3007c5c",
+        "title": "Software Systems Hardware Integration Engineer \u2013 Intern - Fall 2024",
+        "active": true,
+        "terms": [
+            "Fall 2024"
+        ],
+        "date_updated": 1698966408,
+        "date_posted": 1698966408,
+        "url": "https://boards.greenhouse.io/astranis/jobs/4300487006",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Astranis",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Astranis",
+        "id": "df06a550-87e6-4363-a00f-a8797126bf1e",
+        "title": "Full Stack Developer Intern - Web Scraping",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1698966407,
+        "date_posted": 1698966407,
+        "url": "https://boards.greenhouse.io/astranis/jobs/4300569006",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Astranis",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Astranis",
+        "id": "6e7cfd6a-4ecd-47ce-81b8-2cb196966a6b",
+        "title": "Software Systems Hardware Integration Engineer \u2013 Intern - Winter 2024",
+        "active": true,
+        "terms": [
+            "Winter 2024"
+        ],
+        "date_updated": 1698966410,
+        "date_posted": 1698966410,
+        "url": "https://boards.greenhouse.io/astranis/jobs/4300488006",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Astranis",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "PayPal",
+        "id": "5f25a596-8cb9-42f8-8fcd-8f80b20a3a8c",
+        "title": "Accounting Intern",
+        "active": true,
+        "terms": [
+            "Spring 2024",
+            "Fall 2024"
+        ],
+        "date_updated": 1698966282,
+        "date_posted": 1698966282,
+        "url": "https://wd1.myworkdaysite.com/recruiting/paypal/jobs/job/Omaha-Nebraska-United-States-of-America/Accounting-Intern_R0107437",
+        "locations": [
+            "Omaha, NE"
+        ],
+        "company_url": "https://simplify.jobs/c/PayPal",
         "is_visible": true,
         "sponsorship": "Other"
     }
