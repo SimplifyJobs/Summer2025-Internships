@@ -36882,5 +36882,26 @@
         "company_url": "https://simplify.jobs/c/PayPal",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1698981829,
+        "url": "https://app.ripplematch.com/v2/public/job/c7d28bdf/details?from_page=company_branded_page",
+        "company_name": "Reddit",
+        "title": "Software Engineering Intern (2024)",
+        "locations": [
+            "NYC",
+            "SF",
+            "Remote"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "swh00tw",
+        "id": "610cbdbe-db58-42b6-8922-41306d50382f",
+        "date_posted": 1698981829,
+        "company_url": "",
+        "is_visible": true
     }
 ]
