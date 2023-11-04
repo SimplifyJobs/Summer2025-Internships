@@ -10527,7 +10527,7 @@
         "company_name": "Intel",
         "id": "d638b35d-c71b-4c2d-912b-32f9cffac5d5",
         "title": "Compiler Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2024"
         ],
@@ -10546,7 +10546,7 @@
         "company_name": "Intel",
         "id": "37102699-9465-4503-b08a-e1d3a81694ec",
         "title": "Compiler Engineering PEY Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024"
         ],
@@ -14134,7 +14134,7 @@
         "company_name": "Wellmark",
         "id": "8f7a873e-5389-43b4-8b68-821983bde018",
         "title": "Data Analytics & Governance Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025",
             "Spring 2025"
@@ -17716,7 +17716,7 @@
         "company_name": "Klaviyo",
         "id": "b045cf9c-7398-48dd-8579-fb929ce58d71",
         "title": "Summer 2024 Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -18010,7 +18010,7 @@
         "company_name": "Walmart",
         "id": "41e26880-c5ba-48e4-96c1-1c6200f05ce5",
         "title": "2024 Summer Intern: Software Engineer II - Sam's Club \ud83d\udec2",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -23865,7 +23865,7 @@
         "company_name": "Torc Robotics",
         "id": "738a47e7-9030-4195-991d-73dd7be34db7",
         "title": "Python Visualization and Testing Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2023"
         ],
@@ -28599,7 +28599,7 @@
         "company_name": "Crowdstrike",
         "id": "fc3f6f9d-c5a4-43c6-bdd0-83479ecc50f7",
         "title": "Sales Excellence Data Quality Intern - Part Time",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -28877,7 +28877,7 @@
         "company_name": "Eulerity",
         "id": "602118ef-0612-4617-b10d-9b190659a75c",
         "title": "Backend Java Developer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2023"
         ],
@@ -29124,7 +29124,7 @@
         "company_name": "Kepler Communications",
         "id": "490bc475-11c1-477d-8797-57034fa17eee",
         "title": "Software Engineering Intern - Winter 2024 - 4 - Months",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2024"
         ],
@@ -29479,7 +29479,7 @@
         "company_name": "Branch",
         "id": "9fcfa6f0-29de-4576-8599-3e3d4a092d3c",
         "title": "Backend Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2023"
         ],
@@ -32195,7 +32195,7 @@
         "company_name": "Intel",
         "id": "2b89a119-f1c7-4bae-9d56-1f0569cf89e2",
         "title": "Foundational AI Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -32480,7 +32480,7 @@
         "company_name": "Rhombus",
         "id": "a2507c3c-8138-494b-9c39-a71d004a0bbd",
         "title": "Summer Engineering Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2023"
         ],
@@ -33081,7 +33081,7 @@
         "company_name": "OCC",
         "id": "d47ab259-1a4a-44ad-a9aa-3ace8501ac4a",
         "title": "Year-Round Intern - UI/UX",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -35586,7 +35586,7 @@
         "company_name": "Leidos",
         "id": "25d05285-9cd7-4aad-befa-d82a987f0fa4",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -36107,7 +36107,7 @@
         "company_name": "Northwestern Mutual",
         "id": "beac7568-91c7-4ce0-b35a-e55a8ca4e4ff",
         "title": "Data Science Internship - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -36601,7 +36601,7 @@
         "company_name": "Smartsheet",
         "id": "3c6ec658-c370-4cb1-bd80-ca75ddbf9f20",
         "title": "Software Engineer Intern - Workspaces",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -36735,7 +36735,7 @@
         "company_name": "Symbotic",
         "id": "bb461fb3-295e-453e-97a9-3bf751f15543",
         "title": "Intern-Wireless Communication",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -37040,6 +37040,177 @@
             "Belfast, UK"
         ],
         "company_url": "https://simplify.jobs/c/proofpoint",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Schoolhouse",
+        "id": "1885e05f-9a22-471c-ba22-2d2178b35e30",
+        "title": "Software Engineer Intern - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1699054575,
+        "date_posted": 1699054575,
+        "url": "https://jobs.lever.co/schoolhouseworld/8b89f4c4-ab6b-440c-9f43-4df6a7ea5982/apply",
+        "locations": [
+            "California"
+        ],
+        "company_url": "https://simplify.jobs/c/Schoolhouse",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Zip",
+        "id": "67833090-8398-49f6-8f8b-9d8850369901",
+        "title": "2024 Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1699054476,
+        "date_posted": 1699054476,
+        "url": "https://boards.greenhouse.io/zip/jobs/4971029004",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Zip",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Eulerity",
+        "id": "fd72919b-5b32-4596-a15b-9aebf7dff235",
+        "title": "Web Developer Intern",
+        "active": true,
+        "terms": [
+            "Spring 2023"
+        ],
+        "date_updated": 1699053939,
+        "date_posted": 1699053939,
+        "url": "https://boards.greenhouse.io/eulerity/jobs/4294867006",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Eulerity",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Mark43",
+        "id": "e81d1352-b56f-40bb-9628-9f0573e4ec23",
+        "title": "Engineering Intern-Summer 2024-Canada",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1699053755,
+        "date_posted": 1699053755,
+        "url": "https://mark43.com/list-job/5482886?gh_jid=5482886",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Mark43",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Sentry",
+        "id": "a8851914-2a7e-44f8-8977-5f89030535e8",
+        "title": "Developer Relations \u2013 Intern - Devrel - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1699053439,
+        "date_posted": 1699053439,
+        "url": "https://boards.greenhouse.io/sentry/jobs/5483175",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Sentry",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Electric Hydrogen",
+        "id": "e407aefd-6a0a-45f0-9831-b45431a47b18",
+        "title": "Research and Development-Data Analysis Co-Op-Summer-Dec 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1699053151,
+        "date_posted": 1699053151,
+        "url": "https://eh2.com/careers?gh_jid=4314767005",
+        "locations": [
+            "Framingham, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/EH2",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Visa",
+        "id": "0f3dc7b7-8b04-4120-9ee4-6f30fee7bb74",
+        "title": "Software Engineer \u2013 Intern - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1699053181,
+        "date_posted": 1699053181,
+        "url": "https://jobs.smartrecruiters.com/Visa/743999941992248",
+        "locations": [
+            "Ashburn, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Visa",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Rockwell Automation",
+        "id": "49a05496-bc60-4e80-957f-93e8e7c38ae4",
+        "title": "Intern \u2013 Firmware Test Development",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1699052770,
+        "date_posted": 1699052770,
+        "url": "https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Mequon-Wisconsin-United-States/Intern--Firmware-Test-Development_R23-12415-1",
+        "locations": [
+            "Mequon, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Rockwell-Automation",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Mozilla",
+        "id": "5c178118-7d77-4493-95c0-b845c139a69f",
+        "title": "Mobile Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1699052704,
+        "date_posted": 1699052704,
+        "url": "https://boards.greenhouse.io/mozilla/jobs/5425138",
+        "locations": [
+            "Remote"
+        ],
+        "company_url": "https://simplify.jobs/c/Mozilla",
         "is_visible": true,
         "sponsorship": "Other"
     }
