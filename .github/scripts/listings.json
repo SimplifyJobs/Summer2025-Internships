@@ -37213,5 +37213,24 @@
         "company_url": "https://simplify.jobs/c/Mozilla",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1699137986,
+        "url": "https://www.google.com/about/careers/applications/jobs/results/98240084274225862-technical-program-manager-intern-bsms-summer-2024",
+        "company_name": "Google",
+        "title": "Technical Program Manager Intern, BS/MS",
+        "locations": [
+            "Multiple US Locations"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "andrew-kan",
+        "id": "42a086a3-5766-4586-b882-ddb98e861556",
+        "date_posted": 1699137986,
+        "company_url": "",
+        "is_visible": true
     }
 ]
