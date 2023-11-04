@@ -19672,7 +19672,7 @@
         "terms": [
             "Summer 2024"
         ],
-        "date_updated": 1695074850,
+        "date_updated": 1699068719,
         "date_posted": 1694791382,
         "url": "https://boards.greenhouse.io/embed/job_app?token=5342482",
         "locations": [
@@ -19680,8 +19680,8 @@
             "London, UK"
         ],
         "company_url": "https://simplify.jobs/c/Squarepoint-Capital",
-        "is_visible": true,
-        "sponsorship": "Offers Sponsorship"
+        "is_visible": false,
+        "sponsorship": "Other"
     },
     {
         "source": "Simplify",
