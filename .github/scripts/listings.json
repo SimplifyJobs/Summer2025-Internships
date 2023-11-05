@@ -37232,5 +37232,25 @@
         "date_posted": 1699137986,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1699213382,
+        "url": "https://autodesk.wd1.myworkdayjobs.com/uni/job/Ontario-CAN---Remote/Software-Engineer-Intern--Winter-2024-_23WD72449?src=JB-10065&source=LinkedIn",
+        "company_name": "Autodesk",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "Montreal, QC",
+            "Remote Ontario"
+        ],
+        "terms": [
+            "Winter 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "rygeorge",
+        "id": "5622a682-03a7-40f0-9c49-e598d55f7727",
+        "date_posted": 1699213382,
+        "company_url": "",
+        "is_visible": true
     }
 ]
