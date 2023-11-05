@@ -1271,7 +1271,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | ↳ | Quant Trader Intern | NYC | <a href="https://fiverings.avature.net/careers/FolderDetail/New-York-New-York-United-States-Quantitative-Trader-Summer-Intern-2024/643?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 31 |
 | **[Red Ventures](https://simplify.jobs/c/Red-Ventures)** | 2024 Launch Program: Data Analyst Intern | Charlotte, NC | <a href="https://www.redventures.com/careers/apply/5209748?gh_jid=5209748&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/6da70f1b-9544-4e8f-896d-ec7e5b718106?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jul 30 |
 | **[Gecko Robotics](https://simplify.jobs/c/Gecko-Robotics)** | Software Engineering Internship - Summer 2024 | Boston, MA | <a href="https://www.geckorobotics.com/careers/apply?gh_jid=5695257003&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 30 |
-| ↳ | Software Engineering Internship - Summer 2024 | Boston, MA | 🔒 | Jul 30 |
+| ↳ | Software Engineer Intern | Boston, MA | 🔒 | Jul 30 |
 | ↳ | Software Engineer - Robot Systems-Internship | Pittsburgh, PA | 🔒 | Jul 30 |
 | **[Fetch](https://simplify.jobs/c/FetchRewards)** | Backend Engineering – Apprenticeship | Madison, WI | 🔒 | Jul 30 |
 | **[Capital One](https://simplify.jobs/c/Capital-One)** | Cyber Security Internship Program | Plano, TX</br>McLean, VA | 🔒 | Jul 30 |
