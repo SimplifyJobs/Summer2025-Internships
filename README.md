@@ -1449,7 +1449,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | Royal Bank of Canada | Quantitative Technology Services Intern | Jersey City, NJ | 🔒 | Jun 2023 |
 | KeyBank | Digital Banking Intern  🛂 | Brooklyn, OH | 🔒 | Jun 2023 |
 | Blackstone | Quantitative Strategy Intern | NYC | 🔒 | Jun 2023 |
-| Nomura | Information Technology Summer Analyst Program | NYC | <a href="https://nomuracampus.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/xf-3348347fc789/candidate/so/pm/1/pl/1/opp/877-2024-Information-Technology-Summer-Analyst-Program/en-GB?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 2023 |
+| Nomura | 2024 - Information Technology - Summer Analyst Program | NYC | 🔒 | May 2023 |
 | Morgan Stanley | 2024 Technology Summer Analyst Program (Alpharetta) | Alpharetta, GA | 🔒 | May 2023 |
 | ↳ | Technology Summer Analyst Program | NYC | 🔒 | May 2023 |
 | BNP | Software Engineering Intern | Jersey City, NJ | 🔒 | May 2023 |
