@@ -37252,5 +37252,25 @@
         "date_posted": 1699213382,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1699227938,
+        "url": "https://jobs.lever.co/weride/18ee06ad-a8a7-4bd9-9205-3f465f5068be",
+        "company_name": "WeRide",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "terms": [
+            "Spring 2024",
+            "Summer 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "rygeorge",
+        "id": "46cfced8-e037-4576-8b65-54d658268d72",
+        "date_posted": 1699227938,
+        "company_url": "",
+        "is_visible": true
     }
 ]
