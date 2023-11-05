@@ -19784,7 +19784,7 @@
         "company_name": "T.Rowe Price",
         "id": "a27bc46e-84da-4b1c-b430-135b3dc9a1b2",
         "title": "2024 Software Engineering Internship Program",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -36947,7 +36947,7 @@
         "company_name": "Smartsheet",
         "id": "d52ba3ba-0fd7-4115-a24d-da25c225dcc6",
         "title": "Software Engineer Intern - Core Views",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
