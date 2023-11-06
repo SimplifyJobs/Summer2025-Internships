@@ -37272,5 +37272,24 @@
         "date_posted": 1699227938,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "NVIDIA",
+        "id": "c3dac93f-fe4c-4c2f-9258-f259b606365a",
+        "title": "Software Intern - Autonomous Vehicles - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1699229419,
+        "date_posted": 1699229419,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/Korea-Seoul/Software-Intern--Autonomous-Vehicles---Summer-2024_JR1974988",
+        "locations": [
+            "Remote"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
