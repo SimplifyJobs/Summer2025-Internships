@@ -1059,7 +1059,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | **[Domo](https://simplify.jobs/c/Domo)** | Product Insights Intern | American Fork, UT | 🔒 | Aug 23 |
 | **[Scale AI](https://simplify.jobs/c/Scale-AI)** | Software Engineering Intern | SF | 🔒 | Aug 22 |
 | **[Ontario Teachers' Pension Plan](https://simplify.jobs/c/d4b46db7-7c4d-4097-bc34-341875b5b6ab)** | Intern – Middleware Analyst - Summer - Month contract | Toronto, ON, Canada | 🔒 | Aug 22 |
-| **[Jump Trading](https://simplify.jobs/c/Jump-Trading)** | Campus Quantitative Trader – Intern | London, UK | <a href="https://boards.greenhouse.io/embed/job_app?token=5311340&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/d2451682-3a7c-4860-99f9-866c4d87200f?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Aug 22 |
 | **[Intel](https://simplify.jobs/c/Intel)** | Design Automation Intern | Austin, TX | 🔒 | Aug 22 |
 | **[Epic Games](https://simplify.jobs/c/Epic-Games)** | Physics Programmer Intern | Morrisville, NC | 🔒 | Aug 22 |
 | **[DoorDash](https://simplify.jobs/c/DoorDash)** | Software Engineer – Intern - Summer 2024 | <details><summary>**4 locations**</summary>Seattle, WA</br>SF</br>LA</br>NYC</details> | 🔒 | Aug 22 |
