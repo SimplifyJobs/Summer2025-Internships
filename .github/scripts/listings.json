@@ -37867,5 +37867,43 @@
         "company_url": "https://simplify.jobs/c/Rockwell-Automation",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Cockroach Labs",
+        "id": "c9b4fce5-af22-4a3e-9d79-49607c75cef8",
+        "title": "Software Engineer Summer Intern - Site Reliability - New York City",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1699346260,
+        "date_posted": 1699346260,
+        "url": "https://www.cockroachlabs.com/careers/job/?gh_jid=5488784",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Cockroach-Labs",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Cockroach Labs",
+        "id": "7658576d-9fa3-46ae-a26a-dec949b4d76d",
+        "title": "Software Engineer Summer Intern - Frontend - New York City",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1699346259,
+        "date_posted": 1699346259,
+        "url": "https://www.cockroachlabs.com/careers/job/?gh_jid=5488779",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Cockroach-Labs",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
