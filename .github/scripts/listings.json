@@ -7367,7 +7367,7 @@
         "company_name": "PayPal",
         "id": "de7f25d2-af21-4fc7-be7f-633e662b4300",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2024",
             "Fall 2024"
@@ -12361,7 +12361,7 @@
         "company_name": "Virtu Financial",
         "id": "7e47dc7c-80d0-4b4c-b855-4a7aed7c2657",
         "title": "Women's Winternship",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2024"
         ],
@@ -13102,7 +13102,7 @@
         "company_name": "Santander",
         "id": "5c4b3664-c2be-47c0-b126-ae7233d6abf1",
         "title": "Internal Audit Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2023"
         ],
@@ -15886,7 +15886,7 @@
         "company_name": "Oshkosh",
         "id": "2a0a015d-f21a-48ee-92fc-07541f0a12f9",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -23884,7 +23884,7 @@
         "company_name": "Finra",
         "id": "a0088a85-ced0-4ac7-921b-e9d0141b5204",
         "title": "2024 Summer Corporate Internship Program - Python Developer - Technology",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -24621,7 +24621,7 @@
         "company_name": "Finra",
         "id": "f3a9363a-430c-41e7-94ca-bc2cab1d4bca",
         "title": "2024 Summer Corporate Internship Program - Cyber Security",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -29892,7 +29892,7 @@
         "company_name": "NVIDIA",
         "id": "8b9d3928-8b44-4eda-9fca-d93680b8306c",
         "title": "Research Intern - Simulation Technology - Fall 2023",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2023"
         ],
@@ -36985,7 +36985,7 @@
         "company_name": "Leidos",
         "id": "eb18d52e-ece2-4c12-9c61-cf6a7bafaf7b",
         "title": "Cloud Onboarding Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -37903,6 +37903,25 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/Cockroach-Labs",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "DriveWealth",
+        "id": "f051a2eb-d2c1-431a-9c56-7e9f12bc4db5",
+        "title": "Summer 2024 Intern - Platform Services",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1699374770,
+        "date_posted": 1699374770,
+        "url": "https://boards.greenhouse.io/drivewealth/jobs/5797622003",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/DriveWealth",
         "is_visible": true,
         "sponsorship": "Other"
     }
