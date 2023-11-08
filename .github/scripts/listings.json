@@ -37962,5 +37962,26 @@
         "company_url": "https://simplify.jobs/c/Visa",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1699423949,
+        "url": "https://www.metacareers.com/v2/jobs/1007975740551656/",
+        "company_name": "Meta",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "Menlo Park, CA",
+            "New York, NY",
+            "Seattle, WA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "harrynwosu",
+        "id": "0ee474fe-4c9c-4a2b-b083-f913e01681b6",
+        "date_posted": 1699423949,
+        "company_url": "",
+        "is_visible": true
     }
 ]
