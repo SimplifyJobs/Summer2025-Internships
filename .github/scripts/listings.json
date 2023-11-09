@@ -34858,7 +34858,7 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1698404964,
+        "date_updated": 1699564190,
         "url": "https://www.coinbase.com/careers/positions/5442125?gh_jid=5442125",
         "company_name": "Coinbase",
         "title": "Software Engineer Intern, Backend",
@@ -34869,7 +34869,7 @@
             "Summer 2024"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "lucas-amberg",
         "id": "e4b63fa2-f6f1-4137-b94b-b9882ae30066",
         "date_posted": 1698404964,
