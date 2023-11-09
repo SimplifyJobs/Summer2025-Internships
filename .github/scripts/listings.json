@@ -924,7 +924,7 @@
         "company_name": "Fetch",
         "id": "d1d43883-04ce-4f37-ac2d-4997658f1182",
         "title": "Android Apprenticeship - Mobile Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -15131,7 +15131,7 @@
         "company_name": "Torc Robotics",
         "id": "07fbb0c2-fa0d-4fec-a9ab-1abdf6e24660",
         "title": "Software Development Engineer in Test \u2013 Co-Op - Sdet",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -16753,7 +16753,7 @@
         "company_name": "Rockwell Automation",
         "id": "5a914356-cd7f-45a5-bf26-10c24b5fa793",
         "title": "Intern \u2013 Hardware Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -24150,7 +24150,7 @@
         "company_name": "Torc Robotics",
         "id": "013c395a-f242-4fd0-84d2-87bcce1bfe7d",
         "title": "Vision Integration Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2024"
         ],
@@ -24960,7 +24960,7 @@
         "company_name": "84.51 Degrees",
         "id": "b2223549-ee20-4080-ab2f-70a2b7698fbf",
         "title": "Software Engineer \u2013 Co-op Program - Spring 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024"
         ],
@@ -26470,7 +26470,7 @@
         "company_name": "Autodesk",
         "id": "de19207f-9750-42f1-9e53-df1c93d34cf5",
         "title": "Software Engineer Intern - Winter 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2024"
         ],
@@ -29759,7 +29759,7 @@
         "company_name": "Autodesk",
         "id": "90afadcf-d910-4d2b-99a5-056c9b779303",
         "title": "Software Engineer Intern - Winter 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2024"
         ],
@@ -33696,7 +33696,7 @@
         "company_name": "Credit Karma",
         "id": "e8b50019-b51c-454a-a43c-5b372f508ee3",
         "title": "Software Engineering Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -34977,7 +34977,7 @@
         "company_name": "MarketAxess",
         "id": "5fedc293-ecf5-402b-aa35-627cbe8177af",
         "title": "Open Trading Intern 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -36088,7 +36088,7 @@
         "company_name": "ArteraAI",
         "id": "92c65473-8766-45ed-9c88-c17cba11b5ec",
         "title": "Machine Learning Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -38384,6 +38384,63 @@
             "Ashburn, VA"
         ],
         "company_url": "https://simplify.jobs/c/Visa",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Mark43",
+        "id": "df82dbfe-c30c-49b6-a248-576db2a1bd06",
+        "title": "Frontend Engineering Intern-Summer 2024 - New York",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1699551456,
+        "date_posted": 1699551456,
+        "url": "https://mark43.com/list-job/5437630?gh_jid=5437630",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Mark43",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": " TodayTix Group",
+        "id": "68cc8dfc-5b29-4605-a46e-4a42d0b3b172",
+        "title": "UK Backend Developer Intern - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1699550802,
+        "date_posted": 1699550802,
+        "url": "https://jobs.lever.co/todaytixgroup/4bef9525-ba3d-4268-9dcb-a9a3c124caa0/apply",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/TodayTixGroup",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Sentry",
+        "id": "c61d0718-a722-4beb-8f04-ff1ec593049f",
+        "title": "Developer Relations \u2013 Intern - Devrel - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1699550336,
+        "date_posted": 1699550336,
+        "url": "https://boards.greenhouse.io/sentry/jobs/5495927",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Sentry",
         "is_visible": true,
         "sponsorship": "Other"
     }
