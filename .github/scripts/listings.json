@@ -1860,7 +1860,7 @@
         "company_name": "Capstone",
         "id": "46d59094-84d8-4291-9ca0-f0fe98ba0231",
         "title": "Investment Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -1993,7 +1993,7 @@
         "company_name": "Ekimetrics",
         "id": "97964cb8-fdda-4a97-a78d-19c194e59388",
         "title": "6 months Internship in Strategy & Data Science",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -8063,7 +8063,7 @@
         "company_name": "Arrowstreet Capital",
         "id": "e6cd4a3e-6e5e-496b-bf45-b3a4c48c592a",
         "title": "Quantitative Developer Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -8184,7 +8184,7 @@
             "Summer 2024"
         ],
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "source": "Simplify",
         "id": "4bbc9f9c-7da7-491b-97b8-261834f8f5aa",
         "date_posted": 1692035653,
@@ -8203,7 +8203,7 @@
             "Summer 2024"
         ],
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "source": "Simplify",
         "id": "db06aa17-b068-4728-9165-bc972a337c0e",
         "date_posted": 1692035815,
@@ -14192,7 +14192,7 @@
         "company_name": "Stryker",
         "id": "3b9206b7-3bb1-4250-a815-4bcc507812bd",
         "title": "Data Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -14289,7 +14289,7 @@
         "company_name": "Stryker",
         "id": "edbaf5c3-5bef-4835-98b6-4b261234e5b8",
         "title": "Summer Internship 2024 - Data Analytics - Michigan",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -14308,7 +14308,7 @@
         "company_name": "Stryker",
         "id": "73dfb004-8b5d-4862-a73e-9d68e512dfc8",
         "title": "Intern \u2013 Data Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -14463,7 +14463,7 @@
         "company_name": "Stryker",
         "id": "b20fd8c6-e305-439d-a860-3067c27d1010",
         "title": "Sales Support Data Analytics Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -14558,7 +14558,7 @@
         "company_name": "Stryker",
         "id": "c94edd2a-aa2d-40cf-ab9a-11552295517a",
         "title": "Finance Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -16155,7 +16155,7 @@
         "company_name": "Eight Sleep",
         "id": "88ad9b27-7e03-48f3-b193-5a933468d34b",
         "title": "Data Engineering Co-Op - Research & Development",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -16600,7 +16600,7 @@
         "company_name": "Kinaxis",
         "id": "101f0f64-2f4b-4623-a55a-be146358d89f",
         "title": "Co-Op/Intern Software Test Developer - Algorithms",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2024"
         ],
@@ -19995,7 +19995,7 @@
         "company_name": "Dev Technology Group",
         "id": "0ad38fd3-6aa1-41b0-9c8d-769fe4f4997b",
         "title": "Summer Low-Code/No Code \u2013 Developer Intern - Servicenow",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -20862,7 +20862,7 @@
         "company_name": "Lucid Motors",
         "id": "7ee1027b-99b8-4274-af45-345c13324fec",
         "title": "Intern \u2013 Software Validation Engineer - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -24188,7 +24188,7 @@
         "company_name": "Zoox",
         "id": "56d0cf16-ff55-4a21-8428-1da5cd6ed446",
         "title": "Planning & Control Intern - Control",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -24751,7 +24751,7 @@
         "company_name": "Cruise",
         "id": "a8ede38b-c50b-458a-bd08-c4072a322e53",
         "title": "Intern \u2013 ML Horizontal Platforms",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -24770,7 +24770,7 @@
         "company_name": "Cruise",
         "id": "db856474-06da-4481-987a-d517e6c4533d",
         "title": "Intern \u2013 Data Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -24789,7 +24789,7 @@
         "company_name": "Cruise",
         "id": "72cb1eff-ce53-40dd-8f27-2ecc6569e1ae",
         "title": "Intern \u2013 Developer Environments",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -24808,7 +24808,7 @@
         "company_name": "Cruise",
         "id": "19b2f7d3-8993-4d80-adfb-328567599bd3",
         "title": "Intern \u2013 Sre - Reliability Insights",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -24827,7 +24827,7 @@
         "company_name": "Cruise",
         "id": "75580459-5729-495a-b9af-f4b9711a0834",
         "title": "Intern \u2013 Security Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -24846,7 +24846,7 @@
         "company_name": "Cruise",
         "id": "eb3eb364-53e5-4bc4-921a-f37a637a5df6",
         "title": "Intern \u2013 Enterprise Integration Services",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -24865,7 +24865,7 @@
         "company_name": "Cruise",
         "id": "8526b992-0261-4795-835c-75ab124238f1",
         "title": "Intern \u2013 In-Car Experience - Production Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -24884,7 +24884,7 @@
         "company_name": "Cruise",
         "id": "23acfdc5-d688-4421-b828-cb1dc835c923",
         "title": "Intern \u2013 Behaviors",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -24922,7 +24922,7 @@
         "company_name": "Optiver",
         "id": "0bac3a48-4573-48eb-8184-5380f413c46e",
         "title": "Campus: Software Engineer Intern - Summer 2024 - Chicago",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -24941,7 +24941,7 @@
         "company_name": "Optiver",
         "id": "4cb3632f-a207-48af-bfef-bb5be6642d3f",
         "title": "Campus: Software Engineer Intern - Summer 2024 - Austin",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -24960,7 +24960,7 @@
         "company_name": "84.51 Degrees",
         "id": "b2223549-ee20-4080-ab2f-70a2b7698fbf",
         "title": "Software Engineer \u2013 Co-op Program - Spring 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024"
         ],
@@ -25036,7 +25036,7 @@
         "company_name": "Optiver",
         "id": "1c0a9a89-a534-4246-8d4b-bf08b4728317",
         "title": "Campus: Quantitative Trader Intern - Summer 2024 - Chicago",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -25116,7 +25116,7 @@
         "company_name": "Cruise",
         "id": "c5a385a4-9b45-43ee-bb80-698b1b812eec",
         "title": "Intern \u2013 ML Behaviors Data",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -25154,7 +25154,7 @@
         "company_name": "Cruise",
         "id": "74769164-3e36-4d67-a043-9ec7b8b3b823",
         "title": "Intern \u2013 Embedded Systems - Sensing Software",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -25173,7 +25173,7 @@
         "company_name": "Gearset",
         "id": "cc835435-f4e9-4120-bffa-150e1eb181c2",
         "title": "Software Engineer Intern 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -26589,7 +26589,7 @@
         "company_name": "Cruise",
         "id": "d96f8c75-32d2-4dd3-a5a6-d980a9199e97",
         "title": "Intern \u2013 Simulation Applications",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -28758,7 +28758,7 @@
         "company_name": "Kinaxis",
         "id": "8834af0c-d023-4a16-9e7a-cade9ffe6d6e",
         "title": "Co-Op/Intern Software Developer - Algorithms - Quality",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2024"
         ],
@@ -29892,7 +29892,7 @@
         "company_name": "NVIDIA",
         "id": "8b9d3928-8b44-4eda-9fca-d93680b8306c",
         "title": "Research Intern - Simulation Technology - Fall 2023",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2023"
         ],
@@ -31231,7 +31231,7 @@
         "company_name": "Supernal",
         "id": "41168394-714d-4a72-b463-1214d4375280",
         "title": "Intern \u2013 SW Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2023"
         ],
@@ -31573,7 +31573,7 @@
         "company_name": "Gearset",
         "id": "fa7ef635-c80b-41fe-8836-16bcf70d2f94",
         "title": "Software Engineer Intern 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2023"
         ],
@@ -31840,7 +31840,7 @@
         "company_name": "HRL Laboratories",
         "id": "10cff5af-a860-4255-a7ab-bf2bac42bf2a",
         "title": "Fall Internship: Embedded Systems - RF Machine Learning",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2023"
         ],
@@ -35759,7 +35759,7 @@
         "company_name": "Intel",
         "id": "508ccd20-fa42-4475-a1be-992b3689f542",
         "title": "Software Enabling and Optimization Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -36928,7 +36928,7 @@
         "company_name": "Intel",
         "id": "517a75ef-274a-4f6b-8d58-bfd9a37b638e",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -37162,7 +37162,7 @@
         "company_name": "Visa",
         "id": "0f3dc7b7-8b04-4120-9ee4-6f30fee7bb74",
         "title": "Software Engineer \u2013 Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -37657,7 +37657,7 @@
         "company_name": "Regard",
         "id": "6b2eff04-81cf-4aae-97ea-dbd81aca899d",
         "title": "Internship Engineering - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -37949,7 +37949,7 @@
         "company_name": "Visa",
         "id": "14d0cad7-c886-4492-9e78-cfdeca1bdea1",
         "title": "Associate Data Scientist \u2013 Intern - Cybersecurity",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
