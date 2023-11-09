@@ -37926,7 +37926,7 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1699413945,
+        "date_updated": 1699564235,
         "url": "https://boards.greenhouse.io/conferenceapplications/jobs/5318651",
         "company_name": "Flatiron Health",
         "title": "Software Engineering Intern",
@@ -37936,8 +37936,8 @@
         "terms": [
             "Summer 2024"
         ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "quin10b",
         "id": "2eb5bcb0-c277-4986-a3b8-d95f13aacbe2",
         "date_posted": 1699413945,
