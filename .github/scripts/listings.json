@@ -38462,5 +38462,25 @@
         "date_posted": 1699837854,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1699838345,
+        "url": "https://discord.com/jobs/7003739002",
+        "company_name": "Discord",
+        "title": "Software Engineer - Client Platforms Intern",
+        "locations": [
+            "San Francisco, CA",
+            "Remote (U.S.)"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "Lucas-Dunker",
+        "id": "f5a3ce5f-4b02-41d1-adb7-244847f1bf6f",
+        "date_posted": 1699838345,
+        "company_url": "",
+        "is_visible": true
     }
 ]
