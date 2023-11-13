@@ -38541,5 +38541,24 @@
         "date_posted": 1699838490,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1699838566,
+        "url": "https://jobs.careers.microsoft.com/global/en/job/1659664/Explore-Program%3A-Internship-Opportunities-for-First-Year-University-Students",
+        "company_name": "Microsoft",
+        "title": "Microsoft Explore Program",
+        "locations": [
+            "Redmond, Washington"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "Frostfire25",
+        "id": "12b68cd7-e027-44c7-bf9a-9f99a1607dca",
+        "date_posted": 1699838566,
+        "company_url": "",
+        "is_visible": true
     }
 ]
