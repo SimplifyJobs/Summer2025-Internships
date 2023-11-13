@@ -38443,5 +38443,24 @@
         "company_url": "https://simplify.jobs/c/Sentry",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1699837854,
+        "url": "https://www.metacareers.com/v2/jobs/233915846310006/",
+        "company_name": "Meta",
+        "title": "Meta University - Engineering Intern",
+        "locations": [
+            "Menlo Park, CA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "rygeorge",
+        "id": "2b7b3684-08ce-4bd3-af19-51106db04334",
+        "date_posted": 1699837854,
+        "company_url": "",
+        "is_visible": true
     }
 ]
