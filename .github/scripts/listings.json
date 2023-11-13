@@ -38560,5 +38560,24 @@
         "date_posted": 1699838566,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1699886541,
+        "url": "https://careers.viasat.com/jobs/2588",
+        "company_name": "Viasat",
+        "title": "Software Engineer Intern - Secure Network Systems",
+        "locations": [
+            "Carlsbad, CA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "source": "vanshb03",
+        "id": "05f063bb-9dec-4a6c-a0dc-4f82c37cf301",
+        "date_posted": 1699886541,
+        "company_url": "",
+        "is_visible": true
     }
 ]
