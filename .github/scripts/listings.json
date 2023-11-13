@@ -38502,5 +38502,25 @@
         "date_posted": 1699838366,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1699838436,
+        "url": "https://discord.com/jobs/7003740002",
+        "company_name": "Discord",
+        "title": "Software Engineer Intern - Perks (Core Product)",
+        "locations": [
+            "San Francisco, CA",
+            "Remote (U.S.)"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "Lucas-Dunker",
+        "id": "46d7c38c-a45e-4a1b-a79c-511e7932a6c9",
+        "date_posted": 1699838436,
+        "company_url": "",
+        "is_visible": true
     }
 ]
