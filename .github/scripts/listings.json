@@ -38522,5 +38522,24 @@
         "date_posted": 1699838436,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1699838490,
+        "url": "https://comcast.wd5.myworkdayjobs.com/en-US/Comcast_Careers/job/Tech-Intern---Software-Engineer--TPX-_R370063",
+        "company_name": "Comcast",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "skapoor68",
+        "id": "55940656-992b-4332-bb5c-6ca12508f35b",
+        "date_posted": 1699838490,
+        "company_url": "",
+        "is_visible": true
     }
 ]
