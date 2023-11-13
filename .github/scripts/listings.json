@@ -38482,5 +38482,25 @@
         "date_posted": 1699838345,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1699838366,
+        "url": "https://discord.com/jobs/7005313002",
+        "company_name": "Discord",
+        "title": "Core Tech - Native Framework & Tools Intern",
+        "locations": [
+            "San Francisco, CA",
+            "Remote (U.S.)"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "Lucas-Dunker",
+        "id": "2f19be82-5fac-436d-814b-bfaf506ffbd4",
+        "date_posted": 1699838366,
+        "company_url": "",
+        "is_visible": true
     }
 ]
