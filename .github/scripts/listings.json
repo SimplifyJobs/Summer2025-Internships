@@ -1841,7 +1841,7 @@
         "company_name": "Capstone",
         "id": "6cd91d95-8910-4871-ad3d-11924c5fa909",
         "title": "Investment Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -11205,7 +11205,7 @@
         "company_name": "Figma",
         "id": "70b99364-7f26-4da5-b0cd-4f194937d56f",
         "title": "Data Scientist Intern - 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -16136,7 +16136,7 @@
         "company_name": "Zello",
         "id": "0c77230c-f2f8-4c83-b95a-88c36a14bbc5",
         "title": "Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -27710,7 +27710,7 @@
         "company_name": "Elevance Health",
         "id": "5d8e39b5-801e-4951-8b54-d106adbd591e",
         "title": "Data Analyst Internship - Summer 2024 - Undergraduate",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -31136,7 +31136,7 @@
         "company_name": "Beacon Platform",
         "id": "74692315-9a84-455a-ac5f-fe350e19c2c8",
         "title": "Curriculum Developer \u2013 Summer Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -32480,7 +32480,7 @@
         "company_name": "Rhombus",
         "id": "a2507c3c-8138-494b-9c39-a71d004a0bbd",
         "title": "Summer Engineering Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -32653,7 +32653,7 @@
         "company_name": "Taboola",
         "id": "30a235f3-b436-46b3-b156-02901ed06fb7",
         "title": "Full-time Data Science Intern - Immediate start",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -33236,7 +33236,7 @@
         "company_name": "Alchemy",
         "id": "e2ce5fc8-c368-4a87-b196-3bf803084143",
         "title": "Engineering Internship - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -34502,7 +34502,7 @@
         "company_name": "iCapital Network",
         "id": "9294cf9f-0159-4d5f-9328-747ea37a3e38",
         "title": "ML Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2023",
             "Winter 2024"
@@ -34731,7 +34731,7 @@
         "company_name": "Intel",
         "id": "c3261495-8997-4a1a-a82d-e52e00a55830",
         "title": "Computer Vision Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2023",
             "Summer 2023"
@@ -35858,7 +35858,7 @@
         "company_name": "NVIDIA",
         "id": "0d7a230e-0912-4465-8781-ae41307460cb",
         "title": "Performance Engineer Intern - Spring 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024"
         ],
@@ -38199,7 +38199,7 @@
         "company_name": "Samsara",
         "id": "5070b8af-f942-4e11-85ca-d1eb441d098b",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2024",
             "Summer 2024",
