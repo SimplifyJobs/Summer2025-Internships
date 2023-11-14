@@ -61,6 +61,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Ford | 2024 Software Engineering Intern | Dearborn, MI | <a href="https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/17171/apply/email?keyword=Intern&mode=location"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 13 |
 | Viasat | Software Engineer Intern - Secure Network Systems 🇺🇸 | Carlsbad, CA | <a href="https://careers.viasat.com/jobs/2588?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 13 |
 | Microsoft | Microsoft Explore Program | Redmond, Washington | <a href="https://jobs.careers.microsoft.com/global/en/job/1659664/Explore-Program%3A-Internship-Opportunities-for-First-Year-University-Students?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 12 |
 | Meta | Meta University - Engineering Intern 🛂 | Menlo Park, CA | <a href="https://www.metacareers.com/v2/jobs/233915846310006/?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 12 |
