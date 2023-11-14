@@ -38579,5 +38579,24 @@
         "date_posted": 1699886541,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1699994672,
+        "url": "https://careers.roblox.com/jobs/5480501/apply?gh_src=ca08cb751us",
+        "company_name": "Roblox",
+        "title": "Data Science Intern",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "rygeorge",
+        "id": "cf4ff47e-beba-463b-81c0-6f14d05d8ad9",
+        "date_posted": 1699994672,
+        "company_url": "",
+        "is_visible": true
     }
 ]

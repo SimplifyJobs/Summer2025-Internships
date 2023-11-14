@@ -61,6 +61,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| **[Roblox](https://simplify.jobs/c/Roblox)** | Data Science Intern | San Mateo, CA | <a href="https://careers.roblox.com/jobs/5480501/apply?gh_src=ca08cb751us&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
 | Viasat | Software Engineer Intern - Secure Network Systems 🇺🇸 | Carlsbad, CA | <a href="https://careers.viasat.com/jobs/2588?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 13 |
 | Microsoft | Microsoft Explore Program | Redmond, Washington | <a href="https://jobs.careers.microsoft.com/global/en/job/1659664/Explore-Program%3A-Internship-Opportunities-for-First-Year-University-Students?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 12 |
 | Meta | Meta University - Engineering Intern 🛂 | Menlo Park, CA | <a href="https://www.metacareers.com/v2/jobs/233915846310006/?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 12 |
