@@ -38598,5 +38598,24 @@
         "date_posted": 1699994672,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1699994743,
+        "url": "https://www.google.com/about/careers/applications/jobs/results/85870200504623814-security-engineering-intern-bsms-summer-2024?src=Online/Google%20Website/ByF",
+        "company_name": "Google",
+        "title": "Security Engineering Intern",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "Za43",
+        "id": "d2a63dee-eb42-4800-8189-acd6188ea904",
+        "date_posted": 1699994743,
+        "company_url": "",
+        "is_visible": true
     }
 ]
