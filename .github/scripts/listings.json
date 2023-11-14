@@ -38617,5 +38617,24 @@
         "date_posted": 1699994743,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1700000120,
+        "url": "https://sjobs.brassring.com/TGnewUI/Search/Home/Home?partnerid=25235&siteid=5359#jobDetails=1999017_5359",
+        "company_name": "Synopsys",
+        "title": "Technical Engineering Intern",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "0cc6d92c-00a7-46cf-a7ee-9c0048218914",
+        "date_posted": 1700000120,
+        "company_url": "",
+        "is_visible": true
     }
 ]
