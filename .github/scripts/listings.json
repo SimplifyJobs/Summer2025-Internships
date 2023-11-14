@@ -23941,7 +23941,7 @@
         "company_name": "Beyond Limits",
         "id": "74d725b7-6417-4592-a426-38738f8509a5",
         "title": "Beyonders 2024 Summer Internship - Devops",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -25811,7 +25811,7 @@
         "company_name": "Partiful",
         "id": "102903d2-b37b-4f28-8a48-917bc3ef5a9c",
         "title": "Product Engineer Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -28580,7 +28580,7 @@
         "company_name": "Schonfeld",
         "id": "4a268f45-158d-44dd-a0f4-aca175b98e42",
         "title": "2024 Software Engineering \u2013 Summer Internship - Java",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -37873,7 +37873,7 @@
         "company_name": "Cockroach Labs",
         "id": "c9b4fce5-af22-4a3e-9d79-49607c75cef8",
         "title": "Software Engineer Summer Intern - Site Reliability - New York City",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
