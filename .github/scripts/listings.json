@@ -81,7 +81,7 @@
         "company_name": "Akuna Capital",
         "id": "ed1ebf2c-b1dc-4610-a901-f4b25e1d716f",
         "title": "Quantitative Development Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -7367,7 +7367,7 @@
         "company_name": "PayPal",
         "id": "de7f25d2-af21-4fc7-be7f-633e662b4300",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024",
             "Fall 2024"
@@ -15848,7 +15848,7 @@
         "company_name": "Epic Games",
         "id": "e0d830b5-1792-409d-90f7-40b343973a80",
         "title": "Data Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -16677,7 +16677,7 @@
         "company_name": "Spring Health",
         "id": "47d18ddf-37c7-40e8-95f9-e21693a45f0a",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2023"
         ],
@@ -17872,7 +17872,7 @@
         "company_name": "Vontive",
         "id": "ebafe075-d3d3-4903-b42a-dc50449d8d2c",
         "title": "Full-Stack Software Engineering Spring Co-op/Internship - January to June 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2023"
         ],
@@ -18707,7 +18707,7 @@
         "company_name": "Weber Shandwick",
         "id": "a332aba4-f263-40c3-a8d9-680c41db0a35",
         "title": "Data Science Intern - Fall 2023",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2023"
         ],
@@ -19913,7 +19913,7 @@
         "company_name": "Cohere",
         "id": "1fae61a1-368f-4fb4-9fe4-85919a256572",
         "title": "Machine Learning Intern/Co-op - Winter 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2024"
         ],
@@ -19935,7 +19935,7 @@
         "company_name": "Cohere",
         "id": "c009c9a7-2911-452d-8e0c-e5536c638a94",
         "title": "Software Engineer Intern/Co-op - Winter 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2024"
         ],
@@ -20054,7 +20054,7 @@
         "company_name": "IPG DXTRA",
         "id": "92d2cf76-4735-47d9-81d2-752abd9a2c98",
         "title": "Data Science Intern - Fall 2023",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2023"
         ],
@@ -30825,7 +30825,7 @@
         "company_name": "Hudson River Trading",
         "id": "4dc06a91-7e3a-4f6b-885e-a2ae0d7025e1",
         "title": "Women in Trading Technology Internship - Witti - Winter 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2024"
         ],
@@ -32347,7 +32347,7 @@
         "company_name": "Beacon Platform",
         "id": "a820f32d-1af2-411c-a985-79773b576cd9",
         "title": "Risk Framework Engineer \u2013 Summer Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -33753,7 +33753,7 @@
         "company_name": "Businessolver",
         "id": "a029ae2d-243a-4a8d-ab3d-8310441dd4f1",
         "title": "React Native Software Engineering Internship - Work-from-Home",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2023"
         ],
@@ -34060,7 +34060,7 @@
         "company_name": "Recursion Pharmaceuticals",
         "id": "4ac17f5a-277b-4c19-9b45-43267cc3f10b",
         "title": "Software Engineering Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -34541,7 +34541,7 @@
         "company_name": "Verkada",
         "id": "6d3ef9c3-8f98-41ce-960d-1c5be7ab89ba",
         "title": "Computer Vision Engineering Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -35487,7 +35487,7 @@
         "company_name": "Capco",
         "id": "82ad948d-61b0-4594-9759-e8cd09cfbb0a",
         "title": "Winter 2024 \u2013 Developer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2024"
         ],
@@ -35700,7 +35700,7 @@
         "company_name": "PlayStation Global",
         "id": "a6bc3408-2f4e-4ad3-8004-8753380f7036",
         "title": "Machine Learning Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2023",
             "Summer 2023",
@@ -36202,7 +36202,7 @@
         "company_name": "Bank of Montreal (BMO)",
         "id": "adf40de8-6b36-4da8-81d4-595ad3c86dce",
         "title": "Software Developer \u2013 Co-op/Internship - Winter 2024 - 4 months",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2024"
         ],
@@ -37200,7 +37200,7 @@
         "company_name": "Mozilla",
         "id": "5c178118-7d77-4493-95c0-b845c139a69f",
         "title": "Mobile Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -38028,7 +38028,7 @@
         "company_name": "Instawork",
         "id": "fc64bdbc-8045-48bc-bed1-3d214cc0e9b4",
         "title": "Intern \u2013 Front-End Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -38047,7 +38047,7 @@
         "company_name": "Instawork",
         "id": "7769bcc5-81cc-44e7-955b-c5d183554f00",
         "title": "Intern \u2013 Full-Stack Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
