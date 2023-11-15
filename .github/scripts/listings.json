@@ -38769,5 +38769,24 @@
         "date_posted": 1700017377,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1700017398,
+        "url": "https://www.asml.com/en/careers/find-your-job/internship--software-engineer-j00283786",
+        "company_name": "ASML",
+        "title": "Software Engineer - Intern",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "a9909f6a-0c22-466a-9201-dc93d7795868",
+        "date_posted": 1700017398,
+        "company_url": "",
+        "is_visible": true
     }
 ]
