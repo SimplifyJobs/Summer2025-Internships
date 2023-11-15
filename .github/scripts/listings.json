@@ -38655,5 +38655,24 @@
         "date_posted": 1700016995,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1700017017,
+        "url": "https://phf.tbe.taleo.net/phf03/ats/careers/requisition.jsp?org=INFINITECAMPUS&cws=1&rid=1521",
+        "company_name": "Infinite Campus",
+        "title": "Software Engineer - Intern",
+        "locations": [
+            "Blaine, MN"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "vanshb03",
+        "id": "e3e42fb7-f872-4997-b65a-f1a881476d4c",
+        "date_posted": 1700017017,
+        "company_url": "",
+        "is_visible": true
     }
 ]
