@@ -38731,5 +38731,24 @@
         "date_posted": 1700017304,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1700017345,
+        "url": "https://www.lockheedmartinjobs.com/job/fort-worth/software-engineer-intern/694/56943633216",
+        "company_name": "Lockheed Martin",
+        "title": "Software Engineer - Intern",
+        "locations": [
+            "Fort Worth, Texas"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "source": "vanshb03",
+        "id": "1036b91a-560a-4b8f-9616-ea030092cc77",
+        "date_posted": 1700017345,
+        "company_url": "",
+        "is_visible": true
     }
 ]
