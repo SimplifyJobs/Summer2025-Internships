@@ -38807,5 +38807,24 @@
         "date_posted": 1700017470,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1700017546,
+        "url": "https://jobs.jnj.com/en/jobs/2306151526w/software-intern-tools-infrastructure/",
+        "company_name": "Johnson & Johnson",
+        "title": "Software Intern - Tools & Infrastructure",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "715a49eb-ad56-47e9-b437-c315a59a6198",
+        "date_posted": 1700017546,
+        "company_url": "",
+        "is_visible": true
     }
 ]
