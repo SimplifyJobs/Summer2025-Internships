@@ -1493,7 +1493,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | ↳ | Investment & Trading Intern | Chicago, IL</br>NYC | <a href="https://www.citadel.com/careers/details/investment-trading-intern-us/?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 2023 |
 | ↳ | Quantatative Research Analyst Intern | Chicago, IL</br>NYC | <a href="https://www.citadel.com/careers/details/quantitative-research-analyst-intern-us/?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 2023 |
 | Two Sigma | Quantitative Researcher - Internship | NYC | <a href="https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Quantitative-Researcher-Internship-2024-Summer/12004?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 2023 |
-| **[Zipline](https://simplify.jobs/c/Zipline)** | Summer 2024 Internship (Express Interest) | SF | <a href="https://legacy.flyzipline.com/job?gh_jid=5631836003/&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 2023 |
+| **[Zipline](https://simplify.jobs/c/Zipline)** | Summer 2024 Internship (Express Interest) | SF | 🔒 | Jun 2023 |
 | Rakuten | Software Engineer Intern | WV, USA | 🔒 | Jun 2023 |
 | Bamboo Health | Software Engineer Intern (Must be enrolled in a Bachelor’s degree program currently) | Boston, MA</br>Remote | 🔒 | Jun 2023 |
 | **[KAYAK](https://simplify.jobs/c/KAYAK)** | Java Engineering Intern - Adtech | Concord, CA | 🔒 | Jun 2023 |
