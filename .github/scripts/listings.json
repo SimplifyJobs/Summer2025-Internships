@@ -38826,5 +38826,24 @@
         "date_posted": 1700017546,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1700017564,
+        "url": "https://jobs.jnj.com/en/jobs/2306152377w/product-software-security-intern/",
+        "company_name": "Johnson & Johnson",
+        "title": "Product Software Security Intern",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "vanshb03",
+        "id": "28f96eba-9c29-42ad-baa6-1245c177bb55",
+        "date_posted": 1700017564,
+        "company_url": "",
+        "is_visible": true
     }
 ]
