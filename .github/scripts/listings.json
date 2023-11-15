@@ -38788,5 +38788,24 @@
         "date_posted": 1700017398,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1700017470,
+        "url": "https://careers.vontier.com/us/en/job/VONTUSGIL009871/Software-Engineering-Intern-Remote-Hybrid-Greensboro-NC",
+        "company_name": "Vontier - Gilbarco",
+        "title": "Software Engineering - Intern",
+        "locations": [
+            "Greensboro, NC or Simsbury, CT or Remote"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "824fce29-5b87-49fe-bc14-49a695fcff88",
+        "date_posted": 1700017470,
+        "company_url": "",
+        "is_visible": true
     }
 ]
