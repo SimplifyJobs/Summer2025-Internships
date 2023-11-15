@@ -38674,5 +38674,24 @@
         "date_posted": 1700017017,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1700017109,
+        "url": "https://curtisswright.wd1.myworkdayjobs.com/en-US/CW_External_Career_Site/job/US-PA-Berwick-Nuclear/Software-Test-Engineer--Intern---Nuclear-Division_JR3390",
+        "company_name": "Curtiss Wright",
+        "title": "Software Test Engineer, Intern",
+        "locations": [
+            "Berwick, PA or Idaho Falls, ID"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "vanshb03",
+        "id": "153ecba7-7dc3-4353-9335-d07ea1b17781",
+        "date_posted": 1700017109,
+        "company_url": "",
+        "is_visible": true
     }
 ]
