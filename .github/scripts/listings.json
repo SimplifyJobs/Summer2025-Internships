@@ -38864,5 +38864,24 @@
         "date_posted": 1700017669,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1700017694,
+        "url": "https://jda.wd5.myworkdayjobs.com/en-US/university/details/Software-Engineering-Intern---Automation-Focus_234045",
+        "company_name": "BlueYonder",
+        "title": "Software Engineering Intern - Automation Focus",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "terms": [
+            "Spring 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "2157e62e-d8c4-4607-a3ef-5d23c767b473",
+        "date_posted": 1700017694,
+        "company_url": "",
+        "is_visible": true
     }
 ]
