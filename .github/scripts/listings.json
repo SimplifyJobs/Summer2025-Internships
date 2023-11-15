@@ -38845,5 +38845,24 @@
         "date_posted": 1700017564,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1700017669,
+        "url": "https://globaleur232.dayforcehcm.com/CandidatePortal/en-US/Copart/Posting/View/19026",
+        "company_name": "Copart",
+        "title": "QA Intern",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "18c9029a-fbdf-41aa-ae56-eb182f26d515",
+        "date_posted": 1700017669,
+        "company_url": "",
+        "is_visible": true
     }
 ]
