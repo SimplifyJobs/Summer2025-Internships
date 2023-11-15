@@ -1503,7 +1503,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | Entrust | Software Engineer Intern | Sunrise, FL | 🔒 | Jun 2023 |
 | Enphase Energy | Embedded Firmware Engineer Intern | Austin, TX | 🔒 | Jun 2023 |
 | Körber | Software Developer Intern | Fargo, ND | 🔒 | Jun 2023 |
-| SIG | Software Engineering Internship Program (Express Interest) | Bala Cynwyd, PA | <a href="https://careers.sig.com/job/7102/Software-Engineering-Internship-Program-Summer-2024-Expression-of-Interest?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 2023 |
+| SIG | Software Engineering Internship Program (Express Interest) | Bala Cynwyd, PA | 🔒 | Jun 2023 |
 | JBS USA | Information Technology Intern | Greeley, CO | 🔒 | Jun 2023 |
 | Forvis | Information Technology Risk Intern  🛂 | Multiple Locations | 🔒 | Jun 2023 |
 | JBS USA | Information technology intern | Greeley, CO | 🔒 | Jun 2023 |
