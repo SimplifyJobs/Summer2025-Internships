@@ -38636,5 +38636,24 @@
         "date_posted": 1700000120,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1700016995,
+        "url": "https://careers.leidos.com/jobs/13590045-software-engineer-intern?tm_job=R-00122995&tm_event=view&tm_company=2502",
+        "company_name": "Leidos",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "source": "vanshb03",
+        "id": "ef9e0d60-cd7f-4d15-86c5-2d5a9f864308",
+        "date_posted": 1700016995,
+        "company_url": "",
+        "is_visible": true
     }
 ]
