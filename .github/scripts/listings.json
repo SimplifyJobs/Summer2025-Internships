@@ -38712,5 +38712,24 @@
         "date_posted": 1700017158,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1700017304,
+        "url": "https://jda.wd5.myworkdayjobs.com/en-US/university/details/Software-Engineering-Intern---Cloud-and-Java-Development_234581",
+        "company_name": "BlueYonder",
+        "title": "Software Engineering Intern \u2013 Cloud and Java Development",
+        "locations": [
+            "Dallas, TX or Scottsdale, AZ"
+        ],
+        "terms": [
+            "Spring 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "07195992-82c6-4abe-90cc-64ab8c2f4176",
+        "date_posted": 1700017304,
+        "company_url": "",
+        "is_visible": true
     }
 ]
