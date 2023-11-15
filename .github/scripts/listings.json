@@ -38750,5 +38750,24 @@
         "date_posted": 1700017345,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1700017377,
+        "url": "https://www.asml.com/en/careers/find-your-job/internship-software-algorithm-engineer-j00286874",
+        "company_name": "ASML",
+        "title": "Software Algorithm Engineer - Intern",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "1a30f4b4-2af5-4bed-95f6-65bf63d9ab59",
+        "date_posted": 1700017377,
+        "company_url": "",
+        "is_visible": true
     }
 ]
