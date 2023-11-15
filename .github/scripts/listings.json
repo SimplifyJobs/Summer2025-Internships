@@ -38693,5 +38693,24 @@
         "date_posted": 1700017109,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1700017158,
+        "url": "https://jobs.thermofisher.com/global/en/job/R-01207385/Software-Engineering-Intern-Co-op-2024",
+        "company_name": "Thermo Fisher Scientific",
+        "title": "Software Engineering Intern/Co-op 2024",
+        "locations": [
+            "Hillsboro, OR"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "vanshb03",
+        "id": "e3f525f9-28e2-48fc-8ed5-d5df4b5f3ccd",
+        "date_posted": 1700017158,
+        "company_url": "",
+        "is_visible": true
     }
 ]

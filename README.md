@@ -61,6 +61,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Thermo Fisher Scientific | Software Engineering Intern/Co-op 2024 🛂 | Hillsboro, OR | <a href="https://jobs.thermofisher.com/global/en/job/R-01207385/Software-Engineering-Intern-Co-op-2024?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
 | Synopsys | Technical Engineering Intern | Sunnyvale, CA | <a href="https://sjobs.brassring.com/TGnewUI/Search/Home/Home?partnerid=25235&siteid=5359#jobDetails=1999017_5359&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
 | **[Roblox](https://simplify.jobs/c/Roblox)** | Data Science Intern | San Mateo, CA | <a href="https://careers.roblox.com/jobs/5480501/apply?gh_src=ca08cb751us&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
 | **[Leidos](https://simplify.jobs/c/Leidos)** | Software Engineer Intern 🇺🇸 | San Diego, CA | <a href="https://careers.leidos.com/jobs/13590045-software-engineer-intern?tm_job=R-00122995&tm_event=view&tm_company=2502&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
