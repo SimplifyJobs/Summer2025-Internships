@@ -38940,5 +38940,24 @@
         "date_posted": 1700094543,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1700094563,
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/217959",
+        "company_name": "Oracle",
+        "title": "UX Developer -  Intern",
+        "locations": [
+            "United States"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "e2d6fd85-b4fb-4839-b493-a32d358ba669",
+        "date_posted": 1700094563,
+        "company_url": "",
+        "is_visible": true
     }
 ]
