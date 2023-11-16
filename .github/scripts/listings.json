@@ -38902,5 +38902,24 @@
         "company_url": "https://simplify.jobs/c/Pagaya",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1700094524,
+        "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/17171/apply/email?keyword=software+intern&mode=location",
+        "company_name": "Ford",
+        "title": "2024 Software Engineering Internship",
+        "locations": [
+            "Dearborn, MI"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "harshaldulera",
+        "id": "840525e9-c908-4d29-9a1d-b3f9a4af6359",
+        "date_posted": 1700094524,
+        "company_url": "",
+        "is_visible": true
     }
 ]
