@@ -38921,5 +38921,24 @@
         "date_posted": 1700094524,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1700094543,
+        "url": "https://careers.t-mobile.com/job-details/19448690/summer-2024-software-engineering-internship-bellevue-wa/",
+        "company_name": "T-Mobile",
+        "title": "Software Engineering - Intern",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "vanshb03",
+        "id": "bc2f9a6e-b78f-484d-b750-12808d2ea6f4",
+        "date_posted": 1700094543,
+        "company_url": "",
+        "is_visible": true
     }
 ]

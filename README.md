@@ -61,6 +61,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| T-Mobile | Software Engineering - Intern 🛂 | Bellevue, WA | <a href="https://careers.t-mobile.com/job-details/19448690/summer-2024-software-engineering-internship-bellevue-wa/?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 15 |
 | Ford | 2024 Software Engineering Internship | Dearborn, MI | <a href="https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/17171/apply/email?keyword=software+intern&mode=location&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 15 |
 | Vontier - Gilbarco | Software Engineering - Intern | Greensboro, NC or Simsbury, CT or Remote | <a href="https://careers.vontier.com/us/en/job/VONTUSGIL009871/Software-Engineering-Intern-Remote-Hybrid-Greensboro-NC?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
 | Thermo Fisher Scientific | Software Engineering Intern/Co-op 2024 🛂 | Hillsboro, OR | <a href="https://jobs.thermofisher.com/global/en/job/R-01207385/Software-Engineering-Intern-Co-op-2024?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
