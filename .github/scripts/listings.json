@@ -38959,5 +38959,24 @@
         "date_posted": 1700094563,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1700094585,
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/217958",
+        "company_name": "Oracle",
+        "title": "UX Data Science - Intern",
+        "locations": [
+            "United States"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "8bd5a510-8a32-47cd-bac1-461e74b3d4e3",
+        "date_posted": 1700094585,
+        "company_url": "",
+        "is_visible": true
     }
 ]
