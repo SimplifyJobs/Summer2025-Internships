@@ -38978,5 +38978,24 @@
         "date_posted": 1700094585,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1700259061,
+        "url": "https://boards.greenhouse.io/scm/jobs/721895",
+        "company_name": "Stevens Capital Management",
+        "title": "Quantitative Research Analyst Internship",
+        "locations": [
+            "Villanova, PA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "yan-michael",
+        "id": "4e59da15-b1b8-4022-b3b3-a75be6a906cf",
+        "date_posted": 1700259061,
+        "company_url": "",
+        "is_visible": true
     }
 ]
