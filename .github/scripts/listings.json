@@ -39054,5 +39054,24 @@
         "date_posted": 1700283145,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1700283176,
+        "url": "https://careers.adobe.com/us/en/job/ADOBUSR139271EXTERNALENUS/2024-Intern-Spectrum-Web-Engineering?",
+        "company_name": "Adobe",
+        "title": "Spectrum Web Engineering - Intern",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "f15c1c4a-3f71-43df-bb74-ea277513b084",
+        "date_posted": 1700283176,
+        "company_url": "",
+        "is_visible": true
     }
 ]
