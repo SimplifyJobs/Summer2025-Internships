@@ -39150,5 +39150,24 @@
         "date_posted": 1700283357,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1700283382,
+        "url": "https://apply.appone.com/job/6553d4d22a512ac732f60018",
+        "company_name": "OCV LLC",
+        "title": "Mobile Software Engineer - Intern",
+        "locations": [
+            "Opelika, AL"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "deb2070d-9b1a-4f1c-8dcf-f1d4f710d735",
+        "date_posted": 1700283382,
+        "company_url": "",
+        "is_visible": true
     }
 ]
