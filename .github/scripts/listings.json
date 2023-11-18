@@ -39207,5 +39207,24 @@
         "date_posted": 1700283539,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1700283558,
+        "url": "https://volarisgroup.wd3.myworkdayjobs.com/en-US/AssetWorks/job/United-States---TX/Junior-DevOps-Engineer-Intern_R48053-1",
+        "company_name": "AssetWorks",
+        "title": "Junior DevOps Engineer - Intern",
+        "locations": [
+            "Texas"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "200b841f-631f-44fd-9c48-d4b14769269d",
+        "date_posted": 1700283558,
+        "company_url": "",
+        "is_visible": true
     }
 ]
