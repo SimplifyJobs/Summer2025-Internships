@@ -39379,5 +39379,24 @@
         "date_posted": 1700330098,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1700330130,
+        "url": "https://careers.ibm.com/job/19465461/devops-developer-intern-may-2024-16-months-markham-ca/",
+        "company_name": "IBM",
+        "title": "DevOps Developer Intern",
+        "locations": [
+            "Markham, Canada"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "86732dcd-b2be-4802-974d-a25f6ee0562e",
+        "date_posted": 1700330130,
+        "company_url": "",
+        "is_visible": true
     }
 ]
