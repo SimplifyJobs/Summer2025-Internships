@@ -39322,5 +39322,24 @@
         "date_posted": 1700283791,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1700283863,
+        "url": "https://careers.bcg.com/job/BCG1US21566BREXTERNALENUS/",
+        "company_name": "Boston Consulting Group",
+        "title": "Site Reliability Engineer - Intern",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "c97864ce-edca-4e77-b647-38b164a5c259",
+        "date_posted": 1700283863,
+        "company_url": "",
+        "is_visible": true
     }
 ]
