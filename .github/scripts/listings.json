@@ -39360,5 +39360,24 @@
         "date_posted": 1700283881,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1700330098,
+        "url": "https://boards.greenhouse.io/dnli/jobs/5513060?gh_src=c9451b8b1us",
+        "company_name": "Denali Therapeutics",
+        "title": "Data Science - Intern",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "af00055d-5ff4-4c7e-9531-b36cd12189d8",
+        "date_posted": 1700330098,
+        "company_url": "",
+        "is_visible": true
     }
 ]
