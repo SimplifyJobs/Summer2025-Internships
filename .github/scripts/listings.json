@@ -39265,5 +39265,24 @@
         "date_posted": 1700283690,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1700283731,
+        "url": "https://jobs.lever.co/questanalytics/fe48eb77-3439-4335-a207-822ae002997a",
+        "company_name": "Quest Analytics",
+        "title": "Software Engineer - Intern",
+        "locations": [
+            "Overland Park, KS"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "vanshb03",
+        "id": "3da52d9f-89ad-4d00-8982-7f2f40840926",
+        "date_posted": 1700283731,
+        "company_url": "",
+        "is_visible": true
     }
 ]
