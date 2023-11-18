@@ -39303,5 +39303,24 @@
         "date_posted": 1700283763,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1700283791,
+        "url": "https://www.verition.com/open-positions?gh_jid=4049222007",
+        "company_name": "Verition Fund Management",
+        "title": "Software Engineer Intern (Low Latency Team)",
+        "locations": [
+            "New York, NY"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "quantumscholar",
+        "id": "23be63e2-8d20-4c42-994b-dc2b6e1a86f5",
+        "date_posted": 1700283791,
+        "company_url": "",
+        "is_visible": true
     }
 ]
