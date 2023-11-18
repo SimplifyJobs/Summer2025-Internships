@@ -39035,5 +39035,24 @@
         "date_posted": 1700283122,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1700283145,
+        "url": "https://astrobotic-technology-inc.synchr-recruit.com/job/712672/spring-2024-internship-software-and-controls?s=in",
+        "company_name": "Astrobotic",
+        "title": "Software and Controls - Intern",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "terms": [
+            "Spring 2024"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "source": "vanshb03",
+        "id": "6ede1ce0-aef6-4949-90f3-5fa9f0512419",
+        "date_posted": 1700283145,
+        "company_url": "",
+        "is_visible": true
     }
 ]
