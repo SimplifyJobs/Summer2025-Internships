@@ -39284,5 +39284,24 @@
         "date_posted": 1700283731,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1700283763,
+        "url": "https://recruiting2.ultipro.com/MES1003MFAC/JobBoard/69451223-cdce-4faf-9407-23a2cd5ac83b/OpportunityDetail?opportunityId=80571678-4a4a-4d4a-a164-44cb833bb8da",
+        "company_name": "Mesirow",
+        "title": "Application Developer - Intern",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "40ce286f-001f-4bc2-a889-e142698030c1",
+        "date_posted": 1700283763,
+        "company_url": "",
+        "is_visible": true
     }
 ]
