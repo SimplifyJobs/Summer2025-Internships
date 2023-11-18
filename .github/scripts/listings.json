@@ -38695,7 +38695,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1700017158,
+        "date_updated": 1700283706,
         "url": "https://jobs.thermofisher.com/global/en/job/R-01207385/Software-Engineering-Intern-Co-op-2024",
         "company_name": "Thermo Fisher Scientific",
         "title": "Software Engineering Intern/Co-op 2024",
@@ -38705,8 +38705,8 @@
         "terms": [
             "Summer 2024"
         ],
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "sponsorship": "Offers Sponsorship",
+        "active": false,
         "source": "vanshb03",
         "id": "e3f525f9-28e2-48fc-8ed5-d5df4b5f3ccd",
         "date_posted": 1700017158,
