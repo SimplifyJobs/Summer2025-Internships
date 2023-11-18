@@ -39341,5 +39341,24 @@
         "date_posted": 1700283863,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1700283881,
+        "url": "https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/summer-2024-information-systems-intern_r00147952",
+        "company_name": "Nissan",
+        "title": "Information Systems - Intern",
+        "locations": [
+            "Franklin, TN"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "vanshb03",
+        "id": "31b93a84-c9d3-43d2-8121-85ac1936b63a",
+        "date_posted": 1700283881,
+        "company_url": "",
+        "is_visible": true
     }
 ]
