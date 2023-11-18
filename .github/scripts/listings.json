@@ -39016,5 +39016,24 @@
         "date_posted": 1700262830,
         "company_url": "",
         "is_visible": false
+    },
+    {
+        "date_updated": 1700283122,
+        "url": "https://boards.greenhouse.io/wikimedia/jobs/5511020?gh_src=0e7d3b611us",
+        "company_name": "Wikimedia Foundation",
+        "title": "Software Engineering - Intern",
+        "locations": [
+            "Remote"
+        ],
+        "terms": [
+            "Spring 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "3adea831-d593-466f-96d3-c9e7665c7901",
+        "date_posted": 1700283122,
+        "company_url": "",
+        "is_visible": true
     }
 ]
