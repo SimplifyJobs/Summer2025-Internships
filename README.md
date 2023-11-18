@@ -61,6 +61,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Young Living Essential Oils | Mobile Application Developer - Intern | Lehi, UT | <a href="https://youngliving.wd5.myworkdayjobs.com/en-US/YLEO/job/Lehi-UT---Headquarters/Mobile-Application-Developer--Intern_R102730?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 17 |
 | Volaris Group Inc. | Junior DevOps Engineer -  Intern | Texas | <a href="https://volarisgroup.wd3.myworkdayjobs.com/en-US/Volaris/job/United-States---TX/Junior-DevOps-Engineer-Intern_R48053-2?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 17 |
 | **[Verkada](https://simplify.jobs/c/Verkada)** | Software Engineering Intern - Embedded | San Mateo, CA | <a href="https://boards.greenhouse.io/verkada/jobs/4135597007?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 17 |
 | ↳ | Software Engineering Intern - Frontend | San Mateo, CA | <a href="https://boards.greenhouse.io/verkada/jobs/4135591007?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 17 |

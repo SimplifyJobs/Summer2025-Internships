@@ -39246,5 +39246,24 @@
         "date_posted": 1700283590,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1700283690,
+        "url": "https://youngliving.wd5.myworkdayjobs.com/en-US/YLEO/job/Lehi-UT---Headquarters/Mobile-Application-Developer--Intern_R102730",
+        "company_name": "Young Living Essential Oils",
+        "title": "Mobile Application Developer - Intern",
+        "locations": [
+            "Lehi, UT"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "d34a4f9c-8107-439d-b751-14f893d76de9",
+        "date_posted": 1700283690,
+        "company_url": "",
+        "is_visible": true
     }
 ]
