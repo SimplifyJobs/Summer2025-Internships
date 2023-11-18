@@ -61,6 +61,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| **[Verkada](https://simplify.jobs/c/Verkada)** | Software Engineering Intern - Frontend | San Mateo, CA | <a href="https://boards.greenhouse.io/verkada/jobs/4135591007?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 17 |
 | Stevens Capital Management | Quantitative Research Analyst Internship 🛂 | Villanova, PA | <a href="https://boards.greenhouse.io/scm/jobs/721895?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 17 |
 | Adobe | Spectrum Web Engineering - Intern | San Francisco, CA | <a href="https://careers.adobe.com/us/en/job/ADOBUSR139271EXTERNALENUS/2024-Intern-Spectrum-Web-Engineering?&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 17 |
 | T-Mobile | Software Engineering - Intern 🛂 | Bellevue, WA | <a href="https://careers.t-mobile.com/job-details/19448690/summer-2024-software-engineering-internship-bellevue-wa/?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 15 |

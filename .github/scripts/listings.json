@@ -39073,5 +39073,24 @@
         "date_posted": 1700283176,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1700283232,
+        "url": "https://boards.greenhouse.io/verkada/jobs/4135591007",
+        "company_name": "Verkada",
+        "title": "Software Engineering Intern - Frontend",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "508e6011-0b60-42c1-a6ac-21c419f011bf",
+        "date_posted": 1700283232,
+        "company_url": "",
+        "is_visible": true
     }
 ]
