@@ -39188,5 +39188,24 @@
         "date_posted": 1700283450,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1700283539,
+        "url": "https://volarisgroup.wd3.myworkdayjobs.com/en-US/Volaris/job/United-States---TX/Junior-DevOps-Engineer-Intern_R48053-2",
+        "company_name": "Volaris Group Inc.",
+        "title": "Junior DevOps Engineer -  Intern",
+        "locations": [
+            "Texas"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "a9c047da-0666-4ab0-a4c9-ea722d1b8827",
+        "date_posted": 1700283539,
+        "company_url": "",
+        "is_visible": true
     }
 ]

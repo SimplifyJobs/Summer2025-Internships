@@ -61,6 +61,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Volaris Group Inc. | Junior DevOps Engineer -  Intern | Texas | <a href="https://volarisgroup.wd3.myworkdayjobs.com/en-US/Volaris/job/United-States---TX/Junior-DevOps-Engineer-Intern_R48053-2?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 17 |
 | **[Verkada](https://simplify.jobs/c/Verkada)** | Software Engineering Intern - Embedded | San Mateo, CA | <a href="https://boards.greenhouse.io/verkada/jobs/4135597007?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 17 |
 | ↳ | Software Engineering Intern - Frontend | San Mateo, CA | <a href="https://boards.greenhouse.io/verkada/jobs/4135591007?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 17 |
 | Ulteig | Automations Developer - Intern | Remote(US) | <a href="https://recruiting2.ultipro.com/ULT1008ULTE/JobBoard/71bc1da6-c7b0-4b37-9f7b-076d7d68c57b/OpportunityDetail?opportunityId=d9d12b23-8d91-4560-b951-d64069ef62ee&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 17 |
