@@ -39169,5 +39169,24 @@
         "date_posted": 1700283382,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1700283450,
+        "url": "https://remitly.wd5.myworkdayjobs.com/en-US/Remitly_Careers/job/Seattle-Washington-United-States/Software-Development-Engineer-Intern_R_101195",
+        "company_name": "Remitly",
+        "title": "Software Development Engineer - Intern",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "3e66430a-2f77-4a79-a01c-c7e472939118",
+        "date_posted": 1700283450,
+        "company_url": "",
+        "is_visible": true
     }
 ]
