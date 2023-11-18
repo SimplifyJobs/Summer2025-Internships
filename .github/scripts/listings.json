@@ -38999,7 +38999,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1700262830,
+        "date_updated": 1700281240,
         "url": "https://recruiting.adp.com/srccar/public/RTI.home?d=AudubonCareers&_icx=v02xIB76Se6kk3bg5xvWg8zbMB8i__FyeUsmx6T4lQel3xGIMvaVWJFJubjRnXxNh22&c=1129507&_dissimuloSSO=UALcyCd0Z2Y:Av7vl08geZWWvvCqIl2neNEnLXM#/",
         "company_name": "Audubon",
         "title": "Software Development Intern",
@@ -39015,6 +39015,6 @@
         "id": "d3e0a4bd-99ae-441e-8d08-1af5d68d75c7",
         "date_posted": 1700262830,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     }
 ]
