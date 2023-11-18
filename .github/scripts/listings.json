@@ -39226,5 +39226,25 @@
         "date_posted": 1700283558,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1700283590,
+        "url": "https://intapp.wd1.myworkdayjobs.com/en-US/Intapp/job/Palo-Alto-CA/Software-Engineer---Mobile-Applications-Intern_R2022953-1",
+        "company_name": "Repstor",
+        "title": "Software Engineer - Mobile Applications",
+        "locations": [
+            "Palo Alto, CA",
+            "Charlotte, NC"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "44f142f4-287d-4d54-bd77-0c962efd7806",
+        "date_posted": 1700283590,
+        "company_url": "",
+        "is_visible": true
     }
 ]
