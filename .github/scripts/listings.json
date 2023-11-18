@@ -39111,5 +39111,25 @@
         "date_posted": 1700283261,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1700283332,
+        "url": "https://careers-sri.icims.com/jobs/5723/job",
+        "company_name": "SRI International",
+        "title": "Software Engineering - Intern",
+        "locations": [
+            "Menlo Park, CA",
+            "Princeton, NJ"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "188b32d3-f5bd-42e5-99b9-8b040524f4df",
+        "date_posted": 1700283332,
+        "company_url": "",
+        "is_visible": true
     }
 ]
