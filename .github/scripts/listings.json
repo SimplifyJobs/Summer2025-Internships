@@ -39457,5 +39457,26 @@
         "date_posted": 1700366231,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1700366246,
+        "url": "https://boards.greenhouse.io/thenewyorktimes/jobs/4340736005",
+        "company_name": "The New York Times",
+        "title": "Data Science Intern",
+        "locations": [
+            "NYC",
+            "Hybrid",
+            "Remote"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "VitaliPri",
+        "id": "28f594a1-3f10-4fe4-8063-a7b7a4d4d63a",
+        "date_posted": 1700366246,
+        "company_url": "",
+        "is_visible": true
     }
 ]
