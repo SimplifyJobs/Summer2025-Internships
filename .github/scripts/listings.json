@@ -39636,5 +39636,24 @@
         "date_posted": 1700366711,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1700366839,
+        "url": "https://gtsgbu.wd3.myworkdayjobs.com/en-US/Careers/job/Toronto/Hardware-Application-Designer---Intern_R1004049",
+        "company_name": "Thales",
+        "title": "Hardware Application Designer - Intern",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "117e90e1-7e8e-418d-b5c2-af45cc68c458",
+        "date_posted": 1700366839,
+        "company_url": "",
+        "is_visible": true
     }
 ]
