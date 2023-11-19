@@ -39417,5 +39417,24 @@
         "date_posted": 1700366199,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1700366217,
+        "url": "https://jobs.bayer.com/job/Residence-Based-Process-Insights-&-Analytics-Intern-Resi/991319601/",
+        "company_name": "Bayer",
+        "title": "Process Insights & Analytics Intern",
+        "locations": [
+            "remote"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "petraliu1006",
+        "id": "36f320c1-3ee6-4569-b8a0-bb0a04d5db5e",
+        "date_posted": 1700366217,
+        "company_url": "",
+        "is_visible": true
     }
 ]
