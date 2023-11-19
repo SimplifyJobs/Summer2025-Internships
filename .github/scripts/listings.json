@@ -39598,5 +39598,24 @@
         "date_posted": 1700366629,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1700366673,
+        "url": "https://careers.intuitive.com/en/jobs/743999944888193/JOB5804/",
+        "company_name": "Intuitive Surgical",
+        "title": "Software Engineer - Intern",
+        "locations": [
+            "Peachtree Corners, GA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "e61bfb51-631e-49f0-9745-9eab1173d617",
+        "date_posted": 1700366673,
+        "company_url": "",
+        "is_visible": true
     }
 ]
