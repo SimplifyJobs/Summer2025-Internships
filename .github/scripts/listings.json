@@ -39398,5 +39398,24 @@
         "date_posted": 1700330130,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1700366199,
+        "url": "https://careers.leidos.com/jobs/13612003-natural-language-processing-research-intern",
+        "company_name": "Leidos",
+        "title": "Natural Language Processing Research - Intern",
+        "locations": [
+            "Arlington, VA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "source": "vanshb03",
+        "id": "9740be5b-9f5d-4477-9b21-7609d4a77175",
+        "date_posted": 1700366199,
+        "company_url": "",
+        "is_visible": true
     }
 ]
