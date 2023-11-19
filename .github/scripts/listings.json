@@ -39560,5 +39560,24 @@
         "date_posted": 1700366347,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1700366592,
+        "url": "https://boards.greenhouse.io/thenewyorktimes/jobs/4340660005",
+        "company_name": "The New York Times",
+        "title": "R&D Software Engineer Intern",
+        "locations": [
+            "NYC"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "VitaliPri",
+        "id": "b0155e2d-ec1f-4655-9365-0d3a96b61e91",
+        "date_posted": 1700366592,
+        "company_url": "",
+        "is_visible": true
     }
 ]
