@@ -39520,5 +39520,26 @@
         "date_posted": 1700366293,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1700366317,
+        "url": "https://boards.greenhouse.io/thenewyorktimes/jobs/4340724005",
+        "company_name": "The New York Times",
+        "title": "Android Engineer Intern",
+        "locations": [
+            "NYC",
+            "Hybrid",
+            "Remote"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "VitaliPri",
+        "id": "17daa888-1552-4abe-88d6-afef3208a6c4",
+        "date_posted": 1700366317,
+        "company_url": "",
+        "is_visible": true
     }
 ]
