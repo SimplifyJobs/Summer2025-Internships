@@ -39436,5 +39436,26 @@
         "date_posted": 1700366217,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1700366231,
+        "url": "https://boards.greenhouse.io/thenewyorktimes/jobs/4340637005",
+        "company_name": "The New York Times",
+        "title": "Data Analyst Insights Intern",
+        "locations": [
+            "NYC",
+            "Hybrid",
+            "Remote"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "VitaliPri",
+        "id": "e129197e-7594-4909-91ce-30ccf5297a08",
+        "date_posted": 1700366231,
+        "company_url": "",
+        "is_visible": true
     }
 ]
