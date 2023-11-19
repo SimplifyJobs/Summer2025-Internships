@@ -39541,5 +39541,24 @@
         "date_posted": 1700366317,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1700366347,
+        "url": "https://jobs.intel.com/en/job/-/-/599/57401006544",
+        "company_name": "Intel",
+        "title": "Datacenter DevOps - Intern",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "2e2247e3-d2d3-4565-a2a1-beaf18028634",
+        "date_posted": 1700366347,
+        "company_url": "",
+        "is_visible": true
     }
 ]
