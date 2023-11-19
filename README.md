@@ -61,7 +61,8 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
-| The New York Times | Data Science Intern 🛂 | NYC</br>Hybrid</br>Remote | <a href="https://boards.greenhouse.io/thenewyorktimes/jobs/4340736005?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 18 |
+| The New York Times | Newsroom Software Engineering Intern 🛂 | NYC</br>Hybrid</br>Remote | <a href="https://boards.greenhouse.io/thenewyorktimes/jobs/4341146005?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 18 |
+| ↳ | Data Science Intern 🛂 | NYC</br>Hybrid</br>Remote | <a href="https://boards.greenhouse.io/thenewyorktimes/jobs/4340736005?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 18 |
 | ↳ | Data Analyst Insights Intern 🛂 | NYC</br>Hybrid</br>Remote | <a href="https://boards.greenhouse.io/thenewyorktimes/jobs/4340637005?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 18 |
 | **[Leidos](https://simplify.jobs/c/Leidos)** | Natural Language Processing Research - Intern 🇺🇸 | Arlington, VA | <a href="https://careers.leidos.com/jobs/13612003-natural-language-processing-research-intern?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 18 |
 | IBM | DevOps Developer Intern | Markham, Canada | <a href="https://careers.ibm.com/job/19465461/devops-developer-intern-may-2024-16-months-markham-ca/?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 18 |
