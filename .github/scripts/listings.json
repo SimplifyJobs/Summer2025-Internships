@@ -39617,5 +39617,24 @@
         "date_posted": 1700366673,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1700366711,
+        "url": "https://careers.intuitive.com/en/jobs/743999944875183/JOB5954/",
+        "company_name": "Intuitive Surgical",
+        "title": "Data Science Intern",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "cffb92b2-9f71-42fa-8a88-ebc17570e7b8",
+        "date_posted": 1700366711,
+        "company_url": "",
+        "is_visible": true
     }
 ]
