@@ -39674,5 +39674,24 @@
         "date_posted": 1700533316,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1700533346,
+        "url": "https://womble.avature.net/careers/JobDetail/Winston-Salem-North-Carolina-United-States-Business-Intelligence-Strategy-Staff-Intern/3422",
+        "company_name": "Womble Bond Dickinson",
+        "title": "Business Intelligence & Strategy - Staff Intern",
+        "locations": [
+            "Winston-Salem, NC"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "10423c25-d599-45b8-9f8f-1f8578ba7258",
+        "date_posted": 1700533346,
+        "company_url": "",
+        "is_visible": true
     }
 ]
