@@ -68,7 +68,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | Musco Sports Lighting, LLC | Application Developer - Intern | Oskaloosa, IA | <a href="https://recruiting2.ultipro.com/MUS1000MUSCO/JobBoard/2d04f520-ad08-4844-9db8-7884196c3096/OpportunityDetail?opportunityId=51461f73-a712-4d11-8efe-032282d21c64&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 20 |
 | The New York Times | Android Engineer Intern 🛂 | NYC</br>Hybrid</br>Remote | <a href="https://boards.greenhouse.io/thenewyorktimes/jobs/4340724005?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 18 |
 | ↳ | Full-Stack Engineering Intern 🛂 | NYC</br>Hybrid</br>Remote | <a href="https://boards.greenhouse.io/thenewyorktimes/jobs/4340702005?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 18 |
-| ↳ | Data Analyst Insights Intern 🛂 | NYC</br>Hybrid</br>Remote | <a href="https://boards.greenhouse.io/thenewyorktimes/jobs/4340637005?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 18 |
+| ↳ | Data Analyst Insights Intern 🛂 | NYC</br>Hybrid</br>Remote | 🔒 | Nov 18 |
 | ↳ | Data Science Intern 🛂 | NYC</br>Hybrid</br>Remote | 🔒 | Nov 18 |
 | ↳ | Newsroom Software Engineering Intern 🛂 | NYC</br>Hybrid</br>Remote | 🔒 | Nov 18 |
 | ↳ | R&D Software Engineer Intern 🛂 | NYC | 🔒 | Nov 18 |
