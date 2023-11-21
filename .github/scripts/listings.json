@@ -39712,5 +39712,24 @@
         "date_posted": 1700533361,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1700533414,
+        "url": "https://oclc.wd1.myworkdayjobs.com/en-US/OCLC_Careers/job/Dublin-OH--Hybrid/UX-Accessibility-Intern_R0003025",
+        "company_name": "OCLC",
+        "title": "UX Accessibility - Intern",
+        "locations": [
+            "Dublin, OH"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "62f84736-ccb9-43ba-bd07-69fcfe4e9555",
+        "date_posted": 1700533414,
+        "company_url": "",
+        "is_visible": true
     }
 ]
