@@ -39750,5 +39750,24 @@
         "date_posted": 1700533575,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1700533689,
+        "url": "https://boards.greenhouse.io/thenewyorktimes/jobs/4340696005",
+        "company_name": "The New York Times",
+        "title": "iOS Engineer - Intern",
+        "locations": [
+            "New York, NY"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "vanshb03",
+        "id": "b1edd107-ba1f-4ade-baf2-62d39ff7e1f5",
+        "date_posted": 1700533689,
+        "company_url": "",
+        "is_visible": true
     }
 ]
