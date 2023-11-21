@@ -39826,5 +39826,24 @@
         "date_posted": 1700533742,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1700533758,
+        "url": "https://careers.intuitive.com/en/jobs/743999944906553/JOB5828/product-security-engineer-intern/",
+        "company_name": "Intuitive",
+        "title": "Product Security Engineer - Intern",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "db432899-1240-4995-a20f-98549837ece5",
+        "date_posted": 1700533758,
+        "company_url": "",
+        "is_visible": true
     }
 ]
