@@ -39501,20 +39501,18 @@
         "is_visible": true
     },
     {
-        "date_updated": 1700366293,
+        "date_updated": 1700533992,
         "url": "https://boards.greenhouse.io/thenewyorktimes/jobs/4340702005",
         "company_name": "The New York Times",
         "title": "Full-Stack Engineering Intern",
         "locations": [
-            "NYC",
-            "Hybrid",
-            "Remote"
+            "NYC"
         ],
         "terms": [
             "Summer 2024"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "source": "VitaliPri",
         "id": "c208b470-0ca0-41a8-a025-d9658c7797a7",
         "date_posted": 1700366293,

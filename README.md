@@ -71,7 +71,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | Leggett & Platt | Software Engineer- iOS - Intern | Lenexa, KS | <a href="https://careers.leggett.com/job/Lenexa-Internship-Software-Engineer-iOS-KS/1077037600/?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 20 |
 | Intuitive | Product Security Engineer - Intern | Sunnyvale, CA | <a href="https://careers.intuitive.com/en/jobs/743999944906553/JOB5828/product-security-engineer-intern/?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 20 |
 | The New York Times | Android Engineer Intern 🛂 | NYC</br>Hybrid</br>Remote | <a href="https://boards.greenhouse.io/thenewyorktimes/jobs/4340724005?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 18 |
-| ↳ | Full-Stack Engineering Intern 🛂 | NYC</br>Hybrid</br>Remote | <a href="https://boards.greenhouse.io/thenewyorktimes/jobs/4340702005?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 18 |
+| ↳ | Full-Stack Engineering Intern 🛂 | NYC | 🔒 | Nov 18 |
 | ↳ | Data Analyst Insights Intern 🛂 | NYC</br>Hybrid</br>Remote | 🔒 | Nov 18 |
 | ↳ | Data Science Intern 🛂 | NYC</br>Hybrid</br>Remote | 🔒 | Nov 18 |
 | ↳ | Newsroom Software Engineering Intern 🛂 | NYC</br>Hybrid</br>Remote | 🔒 | Nov 18 |
