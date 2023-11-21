@@ -39655,5 +39655,24 @@
         "date_posted": 1700366839,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1700533316,
+        "url": "https://careers.northwesternmutual.com/corporate-careers/job/investment-risk-management-internship-summer-2024-milwaukee-wi-corporate-jr-39734/",
+        "company_name": "Northwestern Mutual",
+        "title": "Investment Risk Management - Intern",
+        "locations": [
+            "Milwaukee, WI"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "c3280e14-0997-44ea-8fc0-86146d119533",
+        "date_posted": 1700533316,
+        "company_url": "",
+        "is_visible": true
     }
 ]
