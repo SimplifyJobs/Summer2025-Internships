@@ -39769,5 +39769,24 @@
         "date_posted": 1700533689,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1700533704,
+        "url": "https://boards.greenhouse.io/thenewyorktimes/jobs/4340721005",
+        "company_name": "The New York Times",
+        "title": "https://boards.greenhouse.io/thenewyorktimes/jobs/4340721005",
+        "locations": [
+            "New York, NY"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "vanshb03",
+        "id": "f21010c3-606f-4ec7-9c1b-fd3bc249665a",
+        "date_posted": 1700533704,
+        "company_url": "",
+        "is_visible": true
     }
 ]
