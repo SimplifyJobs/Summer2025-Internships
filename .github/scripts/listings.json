@@ -39843,5 +39843,24 @@
         "date_posted": 1700533758,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1700534041,
+        "url": "https://careers.eisneramper.com/en/career-opportunities/2301/software-developer-consulting-internship-summer-2024-baton-rouge/",
+        "company_name": "EisnerAmper",
+        "title": "Software Developer - Intern",
+        "locations": [
+            "Baton Rouge, LA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "32f08e5f-5327-4cf1-9201-bb38a0ca249e",
+        "date_posted": 1700534041,
+        "company_url": "",
+        "is_visible": true
     }
 ]
