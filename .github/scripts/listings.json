@@ -39807,5 +39807,24 @@
         "date_posted": 1700533720,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1700533742,
+        "url": "https://careers.leggett.com/job/Lenexa-Internship-Software-Engineer-iOS-KS/1077037600/",
+        "company_name": "Leggett & Platt",
+        "title": "Software Engineer- iOS - Intern",
+        "locations": [
+            "Lenexa, KS"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "430a3d21-1c9b-4002-abcc-7fb1b35a8bb5",
+        "date_posted": 1700533742,
+        "company_url": "",
+        "is_visible": true
     }
 ]
