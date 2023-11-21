@@ -39480,7 +39480,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1700366271,
+        "date_updated": 1700533550,
         "url": "https://boards.greenhouse.io/thenewyorktimes/jobs/4341146005",
         "company_name": "The New York Times",
         "title": "Newsroom Software Engineering Intern",
@@ -39493,7 +39493,7 @@
             "Summer 2024"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "source": "VitaliPri",
         "id": "e17f5c39-85b2-4e61-a479-38dc82342474",
         "date_posted": 1700366271,
