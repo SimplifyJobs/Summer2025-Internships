@@ -39902,5 +39902,24 @@
         "date_posted": 1700667712,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1700667746,
+        "url": "https://www.careerbeacon.com/en/job-1/523676/extreme-reach/software-development-intern/toronto-on",
+        "company_name": "Extreme Reach",
+        "title": "Software Development - Intern",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "bc599aad-7900-408f-aa31-ccbda7830e9d",
+        "date_posted": 1700667746,
+        "company_url": "",
+        "is_visible": true
     }
 ]
