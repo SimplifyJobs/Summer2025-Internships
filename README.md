@@ -989,7 +989,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | ↳ | Hubspot Software Engineer Internship & Co-op Program - USA | Remote in USA | 🔒 | Sep 06 |
 | ↳ | Hubspot Software Engineer Internship & Co-op Program - USA | Cambridge, MA | 🔒 | Sep 06 |
 | **[Hewlett Packard (HP)](https://simplify.jobs/c/Hewlett-Packard)** | Personal Systems Software Engineer Internship | <details><summary>**5 locations**</summary>Austin, TX</br>Spring, TX</br>Santa Cruz, CA</br>Westminster, CO</br>Fort Collins, CO</details> | <a href="https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Spring-Texas-United-States-of-America/Personal-Systems-Software-Engineer-Internship_3122886-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/61d389b0-e40a-4468-80a3-75506c4bd420?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Sep 06 |
-| General Mills | Data Science Intern 🛂 | Minneapolis, MN | <a href="https://app.ripplematch.com/v2/public/job/71309fd0/details?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 06 |
+| General Mills | Data Science Intern 🛂 | Minneapolis, MN | 🔒 | Sep 06 |
 | **[Epic Games](https://simplify.jobs/c/Epic-Games)** | Data Software Engineer Intern | Morrisville, NC | 🔒 | Sep 06 |
 | ↳ | Tools Programmer Intern - Virtual Production | Morrisville, NC | 🔒 | Sep 06 |
 | **[Dun & Bradstreet](https://simplify.jobs/c/Dun-and-Bradstreet)** | 2024 Summer Internship Program - Technology | Jacksonville, FL | 🔒 | Sep 06 |

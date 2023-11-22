@@ -15901,7 +15901,7 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1694044883,
+        "date_updated": 1700668649,
         "url": "https://app.ripplematch.com/v2/public/job/71309fd0/details",
         "company_name": "General Mills",
         "title": "Data Science Intern",
@@ -15912,7 +15912,7 @@
             "Summer 2024"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "source": "mtlogs",
         "id": "579c5c3e-980b-4a19-8700-17658987dd0e",
         "date_posted": 1694044883,
