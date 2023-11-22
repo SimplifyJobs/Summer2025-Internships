@@ -39940,5 +39940,24 @@
         "date_posted": 1700667883,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1700668078,
+        "url": "https://jobs.paccar.com/job/Renton-IT-Intern%2C-Summer-2024-Data-Engineer-Job-WA-98057/1008673901/",
+        "company_name": "PACCAR",
+        "title": "Data Engineer IT - Intern",
+        "locations": [
+            "Renton, WA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "vanshb03",
+        "id": "655df8d2-5f71-48f6-85eb-cf6b3d94601d",
+        "date_posted": 1700668078,
+        "company_url": "",
+        "is_visible": true
     }
 ]
