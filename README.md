@@ -1000,7 +1000,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | **[Asana](https://simplify.jobs/c/Asana)** | SF Summer Software Engineering Internship | SF | 🔒 | Sep 06 |
 | ↳ | NYC Summer Software Engineering Internship | NYC | 🔒 | Sep 06 |
 | **[Accenture Federal Services](https://simplify.jobs/c/AccentureFederalServices)** | Summer Analyst | Arlington, VA | <a href="https://boards.greenhouse.io/accenturefederalservices/jobs/4272422006?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/b17ae975-780a-43a8-b8d9-9777e55aff1f?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Sep 06 |
-| Veritas Technologies | Summer 2024- Software Engineer Intern- Graduate Degree | US - Remote Heathrow, FL - All locations | <a href="https://veritas.wd1.myworkdayjobs.com/careers/job/US---Remote/Summer-2024--Software-Engineer-Intern--Graduate-Degree_62098?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 05 |
+| Veritas Technologies | Summer 2024- Software Engineer Intern- Graduate Degree | US - Remote Heathrow, FL - All locations | 🔒 | Sep 05 |
 | **[Torc Robotics](https://simplify.jobs/c/Torc-Robotics)** | Software Development Engineer in Test – Co-Op - Sdet | Blacksburg, VA | 🔒 | Sep 05 |
 | **[T. Rowe Price](https://simplify.jobs/c/t-rowe-price)** | 2024 Quantitative Investing Internship Program | Baltimore, MD | 🔒 | Sep 05 |
 | ↳ | 2024 Global Trading Internship Program | Baltimore, MD | 🔒 | Sep 05 |
