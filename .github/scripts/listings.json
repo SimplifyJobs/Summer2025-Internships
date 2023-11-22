@@ -40035,5 +40035,24 @@
         "date_posted": 1700668230,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1700668282,
+        "url": "https://recruiting.paylocity.com/recruiting/jobs/Details/2084229/Clarity-Partners-LLC/Front-End-Web-Developer-Internship",
+        "company_name": "Clarity Partners LLC",
+        "title": "Front-End Web Developer - Intern",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "786c6ae6-465e-4e13-a70f-10fdf82343ba",
+        "date_posted": 1700668282,
+        "company_url": "",
+        "is_visible": true
     }
 ]
