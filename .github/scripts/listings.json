@@ -39978,5 +39978,24 @@
         "date_posted": 1700668108,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1700668192,
+        "url": "https://ascenaretail.wd5.myworkdayjobs.com/us_corporate_jobs/job/Ascena-Corp-ETNA-ascena-Pataskala-OH-43062/Data-Scientist-Intern_R-138106",
+        "company_name": "Ascena",
+        "title": "Data Scientist - Intern",
+        "locations": [
+            "Pataskala, OH"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "fd494b60-8c4b-4289-a869-cf9a9ce09c28",
+        "date_posted": 1700668192,
+        "company_url": "",
+        "is_visible": true
     }
 ]
