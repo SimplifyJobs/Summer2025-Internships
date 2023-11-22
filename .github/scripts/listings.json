@@ -39959,5 +39959,24 @@
         "date_posted": 1700668078,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1700668108,
+        "url": "https://jobs.paccar.com/job/Renton-IT-Intern%2C-Summer-2024-Data-Scientist-Job-WA-98057/1008684801/",
+        "company_name": "PACCAR",
+        "title": "Data Scientist IT - Intern",
+        "locations": [
+            "Renton, WA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "vanshb03",
+        "id": "3f8b9bad-7b6e-4dd1-8e36-b44c7a21868d",
+        "date_posted": 1700668108,
+        "company_url": "",
+        "is_visible": true
     }
 ]
