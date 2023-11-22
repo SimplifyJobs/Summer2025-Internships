@@ -39997,5 +39997,24 @@
         "date_posted": 1700668192,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1700668215,
+        "url": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Canada-Vancouver/Intern--Software-Engineering_R237728",
+        "company_name": "Analog Devices",
+        "title": "Software Engineering - Intern",
+        "locations": [
+            "Vancouver, Canada"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "48936fc5-b294-4d0b-8df9-4c0b32604c30",
+        "date_posted": 1700668215,
+        "company_url": "",
+        "is_visible": true
     }
 ]
