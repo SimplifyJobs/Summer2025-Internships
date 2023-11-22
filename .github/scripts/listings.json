@@ -15648,7 +15648,7 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1694039830,
+        "date_updated": 1700668359,
         "url": "https://www.linkedin.com/jobs/view/3705752503/",
         "company_name": "Linkedin",
         "title": "Systems and Infrastructure Engineer Internship - Graduate level",
@@ -15658,8 +15658,8 @@
         "terms": [
             "Summer 2024"
         ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "yukikazedayo",
         "id": "5f47d453-416d-4b00-809f-0837058248d9",
         "date_posted": 1694039830,
