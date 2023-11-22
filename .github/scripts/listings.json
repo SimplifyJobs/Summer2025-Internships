@@ -40016,5 +40016,24 @@
         "date_posted": 1700668215,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1700668230,
+        "url": "https://www.wayfair.com/careers/job/software-engineering-intern---summer-2024/7032310002/",
+        "company_name": "Wayfair",
+        "title": "Software Engineering Intern - Summer 2024",
+        "locations": [
+            "Austin, TX"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "4a33af90-f58d-45d5-ad31-c18ec1c6ffe0",
+        "date_posted": 1700668230,
+        "company_url": "",
+        "is_visible": true
     }
 ]
