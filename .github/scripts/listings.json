@@ -39862,5 +39862,26 @@
         "date_posted": 1700534041,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1700667687,
+        "url": "https://jobs-thalesdsi.icims.com/jobs/3432/2024-software-engineering-summer-intern---il/job?mode=job&iis=Job+Board&iisn=LinkedIn&mobile=false&width=1170&height=500&bga=true&needsRedirect=false&jan1offset=-360&jun1offset=-300",
+        "company_name": "Thales Defense & Security, Inc.",
+        "title": "2024 Software Engineering Summer Intern - IL",
+        "locations": [
+            "Aurora",
+            "IL",
+            "US"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "Garenbbbb",
+        "id": "b152c29a-95e2-49d6-87ce-7bcee1fb2529",
+        "date_posted": 1700667687,
+        "company_url": "",
+        "is_visible": true
     }
 ]
