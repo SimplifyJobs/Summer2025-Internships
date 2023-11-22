@@ -40054,5 +40054,24 @@
         "date_posted": 1700668282,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1700668312,
+        "url": "https://itron.referrals.selectminds.com/jobs/intern-software-engineer-6245",
+        "company_name": "Itron",
+        "title": "Software Engineer - Intern",
+        "locations": [
+            "Liberty Lake, WA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "834632bc-d12f-411e-b7fb-abe670a1666f",
+        "date_posted": 1700668312,
+        "company_url": "",
+        "is_visible": true
     }
 ]
