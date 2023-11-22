@@ -950,7 +950,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | **[Okta](https://simplify.jobs/c/Okta)** | Machine Learning Engineer Intern - Customer Identity Cloud - Summer 2024 | Remote in USA | 🔒 | Sep 08 |
 | **[Northwestern Mutual](https://simplify.jobs/c/Northwestern-Mutual)** | Investment Data – Analytics & Research Internship | Milwaukee, WI | 🔒 | Sep 08 |
 | **[Logitech](https://simplify.jobs/c/Logitech)** | Intern in Software Data Science Team | Lausanne, Switzerland | 🔒 | Sep 08 |
-| Humana | 2024 IT Summer Internship 🛂 | Louisville, KY</br>Remote | <a href="https://careers.humana.com/job/19065118/humana-2024-it-summer-internship-remote/?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 08 |
+| Humana | 2024 IT Summer Internship 🛂 | Louisville, KY</br>Remote | 🔒 | Sep 08 |
 | **[Hewlett Packard (HP)](https://simplify.jobs/c/Hewlett-Packard)** | 2024 Summer Print Software Internship | Vancouver, WA | 🔒 | Sep 08 |
 | Fedex | Customer Solutions - Business Intelligence & Analytics Intern | Memphis, TN | 🔒 | Sep 08 |
 | **[EquipmentShare](https://simplify.jobs/c/Equipment-Share)** | Intern: Software Engineer | Columbia, MO | 🔒 | Sep 08 |
