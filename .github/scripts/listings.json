@@ -39921,5 +39921,24 @@
         "date_posted": 1700667746,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1700667883,
+        "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/uni/job/Toronto-ON-CAN/Intern--Software-Engineer_23WD72473-1",
+        "company_name": "Autodesk",
+        "title": "Software Engineer - Intern",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "2cb69b5f-7c7a-4809-b219-934854edad9c",
+        "date_posted": 1700667883,
+        "company_url": "",
+        "is_visible": true
     }
 ]
