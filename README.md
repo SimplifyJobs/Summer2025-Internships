@@ -1024,7 +1024,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | Calix | Software Engineering Intern | Remote - North America | 🔒 | Sep 05 |
 | **[CACI](https://simplify.jobs/c/CACI)** | Signal Processing and Data Analysis Intern - Summer 2024 | Austin, TX | 🔒 | Sep 05 |
 | ↳ | Software Development Intern - Summer 2024 | Denver, CO | 🔒 | Sep 05 |
-| Pinecone | SWE Intern: Distributed Systems NYC | New York, NY | <a href="https://www.pinecone.io/careers?id=5696733003&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 04 |
+| Pinecone | SWE Intern: Distributed Systems NYC | New York, NY | 🔒 | Sep 04 |
 | **[Maven Securities](https://simplify.jobs/c/Maven-Securities)** | Software Developer Summer Internship London 2024 And Trader Summer Internship London 2024 🛂 | London | 🔒 | Sep 04 |
 | ↳ | Trader Summer Internship London 2024 | London, UK | 🔒 | Sep 04 |
 | **[Live Nation Entertainment](https://simplify.jobs/c/Live-Nation-Entertainment)** | Field IT Support Apprentice | London, UK | 🔒 | Sep 04 |

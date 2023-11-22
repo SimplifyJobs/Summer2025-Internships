@@ -14671,7 +14671,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1693836108,
+        "date_updated": 1700668795,
         "url": "https://www.pinecone.io/careers?id=5696733003",
         "company_name": "Pinecone",
         "title": "SWE Intern: Distributed Systems NYC",
@@ -14681,8 +14681,8 @@
         "terms": [
             "Summer 2024"
         ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "cwcoogan",
         "id": "48dd3483-52ff-430a-b2bf-9bb4a756a043",
         "date_posted": 1693836108,
