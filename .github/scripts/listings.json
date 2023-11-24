@@ -40073,5 +40073,24 @@
         "date_posted": 1700668312,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1700790573,
+        "url": "https://www.squarespace.com/careers/jobs/5369485",
+        "company_name": "Squarespace",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "New York"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "ajain02",
+        "id": "49663ef4-3cb7-40d4-a338-7993cb959251",
+        "date_posted": 1700790573,
+        "company_url": "",
+        "is_visible": true
     }
 ]
