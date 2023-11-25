@@ -51,6 +51,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 | Company | Role | Location | Terms | Application/Link | Date Posted |
 | ------- | ---- | -------- | ----- | ---------------- | ----------- |
+| Third Pole, Inc | Core Technology Software - Intern | Waltham, MA | Winter 2024, Spring 2024 | <a href="https://www.pole3.com/company/careers/?gh_jid=4342347005&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 25 |
 | Wikimedia Foundation | Software Engineering - Intern | Remote | Spring 2024 | <a href="https://boards.greenhouse.io/wikimedia/jobs/5511020?gh_src=0e7d3b611us&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 17 |
 | Astrobotic | Software and Controls - Intern 🇺🇸 | Pittsburgh, PA | Spring 2024 | <a href="https://astrobotic-technology-inc.synchr-recruit.com/job/712672/spring-2024-internship-software-and-controls?s=in&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 17 |
 | BlueYonder | Software Engineering Intern - Automation Focus | Dallas, TX | Spring 2024 | <a href="https://jda.wd5.myworkdayjobs.com/en-US/university/details/Software-Engineering-Intern---Automation-Focus_234045?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |

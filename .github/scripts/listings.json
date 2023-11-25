@@ -40131,5 +40131,25 @@
         "date_posted": 1700926922,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1700927029,
+        "url": "https://www.pole3.com/company/careers/?gh_jid=4342347005",
+        "company_name": "Third Pole, Inc",
+        "title": "Core Technology Software - Intern",
+        "locations": [
+            "Waltham, MA"
+        ],
+        "terms": [
+            "Winter 2024",
+            "Spring 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "25c98981-e409-49a7-828b-bcd92e32bdbd",
+        "date_posted": 1700927029,
+        "company_url": "",
+        "is_visible": true
     }
 ]
