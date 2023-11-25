@@ -40209,5 +40209,26 @@
         "date_posted": 1700927306,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1700927333,
+        "url": "https://careers.ibm.com/job/19493685/machine-learning-developer-intern-may-4-months-ibm-consulting-remote/",
+        "company_name": "IBM",
+        "title": "Machine Learning Developer Intern",
+        "locations": [
+            "Toronto, Canada",
+            "Calgary, Canada",
+            "Montreal, Canada"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "dc088b73-7905-4e72-b94f-78a787e60301",
+        "date_posted": 1700927333,
+        "company_url": "",
+        "is_visible": true
     }
 ]
