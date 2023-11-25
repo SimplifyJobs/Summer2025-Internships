@@ -40151,5 +40151,24 @@
         "date_posted": 1700927029,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1700927080,
+        "url": "https://www.pole3.com/company/careers/?gh_jid=4340361005",
+        "company_name": "Third Pole, Inc",
+        "title": "Embedded Software Engineering - Intern",
+        "locations": [
+            "Waltham, MA"
+        ],
+        "terms": [
+            "Spring 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "322dbe49-e54e-438a-9c4b-3941f172dddf",
+        "date_posted": 1700927080,
+        "company_url": "",
+        "is_visible": true
     }
 ]
