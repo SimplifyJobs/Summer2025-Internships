@@ -40092,5 +40092,25 @@
         "date_posted": 1700790573,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1700926877,
+        "url": "https://jobs.centene.com/us/en/jobs/1474988/application-developer-intern-undergraduate-summer-2024/",
+        "company_name": "Centene",
+        "title": "Application Developer Intern",
+        "locations": [
+            "Missouri",
+            "Remote"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "7c3a01e7-6791-4ccd-a024-637097fc5fa0",
+        "date_posted": 1700926877,
+        "company_url": "",
+        "is_visible": true
     }
 ]
