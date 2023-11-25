@@ -40170,5 +40170,24 @@
         "date_posted": 1700927080,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1700927100,
+        "url": "https://recruiting.ultipro.com/DAN1006DMT/JobBoard/712b6c28-b7c4-4966-8dcc-eb3e181cbdef/OpportunityDetail?opportunityId=19f1c6f7-2a52-4f42-9b9f-a4eb887ddf9d",
+        "company_name": "AMERGINT Technologies",
+        "title": "Software Engineer - Intern",
+        "locations": [
+            "Colorado Springs, CO"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "0ecd47da-b5c0-4785-8b7f-20621971d5a2",
+        "date_posted": 1700927100,
+        "company_url": "",
+        "is_visible": true
     }
 ]
