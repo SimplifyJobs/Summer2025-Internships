@@ -40189,5 +40189,25 @@
         "date_posted": 1700927100,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1700927306,
+        "url": "https://flyribbit.applytojobs.ca/engineering/26524",
+        "company_name": "Ribbit",
+        "title": "Software Engineering Intern - Robotics",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "terms": [
+            "Spring 2024",
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "2367f171-6b8e-40df-9340-ca4e583a61ad",
+        "date_posted": 1700927306,
+        "company_url": "",
+        "is_visible": true
     }
 ]
