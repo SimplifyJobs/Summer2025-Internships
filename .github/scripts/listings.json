@@ -40230,5 +40230,24 @@
         "date_posted": 1700927333,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1700927348,
+        "url": "https://careers-lmi.icims.com/jobs/10371/space-systems-software-development-intern-%28summer-2024%29/job",
+        "company_name": "LMI",
+        "title": "Space Systems Software Development Intern",
+        "locations": [
+            "Colorado Springs, CO"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "94a1f6a1-23cd-49d1-a065-5fa071ecf379",
+        "date_posted": 1700927348,
+        "company_url": "",
+        "is_visible": true
     }
 ]
