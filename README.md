@@ -61,6 +61,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Tradeweb | C++ Developer - Intern | Jersey City, NJ | <a href="https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/300723?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 25 |
 | Centene | Application Developer Intern | Missouri</br>Remote | <a href="https://jobs.centene.com/us/en/jobs/1474988/application-developer-intern-undergraduate-summer-2024/?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 25 |
 | Squarespace | Software Engineer Intern | New York | <a href="https://www.squarespace.com/careers/jobs/5369485?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
 | **[Wayfair](https://simplify.jobs/c/Wayfair)** | Software Engineering Intern - Summer 2024 | Austin, TX | <a href="https://www.wayfair.com/careers/job/software-engineering-intern---summer-2024/7032310002/?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 22 |

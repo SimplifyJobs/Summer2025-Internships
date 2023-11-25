@@ -40112,5 +40112,24 @@
         "date_posted": 1700926877,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1700926922,
+        "url": "https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/300723",
+        "company_name": "Tradeweb",
+        "title": "C++ Developer - Intern",
+        "locations": [
+            "Jersey City, NJ"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "63a6a6ee-cd49-4ccd-acbf-189d88f69c70",
+        "date_posted": 1700926922,
+        "company_url": "",
+        "is_visible": true
     }
 ]
