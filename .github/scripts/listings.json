@@ -40249,5 +40249,24 @@
         "date_posted": 1700927348,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1700927518,
+        "url": "https://careers-lmi.icims.com/jobs/10637/ai-engineer-intern-%28summer-2024%29/job",
+        "company_name": "LMI",
+        "title": "AI Engineer Intern",
+        "locations": [
+            "Tysons, VA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "ff77bc90-3098-438a-ace3-2dd3f83e0149",
+        "date_posted": 1700927518,
+        "company_url": "",
+        "is_visible": true
     }
 ]
