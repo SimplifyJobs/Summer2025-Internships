@@ -1433,9 +1433,9 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | ↳ | Software Engineering Internship | Vancouver, BC, Canada | 🔒 | Jul 26 |
 | **[Achronix Semiconductor](https://simplify.jobs/c/Achronix)** | FPGA Software Engineer Intern | Santa Clara, CA | <a href="https://boards.greenhouse.io/achronixsemiconductor/jobs/4011616006?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/78052e54-5868-40b8-bf29-8c6d2f3ad11e?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jul 26 |
 | KPMG | Engineering & IT Internship  🛂 | Multiple Locations | <a href="https://app.ripplematch.com/v2/public/job/6f5894f6/details?utm_source=RM&utm_medium=organic_social&utm_campaign=growth_github&utm_content=kpmg&utm_term=null&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 25 |
-| Jane Street | Software Engineer Internship | NYC | <a href="https://www.janestreet.com/join-jane-street/position/6834728002/?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 25 |
-| ↳ | Quantitative Trader Internship | NYC | <a href="https://www.janestreet.com/join-jane-street/position/6850721002/?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 25 |
+| Jane Street | Quantitative Trader Internship | NYC | <a href="https://www.janestreet.com/join-jane-street/position/6850721002/?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 25 |
 | ↳ | Quantitative Researcher Internship | NYC | <a href="https://www.janestreet.com/join-jane-street/position/6838982002/?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 25 |
+| ↳ | Software Engineer Internship | NYC | 🔒 | Jul 25 |
 | General Motors | 2024 Summer Intern – Digital Transformation – Data Analyst or Data Scientist  | Digital Information | 🔒 | Jul 24 |
 | SkyWorks | Embedded FW Summer Intern | Austin, TX | 🔒 | Jul 23 |
 | Cole Engineering Services, Inc. | Intern us | Orlando, FL | 🔒 | Jul 22 |
