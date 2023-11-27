@@ -576,11 +576,11 @@
         "company_name": "DRW",
         "id": "3106fc7e-bf31-4d21-8ac4-70f22ddc7e4c",
         "title": "Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
-        "date_updated": 1689739200,
+        "date_updated": 1701055476,
         "url": "https://boards.greenhouse.io/drweng/jobs/5114577",
         "locations": [
             "Austin, TX",
@@ -589,7 +589,7 @@
         "company_url": "https://simplify.jobs/c/DRW",
         "is_visible": true,
         "date_posted": 1689739200,
-        "sponsorship": "Offers Sponsorship"
+        "sponsorship": "Other"
     },
     {
         "source": "Simplify",
