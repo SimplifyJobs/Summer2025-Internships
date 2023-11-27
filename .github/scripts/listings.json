@@ -576,7 +576,7 @@
         "company_name": "DRW",
         "id": "3106fc7e-bf31-4d21-8ac4-70f22ddc7e4c",
         "title": "Software Developer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -3250,7 +3250,7 @@
         "company_name": "AlphaGrep Securities",
         "id": "218fddbe-fce4-4b46-b0ec-65ada51dfb5b",
         "title": "Quantitative Trading Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
