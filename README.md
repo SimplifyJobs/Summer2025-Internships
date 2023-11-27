@@ -1179,7 +1179,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | ↳ | Software Engineering Intern - Summer 2024 - Provo 🛂 | Provo, UT | 🔒 | Aug 24 |
 | Notion | Software Engineer Intern | San Francisco, CA</br>Charlotte, NC | 🔒 | Aug 24 |
 | Lowes | Software Engineer Intern | Charlotte, NC | 🔒 | Aug 24 |
-| **[LivePerson](https://simplify.jobs/c/LivePerson)** | SDE Intern | Remote | <a href="https://boards.greenhouse.io/liveperson/jobs/5294082?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/781299aa-3afb-49d1-9041-acfb9ee89cc5?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Aug 24 |
+| **[LivePerson](https://simplify.jobs/c/LivePerson)** | SDE Intern | Remote | 🔒 | Aug 24 |
 | **[Leidos](https://simplify.jobs/c/Leidos)** | Software Engineer Intern 🇺🇸 | Remote, US | 🔒 | Aug 24 |
 | **[Hudl](https://simplify.jobs/c/Hudl)** | Software Quality Analyst Intern | Lincoln, NE | 🔒 | Aug 24 |
 | Honeywell | IT or Cybersecurity or Data Science Intern 🇺🇸 | Multiple | <a href="https://careers.honeywell.com/us/en/job/HONEUSREQ413283EXTERNALENUS/Information-Systems-IT-Cyber-Engineer-Data-Science-Summer-2024-Intern-Co-Ops-US-Person-Requir?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 24 |
