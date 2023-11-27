@@ -905,11 +905,11 @@
         "company_name": "Fetch",
         "id": "ff327abb-4d21-41a4-9186-7103f4960dbd",
         "title": "iOS Apprenticeship - Mobile Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
-        "date_updated": 1689739200,
+        "date_updated": 1701128730,
         "url": "https://boards.greenhouse.io/fetchrewards/jobs/5210272003",
         "locations": [
             "Birmingham, AL"
@@ -917,7 +917,7 @@
         "company_url": "https://simplify.jobs/c/FetchRewards",
         "is_visible": true,
         "date_posted": 1689739200,
-        "sponsorship": "Offers Sponsorship"
+        "sponsorship": "Other"
     },
     {
         "source": "Simplify",
