@@ -3250,11 +3250,11 @@
         "company_name": "AlphaGrep Securities",
         "id": "218fddbe-fce4-4b46-b0ec-65ada51dfb5b",
         "title": "Quantitative Trading Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
-        "date_updated": 1689739200,
+        "date_updated": 1701055818,
         "url": "https://boards.greenhouse.io/alphagrepsecurities/jobs/6340385002",
         "locations": [
             "Chicago, IL"
@@ -3262,7 +3262,7 @@
         "company_url": "https://simplify.jobs/c/Alpha-Grep",
         "is_visible": true,
         "date_posted": 1689739200,
-        "sponsorship": "Offers Sponsorship"
+        "sponsorship": "Other"
     },
     {
         "source": "Simplify",

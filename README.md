@@ -1486,7 +1486,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | **[Capstone](https://simplify.jobs/c/Capstone)** | Quantitative Risk Internship | NYC | 🔒 | Jul 18 |
 | **[Autodesk](https://simplify.jobs/c/Autodesk)** | Intern – Software Developer - Alias - 1 Year Term | Toronto, ON, Canada | 🔒 | Jul 18 |
 | **[AON3D](https://simplify.jobs/c/AON3D)** | Internship: Webgl for CAD tools | Montreal, QC, Canada | 🔒 | Jul 18 |
-| **[AlphaGrep Securities](https://simplify.jobs/c/Alpha-Grep)** | Quantitative Trading Intern | Chicago, IL | <a href="https://boards.greenhouse.io/alphagrepsecurities/jobs/6340385002?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/218fddbe-fce4-4b46-b0ec-65ada51dfb5b?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jul 18 |
+| **[AlphaGrep Securities](https://simplify.jobs/c/Alpha-Grep)** | Quantitative Trading Intern | Chicago, IL | 🔒 | Jul 18 |
 | **[Akuna Capital](https://simplify.jobs/c/Akuna-Capital)** | Software Engineer Intern - C++ | Chicago, IL | <a href="https://www.akunacapital.com/job-details?gh_jid=5138367&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/f77dbf19-d2b5-4300-a6aa-27219e679c27?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jul 18 |
 | ↳ | Trading Internship | Chicago, IL | 🔒 | Jul 18 |
 | ↳ | Performance Engineer Intern | Chicago, IL | 🔒 | Jul 18 |
