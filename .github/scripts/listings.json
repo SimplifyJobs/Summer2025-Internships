@@ -40478,5 +40478,24 @@
         "date_posted": 1701200682,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1701200763,
+        "url": "https://www.medidata.com/en/careers/software-engineer-intern-536560/job/",
+        "company_name": "Medidata",
+        "title": "Software Engineer - Intern",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "b3852d18-d94d-4995-a490-5d4d993c649c",
+        "date_posted": 1701200763,
+        "company_url": "",
+        "is_visible": true
     }
 ]
