@@ -37417,11 +37417,11 @@
         "company_name": "Latitude AI",
         "id": "b8e73217-6351-4596-827b-4ab6172688a4",
         "title": "2024 Summer Internship: Software Engineer - Backend",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
-        "date_updated": 1701136368,
+        "date_updated": 1701183754,
         "date_posted": 1699287306,
         "url": "https://boards.greenhouse.io/latitude/jobs/5483263",
         "locations": [
