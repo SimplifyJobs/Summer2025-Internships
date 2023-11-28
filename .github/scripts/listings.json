@@ -34037,18 +34037,18 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1698253721,
+        "date_updated": 1701200780,
         "url": "https://ats.rippling.com/rippling/jobs/14d8c154-2161-4c47-b47a-4159954bdabe",
         "company_name": "Rippling",
-        "title": "Software Engineer Front End Intern",
+        "title": "Frontend Engineer Internship",
         "locations": [
             "NYC"
         ],
         "terms": [
             "Summer 2024"
         ],
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "VitaliPri",
         "id": "ea7c9f6e-35d5-4718-a45b-7215b03ac329",
         "date_posted": 1698253721,
