@@ -52,6 +52,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | Company | Role | Location | Terms | Application/Link | Date Posted |
 | ------- | ---- | -------- | ----- | ---------------- | ----------- |
 | SRC Inc. | Software Engineer - Intern | Syracuse, NY | Spring 2024 | <a href="https://jobs.jobvite.com/src-inc/job/oFkOpfwW?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 28 |
+| KLA | Software Engineering Intern | Ann Arbor | Winter 2024 | <a href="https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Software-Engineering-Intern_2321232-2?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 28 |
 | Third Pole, Inc | Embedded Software Engineering - Intern | Waltham, MA | Spring 2024 | <a href="https://www.pole3.com/company/careers/?gh_jid=4340361005&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 25 |
 | ↳ | Core Technology Software - Intern | Waltham, MA | Winter 2024, Spring 2024 | <a href="https://www.pole3.com/company/careers/?gh_jid=4342347005&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 25 |
 | Ribbit | Software Engineering Intern - Robotics | Toronto, Canada | Spring 2024, Summer 2024 | <a href="https://flyribbit.applytojobs.ca/engineering/26524?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 25 |

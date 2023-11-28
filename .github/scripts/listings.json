@@ -40382,5 +40382,24 @@
         "date_posted": 1701183641,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1701183738,
+        "url": "https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Software-Engineering-Intern_2321232-2",
+        "company_name": "KLA",
+        "title": "Software Engineering Intern",
+        "locations": [
+            "Ann Arbor"
+        ],
+        "terms": [
+            "Winter 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "JuanLinaresOrihuela",
+        "id": "d6ab1dd4-0254-4b70-8cf4-3693859af83c",
+        "date_posted": 1701183738,
+        "company_url": "",
+        "is_visible": true
     }
 ]
