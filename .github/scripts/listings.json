@@ -924,7 +924,7 @@
         "company_name": "Fetch",
         "id": "d1d43883-04ce-4f37-ac2d-4997658f1182",
         "title": "Android Apprenticeship - Mobile Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -37417,7 +37417,7 @@
         "company_name": "Latitude AI",
         "id": "b8e73217-6351-4596-827b-4ab6172688a4",
         "title": "2024 Summer Internship: Software Engineer - Backend",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
