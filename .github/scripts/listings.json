@@ -40401,5 +40401,24 @@
         "date_posted": 1701183738,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1701183773,
+        "url": "https://bloomberg.wd1.myworkdayjobs.com/en-US/Bloombergindustrygroup_External_Career_Site/job/Arlington---1801-S-Bell-INDG/Intern--Software-Engineering_120909",
+        "company_name": "Bloomberg Industry Group",
+        "title": "Software Engineer",
+        "locations": [
+            "Arlington, TX"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "source": "justinespinal",
+        "id": "0752f63c-2565-446b-87fd-9ab4c8793b6d",
+        "date_posted": 1701183773,
+        "company_url": "",
+        "is_visible": true
     }
 ]
