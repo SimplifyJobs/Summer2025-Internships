@@ -40363,5 +40363,24 @@
         "date_posted": 1701183457,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1701183641,
+        "url": "https://blackknight.wd1.myworkdayjobs.com/en-US/ics/details/Intern---Software-Engineer_23-840",
+        "company_name": "ICE (Black Knight)",
+        "title": "SWE Intern",
+        "locations": [
+            "Jacksonville"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "ajain02",
+        "id": "37eca5e5-b6af-41c6-84b1-31a69e97068a",
+        "date_posted": 1701183641,
+        "company_url": "",
+        "is_visible": true
     }
 ]
