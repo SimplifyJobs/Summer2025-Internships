@@ -40459,5 +40459,24 @@
         "date_posted": 1701200659,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1701200682,
+        "url": "https://ehif.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/iCIMS_131207",
+        "company_name": "Wood Group Pratt & Whitney Industrial Turbine Services, LLC",
+        "title": "Software Engineering - Intern",
+        "locations": [
+            "Austin, TX"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "c68f9f2e-4104-4412-b396-e1ac6bf1b7cb",
+        "date_posted": 1701200682,
+        "company_url": "",
+        "is_visible": true
     }
 ]

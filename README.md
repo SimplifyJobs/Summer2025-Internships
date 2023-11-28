@@ -61,6 +61,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Wood Group Pratt & Whitney Industrial Turbine Services, LLC | Software Engineering - Intern | Austin, TX | <a href="https://ehif.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/iCIMS_131207?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 28 |
 | Motorola Solutions | Android Platform Software Engineering - Intern | Plantation, FL</br>Schaumburg, IL | <a href="https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/Android-Platform-Software-Engineering-Intern-2024_R40730?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 28 |
 | Meta | Business Engineer, Intern | Menlo Park, CA | <a href="https://www.metacareers.com/jobs/1008990210214752?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 28 |
 | Jacobs | Orbital Debris Modeling Software Engineer - Intern | Houston, TX | <a href="https://careers.jacobs.com/job/19498363/orbital-debris-modeling-software-engineer-intern-houston-tx/?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 28 |
