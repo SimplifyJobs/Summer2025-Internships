@@ -40344,5 +40344,24 @@
         "date_posted": 1701183321,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1701183457,
+        "url": "https://jobs.jobvite.com/src-inc/job/oFkOpfwW",
+        "company_name": "SRC Inc.",
+        "title": "Software Engineer - Intern",
+        "locations": [
+            "Syracuse, NY"
+        ],
+        "terms": [
+            "Spring 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "a73ac3b7-5461-485f-a780-3b385019a942",
+        "date_posted": 1701183457,
+        "company_url": "",
+        "is_visible": true
     }
 ]
