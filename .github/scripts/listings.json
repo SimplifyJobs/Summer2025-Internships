@@ -905,7 +905,7 @@
         "company_name": "Fetch",
         "id": "ff327abb-4d21-41a4-9186-7103f4960dbd",
         "title": "iOS Apprenticeship - Mobile Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
