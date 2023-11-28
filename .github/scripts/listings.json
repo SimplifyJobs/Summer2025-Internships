@@ -40325,5 +40325,24 @@
         "date_posted": 1701183304,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1701183321,
+        "url": "https://www.ga-careers.com/job/-/-/499/57629937136",
+        "company_name": "General Atomics",
+        "title": "Computer Engineering Intern",
+        "locations": [
+            "Poway, CA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "52853fcc-5d5a-4546-a298-6cae72a5f0f2",
+        "date_posted": 1701183321,
+        "company_url": "",
+        "is_visible": true
     }
 ]
