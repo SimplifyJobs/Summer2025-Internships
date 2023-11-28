@@ -37395,11 +37395,11 @@
         "company_name": "Latitude AI",
         "id": "c02be88e-967d-4f37-8a3d-0c4845c8eb26",
         "title": "2024 Summer Internship: Software Engineer - Onboard",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
-        "date_updated": 1699287304,
+        "date_updated": 1701136264,
         "date_posted": 1699287304,
         "url": "https://boards.greenhouse.io/latitude/jobs/5483298",
         "locations": [
