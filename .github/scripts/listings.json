@@ -40440,5 +40440,24 @@
         "date_posted": 1701185224,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1701200659,
+        "url": "https://boards.greenhouse.io/chathamfinancial/jobs/5510081?gh_src=077f2e901us",
+        "company_name": "Chatham Financial",
+        "title": "Software Engineering Intern - Design Systems",
+        "locations": [
+            "Kennett Square, PA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "3d9d6755-a0e4-49a9-963c-0a7cd4c95bed",
+        "date_posted": 1701200659,
+        "company_url": "",
+        "is_visible": true
     }
 ]
