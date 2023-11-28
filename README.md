@@ -61,6 +61,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Meta | Business Engineer, Intern | Menlo Park, CA | <a href="https://www.metacareers.com/jobs/1008990210214752?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 28 |
 | Tradeweb | C++ Developer - Intern | Jersey City, NJ | <a href="https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/300723?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 25 |
 | Ribbit | Software Engineering Intern - Robotics | Toronto, Canada | <a href="https://flyribbit.applytojobs.ca/engineering/26524?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 25 |
 | LMI | AI Engineer Intern | Tysons, VA | <a href="https://careers-lmi.icims.com/jobs/10637/ai-engineer-intern-%28summer-2024%29/job?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 25 |

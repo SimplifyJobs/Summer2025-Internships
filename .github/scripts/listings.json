@@ -40268,5 +40268,24 @@
         "date_posted": 1700927518,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1701182672,
+        "url": "https://www.metacareers.com/jobs/1008990210214752",
+        "company_name": "Meta",
+        "title": "Business Engineer, Intern",
+        "locations": [
+            "Menlo Park, CA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "Frostfire25",
+        "id": "86ccdef9-d387-4858-a0cc-e2de9eeb0b2e",
+        "date_posted": 1701182672,
+        "company_url": "",
+        "is_visible": true
     }
 ]
