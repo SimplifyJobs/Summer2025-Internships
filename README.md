@@ -62,6 +62,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
 | Meta | Business Engineer, Intern | Menlo Park, CA | <a href="https://www.metacareers.com/jobs/1008990210214752?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 28 |
+| Jacobs | Orbital Debris Modeling Software Engineer - Intern | Houston, TX | <a href="https://careers.jacobs.com/job/19498363/orbital-debris-modeling-software-engineer-intern-houston-tx/?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 28 |
 | Brock Solutions | Software Developer - Intern | Winston Salem, NC | <a href="https://careers.brocksolutions.com/Careers.aspx?req=CO-OP%20-%20SW%20DEV-NC&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 28 |
 | Tradeweb | C++ Developer - Intern | Jersey City, NJ | <a href="https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/300723?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 25 |
 | Ribbit | Software Engineering Intern - Robotics | Toronto, Canada | <a href="https://flyribbit.applytojobs.ca/engineering/26524?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 25 |

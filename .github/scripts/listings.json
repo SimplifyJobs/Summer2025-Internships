@@ -40306,5 +40306,24 @@
         "date_posted": 1701182846,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1701183304,
+        "url": "https://careers.jacobs.com/job/19498363/orbital-debris-modeling-software-engineer-intern-houston-tx/",
+        "company_name": "Jacobs",
+        "title": "Orbital Debris Modeling Software Engineer - Intern",
+        "locations": [
+            "Houston, TX"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "f46d1948-3017-4dd1-b750-afc930b0906f",
+        "date_posted": 1701183304,
+        "company_url": "",
+        "is_visible": true
     }
 ]
