@@ -40287,5 +40287,24 @@
         "date_posted": 1701182672,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1701182846,
+        "url": "https://careers.brocksolutions.com/Careers.aspx?req=CO-OP%20-%20SW%20DEV-NC",
+        "company_name": "Brock Solutions",
+        "title": "Software Developer - Intern",
+        "locations": [
+            "Winston Salem, NC"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "888b112b-cc71-4374-bb25-85c9e365725b",
+        "date_posted": 1701182846,
+        "company_url": "",
+        "is_visible": true
     }
 ]
