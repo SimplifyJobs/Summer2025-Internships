@@ -40497,5 +40497,23 @@
         "date_posted": 1701200763,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "GigaBrain",
+        "id": "96b336f3-c221-4c1f-adda-de89902d6ba7",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [],
+        "date_updated": 1701222425,
+        "date_posted": 1701222425,
+        "url": "https://simplify.jobs/p/96b336f3-c221-4c1f-adda-de89902d6ba7",
+        "locations": [
+            "LA",
+            "Remote"
+        ],
+        "company_url": "https://simplify.jobs/c/GigaBrain",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
