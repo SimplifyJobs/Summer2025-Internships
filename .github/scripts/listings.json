@@ -18841,7 +18841,7 @@
         "company_name": "MarketAxess",
         "id": "8ea9668d-f05d-47f7-9d68-c6de832099c3",
         "title": "Research Intern 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -20168,7 +20168,7 @@
         "company_name": "Bristol-Myers Squibb",
         "id": "1eae4a6e-4a34-4f8f-9be8-0c68ad9f4f91",
         "title": "Gene Delivery Process Development Intern or Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -29538,7 +29538,7 @@
         "company_name": "Salesforce",
         "id": "1d646d13-9bca-47b1-82cb-c1ed2e2de344",
         "title": "Summer 2024 Intern - Software Engineer - Govcloud",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -30143,7 +30143,7 @@
         "company_name": "Salesforce",
         "id": "0d43ae50-3061-4782-a7ba-6c3e6ec35046",
         "title": "Summer 2024 Intern - Systems Engineer - Govcloud",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -32099,7 +32099,7 @@
         "company_name": "Salesforce",
         "id": "ec473797-62a0-44b5-81ec-6823430a3775",
         "title": "Summer 2024 Intern - Systems Engineer - Govcloud",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -40523,7 +40523,7 @@
         "company_name": "MarketAxess",
         "id": "70a23f9b-9e86-48cd-b0d3-4cae6c1e5cdc",
         "title": "Pano UI Intern 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -43019,7 +43019,7 @@
         "company_name": "Etsy",
         "id": "7a946fcc-84d2-45d9-aae5-bfeb80f177e0",
         "title": "Intern Data Scientist",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2024"
         ],
