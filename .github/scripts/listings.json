@@ -41003,7 +41003,7 @@
         "company_name": "Etsy",
         "id": "73f01644-26cc-4748-940a-34eeba439ef3",
         "title": "Intern Data Scientist",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2024"
         ],
@@ -43019,7 +43019,7 @@
         "company_name": "Etsy",
         "id": "7a946fcc-84d2-45d9-aae5-bfeb80f177e0",
         "title": "Intern Data Scientist",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024"
         ],
@@ -43106,6 +43106,82 @@
             "Huntsville, AL"
         ],
         "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Exostellar",
+        "id": "44b068ee-8374-4e32-89c5-661429a3bd94",
+        "title": "Software Engineer/Research Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1701419058,
+        "date_posted": 1701419058,
+        "url": "https://exostellar.bamboohr.com/careers/36/",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Exostellar",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Ample",
+        "id": "913dd30f-d976-4206-9d76-4349fd8d0f55",
+        "title": "Embedded Software Engineer INTERN - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1701418819,
+        "date_posted": 1701418819,
+        "url": "https://ample.com/jobs?gh_jid=4328561005",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Ample",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Flyx.ai (Flyx Labs)",
+        "id": "3068c0f2-235e-437d-be7f-d2e9bbe0aa94",
+        "title": "Full-Stack Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1701418108,
+        "date_posted": 1701418108,
+        "url": "https://boards.greenhouse.io/flyxai/jobs/4042306007",
+        "locations": [
+            "Remote"
+        ],
+        "company_url": "https://simplify.jobs/c/Flyx",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Flyx.ai (Flyx Labs)",
+        "id": "577e851d-b583-48ff-81df-c3e51bec37c5",
+        "title": "Machine Learning Research Intern",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1701418108,
+        "date_posted": 1701418108,
+        "url": "https://boards.greenhouse.io/flyxai/jobs/4045994007",
+        "locations": [
+            "Remote"
+        ],
+        "company_url": "https://simplify.jobs/c/Flyx",
         "is_visible": true,
         "sponsorship": "Other"
     }
