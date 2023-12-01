@@ -384,7 +384,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | **[Wealthsimple](https://simplify.jobs/c/Wealthsimple)** | Intern – Software Development - Winter 2024 | Toronto, ON, Canada | Winter 2024 | 🔒 | Sep 05 |
 | ↳ | Intern – Data Science - Winter 2024 | Toronto, ON, Canada | Winter 2024 | 🔒 | Sep 05 |
 | **[Kinaxis](https://simplify.jobs/c/Kinaxis)** | Co-Op/Intern Developer - IT Application Excellence | Ottawa, ON, Canada | Winter 2024 | 🔒 | Sep 05 |
-| **[IEX](https://simplify.jobs/c/IEX)** | Cyber Security Engineer Co-Op | NYC | Spring 2024 | <a href="https://iex.io/careers/apply?gh_jid=5345535&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/4e7260d6-567c-4901-a8f9-e629de2ee218?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Sep 05 |
+| **[IEX](https://simplify.jobs/c/IEX)** | Cyber Security Engineer Co-Op | NYC | Spring 2024 | 🔒 | Sep 05 |
 | **[Humane](https://simplify.jobs/c/Humane)** | Quality Engineering Intern | SF | Spring 2024, Summer 2024, Fall 2024 | 🔒 | Sep 05 |
 | **[Sumo Digital](https://simplify.jobs/c/Sumo-Digital)** | Games Programming Apprenticeship | Sheffield, UK | Winter 2024 | 🔒 | Sep 04 |
 | **[Wellmark](https://simplify.jobs/c/Wellmark)** | Data Analytics & Governance Intern | Des Moines, IA | Winter 2025, Spring 2025 | 🔒 | Sep 01 |
