@@ -16174,7 +16174,7 @@
         "company_name": "Gilead Sciences",
         "id": "ccc82cbe-6466-473b-9182-3191e60872ce",
         "title": "Intern-HPC Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2023",
             "Summer 2023"
@@ -17891,7 +17891,7 @@
         "company_name": "Matroid",
         "id": "e3c69167-0758-4cc2-b361-0a2b8daec895",
         "title": "Software Engineer Intern - Infrastructure - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -17910,7 +17910,7 @@
         "company_name": "Matroid",
         "id": "b9d0e46a-0003-40bb-91dd-6338717adf73",
         "title": "Computer Vision Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -17951,7 +17951,7 @@
         "company_name": "Matroid",
         "id": "84b371d0-4623-4124-9aac-1c18f5cb917c",
         "title": "Full Stack Engineer Intern for Computer Vision Products - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -19913,7 +19913,7 @@
         "company_name": "Cohere",
         "id": "1fae61a1-368f-4fb4-9fe4-85919a256572",
         "title": "Machine Learning Intern/Co-op - Winter 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2024"
         ],
@@ -19935,7 +19935,7 @@
         "company_name": "Cohere",
         "id": "c009c9a7-2911-452d-8e0c-e5536c638a94",
         "title": "Software Engineer Intern/Co-op - Winter 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2024"
         ],
@@ -29479,7 +29479,7 @@
         "company_name": "Branch",
         "id": "9fcfa6f0-29de-4576-8599-3e3d4a092d3c",
         "title": "Backend Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -36582,7 +36582,7 @@
         "company_name": "Blizzard Entertainment",
         "id": "01774b33-56d0-498b-b886-e7a30bb8a2a1",
         "title": "2024 US Summer Internship - Analytics & Data Science",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -38354,7 +38354,7 @@
         "company_name": "Visa",
         "id": "7f2cad1c-70c0-4e50-a517-a54a82522b6b",
         "title": "Software Engineer \u2013 Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -41003,7 +41003,7 @@
         "company_name": "Etsy",
         "id": "73f01644-26cc-4748-940a-34eeba439ef3",
         "title": "Intern Data Scientist",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024"
         ],
@@ -42002,7 +42002,7 @@
         "company_name": "Wikimedia Foundation",
         "id": "9a95b22f-7341-43f5-ae7e-fbb107ceb1d7",
         "title": "Software Engineering Internship Program - 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025",
             "Spring 2025",
@@ -42330,7 +42330,7 @@
         "company_name": "Samsung",
         "id": "b10231b4-a4e2-4510-914e-9ce95e83a773",
         "title": "Intern \u2013 CXL Software Engineering Ecosystem",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -42501,7 +42501,7 @@
         "company_name": "NVIDIA",
         "id": "6649ddbb-2027-4f63-b2e6-7117519c3a9e",
         "title": "Software E2 Service Intern - Distributed System Engineering - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -42596,7 +42596,7 @@
         "company_name": "Breeze Airways",
         "id": "740558fd-1d8c-4e4a-84f0-a001f0c34cc6",
         "title": "Intern Pricing and Revenue Management",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -42992,6 +42992,120 @@
             "Lowell, MA"
         ],
         "company_url": "https://simplify.jobs/c/Rockwell-Automation",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Intel",
+        "id": "5cfa5701-4864-4f27-8e53-8ad39e6d4778",
+        "title": "Software Security Undergraduate Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1701390325,
+        "date_posted": 1701390325,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/Virtual-US/Software-Security-Undergraduate-Intern_JR0253151",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Etsy",
+        "id": "7a946fcc-84d2-45d9-aae5-bfeb80f177e0",
+        "title": "Intern Data Scientist",
+        "active": true,
+        "terms": [
+            "Spring 2024"
+        ],
+        "date_updated": 1701396387,
+        "date_posted": 1701396387,
+        "url": "https://jobs.smartrecruiters.com/Etsy2/743999947921893",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Etsy",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Leidos",
+        "id": "9527419a-5ecb-4c74-8544-e1a97961dafc",
+        "title": "Technical Intern",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1701389177,
+        "date_posted": 1701389177,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Remote-US/Technical-Intern_R-00124040",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Leidos",
+        "id": "255e6026-da31-44c9-9416-c72408b64726",
+        "title": "Technical Intern",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1701389177,
+        "date_posted": 1701389177,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Remote-US/Technical-Intern_R-00124037",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Leidos",
+        "id": "cf58ee50-af51-4a62-950c-bb932c3bbd1d",
+        "title": "Intern: Modeling & Simulation Engineer or Analyst or Software Developer",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1701389175,
+        "date_posted": 1701389175,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Intern--Modeling---Simulation-Engineer-or-Analyst-or-Software-Developer_R-00123978-1",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Leidos",
+        "id": "5ea7472a-31a6-43b7-a788-0f187bc31d07",
+        "title": "Engineering Intern Summer 2024 - Aerospace - Computer Science - AI/ML",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1701389176,
+        "date_posted": 1701389176,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Engineering-Intern-Summer-2024---Aerospace--Computer-Science--AI-ML_R-00124101",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
         "is_visible": true,
         "sponsorship": "Other"
     }
