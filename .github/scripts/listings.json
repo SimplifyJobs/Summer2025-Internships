@@ -4539,7 +4539,7 @@
         "company_name": "Capital One",
         "id": "4799c783-ff04-4480-8d6e-211546796a58",
         "title": "Technology Internship Program",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -5577,7 +5577,7 @@
         "company_name": "Palantir",
         "id": "0503901e-622f-4d1b-b7f9-29d44e59eaab",
         "title": "Forward Deployed Software Engineer \u2013 Internship - US Government",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -14808,7 +14808,7 @@
         "company_name": "IEX",
         "id": "4e7260d6-567c-4901-a8f9-e629de2ee218",
         "title": "Cyber Security Engineer Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024"
         ],
@@ -28618,7 +28618,7 @@
         "company_name": "Electric Hydrogen",
         "id": "9b6752ed-2d6e-48a6-a738-d29f5062ea49",
         "title": "Research and Development-Data Analysis Co-Op - Jan-Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -37048,7 +37048,7 @@
         "company_name": "Schoolhouse",
         "id": "1885e05f-9a22-471c-ba22-2d2178b35e30",
         "title": "Software Engineer Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -38334,7 +38334,7 @@
         "company_name": "Intel",
         "id": "853531b3-25db-431b-8ef5-f91a36f067df",
         "title": "Graphics Software Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -42613,7 +42613,7 @@
         "company_name": "Hewlett Packard (HP)",
         "id": "73dd09f6-6b21-4a98-9aaf-d577f5d3883c",
         "title": "Data Analyst intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -42633,7 +42633,7 @@
         "company_name": "Hewlett Packard (HP)",
         "id": "f23cddfd-9847-41eb-befe-566c7835cf73",
         "title": "Data Analyst intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
