@@ -43394,5 +43394,24 @@
         "company_url": "https://simplify.jobs/c/Chewie-Labs",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Palantir",
+        "id": "ba884f71-4c55-4f4d-8851-223650d19237",
+        "title": "Deployment Strategist \u2013 Internship",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1701505367,
+        "date_posted": 1701505367,
+        "url": "https://jobs.lever.co/palantir/0bbfc0d1-1cb5-4e76-aaf8-ac1f12d94306/apply",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Palantir",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
