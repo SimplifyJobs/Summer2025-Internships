@@ -14884,7 +14884,7 @@
         "company_name": "T. Rowe Price",
         "id": "8f866a33-aa28-4cdf-90cd-42182ccd44e6",
         "title": "2024 Global Trading Internship Program",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2023"
         ],
@@ -17891,7 +17891,7 @@
         "company_name": "Matroid",
         "id": "e3c69167-0758-4cc2-b361-0a2b8daec895",
         "title": "Software Engineer Intern - Infrastructure - Summer 2024",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -17910,7 +17910,7 @@
         "company_name": "Matroid",
         "id": "b9d0e46a-0003-40bb-91dd-6338717adf73",
         "title": "Computer Vision Intern - Summer 2024",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -17951,7 +17951,7 @@
         "company_name": "Matroid",
         "id": "84b371d0-4623-4124-9aac-1c18f5cb917c",
         "title": "Full Stack Engineer Intern for Computer Vision Products - Summer 2024",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -20631,7 +20631,7 @@
         "company_name": "Leidos",
         "id": "74fe0244-17cd-4905-8010-fb34ef999470",
         "title": "Data Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -22134,7 +22134,7 @@
         "company_name": "PlayStation Global",
         "id": "902367e2-d064-41d0-ad3f-c5831d860ba5",
         "title": "Gameplay Programming Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2023",
             "Summer 2023",
@@ -29892,7 +29892,7 @@
         "company_name": "NVIDIA",
         "id": "8b9d3928-8b44-4eda-9fca-d93680b8306c",
         "title": "Research Intern - Simulation Technology - Fall 2023",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2023"
         ],
@@ -31269,7 +31269,7 @@
         "company_name": "Shield AI",
         "id": "6bc45354-c93c-4e28-b701-3aa83f1d5bfb",
         "title": "Autonomy Test Intern - Summer 2024 - R2336",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -35586,7 +35586,7 @@
         "company_name": "Leidos",
         "id": "25d05285-9cd7-4aad-befa-d82a987f0fa4",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -36582,7 +36582,7 @@
         "company_name": "Blizzard Entertainment",
         "id": "01774b33-56d0-498b-b886-e7a30bb8a2a1",
         "title": "2024 US Summer Internship - Analytics & Data Science",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -37715,7 +37715,7 @@
         "company_name": "PlayStation Global",
         "id": "bd37a835-0006-4f4a-a104-c72771098c58",
         "title": "Online Programming Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2023",
             "Summer 2023",
@@ -37736,7 +37736,7 @@
         "company_name": "PlayStation Global",
         "id": "89203c4c-0a44-49f3-bc45-ea1762f00629",
         "title": "Graphics Programming Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2023",
             "Summer 2023",
@@ -37757,7 +37757,7 @@
         "company_name": "PlayStation Global",
         "id": "2ce9d741-fbd4-4336-9019-107d852128d9",
         "title": "Presentation Programming Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2023",
             "Summer 2023",
@@ -40695,7 +40695,7 @@
         "company_name": "GoDaddy",
         "id": "5c45c7a3-d3c8-493d-9812-1a6bf9de0092",
         "title": "Intern \u2013 Software Development Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -41003,7 +41003,7 @@
         "company_name": "Etsy",
         "id": "73f01644-26cc-4748-940a-34eeba439ef3",
         "title": "Intern Data Scientist",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024"
         ],
@@ -41907,7 +41907,7 @@
         "company_name": "Illumio",
         "id": "43161a23-6501-4d8f-87c2-4f110c4bb4dc",
         "title": "Engineering Intern - Cloudsecure - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -43019,7 +43019,7 @@
         "company_name": "Etsy",
         "id": "7a946fcc-84d2-45d9-aae5-bfeb80f177e0",
         "title": "Intern Data Scientist",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2024"
         ],
@@ -43220,6 +43220,178 @@
             "Dulles, VA"
         ],
         "company_url": "https://simplify.jobs/c/CACI",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Intel",
+        "id": "6141d32d-facc-48fb-aaf8-f777441e7406",
+        "title": "Open Source Software Development Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1701476829,
+        "date_posted": 1701476829,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Open-Source-Software-Development-Intern_JR0253328",
+        "locations": [
+            "Hillsboro, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Challenge Manufacturing",
+        "id": "3de0e5f0-733a-4de2-b292-5559492d401c",
+        "title": "Intern \u2013 Software Engineer",
+        "active": true,
+        "terms": [
+            "Winter 2024"
+        ],
+        "date_updated": 1701476664,
+        "date_posted": 1701476664,
+        "url": "https://www.challenge-mfg.com/careers/job/?gh_jid=4950956004",
+        "locations": [
+            "Pontiac, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Challenge-Manufacturing",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Mercedes-Benz",
+        "id": "16b69662-33bc-4495-966c-c04b4dee11e0",
+        "title": "OBD Certification & Compliance Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1701476588,
+        "date_posted": 1701476588,
+        "url": "https://jobs.lever.co/MBRDNA/7bf9c8b1-29cf-465d-a5ba-d945fd4ecf64/apply",
+        "locations": [
+            "Long Beach, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Mercedes-Benz",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Plexus",
+        "id": "7464668c-a3fe-49e2-9a5d-782bab32e56b",
+        "title": "Intern \u2013 Software Engineer - Spring 2024",
+        "active": true,
+        "terms": [
+            "Spring 2024"
+        ],
+        "date_updated": 1701476420,
+        "date_posted": 1701476420,
+        "url": "https://plexus.wd5.myworkdayjobs.com/en-US/Plexus_Careers/job/Raleigh-NC/Intern---Software-Engineer---Spring-2024_R027925",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Plexus",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Brave",
+        "id": "b031e99b-9f94-4f4b-acfd-f4d276c54390",
+        "title": "Web3 Developer Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1701476219,
+        "date_posted": 1701476219,
+        "url": "https://boards.greenhouse.io/brave/jobs/5544045",
+        "locations": [
+            "Remote"
+        ],
+        "company_url": "https://simplify.jobs/c/Brave",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Hewlett Packard (HP)",
+        "id": "c54c86e7-bdf8-41c3-8d12-600ed0b3c405",
+        "title": "Software Security Research Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1701476001,
+        "date_posted": 1701476001,
+        "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/United-Kingdom---Bristol/Software-Security-Research-Intern_3126938-1",
+        "locations": [
+            "Bristol, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "NVIDIA",
+        "id": "1a576964-d2d1-4d7a-b00c-280e4bc2305c",
+        "title": "Product Management Intern - Av - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1701475590,
+        "date_posted": 1701475590,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Product-Management-Intern--AV---Summer-2024_JR1973554",
+        "locations": [
+            "Remote in USA",
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "NVIDIA",
+        "id": "70b1853e-48fa-45c4-a70a-e740bb55136a",
+        "title": "Software Intern - 5G RAN and AI Kubernetes orchestration - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1701475584,
+        "date_posted": 1701475584,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Software-Intern--5G-RAN-and-AI-Kubernetes-orchestration---Summer-2024_JR1976346",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Chewie Labs",
+        "id": "4b7a1568-5971-4eb8-a1f0-064d217c2236",
+        "title": "Software Development Engineer in Test Intern - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1701483063,
+        "date_posted": 1701353734,
+        "url": "https://boards.greenhouse.io/mill/jobs/4342189005",
+        "locations": [
+            "San Bruno, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Chewie-Labs",
         "is_visible": true,
         "sponsorship": "Other"
     }
