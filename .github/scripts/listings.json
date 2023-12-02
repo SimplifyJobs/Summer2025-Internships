@@ -8022,7 +8022,7 @@
         "company_name": "Intel",
         "id": "25d071cf-f302-4c9c-9605-304fce0bbd2e",
         "title": "Undergraduate Internship - Data Science - Bachelors",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -23692,7 +23692,7 @@
         "company_name": "Stryker",
         "id": "f4dccbda-8695-43f1-a071-ad36b12186ec",
         "title": "Intern \u2013 Sterility & Biocompatibility",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -25406,7 +25406,7 @@
         "company_name": "Zoox",
         "id": "c76fb8ce-1fd2-4224-b8b7-66c3842ba1f8",
         "title": "Developer Infrastructure \u2013 Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -38220,7 +38220,7 @@
         "company_name": "HRL Laboratories",
         "id": "df904e6e-f139-4bc8-84f5-a7e597ef5437",
         "title": "Masters Intern - Operational Autonomy",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -43019,7 +43019,7 @@
         "company_name": "Etsy",
         "id": "7a946fcc-84d2-45d9-aae5-bfeb80f177e0",
         "title": "Intern Data Scientist",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024"
         ],
@@ -43182,6 +43182,44 @@
             "Remote"
         ],
         "company_url": "https://simplify.jobs/c/Flyx",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "CACI",
+        "id": "abbd490c-cc89-43f8-8c56-4d7ac3a20b6d",
+        "title": "Computer Science Intern - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1701447041,
+        "date_posted": 1701447041,
+        "url": "https://caci.wd1.myworkdayjobs.com/External/job/US-MD-Aberdeen-Proving-Ground/Computer-Science-Intern---Summer-2024_289699-1",
+        "locations": [
+            "Aberdeen, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/CACI",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "CACI",
+        "id": "6412ec4f-29c3-4a9f-9f1a-47e618ca56d5",
+        "title": "Summer Internship 2024 - Morgan State University Graduating 2027",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1701461821,
+        "date_posted": 1695712884,
+        "url": "https://caci.wd1.myworkdayjobs.com/External/job/US-VA-Sterling/Summer-Internship-2024---MSU-Graduating-2027_287063-1",
+        "locations": [
+            "Dulles, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/CACI",
         "is_visible": true,
         "sponsorship": "Other"
     }
