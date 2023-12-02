@@ -14884,7 +14884,7 @@
         "company_name": "T. Rowe Price",
         "id": "8f866a33-aa28-4cdf-90cd-42182ccd44e6",
         "title": "2024 Global Trading Internship Program",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -36582,7 +36582,7 @@
         "company_name": "Blizzard Entertainment",
         "id": "01774b33-56d0-498b-b886-e7a30bb8a2a1",
         "title": "2024 US Summer Internship - Analytics & Data Science",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -40637,7 +40637,7 @@
         "company_name": "Illumio",
         "id": "552098a8-f200-4039-b677-9189dba510f6",
         "title": "Engineering Intern - Cloud Operations - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -43411,6 +43411,27 @@
             "Palo Alto, CA"
         ],
         "company_url": "https://simplify.jobs/c/Palantir",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Intel",
+        "id": "45f949bf-01ce-4d5d-a95d-2a4515a30451",
+        "title": "AI Framework Engineer Undergraduate Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1701534324,
+        "date_posted": 1701534324,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/AI-Framework-Engineer-Undergraduate-Intern_JR0253399",
+        "locations": [
+            "Santa Clara, CA",
+            "Hillsboro, OR",
+            "Phoenix, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
         "is_visible": true,
         "sponsorship": "Other"
     }
