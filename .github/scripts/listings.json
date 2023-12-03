@@ -36582,7 +36582,7 @@
         "company_name": "Blizzard Entertainment",
         "id": "01774b33-56d0-498b-b886-e7a30bb8a2a1",
         "title": "2024 US Summer Internship - Analytics & Data Science",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -41003,7 +41003,7 @@
         "company_name": "Etsy",
         "id": "73f01644-26cc-4748-940a-34eeba439ef3",
         "title": "Intern Data Scientist",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024"
         ],
@@ -43019,7 +43019,7 @@
         "company_name": "Etsy",
         "id": "7a946fcc-84d2-45d9-aae5-bfeb80f177e0",
         "title": "Intern Data Scientist",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2024"
         ],
@@ -43432,6 +43432,25 @@
             "Phoenix, AZ"
         ],
         "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "10x Genomics",
+        "id": "425ab23a-551f-4a99-b622-1af6c61e1d3a",
+        "title": "Intern \u2013 Computational Biology - In Situ Data Scientist / Algorithm Developer",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1701591494,
+        "date_posted": 1701591494,
+        "url": "https://boards.greenhouse.io/10xgenomics/jobs/5543155",
+        "locations": [
+            "Pleasanton, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/10x-Genomics",
         "is_visible": true,
         "sponsorship": "Other"
     }
