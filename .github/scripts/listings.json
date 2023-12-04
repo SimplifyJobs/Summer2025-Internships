@@ -43453,5 +43453,24 @@
         "company_url": "https://simplify.jobs/c/10x-Genomics",
         "is_visible": false,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1701651524,
+        "url": "https://jobs.lever.co/boringcompany/2e50dd54-0f2e-42a7-b08d-622ff62e22e8",
+        "company_name": "The Boring Company",
+        "title": "Software Engineering - Intern",
+        "locations": [
+            "Las Vegas, NV"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "64dbd004-47c8-4077-a5ce-08906658b0b5",
+        "date_posted": 1701651524,
+        "company_url": "",
+        "is_visible": true
     }
 ]
