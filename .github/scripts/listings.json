@@ -7367,7 +7367,7 @@
         "company_name": "PayPal",
         "id": "de7f25d2-af21-4fc7-be7f-633e662b4300",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024",
             "Fall 2024"
@@ -17082,7 +17082,7 @@
         "company_name": "Plexus",
         "id": "48b2283e-6f68-4f0e-91f5-64d26be7158e",
         "title": "Intern \u2013 Software Engineer - Spring 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024"
         ],
@@ -36582,7 +36582,7 @@
         "company_name": "Blizzard Entertainment",
         "id": "01774b33-56d0-498b-b886-e7a30bb8a2a1",
         "title": "2024 US Summer Internship - Analytics & Data Science",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -42157,7 +42157,7 @@
         "company_name": "Snap Inc.",
         "id": "28820335-f335-4735-89fe-838542325ccd",
         "title": "Machine Learning Engineering Intern - Generative ML",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -43019,7 +43019,7 @@
         "company_name": "Etsy",
         "id": "7a946fcc-84d2-45d9-aae5-bfeb80f177e0",
         "title": "Intern Data Scientist",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024"
         ],
@@ -43285,7 +43285,7 @@
         "company_name": "Plexus",
         "id": "7464668c-a3fe-49e2-9a5d-782bab32e56b",
         "title": "Intern \u2013 Software Engineer - Spring 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024"
         ],
@@ -43491,5 +43491,24 @@
         "date_posted": 1701651574,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Leidos",
+        "id": "cae8632d-c939-40c4-8b11-0e9593f25666",
+        "title": "Technical Intern",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1701705984,
+        "date_posted": 1701705984,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Remote-US/Technical-Intern_R-00124044",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
