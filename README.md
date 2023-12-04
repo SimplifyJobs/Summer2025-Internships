@@ -1649,9 +1649,9 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | Deloitte | Software Engineer Intern - Technology Assets | Multiple Locations | 🔒 | Jul 2023 |
 | ↳ | Software Engineer Intern - Digital Assets/Blockchain | Multiple Locations | 🔒 | Jul 2023 |
 | **[Palantir](https://simplify.jobs/c/Palantir)** | Palantir Path Internship | Washington, DC | 🔒 | Jul 2023 |
-| GE Aerospace | Digital Technology Intern | Multiple US Locations | <a href="https://ge.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/GE-Aerospace-US-Digital-Technology-Intern---Summer-2024_R3718425-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 2023 |
-| ↳ | Systems Engineering Intern | Multiple US Locations | <a href="https://ge.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/GE-Aerospace-Systems-Engineering-Intern---Summer-2024_R3696296-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 2023 |
+| GE Aerospace | Systems Engineering Intern | Multiple US Locations | <a href="https://ge.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/GE-Aerospace-Systems-Engineering-Intern---Summer-2024_R3696296-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 2023 |
 | ↳ | Engineering Engines Computer or Software Engineering Intern | Multiple US Locations | 🔒 | Jul 2023 |
+| GE | Digital Analyst | Multiple US Locations | 🔒 | Jul 2023 |
 | D.E. Shaw | Software Development Intern | NYC | <a href="https://www.deshaw.com/careers/software-developer-intern-new-york-summer-2024-4803?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 2023 |
 | ↳ | Systems Technical Program Manager Intern | NYC | <a href="https://www.deshaw.com/careers/systems-technical-program-manager-intern-new-york-summer-2024-4786?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 2023 |
 | ↳ | Systems Administrator Intern | NYC | 🔒 | Jul 2023 |

@@ -5288,23 +5288,23 @@
         "sponsorship": "Other"
     },
     {
-        "company_name": "GE Aerospace",
+        "company_name": "GE",
         "locations": [
             "Multiple US Locations"
         ],
-        "title": "Digital Technology Intern",
+        "title": "Digital Analyst",
         "date_posted": 1689134400,
         "terms": [
             "Summer 2024"
         ],
-        "active": true,
+        "active": false,
         "url": "https://ge.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/GE-Aerospace-US-Digital-Technology-Intern---Summer-2024_R3718425-1",
         "is_visible": true,
         "source": "Markdown",
         "company_url": "",
-        "date_updated": 1690862400,
+        "date_updated": 1701651548,
         "id": "36fa58ee-3297-4218-84a1-22957099f996",
-        "sponsorship": "Offers Sponsorship"
+        "sponsorship": "Other"
     },
     {
         "company_name": "GE Aerospace",
