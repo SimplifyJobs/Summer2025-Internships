@@ -41003,7 +41003,7 @@
         "company_name": "Etsy",
         "id": "73f01644-26cc-4748-940a-34eeba439ef3",
         "title": "Intern Data Scientist",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024"
         ],
@@ -43019,7 +43019,7 @@
         "company_name": "Etsy",
         "id": "7a946fcc-84d2-45d9-aae5-bfeb80f177e0",
         "title": "Intern Data Scientist",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2024"
         ],
