@@ -43472,5 +43472,24 @@
         "date_posted": 1701651524,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1701651574,
+        "url": "https://boards.greenhouse.io/chanzuckerbergbiohubinternship/jobs/4336495005",
+        "company_name": "Chan Zuckerberg Biohub",
+        "title": "Undergraduate Software Engineer, Data Science and ML Internship",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "JoOkuma",
+        "id": "d466395a-1186-4c86-8202-fbc815d5d663",
+        "date_posted": 1701651574,
+        "company_url": "",
+        "is_visible": true
     }
 ]
