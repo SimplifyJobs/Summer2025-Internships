@@ -9547,7 +9547,7 @@
         "company_name": "SpaceX",
         "id": "094a951b-adfb-4a2d-b170-7a34f9395b48",
         "title": "Spring 2024 Software Engineering Internship/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024"
         ],
@@ -31364,7 +31364,7 @@
         "company_name": "Two Six Technologies",
         "id": "86aaea68-e91c-47f5-b057-9fc5d6db2685",
         "title": "Vulnerability Research Summer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -31801,7 +31801,7 @@
         "company_name": "Sigma Computing",
         "id": "3588abba-92d6-4d14-8560-f7e40c06bb3f",
         "title": "Software Engineering Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -33734,7 +33734,7 @@
         "company_name": "Pax8",
         "id": "975b659b-c414-4d1f-b9ff-694a49cbe315",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -41441,7 +41441,7 @@
         "company_name": "PostEra",
         "id": "f1a9dcd0-a636-4198-8fce-22b87ee2eba6",
         "title": "Machine Learning Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -41773,7 +41773,7 @@
         "company_name": "Intel",
         "id": "e0bd7014-d15f-41d8-ae6d-fba013064d5c",
         "title": "Undergrad Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -42119,7 +42119,7 @@
         "company_name": "Coalition",
         "id": "07503b27-0ff2-4202-91b7-c73eede90dd5",
         "title": "Data Science Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -42138,7 +42138,7 @@
         "company_name": "Coalition",
         "id": "f92b95a0-604b-426d-8204-6e64bf0a5b81",
         "title": "Data Science Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -43038,7 +43038,7 @@
         "company_name": "Leidos",
         "id": "9527419a-5ecb-4c74-8544-e1a97961dafc",
         "title": "Technical Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -43057,7 +43057,7 @@
         "company_name": "Leidos",
         "id": "255e6026-da31-44c9-9416-c72408b64726",
         "title": "Technical Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -43190,7 +43190,7 @@
         "company_name": "CACI",
         "id": "abbd490c-cc89-43f8-8c56-4d7ac3a20b6d",
         "title": "Computer Science Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -43247,7 +43247,7 @@
         "company_name": "Challenge Manufacturing",
         "id": "3de0e5f0-733a-4de2-b292-5559492d401c",
         "title": "Intern \u2013 Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2024"
         ],
@@ -43362,7 +43362,7 @@
         "company_name": "NVIDIA",
         "id": "70b1853e-48fa-45c4-a70a-e740bb55136a",
         "title": "Software Intern - 5G RAN and AI Kubernetes orchestration - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
