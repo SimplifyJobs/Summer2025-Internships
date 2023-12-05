@@ -5558,7 +5558,7 @@
         "company_name": "Sentry",
         "id": "dfeee370-ffba-4328-8d73-9a5887c4cf91",
         "title": "Software Engineer Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -14270,7 +14270,7 @@
         "company_name": "Stryker",
         "id": "5e84a82e-b774-41a9-9cac-ce9b0f3040a2",
         "title": "Summer Internship 2024 - Software Engineering-Florida",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -25849,7 +25849,7 @@
         "company_name": "CACI",
         "id": "79d2b764-245d-4a17-b9f2-f3080d3153de",
         "title": "Application Developer Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -36582,7 +36582,7 @@
         "company_name": "Blizzard Entertainment",
         "id": "01774b33-56d0-498b-b886-e7a30bb8a2a1",
         "title": "2024 US Summer Internship - Analytics & Data Science",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -40675,7 +40675,7 @@
         "company_name": "Autodesk",
         "id": "80a24c69-d76a-460a-901e-76dda9e95c46",
         "title": "Stagiaire \u2013 Intern - D\u00e9veloppeur Full Stack - Mai \u00e0 ao\u00fbt 2024 - Full Stack Developer - May-August 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024",
             "Summer 2024"
@@ -43440,7 +43440,7 @@
         "company_name": "10x Genomics",
         "id": "425ab23a-551f-4a99-b622-1af6c61e1d3a",
         "title": "Intern \u2013 Computational Biology - In Situ Data Scientist / Algorithm Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -43516,7 +43516,7 @@
         "company_name": "Leidos",
         "id": "460539db-bc78-48c4-83f4-ee8ea7f2d280",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -43778,6 +43778,44 @@
             "Lacygne, KS"
         ],
         "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "CACI",
+        "id": "63f41c5c-e1d8-4ed9-9638-8ffda7f368dc",
+        "title": "Software Engineer Intern - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1701792820,
+        "date_posted": 1701792820,
+        "url": "https://caci.wd1.myworkdayjobs.com/External/job/US-VA-Sterling/Software-Engineer-Intern---Summer-2024_289770-1",
+        "locations": [
+            "Dulles, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/CACI",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Two Six Technologies",
+        "id": "c997bfe6-dae3-4fcb-96b3-be3eb6660847",
+        "title": "Cybersecurity Summer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1701792733,
+        "date_posted": 1701792733,
+        "url": "https://boards.greenhouse.io/twosixtechnologies/jobs/5032926004",
+        "locations": [
+            "San Antonio, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Two-Six-Technologies",
         "is_visible": true,
         "sponsorship": "Other"
     }
