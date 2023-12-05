@@ -1422,7 +1422,7 @@
         "company_name": "Northwestern Mutual",
         "id": "32790880-c7dc-4f07-90b2-70d21f6d8982",
         "title": "Public Investments - Municipal Trading Analytics Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -13600,7 +13600,7 @@
         "company_name": "Humane",
         "id": "2559148c-0f4a-4e45-9b35-e7d8230a5f05",
         "title": "Software Engineering Intern - Product Security",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024",
             "Summer 2024",
@@ -27807,7 +27807,7 @@
         "company_name": "Sanctuary AI",
         "id": "58193da6-3925-45e4-abed-bb98c61d6837",
         "title": "Software Co-op: AI/Automation - January 2024 term",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2024"
         ],
@@ -27845,7 +27845,7 @@
         "company_name": "Sanctuary AI",
         "id": "78766709-e7f6-4b40-9b52-4571355ccb4d",
         "title": "Software Co-op: Web Services - January 2024 term",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2024"
         ],
@@ -27864,7 +27864,7 @@
         "company_name": "Sanctuary AI",
         "id": "4c241c26-4016-4c4a-b301-c498200da74a",
         "title": "Software Co-op: Machine Learning Operations - January 2024 term",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2024"
         ],
@@ -29816,7 +29816,7 @@
         "company_name": "PayPal",
         "id": "efced37e-aa8f-4bb0-9e5d-62740648bf01",
         "title": "Decision/Data Scientist Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -31995,7 +31995,7 @@
         "company_name": "Autodesk",
         "id": "904bcdf0-cfa7-4c10-953d-399b8ed95610",
         "title": "Intern \u2013 Data Analyst",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2024",
             "Summer 2024",
@@ -38180,7 +38180,7 @@
         "company_name": "Samsung",
         "id": "5767b793-f1eb-4c0d-b4bd-cc9c0186da66",
         "title": "Intern \u2013 Modeling & Simulation Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -40580,7 +40580,7 @@
         "company_name": "NVIDIA",
         "id": "d48ab96b-ebc9-4186-87a4-1f25b7244bf7",
         "title": "Course Developer Intern - Deep Learning Institute - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -42062,7 +42062,7 @@
         "company_name": "Ambi Robotics",
         "id": "bc09fd89-5807-41ed-b3f7-f4eb5590dc13",
         "title": "Robotics Software Engineering Intern - BS - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -42768,7 +42768,7 @@
         "company_name": "NVIDIA",
         "id": "37ed4810-145e-4827-9eb4-b5d247beb5f0",
         "title": "Consumer Sales Analytics Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -43342,7 +43342,7 @@
         "company_name": "NVIDIA",
         "id": "1a576964-d2d1-4d7a-b00c-280e4bc2305c",
         "title": "Product Management Intern - Av - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -43400,7 +43400,7 @@
         "company_name": "Palantir",
         "id": "ba884f71-4c55-4f4d-8851-223650d19237",
         "title": "Deployment Strategist \u2013 Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -43508,6 +43508,122 @@
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Leidos",
+        "id": "460539db-bc78-48c4-83f4-ee8ea7f2d280",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1701743978,
+        "date_posted": 1701743978,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Columbia-MD/Software-Engineer-Intern_R-00124235",
+        "locations": [
+            "Columbia, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Leidos",
+        "id": "ccaca843-fa1d-44b5-b94e-6217b53333e4",
+        "title": "Systems Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1701743979,
+        "date_posted": 1701743979,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Columbia-MD/Systems-Engineer-Intern_R-00124237",
+        "locations": [
+            "Columbia, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Cytokinetics",
+        "id": "0c8260c0-7b75-441e-8633-b2020338e31d",
+        "title": "Intern \u2013 Informatics",
+        "active": true,
+        "terms": [
+            "Spring 2023",
+            "Summer 2023"
+        ],
+        "date_updated": 1701743329,
+        "date_posted": 1701743329,
+        "url": "https://boards.greenhouse.io/cytokinetics/jobs/7050455002",
+        "locations": [
+            "San Bruno, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cytokinetics",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Visa",
+        "id": "b547be08-6fdc-4aa2-953b-098c6616d991",
+        "title": "Site Reliability Engineer \u2013 Intern - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1701742975,
+        "date_posted": 1701742975,
+        "url": "https://jobs.smartrecruiters.com/Visa/743999948539443",
+        "locations": [
+            "Highlands Ranch, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Visa",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Plume",
+        "id": "a953e9b0-be6a-4116-b184-5ed21a2262c7",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1701743203,
+        "date_posted": 1701743203,
+        "url": "https://www.plume.com/career-opportunities/7049718002/job?gh_jid=7049718002",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Plume",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Humane",
+        "id": "e1cd9d70-abf1-4d34-b98b-0a914c1a1451",
+        "title": "Software Engineering Intern - Device Experiences",
+        "active": true,
+        "terms": [
+            "Spring 2023",
+            "Summer 2023"
+        ],
+        "date_updated": 1701743146,
+        "date_posted": 1701743146,
+        "url": "https://boards.greenhouse.io/humane/jobs/5029926004",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Humane",
         "is_visible": true,
         "sponsorship": "Other"
     }
