@@ -43626,5 +43626,159 @@
         "company_url": "https://simplify.jobs/c/Humane",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Apptronik",
+        "id": "83234e21-4eb7-4b96-95fd-74e019c6280e",
+        "title": "Software Engineer Intern - Perception - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1701770474,
+        "date_posted": 1701770474,
+        "url": "https://boards.greenhouse.io/apptronik/jobs/5008502004",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Apptronik",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Apptronik",
+        "id": "a05a7e22-c7d0-49f5-a196-ba36209730c4",
+        "title": "Software Engineer Intern - Autonomy - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1701770470,
+        "date_posted": 1701770470,
+        "url": "https://boards.greenhouse.io/apptronik/jobs/5008514004",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Apptronik",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Apptronik",
+        "id": "37b7d970-da92-42ec-8c92-4e142614162e",
+        "title": "Software Engineer Intern - Devops - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1701770470,
+        "date_posted": 1701770470,
+        "url": "https://boards.greenhouse.io/apptronik/jobs/5008842004",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Apptronik",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Apptronik",
+        "id": "c146a5fd-db95-4842-8be0-e2fc9498ec3e",
+        "title": "Software Engineer Intern - Platform - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1701770471,
+        "date_posted": 1701770471,
+        "url": "https://boards.greenhouse.io/apptronik/jobs/5008735004",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Apptronik",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Apptronik",
+        "id": "b0a08c82-f44b-4ec6-8a7c-7e79559bced4",
+        "title": "Software Engineer Intern - Firmware - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1701770467,
+        "date_posted": 1701770467,
+        "url": "https://boards.greenhouse.io/apptronik/jobs/5008042004",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Apptronik",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Apptronik",
+        "id": "c74cabe1-f6bd-4f01-b289-10de7047b04e",
+        "title": "Software Engineer Intern - Test - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1701770473,
+        "date_posted": 1701770473,
+        "url": "https://boards.greenhouse.io/apptronik/jobs/5008871004",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Apptronik",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Simbe Robotics",
+        "id": "8d738c60-4866-4302-8564-a738a0d9cd48",
+        "title": "Robotics Software Engineer \u2013 Intern",
+        "active": true,
+        "terms": [
+            "Fall 2023",
+            "Spring 2024",
+            "Summer 2024"
+        ],
+        "date_updated": 1701770480,
+        "date_posted": 1701770480,
+        "url": "https://jobs.lever.co/SimbeRobotics/b202c6b5-0ce6-442f-82b2-9e801c92f371/apply",
+        "locations": [
+            "San Bruno, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/SimbeRobotics",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Intel",
+        "id": "fe466831-7351-450c-a6f1-dcb112904eed",
+        "title": "Junior Data Analyst \u2013 Internship",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1701770346,
+        "date_posted": 1701770346,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/Singapore--Multiple-Cities/Junior-Data-Analyst---Internship_JR0253342",
+        "locations": [
+            "Lacygne, KS"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
