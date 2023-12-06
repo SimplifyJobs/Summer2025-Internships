@@ -2802,7 +2802,7 @@
         "company_name": "NimbleRx",
         "id": "1e5b99ff-c71f-4ea9-a511-5dee851785bb",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2024",
             "Spring 2024"
@@ -14230,7 +14230,7 @@
         "company_name": "Stryker",
         "id": "d33590b5-f52f-4208-96bd-44bc3cfe0427",
         "title": "Summer Internship 2024 - Software Engineering - Michigan",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -14249,7 +14249,7 @@
         "company_name": "Stryker",
         "id": "b5c541a5-ffd9-4dc9-9681-8d218b52a425",
         "title": "Summer Internship 2024 - Software Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -14577,7 +14577,7 @@
         "company_name": "Stryker",
         "id": "18be768c-417d-4de8-b667-5a85844b1568",
         "title": "Summer Internship 2024 - Software Engineering - California",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -31918,7 +31918,7 @@
         "company_name": "Duolingo",
         "id": "f4990d75-553a-4751-a1ef-483cef53799a",
         "title": "Operations Engineer \u2013 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2023"
         ],
@@ -32080,7 +32080,7 @@
         "company_name": "Salesforce",
         "id": "2a95ca75-c666-483f-a63d-644c42052bd8",
         "title": "Summer 2024 Intern - Data Business Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -41639,7 +41639,7 @@
         "company_name": "Two Six Technologies",
         "id": "2f37dc46-b728-4b48-9617-4047011a7550",
         "title": "TCI Cleared Summer Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -42807,7 +42807,7 @@
         "company_name": "Oshkosh",
         "id": "5aba4724-f22b-4e2f-a416-25fde697d84a",
         "title": "Data Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
