@@ -43970,5 +43970,24 @@
         "company_url": "https://simplify.jobs/c/Neuralink",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "NVIDIA",
+        "id": "b14bba62-cc66-406c-93d5-826524d2244b",
+        "title": "Technical Project Manager Intern - American Sign Language AI Models - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1701850357,
+        "date_posted": 1701850357,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Technical-Project-Manager-Intern--American-Sign-Language-AI-Models---Summer-2024_JR1976367",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
