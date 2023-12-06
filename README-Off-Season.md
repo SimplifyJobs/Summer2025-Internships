@@ -153,7 +153,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | ↳ | Associate Software Developer – Co-op position - HP Anyware | Burnaby, BC, Canada | Winter 2024 | 🔒 | Oct 18 |
 | ↳ | Associate Software Developer – Co-op position - In Test | Burnaby, BC, Canada | Winter 2024 | 🔒 | Oct 18 |
 | **[Gearset](https://simplify.jobs/c/Gearset)** | Software Engineer Intern 2024 | Belfast, UK | Fall 2023 | 🔒 | Oct 18 |
-| **[Duolingo](https://simplify.jobs/c/Duolingo)** | Operations Engineer – Intern | Pittsburgh, PA | Fall 2023 | <a href="https://boards.greenhouse.io/duolingo/jobs/6970895002?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/f4990d75-553a-4751-a1ef-483cef53799a?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Oct 18 |
+| **[Duolingo](https://simplify.jobs/c/Duolingo)** | Operations Engineer – Intern | Pittsburgh, PA | Fall 2023 | 🔒 | Oct 18 |
 | **[Dell Technologies](https://simplify.jobs/c/Dell-Technologies)** | Software Engineering Internship Program 2024 - Cracow area | Remote | Fall 2023, Winter 2024 | 🔒 | Oct 18 |
 | ↳ | Software Engineering Internship Program 2024 - Gdańsk area | Remote | Fall 2023, Winter 2024 | 🔒 | Oct 18 |
 | ↳ | Software Engineering Internship Program 2024 - Warsaw area | Remote | Fall 2023, Winter 2024 | 🔒 | Oct 18 |
@@ -494,7 +494,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | **[NVIDIA](https://simplify.jobs/c/NVIDIA)** | Phd Research Intern - AI Algorithm | Remote in USA</br>Santa Clara, CA | Fall 2023 | 🔒 | Jul 18 |
 | ↳ | System Validation Engineer Intern | Santa Clara, CA | Fall 2023 | 🔒 | Jul 18 |
 | ↳ | System Validation Engineer Intern | Hillsboro, OR | Fall 2023 | 🔒 | Jul 18 |
-| **[NimbleRx](https://simplify.jobs/c/NimbleRx)** | Software Engineer Intern | Remote | Winter 2024, Spring 2024 | <a href="https://jobs.lever.co/nimblerx/f1b1c7ab-60f4-4051-93ea-d2dbba1cee9c/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/1e5b99ff-c71f-4ea9-a511-5dee851785bb?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jul 18 |
+| **[NimbleRx](https://simplify.jobs/c/NimbleRx)** | Software Engineer Intern | Remote | Winter 2024, Spring 2024 | 🔒 | Jul 18 |
 | **[Konrad Group](https://simplify.jobs/c/Konrad-Group)** | Software Developer Intern | Toronto, ON, Canada | Fall 2023 | 🔒 | Jul 18 |
 | ↳ | Software Developer Intern | Vancouver, BC, Canada | Fall 2023 | 🔒 | Jul 18 |
 | **[Kodiak Robotics](https://simplify.jobs/c/Kodiak-Robotics)** | Video Visualization Engineer Internship | Mountain View, CA | Fall 2023 | 🔒 | Jul 18 |
