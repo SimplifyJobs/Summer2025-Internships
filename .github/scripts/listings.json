@@ -24732,7 +24732,7 @@
         "company_name": "Hewlett Packard (HP)",
         "id": "ca8bcdad-d48b-4a99-b116-b488ed2113d0",
         "title": "2024 Summer Print Software Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -42539,7 +42539,7 @@
         "company_name": "Leidos",
         "id": "438f2cae-1dfc-4890-b4d0-2e24289748cd",
         "title": "Systems Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -43987,6 +43987,53 @@
             "Santa Clara, CA"
         ],
         "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "The Boeing Company",
+        "id": "f287024e-0f7a-49ae-9584-b620248a8142",
+        "title": "Intern to Entry Level Conversion \u2013 Summer 2023 Intern Program - Business - Information Technology - Data Analytics",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1701879725,
+        "date_posted": 1701879725,
+        "url": "https://boeing.wd1.myworkdayjobs.com/external_careers/job/USA---Everett-WA/Intern-to-Entry-Level-Conversion---Business--Information-Technology--Data-Analytics--Summer-2023-Intern-Program-_00000380144-2",
+        "locations": [
+            "Germantown, MD",
+            "Seattle, WA",
+            "Houston, TX",
+            "Chester, PA",
+            "Long Beach, CA",
+            "Mesa, AZ",
+            "Miami, FL",
+            "Colorado Springs, CO",
+            "Dallas, TX",
+            "Fairfax, VA",
+            "Philadelphia, PA",
+            "Chicago, IL",
+            "Tukwila, WA",
+            "St Charles, MO",
+            "San Antonio, TX",
+            "St. Louis, MO",
+            "Arlington, VA",
+            "Titusville, FL",
+            "Everett, WA",
+            "Auburn, WA",
+            "Ridgecrest, CA",
+            "Oklahoma City, OK",
+            "Kent, WA",
+            "Charleston, SC",
+            "Portland, OR",
+            "North Charleston, SC",
+            "Huntington Beach, CA",
+            "Hazelwood, MO",
+            "El Segundo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
         "is_visible": true,
         "sponsorship": "Other"
     }
