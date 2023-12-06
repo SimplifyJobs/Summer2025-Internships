@@ -44036,5 +44036,24 @@
         "company_url": "https://simplify.jobs/c/Boeing",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1701900297,
+        "url": "https://app.ripplematch.com/v2/public/job/222a77cb/details",
+        "company_name": "Niantic",
+        "title": "Software Engineering Intern",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "alex-mcneilly",
+        "id": "15a9c72a-092b-4e2b-ae40-2e90cd7a359c",
+        "date_posted": 1701900297,
+        "company_url": "",
+        "is_visible": true
     }
 ]
