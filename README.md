@@ -1687,7 +1687,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | Google | Software Engineering Intern (BS) | Multiple US Locations | 🔒 | Jul 2023 |
 | ↳ | Software Engineering Intern (MS) | Multiple US Locations | 🔒 | Jul 2023 |
 | Bank of America | Global Technology Summer Analyst Program | <details><summary>**10 locations**</summary>Addison, TX</br>Charlotte, NC</br>Chicago, IL</br>Denver, CO</br>Pennington, NJ</br>Plano, TX</br>Richardson, TX</br>Washington, DC</br>Richmond, VA</br>NYC Metro, NY</details> | <a href="https://bankcampuscareers.tal.net/vx/lang-en-GB/mobile-0/brand-4/xf-91c0e92d74a1/candidate/so/pm/1/pl/1/opp/10165-Global-Technology-Summer-Analyst-Program-2024/en-GB?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 2023 |
-| **[Ramp](https://simplify.jobs/c/Ramp)** | Backend Software Engineering Internship | NYC | <a href="https://jobs.ashbyhq.com/ramp/16ebfcfc-467b-40e5-b23e-a4d95db05539?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 2023 |
 | Protiviti | Technology Consulting Intern | Phoenix, AZ | 🔒 | Jul 2023 |
 | **[Bridgewater Associates](https://simplify.jobs/c/Bridgewater-Associates)** | Investment Engineer Intern | Westport, CT | 🔒 | Jul 2023 |
 | **[Mercedes-Benz](https://simplify.jobs/c/Mercedes-Benz)** | Data Products Intern | Sunnyvale, CA | 🔒 | Jul 2023 |
