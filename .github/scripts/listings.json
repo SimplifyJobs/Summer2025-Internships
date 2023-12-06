@@ -44055,5 +44055,24 @@
         "date_posted": 1701900297,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1701900412,
+        "url": "https://www.mwam.com/news/internships/new-york-technology-internship/",
+        "company_name": "Marshall Wace",
+        "title": "Technology Internship (Summer 2024)",
+        "locations": [
+            "New York, NY"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "mwam-hackathon",
+        "id": "a0b4c85f-d944-4ecf-8184-bc66fb9e7346",
+        "date_posted": 1701900412,
+        "company_url": "",
+        "is_visible": true
     }
 ]
