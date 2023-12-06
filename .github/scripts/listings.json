@@ -29162,7 +29162,7 @@
         "company_name": "Kinaxis",
         "id": "0c097caf-541a-42bc-a81c-f8327ea15e43",
         "title": "Co-Op/Intern Test Developer - Product Verification",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2024"
         ],
@@ -30687,7 +30687,7 @@
         "company_name": "Autodesk",
         "id": "b70c5cc0-c78a-45c6-bfa9-3bd47310088a",
         "title": "Intern \u2013 Technical Program Manager - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -36582,7 +36582,7 @@
         "company_name": "Blizzard Entertainment",
         "id": "01774b33-56d0-498b-b886-e7a30bb8a2a1",
         "title": "2024 US Summer Internship - Analytics & Data Science",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -38373,7 +38373,7 @@
         "company_name": "Visa",
         "id": "5a89bc8e-a869-48e3-ba31-cab120c6c7f2",
         "title": "Associate Data Scientist \u2013 Intern - Cybersecurity",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -40656,7 +40656,7 @@
         "company_name": "Autodesk",
         "id": "a4823d69-7772-4b2d-a726-79f0b99cfaff",
         "title": "Intern \u2013 Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -41926,7 +41926,7 @@
         "company_name": "Illumio",
         "id": "1b95a02d-34ba-45fe-ac41-91688059dc27",
         "title": "Engineering Intern - Performance & Scale - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -41945,7 +41945,7 @@
         "company_name": "Illumio",
         "id": "9a56feb3-337c-414f-90fc-167485e83f68",
         "title": "Engineering Intern - Enterprise UI - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -41964,7 +41964,7 @@
         "company_name": "Illumio",
         "id": "9a4170d6-890d-41f5-8b12-87b966f91d60",
         "title": "Engineering Intern - Cloudsecure UI - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -42577,7 +42577,7 @@
         "company_name": "Leidos",
         "id": "30e16fa7-2a81-4ba7-b9cd-c4dcc721f931",
         "title": "Signal Processing Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -42673,7 +42673,7 @@
         "company_name": "Neuralink",
         "id": "902cbbe1-4de9-4820-b7c4-b05e2368e8ea",
         "title": "Surgery Operations Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -43419,7 +43419,7 @@
         "company_name": "Intel",
         "id": "45f949bf-01ce-4d5d-a95d-2a4515a30451",
         "title": "AI Framework Engineer Undergraduate Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -43632,7 +43632,7 @@
         "company_name": "Apptronik",
         "id": "83234e21-4eb7-4b96-95fd-74e019c6280e",
         "title": "Software Engineer Intern - Perception - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -43816,6 +43816,158 @@
             "San Antonio, TX"
         ],
         "company_url": "https://simplify.jobs/c/Two-Six-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Astranis",
+        "id": "0e3053ad-c034-4318-92f3-d730de98b59d",
+        "title": "Full Stack Developer \u2013 Intern - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1701822241,
+        "date_posted": 1701822241,
+        "url": "https://boards.greenhouse.io/astranis/jobs/4311819006",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Astranis",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Astranis",
+        "id": "24fc97fa-bb12-4d6f-a82b-7f781152308f",
+        "title": "Full Stack Developer \u2013 Intern - Winter 2024",
+        "active": true,
+        "terms": [
+            "Winter 2024"
+        ],
+        "date_updated": 1701822240,
+        "date_posted": 1701822240,
+        "url": "https://boards.greenhouse.io/astranis/jobs/4311817006",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Astranis",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Astranis",
+        "id": "f04c4d51-1f9c-4a8b-88ed-ea1dab4223fe",
+        "title": "Full Stack Developer \u2013 Intern - Spring 2024",
+        "active": true,
+        "terms": [
+            "Spring 2024"
+        ],
+        "date_updated": 1701822240,
+        "date_posted": 1701822240,
+        "url": "https://boards.greenhouse.io/astranis/jobs/4311816006",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Astranis",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Cadence Design Systems",
+        "id": "4958c4d6-2bc8-4d1f-8987-3a01a84a77d1",
+        "title": "Scientific Computing Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1701822176,
+        "date_posted": 1701822176,
+        "url": "https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/SAN-JOSE/Scientific-Computing-Intern_R44847-2",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "NimbleRx",
+        "id": "731024d2-4138-408a-9507-9bc230a332e9",
+        "title": "Software Engineer Intern - Summer Session - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1701821324,
+        "date_posted": 1701821324,
+        "url": "https://jobs.lever.co/nimblerx/d3749f50-25e7-4b55-8482-c842f64dbafc/apply",
+        "locations": [
+            "Remote"
+        ],
+        "company_url": "https://simplify.jobs/c/NimbleRx",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Electric Hydrogen",
+        "id": "e3bdfe5a-223f-4b7e-aee0-7831a7ba2119",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1701821252,
+        "date_posted": 1701821252,
+        "url": "https://eh2.com/careers?gh_jid=4335303005",
+        "locations": [
+            "Framingham, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/EH2",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Electric Hydrogen",
+        "id": "05dc3740-841b-48e0-85eb-0018b268f829",
+        "title": "Software Engineering Co-Op",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1701821249,
+        "date_posted": 1701821249,
+        "url": "https://eh2.com/careers?gh_jid=4335304005",
+        "locations": [
+            "Framingham, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/EH2",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Neuralink",
+        "id": "f42b6aae-8434-41fa-97bf-f0f1a496395b",
+        "title": "Surgery Operations Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1701821748,
+        "date_posted": 1701348716,
+        "url": "https://boards.greenhouse.io/neuralink/jobs/5806205003",
+        "locations": [
+            "Fremont, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Neuralink",
         "is_visible": true,
         "sponsorship": "Other"
     }
