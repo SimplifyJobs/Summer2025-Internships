@@ -7982,7 +7982,7 @@
         "company_name": "Rivian",
         "id": "284a4f9e-3f2c-472a-a63f-5df88fae3c68",
         "title": "UIUC Research Park Intern - Special Projects",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2023",
             "Spring 2024",
@@ -26218,7 +26218,7 @@
         "company_name": "Symbotic",
         "id": "29c3bcd1-94b8-4128-b45f-977fa1f38603",
         "title": "Intern-Minibot Controls - Routing",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023",
             "Spring 2024",
@@ -30394,7 +30394,7 @@
         "company_name": "Branch",
         "id": "757be142-9d42-43e5-bde5-031c7b2a3854",
         "title": "Data Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -35468,7 +35468,7 @@
         "company_name": "Galaxy",
         "id": "b0f53ff8-e565-4034-82be-21f69901646f",
         "title": "2024 Tech Trading Summer Internship Program - London",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -41793,7 +41793,7 @@
         "company_name": "Intel",
         "id": "d6d70897-d434-4697-bf59-47822e777ba0",
         "title": "Undergraduate Software Application Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -42961,7 +42961,7 @@
         "company_name": "Okta",
         "id": "0c0c14b4-177d-4e9c-9cc5-ae3bf4db306a",
         "title": "Data Engineer Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -43535,7 +43535,7 @@
         "company_name": "Leidos",
         "id": "ccaca843-fa1d-44b5-b94e-6217b53333e4",
         "title": "Systems Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -44074,5 +44074,233 @@
         "date_posted": 1701900412,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "The Brattle Group",
+        "id": "e5c03dc8-b0b6-4a38-adde-b3fd9d33dc92",
+        "title": "Research Analyst Intern - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1701908620,
+        "date_posted": 1701908620,
+        "url": "https://boards.greenhouse.io/thebrattlegroup/jobs/4325755005",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/TheBrattleGroup",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "The Brattle Group",
+        "id": "f6fda15a-89ce-45f2-83f7-30b5e24af246",
+        "title": "Research Analyst Intern - Spanish Speaker - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1701908620,
+        "date_posted": 1701908620,
+        "url": "https://boards.greenhouse.io/thebrattlegroup/jobs/4325767005",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/TheBrattleGroup",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "The Brattle Group",
+        "id": "1eafa4ea-bb4e-404d-bd6d-2fe19ffa5c81",
+        "title": "Research Analyst Intern - Corporate Finance/Accounting - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1701908619,
+        "date_posted": 1701908619,
+        "url": "https://boards.greenhouse.io/thebrattlegroup/jobs/4325765005",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/TheBrattleGroup",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "The Brattle Group",
+        "id": "2d5aad3e-3a8d-4124-bb66-7e4b39292937",
+        "title": "Energy Analyst Intern - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1701908618,
+        "date_posted": 1701908618,
+        "url": "https://boards.greenhouse.io/thebrattlegroup/jobs/4325760005",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/TheBrattleGroup",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "IEX",
+        "id": "667303f0-ed7c-4b00-ac0f-fca39980ffef",
+        "title": "Systems Reliability Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1701908581,
+        "date_posted": 1701908581,
+        "url": "https://iex.io/careers/apply?gh_jid=5536518",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/IEX",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "The Brattle Group",
+        "id": "02e5e357-be9a-4d71-b8a7-4b1cbdb0bcc0",
+        "title": "Research Analyst Intern - Corporate Finance/Accounting - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1701908620,
+        "date_posted": 1701908620,
+        "url": "https://boards.greenhouse.io/thebrattlegroup/jobs/4325766005",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/TheBrattleGroup",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Cadence Design Systems",
+        "id": "88391a51-7fe9-4e28-aa7d-2e22163e8727",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1701908473,
+        "date_posted": 1701908473,
+        "url": "https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/BURLINGTON-01/Software-Engineering-Intern_R44853-2",
+        "locations": [
+            "Northridge, LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Crowdstrike",
+        "id": "5344073a-7208-47b0-9c70-5381303cd564",
+        "title": "Sales Elite Solution Architect Intern - Remote",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1701908107,
+        "date_posted": 1701908107,
+        "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-us/crowdstrikecareers/job/USA---Remote/Sales-Elite-Solution-Architect-Intern--Remote-_R15319",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Crowdstrike",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Intel",
+        "id": "d3b40285-ba71-4a65-b754-7d282a29a6ed",
+        "title": "Software Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1701908010,
+        "date_posted": 1701908010,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/Virtual-US/Software-Intern_JR0253129",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Intel",
+        "id": "425092bb-eabd-442c-ad18-ec9e3ba08b7c",
+        "title": "SW Development Engineer \u2013 Undergrad Intern",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1701908009,
+        "date_posted": 1701908009,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/Virtual-US/SW-Development-Engineer--Undergrad-Intern-_JR0252966",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Leidos",
+        "id": "1b4c3c67-3cfb-496b-8f11-eaeab9f96d29",
+        "title": "Engineering Intern Summer 2024 - Aerospace - Computer Science - AI/ML",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1701908007,
+        "date_posted": 1701908007,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Engineering-Intern-Summer-2024---Aerospace--Computer-Science--AI-ML_R-00124594",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Intel",
+        "id": "063d84ad-aa5c-4f19-81e6-fa3b159a880b",
+        "title": "Semiconductor Research Engineer Undergrad Intern",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1701908005,
+        "date_posted": 1701908005,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Arizona-Phoenix/Semiconductor-Research-Engineer-Undergrad-Intern_JR0253321",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
