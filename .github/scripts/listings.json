@@ -5596,7 +5596,7 @@
         "company_name": "Palantir",
         "id": "e1cb71b6-18fc-4d48-9c80-55c54bb62a50",
         "title": "Software Engineer \u2013 Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -21191,7 +21191,7 @@
         "company_name": "Infinitus",
         "id": "ac868e5e-efaa-4d82-8d89-ef728afb839e",
         "title": "Intern Artificial Intelligence Operator",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2024"
         ],
@@ -23133,7 +23133,7 @@
         "company_name": "Zipline",
         "id": "4c8ac933-1287-4338-b0cb-cdac1de7d982",
         "title": "Simulation Engineering Intern Spring 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024"
         ],
@@ -28329,7 +28329,7 @@
         "company_name": "AppLovin",
         "id": "4cc61947-9ca6-4d26-965a-59f8ab922c6b",
         "title": "Platform Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -31383,7 +31383,7 @@
         "company_name": "TandemLaunch",
         "id": "45733fb4-333c-4545-a185-6b7f602f8504",
         "title": "Engineering Intern - Hardware - Software - Embedded",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -31478,7 +31478,7 @@
         "company_name": "Two Six Technologies",
         "id": "aa8fa088-08d6-4b63-b724-7d6bafc8ec19",
         "title": "Deployed Systems Summer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -32119,7 +32119,7 @@
         "company_name": "Vestmark",
         "id": "395bbe02-fc8a-472a-b0d0-352e29df1027",
         "title": "System Engineer Co-op-Spring 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024"
         ],
@@ -32423,7 +32423,7 @@
         "company_name": "Two Six Technologies",
         "id": "11490762-7199-43fd-8676-f88aeeb2e0ae",
         "title": "Software Testing Summer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -35605,7 +35605,7 @@
         "company_name": "Kabam",
         "id": "8aeddd6f-8562-494a-b31e-dcfe41edc327",
         "title": "Frontend Software Engineer \u2013 Co-Op - January 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2024"
         ],
@@ -35624,7 +35624,7 @@
         "company_name": "Kabam",
         "id": "21a46bdc-2c9c-47a6-ad7d-9dca3a92d712",
         "title": "Backend Software Engineer \u2013 Co-Op - January 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2024"
         ],
@@ -36050,7 +36050,7 @@
         "company_name": "Kabam",
         "id": "0d83ffbe-b984-4e33-b04a-55d559a31ba0",
         "title": "Gameplay Engineer \u2013 Co-Op - January 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2024"
         ],
@@ -43133,7 +43133,7 @@
         "company_name": "Ample",
         "id": "913dd30f-d976-4206-9d76-4349fd8d0f55",
         "title": "Embedded Software Engineer INTERN - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
