@@ -454,8 +454,8 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | **[Verkada](https://simplify.jobs/c/Verkada)** | Software Engineering Intern - Backend - Winter 2024 | San Mateo, CA | Winter 2024 | 🔒 | Aug 11 |
 | ↳ | Software Engineering Intern - Embedded - Winter 2024 | San Mateo, CA | Winter 2024 | 🔒 | Aug 11 |
 | ↳ | Software Engineering Intern - Frontend - Winter 2024 | San Mateo, CA | Winter 2024 | 🔒 | Aug 11 |
-| **[Rivian](https://simplify.jobs/c/Rivian)** | UIUC Research Park Intern - Data Analytics | Urbana, IL | Fall 2023 | 🔒 | Aug 11 |
-| ↳ | UIUC Research Park Intern - Special Projects | Urbana, IL | Fall 2023, Spring 2024, Summer 2024 | 🔒 | Aug 11 |
+| **[Rivian](https://simplify.jobs/c/Rivian)** | UIUC Research Park Intern - Special Projects | Urbana, IL | Fall 2023, Spring 2024, Summer 2024 | <a href="https://careers.rivian.com/jobs/11821?lang=en-us&icims=1&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/284a4f9e-3f2c-472a-a63f-5df88fae3c68?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Aug 11 |
+| ↳ | UIUC Research Park Intern - Data Analytics | Urbana, IL | Fall 2023 | 🔒 | Aug 11 |
 | **[Vestmark](https://simplify.jobs/c/Vestmark)** | Intern – Systems Engineer - Fall 2023 | Wakefield, MA | Fall 2023 | 🔒 | Aug 10 |
 | **[PayPal](https://simplify.jobs/c/PayPal)** | Software Engineer Intern | <details><summary>**5 locations**</summary>Austin, TX</br>San Jose, CA</br>Chicago, IL</br>Scottsdale, AZ</br>NYC</details> | Spring 2024, Fall 2024 | 🔒 | Aug 09 |
 | ↳ | Data Analyst Intern | <details><summary>**5 locations**</summary>Austin, TX</br>San Jose, CA</br>Chicago, IL</br>Scottsdale, AZ</br>NYC</details> | Spring 2024, Fall 2024 | 🔒 | Aug 09 |
