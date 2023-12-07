@@ -1509,8 +1509,8 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | **[Garda Capital Partners](https://simplify.jobs/c/Garda-Capital-Partners)** | Quantitative Development Intern - Rates | NYC | 🔒 | Aug 07 |
 | **[Capital One](https://simplify.jobs/c/Capital-One)** | Technology Early Internship Program - Summer 2024 | McLean, VA | 🔒 | Aug 07 |
 | **[Garda Capital Partners](https://simplify.jobs/c/Garda-Capital-Partners)** | Quantitative Development Intern - Equities & Commodity Derivatives | NYC | 🔒 | Aug 06 |
-| Tesla | Software Engineering Intern - Energy | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/energy-software-engineering-spring-summer-2024-206805?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 05 |
-| ↳ | Software Automation Engineering Intern - Cell Manufacturing | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/cell-manufacturing-controls-and-software-automation-engineering-internship-spring-summer-2024-206610?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 05 |
+| Tesla | Software Automation Engineering Intern - Cell Manufacturing | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/cell-manufacturing-controls-and-software-automation-engineering-internship-spring-summer-2024-206610?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 05 |
+| ↳ | Software Engineering Intern - Energy | Palo Alto, CA | 🔒 | Aug 05 |
 | ↳ | Software Engineering & Machine Learning Intern - Vehicle Hardware | Palo Alto, CA | 🔒 | Aug 05 |
 | **[Taboola](https://simplify.jobs/c/Taboola)** | Backend Engineer Intern | LA | 🔒 | Aug 04 |
 | **[Jump Trading](https://simplify.jobs/c/Jump-Trading)** | Campus – Intern - Quantitative Researcher | Chicago, IL | 🔒 | Aug 04 |

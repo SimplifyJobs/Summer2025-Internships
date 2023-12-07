@@ -6771,7 +6771,7 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1691256212,
+        "date_updated": 1701990185,
         "url": "https://www.tesla.com/careers/search/job/energy-software-engineering-spring-summer-2024-206805",
         "company_name": "Tesla",
         "title": "Software Engineering Intern - Energy",
@@ -6779,16 +6779,15 @@
             "Palo Alto, CA"
         ],
         "terms": [
-            "Spring 2024",
             "Summer 2024"
         ],
-        "active": true,
+        "active": false,
         "source": "RiRah123",
         "id": "653f4aac-6435-4066-9044-668bde551341",
         "date_posted": 1691256212,
         "company_url": "",
         "is_visible": true,
-        "sponsorship": "Offers Sponsorship"
+        "sponsorship": "Other"
     },
     {
         "date_updated": 1691424743,
