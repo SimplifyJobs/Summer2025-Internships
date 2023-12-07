@@ -29816,7 +29816,7 @@
         "company_name": "PayPal",
         "id": "efced37e-aa8f-4bb0-9e5d-62740648bf01",
         "title": "Decision/Data Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -43995,7 +43995,7 @@
         "company_name": "The Boeing Company",
         "id": "f287024e-0f7a-49ae-9584-b620248a8142",
         "title": "Intern to Entry Level Conversion \u2013 Summer 2023 Intern Program - Business - Information Technology - Data Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -44300,6 +44300,63 @@
             "Phoenix, AZ"
         ],
         "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Wise",
+        "id": "513cd787-859f-45fe-9019-6e3adb3bd9a1",
+        "title": "Analytics Summer Internship",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1701966259,
+        "date_posted": 1701966259,
+        "url": "https://boards.greenhouse.io/transferwise/jobs/5554116",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Wise",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Cadence Design Systems",
+        "id": "cc4e9914-8aa0-441b-af39-4216ec6b517e",
+        "title": "Software Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1701966041,
+        "date_posted": 1701966041,
+        "url": "https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/EDINBURGH-01/Software-Intern_R44849",
+        "locations": [
+            "Edinburgh, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Rivian",
+        "id": "4a65b0f6-28ab-452c-910c-e8f83ff6aae9",
+        "title": "UIUC Research Park Intern - Embedded Software",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1701965252,
+        "date_posted": 1701965252,
+        "url": "https://careers.rivian.com/jobs/14916?lang=en-us&icims=1",
+        "locations": [
+            "Urbana, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Rivian",
         "is_visible": true,
         "sponsorship": "Other"
     }
