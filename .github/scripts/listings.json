@@ -44510,5 +44510,43 @@
         "company_url": "https://simplify.jobs/c/EH2",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Applied Materials",
+        "id": "7996a83d-155e-488e-9dff-5e6d93b73bfb",
+        "title": "2024 Spring Embedded Firmware Co-Op - Rochester - NY",
+        "active": true,
+        "terms": [
+            "Spring 2024"
+        ],
+        "date_updated": 1702023124,
+        "date_posted": 1702023124,
+        "url": "https://amat.wd1.myworkdayjobs.com/External/job/RochesterNY/XMLNAME-2024-Spring-Embedded-Firmware-Co-Op--Rochester--NY-_R2317685-1",
+        "locations": [
+            "Rochester, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/AMAT",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Lucid Motors",
+        "id": "10d06919-edf5-446c-8ff5-e1df8f2eb75f",
+        "title": "Intern \u2013 Atlassian Platform Engineer - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1702022707,
+        "date_posted": 1702022707,
+        "url": "https://jobs.lever.co/lucidmotors/bf213dcc-79de-4d4c-8c19-67fa0b7a17ab/apply",
+        "locations": [
+            "Newark, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Lucid-Motors",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
