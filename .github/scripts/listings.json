@@ -22313,7 +22313,7 @@
         "company_name": "STR",
         "id": "895280d4-fa74-4b4e-a6f0-558c28d5a0a5",
         "title": "Sensors Summer Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -22335,7 +22335,7 @@
         "company_name": "STR",
         "id": "ab0100e5-fe60-4096-b771-dec8766a5a41",
         "title": "Analytics Summer Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -22356,7 +22356,7 @@
         "company_name": "STR",
         "id": "b8ca7a9d-7ac7-4c03-8544-41f42a4e668a",
         "title": "Cyber Summer Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -30181,7 +30181,7 @@
         "company_name": "STR",
         "id": "d81e4a1a-ba05-4636-9222-42edc92c28a8",
         "title": "Cyber Summer Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -30200,7 +30200,7 @@
         "company_name": "STR",
         "id": "87b426ca-6ac3-414b-bac6-6ed02ea4815e",
         "title": "Sensors Summer Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -30219,7 +30219,7 @@
         "company_name": "STR",
         "id": "7ee54669-5184-4775-a408-7da819c5fd1d",
         "title": "Sensors Summer Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -30238,7 +30238,7 @@
         "company_name": "STR",
         "id": "590b3cea-09cf-4e33-bba2-789fa78b3c84",
         "title": "Cyber Summer Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -30257,7 +30257,7 @@
         "company_name": "STR",
         "id": "4240cb70-fb36-4153-9eaa-f7efee2ea800",
         "title": "Analytics Summer Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -30276,7 +30276,7 @@
         "company_name": "STR",
         "id": "222fd03d-7b8a-4165-b283-f83717d0941b",
         "title": "Analytics Summer Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -30295,7 +30295,7 @@
         "company_name": "STR",
         "id": "1d444844-ac50-4dd7-acc5-b3588d82fa61",
         "title": "Sensors Summer Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -43094,7 +43094,7 @@
         "company_name": "Leidos",
         "id": "5ea7472a-31a6-43b7-a788-0f187bc31d07",
         "title": "Engineering Intern Summer 2024 - Aerospace - Computer Science - AI/ML",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -43496,7 +43496,7 @@
         "company_name": "Leidos",
         "id": "cae8632d-c939-40c4-8b11-0e9593f25666",
         "title": "Technical Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -44269,7 +44269,7 @@
         "company_name": "Leidos",
         "id": "1b4c3c67-3cfb-496b-8f11-eaeab9f96d29",
         "title": "Engineering Intern Summer 2024 - Aerospace - Computer Science - AI/ML",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
