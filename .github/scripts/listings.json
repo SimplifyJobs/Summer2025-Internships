@@ -26141,7 +26141,7 @@
         "company_name": "Guidewire",
         "id": "ff1e50f4-5e4b-48d5-b834-c9dd2c08e58a",
         "title": "Summer 2024 Software Full stack Engineering Intern - Bedford - MA",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -26179,7 +26179,7 @@
         "company_name": "Guidewire",
         "id": "63fa90fc-0522-4cb0-9448-d4cbbd9cfdaa",
         "title": "Summer 2024 Software Engineering Intern - Exton - PA",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -28269,7 +28269,7 @@
         "company_name": "Humane",
         "id": "e45b5c87-c32f-4bdd-92a8-593daa282c0d",
         "title": "Software Engineering Intern - Test Automation",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2023",
             "Summer 2023",
@@ -33157,7 +33157,7 @@
         "company_name": "Guidewire",
         "id": "1cc1e814-bf7c-49ac-bb98-e31f5b712d47",
         "title": "Machine Learning Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -34501,7 +34501,7 @@
         "company_name": "iCapital Network",
         "id": "9294cf9f-0159-4d5f-9328-747ea37a3e38",
         "title": "ML Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2023",
             "Winter 2024"
@@ -38103,7 +38103,7 @@
         "company_name": "Databricks",
         "id": "719d1cee-5971-45a1-9276-2f45faf5e04b",
         "title": "Genai Research Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -42557,7 +42557,7 @@
         "company_name": "Leidos",
         "id": "3a196c20-74fe-4653-8c60-3a5edff9987f",
         "title": "Summer 2024 Intern - Reverse Engineering & Vulnerability Research",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -42999,7 +42999,7 @@
         "company_name": "Intel",
         "id": "5cfa5701-4864-4f27-8e53-8ad39e6d4778",
         "title": "Software Security Undergraduate Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -43075,7 +43075,7 @@
         "company_name": "Leidos",
         "id": "cf58ee50-af51-4a62-950c-bb932c3bbd1d",
         "title": "Intern: Modeling & Simulation Engineer or Analyst or Software Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -43880,7 +43880,7 @@
         "company_name": "Cadence Design Systems",
         "id": "4958c4d6-2bc8-4d1f-8987-3a01a84a77d1",
         "title": "Scientific Computing Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -44356,6 +44356,158 @@
             "Urbana, IL"
         ],
         "company_url": "https://simplify.jobs/c/Rivian",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Quantcast",
+        "id": "4312eb22-52da-40b2-a6db-7d9dce16a7e5",
+        "title": "Software Engineering Intern - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1702001153,
+        "date_posted": 1701995147,
+        "url": "https://jobs.lever.co/quantcast/9ab8f795-349c-4703-b76e-1ba92a39289e/apply",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Quantcast",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Leidos",
+        "id": "9504a6fc-1338-4514-8dc3-a05bfa51366d",
+        "title": "Internship : Radar Signal Processing Engineer",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1701994509,
+        "date_posted": 1701994509,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Internship---Radar-Signal-Processing-Engineer_R-00124119",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Leidos",
+        "id": "6ae78601-5347-4a28-b1f4-5b7b8ef52435",
+        "title": "Engineering Intern Summer 2024 - Aerospace - Computer Science - AI/ML",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1701994508,
+        "date_posted": 1701994508,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Engineering-Intern-Summer-2024---Aerospace--Computer-Science--AI-ML_R-00124665",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Leidos",
+        "id": "da731157-e76d-450a-8cda-aa79d60c0afc",
+        "title": "Intern: Modeling & Simulation Engineer or Analyst or Software Developer",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1701994505,
+        "date_posted": 1701994505,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Intern--Modeling---Simulation-Engineer-or-Analyst-or-Software-Developer_R-00124696",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Leidos",
+        "id": "7f1e84ed-3f9a-4004-93b3-690af124932a",
+        "title": "Summer 2024 Intern - Reverse Engineering & Vulnerability Research",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1701994504,
+        "date_posted": 1701994504,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Summer-2024-Intern---Reverse-Engineering---Vulnerability-Research_R-00124695",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Leidos",
+        "id": "197b2e3c-69d0-4968-b1d6-64f80c27cd40",
+        "title": "Engineering Intern Summer 2024 - Aerospace - Computer Science - AI/ML",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1701994507,
+        "date_posted": 1701994507,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Engineering-Intern-Summer-2024---Aerospace--Computer-Science--AI-ML_R-00124664",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Allegiant Air",
+        "id": "b637dd6b-34e6-40a0-8e42-0f104fd8275d",
+        "title": "Intern \u2013 Reliability - Spring 2024",
+        "active": true,
+        "terms": [
+            "Spring 2024"
+        ],
+        "date_updated": 1701994363,
+        "date_posted": 1701994363,
+        "url": "https://jobs.lever.co/allegiantair/fb14af0e-833c-4f96-b660-390675af923d/apply",
+        "locations": [
+            "Las Vegas, NV"
+        ],
+        "company_url": "https://simplify.jobs/c/Allegiant-Air",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Electric Hydrogen",
+        "id": "3e559cd1-5f83-489b-ac8b-3cdcdb701ea3",
+        "title": "Firmware Intern Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1701994142,
+        "date_posted": 1701994142,
+        "url": "https://eh2.com/careers?gh_jid=4347796005",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/EH2",
         "is_visible": true,
         "sponsorship": "Other"
     }
