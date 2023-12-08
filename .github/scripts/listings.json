@@ -9505,7 +9505,7 @@
         "company_name": "Jump Trading",
         "id": "23bff65c-e9b2-4b27-8e83-880fa29a4774",
         "title": "Campus Quantitative Researcher \u2013 M1/M2 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -26000,7 +26000,7 @@
         "company_name": "Kinaxis",
         "id": "bf960e8f-5818-41af-b35b-6e877906bfb2",
         "title": "Co-Op/Intern Software Developer - Core Algorithms",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2024"
         ],
@@ -34463,7 +34463,7 @@
         "company_name": "Applied Materials",
         "id": "eda90516-20ad-48fc-b7be-a310f7d32972",
         "title": "Software Engineer Intern - Santa Clara - CA",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -44546,6 +44546,44 @@
             "Newark, CA"
         ],
         "company_url": "https://simplify.jobs/c/Lucid-Motors",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Autodesk",
+        "id": "89ae2b03-9ccd-456f-a08d-6dcef3797436",
+        "title": "Intern \u2013 Software Engineer",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1702052327,
+        "date_posted": 1702052327,
+        "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/San-Francisco-CA-USA/Intern--Software-Engineer_23WD72866-1",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Autodesk",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Inari Agriculture",
+        "id": "72ee91af-cbf8-447f-9788-3e42a89e5e1a",
+        "title": "Enterprise Data Quality Intern",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1702052248,
+        "date_posted": 1702052248,
+        "url": "https://boards.greenhouse.io/inariagriculture/jobs/7055292002",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Inari-Agriculture",
         "is_visible": true,
         "sponsorship": "Other"
     }
