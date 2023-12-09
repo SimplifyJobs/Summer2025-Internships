@@ -2108,7 +2108,7 @@
         "company_name": "Klue",
         "id": "4bbcf0e2-31c1-4232-8912-9184788c6095",
         "title": "Data Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -33080,7 +33080,7 @@
         "company_name": "OCC",
         "id": "d47ab259-1a4a-44ad-a9aa-3ace8501ac4a",
         "title": "Year-Round Intern - UI/UX",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -37695,7 +37695,7 @@
         "company_name": "DriveWealth",
         "id": "38707064-4b78-442e-887a-db449c721ed3",
         "title": "Summer 2024 Intern - Trading Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -37910,7 +37910,7 @@
         "company_name": "DriveWealth",
         "id": "f051a2eb-d2c1-431a-9c56-7e9f12bc4db5",
         "title": "Summer 2024 Intern - Platform Services",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -38141,7 +38141,7 @@
         "company_name": "DriveWealth",
         "id": "98231e7d-21c4-4075-a907-04e7ee6ea2de",
         "title": "Summer 2024 Intern - Platform Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -41849,7 +41849,7 @@
         "company_name": "Intel",
         "id": "7f4b7bcd-c47e-4cab-9ec0-2e5fc07fa136",
         "title": "Undergrad Technical Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -42234,7 +42234,7 @@
         "company_name": "DriveWealth",
         "id": "da710311-15c6-4da2-b7a0-32990e35a9ae",
         "title": "Summer 2024 Intern - Partner Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -44584,6 +44584,179 @@
             "Cambridge, MA"
         ],
         "company_url": "https://simplify.jobs/c/Inari-Agriculture",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Cadence Design Systems",
+        "id": "4fe79316-45b0-47c2-bfe3-d5d8d5531943",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1702081287,
+        "date_posted": 1702081287,
+        "url": "https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/BURLINGTON-01/Software-Engineering-Intern_R44857-2",
+        "locations": [
+            "Northridge, LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Kitware",
+        "id": "972aaf2e-6024-46ba-bc91-de6d90cd5724",
+        "title": "Full Stack Web Developer Internship",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1702081119,
+        "date_posted": 1702081119,
+        "url": "https://jobs.lever.co/kitware/5c4f1745-2ebd-49bc-b31c-05de9a3a5c8b/apply",
+        "locations": [
+            "Clifton Park, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Kitware",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Kitware",
+        "id": "15ebe41f-9748-4f3f-9b97-d8887fc09db0",
+        "title": "Full Stack Web Developer Internship",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1702081118,
+        "date_posted": 1702081118,
+        "url": "https://jobs.lever.co/kitware/ea2b148b-abd9-48b9-b0d1-496d3c0e5a51/apply",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Kitware",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Toyota Research Institute",
+        "id": "95bbed30-2135-40de-8ce7-f1179eff36eb",
+        "title": "ML for Disordered Materials Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1702081073,
+        "date_posted": 1702081073,
+        "url": "https://jobs.lever.co/tri/10c7e756-5d60-48ae-b78e-eefc8b4a5d45/apply",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Toyota-Research-Institute",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Live Nation Entertainment",
+        "id": "f33e7b29-8f89-4e95-8eb9-ed4a96ddb238",
+        "title": "LN Concerts \u2013 Analytics Intern - Ticketing & Pricing",
+        "active": true,
+        "terms": [
+            "Spring 2024"
+        ],
+        "date_updated": 1702080947,
+        "date_posted": 1702080947,
+        "url": "https://livenation.wd1.myworkdayjobs.com/en-US/LNExternalSite/job/Chicago-IL-USA/LN-Concerts--Analytics-Intern---Ticketing---Pricing_JR-64617",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Live-Nation-Entertainment",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Uber",
+        "id": "0562f7e4-ceb4-4b8b-ac0a-604a2980c68e",
+        "title": "2024 Data Scientist Intern - United States",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1702080853,
+        "date_posted": 1702080853,
+        "url": "https://www.uber.com/global/en/careers/list/127100/",
+        "locations": [
+            "SF",
+            "NYC",
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Uber",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Leidos",
+        "id": "3b33cb75-606d-47b9-8bf6-865d801b38e9",
+        "title": "Electronic Warfare Modeling & Simulation Intern - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1702080777,
+        "date_posted": 1702080777,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Electronic-Warfare-Modeling---Simulation-Intern---Summer-2024_R-00124770",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Uber",
+        "id": "f5b6fc57-5200-4beb-ac60-f9b08cead296",
+        "title": "2024 Data Scientist Intern - United States",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1702080768,
+        "date_posted": 1702080768,
+        "url": "https://university-uber.icims.com/jobs/127100/job",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Uber",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Recursion Pharmaceuticals",
+        "id": "516855e8-6fc4-4840-8060-2be1b069b527",
+        "title": "Analytical Chemistry Intern - 2024",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1702080394,
+        "date_posted": 1702080394,
+        "url": "https://boards.greenhouse.io/recursionpharmaceuticals/jobs/5558224",
+        "locations": [
+            "Salt Lake City, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/RecursionPharma",
         "is_visible": true,
         "sponsorship": "Other"
     }
