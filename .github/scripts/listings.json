@@ -4740,7 +4740,7 @@
         "company_name": "Palantir",
         "id": "d0302d05-c84f-4a36-a91e-cc293f08604e",
         "title": "Software Engineer \u2013 Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -5634,7 +5634,7 @@
         "company_name": "Palantir",
         "id": "0f0aeb67-6d9f-4204-85d7-29cb04386943",
         "title": "Software Engineer \u2013 Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -34501,7 +34501,7 @@
         "company_name": "iCapital Network",
         "id": "9294cf9f-0159-4d5f-9328-747ea37a3e38",
         "title": "ML Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2023",
             "Winter 2024"
@@ -43303,7 +43303,7 @@
         "company_name": "Brave",
         "id": "b031e99b-9f94-4f4b-acfd-f4d276c54390",
         "title": "Web3 Developer Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -43650,7 +43650,7 @@
         "company_name": "Apptronik",
         "id": "a05a7e22-c7d0-49f5-a196-ba36209730c4",
         "title": "Software Engineer Intern - Autonomy - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -43669,7 +43669,7 @@
         "company_name": "Apptronik",
         "id": "37b7d970-da92-42ec-8c92-4e142614162e",
         "title": "Software Engineer Intern - Devops - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -43688,7 +43688,7 @@
         "company_name": "Apptronik",
         "id": "c146a5fd-db95-4842-8be0-e2fc9498ec3e",
         "title": "Software Engineer Intern - Platform - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -43726,7 +43726,7 @@
         "company_name": "Apptronik",
         "id": "c74cabe1-f6bd-4f01-b289-10de7047b04e",
         "title": "Software Engineer Intern - Test - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -43804,7 +43804,7 @@
         "company_name": "Two Six Technologies",
         "id": "c997bfe6-dae3-4fcb-96b3-be3eb6660847",
         "title": "Cybersecurity Summer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -43823,7 +43823,7 @@
         "company_name": "Astranis",
         "id": "0e3053ad-c034-4318-92f3-d730de98b59d",
         "title": "Full Stack Developer \u2013 Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -43842,7 +43842,7 @@
         "company_name": "Astranis",
         "id": "24fc97fa-bb12-4d6f-a82b-7f781152308f",
         "title": "Full Stack Developer \u2013 Intern - Winter 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2024"
         ],
@@ -43861,7 +43861,7 @@
         "company_name": "Astranis",
         "id": "f04c4d51-1f9c-4a8b-88ed-ea1dab4223fe",
         "title": "Full Stack Developer \u2013 Intern - Spring 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024"
         ],
@@ -44364,7 +44364,7 @@
         "company_name": "Quantcast",
         "id": "4312eb22-52da-40b2-a6db-7d9dce16a7e5",
         "title": "Software Engineering Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
