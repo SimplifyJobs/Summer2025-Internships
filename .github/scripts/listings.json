@@ -44759,5 +44759,43 @@
         "company_url": "https://simplify.jobs/c/RecursionPharma",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Ripple",
+        "id": "ccf71d3a-84ba-418e-8f7c-f5569afc8fad",
+        "title": "Software Engineer Intern - Crypto Compliance & Finance - Summer",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1702110060,
+        "date_posted": 1702110060,
+        "url": "https://ripple.com/careers/all-jobs/job/5558121?gh_jid=5558121",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Ripple",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Lucid Motors",
+        "id": "c96ce3cb-bccf-4280-abb8-4acd29fb206e",
+        "title": "Intern \u2013 Data Analyst - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1702109117,
+        "date_posted": 1702109117,
+        "url": "https://jobs.lever.co/lucidmotors/e7bf8f40-a0df-4eef-aace-efdba0969ac1/apply",
+        "locations": [
+            "Newark, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Lucid-Motors",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
