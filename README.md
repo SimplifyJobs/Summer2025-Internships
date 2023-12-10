@@ -1608,7 +1608,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | Protective | Technology Summer Internship | Birmingham, AL | <a href="https://jobs.lever.co/protective/2761edea-63bc-4be7-8b48-6e925c1be3f8/?lever-source%5B%5D=DiversityJobs&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 28 |
 | **[StackAdapt](https://simplify.jobs/c/StackAdapt)** | Software Engineer Intern - Backend | Canada | 🔒 | Jul 27 |
 | **[Rockwell Automation](https://simplify.jobs/c/Rockwell-Automation)** | Data Engineer Co-op/Intern - Fiix Software | Toronto, ON, Canada | 🔒 | Jul 27 |
-| PepsiCo | Software Development & Engineering Intern  🛂 | Purchase, NY <br> Plano, TX | <a href="https://www.pepsicojobs.com/internshipsprograms/jobs/241240?lang=en-us&previousLocale=en-US&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 27 |
+| PepsiCo | Software Development & Engineering Intern  | Purchase, NY <br> Plano, TX | 🔒 | Jul 27 |
 | **[Intel](https://simplify.jobs/c/Intel)** | Design Automation Intern | Austin, TX | 🔒 | Jul 27 |
 | **[Asana Early Career Programs](https://simplify.jobs/c/Asana)** | Software Engineering Internship | NYC | 🔒 | Jul 27 |
 | US Bank | 2024 Software Engineering Summer Intern | Richfield, MN</br>Atlanta, GA | 🔒 | Jul 26 |
