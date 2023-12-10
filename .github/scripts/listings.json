@@ -44797,5 +44797,24 @@
         "company_url": "https://simplify.jobs/c/Lucid-Motors",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1702228935,
+        "url": "https://careers.tiktok.com/position/7308839879797770522/detail",
+        "company_name": "TikTok",
+        "title": "Site Reliability Engineer Intern (Monetization Product and Technology SRE)",
+        "locations": [
+            "San Jose"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "Frostfire25",
+        "id": "14f72c0c-83b9-46ac-b4b6-dc05fee20ab9",
+        "date_posted": 1702228935,
+        "company_url": "",
+        "is_visible": true
     }
 ]
