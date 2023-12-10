@@ -468,7 +468,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | **[Two Six Technologies](https://simplify.jobs/c/Two-Six-Technologies)** | China SME Intern | Remote in USA | Fall 2023 | 🔒 | Aug 07 |
 | **[OpenFin](https://simplify.jobs/c/OpenFin)** | Engineering Intern | NYC | Spring 2023 | 🔒 | Aug 07 |
 | ↳ | Engineering Intern | London, UK | Spring 2023 | 🔒 | Aug 07 |
-| Tesla | Software Automation Engineering Intern - Cell Manufacturing | Palo Alto, CA | Spring 2024, Summer 2024 | <a href="https://www.tesla.com/careers/search/job/cell-manufacturing-controls-and-software-automation-engineering-internship-spring-summer-2024-206610?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 05 |
+| Tesla | Software Automation Engineering Intern - Cell Manufacturing | Palo Alto, CA | Spring 2024, Summer 2024 | 🔒 | Aug 05 |
 | ↳ | Software Engineering & Machine Learning Intern - Vehicle Hardware | Palo Alto, CA | Spring 2024, Summer 2024 | 🔒 | Aug 05 |
 | **[Databricks](https://simplify.jobs/c/Databricks)** | Software Engineering Intern | Mountain View, CA</br>San Francisco, CA</br>Bellevue, WA | Winter 2024, Summer 2024 | <a href="https://www.databricks.com/company/careers/open-positions?department=University%20Recruiting&location=AMER&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 04 |
 | **[Asana Early Career Programs](https://simplify.jobs/c/Asana)** | SF Winter Software Engineering Internship | SF | Winter 2024 | 🔒 | Aug 03 |
