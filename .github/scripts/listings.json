@@ -44611,7 +44611,7 @@
         "company_name": "Kitware",
         "id": "972aaf2e-6024-46ba-bc91-de6d90cd5724",
         "title": "Full Stack Web Developer Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -44630,7 +44630,7 @@
         "company_name": "Kitware",
         "id": "15ebe41f-9748-4f3f-9b97-d8887fc09db0",
         "title": "Full Stack Web Developer Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
