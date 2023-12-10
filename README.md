@@ -1777,8 +1777,8 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | Morgan Stanley | 2024 Technology Summer Analyst Program (Alpharetta) | Alpharetta, GA | 🔒 | May 2023 |
 | ↳ | Technology Summer Analyst Program | NYC | 🔒 | May 2023 |
 | BNP | Software Engineering Intern | Jersey City, NJ | 🔒 | May 2023 |
-| **[DRW](https://simplify.jobs/c/DRW)** | Software Developer Intern  | Austin, TX</br>Chicago, IL | <a href="https://drw.com/work-at-drw/listings/software-developer-intern-2567189?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 2023 |
-| ↳ | Quantitative Trading Analyst Intern | Austin, TX</br>Chicago, IL | <a href="https://drw.com/work-at-drw/listings/quantitative-trading-analyst-intern-2551092?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 2023 |
+| **[DRW](https://simplify.jobs/c/DRW)** | Quantitative Trading Analyst Intern | Austin, TX</br>Chicago, IL | <a href="https://drw.com/work-at-drw/listings/quantitative-trading-analyst-intern-2551092?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 2023 |
+| ↳ | Software Developer Intern  | Austin, TX</br>Chicago, IL | 🔒 | May 2023 |
 | ↳ | Site Reliability Engineer Intern	 | Austin, TX Chicago, IL | 🔒 | May 2023 |
 | Intuit | Summer Internship Interest | Multiple Locations | <a href="https://talenteq.intuit.com/ucs?cid=elq-form_hs_698061_US_UR-FY23_lg_iac-msg4_link_intuit-talentmktg&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 2023 |
 | Truist | Technology and Innovation Internship | Charlotte, NC</br>Atlanta, GA | 🔒 | May 2023 |

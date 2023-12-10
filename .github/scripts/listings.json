@@ -640,12 +640,12 @@
         "terms": [
             "Summer 2024"
         ],
-        "active": true,
+        "active": false,
         "url": "https://drw.com/work-at-drw/listings/software-developer-intern-2567189",
         "is_visible": true,
         "source": "Markdown",
         "company_url": "https://simplify.jobs/c/DRW",
-        "date_updated": 1690430400,
+        "date_updated": 1702178079,
         "id": "3e2f70ad-e3ba-4744-88a0-6efd71b7de71",
         "sponsorship": "Other"
     },
