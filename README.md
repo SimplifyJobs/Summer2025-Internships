@@ -1767,7 +1767,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | Crestron | Internship Program | Plano, TX</br>Rockleigh, NJ | 🔒 | Jun 2023 |
 | Cherry Bekaert	 | Cybersecurity Intern	 | Multiple Locations | 🔒 | Jun 2023 |
 | Cherry Bekaert | Digital Platform & Analytics Intern | Multiple Locations | 🔒 | Jun 2023 |
-| Caterpillar | Software Engineering Intern | Multiple Locations | <a href="https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/details/XMLNAME-2024-Summer-Corporate-Intern---Engineering_R0000211130?q=Engineering&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 2023 |
+| Caterpillar | Software Engineering Intern | Multiple Locations | 🔒 | Jun 2023 |
 | Wabtec Corporation | Software Engineering Intern  🛂 | Erie, PA</br>Fort Worth, TX | <a href="https://wabtec.wd1.myworkdayjobs.com/wabtec_careers/job/Erie-PA/Summer-2024-Engineering-Internship_R0075202?source=LinkedIn_corporate_page&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 2023 |
 | **[Global Atlantic Financial Group](https://simplify.jobs/c/GlobalAtlantic)** | Quantitative Investment Intern  🛂 | NYC | <a href="https://boards.greenhouse.io/gainternships/jobs/5150526?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/8e38d56c-af8a-4db0-bee2-e395e8421b95?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jun 2023 |
 | Royal Bank of Canada | Quantitative Technology Services Intern | Jersey City, NJ | 🔒 | Jun 2023 |
