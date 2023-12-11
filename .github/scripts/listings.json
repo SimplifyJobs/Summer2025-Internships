@@ -19975,7 +19975,7 @@
         "company_name": "Dev Technology Group",
         "id": "094586a2-53f3-445a-bea1-da87f1cbe8dd",
         "title": "Microsoft Powerapps Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -31820,7 +31820,7 @@
         "company_name": "Leidos",
         "id": "e36b7c25-1b3d-458f-9a97-5ccf9c3e17b6",
         "title": "Data Scientist Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -44816,5 +44816,24 @@
         "date_posted": 1702228935,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "TalentWerx",
+        "id": "bfe6b4dc-55ad-431d-a806-b458a8a8da63",
+        "title": "E01 Full Stack Software Developer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1702315305,
+        "date_posted": 1702315305,
+        "url": "https://jobs.lever.co/talentwerx.io/de6f786f-8956-4d40-9ab4-e623ad17b6ba/apply",
+        "locations": [
+            "Remote"
+        ],
+        "company_url": "https://simplify.jobs/c/TalentWerx",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
