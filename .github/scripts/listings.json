@@ -1345,7 +1345,7 @@
         "company_name": "WebFX",
         "id": "e71bb9b3-5926-47b0-974d-9a79703b84b8",
         "title": "Business Data Analyst Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -6254,7 +6254,7 @@
         "company_name": "Virtu Financial",
         "id": "02ba6e71-e2ca-4b7e-8b4a-54e3226e1eef",
         "title": "Internship - Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -40772,7 +40772,7 @@
         "company_name": "Allegiant Air",
         "id": "c32362af-c844-4def-b6c3-0f30633b48f5",
         "title": "Intern \u2013 Revenue Management - Spring 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024"
         ],
@@ -41538,7 +41538,7 @@
         "company_name": "Discord",
         "id": "ab19206e-db44-4c12-bcd8-5fff00560dad",
         "title": "Software Engineer-Client Platforms Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -42519,7 +42519,7 @@
         "company_name": "Element Biosciences",
         "id": "35ec7181-29e6-44f7-a62b-80ceb730c4fe",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -44822,7 +44822,7 @@
         "company_name": "TalentWerx",
         "id": "bfe6b4dc-55ad-431d-a806-b458a8a8da63",
         "title": "E01 Full Stack Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -44833,6 +44833,295 @@
             "Remote"
         ],
         "company_url": "https://simplify.jobs/c/TalentWerx",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Formlabs",
+        "id": "8ea42646-e5f9-40e6-a9d6-a39c517b4242",
+        "title": "Full Stack Software Intern - Winter/Spring 2024",
+        "active": true,
+        "terms": [
+            "Winter 2025",
+            "Spring 2025"
+        ],
+        "date_updated": 1702340611,
+        "date_posted": 1702340611,
+        "url": "https://careers.formlabs.com/job/5372325/apply/?gh_jid=5372325",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Formlabs",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Modernizing Medicine",
+        "id": "f27d5247-153c-4b3d-b5b8-bc590e1258b5",
+        "title": "Java/Angular Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1702340249,
+        "date_posted": 1702340249,
+        "url": "https://www.modmed.com/company/careers/?gh_jid=7026929002",
+        "locations": [
+            "Boca Raton, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/ModMed",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Modernizing Medicine",
+        "id": "de3c2fac-724b-4713-aba0-02a5a8d100f7",
+        "title": "Web Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1702340249,
+        "date_posted": 1702340249,
+        "url": "https://www.modmed.com/company/careers/?gh_jid=7029256002",
+        "locations": [
+            "Boca Raton, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/ModMed",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Modernizing Medicine",
+        "id": "d4670a01-1cb0-447c-9595-499b070b628d",
+        "title": "Backend Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1702340248,
+        "date_posted": 1702340248,
+        "url": "https://www.modmed.com/company/careers/?gh_jid=7027146002",
+        "locations": [
+            "Boca Raton, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/ModMed",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Modernizing Medicine",
+        "id": "c5af5aed-68cc-40d1-80bf-5ebb4deb4657",
+        "title": "Mmpm Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1702340249,
+        "date_posted": 1702340249,
+        "url": "https://www.modmed.com/company/careers/?gh_jid=7025875002",
+        "locations": [
+            "Boca Raton, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/ModMed",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Modernizing Medicine",
+        "id": "98997d4e-2b06-49b3-9850-0d4c79368eb4",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1702340251,
+        "date_posted": 1702340251,
+        "url": "https://www.modmed.com/company/careers/?gh_jid=7029231002",
+        "locations": [
+            "Boca Raton, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/ModMed",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Modernizing Medicine",
+        "id": "46f5e75d-4c9c-4bb0-ba20-f7d7efa117da",
+        "title": "Java Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1702340248,
+        "date_posted": 1702340248,
+        "url": "https://www.modmed.com/company/careers/?gh_jid=7025842002",
+        "locations": [
+            "Boca Raton, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/ModMed",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Modernizing Medicine",
+        "id": "44c59f52-8a4c-4f72-8a37-1ff6a96e891f",
+        "title": "Software Engineering Intern - Integrations & Interoperability",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1702340251,
+        "date_posted": 1702340251,
+        "url": "https://www.modmed.com/company/careers/?gh_jid=7027645002",
+        "locations": [
+            "Boca Raton, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/ModMed",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Modernizing Medicine",
+        "id": "30bbbce0-351c-4dec-a6c5-002d2a81d24b",
+        "title": "Klara Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1702340250,
+        "date_posted": 1702340250,
+        "url": "https://www.modmed.com/company/careers/?gh_jid=7029055002",
+        "locations": [
+            "Boca Raton, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/ModMed",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Uber",
+        "id": "34fb3616-15bc-49ce-8a10-dcf4691ce1e1",
+        "title": "2024 Software Engineering Uberstar Internship - University of Michigan",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1702340073,
+        "date_posted": 1702340073,
+        "url": "https://www.uber.com/global/en/careers/list/127070/",
+        "locations": [
+            "Seattle, WA",
+            "SF",
+            "NYC",
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Uber",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Xylem",
+        "id": "6ba9c177-a001-412e-8e84-a08e6c4db1ea",
+        "title": "Data Science Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1702340024,
+        "date_posted": 1702340024,
+        "url": "https://jobs.jobvite.com/xylem/job/ot3aqfwQ?nl=1&nl=1&fr=false",
+        "locations": [
+            "Morrisville, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Xylem",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Leidos",
+        "id": "f61597e4-c348-4f6d-8864-6c4f50d11ada",
+        "title": "Cyber Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1702340015,
+        "date_posted": 1702340015,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Columbia-MD/Cyber-Analyst-Intern_R-00124565",
+        "locations": [
+            "Columbia, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Leidos",
+        "id": "74d4b7e6-3dc1-421f-b9ce-198b9fef740b",
+        "title": "Threat Weapon System Modeling & Simulation Engineer/Scientist Intern",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1702340008,
+        "date_posted": 1702340008,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Threat-Weapon-System-Modeling---Simulation-Engineer-Scientist-Intern_R-00124850",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Uber",
+        "id": "b0f1881b-675c-48b4-9aad-f39f971d2097",
+        "title": "2024 Software Engineering Uberstar Internship - University of Michigan",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1702339945,
+        "date_posted": 1702339945,
+        "url": "https://university-uber.icims.com/jobs/127070/job",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Uber",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Strategic HR",
+        "id": "4f409895-4b64-482e-8343-f79320dc7d20",
+        "title": "2024 Summer Festival Internships",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1702347340,
+        "date_posted": 1701792481,
+        "url": "https://careers.strategichrinc.com/job-application/?gh_jid=5824967003",
+        "locations": [
+            "Cincinnati, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Strategic-HR",
         "is_visible": true,
         "sponsorship": "Other"
     }
