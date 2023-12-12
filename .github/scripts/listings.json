@@ -25886,7 +25886,7 @@
         "company_name": "Visa",
         "id": "11ea6661-efdf-4934-90c6-db717e02ebf0",
         "title": "Intern/Placement Software Engineer months",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -29699,7 +29699,7 @@
         "company_name": "DRW",
         "id": "1d558fe7-a75e-4744-a599-595d9e427d58",
         "title": "Accounts Payable Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -32595,7 +32595,7 @@
         "company_name": "Vectra",
         "id": "d465e0ea-1f77-414c-b227-142e0bbcdbfd",
         "title": "Data Engineering Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -35448,7 +35448,7 @@
         "company_name": "Shamrock Trading",
         "id": "18dc861b-4f2e-4c50-9b90-e903ef90ea49",
         "title": "Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
