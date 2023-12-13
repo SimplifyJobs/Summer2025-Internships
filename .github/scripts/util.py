@@ -142,7 +142,7 @@ def sortListings(listings):
 
     listings.sort(
         key=lambda x: (
-            not x["active"],  # Active listings first
+            x["active"],  # Active listings first
             datetime.fromtimestamp(x["date_posted"]),
             x['company_name'].lower(),
             x['date_updated']
