@@ -615,7 +615,7 @@
         "company_name": "DRW",
         "id": "e92174d9-1fbc-485d-a1f8-bd9d1cb94806",
         "title": "Quantitative Trading Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -15476,7 +15476,7 @@
         "company_name": "Viam",
         "id": "59aa4bfc-a2a7-4ad1-a58b-f5e3090c2905",
         "title": "Software Engineering Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -22074,7 +22074,7 @@
         "company_name": "Recorded Future",
         "id": "40f89d09-d901-454e-bdf2-2fd8a7675e76",
         "title": "Data Engineering Intern - Web Scraping",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2024",
             "Spring 2024",
@@ -35131,7 +35131,7 @@
         "company_name": "Walmart",
         "id": "22dfcb29-da4c-49e1-b263-4bc68d2c0082",
         "title": "2024 Summer Intern: Sam's Club MAP - Jr Business Intelligence Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -43611,7 +43611,7 @@
         "company_name": "Humane",
         "id": "e1cd9d70-abf1-4d34-b98b-0a914c1a1451",
         "title": "Software Engineering Intern - Device Experiences",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2023",
             "Summer 2023"
@@ -45122,6 +45122,103 @@
             "Cincinnati, OH"
         ],
         "company_url": "https://simplify.jobs/c/Strategic-HR",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Anduril",
+        "id": "5299320b-85ae-4cce-b2c1-84539295a5a1",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1702427017,
+        "date_posted": 1702427017,
+        "url": "https://boards.greenhouse.io/andurilindustries/jobs/4162342007",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Anduril",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "SentinelOne",
+        "id": "498523e4-a86d-4f98-8a57-ecc92c9d3c2d",
+        "title": "Data Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1702426876,
+        "date_posted": 1702426876,
+        "url": "https://www.sentinelone.com/jobs/5818536003?gh_jid=5818536003",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/SentinelOne",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "WillowTree",
+        "id": "20a17e89-add2-42ab-ba69-b550fa63a262",
+        "title": "Data Science Intern - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1702426803,
+        "date_posted": 1702426803,
+        "url": "https://boards.greenhouse.io/willowtree/jobs/6968976002",
+        "locations": [
+            "Durham, NC",
+            "Columbus, OH",
+            "Charlottesville, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/WillowTree",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Voltus",
+        "id": "9dcde1b4-37ad-4121-9483-95c51f37dbe2",
+        "title": "Energy Markets Intern - Miso",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1702426457,
+        "date_posted": 1702426457,
+        "url": "https://jobs.lever.co/voltus/4e61373d-53fa-46fd-82b7-7ee6ec21d46b/apply",
+        "locations": [
+            "Remote"
+        ],
+        "company_url": "https://simplify.jobs/c/Voltus",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Minitab",
+        "id": "d9fe6cf1-253a-4f94-a2ae-0898a85cb936",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1702426080,
+        "date_posted": 1702426080,
+        "url": "https://boards.greenhouse.io/minitab/jobs/5832302003",
+        "locations": [
+            "State College, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Minitab",
         "is_visible": true,
         "sponsorship": "Other"
     }
