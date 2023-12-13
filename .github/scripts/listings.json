@@ -8138,7 +8138,7 @@
         "company_name": "Palantir",
         "id": "b9a66fc7-950d-4574-abc7-4b409156948b",
         "title": "Software Engineer \u2013 Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -9409,7 +9409,7 @@
         "company_name": "Athelas",
         "id": "a81239e9-ce73-4ea2-aa30-1cf8ca5453d4",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -16928,7 +16928,7 @@
         "company_name": "Plexus",
         "id": "18bd6f56-e481-46da-af77-6a2d88bc5465",
         "title": "Intern \u2013 Software Engineer-Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -20032,7 +20032,7 @@
         "company_name": "Desktop Metal",
         "id": "d914fbf0-c8e9-421e-93f7-68451f64dcbb",
         "title": "Co-Op \u2013 Application Engineer - 3D Printing",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2024",
             "Spring 2024",
@@ -21899,7 +21899,7 @@
         "company_name": "Splunk",
         "id": "b9aef6ba-447a-4aae-905d-76a9b113647a",
         "title": "Software Engineer Co-op - Backend/Full-stack - Remote Canada - Winter 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2024"
         ],
@@ -21997,7 +21997,7 @@
         "company_name": "Thrivent",
         "id": "49370574-213c-4ec3-8fc6-83dd8a67077d",
         "title": "Software Developer Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -24580,7 +24580,7 @@
         "company_name": "iRobot",
         "id": "fafccaa5-9c33-49f3-a1ab-6511b212268b",
         "title": "January-June 2024: Hardware Automation Engineering Intern - Undergraduate",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025",
             "Spring 2025",
@@ -44784,7 +44784,7 @@
         "company_name": "Lucid Motors",
         "id": "c96ce3cb-bccf-4280-abb8-4acd29fb206e",
         "title": "Intern \u2013 Data Analyst - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -45035,7 +45035,7 @@
         "company_name": "Xylem",
         "id": "6ba9c177-a001-412e-8e84-a08e6c4db1ea",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
