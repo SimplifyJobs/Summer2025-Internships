@@ -44535,7 +44535,7 @@
         "company_name": "Lucid Motors",
         "id": "10d06919-edf5-446c-8ff5-e1df8f2eb75f",
         "title": "Intern \u2013 Atlassian Platform Engineer - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -45092,7 +45092,7 @@
         "company_name": "Uber",
         "id": "b0f1881b-675c-48b4-9aad-f39f971d2097",
         "title": "2024 Software Engineering Uberstar Internship - University of Michigan",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -45219,6 +45219,63 @@
             "State College, PA"
         ],
         "company_url": "https://simplify.jobs/c/Minitab",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Quantcast",
+        "id": "7459378b-c706-4096-9bd3-cd277eb5b00a",
+        "title": "Software Engineering Intern - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1702490059,
+        "date_posted": 1702490059,
+        "url": "https://jobs.lever.co/quantcast/30055553-6f06-4d54-ae63-bc474009754c/apply",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Quantcast",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Hewlett Packard (HP)",
+        "id": "a9047824-4837-49ba-b43a-0ed191e26cfb",
+        "title": "Software Engineer Intern-HP Wolf Security",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1702489890,
+        "date_posted": 1702489890,
+        "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Cambridge-Cambridgeshire-United-Kingdom/Software-Engineer-Intern--HP-Wolf-Security_3125478-2",
+        "locations": [
+            "Cambridge, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Two Six Technologies",
+        "id": "a7536a6d-0bbe-4076-aa60-29254234684b",
+        "title": "Research Intern - High Assurance Solutions",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1702489438,
+        "date_posted": 1702489438,
+        "url": "https://boards.greenhouse.io/twosixtechnologies/jobs/5036954004",
+        "locations": [
+            "Arlington, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Two-Six-Technologies",
         "is_visible": true,
         "sponsorship": "Other"
     }
