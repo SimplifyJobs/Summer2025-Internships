@@ -1669,7 +1669,7 @@
         "company_name": "Formlabs",
         "id": "44206dc8-396d-489f-bbbd-8b874a30ebcf",
         "title": "Embedded Software Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2023"
         ],
@@ -27882,7 +27882,7 @@
         "company_name": "Sanctuary AI",
         "id": "6f262dcc-aa0d-4e83-a3c4-de56aa8f7446",
         "title": "Hardware Co-op: Firmware Engineering - January 2024 term",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2024"
         ],
@@ -45295,6 +45295,82 @@
             "Washington, DC"
         ],
         "company_url": "https://simplify.jobs/c/DNC",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Hewlett Packard (HP)",
+        "id": "d1ffe6dc-1c56-4f68-babd-1a217689815d",
+        "title": "D&TO Software AI Intern Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1702512949,
+        "date_posted": 1702512949,
+        "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Corvallis-Oregon-United-States-of-America/D-TO-Software-AI-Intern-Summer-2024_3125252-1",
+        "locations": [
+            "Corvallis, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Kumo",
+        "id": "9ac6142e-fd92-47d7-943f-adae2e5c35c5",
+        "title": "Software Engineering \u2013 Summer Internship 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1702512320,
+        "date_posted": 1702512320,
+        "url": "https://jobs.lever.co/kumo/d01cc073-5ec4-46a6-9af9-fbc4c4d2b53f/apply",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Kumo",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Farallon Capital Management",
+        "id": "9457e85d-ef37-4a76-832d-8a27b218aba9",
+        "title": "Intern \u2013 Trading Operations - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1702519492,
+        "date_posted": 1702454975,
+        "url": "https://boards.greenhouse.io/faralloncapitalmanagementllc/jobs/5832855003",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Farallon",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Red Ventures",
+        "id": "44082158-dcc0-44a7-8c05-1ae5b438f3e3",
+        "title": "2024 Launch Program: Business Analytics Associate Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1702520175,
+        "date_posted": 1698073561,
+        "url": "https://www.redventures.com/careers/apply/5456580?gh_jid=5456580",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Red-Ventures",
         "is_visible": true,
         "sponsorship": "Other"
     }
