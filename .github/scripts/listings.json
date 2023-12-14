@@ -867,7 +867,7 @@
         "company_name": "Fetch",
         "id": "43f05610-37a1-46e4-b221-df988084364e",
         "title": "iOS Apprenticeship - Mobile Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -15708,7 +15708,7 @@
         "company_name": "Accenture Federal Services",
         "id": "b17ae975-780a-43a8-b8d9-9777e55aff1f",
         "title": "Summer Analyst",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2023"
         ],
@@ -24902,7 +24902,7 @@
         "company_name": "Bridgewater Associates",
         "id": "328683e6-519f-4e0c-97c1-5237c57176cd",
         "title": "Investment Engineer Intern - Summer 2024",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -24940,7 +24940,7 @@
         "company_name": "Optiver",
         "id": "4cb3632f-a207-48af-bfef-bb5be6642d3f",
         "title": "Campus: Software Engineer Intern - Summer 2024 - Austin",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -25035,7 +25035,7 @@
         "company_name": "Optiver",
         "id": "1c0a9a89-a534-4246-8d4b-bf08b4728317",
         "title": "Campus: Quantitative Trader Intern - Summer 2024 - Chicago",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -45409,6 +45409,44 @@
             "Toronto, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/AsteraLabs",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Global Atlantic Financial Group",
+        "id": "01a61db7-4134-4b24-bc2a-ada47b7e83d6",
+        "title": "2024 Market Development Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1702576632,
+        "date_posted": 1702576632,
+        "url": "https://boards.greenhouse.io/gainternships/jobs/5389910",
+        "locations": [
+            "Des Moines, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/GlobalAtlantic",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Hugging Face",
+        "id": "db26ac0f-5b43-43f3-be9b-713423e2b632",
+        "title": "Machine Learning Engineer Internship - Alignment - Remote",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1702575955,
+        "date_posted": 1702575955,
+        "url": "https://apply.workable.com/huggingface/j/90CA057D65/apply",
+        "locations": [
+            "Remote"
+        ],
+        "company_url": "https://simplify.jobs/c/Hugging-Face",
         "is_visible": true,
         "sponsorship": "Other"
     }
