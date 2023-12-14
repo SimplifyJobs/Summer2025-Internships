@@ -17791,7 +17791,7 @@
         "company_name": "AeroVect",
         "id": "42e05c24-b77d-45ce-ab36-97be8e968fe4",
         "title": "Infrastructure Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2024"
         ],
@@ -44687,7 +44687,7 @@
         "company_name": "Uber",
         "id": "0562f7e4-ceb4-4b8b-ac0a-604a2980c68e",
         "title": "2024 Data Scientist Intern - United States",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -44727,7 +44727,7 @@
         "company_name": "Uber",
         "id": "f5b6fc57-5200-4beb-ac60-f9b08cead296",
         "title": "2024 Data Scientist Intern - United States",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -45276,6 +45276,25 @@
             "Arlington, VA"
         ],
         "company_url": "https://simplify.jobs/c/Two-Six-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Democratic National Committee (DNC)",
+        "id": "92554153-2da0-4ed4-b29c-13cd42fe77e7",
+        "title": "Spring 2024: DNC Technology Internship",
+        "active": true,
+        "terms": [
+            "Spring 2024"
+        ],
+        "date_updated": 1702498604,
+        "date_posted": 1701357344,
+        "url": "https://jobs.lever.co/dnc/1b6d31e3-6547-4a23-ba76-38c32ab46144/apply",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/DNC",
         "is_visible": true,
         "sponsorship": "Other"
     }
