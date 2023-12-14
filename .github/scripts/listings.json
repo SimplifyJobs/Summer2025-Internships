@@ -45373,5 +45373,43 @@
         "company_url": "https://simplify.jobs/c/Red-Ventures",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Machina Labs",
+        "id": "0bdd75f6-a9ec-4d03-a6fe-77338b005958",
+        "title": "Software Engineering Internship",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1702541911,
+        "date_posted": 1702541911,
+        "url": "https://jobs.lever.co/MachinaLabs/29cc11ac-27a7-4a3a-a392-6c945ab64cbb/apply",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/MachinaLabs",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Astera Labs",
+        "id": "585b8b95-4fe8-47f3-a658-e292d414913b",
+        "title": "Software Engineer \u2013 Internship",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1702541834,
+        "date_posted": 1702541834,
+        "url": "https://boards.greenhouse.io/asteralabs/jobs/4193500005",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/AsteraLabs",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
