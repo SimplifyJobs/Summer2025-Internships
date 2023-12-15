@@ -45449,5 +45449,24 @@
         "company_url": "https://simplify.jobs/c/Hugging-Face",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1702598720,
+        "url": "https://www.coinbase.com/careers/positions/5462592?gh_jid=5462592&gh_src=20687b321us",
+        "company_name": "Coinbase",
+        "title": "Integration Engineer Intern",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "ankithreddypati",
+        "id": "5dbd6b68-e0d0-4f9c-9038-47eb2c1ae7ba",
+        "date_posted": 1702598720,
+        "company_url": "",
+        "is_visible": true
     }
 ]
