@@ -143,7 +143,11 @@ def sortListings(listings):
     listings.sort(
         key=lambda x: (
             x["active"],  # Active listings first
-            datetime.fromtimestamp(x["date_posted"]),
+            datetime(
+                datetime.fromtimestamp(x["date_posted"]).year,
+                datetime.fromtimestamp(x["date_posted"]).month,
+                datetime.fromtimestamp(x["date_posted"]).day
+            ),
             x['company_name'].lower(),
             x['date_updated']
         ),
