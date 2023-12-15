@@ -132,6 +132,7 @@ def filterOffSeason(listings):
 def sortListings(listings):
     oldestListingFromCompany = {}
     linkForCompany = {}
+
     for listing in listings:
         date_posted = listing["date_posted"]
         if listing["company_name"].lower() not in oldestListingFromCompany or oldestListingFromCompany[listing["company_name"].lower()] > date_posted:
@@ -141,13 +142,13 @@ def sortListings(listings):
 
     listings.sort(
         key=lambda x: (
+            x["active"],  # Active listings first
             datetime(
                 datetime.fromtimestamp(x["date_posted"]).year,
                 datetime.fromtimestamp(x["date_posted"]).month,
                 datetime.fromtimestamp(x["date_posted"]).day
             ),
             x['company_name'].lower(),
-            x["active"],
             x['date_updated']
         ),
         reverse=True
