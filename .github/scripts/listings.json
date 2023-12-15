@@ -6292,7 +6292,7 @@
         "company_name": "Ramp",
         "id": "5f9b7b9a-7021-40dd-b619-38d144e31a6b",
         "title": "Software Engineer Internship - Backend",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -12869,7 +12869,7 @@
         "company_name": "Hewlett Packard (HP)",
         "id": "9e05fa6e-42b6-4ac9-938e-6b09f9333186",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2023"
         ],
@@ -20592,7 +20592,7 @@
         "company_name": "Leidos",
         "id": "a6f1326c-1035-4bf3-9799-c370bd0ba976",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -28895,7 +28895,7 @@
         "company_name": "AppLovin",
         "id": "84d77082-d5a3-464f-b9f5-1f4b2820c8c3",
         "title": "Mobile Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -28914,7 +28914,7 @@
         "company_name": "AppLovin",
         "id": "77a25d45-2669-4b4f-83ab-5d05b29c5d35",
         "title": "Mobile Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -29661,7 +29661,7 @@
         "company_name": "Centerfield",
         "id": "6149828d-4c1f-441a-ada1-7a25554b7cb0",
         "title": "Software Engineer Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -31287,7 +31287,7 @@
         "company_name": "Shield AI",
         "id": "d4e295cd-a0c1-48ce-85d5-e47c113e4170",
         "title": "Sensing Engineering Intern - Summer 2024 - R2334",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -37123,7 +37123,7 @@
         "company_name": "Sentry",
         "id": "a8851914-2a7e-44f8-8977-5f89030535e8",
         "title": "Developer Relations \u2013 Intern - Devrel - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -38429,7 +38429,7 @@
         "company_name": "Sentry",
         "id": "c61d0718-a722-4beb-8f04-ff1ec593049f",
         "title": "Developer Relations \u2013 Intern - Devrel - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -42729,7 +42729,7 @@
         "company_name": "NVIDIA",
         "id": "e8912afe-7c92-439a-92d1-a3d27bc86080",
         "title": "Solutions Architect Intern - Financial Services Industry - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -45013,7 +45013,7 @@
         "company_name": "Uber",
         "id": "34fb3616-15bc-49ce-8a10-dcf4691ce1e1",
         "title": "2024 Software Engineering Uberstar Internship - University of Michigan",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -45468,5 +45468,84 @@
         "date_posted": 1702598720,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "HashiCorp",
+        "id": "3bea035f-04fe-4c39-ad66-e6c2d93de41e",
+        "title": "Product Design Intern - Undergraduate",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1702599973,
+        "date_posted": 1702599973,
+        "url": "https://www.hashicorp.com/career/5473657?gh_jid=5473657",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/HashiCorp",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Netflix",
+        "id": "bd1099cd-8da9-463e-967d-6b68c0e5c42d",
+        "title": "Data Engineering Intern - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1702599791,
+        "date_posted": 1702599791,
+        "url": "https://jobs.lever.co/netflix/9b6379bc-cac9-462c-a03e-4b1ce26030cd/apply",
+        "locations": [
+            "Los Gatos, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Netflix",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Hugging Face",
+        "id": "40e0cd0b-6ebf-4d2b-a15c-bb5c17cb71f3",
+        "title": "Machine Learning Engineer Internship - Alignment - US Remote",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1702599779,
+        "date_posted": 1702599779,
+        "url": "https://apply.workable.com/huggingface/j/2295F28772/apply",
+        "locations": [
+            "Remote in USA",
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Hugging-Face",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "ServiceNow",
+        "id": "8a4d32de-1232-47e8-9bfe-bcd9390235d3",
+        "title": "Machine Learning Engineer Co-Op",
+        "active": true,
+        "terms": [
+            "Spring 2024",
+            "Summer 2024",
+            "Fall 2024"
+        ],
+        "date_updated": 1702599463,
+        "date_posted": 1702599463,
+        "url": "https://jobs.smartrecruiters.com/ServiceNow/743999951547376",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/ServiceNow",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
