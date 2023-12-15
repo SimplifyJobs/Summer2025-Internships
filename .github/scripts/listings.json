@@ -23978,7 +23978,7 @@
         "company_name": "CesiumAstro",
         "id": "e96513ce-ef5a-4162-bfbc-34293a41a252",
         "title": "Summer 2024 \u2013 Embedded Software Engineering Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -24902,7 +24902,7 @@
         "company_name": "Bridgewater Associates",
         "id": "328683e6-519f-4e0c-97c1-5237c57176cd",
         "title": "Investment Engineer Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -24940,7 +24940,7 @@
         "company_name": "Optiver",
         "id": "4cb3632f-a207-48af-bfef-bb5be6642d3f",
         "title": "Campus: Software Engineer Intern - Summer 2024 - Austin",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -25035,7 +25035,7 @@
         "company_name": "Optiver",
         "id": "1c0a9a89-a534-4246-8d4b-bf08b4728317",
         "title": "Campus: Quantitative Trader Intern - Summer 2024 - Chicago",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -26942,7 +26942,7 @@
         "company_name": "Zoox",
         "id": "b86622de-68b7-427a-a88b-cb4551632a3b",
         "title": "Safety Strategy Internship/Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024",
             "Summer 2024"
@@ -43113,7 +43113,7 @@
         "company_name": "Exostellar",
         "id": "44b068ee-8374-4e32-89c5-661429a3bd94",
         "title": "Software Engineer/Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -45584,6 +45584,28 @@
             "Palo Alto, CA"
         ],
         "company_url": "https://simplify.jobs/c/AppLovin",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "D2L",
+        "id": "e17c6cca-fd6f-416c-8757-f711f8286ceb",
+        "title": "Product Support Analyst Winter 2024 Co-op",
+        "active": true,
+        "terms": [
+            "Winter 2024"
+        ],
+        "date_updated": 1702653204,
+        "date_posted": 1694474347,
+        "url": "https://www.d2l.com/careers/jobs/?job_id=5358579&gh_jid=5358579",
+        "locations": [
+            "Winnipeg, MB, Canada",
+            "Toronto, ON, Canada",
+            "Kitchener, ON, Canada",
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/D2L",
         "is_visible": true,
         "sponsorship": "Other"
     }
