@@ -24902,7 +24902,7 @@
         "company_name": "Bridgewater Associates",
         "id": "328683e6-519f-4e0c-97c1-5237c57176cd",
         "title": "Investment Engineer Intern - Summer 2024",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -24940,7 +24940,7 @@
         "company_name": "Optiver",
         "id": "4cb3632f-a207-48af-bfef-bb5be6642d3f",
         "title": "Campus: Software Engineer Intern - Summer 2024 - Austin",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -25035,7 +25035,7 @@
         "company_name": "Optiver",
         "id": "1c0a9a89-a534-4246-8d4b-bf08b4728317",
         "title": "Campus: Quantitative Trader Intern - Summer 2024 - Chicago",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -27039,7 +27039,7 @@
         "company_name": "Parallel Systems",
         "id": "f9b19329-7d2c-4004-bf2b-a5ab29381817",
         "title": "Internship - Software Engineer - Summer 2024",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -45545,6 +45545,45 @@
             "Montreal, QC, Canada"
         ],
         "company_url": "https://simplify.jobs/c/ServiceNow",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Hugging Face",
+        "id": "5e096525-0663-4245-9ec6-5ed94436f5df",
+        "title": "ML Engineer Internship - Improve hardware efficiency - US Remote",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1702629184,
+        "date_posted": 1702629184,
+        "url": "https://apply.workable.com/huggingface/j/B4190F3BE4/apply",
+        "locations": [
+            "Remote in USA",
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Hugging-Face",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "AppLovin",
+        "id": "4e899b59-b13c-4b58-ab10-268c96c4bb9c",
+        "title": "Mobile Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1702628561,
+        "date_posted": 1702628561,
+        "url": "https://boards.greenhouse.io/applovin/jobs/4303671006",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/AppLovin",
         "is_visible": true,
         "sponsorship": "Other"
     }
