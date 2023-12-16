@@ -5577,7 +5577,7 @@
         "company_name": "Palantir",
         "id": "0503901e-622f-4d1b-b7f9-29d44e59eaab",
         "title": "Forward Deployed Software Engineer \u2013 Internship - US Government",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -9350,7 +9350,7 @@
         "company_name": "Jump Trading",
         "id": "06f25b4d-f0b3-4ed2-a8d9-2c55cd10518a",
         "title": "Campus Intern QR",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -10328,7 +10328,7 @@
         "company_name": "Jump Trading",
         "id": "d2451682-3a7c-4860-99f9-866c4d87200f",
         "title": "Campus Quantitative Trader \u2013 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -11109,7 +11109,7 @@
         "company_name": "Epic Games",
         "id": "d2e866c6-9236-4ada-b644-7e6af79c9ec6",
         "title": "Core Programmer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2023"
         ],
@@ -19169,7 +19169,7 @@
         "company_name": "Valkyrie Trading",
         "id": "b580435b-85e2-4ae2-9172-21aeb60d2147",
         "title": "Quantitative Researcher Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -19745,7 +19745,7 @@
         "company_name": "Kodiak Robotics",
         "id": "8c1547f4-57e9-47b6-87f9-9b39a6f91346",
         "title": "Winter 2024 Intern - Deep Learning for Computer Vision",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2024"
         ],
@@ -20167,7 +20167,7 @@
         "company_name": "Bristol-Myers Squibb",
         "id": "1eae4a6e-4a34-4f8f-9be8-0c68ad9f4f91",
         "title": "Gene Delivery Process Development Intern or Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -20592,7 +20592,7 @@
         "company_name": "Leidos",
         "id": "a6f1326c-1035-4bf3-9799-c370bd0ba976",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -21514,7 +21514,7 @@
         "company_name": "Kodiak Robotics",
         "id": "7b742dec-2033-4fba-bca5-3e5328bc4a8d",
         "title": "Winter 2024 Intern - Data Science",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2024"
         ],
@@ -22074,7 +22074,7 @@
         "company_name": "Recorded Future",
         "id": "40f89d09-d901-454e-bdf2-2fd8a7675e76",
         "title": "Data Engineering Intern - Web Scraping",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2024",
             "Spring 2024",
@@ -31534,7 +31534,7 @@
         "company_name": "Two Six Technologies",
         "id": "c9d77e3a-cd2f-45ed-8cb4-6a30dfcd8df9",
         "title": "Deployed Systems Summer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2023"
         ],
@@ -43573,7 +43573,7 @@
         "company_name": "Visa",
         "id": "b547be08-6fdc-4aa2-953b-098c6616d991",
         "title": "Site Reliability Engineer \u2013 Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -43707,7 +43707,7 @@
         "company_name": "Apptronik",
         "id": "b0a08c82-f44b-4ec6-8a7c-7e79559bced4",
         "title": "Software Engineer Intern - Firmware - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -45111,7 +45111,7 @@
         "company_name": "Strategic HR",
         "id": "4f409895-4b64-482e-8343-f79320dc7d20",
         "title": "2024 Summer Festival Internships",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -45265,7 +45265,7 @@
         "company_name": "Two Six Technologies",
         "id": "a7536a6d-0bbe-4076-aa60-29254234684b",
         "title": "Research Intern - High Assurance Solutions",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -45606,6 +45606,63 @@
             "Vancouver, BC, Canada"
         ],
         "company_url": "https://simplify.jobs/c/D2L",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Anduril",
+        "id": "602d62cd-1b5a-4477-8c94-c081a70c75ba",
+        "title": "Quality Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1702664889,
+        "date_posted": 1702664889,
+        "url": "https://boards.greenhouse.io/andurilindustries/jobs/4163556007",
+        "locations": [
+            "Newport Beach, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Anduril",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Hugging Face",
+        "id": "1b326aed-05fa-46f1-a8b7-6ad41de5465f",
+        "title": "Machine Learning Engineer Internship - Computer Vision - Remote",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1702664397,
+        "date_posted": 1702664397,
+        "url": "https://apply.workable.com/huggingface/j/36F5AB0214/apply",
+        "locations": [
+            "Remote"
+        ],
+        "company_url": "https://simplify.jobs/c/Hugging-Face",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Mercedes-Benz",
+        "id": "de013bb8-e3cf-4985-89d9-b5d1c22b565e",
+        "title": "OBD Certification & Compliance Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1702664278,
+        "date_posted": 1702664278,
+        "url": "https://jobs.lever.co/MBRDNA/b03d87fb-cc99-4717-993c-ef08a6c5a0a8/apply",
+        "locations": [
+            "Southfield, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Mercedes-Benz",
         "is_visible": true,
         "sponsorship": "Other"
     }
