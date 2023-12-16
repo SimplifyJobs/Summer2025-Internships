@@ -33255,7 +33255,7 @@
         "company_name": "OCC",
         "id": "6cc65b6b-61c0-4ca2-8a43-39b7aebebe6d",
         "title": "Year-Round Intern - Security Engineering PAM",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -35112,7 +35112,7 @@
         "company_name": "Walmart",
         "id": "f28d0063-c2f2-42ea-aa02-94bb34cda5a4",
         "title": "2024 Summer Intern: Master\u2019s Sam's Club Supply Chain Data Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -45208,7 +45208,7 @@
         "company_name": "Minitab",
         "id": "d9fe6cf1-253a-4f94-a2ae-0898a85cb936",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -45663,6 +45663,44 @@
             "Southfield, MI"
         ],
         "company_url": "https://simplify.jobs/c/Mercedes-Benz",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Hugging Face",
+        "id": "3b37e33b-4351-4ba3-aced-78dac6180883",
+        "title": "ML Engineer Internship - Improve hardware efficiency - Remote",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1702686419,
+        "date_posted": 1702686419,
+        "url": "https://apply.workable.com/huggingface/j/518E0AB7C0/apply",
+        "locations": [
+            "Remote"
+        ],
+        "company_url": "https://simplify.jobs/c/Hugging-Face",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "TAE Technologies",
+        "id": "724d51a0-1f15-446e-8512-4828f82f5f53",
+        "title": "Physics Internship",
+        "active": true,
+        "terms": [
+            "Winter 2024"
+        ],
+        "date_updated": 1702686346,
+        "date_posted": 1702686346,
+        "url": "https://boards.greenhouse.io/taefusion60/jobs/4315154006",
+        "locations": [
+            "Lake Forest, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TAE-Tech",
         "is_visible": true,
         "sponsorship": "Other"
     }
