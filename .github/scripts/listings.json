@@ -45722,5 +45722,25 @@
         "company_url": "https://simplify.jobs/c/Hugging-Face",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Hugging Face",
+        "id": "768ac41b-11a6-435d-8a35-02675aa858e6",
+        "title": "Machine Learning Engineer Internship - Tokenizers & Maintenance - US Remote",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1702833693,
+        "date_posted": 1702833693,
+        "url": "https://apply.workable.com/huggingface/j/DB77EC837E/apply",
+        "locations": [
+            "Remote in USA",
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Hugging-Face",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
