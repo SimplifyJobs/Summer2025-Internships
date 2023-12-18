@@ -15189,7 +15189,7 @@
         "company_name": "Rockwell Automation",
         "id": "2d1a8260-a81c-4ec7-a73e-174388b1a5d5",
         "title": "Intern \u2013 Information Technology",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -19563,7 +19563,7 @@
         "company_name": "Activision-Blizzard",
         "id": "733ab333-6e2d-4ea5-b02f-65d91a57a570",
         "title": "2024 US Summer Internship - Computer Graphics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -24902,7 +24902,7 @@
         "company_name": "Bridgewater Associates",
         "id": "328683e6-519f-4e0c-97c1-5237c57176cd",
         "title": "Investment Engineer Intern - Summer 2024",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -24940,7 +24940,7 @@
         "company_name": "Optiver",
         "id": "4cb3632f-a207-48af-bfef-bb5be6642d3f",
         "title": "Campus: Software Engineer Intern - Summer 2024 - Austin",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -25035,7 +25035,7 @@
         "company_name": "Optiver",
         "id": "1c0a9a89-a534-4246-8d4b-bf08b4728317",
         "title": "Campus: Quantitative Trader Intern - Summer 2024 - Chicago",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -26767,7 +26767,7 @@
         "company_name": "Symbotic",
         "id": "72d686ae-ae16-431e-b49a-0c9c922a6dc6",
         "title": "\tIntern-Software Engineer - Cognitive Tools",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023",
             "Spring 2024",
@@ -31994,7 +31994,7 @@
         "company_name": "Autodesk",
         "id": "904bcdf0-cfa7-4c10-953d-399b8ed95610",
         "title": "Intern \u2013 Data Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024",
             "Summer 2024",
@@ -36867,7 +36867,7 @@
         "company_name": "PayPal",
         "id": "5f25a596-8cb9-42f8-8fcd-8f80b20a3a8c",
         "title": "Accounting Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2024",
             "Fall 2024"
@@ -38065,7 +38065,7 @@
         "company_name": "Elevance Health",
         "id": "c0cb26df-cd06-4abf-aee5-82986e0d1de5",
         "title": "Data Analyst Internship - Summer 2024 - Undergraduate",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -42710,7 +42710,7 @@
         "company_name": "Stryker",
         "id": "5a0e14a6-6a0d-4085-91d8-f1fd57ee245d",
         "title": "Engineering Intern - R&D/Quality",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -43785,7 +43785,7 @@
         "company_name": "CACI",
         "id": "63f41c5c-e1d8-4ed9-9638-8ffda7f368dc",
         "title": "Software Engineer Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -44231,7 +44231,7 @@
         "company_name": "Intel",
         "id": "d3b40285-ba71-4a65-b754-7d282a29a6ed",
         "title": "Software Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -44250,7 +44250,7 @@
         "company_name": "Intel",
         "id": "425092bb-eabd-442c-ad18-ec9e3ba08b7c",
         "title": "SW Development Engineer \u2013 Undergrad Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -44554,7 +44554,7 @@
         "company_name": "Autodesk",
         "id": "89ae2b03-9ccd-456f-a08d-6dcef3797436",
         "title": "Intern \u2013 Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -45740,6 +45740,293 @@
             "United States"
         ],
         "company_url": "https://simplify.jobs/c/Hugging-Face",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Gen",
+        "id": "9fde0579-ea2c-4f69-868c-73d6062f8027",
+        "title": "Software Engineer \u2013 Summer Internship",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1702890889,
+        "date_posted": 1702890889,
+        "url": "https://gen.wd1.myworkdayjobs.com/careers/job/USA---Arizona-Tempe/Software-Engineer---Summer-Internship_52745",
+        "locations": [
+            "Tempe, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Gen",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Gen",
+        "id": "9973de6e-3980-48e2-80e4-bfc8936ed01f",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1702890893,
+        "date_posted": 1702890893,
+        "url": "https://gen.wd1.myworkdayjobs.com/careers/job/USA---California-Mountain-View/Software-Engineer-Intern_52758-2",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Gen",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Gen",
+        "id": "8e28ee8a-45ec-490d-8898-a49875c4d688",
+        "title": "Business Intelligence Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1702890891,
+        "date_posted": 1702890891,
+        "url": "https://gen.wd1.myworkdayjobs.com/careers/job/USA---Arizona-Tempe/Business-Intelligence-Analyst-Intern_52805",
+        "locations": [
+            "Tempe, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Gen",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Gen",
+        "id": "86989d79-30f5-4cb6-8529-6d8d2fe9e744",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1702890888,
+        "date_posted": 1702890888,
+        "url": "https://gen.wd1.myworkdayjobs.com/careers/job/USA---California-Mountain-View/Software-Engineer-Intern_52808-2",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Gen",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Gen",
+        "id": "61f7f196-9e02-4b18-bb6d-a4b11a149345",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1702890887,
+        "date_posted": 1702890887,
+        "url": "https://gen.wd1.myworkdayjobs.com/careers/job/USA---California-Mountain-View/Software-Engineer-Intern_52812-2",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Gen",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Gen",
+        "id": "594ccda2-8f77-4d15-9d51-63c73926638c",
+        "title": "Data Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1702890888,
+        "date_posted": 1702890888,
+        "url": "https://gen.wd1.myworkdayjobs.com/careers/job/USA---Arizona-Tempe/Data-Engineering-Intern_52803-1",
+        "locations": [
+            "Tempe, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Gen",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Cadence Design Systems",
+        "id": "b12f5176-6b2d-4e26-8c30-79c1b7243ff9",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1702890667,
+        "date_posted": 1702890667,
+        "url": "https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/BURLINGTON-01/Software-Engineering-Intern_R44856-2",
+        "locations": [
+            "Northridge, LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Machina Labs",
+        "id": "be591db3-8433-4cf2-bcd3-4d5601256754",
+        "title": "General Inquiry \u2013 Internship",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1702889777,
+        "date_posted": 1702889777,
+        "url": "https://jobs.lever.co/MachinaLabs/20bdd475-0564-48f2-bd61-e0d8f5c5b6ed/apply",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/MachinaLabs",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Hugging Face",
+        "id": "8db0b382-f9d7-411e-ba97-0eac1a2d9912",
+        "title": "Machine Learning Engineer Internship - Tokenizers & Maintenance - Remote",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1702889304,
+        "date_posted": 1702889304,
+        "url": "https://apply.workable.com/huggingface/j/E55C1BEA66/apply",
+        "locations": [
+            "Remote"
+        ],
+        "company_url": "https://simplify.jobs/c/Hugging-Face",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Intel",
+        "id": "b9dedb8f-81f8-482a-b3a6-3738a3bf16bc",
+        "title": "Machine Learning Frameworks Intern - f/m/d",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1702888789,
+        "date_posted": 1702888789,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/Germany-Munich/Machine-Learning-Frameworks-Intern---f-m-d--_JR0253893-1",
+        "locations": [
+            "United Kingdom"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Intel",
+        "id": "54a5ecea-8b6d-4866-b33b-2138ada9c621",
+        "title": "Software Security Intern",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1702888639,
+        "date_posted": 1702888639,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/Virtual-US/Software-Security-Intern_JR0254189-1",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Intel",
+        "id": "62a08b3c-4182-4e31-b802-c61d8460c639",
+        "title": "Full Stack Software Intern",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1702888463,
+        "date_posted": 1702888463,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/Virtual-US/Full-Stack-Software-Intern_JR0254460",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Intel",
+        "id": "96f5b9fc-1908-444c-b9b6-3665bb69aa4d",
+        "title": "Software Validation Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1702888493,
+        "date_posted": 1702888493,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Software-Validation-Engineer-Intern_JR0253626",
+        "locations": [
+            "Hillsboro, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Symbotic",
+        "id": "13973e4f-0c74-4329-9b63-66f356d23bb7",
+        "title": "Intern-Embedded Software Engineer",
+        "active": true,
+        "terms": [
+            "Summer 2023",
+            "Spring 2024",
+            "Fall 2024"
+        ],
+        "date_updated": 1702888404,
+        "date_posted": 1702888404,
+        "url": "https://symbotic.wd1.myworkdayjobs.com/en-US/Symbotic/job/USA-Wilmington--MA---HQ/Intern--Embedded-Software-Engineer_R2805",
+        "locations": [
+            "Burlington, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/symbotic",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Elevance Health",
+        "id": "47c5d8c2-c751-4b37-8ad2-bf92240838cc",
+        "title": "Engineer Intern-Undergraduate-Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1702879872,
+        "date_posted": 1696374921,
+        "url": "https://elevancehealth.wd1.myworkdayjobs.com/en-US/ANT/job/CA-CERRITOS-12900-PARK-PLAZA-DR/Engineer-Intern--Undergraduate--Summer-2024_JR90294",
+        "locations": [
+            "Norwalk, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/elevance-health",
         "is_visible": true,
         "sponsorship": "Other"
     }
