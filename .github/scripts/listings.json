@@ -46086,5 +46086,24 @@
         "company_url": "https://simplify.jobs/c/Talos",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1702932252,
+        "url": "https://boards.greenhouse.io/stratacareers/jobs/5836698003?gh_src=f295a9a93us",
+        "company_name": "Strata Decision Technology",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "JackyZzZz",
+        "id": "6f5473a9-0a5b-43f9-bfa6-0f413ac8e555",
+        "date_posted": 1702932252,
+        "company_url": "",
+        "is_visible": true
     }
 ]
