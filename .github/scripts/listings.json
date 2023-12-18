@@ -25272,7 +25272,7 @@
         "company_name": "Elevance Health",
         "id": "9df0ce5b-61cf-473a-a23f-a84feb395956",
         "title": "Engineer Intern-Undergraduate-Summer 2024",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -46027,6 +46027,63 @@
             "Norwalk, CA"
         ],
         "company_url": "https://simplify.jobs/c/elevance-health",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Anduril",
+        "id": "b79905d0-7f93-43d9-9ce5-cbe53c8c96a0",
+        "title": "Firmware Engineer Intern-Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1702919154,
+        "date_posted": 1702919154,
+        "url": "https://boards.greenhouse.io/andurilindustries/jobs/4163553007",
+        "locations": [
+            "Newport Beach, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Anduril",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Aurora University",
+        "id": "8dcf6ccc-eda9-4785-b0f1-8e91142f7b99",
+        "title": "Aurora Intern Referral",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1702918559,
+        "date_posted": 1702918559,
+        "url": "https://boards.greenhouse.io/auroraur/jobs/5408169002",
+        "locations": [
+            "Remote"
+        ],
+        "company_url": "https://simplify.jobs/c/Aurora-University",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Talos",
+        "id": "ed7703bf-a7fd-40bb-b702-de7d0694c1c7",
+        "title": "Software Engineer Intern - Backend",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1702916778,
+        "date_posted": 1702916778,
+        "url": "https://boards.greenhouse.io/talos/jobs/5039742004",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Talos",
         "is_visible": true,
         "sponsorship": "Other"
     }
