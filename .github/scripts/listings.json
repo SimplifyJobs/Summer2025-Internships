@@ -19563,7 +19563,7 @@
         "company_name": "Activision-Blizzard",
         "id": "733ab333-6e2d-4ea5-b02f-65d91a57a570",
         "title": "2024 US Summer Internship - Computer Graphics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -46312,6 +46312,25 @@
             "Newark, CA"
         ],
         "company_url": "https://simplify.jobs/c/Lucid-Motors",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "NT Concepts",
+        "id": "25f46d6f-51fb-46bb-827e-dc0d130d22cd",
+        "title": "Summer 2024 STEM Internship",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1703002766,
+        "date_posted": 1703002766,
+        "url": "https://boards.greenhouse.io/ntconcepts/jobs/5042342004",
+        "locations": [
+            "Vienna, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/NTConcepts",
         "is_visible": true,
         "sponsorship": "Other"
     }
