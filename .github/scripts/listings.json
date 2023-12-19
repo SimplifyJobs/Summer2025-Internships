@@ -19563,7 +19563,7 @@
         "company_name": "Activision-Blizzard",
         "id": "733ab333-6e2d-4ea5-b02f-65d91a57a570",
         "title": "2024 US Summer Internship - Computer Graphics",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -46105,5 +46105,214 @@
         "date_posted": 1702932252,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Strata Decision Technology",
+        "id": "ff6c8a73-7e42-495c-b656-84c369364e96",
+        "title": "Intern \u2013 Software Engineering",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1702947134,
+        "date_posted": 1702947134,
+        "url": "https://boards.greenhouse.io/stratacareers/jobs/5836698003",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/1dd14f6f-3a3c-4b64-b1c2-99e97cc05db6",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Watershed",
+        "id": "fd1e2da3-d3e1-4d0c-8943-9733852ab923",
+        "title": "Software engineer \u2013 Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1702946788,
+        "date_posted": 1702946788,
+        "url": "https://boards.greenhouse.io/watershedclimate/jobs/4096445004",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Watershed",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Hewlett Packard (HP)",
+        "id": "0b1d8a2d-8056-4d1a-8608-a98bf4188e8e",
+        "title": "Personal Systems Artificial Intelligence Engineer Intern",
+        "active": true,
+        "terms": [
+            "Spring 2024"
+        ],
+        "date_updated": 1702945780,
+        "date_posted": 1702945780,
+        "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Palo-Alto-California-United-States-of-America/Personal-Systems-Artificial-Intelligence-Engineer-Intern_3127822-1",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Leidos",
+        "id": "a0276d6a-5955-4ff0-8ddb-8c9851d073dd",
+        "title": "Public Health Intern",
+        "active": true,
+        "terms": [
+            "Spring 2024"
+        ],
+        "date_updated": 1702945642,
+        "date_posted": 1702945642,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Remote-US/Public-Health-Intern_R-00125281",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Intel",
+        "id": "5fbb5c45-bda1-4f2b-ac01-a1336d1a56b7",
+        "title": "Undergraduate Intern Technical",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1702945496,
+        "date_posted": 1702945496,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Undergraduate-Intern-Technical_JR0254527",
+        "locations": [
+            "Hillsboro, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Visier Solutions",
+        "id": "b13e3394-f000-401f-996e-bcea83fb5070",
+        "title": "Test Enablement Engineer Co-op - May 2024 - Dec 2024",
+        "active": true,
+        "terms": [
+            "Spring 2024"
+        ],
+        "date_updated": 1702945301,
+        "date_posted": 1702945301,
+        "url": "https://boards.greenhouse.io/visiersolutionsinc/jobs/4312715006",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Visier",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Talos",
+        "id": "f59e9c58-6a89-47a7-a527-3a5ce6d4da6c",
+        "title": "Data Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1702945289,
+        "date_posted": 1702945289,
+        "url": "https://boards.greenhouse.io/talos/jobs/5040783004",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Talos",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Talos",
+        "id": "5ab161d8-f908-4ce0-b1f8-b33f53032702",
+        "title": "Software Engineer Intern - Front-end",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1702945288,
+        "date_posted": 1702945288,
+        "url": "https://boards.greenhouse.io/talos/jobs/5040905004",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Talos",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Visier Solutions",
+        "id": "7cc74891-b8e5-4428-b196-326efca31923",
+        "title": "Software Developer Co-op - May 2024 - Dec 2024",
+        "active": true,
+        "terms": [
+            "Spring 2024"
+        ],
+        "date_updated": 1702945301,
+        "date_posted": 1702945301,
+        "url": "https://boards.greenhouse.io/visiersolutionsinc/jobs/4310223006",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Visier",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Visier Solutions",
+        "id": "276f5d76-b447-42cf-9774-1b5e52fa7179",
+        "title": "Site Reliability Engineer Co-op - May 2024 - Dec 2024",
+        "active": true,
+        "terms": [
+            "Spring 2024"
+        ],
+        "date_updated": 1702945301,
+        "date_posted": 1702945301,
+        "url": "https://boards.greenhouse.io/visiersolutionsinc/jobs/4312718006",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Visier",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Lucid Motors",
+        "id": "f8774349-089e-4e69-8c91-a946cf41e6c3",
+        "title": "Intern \u2013 Software Developer - Supply Chain - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1702944527,
+        "date_posted": 1702944527,
+        "url": "https://jobs.lever.co/lucidmotors/450dd2ef-0f17-4e27-9ee3-5777f1b539bc/apply",
+        "locations": [
+            "Newark, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Lucid-Motors",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
