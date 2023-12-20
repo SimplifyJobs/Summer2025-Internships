@@ -19563,7 +19563,7 @@
         "company_name": "Activision-Blizzard",
         "id": "733ab333-6e2d-4ea5-b02f-65d91a57a570",
         "title": "2024 US Summer Internship - Computer Graphics",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -36581,7 +36581,7 @@
         "company_name": "Blizzard Entertainment",
         "id": "01774b33-56d0-498b-b886-e7a30bb8a2a1",
         "title": "2024 US Summer Internship - Analytics & Data Science",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -46580,6 +46580,25 @@
             "Victoria, BC, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Everbridge",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Dev Technology Group",
+        "id": "58950933-922d-4b73-a7e1-7bc91aebd423",
+        "title": "Summer Low-Code/No Code \u2013 Developer Intern - Servicenow",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1703090669,
+        "date_posted": 1703090669,
+        "url": "https://boards.greenhouse.io/devtechnology/jobs/7070697002",
+        "locations": [
+            "Reston, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/DevTechGrp",
         "is_visible": true,
         "sponsorship": "Other"
     }
