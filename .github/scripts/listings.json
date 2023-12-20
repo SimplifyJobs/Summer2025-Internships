@@ -9565,7 +9565,7 @@
         "company_name": "Cambly",
         "id": "1e0b9d44-937c-4a7b-b01b-15fbb7c0a0e8",
         "title": "Software Engineering Internship - Summer 2024",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -19563,7 +19563,7 @@
         "company_name": "Activision-Blizzard",
         "id": "733ab333-6e2d-4ea5-b02f-65d91a57a570",
         "title": "2024 US Summer Internship - Computer Graphics",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -42806,7 +42806,7 @@
         "company_name": "Oshkosh",
         "id": "5aba4724-f22b-4e2f-a416-25fde697d84a",
         "title": "Data Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -46331,6 +46331,255 @@
             "Vienna, VA"
         ],
         "company_url": "https://simplify.jobs/c/NTConcepts",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "PayPal",
+        "id": "e547d62e-cbc7-42a3-b140-a54d73118af6",
+        "title": "Machine Learning Intern",
+        "active": true,
+        "terms": [
+            "Spring 2024",
+            "Fall 2024"
+        ],
+        "date_updated": 1703033442,
+        "date_posted": 1703033442,
+        "url": "https://wd1.myworkdaysite.com/recruiting/paypal/jobs/job/San-Jose-California-United-States-of-America/Machine-Learning-Intern_R0106664",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/PayPal",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "PayPal",
+        "id": "3455f373-cf10-4fe1-910e-65ebb480b749",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Spring 2024",
+            "Fall 2024"
+        ],
+        "date_updated": 1703033434,
+        "date_posted": 1703033434,
+        "url": "https://wd1.myworkdaysite.com/recruiting/paypal/jobs/job/Scottsdale-Arizona-United-States-of-America/Software-Engineer-Intern_R0105732",
+        "locations": [
+            "Scottsdale, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/PayPal",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Skyryse",
+        "id": "236c3b18-bb73-4cd4-8a12-581588bf098c",
+        "title": "Guidance \u2013 And Control Engineer Intern - Navigation - Winter 2024",
+        "active": true,
+        "terms": [
+            "Winter 2024"
+        ],
+        "date_updated": 1703033388,
+        "date_posted": 1703033388,
+        "url": "https://boards.greenhouse.io/skyryse/jobs/5572421",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Skyryse",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Cadence Design Systems",
+        "id": "1666ca33-ccf2-4d7a-95d6-6e882b3df068",
+        "title": "Scientific Computing Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1703033089,
+        "date_posted": 1703033089,
+        "url": "https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/SAN-JOSE/Scientific-Computing-Intern_R44994-2",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Cadence Design Systems",
+        "id": "e8b1b982-ed38-4c74-a264-4c27fd89e09d",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1703033097,
+        "date_posted": 1703033097,
+        "url": "https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/PITTSBURGH-03/Software-Engineering-Intern_R44923-1",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Cadence Design Systems",
+        "id": "a0bf529c-7b4f-4d9a-9b6b-47bd0ee5bf80",
+        "title": "Scientific Computing Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1703033086,
+        "date_posted": 1703033086,
+        "url": "https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/SAN-JOSE/Scientific-Computing-Intern_R44995-1",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "ZoomInfo",
+        "id": "f2b89bf5-9403-4734-824a-b42778752aef",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1703032879,
+        "date_posted": 1703032879,
+        "url": "https://www.zoominfo.com/about/careers?gh_jid=7066949002",
+        "locations": [
+            "Waltham, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/ZoomInfo",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "ZoomInfo",
+        "id": "3cf6dfd5-7f46-4219-b4d0-cdb5bc2a3df9",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1703032880,
+        "date_posted": 1703032880,
+        "url": "https://www.zoominfo.com/about/careers?gh_jid=7068359002",
+        "locations": [
+            "Bethesda, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/ZoomInfo",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Netflix",
+        "id": "baa0e6e3-8836-4472-ae72-69a645604d8c",
+        "title": "Technical Program Manager Intern - Developer Education - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1703032604,
+        "date_posted": 1703032604,
+        "url": "https://jobs.lever.co/netflix/d91052e3-cedd-42e2-a48d-ae950aebbd1d/apply",
+        "locations": [
+            "Los Gatos, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Netflix",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Crowdstrike",
+        "id": "60e5e94d-e914-4747-a3ad-0b44934a6911",
+        "title": "Professional Services Red Team Intern - Summer 2024 - Remote - GBR",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1703032308,
+        "date_posted": 1703032308,
+        "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-us/crowdstrikecareers/job/United-Kingdom---Remote/Professional-Services-Red-Team-Intern---Summer-2024--Remote--UK-_R15383",
+        "locations": [
+            "Remote"
+        ],
+        "company_url": "https://simplify.jobs/c/Crowdstrike",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "ServiceNow",
+        "id": "adcb2dd2-1d33-4c41-95c1-82c9a0de0477",
+        "title": "Utg \u2013 New College Grad - Software Engineer",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1703031783,
+        "date_posted": 1703031783,
+        "url": "https://jobs.smartrecruiters.com/ServiceNow/743999952679393",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ServiceNow",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "ServiceNow",
+        "id": "ac8adca0-d0dd-44d2-b790-11a5aa41e4d8",
+        "title": "Utg \u2013 Software Engineer Internships - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1703031778,
+        "date_posted": 1703031778,
+        "url": "https://jobs.smartrecruiters.com/ServiceNow/743999952678903",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ServiceNow",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Everbridge",
+        "id": "fb2e96c4-aff7-4677-95d9-55af1286cbaf",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1703030688,
+        "date_posted": 1703030688,
+        "url": "https://jobs.lever.co/everbridge/c56f91c8-503a-44bd-bb31-5da60783ac42/apply",
+        "locations": [
+            "Victoria, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Everbridge",
         "is_visible": true,
         "sponsorship": "Other"
     }
