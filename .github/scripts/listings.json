@@ -12194,7 +12194,7 @@
         "company_name": "Lucid Motors",
         "id": "888bba31-2fe5-4cfe-b435-265a700f293a",
         "title": "Intern \u2013 Cloud Microservices Software Engineer - Summer 2024",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -46599,6 +46599,222 @@
             "Reston, VA"
         ],
         "company_url": "https://simplify.jobs/c/DevTechGrp",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Gen",
+        "id": "af48d2fb-d375-45b5-af53-e046ceb830ba",
+        "title": "Data Science Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1703119156,
+        "date_posted": 1703119156,
+        "url": "https://gen.wd1.myworkdayjobs.com/careers/job/USA---Arizona-Tempe/Data-Science-Intern_53014-1",
+        "locations": [
+            "Tempe, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Gen",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "IEX",
+        "id": "05333349-9cb4-4745-b3f1-77fa0d995578",
+        "title": "Marketing Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1703118893,
+        "date_posted": 1703118893,
+        "url": "https://iex.io/careers/apply?gh_jid=5583621",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/IEX",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Autodesk",
+        "id": "95720105-1702-489c-bd8a-5cc6c766cece",
+        "title": "Intern \u2013 Multi-Physics Convergence",
+        "active": true,
+        "terms": [
+            "Winter 2025",
+            "Spring 2025",
+            "Summer 2025"
+        ],
+        "date_updated": 1703118518,
+        "date_posted": 1703118518,
+        "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Intern--Multi-Physics-Convergence_23WD74001-1",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Autodesk",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Badger Meter",
+        "id": "4b52c77e-dcd6-41bc-9e62-6ca34691a95b",
+        "title": "Construction Project Management Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1703118518,
+        "date_posted": 1703118518,
+        "url": "https://badgermeter.wd5.myworkdayjobs.com/US_CareerSite/job/Milwaukee-WI/Construction-Project-Management-Intern_3039",
+        "locations": [
+            "Milwaukee, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Badger-Meter",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Autodesk",
+        "id": "2cba3c03-9a8b-4db3-94ad-76b6dc6c42b4",
+        "title": "Intern \u2013 Software Engineer - Hci & AI",
+        "active": true,
+        "terms": [
+            "Winter 2025",
+            "Spring 2025",
+            "Summer 2025"
+        ],
+        "date_updated": 1703118525,
+        "date_posted": 1703118525,
+        "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Intern--Software-Engineer--HCI---AI_23WD74143-1",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Autodesk",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Zynga",
+        "id": "da93d01a-0490-4791-9658-cf89d163f764",
+        "title": "Engineering Intern - Star Wars",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1703118256,
+        "date_posted": 1703118256,
+        "url": "https://boards.greenhouse.io/zynga/jobs/5043421004",
+        "locations": [
+            "Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Zynga",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Zynga",
+        "id": "0244e1d1-6a93-4432-af58-72a11a62a67b",
+        "title": "Engineering Intern - Month 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1703118253,
+        "date_posted": 1703118253,
+        "url": "https://boards.greenhouse.io/zynga/jobs/4989906004",
+        "locations": [
+            "Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Zynga",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Uber",
+        "id": "b131fa87-4f1a-4464-ab65-f201b9517879",
+        "title": "2024 Software Engineering Uberstar Internship - Cornell University",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1703118198,
+        "date_posted": 1703118198,
+        "url": "https://www.uber.com/global/en/careers/list/127356/",
+        "locations": [
+            "Seattle, WA",
+            "SF",
+            "NYC",
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Uber",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Crowdstrike",
+        "id": "1cc66269-3a72-43a3-9b72-b260a304ca2b",
+        "title": "Professional Services Red Team Intern - Summer 2024 - Remote - GBR",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1703118123,
+        "date_posted": 1703118123,
+        "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-us/crowdstrikecareers/job/United-Kingdom---Remote/Professional-Services-Red-Team-Intern---Summer-2024--Remote--GBR-_R15470",
+        "locations": [
+            "Remote"
+        ],
+        "company_url": "https://simplify.jobs/c/Crowdstrike",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "HRL Laboratories",
+        "id": "3b2c65c0-25c4-45e9-bfab-0cff44016d0e",
+        "title": "Ebeam Lithography \u2013 Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1703118005,
+        "date_posted": 1703118005,
+        "url": "https://jobs.lever.co/dodmg/d94ba96c-0905-41de-a63c-3b007552dda4/apply",
+        "locations": [
+            "Malibu, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/HRL-Laboratories",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Uber",
+        "id": "d6b39689-e352-4377-83e5-788a01549397",
+        "title": "2024 Software Engineering Uberstar Internship - Cornell University",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1703117863,
+        "date_posted": 1703117863,
+        "url": "https://university-uber.icims.com/jobs/127356/job",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Uber",
         "is_visible": true,
         "sponsorship": "Other"
     }
