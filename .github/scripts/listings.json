@@ -29815,7 +29815,7 @@
         "company_name": "PayPal",
         "id": "efced37e-aa8f-4bb0-9e5d-62740648bf01",
         "title": "Decision/Data Scientist Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -46834,6 +46834,25 @@
             "Austin, TX"
         ],
         "company_url": "https://simplify.jobs/c/AMAT",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Capstone Investment Advisors",
+        "id": "2577dece-677c-4899-bc95-bf508ae9040e",
+        "title": "2024 Summer Internship - Investment - Bos",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1703176780,
+        "date_posted": 1703176780,
+        "url": "https://boards.greenhouse.io/capstoneinvestmentadvisors/jobs/7072543002",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/CapstoneCo",
         "is_visible": true,
         "sponsorship": "Other"
     }
