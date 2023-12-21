@@ -41792,7 +41792,7 @@
         "company_name": "Intel",
         "id": "d6d70897-d434-4697-bf59-47822e777ba0",
         "title": "Undergraduate Software Application Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -46815,6 +46815,25 @@
             "SF"
         ],
         "company_url": "https://simplify.jobs/c/Uber",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Applied Materials",
+        "id": "f935105e-aa67-4983-a2ed-671de6523132",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1703146822,
+        "date_posted": 1703146822,
+        "url": "https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Software-Engineer-Intern_R2317638-1",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/AMAT",
         "is_visible": true,
         "sponsorship": "Other"
     }
