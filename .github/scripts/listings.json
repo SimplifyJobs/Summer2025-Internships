@@ -24902,7 +24902,7 @@
         "company_name": "Bridgewater Associates",
         "id": "328683e6-519f-4e0c-97c1-5237c57176cd",
         "title": "Investment Engineer Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -24940,7 +24940,7 @@
         "company_name": "Optiver",
         "id": "4cb3632f-a207-48af-bfef-bb5be6642d3f",
         "title": "Campus: Software Engineer Intern - Summer 2024 - Austin",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -25035,7 +25035,7 @@
         "company_name": "Optiver",
         "id": "1c0a9a89-a534-4246-8d4b-bf08b4728317",
         "title": "Campus: Quantitative Trader Intern - Summer 2024 - Chicago",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -37085,7 +37085,7 @@
         "company_name": "Eulerity",
         "id": "fd72919b-5b32-4596-a15b-9aebf7dff235",
         "title": "Web Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2023"
         ],
@@ -46861,7 +46861,7 @@
         "company_name": "Uber",
         "id": "ae93fb9a-c5cc-4cb1-801f-adf4ce90e48c",
         "title": "2024 Software Engineering Uberstar Internship - UC Berkeley",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -46883,7 +46883,7 @@
         "company_name": "Uber",
         "id": "26e2087a-1820-40dd-b365-7308e8768454",
         "title": "2024 Software Engineering Uberstar Internship - UC Berkeley",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -47150,7 +47150,7 @@
         "company_name": "Leidos",
         "id": "b05698ac-8ebe-4ebf-ae88-d74d9903fac3",
         "title": "Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
