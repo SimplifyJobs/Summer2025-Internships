@@ -19563,7 +19563,7 @@
         "company_name": "Activision-Blizzard",
         "id": "733ab333-6e2d-4ea5-b02f-65d91a57a570",
         "title": "2024 US Summer Internship - Computer Graphics",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -36581,7 +36581,7 @@
         "company_name": "Blizzard Entertainment",
         "id": "01774b33-56d0-498b-b886-e7a30bb8a2a1",
         "title": "2024 US Summer Internship - Analytics & Data Science",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -46588,7 +46588,7 @@
         "company_name": "Dev Technology Group",
         "id": "58950933-922d-4b73-a7e1-7bc91aebd423",
         "title": "Summer Low-Code/No Code \u2013 Developer Intern - Servicenow",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -47238,6 +47238,257 @@
             "Remote"
         ],
         "company_url": "https://simplify.jobs/c/Jibble",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Keywords Studios",
+        "id": "f533c995-7082-4e0f-82cd-d503c3800168",
+        "title": "Programming Intern 2024 - 2025 Coconut Lizard",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1703291136,
+        "date_posted": 1703291136,
+        "url": "https://apply.workable.com/keywords-intl1/j/C96D5D8A9A/apply",
+        "locations": [
+            "Newcastle upon Tyne, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Keywords-Studios",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Rocket Internet",
+        "id": "f1cdbbec-a7a8-4f42-a27b-e0e6173c6d23",
+        "title": "M&a and Investments Intern - US",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1703291137,
+        "date_posted": 1703291137,
+        "url": "https://jobs.smartrecruiters.com/RocketInternet/743999952225533",
+        "locations": [
+            "Remote in USA",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Rocket-Internet",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Keywords Studios",
+        "id": "da0d93b8-5038-4b2c-b85a-a7eab7a8ec60",
+        "title": "Programming Intern 2024 - 2025 d3t",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1703291134,
+        "date_posted": 1703291134,
+        "url": "https://apply.workable.com/keywords-intl1/j/8B7A38F0DF/apply",
+        "locations": [
+            "Warrington, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Keywords-Studios",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Keywords Studios",
+        "id": "7501cba0-ee51-419d-87b6-28a658d7a703",
+        "title": "Research Intern - AI Start-up",
+        "active": true,
+        "terms": [
+            "Winter 2024"
+        ],
+        "date_updated": 1703291143,
+        "date_posted": 1703291143,
+        "url": "https://apply.workable.com/keywords-intl1/j/0FBBE6533E/apply",
+        "locations": [
+            "SF",
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Keywords-Studios",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Rocket Internet",
+        "id": "66431fc0-fe6d-4f60-8b51-17afddeff6f5",
+        "title": "Full-Time 6 months Internship @ Global Founders Capital VC",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1703291138,
+        "date_posted": 1703291138,
+        "url": "https://jobs.smartrecruiters.com/RocketInternet/743999780824791",
+        "locations": [
+            "London, UK",
+            "Remote"
+        ],
+        "company_url": "https://simplify.jobs/c/Rocket-Internet",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Cohesity",
+        "id": "6a02fd61-a473-4c48-97ea-23f75b462ff6",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1703291067,
+        "date_posted": 1703291067,
+        "url": "http://www.cohesity.com/company/careers/open-positions/?gh_jid=5583727",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cohesity",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Ramp",
+        "id": "094007c3-3fe3-4732-804a-d8d95105d434",
+        "title": "Software Engineer Internship - IOS",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1703290873,
+        "date_posted": 1703290873,
+        "url": "https://jobs.ashbyhq.com/ramp/0f1c331d-21b6-44fb-a326-5357d6e30188/application",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Ramp",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Samsung",
+        "id": "684a2b35-051c-428b-baf3-397604308804",
+        "title": "Intern \u2013 Software Quality Engineering - Soc C&MM",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1703290754,
+        "date_posted": 1703290754,
+        "url": "https://boards.greenhouse.io/samsungsemiconductor/jobs/5802264003",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Samsung",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Crowdstrike",
+        "id": "fd0a74ba-596f-48c8-9518-5c47ff57ff55",
+        "title": "TAC Malware Triage Intern - Summer 2024 - Remote",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1703290549,
+        "date_posted": 1703290549,
+        "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-us/crowdstrikecareers/job/USA---Remote/TAC-Malware-Triage-Intern-Summer-2024--Remote-_R15486",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Crowdstrike",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "F5",
+        "id": "4a2adcc5-e97f-42e0-916b-2e8dfad8739d",
+        "title": "Data Analytics Intern",
+        "active": true,
+        "terms": [
+            "Spring 2024",
+            "Fall 2024"
+        ],
+        "date_updated": 1703290391,
+        "date_posted": 1703290391,
+        "url": "https://ffive.wd5.myworkdayjobs.com/en-US/f5jobs/job/Seattle/Data-Analytics-Intern_RP1029689",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/f5",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "ServiceNow",
+        "id": "2235e53d-7c4d-4620-822c-7a4fc3ca60ad",
+        "title": "Associate Machine Learning Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1703290314,
+        "date_posted": 1703290314,
+        "url": "https://jobs.smartrecruiters.com/ServiceNow/743999953946653",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ServiceNow",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Moveworks",
+        "id": "97c683f0-5e4d-4d17-ad82-f383623bdf7b",
+        "title": "Machine Learning Engineer Intern - Conversational Search",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1703290315,
+        "date_posted": 1703290315,
+        "url": "https://www.moveworks.com/position?gh_jid=7064988002",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Moveworks",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Moveworks",
+        "id": "9bbc3cc0-a9f8-40e9-8db1-b4d34cadaace",
+        "title": "Machine Learning Engineer Intern - NLU & ML Infra",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1703290316,
+        "date_posted": 1703290316,
+        "url": "https://www.moveworks.com/position?gh_jid=7066228002",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Moveworks",
         "is_visible": true,
         "sponsorship": "Other"
     }
