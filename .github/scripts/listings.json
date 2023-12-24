@@ -16059,7 +16059,7 @@
         "company_name": "WhatNot",
         "id": "4068ac5b-b6db-42ce-b6c4-82e03172fbc2",
         "title": "Software Engineering Intern - Summer 2024",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -19563,7 +19563,7 @@
         "company_name": "Activision-Blizzard",
         "id": "733ab333-6e2d-4ea5-b02f-65d91a57a570",
         "title": "2024 US Summer Internship - Computer Graphics",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -36581,7 +36581,7 @@
         "company_name": "Blizzard Entertainment",
         "id": "01774b33-56d0-498b-b886-e7a30bb8a2a1",
         "title": "2024 US Summer Internship - Analytics & Data Science",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
