@@ -19563,7 +19563,7 @@
         "company_name": "Activision-Blizzard",
         "id": "733ab333-6e2d-4ea5-b02f-65d91a57a570",
         "title": "2024 US Summer Internship - Computer Graphics",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -36581,7 +36581,7 @@
         "company_name": "Blizzard Entertainment",
         "id": "01774b33-56d0-498b-b886-e7a30bb8a2a1",
         "title": "2024 US Summer Internship - Analytics & Data Science",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -40906,7 +40906,7 @@
         "company_name": "CACI",
         "id": "10727394-a261-4943-8ea3-00162068ca3b",
         "title": "Technologist Intern - Spring 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024"
         ],
@@ -45168,7 +45168,7 @@
         "company_name": "WillowTree",
         "id": "20a17e89-add2-42ab-ba69-b550fa63a262",
         "title": "Data Science Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -47508,6 +47508,25 @@
             "Newport Beach, CA"
         ],
         "company_url": "https://simplify.jobs/c/Anduril",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Interactive Brokers",
+        "id": "6e655a26-9158-46ba-970f-4ff060afd292",
+        "title": "Software Developer Summer Internship - 2024",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1703606787,
+        "date_posted": 1703606787,
+        "url": "https://boards.greenhouse.io/ibkr/jobs/7070074002",
+        "locations": [
+            "Greenwich, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/IBKR",
         "is_visible": true,
         "sponsorship": "Other"
     }
