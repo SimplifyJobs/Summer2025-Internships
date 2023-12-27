@@ -19563,7 +19563,7 @@
         "company_name": "Activision-Blizzard",
         "id": "733ab333-6e2d-4ea5-b02f-65d91a57a570",
         "title": "2024 US Summer Internship - Computer Graphics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -36581,7 +36581,7 @@
         "company_name": "Blizzard Entertainment",
         "id": "01774b33-56d0-498b-b886-e7a30bb8a2a1",
         "title": "2024 US Summer Internship - Analytics & Data Science",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -37025,7 +37025,7 @@
         "company_name": "Proofpoint",
         "id": "1980a2c6-1e73-49d4-942e-669883407ccb",
         "title": "Software Engineer Placement Year Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024",
             "Fall 2024",
@@ -42214,7 +42214,7 @@
         "company_name": "The Hub Project",
         "id": "d740e0cc-8232-488d-97f0-3abbdcec4c92",
         "title": "Internship - Polling and Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025",
             "Spring 2025"
@@ -47516,7 +47516,7 @@
         "company_name": "Interactive Brokers",
         "id": "6e655a26-9158-46ba-970f-4ff060afd292",
         "title": "Software Developer Summer Internship - 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
