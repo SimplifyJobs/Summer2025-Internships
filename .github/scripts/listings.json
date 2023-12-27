@@ -19563,7 +19563,7 @@
         "company_name": "Activision-Blizzard",
         "id": "733ab333-6e2d-4ea5-b02f-65d91a57a570",
         "title": "2024 US Summer Internship - Computer Graphics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -28347,7 +28347,7 @@
         "company_name": "AppLovin",
         "id": "680d55bf-7ad3-4592-8a3b-f65fb0dc3734",
         "title": "Platform Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -36581,7 +36581,7 @@
         "company_name": "Blizzard Entertainment",
         "id": "01774b33-56d0-498b-b886-e7a30bb8a2a1",
         "title": "2024 US Summer Internship - Analytics & Data Science",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -47527,6 +47527,79 @@
             "Greenwich, CT"
         ],
         "company_url": "https://simplify.jobs/c/IBKR",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Hewlett Packard (HP)",
+        "id": "d77dcf3b-ac54-4274-93b7-42663d1c3c77",
+        "title": "Audio Development Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1703636003,
+        "date_posted": 1703636003,
+        "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Austin-Texas-United-States-of-America/Audio-Development-Intern_UNIV810-1",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Dropbox",
+        "id": "a95970b6-8c22-46c3-9482-e9011107512c",
+        "title": "Customer Experience Technology Intern - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1703635845,
+        "date_posted": 1703635845,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=5500639",
+        "locations": [
+            "Remote"
+        ],
+        "company_url": "https://simplify.jobs/c/Dropbox",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Dropbox",
+        "id": "d3ff8988-d6b3-4eda-8262-2a62042b11b4",
+        "title": "Software Engineering Intern - Customer Experience Technology - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1703635850,
+        "date_posted": 1703635850,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=5500638",
+        "locations": [
+            "Oregon",
+            "Washington, DC",
+            "LA",
+            "Texas",
+            "Irvine, CA",
+            "Florida",
+            "Georgia",
+            "Arizona",
+            "Tennessee",
+            "Virginia",
+            "Colorado",
+            "Maryland",
+            "Massachusetts",
+            "North Carolina",
+            "San Diego, CA",
+            "Ohio",
+            "Illinois"
+        ],
+        "company_url": "https://simplify.jobs/c/Dropbox",
         "is_visible": true,
         "sponsorship": "Other"
     }
