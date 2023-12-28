@@ -12453,7 +12453,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1693347170,
+        "date_updated": 1703804571,
         "url": "https://jobs.dropbox.com/listing/5265677",
         "company_name": "Dropbox",
         "title": "Software Engineering Intern (Summer 2024)",
@@ -12465,7 +12465,7 @@
             "Summer 2024"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "mtlogs",
         "id": "b5981dc4-3937-49e7-a0c8-dec8a29ce9dc",
         "date_posted": 1693347170,
