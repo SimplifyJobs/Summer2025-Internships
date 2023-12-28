@@ -756,7 +756,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | Sandhills | Software Development Intern | Lincoln, Nebraska | <a href="https://www.sandhills.com/careers-and-internships/details/careers/sandhills/1195/software-development-intern?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 2023 |
 | Wabtec Corporation | Software Engineering Intern  🛂 | Erie, PA</br>Fort Worth, TX | <a href="https://wabtec.wd1.myworkdayjobs.com/wabtec_careers/job/Erie-PA/Summer-2024-Engineering-Internship_R0075202?source=LinkedIn_corporate_page&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 2023 |
 | **[Global Atlantic Financial Group](https://simplify.jobs/c/GlobalAtlantic)** | Quantitative Investment Intern  🛂 | NYC | <a href="https://boards.greenhouse.io/gainternships/jobs/5150526?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/8e38d56c-af8a-4db0-bee2-e395e8421b95?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jun 2023 |
-| **[DRW](https://simplify.jobs/c/DRW)** | Quantitative Trading Analyst Intern | Austin, TX</br>Chicago, IL | <a href="https://drw.com/work-at-drw/listings/quantitative-trading-analyst-intern-2551092?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 2023 |
 | Intuit | Summer Internship Interest | Multiple Locations | <a href="https://talenteq.intuit.com/ucs?cid=elq-form_hs_698061_US_UR-FY23_lg_iac-msg4_link_intuit-talentmktg&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 2023 |
 | **[Point72](https://simplify.jobs/c/Point72)** | Quantitative Developer Internship | NYC | <a href="https://careers.point72.com/CSJobDetail?jobName=summer-2024-quantitative-developer-internship&jobCode=CSS-0010069&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 2023 |
 | Zurich | Internship Program  🛂 | Multiple Locations | <a href="https://www.careers.zurich.com/job/Schaumburg-Zurich-North-America-Summer-Internship-Program-%282024%29-IL-60159/774993902/?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 2023 |
@@ -1895,7 +1894,8 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | Morgan Stanley | 2024 Technology Summer Analyst Program (Alpharetta) | Alpharetta, GA | 🔒 | May 2023 |
 | ↳ | Technology Summer Analyst Program | NYC | 🔒 | May 2023 |
 | BNP | Software Engineering Intern | Jersey City, NJ | 🔒 | May 2023 |
-| **[DRW](https://simplify.jobs/c/DRW)** | Software Developer Intern  | Austin, TX</br>Chicago, IL | 🔒 | May 2023 |
+| **[DRW](https://simplify.jobs/c/DRW)** | Quantitative Trading Analyst Intern | Austin, TX</br>Chicago, IL | 🔒 | May 2023 |
+| ↳ | Software Developer Intern  | Austin, TX</br>Chicago, IL | 🔒 | May 2023 |
 | ↳ | Site Reliability Engineer Intern	 | Austin, TX Chicago, IL | 🔒 | May 2023 |
 | Truist | Technology and Innovation Internship | Charlotte, NC</br>Atlanta, GA | 🔒 | May 2023 |
 | Paycom | Software Analyst Intern | Oklahoma City, OK | 🔒 | May 2023 |
