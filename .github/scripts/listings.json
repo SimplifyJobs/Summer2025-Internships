@@ -19563,7 +19563,7 @@
         "company_name": "Activision-Blizzard",
         "id": "733ab333-6e2d-4ea5-b02f-65d91a57a570",
         "title": "2024 US Summer Internship - Computer Graphics",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -36011,7 +36011,7 @@
         "company_name": "Trace3",
         "id": "67f5a7a8-7d94-44e6-8277-18c824902697",
         "title": "AI Program Intern - Hybrid",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -36581,7 +36581,7 @@
         "company_name": "Blizzard Entertainment",
         "id": "01774b33-56d0-498b-b886-e7a30bb8a2a1",
         "title": "2024 US Summer Internship - Analytics & Data Science",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -46187,7 +46187,7 @@
         "company_name": "Intel",
         "id": "5fbb5c45-bda1-4f2b-ac01-a1336d1a56b7",
         "title": "Undergraduate Intern Technical",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -47169,7 +47169,7 @@
         "company_name": "Intel",
         "id": "ae6021ec-997a-43c3-bf16-6e36e0fe3bcf",
         "title": "Signal integrity intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -47600,6 +47600,121 @@
             "Illinois"
         ],
         "company_url": "https://simplify.jobs/c/Dropbox",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Opendoor",
+        "id": "2bd9f24b-a997-44d1-b08e-1047d7b3f57d",
+        "title": "Intern \u2013 Data Scientist",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1703722428,
+        "date_posted": 1703722428,
+        "url": "https://boards.greenhouse.io/opendoor/jobs/4300944006",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Opendoor",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "NVIDIA",
+        "id": "ada6584f-86e5-44ce-9aef-6f3aec86e996",
+        "title": "Solutions Architect Intern - Cybersecurity AI - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1703722292,
+        "date_posted": 1703722292,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Solutions-Architect-Intern--Cybersecurity-AI---Summer-2024_JR1977102",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "F5",
+        "id": "0d6491fd-943d-48da-8ec6-c8324d5323bb",
+        "title": "Software Engineering Intern - Boulder",
+        "active": true,
+        "terms": [
+            "Spring 2024",
+            "Fall 2024"
+        ],
+        "date_updated": 1703722307,
+        "date_posted": 1703722307,
+        "url": "https://ffive.wd5.myworkdayjobs.com/en-US/f5jobs/job/Boulder-Louisville/Software-Engineering-Intern--Boulder-_RP1029693-1",
+        "locations": [
+            "Boulder, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/f5",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Two Six Technologies",
+        "id": "6cc6740e-d5bf-4f69-bb1d-05cc5751c521",
+        "title": "Skillbridge Internship - Tsc",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1703722315,
+        "date_posted": 1703722315,
+        "url": "https://boards.greenhouse.io/twosixtechnologies/jobs/4929653004",
+        "locations": [
+            "Odenton, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Two-Six-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Intel",
+        "id": "d9edb697-8845-43d1-9323-ee0fbdef7d36",
+        "title": "Data Platforms Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1703722293,
+        "date_posted": 1703722293,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/Virtual-US/Data-Platforms-Engineering-Intern_JR0254954",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "NVIDIA",
+        "id": "e485bd5c-6839-4b49-afd7-b38cd0f90df5",
+        "title": "Data Analyst Intern - Developer Programs - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1703722291,
+        "date_posted": 1703722291,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Data-Analyst-Intern--Developer-Programs---Summer-2024_JR1977413-1",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
         "is_visible": true,
         "sponsorship": "Other"
     }
