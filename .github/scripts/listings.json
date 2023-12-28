@@ -19563,7 +19563,7 @@
         "company_name": "Activision-Blizzard",
         "id": "733ab333-6e2d-4ea5-b02f-65d91a57a570",
         "title": "2024 US Summer Internship - Computer Graphics",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -36581,7 +36581,7 @@
         "company_name": "Blizzard Entertainment",
         "id": "01774b33-56d0-498b-b886-e7a30bb8a2a1",
         "title": "2024 US Summer Internship - Analytics & Data Science",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -36867,7 +36867,7 @@
         "company_name": "PayPal",
         "id": "5f25a596-8cb9-42f8-8fcd-8f80b20a3a8c",
         "title": "Accounting Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024",
             "Fall 2024"
@@ -47227,7 +47227,7 @@
         "company_name": "Jibble",
         "id": "7d255989-a79c-4171-8e35-5071e42a49bd",
         "title": "Content Writer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -47666,7 +47666,7 @@
         "company_name": "Two Six Technologies",
         "id": "6cc6740e-d5bf-4f69-bb1d-05cc5751c521",
         "title": "Skillbridge Internship - Tsc",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -47685,7 +47685,7 @@
         "company_name": "Intel",
         "id": "d9edb697-8845-43d1-9323-ee0fbdef7d36",
         "title": "Data Platforms Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
