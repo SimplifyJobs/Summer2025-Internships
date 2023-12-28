@@ -12311,7 +12311,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1693322235,
+        "date_updated": 1703804492,
         "url": "https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/details/XMLNAME-2024-Summer-Corporate-Intern---Digital-and-Analytics_R0000218882-1?q=Summer+2024",
         "company_name": "Caterpillar",
         "title": "Digital & Analytics Intern",
@@ -12325,8 +12325,8 @@
         "terms": [
             "Summer 2024"
         ],
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "Aleque2023",
         "id": "a19b34e2-2fb3-4cf3-8a38-4c8130abcdb3",
         "date_posted": 1693322235,
