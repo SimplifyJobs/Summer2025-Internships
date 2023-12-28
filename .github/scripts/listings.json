@@ -11278,7 +11278,7 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1692975094,
+        "date_updated": 1703804905,
         "url": "https://careers.sysco.com/jobs/R120545?lang=en-us&source=Indeed+Organic",
         "company_name": "Sysco",
         "title": "Software Dev Engineer Intern",
@@ -11288,8 +11288,8 @@
         "terms": [
             "Summer 2024"
         ],
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "hemanthy1",
         "id": "94ccd539-346f-4fc2-ad06-732d1f3ec52e",
         "date_posted": 1692975094,
