@@ -19563,7 +19563,7 @@
         "company_name": "Activision-Blizzard",
         "id": "733ab333-6e2d-4ea5-b02f-65d91a57a570",
         "title": "2024 US Summer Internship - Computer Graphics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -20842,7 +20842,7 @@
         "company_name": "Lucid Motors",
         "id": "dbc9ac0d-3037-4ac8-b6e0-73511e6f631f",
         "title": "Intern \u2013 Embedded Platform Software Engineer - Summer 2024",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -36581,7 +36581,7 @@
         "company_name": "Blizzard Entertainment",
         "id": "01774b33-56d0-498b-b886-e7a30bb8a2a1",
         "title": "2024 US Summer Internship - Analytics & Data Science",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -47704,7 +47704,7 @@
         "company_name": "NVIDIA",
         "id": "e485bd5c-6839-4b49-afd7-b38cd0f90df5",
         "title": "Data Analyst Intern - Developer Programs - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -47715,6 +47715,64 @@
             "Santa Clara, CA"
         ],
         "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "NVIDIA",
+        "id": "adc0c6f8-a350-4b83-af2f-47c3a12ffbfc",
+        "title": "Solution Architect Intern - Omniverse - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1703809392,
+        "date_posted": 1703809392,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Solution-Architect-Intern--Omniverse---Summer-2024_JR1974202",
+        "locations": [
+            "Remote in USA",
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Northwestern Mutual",
+        "id": "c602e1af-9df9-421e-afbb-afc372dfef4e",
+        "title": "Software Engineer Intern - 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1703808806,
+        "date_posted": 1703808806,
+        "url": "https://northwesternmutual.wd5.myworkdayjobs.com/corporate-careers/job/Milwaukee-WI-Corporate/Software-Engineer-Intern--2024_JR-39450-1",
+        "locations": [
+            "Milwaukee, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Northwestern-Mutual",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Schonfeld",
+        "id": "45036f05-cd75-4904-a0ef-77653bec2f87",
+        "title": "2024 Infrastructure Engineering Summer Internship",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1703808811,
+        "date_posted": 1703808811,
+        "url": "https://boards.greenhouse.io/schonfeld/jobs/5571559",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Schonfeld",
         "is_visible": true,
         "sponsorship": "Other"
     }
