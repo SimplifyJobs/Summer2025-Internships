@@ -19563,7 +19563,7 @@
         "company_name": "Activision-Blizzard",
         "id": "733ab333-6e2d-4ea5-b02f-65d91a57a570",
         "title": "2024 US Summer Internship - Computer Graphics",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -24902,7 +24902,7 @@
         "company_name": "Bridgewater Associates",
         "id": "328683e6-519f-4e0c-97c1-5237c57176cd",
         "title": "Investment Engineer Intern - Summer 2024",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -24940,7 +24940,7 @@
         "company_name": "Optiver",
         "id": "4cb3632f-a207-48af-bfef-bb5be6642d3f",
         "title": "Campus: Software Engineer Intern - Summer 2024 - Austin",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -25035,7 +25035,7 @@
         "company_name": "Optiver",
         "id": "1c0a9a89-a534-4246-8d4b-bf08b4728317",
         "title": "Campus: Quantitative Trader Intern - Summer 2024 - Chicago",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -26101,7 +26101,7 @@
         "company_name": "Northwestern Mutual",
         "id": "fc0435c0-d41b-467a-ba48-e1eabb1699ad",
         "title": "Software Engineering Internship - Summer 2024",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -36581,7 +36581,7 @@
         "company_name": "Blizzard Entertainment",
         "id": "01774b33-56d0-498b-b886-e7a30bb8a2a1",
         "title": "2024 US Summer Internship - Analytics & Data Science",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -47773,6 +47773,103 @@
             "London, UK"
         ],
         "company_url": "https://simplify.jobs/c/Schonfeld",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "FastSpring",
+        "id": "3fb066b6-4ac5-49f8-bc23-4fd4a22b95e8",
+        "title": "Sales Operations Data Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1703837943,
+        "date_posted": 1703837943,
+        "url": "https://boards.greenhouse.io/fastspring/jobs/5039956004",
+        "locations": [
+            "Remote"
+        ],
+        "company_url": "https://simplify.jobs/c/FastSpring",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Mercedes-Benz",
+        "id": "bc7615bd-92a7-473c-b1cf-4addadfb5540",
+        "title": "Embedded Software Engineer \u2013 Intern",
+        "active": true,
+        "terms": [
+            "Winter 2024",
+            "Spring 2024",
+            "Summer 2024"
+        ],
+        "date_updated": 1703837591,
+        "date_posted": 1703837591,
+        "url": "https://jobs.lever.co/MBRDNA/e80fa762-49ee-42f8-afa2-a1c103532b81/apply",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Mercedes-Benz",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Northwestern Mutual",
+        "id": "e9a77b16-8a39-4d1c-bc20-914f3eb63e8c",
+        "title": "Security Automation Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1703837521,
+        "date_posted": 1703837521,
+        "url": "https://northwesternmutual.wd5.myworkdayjobs.com/corporate-careers/job/Milwaukee-WI-Corporate/Security-Automation-Intern_JR-39787-1",
+        "locations": [
+            "Milwaukee, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Northwestern-Mutual",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Northwestern Mutual",
+        "id": "2d2e33a7-2384-4783-b32f-46f7a4a80e06",
+        "title": "Data & Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1703837519,
+        "date_posted": 1703837519,
+        "url": "https://northwesternmutual.wd5.myworkdayjobs.com/corporate-careers/job/Milwaukee-WI-Corporate/Data---Analytics-Intern_JR-39791-1",
+        "locations": [
+            "Milwaukee, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Northwestern-Mutual",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Northwestern Mutual",
+        "id": "c4e8d992-e938-427c-8295-10c74ede5673",
+        "title": "Data Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1703837519,
+        "date_posted": 1703837519,
+        "url": "https://northwesternmutual.wd5.myworkdayjobs.com/corporate-careers/job/Milwaukee-WI-Corporate/Data-Engineer-Intern_JR-39531",
+        "locations": [
+            "Milwaukee, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Northwestern-Mutual",
         "is_visible": true,
         "sponsorship": "Other"
     }
