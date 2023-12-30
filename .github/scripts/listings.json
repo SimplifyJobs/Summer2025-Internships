@@ -24902,7 +24902,7 @@
         "company_name": "Bridgewater Associates",
         "id": "328683e6-519f-4e0c-97c1-5237c57176cd",
         "title": "Investment Engineer Intern - Summer 2024",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -24940,7 +24940,7 @@
         "company_name": "Optiver",
         "id": "4cb3632f-a207-48af-bfef-bb5be6642d3f",
         "title": "Campus: Software Engineer Intern - Summer 2024 - Austin",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -25035,7 +25035,7 @@
         "company_name": "Optiver",
         "id": "1c0a9a89-a534-4246-8d4b-bf08b4728317",
         "title": "Campus: Quantitative Trader Intern - Summer 2024 - Chicago",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -47948,6 +47948,63 @@
             "Cincinnati, OH"
         ],
         "company_url": "https://simplify.jobs/c/Strategic-HR",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "LeoLabs",
+        "id": "1f14e657-2ebf-4972-9746-4c3d062c238e",
+        "title": "Machine Learning Internship",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1703924369,
+        "date_posted": 1703924369,
+        "url": "https://jobs.lever.co/leolabs-2/1dd992cd-6e69-4cfa-acda-dedaa2d5d9b3/apply",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/LeoLabs",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "TAE Technologies",
+        "id": "382a7dc8-7902-4d41-9189-57939713990c",
+        "title": "Physics Internship - UK",
+        "active": true,
+        "terms": [
+            "Winter 2024"
+        ],
+        "date_updated": 1703923989,
+        "date_posted": 1703923989,
+        "url": "https://boards.greenhouse.io/taefusion60/jobs/4315160006",
+        "locations": [
+            "Remote"
+        ],
+        "company_url": "https://simplify.jobs/c/TAE-Tech",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Point72",
+        "id": "6c3cc54b-713a-4dfb-897a-484cd7a65a59",
+        "title": "2024 Data Engineer Internship - Long/Short Equities",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1703923680,
+        "date_posted": 1703923680,
+        "url": "https://boards.greenhouse.io/point72/jobs/7061105002",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Point72",
         "is_visible": true,
         "sponsorship": "Other"
     }
