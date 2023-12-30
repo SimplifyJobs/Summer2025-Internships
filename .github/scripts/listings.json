@@ -47872,5 +47872,83 @@
         "company_url": "https://simplify.jobs/c/Northwestern-Mutual",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Span",
+        "id": "74b667d7-793f-4fec-9551-75bd8bfcc746",
+        "title": "Data Analytics Co-op July-December 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024",
+            "Fall 2024",
+            "Winter 2025"
+        ],
+        "date_updated": 1703896252,
+        "date_posted": 1703896252,
+        "url": "https://boards.greenhouse.io/spanio/jobs/5845554003",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Span",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Span",
+        "id": "ae757a2c-62c9-4e54-9979-fd9eb4288532",
+        "title": "Data Science Internship-Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1703896252,
+        "date_posted": 1703896252,
+        "url": "https://boards.greenhouse.io/spanio/jobs/5845513003",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Span",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Span",
+        "id": "cc9e7dd7-6652-4879-ba4a-b1cb52a0eb8d",
+        "title": "Modeling and Controls Internship-Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1703896253,
+        "date_posted": 1703896253,
+        "url": "https://boards.greenhouse.io/spanio/jobs/5845539003",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Span",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Strategic HR",
+        "id": "7f158384-aed3-4b96-85fe-a0c2272ccee2",
+        "title": "2024 Summer Festival Internships",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1703894887,
+        "date_posted": 1703894887,
+        "url": "https://careers.strategichrinc.com/job-application/?gh_jid=5835654003",
+        "locations": [
+            "Cincinnati, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Strategic-HR",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
