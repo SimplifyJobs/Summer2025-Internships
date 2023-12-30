@@ -17890,7 +17890,7 @@
         "company_name": "Matroid",
         "id": "e3c69167-0758-4cc2-b361-0a2b8daec895",
         "title": "Software Engineer Intern - Infrastructure - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -17909,7 +17909,7 @@
         "company_name": "Matroid",
         "id": "b9d0e46a-0003-40bb-91dd-6338717adf73",
         "title": "Computer Vision Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -17950,7 +17950,7 @@
         "company_name": "Matroid",
         "id": "84b371d0-4623-4124-9aac-1c18f5cb917c",
         "title": "Full Stack Engineer Intern for Computer Vision Products - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -36581,7 +36581,7 @@
         "company_name": "Blizzard Entertainment",
         "id": "01774b33-56d0-498b-b886-e7a30bb8a2a1",
         "title": "2024 US Summer Internship - Analytics & Data Science",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
