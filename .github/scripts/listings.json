@@ -36581,7 +36581,7 @@
         "company_name": "Blizzard Entertainment",
         "id": "01774b33-56d0-498b-b886-e7a30bb8a2a1",
         "title": "2024 US Summer Internship - Analytics & Data Science",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -37561,7 +37561,7 @@
         "company_name": "Mastercard",
         "id": "0f5f8368-7144-466f-8241-8147327aab38",
         "title": "Systems Platform Architecture Intern - Summer 2024 - United States",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -43592,7 +43592,7 @@
         "company_name": "Plume",
         "id": "a953e9b0-be6a-4116-b184-5ed21a2262c7",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
