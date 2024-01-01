@@ -12792,7 +12792,7 @@
         "company_name": "Oshkosh",
         "id": "91c4aaa3-61a5-432a-93f2-54a5761975cf",
         "title": "CAE Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -18473,7 +18473,7 @@
         "company_name": "Genesis Therapeutics",
         "id": "74236fd1-563e-4647-acfe-c4a18c881e25",
         "title": "ML Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -18744,7 +18744,7 @@
         "company_name": "Genesis Therapeutics",
         "id": "2ae7ef5d-989b-45c5-bd0c-dacf383f1535",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -22549,7 +22549,7 @@
         "company_name": "PsiQuantum",
         "id": "ab50009f-afd3-4fcb-a7a9-49d87c3aa761",
         "title": "Intern \u2013 Quantum Architecture",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2024"
         ],
@@ -22978,7 +22978,7 @@
         "company_name": "Moonhub",
         "id": "e4bf14bc-c30f-4b40-8ff7-9bbe4b5fb34e",
         "title": "Engineering Intern - Full-stack",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -22997,7 +22997,7 @@
         "company_name": "Moonhub",
         "id": "39c631c3-6674-4ec0-b030-4e962196e64b",
         "title": "All",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -31211,7 +31211,7 @@
         "company_name": "Garda Capital Partners",
         "id": "56ebfe80-1f42-4d51-90e4-6148e81c8539",
         "title": "Software Engineer Intern - .Net",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -36581,7 +36581,7 @@
         "company_name": "Blizzard Entertainment",
         "id": "01774b33-56d0-498b-b886-e7a30bb8a2a1",
         "title": "2024 US Summer Internship - Analytics & Data Science",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -38084,7 +38084,7 @@
         "company_name": "Databricks",
         "id": "73cebfa9-8a27-40c5-834a-35526e7f1b9b",
         "title": "Genai Machine Learning Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -42653,7 +42653,7 @@
         "company_name": "Mark43",
         "id": "18347bd7-7de8-42cb-b814-d26d6daa4984",
         "title": "Cloud Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
