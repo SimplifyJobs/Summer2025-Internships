@@ -867,7 +867,7 @@
         "company_name": "Fetch",
         "id": "43f05610-37a1-46e4-b221-df988084364e",
         "title": "iOS Apprenticeship - Mobile Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -27922,7 +27922,7 @@
         "company_name": "Symbotic",
         "id": "723fe65e-af90-4fc4-bbcc-8fcf288ebffa",
         "title": "Intern-Controls Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023",
             "Spring 2024",
@@ -34654,7 +34654,7 @@
         "company_name": "PostEra",
         "id": "cb18dbab-f9ec-414b-adc2-9a8c9333ce6c",
         "title": "Software Engineering Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -36581,7 +36581,7 @@
         "company_name": "Blizzard Entertainment",
         "id": "01774b33-56d0-498b-b886-e7a30bb8a2a1",
         "title": "2024 US Summer Internship - Analytics & Data Science",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -45995,7 +45995,7 @@
         "company_name": "Symbotic",
         "id": "13973e4f-0c74-4329-9b63-66f356d23bb7",
         "title": "Intern-Embedded Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023",
             "Spring 2024",
@@ -46455,7 +46455,7 @@
         "company_name": "ZoomInfo",
         "id": "f2b89bf5-9403-4734-824a-b42778752aef",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -46474,7 +46474,7 @@
         "company_name": "ZoomInfo",
         "id": "3cf6dfd5-7f46-4219-b4d0-cdb5bc2a3df9",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -46706,7 +46706,7 @@
         "company_name": "Zynga",
         "id": "da93d01a-0490-4791-9658-cf89d163f764",
         "title": "Engineering Intern - Star Wars",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -46725,7 +46725,7 @@
         "company_name": "Zynga",
         "id": "0244e1d1-6a93-4432-af58-72a11a62a67b",
         "title": "Engineering Intern - Month 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -46902,7 +46902,7 @@
         "company_name": "Cadence Design Systems",
         "id": "fa2b21d5-b2b0-4bd1-80ba-e6f89b7ca4c2",
         "title": "WFO Application Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -48043,6 +48043,63 @@
             "Mountain View, CA"
         ],
         "company_url": "https://simplify.jobs/c/StarTree",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Wealthsimple",
+        "id": "49a59941-a154-46e9-8f80-dc34f1d29b22",
+        "title": "Intern \u2013 Data Science - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1704212575,
+        "date_posted": 1704212575,
+        "url": "https://jobs.lever.co/wealthsimple/3a59dc79-c9f5-4987-8cf6-3e0d61d41929/apply",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Wealthsimple",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Wealthsimple",
+        "id": "0551e315-2e41-488a-bf5b-142511ac659a",
+        "title": "Intern \u2013 Software Development - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1704212584,
+        "date_posted": 1704212584,
+        "url": "https://jobs.lever.co/wealthsimple/c3396808-5b7a-431a-837c-e5bc92c2ed31/apply",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Wealthsimple",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Ekimetrics",
+        "id": "494c5aa9-3641-4083-af1c-e9107467e6e0",
+        "title": "Summer Internship 2024 Marketing & Data Science Consultant - 2 months",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1704211672,
+        "date_posted": 1704211672,
+        "url": "https://jobs.lever.co/ekimetrics/c650f3a4-dfd4-4293-b4dc-f6de131807d6/apply",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Ekimetrics",
         "is_visible": true,
         "sponsorship": "Other"
     }
