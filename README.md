@@ -22,7 +22,13 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 			</div>
 		<sub><i>Share any other cool projects you make using the repo, and we might give you a shoutout!</i></sub>
 	</p>
+	<p>
+		Install the "Simplify Sync" extension to effortlessly track all listed jobs with dates. 
+		<br>
+		<a href="bit.ly/ChromeStore_Link">Install Now</a>
+	</p>
 </div>
+
 
 ---
 
