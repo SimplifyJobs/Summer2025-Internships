@@ -826,7 +826,7 @@
         "company_name": "Walmart",
         "id": "9fb8a8c8-86a5-41ac-9020-d701b44d076f",
         "title": "Supply Chain Innovation & Automation PM internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -967,7 +967,7 @@
         "terms": [
             "Summer 2024"
         ],
-        "active": true,
+        "active": false,
         "url": "https://boards.greenhouse.io/gainternships/jobs/5150526",
         "is_visible": true,
         "source": "Simplify",
@@ -1993,7 +1993,7 @@
         "company_name": "Ekimetrics",
         "id": "97964cb8-fdda-4a97-a78d-19c194e59388",
         "title": "6 months Internship in Strategy & Data Science",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -5596,7 +5596,7 @@
         "company_name": "Palantir",
         "id": "e1cb71b6-18fc-4d48-9c80-55c54bb62a50",
         "title": "Software Engineer \u2013 Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -17909,7 +17909,7 @@
         "company_name": "Matroid",
         "id": "b9d0e46a-0003-40bb-91dd-6338717adf73",
         "title": "Computer Vision Intern - Summer 2024",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -17950,7 +17950,7 @@
         "company_name": "Matroid",
         "id": "84b371d0-4623-4124-9aac-1c18f5cb917c",
         "title": "Full Stack Engineer Intern for Computer Vision Products - Summer 2024",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -36581,7 +36581,7 @@
         "company_name": "Blizzard Entertainment",
         "id": "01774b33-56d0-498b-b886-e7a30bb8a2a1",
         "title": "2024 US Summer Internship - Analytics & Data Science",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -42940,7 +42940,7 @@
         "company_name": "Okta",
         "id": "9377e252-b5bc-43f4-bd71-c82ac14b19cc",
         "title": "Data Analyst Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -43037,7 +43037,7 @@
         "company_name": "Leidos",
         "id": "9527419a-5ecb-4c74-8544-e1a97961dafc",
         "title": "Technical Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2023"
         ],
@@ -44288,7 +44288,7 @@
         "company_name": "Intel",
         "id": "063d84ad-aa5c-4f19-81e6-fa3b159a880b",
         "title": "Semiconductor Research Engineer Undergrad Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -45417,7 +45417,7 @@
         "company_name": "Global Atlantic Financial Group",
         "id": "01a61db7-4134-4b24-bc2a-ada47b7e83d6",
         "title": "2024 Market Development Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -47899,7 +47899,7 @@
         "company_name": "Span",
         "id": "ae757a2c-62c9-4e54-9979-fd9eb4288532",
         "title": "Data Science Internship-Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -47956,7 +47956,7 @@
         "company_name": "LeoLabs",
         "id": "1f14e657-2ebf-4972-9746-4c3d062c238e",
         "title": "Machine Learning Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -48032,7 +48032,7 @@
         "company_name": "StarTree",
         "id": "c23d2fa5-2d01-4a86-8d30-b48038576207",
         "title": "Software Engineer \u2013 Internship - Data Infrastructure",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -48101,6 +48101,181 @@
         ],
         "company_url": "https://simplify.jobs/c/Ekimetrics",
         "is_visible": false,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Ripple",
+        "id": "03cc8913-10f5-4a0d-a560-e1f8d81391ec",
+        "title": "Quantitative Trading Intern - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1704241485,
+        "date_posted": 1704241485,
+        "url": "https://ripple.com/careers/all-jobs/job/5592859?gh_jid=5592859",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Ripple",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Matroid",
+        "id": "5487aba8-cea7-4bff-b9c7-99b90501a85a",
+        "title": "Software Engineer Intern - Infrastructure - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1704241369,
+        "date_posted": 1704241369,
+        "url": "https://matroid.breezy.hr/p/bf4668116295/apply",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Matroid",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "DRW",
+        "id": "21f151dd-e1ae-4cb2-ae12-a5c0c8877a9d",
+        "title": "Software Developer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1704241299,
+        "date_posted": 1704241299,
+        "url": "https://boards.greenhouse.io/drweng/jobs/5580297",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/DRW",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "DRW",
+        "id": "f42fb43a-d655-48e6-8261-2d1493803a9a",
+        "title": "Discretionary Junior Trading Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1704241295,
+        "date_posted": 1704241295,
+        "url": "https://boards.greenhouse.io/drweng/jobs/5585579",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/DRW",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Cadence Design Systems",
+        "id": "906859c2-adcf-406e-a0e0-5a9cca55dff9",
+        "title": "Software Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1704241054,
+        "date_posted": 1704241054,
+        "url": "https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/SAN-JOSE/Software-Intern_R44959-1",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Bank of Montreal (BMO)",
+        "id": "f53d1743-1443-433e-b45c-7f9cedf60172",
+        "title": "Software Developer \u2013 Internship - Summer 2024 - Weeks",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1704240648,
+        "date_posted": 1704240648,
+        "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Chicago-IL-USA/Software-Developer--Summer-2024--Internship----10-Weeks_R230022361-2",
+        "locations": [
+            "Remote in USA",
+            "Chicago, IL",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/BMO",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "F5",
+        "id": "f44b6911-b88f-41aa-bd4a-54b780234afd",
+        "title": "Software Engineering Intern - Spokane",
+        "active": true,
+        "terms": [
+            "Spring 2024",
+            "Summer 2024",
+            "Fall 2024"
+        ],
+        "date_updated": 1704240643,
+        "date_posted": 1704240643,
+        "url": "https://ffive.wd5.myworkdayjobs.com/en-US/f5jobs/job/Spokane/Software-Engineering-Intern--Spokane-_RP1029692",
+        "locations": [
+            "Spokane, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/f5",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Intel",
+        "id": "3347a4ae-a68b-40b1-bcee-12e6261da9cf",
+        "title": "Open Source Software Development \u2013 Undergraduate Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1704240620,
+        "date_posted": 1704240620,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Open-Source-Software-Development----Undergraduate-Intern_JR0253329",
+        "locations": [
+            "Hillsboro, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Global Atlantic Financial Group",
+        "id": "5e6146fa-4f30-490c-b7ca-f4db67803137",
+        "title": "2025 Quantitative Investments Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1704240582,
+        "date_posted": 1704240582,
+        "url": "https://boards.greenhouse.io/gainternships/jobs/5593433",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/GlobalAtlantic",
+        "is_visible": true,
         "sponsorship": "Other"
     }
 ]
