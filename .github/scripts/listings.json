@@ -13082,7 +13082,7 @@
         "company_name": "Wayfair",
         "id": "4763b0fd-1ae8-4030-9f0b-65a96ac27172",
         "title": "Supply Chain \u2013 And Operations Co-op - Service - January 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2024"
         ],
@@ -24130,7 +24130,7 @@
         "company_name": "Quanterix",
         "id": "27eaf577-7162-4954-9f9a-f948db35257b",
         "title": "Simoa Software Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -24902,7 +24902,7 @@
         "company_name": "Bridgewater Associates",
         "id": "328683e6-519f-4e0c-97c1-5237c57176cd",
         "title": "Investment Engineer Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -24940,7 +24940,7 @@
         "company_name": "Optiver",
         "id": "4cb3632f-a207-48af-bfef-bb5be6642d3f",
         "title": "Campus: Software Engineer Intern - Summer 2024 - Austin",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -25035,7 +25035,7 @@
         "company_name": "Optiver",
         "id": "1c0a9a89-a534-4246-8d4b-bf08b4728317",
         "title": "Campus: Quantitative Trader Intern - Summer 2024 - Chicago",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -27728,7 +27728,7 @@
         "company_name": "Symbotic",
         "id": "d816a81f-6a5b-4c31-80f8-291538b84301",
         "title": "Intern-Robotics Path Planning",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023",
             "Spring 2024",
@@ -30786,7 +30786,7 @@
         "company_name": "Ample",
         "id": "12d88d3c-2431-4229-b5fe-dbfaa18f1d0f",
         "title": "Embedded Software Engineer INTERN - January 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2024"
         ],
@@ -31667,7 +31667,7 @@
         "company_name": "Immuta",
         "id": "99863a19-3566-4fbb-a515-ea999c017efb",
         "title": "Product Research Internship Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -41887,7 +41887,7 @@
         "company_name": "Ripple",
         "id": "f5cc689c-97c6-48c0-8758-c929556e8641",
         "title": "Software Engineer \u2013 Data Platform Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -44765,7 +44765,7 @@
         "company_name": "Ripple",
         "id": "ccf71d3a-84ba-418e-8f7c-f5569afc8fad",
         "title": "Software Engineer Intern - Crypto Compliance & Finance - Summer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -46921,7 +46921,7 @@
         "company_name": "Cadence Design Systems",
         "id": "e607094c-5835-47d8-a561-9977b88fec5b",
         "title": "WFO Application Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -46940,7 +46940,7 @@
         "company_name": "Cadence Design Systems",
         "id": "c41ebbc2-4cf2-4b84-b86f-be799cdc7306",
         "title": "WFO Application Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -46959,7 +46959,7 @@
         "company_name": "Cadence Design Systems",
         "id": "b54cfa33-ec95-48c0-8a65-562dbbd08b8f",
         "title": "WFO Application Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -46978,7 +46978,7 @@
         "company_name": "Cadence Design Systems",
         "id": "a935bf8a-b305-407e-b3f9-6f2abc5f6a9f",
         "title": "WFO Application Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -47016,7 +47016,7 @@
         "company_name": "Cadence Design Systems",
         "id": "4acfe1c0-ec0d-45ff-bfd7-c16e593cd439",
         "title": "WFO Application Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -47035,7 +47035,7 @@
         "company_name": "Cadence Design Systems",
         "id": "447bb518-9a5c-47c0-be53-76e395b368ab",
         "title": "WFO Application Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -47054,7 +47054,7 @@
         "company_name": "Cadence Design Systems",
         "id": "3125174e-8b5e-407b-b1d2-bcfa5c64cec3",
         "title": "WFO Application Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -47073,7 +47073,7 @@
         "company_name": "Cadence Design Systems",
         "id": "2b8fa4d5-29f2-4dfe-9f48-c136c4bfa3bb",
         "title": "WFO Application Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -47092,7 +47092,7 @@
         "company_name": "Cadence Design Systems",
         "id": "1e3344b3-7dc7-425a-a566-62df6de87ba6",
         "title": "WFO Application Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -47608,7 +47608,7 @@
         "company_name": "Opendoor",
         "id": "2bd9f24b-a997-44d1-b08e-1047d7b3f57d",
         "title": "Intern \u2013 Data Scientist",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -47821,7 +47821,7 @@
         "company_name": "Northwestern Mutual",
         "id": "e9a77b16-8a39-4d1c-bc20-914f3eb63e8c",
         "title": "Security Automation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
