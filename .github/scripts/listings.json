@@ -48277,5 +48277,25 @@
         "company_url": "https://simplify.jobs/c/GlobalAtlantic",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1704268944,
+        "url": "https://www.amazon.jobs/en/jobs/2495700/jr-software-development-engineer?cmpid=JB_INOP301245B?mode=job&iis=Job+Posting&iisn=Indeed+(Free+Posting)",
+        "company_name": "Amazon",
+        "title": "Jr. Software Development Engineer Intern",
+        "locations": [
+            "New York, NY"
+        ],
+        "terms": [
+            "Summer 2024",
+            "Fall 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "JustinhSE",
+        "id": "40e96f97-cab4-4053-b33f-3d787feba24e",
+        "date_posted": 1704268944,
+        "company_url": "",
+        "is_visible": true
     }
 ]
