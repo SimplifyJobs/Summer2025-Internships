@@ -25,7 +25,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 	<p>
 		Install the "Simplify Sync" extension to effortlessly track all listed jobs with dates. 
 		<br>
-		<a href="bit.ly/ChromeStore_Link](https://chromewebstore.google.com/detail/simplify-sync/bclimpabnkjpdenibgjolonmpaijkjlo?hl=en-GB">Install Now</a>
+		<a href="https://chromewebstore.google.com/detail/simplify-sync/bclimpabnkjpdenibgjolonmpaijkjlo?hl=en-GB">Install Now</a>
 	</p>
 </div>
 
