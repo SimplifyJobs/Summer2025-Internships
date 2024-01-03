@@ -35333,7 +35333,7 @@
         "company_name": "Cowen",
         "id": "3d284b1c-8fff-4f1f-88da-5c5f6c9d4b6f",
         "title": "Markets Summer Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -36581,7 +36581,7 @@
         "company_name": "Blizzard Entertainment",
         "id": "01774b33-56d0-498b-b886-e7a30bb8a2a1",
         "title": "2024 US Summer Internship - Analytics & Data Science",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -48297,5 +48297,81 @@
         "date_posted": 1704268944,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Raptor Maps",
+        "id": "cb21a33f-c79a-4c93-bac0-5767b6f8aeb2",
+        "title": "Summer 2024 Software Engineering Internship - Remote",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1704299022,
+        "date_posted": 1704299022,
+        "url": "https://jobs.lever.co/RaptorMaps/015d4188-4a39-4e8e-ac5d-6e8b69a8efef/apply",
+        "locations": [
+            "Remote"
+        ],
+        "company_url": "https://simplify.jobs/c/RaptorMaps",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Dataiku",
+        "id": "4f8565c0-a720-43dd-8450-46924b86800f",
+        "title": "Software Engineer intern - Develop an AI chatbot to help Dataiku users",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1704298922,
+        "date_posted": 1704298922,
+        "url": "https://boards.greenhouse.io/dataiku/jobs/5043269004",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Dataiku",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "D2L",
+        "id": "6c236fa5-9001-43c4-b4d0-192bbcb08d84",
+        "title": "Software Developer \u2013 Spring 2024 Co-op - Kitchener",
+        "active": true,
+        "terms": [
+            "Spring 2024"
+        ],
+        "date_updated": 1704298794,
+        "date_posted": 1704298794,
+        "url": "https://www.d2l.com/careers/jobs/?job_id=5592999&gh_jid=5592999",
+        "locations": [
+            "Kitchener, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/D2L",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Zynga",
+        "id": "9cce3fbc-defe-4259-b367-c1a05d292d20",
+        "title": "Software Engineering Intern - Month 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1704298536,
+        "date_posted": 1704298536,
+        "url": "https://boards.greenhouse.io/zynga/jobs/5045217004",
+        "locations": [
+            "Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Zynga",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
