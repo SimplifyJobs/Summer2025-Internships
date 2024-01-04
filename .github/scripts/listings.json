@@ -36581,7 +36581,7 @@
         "company_name": "Blizzard Entertainment",
         "id": "01774b33-56d0-498b-b886-e7a30bb8a2a1",
         "title": "2024 US Summer Internship - Analytics & Data Science",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -48360,7 +48360,7 @@
         "company_name": "Zynga",
         "id": "9cce3fbc-defe-4259-b367-c1a05d292d20",
         "title": "Software Engineering Intern - Month 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -48504,6 +48504,26 @@
             "Hillsboro, OR"
         ],
         "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "NVIDIA",
+        "id": "8eb2c70b-9256-4bfa-9a83-7f0011236e9b",
+        "title": "Applied Research Intern - Strategic Partnerships - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1704385239,
+        "date_posted": 1704385239,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-NY-New-York/Applied-Research-Intern--Strategic-Partnerships---Summer-2024_JR1976232",
+        "locations": [
+            "Remote in USA",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
         "is_visible": true,
         "sponsorship": "Other"
     }
