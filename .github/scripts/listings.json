@@ -7366,7 +7366,7 @@
         "company_name": "PayPal",
         "id": "de7f25d2-af21-4fc7-be7f-633e662b4300",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2024",
             "Fall 2024"
@@ -7981,7 +7981,7 @@
         "company_name": "Rivian",
         "id": "284a4f9e-3f2c-472a-a63f-5df88fae3c68",
         "title": "UIUC Research Park Intern - Special Projects",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2023",
             "Spring 2024",
@@ -15035,7 +15035,7 @@
         "company_name": "Immuta",
         "id": "65cf17b4-c49e-45a8-86da-f9123a0746be",
         "title": "Product Engineering Internship - Summer 2024",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -24541,7 +24541,7 @@
         "company_name": "Splunk",
         "id": "a51774cc-1edf-498b-b9f0-c6f74990390c",
         "title": "Software Engineer Intern - Backend/Full-stack - Boulder - CO - Summer 2024",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -29661,7 +29661,7 @@
         "company_name": "Centerfield",
         "id": "6149828d-4c1f-441a-ada1-7a25554b7cb0",
         "title": "Software Engineer Intern - Summer 2024",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -36581,7 +36581,7 @@
         "company_name": "Blizzard Entertainment",
         "id": "01774b33-56d0-498b-b886-e7a30bb8a2a1",
         "title": "2024 US Summer Internship - Analytics & Data Science",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -46725,7 +46725,7 @@
         "company_name": "Zynga",
         "id": "0244e1d1-6a93-4432-af58-72a11a62a67b",
         "title": "Engineering Intern - Month 2024",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -47189,7 +47189,7 @@
         "company_name": "Intel",
         "id": "e2f12438-83f1-4357-81f5-15adcc6cd688",
         "title": "Numerics Undergrad Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -47440,7 +47440,7 @@
         "company_name": "ServiceNow",
         "id": "2235e53d-7c4d-4620-822c-7a4fc3ca60ad",
         "title": "Associate Machine Learning Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -48371,6 +48371,120 @@
             "Canada"
         ],
         "company_url": "https://simplify.jobs/c/Zynga",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Ripple",
+        "id": "49199bd2-61eb-4fb0-ad01-134c18f6b4ba",
+        "title": "Software Engineer Intern - Ripplex - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1704327871,
+        "date_posted": 1704327871,
+        "url": "https://ripple.com/careers/all-jobs/job/5568766?gh_jid=5568766",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Ripple",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Strategic HR",
+        "id": "c45214f3-b01b-4607-86a8-e0b4e4eb201a",
+        "title": "2024 Summer Festival Internships",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1704327824,
+        "date_posted": 1704327824,
+        "url": "https://careers.strategichrinc.com/job-application/?gh_jid=5848395003",
+        "locations": [
+            "Cincinnati, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Strategic-HR",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Anduril",
+        "id": "dfdc1d7e-67ff-4681-8e4b-47e75ff75de5",
+        "title": "Robotics Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1704327664,
+        "date_posted": 1704327664,
+        "url": "https://boards.greenhouse.io/andurilindustries/jobs/4159377007",
+        "locations": [
+            "Newport Beach, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Anduril",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Okta",
+        "id": "966b4664-6c06-495c-901d-550a5d4180d8",
+        "title": "Salesforce/Apex Software Engineer Intern - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1704327657,
+        "date_posted": 1704327657,
+        "url": "https://www.okta.com/company/careers/opportunity/5597467?gh_jid=5597467",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Okta",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Plexus",
+        "id": "e240cf11-8108-45ce-9a2e-4717e8a1fa68",
+        "title": "Intern \u2013 Software Engineer - Spring 2025",
+        "active": true,
+        "terms": [
+            "Spring 2025"
+        ],
+        "date_updated": 1704327561,
+        "date_posted": 1704327561,
+        "url": "https://plexus.wd5.myworkdayjobs.com/en-US/Plexus_Careers/job/Neenah-WI/Intern---Software-Engineer---Spring-2025_R028066-1",
+        "locations": [
+            "Neenah, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Plexus",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "ShyftLabs",
+        "id": "39257161-0502-44b3-acdd-d6dc7aede54c",
+        "title": "Software Developer \u2013 Internship",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1704327300,
+        "date_posted": 1704327300,
+        "url": "https://jobs.lever.co/shyftlabs/b39a054c-e4d2-405e-bf47-a25f80b294eb/apply",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/ShyftLabs",
         "is_visible": true,
         "sponsorship": "Other"
     }
