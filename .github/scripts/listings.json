@@ -48602,5 +48602,24 @@
         "date_posted": 1704424414,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1704424519,
+        "url": "https://careers.ll.mit.edu/job/Lexington-Group-43-Summer-Research-Program-Intern-Air-Traffic-Control-Systems%29-MA-02420/1113651900/",
+        "company_name": "MIT LL",
+        "title": "Summe Intern - Air Traffic Control Software",
+        "locations": [
+            "Lexington, MA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "Willy-Chan",
+        "id": "09dc93de-d726-409d-bce0-e4827dd1d197",
+        "date_posted": 1704424519,
+        "company_url": "",
+        "is_visible": true
     }
 ]
