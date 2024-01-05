@@ -48583,5 +48583,24 @@
         "date_posted": 1704424321,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1704424414,
+        "url": "https://careers.ll.mit.edu/job/Lexington-Group-37-Summer-Research-Program-Intern-%28Advanced-Undersea-Systems-and-Technology%29-MA-02420/1099074900/",
+        "company_name": "MIT LL",
+        "title": "Summer Intern - Advanced Undersea Systems and Technology",
+        "locations": [
+            "Lexington, MA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "Willy-Chan",
+        "id": "b3a9625f-6c1e-4a00-92ca-d9a78228bf31",
+        "date_posted": 1704424414,
+        "company_url": "",
+        "is_visible": true
     }
 ]
