@@ -5596,7 +5596,7 @@
         "company_name": "Palantir",
         "id": "e1cb71b6-18fc-4d48-9c80-55c54bb62a50",
         "title": "Software Engineer \u2013 Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -16213,7 +16213,7 @@
         "company_name": "Hewlett Packard (HP)",
         "id": "93eced5c-5946-4227-8ce8-b00e1f8bee21",
         "title": "Finance Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -22434,7 +22434,7 @@
         "company_name": "Chamberlain Group",
         "id": "033c297f-a10c-4666-8ff7-c3fcfb00a477",
         "title": "Intern \u2013 SW Test Automation Engineer - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -23731,7 +23731,7 @@
         "company_name": "Zoox",
         "id": "3a880ea0-dcb9-4335-9184-10d7f26bc508",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -24902,7 +24902,7 @@
         "company_name": "Bridgewater Associates",
         "id": "328683e6-519f-4e0c-97c1-5237c57176cd",
         "title": "Investment Engineer Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -24940,7 +24940,7 @@
         "company_name": "Optiver",
         "id": "4cb3632f-a207-48af-bfef-bb5be6642d3f",
         "title": "Campus: Software Engineer Intern - Summer 2024 - Austin",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -25035,7 +25035,7 @@
         "company_name": "Optiver",
         "id": "1c0a9a89-a534-4246-8d4b-bf08b4728317",
         "title": "Campus: Quantitative Trader Intern - Summer 2024 - Chicago",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -25829,7 +25829,7 @@
         "company_name": "CACI",
         "id": "a00f07b5-7984-405a-986f-deb44418210f",
         "title": "Software Development Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -29085,7 +29085,7 @@
         "company_name": "Qumulo",
         "id": "6720dafc-8db1-4b6c-8fd4-b0798ab430be",
         "title": "Software Development Engineer \u2013 Summer Internship 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -41792,7 +41792,7 @@
         "company_name": "Intel",
         "id": "d6d70897-d434-4697-bf59-47822e777ba0",
         "title": "Undergraduate Software Application Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -43037,7 +43037,7 @@
         "company_name": "Leidos",
         "id": "9527419a-5ecb-4c74-8544-e1a97961dafc",
         "title": "Technical Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
