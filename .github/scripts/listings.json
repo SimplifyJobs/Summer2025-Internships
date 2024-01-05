@@ -48545,5 +48545,24 @@
         "date_posted": 1704423745,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1704424262,
+        "url": "https://careers.ll.mit.edu/job/Lexington-Group-38-Summer-Research-Program-Intern-%28Interceptor-and-Sensor-Technology%29-MA-02420/1082688900/",
+        "company_name": "MIT LL",
+        "title": "Summer Intern - Interceptor and Sensor Technology",
+        "locations": [
+            "Lexington, MA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "Willy-Chan",
+        "id": "d95909ef-527c-44a6-b4b8-0a5a311b32de",
+        "date_posted": 1704424262,
+        "company_url": "",
+        "is_visible": true
     }
 ]
