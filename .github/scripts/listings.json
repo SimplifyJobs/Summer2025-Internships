@@ -48564,5 +48564,24 @@
         "date_posted": 1704424262,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1704424321,
+        "url": "https://careers.ll.mit.edu/job/Lexington-Group-39-Summer-Research-Program-Intern-%28Advanced-Concepts-and-Technologies%29-MA-02420/1094633200/",
+        "company_name": "MIT LL",
+        "title": "Summer Intern - Electronic Warfare",
+        "locations": [
+            "Lexington, MA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "Willy-Chan",
+        "id": "a105c8b2-ee0d-4d08-ada6-cec32bfe2288",
+        "date_posted": 1704424321,
+        "company_url": "",
+        "is_visible": true
     }
 ]
