@@ -48526,5 +48526,24 @@
         "company_url": "https://simplify.jobs/c/NVIDIA",
         "is_visible": false,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1704423745,
+        "url": "https://careers.ll.mit.edu/job/Lexington-Group-01-Summer-Research-Program-Intern-%28Artificial-Intelligence-Technology%29-MA-02420/1109281200/",
+        "company_name": "MIT Lincoln Laboratory",
+        "title": "Summer Intern (Artificial Intelligence Technology)",
+        "locations": [
+            "Lexington, MA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "Willy-Chan",
+        "id": "e408f772-3f6d-4518-9e2c-f412c5524c43",
+        "date_posted": 1704423745,
+        "company_url": "",
+        "is_visible": true
     }
 ]
