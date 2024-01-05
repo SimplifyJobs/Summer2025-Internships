@@ -28387,7 +28387,7 @@
         "company_name": "Live Nation Entertainment",
         "id": "9d6d26eb-3628-40db-a01c-a0c7d519292b",
         "title": "LN Concerts \u2013 Venue Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -29142,7 +29142,7 @@
         "company_name": "ServiceNow",
         "id": "478b1ca2-7f33-4f2f-9000-ccea75117c66",
         "title": "Information Security Engineer Internship - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -36581,7 +36581,7 @@
         "company_name": "Blizzard Entertainment",
         "id": "01774b33-56d0-498b-b886-e7a30bb8a2a1",
         "title": "2024 US Summer Internship - Analytics & Data Science",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -42901,7 +42901,7 @@
         "company_name": "Leidos",
         "id": "fc5af005-d20b-4122-911e-53d71dde0163",
         "title": "Electrical Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -46607,7 +46607,7 @@
         "company_name": "Gen",
         "id": "af48d2fb-d375-45b5-af53-e046ceb830ba",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -48203,7 +48203,7 @@
         "company_name": "Bank of Montreal (BMO)",
         "id": "f53d1743-1443-433e-b45c-7f9cedf60172",
         "title": "Software Developer \u2013 Internship - Summer 2024 - Weeks",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -48780,7 +48780,7 @@
         "company_name": "Applied Materials",
         "id": "8e7d2a03-3d05-456f-92f6-dae725198066",
         "title": "2024 Summer Embedded Firmware Co-Op - Rochester - NY",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -48799,7 +48799,7 @@
         "company_name": "Applied Materials",
         "id": "c8cfebf9-15ab-48aa-a724-95ae82e46b68",
         "title": "2024 Summer Embedded Firmware Co-Op - Rochester - NY",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -48810,6 +48810,44 @@
             "Rochester, NY"
         ],
         "company_url": "https://simplify.jobs/c/AMAT",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Cadence Design Systems",
+        "id": "d15c4070-d66e-48f4-a4a6-dfe6be707c2a",
+        "title": "Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1704471482,
+        "date_posted": 1704471482,
+        "url": "https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/EDINBURGH-01/Intern_R44949",
+        "locations": [
+            "Edinburgh, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "CACI",
+        "id": "f5febcf3-14c7-4729-92bf-278d94ca5675",
+        "title": "Software Developer Intern - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1704471237,
+        "date_posted": 1704471237,
+        "url": "https://caci.wd1.myworkdayjobs.com/External/job/US-MD-Annapolis-Junction/Software-Developer-Intern---Summer-2024_290519-1",
+        "locations": [
+            "Annapolis Junction, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/CACI",
         "is_visible": true,
         "sponsorship": "Other"
     }
