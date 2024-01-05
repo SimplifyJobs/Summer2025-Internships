@@ -4519,7 +4519,7 @@
         "company_name": "Capital One",
         "id": "8ab08bfa-385b-4471-886e-4556b58a962f",
         "title": "Cyber Security Internship Program",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -11320,7 +11320,7 @@
         "company_name": "Nutanix",
         "id": "b5ec12d2-4310-460a-9dde-f44dfe75363d",
         "title": "Software Engineering Intern - Undergraduates Only",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2024",
             "Summer 2024"
@@ -18668,7 +18668,7 @@
         "company_name": "Hewlett Packard (HP)",
         "id": "75aeb815-9001-4251-a70f-a1af246de451",
         "title": "Job Description HP Inc. Workforce Services & Solutions Technical Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -20880,7 +20880,7 @@
         "company_name": "Lucid Motors",
         "id": "63f05467-7efe-447a-bee7-a39212548119",
         "title": "Intern \u2013 Bootloader Embedded Engineer - Summer 2024",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -23750,7 +23750,7 @@
         "company_name": "Zoox",
         "id": "47a60c50-ae4a-4835-aeb8-7b194afe5676",
         "title": "Autonomy Insights \u2013 Data Science/Machine Learning Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -25462,7 +25462,7 @@
         "company_name": "Zoox",
         "id": "5d8e063a-563e-4df0-becf-77d5b8965ea7",
         "title": "Manufacturing Operations \u2013 Technical Program Manager Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -29661,7 +29661,7 @@
         "company_name": "Centerfield",
         "id": "6149828d-4c1f-441a-ada1-7a25554b7cb0",
         "title": "Software Engineer Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -36581,7 +36581,7 @@
         "company_name": "Blizzard Entertainment",
         "id": "01774b33-56d0-498b-b886-e7a30bb8a2a1",
         "title": "2024 US Summer Internship - Analytics & Data Science",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -37834,7 +37834,7 @@
         "company_name": "Pathward",
         "id": "dbb4cfd2-b593-47c6-821d-026b4653897e",
         "title": "Data Scientist Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -42882,7 +42882,7 @@
         "company_name": "Leidos",
         "id": "3c876a48-8057-4089-bd88-8382c1ebbae5",
         "title": "Electronic Warfare Modeling & Simulation Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -43380,7 +43380,7 @@
         "company_name": "Chewie Labs",
         "id": "4b7a1568-5971-4eb8-a1f0-064d217c2236",
         "title": "Software Development Engineer in Test Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -45592,7 +45592,7 @@
         "company_name": "D2L",
         "id": "e17c6cca-fd6f-416c-8757-f711f8286ceb",
         "title": "Product Support Analyst Winter 2024 Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2024"
         ],
@@ -48640,5 +48640,139 @@
         "date_posted": 1704424604,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Formlabs",
+        "id": "e1e7839b-cf45-4b81-8088-7b5c3a4f0fd4",
+        "title": "Algorithms Software Intern - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1704414222,
+        "date_posted": 1704414222,
+        "url": "https://careers.formlabs.com/job/5494878/apply/?gh_jid=5494878",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Formlabs",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Applied Materials",
+        "id": "e717cbaf-e442-4241-912c-abf9ae589dc6",
+        "title": "2024 Spring AI ML Co-op - Gloucester",
+        "active": true,
+        "terms": [
+            "Spring 2024"
+        ],
+        "date_updated": 1704414175,
+        "date_posted": 1704414175,
+        "url": "https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2023-Fall-AI-ML-Co-op--Gloucester-_R2316281-1",
+        "locations": [
+            "Essex County, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/AMAT",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Kinaxis",
+        "id": "41619f69-e976-4482-b335-5e0f635c1381",
+        "title": "Co-Op/Intern Developer - Clients - Front End Technologies",
+        "active": true,
+        "terms": [
+            "Spring 2024"
+        ],
+        "date_updated": 1704413988,
+        "date_posted": 1704413988,
+        "url": "https://boards.greenhouse.io/kinaxis/jobs/7082707002",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Kinaxis",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "The Boring Company",
+        "id": "a4ef2f82-6586-42b5-ac39-2e83618d1d46",
+        "title": "Software Engineering Intern - Winter/Spring 2024",
+        "active": true,
+        "terms": [
+            "Winter 2024",
+            "Spring 2024"
+        ],
+        "date_updated": 1704413959,
+        "date_posted": 1704413959,
+        "url": "https://jobs.lever.co/boringcompany/76b5979f-ffb6-4b59-b639-7adb2237c068/apply",
+        "locations": [
+            "Bastrop, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/The-Boring-Company",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "The Boring Company",
+        "id": "bac46378-921d-431e-a43a-5ad195a874a0",
+        "title": "Software Engineering Intern - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1704413958,
+        "date_posted": 1704413958,
+        "url": "https://jobs.lever.co/boringcompany/8a8147f3-855d-4bd6-8221-a65a4291fea3/apply",
+        "locations": [
+            "Bastrop, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/The-Boring-Company",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "MasterControl",
+        "id": "f66257ff-7f38-4c63-b167-82fc44d043bc",
+        "title": "Data Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1704413377,
+        "date_posted": 1704413377,
+        "url": "https://www.mastercontrol.com/careers/job-listings/role/?role=4354178005&gh_jid=4354178005",
+        "locations": [
+            "Salt Lake City, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/MasterControl",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Harry's",
+        "id": "2a40a975-e107-403a-910f-c60331b3471f",
+        "title": "R&D Product Development Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1704413140,
+        "date_posted": 1704413140,
+        "url": "https://boards.greenhouse.io/harrys/jobs/5601335",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Harrys",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
