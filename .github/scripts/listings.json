@@ -22016,7 +22016,7 @@
         "company_name": "Pomelo",
         "id": "685c806a-5ba9-4f23-9443-e746ba60f5ae",
         "title": "Software Engineer Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -24902,7 +24902,7 @@
         "company_name": "Bridgewater Associates",
         "id": "328683e6-519f-4e0c-97c1-5237c57176cd",
         "title": "Investment Engineer Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -24940,7 +24940,7 @@
         "company_name": "Optiver",
         "id": "4cb3632f-a207-48af-bfef-bb5be6642d3f",
         "title": "Campus: Software Engineer Intern - Summer 2024 - Austin",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -25035,7 +25035,7 @@
         "company_name": "Optiver",
         "id": "1c0a9a89-a534-4246-8d4b-bf08b4728317",
         "title": "Campus: Quantitative Trader Intern - Summer 2024 - Chicago",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -26568,7 +26568,7 @@
         "company_name": "Braze",
         "id": "9afe7578-87f0-429b-a476-8fb4a30098b9",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2023",
             "Summer 2023"
@@ -27419,7 +27419,7 @@
         "company_name": "Second Order Effects",
         "id": "6d3bfd67-d72a-4918-a809-362786fafac3",
         "title": "Systems Integration/Test Engineering Intern - Spring 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024"
         ],
@@ -27457,7 +27457,7 @@
         "company_name": "Symbotic",
         "id": "d26c38c9-6a64-4bb6-abf7-b291c48f2915",
         "title": "Intern-Robot Perception",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023",
             "Spring 2024",
@@ -29680,7 +29680,7 @@
         "company_name": "Centerfield",
         "id": "246c1a1f-9c7e-4ba0-8bca-b1adde90887a",
         "title": "Data Engineer Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -48848,6 +48848,25 @@
             "Annapolis Junction, MD"
         ],
         "company_url": "https://simplify.jobs/c/CACI",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Pagaya",
+        "id": "a1bc1aec-b9ac-43e9-8efe-006ce346851b",
+        "title": "Capital Markets Internship - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1704485598,
+        "date_posted": 1698103420,
+        "url": "https://boards.greenhouse.io/pagaya/jobs/5784537003",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Pagaya",
         "is_visible": true,
         "sponsorship": "Other"
     }
