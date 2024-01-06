@@ -729,7 +729,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | Wabtec Corporation | Software Engineering Intern  🛂 | Erie, PA</br>Fort Worth, TX | <a href="https://wabtec.wd1.myworkdayjobs.com/wabtec_careers/job/Erie-PA/Summer-2024-Engineering-Internship_R0075202?source=LinkedIn_corporate_page&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 2023 |
 | Intuit | Summer Internship Interest | Multiple Locations | <a href="https://talenteq.intuit.com/ucs?cid=elq-form_hs_698061_US_UR-FY23_lg_iac-msg4_link_intuit-talentmktg&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 2023 |
 | **[Point72](https://simplify.jobs/c/Point72)** | Quantitative Developer Internship | NYC | <a href="https://careers.point72.com/CSJobDetail?jobName=summer-2024-quantitative-developer-internship&jobCode=CSS-0010069&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 2023 |
-| Zurich | Internship Program  🛂 | Multiple Locations | <a href="https://www.careers.zurich.com/job/Schaumburg-Zurich-North-America-Summer-Internship-Program-%282024%29-IL-60159/774993902/?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 2023 |
 | Rocket Lab | Software Engineer Intern  🇺🇸 | Multiple Locations | <a href="https://boards.greenhouse.io/rocketlab/jobs/5679154003?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 2023 |
 | **[Fyusion](https://simplify.jobs/c/Fyusion)** | Computer Vision Intern - Deep Learning | SF | <a href="https://jobs.lever.co/fyusion/31540b34-b559-4f3b-8c0a-688d504d7288/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/c9061fa0-beb8-4c43-b13a-ff96309fa7f3?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Nov 2022 |
 | **[Applied Materials](https://simplify.jobs/c/AMAT)** | 2024 Summer Embedded Firmware Co-Op - Rochester - NY | Rochester, NY | 🔒 | Jan 05 |
@@ -1952,6 +1951,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | Northrop Grumman | Software Engineer Intern  🇺🇸 | Redondo Beach, CA | 🔒 | May 2023 |
 | PwC | Digital Assurance & Transparency Technology Intern | Multiple Locations | 🔒 | May 2023 |
 | ↳ | Digital Assurance & Transparency Data Science Intern | Multiple Locations | 🔒 | May 2023 |
+| Zurich | Internship Program  | Multiple Locations | 🔒 | May 2023 |
 | BTIG | Software Engineer Intern | Multiple Locations | 🔒 | May 2023 |
 | Internet Brands | Intern Software Engineer | Los Angeles, California | 🔒 | May 2023 |
 | Panasonic | Software Electrical Engineer Intern | TX | 🔒 | May 2023 |
