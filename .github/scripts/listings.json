@@ -35950,7 +35950,7 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1698863292,
+        "date_updated": 1704579578,
         "url": "https://careers-cnhind.icims.com/jobs/25064/job",
         "company_name": "CNH",
         "title": "Software Engineer, Intern - Summer 2024",
@@ -35960,8 +35960,8 @@
         "terms": [
             "Summer 2024"
         ],
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "VitaliPri",
         "id": "db9a7323-a862-411e-9cea-1cce542f67a9",
         "date_posted": 1698863292,
