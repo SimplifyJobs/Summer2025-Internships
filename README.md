@@ -282,7 +282,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | Volaris Group Inc. | Junior DevOps Engineer -  Intern | Texas | <a href="https://volarisgroup.wd3.myworkdayjobs.com/en-US/Volaris/job/United-States---TX/Junior-DevOps-Engineer-Intern_R48053-2?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 17 |
 | **[Verkada](https://simplify.jobs/c/Verkada)** | Software Engineering Intern - Embedded | San Mateo, CA | <a href="https://boards.greenhouse.io/verkada/jobs/4135597007?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 17 |
 | ↳ | Software Engineering Intern - Frontend | San Mateo, CA | <a href="https://boards.greenhouse.io/verkada/jobs/4135591007?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 17 |
-| Stevens Capital Management | Quantitative Research Analyst Internship 🛂 | Villanova, PA | <a href="https://boards.greenhouse.io/scm/jobs/721895?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 17 |
 | SRI International | Software Engineering - Intern | Menlo Park, CA</br>Princeton, NJ | <a href="https://careers-sri.icims.com/jobs/5723/job?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 17 |
 | Repstor | Software Engineer - Mobile Applications | Palo Alto, CA</br>Charlotte, NC | <a href="https://intapp.wd1.myworkdayjobs.com/en-US/Intapp/job/Palo-Alto-CA/Software-Engineer---Mobile-Applications-Intern_R2022953-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 17 |
 | Remitly | Software Development Engineer - Intern | Seattle, WA | <a href="https://remitly.wd5.myworkdayjobs.com/en-US/Remitly_Careers/job/Seattle-Washington-United-States/Software-Development-Engineer-Intern_R_101195?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 17 |
@@ -885,6 +884,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | **[Leidos](https://simplify.jobs/c/Leidos)** | Natural Language Processing Research - Intern 🇺🇸 🇺🇸 | Arlington, VA | 🔒 | Nov 18 |
 | Verition Fund Management | Software Engineer Intern (Low Latency Team) | New York, NY | 🔒 | Nov 17 |
 | Ulteig | Automations Developer - Intern | Remote(US) | 🔒 | Nov 17 |
+| Stevens Capital Management | Quantitative Research Analyst Internship | Villanova, PA | 🔒 | Nov 17 |
 | T-Mobile | Software Engineering - Intern 🛂 | Bellevue, WA | 🔒 | Nov 15 |
 | Vontier - Gilbarco | Software Engineering - Intern | Greensboro, NC or Simsbury, CT or Remote | 🔒 | Nov 14 |
 | Thermo Fisher Scientific | Software Engineering Intern/Co-op 2024 | Hillsboro, OR | 🔒 | Nov 14 |
