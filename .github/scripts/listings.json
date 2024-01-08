@@ -19563,7 +19563,7 @@
         "company_name": "Activision-Blizzard",
         "id": "733ab333-6e2d-4ea5-b02f-65d91a57a570",
         "title": "2024 US Summer Internship - Computer Graphics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -26160,7 +26160,7 @@
         "company_name": "Guidewire",
         "id": "a5bcfc1f-1bae-478a-a004-d6035d919044",
         "title": "Summer 2024 Software Engineering Intern - San Mateo",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -36581,7 +36581,7 @@
         "company_name": "Blizzard Entertainment",
         "id": "01774b33-56d0-498b-b886-e7a30bb8a2a1",
         "title": "2024 US Summer Internship - Analytics & Data Science",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -48945,6 +48945,25 @@
         ],
         "company_url": "https://simplify.jobs/c/Harrys",
         "is_visible": false,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Inari Agriculture",
+        "id": "5dc852a5-ad5a-454e-a7b5-ef9b87a45fe7",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1704672963,
+        "date_posted": 1704672963,
+        "url": "https://boards.greenhouse.io/inariagriculture/jobs/7085000002",
+        "locations": [
+            "West Lafayette, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/Inari-Agriculture",
+        "is_visible": true,
         "sponsorship": "Other"
     }
 ]
