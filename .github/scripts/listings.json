@@ -7366,7 +7366,7 @@
         "company_name": "PayPal",
         "id": "de7f25d2-af21-4fc7-be7f-633e662b4300",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024",
             "Fall 2024"
@@ -19563,7 +19563,7 @@
         "company_name": "Activision-Blizzard",
         "id": "733ab333-6e2d-4ea5-b02f-65d91a57a570",
         "title": "2024 US Summer Internship - Computer Graphics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -36581,7 +36581,7 @@
         "company_name": "Blizzard Entertainment",
         "id": "01774b33-56d0-498b-b886-e7a30bb8a2a1",
         "title": "2024 US Summer Internship - Analytics & Data Science",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -41078,7 +41078,7 @@
         "company_name": "Hugging Face",
         "id": "8d4eb79d-3e15-4929-9518-0398b5b7a169",
         "title": "Machine Learning Engineer Internship - Document AI - US Remote",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -41177,7 +41177,7 @@
         "company_name": "Hugging Face",
         "id": "40502465-0756-44bc-bc89-fb3d85ecb5f7",
         "title": "Machine Learning Engineer Internship - Quantization - Remote",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -41274,7 +41274,7 @@
         "company_name": "Hugging Face",
         "id": "5ffd1214-748c-4629-93e7-4c4e0c0c49c4",
         "title": "Machine Learning Engineer Internship - Document AI - Remote",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -42806,7 +42806,7 @@
         "company_name": "Oshkosh",
         "id": "5aba4724-f22b-4e2f-a416-25fde697d84a",
         "title": "Data Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -44307,7 +44307,7 @@
         "company_name": "Wise",
         "id": "513cd787-859f-45fe-9019-6e3adb3bd9a1",
         "title": "Analytics Summer Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -44668,7 +44668,7 @@
         "company_name": "Live Nation Entertainment",
         "id": "f33e7b29-8f89-4e95-8eb9-ed4a96ddb238",
         "title": "LN Concerts \u2013 Analytics Intern - Ticketing & Pricing",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024"
         ],
@@ -46168,7 +46168,7 @@
         "company_name": "Leidos",
         "id": "a0276d6a-5955-4ff0-8ddb-8c9851d073dd",
         "title": "Public Health Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2024"
         ],
@@ -48837,7 +48837,7 @@
         "company_name": "CACI",
         "id": "f5febcf3-14c7-4729-92bf-278d94ca5675",
         "title": "Software Developer Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -48875,7 +48875,7 @@
         "company_name": "Intel",
         "id": "2125d17f-7dc3-4973-bd70-71c40bdd4c02",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -48963,6 +48963,63 @@
             "West Lafayette, IN"
         ],
         "company_url": "https://simplify.jobs/c/Inari-Agriculture",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Thousand Eyes",
+        "id": "d5c9f025-204a-4fe4-83af-6970a8932f3a",
+        "title": "Endpoint Network Test Measurements Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1704731052,
+        "date_posted": 1704731052,
+        "url": "https://boards.greenhouse.io/thousandeyes/jobs/5566971",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/18d3f6d1-63da-4c67-8053-82ff504a582b",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "DataCamp",
+        "id": "82cbeb07-78b1-4ec4-8c32-d159bd6bc26e",
+        "title": "Intern \u2013 Javascript",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1704730925,
+        "date_posted": 1704730925,
+        "url": "https://boards.greenhouse.io/datacamp/jobs/5604769",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/DataCamp",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Visa",
+        "id": "b1ca0c69-ba34-488a-9898-62cc15cd9718",
+        "title": "Visa Consulting & Analytics Undergraduate Intern - 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1704730019,
+        "date_posted": 1704730019,
+        "url": "https://jobs.smartrecruiters.com/Visa/743999957612894",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Visa",
         "is_visible": true,
         "sponsorship": "Other"
     }
