@@ -8473,7 +8473,7 @@
         "company_name": "Walmart",
         "id": "98f3168b-ac5b-4940-b23c-4be4b393c232",
         "title": "2023 Intern Conversion: 2024 Return Intern Software Engineer II - Bentonville - AR",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -8676,7 +8676,7 @@
         "company_name": "Walmart",
         "id": "62ba7f6d-0107-4604-80c6-33e9522ba841",
         "title": "2023 Walmart Intern Conversion: 2024 Return Intern Software Engineer II - Sunnyvale - CA",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -24902,7 +24902,7 @@
         "company_name": "Bridgewater Associates",
         "id": "328683e6-519f-4e0c-97c1-5237c57176cd",
         "title": "Investment Engineer Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -24940,7 +24940,7 @@
         "company_name": "Optiver",
         "id": "4cb3632f-a207-48af-bfef-bb5be6642d3f",
         "title": "Campus: Software Engineer Intern - Summer 2024 - Austin",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -25035,7 +25035,7 @@
         "company_name": "Optiver",
         "id": "1c0a9a89-a534-4246-8d4b-bf08b4728317",
         "title": "Campus: Quantitative Trader Intern - Summer 2024 - Chicago",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -30625,7 +30625,7 @@
         "company_name": "Autodesk",
         "id": "b6949cef-0dde-4f5c-8ea9-935eff13c682",
         "title": "Intern \u2013 Security Engineer - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -32498,7 +32498,7 @@
         "company_name": "Bristol-Myers Squibb",
         "id": "7b2e0988-41e7-4375-8160-ef5d371f9083",
         "title": "Summer 2024 \u2013 Internship - Applied Statistical Learning - Informatics & Predictive Science - Ips",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -41753,7 +41753,7 @@
         "company_name": "Intel",
         "id": "e7f42a72-5645-4350-b888-a3aa5859b4f8",
         "title": "System Software Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -47878,7 +47878,7 @@
         "company_name": "Span",
         "id": "74b667d7-793f-4fec-9551-75bd8bfcc746",
         "title": "Data Analytics Co-op July-December 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024",
             "Fall 2024",
@@ -47918,7 +47918,7 @@
         "company_name": "Span",
         "id": "cc9e7dd7-6652-4879-ba4a-b1cb52a0eb8d",
         "title": "Modeling and Controls Internship-Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -48245,7 +48245,7 @@
         "company_name": "Intel",
         "id": "3347a4ae-a68b-40b1-bcee-12e6261da9cf",
         "title": "Open Source Software Development \u2013 Undergraduate Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
