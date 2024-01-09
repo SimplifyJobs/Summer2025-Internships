@@ -48623,7 +48623,7 @@
         "is_visible": false
     },
     {
-        "date_updated": 1704424604,
+        "date_updated": 1704769058,
         "url": "https://careers.ll.mit.edu/job/Lexington-Super-Computing-Center-Summer-Research-Program-Intern-MA-02420/1103288700/",
         "company_name": "MIT LL",
         "title": "Super Computing Center-Summer Intern",
@@ -48633,13 +48633,13 @@
         "terms": [
             "Summer 2024"
         ],
-        "sponsorship": "Offers Sponsorship",
+        "sponsorship": "Other",
         "active": true,
         "source": "Willy-Chan",
         "id": "0c60113d-9191-46b1-85a0-9123e336ef49",
         "date_posted": 1704424604,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "source": "Simplify",
