@@ -19563,7 +19563,7 @@
         "company_name": "Activision-Blizzard",
         "id": "733ab333-6e2d-4ea5-b02f-65d91a57a570",
         "title": "2024 US Summer Internship - Computer Graphics",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -24560,7 +24560,7 @@
         "company_name": "Fetch",
         "id": "c8a57258-3380-4d01-b7b2-07dc457354b6",
         "title": "Android Software Engineering Internship - Madison",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2023",
             "Summer 2023"
@@ -30122,7 +30122,7 @@
         "company_name": "Walmart",
         "id": "c1aa4791-e1f4-4453-af4d-b8f2d16f1675",
         "title": "2024 Summer MBA Intern: Walmart Connect Product Management",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -36581,7 +36581,7 @@
         "company_name": "Blizzard Entertainment",
         "id": "01774b33-56d0-498b-b886-e7a30bb8a2a1",
         "title": "2024 US Summer Internship - Analytics & Data Science",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -43766,7 +43766,7 @@
         "company_name": "Intel",
         "id": "fe466831-7351-450c-a6f1-dcb112904eed",
         "title": "Junior Data Analyst \u2013 Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -47401,7 +47401,7 @@
         "company_name": "Crowdstrike",
         "id": "fd0a74ba-596f-48c8-9518-5c47ff57ff55",
         "title": "TAC Malware Triage Intern - Summer 2024 - Remote",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -48952,7 +48952,7 @@
         "company_name": "Inari Agriculture",
         "id": "5dc852a5-ad5a-454e-a7b5-ef9b87a45fe7",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -48971,7 +48971,7 @@
         "company_name": "Thousand Eyes",
         "id": "d5c9f025-204a-4fe4-83af-6970a8932f3a",
         "title": "Endpoint Network Test Measurements Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -49211,6 +49211,106 @@
             "Atlanta, GA"
         ],
         "company_url": "https://simplify.jobs/c/Visa",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Kinaxis",
+        "id": "c8327633-b190-4e16-80a6-65ec95b10495",
+        "title": "Co-Op/Intern Developer - Query Engine - Back End Technologies",
+        "active": true,
+        "terms": [
+            "Spring 2024"
+        ],
+        "date_updated": 1704817213,
+        "date_posted": 1704817213,
+        "url": "https://boards.greenhouse.io/kinaxis/jobs/7088250002",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Kinaxis",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Exiger",
+        "id": "729744bc-845d-4f16-a5e8-3dc95f14950b",
+        "title": "Data Analyst Internship",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1704816673,
+        "date_posted": 1704816673,
+        "url": "https://www.exiger.com/careers/5044845004?gh_jid=5044845004",
+        "locations": [
+            "Richmond, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Exiger",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Klaviyo",
+        "id": "47d4a78a-865d-4b98-b366-2fb398e2380e",
+        "title": "Front End Software Engineering Co-op - July-December 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024",
+            "Fall 2024",
+            "Winter 2025"
+        ],
+        "date_updated": 1704816592,
+        "date_posted": 1704816592,
+        "url": "https://careers.klaviyo.com/en/search-jobs/?gh_jid=5851742003",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Klaviyo",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Workiva",
+        "id": "4ecb2519-7afd-4292-b857-5a7188f4ad52",
+        "title": "2024 Summer \u2013 Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1704816561,
+        "date_posted": 1704816561,
+        "url": "https://workiva.wd1.myworkdayjobs.com/careers/job/Remote---IA/XMLNAME-2024-Summer---Software-Engineering-Intern_R7868",
+        "locations": [
+            "Remote in USA",
+            "Scottsdale, AZ",
+            "Denver, CO",
+            "Bozeman, MT"
+        ],
+        "company_url": "https://simplify.jobs/c/Workiva",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Workiva",
+        "id": "391229d7-306e-40b4-9a1a-3916b2e8888b",
+        "title": "2024 Summer \u2013 Data Science Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1704816558,
+        "date_posted": 1704816558,
+        "url": "https://workiva.wd1.myworkdayjobs.com/careers/job/USA---Remote/XMLNAME-2024-Summer---Data-Science-Intern_R7503",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Workiva",
         "is_visible": true,
         "sponsorship": "Other"
     }
