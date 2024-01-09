@@ -867,7 +867,7 @@
         "company_name": "Fetch",
         "id": "43f05610-37a1-46e4-b221-df988084364e",
         "title": "iOS Apprenticeship - Mobile Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -943,7 +943,7 @@
         "company_name": "Fetch",
         "id": "af67715d-b33c-476c-9df8-71f547aee68d",
         "title": "Frontend Engineer Apprenticeship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -19035,7 +19035,7 @@
         "company_name": "First Resonance",
         "id": "6ddcd006-a1b0-4b87-8171-c2fc193e736d",
         "title": "Data Engineer Intern - 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -19054,7 +19054,7 @@
         "company_name": "First Resonance",
         "id": "7d8b2d2f-7620-4051-be02-e079fb036daf",
         "title": "Software Engineer Intern - 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -19563,7 +19563,7 @@
         "company_name": "Activision-Blizzard",
         "id": "733ab333-6e2d-4ea5-b02f-65d91a57a570",
         "title": "2024 US Summer Internship - Computer Graphics",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -36581,7 +36581,7 @@
         "company_name": "Blizzard Entertainment",
         "id": "01774b33-56d0-498b-b886-e7a30bb8a2a1",
         "title": "2024 US Summer Internship - Analytics & Data Science",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -36965,7 +36965,7 @@
         "company_name": "CACI",
         "id": "a0c4c989-6b8a-4f7e-b3df-b4d5c6202cd1",
         "title": "Junior Software Developer Internship - Summer 2024",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -49021,6 +49021,197 @@
         ],
         "company_url": "https://simplify.jobs/c/Visa",
         "is_visible": false,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Splunk",
+        "id": "92cce829-f476-4ddd-b008-4ce57a72c22f",
+        "title": "Software Engineer in Test Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1704759984,
+        "date_posted": 1704759984,
+        "url": "https://jobs.jobvite.com/splunk-careers/job/ooEMqfwY?nl=1&nl=1&fr=false",
+        "locations": [
+            "Boulder, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Splunk",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Uniswap",
+        "id": "7ca99e19-c580-4087-95fc-3c908db4677a",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1704759967,
+        "date_posted": 1704759967,
+        "url": "https://boards.greenhouse.io/uniswaplabs/jobs/4355124005",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Uniswap",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Rockwell Automation",
+        "id": "a39af650-60ba-4b1c-ba1a-454829b0644c",
+        "title": "Intern \u2013 Cyber Security",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1704759812,
+        "date_posted": 1704759812,
+        "url": "https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Milwaukee-Wisconsin-United-States/Intern--Cyber-Security_R23-13792-1",
+        "locations": [
+            "Milwaukee, WI",
+            "Lowell, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Rockwell-Automation",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Toyota Research Institute",
+        "id": "dfd5bf5f-64fb-4346-b1f6-d6c0f3588414",
+        "title": "Automated MD Simulations for Ionomers Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1704759487,
+        "date_posted": 1704759487,
+        "url": "https://jobs.lever.co/tri/8593eb11-3022-445e-9bec-9ed1aabb0e37/apply",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Toyota-Research-Institute",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Digital.ai",
+        "id": "14765cc8-8e56-4846-9ccf-42a7643b683b",
+        "title": "Intern \u2013 Data Scientist",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1704759083,
+        "date_posted": 1704759083,
+        "url": "https://digital.ai/current-job-openings?gh_jid=5852347003",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/DigitalAI",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Fastly",
+        "id": "5f9f08fe-fc68-4bb6-9dde-0a2a3f75c0cf",
+        "title": "Software Engineer \u2013 Summer Undergraduate Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1704759093,
+        "date_posted": 1704759093,
+        "url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5605990",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Fastly",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Intel",
+        "id": "317a5d66-d58e-4a78-a61b-10406ccfe111",
+        "title": "Product Development Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1704758886,
+        "date_posted": 1704758886,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Arizona-Phoenix/Product-Development-Engineer-Intern_JR0255265",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Visa",
+        "id": "2ea2e6ed-decb-4258-a589-e5ade7adc35f",
+        "title": "Software Engineer \u2013 Intern - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1704758805,
+        "date_posted": 1704758805,
+        "url": "https://jobs.smartrecruiters.com/Visa/743999957663839",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Visa",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Visa",
+        "id": "495ebef1-4539-4225-8893-cc2799cbbe27",
+        "title": "Software Engineer \u2013 Intern - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1704758805,
+        "date_posted": 1704758805,
+        "url": "https://jobs.smartrecruiters.com/Visa/743999957665493",
+        "locations": [
+            "Ashburn, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Visa",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Visa",
+        "id": "34f8accd-c780-404b-b1fc-cfb7510887e4",
+        "title": "Software Engineer \u2013 Intern - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1704758805,
+        "date_posted": 1704758805,
+        "url": "https://jobs.smartrecruiters.com/Visa/743999957650613",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Visa",
+        "is_visible": true,
         "sponsorship": "Other"
     }
 ]
