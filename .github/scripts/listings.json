@@ -49549,5 +49549,24 @@
         "company_url": "https://simplify.jobs/c/SixthStreet",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1704926075,
+        "url": "https://app.ripplematch.com/v2/public/job/10c94624/details",
+        "company_name": "Bloom Energy",
+        "title": "Software Engineering Intern",
+        "locations": [
+            "Newark, DE"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "mtlogs",
+        "id": "f003e7b5-155a-4f4c-a67b-9af4e32dbf14",
+        "date_posted": 1704926075,
+        "company_url": "",
+        "is_visible": true
     }
 ]
