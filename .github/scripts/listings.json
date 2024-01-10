@@ -49490,5 +49490,26 @@
         "company_url": "https://simplify.jobs/c/NVIDIA",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1704893176,
+        "url": "https://jobs.ashbyhq.com/GPTZero/e1f12af2-d017-4fca-a9af-99431d989d53",
+        "company_name": "GPTZero",
+        "title": "Software Engineering Intern",
+        "locations": [
+            "NYC, NY",
+            "Toronto, CA"
+        ],
+        "terms": [
+            "Spring 2024",
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "alexcdot",
+        "id": "7d701158-c14d-407e-a6a1-1e58465c20d9",
+        "date_posted": 1704893176,
+        "company_url": "",
+        "is_visible": true
     }
 ]
