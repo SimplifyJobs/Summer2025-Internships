@@ -16078,7 +16078,7 @@
         "company_name": "PayPal",
         "id": "da923e9c-8a2c-45b7-b766-f6ab115d0028",
         "title": "Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -19563,7 +19563,7 @@
         "company_name": "Activision-Blizzard",
         "id": "733ab333-6e2d-4ea5-b02f-65d91a57a570",
         "title": "2024 US Summer Internship - Computer Graphics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -36581,7 +36581,7 @@
         "company_name": "Blizzard Entertainment",
         "id": "01774b33-56d0-498b-b886-e7a30bb8a2a1",
         "title": "2024 US Summer Internship - Analytics & Data Science",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -47516,7 +47516,7 @@
         "company_name": "Interactive Brokers",
         "id": "6e655a26-9158-46ba-970f-4ff060afd292",
         "title": "Software Developer Summer Internship - 2024",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2023"
         ],
@@ -49511,5 +49511,43 @@
         "date_posted": 1704893176,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Wealthsimple",
+        "id": "2dd03318-607c-42f5-ba47-a57c34f4d4ad",
+        "title": "Intern \u2013 Security - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1704903792,
+        "date_posted": 1704903792,
+        "url": "https://jobs.lever.co/wealthsimple/a329d5ad-a15b-4852-a73f-7906b1c4c6b4/apply",
+        "locations": [
+            "Remote"
+        ],
+        "company_url": "https://simplify.jobs/c/Wealthsimple",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Sixth Street",
+        "id": "2342fc87-f3a0-49a8-a7a0-7fd29dbae4c6",
+        "title": "Engineering \u2013 2024 Summer Analyst",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1704903639,
+        "date_posted": 1704903639,
+        "url": "https://boards.greenhouse.io/sixthstreet/jobs/5700392003",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/SixthStreet",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
