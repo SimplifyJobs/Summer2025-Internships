@@ -18878,7 +18878,7 @@
         "company_name": "Mercedes-Benz",
         "id": "ea75acc8-c112-4e45-86a1-ced3aafceddb",
         "title": "Machine Learning Intern - Fall/Spring",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2023",
             "Winter 2024",
@@ -19131,7 +19131,7 @@
         "company_name": "Bristol Meyers",
         "id": "8bb5b6da-4d12-44ca-ac77-0b45fb630522",
         "title": "Cell Therapy",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2023"
         ],
@@ -19563,7 +19563,7 @@
         "company_name": "Activision-Blizzard",
         "id": "733ab333-6e2d-4ea5-b02f-65d91a57a570",
         "title": "2024 US Summer Internship - Computer Graphics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -36353,7 +36353,7 @@
         "company_name": "Astranis",
         "id": "c82e02ba-b7c7-4ca9-8e46-28fe376a077c",
         "title": "Flight Software \u2013 Intern - Spring 2024",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2024"
         ],
@@ -36581,7 +36581,7 @@
         "company_name": "Blizzard Entertainment",
         "id": "01774b33-56d0-498b-b886-e7a30bb8a2a1",
         "title": "2024 US Summer Internship - Analytics & Data Science",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -42920,7 +42920,7 @@
         "company_name": "Okta",
         "id": "8ecb39a6-c530-4fd5-a42b-dc2ce0db6f89",
         "title": "Software Engineer in Test Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -43515,7 +43515,7 @@
         "company_name": "Leidos",
         "id": "460539db-bc78-48c4-83f4-ee8ea7f2d280",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -43534,7 +43534,7 @@
         "company_name": "Leidos",
         "id": "ccaca843-fa1d-44b5-b94e-6217b53333e4",
         "title": "Systems Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -45054,7 +45054,7 @@
         "company_name": "Leidos",
         "id": "f61597e4-c348-4f6d-8864-6c4f50d11ada",
         "title": "Cyber Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -45690,7 +45690,7 @@
         "company_name": "TAE Technologies",
         "id": "724d51a0-1f15-446e-8512-4828f82f5f53",
         "title": "Physics Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2024"
         ],
@@ -46823,7 +46823,7 @@
         "company_name": "Applied Materials",
         "id": "f935105e-aa67-4983-a2ed-671de6523132",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -47420,7 +47420,7 @@
         "company_name": "F5",
         "id": "4a2adcc5-e97f-42e0-916b-2e8dfad8739d",
         "title": "Data Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024",
             "Fall 2024"
@@ -47646,7 +47646,7 @@
         "company_name": "F5",
         "id": "0d6491fd-943d-48da-8ec6-c8324d5323bb",
         "title": "Software Engineering Intern - Boulder",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024",
             "Fall 2024"
@@ -48224,7 +48224,7 @@
         "company_name": "F5",
         "id": "f44b6911-b88f-41aa-bd4a-54b780234afd",
         "title": "Software Engineering Intern - Spokane",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024",
             "Summer 2024",
@@ -48436,7 +48436,7 @@
         "company_name": "Okta",
         "id": "966b4664-6c06-495c-901d-550a5d4180d8",
         "title": "Salesforce/Apex Software Engineer Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -49311,6 +49311,164 @@
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/Workiva",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Kinaxis",
+        "id": "8bae15fd-b652-4b00-9b12-d024516b4107",
+        "title": "Co-Op/Intern Software Engineer - Data Ingestion",
+        "active": true,
+        "terms": [
+            "Spring 2024"
+        ],
+        "date_updated": 1704846056,
+        "date_posted": 1704846056,
+        "url": "https://boards.greenhouse.io/kinaxis/jobs/7088616002",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Kinaxis",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Kinaxis",
+        "id": "7e18feb1-a0c0-450d-aa88-30bc54e32e94",
+        "title": "Co-Op/Intern Software Developer - Core Algorithms",
+        "active": true,
+        "terms": [
+            "Spring 2024"
+        ],
+        "date_updated": 1704846056,
+        "date_posted": 1704846056,
+        "url": "https://boards.greenhouse.io/kinaxis/jobs/7088458002",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Kinaxis",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Kinaxis",
+        "id": "366d1aa5-1d4a-4e2f-bf42-34bc1665a5b4",
+        "title": "Co-Op/Intern Developer - Devops",
+        "active": true,
+        "terms": [
+            "Spring 2024"
+        ],
+        "date_updated": 1704846057,
+        "date_posted": 1704846057,
+        "url": "https://boards.greenhouse.io/kinaxis/jobs/7089307002",
+        "locations": [
+            "Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Kinaxis",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Quantcast",
+        "id": "30c41652-4479-443c-8523-f613379cc8ae",
+        "title": "Software Engineering Intern - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1704846116,
+        "date_posted": 1704846116,
+        "url": "https://jobs.lever.co/quantcast/13ebc1c6-fdb7-4b6d-b397-2aecc0a1c6d9/apply",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Quantcast",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Minitab",
+        "id": "1dad5ccd-6189-42cd-b7b3-56c4e416882e",
+        "title": "Technical Operations Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1704845437,
+        "date_posted": 1704845437,
+        "url": "https://boards.greenhouse.io/minitab/jobs/5853597003",
+        "locations": [
+            "State College, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Minitab",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Wade Trim",
+        "id": "94874218-c452-46e6-9206-1cc57b5786d0",
+        "title": "Devops Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1704845397,
+        "date_posted": 1704845397,
+        "url": "https://jobs.lever.co/wadetrim/0825e953-3aca-484f-b29b-38a45f33cc6a/apply",
+        "locations": [
+            "Detroit, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Wade-Trim",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Leidos",
+        "id": "6e2f93c6-4ac1-4f3d-884d-8c26cb1a22a6",
+        "title": "Quantum Technologies Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1704845349,
+        "date_posted": 1704845349,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/Quantum-Technologies-Intern_R-00123222",
+        "locations": [
+            "Arlington, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Intel",
+        "id": "ae09b49c-97cd-4b8a-b61e-182c309d6682",
+        "title": "Undergraduate Internship - Data Science - Bachelors",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1704845270,
+        "date_posted": 1704845270,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Arizona-Phoenix/Undergraduate-Internship---Data-Science---Bachelors-_JR0255511",
+        "locations": [
+            "Austin, TX",
+            "Albuquerque, NM",
+            "Santa Clara, CA",
+            "Hillsboro, OR",
+            "Folsom, CA",
+            "Phoenix, AZ",
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
         "is_visible": true,
         "sponsorship": "Other"
     }
