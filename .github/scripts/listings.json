@@ -11109,7 +11109,7 @@
         "company_name": "Epic Games",
         "id": "d2e866c6-9236-4ada-b644-7e6af79c9ec6",
         "title": "Core Programmer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -20842,7 +20842,7 @@
         "company_name": "Lucid Motors",
         "id": "dbc9ac0d-3037-4ac8-b6e0-73511e6f631f",
         "title": "Intern \u2013 Embedded Platform Software Engineer - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -20880,7 +20880,7 @@
         "company_name": "Lucid Motors",
         "id": "63f05467-7efe-447a-bee7-a39212548119",
         "title": "Intern \u2013 Bootloader Embedded Engineer - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -24092,7 +24092,7 @@
         "company_name": "Zoox",
         "id": "b550f4b3-5d41-487d-8aa5-50ad8c9ddd40",
         "title": "Planning & Control Intern - Mission Progress",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -24902,7 +24902,7 @@
         "company_name": "Bridgewater Associates",
         "id": "328683e6-519f-4e0c-97c1-5237c57176cd",
         "title": "Investment Engineer Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -24940,7 +24940,7 @@
         "company_name": "Optiver",
         "id": "4cb3632f-a207-48af-bfef-bb5be6642d3f",
         "title": "Campus: Software Engineer Intern - Summer 2024 - Austin",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -25035,7 +25035,7 @@
         "company_name": "Optiver",
         "id": "1c0a9a89-a534-4246-8d4b-bf08b4728317",
         "title": "Campus: Quantitative Trader Intern - Summer 2024 - Chicago",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -29604,7 +29604,7 @@
         "company_name": "Zoox",
         "id": "09d12554-d09d-4275-8163-2028991c52f4",
         "title": "Verification and Validation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -44746,7 +44746,7 @@
         "company_name": "Recursion Pharmaceuticals",
         "id": "516855e8-6fc4-4840-8060-2be1b069b527",
         "title": "Analytical Chemistry Intern - 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -48512,7 +48512,7 @@
         "company_name": "NVIDIA",
         "id": "8eb2c70b-9256-4bfa-9a83-7f0011236e9b",
         "title": "Applied Research Intern - Strategic Partnerships - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -49105,7 +49105,7 @@
         "company_name": "Digital.ai",
         "id": "14765cc8-8e56-4846-9ccf-42a7643b683b",
         "title": "Intern \u2013 Data Scientist",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -49257,7 +49257,7 @@
         "company_name": "Klaviyo",
         "id": "47d4a78a-865d-4b98-b366-2fb398e2380e",
         "title": "Front End Software Engineering Co-op - July-December 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024",
             "Fall 2024",
