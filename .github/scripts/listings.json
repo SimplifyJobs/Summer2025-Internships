@@ -9268,7 +9268,7 @@
         "company_name": "Jump Trading",
         "id": "9d9202ff-4981-40ef-8664-1cef0ab1ba53",
         "title": "Campus Tech Ops Engineer \u2013 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -9287,7 +9287,7 @@
         "company_name": "Jump Trading",
         "id": "7668245d-a3fe-4892-8582-d1d0020ef8f9",
         "title": "Campus Software Engineer \u2013 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023",
             "Winter 2024",
@@ -9309,7 +9309,7 @@
         "company_name": "Jump Trading",
         "id": "27fae3a1-0851-44f5-a9e6-42cbaa6a583a",
         "title": "Campus UI Software Engineer \u2013 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023",
             "Winter 2024",
@@ -9524,7 +9524,7 @@
         "company_name": "Jump Trading",
         "id": "10c7324d-4407-4930-9a35-7777b2b56471",
         "title": "Campus Software Engineer \u2013 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023",
             "Winter 2024",
@@ -10545,7 +10545,7 @@
         "company_name": "Intel",
         "id": "37102699-9465-4503-b08a-e1d3a81694ec",
         "title": "Compiler Engineering PEY Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024"
         ],
@@ -18725,7 +18725,7 @@
         "company_name": "Wellmark",
         "id": "486a4e92-0406-440b-8405-785566642acb",
         "title": "Information Security Cloud Engineer Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024"
         ],
@@ -19342,7 +19342,7 @@
         "company_name": "Rockwell Automation",
         "id": "dcca8906-c9e8-49b8-b9fb-9b9ed2f1e2cc",
         "title": "Co-op \u2013 Software Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024",
             "Summer 2024",
@@ -24902,7 +24902,7 @@
         "company_name": "Bridgewater Associates",
         "id": "328683e6-519f-4e0c-97c1-5237c57176cd",
         "title": "Investment Engineer Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -24940,7 +24940,7 @@
         "company_name": "Optiver",
         "id": "4cb3632f-a207-48af-bfef-bb5be6642d3f",
         "title": "Campus: Software Engineer Intern - Summer 2024 - Austin",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -25035,7 +25035,7 @@
         "company_name": "Optiver",
         "id": "1c0a9a89-a534-4246-8d4b-bf08b4728317",
         "title": "Campus: Quantitative Trader Intern - Summer 2024 - Chicago",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -25253,7 +25253,7 @@
         "company_name": "Elevance Health",
         "id": "c61500ca-ea03-4fdc-a527-14816d7b046e",
         "title": "Engineer Intern-Undergraduate-Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -46168,7 +46168,7 @@
         "company_name": "Leidos",
         "id": "a0276d6a-5955-4ff0-8ddb-8c9851d073dd",
         "title": "Public Health Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024"
         ],
@@ -48379,7 +48379,7 @@
         "company_name": "Ripple",
         "id": "49199bd2-61eb-4fb0-ad01-134c18f6b4ba",
         "title": "Software Engineer Intern - Ripplex - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -49047,7 +49047,7 @@
         "company_name": "Uniswap",
         "id": "7ca99e19-c580-4087-95fc-3c908db4677a",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -49376,7 +49376,7 @@
         "company_name": "Quantcast",
         "id": "30c41652-4479-443c-8523-f613379cc8ae",
         "title": "Software Engineering Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
