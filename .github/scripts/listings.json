@@ -11033,7 +11033,7 @@
         "company_name": "Anyscale",
         "id": "696403a9-216f-464e-b879-d3c6651df3bc",
         "title": "Software Engineer \u2013 Intern 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -19563,7 +19563,7 @@
         "company_name": "Activision-Blizzard",
         "id": "733ab333-6e2d-4ea5-b02f-65d91a57a570",
         "title": "2024 US Summer Internship - Computer Graphics",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -25035,7 +25035,7 @@
         "company_name": "Optiver",
         "id": "1c0a9a89-a534-4246-8d4b-bf08b4728317",
         "title": "Campus: Quantitative Trader Intern - Summer 2024 - Chicago",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -36581,7 +36581,7 @@
         "company_name": "Blizzard Entertainment",
         "id": "01774b33-56d0-498b-b886-e7a30bb8a2a1",
         "title": "2024 US Summer Internship - Analytics & Data Science",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -36965,7 +36965,7 @@
         "company_name": "CACI",
         "id": "a0c4c989-6b8a-4f7e-b3df-b4d5c6202cd1",
         "title": "Junior Software Developer Internship - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -38295,7 +38295,7 @@
         "company_name": "Wing",
         "id": "13d243e1-6dc7-4cf8-8700-812c7f8445fd",
         "title": "UTM Software Engineer Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -41352,7 +41352,7 @@
         "company_name": "Wing",
         "id": "f141c838-0c35-49dc-b3c8-a7b6552b445d",
         "title": "Embedded Software Engineer Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -41371,7 +41371,7 @@
         "company_name": "Wing",
         "id": "f04c98ac-4c69-4810-b4f9-90b9d6be4a18",
         "title": "Perception Software Engineer Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -42787,7 +42787,7 @@
         "company_name": "Oshkosh",
         "id": "ef8a85aa-04d9-4bb0-992e-e2cbd6c28b95",
         "title": "AI/ Autonomy Engineering Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -49395,7 +49395,7 @@
         "company_name": "Minitab",
         "id": "1dad5ccd-6189-42cd-b7b3-56c4e416882e",
         "title": "Technical Operations Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -49568,5 +49568,201 @@
         "date_posted": 1704926075,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Hewlett Packard (HP)",
+        "id": "9b157cc1-bcfc-400b-a37a-3d1a4a97cb63",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1704932568,
+        "date_posted": 1704932568,
+        "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Spring-Texas-United-States-of-America/Software-Engineering-Intern_3127251-1",
+        "locations": [
+            "Spring, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Rockwell Automation",
+        "id": "8b65cdf6-e4f7-4c79-ab87-3e70ec07bd24",
+        "title": "Co-op \u2013 Software Engineering",
+        "active": true,
+        "terms": [
+            "Spring 2024",
+            "Summer 2024",
+            "Fall 2024",
+            "Winter 2025"
+        ],
+        "date_updated": 1704932544,
+        "date_posted": 1704932544,
+        "url": "https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/United-States-of-America-Milwaukee-South-2nd-Street/Co-op--Software-Engineering_R23-12737-1",
+        "locations": [
+            "Milwaukee, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Rockwell-Automation",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Kinaxis",
+        "id": "e601660a-8727-4f37-93da-25b4857a3674",
+        "title": "Co-Op/Intern Developer - Analytics Engine - Developer Framework",
+        "active": true,
+        "terms": [
+            "Spring 2024"
+        ],
+        "date_updated": 1704932480,
+        "date_posted": 1704932480,
+        "url": "https://boards.greenhouse.io/kinaxis/jobs/7090516002",
+        "locations": [
+            "Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Kinaxis",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Bose",
+        "id": "f78fec3d-5f24-4a88-9495-1759238d11a5",
+        "title": "Data Science Co-Op",
+        "active": true,
+        "terms": [
+            "Winter 2024",
+            "Spring 2024",
+            "Summer 2024"
+        ],
+        "date_updated": 1704932448,
+        "date_posted": 1704932448,
+        "url": "https://boseallaboutme.wd1.myworkdayjobs.com/en-US/Bose_Careers/job/United-States-Work-from-Home/Data-Science-Co-Op_R26293",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/bose",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "EarnIn",
+        "id": "025d450d-60bc-4c0f-80a4-d7cfe7fae879",
+        "title": "Infosec Intern - Year-Round",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1704932382,
+        "date_posted": 1704932382,
+        "url": "https://boards.greenhouse.io/earnin/jobs/5497902",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Earnin",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "EarnIn",
+        "id": "df851647-bf8b-433b-8b34-93fd22e5c33a",
+        "title": "Platform Engineering Intern - Year Round",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1704932381,
+        "date_posted": 1704932381,
+        "url": "https://boards.greenhouse.io/earnin/jobs/5539340",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Earnin",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Gilead Sciences",
+        "id": "ec91ff50-f73b-47a5-a11b-9f813cedc476",
+        "title": "Intern \u2013 Clinical Pharmacology Sciences",
+        "active": true,
+        "terms": [
+            "Spring 2024",
+            "Summer 2024"
+        ],
+        "date_updated": 1704932130,
+        "date_posted": 1704932130,
+        "url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---Clinical-Pharmacology-Sciences_R0039374",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Gilead-Sciences",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Perchwell",
+        "id": "56a79de0-b2df-4374-97f1-e377c8bcfa85",
+        "title": "Perchwell 2024 Software Engineer Internship",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1704932013,
+        "date_posted": 1704932013,
+        "url": "https://jobs.ashbyhq.com/Perchwell/6aa0778e-8d3e-457d-8ee3-3b931f8c57be/application",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Perchwell",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Workiva",
+        "id": "9234031f-002d-4e00-9bfd-076ce6d89f45",
+        "title": "2024 Summer \u2013 Software Engineer Intern - Ames - IA location",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1704931698,
+        "date_posted": 1704931698,
+        "url": "https://workiva.wd1.myworkdayjobs.com/careers/job/Ames/XMLNAME-2024-Summer---Software-Engineer-Intern--Ames--IA-location-_R7886",
+        "locations": [
+            "Ames, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/Workiva",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Intel",
+        "id": "f3983961-513b-4c18-82c8-f753c9b13791",
+        "title": "Software Validation Internship",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1704931662,
+        "date_posted": 1704931662,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Software-Validation-Internship_JR0254016",
+        "locations": [
+            "Hillsboro, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
