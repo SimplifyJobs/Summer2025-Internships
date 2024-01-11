@@ -19563,7 +19563,7 @@
         "company_name": "Activision-Blizzard",
         "id": "733ab333-6e2d-4ea5-b02f-65d91a57a570",
         "title": "2024 US Summer Internship - Computer Graphics",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -20497,7 +20497,7 @@
         "company_name": "Verisign",
         "id": "1fdfe2a8-ddf6-427b-a9aa-574ba991b9bc",
         "title": "Summer 2024 Undergraduate Technical Internships",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -36581,7 +36581,7 @@
         "company_name": "Blizzard Entertainment",
         "id": "01774b33-56d0-498b-b886-e7a30bb8a2a1",
         "title": "2024 US Summer Internship - Analytics & Data Science",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -40502,7 +40502,7 @@
         "company_name": "GigaBrain",
         "id": "96b336f3-c221-4c1f-adda-de89902d6ba7",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -49536,7 +49536,7 @@
         "company_name": "Sixth Street",
         "id": "2342fc87-f3a0-49a8-a7a0-7fd29dbae4c6",
         "title": "Engineering \u2013 2024 Summer Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -49857,6 +49857,64 @@
             "Spring, TX"
         ],
         "company_url": "https://simplify.jobs/c/Hewlett-Packard",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Thousand Eyes",
+        "id": "fd7f16b4-534d-4746-9d5b-d44cb775695c",
+        "title": "Software Engineering Intern - Endpoint",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1704990148,
+        "date_posted": 1704990148,
+        "url": "https://boards.greenhouse.io/thousandeyes/jobs/5615562",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/18d3f6d1-63da-4c67-8053-82ff504a582b",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Hewlett Packard (HP)",
+        "id": "ea3d39f1-0c50-4d5b-8949-d52f7c6c4870",
+        "title": "Data Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1704989626,
+        "date_posted": 1704989626,
+        "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Vancouver-Washington-United-States-of-America/Data-Engineering-Intern_3128687-1",
+        "locations": [
+            "Vancouver, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Leidos",
+        "id": "8a093834-2409-46b8-a2ce-e14b8136612e",
+        "title": "Data Scientist Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1704989328,
+        "date_posted": 1704989328,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/Data-Scientist-Intern_R-00126416",
+        "locations": [
+            "Remote in USA",
+            "Arlington, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
         "is_visible": true,
         "sponsorship": "Other"
     }
