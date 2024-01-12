@@ -88,6 +88,12 @@ def main():
 
     # UPDATE LISTINGS
 
+    def get_commit_text(listing):
+        closed_text = "" if listing["active"] else "(Closed)"
+        sponsorship_text = "" if listing["sponsorship"] == "Other" else ("(" + listing["sponsorship"] + ")")
+        listing_text = (listing["title"].strip() + " at " + listing["company_name"].strip() + " " + closed_text + " " + sponsorship_text).strip()
+        return listing_text
+
     with open(".github/scripts/listings.json", "r") as f:
         listings = json.load(f)
 
@@ -99,12 +105,13 @@ def main():
         for key, value in data.items():
             listing_to_update[key] = value
 
-        util.setOutput("commit_message", "updated listing: " + listing_to_update["title"] + " at " + listing_to_update["company_name"])
+        util.setOutput("commit_message", "updated listing: " + get_commit_text(listing_to_update))
     else:
         if edit_internship:
             util.fail("We could not find this internship in our list. Please double check you inserted the right url")
         listings.append(data)
-        util.setOutput("commit_message", "added listing: " + data["title"] + " at " + data["company_name"])
+
+        util.setOutput("commit_message", "added listing: " + get_commit_text(data))
 
     with open(".github/scripts/listings.json", "w") as f:
         f.write(json.dumps(listings, indent=4))
