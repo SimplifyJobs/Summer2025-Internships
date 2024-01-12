@@ -4519,7 +4519,7 @@
         "company_name": "Capital One",
         "id": "8ab08bfa-385b-4471-886e-4556b58a962f",
         "title": "Cyber Security Internship Program",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -24902,7 +24902,7 @@
         "company_name": "Bridgewater Associates",
         "id": "328683e6-519f-4e0c-97c1-5237c57176cd",
         "title": "Investment Engineer Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -24940,7 +24940,7 @@
         "company_name": "Optiver",
         "id": "4cb3632f-a207-48af-bfef-bb5be6642d3f",
         "title": "Campus: Software Engineer Intern - Summer 2024 - Austin",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -25035,7 +25035,7 @@
         "company_name": "Optiver",
         "id": "1c0a9a89-a534-4246-8d4b-bf08b4728317",
         "title": "Campus: Quantitative Trader Intern - Summer 2024 - Chicago",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -48665,7 +48665,7 @@
         "company_name": "Applied Materials",
         "id": "e717cbaf-e442-4241-912c-abf9ae589dc6",
         "title": "2024 Spring AI ML Co-op - Gloucester",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024"
         ],
@@ -49634,7 +49634,7 @@
         "company_name": "Bose",
         "id": "f78fec3d-5f24-4a88-9495-1759238d11a5",
         "title": "Data Science Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2024",
             "Spring 2024",
