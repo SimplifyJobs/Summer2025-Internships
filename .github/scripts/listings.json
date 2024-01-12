@@ -17466,7 +17466,7 @@
         "company_name": "Pison",
         "id": "be143a4a-374e-42f4-a482-4a61b4632c04",
         "title": "Software Engineer Fall Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2023"
         ],
@@ -19563,7 +19563,7 @@
         "company_name": "Activision-Blizzard",
         "id": "733ab333-6e2d-4ea5-b02f-65d91a57a570",
         "title": "2024 US Summer Internship - Computer Graphics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -36581,7 +36581,7 @@
         "company_name": "Blizzard Entertainment",
         "id": "01774b33-56d0-498b-b886-e7a30bb8a2a1",
         "title": "2024 US Summer Internship - Analytics & Data Science",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -43515,7 +43515,7 @@
         "company_name": "Leidos",
         "id": "460539db-bc78-48c4-83f4-ee8ea7f2d280",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -43534,7 +43534,7 @@
         "company_name": "Leidos",
         "id": "ccaca843-fa1d-44b5-b94e-6217b53333e4",
         "title": "Systems Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -44459,7 +44459,7 @@
         "company_name": "Leidos",
         "id": "197b2e3c-69d0-4968-b1d6-64f80c27cd40",
         "title": "Engineering Intern Summer 2024 - Aerospace - Computer Science - AI/ML",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -45054,7 +45054,7 @@
         "company_name": "Leidos",
         "id": "f61597e4-c348-4f6d-8864-6c4f50d11ada",
         "title": "Cyber Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -45303,7 +45303,7 @@
         "company_name": "Hewlett Packard (HP)",
         "id": "d1ffe6dc-1c56-4f68-babd-1a217689815d",
         "title": "D&TO Software AI Intern Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -45398,7 +45398,7 @@
         "company_name": "Astera Labs",
         "id": "585b8b95-4fe8-47f3-a658-e292d414913b",
         "title": "Software Engineer \u2013 Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -50097,7 +50097,7 @@
         "company_name": "Oshkosh",
         "id": "92c52543-bf0b-4e0f-acc4-2ac95516bb17",
         "title": "DT Data Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -50108,6 +50108,142 @@
             "Hagerstown, MD"
         ],
         "company_url": "https://simplify.jobs/c/Oshkosh",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Kpler",
+        "id": "2d853be7-48b4-4426-ad23-69615f5c0b71",
+        "title": "Internship Refineries Optimization and Modeling",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1705076725,
+        "date_posted": 1705076725,
+        "url": "https://jobs.lever.co/kpler/621874ac-759a-4509-a9e7-931e481766d8/apply",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Kpler",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Emsi",
+        "id": "d9934ccf-a4a0-4621-a68b-edbfb0264c7c",
+        "title": "Data Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1705076524,
+        "date_posted": 1705076524,
+        "url": "https://jobs.lever.co/economicmodeling/d99eff63-45c6-4247-8494-047e898db169/apply",
+        "locations": [
+            "Moscow, ID"
+        ],
+        "company_url": "https://simplify.jobs/c/Emsi",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Hello Fresh",
+        "id": "3e331372-13b4-4273-8be3-efb37bc5c651",
+        "title": "Junior Developer Co-Op",
+        "active": true,
+        "terms": [
+            "Spring 2024"
+        ],
+        "date_updated": 1705076395,
+        "date_posted": 1705076395,
+        "url": "https://careers.hellofresh.com/global/en/job/5614077?gh_jid=5614077",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Hello-Fresh",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "AbelsonTaylor",
+        "id": "f86cdf5b-ee2a-4948-ab09-7832fdd4c841",
+        "title": "Data Science Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1705076041,
+        "date_posted": 1705076041,
+        "url": "https://boards.greenhouse.io/abelsontaylor/jobs/4322044006",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/AbelsonTaylor",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Span",
+        "id": "19a3c84f-67b1-40e8-a1e0-2fad40894538",
+        "title": "RDI Software Co-op July-December 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024",
+            "Fall 2024",
+            "Winter 2025"
+        ],
+        "date_updated": 1705075625,
+        "date_posted": 1705075625,
+        "url": "https://boards.greenhouse.io/spanio/jobs/5857616003",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Span",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Momentive",
+        "id": "a401ac82-c3d8-4393-9b62-806dcb18a973",
+        "title": "Technical Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1705075594,
+        "date_posted": 1705075594,
+        "url": "https://boards.greenhouse.io/surveymonkey/jobs/5616821",
+        "locations": [
+            "Remote",
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Momentive",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Intel",
+        "id": "98df4ea4-fb9b-4e4b-964e-eea4046cb38d",
+        "title": "Software Application Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1705075652,
+        "date_posted": 1705075652,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/England-Swindon/Software-Application-Engineer-Intern_JR0255723",
+        "locations": [
+            "Swindon, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
         "is_visible": true,
         "sponsorship": "Other"
     }
