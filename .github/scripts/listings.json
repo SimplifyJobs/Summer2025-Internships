@@ -49917,5 +49917,26 @@
         "company_url": "https://simplify.jobs/c/Leidos",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1705032133,
+        "url": "https://jobs.ashbyhq.com/GPTZero/d7e6f3ee-8446-4ac4-b1f8-e79c9876c31a",
+        "company_name": "GPTZero",
+        "title": "Machine Learning Engineering Intern",
+        "locations": [
+            "NYC, NY",
+            "Toronto, CA"
+        ],
+        "terms": [
+            "Spring 2024",
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "alexcdot",
+        "id": "6b1a9420-f31c-4d8f-bc14-ae1bc1cd2ba9",
+        "date_posted": 1705032133,
+        "company_url": "",
+        "is_visible": true
     }
 ]
