@@ -15632,7 +15632,7 @@
         "company_name": "Dun & Bradstreet",
         "id": "ba806a34-bbfb-455d-8197-c952d326a2a2",
         "title": "2024 Summer Internship Program - Technology",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -17772,7 +17772,7 @@
         "company_name": "OP3N",
         "id": "b642cd44-9856-416b-ad9f-675efd7c8771",
         "title": "Machine Learning Engineer Intern - Remote",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -17909,7 +17909,7 @@
         "company_name": "Matroid",
         "id": "b9d0e46a-0003-40bb-91dd-6338717adf73",
         "title": "Computer Vision Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -19563,7 +19563,7 @@
         "company_name": "Activision-Blizzard",
         "id": "733ab333-6e2d-4ea5-b02f-65d91a57a570",
         "title": "2024 US Summer Internship - Computer Graphics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -23997,7 +23997,7 @@
         "company_name": "Intel",
         "id": "00a35a10-6b8b-4640-bb31-4b667138f90c",
         "title": "Full Stack Software Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -36581,7 +36581,7 @@
         "company_name": "Blizzard Entertainment",
         "id": "01774b33-56d0-498b-b886-e7a30bb8a2a1",
         "title": "2024 US Summer Internship - Analytics & Data Science",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -41459,7 +41459,7 @@
         "company_name": "Discord",
         "id": "ead2fce6-cfc4-4b65-b96e-82e28432ed62",
         "title": "Software Engineer Intern - Perks - Core Product",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -41479,7 +41479,7 @@
         "company_name": "Discord",
         "id": "dfa56450-ff07-4b13-88fc-031aa190dad7",
         "title": "Software Engineer Intern - Design Systems",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -41498,7 +41498,7 @@
         "company_name": "Discord",
         "id": "d7bb7e80-b60e-460f-a8fe-a575545dc936",
         "title": "Software Engineer Intern - Security",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -41518,7 +41518,7 @@
         "company_name": "Discord",
         "id": "d14c077b-a457-4a6f-a53b-8bb25d924141",
         "title": "Data Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -41558,7 +41558,7 @@
         "company_name": "Discord",
         "id": "7c33d555-52eb-4685-adc5-a585020e0dc5",
         "title": "Software Engineer Intern - Data Products",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -41578,7 +41578,7 @@
         "company_name": "Discord",
         "id": "5f34e3d3-aed5-4b10-b817-c3969f15aabc",
         "title": "Core Tech \u2013 Native Framework & Tools Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -41598,7 +41598,7 @@
         "company_name": "Discord",
         "id": "1b9acd02-a9cc-4fd2-8323-eb0eac3c31a3",
         "title": "Software Engineer Intern - Nitro Growth",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -41618,7 +41618,7 @@
         "company_name": "Discord",
         "id": "02e2e53b-fcc0-46b3-a89f-b1f7658210cf",
         "title": "Software Engineer Intern - Platform Ecosystems",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -42614,7 +42614,7 @@
         "company_name": "Hewlett Packard (HP)",
         "id": "73dd09f6-6b21-4a98-9aaf-d577f5d3883c",
         "title": "Data Analyst intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -44440,7 +44440,7 @@
         "company_name": "Leidos",
         "id": "7f1e84ed-3f9a-4004-93b3-690af124932a",
         "title": "Summer 2024 Intern - Reverse Engineering & Vulnerability Research",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -44459,7 +44459,7 @@
         "company_name": "Leidos",
         "id": "197b2e3c-69d0-4968-b1d6-64f80c27cd40",
         "title": "Engineering Intern Summer 2024 - Aerospace - Computer Science - AI/ML",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -47627,7 +47627,7 @@
         "company_name": "NVIDIA",
         "id": "ada6584f-86e5-44ce-9aef-6f3aec86e996",
         "title": "Solutions Architect Intern - Cybersecurity AI - Summer 2024",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -49846,7 +49846,7 @@
         "company_name": "Hewlett Packard (HP)",
         "id": "6f33a9a9-ac74-4d2e-a372-b920b86492f9",
         "title": "Data Analyst intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -49938,5 +49938,177 @@
         "date_posted": 1705032133,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Leidos",
+        "id": "34b7de0b-f2dd-41f0-9a57-e06a1be49e35",
+        "title": "Technical Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1705019219,
+        "date_posted": 1705019219,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Remote-US/Technical-Intern_R-00125477",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Protective Life",
+        "id": "e4e5132f-9fab-42a4-9f8c-4d8a89f2c1e5",
+        "title": "2024 Summer Internship-Software Development",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1705019038,
+        "date_posted": 1705019038,
+        "url": "https://jobs.lever.co/protective/e6d3b1d5-7d05-40bc-ae27-4dd5760d84b8/apply",
+        "locations": [
+            "Birmingham, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/Protective-Life",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "The Boeing Company",
+        "id": "fe980937-01b9-4891-b7b2-859eaedae15d",
+        "title": "Data Science Intern - Government",
+        "active": true,
+        "terms": [
+            "Spring 2024"
+        ],
+        "date_updated": 1705018603,
+        "date_posted": 1705018603,
+        "url": "https://boeing.wd1.myworkdayjobs.com/external_careers/job/CAN---Richmond-Canada/Data-Science-Intern---Government_00000407698-1",
+        "locations": [
+            "Richmond, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "The Boeing Company",
+        "id": "032feb6b-32cd-4fbf-85de-d35f2ac2353b",
+        "title": "Data Science Intern",
+        "active": true,
+        "terms": [
+            "Spring 2024"
+        ],
+        "date_updated": 1705018603,
+        "date_posted": 1705018603,
+        "url": "https://boeing.wd1.myworkdayjobs.com/external_careers/job/CAN---Richmond-Canada/Data-Science-Intern_00000407697-1",
+        "locations": [
+            "Richmond, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Hewlett Packard (HP)",
+        "id": "d3104818-d656-46a1-a5e5-f69bd43d7086",
+        "title": "D&TO Software AI Intern Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1705018446,
+        "date_posted": 1705018446,
+        "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Corvallis-Oregon-United-States-of-America/D-TO-Software-AI-Intern-Summer-2024_3127641-1",
+        "locations": [
+            "Corvallis, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Hewlett Packard (HP)",
+        "id": "80a6d00e-002e-4e81-bd10-def924f52a47",
+        "title": "Security / App Dev Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1705018447,
+        "date_posted": 1705018447,
+        "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Spring-Texas-United-States-of-America/Security---App-Dev-Intern_3125034",
+        "locations": [
+            "Spring, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "iCapital Network",
+        "id": "5a2d4f05-fca1-4041-b775-9550126f993d",
+        "title": "Platform Infrastructure Intern",
+        "active": true,
+        "terms": [
+            "Fall 2024",
+            "Winter 2025"
+        ],
+        "date_updated": 1705018420,
+        "date_posted": 1705018420,
+        "url": "https://boards.greenhouse.io/icapitalnetwork/jobs/7023330002",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/iCapital-Network",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Leidos",
+        "id": "a167aa45-be27-47c8-a19b-bd06d6b69e9a",
+        "title": "Technical Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1705018151,
+        "date_posted": 1705018151,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Remote-US/Technical-Intern_R-00125480",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Oshkosh",
+        "id": "92c52543-bf0b-4e0f-acc4-2ac95516bb17",
+        "title": "DT Data Scientist Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1705018163,
+        "date_posted": 1705018163,
+        "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Hagerstown-Maryland-United-States/Digital-Manufacturing-Technology--IT--Intern---Summer-2023_R21914",
+        "locations": [
+            "Hagerstown, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Oshkosh",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
