@@ -19563,7 +19563,7 @@
         "company_name": "Activision-Blizzard",
         "id": "733ab333-6e2d-4ea5-b02f-65d91a57a570",
         "title": "2024 US Summer Internship - Computer Graphics",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -27400,7 +27400,7 @@
         "company_name": "Second Order Effects",
         "id": "b9cb1bf6-42c5-4224-964b-13974e3bd474",
         "title": "Systems Integration/Test Engineering Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -32213,7 +32213,7 @@
         "company_name": "AppLovin",
         "id": "4664435a-f483-4647-b8ef-0a8ed9cfb2e6",
         "title": "Infrastructure Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2024"
         ],
@@ -36581,7 +36581,7 @@
         "company_name": "Blizzard Entertainment",
         "id": "01774b33-56d0-498b-b886-e7a30bb8a2a1",
         "title": "2024 US Summer Internship - Analytics & Data Science",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -40617,7 +40617,7 @@
         "company_name": "Quest Analytics",
         "id": "e07bedac-622b-4e74-b7ca-d1dfea30d830",
         "title": "Data Analytics Internship - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -42576,7 +42576,7 @@
         "company_name": "Leidos",
         "id": "30e16fa7-2a81-4ba7-b9cd-c4dcc721f931",
         "title": "Signal Processing Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -46588,7 +46588,7 @@
         "company_name": "Dev Technology Group",
         "id": "58950933-922d-4b73-a7e1-7bc91aebd423",
         "title": "Summer Low-Code/No Code \u2013 Developer Intern - Servicenow",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -48051,7 +48051,7 @@
         "company_name": "Wealthsimple",
         "id": "49a59941-a154-46e9-8f80-dc34f1d29b22",
         "title": "Intern \u2013 Data Science - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -48070,7 +48070,7 @@
         "company_name": "Wealthsimple",
         "id": "0551e315-2e41-488a-bf5b-142511ac659a",
         "title": "Intern \u2013 Software Development - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -49162,7 +49162,7 @@
         "company_name": "Visa",
         "id": "2ea2e6ed-decb-4258-a589-e5ade7adc35f",
         "title": "Software Engineer \u2013 Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -49181,7 +49181,7 @@
         "company_name": "Visa",
         "id": "495ebef1-4539-4225-8893-cc2799cbbe27",
         "title": "Software Engineer \u2013 Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -50264,6 +50264,179 @@
             "San Mateo, CA"
         ],
         "company_url": "https://simplify.jobs/c/Gilead-Sciences",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Splunk",
+        "id": "26a18f73-ade0-4c01-81a4-5010174c603c",
+        "title": "Data Scientist/Product Analyst Intern - Boulder - CO - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1705105673,
+        "date_posted": 1705105673,
+        "url": "https://jobs.jobvite.com/splunk-careers/job/onrSqfwQ?nl=1&nl=1&fr=false",
+        "locations": [
+            "Colorado"
+        ],
+        "company_url": "https://simplify.jobs/c/Splunk",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Guidewire",
+        "id": "63132079-5d51-4db0-ac5d-04dbe5552501",
+        "title": "Summer 2024 Software Engineer Toronto Co-Op",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1705105506,
+        "date_posted": 1705105506,
+        "url": "https://jobs.lever.co/guidewire/69fc0fac-817c-49e5-82cd-578b3fdeeb95/apply",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Guidewire",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Guidewire",
+        "id": "9dcd800d-fbc7-4d44-b16a-1e19af0d9d61",
+        "title": "Full-stack Co-op - Summer 2024 Toronto",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1705105501,
+        "date_posted": 1705105501,
+        "url": "https://jobs.lever.co/guidewire/9f36d9a2-d98f-4362-b80e-4488de355c05/apply",
+        "locations": [
+            "Mississauga, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Guidewire",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Autodesk",
+        "id": "6ba81277-a22f-4ad2-b5b7-ee089a4dcd98",
+        "title": "Intern \u2013 Machine Learning Engineer",
+        "active": true,
+        "terms": [
+            "Spring 2024",
+            "Summer 2024"
+        ],
+        "date_updated": 1705105271,
+        "date_posted": 1705105271,
+        "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Intern--Machine-Learning-Engineer_24WD74803-1",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Autodesk",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Leidos",
+        "id": "f8c83122-568d-413c-b2d4-4776d8c48b6b",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1705104732,
+        "date_posted": 1705104732,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/San-Diego-CA/Software-Engineer-Intern_R-00122995",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Two Six Technologies",
+        "id": "ac0d1f7d-a596-43fe-93b0-7bb756f15fa6",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1705104634,
+        "date_posted": 1705104634,
+        "url": "https://boards.greenhouse.io/twosixtechnologies/jobs/5057039004",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Two-Six-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Quora",
+        "id": "5df4dc38-434c-451d-921d-32fb7e560ab7",
+        "title": "Software Engineer Intern - Canada - Remote",
+        "active": true,
+        "terms": [
+            "Spring 2024"
+        ],
+        "date_updated": 1705104483,
+        "date_posted": 1705104483,
+        "url": "https://jobs.ashbyhq.com/quora/b8eefe96-4619-47b3-aa85-ca7f1a5be669/application",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Quora",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "F5",
+        "id": "518f0ad0-b22c-4460-8391-205894630403",
+        "title": "Software Engineering Intern - San Jose",
+        "active": true,
+        "terms": [
+            "Spring 2024",
+            "Fall 2024"
+        ],
+        "date_updated": 1705104494,
+        "date_posted": 1705104494,
+        "url": "https://ffive.wd5.myworkdayjobs.com/en-US/f5jobs/job/San-Jose/Software-Engineering-Intern--San-Jose-_RP1029825",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/f5",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Quora",
+        "id": "09556c6f-34ec-4473-b6b3-e330407d1c53",
+        "title": "Machine Learning Engineer Intern - Canada - Remote",
+        "active": true,
+        "terms": [
+            "Spring 2024"
+        ],
+        "date_updated": 1705104481,
+        "date_posted": 1705104481,
+        "url": "https://jobs.ashbyhq.com/quora/3c01aec8-06f6-4dc8-b6ee-e132515e4738/application",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Quora",
         "is_visible": true,
         "sponsorship": "Other"
     }
