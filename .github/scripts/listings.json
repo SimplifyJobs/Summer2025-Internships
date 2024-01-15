@@ -50515,5 +50515,25 @@
         "company_url": "https://simplify.jobs/c/Hello-Fresh",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1705352285,
+        "url": "https://app.ripplematch.com/v2/public/job/96587920/details",
+        "company_name": "Confluent",
+        "title": "Software Engineering Intern (Frontend) - 2024",
+        "locations": [
+            "Atlanta, GA",
+            "Qu\u00e9bec, Canada"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "mtlogs",
+        "id": "29a77dbe-4e6f-4872-9cb4-8de095f05cd5",
+        "date_posted": 1705352285,
+        "company_url": "",
+        "is_visible": true
     }
 ]
