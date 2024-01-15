@@ -19563,7 +19563,7 @@
         "company_name": "Activision-Blizzard",
         "id": "733ab333-6e2d-4ea5-b02f-65d91a57a570",
         "title": "2024 US Summer Internship - Computer Graphics",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -50475,6 +50475,25 @@
             "Santa Clara, CA"
         ],
         "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Skyways",
+        "id": "41b27fe8-79f6-4000-b5e4-fc47a5bf43cf",
+        "title": "Software Engineer / Robotics internship",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1705277774,
+        "date_posted": 1705277774,
+        "url": "https://jobs.lever.co/skyways/0b9d280a-9c1a-4bf7-a9be-194286822a25/apply",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Skyways",
         "is_visible": true,
         "sponsorship": "Other"
     }
