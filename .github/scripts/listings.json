@@ -19563,7 +19563,7 @@
         "company_name": "Activision-Blizzard",
         "id": "733ab333-6e2d-4ea5-b02f-65d91a57a570",
         "title": "2024 US Summer Internship - Computer Graphics",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -20167,7 +20167,7 @@
         "company_name": "Bristol-Myers Squibb",
         "id": "1eae4a6e-4a34-4f8f-9be8-0c68ad9f4f91",
         "title": "Gene Delivery Process Development Intern or Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -45728,7 +45728,7 @@
         "company_name": "Hugging Face",
         "id": "768ac41b-11a6-435d-8a35-02675aa858e6",
         "title": "Machine Learning Engineer Internship - Tokenizers & Maintenance - US Remote",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -45900,7 +45900,7 @@
         "company_name": "Hugging Face",
         "id": "8db0b382-f9d7-411e-ba97-0eac1a2d9912",
         "title": "Machine Learning Engineer Internship - Tokenizers & Maintenance - Remote",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -50368,7 +50368,7 @@
         "company_name": "Two Six Technologies",
         "id": "ac0d1f7d-a596-43fe-93b0-7bb756f15fa6",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -50494,6 +50494,25 @@
             "Austin, TX"
         ],
         "company_url": "https://simplify.jobs/c/Skyways",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Hello Fresh",
+        "id": "ebc3d17e-9907-49d2-a3ff-861dcd269f46",
+        "title": "Data and Analytics Co-op - Months",
+        "active": true,
+        "terms": [
+            "Spring 2024"
+        ],
+        "date_updated": 1705335565,
+        "date_posted": 1705335565,
+        "url": "https://careers.hellofresh.com/global/en/job/5619384?gh_jid=5619384",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Hello-Fresh",
         "is_visible": true,
         "sponsorship": "Other"
     }
