@@ -19563,7 +19563,7 @@
         "company_name": "Activision-Blizzard",
         "id": "733ab333-6e2d-4ea5-b02f-65d91a57a570",
         "title": "2024 US Summer Internship - Computer Graphics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -33695,7 +33695,7 @@
         "company_name": "Credit Karma",
         "id": "e8b50019-b51c-454a-a43c-5b372f508ee3",
         "title": "Software Engineering Intern - Summer 2024",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -38888,7 +38888,7 @@
         "company_name": "Pagaya",
         "id": "b047b0e7-4774-4061-8700-e88d2ceacd53",
         "title": "Partnerships Internship - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -41216,7 +41216,7 @@
         "company_name": "Hugging Face",
         "id": "9adcb37a-50d5-4e8f-b772-7d641735245c",
         "title": "Machine Learning Engineer Internship - Watermarking - Remote",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -49903,7 +49903,7 @@
         "company_name": "Leidos",
         "id": "8a093834-2409-46b8-a2ce-e14b8136612e",
         "title": "Data Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -49944,7 +49944,7 @@
         "company_name": "Leidos",
         "id": "34b7de0b-f2dd-41f0-9a57-e06a1be49e35",
         "title": "Technical Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -49963,7 +49963,7 @@
         "company_name": "Protective Life",
         "id": "e4e5132f-9fab-42a4-9f8c-4d8a89f2c1e5",
         "title": "2024 Summer Internship-Software Development",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -50078,7 +50078,7 @@
         "company_name": "Leidos",
         "id": "a167aa45-be27-47c8-a19b-bd06d6b69e9a",
         "title": "Technical Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -50272,7 +50272,7 @@
         "company_name": "Splunk",
         "id": "26a18f73-ade0-4c01-81a4-5010174c603c",
         "title": "Data Scientist/Product Analyst Intern - Boulder - CO - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -50704,6 +50704,122 @@
             "Toronto, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/BMO",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "The Boeing Company",
+        "id": "4c4adfa3-651a-49c6-a096-91635cf19d09",
+        "title": "Data Engineer Intern",
+        "active": true,
+        "terms": [
+            "Spring 2024"
+        ],
+        "date_updated": 1705422299,
+        "date_posted": 1705422299,
+        "url": "https://boeing.wd1.myworkdayjobs.com/external_careers/job/CAN---Richmond-Canada/Data-Engineer-Intern_00000409811-1",
+        "locations": [
+            "Richmond, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "The Boeing Company",
+        "id": "a88fca54-0f5f-4238-91bf-96165e268ccf",
+        "title": "Software Development Intern",
+        "active": true,
+        "terms": [
+            "Spring 2024"
+        ],
+        "date_updated": 1705422286,
+        "date_posted": 1705422286,
+        "url": "https://boeing.wd1.myworkdayjobs.com/external_careers/job/CAN---Richmond-Canada/Software-Development-Intern_00000409793-1",
+        "locations": [
+            "Richmond, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "COTA",
+        "id": "92156a07-2052-4b76-a39e-44d16d86711b",
+        "title": "Data Analyst Summer 2024 Internship",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1705421945,
+        "date_posted": 1705421945,
+        "url": "https://boards.greenhouse.io/cota/jobs/5823877003",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/COTA",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "COTA",
+        "id": "0173eb06-8de8-4bf8-a453-4c438f8562cb",
+        "title": "Engineering Internship Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1705421940,
+        "date_posted": 1705421940,
+        "url": "https://boards.greenhouse.io/cota/jobs/5826981003",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/COTA",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "ServiceNow",
+        "id": "57d38446-f664-4e77-87ef-a7c2b9084e5e",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1705421606,
+        "date_posted": 1705421606,
+        "url": "https://jobs.smartrecruiters.com/ServiceNow/743999959875349",
+        "locations": [
+            "Remote in USA",
+            "Kirkland, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/ServiceNow",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Capital One",
+        "id": "ef19e4df-ab6e-4c6e-af27-0c3381b0d999",
+        "title": "Labs Incubator Intern - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1705421215,
+        "date_posted": 1705421215,
+        "url": "https://capitalone.wd1.myworkdayjobs.com/Capital_One/job/McLean-VA/Labs-Incubator-Intern---Summer-2024_R179800-1",
+        "locations": [
+            "McLean, VA",
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Capital-One",
         "is_visible": true,
         "sponsorship": "Other"
     }
