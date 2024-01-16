@@ -19563,7 +19563,7 @@
         "company_name": "Activision-Blizzard",
         "id": "733ab333-6e2d-4ea5-b02f-65d91a57a570",
         "title": "2024 US Summer Internship - Computer Graphics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -26767,7 +26767,7 @@
         "company_name": "Symbotic",
         "id": "72d686ae-ae16-431e-b49a-0c9c922a6dc6",
         "title": "\tIntern-Software Engineer - Cognitive Tools",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2023",
             "Spring 2024",
@@ -50535,5 +50535,138 @@
         "date_posted": 1705352285,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Cadence Design Systems",
+        "id": "6fe486dc-3987-454c-9c8d-337a2c3a7795",
+        "title": "Software Engineering Intern - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1705364331,
+        "date_posted": 1705364331,
+        "url": "https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/CHELMSFORD/Software-Engineering-Intern--Summer-2024-_R45210-2",
+        "locations": [
+            "Essex, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Cadence Design Systems",
+        "id": "d74a366f-5fc1-4e2c-9606-df75c9ce1a00",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1705364333,
+        "date_posted": 1705364333,
+        "url": "https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/CHELMSFORD/Software-Engineering-Intern_R45263-1",
+        "locations": [
+            "Essex, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Chamberlain Group",
+        "id": "6afc0d0f-d935-4705-b93b-dcdb2ee77a09",
+        "title": "Intern \u2013 BI Developer for Myq Devops - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1705364259,
+        "date_posted": 1705364259,
+        "url": "https://chamberlain.wd1.myworkdayjobs.com/Chamberlain_Group/job/Oak-Brook-IL/Intern--BI-Developer-for-myQ-DevOps--Summer-2024-_JR26754",
+        "locations": [
+            "Western Springs, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Chamberlain-Group",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Symbotic",
+        "id": "c9dad575-dd98-46b9-9bae-70b84cedd251",
+        "title": "Co-op \u2013 Fall - Software Engineer - Applications",
+        "active": true,
+        "terms": [
+            "Fall 2024"
+        ],
+        "date_updated": 1705363834,
+        "date_posted": 1705363834,
+        "url": "https://symbotic.wd1.myworkdayjobs.com/en-US/Symbotic/job/USA-Wilmington--MA---HQ/Co-op--Fall---Software-Engineer--Applications-_R3003",
+        "locations": [
+            "Burlington, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/symbotic",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Symbotic",
+        "id": "f2ed2923-f0af-449c-866c-62aab42b66fd",
+        "title": "Co-op \u2013 Fall - Software Engineer - Platform Services",
+        "active": true,
+        "terms": [
+            "Fall 2024"
+        ],
+        "date_updated": 1705363833,
+        "date_posted": 1705363833,
+        "url": "https://symbotic.wd1.myworkdayjobs.com/en-US/Symbotic/job/USA-Wilmington--MA---HQ/Co-op--Fall---Software-Engineer--Platform-Services-_R3006",
+        "locations": [
+            "Burlington, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/symbotic",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Cohere",
+        "id": "3056d336-dc63-4eea-a8af-87df3cfcf2f9",
+        "title": "Machine Learning Intern/Co-op - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1705363547,
+        "date_posted": 1705363547,
+        "url": "https://jobs.lever.co/cohere/9ee0ada0-7738-461c-bc46-253ed8ebb0af/apply",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Cohere",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Cohere",
+        "id": "69ea3092-0887-44cf-bdd4-c1ed17fbc9dc",
+        "title": "Software Engineer Intern/Co-op - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1705363548,
+        "date_posted": 1705363548,
+        "url": "https://jobs.lever.co/cohere/f307e2bb-38cc-46fd-8bc2-91a49f10ab3e/apply",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Cohere",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
