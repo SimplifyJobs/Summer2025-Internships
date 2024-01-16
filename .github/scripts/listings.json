@@ -50822,5 +50822,24 @@
         "company_url": "https://simplify.jobs/c/Capital-One",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1705442536,
+        "url": "https://app.ripplematch.com/v2/public/job/d394c822/details",
+        "company_name": "Samsara",
+        "title": "Data Engineering Intern",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "mtlogs",
+        "id": "7b963212-d3e8-4155-83f0-c4e2de719b62",
+        "date_posted": 1705442536,
+        "company_url": "",
+        "is_visible": true
     }
 ]
