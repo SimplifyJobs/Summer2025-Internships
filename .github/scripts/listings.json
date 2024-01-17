@@ -19563,7 +19563,7 @@
         "company_name": "Activision-Blizzard",
         "id": "733ab333-6e2d-4ea5-b02f-65d91a57a570",
         "title": "2024 US Summer Internship - Computer Graphics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -24902,7 +24902,7 @@
         "company_name": "Bridgewater Associates",
         "id": "328683e6-519f-4e0c-97c1-5237c57176cd",
         "title": "Investment Engineer Intern - Summer 2024",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -24940,7 +24940,7 @@
         "company_name": "Optiver",
         "id": "4cb3632f-a207-48af-bfef-bb5be6642d3f",
         "title": "Campus: Software Engineer Intern - Summer 2024 - Austin",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -25035,7 +25035,7 @@
         "company_name": "Optiver",
         "id": "1c0a9a89-a534-4246-8d4b-bf08b4728317",
         "title": "Campus: Quantitative Trader Intern - Summer 2024 - Chicago",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -51212,6 +51212,140 @@
             "SF"
         ],
         "company_url": "https://simplify.jobs/c/Uber",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Astranis",
+        "id": "5353c0cf-9507-4ebc-a449-f11f4ab452ad",
+        "title": "Technical Program Manager Intern - Software - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1705479625,
+        "date_posted": 1705479625,
+        "url": "https://boards.greenhouse.io/astranis/jobs/4323489006",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Astranis",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Silvus Technologies",
+        "id": "217bed44-7bef-4ef4-bb51-672139372dc7",
+        "title": "Intern \u2013 Software Engineer",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1705479624,
+        "date_posted": 1705479624,
+        "url": "https://jobs.lever.co/silvustechnologies/ca44e9d8-588c-46fd-9c11-abfb0086a658/apply",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Silvus-Tech",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Silvus Technologies",
+        "id": "32ea6f19-07ca-4261-b5cc-e3f7dc1d7636",
+        "title": "Intern \u2013 Software Engineer",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1705479623,
+        "date_posted": 1705479623,
+        "url": "https://jobs.lever.co/silvustechnologies/1b36208a-e03a-431f-aaab-9bc008a55665/apply",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Silvus-Tech",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Astranis",
+        "id": "e1debb3f-4463-44e8-ab76-cff0269cd3ec",
+        "title": "Devops \u2013 Intern - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1705479626,
+        "date_posted": 1705479626,
+        "url": "https://boards.greenhouse.io/astranis/jobs/4322291006",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Astranis",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Skyways",
+        "id": "c91095c7-7481-44a5-a7d5-8d1f3aee604d",
+        "title": "Software Engineer internship",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1705479316,
+        "date_posted": 1705479316,
+        "url": "https://jobs.lever.co/skyways/99a7e812-96d4-42be-a633-9d7462a098cb/apply",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Skyways",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "F5",
+        "id": "7beead5f-372a-48be-b56d-8651a2a070c9",
+        "title": "Site Relability Engineering Intern - San Jose",
+        "active": true,
+        "terms": [
+            "Winter 2024",
+            "Spring 2024"
+        ],
+        "date_updated": 1705478759,
+        "date_posted": 1705478759,
+        "url": "https://ffive.wd5.myworkdayjobs.com/en-US/f5jobs/job/San-Jose/Site-Relability-Engineering-Intern--San-Jose-_RP1029837-1",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/f5",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Nasdaq",
+        "id": "d4be2d0b-bca1-4449-a811-211dc339f1a7",
+        "title": "Software Engineer \u2013 2024 Summer Internship",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1705478744,
+        "date_posted": 1705478744,
+        "url": "https://nasdaq.wd1.myworkdayjobs.com/en-US/US_External_Career_Site/job/Canada---Toronto---Ontario/Software-Engineer---2024-Summer-Internship_R0015988",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Nasdaq",
         "is_visible": true,
         "sponsorship": "Other"
     }
