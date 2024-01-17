@@ -11320,7 +11320,7 @@
         "company_name": "Nutanix",
         "id": "b5ec12d2-4310-460a-9dde-f44dfe75363d",
         "title": "Software Engineering Intern - Undergraduates Only",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2024",
             "Summer 2024"
@@ -18570,7 +18570,7 @@
         "company_name": "CACI",
         "id": "9b8a3580-efca-4b42-be7a-48afc1a5fc83",
         "title": "Software Engineering Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -19563,7 +19563,7 @@
         "company_name": "Activision-Blizzard",
         "id": "733ab333-6e2d-4ea5-b02f-65d91a57a570",
         "title": "2024 US Summer Internship - Computer Graphics",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -31496,7 +31496,7 @@
         "company_name": "Two Six Technologies",
         "id": "78ce4045-a48a-4906-b4f2-4f94f387d191",
         "title": "Cleared Research Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -41657,7 +41657,7 @@
         "company_name": "Zoox",
         "id": "db6e4f27-f973-4c2a-bca1-e9c5c4ca3abf",
         "title": "Systems Reliability and Stability Internship/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -41715,7 +41715,7 @@
         "company_name": "Zoox",
         "id": "e3a48ccf-c9ce-451d-b1fa-b2029d8542ab",
         "title": "Months \u2013 Hardware Software Integration Internship/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -51346,6 +51346,123 @@
             "Toronto, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Nasdaq",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "D2L",
+        "id": "c204262c-d528-4565-8789-561d5fd13896",
+        "title": "Product Support Analyst Spring 2024 Co-op",
+        "active": true,
+        "terms": [
+            "Spring 2024"
+        ],
+        "date_updated": 1705508473,
+        "date_posted": 1705508473,
+        "url": "https://www.d2l.com/careers/jobs/?job_id=5626061&gh_jid=5626061",
+        "locations": [
+            "Kitchener, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/D2L",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Kinaxis",
+        "id": "060d629c-b1f5-46e8-89dd-022d4556918e",
+        "title": "Co-Op/Intern Test Developer - Front End Technologies",
+        "active": true,
+        "terms": [
+            "Spring 2024"
+        ],
+        "date_updated": 1705508480,
+        "date_posted": 1705508480,
+        "url": "https://boards.greenhouse.io/kinaxis/jobs/7099348002",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Kinaxis",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Parallel Wireless",
+        "id": "23d86ba3-1d94-4baa-b3e8-3fb20320b609",
+        "title": "PHY Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1705508018,
+        "date_posted": 1705508018,
+        "url": "https://jobs.lever.co/parallelwireless/bc9b27ce-b115-4ac3-8dd6-8429ce24e3a0/apply",
+        "locations": [
+            "Bristol, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Parallel-Wireless",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "NVIDIA",
+        "id": "ac4b5a57-cc23-4228-a401-63a157b452d4",
+        "title": "NVIDIA Summer 2024 Internships: Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1705507590,
+        "date_posted": 1705507590,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-Summer-2024-Internships--Software-Engineering-Intern_JR1978476",
+        "locations": [
+            "Remote in USA",
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "NVIDIA",
+        "id": "e4799349-2be3-4d1f-a76f-4be6f245c528",
+        "title": "NVIDIA Summer 2024 Internships: Hardware Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1705507584,
+        "date_posted": 1705507584,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-Summer-2024-Internships--Hardware-Engineering-Intern_JR1978471-1",
+        "locations": [
+            "Remote in USA",
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "NVIDIA",
+        "id": "47c1e071-4d16-49b3-8565-8ac6bda76145",
+        "title": "NVIDIA Summer 2024 Internships: Computer Architecture Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1705507583,
+        "date_posted": 1705507583,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-Summer-2024-Internships--Computer-Architecture-Intern_JR1978478-1",
+        "locations": [
+            "Remote in USA",
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
         "is_visible": true,
         "sponsorship": "Other"
     }
