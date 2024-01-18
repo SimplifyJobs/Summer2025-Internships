@@ -16947,7 +16947,7 @@
         "company_name": "Gilead Sciences",
         "id": "b21afb15-1fb9-4dc4-8550-bc353903577c",
         "title": "Intern \u2013 Medical Writing - Disclosure & Transparency",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2023",
             "Summer 2023"
@@ -19563,7 +19563,7 @@
         "company_name": "Activision-Blizzard",
         "id": "733ab333-6e2d-4ea5-b02f-65d91a57a570",
         "title": "2024 US Summer Internship - Computer Graphics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -23845,7 +23845,7 @@
         "company_name": "Splunk",
         "id": "65d8d08d-6140-4506-ab9b-df0d8fbb5cbd",
         "title": "Performance Engineer Intern - Boulder - CO - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -36867,7 +36867,7 @@
         "company_name": "PayPal",
         "id": "5f25a596-8cb9-42f8-8fcd-8f80b20a3a8c",
         "title": "Accounting Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2024",
             "Fall 2024"
@@ -37104,7 +37104,7 @@
         "company_name": "Mark43",
         "id": "e81d1352-b56f-40bb-9628-9f0573e4ec23",
         "title": "Engineering Intern-Summer 2024-Canada",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -44288,7 +44288,7 @@
         "company_name": "Intel",
         "id": "063d84ad-aa5c-4f19-81e6-fa3b159a880b",
         "title": "Semiconductor Research Engineer Undergrad Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2023"
         ],
@@ -44440,7 +44440,7 @@
         "company_name": "Leidos",
         "id": "7f1e84ed-3f9a-4004-93b3-690af124932a",
         "title": "Summer 2024 Intern - Reverse Engineering & Vulnerability Research",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -44708,7 +44708,7 @@
         "company_name": "Leidos",
         "id": "3b33cb75-606d-47b9-8bf6-865d801b38e9",
         "title": "Electronic Warfare Modeling & Simulation Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -45322,7 +45322,7 @@
         "company_name": "Kumo",
         "id": "9ac6142e-fd92-47d7-943f-adae2e5c35c5",
         "title": "Software Engineering \u2013 Summer Internship 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -49028,7 +49028,7 @@
         "company_name": "Splunk",
         "id": "92cce829-f476-4ddd-b008-4ce57a72c22f",
         "title": "Software Engineer in Test Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -51239,7 +51239,7 @@
         "company_name": "Silvus Technologies",
         "id": "217bed44-7bef-4ef4-bb51-672139372dc7",
         "title": "Intern \u2013 Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -51258,7 +51258,7 @@
         "company_name": "Silvus Technologies",
         "id": "32ea6f19-07ca-4261-b5cc-e3f7dc1d7636",
         "title": "Intern \u2013 Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -51463,6 +51463,121 @@
             "Santa Clara, CA"
         ],
         "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "GRAIL",
+        "id": "2ee447d4-20bf-49ca-a630-a8615231107a",
+        "title": "Factory and Automation Software Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1705537037,
+        "date_posted": 1705537037,
+        "url": "https://jobs.lever.co/grailbio/feef86e7-7363-4b01-8055-378d47ec1e7a/apply",
+        "locations": [
+            "Menlo Park, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/GRAIL",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "ServiceNow",
+        "id": "44f46c5c-cdc7-4acf-98a1-1349fae87622",
+        "title": "Digital Technology \u2013 Software Engineer Internships - Dt - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1705536913,
+        "date_posted": 1705536913,
+        "url": "https://jobs.smartrecruiters.com/ServiceNow/743999960223684",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ServiceNow",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "CACI",
+        "id": "5036212a-4888-417d-8510-ab022f965dc6",
+        "title": "Data Reporting Intern - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1705536841,
+        "date_posted": 1705536841,
+        "url": "https://caci.wd1.myworkdayjobs.com/External/job/US-OK-Oklahoma-City/Data-Reporting-Intern---Summer-2024_291245",
+        "locations": [
+            "Oklahoma City, OK"
+        ],
+        "company_url": "https://simplify.jobs/c/CACI",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Workiva",
+        "id": "557dc6a3-8cde-44eb-b740-093266acdf46",
+        "title": "2024 Summer \u2013 Software Development Intern - Canada",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1705536807,
+        "date_posted": 1705536807,
+        "url": "https://workiva.wd1.myworkdayjobs.com/careers/job/Sault-Ste-Marie/XMLNAME-2024-Summer---Software-Development-Intern--Canada-_R7197",
+        "locations": [
+            "Remote",
+            "Sault Ste. Marie, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Workiva",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Intel",
+        "id": "1b3cd23f-d386-43f7-9619-604e68d01dd3",
+        "title": "Software Development Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1705536781,
+        "date_posted": 1705536781,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Texas-Austin/Software-Development-Intern_JR0255032",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Point72",
+        "id": "dc8c7221-ace8-40d1-9e01-255a9203e851",
+        "title": "2025 Point72 Academy Investment Analyst Summer Internship Program - US",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1705536666,
+        "date_posted": 1705536666,
+        "url": "https://boards.greenhouse.io/point72/jobs/7053719002",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Point72",
         "is_visible": true,
         "sponsorship": "Other"
     }
