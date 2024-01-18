@@ -19563,7 +19563,7 @@
         "company_name": "Activision-Blizzard",
         "id": "733ab333-6e2d-4ea5-b02f-65d91a57a570",
         "title": "2024 US Summer Internship - Computer Graphics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -22192,7 +22192,7 @@
         "company_name": "Stryker",
         "id": "a01392bc-7a82-420a-81dd-bf8ae0f5c1a7",
         "title": "R&D Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -31534,7 +31534,7 @@
         "company_name": "Two Six Technologies",
         "id": "c9d77e3a-cd2f-45ed-8cb4-6a30dfcd8df9",
         "title": "Deployed Systems Summer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -51616,6 +51616,83 @@
             "Toronto, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Rockwell Automation",
+        "id": "9c85731b-4a55-47c8-90b8-8c6ba5eab0ef",
+        "title": "Intern \u2013 Software Engineer",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1705594955,
+        "date_posted": 1705594955,
+        "url": "https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Milwaukee-Wisconsin-United-States/Intern--Software-Engineer_R24-141-1",
+        "locations": [
+            "Milwaukee, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Rockwell-Automation",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Autodesk",
+        "id": "c8d46676-eb51-4260-9bcb-c51e7ff78f97",
+        "title": "Intern \u2013 Front End Developer",
+        "active": true,
+        "terms": [
+            "Spring 2024",
+            "Summer 2024"
+        ],
+        "date_updated": 1705594703,
+        "date_posted": 1705594703,
+        "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Intern--Front-End-Developer_24WD74757",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Autodesk",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Span",
+        "id": "b5f2b3dc-76ac-4a38-a89c-fc6dbed6efdf",
+        "title": "Frontend Web Internship-Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1705594268,
+        "date_posted": 1705594268,
+        "url": "https://boards.greenhouse.io/spanio/jobs/5863198003",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Span",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Span",
+        "id": "5c54ec51-0cba-4ea8-8921-d2c4280151ee",
+        "title": "Backend Software Engineering Internship-Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1705594268,
+        "date_posted": 1705594268,
+        "url": "https://boards.greenhouse.io/spanio/jobs/5863215003",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Span",
         "is_visible": true,
         "sponsorship": "Other"
     }
