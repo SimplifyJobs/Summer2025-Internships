@@ -51982,5 +51982,24 @@
         "company_url": "https://simplify.jobs/c/NVIDIA",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1705699476,
+        "url": "https://careers.coca-colacompany.com/job/19722840/software-developer-intern-austin-tx/",
+        "company_name": "Coca-Cola",
+        "title": "Software Developer Intern",
+        "locations": [
+            "Austin, TX US"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "yash2919",
+        "id": "97208f87-0c2f-4b57-ae3d-5dcb90e37cc4",
+        "date_posted": 1705699476,
+        "company_url": "",
+        "is_visible": true
     }
 ]
