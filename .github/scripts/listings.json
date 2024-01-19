@@ -19563,7 +19563,7 @@
         "company_name": "Activision-Blizzard",
         "id": "733ab333-6e2d-4ea5-b02f-65d91a57a570",
         "title": "2024 US Summer Internship - Computer Graphics",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -24940,7 +24940,7 @@
         "company_name": "Optiver",
         "id": "4cb3632f-a207-48af-bfef-bb5be6642d3f",
         "title": "Campus: Software Engineer Intern - Summer 2024 - Austin",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -25035,7 +25035,7 @@
         "company_name": "Optiver",
         "id": "1c0a9a89-a534-4246-8d4b-bf08b4728317",
         "title": "Campus: Quantitative Trader Intern - Summer 2024 - Chicago",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -28290,7 +28290,7 @@
         "company_name": "Intel",
         "id": "1b29ea90-8ae1-4d8a-875b-57dfdec99522",
         "title": "Discrete Graphics Validation Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -48799,7 +48799,7 @@
         "company_name": "Applied Materials",
         "id": "c8cfebf9-15ab-48aa-a724-95ae82e46b68",
         "title": "2024 Summer Embedded Firmware Co-Op - Rochester - NY",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -49517,7 +49517,7 @@
         "company_name": "Wealthsimple",
         "id": "2dd03318-607c-42f5-ba47-a57c34f4d4ad",
         "title": "Intern \u2013 Security - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -51864,6 +51864,122 @@
             "United States"
         ],
         "company_url": "https://simplify.jobs/c/Okta",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Nutanix",
+        "id": "c2d15467-864b-4ede-986b-01539f4ecacc",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1705680722,
+        "date_posted": 1705680722,
+        "url": "https://jobs.jobvite.com/nutanix/job/ofs0qfwR?nl=1&nl=1&fr=false",
+        "locations": [
+            "Cambridge, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Nutanix",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Advisor360\u00b0",
+        "id": "8e4207d2-e8c0-44de-b628-764578a34379",
+        "title": "Data Science \u2013 Summer Internship",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1705680631,
+        "date_posted": 1705680631,
+        "url": "https://www.advisor360.com/careers?gh_jid=5057001004",
+        "locations": [
+            "Waltham, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Advisor360",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Waystar",
+        "id": "ab224209-580a-4e61-a250-cc08564203cb",
+        "title": "Application Engineer Co-Op - Summer or Fall of 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024",
+            "Fall 2024"
+        ],
+        "date_updated": 1705680461,
+        "date_posted": 1705680461,
+        "url": "https://waystar.wd1.myworkdayjobs.com/Waystar/job/Atlanta/Application-Engineer-Co-Op---Summer-or-Fall-of-2024_R1850",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Waystar",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Leidos",
+        "id": "6613623f-2e02-46ed-8997-75a6c4d412b8",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Spring 2024"
+        ],
+        "date_updated": 1705680445,
+        "date_posted": 1705680445,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Remote-US/Software-Engineering-Intern_R-00126946",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "NVIDIA",
+        "id": "8afb2dd5-21eb-49f1-9948-f23c91d41dcc",
+        "title": "GPU Architect Intern - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1705680372,
+        "date_posted": 1705680372,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/GPU-Architect-Intern---Summer-2024_JR1978169",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "NVIDIA",
+        "id": "53ee434b-12c6-450f-beae-ef4f6c5bef7f",
+        "title": "Cloud Infrastructure Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1705680370,
+        "date_posted": 1705680370,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/Germany-Munich/Cloud-Infrastructure-Engineering-Intern_JR1978630",
+        "locations": [
+            "Bristol, UK",
+            "Reading, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
         "is_visible": true,
         "sponsorship": "Other"
     }
