@@ -848,7 +848,7 @@
         "company_name": "Walmart",
         "id": "4b60067d-8dcd-4845-b123-3931e5882b6f",
         "title": "Software Engineer internship II",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -16213,7 +16213,7 @@
         "company_name": "Hewlett Packard (HP)",
         "id": "93eced5c-5946-4227-8ce8-b00e1f8bee21",
         "title": "Finance Data Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -16851,7 +16851,7 @@
         "company_name": "Enova",
         "id": "9377b057-4b1e-4af9-a7e7-cfe16147779d",
         "title": "Analytics Internship Summer 2024 - Hybrid",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -19563,7 +19563,7 @@
         "company_name": "Activision-Blizzard",
         "id": "733ab333-6e2d-4ea5-b02f-65d91a57a570",
         "title": "2024 US Summer Internship - Computer Graphics",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -23845,7 +23845,7 @@
         "company_name": "Splunk",
         "id": "65d8d08d-6140-4506-ab9b-df0d8fbb5cbd",
         "title": "Performance Engineer Intern - Boulder - CO - Summer 2024",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -31496,7 +31496,7 @@
         "company_name": "Two Six Technologies",
         "id": "78ce4045-a48a-4906-b4f2-4f94f387d191",
         "title": "Cleared Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -43056,7 +43056,7 @@
         "company_name": "Leidos",
         "id": "255e6026-da31-44c9-9416-c72408b64726",
         "title": "Technical Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2023"
         ],
@@ -43246,7 +43246,7 @@
         "company_name": "Challenge Manufacturing",
         "id": "3de0e5f0-733a-4de2-b292-5559492d401c",
         "title": "Intern \u2013 Software Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2024"
         ],
@@ -46666,7 +46666,7 @@
         "company_name": "Badger Meter",
         "id": "4b52c77e-dcd6-41bc-9e62-6ca34691a95b",
         "title": "Construction Project Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -47800,7 +47800,7 @@
         "company_name": "Mercedes-Benz",
         "id": "bc7615bd-92a7-473c-b1cf-4addadfb5540",
         "title": "Embedded Software Engineer \u2013 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2024",
             "Spring 2024",
@@ -49028,7 +49028,7 @@
         "company_name": "Splunk",
         "id": "92cce829-f476-4ddd-b008-4ce57a72c22f",
         "title": "Software Engineer in Test Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -50272,7 +50272,7 @@
         "company_name": "Splunk",
         "id": "26a18f73-ade0-4c01-81a4-5010174c603c",
         "title": "Data Scientist/Product Analyst Intern - Boulder - CO - Summer 2024",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -50999,7 +50999,7 @@
         "company_name": "GRAIL",
         "id": "6c13bd20-843d-47d1-ac9f-0aba1e7d0982",
         "title": "Software Engineering Intern - Data Platform",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -51018,7 +51018,7 @@
         "company_name": "GRAIL",
         "id": "f8dbdb06-30be-428b-b3bc-dcf49d0d5d68",
         "title": "Generative AI Innovation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -51082,7 +51082,7 @@
         "company_name": "GRAIL",
         "id": "f89c6707-194b-4989-b9a0-c8678e691b99",
         "title": "Software Engineering Intern - Commercial Platform",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -51471,7 +51471,7 @@
         "company_name": "GRAIL",
         "id": "2ee447d4-20bf-49ca-a630-a8615231107a",
         "title": "Factory and Automation Software Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -51693,6 +51693,158 @@
             "SF"
         ],
         "company_url": "https://simplify.jobs/c/Span",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Relay",
+        "id": "ed528345-fda5-4a42-9031-cbdf0ec829ca",
+        "title": "Site Reliability Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1705623938,
+        "date_posted": 1705623938,
+        "url": "https://boards.greenhouse.io/relaypro/jobs/5627853",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/RelayPro",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Gen",
+        "id": "6d322cd2-ec4e-4a01-9a7e-ec908d4450d7",
+        "title": "Site Reliability Engineer \u2013 Intern - Devops",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1705623841,
+        "date_posted": 1705623841,
+        "url": "https://gen.wd1.myworkdayjobs.com/careers/job/USA---Arizona-Tempe/Site-Reliability-Engineer--DevOps--Intern_52785",
+        "locations": [
+            "Tempe, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Gen",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Ultima Genomics",
+        "id": "5717340b-ee28-41ab-88e4-18ecc77a0c9f",
+        "title": "Systems Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1705623486,
+        "date_posted": 1705623486,
+        "url": "https://boards.greenhouse.io/ultimagenomics/jobs/5054493004",
+        "locations": [
+            "Fremont, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/UltimaGenomics",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Intel",
+        "id": "b0e99d50-59f8-4790-963f-a4bca478ad91",
+        "title": "Machine Learning / AI Undergraduate Intern - Ifs",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1705623073,
+        "date_posted": 1705623073,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/Virtual-US/Machine-Learning---AI-Undergraduate-Intern---IFS_JR0255869",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Advisor360\u00b0",
+        "id": "53fd2420-0462-436f-8c45-7975c96b7719",
+        "title": "Software Engineering \u2013 Summer Internship",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1705623038,
+        "date_posted": 1705623038,
+        "url": "https://www.advisor360.com/careers?gh_jid=5057032004",
+        "locations": [
+            "Waltham, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Advisor360",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Yext",
+        "id": "52ba3a80-991b-4225-8440-3a06975b8a3b",
+        "title": "2024 Site Reliability Network Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1705622786,
+        "date_posted": 1705622786,
+        "url": "https://boards.greenhouse.io/yext/jobs/5602005",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Yext",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Yext",
+        "id": "b59e071e-b42c-4342-89c0-7510b6d866c0",
+        "title": "2024 Systems Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1705622784,
+        "date_posted": 1705622784,
+        "url": "https://boards.greenhouse.io/yext/jobs/5602018",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Yext",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Yext",
+        "id": "4fcec8fb-0e68-4816-9a33-ecea90ee6011",
+        "title": "2024 Site Reliability Database Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1705622783,
+        "date_posted": 1705622783,
+        "url": "https://boards.greenhouse.io/yext/jobs/5601993",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Yext",
         "is_visible": true,
         "sponsorship": "Other"
     }
