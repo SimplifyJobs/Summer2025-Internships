@@ -18511,7 +18511,7 @@
         "company_name": "Gilead Sciences",
         "id": "4855de7d-e6ad-4560-8fe3-8d7adc35df50",
         "title": "Intern \u2013 Global Clinical Data Standards",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2023",
             "Summer 2023"
@@ -18629,7 +18629,7 @@
         "company_name": "Gilead Sciences",
         "id": "ca4ec9ac-14d1-4457-a1e7-5b9697b0e2b0",
         "title": "Intern \u2013 Clinical Data Science - Development Systems",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2023",
             "Summer 2023"
@@ -24731,7 +24731,7 @@
         "company_name": "Hewlett Packard (HP)",
         "id": "ca8bcdad-d48b-4a99-b116-b488ed2113d0",
         "title": "2024 Summer Print Software Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -24902,7 +24902,7 @@
         "company_name": "Bridgewater Associates",
         "id": "328683e6-519f-4e0c-97c1-5237c57176cd",
         "title": "Investment Engineer Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -24940,7 +24940,7 @@
         "company_name": "Optiver",
         "id": "4cb3632f-a207-48af-bfef-bb5be6642d3f",
         "title": "Campus: Software Engineer Intern - Summer 2024 - Austin",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -25035,7 +25035,7 @@
         "company_name": "Optiver",
         "id": "1c0a9a89-a534-4246-8d4b-bf08b4728317",
         "title": "Campus: Quantitative Trader Intern - Summer 2024 - Chicago",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -30045,7 +30045,7 @@
         "company_name": "Gilead Sciences",
         "id": "2593137e-ea54-45e6-bcc1-5b044c6f7e77",
         "title": "Intern \u2013 Biomarker Sciences",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2023",
             "Summer 2023"
@@ -36353,7 +36353,7 @@
         "company_name": "Astranis",
         "id": "c82e02ba-b7c7-4ca9-8e46-28fe376a077c",
         "title": "Flight Software \u2013 Intern - Spring 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024"
         ],
@@ -42080,7 +42080,7 @@
         "company_name": "Denali Therapeutics",
         "id": "427a1683-d648-4407-8c9a-305f5a39bdd5",
         "title": "Intern \u2013 Advanced Bioimaging",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -43265,7 +43265,7 @@
         "company_name": "Mercedes-Benz",
         "id": "16b69662-33bc-4495-966c-c04b4dee11e0",
         "title": "OBD Certification & Compliance Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -45652,7 +45652,7 @@
         "company_name": "Mercedes-Benz",
         "id": "de013bb8-e3cf-4985-89d9-b5d1c22b565e",
         "title": "OBD Certification & Compliance Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -49884,7 +49884,7 @@
         "company_name": "Hewlett Packard (HP)",
         "id": "ea3d39f1-0c50-4d5b-8949-d52f7c6c4870",
         "title": "Data Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
