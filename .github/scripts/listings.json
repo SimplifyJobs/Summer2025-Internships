@@ -848,7 +848,7 @@
         "company_name": "Walmart",
         "id": "4b60067d-8dcd-4845-b123-3931e5882b6f",
         "title": "Software Engineer internship II",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -1000,7 +1000,7 @@
         "company_name": "Optiver US",
         "id": "6ebbdf8f-7250-4487-8138-1d1332e70b5e",
         "title": "Quantitative Trader Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -16810,7 +16810,7 @@
         "company_name": "Rockwell Automation",
         "id": "37b1553d-1e94-4834-b780-6c54fb965dc4",
         "title": "Intern \u2013 Firmware Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -24902,7 +24902,7 @@
         "company_name": "Bridgewater Associates",
         "id": "328683e6-519f-4e0c-97c1-5237c57176cd",
         "title": "Investment Engineer Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -32614,7 +32614,7 @@
         "company_name": "Vectra",
         "id": "1b8eaeb5-5fe4-450b-bfee-ce0d77a8dc61",
         "title": "Data Science Internship - San Jose",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -43246,7 +43246,7 @@
         "company_name": "Challenge Manufacturing",
         "id": "3de0e5f0-733a-4de2-b292-5559492d401c",
         "title": "Intern \u2013 Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2024"
         ],
@@ -44841,7 +44841,7 @@
         "company_name": "Formlabs",
         "id": "8ea42646-e5f9-40e6-a9d6-a39c517b4242",
         "title": "Full Stack Software Intern - Winter/Spring 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025",
             "Spring 2025"
@@ -46073,7 +46073,7 @@
         "company_name": "Talos",
         "id": "ed7703bf-a7fd-40bb-b702-de7d0694c1c7",
         "title": "Software Engineer Intern - Backend",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -46282,7 +46282,7 @@
         "company_name": "Visier Solutions",
         "id": "276f5d76-b447-42cf-9774-1b5e52fa7179",
         "title": "Site Reliability Engineer Co-op - May 2024 - Dec 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024"
         ],
@@ -49865,7 +49865,7 @@
         "company_name": "Thousand Eyes",
         "id": "fd7f16b4-534d-4746-9d5b-d44cb775695c",
         "title": "Software Engineering Intern - Endpoint",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -50154,7 +50154,7 @@
         "company_name": "Hello Fresh",
         "id": "3e331372-13b4-4273-8be3-efb37bc5c651",
         "title": "Junior Developer Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024"
         ],
@@ -51586,7 +51586,7 @@
         "company_name": "Crowdstrike",
         "id": "cd0c06eb-7566-41b4-93db-48e9cad492fb",
         "title": "Software Engineer Intern - Summer 2024 - Remote",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -51624,7 +51624,7 @@
         "company_name": "Rockwell Automation",
         "id": "9c85731b-4a55-47c8-90b8-8c6ba5eab0ef",
         "title": "Intern \u2013 Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -51643,7 +51643,7 @@
         "company_name": "Autodesk",
         "id": "c8d46676-eb51-4260-9bcb-c51e7ff78f97",
         "title": "Intern \u2013 Front End Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024",
             "Summer 2024"
