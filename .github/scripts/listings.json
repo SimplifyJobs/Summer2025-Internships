@@ -14367,7 +14367,7 @@
         "company_name": "Oshkosh",
         "id": "045ae4e2-0390-40bc-b10c-49660765cfc5",
         "title": "AI/ Autonomy Engineering Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -17639,7 +17639,7 @@
         "company_name": "SingleStore",
         "id": "e0ca8a3e-3afa-494b-a0e7-d768b67958b5",
         "title": "Software Engineer \u2013 DB Engine Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -17658,7 +17658,7 @@
         "company_name": "SingleStore",
         "id": "c3e9cae3-46a2-40c7-bf19-0f16e3b62d69",
         "title": "Software Engineer \u2013 DB Engine Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -19563,7 +19563,7 @@
         "company_name": "Activision-Blizzard",
         "id": "733ab333-6e2d-4ea5-b02f-65d91a57a570",
         "title": "2024 US Summer Internship - Computer Graphics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -25073,7 +25073,7 @@
         "company_name": "Pure Storage",
         "id": "a594d157-32fb-4692-b99e-9e65c7e56561",
         "title": "Software Engineer Intern - Summer 2024",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -43056,7 +43056,7 @@
         "company_name": "Leidos",
         "id": "255e6026-da31-44c9-9416-c72408b64726",
         "title": "Technical Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -48184,7 +48184,7 @@
         "company_name": "Cadence Design Systems",
         "id": "906859c2-adcf-406e-a0e0-5a9cca55dff9",
         "title": "Software Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -49009,7 +49009,7 @@
         "company_name": "Visa",
         "id": "b1ca0c69-ba34-488a-9898-62cc15cd9718",
         "title": "Visa Consulting & Analytics Undergraduate Intern - 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -49433,7 +49433,7 @@
         "company_name": "Leidos",
         "id": "6e2f93c6-4ac1-4f3d-884d-8c26cb1a22a6",
         "title": "Quantum Technologies Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -51277,7 +51277,7 @@
         "company_name": "Astranis",
         "id": "e1debb3f-4463-44e8-ab76-cff0269cd3ec",
         "title": "Devops \u2013 Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -51490,7 +51490,7 @@
         "company_name": "ServiceNow",
         "id": "44f46c5c-cdc7-4acf-98a1-1349fae87622",
         "title": "Digital Technology \u2013 Software Engineer Internships - Dt - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -51910,7 +51910,7 @@
         "company_name": "Waystar",
         "id": "ab224209-580a-4e61-a250-cc08564203cb",
         "title": "Application Engineer Co-Op - Summer or Fall of 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024",
             "Fall 2024"
@@ -52001,5 +52001,161 @@
         "date_posted": 1705699476,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Salesforce",
+        "id": "64ebbddd-c35b-415b-a354-9a38b7c080d1",
+        "title": "Summer 2024 Intern - Tax Data Analyst",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1705710093,
+        "date_posted": 1705710093,
+        "url": "https://salesforce.wd12.myworkdayjobs.com/en-us/External_Career_Site/job/California---San-Francisco/Summer-2024-Intern---Tax-Data-Analyst_JR236561",
+        "locations": [
+            "Seattle, WA",
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Salesforce",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Cadence Design Systems",
+        "id": "b626d4c8-9685-45f1-be7c-bcecf18f4147",
+        "title": "Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1705709929,
+        "date_posted": 1705709929,
+        "url": "https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/MOUNT-ROYAL-Montreal/intern_R45260-2",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Handshake",
+        "id": "a0fa2069-33ed-4c56-8edd-d85c09687f01",
+        "title": "Backend Software Engineer Intern - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1705709770,
+        "date_posted": 1705709770,
+        "url": "https://joinhandshake.com/careers/open-roles/job?gh_jid=5633902",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Handshake",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Handshake",
+        "id": "60515eb0-85b1-41d8-b7ab-05ebc0290aae",
+        "title": "Full-Stack Software Engineer Intern - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1705709770,
+        "date_posted": 1705709770,
+        "url": "https://joinhandshake.com/careers/open-roles/job?gh_jid=5627377",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Handshake",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Handshake",
+        "id": "2c4e2974-d957-43ae-bd1c-24bb3fbfd19e",
+        "title": "Frontend Engineer Intern - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1705709768,
+        "date_posted": 1705709768,
+        "url": "https://joinhandshake.com/careers/open-roles/job?gh_jid=5627379",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Handshake",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Western Digital",
+        "id": "1c50957b-5eab-4a76-b618-e9836a9230a4",
+        "title": "Summer 2024 \u2013 Intern SSD Validation",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1705709181,
+        "date_posted": 1705709181,
+        "url": "https://jobs.smartrecruiters.com/WesternDigital/743999961105723",
+        "locations": [
+            "Milpitas, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Western-Digital",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Uber",
+        "id": "bbdca535-1e61-474b-b60c-05d7e4338217",
+        "title": "2024 Software Engineering Uberstar Internship - Waterloo",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1705709201,
+        "date_posted": 1705709201,
+        "url": "https://www.uber.com/global/en/careers/list/127944/",
+        "locations": [
+            "Seattle, WA",
+            "SF",
+            "NYC",
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Uber",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Uber",
+        "id": "ce009993-0cb1-44ea-9d16-150c0105a9c6",
+        "title": "2024 Software Engineering Uberstar Internship - Waterloo",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1705709146,
+        "date_posted": 1705709146,
+        "url": "https://university-uber.icims.com/jobs/127944/job",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Uber",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
