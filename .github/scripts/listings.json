@@ -19563,7 +19563,7 @@
         "company_name": "Activision-Blizzard",
         "id": "733ab333-6e2d-4ea5-b02f-65d91a57a570",
         "title": "2024 US Summer Internship - Computer Graphics",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -51201,7 +51201,7 @@
         "company_name": "Uber",
         "id": "bba95956-3b51-4da3-95ce-e7fc64a4e224",
         "title": "2024 Software Engineering Uberstar Internship - Computing Talent Initiative",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -52122,7 +52122,7 @@
         "company_name": "Uber",
         "id": "bbdca535-1e61-474b-b60c-05d7e4338217",
         "title": "2024 Software Engineering Uberstar Internship - Waterloo",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -52144,7 +52144,7 @@
         "company_name": "Uber",
         "id": "ce009993-0cb1-44ea-9d16-150c0105a9c6",
         "title": "2024 Software Engineering Uberstar Internship - Waterloo",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
