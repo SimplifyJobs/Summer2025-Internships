@@ -24902,7 +24902,7 @@
         "company_name": "Bridgewater Associates",
         "id": "328683e6-519f-4e0c-97c1-5237c57176cd",
         "title": "Investment Engineer Intern - Summer 2024",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -26627,7 +26627,7 @@
         "company_name": "Fetch",
         "id": "c559e132-8f3b-4b22-8dba-5950e506418a",
         "title": "Android Software Engineering Internship - Birmingham",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2023",
             "Summer 2023"
