@@ -52176,5 +52176,24 @@
         "date_posted": 1705901726,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1705901739,
+        "url": "https://jobs.intuit.com/job/-/-/27595/60136622192?cid=pjob_li_click_us_swe-other-fy24_cn_text_job_intuit-talent&iis=pjob&iisn=li&p_sid=7a3iV5b&p_uid=8XGyjPTdyc&ss=paid&utm_campaign=&utm_content=pj_board&utm_medium=jobad",
+        "company_name": "Intuit",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "Atlanta, Georgia"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "mananvijay7",
+        "id": "1714d749-128b-4e93-9db3-a42053f111ba",
+        "date_posted": 1705901739,
+        "company_url": "",
+        "is_visible": true
     }
 ]
