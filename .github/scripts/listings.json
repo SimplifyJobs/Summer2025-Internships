@@ -52157,5 +52157,24 @@
         "company_url": "https://simplify.jobs/c/Uber",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1705901726,
+        "url": "https://jobs.intuit.com/job/-/-/27595/60092990192?cid=pjob_li_click_us_swe-fe-fy24_cn_text_job_intuit-talent&iis=pjob&iisn=li&p_sid=qmTTMDb&p_uid=QDTUVCgBkM&ss=paid&utm_campaign=&utm_content=pj_board&utm_medium=jobad",
+        "company_name": "Intuit",
+        "title": "Front-End Software Engineer Intern",
+        "locations": [
+            "San Diego, California"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "mananvijay7",
+        "id": "f34b20dd-2d80-4974-ab1d-2f1bf210f34b",
+        "date_posted": 1705901726,
+        "company_url": "",
+        "is_visible": true
     }
 ]
