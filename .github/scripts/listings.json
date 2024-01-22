@@ -24902,7 +24902,7 @@
         "company_name": "Bridgewater Associates",
         "id": "328683e6-519f-4e0c-97c1-5237c57176cd",
         "title": "Investment Engineer Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -50502,7 +50502,7 @@
         "company_name": "Hello Fresh",
         "id": "ebc3d17e-9907-49d2-a3ff-861dcd269f46",
         "title": "Data and Analytics Co-op - Months",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024"
         ],
