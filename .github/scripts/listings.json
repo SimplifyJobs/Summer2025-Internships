@@ -9249,7 +9249,7 @@
         "company_name": "Weiss Asset Management",
         "id": "2963fd4c-7741-4c54-b1ef-559da3576868",
         "title": "Internship Information 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -19563,7 +19563,7 @@
         "company_name": "Activision-Blizzard",
         "id": "733ab333-6e2d-4ea5-b02f-65d91a57a570",
         "title": "2024 US Summer Internship - Computer Graphics",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -35777,7 +35777,7 @@
         "company_name": "Bristol-Myers Squibb",
         "id": "bfe8da5d-410a-42d0-9ec2-37a898236b0a",
         "title": "Summer 2024 \u2013 Statistical Programming Internship - Undergraduate",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -37356,7 +37356,7 @@
         "company_name": "MarketAxess",
         "id": "3f5d335e-2c17-4d86-bfe4-195a2a71e0f4",
         "title": "Research Intern 2024",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -41313,7 +41313,7 @@
         "company_name": "Hugging Face",
         "id": "0506051a-56a2-4650-b850-f5644331b6d9",
         "title": "Machine Learning Engineer Internship - Audio - Remote",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -41332,7 +41332,7 @@
         "company_name": "Hugging Face",
         "id": "ce3b74fc-7c01-438f-8df7-f910bc1f6a69",
         "title": "Machine Learning Engineer Internship - Audio - US Remote",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -51777,7 +51777,7 @@
         "company_name": "Advisor360\u00b0",
         "id": "53fd2420-0462-436f-8c45-7975c96b7719",
         "title": "Software Engineering \u2013 Summer Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -51891,7 +51891,7 @@
         "company_name": "Advisor360\u00b0",
         "id": "8e4207d2-e8c0-44de-b628-764578a34379",
         "title": "Data Science \u2013 Summer Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -52195,5 +52195,43 @@
         "date_posted": 1705901739,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "DRW",
+        "id": "834b600e-4b27-433e-9ae9-4099e35c1042",
+        "title": "Data Science/Machine Learning Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1705940347,
+        "date_posted": 1705940347,
+        "url": "https://boards.greenhouse.io/drweng/jobs/5637163",
+        "locations": [
+            "Houston, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/DRW",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Behaviour Interactive",
+        "id": "b236b3a6-d36e-4526-a1a4-0be0359186c5",
+        "title": "Programmer \u2013 Internship Summer 2024 - Programmeur\u00b7se - Stage - \u00c9t\u00e9 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1705939880,
+        "date_posted": 1705939880,
+        "url": "https://jobs.lever.co/bhvr/0881e453-11ac-460e-9267-b50387999774/apply",
+        "locations": [
+            "Houston, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Behaviour-Interactive",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
