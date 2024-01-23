@@ -7981,7 +7981,7 @@
         "company_name": "Rivian",
         "id": "284a4f9e-3f2c-472a-a63f-5df88fae3c68",
         "title": "UIUC Research Park Intern - Special Projects",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2023",
             "Spring 2024",
@@ -19563,7 +19563,7 @@
         "company_name": "Activision-Blizzard",
         "id": "733ab333-6e2d-4ea5-b02f-65d91a57a570",
         "title": "2024 US Summer Internship - Computer Graphics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -52201,7 +52201,7 @@
         "company_name": "DRW",
         "id": "834b600e-4b27-433e-9ae9-4099e35c1042",
         "title": "Data Science/Machine Learning Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -52317,7 +52317,7 @@
         "company_name": "iCapital Network",
         "id": "290845db-e67b-496a-aaf5-1b8e9abd3541",
         "title": "Data Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2024",
             "Winter 2025"
@@ -52485,6 +52485,25 @@
             "Santa Clara, CA"
         ],
         "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "CACI",
+        "id": "4123c05c-bfc7-4444-964f-049b382cce75",
+        "title": "Software Developer Intern - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1706026388,
+        "date_posted": 1706026388,
+        "url": "https://caci.wd1.myworkdayjobs.com/External/job/US-VA-Arlington/Software-Developer-Intern---Summer-2024_289177-1",
+        "locations": [
+            "Arlington, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/CACI",
         "is_visible": true,
         "sponsorship": "Other"
     }
