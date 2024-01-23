@@ -19563,7 +19563,7 @@
         "company_name": "Activision-Blizzard",
         "id": "733ab333-6e2d-4ea5-b02f-65d91a57a570",
         "title": "2024 US Summer Internship - Computer Graphics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -25073,7 +25073,7 @@
         "company_name": "Pure Storage",
         "id": "a594d157-32fb-4692-b99e-9e65c7e56561",
         "title": "Software Engineer Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -30625,7 +30625,7 @@
         "company_name": "Autodesk",
         "id": "b6949cef-0dde-4f5c-8ea9-935eff13c682",
         "title": "Intern \u2013 Security Engineer - Summer 2024",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -31553,7 +31553,7 @@
         "company_name": "Mark43",
         "id": "e474f8a1-7e4a-4857-9632-efb5fee3e2f2",
         "title": "Native Mobile Engineer - IOS or Android - Intern-Canada",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -35150,7 +35150,7 @@
         "company_name": "AffiniPay",
         "id": "edd9852f-d991-408c-97da-1f38c46a4a90",
         "title": "Software Development Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -49143,7 +49143,7 @@
         "company_name": "Intel",
         "id": "317a5d66-d58e-4a78-a61b-10406ccfe111",
         "title": "Product Development Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -49655,7 +49655,7 @@
         "company_name": "EarnIn",
         "id": "025d450d-60bc-4c0f-80a4-d7cfe7fae879",
         "title": "Infosec Intern - Year-Round",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -49674,7 +49674,7 @@
         "company_name": "EarnIn",
         "id": "df851647-bf8b-433b-8b34-93fd22e5c33a",
         "title": "Platform Engineering Intern - Year Round",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -49751,7 +49751,7 @@
         "company_name": "Intel",
         "id": "f3983961-513b-4c18-82c8-f753c9b13791",
         "title": "Software Validation Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -49789,7 +49789,7 @@
         "company_name": "Applied Materials",
         "id": "678b76fa-002e-4027-b541-186918b8af67",
         "title": "Algorithm Developer \u2013 Intern - Machine Learning",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -49808,7 +49808,7 @@
         "company_name": "Applied Materials",
         "id": "0a872943-22ff-4352-a57a-56fba79a1c8f",
         "title": "Algorithm Developer \u2013 Intern - Machine Learning",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -51548,7 +51548,7 @@
         "company_name": "Intel",
         "id": "1b3cd23f-d386-43f7-9619-604e68d01dd3",
         "title": "Software Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -52231,6 +52231,260 @@
             "Houston, TX"
         ],
         "company_url": "https://simplify.jobs/c/Behaviour-Interactive",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Kinaxis",
+        "id": "7ff78a2c-0dd1-4eaf-a163-54aa6127c855",
+        "title": "Co-Op/Intern Software Engineer - AI Platform",
+        "active": true,
+        "terms": [
+            "Spring 2024"
+        ],
+        "date_updated": 1705969455,
+        "date_posted": 1705969455,
+        "url": "https://boards.greenhouse.io/kinaxis/jobs/7106603002",
+        "locations": [
+            "Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Kinaxis",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Cadence Design Systems",
+        "id": "205be939-1d30-42e7-8fa3-308f01c85ce2",
+        "title": "Software Engineering Intern - ML Algorithms - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1705969343,
+        "date_posted": 1705969343,
+        "url": "https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/SAN-JOSE/Software-Engineering-Intern---ML-Algorithms--Summer-2024-_R45349-1",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Addepar",
+        "id": "b175832b-2a48-452f-82de-e63db64be794",
+        "title": "Software Engineer Intern - Reporting",
+        "active": true,
+        "terms": [
+            "Spring 2024",
+            "Summer 2024"
+        ],
+        "date_updated": 1705969160,
+        "date_posted": 1705969160,
+        "url": "https://boards.greenhouse.io/addepar1/jobs/7104343002",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Addepar",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Addepar",
+        "id": "d3049ee5-3fa4-4df1-b544-53773cdbb679",
+        "title": "Software Engineer Intern - Analysis Workflows",
+        "active": true,
+        "terms": [
+            "Spring 2024",
+            "Summer 2024"
+        ],
+        "date_updated": 1705969160,
+        "date_posted": 1705969160,
+        "url": "https://boards.greenhouse.io/addepar1/jobs/7104328002",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Addepar",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "iCapital Network",
+        "id": "290845db-e67b-496a-aaf5-1b8e9abd3541",
+        "title": "Data Engineering Intern",
+        "active": true,
+        "terms": [
+            "Fall 2024",
+            "Winter 2025"
+        ],
+        "date_updated": 1705969107,
+        "date_posted": 1705969107,
+        "url": "https://boards.greenhouse.io/icapitalnetwork/jobs/7025359002",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/iCapital-Network",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "ServiceNow",
+        "id": "6c11798e-b4a1-4ae5-bc4a-6a3d66b212d0",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1705969065,
+        "date_posted": 1705969065,
+        "url": "https://jobs.smartrecruiters.com/ServiceNow/743999962012657",
+        "locations": [
+            "Remote in USA",
+            "Kirkland, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/ServiceNow",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "CACI",
+        "id": "eb4fc5fe-8088-4b66-970b-72b289fc1895",
+        "title": "Software Developer Intern - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1705968960,
+        "date_posted": 1705968960,
+        "url": "https://caci.wd1.myworkdayjobs.com/External/job/US-VA-Sterling/Software-Developer-Intern---Summer-2024_289032-1",
+        "locations": [
+            "Dulles, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/CACI",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Spot Freight",
+        "id": "6855f1c6-4cd4-44e1-84dd-3824a75c9690",
+        "title": "Data Engineering Internship - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1705968779,
+        "date_posted": 1705968779,
+        "url": "https://spotinc.com/careers/applynow/?gh_jid=4320985006",
+        "locations": [
+            "Indianapolis, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/Spot-Freight",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Hewlett Packard (HP)",
+        "id": "883fc88a-67a3-45b5-ba13-fc1f3fb34b2c",
+        "title": "Data Science \u2013 Generative AI Intern Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1705968627,
+        "date_posted": 1705968627,
+        "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Spring-Texas-United-States-of-America/Data-Science---Generative-AI--Intern-Summer-2024_3128574-1",
+        "locations": [
+            "Spring, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Autodesk",
+        "id": "4552d0da-1a7f-43f8-882a-daf4e6b8c2e3",
+        "title": "Intern \u2013 Full Stack Software Engineer",
+        "active": true,
+        "terms": [
+            "Spring 2024",
+            "Summer 2024",
+            "Fall 2024"
+        ],
+        "date_updated": 1705968617,
+        "date_posted": 1705968617,
+        "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Intern--Full-Stack-Software-Engineer_24WD74767-1",
+        "locations": [
+            "Toronto, ON, Canada",
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Autodesk",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Chime",
+        "id": "8501808e-88f4-4361-853d-f160f9351410",
+        "title": "Identity & Fraud Experience Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1705968601,
+        "date_posted": 1705968601,
+        "url": "https://boards.greenhouse.io/chime/jobs/7106565002",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Chime",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "NVIDIA",
+        "id": "a47f331f-8db4-4d93-b384-5f0946ca05a6",
+        "title": "Finance Intern - Geforce FP&a - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1705968513,
+        "date_posted": 1705968513,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Finance-Intern--GeForce-FP-A---Summer-2024_JR1978594-1",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "NVIDIA",
+        "id": "2b14fc0f-5524-4e9d-a489-9e8b03e2944d",
+        "title": "Deep Learning Architecture Intern - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1705968512,
+        "date_posted": 1705968512,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Deep-Learning-Architecture-Intern---Summer-2024_JR1975492",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
         "is_visible": true,
         "sponsorship": "Other"
     }
