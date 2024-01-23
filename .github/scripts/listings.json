@@ -24560,7 +24560,7 @@
         "company_name": "Fetch",
         "id": "c8a57258-3380-4d01-b7b2-07dc457354b6",
         "title": "Android Software Engineering Internship - Madison",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2023",
             "Summer 2023"
@@ -24902,7 +24902,7 @@
         "company_name": "Bridgewater Associates",
         "id": "328683e6-519f-4e0c-97c1-5237c57176cd",
         "title": "Investment Engineer Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -27248,7 +27248,7 @@
         "company_name": "Toyota Research Institute",
         "id": "552775e9-3b1c-4572-a071-7730719a1b2f",
         "title": "Robotics Intern - Dexterous Manipulation - Large Behavior Models",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -40560,7 +40560,7 @@
         "company_name": "CACI",
         "id": "8c9e1909-b9f8-4b39-87fe-44f50a87a6ad",
         "title": "Software Engineering Co-Op - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -41411,7 +41411,7 @@
         "company_name": "Hewlett Packard (HP)",
         "id": "85c35e23-c2bc-450a-a304-334287160111",
         "title": "Applications Software Engineering Summer Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -41811,7 +41811,7 @@
         "company_name": "Intel",
         "id": "89754978-56bf-4dac-b049-7fd06a0f28f8",
         "title": "Compiler Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024"
         ],
@@ -44098,7 +44098,7 @@
         "company_name": "The Brattle Group",
         "id": "f6fda15a-89ce-45f2-83f7-30b5e24af246",
         "title": "Research Analyst Intern - Spanish Speaker - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -47554,7 +47554,7 @@
         "company_name": "Dropbox",
         "id": "a95970b6-8c22-46c3-9482-e9011107512c",
         "title": "Customer Experience Technology Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -47573,7 +47573,7 @@
         "company_name": "Dropbox",
         "id": "d3ff8988-d6b3-4eda-8262-2a62042b11b4",
         "title": "Software Engineering Intern - Customer Experience Technology - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -51037,7 +51037,7 @@
         "company_name": "Pure Storage",
         "id": "8c21cfb7-2396-426a-92f8-61767c6ace09",
         "title": "Genai Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -51120,7 +51120,7 @@
         "company_name": "CACI",
         "id": "0273e27d-6529-45c4-adef-4957ca248367",
         "title": "Data Scientist Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -51335,7 +51335,7 @@
         "company_name": "Nasdaq",
         "id": "d4be2d0b-bca1-4449-a811-211dc339f1a7",
         "title": "Software Engineer \u2013 2024 Summer Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
