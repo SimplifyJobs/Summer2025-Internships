@@ -19563,7 +19563,7 @@
         "company_name": "Activision-Blizzard",
         "id": "733ab333-6e2d-4ea5-b02f-65d91a57a570",
         "title": "2024 US Summer Internship - Computer Graphics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -24902,7 +24902,7 @@
         "company_name": "Bridgewater Associates",
         "id": "328683e6-519f-4e0c-97c1-5237c57176cd",
         "title": "Investment Engineer Intern - Summer 2024",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -52992,6 +52992,45 @@
         "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Real-Time-Rendering-Intern--Summer-2024_JR1978200",
         "locations": [
             "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Samsung",
+        "id": "4029e53a-c56e-4f45-9333-457e9f5a1c4d",
+        "title": "Intern \u2013 SSD Firmware Development",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1706084306,
+        "date_posted": 1706084306,
+        "url": "https://boards.greenhouse.io/samsungsemiconductor/jobs/5804761003",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Samsung",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "NVIDIA",
+        "id": "c3bde077-78cb-4ee8-a574-460326589b91",
+        "title": "Software Sales Intern - OEM & Strategic Accounts - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1706083647,
+        "date_posted": 1706083647,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-TX-Austin/Software-Sales-Intern--OEM---Strategic-Accounts---Summer-2024_JR1978383",
+        "locations": [
+            "Austin, TX",
+            "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/NVIDIA",
         "is_visible": true,
