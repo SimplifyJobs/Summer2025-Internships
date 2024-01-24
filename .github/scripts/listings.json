@@ -17447,7 +17447,7 @@
         "company_name": "Rugged Robotics",
         "id": "461047bd-3521-43bb-888a-de27a845a135",
         "title": "Robotic Software Intern/Co-op - Summer 2024",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -19563,7 +19563,7 @@
         "company_name": "Activision-Blizzard",
         "id": "733ab333-6e2d-4ea5-b02f-65d91a57a570",
         "title": "2024 US Summer Internship - Computer Graphics",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -25424,7 +25424,7 @@
         "company_name": "Zoox",
         "id": "bf55fb3e-8472-41ef-8f94-14d4e1fa7b75",
         "title": "Hardware Test Intern \u2013 6-month internship/co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -35188,7 +35188,7 @@
         "company_name": "Zoox",
         "id": "98a80f60-eab1-454e-b94e-1a0934cdfee3",
         "title": "Firmware Engineer Internship/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -41638,7 +41638,7 @@
         "company_name": "Two Six Technologies",
         "id": "2f37dc46-b728-4b48-9617-4047011a7550",
         "title": "TCI Cleared Summer Research Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2023"
         ],
@@ -42614,7 +42614,7 @@
         "company_name": "Hewlett Packard (HP)",
         "id": "73dd09f6-6b21-4a98-9aaf-d577f5d3883c",
         "title": "Data Analyst intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -51605,7 +51605,7 @@
         "company_name": "Intel",
         "id": "fa8c9956-1c3a-4a1f-a1bb-a03066545c4b",
         "title": "Compiler Engineering PEY Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024"
         ],
@@ -51968,7 +51968,7 @@
         "company_name": "NVIDIA",
         "id": "53ee434b-12c6-450f-beae-ef4f6c5bef7f",
         "title": "Cloud Infrastructure Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -52027,7 +52027,7 @@
         "company_name": "Cadence Design Systems",
         "id": "b626d4c8-9685-45f1-be7c-bcecf18f4147",
         "title": "Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -52493,7 +52493,7 @@
         "company_name": "CACI",
         "id": "4123c05c-bfc7-4444-964f-049b382cce75",
         "title": "Software Developer Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -53031,6 +53031,44 @@
         "locations": [
             "Austin, TX",
             "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Forbes",
+        "id": "1e49febf-daf9-4841-947d-6ae2ae0787e9",
+        "title": "Forbes Summer 2024 Technology Internship",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1706112642,
+        "date_posted": 1706112642,
+        "url": "https://boards.greenhouse.io/forbes/jobs/5051924004",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Forbes",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "NVIDIA",
+        "id": "f3622515-75b7-403d-9c90-56f360ae9ed5",
+        "title": "3D Reconstruction Research Engineering Intern - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1706112471,
+        "date_posted": 1706112471,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/Canada-Toronto/XMLNAME-3D-Reconstruction-Research-Engineering-Intern---Summer-2024_JR1978710",
+        "locations": [
+            "Toronto, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/NVIDIA",
         "is_visible": true,
