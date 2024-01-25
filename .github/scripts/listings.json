@@ -905,7 +905,7 @@
         "company_name": "Fetch",
         "id": "ff327abb-4d21-41a4-9186-7103f4960dbd",
         "title": "iOS Apprenticeship - Mobile Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -24902,7 +24902,7 @@
         "company_name": "Bridgewater Associates",
         "id": "328683e6-519f-4e0c-97c1-5237c57176cd",
         "title": "Investment Engineer Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -31116,7 +31116,7 @@
         "company_name": "Beacon Platform",
         "id": "b8c17ea4-1f4d-4eae-81e4-07a8c499f952",
         "title": "Front Office Suite \u2013 Summer Internship - Applications Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -33695,7 +33695,7 @@
         "company_name": "Credit Karma",
         "id": "e8b50019-b51c-454a-a43c-5b372f508ee3",
         "title": "Software Engineering Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -38160,7 +38160,7 @@
         "company_name": "Samsung",
         "id": "c69eaac8-fa16-4720-838f-2e13f87bc8a8",
         "title": "Intern \u2013 Modeling & Simulation Engineer - Applications",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -47975,7 +47975,7 @@
         "company_name": "TAE Technologies",
         "id": "382a7dc8-7902-4d41-9189-57939713990c",
         "title": "Physics Internship - UK",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2024"
         ],
