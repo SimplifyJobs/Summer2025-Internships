@@ -17791,7 +17791,7 @@
         "company_name": "AeroVect",
         "id": "42e05c24-b77d-45ce-ab36-97be8e968fe4",
         "title": "Infrastructure Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2024"
         ],
@@ -41982,7 +41982,7 @@
         "company_name": "Intrinsic",
         "id": "8f5cab0e-c7ca-48a1-a258-4a0f17dafde3",
         "title": "Internship-Robotics Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -42348,7 +42348,7 @@
         "company_name": "Samsung",
         "id": "afd91959-8ebd-4078-8b1d-c01114bc53a0",
         "title": "Intern \u2013 Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -44880,7 +44880,7 @@
         "company_name": "Modernizing Medicine",
         "id": "de3c2fac-724b-4713-aba0-02a5a8d100f7",
         "title": "Web Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -49884,7 +49884,7 @@
         "company_name": "Hewlett Packard (HP)",
         "id": "ea3d39f1-0c50-4d5b-8949-d52f7c6c4870",
         "title": "Data Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -54172,7 +54172,7 @@
         "company_name": "Expedia",
         "id": "7bb3595e-8fd9-4a6c-b684-76b51bb69ee8",
         "title": "Software Development Engineering Intern - Chicago - Austin - Seattle",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024",
             "Summer 2024"
@@ -54271,7 +54271,7 @@
         "company_name": "Expedia",
         "id": "03b7aac0-0a8e-4f64-9f25-fe75b5f2b207",
         "title": "Mobile Engineering Intern - Chicago - Austin - Seattle",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024",
             "Summer 2024"
@@ -54998,6 +54998,332 @@
             "Dulles, VA"
         ],
         "company_url": "https://simplify.jobs/c/CACI",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Addepar",
+        "id": "42b7b5db-c2d1-499e-8c98-8ab52952c928",
+        "title": "Software Engineer Intern - Onboarding Experience - US",
+        "active": true,
+        "terms": [
+            "Spring 2024",
+            "Summer 2024"
+        ],
+        "date_updated": 1706833488,
+        "date_posted": 1706833488,
+        "url": "https://boards.greenhouse.io/addepar1/jobs/7118911002",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Addepar",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Plexus",
+        "id": "4c95a153-5698-4e3e-a0e7-3dc5ee1227db",
+        "title": "Intern \u2013 Software Engineer - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1706833375,
+        "date_posted": 1706833375,
+        "url": "https://plexus.wd5.myworkdayjobs.com/en-US/Plexus_Careers/job/Neenah-WI/Intern---Software-Engineer---Summer-2024_R028265",
+        "locations": [
+            "Neenah, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Plexus",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Intrinsic",
+        "id": "49170562-967c-42b4-8b95-a212bfb9c307",
+        "title": "Internship: Robotic Skills",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1706833280,
+        "date_posted": 1706833280,
+        "url": "https://boards.greenhouse.io/intrinsicrobotics/jobs/5073434004",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/IntrinsicAI",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "LegalZoom",
+        "id": "9f422594-ca04-4909-a509-9c590b95ce2b",
+        "title": "Intern \u2013 Software Engineer",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1706832955,
+        "date_posted": 1706832955,
+        "url": "https://jobs.jobvite.com/legalzoom/job/oMp0pfwk?nl=1&nl=1&fr=false",
+        "locations": [
+            "Glendale, CA",
+            "Mountain View, CA",
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/LegalZoom",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Intel",
+        "id": "219b6201-df66-4d7c-97b6-537c53f3b517",
+        "title": "Software Development Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1706832811,
+        "date_posted": 1706832811,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/Virtual-US/Software-Development-Intern_JR0257491-1",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Advisor360\u00b0",
+        "id": "7a76ac66-4e83-48b5-a75a-31098be7bc7b",
+        "title": "Systems Engineer \u2013 Summer Internship",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1706832760,
+        "date_posted": 1706832760,
+        "url": "https://www.advisor360.com/careers?gh_jid=5059713004",
+        "locations": [
+            "Waltham, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Advisor360",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "1Password",
+        "id": "e9198fdc-0916-4eb2-89a7-c047db347b01",
+        "title": "Data Intern - Data & Analytics Eng - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1706832742,
+        "date_posted": 1706832742,
+        "url": "https://jobs.lever.co/1password/b3d712d1-4543-4b4d-9e52-74bfdb672324/apply",
+        "locations": [
+            "Remote"
+        ],
+        "company_url": "https://simplify.jobs/c/1Password",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "1Password",
+        "id": "5c7d3b2f-663d-4905-8d5e-e8404bcac7c3",
+        "title": "Data Intern - Data Analytics - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1706832740,
+        "date_posted": 1706832740,
+        "url": "https://jobs.lever.co/1password/7a885d21-6dd8-434c-8a51-a08303ef6bba/apply",
+        "locations": [
+            "Remote"
+        ],
+        "company_url": "https://simplify.jobs/c/1Password",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "1Password",
+        "id": "8cc1ef1b-de61-45ab-92b9-ba1820d28dd2",
+        "title": "Developer Intern - Filling & Saving - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1706832740,
+        "date_posted": 1706832740,
+        "url": "https://jobs.lever.co/1password/252416b9-2b7e-4498-97bb-1ac40a6fec12/apply",
+        "locations": [
+            "Remote"
+        ],
+        "company_url": "https://simplify.jobs/c/1Password",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "1Password",
+        "id": "6fc1dbe0-249b-4df2-ad80-8dc385493af3",
+        "title": "Developer Intern - Item Management - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1706832739,
+        "date_posted": 1706832739,
+        "url": "https://jobs.lever.co/1password/2bd69a7d-fc6d-42cb-877f-a84fe3ef8a0b/apply",
+        "locations": [
+            "Remote"
+        ],
+        "company_url": "https://simplify.jobs/c/1Password",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "1Password",
+        "id": "6796859a-7ab8-4805-a5d6-8bdd4a3ac6e1",
+        "title": "Developer Intern - Developer Ecosystems - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1706832738,
+        "date_posted": 1706832738,
+        "url": "https://jobs.lever.co/1password/df3f807e-c76d-4ef5-afd3-4cf60096f440/apply",
+        "locations": [
+            "Remote"
+        ],
+        "company_url": "https://simplify.jobs/c/1Password",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "1Password",
+        "id": "9fa7fb83-24d1-499a-a790-aba3b1a57c4c",
+        "title": "Developer Intern - Admin Onboarding and Provisioning - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1706832741,
+        "date_posted": 1706832741,
+        "url": "https://jobs.lever.co/1password/4619b975-7082-451a-b753-ef1f153a3d91/apply",
+        "locations": [
+            "Remote"
+        ],
+        "company_url": "https://simplify.jobs/c/1Password",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Tempus",
+        "id": "ff8ace4b-a0a4-4a66-b4ec-09aa0be9ff8f",
+        "title": "Software Engineering Summer Analyst/Associate - Reporting Pipeline",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1706832679,
+        "date_posted": 1706832679,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=7122847002",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Tempus",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Leidos",
+        "id": "88432994-2c14-4530-8c84-eb3732e816f0",
+        "title": "Simulation Development Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1706832612,
+        "date_posted": 1706832612,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Orlando-FL/Simulation-Development-Intern_R-00128079",
+        "locations": [
+            "Orlando, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Western Digital",
+        "id": "27924820-3aa7-44ab-89bd-3c80fcd67612",
+        "title": "Flash Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1706832602,
+        "date_posted": 1706832602,
+        "url": "https://jobs.smartrecruiters.com/WesternDigital/743999964803627",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Western-Digital",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Western Digital",
+        "id": "10a7969e-78a0-4136-ac82-ec1341e79e5f",
+        "title": "Internship - SSD Memory System Engineering",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1706832603,
+        "date_posted": 1706832603,
+        "url": "https://jobs.smartrecruiters.com/WesternDigital/743999964802745",
+        "locations": [
+            "Milpitas, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Western-Digital",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Penumbra Inc",
+        "id": "0c897db7-02a3-4c76-ad47-ac5f9b7a2a5e",
+        "title": "Statistical Programmer Analyst Intern - T",
+        "active": true,
+        "terms": [
+            "Winter 2024"
+        ],
+        "date_updated": 1706839480,
+        "date_posted": 1706832510,
+        "url": "https://jobs.lever.co/penumbrainc/02e2ed2c-dcbe-41fa-b323-20c30eeadb4f/apply",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Penumbra-Inc",
         "is_visible": true,
         "sponsorship": "Other"
     }
