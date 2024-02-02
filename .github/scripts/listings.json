@@ -48818,7 +48818,7 @@
         "company_name": "Cadence Design Systems",
         "id": "d15c4070-d66e-48f4-a4a6-dfe6be707c2a",
         "title": "Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -54873,7 +54873,7 @@
         "company_name": "Leidos",
         "id": "ec1e723f-553f-4a28-9a79-438d204acd56",
         "title": "Risk Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -55085,7 +55085,7 @@
         "company_name": "Intel",
         "id": "219b6201-df66-4d7c-97b6-537c53f3b517",
         "title": "Software Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -55324,6 +55324,44 @@
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/Penumbra-Inc",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Wave Financial",
+        "id": "3e3c28b0-0fc9-4524-b988-44244536dcc7",
+        "title": "Software Engineer \u2013 Co-op",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1706890959,
+        "date_posted": 1706890959,
+        "url": "https://jobs.lever.co/waveapps/f36b3efa-b32b-412f-b5be-7d16d61b4175/apply",
+        "locations": [
+            "Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/WaveFinancial",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "CACI",
+        "id": "59baac27-43cf-41d2-a858-dc5e8863627a",
+        "title": "Software Engineering Intern - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1706890760,
+        "date_posted": 1706890760,
+        "url": "https://caci.wd1.myworkdayjobs.com/External/job/US-MD-Annapolis-Junction/Software-Engineering-Intern---Summer-2024_291972",
+        "locations": [
+            "Annapolis Junction, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/CACI",
         "is_visible": true,
         "sponsorship": "Other"
     }
