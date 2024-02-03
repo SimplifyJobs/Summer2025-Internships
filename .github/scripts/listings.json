@@ -53771,7 +53771,7 @@
         "company_name": "Western Digital",
         "id": "503ce2f4-4246-4cfc-9b03-7be4cd2ae625",
         "title": "Summer 2024 Intern - Python Development",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -55370,7 +55370,7 @@
         "company_name": "Western Digital",
         "id": "000df727-e4a7-46a3-b0ef-91fcb1b25514",
         "title": "Summer 2024 Intern - Python Development",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
