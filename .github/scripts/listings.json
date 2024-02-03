@@ -24902,7 +24902,7 @@
         "company_name": "Bridgewater Associates",
         "id": "328683e6-519f-4e0c-97c1-5237c57176cd",
         "title": "Investment Engineer Intern - Summer 2024",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -53771,7 +53771,7 @@
         "company_name": "Western Digital",
         "id": "503ce2f4-4246-4cfc-9b03-7be4cd2ae625",
         "title": "Summer 2024 Intern - Python Development",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -55370,7 +55370,7 @@
         "company_name": "Western Digital",
         "id": "000df727-e4a7-46a3-b0ef-91fcb1b25514",
         "title": "Summer 2024 Intern - Python Development",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -55591,6 +55591,45 @@
             "Arlington, VA"
         ],
         "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "BambooHR",
+        "id": "60fc3a41-fabb-44bb-a46e-763c362394d2",
+        "title": "AI Engineering / Data Science Intern",
+        "active": true,
+        "terms": [
+            "Spring 2024",
+            "Summer 2024"
+        ],
+        "date_updated": 1706948033,
+        "date_posted": 1706948033,
+        "url": "https://boards.greenhouse.io/bamboohr17/jobs/5072441004",
+        "locations": [
+            "Utah"
+        ],
+        "company_url": "https://simplify.jobs/c/BambooHR",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Chime",
+        "id": "9a9a225e-af02-46c8-856b-978b14084681",
+        "title": "Data Scientist Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1706947694,
+        "date_posted": 1706947694,
+        "url": "https://boards.greenhouse.io/chime/jobs/7051618002",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Chime",
         "is_visible": true,
         "sponsorship": "Other"
     }
