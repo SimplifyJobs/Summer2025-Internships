@@ -13333,7 +13333,7 @@
         "company_name": "Teleo",
         "id": "2f15c885-c9c0-4347-ad63-2fd2ae7d368b",
         "title": "Electrical Engineering Internship/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -18649,7 +18649,7 @@
         "company_name": "Leidos",
         "id": "7e34aa04-e0e8-446e-84d5-46c19dd96449",
         "title": "Cybersecurity Engineer Summer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2023"
         ],
@@ -29085,7 +29085,7 @@
         "company_name": "Qumulo",
         "id": "6720dafc-8db1-4b6c-8fd4-b0798ab430be",
         "title": "Software Development Engineer \u2013 Summer Internship 2024",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -40541,7 +40541,7 @@
         "company_name": "CACI",
         "id": "8c8b1b30-68d0-4eac-8f80-a88c15163e47",
         "title": "Cyber Engineering Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -42901,7 +42901,7 @@
         "company_name": "Leidos",
         "id": "fc5af005-d20b-4122-911e-53d71dde0163",
         "title": "Electrical Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -48165,7 +48165,7 @@
         "company_name": "DRW",
         "id": "f42fb43a-d655-48e6-8261-2d1493803a9a",
         "title": "Discretionary Junior Trading Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -51624,7 +51624,7 @@
         "company_name": "Rockwell Automation",
         "id": "9c85731b-4a55-47c8-90b8-8c6ba5eab0ef",
         "title": "Intern \u2013 Software Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -53079,7 +53079,7 @@
         "company_name": "Immuta",
         "id": "af24be6d-b02f-46c7-9d26-7a26304b6796",
         "title": "People Team Coordinator Co-op \u2013 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024",
             "Fall 2024",
@@ -53771,7 +53771,7 @@
         "company_name": "Western Digital",
         "id": "503ce2f4-4246-4cfc-9b03-7be4cd2ae625",
         "title": "Summer 2024 Intern - Python Development",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -55332,7 +55332,7 @@
         "company_name": "Wave Financial",
         "id": "3e3c28b0-0fc9-4524-b988-44244536dcc7",
         "title": "Software Engineer \u2013 Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -55362,6 +55362,235 @@
             "Annapolis Junction, MD"
         ],
         "company_url": "https://simplify.jobs/c/CACI",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Western Digital",
+        "id": "000df727-e4a7-46a3-b0ef-91fcb1b25514",
+        "title": "Summer 2024 Intern - Python Development",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1706926645,
+        "date_posted": 1706926645,
+        "url": "https://jobs.smartrecruiters.com/WesternDigital/743999965131628",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Western-Digital",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Thousand Eyes",
+        "id": "f81194a5-7346-4b21-9fed-11d446a85eed",
+        "title": "Software Engineer Intern - User Experience Engineering",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1706920024,
+        "date_posted": 1706920024,
+        "url": "https://boards.greenhouse.io/thousandeyes/jobs/5669890",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/18d3f6d1-63da-4c67-8053-82ff504a582b",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Thousand Eyes",
+        "id": "6a9f820e-8b33-4ad5-bedf-1e27cefec91f",
+        "title": "Software Engineer Intern - Cloud and Enterprise Agents",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1706920024,
+        "date_posted": 1706920024,
+        "url": "https://boards.greenhouse.io/thousandeyes/jobs/5669839",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/18d3f6d1-63da-4c67-8053-82ff504a582b",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Pendo",
+        "id": "6d4e8fd5-8c5b-4978-b805-da2bf57337bf",
+        "title": "Summer 2024 Software Engineering Internship",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1706919944,
+        "date_posted": 1706919944,
+        "url": "https://boards.greenhouse.io/pendo/jobs/7116151002",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Pendo",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Replit",
+        "id": "5c56dfbe-4b11-4a21-8c43-be200c10421e",
+        "title": "Platform Engineering Internship",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1706919808,
+        "date_posted": 1706919808,
+        "url": "https://jobs.ashbyhq.com/replit/20ba39c2-12b6-4768-8702-28bd245e2775/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Replit",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Olo",
+        "id": "a5836acd-fad0-49dc-89d0-b81e0cec9cdf",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1706919313,
+        "date_posted": 1706919313,
+        "url": "https://jobs.lever.co/olo/84242f1a-53cb-4e85-8ffe-63291ab084a4/apply",
+        "locations": [
+            "Remote in USA",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Olo",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Wayfair",
+        "id": "8c7e2970-8975-4b74-b04e-093b6a91e8f3",
+        "title": "Supply Chain \u2013 And Operations Co-op - Service - July 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1706919300,
+        "date_posted": 1706919300,
+        "url": "https://www.wayfair.com/careers/jobs/7118568002?gh_jid=7118568002",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Wayfair",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Advisor360\u00b0",
+        "id": "e49fc18a-b3a8-419f-b41c-1984d5501f59",
+        "title": "AI Data \u2013 Summer Internship",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1706919177,
+        "date_posted": 1706919177,
+        "url": "https://www.advisor360.com/careers?gh_jid=5056805004",
+        "locations": [
+            "Waltham, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Advisor360",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Redwood Materials",
+        "id": "302ee0ec-7837-42eb-9c66-01ce03e53077",
+        "title": "Factory Automation Intern - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1706919158,
+        "date_posted": 1706919158,
+        "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/5074674004",
+        "locations": [
+            "Sparks, NV"
+        ],
+        "company_url": "https://simplify.jobs/c/Redwood-Materials",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Hewlett Packard (HP)",
+        "id": "3db02ab6-e22f-4816-b7c8-5e8622f6ebde",
+        "title": "Firmware Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1706919086,
+        "date_posted": 1706919086,
+        "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Vancouver-Washington-United-States-of-America/Firmware-Intern_UNIV657-2",
+        "locations": [
+            "Vancouver, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Hewlett Packard (HP)",
+        "id": "37312939-497b-4b48-b598-b9c6037bc3bd",
+        "title": "Firmware Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1706919087,
+        "date_posted": 1706919087,
+        "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Vancouver-Washington-United-States-of-America/Firmware-Intern_UNIV650-1",
+        "locations": [
+            "Vancouver, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Leidos",
+        "id": "c6312fc0-2220-4e0b-9c3c-7dc0792fa544",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1706919017,
+        "date_posted": 1706919017,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/Software-Engineer-Intern_R-00128183",
+        "locations": [
+            "Arlington, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
         "is_visible": true,
         "sponsorship": "Other"
     }
