@@ -55651,5 +55651,24 @@
         "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1707028836,
+        "url": "https://www.metsci.com/careers/join-our-team/?gh_jid=4079146007",
+        "company_name": "Metron",
+        "title": "Software Engineering Internship",
+        "locations": [
+            "Reston, VA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "source": "AmolMendonca",
+        "id": "5f5cbfe5-3b83-4086-b927-99553d0a7365",
+        "date_posted": 1707028836,
+        "company_url": "",
+        "is_visible": true
     }
 ]
