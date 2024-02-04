@@ -55670,5 +55670,25 @@
         "date_posted": 1707028836,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1707028861,
+        "url": "https://ouryahoo.wd5.myworkdayjobs.com/careers/job/United-States-of-America---Remote/Yahoo-Summer-Intern--US----Sports--Finance--Mail---More-_JR0023139",
+        "company_name": "Yahoo",
+        "title": "Summer Intern (US) - Frontend, Backend, Mobile & more",
+        "locations": [
+            "Remote, US"
+        ],
+        "terms": [
+            "Spring 2024",
+            "Summer 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "AmolMendonca",
+        "id": "446699f3-5479-45ba-8365-0ac00a8ade8b",
+        "date_posted": 1707028861,
+        "company_url": "",
+        "is_visible": true
     }
 ]
