@@ -11320,7 +11320,7 @@
         "company_name": "Nutanix",
         "id": "b5ec12d2-4310-460a-9dde-f44dfe75363d",
         "title": "Software Engineering Intern - Undergraduates Only",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024",
             "Summer 2024"
@@ -42806,7 +42806,7 @@
         "company_name": "Oshkosh",
         "id": "5aba4724-f22b-4e2f-a416-25fde697d84a",
         "title": "Data Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -48894,7 +48894,7 @@
         "company_name": "Elevance Health",
         "id": "4df736d0-9249-457a-ac4b-89c05d96c005",
         "title": "Data Analyst Internship - Undergraduate - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -55256,7 +55256,7 @@
         "company_name": "Leidos",
         "id": "88432994-2c14-4530-8c84-eb3732e816f0",
         "title": "Simulation Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -55351,7 +55351,7 @@
         "company_name": "CACI",
         "id": "59baac27-43cf-41d2-a858-dc5e8863627a",
         "title": "Software Engineering Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -55690,5 +55690,328 @@
         "date_posted": 1707028861,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Gen",
+        "id": "4d58dada-a9d1-402e-b299-3648d2e612d9",
+        "title": "Site Reliability Engineer \u2013 Intern - Devops",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1707151004,
+        "date_posted": 1707151004,
+        "url": "https://gen.wd1.myworkdayjobs.com/careers/job/USA---Arizona-Tempe/Site-Reliability-Engineer--DevOps--Intern_53066-1",
+        "locations": [
+            "Tempe, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Gen",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": " identifeye HEALTH",
+        "id": "93d172ed-e329-47f6-b97b-7fec194b5d92",
+        "title": "Software Engineering Internship - IOS",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1707150022,
+        "date_posted": 1707150022,
+        "url": "https://boards.greenhouse.io/tesseract/jobs/5881579003",
+        "locations": [
+            "San Carlos, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Identifeye-Health",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": " identifeye HEALTH",
+        "id": "895b4a4f-9690-465a-9ef7-f5d942edd300",
+        "title": "Software Engineering Internship - Backend",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1707150022,
+        "date_posted": 1707150022,
+        "url": "https://boards.greenhouse.io/tesseract/jobs/5881613003",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Identifeye-Health",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Elevance Health",
+        "id": "c4acfb02-6736-4d71-843b-09b0117f5a1d",
+        "title": "Data Analyst Internship - Summer 2024 - Undergraduate",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1707150018,
+        "date_posted": 1707150018,
+        "url": "https://elevancehealth.wd1.myworkdayjobs.com/en-US/ANT/job/GA-ATLANTA-740-W-PEACHTREE-ST-NW/Data-Analyst-Internship---Summer-2024--Undergraduate_JR104828",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/elevance-health",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Elevance Health",
+        "id": "0be3a489-5d55-4f12-96c6-7bb799c1e3f2",
+        "title": "Data Analyst Internship - Summer 2024 - Undergrad",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1707150019,
+        "date_posted": 1707150019,
+        "url": "https://elevancehealth.wd1.myworkdayjobs.com/en-US/ANT/job/GA-ATLANTA-740-W-PEACHTREE-ST-NW/Data-Analyst-Internship---Summer-2024--Undergrad_JR104829",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/elevance-health",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Elevance Health",
+        "id": "35cae86c-008f-40eb-9c0a-412d7aafa9d7",
+        "title": "Data Analytics Internship - Undergrad - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1707150016,
+        "date_posted": 1707150016,
+        "url": "https://elevancehealth.wd1.myworkdayjobs.com/en-US/ANT/job/MA-WOBURN-500-UNICORN-PARK-DR/Data-Analytics-Internship---Undergrad--Summer-2024_JR105154",
+        "locations": [
+            "Burlington, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/elevance-health",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "CACI",
+        "id": "8c592861-1d34-468f-85a8-15260335a6c6",
+        "title": "VA Software Development Intern - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1707149749,
+        "date_posted": 1707149749,
+        "url": "https://caci.wd1.myworkdayjobs.com/External/job/Remote-Any-State/VA-Software-Development-Intern---Summer-2024_291987-1",
+        "locations": [
+            "Remote"
+        ],
+        "company_url": "https://simplify.jobs/c/CACI",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "CACI",
+        "id": "f2fdfa9e-3bc7-49ac-b8bd-96db8c6fb507",
+        "title": "Junior Software Developer Intern - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1707149751,
+        "date_posted": 1707149751,
+        "url": "https://caci.wd1.myworkdayjobs.com/External/job/US-VA-Fort-Belvoir/Junior-Software-Developer-Intern---Summer-2024_292114-1",
+        "locations": [
+            "Fort Belvoir, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/CACI",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "AuditBoard",
+        "id": "e93b95e9-1a44-431a-81b8-759588b88eb5",
+        "title": "Software Engineering \u2013 Summer Internship",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1707149591,
+        "date_posted": 1707149591,
+        "url": "https://www.auditboard.com/jobs/5874798003?gh_jid=5874798003",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/AuditBoard",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Moxion Power",
+        "id": "0ef0f196-be95-4201-85aa-db8850c50bce",
+        "title": "Quality Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1707149627,
+        "date_posted": 1707149627,
+        "url": "https://jobs.lever.co/moxionpower/e9899c26-959a-415e-8dec-fafe7d9c9d62/apply",
+        "locations": [
+            "Richmond, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Moxion-Power",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "HubSpot",
+        "id": "32ae6e00-df7b-4e07-866f-aea9848d9dc0",
+        "title": "Hubspot Software Engineer Fall Co-op Program - USA",
+        "active": true,
+        "terms": [
+            "Fall 2024"
+        ],
+        "date_updated": 1707149496,
+        "date_posted": 1707149496,
+        "url": "https://www.hubspot.com/careers/jobs/5622460?gh_jid=5622460",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/HubSpot",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "HubSpot",
+        "id": "62cba481-24bf-4e73-8bdd-f99fea8fca59",
+        "title": "Hubspot Software Engineer Fall Co-op Program - USA",
+        "active": true,
+        "terms": [
+            "Fall 2024"
+        ],
+        "date_updated": 1707149495,
+        "date_posted": 1707149495,
+        "url": "https://www.hubspot.com/careers/jobs/5622458?gh_jid=5622458",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/HubSpot",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "HubSpot",
+        "id": "8cc65c7c-6fb1-4f3b-aa97-026d2f2a8aa5",
+        "title": "Hubspot Software Engineer Summer Internship - UK",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1707149494,
+        "date_posted": 1707149494,
+        "url": "https://www.hubspot.com/careers/jobs/5622511?gh_jid=5622511",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/HubSpot",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "HubSpot",
+        "id": "199e43cb-4b6c-4be2-ad6d-056e781acd4e",
+        "title": "Hubspot Software Engineer Summer Internship - UK",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1707149495,
+        "date_posted": 1707149495,
+        "url": "https://www.hubspot.com/careers/jobs/5622505?gh_jid=5622505",
+        "locations": [
+            "Remote"
+        ],
+        "company_url": "https://simplify.jobs/c/HubSpot",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Western Digital",
+        "id": "b84301fb-e173-45b1-a080-82f5e444af44",
+        "title": "Advanced Manufacturing Apprentice",
+        "active": true,
+        "terms": [
+            "Spring 2024"
+        ],
+        "date_updated": 1707149316,
+        "date_posted": 1707149316,
+        "url": "https://jobs.smartrecruiters.com/WesternDigital/743999965654172",
+        "locations": [
+            "Fremont, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Western-Digital",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Western Digital",
+        "id": "f92f1912-544f-4705-8a73-51c74ba76f89",
+        "title": "Advanced Manufacturing Apprentice",
+        "active": true,
+        "terms": [
+            "Spring 2024"
+        ],
+        "date_updated": 1707149314,
+        "date_posted": 1707149314,
+        "url": "https://jobs.smartrecruiters.com/WesternDigital/743999965653314",
+        "locations": [
+            "Fremont, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Western-Digital",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Crowdstrike",
+        "id": "b15fbf2b-04b4-4af2-aadf-9c4163261fae",
+        "title": "Global Sales Excellence Data Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1707149301,
+        "date_posted": 1707149301,
+        "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-us/crowdstrikecareers/job/USA---Austin-TX/Global-Sales-Excellence-Data-Analytics-Intern_R16403",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Crowdstrike",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
