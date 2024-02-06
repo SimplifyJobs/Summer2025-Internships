@@ -24902,7 +24902,7 @@
         "company_name": "Bridgewater Associates",
         "id": "328683e6-519f-4e0c-97c1-5237c57176cd",
         "title": "Investment Engineer Intern - Summer 2024",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -56254,6 +56254,68 @@
         "date_updated": 1707178085,
         "date_posted": 1707178085,
         "url": "https://jobs.smartrecruiters.com/WesternDigital/743999965666793",
+        "locations": [
+            "Milpitas, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Western-Digital",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Mercury",
+        "id": "667813ce-b3bb-4aa4-9c59-a2170a2efd1e",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Spring 2024",
+            "Summer 2024"
+        ],
+        "date_updated": 1707207909,
+        "date_posted": 1707207909,
+        "url": "https://boards.greenhouse.io/mercury/jobs/5072115004",
+        "locations": [
+            "SF",
+            "Canada",
+            "Remote in USA",
+            "NYC",
+            "Portland, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/Mercury",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Snowflake",
+        "id": "2e60c15c-067d-4511-bf89-f3c16645c1c5",
+        "title": "SI Alliances Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1707207535,
+        "date_posted": 1707207535,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=7026915002",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Snowflake",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Western Digital",
+        "id": "80fabe90-0d63-44f4-ae9a-2f79ae883205",
+        "title": "Internship - System Design Verification Engineering",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1707206814,
+        "date_posted": 1707206814,
+        "url": "https://jobs.smartrecruiters.com/WesternDigital/743999965746963",
         "locations": [
             "Milpitas, CA"
         ],
