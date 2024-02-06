@@ -848,7 +848,7 @@
         "company_name": "Walmart",
         "id": "4b60067d-8dcd-4845-b123-3931e5882b6f",
         "title": "Software Engineer internship II",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -10018,7 +10018,7 @@
         "company_name": "HashiCorp",
         "id": "e9bca96a-3e50-49ae-9176-efb344a147f7",
         "title": "Software Engineering Intern - Undergraduate",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -11320,7 +11320,7 @@
         "company_name": "Nutanix",
         "id": "b5ec12d2-4310-460a-9dde-f44dfe75363d",
         "title": "Software Engineering Intern - Undergraduates Only",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2024",
             "Summer 2024"
@@ -17677,7 +17677,7 @@
         "company_name": "SingleStore",
         "id": "f7769a27-f818-409f-8420-283856010923",
         "title": "Software Engineer \u2013 Managed Service Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -17696,7 +17696,7 @@
         "company_name": "SingleStore",
         "id": "ce07a662-d0e6-47ed-a1c2-f002dbd5e066",
         "title": "Software Engineer \u2013 Managed Service Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -27400,7 +27400,7 @@
         "company_name": "Second Order Effects",
         "id": "b9cb1bf6-42c5-4224-964b-13974e3bd474",
         "title": "Systems Integration/Test Engineering Intern - Summer 2024",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -27671,7 +27671,7 @@
         "company_name": "Kepler Communications",
         "id": "885f601c-ee24-4bda-b176-d5ceda71f7fd",
         "title": "Embedded Software Engineer Intern - Winter 2024 - 4 - Months",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2024"
         ],
@@ -31534,7 +31534,7 @@
         "company_name": "Two Six Technologies",
         "id": "c9d77e3a-cd2f-45ed-8cb4-6a30dfcd8df9",
         "title": "Deployed Systems Summer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2023"
         ],
@@ -33080,7 +33080,7 @@
         "company_name": "OCC",
         "id": "d47ab259-1a4a-44ad-a9aa-3ace8501ac4a",
         "title": "Year-Round Intern - UI/UX",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -46263,7 +46263,7 @@
         "company_name": "Visier Solutions",
         "id": "7cc74891-b8e5-4428-b196-326efca31923",
         "title": "Software Developer Co-op - May 2024 - Dec 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024"
         ],
@@ -56011,6 +56011,253 @@
             "Austin, TX"
         ],
         "company_url": "https://simplify.jobs/c/Crowdstrike",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Kinaxis",
+        "id": "7926e7f0-b54d-4356-b0e7-af5b7bd62f24",
+        "title": "Co-Op/Intern Test Developer - AI Integration",
+        "active": true,
+        "terms": [
+            "Spring 2024"
+        ],
+        "date_updated": 1707178951,
+        "date_posted": 1707178951,
+        "url": "https://boards.greenhouse.io/kinaxis/jobs/7164301002",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Kinaxis",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Chamberlain Group",
+        "id": "6c2dc05b-f668-4e96-8ba5-875eab6a7cdc",
+        "title": "Intern \u2013 Software Engineer - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1707178795,
+        "date_posted": 1707178795,
+        "url": "https://chamberlain.wd1.myworkdayjobs.com/Chamberlain_Group/job/Oak-Brook-IL/Intern--Software-Engineer--Summer-2024-_JR26769",
+        "locations": [
+            "Western Springs, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Chamberlain-Group",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Archer",
+        "id": "f53214dc-8089-490e-bc82-f5a9006d0179",
+        "title": "Software Engineering Internship",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1707178755,
+        "date_posted": 1707178755,
+        "url": "https://boards.greenhouse.io/archer56/jobs/5866494003",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Archer",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Jobber",
+        "id": "355c13cc-2a74-44d8-a480-802520606f15",
+        "title": "Software Engineering Intern - 8 or  months - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1707178530,
+        "date_posted": 1707178530,
+        "url": "https://boards.greenhouse.io/jobber/jobs/7164003002",
+        "locations": [
+            "Remote"
+        ],
+        "company_url": "https://simplify.jobs/c/Jobber",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Jobber",
+        "id": "30564c9a-a1f4-4639-b5f6-3a5dbd543b67",
+        "title": "Software Engineering Intern - 8 or  months - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1707178532,
+        "date_posted": 1707178532,
+        "url": "https://boards.greenhouse.io/jobber/jobs/7162665002",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Jobber",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Jobber",
+        "id": "18b29ab4-1116-4ea6-b35c-5eb8176b2b60",
+        "title": "Software Engineering Intern - 8 or  months - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1707178532,
+        "date_posted": 1707178532,
+        "url": "https://boards.greenhouse.io/jobber/jobs/7163999002",
+        "locations": [
+            "Edmonton, AB, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Jobber",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Alcon",
+        "id": "f79564a2-2b30-4d02-abce-33740ddcced2",
+        "title": "Summer 2024 \u2013 ACE Customer Experience Technology Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1707178206,
+        "date_posted": 1707178206,
+        "url": "https://alcon.wd5.myworkdayjobs.com/careers_alcon/job/Fort-Worth-Texas/Summer-2024---ACE-Customer-Experience-Technology-Intern_R-2024-30509",
+        "locations": [
+            "Fort Worth, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/alcon",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Crowdstrike",
+        "id": "611dbe0e-703d-49bb-a635-39e43db6f892",
+        "title": "Internal Audit Intern - Remote",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1707178167,
+        "date_posted": 1707178167,
+        "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-us/crowdstrikecareers/job/USA---Remote/Internal-Audit-Intern--Remote-_R16402",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Crowdstrike",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Intel",
+        "id": "5bdb0e2a-4f63-4f06-9dd7-ed9d72502fbd",
+        "title": "Offensive Security Researcher \u2013 Undergraduate Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1707178118,
+        "date_posted": 1707178118,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/Virtual-US/Offensive-Security-Researcher---Undergraduate-Intern_JR0257781-1",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Western Digital",
+        "id": "d5611ffa-eb5a-448c-b4bd-90f5c273467a",
+        "title": "Summer 2024 Intern - Web Development",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1707178084,
+        "date_posted": 1707178084,
+        "url": "https://jobs.smartrecruiters.com/WesternDigital/743999965663930",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Western-Digital",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Western Digital",
+        "id": "bf82a3d5-f5d2-4886-aa12-b3cdb6d354e9",
+        "title": "Summer 2024 Intern - Procurement",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1707178084,
+        "date_posted": 1707178084,
+        "url": "https://jobs.smartrecruiters.com/WesternDigital/743999965664525",
+        "locations": [
+            "Milpitas, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Western-Digital",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Leidos",
+        "id": "88828006-2861-4d51-902f-1c92a3806c08",
+        "title": "Engineering Intern",
+        "active": true,
+        "terms": [
+            "Fall 2024"
+        ],
+        "date_updated": 1707178087,
+        "date_posted": 1707178087,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Engineering-Intern_R-00128315-1",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Western Digital",
+        "id": "1d70a899-c007-45e5-bef2-66eaee6114a1",
+        "title": "Summer 2024 Intern - Data Science",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1707178085,
+        "date_posted": 1707178085,
+        "url": "https://jobs.smartrecruiters.com/WesternDigital/743999965666793",
+        "locations": [
+            "Milpitas, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Western-Digital",
         "is_visible": true,
         "sponsorship": "Other"
     }
