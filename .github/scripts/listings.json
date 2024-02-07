@@ -45957,7 +45957,7 @@
         "company_name": "Intel",
         "id": "62a08b3c-4182-4e31-b802-c61d8460c639",
         "title": "Full Stack Software Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2023"
         ],
@@ -49433,7 +49433,7 @@
         "company_name": "Leidos",
         "id": "6e2f93c6-4ac1-4f3d-884d-8c26cb1a22a6",
         "title": "Quantum Technologies Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -56359,6 +56359,25 @@
             "Toronto, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Autodesk",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Visa",
+        "id": "2d72b516-bc3f-4129-95d0-ccc47afb3e41",
+        "title": "Data Engineer \u2013 Intern - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1707264624,
+        "date_posted": 1707264624,
+        "url": "https://jobs.smartrecruiters.com/Visa/743999966059833",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Visa",
         "is_visible": true,
         "sponsorship": "Other"
     }
