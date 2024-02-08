@@ -6311,7 +6311,7 @@
         "company_name": "Intel",
         "id": "9c78c620-0af8-420e-91f0-95d114d608fb",
         "title": "Undergrad Technical Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -25500,7 +25500,7 @@
         "company_name": "Zoox",
         "id": "22b355a3-7d99-45bf-82f1-a339c554a9a6",
         "title": "Fleet Operations Software \u2013 Backend Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -25519,7 +25519,7 @@
         "company_name": "Zoox",
         "id": "01397890-6b34-42be-89de-8ab7fe7f5fef",
         "title": "Full Stack Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -35016,7 +35016,7 @@
         "company_name": "Thrivent",
         "id": "35288d7f-1d50-4b65-b9cd-c67edce444ae",
         "title": "Business Intelligence Analyst Intern - Sophomores Preferred - Summer 2024",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -42272,7 +42272,7 @@
         "company_name": "Samsung",
         "id": "78c7a29d-73e5-46e3-b5bb-116d1eea029f",
         "title": "Intern \u2013 Storage Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -56617,7 +56617,7 @@
         "company_name": "ConnectWise",
         "id": "2fb9c6e3-f6c6-4460-86c9-7af80ff841bf",
         "title": "Intern 2024 - Data Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024",
             "Summer 2024"
@@ -56637,7 +56637,7 @@
         "company_name": "ConnectWise",
         "id": "ed0db53c-45f6-4f5f-b8ea-0d570e645c0e",
         "title": "Intern 2024 - Product/Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024",
             "Summer 2024"
