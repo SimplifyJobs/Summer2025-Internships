@@ -848,7 +848,7 @@
         "company_name": "Walmart",
         "id": "4b60067d-8dcd-4845-b123-3931e5882b6f",
         "title": "Software Engineer internship II",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -51056,7 +51056,7 @@
         "company_name": "Snap Inc.",
         "id": "8e1151ca-9fbe-42ec-b0dd-102517f60373",
         "title": "2024 Software Engineer \u2013 Snap Up Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024",
             "Fall 2024",
@@ -57230,5 +57230,350 @@
         "date_posted": 1707362035,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Live Ramp",
+        "id": "c900c057-f3bd-4ece-96b5-2d863e617d75",
+        "title": "Software Engineer Intern - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1707352146,
+        "date_posted": 1707352146,
+        "url": "https://liveramp.wd5.myworkdayjobs.com/en-US/LiveRampCareers/job/San-Francisco/Software-Engineer-Intern--Summer-2024-_JR010570",
+        "locations": [
+            "Seattle, WA",
+            "SF",
+            "Little Rock, AR",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/34c19136-e920-4dc4-b41f-dadc0d5f6d21",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Rockwell Automation",
+        "id": "30e0ad3a-c04e-407c-b494-261b4e657cac",
+        "title": "Intern \u2013 Firmware Development",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1707351858,
+        "date_posted": 1707351858,
+        "url": "https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Mequon-Wisconsin-United-States/Intern--Firmware-Development_R23-11487-1",
+        "locations": [
+            "Mequon, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Rockwell-Automation",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Intrinsic",
+        "id": "0be5ae9b-5663-4ad8-a212-62847394e771",
+        "title": "Internship: Digital Twins",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1707351676,
+        "date_posted": 1707351676,
+        "url": "https://boards.greenhouse.io/intrinsicrobotics/jobs/5077090004",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/IntrinsicAI",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Rivian",
+        "id": "1c2a72ce-8bd0-4227-a139-84b6cc491b92",
+        "title": "Engineering Intern - Supply Chain Analytics",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1707351504,
+        "date_posted": 1707351504,
+        "url": "https://careers.rivian.com/jobs/16366?lang=en-us&icims=1",
+        "locations": [
+            "Normal, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Rivian",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Hewlett Packard (HP)",
+        "id": "7d1569c8-524b-4bf9-8034-dcc5d9206851",
+        "title": "Associate Software Developer \u2013 Co-op position - Saas Services",
+        "active": true,
+        "terms": [
+            "Spring 2024"
+        ],
+        "date_updated": 1707351409,
+        "date_posted": 1707351409,
+        "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Burnaby-British-Columbia-Canada/Associate-Software-Developer---SaaS-Services--Co-op-position-_3130072-1",
+        "locations": [
+            "Burnaby, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Hewlett Packard (HP)",
+        "id": "f73fe346-6f7c-46e0-b9ed-0847bd98701a",
+        "title": "Associate Software Developer in Test \u2013 Co-op position - System Team",
+        "active": true,
+        "terms": [
+            "Spring 2024"
+        ],
+        "date_updated": 1707351407,
+        "date_posted": 1707351407,
+        "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Burnaby-British-Columbia-Canada/Associate-Software-Developer-in-Test---System-Team--Co-op-position-_3130061-1",
+        "locations": [
+            "Burnaby, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Autodesk",
+        "id": "b53b59e8-e1ff-485e-8557-1213e9330dc0",
+        "title": "Intern \u2013 Data Scientist",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1707351409,
+        "date_posted": 1707351409,
+        "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Intern--Data-Scientist_23WD72469-1",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Autodesk",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "First American",
+        "id": "7d7c0b68-3794-47c6-9bcc-6f69bca0e2f1",
+        "title": "Software Development Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1707351411,
+        "date_posted": 1707351411,
+        "url": "https://firstam.wd1.myworkdayjobs.com/firstamericancareers/job/USA-California-Santa-Ana/Software-Development-Intern_R043098-1",
+        "locations": [
+            "Orange, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/First-American",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Hewlett Packard (HP)",
+        "id": "8587a230-be9c-4cc7-b528-1c7b3f0aac77",
+        "title": "Associate Software Developer \u2013 Co-op position",
+        "active": true,
+        "terms": [
+            "Spring 2024"
+        ],
+        "date_updated": 1707351406,
+        "date_posted": 1707351406,
+        "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Burnaby-British-Columbia-Canada/Associate-Software-Developer--Co-op-position-_3130110-2",
+        "locations": [
+            "Burnaby, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Snap Inc.",
+        "id": "b976e15c-ed2a-4beb-8fd1-779dee099abe",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1707351112,
+        "date_posted": 1707351112,
+        "url": "https://wd1.myworkdaysite.com/recruiting/snapchat/snap/job/Los-Angeles-California/Software-Engineer-Intern_R0033946-1",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Snap",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Snap Inc.",
+        "id": "64963e0c-1595-45a2-b9cd-84b4c1d3fb1e",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1707351114,
+        "date_posted": 1707351114,
+        "url": "https://wd1.myworkdaysite.com/recruiting/snapchat/snap/job/Los-Angeles-California/Software-Engineer-Intern_R0033947-1",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Snap",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Western Digital",
+        "id": "0c756a8d-6fd5-4c87-91e1-33351d682a53",
+        "title": "Intern \u2013 Firmware and Software Engineering",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1707350989,
+        "date_posted": 1707350989,
+        "url": "https://jobs.smartrecruiters.com/WesternDigital/743999966265174",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Western-Digital",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Western Digital",
+        "id": "131b9970-fc2e-4a01-ab85-fd68c85d842b",
+        "title": "Firmware Engineer Intern - Physical Storage",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1707350987,
+        "date_posted": 1707350987,
+        "url": "https://jobs.smartrecruiters.com/WesternDigital/743999966266973",
+        "locations": [
+            "Milpitas, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Western-Digital",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Western Digital",
+        "id": "9691577c-0264-4a70-be61-b35cb70f88d4",
+        "title": "Intern \u2013 Firmware Engineering",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1707350988,
+        "date_posted": 1707350988,
+        "url": "https://jobs.smartrecruiters.com/WesternDigital/743999966264934",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Western-Digital",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Western Digital",
+        "id": "a25f234d-2c0b-49a7-9483-83749390d05f",
+        "title": "Firmware Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1707350992,
+        "date_posted": 1707350992,
+        "url": "https://jobs.smartrecruiters.com/WesternDigital/743999966267530",
+        "locations": [
+            "Milpitas, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Western-Digital",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Fidelity Investments",
+        "id": "e5726e17-f28c-45da-8ef3-ce45963392e0",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1707350929,
+        "date_posted": 1707350929,
+        "url": "https://wd1.myworkdaysite.com/recruiting/fmr/FidelityCareers/job/London-Great-Britain/Software-Engineering-Intern_2083171",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Fidelity",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "NVIDIA",
+        "id": "33f9caa7-78d9-4e5b-ae61-139ee6dd7621",
+        "title": "ATE Test Engineering Intern - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1707350821,
+        "date_posted": 1707350821,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/ATE-Test-Engineering-Intern---Summer-2024_JR1978602",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Pinterest",
+        "id": "f6bee664-2e17-435c-bb35-fa1717e35c41",
+        "title": "Software Engineering Intern 2024 - Toronto",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1707358640,
+        "date_posted": 1706919858,
+        "url": "https://www.pinterestcareers.com/job-form?gh_jid=5666542",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Pinterest",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
