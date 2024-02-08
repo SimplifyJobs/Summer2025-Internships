@@ -57211,5 +57211,24 @@
         "company_url": "https://simplify.jobs/c/833be075-a38e-426c-9b08-f9ced5b52612",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1707362035,
+        "url": "https://www.tesla.com/careers/search/job/internship-c-software-engineer-autopilot-summer-2024-217592",
+        "company_name": "Tesla",
+        "title": "C++ Software Engineer, Autopilot",
+        "locations": [
+            "Palo Alto, California"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "AmolMendonca",
+        "id": "ad229d0f-ad01-4a40-ac66-a0ddec8abd82",
+        "date_posted": 1707362035,
+        "company_url": "",
+        "is_visible": true
     }
 ]
