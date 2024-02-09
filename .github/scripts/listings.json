@@ -848,7 +848,7 @@
         "company_name": "Walmart",
         "id": "4b60067d-8dcd-4845-b123-3931e5882b6f",
         "title": "Software Engineer internship II",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -11320,7 +11320,7 @@
         "company_name": "Nutanix",
         "id": "b5ec12d2-4310-460a-9dde-f44dfe75363d",
         "title": "Software Engineering Intern - Undergraduates Only",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024",
             "Summer 2024"
@@ -46842,7 +46842,7 @@
         "company_name": "Capstone Investment Advisors",
         "id": "2577dece-677c-4899-bc95-bf508ae9040e",
         "title": "2024 Summer Internship - Investment - Bos",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -51968,7 +51968,7 @@
         "company_name": "NVIDIA",
         "id": "53ee434b-12c6-450f-beae-ef4f6c5bef7f",
         "title": "Cloud Infrastructure Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -57524,7 +57524,7 @@
         "company_name": "Fidelity Investments",
         "id": "e5726e17-f28c-45da-8ef3-ce45963392e0",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -57790,7 +57790,7 @@
         "company_name": "LegalZoom",
         "id": "6db7cbfc-de91-4c60-848f-d95fbf4c104c",
         "title": "Intern \u2013 Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -57937,6 +57937,149 @@
             "Santa Clara, CA"
         ],
         "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Alarm.com",
+        "id": "1bf793ad-5ed6-4d98-9423-dc7b3612e275",
+        "title": "Device Engineer Intern - Boston - MA",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1707495758,
+        "date_posted": 1707495758,
+        "url": "https://boards.greenhouse.io/alarmcom/jobs/7213675002",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Alarm",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Rivian",
+        "id": "607269df-2157-4f03-b132-8dff4b001032",
+        "title": "UIUC Research Park Intern - Data Engineering",
+        "active": true,
+        "terms": [
+            "Summer 2024",
+            "Fall 2024",
+            "Spring 2025"
+        ],
+        "date_updated": 1707495453,
+        "date_posted": 1707495453,
+        "url": "https://careers.rivian.com/jobs/16355?lang=en-us&icims=1",
+        "locations": [
+            "Urbana, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Rivian",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Intel",
+        "id": "49c1e784-143f-47ce-8801-2d95690d57b0",
+        "title": "Off Site Manufacturing \u2013 Technical Coordinator Intern - Osm",
+        "active": true,
+        "terms": [
+            "Spring 2024",
+            "Summer 2024",
+            "Fall 2024"
+        ],
+        "date_updated": 1707495123,
+        "date_posted": 1707495123,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Arizona-Phoenix/Off-Site-Manufacturing--OSM--Technical-Coordinator-Intern_JR0257724",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Intel",
+        "id": "45c8aab7-84de-4d54-8b7d-509b96c4c51e",
+        "title": "Off Site Manufacturing \u2013 Technical Coordinator Intern - Osm",
+        "active": true,
+        "terms": [
+            "Spring 2024",
+            "Summer 2024",
+            "Fall 2024"
+        ],
+        "date_updated": 1707495120,
+        "date_posted": 1707495120,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Off-Site-Manufacturing--OSM--Technical-Coordinator-Intern_JR0257725",
+        "locations": [
+            "Hillsboro, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Oshkosh",
+        "id": "eb5a0b55-b90d-402b-b95a-28380c364416",
+        "title": "Youth Apprentice - CNC Programming",
+        "active": true,
+        "terms": [
+            "Spring 2024"
+        ],
+        "date_updated": 1707495116,
+        "date_posted": 1707495116,
+        "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Appleton-Wisconsin-United-States/Youth-Apprentice---CNC-Programming_R26571",
+        "locations": [
+            "Appleton, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Oshkosh",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Legend Biotech",
+        "id": "6fef6f3a-ad22-4ca5-9afb-25c0b5c19416",
+        "title": "Enterprise Data Governance Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1707495015,
+        "date_posted": 1707495015,
+        "url": "https://boards.greenhouse.io/legendcareers/jobs/4368501005",
+        "locations": [
+            "Somerset County, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/Legend-Biotech",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Okta",
+        "id": "f91d036e-269a-47e7-9de3-e4ea3bc62c2b",
+        "title": "Digital Success Intern - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1707494878,
+        "date_posted": 1707494878,
+        "url": "https://www.okta.com/company/careers/opportunity/5664355?gh_jid=5664355",
+        "locations": [
+            "Washington, DC",
+            "SF",
+            "Remote in USA",
+            "Chicago, IL",
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Okta",
         "is_visible": true,
         "sponsorship": "Other"
     }
