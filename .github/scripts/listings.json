@@ -848,7 +848,7 @@
         "company_name": "Walmart",
         "id": "4b60067d-8dcd-4845-b123-3931e5882b6f",
         "title": "Software Engineer internship II",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -23074,7 +23074,7 @@
         "company_name": "Zipline",
         "id": "1c43fdf0-c472-4236-911c-6cafcac34688",
         "title": "Guidance \u2013 Intern Spring/Summer 2024 - Naviagation - & Controls - Gnc",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024",
             "Summer 2024"
@@ -26962,7 +26962,7 @@
         "company_name": "Rockwell Automation",
         "id": "897d8ef6-4c7a-4f9d-9b23-2ab47d828b6a",
         "title": "Intern \u2013 Application Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -40791,7 +40791,7 @@
         "company_name": "Absci",
         "id": "0853d946-e0b5-49c2-822c-c0389928f812",
         "title": "AI Summer Internship 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -42253,7 +42253,7 @@
         "company_name": "Samsung",
         "id": "5e442e36-121d-4ca0-b3ec-379b8dd5619c",
         "title": "Intern \u2013 Storage System Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -42806,7 +42806,7 @@
         "company_name": "Oshkosh",
         "id": "5aba4724-f22b-4e2f-a416-25fde697d84a",
         "title": "Data Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -43688,7 +43688,7 @@
         "company_name": "Apptronik",
         "id": "c146a5fd-db95-4842-8be0-e2fc9498ec3e",
         "title": "Software Engineer Intern - Platform - Summer 2024",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -47208,7 +47208,7 @@
         "company_name": "AEG",
         "id": "ab51d171-ef79-4709-9cc9-1b3b591383ff",
         "title": "Spring Intern - Data Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2023"
         ],
@@ -52532,7 +52532,7 @@
         "company_name": "Alarm.com",
         "id": "242d556a-f936-4cfd-bdca-312ce584c07b",
         "title": "Software Engineer Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -53334,7 +53334,7 @@
         "company_name": "Leidos",
         "id": "7b0923b4-9a06-456d-8856-4e768ba68372",
         "title": "Signal Processing Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -54096,7 +54096,7 @@
         "company_name": "Snap Inc.",
         "id": "b8ab8ff1-b2e1-4d08-a54b-2411148ee16b",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -54563,7 +54563,7 @@
         "company_name": "Intel",
         "id": "d9b7e9af-4859-49e2-9247-503fd57c09ed",
         "title": "SW Validation and Automation \u2013 Undergrad Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -56598,7 +56598,7 @@
         "company_name": "Zocdoc",
         "id": "a821846a-9aa8-472c-a82e-e270c2fba062",
         "title": "Data Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -56913,7 +56913,7 @@
         "company_name": "Mobilityware",
         "id": "472c59a0-98c3-4cb6-ab97-9dd4ff65c80c",
         "title": "Unity Engineer Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -56932,7 +56932,7 @@
         "company_name": "Mobilityware",
         "id": "16cb8f49-3ba4-4c86-809d-feb517e9a314",
         "title": "Unity Engineer Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -57429,7 +57429,7 @@
         "company_name": "Snap Inc.",
         "id": "64963e0c-1595-45a2-b9cd-84b4c1d3fb1e",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -57592,6 +57592,351 @@
             "San Jose, CA"
         ],
         "company_url": "https://simplify.jobs/c/Western-Digital",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Santander",
+        "id": "43f1fcc4-1fdb-4868-ab24-9cbd01a2900f",
+        "title": "Intern-3",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1707438481,
+        "date_posted": 1707438481,
+        "url": "https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Miami/Intern-3_Req1260912",
+        "locations": [
+            "Miami, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Santander",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "OwnBackup",
+        "id": "2de4be8f-184a-422b-9b26-c907034b42f4",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1707438066,
+        "date_posted": 1707438066,
+        "url": "https://www.owndata.com/jobs?gh_jid=7116312002",
+        "locations": [
+            "Englewood, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/OwnBackup",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "OwnBackup",
+        "id": "ed879b9d-3477-4e48-974b-a25ab7a7ef89",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1707438066,
+        "date_posted": 1707438066,
+        "url": "https://www.owndata.com/jobs?gh_jid=7116309002",
+        "locations": [
+            "Englewood, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/OwnBackup",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "OwnBackup",
+        "id": "9d4d8318-a0fa-4960-829a-f88d328b706e",
+        "title": "Data Science & Machine Learning Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1707438064,
+        "date_posted": 1707438064,
+        "url": "https://www.owndata.com/jobs?gh_jid=7116368002",
+        "locations": [
+            "Englewood, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/OwnBackup",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "OwnBackup",
+        "id": "27fe3f72-c609-4f56-a9ce-cc933706f275",
+        "title": "Data Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1707438064,
+        "date_posted": 1707438064,
+        "url": "https://www.owndata.com/jobs?gh_jid=7116261002",
+        "locations": [
+            "Englewood, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/OwnBackup",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "OwnBackup",
+        "id": "2ae0bd07-5d41-4181-9cfe-822288caf947",
+        "title": "Business Intelligence Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1707438060,
+        "date_posted": 1707438060,
+        "url": "https://www.owndata.com/jobs?gh_jid=7116258002",
+        "locations": [
+            "Englewood, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/OwnBackup",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Dow Jones",
+        "id": "057e082b-4c2b-4db2-b380-6d54203c442b",
+        "title": "Summer 2024 Internship - Partnerships & Alliances",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1707437782,
+        "date_posted": 1707437782,
+        "url": "https://dowjones.wd1.myworkdayjobs.com/en-US/Dow_Jones_Career/job/NYC---1211-Ave-of-the-Americas/Summer-2024-Internship---Partnerships---Alliances_Job_Req_40758",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/ebbf3772-7f04-4984-871c-606e13d4f2aa",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "EquipmentShare",
+        "id": "f36ce65e-2526-4d6e-ad38-b1e698975af8",
+        "title": "Intern: Data Scientist - Operations Research",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1707437663,
+        "date_posted": 1707437663,
+        "url": "https://www.equipmentshare.com/careers/openings?gh_jid=5690414",
+        "locations": [
+            "Columbia, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Equipment-Share",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "First American",
+        "id": "97cd7ca6-e562-4daf-890c-ca5479fccbcb",
+        "title": "Data Science Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1707437586,
+        "date_posted": 1707437586,
+        "url": "https://firstam.wd1.myworkdayjobs.com/firstamericancareers/job/USA-California-Santa-Ana/Data-Science-Intern_R043096",
+        "locations": [
+            "Orange, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/First-American",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "CACI",
+        "id": "fd4e9929-f09f-4114-9c74-c8414241b590",
+        "title": "Software Engineering Intern - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1707437499,
+        "date_posted": 1707437499,
+        "url": "https://caci.wd1.myworkdayjobs.com/External/job/US-IL-Lisle/Software-Engineering-Intern---Summer-2024_292342-1",
+        "locations": [
+            "Downers Grove, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/CACI",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "LegalZoom",
+        "id": "6db7cbfc-de91-4c60-848f-d95fbf4c104c",
+        "title": "Intern \u2013 Software Engineer",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1707437513,
+        "date_posted": 1707437513,
+        "url": "https://jobs.jobvite.com/legalzoom/job/o4strfwa?nl=1&nl=1&fr=false",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/LegalZoom",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Hatch IT",
+        "id": "21db7165-acd6-41b7-9496-faf7aec4e236",
+        "title": "Modeling and Simulation \u2013 Cloud Engineering Internship - Data Analytics",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1707437357,
+        "date_posted": 1707437357,
+        "url": "https://jobs.lever.co/hatchit/d5a26194-1503-4c5a-8b0e-f2f8cbf98fa7/apply",
+        "locations": [
+            "McLean, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Hatch-IT",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Spot Freight",
+        "id": "6c85b267-9daf-4877-9b16-54f545796179",
+        "title": "Software Developer Internship - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1707437331,
+        "date_posted": 1707437331,
+        "url": "https://spotinc.com/careers/applynow/?gh_jid=4332128006",
+        "locations": [
+            "Indianapolis, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/Spot-Freight",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Hinge Health",
+        "id": "e46cf9bc-ce63-4faa-b65e-b564179f4961",
+        "title": "Computer Vision Intern",
+        "active": true,
+        "terms": [
+            "Spring 2024"
+        ],
+        "date_updated": 1707437297,
+        "date_posted": 1707437297,
+        "url": "https://jobs.lever.co/hingehealth/74908869-fd37-4afe-b3a2-ec03ec4f1c90/apply",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Hinge-Health",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Okta",
+        "id": "ab377f08-f3bc-4980-b3e3-ac7f7a87523c",
+        "title": "Technical Marketing Manager Intern - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1707437314,
+        "date_posted": 1707437314,
+        "url": "https://www.okta.com/company/careers/opportunity/5690281?gh_jid=5690281",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Okta",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Intel",
+        "id": "10c92da7-c130-488a-a07d-9eb0f8d16145",
+        "title": "Information Security Engineer \u2013 Undergraduate Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1707437308,
+        "date_posted": 1707437308,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-California-Folsom/Information-Security-Engineer---Undergraduate-Intern_JR0257470-1",
+        "locations": [
+            "Santa Clara, CA",
+            "Hillsboro, OR",
+            "Folsom, CA",
+            "Phoenix, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Visa",
+        "id": "25675eb1-237e-4321-9a24-df9af1b53710",
+        "title": "Data Engineer \u2013 Intern - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1707437291,
+        "date_posted": 1707437291,
+        "url": "https://jobs.smartrecruiters.com/Visa/743999966574117",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Visa",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "NVIDIA",
+        "id": "e7f08025-0b12-496a-8b58-8965208f4d22",
+        "title": "Performance Engineer Intern - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1707437215,
+        "date_posted": 1707437215,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Performance-Engineer-Intern---Summer-2024_JR1977409",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
         "is_visible": true,
         "sponsorship": "Other"
     }
