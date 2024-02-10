@@ -48990,7 +48990,7 @@
         "company_name": "DataCamp",
         "id": "82cbeb07-78b1-4ec4-8c32-d159bd6bc26e",
         "title": "Intern \u2013 Javascript",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -56190,7 +56190,7 @@
         "company_name": "Western Digital",
         "id": "d5611ffa-eb5a-448c-b4bd-90f5c273467a",
         "title": "Summer 2024 Intern - Web Development",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -56247,7 +56247,7 @@
         "company_name": "Western Digital",
         "id": "1d70a899-c007-45e5-bef2-66eaee6114a1",
         "title": "Summer 2024 Intern - Data Science",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
