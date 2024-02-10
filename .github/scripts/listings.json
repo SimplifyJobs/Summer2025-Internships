@@ -9428,7 +9428,7 @@
         "company_name": "Okta",
         "id": "7676d54d-7c46-4649-9097-f3c94f5c0eff",
         "title": "Software Engineer Intern - Summer 2024",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -50502,7 +50502,7 @@
         "company_name": "Hello Fresh",
         "id": "ebc3d17e-9907-49d2-a3ff-861dcd269f46",
         "title": "Data and Analytics Co-op - Months",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2024"
         ],
@@ -51624,7 +51624,7 @@
         "company_name": "Rockwell Automation",
         "id": "9c85731b-4a55-47c8-90b8-8c6ba5eab0ef",
         "title": "Intern \u2013 Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -55313,7 +55313,7 @@
         "company_name": "Penumbra Inc",
         "id": "0c897db7-02a3-4c76-ad47-ac5f9b7a2a5e",
         "title": "Statistical Programmer Analyst Intern - T",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2024"
         ],
@@ -56266,7 +56266,7 @@
         "company_name": "Mercury",
         "id": "667813ce-b3bb-4aa4-9c59-a2170a2efd1e",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024",
             "Summer 2024"
@@ -56424,7 +56424,7 @@
         "company_name": "Modern Treasury",
         "id": "781ddb96-d89d-4f07-8c02-99450c934005",
         "title": "Software Engineer \u2013 Intern Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -57198,7 +57198,7 @@
         "company_name": "Capella Space",
         "id": "1b247642-016e-4d5d-a9e2-24c9a8cdb7cc",
         "title": "Intern \u2013 Tasking & Scheduling Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -57619,7 +57619,7 @@
         "company_name": "OwnBackup",
         "id": "2de4be8f-184a-422b-9b26-c907034b42f4",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -57638,7 +57638,7 @@
         "company_name": "OwnBackup",
         "id": "ed879b9d-3477-4e48-974b-a25ab7a7ef89",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -57657,7 +57657,7 @@
         "company_name": "OwnBackup",
         "id": "9d4d8318-a0fa-4960-829a-f88d328b706e",
         "title": "Data Science & Machine Learning Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -57676,7 +57676,7 @@
         "company_name": "OwnBackup",
         "id": "27fe3f72-c609-4f56-a9ce-cc933706f275",
         "title": "Data Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -57695,7 +57695,7 @@
         "company_name": "OwnBackup",
         "id": "2ae0bd07-5d41-4181-9cfe-822288caf947",
         "title": "Business Intelligence Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -58099,6 +58099,275 @@
             "Remote"
         ],
         "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Vera Institute of Justice",
+        "id": "22e454da-9449-47c0-989f-04655a10f8f2",
+        "title": "Summer Internship 2024 \u2013 Innovation Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1707524120,
+        "date_posted": 1707524120,
+        "url": "https://boards.greenhouse.io/verainstituteofjustice/jobs/4368976005",
+        "locations": [
+            "Brooklyn, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/VeraInstitute",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Acorns",
+        "id": "994578e2-a5ec-4b5b-9a50-cbd0e787fe65",
+        "title": "Software Engineer \u2013 Intern - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1707524009,
+        "date_posted": 1707524009,
+        "url": "https://boards.greenhouse.io/acorns/jobs/5693697",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Acorns",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Intel",
+        "id": "d0d7409e-4b93-4635-bb96-3285af647ec6",
+        "title": "Cloud Software Engineer \u2013 Undergraduate Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1707523704,
+        "date_posted": 1707523704,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/Virtual-US/Cloud-Software-Engineer---Undergraduate-Intern_JR0257779",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Intel",
+        "id": "9582badc-b574-4410-b606-70abe68c84f0",
+        "title": "Off Site Manufacturing \u2013 Technical Coordinator Intern - Osm",
+        "active": true,
+        "terms": [
+            "Spring 2024",
+            "Summer 2024",
+            "Fall 2024"
+        ],
+        "date_updated": 1707523709,
+        "date_posted": 1707523709,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Arizona-Phoenix/Off-Site-Manufacturing--OSM--Technical-Coordinator-Intern_JR0257723-1",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "CertifID",
+        "id": "79f7f220-3ae7-48b9-85a5-dfc6db8c000e",
+        "title": "Data Science Intern - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1707523724,
+        "date_posted": 1707523724,
+        "url": "https://jobs.lever.co/certifid/ab1cd783-dac6-44aa-8d86-159f120d2423/apply",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/CertifID",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Advisor360\u00b0",
+        "id": "36f12b34-3f1f-45db-ac08-147cc96a44f1",
+        "title": "Software Engineer \u2013 Summer Internship - Compliance",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1707523671,
+        "date_posted": 1707523671,
+        "url": "https://www.advisor360.com/careers?gh_jid=5058836004",
+        "locations": [
+            "Waltham, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Advisor360",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Western Digital",
+        "id": "5f062c9c-6492-4fce-b56d-55bfb19662c1",
+        "title": "Summer 2024 \u2013 Software Engineering Intern - Firmware",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1707523613,
+        "date_posted": 1707523613,
+        "url": "https://jobs.smartrecruiters.com/WesternDigital/743999966838603",
+        "locations": [
+            "San Jose, CA",
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Western-Digital",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Western Digital",
+        "id": "321d74c7-4413-4324-8475-1a6ccb953a8d",
+        "title": "Intern \u2013 Electrical and Embedded Firmware Engineering",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1707523610,
+        "date_posted": 1707523610,
+        "url": "https://jobs.smartrecruiters.com/WesternDigital/743999966822541",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Western-Digital",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Western Digital",
+        "id": "b6861dc4-c69a-4aa2-9ca9-2e1edfa37ff3",
+        "title": "Summer 2024 Software Engineering Intern - Rss Fw - Defect Management",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1707523609,
+        "date_posted": 1707523609,
+        "url": "https://jobs.smartrecruiters.com/WesternDigital/743999966821518",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Western-Digital",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Western Digital",
+        "id": "e0a9abe5-4cd8-4bdf-a613-dcb0aa14e46c",
+        "title": "Intern \u2013 Firmware Verification Engineering",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1707523609,
+        "date_posted": 1707523609,
+        "url": "https://jobs.smartrecruiters.com/WesternDigital/743999966776738",
+        "locations": [
+            "Milpitas, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Western-Digital",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Western Digital",
+        "id": "781a8766-ef00-45d4-b924-13e8a07c9680",
+        "title": "Intern \u2013 Software Engineering - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1707523609,
+        "date_posted": 1707523609,
+        "url": "https://jobs.smartrecruiters.com/WesternDigital/743999966823388",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Western-Digital",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Western Digital",
+        "id": "b3b1e846-3481-498b-beab-97a5477cc42d",
+        "title": "Intern \u2013 Software Engineering - Summer 2024 - Fw-Rss",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1707523610,
+        "date_posted": 1707523610,
+        "url": "https://jobs.smartrecruiters.com/WesternDigital/743999966822763",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Western-Digital",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Western Digital",
+        "id": "46eecc14-eb42-4ee6-8f2c-2600565301d4",
+        "title": "FPG ESS System Validation \u2013 Summer  Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1707523609,
+        "date_posted": 1707523609,
+        "url": "https://jobs.smartrecruiters.com/WesternDigital/743999966777803",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Western-Digital",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Ascend Analytics",
+        "id": "c1d26f6a-2156-4e58-89b1-26ff48fbdce2",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1707523543,
+        "date_posted": 1707523543,
+        "url": "https://boards.greenhouse.io/ascendanalytics/jobs/4369048005",
+        "locations": [
+            "Boulder, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/AscendAnalytics",
         "is_visible": true,
         "sponsorship": "Other"
     }
