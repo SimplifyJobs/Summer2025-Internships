@@ -13735,7 +13735,7 @@
         "company_name": "Stryker",
         "id": "915c4008-a038-424c-b926-b7c7ee9a2cf5",
         "title": "Prairie View a&M University Summer Internship 2024 - Engineering-Michigan",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -24902,7 +24902,7 @@
         "company_name": "Bridgewater Associates",
         "id": "328683e6-519f-4e0c-97c1-5237c57176cd",
         "title": "Investment Engineer Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -34957,7 +34957,7 @@
         "company_name": "ActiveCampaign",
         "id": "0eb41429-8b7e-4973-a1b2-d2eb78dfc5ea",
         "title": "Summer 2024 Software Engineering Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -37356,7 +37356,7 @@
         "company_name": "MarketAxess",
         "id": "3f5d335e-2c17-4d86-bfe4-195a2a71e0f4",
         "title": "Research Intern 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -52629,7 +52629,7 @@
         "company_name": "Critical Mass",
         "id": "f90f3108-4aed-4e1d-b7f4-f3286a0e03e8",
         "title": "Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024",
             "Summer 2024"
@@ -52669,7 +52669,7 @@
         "company_name": "Critical Mass",
         "id": "c4e52b8e-4b97-4b73-b2b7-bf1b04c609f2",
         "title": "Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024",
             "Summer 2024"
@@ -54370,7 +54370,7 @@
         "company_name": "Expedia",
         "id": "bcda1265-2228-4ed9-96c0-d379f5c749b6",
         "title": "Data Science \u2013 Analytics Intern - London",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -55237,7 +55237,7 @@
         "company_name": "Tempus",
         "id": "ff8ace4b-a0a4-4a66-b4ec-09aa0be9ff8f",
         "title": "Software Engineering Summer Analyst/Associate - Reporting Pipeline",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -55848,7 +55848,7 @@
         "company_name": "AuditBoard",
         "id": "e93b95e9-1a44-431a-81b8-759588b88eb5",
         "title": "Software Engineering \u2013 Summer Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -56579,7 +56579,7 @@
         "company_name": "Red Door Interactive ",
         "id": "f034f71a-8301-4826-9667-48a4e66a4a20",
         "title": "Digital Analytics Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -57543,7 +57543,7 @@
         "company_name": "NVIDIA",
         "id": "33f9caa7-78d9-4e5b-ae61-139ee6dd7621",
         "title": "ATE Test Engineering Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -57752,7 +57752,7 @@
         "company_name": "First American",
         "id": "97cd7ca6-e562-4daf-890c-ca5479fccbcb",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -58080,6 +58080,25 @@
             "Bellevue, WA"
         ],
         "company_url": "https://simplify.jobs/c/Okta",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "NVIDIA",
+        "id": "f0825d41-bbda-4396-8cd2-59d1f1a18b7e",
+        "title": "Solutions Architect Intern - AI - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1707509729,
+        "date_posted": 1704787604,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/Canada-Remote/Solutions-Architect-Intern--AI---Summer-2024_JR1974863",
+        "locations": [
+            "Remote"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
         "is_visible": true,
         "sponsorship": "Other"
     }
