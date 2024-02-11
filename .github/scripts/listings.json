@@ -49278,7 +49278,7 @@
         "company_name": "Workiva",
         "id": "4ecb2519-7afd-4292-b857-5a7188f4ad52",
         "title": "2024 Summer \u2013 Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -49300,7 +49300,7 @@
         "company_name": "Workiva",
         "id": "391229d7-306e-40b4-9a1a-3916b2e8888b",
         "title": "2024 Summer \u2013 Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -56714,7 +56714,7 @@
         "company_name": "Workiva",
         "id": "b36d60c7-01f7-4090-b8e7-09445ba38c30",
         "title": "2024 Summer \u2013 Machine Learning Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -58368,6 +58368,25 @@
             "Boulder, CO"
         ],
         "company_url": "https://simplify.jobs/c/AscendAnalytics",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Intel",
+        "id": "44a52567-6c83-49e9-bb28-a302497970d6",
+        "title": "Software Intern - Ojt",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1707667652,
+        "date_posted": 1707667652,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/Israel-Jerusalem/Software-Intern---OJT_JR0258249",
+        "locations": [
+            "Palestine"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
         "is_visible": true,
         "sponsorship": "Other"
     }
