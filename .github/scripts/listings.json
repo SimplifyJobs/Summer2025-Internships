@@ -58427,5 +58427,24 @@
         "date_posted": 1707699769,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1707699821,
+        "url": "https://careers-persistentsystems.icims.com/jobs/1899/intern---software-test-engineer-%28summer-2024%29/job",
+        "company_name": "Persistent Systems, LLC",
+        "title": "Intern - Software Test Engineer (Summer 2024)",
+        "locations": [
+            "New York, NY"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "SabrunTheDev",
+        "id": "374b0c7e-79bc-44f5-b4fc-381506486472",
+        "date_posted": 1707699821,
+        "company_url": "",
+        "is_visible": true
     }
 ]
