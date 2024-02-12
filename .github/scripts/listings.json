@@ -4721,7 +4721,7 @@
         "company_name": "Palantir",
         "id": "4696ce14-3ae8-4ed6-80e1-61072ce87544",
         "title": "Forward Deployed Software Engineer \u2013 Internship - UK Government",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -4759,7 +4759,7 @@
         "company_name": "Palantir",
         "id": "61538fd3-f0aa-476a-a62f-e101cd0f4c6f",
         "title": "Forward Deployed Software Engineer \u2013 Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -45436,7 +45436,7 @@
         "company_name": "Hugging Face",
         "id": "db26ac0f-5b43-43f3-be9b-713423e2b632",
         "title": "Machine Learning Engineer Internship - Alignment - Remote",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -45512,7 +45512,7 @@
         "company_name": "Hugging Face",
         "id": "40e0cd0b-6ebf-4d2b-a15c-bb5c17cb71f3",
         "title": "Machine Learning Engineer Internship - Alignment - US Remote",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -45919,7 +45919,7 @@
         "company_name": "Intel",
         "id": "b9dedb8f-81f8-482a-b3a6-3738a3bf16bc",
         "title": "Machine Learning Frameworks Intern - f/m/d",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -45957,7 +45957,7 @@
         "company_name": "Intel",
         "id": "62a08b3c-4182-4e31-b802-c61d8460c639",
         "title": "Full Stack Software Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -45995,7 +45995,7 @@
         "company_name": "Symbotic",
         "id": "13973e4f-0c74-4329-9b63-66f356d23bb7",
         "title": "Intern-Embedded Software Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2023",
             "Spring 2024",
@@ -49615,7 +49615,7 @@
         "company_name": "Kinaxis",
         "id": "e601660a-8727-4f37-93da-25b4857a3674",
         "title": "Co-Op/Intern Developer - Analytics Engine - Developer Framework",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024"
         ],
@@ -49732,7 +49732,7 @@
         "company_name": "Workiva",
         "id": "9234031f-002d-4e00-9bfd-076ce6d89f45",
         "title": "2024 Summer \u2013 Software Engineer Intern - Ames - IA location",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -51528,7 +51528,7 @@
         "company_name": "Workiva",
         "id": "557dc6a3-8cde-44eb-b740-093266acdf46",
         "title": "2024 Summer \u2013 Software Development Intern - Canada",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -53217,7 +53217,7 @@
         "company_name": "Workiva",
         "id": "9d4be7b6-47a2-4c5a-ada1-f7e1d7587c91",
         "title": "2024 Summer \u2013 Security Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -53962,7 +53962,7 @@
         "company_name": "Intel",
         "id": "c7f0b94d-8040-4dec-b9ba-a397b91919bd",
         "title": "Security Software Engineer \u2013 Undergraduate Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -54153,7 +54153,7 @@
         "company_name": "Trail of Bits",
         "id": "5059c898-1f1c-4466-8d45-28ff2f4e0448",
         "title": "Summer Internship - 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -54661,7 +54661,7 @@
         "company_name": "Western Digital",
         "id": "04c44435-581f-4c0b-ab10-7a4267e71366",
         "title": "Summer 2024 Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -55886,7 +55886,7 @@
         "company_name": "HubSpot",
         "id": "32ae6e00-df7b-4e07-866f-aea9848d9dc0",
         "title": "Hubspot Software Engineer Fall Co-op Program - USA",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2024"
         ],
@@ -55905,7 +55905,7 @@
         "company_name": "HubSpot",
         "id": "62cba481-24bf-4e73-8bdd-f99fea8fca59",
         "title": "Hubspot Software Engineer Fall Co-op Program - USA",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2024"
         ],
@@ -55924,7 +55924,7 @@
         "company_name": "HubSpot",
         "id": "8cc65c7c-6fb1-4f3b-aa97-026d2f2a8aa5",
         "title": "Hubspot Software Engineer Summer Internship - UK",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -55943,7 +55943,7 @@
         "company_name": "HubSpot",
         "id": "199e43cb-4b6c-4be2-ad6d-056e781acd4e",
         "title": "Hubspot Software Engineer Summer Internship - UK",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -57771,7 +57771,7 @@
         "company_name": "CACI",
         "id": "fd4e9929-f09f-4114-9c74-c8414241b590",
         "title": "Software Engineering Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -58376,7 +58376,7 @@
         "company_name": "Intel",
         "id": "44a52567-6c83-49e9-bb28-a302497970d6",
         "title": "Software Intern - Ojt",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -58463,6 +58463,46 @@
             "St. Louis, MO"
         ],
         "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Airbnb",
+        "id": "00ab53f7-d09c-4c5b-aa86-4bd92d237cb0",
+        "title": "Engineering Apprentice - Connect Program",
+        "active": true,
+        "terms": [
+            "Spring 2024",
+            "Summer 2024",
+            "Fall 2024"
+        ],
+        "date_updated": 1707754725,
+        "date_posted": 1707754725,
+        "url": "https://careers.airbnb.com/positions/?gh_jid=5616862",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Airbnb",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Leidos",
+        "id": "441f3775-664e-4972-a19e-0133df188db8",
+        "title": "Data Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1707754091,
+        "date_posted": 1707754091,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Business-Intelligence-Intern_R-00124908",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
         "is_visible": true,
         "sponsorship": "Other"
     }
