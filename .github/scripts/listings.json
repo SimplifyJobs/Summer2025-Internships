@@ -58389,5 +58389,24 @@
         "company_url": "https://simplify.jobs/c/Intel",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1707699677,
+        "url": "https://jobs.lever.co/matchgroup/fcb2a66e-d921-4baa-b1dc-e6dcbe496a07",
+        "company_name": "Tinder",
+        "title": "Product Manager Intern",
+        "locations": [
+            "West Hollywood, CA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "dababyyeah99",
+        "id": "25ab45aa-8ae2-48f9-a928-c84424fec26b",
+        "date_posted": 1707699677,
+        "company_url": "",
+        "is_visible": true
     }
 ]
