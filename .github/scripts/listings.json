@@ -58446,5 +58446,24 @@
         "date_posted": 1707699821,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "NVIDIA",
+        "id": "52f4799f-3cf3-4b82-a5f6-acb8b105f310",
+        "title": "Performance Engineer Intern - Gaming - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1707696435,
+        "date_posted": 1707696435,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-MO-St-Louis/Performance-Engineer-Intern--Gaming---Summer-2024_JR1978283",
+        "locations": [
+            "St. Louis, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
