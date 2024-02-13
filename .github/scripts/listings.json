@@ -10018,7 +10018,7 @@
         "company_name": "HashiCorp",
         "id": "e9bca96a-3e50-49ae-9176-efb344a147f7",
         "title": "Software Engineering Intern - Undergraduate",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -22788,7 +22788,7 @@
         "company_name": "Chamberlain Group",
         "id": "79782810-790c-4c46-b849-44a0f912d63c",
         "title": "Intern \u2013 Myq Mobile Developer - Android or iOS - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -23845,7 +23845,7 @@
         "company_name": "Splunk",
         "id": "65d8d08d-6140-4506-ab9b-df0d8fbb5cbd",
         "title": "Performance Engineer Intern - Boulder - CO - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -24902,7 +24902,7 @@
         "company_name": "Bridgewater Associates",
         "id": "328683e6-519f-4e0c-97c1-5237c57176cd",
         "title": "Investment Engineer Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -32633,7 +32633,7 @@
         "company_name": "Hudl",
         "id": "b5928c5f-af56-4ed4-9728-4df1489c156e",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -34578,7 +34578,7 @@
         "company_name": "MarketAxess",
         "id": "264a4482-ad08-464d-9a93-81a79b5f1d81",
         "title": "Software Engineering Intern 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -41138,7 +41138,7 @@
         "company_name": "Hugging Face",
         "id": "d4a8a78a-37b7-49d3-befd-60969cf2561e",
         "title": "Machine Learning Engineer Internship - Computer Vision - US Remote",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -41158,7 +41158,7 @@
         "company_name": "Hugging Face",
         "id": "83dd4fb3-e732-4c38-97d2-eecb86d15156",
         "title": "Machine Learning Engineer Internship - Brrr/Nanotron - Remote",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -41235,7 +41235,7 @@
         "company_name": "Hugging Face",
         "id": "585e8c3a-eef0-46e5-a790-7b45583242b3",
         "title": "Machine Learning Engineer Internship - Brrr/Nanotron - US Remote",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -45633,7 +45633,7 @@
         "company_name": "Hugging Face",
         "id": "1b326aed-05fa-46f1-a8b7-6ad41de5465f",
         "title": "Machine Learning Engineer Internship - Computer Vision - Remote",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -49028,7 +49028,7 @@
         "company_name": "Splunk",
         "id": "92cce829-f476-4ddd-b008-4ce57a72c22f",
         "title": "Software Engineer in Test Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -53867,7 +53867,7 @@
         "company_name": "Chime",
         "id": "0bb96631-3d2e-4929-afae-551b968b3e89",
         "title": "Software Engineer Intern - Savings",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -53886,7 +53886,7 @@
         "company_name": "Chime",
         "id": "3aa9489e-589e-4b5d-a8c4-d1a0ea8d438e",
         "title": "Software Engineer Intern - Pay Anyone Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -53924,7 +53924,7 @@
         "company_name": "Chime",
         "id": "204d3e6b-38b4-4a32-976d-530208f2251e",
         "title": "Software Engineer Intern - Spot Me",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -56539,7 +56539,7 @@
         "company_name": "Qualitest",
         "id": "9d968cd1-dbbc-494a-8a3b-64b6c23bb365",
         "title": "Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -56559,7 +56559,7 @@
         "company_name": "Qualitest",
         "id": "e88a628f-c3e4-4325-b5fc-2b8c8322f2d6",
         "title": "AI & ML Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -58185,7 +58185,7 @@
         "company_name": "CertifID",
         "id": "79f7f220-3ae7-48b9-85a5-dfc6db8c000e",
         "title": "Data Science Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -58503,6 +58503,28 @@
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Rivian",
+        "id": "0265f853-c9fa-4702-b48b-43309bea6a1e",
+        "title": "Engineering Intern \u2013 7-Month Co-Op - Artificial Intelligence - Manufacturing",
+        "active": true,
+        "terms": [
+            "Spring 2024",
+            "Summer 2024",
+            "Fall 2024",
+            "Winter 2025"
+        ],
+        "date_updated": 1707768379,
+        "date_posted": 1707524269,
+        "url": "https://careers.rivian.com/jobs/16400?lang=en-us&icims=1",
+        "locations": [
+            "Normal, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Rivian",
         "is_visible": true,
         "sponsorship": "Other"
     }
