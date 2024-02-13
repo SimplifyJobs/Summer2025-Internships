@@ -36011,7 +36011,7 @@
         "company_name": "Trace3",
         "id": "67f5a7a8-7d94-44e6-8277-18c824902697",
         "title": "AI Program Intern - Hybrid",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -36638,7 +36638,7 @@
         "company_name": "Toyota Research Institute",
         "id": "bf87fb64-fc33-4840-be0c-50c01222e774",
         "title": "Robotics Intern - Dynamics and Simulation",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -36908,7 +36908,7 @@
         "company_name": "Toyota Research Institute",
         "id": "b259120c-3451-4de7-86c3-05e62e53057a",
         "title": "Robotics Intern - Mobile Manipulation - Perception",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -55810,7 +55810,7 @@
         "company_name": "CACI",
         "id": "8c592861-1d34-468f-85a8-15260335a6c6",
         "title": "VA Software Development Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -56714,7 +56714,7 @@
         "company_name": "Workiva",
         "id": "b36d60c7-01f7-4090-b8e7-09445ba38c30",
         "title": "2024 Summer \u2013 Machine Learning Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -57926,7 +57926,7 @@
         "company_name": "NVIDIA",
         "id": "e7f08025-0b12-496a-8b58-8965208f4d22",
         "title": "Performance Engineer Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -58887,6 +58887,121 @@
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/Affinitiv",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Western Digital",
+        "id": "12df5bc4-a768-4b89-aab1-35b93c9cbe81",
+        "title": "Summer 2024 \u2013 Software Engineering Intern - Firmware",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1707841859,
+        "date_posted": 1707841859,
+        "url": "https://jobs.smartrecruiters.com/WesternDigital/743999967357649",
+        "locations": [
+            "San Jose, CA",
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Western-Digital",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "First American",
+        "id": "d93d2933-3df1-4d39-b47a-53e9b7b7b4ed",
+        "title": "Remote \u2013 Undergraduate Intern - RPA & Advanced Automation",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1707841650,
+        "date_posted": 1707841650,
+        "url": "https://firstam.wd1.myworkdayjobs.com/firstamericancareers/job/USA-California-Santa-Ana/XMLNAME--Remote--Undergraduate-Intern---RPA---Advanced-Automation_R043128",
+        "locations": [
+            "Orange, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/First-American",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Intel",
+        "id": "8da8a2fd-31d7-4e69-83a2-eb5ac174319b",
+        "title": "Design Technology Tool Enablement Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1707841623,
+        "date_posted": 1707841623,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Design-Technology-Tool-Enablement-Engineer-Intern_JR0257900",
+        "locations": [
+            "Hillsboro, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "UiPath",
+        "id": "01c26d87-c5a7-4b1f-b0d1-7ee91afad115",
+        "title": "Applied Science Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1707841508,
+        "date_posted": 1707841508,
+        "url": "https://careers.uipath.com/jobs/8876?lang=en-us&icims=1",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/UiPath",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Weiss Asset Management",
+        "id": "c9c361ad-9bec-43e7-91a6-cec59df3fb0a",
+        "title": "Quant Analyst Internship Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1707841475,
+        "date_posted": 1707841475,
+        "url": "https://boards.greenhouse.io/weissassetmanagement/jobs/7115455002",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/cb8d0ea4-93ea-4a6e-982e-c2e0394150cf",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Bose",
+        "id": "054543aa-b7c4-4234-92a0-404307d5b467",
+        "title": "DSP/ML Research Engineering Co-op",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1707841166,
+        "date_posted": 1707841166,
+        "url": "https://boseallaboutme.wd1.myworkdayjobs.com/en-US/Bose_Careers/job/US-MA---Framingham/DSP-ML-Research-Engineering-Co-op_R26417",
+        "locations": [
+            "Framingham, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/bose",
         "is_visible": true,
         "sponsorship": "Other"
     }
