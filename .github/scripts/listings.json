@@ -58319,7 +58319,7 @@
         "company_name": "Western Digital",
         "id": "b3b1e846-3481-498b-beab-97a5477cc42d",
         "title": "Intern \u2013 Software Engineering - Summer 2024 - Fw-Rss",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -58533,7 +58533,7 @@
         "company_name": "Western Digital",
         "id": "4b68d6ed-4e1f-43cf-8760-4aaa5f58126e",
         "title": "Summer 2024 \u2013 Software Engineering Intern - Firmware-RSS",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -58715,6 +58715,178 @@
             "Toronto, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/c62e5e85-8369-4099-a78d-796cb56aa83f",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Cars Commerce",
+        "id": "70649ff2-4f8e-4a99-b3ed-1cd8489344e3",
+        "title": "Financial Planning and Reporting Internship",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1707812874,
+        "date_posted": 1707812874,
+        "url": "https://boards.greenhouse.io/carsdotcom/jobs/5702773",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/b3bea695-719f-47e3-ad86-31561176aac0",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Astranis",
+        "id": "32567b79-e4ee-4a71-bf95-11a392999a71",
+        "title": "Software Developer \u2013 Intern - Network/Payload Software - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1707812426,
+        "date_posted": 1707812426,
+        "url": "https://boards.greenhouse.io/astranis/jobs/4333447006",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Astranis",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Cloudflare",
+        "id": "96ac7e03-50d2-4c8b-b29b-b5dc5611b89d",
+        "title": "Research Intern - 2024",
+        "active": true,
+        "terms": [
+            "Fall 2024"
+        ],
+        "date_updated": 1707811978,
+        "date_posted": 1707811978,
+        "url": "https://boards.greenhouse.io/cloudflare/jobs/5695821",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cloudflare",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Cloudflare",
+        "id": "b87eab57-d761-4f20-90d5-7f72623e023a",
+        "title": "Research Intern - 2024",
+        "active": true,
+        "terms": [
+            "Fall 2024"
+        ],
+        "date_updated": 1707811978,
+        "date_posted": 1707811978,
+        "url": "https://boards.greenhouse.io/cloudflare/jobs/5702670",
+        "locations": [
+            "SF",
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cloudflare",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Cloudflare",
+        "id": "1b3164e9-9c8f-4f41-a963-d140b728cc7d",
+        "title": "Research Intern - 2024",
+        "active": true,
+        "terms": [
+            "Fall 2024"
+        ],
+        "date_updated": 1707811979,
+        "date_posted": 1707811979,
+        "url": "https://boards.greenhouse.io/cloudflare/jobs/5702671",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Cloudflare",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Cloudflare",
+        "id": "c8cd9035-1942-423b-95b4-38375dd38640",
+        "title": "Research Intern - 2024",
+        "active": true,
+        "terms": [
+            "Fall 2024"
+        ],
+        "date_updated": 1707811978,
+        "date_posted": 1707811978,
+        "url": "https://boards.greenhouse.io/cloudflare/jobs/5702672",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Cloudflare",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Cloudflare",
+        "id": "6c607fa7-3172-4442-a022-9cf337045f0f",
+        "title": "Research Intern - 2024",
+        "active": true,
+        "terms": [
+            "Fall 2024"
+        ],
+        "date_updated": 1707811977,
+        "date_posted": 1707811977,
+        "url": "https://boards.greenhouse.io/cloudflare/jobs/5702667",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Cloudflare",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Cloudflare",
+        "id": "71aa646c-d793-4441-8da6-0a1b2c5b033f",
+        "title": "Research Intern - 2024",
+        "active": true,
+        "terms": [
+            "Fall 2024"
+        ],
+        "date_updated": 1707811976,
+        "date_posted": 1707811976,
+        "url": "https://boards.greenhouse.io/cloudflare/jobs/5702669",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Cloudflare",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Affinitiv",
+        "id": "39b17269-95ea-4a8e-b60b-40422a5e9c15",
+        "title": "Software Engineer Intern - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1707811817,
+        "date_posted": 1707811817,
+        "url": "https://boards.greenhouse.io/affinitiv/jobs/5877552003",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Affinitiv",
         "is_visible": true,
         "sponsorship": "Other"
     }
