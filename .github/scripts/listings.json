@@ -119,7 +119,7 @@
         "company_name": "Akuna Capital",
         "id": "f77dbf19-d2b5-4300-a6aa-27219e679c27",
         "title": "Software Engineer Intern - C++",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -24902,7 +24902,7 @@
         "company_name": "Bridgewater Associates",
         "id": "328683e6-519f-4e0c-97c1-5237c57176cd",
         "title": "Investment Engineer Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -46455,7 +46455,7 @@
         "company_name": "ZoomInfo",
         "id": "f2b89bf5-9403-4734-824a-b42778752aef",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -46474,7 +46474,7 @@
         "company_name": "ZoomInfo",
         "id": "3cf6dfd5-7f46-4219-b4d0-cdb5bc2a3df9",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -54134,7 +54134,7 @@
         "company_name": "Hewlett Packard (HP)",
         "id": "56c0ebbb-564d-4dd8-a67c-b98b908b078b",
         "title": "Privacy Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -54968,7 +54968,7 @@
         "company_name": "Flipp",
         "id": "ada0351d-3f61-451c-ac5c-705136ad995b",
         "title": "Data Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024"
         ],
@@ -57258,7 +57258,7 @@
         "company_name": "Rockwell Automation",
         "id": "30e0ad3a-c04e-407c-b494-261b4e657cac",
         "title": "Intern \u2013 Firmware Development",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -58107,7 +58107,7 @@
         "company_name": "Vera Institute of Justice",
         "id": "22e454da-9449-47c0-989f-04655a10f8f2",
         "title": "Summer Internship 2024 \u2013 Innovation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -58223,7 +58223,7 @@
         "company_name": "Western Digital",
         "id": "5f062c9c-6492-4fce-b56d-55bfb19662c1",
         "title": "Summer 2024 \u2013 Software Engineering Intern - Firmware",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -59002,6 +59002,26 @@
             "Framingham, MA"
         ],
         "company_url": "https://simplify.jobs/c/bose",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Xylem",
+        "id": "283843f7-937a-43c2-a039-6d97e4092b09",
+        "title": "Intern \u2013 Cyber Security Operations - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1707855498,
+        "date_posted": 1705018128,
+        "url": "https://jobs.jobvite.com/xylem/job/oufnqfwg?nl=1&nl=1&fr=false",
+        "locations": [
+            "Boise, ID",
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Xylem",
         "is_visible": true,
         "sponsorship": "Other"
     }
