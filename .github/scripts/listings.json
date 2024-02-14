@@ -27962,7 +27962,7 @@
         "company_name": "Rockwell Automation",
         "id": "cb69b78e-c4e6-48fe-9a86-c5f7c5277c93",
         "title": "Intern \u2013 Rockwell Engineering Pathways Program",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2024"
         ],
@@ -47246,7 +47246,7 @@
         "company_name": "Keywords Studios",
         "id": "f533c995-7082-4e0f-82cd-d503c3800168",
         "title": "Programming Intern 2024 - 2025 Coconut Lizard",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -47285,7 +47285,7 @@
         "company_name": "Keywords Studios",
         "id": "da0d93b8-5038-4b2c-b85a-a7eab7a8ec60",
         "title": "Programming Intern 2024 - 2025 d3t",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -53448,7 +53448,7 @@
         "company_name": "Kobo",
         "id": "5dd8c9bf-a18a-4130-815a-ed89f79af3a1",
         "title": "Quality Assurance Automation Engineer Co-op - 12-Months",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -53600,7 +53600,7 @@
         "company_name": "Kobo",
         "id": "b4d2a4ac-c84b-4dd8-8bc6-776d9eeb02d5",
         "title": "Software Quality Assurance Engineer Co-op - 8 Months",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -56443,7 +56443,7 @@
         "company_name": "Dynatrace",
         "id": "5bf6c2e9-019f-4d33-92b3-dc0665b5868e",
         "title": "Technical Support Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -58552,7 +58552,7 @@
         "company_name": "Boston Dynamics",
         "id": "abc76acf-586c-4573-9f82-e17b07de56bb",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -58953,7 +58953,7 @@
         "company_name": "UiPath",
         "id": "01c26d87-c5a7-4b1f-b0d1-7ee91afad115",
         "title": "Applied Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -59427,6 +59427,63 @@
             "SF"
         ],
         "company_url": "https://simplify.jobs/c/Uber",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Bank of Montreal (BMO)",
+        "id": "72091095-f30f-44c2-a3f3-7a9d12b73d6c",
+        "title": "2025 Summer Internship Diversity Scholarship \u2013 Intern - Global Markets Analyst - Generalist",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1707927357,
+        "date_posted": 1707927357,
+        "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/XMLNAME-2025-Summer-Internship-Diversity-Scholarship---Global-Markets-Analyst--Generalist--Intern_R240004135-1",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/BMO",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Bank of Montreal (BMO)",
+        "id": "0c1182c0-ae4d-405f-ba5e-e81a1d84aee8",
+        "title": "2025 Summer Internship Diversity Scholarship \u2013 Intern - Global Markets Analyst - Quantitative/Developer",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1707927355,
+        "date_posted": 1707927355,
+        "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/XMLNAME-2025-Summer-Internship-Diversity-Scholarship---Global-Markets-Analyst--Quantitative-Developer--Intern_R240004142-1",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/BMO",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Rivian",
+        "id": "1867f144-f171-4083-8483-e9448fc4043c",
+        "title": "Construction Project Controls Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1707927340,
+        "date_posted": 1707927340,
+        "url": "https://careers.rivian.com/jobs/16608?lang=en-us&icims=1",
+        "locations": [
+            "Monroe, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Rivian",
         "is_visible": true,
         "sponsorship": "Other"
     }
