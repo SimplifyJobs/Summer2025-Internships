@@ -24902,7 +24902,7 @@
         "company_name": "Bridgewater Associates",
         "id": "328683e6-519f-4e0c-97c1-5237c57176cd",
         "title": "Investment Engineer Intern - Summer 2024",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -59351,6 +59351,82 @@
             "Fremont, CA"
         ],
         "company_url": "https://simplify.jobs/c/Western-Digital",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Collectors",
+        "id": "f3587b18-6a68-4215-ba0b-f0084816df1e",
+        "title": "Data Annotation Specialist \u2013 Internship or Temp Opportunity",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1707899232,
+        "date_posted": 1707899232,
+        "url": "https://boards.greenhouse.io/collectorsuniverse/jobs/4873967004",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Collectors",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Collectors",
+        "id": "e1ab47fd-e005-4745-a40c-351b2658a982",
+        "title": "Data Entry Specialist \u2013 Internship or Temp Opportunity",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1707899233,
+        "date_posted": 1707899233,
+        "url": "https://boards.greenhouse.io/collectorsuniverse/jobs/5083243004",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Collectors",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Dynatrace",
+        "id": "6a884825-1dcc-477a-b08e-e50c3cf22cbb",
+        "title": "Product Specialist Internship",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1707899172,
+        "date_posted": 1707899172,
+        "url": "https://jobs.smartrecruiters.com/Dynatrace1/743999967467943",
+        "locations": [
+            "Detroit, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/a4d4fb56-ae6f-4f27-8256-1695f57edd50",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Uber",
+        "id": "5071a748-2f19-4f2a-ba2a-c36c8bf086a0",
+        "title": "2024 Software Engineering Uberstar Internship - Mexico",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1707898825,
+        "date_posted": 1707898825,
+        "url": "https://university-uber.icims.com/jobs/128684/job",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Uber",
         "is_visible": true,
         "sponsorship": "Other"
     }
