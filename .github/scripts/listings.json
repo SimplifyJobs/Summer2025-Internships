@@ -24902,7 +24902,7 @@
         "company_name": "Bridgewater Associates",
         "id": "328683e6-519f-4e0c-97c1-5237c57176cd",
         "title": "Investment Engineer Intern - Summer 2024",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -30747,7 +30747,7 @@
         "company_name": "SharkNinja",
         "id": "95fd6999-6b22-4af1-8b5c-f304c8e15b2d",
         "title": "Summer \u2013 Advanced Analytics Intern: May to August 2024",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2024",
             "Summer 2024"
@@ -51949,7 +51949,7 @@
         "company_name": "NVIDIA",
         "id": "8afb2dd5-21eb-49f1-9948-f23c91d41dcc",
         "title": "GPU Architect Intern - Summer 2024",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -59637,6 +59637,26 @@
             "Santa Clara, CA"
         ],
         "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "SharkNinja",
+        "id": "2e1aeda3-fc76-403f-9210-4984b8bd4a81",
+        "title": "Summer \u2013 App Developer Test Engineer Intern: May to August 2024",
+        "active": true,
+        "terms": [
+            "Spring 2024",
+            "Summer 2024"
+        ],
+        "date_updated": 1707985382,
+        "date_posted": 1707985382,
+        "url": "https://www.sharkninja.com/careers-application/?gh_jid=4333708006",
+        "locations": [
+            "Needham, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/SharkNinja",
         "is_visible": true,
         "sponsorship": "Other"
     }
