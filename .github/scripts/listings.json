@@ -848,7 +848,7 @@
         "company_name": "Walmart",
         "id": "4b60067d-8dcd-4845-b123-3931e5882b6f",
         "title": "Software Engineer internship II",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -42500,7 +42500,7 @@
         "company_name": "NVIDIA",
         "id": "6649ddbb-2027-4f63-b2e6-7117519c3a9e",
         "title": "Software E2 Service Intern - Distributed System Engineering - Summer 2024",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -50999,7 +50999,7 @@
         "company_name": "GRAIL",
         "id": "6c13bd20-843d-47d1-ac9f-0aba1e7d0982",
         "title": "Software Engineering Intern - Data Platform",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -51018,7 +51018,7 @@
         "company_name": "GRAIL",
         "id": "f8dbdb06-30be-428b-b3bc-dcf49d0d5d68",
         "title": "Generative AI Innovation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -54331,7 +54331,7 @@
         "company_name": "TripAdvisor",
         "id": "f1544c33-c025-4f4a-9beb-3f7ada8f981c",
         "title": "Software Engineering Intern x5 - Viator",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024",
             "Fall 2024"
@@ -56676,7 +56676,7 @@
         "company_name": "Bank of Montreal (BMO)",
         "id": "a6ce6882-5a9a-4aae-bb59-cf581b5d23ce",
         "title": "Capital Markets Software Developer \u2013 Summer 2024 Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -56695,7 +56695,7 @@
         "company_name": "Bank of Montreal (BMO)",
         "id": "b049b082-3958-49ef-947e-f2002eb25c59",
         "title": "Capital Markets Data & Reporting Analyst \u2013 Summer 2024 Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -59089,7 +59089,7 @@
         "company_name": "Boston Dynamics",
         "id": "81bdec35-538d-40a2-b8e6-cc2ed73bc455",
         "title": "Software Robotics Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -59359,7 +59359,7 @@
         "company_name": "Collectors",
         "id": "f3587b18-6a68-4215-ba0b-f0084816df1e",
         "title": "Data Annotation Specialist \u2013 Internship or Temp Opportunity",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -59378,7 +59378,7 @@
         "company_name": "Collectors",
         "id": "e1ab47fd-e005-4745-a40c-351b2658a982",
         "title": "Data Entry Specialist \u2013 Internship or Temp Opportunity",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -59657,6 +59657,46 @@
             "Needham, MA"
         ],
         "company_url": "https://simplify.jobs/c/SharkNinja",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Acadian Asset Management",
+        "id": "835e96a8-482e-413c-85fb-5981334a2d85",
+        "title": "Software Engineering Co-Op",
+        "active": true,
+        "terms": [
+            "Summer 2024",
+            "Fall 2024",
+            "Winter 2025"
+        ],
+        "date_updated": 1708014060,
+        "date_posted": 1708014060,
+        "url": "https://www.acadian-asset.com/careers/open-positions?gh_jid=4334491006",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/acadian-asset-management",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Leidos",
+        "id": "4075ca38-c128-478a-a205-277f0f405836",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1708013236,
+        "date_posted": 1708013236,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Beavercreek-OH/Software-Engineering-Intern_R-00129002",
+        "locations": [
+            "Beavercreek, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
         "is_visible": true,
         "sponsorship": "Other"
     }
