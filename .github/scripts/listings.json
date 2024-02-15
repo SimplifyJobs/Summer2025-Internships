@@ -17485,7 +17485,7 @@
         "company_name": "Stryker",
         "id": "5ac4fa2c-8c2e-465f-9484-551aa7956fec",
         "title": "Materials Engineering Intern - Design Assurance",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -18840,7 +18840,7 @@
         "company_name": "MarketAxess",
         "id": "8ea9668d-f05d-47f7-9d68-c6de832099c3",
         "title": "Research Intern 2024",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -25405,7 +25405,7 @@
         "company_name": "Zoox",
         "id": "c76fb8ce-1fd2-4224-b8b7-66c3842ba1f8",
         "title": "Developer Infrastructure \u2013 Software Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -26568,7 +26568,7 @@
         "company_name": "Braze",
         "id": "9afe7578-87f0-429b-a476-8fb4a30098b9",
         "title": "Software Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2023",
             "Summer 2023"
@@ -53867,7 +53867,7 @@
         "company_name": "Chime",
         "id": "0bb96631-3d2e-4929-afae-551b968b3e89",
         "title": "Software Engineer Intern - Savings",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -54930,7 +54930,7 @@
         "company_name": "Kinaxis",
         "id": "85dd44af-0924-48d0-a01f-3df23a0077ce",
         "title": "Co-Op/Intern Developer - Machine Learning",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024"
         ],
@@ -55696,7 +55696,7 @@
         "company_name": "Gen",
         "id": "4d58dada-a9d1-402e-b299-3648d2e612d9",
         "title": "Site Reliability Engineer \u2013 Intern - Devops",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -57315,7 +57315,7 @@
         "company_name": "Hewlett Packard (HP)",
         "id": "7d1569c8-524b-4bf9-8034-dcc5d9206851",
         "title": "Associate Software Developer \u2013 Co-op position - Saas Services",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024"
         ],
@@ -57334,7 +57334,7 @@
         "company_name": "Hewlett Packard (HP)",
         "id": "f73fe346-6f7c-46e0-b9ed-0847bd98701a",
         "title": "Associate Software Developer in Test \u2013 Co-op position - System Team",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024"
         ],
@@ -57391,7 +57391,7 @@
         "company_name": "Hewlett Packard (HP)",
         "id": "8587a230-be9c-4cc7-b528-1c7b3f0aac77",
         "title": "Associate Software Developer \u2013 Co-op position",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024"
         ],
@@ -59484,6 +59484,159 @@
             "Monroe, GA"
         ],
         "company_url": "https://simplify.jobs/c/Rivian",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "SpecterOps",
+        "id": "ad1716a0-0e03-4111-a16e-78e20c81a805",
+        "title": "Product Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1707957048,
+        "date_posted": 1707957048,
+        "url": "https://boards.greenhouse.io/specterops/jobs/7232079002",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/SpecterOps",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Osmo",
+        "id": "2aa5cb67-ea93-4d0c-a940-c94fa220cf58",
+        "title": "Psychophysics Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1707956951,
+        "date_posted": 1707956951,
+        "url": "https://boards.greenhouse.io/osmo/jobs/4334319006",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Osmo-AI",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Osmo",
+        "id": "2b6b4dc5-e451-43ec-bc17-413c07de33ff",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1707956951,
+        "date_posted": 1707956951,
+        "url": "https://boards.greenhouse.io/osmo/jobs/4334108006",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Osmo-AI",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Mysten Labs",
+        "id": "c2df24c1-d7dc-48c7-a1b4-a22fdb78f3b4",
+        "title": "Data Science Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1707956539,
+        "date_posted": 1707956539,
+        "url": "https://jobs.ashbyhq.com/mystenlabs/0faba161-4e0a-4b30-8166-40fcecd6a56d/application",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Mysten-Labs",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Percipient.ai",
+        "id": "758b4532-e4d2-4ab2-b34a-9f09fdbd2e4d",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1707956539,
+        "date_posted": 1707956539,
+        "url": "https://jobs.lever.co/percipient/66db963c-7392-4736-91fc-190c3bf6049b/apply",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Percipient-ai",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Minitab",
+        "id": "d5ea66d6-fded-4bcc-bdec-aa0b30915377",
+        "title": "Marketing Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1707956144,
+        "date_posted": 1707956144,
+        "url": "https://boards.greenhouse.io/minitab/jobs/5892213003",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Minitab",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Genesis Therapeutics",
+        "id": "9d7e96a8-4310-4ebf-8eee-755130cc27dd",
+        "title": "New Product Planning Intern - AI/Llms/Lifesciences",
+        "active": true,
+        "terms": [
+            "Summer 2024",
+            "Fall 2024"
+        ],
+        "date_updated": 1707955809,
+        "date_posted": 1707955809,
+        "url": "https://jobs.lever.co/genesistherapeutics/bf397627-ac7c-4eff-bc78-10383f29af15/apply",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Genesis-Thera",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "NVIDIA",
+        "id": "d996224a-07cc-481f-af51-950266d58438",
+        "title": "Systems Performance Intern - At Scale AI - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1707955660,
+        "date_posted": 1707955660,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Systems-Performance-Intern--At-Scale-AI---Summer-2024_JR1979502",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
         "is_visible": true,
         "sponsorship": "Other"
     }
