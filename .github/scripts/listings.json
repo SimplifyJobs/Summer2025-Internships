@@ -59820,7 +59820,7 @@
         "company_name": "Wisk",
         "id": "519fbf32-d8b6-41e8-9a00-452a63817e30",
         "title": "Software Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -59877,7 +59877,7 @@
         "company_name": "Wisk",
         "id": "9542a486-e5c4-48cf-8947-b9e040dda9f6",
         "title": "Software Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -60122,6 +60122,44 @@
             "San Mateo, CA"
         ],
         "company_url": "https://simplify.jobs/c/Zoox",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Wisk",
+        "id": "b6993be6-b455-448e-b240-421054b25354",
+        "title": "Software Development Intern / Stagiaire en d\u00e9veloppement de logiciels",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1708100742,
+        "date_posted": 1708100742,
+        "url": "https://jobs.lever.co/wisk/65d5c693-9701-4d64-be58-dde85cb2cc03/apply",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/wisk-aero",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Uniswap",
+        "id": "dfce8df0-4570-4fea-a3fc-a64a589c2440",
+        "title": "Security Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1708100478,
+        "date_posted": 1708100478,
+        "url": "https://boards.greenhouse.io/uniswaplabs/jobs/4357289005",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Uniswap",
         "is_visible": true,
         "sponsorship": "Other"
     }
