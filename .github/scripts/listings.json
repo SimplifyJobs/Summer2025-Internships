@@ -40925,7 +40925,7 @@
         "company_name": "Applied Materials",
         "id": "aa277ed4-657c-401c-8c5d-95b4f49d2c62",
         "title": "Summer 2024 Data Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -45862,7 +45862,7 @@
         "company_name": "Cadence Design Systems",
         "id": "b12f5176-6b2d-4e26-8c30-79c1b7243ff9",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -48742,7 +48742,7 @@
         "company_name": "MasterControl",
         "id": "f66257ff-7f38-4c63-b167-82fc44d043bc",
         "title": "Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -49827,7 +49827,7 @@
         "company_name": "Sleeper",
         "id": "874b74f3-1bc0-43a0-8944-e69779b9d382",
         "title": "Product Design Intern - 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024"
         ],
@@ -50999,7 +50999,7 @@
         "company_name": "GRAIL",
         "id": "6c13bd20-843d-47d1-ac9f-0aba1e7d0982",
         "title": "Software Engineering Intern - Data Platform",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -53733,7 +53733,7 @@
         "company_name": "Redwood Materials",
         "id": "a92bca67-bd3a-4b74-a701-32a20249c973",
         "title": "Firmware Engineer Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -55123,7 +55123,7 @@
         "company_name": "1Password",
         "id": "e9198fdc-0916-4eb2-89a7-c047db347b01",
         "title": "Data Intern - Data & Analytics Eng - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -55142,7 +55142,7 @@
         "company_name": "1Password",
         "id": "5c7d3b2f-663d-4905-8d5e-e8404bcac7c3",
         "title": "Data Intern - Data Analytics - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -55161,7 +55161,7 @@
         "company_name": "1Password",
         "id": "8cc1ef1b-de61-45ab-92b9-ba1820d28dd2",
         "title": "Developer Intern - Filling & Saving - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -55180,7 +55180,7 @@
         "company_name": "1Password",
         "id": "6fc1dbe0-249b-4df2-ad80-8dc385493af3",
         "title": "Developer Intern - Item Management - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -55199,7 +55199,7 @@
         "company_name": "1Password",
         "id": "6796859a-7ab8-4805-a5d6-8bdd4a3ac6e1",
         "title": "Developer Intern - Developer Ecosystems - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -55218,7 +55218,7 @@
         "company_name": "1Password",
         "id": "9fa7fb83-24d1-499a-a790-aba3b1a57c4c",
         "title": "Developer Intern - Admin Onboarding and Provisioning - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -56152,7 +56152,7 @@
         "company_name": "Crowdstrike",
         "id": "611dbe0e-703d-49bb-a635-39e43db6f892",
         "title": "Internal Audit Intern - Remote",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -58319,7 +58319,7 @@
         "company_name": "Western Digital",
         "id": "b3b1e846-3481-498b-beab-97a5477cc42d",
         "title": "Intern \u2013 Software Engineering - Summer 2024 - Fw-Rss",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -58533,7 +58533,7 @@
         "company_name": "Western Digital",
         "id": "4b68d6ed-4e1f-43cf-8760-4aaa5f58126e",
         "title": "Summer 2024 \u2013 Software Engineering Intern - Firmware-RSS",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -59697,6 +59697,312 @@
             "Beavercreek, OH"
         ],
         "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "CACI",
+        "id": "cd49acf2-4004-4ab8-bef4-c1eca3a23db0",
+        "title": "Software Engineer Intern - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1708043436,
+        "date_posted": 1708043436,
+        "url": "https://caci.wd1.myworkdayjobs.com/External/job/US-IN-Crane/Software-Engineer-Intern---Summer-2024_292742-1",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/CACI",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "CACI",
+        "id": "bcc18ba6-ce03-473f-8b87-ca21b0763f7f",
+        "title": "UAV Swarm Development Intern - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1708043436,
+        "date_posted": 1708043436,
+        "url": "https://caci.wd1.myworkdayjobs.com/External/job/US-MD-Aberdeen-Proving-Ground/UAV-Swarm-Development-Intern---Summer-2024_292723-1",
+        "locations": [
+            "Aberdeen, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/CACI",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "First American",
+        "id": "3538cb09-69e3-43f3-bb05-203d8bf6c434",
+        "title": "Data Management Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1708043338,
+        "date_posted": 1708043338,
+        "url": "https://firstam.wd1.myworkdayjobs.com/firstamericancareers/job/USA-California-Santa-Ana/Data-Management-Intern_R043234-1",
+        "locations": [
+            "Orange, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/First-American",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Wisk",
+        "id": "19076e32-156b-44f4-ba14-428a812eccd7",
+        "title": "Software Development Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1708043192,
+        "date_posted": 1708043192,
+        "url": "https://jobs.lever.co/wisk/baae7c7b-8b59-4de1-9f2e-be9c4f4fc915/apply",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/wisk-aero",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "CannonDesign",
+        "id": "8c31f624-93b3-490c-b0f4-2f8fac6171e0",
+        "title": "Consulting Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1708043269,
+        "date_posted": 1708043269,
+        "url": "http://www.cannondesign.com/careers/?gh_jid=7119713002",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cannon-Design",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Qualitest",
+        "id": "071efdc3-11cd-4d4e-8c2c-2b5f36997326",
+        "title": "AI & ML Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1708043246,
+        "date_posted": 1708043246,
+        "url": "https://apply.workable.com/qualitest-1/j/F78DE615A7/apply",
+        "locations": [
+            "Remote in USA",
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/b308e19e-a1b4-44d7-9536-7f294d8fb938",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Wisk",
+        "id": "519fbf32-d8b6-41e8-9a00-452a63817e30",
+        "title": "Software Development Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1708043190,
+        "date_posted": 1708043190,
+        "url": "https://jobs.lever.co/wisk/4c5afb37-860a-442b-902a-bda8cde1eca6/apply",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/wisk-aero",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Wisk",
+        "id": "92d34811-0c36-478b-859f-4e5d78b5a59f",
+        "title": "Software Development Intern/ Stagiaire en d\u00e9veloppement de logiciel",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1708043191,
+        "date_posted": 1708043191,
+        "url": "https://jobs.lever.co/wisk/71453aff-be85-47dd-baac-14c6db943064/apply",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/wisk-aero",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Wisk",
+        "id": "71883b03-2e00-45e1-84e0-2859f6f82baa",
+        "title": "Simulation Software Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1708043189,
+        "date_posted": 1708043189,
+        "url": "https://jobs.lever.co/wisk/0c238c16-e344-400f-b068-658d816171d9/apply",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/wisk-aero",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Wisk",
+        "id": "9542a486-e5c4-48cf-8947-b9e040dda9f6",
+        "title": "Software Development Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1708043188,
+        "date_posted": 1708043188,
+        "url": "https://jobs.lever.co/wisk/c4c91ee7-44c2-4b99-8ff3-e77880bf6036/apply",
+        "locations": [
+            "Mesa, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/wisk-aero",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Qualitest",
+        "id": "32e65303-f179-4dce-8bc9-73fc54d0c38e",
+        "title": "Software Developer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1708043246,
+        "date_posted": 1708043246,
+        "url": "https://apply.workable.com/qualitest-1/j/A3A0BF4583/apply",
+        "locations": [
+            "Remote in USA",
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/b308e19e-a1b4-44d7-9536-7f294d8fb938",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Wisk",
+        "id": "4e65a3b2-3687-4474-97d0-792bb9b1a671",
+        "title": "Loads & Dynamics Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1708043182,
+        "date_posted": 1708043182,
+        "url": "https://jobs.lever.co/wisk/67eb2c2c-4d8b-4bf5-930f-89aaee015347/apply",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/wisk-aero",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Wisk",
+        "id": "f1acb99c-9e4f-49d8-8ea0-356d5a764dc0",
+        "title": "Flight Test Engineering Software Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1708043181,
+        "date_posted": 1708043181,
+        "url": "https://jobs.lever.co/wisk/317a2673-65bd-420b-a11d-b2374471d86b/apply",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/wisk-aero",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Rivian",
+        "id": "43e43be3-189c-46cb-8d75-290ca09ba896",
+        "title": "Engineering Intern - Software Systems",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1708042724,
+        "date_posted": 1708042724,
+        "url": "https://careers.rivian.com/jobs/16057?lang=en-us&icims=1",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Rivian",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Applied Materials",
+        "id": "081726c2-30e6-4111-9781-2703cbbac38c",
+        "title": "Artificial Intelligence Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1708042431,
+        "date_posted": 1708042431,
+        "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Artificial-Intelligence-Intern_R2411364",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/AMAT",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Western Digital",
+        "id": "6f890c4b-b81b-4cde-92c2-850bb4300a82",
+        "title": "Co-Op \u2013 SSD Firmware Development - Minnesota",
+        "active": true,
+        "terms": [
+            "Spring 2024"
+        ],
+        "date_updated": 1708042046,
+        "date_posted": 1708042046,
+        "url": "https://jobs.smartrecruiters.com/WesternDigital/743999967822719",
+        "locations": [
+            "Rochester, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Western-Digital",
         "is_visible": true,
         "sponsorship": "Other"
     }
