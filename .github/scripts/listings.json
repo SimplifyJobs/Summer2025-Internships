@@ -60005,5 +60005,124 @@
         "company_url": "https://simplify.jobs/c/Western-Digital",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Intel",
+        "id": "c8eb6c6c-c96c-4194-be8e-c13b45ee3324",
+        "title": "Intern \u2013 AI Software Development Engineer",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1708072015,
+        "date_posted": 1708072015,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-California-Folsom/Intern---AI-Software-Development-Engineer_JR0258460",
+        "locations": [
+            "Santa Clara, CA",
+            "Hillsboro, OR",
+            "Folsom, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Intel",
+        "id": "b46aaa26-3a78-4820-85d6-883c48e5e8ab",
+        "title": "Software Engineer \u2013 Undergraduate Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1708072011,
+        "date_posted": 1708072011,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Software-Engineer---Undergraduate-Intern_JR0258343",
+        "locations": [
+            "Santa Clara, CA",
+            "Hillsboro, OR",
+            "Folsom, CA",
+            "Phoenix, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Wisk",
+        "id": "7bef5785-ef48-495f-a701-b8e1046f1d40",
+        "title": "Software Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1708071822,
+        "date_posted": 1708071822,
+        "url": "https://jobs.lever.co/wisk/5cfc99ef-2e2c-4923-8843-5cccb75549ef/apply",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/wisk-aero",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Wisk",
+        "id": "460f6e00-98a2-4318-95b7-097d67082bf5",
+        "title": "Information Technology Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1708071814,
+        "date_posted": 1708071814,
+        "url": "https://jobs.lever.co/wisk/d9a2231b-7e84-4742-a2c4-35b5023a32c0/apply",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/wisk-aero",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Wisk",
+        "id": "efc1378d-f617-44bb-8f17-b9bd1ca821c4",
+        "title": "BMS Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1708071810,
+        "date_posted": 1708071810,
+        "url": "https://jobs.lever.co/wisk/d96c8ba0-eb19-4315-84d9-bca06d2ea175/apply",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/wisk-aero",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Zoox",
+        "id": "1bd68e90-dac9-441c-8771-5476133bd21d",
+        "title": "Perception Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1708071548,
+        "date_posted": 1708071548,
+        "url": "https://jobs.lever.co/zoox/879af812-dd13-4113-99b9-91b9ad038fd8/apply",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Zoox",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
