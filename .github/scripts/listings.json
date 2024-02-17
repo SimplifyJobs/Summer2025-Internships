@@ -24902,7 +24902,7 @@
         "company_name": "Bridgewater Associates",
         "id": "328683e6-519f-4e0c-97c1-5237c57176cd",
         "title": "Investment Engineer Intern - Summer 2024",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -56913,7 +56913,7 @@
         "company_name": "Mobilityware",
         "id": "472c59a0-98c3-4cb6-ab97-9dd4ff65c80c",
         "title": "Unity Engineer Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -60295,6 +60295,45 @@
             "San Carlos, CA"
         ],
         "company_url": "https://simplify.jobs/c/EH2",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Global Relay",
+        "id": "c89059fb-0cf9-43ad-801e-fe0d13806f17",
+        "title": "Software Development Engineer in Test \u2013 Co-op - Sdet - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1708158268,
+        "date_posted": 1708158268,
+        "url": "https://www.globalrelay.com/careers/jobs/?gh_jid=5086524004",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Global-Relay",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "SoFi",
+        "id": "ccae08be-1051-4302-ae73-185bb322d992",
+        "title": "Intern \u2013 Software Engineer",
+        "active": true,
+        "terms": [
+            "Summer 2024",
+            "Fall 2024"
+        ],
+        "date_updated": 1708158223,
+        "date_posted": 1708158223,
+        "url": "https://www.sofi.com/careers/sofi-university/5870784003?gh_jid=5870784003",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/SoFi",
         "is_visible": true,
         "sponsorship": "Other"
     }
