@@ -5615,7 +5615,7 @@
         "company_name": "Palantir",
         "id": "d58f726c-620e-4c0c-89d7-8b54421280ab",
         "title": "Forward Deployed Software Engineer \u2013 Internship - US Government",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -24541,7 +24541,7 @@
         "company_name": "Splunk",
         "id": "a51774cc-1edf-498b-b9f0-c6f74990390c",
         "title": "Software Engineer Intern - Backend/Full-stack - Boulder - CO - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -24672,7 +24672,7 @@
         "company_name": "Splunk",
         "id": "85e62759-e0b2-408e-b296-fbd487fedfbe",
         "title": "Software Engineer Intern - Front-end - Boulder - CO - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -27400,7 +27400,7 @@
         "company_name": "Second Order Effects",
         "id": "b9cb1bf6-42c5-4224-964b-13974e3bd474",
         "title": "Systems Integration/Test Engineering Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -42176,7 +42176,7 @@
         "company_name": "Samsung Research America",
         "id": "d3cf4315-dcf7-400a-bfe2-b5af3611d839",
         "title": "2024 Summer Intern - Data Science & ML Prototyper",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -42500,7 +42500,7 @@
         "company_name": "NVIDIA",
         "id": "6649ddbb-2027-4f63-b2e6-7117519c3a9e",
         "title": "Software E2 Service Intern - Distributed System Engineering - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -45532,7 +45532,7 @@
         "company_name": "ServiceNow",
         "id": "8a4d32de-1232-47e8-9bfe-bcd9390235d3",
         "title": "Machine Learning Engineer Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024",
             "Summer 2024",
@@ -49865,7 +49865,7 @@
         "company_name": "Thousand Eyes",
         "id": "fd7f16b4-534d-4746-9d5b-d44cb775695c",
         "title": "Software Engineering Intern - Endpoint",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -53505,7 +53505,7 @@
         "company_name": "NVIDIA",
         "id": "fdd0844c-ec7f-449e-aaf9-ffc52f55e68a",
         "title": "Finance Data Science Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -54582,7 +54582,7 @@
         "company_name": "Tegus",
         "id": "49459c23-47cf-468f-9d05-0dc43f1853ab",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -54757,7 +54757,7 @@
         "company_name": "Ascend Analytics",
         "id": "7bf70801-5e40-497b-bb9b-9bf83a801ad7",
         "title": "Energy Analyst Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -57353,7 +57353,7 @@
         "company_name": "Autodesk",
         "id": "b53b59e8-e1ff-485e-8557-1213e9330dc0",
         "title": "Intern \u2013 Data Scientist",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -59626,7 +59626,7 @@
         "company_name": "NVIDIA",
         "id": "d996224a-07cc-481f-af51-950266d58438",
         "title": "Systems Performance Intern - At Scale AI - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -60160,6 +60160,141 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/Uniswap",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Olo",
+        "id": "8756bed0-f260-4306-9780-b473397c0e48",
+        "title": "Data Science Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1708129892,
+        "date_posted": 1708129892,
+        "url": "https://jobs.lever.co/olo/1a2f44f2-95d8-42fc-8d11-01e8aa5dd0e8/apply",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Olo",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Alcon",
+        "id": "46174fc1-218c-48d6-9878-4e8216e9aa7b",
+        "title": "Summer 2024 \u2013 Information Technology Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1708129803,
+        "date_posted": 1708129803,
+        "url": "https://alcon.wd5.myworkdayjobs.com/careers_alcon/job/Fort-Worth-Texas/Summer-2024---Information-Technology-Intern_R-2024-30762",
+        "locations": [
+            "Fort Worth, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/alcon",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Intel",
+        "id": "f39cef6a-50b0-411b-a5aa-d360a1aa41f1",
+        "title": "Soc Debug Engineer \u2013 Undergraduate Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024",
+            "Fall 2024"
+        ],
+        "date_updated": 1708129782,
+        "date_posted": 1708129782,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Massachusetts-Hudson/SoC-Debug-Engineer---Undergraduate-Intern_JR0258194",
+        "locations": [
+            "Marlborough, MA",
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Intel",
+        "id": "8a7d307f-11f1-47d4-9a8c-508dbd7bdd0c",
+        "title": "Research Scientist Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1708129785,
+        "date_posted": 1708129785,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Research-Scientist-Intern_JR0258565",
+        "locations": [
+            "Hillsboro, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Ascend Analytics",
+        "id": "42a7a1a0-4cfc-4c8e-baaf-049e0189eee9",
+        "title": "Energy Analyst Intern - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1708129698,
+        "date_posted": 1708129698,
+        "url": "https://boards.greenhouse.io/ascendanalytics/jobs/4371525005",
+        "locations": [
+            "Boulder, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/AscendAnalytics",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Major League Baseball (MLB)",
+        "id": "e7f615b7-d2fd-4d77-b964-172ea5b15861",
+        "title": "API Backend Engineer \u2013 Internship",
+        "active": true,
+        "terms": [
+            "Fall 2024"
+        ],
+        "date_updated": 1708129032,
+        "date_posted": 1708129032,
+        "url": "https://www.mlb.com/careers/opportunities?gh_jid=5701640",
+        "locations": [
+            "El Segundo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/MLB",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Electric Hydrogen",
+        "id": "5523f4da-5796-4740-b2b6-005e0a59fd03",
+        "title": "Systems Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1708135528,
+        "date_posted": 1699053156,
+        "url": "https://eh2.com/careers?gh_jid=4313121005",
+        "locations": [
+            "San Carlos, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/EH2",
         "is_visible": true,
         "sponsorship": "Other"
     }
