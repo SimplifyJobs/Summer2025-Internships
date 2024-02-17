@@ -11320,7 +11320,7 @@
         "company_name": "Nutanix",
         "id": "b5ec12d2-4310-460a-9dde-f44dfe75363d",
         "title": "Software Engineering Intern - Undergraduates Only",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2024",
             "Summer 2024"
@@ -43918,7 +43918,7 @@
         "company_name": "Electric Hydrogen",
         "id": "e3bdfe5a-223f-4b7e-aee0-7831a7ba2119",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -56443,7 +56443,7 @@
         "company_name": "Dynatrace",
         "id": "5bf6c2e9-019f-4d33-92b3-dc0665b5868e",
         "title": "Technical Support Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -59397,7 +59397,7 @@
         "company_name": "Dynatrace",
         "id": "6a884825-1dcc-477a-b08e-e50c3cf22cbb",
         "title": "Product Specialist Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -59973,7 +59973,7 @@
         "company_name": "Applied Materials",
         "id": "081726c2-30e6-4111-9781-2703cbbac38c",
         "title": "Artificial Intelligence Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
