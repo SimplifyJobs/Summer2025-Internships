@@ -60336,5 +60336,22 @@
         "company_url": "https://simplify.jobs/c/SoFi",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Simplify",
+        "id": "0ea30c11-fd58-4835-b33f-0001ac7ae4bf",
+        "title": "Product/Software Engineer Intern",
+        "active": true,
+        "terms": [],
+        "date_updated": 1708222724,
+        "date_posted": 1708222723,
+        "url": "https://simplify.jobs/p/0ea30c11-fd58-4835-b33f-0001ac7ae4bf",
+        "locations": [
+            "Remote"
+        ],
+        "company_url": "https://simplify.jobs/c/Simplify",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
