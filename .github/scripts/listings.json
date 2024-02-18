@@ -14367,7 +14367,7 @@
         "company_name": "Oshkosh",
         "id": "045ae4e2-0390-40bc-b10c-49660765cfc5",
         "title": "AI/ Autonomy Engineering Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -24902,7 +24902,7 @@
         "company_name": "Bridgewater Associates",
         "id": "328683e6-519f-4e0c-97c1-5237c57176cd",
         "title": "Investment Engineer Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -56443,7 +56443,7 @@
         "company_name": "Dynatrace",
         "id": "5bf6c2e9-019f-4d33-92b3-dc0665b5868e",
         "title": "Technical Support Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -58895,7 +58895,7 @@
         "company_name": "Western Digital",
         "id": "12df5bc4-a768-4b89-aab1-35b93c9cbe81",
         "title": "Summer 2024 \u2013 Software Engineering Intern - Firmware",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -59397,7 +59397,7 @@
         "company_name": "Dynatrace",
         "id": "6a884825-1dcc-477a-b08e-e50c3cf22cbb",
         "title": "Product Specialist Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -60322,7 +60322,7 @@
         "company_name": "SoFi",
         "id": "ccae08be-1051-4302-ae73-185bb322d992",
         "title": "Intern \u2013 Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024",
             "Fall 2024"
