@@ -848,7 +848,7 @@
         "company_name": "Walmart",
         "id": "4b60067d-8dcd-4845-b123-3931e5882b6f",
         "title": "Software Engineer internship II",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -11320,7 +11320,7 @@
         "company_name": "Nutanix",
         "id": "b5ec12d2-4310-460a-9dde-f44dfe75363d",
         "title": "Software Engineering Intern - Undergraduates Only",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024",
             "Summer 2024"
@@ -48322,7 +48322,7 @@
         "company_name": "Dataiku",
         "id": "4f8565c0-a720-43dd-8450-46924b86800f",
         "title": "Software Engineer intern - Develop an AI chatbot to help Dataiku users",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -51471,7 +51471,7 @@
         "company_name": "GRAIL",
         "id": "2ee447d4-20bf-49ca-a630-a8615231107a",
         "title": "Factory and Automation Software Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -51968,7 +51968,7 @@
         "company_name": "NVIDIA",
         "id": "53ee434b-12c6-450f-beae-ef4f6c5bef7f",
         "title": "Cloud Infrastructure Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -53562,7 +53562,7 @@
         "company_name": "CACI",
         "id": "edd43fb2-5f40-4786-9499-a3ecbe9b86f5",
         "title": "Software Development Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -54466,7 +54466,7 @@
         "company_name": "Wise",
         "id": "579154d3-6854-4172-9988-03396692afb9",
         "title": "Data Science Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -60351,6 +60351,44 @@
             "Remote"
         ],
         "company_url": "https://simplify.jobs/c/Simplify",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Santander",
+        "id": "9541ef9e-4e34-4dac-8304-c891bd2dc379",
+        "title": "Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1708359834,
+        "date_posted": 1708359834,
+        "url": "https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Miami/Intern_Req1274915",
+        "locations": [
+            "Miami, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Santander",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Leidos",
+        "id": "3dcef027-1b84-4da8-a490-6e5bf8d999f0",
+        "title": "Data Science Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1708358816,
+        "date_posted": 1708358816,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Atlanta-GA/Data-Science-Intern_R-00129246",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
         "is_visible": true,
         "sponsorship": "Other"
     }
