@@ -867,7 +867,7 @@
         "company_name": "Fetch",
         "id": "43f05610-37a1-46e4-b221-df988084364e",
         "title": "iOS Apprenticeship - Mobile Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -45073,7 +45073,7 @@
         "company_name": "Leidos",
         "id": "74d4b7e6-3dc1-421f-b9ce-198b9fef740b",
         "title": "Threat Weapon System Modeling & Simulation Engineer/Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -60387,6 +60387,120 @@
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Atlanta-GA/Data-Science-Intern_R-00129246",
         "locations": [
             "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Dell Technologies",
+        "id": "01091dd9-6adc-414b-a016-9b428c1f7aba",
+        "title": "Intern Software Engineer - Platform Engineering-Secureworks - Remote US; Work From Home; OR Austin - TX",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1708388821,
+        "date_posted": 1708388821,
+        "url": "https://dell.wd1.myworkdayjobs.com/External/job/Remote---California-United-States-All-Other/Intern-Software-Engineer---Platform-Engineering--Secureworks----100--Remote-US--Work-From-Home--OR-Austin--TX-_R240045-1",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Dell-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Roku",
+        "id": "4f2f2428-34a1-4f90-b73d-f4fce653f172",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1708388452,
+        "date_posted": 1708388452,
+        "url": "https://www.weareroku.com/jobs/5724555?gh_jid=5724555",
+        "locations": [
+            "Manchester, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Roku",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Roku",
+        "id": "478bccb0-7330-4556-9b62-beac65f56b97",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1708388453,
+        "date_posted": 1708388453,
+        "url": "https://www.weareroku.com/jobs/5724550?gh_jid=5724550",
+        "locations": [
+            "Cambridge, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Roku",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Xylem",
+        "id": "f1fb91ee-13e3-4f9d-8480-2e0142f770b7",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1708387683,
+        "date_posted": 1708387683,
+        "url": "https://jobs.jobvite.com/xylem/job/oX8CrfwS?nl=1&nl=1&fr=false",
+        "locations": [
+            "Morrisville, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Xylem",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Leidos",
+        "id": "26fbb980-fd13-4ee0-8186-f547e3ec0f1a",
+        "title": "Software Developer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1708387653,
+        "date_posted": 1708387653,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Baltimore-MD/Software-Developer-Intern_R-00129355",
+        "locations": [
+            "Baltimore, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Leidos",
+        "id": "3de7d6f8-f523-433c-9d6a-ff8519e34930",
+        "title": "Software Testing Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1708387652,
+        "date_posted": 1708387652,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Baltimore-MD/Software-Testing-Intern_R-00129247",
+        "locations": [
+            "Baltimore, MD"
         ],
         "company_url": "https://simplify.jobs/c/Leidos",
         "is_visible": true,
