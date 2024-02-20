@@ -11904,7 +11904,7 @@
         "company_name": "Hudson River Trading",
         "id": "b7754fbe-26a3-4fdb-8d0b-d13426de7fc4",
         "title": "Software Engineering Internship - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -54077,7 +54077,7 @@
         "company_name": "Fullscript",
         "id": "357b225e-0185-4d15-a881-523f8812e1fd",
         "title": "Co-op/Intern Developer Experience Engineer role - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -58647,7 +58647,7 @@
         "company_name": "Fullscript",
         "id": "de7dd715-e218-4fd6-85bc-ffbe9a8a288c",
         "title": "Co-op/Intern Ruby Developer - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -59743,7 +59743,7 @@
         "company_name": "First American",
         "id": "3538cb09-69e3-43f3-bb05-203d8bf6c434",
         "title": "Data Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -59896,7 +59896,7 @@
         "company_name": "Qualitest",
         "id": "32e65303-f179-4dce-8bc9-73fc54d0c38e",
         "title": "Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -60265,7 +60265,7 @@
         "company_name": "Major League Baseball (MLB)",
         "id": "e7f615b7-d2fd-4d77-b964-172ea5b15861",
         "title": "API Backend Engineer \u2013 Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2024"
         ],
@@ -60522,6 +60522,102 @@
             "SF"
         ],
         "company_url": "https://simplify.jobs/c/Caldera",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Roku",
+        "id": "e9a4c863-16cf-4773-b888-cc63c9151e9e",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1708445957,
+        "date_posted": 1708445957,
+        "url": "https://www.weareroku.com/jobs/5724567?gh_jid=5724567",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Roku",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Roku",
+        "id": "d04fdd7b-7df1-4e0b-9fe0-6db763536033",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1708445955,
+        "date_posted": 1708445955,
+        "url": "https://www.weareroku.com/jobs/5724568?gh_jid=5724568",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Roku",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Elevance Health",
+        "id": "22d3639e-2688-4647-8f94-13744139e17b",
+        "title": "Provider Economics & Data Analytics Intern - Undergrad - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1708445911,
+        "date_posted": 1708445911,
+        "url": "https://elevancehealth.wd1.myworkdayjobs.com/en-US/ANT/job/IL-CHICAGO-233-S-WACKER-DR-STE-3700/Provider-Economics---Data-Analytics-Intern---Undergrad--Summer-2024_JR106888",
+        "locations": [
+            "Chicago, IL",
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/elevance-health",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "IPG DXTRA",
+        "id": "dd03e2f0-632e-4e66-882e-f777aa485246",
+        "title": "2024 Momentum Worldwide Analytics Internship",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1708445680,
+        "date_posted": 1708445680,
+        "url": "https://boards.greenhouse.io/dxacirca/jobs/7251477002",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/IPG-DXTRA",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Momentum Worldwide",
+        "id": "c014521d-37aa-4488-8b30-51b4a8cf781f",
+        "title": "2024 Momentum Worldwide Analytics Internship",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1708445174,
+        "date_posted": 1708445174,
+        "url": "https://www.momentumww.com/opportunities/?gh_jid=7251474002",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Momentum-Worldwide",
         "is_visible": true,
         "sponsorship": "Other"
     }
