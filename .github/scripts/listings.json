@@ -24902,7 +24902,7 @@
         "company_name": "Bridgewater Associates",
         "id": "328683e6-519f-4e0c-97c1-5237c57176cd",
         "title": "Investment Engineer Intern - Summer 2024",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -27671,7 +27671,7 @@
         "company_name": "Kepler Communications",
         "id": "885f601c-ee24-4bda-b176-d5ceda71f7fd",
         "title": "Embedded Software Engineer Intern - Winter 2024 - 4 - Months",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2024"
         ],
@@ -60322,7 +60322,7 @@
         "company_name": "SoFi",
         "id": "ccae08be-1051-4302-ae73-185bb322d992",
         "title": "Intern \u2013 Software Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024",
             "Fall 2024"
@@ -60503,6 +60503,25 @@
             "Baltimore, MD"
         ],
         "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Caldera",
+        "id": "f21a4379-7670-4d6c-bc57-6cb7cd471d28",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1708417037,
+        "date_posted": 1708417037,
+        "url": "https://jobs.ashbyhq.com/Caldera/55c83409-bde2-4edb-97c5-4b57a5a74ac6/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Caldera",
         "is_visible": true,
         "sponsorship": "Other"
     }
