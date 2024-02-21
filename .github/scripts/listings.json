@@ -9228,7 +9228,7 @@
         "company_name": "Salesforce",
         "id": "98a63973-af21-4f7b-90fe-ae2c523a35ee",
         "title": "Summer 2024 Intern - Data Science - Data & Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -18377,7 +18377,7 @@
         "company_name": "Schonfeld",
         "id": "5ec061f2-6fce-44b1-9bd1-c1ca14162f98",
         "title": "2024 Quantitative Researcher Summer Intern - NYC",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -53543,7 +53543,7 @@
         "company_name": "BambooHR",
         "id": "a28ad677-5cf3-4ee4-9610-0c4a20031e5d",
         "title": "Systems Administrator Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2024"
         ],
@@ -53657,7 +53657,7 @@
         "company_name": "Visa",
         "id": "57325186-8f42-4ce8-b24a-19d0f6a631e9",
         "title": "Software Engineer \u2013 Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -54252,7 +54252,7 @@
         "company_name": "Kinaxis",
         "id": "f02db2b3-08c8-4514-9cf2-8fff84f5936b",
         "title": "Co-Op/Intern Performance Test Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024"
         ],
@@ -54892,7 +54892,7 @@
         "company_name": "Beam Therapeutics",
         "id": "ff68632b-dc81-406f-9d81-7a9e32eeeee1",
         "title": "Hematology Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -57084,7 +57084,7 @@
         "company_name": "Evolve Technology",
         "id": "4397cea8-78a0-4c35-b22b-ac2b6b720e26",
         "title": "Computer Vision Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -58281,7 +58281,7 @@
         "company_name": "Western Digital",
         "id": "e0a9abe5-4cd8-4bdf-a613-dcb0aa14e46c",
         "title": "Intern \u2013 Firmware Verification Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -58471,7 +58471,7 @@
         "company_name": "Airbnb",
         "id": "00ab53f7-d09c-4c5b-aa86-4bd92d237cb0",
         "title": "Engineering Apprentice - Connect Program",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024",
             "Summer 2024",
@@ -59283,7 +59283,7 @@
         "company_name": "Legend Biotech",
         "id": "3e8366fc-755f-44df-9ab3-ac9f2fb3d218",
         "title": "Data Analytics/Business Intelligence Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -59800,7 +59800,7 @@
         "company_name": "Qualitest",
         "id": "071efdc3-11cd-4d4e-8c2c-2b5f36997326",
         "title": "AI & ML Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -60322,7 +60322,7 @@
         "company_name": "SoFi",
         "id": "ccae08be-1051-4302-ae73-185bb322d992",
         "title": "Intern \u2013 Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024",
             "Fall 2024"
@@ -60397,7 +60397,7 @@
         "company_name": "Dell Technologies",
         "id": "01091dd9-6adc-414b-a016-9b428c1f7aba",
         "title": "Intern Software Engineer - Platform Engineering-Secureworks - Remote US; Work From Home; OR Austin - TX",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -60454,7 +60454,7 @@
         "company_name": "Xylem",
         "id": "f1fb91ee-13e3-4f9d-8480-2e0142f770b7",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -60473,7 +60473,7 @@
         "company_name": "Leidos",
         "id": "26fbb980-fd13-4ee0-8186-f547e3ec0f1a",
         "title": "Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -60618,6 +60618,44 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/Momentum-Worldwide",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Snowflake",
+        "id": "e18f4ed6-6f20-483c-b854-ade0e50bb662",
+        "title": "Global Alliance Intern - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1708459957,
+        "date_posted": 1707207466,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=7049457002",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Snowflake",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Kodiak Robotics",
+        "id": "82f41fe0-bd6f-46fd-83d3-28706227ab46",
+        "title": "Summer 2024 Intern - Deep Learning for Computer Vision",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1708460264,
+        "date_posted": 1706602244,
+        "url": "https://jobs.lever.co/kodiak/964159a9-a2a5-4cb7-94af-86f19694dffc/apply",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Kodiak-Robotics",
         "is_visible": true,
         "sponsorship": "Other"
     }
