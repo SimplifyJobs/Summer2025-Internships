@@ -848,7 +848,7 @@
         "company_name": "Walmart",
         "id": "4b60067d-8dcd-4845-b123-3931e5882b6f",
         "title": "Software Engineer internship II",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -18301,7 +18301,7 @@
         "company_name": "CACI",
         "id": "6d29642f-e3ee-4265-88c1-749ca1796389",
         "title": "Software Engineering Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -25212,7 +25212,7 @@
         "company_name": "Rockwell Automation",
         "id": "a9008b5b-bccb-411e-bd34-2d9f3b8f4ea4",
         "title": "Co-Op \u2013 Embedded Software",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024",
             "Summer 2024",
@@ -43037,7 +43037,7 @@
         "company_name": "Leidos",
         "id": "9527419a-5ecb-4c74-8544-e1a97961dafc",
         "title": "Technical Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2023"
         ],
@@ -58452,7 +58452,7 @@
         "company_name": "NVIDIA",
         "id": "52f4799f-3cf3-4b82-a5f6-acb8b105f310",
         "title": "Performance Engineer Intern - Gaming - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -59148,7 +59148,7 @@
         "company_name": "Tarsus Pharamceuticals",
         "id": "589e7fcc-7853-434f-8b9b-abd4c7611b84",
         "title": "Intern \u2013 IT Operations",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -60149,7 +60149,7 @@
         "company_name": "Uniswap",
         "id": "dfce8df0-4570-4fea-a3fc-a64a589c2440",
         "title": "Security Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -60187,7 +60187,7 @@
         "company_name": "Alcon",
         "id": "46174fc1-218c-48d6-9878-4e8216e9aa7b",
         "title": "Summer 2024 \u2013 Information Technology Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -60454,7 +60454,7 @@
         "company_name": "Xylem",
         "id": "f1fb91ee-13e3-4f9d-8480-2e0142f770b7",
         "title": "Software Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -61042,6 +61042,44 @@
             "Edinburgh, UK"
         ],
         "company_url": "https://simplify.jobs/c/Addepar",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "ALTEN Technology",
+        "id": "a809e229-eac9-4f56-b23b-a56939402f28",
+        "title": "Software Engineering Internship",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1708532977,
+        "date_posted": 1708532977,
+        "url": "https://boards.greenhouse.io/altentechnologyusa/jobs/4197447007",
+        "locations": [
+            "Westminster, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/d433b95b-4665-4b08-828f-34c23f4331c3",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Two Six Technologies",
+        "id": "5edeb174-9bb6-444e-b41b-cc045491f1dc",
+        "title": "TSC Cyber & Data Science Summer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1708532975,
+        "date_posted": 1708532975,
+        "url": "https://boards.greenhouse.io/twosixtechnologies/jobs/5051221004",
+        "locations": [
+            "Arlington, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Two-Six-Technologies",
         "is_visible": true,
         "sponsorship": "Other"
     }
