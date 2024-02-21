@@ -11570,7 +11570,7 @@
         "company_name": "Salesforce",
         "id": "e1c3a74d-d804-44bc-8b7d-50fab2c941e0",
         "title": "Summer 2024 Intern - Software Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -24902,7 +24902,7 @@
         "company_name": "Bridgewater Associates",
         "id": "328683e6-519f-4e0c-97c1-5237c57176cd",
         "title": "Investment Engineer Intern - Summer 2024",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -61003,6 +61003,45 @@
             "Longmont, CO"
         ],
         "company_url": "https://simplify.jobs/c/Western-Digital",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Snowflake",
+        "id": "23ecd376-23a3-4f7a-8597-bf4a02573a5b",
+        "title": "Cloud Operations Engineer Intern-Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1708503470,
+        "date_posted": 1708503470,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=7252863002",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Snowflake",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Addepar",
+        "id": "bbac8202-2617-481b-99cd-fcb3674222c0",
+        "title": "Software Engineer Intern - IDX",
+        "active": true,
+        "terms": [
+            "Spring 2024",
+            "Summer 2024"
+        ],
+        "date_updated": 1708503199,
+        "date_posted": 1708503199,
+        "url": "https://boards.greenhouse.io/addepar1/jobs/7120763002",
+        "locations": [
+            "Edinburgh, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Addepar",
         "is_visible": true,
         "sponsorship": "Other"
     }
