@@ -4500,7 +4500,7 @@
         "company_name": "DRW",
         "id": "0294d8c6-65a2-4004-baab-4a879d9191a2",
         "title": "Quantitative Trading Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -11570,7 +11570,7 @@
         "company_name": "Salesforce",
         "id": "e1c3a74d-d804-44bc-8b7d-50fab2c941e0",
         "title": "Summer 2024 Intern - Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -37142,7 +37142,7 @@
         "company_name": "Electric Hydrogen",
         "id": "e407aefd-6a0a-45f0-9831-b45431a47b18",
         "title": "Research and Development-Data Analysis Co-Op-Summer-Dec 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -41411,7 +41411,7 @@
         "company_name": "Hewlett Packard (HP)",
         "id": "85c35e23-c2bc-450a-a304-334287160111",
         "title": "Applications Software Engineering Summer Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -52609,7 +52609,7 @@
         "company_name": "Critical Mass",
         "id": "ebf9d09e-aa54-458f-96b6-71bfbbdb046a",
         "title": "Marketing Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024",
             "Summer 2024"
@@ -61272,6 +61272,63 @@
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/Billtrust",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Capstone Investment Advisors",
+        "id": "4ab41d89-9533-4cfd-ab37-36359fb2d575",
+        "title": "2024 Summer Internship - Investment Research - London - England",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1708619324,
+        "date_posted": 1708619324,
+        "url": "https://boards.greenhouse.io/capstoneinvestmentadvisors/jobs/7101438002",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/CapstoneCo",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Bose",
+        "id": "240e5fda-321d-4c02-8c41-1217a243fccb",
+        "title": "Research Co-Op - Digital Signal Processing",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1708618445,
+        "date_posted": 1708618445,
+        "url": "https://boseallaboutme.wd1.myworkdayjobs.com/en-US/Bose_Careers/job/US-MA---Framingham/Research-Co-Op---Digital-Signal-Processing_R26420",
+        "locations": [
+            "Framingham, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/bose",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Deep Genomics",
+        "id": "8824d3e8-95f2-48e3-9d6d-63978c700f17",
+        "title": "Software Engineering Intern - May-Dec 2024",
+        "active": true,
+        "terms": [
+            "Spring 2024"
+        ],
+        "date_updated": 1708618276,
+        "date_posted": 1708618276,
+        "url": "https://jobs.lever.co/deepgenomics/2951ff92-bb3c-4772-ab55-f5e33d4f89b6/apply",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/DeepGenomics",
         "is_visible": true,
         "sponsorship": "Other"
     }
