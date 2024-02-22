@@ -24902,7 +24902,7 @@
         "company_name": "Bridgewater Associates",
         "id": "328683e6-519f-4e0c-97c1-5237c57176cd",
         "title": "Investment Engineer Intern - Summer 2024",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -27400,7 +27400,7 @@
         "company_name": "Second Order Effects",
         "id": "b9cb1bf6-42c5-4224-964b-13974e3bd474",
         "title": "Systems Integration/Test Engineering Intern - Summer 2024",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -61234,6 +61234,44 @@
             "Tampa, FL"
         ],
         "company_url": "https://simplify.jobs/c/Spot-Freight",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Billtrust",
+        "id": "ee831d83-1d77-4d00-887d-5f54de02d793",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1708589837,
+        "date_posted": 1708589837,
+        "url": "https://www.billtrust.com/careers/job-openings?gh_jid=5861252003",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Billtrust",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Billtrust",
+        "id": "662c7614-489b-4fb7-9bcb-271abd80c6f7",
+        "title": "QA Test Automation Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1708589839,
+        "date_posted": 1708589839,
+        "url": "https://www.billtrust.com/careers/job-openings?gh_jid=5861261003",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Billtrust",
         "is_visible": true,
         "sponsorship": "Other"
     }
