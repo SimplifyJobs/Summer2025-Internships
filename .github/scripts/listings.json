@@ -19497,7 +19497,7 @@
         "company_name": "Lucid Motors",
         "id": "11837785-cb80-4464-8bd7-5ea5d803e1ec",
         "title": "Intern \u2013 Cloud Engineer - Summer 2024",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -36125,7 +36125,7 @@
         "company_name": "Intradiem",
         "id": "dd25a35f-520a-4694-a7b7-6da3d546eed8",
         "title": "Summer 2024 Architecture Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -36965,7 +36965,7 @@
         "company_name": "CACI",
         "id": "a0c4c989-6b8a-4f7e-b3df-b4d5c6202cd1",
         "title": "Junior Software Developer Internship - Summer 2024",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -37438,7 +37438,7 @@
         "company_name": "Latitude AI",
         "id": "450e69d1-8d8c-4c07-9af2-393dd0da0766",
         "title": "2024 Summer Internship: Visualization Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -41390,7 +41390,7 @@
         "company_name": "Latitude AI",
         "id": "a3a355d9-230e-44d2-b53b-8ce79004b9b2",
         "title": "2024 Summer Internship: Software Engineer - Simulation",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -41676,7 +41676,7 @@
         "company_name": "Zoox",
         "id": "240f0e84-5a0f-44cb-a527-00f6db58716d",
         "title": "Firmware Tools \u2013 Software Engineering Internship/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -56019,7 +56019,7 @@
         "company_name": "Kinaxis",
         "id": "7926e7f0-b54d-4356-b0e7-af5b7bd62f24",
         "title": "Co-Op/Intern Test Developer - AI Integration",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024"
         ],
@@ -59049,7 +59049,7 @@
         "company_name": "CACI",
         "id": "e856622c-df23-43ad-afde-f4b6bd0da5e7",
         "title": "Web Application Development Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -59302,7 +59302,7 @@
         "company_name": "Leidos",
         "id": "e7f51006-3f37-4eb3-ba2d-7a9c28912fbf",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -60378,7 +60378,7 @@
         "company_name": "Leidos",
         "id": "3dcef027-1b84-4da8-a490-6e5bf8d999f0",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -60702,7 +60702,7 @@
         "company_name": "LeanTaaS",
         "id": "086cccb5-2521-49d0-934b-0038b3ce261a",
         "title": "Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -60838,7 +60838,7 @@
         "company_name": "Smartsheet",
         "id": "f94c478e-1e56-467f-b68c-fbdb83676eef",
         "title": "Data Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -61080,6 +61080,160 @@
             "Arlington, VA"
         ],
         "company_url": "https://simplify.jobs/c/Two-Six-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "First American",
+        "id": "f23f0466-8b0d-42cd-9f48-4c9e2dcc0110",
+        "title": "Software Engineer Internship - Remote Opportunity",
+        "active": true,
+        "terms": [
+            "Spring 2024",
+            "Summer 2024"
+        ],
+        "date_updated": 1708561810,
+        "date_posted": 1708561810,
+        "url": "https://firstam.wd1.myworkdayjobs.com/firstamericancareers/job/USA-California-Santa-Ana/Software-Engineer-Internship---Remote-Opportunity_R043267",
+        "locations": [
+            "Orange, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/First-American",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Intel",
+        "id": "f4db3915-fb7a-4dd4-844e-5849242f7e04",
+        "title": "GPU Validation Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1708561775,
+        "date_posted": 1708561775,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-California-Folsom/GPU-Validation-Intern_JR0257254",
+        "locations": [
+            "Folsom, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Bank of Montreal (BMO)",
+        "id": "11463442-989c-44cc-b943-960fd395763e",
+        "title": "Data Analyst \u2013 Co-op/Internship - Wealth Campaign Analytics - Summer 2024 - 4 Months",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1708561217,
+        "date_posted": 1708561217,
+        "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Data-Analyst--Wealth-Campaign-Analytics--Summer-2024--Co-op-Internship----4-Months_R240005152",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/BMO",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Acumen LLC",
+        "id": "a420db94-003a-4b84-89a6-ac252136ed25",
+        "title": "Data Processing Programmer Intern - Summer Session",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1708561041,
+        "date_posted": 1708561041,
+        "url": "https://jobs.lever.co/acumenllc/e4e5fe92-848d-43b3-b6e8-c07c2a35fe61/apply",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/Acumen",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Activision-Blizzard",
+        "id": "eff76a8b-ece7-44bd-96bc-7603ec15961e",
+        "title": "Programming Intern",
+        "active": true,
+        "terms": [
+            "Spring 2024",
+            "Summer 2024"
+        ],
+        "date_updated": 1708561000,
+        "date_posted": 1708561000,
+        "url": "https://activision.wd1.myworkdayjobs.com/External/job/Playa-Vista/Programming-Intern_R022312",
+        "locations": [
+            "Culver City, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Activision-Blizzard",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Mobilityware",
+        "id": "3d77cf85-6e38-4c67-b8b7-67f3ce915c7f",
+        "title": "Data Analyst Internship",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1708560650,
+        "date_posted": 1708560650,
+        "url": "http://boards.greenhouse.io/mobilityware/jobs/5645575",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/df72d273-6345-4a96-ae58-6b11e76ec398",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Stoke Space",
+        "id": "5a8127b4-433c-4b44-8061-47cee8495899",
+        "title": "Summer Software Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1708560519,
+        "date_posted": 1708560519,
+        "url": "https://stokespace.com/careers/current-openings?gh_jid=5089108004",
+        "locations": [
+            "Kent, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Stoke-Space",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Spot Freight",
+        "id": "0ee6990f-ad85-473a-976a-9aeffc0413bb",
+        "title": "Software Developer Internship - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1708560476,
+        "date_posted": 1708560476,
+        "url": "https://spotinc.com/careers/applynow/?gh_jid=4338281006",
+        "locations": [
+            "Tampa, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Spot-Freight",
         "is_visible": true,
         "sponsorship": "Other"
     }
