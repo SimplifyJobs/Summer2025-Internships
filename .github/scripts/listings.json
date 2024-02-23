@@ -31800,7 +31800,7 @@
         "company_name": "Sigma Computing",
         "id": "3588abba-92d6-4d14-8560-f7e40c06bb3f",
         "title": "Software Engineering Intern - Summer 2024",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -35169,7 +35169,7 @@
         "company_name": "Rockwell Automation",
         "id": "819a984b-553a-46c2-94a7-f898351ee360",
         "title": "Intern \u2013 Firmware Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -44592,7 +44592,7 @@
         "company_name": "Cadence Design Systems",
         "id": "4fe79316-45b0-47c2-bfe3-d5d8d5531943",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -45614,7 +45614,7 @@
         "company_name": "Anduril",
         "id": "602d62cd-1b5a-4477-8c94-c081a70c75ba",
         "title": "Quality Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -46130,7 +46130,7 @@
         "company_name": "Watershed",
         "id": "fd1e2da3-d3e1-4d0c-8943-9733852ab923",
         "title": "Software engineer \u2013 Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -47304,7 +47304,7 @@
         "company_name": "Keywords Studios",
         "id": "7501cba0-ee51-419d-87b6-28a658d7a703",
         "title": "Research Intern - AI Start-up",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2024"
         ],
@@ -49066,7 +49066,7 @@
         "company_name": "Rockwell Automation",
         "id": "a39af650-60ba-4b1c-ba1a-454829b0644c",
         "title": "Intern \u2013 Cyber Security",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -59207,7 +59207,7 @@
         "company_name": "Activision-Blizzard",
         "id": "7f0c4fe5-09ab-4c7c-97bb-382980bb4e2d",
         "title": "2024 US Summer Internship - Tech Lighting",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -61165,7 +61165,7 @@
         "company_name": "Activision-Blizzard",
         "id": "eff76a8b-ece7-44bd-96bc-7603ec15961e",
         "title": "Programming Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024",
             "Summer 2024"
@@ -61329,6 +61329,120 @@
             "Toronto, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/DeepGenomics",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Lucid Motors",
+        "id": "84337b2c-d1ae-40f4-b5a0-8f9395874cc0",
+        "title": "Intern \u2013 Purchasing Indirect - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1708648233,
+        "date_posted": 1708648233,
+        "url": "https://jobs.lever.co/lucidmotors/fbb4dd0e-4511-4c55-ba80-5a53c33910aa/apply",
+        "locations": [
+            "Casa Grande, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Lucid-Motors",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Lacework",
+        "id": "d8d10607-246f-4188-b836-2e619adde0f5",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1708647785,
+        "date_posted": 1708647785,
+        "url": "https://www.lacework.com/job-openings?gh_jid=4723491004",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Lacework",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Snowflake",
+        "id": "5eeecfe7-c947-4ed8-a408-41027de167a6",
+        "title": "Data Science Intern - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1708647755,
+        "date_posted": 1708647755,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=7256332002",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Snowflake",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Aurora Innovation",
+        "id": "9afe9de1-a774-4bbd-b642-6d9952fafedb",
+        "title": "Embedded Software Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1708647443,
+        "date_posted": 1708647443,
+        "url": "https://boards.greenhouse.io/aurorainnovation/jobs/7240893002",
+        "locations": [
+            "Bozeman, MT"
+        ],
+        "company_url": "https://simplify.jobs/c/Aurora-Innovation",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Airbnb",
+        "id": "8209e48f-1e8c-4dbb-8f2d-905d137fd155",
+        "title": "Strategic Finance & Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1708647403,
+        "date_posted": 1708647403,
+        "url": "https://careers.airbnb.com/positions/?gh_jid=5737870",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Airbnb",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Vail Systems",
+        "id": "3e944872-63dc-414f-ae6f-31bcbbfa50d5",
+        "title": "C++ Software Engineer Intern - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1708647388,
+        "date_posted": 1708647388,
+        "url": "https://jobs.lever.co/vailsys/6a53b1ad-5b24-4a4f-822b-ff193a425fd5/apply",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Vail-Systems",
         "is_visible": true,
         "sponsorship": "Other"
     }
