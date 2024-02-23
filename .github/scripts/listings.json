@@ -18840,7 +18840,7 @@
         "company_name": "MarketAxess",
         "id": "8ea9668d-f05d-47f7-9d68-c6de832099c3",
         "title": "Research Intern 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -31439,7 +31439,7 @@
         "company_name": "Two Six Technologies",
         "id": "25ec788d-08ca-46cd-9554-7b4f828267d6",
         "title": "Deployed Systems Summer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2023"
         ],
@@ -61443,6 +61443,293 @@
             "Chicago, IL"
         ],
         "company_url": "https://simplify.jobs/c/Vail-Systems",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Roku",
+        "id": "0cc1c34a-26a8-4bda-95fc-50015857cba5",
+        "title": "Core Analytics Intern - Ads",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1708705367,
+        "date_posted": 1708705367,
+        "url": "https://www.weareroku.com/jobs/5742145?gh_jid=5742145",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Roku",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Circle",
+        "id": "fd5aa37a-aa0d-43cb-bdbb-2331f136183a",
+        "title": "Security Engineer \u2013 Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1708705303,
+        "date_posted": 1708705303,
+        "url": "https://boards.greenhouse.io/circle/jobs/7221348002",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Circle",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Circle",
+        "id": "fb5fc723-0968-4464-a80d-11e8f080b353",
+        "title": "Security Engineer \u2013 Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1708705305,
+        "date_posted": 1708705305,
+        "url": "https://boards.greenhouse.io/circle/jobs/7221352002",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Circle",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Circle",
+        "id": "e07858d3-a845-4c51-bc46-7a514026b181",
+        "title": "Security Engineer \u2013 Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1708705305,
+        "date_posted": 1708705305,
+        "url": "https://boards.greenhouse.io/circle/jobs/7221372002",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Circle",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Circle",
+        "id": "9ae17d70-a545-47ef-bbbe-168922ceca19",
+        "title": "Security Engineer \u2013 Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1708705305,
+        "date_posted": 1708705305,
+        "url": "https://boards.greenhouse.io/circle/jobs/7221354002",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Circle",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Circle",
+        "id": "934705f8-f4dd-4a85-b9a6-35dd47fbe538",
+        "title": "Security Engineer \u2013 Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1708705305,
+        "date_posted": 1708705305,
+        "url": "https://boards.greenhouse.io/circle/jobs/7221345002",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Circle",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Circle",
+        "id": "92af1740-8a0f-4c13-9b1e-9459c1594c72",
+        "title": "Security Engineer \u2013 Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1708705305,
+        "date_posted": 1708705305,
+        "url": "https://boards.greenhouse.io/circle/jobs/7221340002",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Circle",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Circle",
+        "id": "8f6f0e62-f778-4310-8255-844f0820a70c",
+        "title": "Security Engineer \u2013 Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1708705304,
+        "date_posted": 1708705304,
+        "url": "https://boards.greenhouse.io/circle/jobs/7221377002",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Circle",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Circle",
+        "id": "76306126-fc01-42c6-a003-806e4fd882bb",
+        "title": "Security Engineer \u2013 Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1708705306,
+        "date_posted": 1708705306,
+        "url": "https://boards.greenhouse.io/circle/jobs/7221341002",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Circle",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Circle",
+        "id": "70aac494-bb2d-4ece-bbae-16b42c445a4c",
+        "title": "Security Engineer \u2013 Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1708705305,
+        "date_posted": 1708705305,
+        "url": "https://boards.greenhouse.io/circle/jobs/7120603002",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Circle",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Circle",
+        "id": "69e0331f-f0bc-4853-9e7c-c73437f1a462",
+        "title": "Security Engineer \u2013 Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1708705305,
+        "date_posted": 1708705305,
+        "url": "https://boards.greenhouse.io/circle/jobs/7221365002",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Circle",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Circle",
+        "id": "4de18e40-d576-4aae-beea-087be4be6213",
+        "title": "Security Engineer \u2013 Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1708705304,
+        "date_posted": 1708705304,
+        "url": "https://boards.greenhouse.io/circle/jobs/7221360002",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Circle",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Circle",
+        "id": "0063758b-f835-4172-9b4f-623fb9de65f7",
+        "title": "Security Engineer \u2013 Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1708705305,
+        "date_posted": 1708705305,
+        "url": "https://boards.greenhouse.io/circle/jobs/7221357002",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Circle",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Rivian",
+        "id": "9e1114a3-ac8b-424a-8fef-57ce176b2995",
+        "title": "Engineering Intern - Industrial Engineering",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1708705133,
+        "date_posted": 1708705133,
+        "url": "https://careers.rivian.com/jobs/16704?lang=en-us&icims=1",
+        "locations": [
+            "Normal, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Rivian",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Rivian",
+        "id": "707e7608-fdb1-4a20-a1b9-fc69c8c7cb9d",
+        "title": "UIUC Research Park Intern - Embedded Systems Software Engineer",
+        "active": true,
+        "terms": [
+            "Summer 2024",
+            "Fall 2024",
+            "Spring 2025"
+        ],
+        "date_updated": 1708705132,
+        "date_posted": 1708705132,
+        "url": "https://careers.rivian.com/jobs/16695?lang=en-us&icims=1",
+        "locations": [
+            "Urbana, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Rivian",
         "is_visible": true,
         "sponsorship": "Other"
     }
