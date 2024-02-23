@@ -6311,7 +6311,7 @@
         "company_name": "Intel",
         "id": "9c78c620-0af8-420e-91f0-95d114d608fb",
         "title": "Undergrad Technical Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -24902,7 +24902,7 @@
         "company_name": "Bridgewater Associates",
         "id": "328683e6-519f-4e0c-97c1-5237c57176cd",
         "title": "Investment Engineer Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -36772,7 +36772,7 @@
         "company_name": "Astranis",
         "id": "a4d46041-dd86-4679-ae0e-46dc85ee4eea",
         "title": "Software Systems Hardware Integration Engineer \u2013 Intern - Spring 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024"
         ],
@@ -40925,7 +40925,7 @@
         "company_name": "Applied Materials",
         "id": "aa277ed4-657c-401c-8c5d-95b4f49d2c62",
         "title": "Summer 2024 Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -43037,7 +43037,7 @@
         "company_name": "Leidos",
         "id": "9527419a-5ecb-4c74-8544-e1a97961dafc",
         "title": "Technical Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -45130,7 +45130,7 @@
         "company_name": "Anduril",
         "id": "5299320b-85ae-4cce-b2c1-84539295a5a1",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -48127,7 +48127,7 @@
         "company_name": "Matroid",
         "id": "5487aba8-cea7-4bff-b9c7-99b90501a85a",
         "title": "Software Engineer Intern - Infrastructure - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -54525,7 +54525,7 @@
         "company_name": "Tempus",
         "id": "bfa48f82-4e53-4a2e-9a6a-d42e25d78550",
         "title": "Software Engineering Summer Analyst - Laboratory Systems",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -60284,7 +60284,7 @@
         "company_name": "Electric Hydrogen",
         "id": "5523f4da-5796-4740-b2b6-005e0a59fd03",
         "title": "Systems Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -61069,7 +61069,7 @@
         "company_name": "Two Six Technologies",
         "id": "5edeb174-9bb6-444e-b41b-cc045491f1dc",
         "title": "TSC Cyber & Data Science Summer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -61185,7 +61185,7 @@
         "company_name": "Mobilityware",
         "id": "3d77cf85-6e38-4c67-b8b7-67f3ce915c7f",
         "title": "Data Analyst Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -61242,7 +61242,7 @@
         "company_name": "Billtrust",
         "id": "ee831d83-1d77-4d00-887d-5f54de02d793",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -61261,7 +61261,7 @@
         "company_name": "Billtrust",
         "id": "662c7614-489b-4fb7-9bcb-271abd80c6f7",
         "title": "QA Test Automation Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
