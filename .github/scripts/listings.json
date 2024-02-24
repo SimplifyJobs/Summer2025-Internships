@@ -61924,5 +61924,24 @@
         "company_url": "https://simplify.jobs/c/Ample",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Cadence Design Systems",
+        "id": "2f3b5e92-278f-41cc-b00f-1a0e7d53580e",
+        "title": "Software Engineering Intern - LLM Tensilica Customer Support - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1708791284,
+        "date_posted": 1708791284,
+        "url": "https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/SAN-JOSE/Software-Engineering-Intern--LLM-Tensilica-Customer-Support---Summer-2024-_R45757-1",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
