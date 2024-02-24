@@ -24902,7 +24902,7 @@
         "company_name": "Bridgewater Associates",
         "id": "328683e6-519f-4e0c-97c1-5237c57176cd",
         "title": "Investment Engineer Intern - Summer 2024",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -57198,7 +57198,7 @@
         "company_name": "Capella Space",
         "id": "1b247642-016e-4d5d-a9e2-24c9a8cdb7cc",
         "title": "Intern \u2013 Tasking & Scheduling Software Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -57619,7 +57619,7 @@
         "company_name": "OwnBackup",
         "id": "2de4be8f-184a-422b-9b26-c907034b42f4",
         "title": "Software Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -57638,7 +57638,7 @@
         "company_name": "OwnBackup",
         "id": "ed879b9d-3477-4e48-974b-a25ab7a7ef89",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -57657,7 +57657,7 @@
         "company_name": "OwnBackup",
         "id": "9d4d8318-a0fa-4960-829a-f88d328b706e",
         "title": "Data Science & Machine Learning Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -57676,7 +57676,7 @@
         "company_name": "OwnBackup",
         "id": "27fe3f72-c609-4f56-a9ce-cc933706f275",
         "title": "Data Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -57695,7 +57695,7 @@
         "company_name": "OwnBackup",
         "id": "2ae0bd07-5d41-4181-9cfe-822288caf947",
         "title": "Business Intelligence Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -61242,7 +61242,7 @@
         "company_name": "Billtrust",
         "id": "ee831d83-1d77-4d00-887d-5f54de02d793",
         "title": "Software Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -61261,7 +61261,7 @@
         "company_name": "Billtrust",
         "id": "662c7614-489b-4fb7-9bcb-271abd80c6f7",
         "title": "QA Test Automation Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -61903,6 +61903,25 @@
             "Santa Clara, CA"
         ],
         "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Ample",
+        "id": "a14c5352-a5da-4b5b-9a4f-93e8c1d3858c",
+        "title": "Full Stack Software Engineer INTERN - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1708762797,
+        "date_posted": 1708762797,
+        "url": "https://ample.com/jobs?gh_jid=4328581005",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Ample",
         "is_visible": true,
         "sponsorship": "Other"
     }
