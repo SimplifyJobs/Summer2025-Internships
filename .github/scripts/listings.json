@@ -24902,7 +24902,7 @@
         "company_name": "Bridgewater Associates",
         "id": "328683e6-519f-4e0c-97c1-5237c57176cd",
         "title": "Investment Engineer Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -32058,7 +32058,7 @@
         "company_name": "Autodesk",
         "id": "6d45ab4b-52be-43e1-9862-99d4cc0262bd",
         "title": "Intern \u2013 Machine Learning Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024",
             "Summer 2024",
@@ -38391,7 +38391,7 @@
         "company_name": "Mark43",
         "id": "df82dbfe-c30c-49b6-a248-576db2a1bd06",
         "title": "Frontend Engineering Intern-Summer 2024 - New York",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -41696,7 +41696,7 @@
         "company_name": "Zoox",
         "id": "a33d6f30-df16-49ea-b200-370bc2831f75",
         "title": "Core Firmware System Services Internship/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -44765,7 +44765,7 @@
         "company_name": "Ripple",
         "id": "ccf71d3a-84ba-418e-8f7c-f5569afc8fad",
         "title": "Software Engineer Intern - Crypto Compliance & Finance - Summer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -48264,7 +48264,7 @@
         "company_name": "Global Atlantic Financial Group",
         "id": "5e6146fa-4f30-490c-b7ca-f4db67803137",
         "title": "2025 Quantitative Investments Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -54039,7 +54039,7 @@
         "company_name": "Leidos",
         "id": "aca68415-e34d-40c6-a3d2-3b50971b4ba5",
         "title": "Robotics Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -56579,7 +56579,7 @@
         "company_name": "Red Door Interactive ",
         "id": "f034f71a-8301-4826-9667-48a4e66a4a20",
         "title": "Digital Analytics Intern - Summer 2024",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -56854,7 +56854,7 @@
         "company_name": "Dow Jones",
         "id": "9d6582fe-5518-4cd5-a90f-a2eba934b9ef",
         "title": "Summer 2024 Internship - Financial Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -58300,7 +58300,7 @@
         "company_name": "Western Digital",
         "id": "781a8766-ef00-45d4-b924-13e8a07c9680",
         "title": "Intern \u2013 Software Engineering - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -58934,7 +58934,7 @@
         "company_name": "Intel",
         "id": "8da8a2fd-31d7-4e69-83a2-eb5ac174319b",
         "title": "Design Technology Tool Enablement Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -61242,7 +61242,7 @@
         "company_name": "Billtrust",
         "id": "ee831d83-1d77-4d00-887d-5f54de02d793",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -61261,7 +61261,7 @@
         "company_name": "Billtrust",
         "id": "662c7614-489b-4fb7-9bcb-271abd80c6f7",
         "title": "QA Test Automation Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -61730,6 +61730,179 @@
             "Urbana, IL"
         ],
         "company_url": "https://simplify.jobs/c/Rivian",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Intel",
+        "id": "6f97b6c8-f654-49d2-9513-be06dc7a4316",
+        "title": "Firmware Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1708734465,
+        "date_posted": 1708734465,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-California-Folsom/Firmware-Engineering-Intern_JR0258899",
+        "locations": [
+            "Folsom, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Santander",
+        "id": "c8b3abe1-fa65-44d5-8dd2-6efa0f851057",
+        "title": "Intern \u2013 Summer",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1708734192,
+        "date_posted": 1708734192,
+        "url": "https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Miami/Intern---Summer_Req1276476",
+        "locations": [
+            "Miami, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Santander",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Databricks",
+        "id": "eb401165-358b-48ad-ab3b-001508f57677",
+        "title": "IT Software Engineering Intern - 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1708734200,
+        "date_posted": 1708734200,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=6955458002",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Databricks",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Udemy",
+        "id": "37c0c0b5-7ea5-4cdc-89cd-5fe0bfd598cf",
+        "title": "Data Science \u2013 Deep Learning Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1708734141,
+        "date_posted": 1708734141,
+        "url": "https://app.careerpuck.com/job-board/udemy/job/5088059004?gh_jid=5088059004",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Udemy",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Udemy",
+        "id": "c44b3f8a-dd1c-4558-b21b-b67f701781d8",
+        "title": "Data Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1708734142,
+        "date_posted": 1708734142,
+        "url": "https://app.careerpuck.com/job-board/udemy/job/5088055004?gh_jid=5088055004",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Udemy",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Gametime",
+        "id": "7c45ec85-8f97-4116-9cc8-10e16567c87b",
+        "title": "Data Engineering Summer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1708733821,
+        "date_posted": 1708733821,
+        "url": "https://jobs.lever.co/gametime/00b5e4ef-3bd0-4594-91b8-25d7f8696f25/apply",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Gametime",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Autodesk",
+        "id": "43149fad-76f0-4a26-8089-b32dfee42e99",
+        "title": "Intern \u2013 Data Engineer",
+        "active": true,
+        "terms": [
+            "Spring 2024",
+            "Summer 2024",
+            "Fall 2024"
+        ],
+        "date_updated": 1708733524,
+        "date_posted": 1708733524,
+        "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/California-USA---Remote/Intern--Software-Engineer_24WD74695-1",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Autodesk",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Leidos",
+        "id": "cfd8a1bc-f75c-4c7a-b73c-a17828f97123",
+        "title": "Scientific Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1708733218,
+        "date_posted": 1708733218,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Vista-CA/Scientific-Intern_R-00128808",
+        "locations": [
+            "Oceanside, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "NVIDIA",
+        "id": "43a6d455-83cd-4d14-9797-4b03a6394d7a",
+        "title": "GPU Architect Intern - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1708733185,
+        "date_posted": 1708733185,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/GPU-Architect-Intern---Summer-2024_JR1979370",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
         "is_visible": true,
         "sponsorship": "Other"
     }
