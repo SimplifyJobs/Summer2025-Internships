@@ -24902,7 +24902,7 @@
         "company_name": "Bridgewater Associates",
         "id": "328683e6-519f-4e0c-97c1-5237c57176cd",
         "title": "Investment Engineer Intern - Summer 2024",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -58319,7 +58319,7 @@
         "company_name": "Western Digital",
         "id": "b3b1e846-3481-498b-beab-97a5477cc42d",
         "title": "Intern \u2013 Software Engineering - Summer 2024 - Fw-Rss",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -58533,7 +58533,7 @@
         "company_name": "Western Digital",
         "id": "4b68d6ed-4e1f-43cf-8760-4aaa5f58126e",
         "title": "Summer 2024 \u2013 Software Engineering Intern - Firmware-RSS",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -61242,7 +61242,7 @@
         "company_name": "Billtrust",
         "id": "ee831d83-1d77-4d00-887d-5f54de02d793",
         "title": "Software Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -61261,7 +61261,7 @@
         "company_name": "Billtrust",
         "id": "662c7614-489b-4fb7-9bcb-271abd80c6f7",
         "title": "QA Test Automation Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -61941,6 +61941,25 @@
             "San Jose, CA"
         ],
         "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Formlabs",
+        "id": "b4ce0a06-0ebc-4124-a69f-1c8a731b6a76",
+        "title": "Manufacturing Engineering Intern - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1708849530,
+        "date_posted": 1708849530,
+        "url": "https://careers.formlabs.com/job/5748701/apply/?gh_jid=5748701",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Formlabs",
         "is_visible": true,
         "sponsorship": "Other"
     }
