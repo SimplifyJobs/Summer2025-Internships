@@ -51968,7 +51968,7 @@
         "company_name": "NVIDIA",
         "id": "53ee434b-12c6-450f-beae-ef4f6c5bef7f",
         "title": "Cloud Infrastructure Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -52317,7 +52317,7 @@
         "company_name": "iCapital Network",
         "id": "290845db-e67b-496a-aaf5-1b8e9abd3541",
         "title": "Data Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2024",
             "Winter 2025"
@@ -58533,7 +58533,7 @@
         "company_name": "Western Digital",
         "id": "4b68d6ed-4e1f-43cf-8760-4aaa5f58126e",
         "title": "Summer 2024 \u2013 Software Engineering Intern - Firmware-RSS",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -61470,7 +61470,7 @@
         "company_name": "Circle",
         "id": "fd5aa37a-aa0d-43cb-bdbb-2331f136183a",
         "title": "Security Engineer \u2013 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -61489,7 +61489,7 @@
         "company_name": "Circle",
         "id": "fb5fc723-0968-4464-a80d-11e8f080b353",
         "title": "Security Engineer \u2013 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -61508,7 +61508,7 @@
         "company_name": "Circle",
         "id": "e07858d3-a845-4c51-bc46-7a514026b181",
         "title": "Security Engineer \u2013 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -61527,7 +61527,7 @@
         "company_name": "Circle",
         "id": "9ae17d70-a545-47ef-bbbe-168922ceca19",
         "title": "Security Engineer \u2013 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -61546,7 +61546,7 @@
         "company_name": "Circle",
         "id": "934705f8-f4dd-4a85-b9a6-35dd47fbe538",
         "title": "Security Engineer \u2013 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -61565,7 +61565,7 @@
         "company_name": "Circle",
         "id": "92af1740-8a0f-4c13-9b1e-9459c1594c72",
         "title": "Security Engineer \u2013 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -61584,7 +61584,7 @@
         "company_name": "Circle",
         "id": "8f6f0e62-f778-4310-8255-844f0820a70c",
         "title": "Security Engineer \u2013 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -61603,7 +61603,7 @@
         "company_name": "Circle",
         "id": "76306126-fc01-42c6-a003-806e4fd882bb",
         "title": "Security Engineer \u2013 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -61622,7 +61622,7 @@
         "company_name": "Circle",
         "id": "70aac494-bb2d-4ece-bbae-16b42c445a4c",
         "title": "Security Engineer \u2013 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -61641,7 +61641,7 @@
         "company_name": "Circle",
         "id": "69e0331f-f0bc-4853-9e7c-c73437f1a462",
         "title": "Security Engineer \u2013 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -61660,7 +61660,7 @@
         "company_name": "Circle",
         "id": "4de18e40-d576-4aae-beea-087be4be6213",
         "title": "Security Engineer \u2013 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -61679,7 +61679,7 @@
         "company_name": "Circle",
         "id": "0063758b-f835-4172-9b4f-623fb9de65f7",
         "title": "Security Engineer \u2013 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -61979,6 +61979,44 @@
             "Fremont, CA"
         ],
         "company_url": "https://simplify.jobs/c/Plus",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Precisely",
+        "id": "c5773399-d27f-4db5-90c9-8d4f4023ef22",
+        "title": "Web Marketing Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1708964495,
+        "date_posted": 1708964495,
+        "url": "https://www.precisely.com/careers-and-culture/us-jobs/job/4372996005?gh_jid=4372996005",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Precisely",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Spry Methods",
+        "id": "bb206cfe-0d95-407b-bcbe-c9ea738980c6",
+        "title": "Tech Summer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1708964504,
+        "date_posted": 1708964504,
+        "url": "https://jobs.lever.co/sprymethods/963046d8-2554-44a6-b4bd-7d9c0eb6c274/apply",
+        "locations": [
+            "McLean, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Spry-Methods",
         "is_visible": true,
         "sponsorship": "Other"
     }
