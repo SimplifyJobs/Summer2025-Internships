@@ -62019,5 +62019,24 @@
         "company_url": "https://simplify.jobs/c/Spry-Methods",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1708973714,
+        "url": "https://tencent.wd1.myworkdayjobs.com/en-US/Tencent_Careers/job/US-Palo-Alto/Data-Scientist-Intern_R102272?locations=b32f1ee18078012f1fd236f105740000",
+        "company_name": "Tencent",
+        "title": "Data Scientist Intern",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "chenyuan99",
+        "id": "b3451f2d-5319-4072-9e04-f73e77fb5b67",
+        "date_posted": 1708973714,
+        "company_url": "",
+        "is_visible": true
     }
 ]
