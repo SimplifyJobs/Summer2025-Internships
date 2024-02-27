@@ -37834,7 +37834,7 @@
         "company_name": "Pathward",
         "id": "dbb4cfd2-b593-47c6-821d-026b4653897e",
         "title": "Data Scientist Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -50579,7 +50579,7 @@
         "company_name": "Chamberlain Group",
         "id": "6afc0d0f-d935-4705-b93b-dcdb2ee77a09",
         "title": "Intern \u2013 BI Developer for Myq Devops - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -52317,7 +52317,7 @@
         "company_name": "iCapital Network",
         "id": "290845db-e67b-496a-aaf5-1b8e9abd3541",
         "title": "Data Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2024",
             "Winter 2025"
@@ -55504,7 +55504,7 @@
         "company_name": "Advisor360\u00b0",
         "id": "e49fc18a-b3a8-419f-b41c-1984d5501f59",
         "title": "AI Data \u2013 Summer Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -56970,7 +56970,7 @@
         "company_name": "Virtru",
         "id": "cce7150b-9f46-4912-a0e8-be4e106e7f8d",
         "title": "Security Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -56989,7 +56989,7 @@
         "company_name": "Virtru",
         "id": "f91fe694-f057-4160-89b5-a4b643e47f27",
         "title": "Software Developer in Test \u2013 Intern - Sdet",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -57008,7 +57008,7 @@
         "company_name": "Virtru",
         "id": "de46deb1-859f-4ee8-bb84-53b410626c9d",
         "title": "Federal Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -57027,7 +57027,7 @@
         "company_name": "Virtru",
         "id": "303a000a-4e62-4c30-8579-7793c64e3183",
         "title": "SRE Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -58991,7 +58991,7 @@
         "company_name": "Bose",
         "id": "054543aa-b7c4-4234-92a0-404307d5b467",
         "title": "DSP/ML Research Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -59030,7 +59030,7 @@
         "company_name": "Intel",
         "id": "98caf19b-440e-4da4-875d-ce514599d0fb",
         "title": "AI Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -62398,6 +62398,102 @@
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/Crowdstrike",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Epic Games",
+        "id": "3b0f07a8-4fbd-40ab-88ea-40810b1abb29",
+        "title": "Software Engineer Intern - Fn",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1709050728,
+        "date_posted": 1709050728,
+        "url": "https://boards.greenhouse.io/epicgames/jobs/5022385004",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Epic-Games",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Epic Games",
+        "id": "6b2e1335-d73d-4429-a68c-99c82505cb34",
+        "title": "Software Engineer Intern - Fn",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1709050728,
+        "date_posted": 1709050728,
+        "url": "https://boards.greenhouse.io/epicgames/jobs/5022383004",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Epic-Games",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Roku",
+        "id": "1af4ae45-0b62-4dd3-b63d-daea4ae14306",
+        "title": "Machine Learning Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1709050543,
+        "date_posted": 1709050543,
+        "url": "https://www.weareroku.com/jobs/5758000?gh_jid=5758000",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Roku",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Veracode",
+        "id": "c1c9ab27-2fa1-4caa-b876-3a1ea2d68f70",
+        "title": "Solutions Architecture and Security Consulting Intern",
+        "active": true,
+        "terms": [
+            "Spring 2024",
+            "Summer 2024"
+        ],
+        "date_updated": 1709050482,
+        "date_posted": 1709050482,
+        "url": "https://www.veracode.com/career/job?gh_jid=7231767002",
+        "locations": [
+            "Burlington, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Veracode",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Uber",
+        "id": "c1cb461c-82e8-4d60-8a9f-db4e583fef75",
+        "title": "2024 Software Engineering Internship - US",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1709050440,
+        "date_posted": 1709050440,
+        "url": "https://university-uber.icims.com/jobs/125911/job",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Uber",
         "is_visible": true,
         "sponsorship": "Other"
     }
