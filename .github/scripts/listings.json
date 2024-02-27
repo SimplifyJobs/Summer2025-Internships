@@ -15035,7 +15035,7 @@
         "company_name": "Immuta",
         "id": "65cf17b4-c49e-45a8-86da-f9123a0746be",
         "title": "Product Engineering Internship - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -21919,7 +21919,7 @@
         "company_name": "Insitro",
         "id": "39a43e66-2c97-42b5-8487-c7b87239eeac",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -22335,7 +22335,7 @@
         "company_name": "STR",
         "id": "ab0100e5-fe60-4096-b771-dec8766a5a41",
         "title": "Analytics Summer Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2023"
         ],
@@ -30257,7 +30257,7 @@
         "company_name": "STR",
         "id": "4240cb70-fb36-4153-9eaa-f7efee2ea800",
         "title": "Analytics Summer Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2023"
         ],
@@ -30276,7 +30276,7 @@
         "company_name": "STR",
         "id": "222fd03d-7b8a-4165-b283-f83717d0941b",
         "title": "Analytics Summer Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2023"
         ],
@@ -31800,7 +31800,7 @@
         "company_name": "Sigma Computing",
         "id": "3588abba-92d6-4d14-8560-f7e40c06bb3f",
         "title": "Software Engineering Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -33960,7 +33960,7 @@
         "company_name": "Symbotic",
         "id": "e9644228-8855-4ffd-b70c-6081ebf2b948",
         "title": "Intern-Software Engineer - Storage and Retrieval",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2023",
             "Spring 2024",
@@ -37460,7 +37460,7 @@
         "company_name": "Schonfeld",
         "id": "096ef7d2-c955-4c9b-b552-7990eb614734",
         "title": "2024 Emerging Technology Summer Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -40541,7 +40541,7 @@
         "company_name": "CACI",
         "id": "8c8b1b30-68d0-4eac-8f80-a88c15163e47",
         "title": "Cyber Engineering Intern - Summer 2024",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -40925,7 +40925,7 @@
         "company_name": "Applied Materials",
         "id": "aa277ed4-657c-401c-8c5d-95b4f49d2c62",
         "title": "Summer 2024 Data Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -43745,7 +43745,7 @@
         "company_name": "Simbe Robotics",
         "id": "8d738c60-4866-4302-8564-a738a0d9cd48",
         "title": "Robotics Software Engineer \u2013 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2023",
             "Spring 2024",
@@ -44117,7 +44117,7 @@
         "company_name": "The Brattle Group",
         "id": "1eafa4ea-bb4e-404d-bd6d-2fe19ffa5c81",
         "title": "Research Analyst Intern - Corporate Finance/Accounting - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -44174,7 +44174,7 @@
         "company_name": "The Brattle Group",
         "id": "02e5e357-be9a-4d71-b8a7-4b1cbdb0bcc0",
         "title": "Research Analyst Intern - Corporate Finance/Accounting - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -45805,7 +45805,7 @@
         "company_name": "Gen",
         "id": "86989d79-30f5-4cb6-8529-6d8d2fe9e744",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -50173,7 +50173,7 @@
         "company_name": "AbelsonTaylor",
         "id": "f86cdf5b-ee2a-4948-ab09-7832fdd4c841",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -53867,7 +53867,7 @@
         "company_name": "Chime",
         "id": "0bb96631-3d2e-4929-afae-551b968b3e89",
         "title": "Software Engineer Intern - Savings",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -54001,7 +54001,7 @@
         "company_name": "Chime",
         "id": "a587172e-f9b6-47d0-bddf-f3bcfac37027",
         "title": "Backend Engineering Intern - Kyc",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -57372,7 +57372,7 @@
         "company_name": "First American",
         "id": "7d7c0b68-3794-47c6-9bcc-6f69bca0e2f1",
         "title": "Software Development Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -57985,7 +57985,7 @@
         "company_name": "Intel",
         "id": "49c1e784-143f-47ce-8801-2d95690d57b0",
         "title": "Off Site Manufacturing \u2013 Technical Coordinator Intern - Osm",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024",
             "Summer 2024",
@@ -60760,7 +60760,7 @@
         "company_name": "Rockwell Automation",
         "id": "f4e18f54-41e9-4502-b0f0-210a15c8ddff",
         "title": "Data Science Intern - Kalypso - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -62038,5 +62038,329 @@
         "date_posted": 1708973714,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "CACI",
+        "id": "5d19300f-1c04-48e4-9e97-e9395a63b488",
+        "title": "Cyber Engineering Intern - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1708993895,
+        "date_posted": 1708993895,
+        "url": "https://caci.wd1.myworkdayjobs.com/External/job/US-IN-Crane/Cyber-Engineering-Intern---Summer-2024_293104-1",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/CACI",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Five9",
+        "id": "6f2ab880-a549-4781-8357-14243196a96b",
+        "title": "2024 Product Management \u2013 Advanced Insights & Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1708993580,
+        "date_posted": 1708993580,
+        "url": "https://www.five9.com/about/careers/job-detail?gh_jid=5093233004",
+        "locations": [
+            "San Ramon, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Five9",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Arrowhead Pharmaceuticals",
+        "id": "06bf7332-268f-4da1-a86e-6a13a8c89a99",
+        "title": "Summer Intern - Translational Genetics",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1708993425,
+        "date_posted": 1708993425,
+        "url": "https://arrowheadpharma.com/careers/?gh_jid=4268026007",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/9e9f38bd-61ae-4e46-874b-cd79bc02181e",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Arrowhead Pharmaceuticals",
+        "id": "8837878b-e04f-4516-9ccd-b6177f183c05",
+        "title": "Summer Intern - Research Informatics",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1708993425,
+        "date_posted": 1708993425,
+        "url": "https://arrowheadpharma.com/careers/?gh_jid=4267783007",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/9e9f38bd-61ae-4e46-874b-cd79bc02181e",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "PlusAI",
+        "id": "9846cd15-afa6-460c-9ba5-ecefded9f1c1",
+        "title": "Intern \u2013 Runtime Software Engineer",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1708993263,
+        "date_posted": 1708993263,
+        "url": "https://jobs.lever.co/plus-2/28ae4481-a9ad-4576-b990-93465488ec28/apply",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Plus",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Roku",
+        "id": "bcfb52af-bf2f-44b6-b77c-b93a1ca85909",
+        "title": "Machine Learning Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1708993208,
+        "date_posted": 1708993208,
+        "url": "https://www.weareroku.com/jobs/5742543?gh_jid=5742543",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Roku",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Roku",
+        "id": "5f1bef51-233b-4f6c-ac9b-5e6f4f4119e6",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1708993215,
+        "date_posted": 1708993215,
+        "url": "https://www.weareroku.com/jobs/5742544?gh_jid=5742544",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Roku",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Cadence Design Systems",
+        "id": "a7fea460-cbf7-4b6f-b2cb-fd51a741df7f",
+        "title": "Software Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1708993189,
+        "date_posted": 1708993189,
+        "url": "https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/AUSTIN/Software-Intern_R45585-1",
+        "locations": [
+            "Austin, TX",
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Live Nation Entertainment",
+        "id": "6953fbcd-0715-4c6b-b6a3-f0e2f1c10f07",
+        "title": "Data Scientist Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1708993176,
+        "date_posted": 1708993176,
+        "url": "https://livenation.wd1.myworkdayjobs.com/en-US/LNExternalSite/job/Work-From-Home---Arizona/Data-Scientist-Intern_JR-66779-1",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Live-Nation-Entertainment",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Autodesk",
+        "id": "1dab86c3-7196-43bf-a7f4-682b5563a72d",
+        "title": "Backend Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1708993129,
+        "date_posted": 1708993129,
+        "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/AMER---United-States---Arizona---OffsiteHome/Backend-Engineer-Intern_24WD76181-1",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Autodesk",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Chime",
+        "id": "54194749-c6cf-4b1d-836b-440386bbb784",
+        "title": "Software Engineer Intern - Personalization",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1708992942,
+        "date_posted": 1708992942,
+        "url": "https://boards.greenhouse.io/chime/jobs/7232151002",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Chime",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Chime",
+        "id": "c2bcab9b-4e20-45f6-b2bd-3b36536e1022",
+        "title": "Software Engineer Intern - Secure Cards",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1708992942,
+        "date_posted": 1708992942,
+        "url": "https://boards.greenhouse.io/chime/jobs/7258497002",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Chime",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Chime",
+        "id": "0cb8548f-da93-461f-8a45-275ad0738c10",
+        "title": "Software Engineer Intern - Cash & Checks",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1708992943,
+        "date_posted": 1708992943,
+        "url": "https://boards.greenhouse.io/chime/jobs/7258499002",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Chime",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Kairos Power",
+        "id": "0e26657e-7854-451e-956e-447b097dfe0e",
+        "title": "Data Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1708992908,
+        "date_posted": 1708992908,
+        "url": "https://boards.greenhouse.io/kairospower/jobs/5004975004",
+        "locations": [
+            "Albuquerque, NM"
+        ],
+        "company_url": "https://simplify.jobs/c/KairosPower",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Crowdstrike",
+        "id": "c2aa4a49-fae5-4d9d-a9f2-f4e72a93f336",
+        "title": "Data Analyst Intern - Remote",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1708992578,
+        "date_posted": 1708992578,
+        "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-us/crowdstrikecareers/job/USA---Remote-CA/Data-Analyst-Intern--Remote-_R16963",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Crowdstrike",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Crowdstrike",
+        "id": "f0e177d9-d3c0-49ec-aa5c-667219ce064e",
+        "title": "Launch Sensor Engineer Intern - Remote",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1708992580,
+        "date_posted": 1708992580,
+        "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-us/crowdstrikecareers/job/USA---Remote/Launch-Sensor-Engineer-Intern--Remote-_R17084",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Crowdstrike",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Cohere Health",
+        "id": "81a631f6-3dfb-47fa-9fde-e4be58856091",
+        "title": "Software Engineer Co-Op - June - Nov 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1708992485,
+        "date_posted": 1708992485,
+        "url": "https://boards.greenhouse.io/coherehealth/jobs/5903484003",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/897d9f54-64bb-4399-a926-10ea9a114bdd",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
