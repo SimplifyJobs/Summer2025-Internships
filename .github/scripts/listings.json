@@ -24902,7 +24902,7 @@
         "company_name": "Bridgewater Associates",
         "id": "328683e6-519f-4e0c-97c1-5237c57176cd",
         "title": "Investment Engineer Intern - Summer 2024",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -61261,7 +61261,7 @@
         "company_name": "Billtrust",
         "id": "662c7614-489b-4fb7-9bcb-271abd80c6f7",
         "title": "QA Test Automation Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -62360,6 +62360,44 @@
             "United States"
         ],
         "company_url": "https://simplify.jobs/c/897d9f54-64bb-4399-a926-10ea9a114bdd",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Cloudflare",
+        "id": "a9591d30-eda7-4949-9db4-e1e600b2014e",
+        "title": "Research Intern - 2024",
+        "active": true,
+        "terms": [
+            "Fall 2024"
+        ],
+        "date_updated": 1709021664,
+        "date_posted": 1709021664,
+        "url": "https://boards.greenhouse.io/cloudflare/jobs/5702668",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Cloudflare",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Crowdstrike",
+        "id": "f734d789-af0c-49ce-8ec2-6fdb9c85ee5a",
+        "title": "Software Engineer Intern - Summer 2024 - Remote",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1709021298,
+        "date_posted": 1709021298,
+        "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-us/crowdstrikecareers/job/USA---Remote/Software-Engineer-Intern---Summer-2024--Remote-_R16023",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Crowdstrike",
         "is_visible": true,
         "sponsorship": "Other"
     }
