@@ -2299,7 +2299,7 @@
         "company_name": "Squarepoint Capital",
         "id": "2c334a12-438c-49bb-8cf8-53a3ebc22b33",
         "title": "Intern Quant Researcher",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -10564,7 +10564,7 @@
         "company_name": "Rivian",
         "id": "bbc12386-31da-455b-ac4c-e68386b57c4c",
         "title": "Data Engineering and Analytics \u2013 Summer 2024 Internships",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -22356,7 +22356,7 @@
         "company_name": "STR",
         "id": "b8ca7a9d-7ac7-4c03-8544-41f42a4e668a",
         "title": "Cyber Summer Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -24902,7 +24902,7 @@
         "company_name": "Bridgewater Associates",
         "id": "328683e6-519f-4e0c-97c1-5237c57176cd",
         "title": "Investment Engineer Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -29066,7 +29066,7 @@
         "company_name": "Schonfeld",
         "id": "fbab32fb-aeac-4d2f-9ead-73689386fd2c",
         "title": "2024 Platform Support Engineering Summer Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -30181,7 +30181,7 @@
         "company_name": "STR",
         "id": "d81e4a1a-ba05-4636-9222-42edc92c28a8",
         "title": "Cyber Summer Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -30238,7 +30238,7 @@
         "company_name": "STR",
         "id": "590b3cea-09cf-4e33-bba2-789fa78b3c84",
         "title": "Cyber Summer Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -35819,7 +35819,7 @@
         "company_name": "Schonfeld",
         "id": "277832b0-8ba9-4ada-abcd-c11db36c2178",
         "title": "2024 Operations Summer Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -36011,7 +36011,7 @@
         "company_name": "Trace3",
         "id": "67f5a7a8-7d94-44e6-8277-18c824902697",
         "title": "AI Program Intern - Hybrid",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -46666,7 +46666,7 @@
         "company_name": "Badger Meter",
         "id": "4b52c77e-dcd6-41bc-9e62-6ca34691a95b",
         "title": "Construction Project Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -47535,7 +47535,7 @@
         "company_name": "Hewlett Packard (HP)",
         "id": "d77dcf3b-ac54-4274-93b7-42663d1c3c77",
         "title": "Audio Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -48761,7 +48761,7 @@
         "company_name": "Harry's",
         "id": "2a40a975-e107-403a-910f-c60331b3471f",
         "title": "R&D Product Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -48933,7 +48933,7 @@
         "company_name": "Harry's",
         "id": "2339a14a-5ef9-4157-bf9a-5da252a56f31",
         "title": "Finance Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -51834,7 +51834,7 @@
         "company_name": "Yext",
         "id": "4fcec8fb-0e68-4816-9a33-ecea90ee6011",
         "title": "2024 Site Reliability Database Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -52728,7 +52728,7 @@
         "company_name": "Intel",
         "id": "f33d05a1-b90a-4c05-a2d6-084442ad18cf",
         "title": "Undergraduate Technical Intern - Data Center",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -60303,7 +60303,7 @@
         "company_name": "Global Relay",
         "id": "c89059fb-0cf9-43ad-801e-fe0d13806f17",
         "title": "Software Development Engineer in Test \u2013 Co-op - Sdet - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -60664,7 +60664,7 @@
         "company_name": "Ideas United",
         "id": "c174bc65-5bfd-451f-8609-44d52455bd63",
         "title": "Web Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -61242,7 +61242,7 @@
         "company_name": "Billtrust",
         "id": "ee831d83-1d77-4d00-887d-5f54de02d793",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -61261,7 +61261,7 @@
         "company_name": "Billtrust",
         "id": "662c7614-489b-4fb7-9bcb-271abd80c6f7",
         "title": "QA Test Automation Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -61318,7 +61318,7 @@
         "company_name": "Deep Genomics",
         "id": "8824d3e8-95f2-48e3-9d6d-63978c700f17",
         "title": "Software Engineering Intern - May-Dec 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024"
         ],
@@ -61432,7 +61432,7 @@
         "company_name": "Vail Systems",
         "id": "3e944872-63dc-414f-ae6f-31bcbbfa50d5",
         "title": "C++ Software Engineer Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -61795,7 +61795,7 @@
         "company_name": "Udemy",
         "id": "37c0c0b5-7ea5-4cdc-89cd-5fe0bfd598cf",
         "title": "Data Science \u2013 Deep Learning Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -61814,7 +61814,7 @@
         "company_name": "Udemy",
         "id": "c44b3f8a-dd1c-4558-b21b-b67f701781d8",
         "title": "Data Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -61852,7 +61852,7 @@
         "company_name": "Autodesk",
         "id": "43149fad-76f0-4a26-8089-b32dfee42e99",
         "title": "Intern \u2013 Data Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024",
             "Summer 2024",
@@ -61873,7 +61873,7 @@
         "company_name": "Leidos",
         "id": "cfd8a1bc-f75c-4c7a-b73c-a17828f97123",
         "title": "Scientific Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
