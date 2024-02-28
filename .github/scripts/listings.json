@@ -54370,7 +54370,7 @@
         "company_name": "Expedia",
         "id": "bcda1265-2228-4ed9-96c0-d379f5c749b6",
         "title": "Data Science \u2013 Analytics Intern - London",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -62746,6 +62746,44 @@
             "SF"
         ],
         "company_url": "https://simplify.jobs/c/Chime",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "CACI",
+        "id": "eb3c525f-73ac-4da9-8ae5-51e7dd44a6ab",
+        "title": "Software Development Intern - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1709137738,
+        "date_posted": 1709137738,
+        "url": "https://caci.wd1.myworkdayjobs.com/External/job/Remote-Any-State/Software-Development-Intern---Summer-2024_293262-1",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/CACI",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Workato",
+        "id": "f81ad1dc-b664-4071-a1d4-13240df63a7e",
+        "title": "Intern \u2013 Infrastructure Engineering",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1709136840,
+        "date_posted": 1709136840,
+        "url": "https://boards.greenhouse.io/workato/jobs/7254670002",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Workato",
         "is_visible": true,
         "sponsorship": "Other"
     }
