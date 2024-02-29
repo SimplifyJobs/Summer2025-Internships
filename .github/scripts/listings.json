@@ -24902,7 +24902,7 @@
         "company_name": "Bridgewater Associates",
         "id": "328683e6-519f-4e0c-97c1-5237c57176cd",
         "title": "Investment Engineer Intern - Summer 2024",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -61261,7 +61261,7 @@
         "company_name": "Billtrust",
         "id": "662c7614-489b-4fb7-9bcb-271abd80c6f7",
         "title": "QA Test Automation Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -62938,6 +62938,25 @@
             "Chicago, IL"
         ],
         "company_url": "https://simplify.jobs/c/G2",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Leidos",
+        "id": "5eb96264-993f-4da9-b393-1e26217d6d3d",
+        "title": "Devops Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1709195408,
+        "date_posted": 1709195408,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/DevOps-Intern_R-00129931",
+        "locations": [
+            "Arlington, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
         "is_visible": true,
         "sponsorship": "Other"
     }
