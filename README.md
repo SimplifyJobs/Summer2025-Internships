@@ -833,7 +833,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | **[Leidos](https://simplify.jobs/c/Leidos)** | Software Engineering Intern | Beavercreek, OH | 🔒 | Feb 15 |
 | **[First American](https://simplify.jobs/c/First-American)** | Data Management Intern | Orange, CA | 🔒 | Feb 15 |
 | **[Applied Materials](https://simplify.jobs/c/AMAT)** | Artificial Intelligence Intern | Santa Clara, CA | 🔒 | Feb 15 |
-| **[Uber](https://simplify.jobs/c/Uber)** | 2024 Software Engineering Uberstar Internship - Mexico | SF | 🔒 | Feb 14 |
 | **[SpecterOps](https://simplify.jobs/c/SpecterOps)** | Product Engineer Intern | Remote in USA | 🔒 | Feb 14 |
 | **[Percipient.ai](https://simplify.jobs/c/Percipient-ai)** | Software Engineering Intern | Santa Clara, CA | 🔒 | Feb 14 |
 | **[NVIDIA](https://simplify.jobs/c/NVIDIA)** | Systems Performance Intern - At Scale AI - Summer 2024 | Santa Clara, CA | 🔒 | Feb 14 |
