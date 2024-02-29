@@ -11961,7 +11961,7 @@
         "company_name": "DriveTime",
         "id": "876d2c73-7d24-40c5-af76-d52942ad55dc",
         "title": "Analytics Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -16771,7 +16771,7 @@
         "company_name": "Rockwell Automation",
         "id": "71791bdb-6569-41ba-8090-39309cf8d473",
         "title": "Intern \u2013 Customer Response Team",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -24902,7 +24902,7 @@
         "company_name": "Bridgewater Associates",
         "id": "328683e6-519f-4e0c-97c1-5237c57176cd",
         "title": "Investment Engineer Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -51968,7 +51968,7 @@
         "company_name": "NVIDIA",
         "id": "53ee434b-12c6-450f-beae-ef4f6c5bef7f",
         "title": "Cloud Infrastructure Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -61261,7 +61261,7 @@
         "company_name": "Billtrust",
         "id": "662c7614-489b-4fb7-9bcb-271abd80c6f7",
         "title": "QA Test Automation Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -62216,7 +62216,7 @@
         "company_name": "Autodesk",
         "id": "1dab86c3-7196-43bf-a7f4-682b5563a72d",
         "title": "Backend Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -62387,7 +62387,7 @@
         "company_name": "Crowdstrike",
         "id": "f734d789-af0c-49ce-8ec2-6fdb9c85ee5a",
         "title": "Software Engineer Intern - Summer 2024 - Remote",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -62773,7 +62773,7 @@
         "company_name": "Workato",
         "id": "f81ad1dc-b664-4071-a1d4-13240df63a7e",
         "title": "Intern \u2013 Infrastructure Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -62784,6 +62784,25 @@
             "Mountain View, CA"
         ],
         "company_url": "https://simplify.jobs/c/Workato",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Western Digital",
+        "id": "05d9897c-b59e-45df-97eb-54dc21297a10",
+        "title": "RAMP System Design Verification Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1709151378,
+        "date_posted": 1708128484,
+        "url": "https://jobs.smartrecruiters.com/WesternDigital/743999970507363",
+        "locations": [
+            "Milpitas, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Western-Digital",
         "is_visible": true,
         "sponsorship": "Other"
     }
