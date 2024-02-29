@@ -2108,7 +2108,7 @@
         "company_name": "Klue",
         "id": "4bbcf0e2-31c1-4232-8912-9184788c6095",
         "title": "Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -18840,7 +18840,7 @@
         "company_name": "MarketAxess",
         "id": "8ea9668d-f05d-47f7-9d68-c6de832099c3",
         "title": "Research Intern 2024",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -25054,7 +25054,7 @@
         "company_name": "Zoox",
         "id": "a656d400-7415-43ef-89e8-2b9fc2159fc7",
         "title": "Energy Modeling & Machine Learning Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -25481,7 +25481,7 @@
         "company_name": "Zoox",
         "id": "377a463a-e393-4292-9984-5bf3e7145ea8",
         "title": "Driving Tools \u2013 Full Stack Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -27400,7 +27400,7 @@
         "company_name": "Second Order Effects",
         "id": "b9cb1bf6-42c5-4224-964b-13974e3bd474",
         "title": "Systems Integration/Test Engineering Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -43037,7 +43037,7 @@
         "company_name": "Leidos",
         "id": "9527419a-5ecb-4c74-8544-e1a97961dafc",
         "title": "Technical Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2023"
         ],
@@ -46206,7 +46206,7 @@
         "company_name": "Visier Solutions",
         "id": "b13e3394-f000-401f-996e-bcea83fb5070",
         "title": "Test Enablement Engineer Co-op - May 2024 - Dec 2024",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2024"
         ],
@@ -46493,7 +46493,7 @@
         "company_name": "Netflix",
         "id": "baa0e6e3-8836-4472-ae72-69a645604d8c",
         "title": "Technical Program Manager Intern - Developer Education - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -49433,7 +49433,7 @@
         "company_name": "Leidos",
         "id": "6e2f93c6-4ac1-4f3d-884d-8c26cb1a22a6",
         "title": "Quantum Technologies Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -50999,7 +50999,7 @@
         "company_name": "GRAIL",
         "id": "6c13bd20-843d-47d1-ac9f-0aba1e7d0982",
         "title": "Software Engineering Intern - Data Platform",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -51082,7 +51082,7 @@
         "company_name": "GRAIL",
         "id": "f89c6707-194b-4989-b9a0-c8678e691b99",
         "title": "Software Engineering Intern - Commercial Platform",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -52007,7 +52007,7 @@
         "company_name": "Salesforce",
         "id": "64ebbddd-c35b-415b-a354-9a38b7c080d1",
         "title": "Summer 2024 Intern - Tax Data Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -54447,7 +54447,7 @@
         "company_name": "Alarm.com",
         "id": "3cc4bceb-693c-45b5-9384-630da13389f7",
         "title": "Software Engineer Internship - Lawrence - KS",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -56481,7 +56481,7 @@
         "company_name": "Openmesh Networks",
         "id": "2ef00980-b8a6-4a18-b9da-c84b55675ba3",
         "title": "QA Engineering Intern - Software Testing and Quality Control",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -56500,7 +56500,7 @@
         "company_name": "Openmesh Networks",
         "id": "036eeff8-4d34-40de-946b-dab69c1a4f7c",
         "title": "Junior Developer in Consensus Algorithms Intern - Blockchain Consensus and Development",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -61146,7 +61146,7 @@
         "company_name": "Acumen LLC",
         "id": "a420db94-003a-4b84-89a6-ac252136ed25",
         "title": "Data Processing Programmer Intern - Summer Session",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -62311,7 +62311,7 @@
         "company_name": "Crowdstrike",
         "id": "c2aa4a49-fae5-4d9d-a9f2-f4e72a93f336",
         "title": "Data Analyst Intern - Remote",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -62803,6 +62803,141 @@
             "Milpitas, CA"
         ],
         "company_url": "https://simplify.jobs/c/Western-Digital",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Simbe Robotics",
+        "id": "977b607f-6171-4bd6-a099-749d7956380e",
+        "title": "Computer Vision Software Intern",
+        "active": true,
+        "terms": [
+            "Fall 2024",
+            "Spring 2025",
+            "Summer 2025"
+        ],
+        "date_updated": 1709166214,
+        "date_posted": 1709166214,
+        "url": "https://jobs.lever.co/SimbeRobotics/aee4d8cb-dd07-4771-bf74-41bf3e44d292/apply",
+        "locations": [
+            "San Bruno, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/SimbeRobotics",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Autodesk",
+        "id": "7146733a-3cef-407b-93a0-86473fadf97a",
+        "title": "Remote SDET Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1709166026,
+        "date_posted": 1709166026,
+        "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Arizona-USA---Remote/Remote-SDET-Engineer-Intern_24WD76178-1",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Autodesk",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Schonfeld",
+        "id": "555c28b6-4765-4f53-8969-04cdfa8bb254",
+        "title": "2024 Software Engineering \u2013 Summer Internship - User Interface",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1709165833,
+        "date_posted": 1709165833,
+        "url": "https://boards.greenhouse.io/schonfeld/jobs/5766800",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Schonfeld",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Roku",
+        "id": "5e5599f4-b5c8-498d-b92f-23d930121300",
+        "title": "Data Science Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1709165847,
+        "date_posted": 1709165847,
+        "url": "https://www.weareroku.com/jobs/5749954?gh_jid=5749954",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Roku",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Unite Us",
+        "id": "e24363c4-5a4c-489f-a2ca-f62bbc28f5d5",
+        "title": "Internship: Data Science Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1709165421,
+        "date_posted": 1709165421,
+        "url": "https://boards.greenhouse.io/uniteus/jobs/7264174002",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Unite-Us",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Leidos",
+        "id": "c795e764-8959-4e12-93af-b08b6f10bbbb",
+        "title": "Robotics Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1709165358,
+        "date_posted": 1709165358,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Robotics-Engineer-Intern_R-00129986",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "G2",
+        "id": "ad0ceb4a-29c7-465d-852f-fa0ec1e6685e",
+        "title": "Summer Intern: Software Engineering - Python",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1709165255,
+        "date_posted": 1709165255,
+        "url": "https://boards.greenhouse.io/g2crowd/jobs/5752260",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/G2",
         "is_visible": true,
         "sponsorship": "Other"
     }
