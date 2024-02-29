@@ -57213,7 +57213,7 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1707362035,
+        "date_updated": 1709178143,
         "url": "https://www.tesla.com/careers/search/job/internship-c-software-engineer-autopilot-summer-2024-217592",
         "company_name": "Tesla",
         "title": "C++ Software Engineer, Autopilot",
@@ -57223,13 +57223,13 @@
         "terms": [
             "Summer 2024"
         ],
-        "sponsorship": "Offers Sponsorship",
+        "sponsorship": "Other",
         "active": true,
         "source": "AmolMendonca",
         "id": "ad229d0f-ad01-4a40-ac66-a0ddec8abd82",
         "date_posted": 1707362035,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "source": "Simplify",
