@@ -58410,7 +58410,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1707699769,
+        "date_updated": 1709178111,
         "url": "https://careers.roberthalf.com/global/en/job/JR-252388/Software-Engineer-Virtual-Internship",
         "company_name": "Robert Half",
         "title": "Software Engineer Internship",
@@ -58420,13 +58420,13 @@
         "terms": [
             "Summer 2024"
         ],
-        "sponsorship": "Does Not Offer Sponsorship",
+        "sponsorship": "Other",
         "active": true,
         "source": "orebitt",
         "id": "a400a682-e044-400b-b4d8-2c4b1f10058e",
         "date_posted": 1707699769,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1707699821,
