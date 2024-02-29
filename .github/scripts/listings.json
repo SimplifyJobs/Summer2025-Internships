@@ -3753,7 +3753,7 @@
         "company_name": "Diffuse Bio",
         "id": "13c8f281-eca6-4e48-924b-c7b71837df77",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -11570,7 +11570,7 @@
         "company_name": "Salesforce",
         "id": "e1c3a74d-d804-44bc-8b7d-50fab2c941e0",
         "title": "Summer 2024 Intern - Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -18840,7 +18840,7 @@
         "company_name": "MarketAxess",
         "id": "8ea9668d-f05d-47f7-9d68-c6de832099c3",
         "title": "Research Intern 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -54622,7 +54622,7 @@
         "company_name": "Oshkosh",
         "id": "91c64356-a218-4555-8881-4931252c0de5",
         "title": "Engineering Intern - Autonomy",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -62463,7 +62463,7 @@
         "company_name": "Veracode",
         "id": "c1c9ab27-2fa1-4caa-b876-3a1ea2d68f70",
         "title": "Solutions Architecture and Security Consulting Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024",
             "Summer 2024"
@@ -62957,6 +62957,25 @@
             "Arlington, VA"
         ],
         "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Bristol-Myers Squibb",
+        "id": "7f7c6b43-acec-4502-8fdc-558fb7e6447e",
+        "title": "Summer 2024 \u2013 Commercial Data Science Internship",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1709223189,
+        "date_posted": 1709223189,
+        "url": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/en-US/BMS/job/Princeton---NJ---US/Summer-2024---Commercial-Data-Science-Internship_R1578876",
+        "locations": [
+            "Princeton, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/Bristol-Myers-Squibb",
         "is_visible": true,
         "sponsorship": "Other"
     }
