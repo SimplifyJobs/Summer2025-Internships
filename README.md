@@ -783,7 +783,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | **[Workato](https://simplify.jobs/c/Workato)** | Intern – Infrastructure Engineering | Mountain View, CA | 🔒 | Feb 28 |
 | **[Uber](https://simplify.jobs/c/Uber)** | 2024 Software Engineering Internship - US | SF | 🔒 | Feb 27 |
 | **[Epic Games](https://simplify.jobs/c/Epic-Games)** | Software Engineer Intern - Fn | Remote in USA | 🔒 | Feb 27 |
-| ↳ | Software Engineer Intern - Fn | Remote in USA | 🔒 | Feb 27 |
 | **[Crowdstrike](https://simplify.jobs/c/Crowdstrike)** | Software Engineer Intern - Summer 2024 - Remote | Remote in USA | 🔒 | Feb 27 |
 | **[Autodesk](https://simplify.jobs/c/Autodesk)** | Backend Engineer Intern | Remote in USA | 🔒 | Feb 26 |
 | **[Udemy](https://simplify.jobs/c/Udemy)** | Data Intern | SF | 🔒 | Feb 23 |
