@@ -12811,7 +12811,7 @@
         "company_name": "Oshkosh",
         "id": "cd19d7a7-9167-4f7a-8d2b-9cfe914abf0c",
         "title": "Engineer Intern - Software - Summer 2024",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -21938,7 +21938,7 @@
         "company_name": "Awardco",
         "id": "c64a512f-2622-44bb-9b61-40e707833008",
         "title": "Back-End Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -21957,7 +21957,7 @@
         "company_name": "Awardco",
         "id": "b7be327f-10fa-4775-8a1c-183ea4b062ce",
         "title": "Front-End Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -24902,7 +24902,7 @@
         "company_name": "Bridgewater Associates",
         "id": "328683e6-519f-4e0c-97c1-5237c57176cd",
         "title": "Investment Engineer Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -42462,7 +42462,7 @@
         "company_name": "Samsung",
         "id": "2c874318-77a3-4fda-9e72-043fcc28d920",
         "title": "Intern \u2013 Engineering Architect",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -46823,7 +46823,7 @@
         "company_name": "Applied Materials",
         "id": "f935105e-aa67-4983-a2ed-671de6523132",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -49713,7 +49713,7 @@
         "company_name": "Perchwell",
         "id": "56a79de0-b2df-4374-97f1-e377c8bcfa85",
         "title": "Perchwell 2024 Software Engineer Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -51354,7 +51354,7 @@
         "company_name": "D2L",
         "id": "c204262c-d528-4565-8789-561d5fd13896",
         "title": "Product Support Analyst Spring 2024 Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024"
         ],
@@ -52551,7 +52551,7 @@
         "company_name": "Kinaxis",
         "id": "e72cd2a4-4584-4d76-ad50-caeec39de962",
         "title": "Co-Op/Intern Developer - Machine Learning - QA",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024"
         ],
@@ -55523,7 +55523,7 @@
         "company_name": "Redwood Materials",
         "id": "302ee0ec-7837-42eb-9c66-01ce03e53077",
         "title": "Factory Automation Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -59492,7 +59492,7 @@
         "company_name": "SpecterOps",
         "id": "ad1716a0-0e03-4111-a16e-78e20c81a805",
         "title": "Product Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -60626,7 +60626,7 @@
         "company_name": "Snowflake",
         "id": "e18f4ed6-6f20-483c-b854-ade0e50bb662",
         "title": "Global Alliance Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -61088,7 +61088,7 @@
         "company_name": "First American",
         "id": "f23f0466-8b0d-42cd-9f48-4c9e2dcc0110",
         "title": "Software Engineer Internship - Remote Opportunity",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024",
             "Summer 2024"
@@ -62995,6 +62995,330 @@
             "Miami, FL"
         ],
         "company_url": "https://simplify.jobs/c/Schonfeld",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Collaborative Robotics",
+        "id": "ec8e47e0-5111-4305-8790-4add0b2c8c30",
+        "title": "AI/ML Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024",
+            "Fall 2024"
+        ],
+        "date_updated": 1709252967,
+        "date_posted": 1709252967,
+        "url": "https://boards.greenhouse.io/collaborativerobotics/jobs/4273607007",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/1fb37c3c-335d-4f29-bc2b-c1aa795f6eda",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Point72",
+        "id": "7e13e8cf-dd42-4e0b-b5e8-618047b184a5",
+        "title": "2025 Point72 Academy Investment Analyst Summer Internship Program - London",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1709252964,
+        "date_posted": 1709252964,
+        "url": "https://boards.greenhouse.io/point72/jobs/7089359002",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Point72",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Spotify",
+        "id": "bce6931d-ec2e-4fe5-bdda-8f20c65a1bb2",
+        "title": "2024 Summer Internship - Engineering - London",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1709252658,
+        "date_posted": 1709252658,
+        "url": "https://jobs.lever.co/spotify/476e1150-cfb0-4a0c-a386-231409c75b6e/apply",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Spotify",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Spotify",
+        "id": "b1f4718e-256c-4774-92c9-1d309d369183",
+        "title": "2024 Summer Internship - Analytics - Business Analytics - New York City",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1709252658,
+        "date_posted": 1709252658,
+        "url": "https://jobs.lever.co/spotify/ebb7292d-334f-40ae-9ddb-54a7da2aee64/apply",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Spotify",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Spotify",
+        "id": "ae53870d-12d1-4739-832e-f20d3367155f",
+        "title": "2024 Summer Internship - Growth Analyst - Audiobooks - New York City",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1709252659,
+        "date_posted": 1709252659,
+        "url": "https://jobs.lever.co/spotify/b8c963bc-9041-4bed-85a6-c746ff414ffe/apply",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Spotify",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Spotify",
+        "id": "86055466-cad0-428b-8f15-3c51702dab14",
+        "title": "2024 Summer Internship - Data Science - New York City",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1709252660,
+        "date_posted": 1709252660,
+        "url": "https://jobs.lever.co/spotify/0ea27b29-15f0-426f-a554-e01df66c1a1c/apply",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Spotify",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Spotify",
+        "id": "7a26d17b-2662-4ece-9ab2-671bb6f7ed0e",
+        "title": "2024 Summer Internship - Engineering - New York City",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1709252659,
+        "date_posted": 1709252659,
+        "url": "https://jobs.lever.co/spotify/5e1d6a84-cc0e-4188-be43-ffd36e934c14/apply",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Spotify",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Spotify",
+        "id": "6cf497ed-4f44-402a-9c56-f3e0e9e7b208",
+        "title": "2024 Summer Internship - Internal Audit & Risk - Finance - New York City",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1709252660,
+        "date_posted": 1709252660,
+        "url": "https://jobs.lever.co/spotify/db3ae666-1e64-4393-a039-1ec4e48021e2/apply",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Spotify",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Spotify",
+        "id": "0ccba855-6025-48c3-aaff-719d5022b584",
+        "title": "2024 Summer Internship - Data Science - London",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1709252661,
+        "date_posted": 1709252661,
+        "url": "https://jobs.lever.co/spotify/acc889bd-cb87-4ff4-9068-6d7feb3f4dad/apply",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Spotify",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Take Two",
+        "id": "0f5af57c-6145-4a08-a6d8-597b93e10f2d",
+        "title": "Business Planning & Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1709252477,
+        "date_posted": 1709252477,
+        "url": "https://careers.take2games.com/job/5747811?gh_jid=5747811",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Take-Two",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "PlusAI",
+        "id": "55520ec4-66ed-407f-902b-4a3082e4ea4e",
+        "title": "Intern \u2013 Runtime Software Engineer - Embedded",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1709252468,
+        "date_posted": 1709252468,
+        "url": "https://jobs.lever.co/plus-2/081135da-2033-4d17-ba59-176c79590c86/apply",
+        "locations": [
+            "Fremont, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Plus",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Precisely",
+        "id": "cfd5e490-1cb0-47c1-a88c-f57c6deb935b",
+        "title": "Sales Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1709252447,
+        "date_posted": 1709252447,
+        "url": "https://www.precisely.com/careers-and-culture/us-jobs/job/4373333005?gh_jid=4373333005",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Precisely",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Loop",
+        "id": "b8f67b38-b5d4-47fc-9296-baad0deda9fc",
+        "title": "Software Engineer Intern - Full-Stack",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1709252211,
+        "date_posted": 1709252211,
+        "url": "https://boards.greenhouse.io/loop/jobs/4796168004",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/818d871b-7677-4426-a53b-7199dbe1039e",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "DoubleVerify",
+        "id": "457cc285-ed36-457b-975a-f4428d9b5c26",
+        "title": "Data Engineer Intern - Social Integrations",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1709252138,
+        "date_posted": 1709252138,
+        "url": "https://boards.greenhouse.io/doubleverify/jobs/7218363002",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/DoubleVerify",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Analytic Partners",
+        "id": "b6167f0f-7928-4f63-bfab-baab8ccc4d57",
+        "title": "Data Science Internship - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1709251933,
+        "date_posted": 1709251933,
+        "url": "https://jobs.lever.co/analyticpartners/489c7d8c-16cb-42fe-a07a-600dd9377459/apply",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/5964fdc4-a929-467f-bead-017e437906c3",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Leidos",
+        "id": "ffdd8630-01cb-4841-8b10-ca02093bb85d",
+        "title": "Software Tester Intern and/or Software Developer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1709251793,
+        "date_posted": 1709251793,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Remote-US/Software-Tester-Intern-and-or--Software-Developer-Intern_R-00130103",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Leidos",
+        "id": "bfb77052-ec1a-4cdc-9d86-e7555cf63784",
+        "title": "Software Developer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1709251791,
+        "date_posted": 1709251791,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Baltimore-MD/Software-Developer-Intern_R-00130130",
+        "locations": [
+            "Baltimore, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
         "is_visible": true,
         "sponsorship": "Other"
     }
