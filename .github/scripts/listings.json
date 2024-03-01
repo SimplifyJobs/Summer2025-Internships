@@ -24016,7 +24016,7 @@
         "company_name": "Eulerity",
         "id": "f8837730-6405-46fa-b313-c37d55f62d44",
         "title": "Mobile iOS Fall Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2023"
         ],
@@ -24073,7 +24073,7 @@
         "company_name": "Eulerity",
         "id": "daacee31-7476-4efe-a88f-6596739e9a7a",
         "title": "Mobile Android Fall Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2023"
         ],
@@ -25595,7 +25595,7 @@
         "company_name": "Skydio",
         "id": "fd848813-cdbe-4cf0-9652-1bf85b75a3a7",
         "title": "Autonomy Engineer Intern - Computer Vision/Deep Learning",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -25614,7 +25614,7 @@
         "company_name": "Skydio",
         "id": "60f3b3fc-eaf8-473e-8cd8-643f1b14fb7c",
         "title": "Autonomy Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -43037,7 +43037,7 @@
         "company_name": "Leidos",
         "id": "9527419a-5ecb-4c74-8544-e1a97961dafc",
         "title": "Technical Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -44364,7 +44364,7 @@
         "company_name": "Quantcast",
         "id": "4312eb22-52da-40b2-a6db-7d9dce16a7e5",
         "title": "Software Engineering Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -47516,7 +47516,7 @@
         "company_name": "Interactive Brokers",
         "id": "6e655a26-9158-46ba-970f-4ff060afd292",
         "title": "Software Developer Summer Internship - 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -48146,7 +48146,7 @@
         "company_name": "DRW",
         "id": "21f151dd-e1ae-4cb2-ae12-a5c0c8877a9d",
         "title": "Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -58609,7 +58609,7 @@
         "company_name": "Salesforce",
         "id": "ef8a8467-7f13-4245-aba9-8a5fcd8b326b",
         "title": "Summer 2024 Intern-Tableau Research",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -59587,7 +59587,7 @@
         "company_name": "Minitab",
         "id": "d5ea66d6-fded-4bcc-bdec-aa0b30915377",
         "title": "Marketing Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -59606,7 +59606,7 @@
         "company_name": "Genesis Therapeutics",
         "id": "9d7e96a8-4310-4ebf-8eee-755130cc27dd",
         "title": "New Product Planning Intern - AI/Llms/Lifesciences",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024",
             "Fall 2024"
@@ -61261,7 +61261,7 @@
         "company_name": "Billtrust",
         "id": "662c7614-489b-4fb7-9bcb-271abd80c6f7",
         "title": "QA Test Automation Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -62540,7 +62540,7 @@
         "company_name": "First American",
         "id": "b989da58-f997-496d-b22c-a1181343c3cd",
         "title": "Remote \u2013 Undergraduate Intern - Salesforce",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -62559,7 +62559,7 @@
         "company_name": "Q2",
         "id": "32768278-215f-440e-ba12-38775b0e1b24",
         "title": "Software Engineer \u2013 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024",
             "Summer 2024"
@@ -62976,6 +62976,25 @@
             "Princeton, NJ"
         ],
         "company_url": "https://simplify.jobs/c/Bristol-Myers-Squibb",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Schonfeld",
+        "id": "19c5b3a0-7975-432b-b65e-e47a027d1776",
+        "title": "2024 Core Operations Summer Internship",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1709237602,
+        "date_posted": 1699333534,
+        "url": "https://boards.greenhouse.io/schonfeld/jobs/5487490",
+        "locations": [
+            "Miami, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Schonfeld",
         "is_visible": true,
         "sponsorship": "Other"
     }
