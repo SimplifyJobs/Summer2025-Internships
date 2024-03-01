@@ -32882,7 +32882,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1697838488,
+        "date_updated": 1709329395,
         "url": "https://jobs.thermofisher.com/global/en/job/R-01208462/Data-Science-Intern?rx_ch=jobpost&rx_job=R-01208462&rx_medium=post&rx_paid=0&rx_r=none&rx_source=linkedin&rx_ts=20231019T124203Z&rx_vp=linkedindirectindex&utm_medium=post",
         "company_name": "Thermo Fisher",
         "title": "Data Science Intern",
@@ -32892,8 +32892,8 @@
         "terms": [
             "Summer 2024"
         ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "rygeorge",
         "id": "17160037-accb-4f66-93ad-a3f9277babe1",
         "date_posted": 1697838488,
