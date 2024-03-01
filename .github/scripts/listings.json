@@ -12811,7 +12811,7 @@
         "company_name": "Oshkosh",
         "id": "cd19d7a7-9167-4f7a-8d2b-9cfe914abf0c",
         "title": "Engineer Intern - Software - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -21617,7 +21617,7 @@
         "company_name": "Bose",
         "id": "b2667288-edf2-4480-974a-6a59b233a445",
         "title": "Engineering Intern for Cloud Identity",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -50636,7 +50636,7 @@
         "company_name": "Cohere",
         "id": "3056d336-dc63-4eea-a8af-87df3cfcf2f9",
         "title": "Machine Learning Intern/Co-op - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -50655,7 +50655,7 @@
         "company_name": "Cohere",
         "id": "69ea3092-0887-44cf-bdd4-c1ed17fbc9dc",
         "title": "Software Engineer Intern/Co-op - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -50961,7 +50961,7 @@
         "company_name": "Voya Financial",
         "id": "fd1dd266-8f3d-49e1-a0b3-8648b70c9257",
         "title": "Summer 2024 Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -53638,7 +53638,7 @@
         "company_name": "Democratic National Committee (DNC)",
         "id": "d71ecffd-bb22-4a9a-a419-8c8b5d40e1b0",
         "title": "Summer 2024: DNC Technology Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -54351,7 +54351,7 @@
         "company_name": "Redwood Materials",
         "id": "ad474857-fa2c-4fb3-a717-c6edf6f310a3",
         "title": "Anode Copper Foil Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -54408,7 +54408,7 @@
         "company_name": "Expedia",
         "id": "79f5b2fb-c707-4323-a0e5-12d637f2c840",
         "title": "Mobile Engineering Intern - London",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -56778,7 +56778,7 @@
         "company_name": "Dow Jones",
         "id": "1d9b131b-fc1f-4223-9cf3-4f05f9229fc0",
         "title": "Summer 2024 Internship - Partnerships & Alliances",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -56797,7 +56797,7 @@
         "company_name": "Dow Jones",
         "id": "f7f70bb4-740f-4f40-843c-82c532548160",
         "title": "Summer 2024 Internship - Partnerships & Alliances",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -56874,7 +56874,7 @@
         "company_name": "Dow Jones",
         "id": "cf2daa5b-5aa4-4f3b-add6-eac41bb3d726",
         "title": "Summer 2024 Internship - Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -57600,7 +57600,7 @@
         "company_name": "Santander",
         "id": "43f1fcc4-1fdb-4868-ab24-9cbd01a2900f",
         "title": "Intern-3",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -57714,7 +57714,7 @@
         "company_name": "Dow Jones",
         "id": "057e082b-4c2b-4db2-b380-6d54203c442b",
         "title": "Summer 2024 Internship - Partnerships & Alliances",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -60227,7 +60227,7 @@
         "company_name": "Intel",
         "id": "8a7d307f-11f1-47d4-9a8c-508dbd7bdd0c",
         "title": "Research Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -63308,7 +63308,7 @@
         "company_name": "Leidos",
         "id": "bfb77052-ec1a-4cdc-9d86-e7555cf63784",
         "title": "Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -63319,6 +63319,63 @@
             "Baltimore, MD"
         ],
         "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Wasabi Technologies",
+        "id": "6762d1d5-35d6-482c-9691-2f8084b0f684",
+        "title": "Engineering Co-op",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1709309465,
+        "date_posted": 1709309465,
+        "url": "https://jobs.lever.co/wasabi/ce2937c3-1cc1-47d8-b607-8a2a9b82f8e8/apply",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/WasabiTech",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Wasabi Technologies",
+        "id": "c305e678-ab2b-40f9-b750-f9c674f87c3a",
+        "title": "Engineering Internship",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1709309462,
+        "date_posted": 1709309462,
+        "url": "https://jobs.lever.co/wasabi/96550457-df4c-482e-afdd-314a754df5c5/apply",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/WasabiTech",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "EngageSmart",
+        "id": "db8ea9f7-0606-48fa-9a54-a8258639f093",
+        "title": "Software Development Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1709309216,
+        "date_posted": 1709309216,
+        "url": "https://engagesmart.com/careers-invoicecloud/?gh_jid=5907508003",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/EngageSmart",
         "is_visible": true,
         "sponsorship": "Other"
     }
