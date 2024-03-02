@@ -19497,7 +19497,7 @@
         "company_name": "Lucid Motors",
         "id": "11837785-cb80-4464-8bd7-5ea5d803e1ec",
         "title": "Intern \u2013 Cloud Engineer - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -24902,7 +24902,7 @@
         "company_name": "Bridgewater Associates",
         "id": "328683e6-519f-4e0c-97c1-5237c57176cd",
         "title": "Investment Engineer Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -38990,9 +38990,9 @@
             "Summer 2024"
         ],
         "sponsorship": "Other",
-        "active": false,
-        "source": "yan-michael",
-        "id": "4e59da15-b1b8-4022-b3b3-a75be6a906cf",
+        "active": true,
+        "source": "Simplify",
+        "id": "9afc8966-ab32-4ef5-b5a5-4184349198ae",
         "date_posted": 1700259061,
         "company_url": "",
         "is_visible": true
@@ -40541,7 +40541,7 @@
         "company_name": "CACI",
         "id": "8c8b1b30-68d0-4eac-8f80-a88c15163e47",
         "title": "Cyber Engineering Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -41887,7 +41887,7 @@
         "company_name": "Ripple",
         "id": "f5cc689c-97c6-48c0-8758-c929556e8641",
         "title": "Software Engineer \u2013 Data Platform Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -44649,7 +44649,7 @@
         "company_name": "Toyota Research Institute",
         "id": "95bbed30-2135-40de-8ce7-f1179eff36eb",
         "title": "ML for Disordered Materials Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -45360,7 +45360,7 @@
         "company_name": "Red Ventures",
         "id": "44082158-dcc0-44a7-8c05-1ae5b438f3e3",
         "title": "2024 Launch Program: Business Analytics Associate Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -47497,7 +47497,7 @@
         "company_name": "Anduril",
         "id": "c6a4f749-279b-4845-870e-340ef98f9724",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -50923,7 +50923,7 @@
         "company_name": "MyFitnessPal",
         "id": "3a54ea10-f9e8-4fdd-9af7-53b1f162faeb",
         "title": "Machine Learning \u2013 Intern - Computer Vision - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -55465,7 +55465,7 @@
         "company_name": "Olo",
         "id": "a5836acd-fad0-49dc-89d0-b81e0cec9cdf",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -56290,7 +56290,7 @@
         "company_name": "Snowflake",
         "id": "2e60c15c-067d-4511-bf89-f3c16645c1c5",
         "title": "SI Alliances Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -61261,7 +61261,7 @@
         "company_name": "Billtrust",
         "id": "662c7614-489b-4fb7-9bcb-271abd80c6f7",
         "title": "QA Test Automation Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -61356,7 +61356,7 @@
         "company_name": "Lacework",
         "id": "d8d10607-246f-4188-b836-2e619adde0f5",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -62697,7 +62697,7 @@
         "company_name": "Leidos",
         "id": "a88208c2-a8a9-4dc7-bb76-9dfb6fe597bf",
         "title": "Data Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -62889,7 +62889,7 @@
         "company_name": "Unite Us",
         "id": "e24363c4-5a4c-489f-a2ca-f62bbc28f5d5",
         "title": "Internship: Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -62908,7 +62908,7 @@
         "company_name": "Leidos",
         "id": "c795e764-8959-4e12-93af-b08b6f10bbbb",
         "title": "Robotics Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -63376,6 +63376,25 @@
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/EngageSmart",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Oshkosh",
+        "id": "9ebb61ff-9f13-41cc-9ced-6274cf5a2d7a",
+        "title": "Data Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1709309735,
+        "date_posted": 1709309735,
+        "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Oshkosh-Wisconsin-United-States/Data-Analyst-Intern_R22458",
+        "locations": [
+            "Oshkosh, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Oshkosh",
         "is_visible": true,
         "sponsorship": "Other"
     }
