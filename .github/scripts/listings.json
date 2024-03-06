@@ -62927,18 +62927,18 @@
         "company_name": "G2",
         "id": "ad0ceb4a-29c7-465d-852f-fa0ec1e6685e",
         "title": "Summer Intern: Software Engineering - Python",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
-        "date_updated": 1709165255,
+        "date_updated": 1709695500,
         "date_posted": 1709165255,
         "url": "https://boards.greenhouse.io/g2crowd/jobs/5752260",
         "locations": [
             "Chicago, IL"
         ],
         "company_url": "https://simplify.jobs/c/G2",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
