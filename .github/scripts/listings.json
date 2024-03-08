@@ -20554,7 +20554,7 @@
         "company_name": "ZipRecruiter",
         "id": "0db74e48-45ce-47cc-b52a-dd7467a8a6c4",
         "title": "Software Engineer \u2013 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -34918,7 +34918,7 @@
         "company_name": "Smartsheet",
         "id": "d41f535e-6d6f-4565-afa1-a973e4f9925f",
         "title": "Software Engineer Intern - Observability",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -47304,7 +47304,7 @@
         "company_name": "Keywords Studios",
         "id": "7501cba0-ee51-419d-87b6-28a658d7a703",
         "title": "Research Intern - AI Start-up",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2024"
         ],
@@ -49086,7 +49086,7 @@
         "company_name": "Toyota Research Institute",
         "id": "dfd5bf5f-64fb-4346-b1f6-d6c0f3588414",
         "title": "Automated MD Simulations for Ionomers Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -49477,7 +49477,7 @@
         "company_name": "NVIDIA",
         "id": "2ac38bbe-d2f5-4fdd-a2ff-594d6d46e4da",
         "title": "Power Architect Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -52455,7 +52455,7 @@
         "company_name": "NVIDIA",
         "id": "a47f331f-8db4-4d93-b384-5f0946ca05a6",
         "title": "Finance Intern - Geforce FP&a - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -56759,7 +56759,7 @@
         "company_name": "Digital.ai",
         "id": "74e59e04-0420-43bf-a2ff-9ce2f465a0c4",
         "title": "Intern \u2013 Quality Engineering for Automation",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024"
         ],
@@ -57467,7 +57467,7 @@
         "company_name": "Western Digital",
         "id": "131b9970-fc2e-4a01-ab85-fd68c85d842b",
         "title": "Firmware Engineer Intern - Physical Storage",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -57619,7 +57619,7 @@
         "company_name": "OwnBackup",
         "id": "2de4be8f-184a-422b-9b26-c907034b42f4",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -57638,7 +57638,7 @@
         "company_name": "OwnBackup",
         "id": "ed879b9d-3477-4e48-974b-a25ab7a7ef89",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -57657,7 +57657,7 @@
         "company_name": "OwnBackup",
         "id": "9d4d8318-a0fa-4960-829a-f88d328b706e",
         "title": "Data Science & Machine Learning Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -57771,7 +57771,7 @@
         "company_name": "CACI",
         "id": "fd4e9929-f09f-4114-9c74-c8414241b590",
         "title": "Software Engineering Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -59492,7 +59492,7 @@
         "company_name": "SpecterOps",
         "id": "ad1716a0-0e03-4111-a16e-78e20c81a805",
         "title": "Product Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -60359,7 +60359,7 @@
         "company_name": "Santander",
         "id": "9541ef9e-4e34-4dac-8304-c891bd2dc379",
         "title": "Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -60971,7 +60971,7 @@
         "company_name": "Symbotic",
         "id": "be4e070f-9974-4064-b77c-5264026977cf",
         "title": "Intern-Robotics Systems",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024",
             "Spring 2025",
@@ -61185,7 +61185,7 @@
         "company_name": "Mobilityware",
         "id": "3d77cf85-6e38-4c67-b8b7-67f3ce915c7f",
         "title": "Data Analyst Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -61261,7 +61261,7 @@
         "company_name": "Billtrust",
         "id": "662c7614-489b-4fb7-9bcb-271abd80c6f7",
         "title": "QA Test Automation Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -61394,7 +61394,7 @@
         "company_name": "Aurora Innovation",
         "id": "9afe9de1-a774-4bbd-b642-6d9952fafedb",
         "title": "Embedded Software Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -61949,7 +61949,7 @@
         "company_name": "Formlabs",
         "id": "b4ce0a06-0ebc-4124-a69f-1c8a731b6a76",
         "title": "Manufacturing Engineering Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -62082,7 +62082,7 @@
         "company_name": "Arrowhead Pharmaceuticals",
         "id": "06bf7332-268f-4da1-a86e-6a13a8c89a99",
         "title": "Summer Intern - Translational Genetics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -62792,7 +62792,7 @@
         "company_name": "Western Digital",
         "id": "05d9897c-b59e-45df-97eb-54dc21297a10",
         "title": "RAMP System Design Verification Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -62965,7 +62965,7 @@
         "company_name": "Bristol-Myers Squibb",
         "id": "7f7c6b43-acec-4502-8fdc-558fb7e6447e",
         "title": "Summer 2024 \u2013 Commercial Data Science Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -63441,7 +63441,7 @@
         "company_name": "WeaveGrid",
         "id": "11c2460d-64d0-45f3-a88c-1fbf3eeab726",
         "title": "Full Stack Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -63498,7 +63498,7 @@
         "company_name": "Unite Us",
         "id": "a5557731-cb09-4b48-824e-7227e6ac34e9",
         "title": "Product Manager Intern - Data Science",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -63515,7 +63515,7 @@
     {
         "source": "Simplify",
         "company_name": "Visa",
-        "id": "97d74bb9-0f95-44a8-89c8-c40ad4059165",
+        "id": "be56d83e-d958-4703-a7dc-0aa2ca176d7b",
         "title": "Software Engineer \u2013 Intern - Summer 2024",
         "active": true,
         "terms": [
@@ -63574,7 +63574,7 @@
         "company_name": "Modernizing Medicine",
         "id": "9ae40119-ef40-4ebb-b50e-4bda9e77cee8",
         "title": "Software Engineer Intern - AI",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -63727,7 +63727,7 @@
         "company_name": "WeaveGrid",
         "id": "b0e812d1-397d-4d66-826e-fd297072bae2",
         "title": "Program Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -64195,7 +64195,7 @@
         "company_name": "UserTesting",
         "id": "0ec74c94-f0a5-441b-a784-bfb16b597a73",
         "title": "Business Intelligence Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -64544,7 +64544,7 @@
         "company_name": "Snackpass",
         "id": "0fcee3b4-d66b-4f8b-a3a5-f589a7d814e1",
         "title": "Software Engineer \u2013 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024",
             "Summer 2024"
@@ -64583,7 +64583,7 @@
         "company_name": "Appian",
         "id": "e23ea8c7-667e-4e7f-8163-6dae4d7d7c3d",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -64651,6 +64651,45 @@
             "Austin, TX"
         ],
         "company_url": "https://simplify.jobs/c/Cloudflare",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Five9",
+        "id": "3b3687bd-e134-42d0-8f25-24bf030521ec",
+        "title": "Engineering Intern",
+        "active": true,
+        "terms": [
+            "Spring 2024",
+            "Summer 2024"
+        ],
+        "date_updated": 1709915066,
+        "date_posted": 1709915066,
+        "url": "https://www.five9.com/about/careers/job-detail?gh_jid=5120531004",
+        "locations": [
+            "San Ramon, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Five9",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Cohere Health",
+        "id": "2fef116b-faac-487f-84d4-ac5c826275aa",
+        "title": "SWE CO-Op \u2013 Security - June - Nov 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1709914067,
+        "date_posted": 1709914067,
+        "url": "https://boards.greenhouse.io/coherehealth/jobs/5914693003",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/897d9f54-64bb-4399-a926-10ea9a114bdd",
         "is_visible": true,
         "sponsorship": "Other"
     }
