@@ -6311,7 +6311,7 @@
         "company_name": "Intel",
         "id": "9c78c620-0af8-420e-91f0-95d114d608fb",
         "title": "Undergrad Technical Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -12400,7 +12400,7 @@
         "company_name": "Sensata",
         "id": "50a6b3aa-40d1-4394-9b3e-c4f16f043df2",
         "title": "Software Engineer Intern-Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -13580,7 +13580,7 @@
         "company_name": "Bridgewater Associates",
         "id": "f5bd5d6c-1394-415b-b0a7-e21a670ab247",
         "title": "Investment Engineer Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -16714,7 +16714,7 @@
         "company_name": "Okta",
         "id": "2eef523e-78cb-460d-8db7-4f553d365c60",
         "title": "Machine Learning Engineer Intern - Customer Identity Cloud - Summer 2024",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -26276,7 +26276,7 @@
         "company_name": "Zoox",
         "id": "f1c4e1dc-83f6-4afe-9434-c95361fdfaeb",
         "title": "Software Architecture Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -40541,7 +40541,7 @@
         "company_name": "CACI",
         "id": "8c8b1b30-68d0-4eac-8f80-a88c15163e47",
         "title": "Cyber Engineering Intern - Summer 2024",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -40829,7 +40829,7 @@
         "company_name": "Samsung",
         "id": "95ad3f60-acea-4e98-8529-e57e2cb209d3",
         "title": "Intern \u2013 DRAM Application Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -40963,7 +40963,7 @@
         "company_name": "The Boring Company",
         "id": "ebf833c3-ab16-435d-8a7f-be245d6e9c58",
         "title": "Software Engineering Intern - Winter/Spring 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025",
             "Spring 2025"
@@ -48703,7 +48703,7 @@
         "company_name": "The Boring Company",
         "id": "a4ef2f82-6586-42b5-ac39-2e83618d1d46",
         "title": "Software Engineering Intern - Winter/Spring 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2024",
             "Spring 2024"
@@ -49066,7 +49066,7 @@
         "company_name": "Rockwell Automation",
         "id": "a39af650-60ba-4b1c-ba1a-454829b0644c",
         "title": "Intern \u2013 Cyber Security",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -50406,7 +50406,7 @@
         "company_name": "F5",
         "id": "518f0ad0-b22c-4460-8391-205894630403",
         "title": "Software Engineering Intern - San Jose",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024",
             "Fall 2024"
@@ -53410,7 +53410,7 @@
         "company_name": "UDisc",
         "id": "ceaa13ab-b881-458f-a747-c9045c51d026",
         "title": "2024 Android Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -55427,7 +55427,7 @@
         "company_name": "Pendo",
         "id": "6d4e8fd5-8c5b-4978-b805-da2bf57337bf",
         "title": "Summer 2024 Software Engineering Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -56171,7 +56171,7 @@
         "company_name": "Intel",
         "id": "5bdb0e2a-4f63-4f06-9dd7-ed9d72502fbd",
         "title": "Offensive Security Researcher \u2013 Undergraduate Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -56209,7 +56209,7 @@
         "company_name": "Western Digital",
         "id": "bf82a3d5-f5d2-4886-aa12-b3cdb6d354e9",
         "title": "Summer 2024 Intern - Procurement",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -60187,7 +60187,7 @@
         "company_name": "Alcon",
         "id": "46174fc1-218c-48d6-9878-4e8216e9aa7b",
         "title": "Summer 2024 \u2013 Information Technology Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -61261,7 +61261,7 @@
         "company_name": "Billtrust",
         "id": "662c7614-489b-4fb7-9bcb-271abd80c6f7",
         "title": "QA Test Automation Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -62946,7 +62946,7 @@
         "company_name": "Leidos",
         "id": "5eb96264-993f-4da9-b393-1e26217d6d3d",
         "title": "Devops Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -63175,7 +63175,7 @@
         "company_name": "Take Two",
         "id": "0f5af57c-6145-4a08-a6d8-597b93e10f2d",
         "title": "Business Planning & Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -63888,7 +63888,7 @@
         "company_name": "Unite Us",
         "id": "ffeaf559-f4fb-49aa-bab5-bb8a911abea8",
         "title": "Software Engineering Intern - Payments Team",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -64479,6 +64479,178 @@
             "Cambridge, MA"
         ],
         "company_url": "https://simplify.jobs/c/Wayfair",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Western Digital",
+        "id": "b1a6c907-02f6-4a3c-911d-b32743a3ceaa",
+        "title": "System Architecture and Design Engineer-Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1709858058,
+        "date_posted": 1709858058,
+        "url": "https://jobs.smartrecruiters.com/WesternDigital/743999972610260",
+        "locations": [
+            "Milpitas, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Western-Digital",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Intel",
+        "id": "8895d9b9-0e65-4f80-9fd3-8b4647de8471",
+        "title": "Data science intern",
+        "active": true,
+        "terms": [
+            "Spring 2024"
+        ],
+        "date_updated": 1709857686,
+        "date_posted": 1709857686,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/data-science-intern_JR0259843-1",
+        "locations": [
+            "Hillsboro, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Autodesk",
+        "id": "463d8638-13c2-4063-b5d1-2c9a24b96454",
+        "title": "Remote Backend Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1709857110,
+        "date_posted": 1709857110,
+        "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Arizona-USA---Remote/Remote-Backend-Engineer-Intern_24WD76180",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Autodesk",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Snackpass",
+        "id": "0fcee3b4-d66b-4f8b-a3a5-f589a7d814e1",
+        "title": "Software Engineer \u2013 Intern",
+        "active": true,
+        "terms": [
+            "Spring 2024",
+            "Summer 2024"
+        ],
+        "date_updated": 1709856990,
+        "date_posted": 1709856990,
+        "url": "https://boards.greenhouse.io/snackpasspt/jobs/4658696004",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Snackpass",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Visa",
+        "id": "26ac6d46-4b49-4636-9a8a-e40e54fce4a3",
+        "title": "Software Engineer \u2013 Intern - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1709856577,
+        "date_posted": 1709856577,
+        "url": "https://jobs.smartrecruiters.com/Visa/743999972605824",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Visa",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Appian",
+        "id": "e23ea8c7-667e-4e7f-8163-6dae4d7d7c3d",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1709829136,
+        "date_posted": 1709829136,
+        "url": "https://boards.greenhouse.io/appian/jobs/5785341",
+        "locations": [
+            "McLean, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Appian",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Pison",
+        "id": "3add837d-363a-4ac5-a856-ffcbb3b67e8b",
+        "title": "Algorithm Production Intern - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1709828404,
+        "date_posted": 1709828404,
+        "url": "https://jobs.lever.co/pison/25ccdab7-ec64-4776-b2f5-40e3eb6f454d/apply",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/PisonTech",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Bristol-Myers Squibb",
+        "id": "6dabd90f-3b57-4c65-829b-c277f63c58a4",
+        "title": "Commercial Data Science Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1709827830,
+        "date_posted": 1709827830,
+        "url": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/en-US/BMS/job/Princeton---NJ---US/Commercial-Data-Science-Intern_R1579019",
+        "locations": [
+            "Princeton, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/Bristol-Myers-Squibb",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Cloudflare",
+        "id": "26d9f4e6-8468-4a57-bf8a-7e04f0793e08",
+        "title": "Marketing Analytics Intern - Regional Programs - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1709842497,
+        "date_posted": 1707332356,
+        "url": "https://boards.greenhouse.io/cloudflare/jobs/5672814",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Cloudflare",
         "is_visible": true,
         "sponsorship": "Other"
     }
