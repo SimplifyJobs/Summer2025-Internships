@@ -15708,7 +15708,7 @@
         "company_name": "Accenture Federal Services",
         "id": "b17ae975-780a-43a8-b8d9-9777e55aff1f",
         "title": "Summer Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -16059,7 +16059,7 @@
         "company_name": "WhatNot",
         "id": "4068ac5b-b6db-42ce-b6c4-82e03172fbc2",
         "title": "Software Engineering Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -16851,7 +16851,7 @@
         "company_name": "Enova",
         "id": "9377b057-4b1e-4af9-a7e7-cfe16147779d",
         "title": "Analytics Internship Summer 2024 - Hybrid",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -40541,7 +40541,7 @@
         "company_name": "CACI",
         "id": "8c8b1b30-68d0-4eac-8f80-a88c15163e47",
         "title": "Cyber Engineering Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -46225,7 +46225,7 @@
         "company_name": "Talos",
         "id": "f59e9c58-6a89-47a7-a527-3a5ce6d4da6c",
         "title": "Data Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -49238,7 +49238,7 @@
         "company_name": "Exiger",
         "id": "729744bc-845d-4f16-a5e8-3dc95f14950b",
         "title": "Data Analyst Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -52887,7 +52887,7 @@
         "company_name": "Leidos",
         "id": "47ec8574-ee24-4a33-9698-68d76c3e1dac",
         "title": "Computer Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -54331,7 +54331,7 @@
         "company_name": "TripAdvisor",
         "id": "f1544c33-c025-4f4a-9beb-3f7ada8f981c",
         "title": "Software Engineering Intern x5 - Viator",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024",
             "Fall 2024"
@@ -56152,7 +56152,7 @@
         "company_name": "Crowdstrike",
         "id": "611dbe0e-703d-49bb-a635-39e43db6f892",
         "title": "Internal Audit Intern - Remote",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -62754,7 +62754,7 @@
         "company_name": "CACI",
         "id": "eb3c525f-73ac-4da9-8ae5-51e7dd44a6ab",
         "title": "Software Development Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -63270,7 +63270,7 @@
         "company_name": "Analytic Partners",
         "id": "b6167f0f-7928-4f63-bfab-baab8ccc4d57",
         "title": "Data Science Internship - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -63403,7 +63403,7 @@
         "company_name": "CACI",
         "id": "f2cedd5b-e3b5-4aa8-97d5-0316810cca75",
         "title": "Software Engineering Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -63460,7 +63460,7 @@
         "company_name": "Wayfair",
         "id": "4b92e5c8-8156-43d0-9238-8e9bd651451f",
         "title": "Technical Analyst Co-op - July 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -63593,7 +63593,7 @@
         "company_name": "Plexus",
         "id": "ad03ad97-610c-46d0-90a3-80762503a074",
         "title": "Intern \u2013 Software Developer - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -63669,7 +63669,7 @@
         "company_name": "Snyk",
         "id": "f9b2b66f-99b8-43fd-a2e2-5a157ee7d40d",
         "title": "Engineering Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -64021,7 +64021,7 @@
         "company_name": "PROCEPT BioRobotics",
         "id": "c204ef0d-7c8c-485c-afc5-50794ee22e56",
         "title": "ML Software Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -64061,7 +64061,7 @@
         "company_name": "Relativity",
         "id": "f3c788b2-9a53-4ca3-836c-cc40b180de0c",
         "title": "User Experience \u2013 Intern - UX",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -64252,7 +64252,7 @@
         "company_name": "Waymo",
         "id": "ff858be5-4751-4f08-8335-61daadf19e13",
         "title": "2024 Intern - BS/MS - Software Engineer - Infrastructure Taas",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -64311,7 +64311,7 @@
         "company_name": "Leidos",
         "id": "4118a342-d5ac-4ec2-9d5c-2db06df6b4d1",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -64525,7 +64525,7 @@
         "company_name": "Autodesk",
         "id": "463d8638-13c2-4063-b5d1-2c9a24b96454",
         "title": "Remote Backend Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -64921,6 +64921,44 @@
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/Unite-Us",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Niantic",
+        "id": "feaca16e-158a-45ce-9a50-78451a2aa052",
+        "title": "2024 Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1710184559,
+        "date_posted": 1710140908,
+        "url": "https://boards.greenhouse.io/niantic/jobs/7279409002",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Niantic",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "IPG DXTRA",
+        "id": "2376a909-03bd-475d-af71-11e6cb94fd15",
+        "title": "Strategy & Analytics Intern - New York",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1710184711,
+        "date_posted": 1709914480,
+        "url": "https://boards.greenhouse.io/dxacirca/jobs/7278068002",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/IPG-DXTRA",
         "is_visible": true,
         "sponsorship": "Other"
     }
