@@ -41059,7 +41059,7 @@
         "company_name": "Hugging Face",
         "id": "fa8ec14e-3eb3-4f28-b058-36724d784764",
         "title": "ML Engineer Internship - Open benchmarks of AI hardware - Remote",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -41098,7 +41098,7 @@
         "company_name": "Hugging Face",
         "id": "6a693cf0-6338-4f81-8943-ee904870f095",
         "title": "ML Engineer Internship - Open benchmarks of AI hardware - US Remote",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -43745,7 +43745,7 @@
         "company_name": "Simbe Robotics",
         "id": "8d738c60-4866-4302-8564-a738a0d9cd48",
         "title": "Robotics Software Engineer \u2013 Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2023",
             "Spring 2024",
@@ -44155,7 +44155,7 @@
         "company_name": "IEX",
         "id": "667303f0-ed7c-4b00-ac0f-fca39980ffef",
         "title": "Systems Reliability Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -47627,7 +47627,7 @@
         "company_name": "NVIDIA",
         "id": "ada6584f-86e5-44ce-9aef-6f3aec86e996",
         "title": "Solutions Architect Intern - Cybersecurity AI - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -51949,7 +51949,7 @@
         "company_name": "NVIDIA",
         "id": "8afb2dd5-21eb-49f1-9948-f23c91d41dcc",
         "title": "GPU Architect Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -54370,7 +54370,7 @@
         "company_name": "Expedia",
         "id": "bcda1265-2228-4ed9-96c0-d379f5c749b6",
         "title": "Data Science \u2013 Analytics Intern - London",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -54719,7 +54719,7 @@
         "company_name": "Box",
         "id": "98973421-6118-4f9b-a739-6dbc37bb0116",
         "title": "Software Engineering Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -55962,7 +55962,7 @@
         "company_name": "Western Digital",
         "id": "b84301fb-e173-45b1-a080-82f5e444af44",
         "title": "Advanced Manufacturing Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024"
         ],
@@ -55981,7 +55981,7 @@
         "company_name": "Western Digital",
         "id": "f92f1912-544f-4705-8a73-51c74ba76f89",
         "title": "Advanced Manufacturing Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024"
         ],
@@ -57733,7 +57733,7 @@
         "company_name": "EquipmentShare",
         "id": "f36ce65e-2526-4d6e-ad38-b1e698975af8",
         "title": "Intern: Data Scientist - Operations Research",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -58088,7 +58088,7 @@
         "company_name": "NVIDIA",
         "id": "f0825d41-bbda-4396-8cd2-59d1f1a18b7e",
         "title": "Solutions Architect Intern - AI - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -58338,7 +58338,7 @@
         "company_name": "Western Digital",
         "id": "46eecc14-eb42-4ee6-8f2c-2600565301d4",
         "title": "FPG ESS System Validation \u2013 Summer  Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -58838,7 +58838,7 @@
         "company_name": "Cloudflare",
         "id": "6c607fa7-3172-4442-a022-9cf337045f0f",
         "title": "Research Intern - 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2024"
         ],
@@ -59321,7 +59321,7 @@
         "company_name": "Western Digital",
         "id": "a42ddbbe-8d52-46eb-8491-a667d454e58c",
         "title": "Advanced Manufacturing Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024"
         ],
@@ -59340,7 +59340,7 @@
         "company_name": "Western Digital",
         "id": "9b193077-d280-4bc9-a1b1-1de82d57026b",
         "title": "Advanced Manufacturing Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024"
         ],
@@ -61738,7 +61738,7 @@
         "company_name": "Intel",
         "id": "6f97b6c8-f654-49d2-9513-be06dc7a4316",
         "title": "Firmware Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -62368,7 +62368,7 @@
         "company_name": "Cloudflare",
         "id": "a9591d30-eda7-4949-9db4-e1e600b2014e",
         "title": "Research Intern - 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2024"
         ],
@@ -63536,7 +63536,7 @@
         "company_name": "Proofpoint",
         "id": "6674dfb7-e633-4756-b0db-8888b956609d",
         "title": "Data Scientist Summer Intern - Undergraduate",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -64793,7 +64793,7 @@
         "company_name": "Leidos",
         "id": "18748b2b-37d9-421c-b94a-9a3e06dfdb3c",
         "title": "SOC Operations Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -64831,7 +64831,7 @@
         "company_name": "PayPal",
         "id": "fc7c90d5-3ae4-4cff-91d7-e341f36dd7d7",
         "title": "Software Engineer Intern - Canada",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024",
             "Fall 2024"
@@ -64851,7 +64851,7 @@
         "company_name": "Lightmatter",
         "id": "4809253e-8b69-45fb-bb98-5e6c5b357d3c",
         "title": "Intern \u2013 User Interface - Boston",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -64910,7 +64910,7 @@
         "company_name": "Unite Us",
         "id": "7cac8ee0-d387-43f6-890c-9561678a5e86",
         "title": "Software Engineering Intern - Screenings & Coordination Team",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -64959,6 +64959,141 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/IPG-DXTRA",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Litify",
+        "id": "073dea91-a6b0-4f53-b081-5680f76ac104",
+        "title": "Software Engineer Co-op - Cooperative Education",
+        "active": true,
+        "terms": [
+            "Spring 2024"
+        ],
+        "date_updated": 1710270266,
+        "date_posted": 1710199755,
+        "url": "https://boards.greenhouse.io/litify/jobs/5800324",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Litify",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Weave",
+        "id": "8e6e54f1-a59d-4cfa-b9d8-f8f8259be0c2",
+        "title": "Product Intern",
+        "active": true,
+        "terms": [
+            "Spring 2024",
+            "Summer 2024"
+        ],
+        "date_updated": 1710199622,
+        "date_posted": 1710199622,
+        "url": "https://boards.greenhouse.io/weavehq/jobs/5907044003",
+        "locations": [
+            "Lehi, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/Weave",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Planet",
+        "id": "5a8a2e4b-87b4-4261-b9a2-7d5771c82233",
+        "title": "Intern \u2013 Flight Software Engineering",
+        "active": true,
+        "terms": [
+            "Spring 2024",
+            "Summer 2024"
+        ],
+        "date_updated": 1710199137,
+        "date_posted": 1710199137,
+        "url": "https://boards.greenhouse.io/planetlabs/jobs/5752476",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Planet",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "EarnIn",
+        "id": "4287c37f-4749-44bf-ab96-209a775728d1",
+        "title": "Product Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1710198546,
+        "date_posted": 1710198546,
+        "url": "https://boards.greenhouse.io/earnin/jobs/5796028",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Earnin",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Cohere Health",
+        "id": "c2ee37b0-d418-44f8-b95b-2cac9b51ad90",
+        "title": "Data Analyst Co-Op - June-Nov 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1710198456,
+        "date_posted": 1710198456,
+        "url": "https://boards.greenhouse.io/coherehealth/jobs/5917870003",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/897d9f54-64bb-4399-a926-10ea9a114bdd",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Cohere Health",
+        "id": "77b3a810-40c4-448f-9420-5169ea950cf0",
+        "title": "Data Scientist Co-Op - June-Nov 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1710198457,
+        "date_posted": 1710198457,
+        "url": "https://boards.greenhouse.io/coherehealth/jobs/5917859003",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/897d9f54-64bb-4399-a926-10ea9a114bdd",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Precisely",
+        "id": "e95b07d7-5688-4acd-a208-b88c0577ceb0",
+        "title": "Junior Data Scientist \u2013 2 Months Summer Internship",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1710271140,
+        "date_posted": 1709338572,
+        "url": "https://www.precisely.com/careers-and-culture/us-jobs/job/4372879005?gh_jid=4372879005",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Precisely",
         "is_visible": true,
         "sponsorship": "Other"
     }
