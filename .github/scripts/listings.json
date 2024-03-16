@@ -15923,7 +15923,7 @@
         "company_name": "Applied Materials",
         "id": "0fe3080f-5e6b-41ba-9ae4-2ff129313e72",
         "title": "Mechanical \u2013 & Process Engineering Internships - Electrical - Bachelor's Level - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -35409,7 +35409,7 @@
         "company_name": "WeRide",
         "id": "3c1d76fd-93f2-4924-9541-10fda2cabfc1",
         "title": "Software Engineer Intern Spring/Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024",
             "Summer 2024"
@@ -46130,7 +46130,7 @@
         "company_name": "Watershed",
         "id": "fd1e2da3-d3e1-4d0c-8943-9733852ab923",
         "title": "Software engineer \u2013 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -55104,7 +55104,7 @@
         "company_name": "Advisor360\u00b0",
         "id": "7a76ac66-4e83-48b5-a75a-31098be7bc7b",
         "title": "Systems Engineer \u2013 Summer Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -60857,7 +60857,7 @@
         "company_name": "Elevance Health",
         "id": "cac61383-2d07-4c85-8d3c-09d88fe3c841",
         "title": "Data Analyst Internship - Summer 2024 - Undergraduate",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -60876,7 +60876,7 @@
         "company_name": "Elevance Health",
         "id": "c4f8695f-4615-4291-b614-f3eaa972d36e",
         "title": "Data Analyst Internship - Summer 2024 - Undergraduate",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -62235,7 +62235,7 @@
         "company_name": "Chime",
         "id": "54194749-c6cf-4b1d-836b-440386bbb784",
         "title": "Software Engineer Intern - Personalization",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -63422,7 +63422,7 @@
         "company_name": "Rockwell Automation",
         "id": "5fe1b384-c4dd-4c5d-9e61-621120214a33",
         "title": "Intern \u2013 Hardware Development Test",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2024"
         ],
@@ -64002,7 +64002,7 @@
         "company_name": "Weave",
         "id": "3a58aa40-fd85-4c32-b927-2579240857bd",
         "title": "People Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -64812,7 +64812,7 @@
         "company_name": "Etsy",
         "id": "d01aff33-602e-4e28-8b64-c0f503d9ab57",
         "title": "Software Engineer Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -64986,7 +64986,7 @@
         "company_name": "Weave",
         "id": "8e6e54f1-a59d-4cfa-b9d8-f8f8259be0c2",
         "title": "Product Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024",
             "Summer 2024"
@@ -65413,7 +65413,7 @@
         "company_name": "Coalfire",
         "id": "997317c0-5880-45a0-9110-117e01567a6a",
         "title": "Intern \u2013 2024 Summer Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -65757,7 +65757,7 @@
         "company_name": "Normalyze",
         "id": "0f94814a-6b01-40dd-9c11-e482c5c1ecfb",
         "title": "Intern \u2013 Software Engineer - Genai and LLM",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -66075,6 +66075,276 @@
             "LA"
         ],
         "company_url": "https://simplify.jobs/c/Skyryse",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Samsung",
+        "id": "b9c63dc8-c1d9-42e9-ab33-fbb1685e6adc",
+        "title": "Global Mobility Intern - Enterprise SSD Firmware Engineer - Pfd",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1710574377,
+        "date_posted": 1710574377,
+        "url": "https://boards.greenhouse.io/samsungsemiconductor/jobs/5921572003",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Samsung",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Bristol-Myers Squibb",
+        "id": "ad605bfe-89f7-4543-82dc-92ca55422059",
+        "title": "Biologics Development Summer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1710545277,
+        "date_posted": 1710545277,
+        "url": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/en-US/BMS/job/Devens---MA---US/Biologics-Development-Summer-Intern_R1579203",
+        "locations": [
+            "Devens, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Bristol-Myers-Squibb",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Bristol-Myers Squibb",
+        "id": "a4595eb6-33aa-4057-b773-f5b794fc2016",
+        "title": "Summer 2024 \u2013 Commercial Data Science Internship",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1710545277,
+        "date_posted": 1710545277,
+        "url": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/en-US/BMS/job/Princeton---NJ---US/Summer-2024---Commercial-Data-Science-Internship_R1579207",
+        "locations": [
+            "Princeton, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/Bristol-Myers-Squibb",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Samsung",
+        "id": "553f4ab9-eece-4115-bebc-a9f6287b4703",
+        "title": "Intern \u2013 WLAN Firmware Engineer",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1710545275,
+        "date_posted": 1710545275,
+        "url": "https://boards.greenhouse.io/samsungsemiconductor/jobs/5922231003",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Samsung",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Asana",
+        "id": "704627a3-4196-4644-bc26-53dfb5ed6e3f",
+        "title": "Asanaup Software Engineer Apprentice",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1710544851,
+        "date_posted": 1710544851,
+        "url": "https://www.asana.com/jobs/apply/5820434?gh_jid=5820434",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Asana",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "SoundCloud",
+        "id": "e7588977-ead9-4205-9b02-b60c66076aed",
+        "title": "Finance Data Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1710544824,
+        "date_posted": 1710544824,
+        "url": "https://boards.greenhouse.io/soundcloud71/jobs/7288613002",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/SoundCloud",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Visa",
+        "id": "793af1fa-4cf4-48fd-baa4-82e02487442d",
+        "title": "Associate Data Scientist \u2013 Intern - Cybersecurity",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1710544807,
+        "date_posted": 1710544807,
+        "url": "https://jobs.smartrecruiters.com/Visa/743999974161118",
+        "locations": [
+            "Ashburn, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Visa",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Vistar Media",
+        "id": "75106215-0e72-4980-9f10-6bbf062d3ebb",
+        "title": "Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1710544788,
+        "date_posted": 1710544788,
+        "url": "https://jobs.lever.co/vistarmedia-2/5ebba886-6bad-40ee-85fe-33e52c466702/apply",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Vistar-Media",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "First American",
+        "id": "0f11d96f-b126-48cd-ab83-845ccdfec283",
+        "title": "Infosec Application Security Intern - Undergrad - Hybrid",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1710544585,
+        "date_posted": 1710544585,
+        "url": "https://firstam.wd1.myworkdayjobs.com/firstamericancareers/job/USA-California-Santa-Ana/InfoSec-Application-Security-Intern---Undergrad--Hybrid-_R043714",
+        "locations": [
+            "Orange, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/First-American",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Planet",
+        "id": "c991bf51-d85e-451e-a4dc-de368bde687d",
+        "title": "Intern \u2013 Orbits R&D",
+        "active": true,
+        "terms": [
+            "Spring 2024",
+            "Summer 2024"
+        ],
+        "date_updated": 1710544244,
+        "date_posted": 1710544244,
+        "url": "https://boards.greenhouse.io/planetlabs/jobs/5799193",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Planet",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Western Digital",
+        "id": "e4fdc450-a69e-45d0-bb49-73a2bb00ec31",
+        "title": "RAMP Engineering Co-Op Program - Flash System Integration Test Lab",
+        "active": true,
+        "terms": [
+            "Spring 2024",
+            "Summer 2024",
+            "Fall 2024",
+            "Winter 2025"
+        ],
+        "date_updated": 1707178084,
+        "date_posted": 1707178084,
+        "url": "https://jobs.smartrecruiters.com/WesternDigital/743999965738174",
+        "locations": [
+            "Rochester, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Western-Digital",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Stoke Space",
+        "id": "5c947d51-5f24-4e67-bf5b-d37f6854c691",
+        "title": "Intern \u2013 Fall 2024",
+        "active": true,
+        "terms": [
+            "Fall 2024"
+        ],
+        "date_updated": 1702685573,
+        "date_posted": 1702685573,
+        "url": "https://stokespace.com/careers/current-openings?gh_jid=5040989004",
+        "locations": [
+            "Kent, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Stoke-Space",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Formlabs",
+        "id": "c36bb09d-7805-467a-a26e-86773bc87894",
+        "title": "R&D Engineering Intern - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1702080433,
+        "date_posted": 1702080433,
+        "url": "https://careers.formlabs.com/job/5494855/apply/?gh_jid=5494855",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Formlabs",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Waterfall",
+        "id": "e754cca4-b470-4c47-bcc1-221d7dc9464d",
+        "title": "Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1691940453,
+        "date_posted": 1691940453,
+        "url": "https://jobs.lever.co/waterfall/0670f801-bf35-410e-8310-0f7aa3fa9650/apply",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/e48a68e1-11ea-406d-a4c3-25e1a79466a1",
         "is_visible": true,
         "sponsorship": "Other"
     }
