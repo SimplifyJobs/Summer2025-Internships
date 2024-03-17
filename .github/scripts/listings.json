@@ -59973,7 +59973,7 @@
         "company_name": "Applied Materials",
         "id": "081726c2-30e6-4111-9781-2703cbbac38c",
         "title": "Artificial Intelligence Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -63981,7 +63981,7 @@
     {
         "source": "Simplify",
         "company_name": "Visa",
-        "id": "74ceddde-1b15-4560-b17c-5a6f968049d5",
+        "id": "9d956bd4-7e7d-4f0a-8487-bea9c075fb1b",
         "title": "Software Engineer \u2013 Intern - Summer 2024",
         "active": true,
         "terms": [
@@ -64233,7 +64233,7 @@
         "company_name": "Vantage ",
         "id": "17389062-3f37-4a86-bdda-59aaeec76ef5",
         "title": "Software Engineering Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
