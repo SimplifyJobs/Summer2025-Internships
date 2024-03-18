@@ -66442,5 +66442,25 @@
         "date_posted": 1710803889,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1710803931,
+        "url": "https://www.amazon.jobs/en/jobs/2545578/amazon-robotics-software-development-engineer-co-op-fall-2024",
+        "company_name": "Amazon Robotics",
+        "title": "Software Development Engineer Co-Op (July to December 2024)",
+        "locations": [
+            "Westborough, MA"
+        ],
+        "terms": [
+            "Summer 2024",
+            "Fall 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "divepile",
+        "id": "9e7037f9-b7b2-4d00-9c46-61620cced727",
+        "date_posted": 1710803931,
+        "company_url": "",
+        "is_visible": true
     }
 ]
