@@ -4500,7 +4500,7 @@
         "company_name": "DRW",
         "id": "0294d8c6-65a2-4004-baab-4a879d9191a2",
         "title": "Quantitative Trading Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -8043,7 +8043,7 @@
         "company_name": "Arrowstreet Capital",
         "id": "93b87840-eb8d-491c-b27d-e1aa4cf4950a",
         "title": "Quantitative Researcher Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -8676,7 +8676,7 @@
         "company_name": "Walmart",
         "id": "62ba7f6d-0107-4604-80c6-33e9522ba841",
         "title": "2023 Walmart Intern Conversion: 2024 Return Intern Software Engineer II - Sunnyvale - CA",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2023"
         ],
@@ -28776,7 +28776,7 @@
         "company_name": "Zoox",
         "id": "dda51821-dadc-46b0-81ca-4cdc6ee98897",
         "title": "Security Data Visualization Internship/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -47382,7 +47382,7 @@
         "company_name": "Samsung",
         "id": "684a2b35-051c-428b-baf3-397604308804",
         "title": "Intern \u2013 Software Quality Engineering - Soc C&MM",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -49066,7 +49066,7 @@
         "company_name": "Rockwell Automation",
         "id": "a39af650-60ba-4b1c-ba1a-454829b0644c",
         "title": "Intern \u2013 Cyber Security",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -52747,7 +52747,7 @@
         "company_name": "Two Six Technologies",
         "id": "4392577d-f5e8-4346-a0e0-6c7b4dd91ed7",
         "title": "TSC Cyber & Data Science Summer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -53140,7 +53140,7 @@
         "company_name": "Seismic",
         "id": "f5279ac4-83a7-446d-8682-4c56e271a491",
         "title": "Software Engineer Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -53695,7 +53695,7 @@
         "company_name": "PsiQuantum",
         "id": "dcebb555-3dc8-4dd3-9823-3cdcad5a7b6e",
         "title": "Intern \u2013 Quantum Applications",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024"
         ],
@@ -55389,7 +55389,7 @@
         "company_name": "Thousand Eyes",
         "id": "f81194a5-7346-4b21-9fed-11d446a85eed",
         "title": "Software Engineer Intern - User Experience Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -56038,7 +56038,7 @@
         "company_name": "Chamberlain Group",
         "id": "6c2dc05b-f668-4e96-8ba5-875eab6a7cdc",
         "title": "Intern \u2013 Software Engineer - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -57065,7 +57065,7 @@
         "company_name": "Harbinger Motors",
         "id": "acb925f2-8c61-4aa9-b5f0-309308a210f8",
         "title": "Software Engineer \u2013 Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -57562,7 +57562,7 @@
         "company_name": "Pinterest",
         "id": "f6bee664-2e17-435c-bb35-fa1717e35c41",
         "title": "Software Engineering Intern 2024 - Toronto",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -61873,7 +61873,7 @@
         "company_name": "Leidos",
         "id": "cfd8a1bc-f75c-4c7a-b73c-a17828f97123",
         "title": "Scientific Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -62349,7 +62349,7 @@
         "company_name": "Cohere Health",
         "id": "81a631f6-3dfb-47fa-9fde-e4be58856091",
         "title": "Software Engineer Co-Op - June - Nov 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -64755,7 +64755,7 @@
         "company_name": "Vestmark",
         "id": "836297a1-6b5f-48c6-9fd6-fa58d56a6944",
         "title": "System Engineer Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -65661,7 +65661,7 @@
         "company_name": "Oshkosh",
         "id": "c029a5bb-e70d-4f2a-aa29-7bab56be797e",
         "title": "Data Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -65680,7 +65680,7 @@
         "company_name": "Oshkosh",
         "id": "bdce20fc-74df-412a-a1a0-44af5229beca",
         "title": "Data Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -65929,7 +65929,7 @@
         "company_name": "Leidos",
         "id": "08c97878-8fe8-4913-b0fc-22fdd88d10e7",
         "title": "Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -66216,7 +66216,7 @@
         "company_name": "Vistar Media",
         "id": "75106215-0e72-4980-9f10-6bbf062d3ebb",
         "title": "Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -66315,7 +66315,7 @@
         "company_name": "Formlabs",
         "id": "c36bb09d-7805-467a-a26e-86773bc87894",
         "title": "R&D Engineering Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -66345,6 +66345,63 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/e48a68e1-11ea-406d-a4c3-25e1a79466a1",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Dell Technologies",
+        "id": "2a499954-5997-4834-9f20-3e30a72d8dc0",
+        "title": "Software Engineer Intern - Secureworks Big Data",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1710774591,
+        "date_posted": 1710774591,
+        "url": "https://dell.wd1.myworkdayjobs.com/External/job/Remote---United-Kingdom/Software-Engineer-Intern---Secureworks-Big-Data_R240938",
+        "locations": [
+            "Remote"
+        ],
+        "company_url": "https://simplify.jobs/c/Dell-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Dell Technologies",
+        "id": "28c2ea56-ac13-4ebd-b976-6156713ef6ae",
+        "title": "Intern Software Engineer - Platform Engineering - Remote UK",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1710774589,
+        "date_posted": 1710774589,
+        "url": "https://dell.wd1.myworkdayjobs.com/External/job/Remote---United-Kingdom-Scotland/Intern-Software-Engineer---Platform-Engineering----100--Remote-UK-_R240901",
+        "locations": [
+            "Remote"
+        ],
+        "company_url": "https://simplify.jobs/c/Dell-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Vestmark",
+        "id": "dcaa75c2-ff03-4c3d-ab91-e4e7ab8cb526",
+        "title": "Information Systems Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1710774481,
+        "date_posted": 1710774481,
+        "url": "https://boards.greenhouse.io/vestmark/jobs/5813587",
+        "locations": [
+            "Wakefield, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Vestmark",
         "is_visible": true,
         "sponsorship": "Other"
     }
