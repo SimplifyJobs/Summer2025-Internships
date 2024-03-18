@@ -66406,7 +66406,7 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1710803213,
+        "date_updated": 1710803333,
         "url": "https://simplify.jobs/p/df54b7a7-9fb1-49ce-861a-c6288492b854/Site-Reliability-Engineer-Intern-NYC",
         "company_name": "Talos",
         "title": "Site Reliability Engineer Intern",
@@ -66422,6 +66422,6 @@
         "id": "32abc9a6-351b-4a3c-bb29-8b805ca6963f",
         "date_posted": 1710803213,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     }
 ]
