@@ -66423,5 +66423,24 @@
         "date_posted": 1710803213,
         "company_url": "",
         "is_visible": false
+    },
+    {
+        "date_updated": 1710803889,
+        "url": "https://jobs.lever.co/postera/70212446-041d-4bee-94ac-06f2a1f05da6/apply?lever-source=Simplify",
+        "company_name": "PostEra",
+        "title": "Machine Learning Intern",
+        "locations": [
+            "Remote"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "leilaxle",
+        "id": "3558ea3f-cf27-49ed-b333-81da824a4da5",
+        "date_posted": 1710803889,
+        "company_url": "",
+        "is_visible": true
     }
 ]
