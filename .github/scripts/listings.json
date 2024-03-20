@@ -67014,5 +67014,24 @@
         "company_url": "https://simplify.jobs/c/Voltus",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1710969703,
+        "url": "https://apply.workable.com/ballotpedia/j/C9D88901A9/",
+        "company_name": "Ballotpedia",
+        "title": "Data Engineering Internship - Summer 2024 (Paid/Remote)",
+        "locations": [
+            "Remote"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "source": "J-Souffle",
+        "id": "c4f19178-42cd-47a2-a82e-73430252d816",
+        "date_posted": 1710969703,
+        "company_url": "",
+        "is_visible": true
     }
 ]
