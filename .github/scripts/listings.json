@@ -67033,5 +67033,25 @@
         "date_posted": 1710969703,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1710969765,
+        "url": "https://ramblenotes.notion.site/AI-Software-Engineer-Intern-2024-Application-1aa3b73bc2e349febe6df1fd613220df?pvs=4",
+        "company_name": "Ramble Notes",
+        "title": "AI Software Engineer Intern",
+        "locations": [
+            "San Francisco, CA",
+            "Remote"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "mike-gee",
+        "id": "b87e1e74-30f3-4b2e-8642-8f13e30a232b",
+        "date_posted": 1710969765,
+        "company_url": "",
+        "is_visible": true
     }
 ]
