@@ -67382,5 +67382,24 @@
         "date_posted": 1711053803,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1711053820,
+        "url": "https://www.github.careers/careers-home/jobs/2787?lang=en-us",
+        "company_name": "GitHub",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "Remote"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "chris-delg",
+        "id": "05a1dc3a-1c7b-48a7-af34-eeefc321e2fd",
+        "date_posted": 1711053820,
+        "company_url": "",
+        "is_visible": true
     }
 ]
