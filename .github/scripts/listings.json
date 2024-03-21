@@ -67401,5 +67401,24 @@
         "date_posted": 1711053820,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1711057470,
+        "url": "https://www.github.careers/careers-home/jobs/2785?lang=en-us",
+        "company_name": "GitHub",
+        "title": "IT SRE / DevOps Engineer Intern",
+        "locations": [
+            "Remote"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "chris-delg",
+        "id": "2a238a4e-885c-47b4-ae4b-93f0759ec1c9",
+        "date_posted": 1711057470,
+        "company_url": "",
+        "is_visible": true
     }
 ]
