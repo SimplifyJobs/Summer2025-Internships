@@ -67363,5 +67363,24 @@
         "company_url": "https://simplify.jobs/c/STR",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1711053803,
+        "url": "https://www.github.careers/careers-home/jobs/2788?lang=en-us",
+        "company_name": "GitHub",
+        "title": "Product Manager Intern",
+        "locations": [
+            "Remote"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "chris-delg",
+        "id": "edfae39f-6e32-4ddf-ad7e-195321007d88",
+        "date_posted": 1711053803,
+        "company_url": "",
+        "is_visible": true
     }
 ]
