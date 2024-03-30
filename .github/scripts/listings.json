@@ -74243,5 +74243,24 @@
         "company_url": "https://simplify.jobs/c/SGH",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1711756942,
+        "url": "https://jobs.careers.microsoft.com/us/en/job/1695161/Research-Intern---AI-Infrastructure?jobsource=linkedin",
+        "company_name": "Microsoft",
+        "title": "Research Intern",
+        "locations": [
+            "Vancouver, British Columbia, Canada"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "huy2272",
+        "id": "c2a116db-19be-4ea4-bcb3-b699d5f8e34d",
+        "date_posted": 1711756942,
+        "company_url": "",
+        "is_visible": true
     }
 ]
