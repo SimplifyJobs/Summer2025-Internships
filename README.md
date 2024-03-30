@@ -754,7 +754,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | Rocket Lab | Software Engineer Intern  🇺🇸 | Multiple Locations | <a href="https://boards.greenhouse.io/rocketlab/jobs/5679154003?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 2023 |
 | **[Fyusion](https://simplify.jobs/c/Fyusion)** | Computer Vision Intern - Deep Learning | SF | <a href="https://jobs.lever.co/fyusion/31540b34-b559-4f3b-8c0a-688d504d7288/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/c9061fa0-beb8-4c43-b13a-ff96309fa7f3?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Nov 2022 |
 | **[Billtrust](https://simplify.jobs/c/Billtrust)** | Database Admin Intern | Remote in USA | 🔒 | Mar 28 |
-| **[Workiva](https://simplify.jobs/c/Workiva)** | Intern – Software Engineer | Remote in USA | 🔒 | Mar 26 |
 | **[Santander](https://simplify.jobs/c/Santander)** | Intern – Summer | Miami, FL | 🔒 | Mar 25 |
 | **[Cadence Design Systems](https://simplify.jobs/c/Cadence-Design-Systems)** | Photonics Design Engineering Intern | San Jose, CA | 🔒 | Mar 25 |
 | **[Crowdstrike](https://simplify.jobs/c/Crowdstrike)** | Intelligence Analyst Intern - Remote | Remote | 🔒 | Mar 24 |
