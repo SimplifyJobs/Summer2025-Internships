@@ -15632,7 +15632,7 @@
         "company_name": "Dun & Bradstreet",
         "id": "ba806a34-bbfb-455d-8197-c952d326a2a2",
         "title": "2024 Summer Internship Program - Technology",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -30747,7 +30747,7 @@
         "company_name": "SharkNinja",
         "id": "95fd6999-6b22-4af1-8b5c-f304c8e15b2d",
         "title": "Summer \u2013 Advanced Analytics Intern: May to August 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024",
             "Summer 2024"
@@ -43899,7 +43899,7 @@
         "company_name": "NimbleRx",
         "id": "731024d2-4138-408a-9507-9bc230a332e9",
         "title": "Software Engineer Intern - Summer Session - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -50058,7 +50058,7 @@
         "company_name": "iCapital Network",
         "id": "5a2d4f05-fca1-4041-b775-9550126f993d",
         "title": "Platform Infrastructure Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2024",
             "Winter 2025"
@@ -59645,7 +59645,7 @@
         "company_name": "SharkNinja",
         "id": "2e1aeda3-fc76-403f-9210-4984b8bd4a81",
         "title": "Summer \u2013 App Developer Test Engineer Intern: May to August 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024",
             "Summer 2024"
@@ -62292,7 +62292,7 @@
         "company_name": "Kairos Power",
         "id": "0e26657e-7854-451e-956e-447b097dfe0e",
         "title": "Data Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -62483,7 +62483,7 @@
         "company_name": "Uber",
         "id": "c1cb461c-82e8-4d60-8a9f-db4e583fef75",
         "title": "2024 Software Engineering Internship - US",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -66353,7 +66353,7 @@
         "company_name": "Dell Technologies",
         "id": "2a499954-5997-4834-9f20-3e30a72d8dc0",
         "title": "Software Engineer Intern - Secureworks Big Data",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -67808,7 +67808,7 @@
         "company_name": "Leidos",
         "id": "d93dee7f-01da-4fc0-b5a5-e59ea8575d99",
         "title": "Software Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -68381,7 +68381,7 @@
         "company_name": "Intel",
         "id": "51b1ac87-093f-4e50-9795-710e43945d49",
         "title": "AI/ML Research Intern - Robust and Efficient Llms",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -69633,7 +69633,7 @@
         "company_name": "Precisely",
         "id": "b010c898-94ae-4445-8111-1ccbcba69bdb",
         "title": "Sales Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -70078,7 +70078,7 @@
         "company_name": "Wisk",
         "id": "299487e6-5f78-4349-b576-90b21239e884",
         "title": "Quality Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -72622,7 +72622,7 @@
         "company_name": "QuantCo",
         "id": "da17d790-4a1d-4cc5-830f-91dcb97ae8ed",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -72666,7 +72666,7 @@
         "company_name": "Leidos",
         "id": "759f8014-91e9-4ef7-99b0-73aa84874210",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -72705,7 +72705,7 @@
         "company_name": "Xometry",
         "id": "65ee3997-95d7-49f5-9106-83fb3e915d0b",
         "title": "2024 Summer Internship - Talent Acquisition",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -73129,7 +73129,7 @@
         "company_name": "Sensata",
         "id": "31c915f4-7695-4a27-87bf-4acaa24c981c",
         "title": "Process Engineering Intern-Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -73148,7 +73148,7 @@
         "company_name": "Rocket Lab USA",
         "id": "18b13635-e83f-4ce7-a5b6-bc6e6baf83c9",
         "title": "Electrical Engineering \u2013 Fall 2024 Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2024"
         ],
@@ -73711,7 +73711,7 @@
         "company_name": "Santander",
         "id": "2851b58e-535f-4739-b8f4-e7813796329e",
         "title": "Technology Intern - SC",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -74133,7 +74133,7 @@
         "company_name": "Tubi",
         "id": "f191695b-e672-4438-8110-906666fe1981",
         "title": "Data Science Intern - Undergraduate",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -75038,7 +75038,7 @@
         "company_name": "Wisk",
         "id": "ddba4208-9505-4ec4-a2f0-86b7a771251c",
         "title": "Aircraft Systems Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -75248,7 +75248,7 @@
         "company_name": "Casana",
         "id": "1b11fece-d271-4e01-bb6b-65896e24a7de",
         "title": "Industrial Engineering Co-Op Fall 2024 - Rochester - NY",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2024"
         ],
@@ -75644,6 +75644,64 @@
             "Bastrop, TX"
         ],
         "company_url": "https://simplify.jobs/c/The-Boring-Company",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "LogRocket",
+        "id": "1f9de0b6-c2bf-43dc-9041-4089f63795db",
+        "title": "Growth and Customer Marketing Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1711981429,
+        "date_posted": 1711729281,
+        "url": "https://jobs.lever.co/logrocket/35cd950c-92c4-44ef-8f85-98b8045fa626/apply",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/LogRocket",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "PatientPoint",
+        "id": "e9ef08db-0176-4374-b846-1117e06597fe",
+        "title": "Technical Writer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1711982658,
+        "date_posted": 1711100112,
+        "url": "https://boards.greenhouse.io/patientpoint/jobs/4396021005",
+        "locations": [
+            "Tampa, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/PatientPoint",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "CACI",
+        "id": "3846b652-52c9-4f2b-87fb-bbfad1d5cb5b",
+        "title": "Internet Junior Network Engineer Intern - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1711381647,
+        "date_posted": 1706804148,
+        "url": "https://caci.wd1.myworkdayjobs.com/External/job/US-OK-Oklahoma-City/Internet-Junior-Network-Engineer-Intern---Summer-2024_291869-2",
+        "locations": [
+            "Chantilly, VA",
+            "Oklahoma City, OK"
+        ],
+        "company_url": "https://simplify.jobs/c/CACI",
         "is_visible": true,
         "sponsorship": "Other"
     }
