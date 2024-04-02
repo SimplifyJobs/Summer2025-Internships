@@ -1210,7 +1210,7 @@
         "company_name": "The Allen Institute for AI",
         "id": "ed5a96e0-586c-4c58-94bd-860a60ee56a2",
         "title": "Research Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -19150,7 +19150,7 @@
         "company_name": "Cloudflare",
         "id": "a30d5d58-d921-4c58-bfec-649a5597374b",
         "title": "Software Engineer \u2013 Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -24601,7 +24601,7 @@
         "company_name": "Baidu USA",
         "id": "1ef65001-9d81-4e5a-8083-045fbf1da740",
         "title": "Research Intern RAL",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -42118,7 +42118,7 @@
         "company_name": "Coalition",
         "id": "07503b27-0ff2-4202-91b7-c73eede90dd5",
         "title": "Data Science Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -42137,7 +42137,7 @@
         "company_name": "Coalition",
         "id": "f92b95a0-604b-426d-8204-6e64bf0a5b81",
         "title": "Data Science Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -44383,7 +44383,7 @@
         "company_name": "Leidos",
         "id": "9504a6fc-1338-4514-8dc3-a05bfa51366d",
         "title": "Internship : Radar Signal Processing Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -50058,7 +50058,7 @@
         "company_name": "iCapital Network",
         "id": "5a2d4f05-fca1-4041-b775-9550126f993d",
         "title": "Platform Infrastructure Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2024",
             "Winter 2025"
@@ -53159,7 +53159,7 @@
         "company_name": "Seismic",
         "id": "12b4e37e-7c0e-4045-8224-c664fdb22da6",
         "title": "Software Engineer Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -53486,7 +53486,7 @@
         "company_name": "Cohere",
         "id": "3fbe24ba-cae8-4a51-b344-b76aca66dd7e",
         "title": "Engineering Program Manager Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -55294,7 +55294,7 @@
         "company_name": "Western Digital",
         "id": "10a7969e-78a0-4136-ac82-ec1341e79e5f",
         "title": "Internship - SSD Memory System Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -59743,7 +59743,7 @@
         "company_name": "First American",
         "id": "3538cb09-69e3-43f3-bb05-203d8bf6c434",
         "title": "Data Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -62139,7 +62139,7 @@
         "company_name": "Roku",
         "id": "bcfb52af-bf2f-44b6-b77c-b93a1ca85909",
         "title": "Machine Learning Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -62273,7 +62273,7 @@
         "company_name": "Chime",
         "id": "0cb8548f-da93-461f-8a45-275ad0738c10",
         "title": "Software Engineer Intern - Cash & Checks",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -62444,7 +62444,7 @@
         "company_name": "Roku",
         "id": "1af4ae45-0b62-4dd3-b63d-daea4ae14306",
         "title": "Machine Learning Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -62483,7 +62483,7 @@
         "company_name": "Uber",
         "id": "c1cb461c-82e8-4d60-8a9f-db4e583fef75",
         "title": "2024 Software Engineering Internship - US",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -62659,7 +62659,7 @@
         "company_name": "Chime",
         "id": "00e828bc-af0c-457a-945e-c4aaaffb10b4",
         "title": "Software Engineer Intern - Cards Experience",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -64659,7 +64659,7 @@
         "company_name": "Five9",
         "id": "3b3687bd-e134-42d0-8f25-24bf030521ec",
         "title": "Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024",
             "Summer 2024"
@@ -64698,7 +64698,7 @@
         "company_name": "Samsung Research America",
         "id": "4b783f3f-7a88-4fde-a232-6d8d0b6ed27a",
         "title": "2024 Summer Intern - Service Intelligence Solutions",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -64755,7 +64755,7 @@
         "company_name": "Vestmark",
         "id": "836297a1-6b5f-48c6-9fd6-fa58d56a6944",
         "title": "System Engineer Intern - Summer 2024",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -64889,7 +64889,7 @@
         "company_name": "Rivian",
         "id": "172e2bc1-048a-47da-bd4c-790cac3c30a6",
         "title": "UIUC Research Park Intern - Camera Image Quality",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2024",
             "Spring 2025",
@@ -65216,7 +65216,7 @@
         "company_name": "Arcellx",
         "id": "ed4e1805-dac3-4e7d-b364-8980b66f5403",
         "title": "Data Systems and Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -66254,7 +66254,7 @@
         "company_name": "Planet",
         "id": "c991bf51-d85e-451e-a4dc-de368bde687d",
         "title": "Intern \u2013 Orbits R&D",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024",
             "Summer 2024"
@@ -66735,7 +66735,7 @@
         "company_name": "Samsung Research America",
         "id": "fe9cc4ca-a499-4221-8f8f-dd9a2124fc1f",
         "title": "2024 Summer Intern - Full Stack Software Engineer - Digital Health",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -67464,7 +67464,7 @@
         "company_name": "Samsung Research America",
         "id": "af2ad203-864a-4b94-a1bc-1b0758449cf8",
         "title": "2024 Summer Intern - Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -67713,7 +67713,7 @@
         "company_name": "Applied Materials",
         "id": "43df3cfd-14b4-4cc8-8803-448d07fdeed4",
         "title": "Summer 2024 IT Intern - Bachelor's",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -67885,7 +67885,7 @@
         "company_name": "Oshkosh",
         "id": "f2289a87-4543-45e6-ad97-2161da37b178",
         "title": "DT Intern \u2013 Engineering Systems",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -67961,7 +67961,7 @@
         "company_name": "Braze",
         "id": "a3b91c62-6e09-40c4-b60f-7717e2857885",
         "title": "Solutions Consulting Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -67980,7 +67980,7 @@
         "company_name": "Braze",
         "id": "37765498-1755-4a08-a7d1-761e3ab92555",
         "title": "Solutions Consulting Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -68037,7 +68037,7 @@
         "company_name": "Braze",
         "id": "94072f5f-e1b2-41cd-a3ab-e327db58b298",
         "title": "Solutions Consulting Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -68189,7 +68189,7 @@
         "company_name": "Guidewire",
         "id": "b4fef7a0-d855-4cea-8990-d1264f6d2efb",
         "title": "Technical Product Manager Summer Intern - 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -68246,7 +68246,7 @@
         "company_name": "Roku",
         "id": "b3e9a854-e3b3-42e0-b787-2ec7d0a310f2",
         "title": "Software Engineer Intern - Automated QA",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -68555,7 +68555,7 @@
         "company_name": "Cloudflare",
         "id": "5ed06ea3-9cb2-4e4a-a566-52a3b9f8ec71",
         "title": "Product Manager \u2013 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -69090,7 +69090,7 @@
         "company_name": "Samsung Research America",
         "id": "5f05e5e8-e3fd-4dd8-8b4c-7c6418101f9c",
         "title": "2024 Summer Intern - Devops Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -69477,7 +69477,7 @@
         "company_name": "Prime Medicine",
         "id": "aa905287-cce4-43b1-89af-93b10519aeee",
         "title": "Fall 2024 Co-op: IT Infrastructure",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2024"
         ],
@@ -72544,7 +72544,7 @@
         "company_name": "Pigment",
         "id": "1f044af0-97b1-49ee-b2fe-7ec184cbfd90",
         "title": "Solutions Consulting \u2013 Internship - Operations Specialist",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -72762,7 +72762,7 @@
         "company_name": "StepStone Group",
         "id": "5d141f6d-16f5-4196-bb41-dda8d2236f91",
         "title": "2024 SPAR Research Analytics Summer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -73110,7 +73110,7 @@
         "company_name": "Woodard Curran",
         "id": "c585327d-ac02-4880-bc3b-fd5bf44b1fca",
         "title": "Internship-Water Engineering Walnut Creek",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -73749,7 +73749,7 @@
         "company_name": "Minitab",
         "id": "5569764b-9e89-4f1f-8299-34ca5a301f3a",
         "title": "Software Quality Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -74152,7 +74152,7 @@
         "company_name": "DRW",
         "id": "023aa28a-5382-43c9-b321-3e6a40b87c25",
         "title": "Machine Learning Engineer \u2013 Intern - Mle",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -74287,7 +74287,7 @@
         "company_name": "CACI",
         "id": "7ad51b49-2e67-4ebf-8609-6bc6d22455f2",
         "title": "Systems Engineering and Test Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -74306,7 +74306,7 @@
         "company_name": "Crowdstrike",
         "id": "01e78c89-6cbd-4bd1-a958-5bd6c4274b3e",
         "title": "Technical Account Management Intern - Remote",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -74440,7 +74440,7 @@
         "company_name": "Aircall",
         "id": "4d8c8cad-fed4-45db-9841-13bae0aa19c5",
         "title": "Sales Partner intern - French Market",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -74479,7 +74479,7 @@
         "company_name": "Thena",
         "id": "5c7c95b0-4d31-47ea-ba30-83f7123066a0",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -74597,7 +74597,7 @@
         "company_name": "Rockwell Automation",
         "id": "e3478c5d-4449-4109-9cb9-fda56e3f782a",
         "title": "Intern \u2013 Technical Sales & Consulting - USA",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -74762,7 +74762,7 @@
         "company_name": "Relativity",
         "id": "d2d69967-8ef7-4538-9da1-4f582b22201e",
         "title": "Product Management Intern - Ingestion - Part Time",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -74860,7 +74860,7 @@
         "company_name": "Rivian",
         "id": "3f3140b7-ccbf-4618-b1be-90f3d3167add",
         "title": "UIUC Research Park Intern - Electromagnetic Compatibility",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024",
             "Fall 2024",
@@ -74881,7 +74881,7 @@
         "company_name": "Triumvirate Environmental",
         "id": "012c1bc3-8ded-4970-8c0f-2636bb82107f",
         "title": "Environmental Specialist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -75595,7 +75595,7 @@
         "company_name": "Optiver",
         "id": "93ff2471-4bb7-46ca-a6dc-32539cfca686",
         "title": "FPGA Engineer Intern - Summer 2024 - Chicago",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -75671,7 +75671,7 @@
         "company_name": "PatientPoint",
         "id": "e9ef08db-0176-4374-b846-1117e06597fe",
         "title": "Technical Writer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -75702,6 +75702,203 @@
             "Oklahoma City, OK"
         ],
         "company_url": "https://simplify.jobs/c/CACI",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "CACI",
+        "id": "0499b4c2-211a-4e5b-a7fb-94a95a798122",
+        "title": "Technology Intern - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1712071757,
+        "date_posted": 1712071757,
+        "url": "https://caci.wd1.myworkdayjobs.com/External/job/US-MD-Aberdeen-Proving-Ground/Technology-Intern---Summer-2024_286167-1",
+        "locations": [
+            "Aberdeen, MD",
+            "Lakehurst, NJ",
+            "Mt Holly, NJ",
+            "Fort Belvoir, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/CACI",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "AnaVation LLC",
+        "id": "defb191b-9b12-43ae-b356-119035603910",
+        "title": "Business Analyst Internship Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1712071246,
+        "date_posted": 1712071246,
+        "url": "https://jobs.lever.co/anavationllc/0ac11fbb-d323-499b-8e2f-b68bdc9cb696/apply",
+        "locations": [
+            "Chantilly, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/AnaVation-LLC",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "PayPal",
+        "id": "3e452261-fb17-4b9d-836a-638b53ee2fde",
+        "title": "Mobile Dev Ops Intern",
+        "active": true,
+        "terms": [
+            "Spring 2024",
+            "Fall 2024"
+        ],
+        "date_updated": 1712042885,
+        "date_posted": 1712042885,
+        "url": "https://wd1.myworkdaysite.com/recruiting/paypal/jobs/job/Austin-Texas-United-States-of-America/Mobile-Dev-Ops-Intern_R0111237",
+        "locations": [
+            "Austin, TX",
+            "Chicago, IL",
+            "Scottsdale, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/PayPal",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Nutanix",
+        "id": "088a9bc1-d10e-40d7-9b70-160b9a4b5908",
+        "title": "Product Management Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1712042463,
+        "date_posted": 1712042463,
+        "url": "https://jobs.jobvite.com/nutanix/job/oNMGsfwr?nl=1&nl=1&fr=false",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Nutanix",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Uber",
+        "id": "eaabc427-a2e8-46d3-9bfd-b13d0612f317",
+        "title": "2024 Safety & Insurance \u2013 Actuarial Analyst Intern - US",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1712041962,
+        "date_posted": 1712041962,
+        "url": "https://university-uber.icims.com/jobs/128075/job",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Uber",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Uber",
+        "id": "135e7cc9-3f4f-45ad-9259-cc4e2874c3ca",
+        "title": "2024 Safety & Insurance \u2013 Actuarial Analyst Intern - US",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1712042026,
+        "date_posted": 1712042026,
+        "url": "https://www.uber.com/global/en/careers/list/128075/",
+        "locations": [
+            "SF",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Uber",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Rockwell Automation",
+        "id": "ca6d0991-e889-480b-bdb3-af2dfab79469",
+        "title": "Intern \u2013 Safety - Sensing and Industrial Components Business Operations",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1712016102,
+        "date_posted": 1712016102,
+        "url": "https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Milwaukee-Wisconsin-United-States/Intern--Business-Operations_R23-11751-1",
+        "locations": [
+            "Milwaukee, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Rockwell-Automation",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Intel",
+        "id": "3eeddf4d-cec3-442a-9347-5f5fd07168c0",
+        "title": "Foundational AI Research Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1712016054,
+        "date_posted": 1712016054,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/Virtual-US/Foundational-AI-Research-Intern_JR0261296",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Rivian",
+        "id": "42c2e9c9-8f62-4ca4-918a-f89d64f75065",
+        "title": "UIUC Research Park Intern - Embedded Software",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1712014867,
+        "date_posted": 1712014867,
+        "url": "https://careers.rivian.com/jobs/17101?lang=en-us&icims=1",
+        "locations": [
+            "Urbana, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Rivian",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Goodleap",
+        "id": "ad5f1b4f-ef3c-4744-a237-af5f3599e516",
+        "title": "Security Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1711473584,
+        "date_posted": 1710400444,
+        "url": "https://jobs.lever.co/goodleap/b7a216d1-7323-4ad8-943d-c2e94a450c21/apply",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/2dc8f3e7-02d3-49f5-abce-958ea4c2958b",
         "is_visible": true,
         "sponsorship": "Other"
     }
