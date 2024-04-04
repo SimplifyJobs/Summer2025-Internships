@@ -166,7 +166,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | Vivacity Tech | Software Engineer Intern | Remote | Fall 2023 | <a href="https://vivacitytech.applytojob.com/apply/Wnw5Abrw6U/Engineer-Software-Intern?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 2023 |
 | Langan | Software Engineer Intern | Parsippany, NJ | Fall 2023 | <a href="https://careers.langan.com/job/Parsippany-Software-Development-Intern-or-Co-op-Fall-2023-NJ-07054-2172/1045849800/?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 2023 |
 | Medpace | Software Development Intern | Cincinnati, OH | Fall 2023 | <a href="https://uscareers-medpace.icims.com/jobs/8878/software-development-co-op---fall-2023/job?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 2023 |
-| Tesla | Frontend/Backend SWE, Network Engineering, PM, UI/UX, and more. | Multiple | Fall 2023, Winter 2024, Spring 2024 | <a href="https://www.tesla.com/careers/search/?site=US&type=3&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 2023 |
 | **[Oshkosh](https://simplify.jobs/c/Oshkosh)** | Youth Apprentice - Logistics/Materials | Appleton, WI | Spring 2024 | 🔒 | Mar 22 |
 | **[Beam Therapeutics](https://simplify.jobs/c/Beamtx)** | Co-op – End User Services | Cambridge, MA | Summer 2024, Fall 2024, Winter 2025 | 🔒 | Mar 22 |
 | **[Tamr](https://simplify.jobs/c/Tamr)** | Software Development Engineer in Test Intern | Cambridge, MA | Summer 2024, Fall 2024, Winter 2025 | 🔒 | Mar 21 |
@@ -783,6 +782,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | **[Autodesk](https://simplify.jobs/c/Autodesk)** | Software Engineer Intern - Business Process Team | Toronto, ON, Canada | Fall 2023 | 🔒 | Jul 2023 |
 | ↳ | Software Engineer Intern - Managed Collaboration Team | Toronto, ON, Canada | Fall 2023 | 🔒 | Jul 2023 |
 | **[Skydio](https://simplify.jobs/c/Skydio)** | Embedded Software Engineer Intern | San Mateo, CA | Fall 2023 | 🔒 | Jul 2023 |
+| Tesla | Frontend/Backend SWE, Network Engineering, PM, UI/UX, and more. | Multiple | Fall 2023, Winter 2024, Spring 2024 | 🔒 | Jul 2023 |
 | Milliman | Healthcare Analytics Intern | <details><summary>**4 locations**</summary>Milwaukee, WI</br>Chicago, IL</br>Hartford, CT</br>Remote</details> | Spring 2024 | 🔒 | Jun 2023 |
 | UKG | DevOps Engineering Internship | Lowell, MA</br>Weston, FL | Fall 2023 | 🔒 | Jun 2023 |
 | Skyworks Solutions | Analytics Co-Op Summer/Fall Co-Op (MS Students Only) | Andover, CA | Fall 2023 | 🔒 | Jun 2023 |
