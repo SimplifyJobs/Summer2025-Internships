@@ -763,8 +763,8 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | ↳ | Software Developer Intern | Vancouver, BC, Canada | Fall 2023 | 🔒 | Jul 18 |
 | **[Kodiak Robotics](https://simplify.jobs/c/Kodiak-Robotics)** | Video Visualization Engineer Internship | Mountain View, CA | Fall 2023 | 🔒 | Jul 18 |
 | **[Formlabs](https://simplify.jobs/c/Formlabs)** | Embedded Software Intern | Cambridge, MA | Fall 2023 | 🔒 | Jul 18 |
-| **[Certik](https://simplify.jobs/c/Certik)** | UI/UX designer intern | <details><summary>**4 locations**</summary>NYC</br>Seattle, WA</br>SF Bay Area, CA</br>Remote</details> | Fall 2023 | 🔒 | Jul 18 |
-| ↳ | Software Engineer Intern – Internship | <details><summary>**4 locations**</summary>Seattle, WA</br>SF</br>Remote in USA</br>NYC</details> | Fall 2023 | 🔒 | Jul 18 |
+| **[Certik](https://simplify.jobs/c/Certik)** | Software Engineer Intern – Internship | <details><summary>**4 locations**</summary>Seattle, WA</br>SF</br>Remote in USA</br>NYC</details> | Fall 2023 | 🔒 | Jul 18 |
+| ↳ | UI/UX designer intern | <details><summary>**4 locations**</summary>NYC</br>Seattle, WA</br>SF Bay Area, CA</br>Remote</details> | Fall 2023 | 🔒 | Jul 18 |
 | **[Autodesk](https://simplify.jobs/c/Autodesk)** | Stagiaire – /Intern - Développeur - Euse - De logiciels - Forge - À pourvoir - Software Engineer | Montreal, QC, Canada | Fall 2023 | 🔒 | Jul 18 |
 | ↳ | Stagiaire – /Intern - Développeur - Euse - De logiciels - Forge - À pourvoir - Software Engineer | Remote | Fall 2023 | 🔒 | Jul 18 |
 | ↳ | Intern – Software Developer - Fusion | Montreal, QC, Canada</br>Toronto, ON, Canada | Fall 2023 | 🔒 | Jul 18 |
