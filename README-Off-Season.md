@@ -161,7 +161,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | **[Covariant](https://simplify.jobs/c/Covariant)** | Machine Learning - AI Research Internship | Oakland, CA | Fall 2023 | <a href="https://jobs.lever.co/covariant/6578b4ae-8ce4-4921-9df5-6358334bb64a/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/6c3f7766-854b-4b07-a73b-cbfa529ef5a2?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jul 18 |
 | **[Certik](https://simplify.jobs/c/Certik)** | SWE Intern | <details><summary>**4 locations**</summary>NYC</br>Seattle, WA</br>SF Bay Area, CA</br>Remote</details> | Fall 2023 | <a href="https://jobs.lever.co/certik/cc4bc2b7-ee87-43be-81c9-09c8b0411a7e?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 18 |
 | Amazon | Software Engineering Intern - CQC | SF | Fall 2023 | <a href="https://www.amazon.jobs/en/jobs/2383729/software-engineering-intern-aws-center-for-quantum-computing-aws-center-for-quantum-computing?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 2023 |
-| Amazon Robotics | Software Engineering Intern (SDE) Co-op | North Reading, MA, US | Fall 2023 | <a href="https://www.amazon.jobs/en/jobs/2345448/amazon-robotics-software-development-engineer-sde-co-op-fall-2023?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 2023 |
 | **[Oshkosh](https://simplify.jobs/c/Oshkosh)** | Youth Apprentice - Logistics/Materials | Appleton, WI | Spring 2024 | 🔒 | Mar 22 |
 | **[Beam Therapeutics](https://simplify.jobs/c/Beamtx)** | Co-op – End User Services | Cambridge, MA | Summer 2024, Fall 2024, Winter 2025 | 🔒 | Mar 22 |
 | **[Tamr](https://simplify.jobs/c/Tamr)** | Software Development Engineer in Test Intern | Cambridge, MA | Summer 2024, Fall 2024, Winter 2025 | 🔒 | Mar 21 |
@@ -777,6 +776,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | ↳ | Algorithms Software Intern | Cambridge, MA | Fall 2023 | 🔒 | Jul 2023 |
 | **[Autodesk](https://simplify.jobs/c/Autodesk)** | Software Engineer Intern - Business Process Team | Toronto, ON, Canada | Fall 2023 | 🔒 | Jul 2023 |
 | ↳ | Software Engineer Intern - Managed Collaboration Team | Toronto, ON, Canada | Fall 2023 | 🔒 | Jul 2023 |
+| Amazon Robotics | Software Engineering Intern (SDE) Co-op | North Reading, MA, US | Fall 2023 | 🔒 | Jul 2023 |
 | Garmin | Software Engineer Intern | Olath, KS | Fall 2023 | 🔒 | Jul 2023 |
 | Vivacity Tech | Software Engineer Intern | Remote | Fall 2023 | 🔒 | Jul 2023 |
 | Langan | Software Engineer Intern | Parsippany, NJ | Fall 2023 | 🔒 | Jul 2023 |
