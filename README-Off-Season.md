@@ -162,7 +162,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | **[Certik](https://simplify.jobs/c/Certik)** | SWE Intern | <details><summary>**4 locations**</summary>NYC</br>Seattle, WA</br>SF Bay Area, CA</br>Remote</details> | Fall 2023 | <a href="https://jobs.lever.co/certik/cc4bc2b7-ee87-43be-81c9-09c8b0411a7e?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 18 |
 | Amazon | Software Engineering Intern - CQC | SF | Fall 2023 | <a href="https://www.amazon.jobs/en/jobs/2383729/software-engineering-intern-aws-center-for-quantum-computing-aws-center-for-quantum-computing?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 2023 |
 | Amazon Robotics | Software Engineering Intern (SDE) Co-op | North Reading, MA, US | Fall 2023 | <a href="https://www.amazon.jobs/en/jobs/2345448/amazon-robotics-software-development-engineer-sde-co-op-fall-2023?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 2023 |
-| Garmin | Software Engineer Intern | Olath, KS | Fall 2023 | <a href="https://careers.garmin.com/careers-home/jobs/10499?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 2023 |
 | **[Oshkosh](https://simplify.jobs/c/Oshkosh)** | Youth Apprentice - Logistics/Materials | Appleton, WI | Spring 2024 | 🔒 | Mar 22 |
 | **[Beam Therapeutics](https://simplify.jobs/c/Beamtx)** | Co-op – End User Services | Cambridge, MA | Summer 2024, Fall 2024, Winter 2025 | 🔒 | Mar 22 |
 | **[Tamr](https://simplify.jobs/c/Tamr)** | Software Development Engineer in Test Intern | Cambridge, MA | Summer 2024, Fall 2024, Winter 2025 | 🔒 | Mar 21 |
@@ -778,6 +777,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | ↳ | Algorithms Software Intern | Cambridge, MA | Fall 2023 | 🔒 | Jul 2023 |
 | **[Autodesk](https://simplify.jobs/c/Autodesk)** | Software Engineer Intern - Business Process Team | Toronto, ON, Canada | Fall 2023 | 🔒 | Jul 2023 |
 | ↳ | Software Engineer Intern - Managed Collaboration Team | Toronto, ON, Canada | Fall 2023 | 🔒 | Jul 2023 |
+| Garmin | Software Engineer Intern | Olath, KS | Fall 2023 | 🔒 | Jul 2023 |
 | Vivacity Tech | Software Engineer Intern | Remote | Fall 2023 | 🔒 | Jul 2023 |
 | Langan | Software Engineer Intern | Parsippany, NJ | Fall 2023 | 🔒 | Jul 2023 |
 | Medpace | Software Development Intern | Cincinnati, OH | Fall 2023 | 🔒 | Jul 2023 |
