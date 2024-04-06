@@ -11071,7 +11071,7 @@
         "company_name": "Qualtrics",
         "id": "1b5064d1-35ce-48ff-be8a-58bd543111ef",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -17100,7 +17100,7 @@
         "company_name": "Simply Business",
         "id": "2cb229bc-d673-4f29-a435-8eb715b33836",
         "title": "Engineering Summer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2023"
         ],
@@ -44861,7 +44861,7 @@
         "company_name": "Modernizing Medicine",
         "id": "f27d5247-153c-4b3d-b5b8-bc590e1258b5",
         "title": "Java/Angular Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -57277,7 +57277,7 @@
         "company_name": "Intrinsic",
         "id": "0be5ae9b-5663-4ad8-a212-62847394e771",
         "title": "Internship: Digital Twins",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -60168,7 +60168,7 @@
         "company_name": "Olo",
         "id": "8756bed0-f260-4306-9780-b473397c0e48",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -74325,7 +74325,7 @@
         "company_name": "Crowdstrike",
         "id": "cee0a5f5-a12e-49f0-a73b-8d5385912f07",
         "title": "Sales Excellence Data Quality Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -76502,7 +76502,7 @@
         "company_name": "Cadence Design Systems",
         "id": "2fac8181-f5fd-4f8b-a70f-23520f5731a7",
         "title": "Software Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -77141,6 +77141,180 @@
             "Newport Beach, CA"
         ],
         "company_url": "https://simplify.jobs/c/SGH",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Genies",
+        "id": "17f51637-98bf-4256-8d4b-d332139ef2a4",
+        "title": "3D Machine Learning Engineering Intern - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1712390423,
+        "date_posted": 1712390423,
+        "url": "https://boards.greenhouse.io/genies/jobs/5943470003",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Genies",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Sylvera",
+        "id": "371c7cdd-36e6-4dee-a229-4f826494aa92",
+        "title": "Strategic Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1712361097,
+        "date_posted": 1712361097,
+        "url": "https://jobs.lever.co/sylvera/0a7c7592-9a43-4781-a994-6987ad432731/apply",
+        "locations": [
+            "London, UK",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Sylvera",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Intel",
+        "id": "91e7df35-30c8-49d8-9dc1-9c55f1974bfe",
+        "title": "Software Engineer Undergraduate Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1712361042,
+        "date_posted": 1712361042,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Georgia-Atlanta/Software-Engineer-Undergraduate-Intern_JR0261950",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "MiQ",
+        "id": "2b512806-0f6f-4278-9e60-92c9969adeec",
+        "title": "Trading \u2013 Summer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1712360335,
+        "date_posted": 1712360335,
+        "url": "https://www.wearemiq.com/job/7322252002?gh_jid=7322252002",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/d3f70073-559f-423b-ba47-2709c81e233b",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Symbotic",
+        "id": "f309dc5a-d896-474f-adc4-9f32ea3acf20",
+        "title": "Intern \u2013 Machine Learning - Computer Vision",
+        "active": true,
+        "terms": [
+            "Summer 2024",
+            "Spring 2025",
+            "Fall 2025"
+        ],
+        "date_updated": 1712359814,
+        "date_posted": 1712359814,
+        "url": "https://symbotic.wd1.myworkdayjobs.com/en-US/Symbotic/job/USA-Wilmington--MA---HQ/Intern---Machine-Learning--Computer-Vision-_R2935",
+        "locations": [
+            "Burlington, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/symbotic",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Cadence Design Systems",
+        "id": "39d98581-b49c-4252-b6d5-a16bb40845a2",
+        "title": "Product Engineering-Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1712359350,
+        "date_posted": 1712359350,
+        "url": "https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/AUSTIN/Product-Engineering-Intern_R46105-2",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Cadence Design Systems",
+        "id": "9bfd00ea-db72-43df-9db0-b06eaa19a5cd",
+        "title": "Software Intern - Summer",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1712359350,
+        "date_posted": 1712359350,
+        "url": "https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/SAN-JOSE/Software-Intern--Summer_R46036",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Mozilla",
+        "id": "ef88d7ae-2f46-4307-be6c-c63255661862",
+        "title": "Full-Stack Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1712358347,
+        "date_posted": 1712358347,
+        "url": "https://boards.greenhouse.io/mozilla/jobs/5417506",
+        "locations": [
+            "Remote"
+        ],
+        "company_url": "https://simplify.jobs/c/Mozilla",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Zeno Group",
+        "id": "c9a5b8d8-7fd9-4dee-9cf6-caa56cd66f45",
+        "title": "Analytics Summer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1712421210,
+        "date_posted": 1705134119,
+        "url": "https://jobs.lever.co/zenogroup/c2c32459-08ad-4bd9-96d0-1028b72057f5/apply",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/3f6c26e7-8dd4-404b-bc46-2174bd73fef9",
         "is_visible": true,
         "sponsorship": "Other"
     }
