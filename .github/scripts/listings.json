@@ -77374,5 +77374,24 @@
         "date_posted": 1712458261,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1712458273,
+        "url": "https://apply.workable.com/j/E40C294320?utm_campaign=4a7747fc82&utm_medium=eps",
+        "company_name": "Mission Bit",
+        "title": "Summer 2024 TA - Intro to Web (in-person in Oakland)",
+        "locations": [
+            "Oakland, CA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "source": "johnnylinsf",
+        "id": "dff08694-98f9-4a2a-897d-7b1f2e6dd217",
+        "date_posted": 1712458273,
+        "company_url": "",
+        "is_visible": true
     }
 ]
