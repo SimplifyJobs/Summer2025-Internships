@@ -77414,7 +77414,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1712458357,
+        "date_updated": 1712458566,
         "url": "https://apply.workable.com/j/635C2F816F?utm_campaign=4a7747fc82&utm_medium=eps",
         "company_name": "Mission Bit",
         "title": "Summer 2024 TA - Intro to Python (in-person in Oakland)",
@@ -77424,12 +77424,12 @@
         "terms": [
             "Summer 2024"
         ],
-        "sponsorship": "U.S. Citizenship is Required",
+        "sponsorship": "Other",
         "active": true,
         "source": "johnnylinsf",
         "id": "872c9b9d-e64f-419e-9138-160afa756372",
         "date_posted": 1712458357,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     }
 ]
