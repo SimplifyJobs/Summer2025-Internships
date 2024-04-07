@@ -77395,7 +77395,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1712458303,
+        "date_updated": 1712458581,
         "url": "https://apply.workable.com/j/7E07590CDE?utm_campaign=4a7747fc82&utm_medium=eps",
         "company_name": "Mission Bit",
         "title": "Summer 2024 TA - Intro to Python (in-person at CCSF - Mission, SF)",
@@ -77405,13 +77405,13 @@
         "terms": [
             "Summer 2024"
         ],
-        "sponsorship": "U.S. Citizenship is Required",
+        "sponsorship": "Other",
         "active": true,
         "source": "johnnylinsf",
         "id": "d184f0d7-74bf-4d5e-9032-447954b40477",
         "date_posted": 1712458303,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1712458566,
