@@ -1229,7 +1229,7 @@
         "company_name": "Waabi",
         "id": "e58c393a-175d-45cf-9fb7-86989c607a83",
         "title": "Research Internship/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -15632,7 +15632,7 @@
         "company_name": "Dun & Bradstreet",
         "id": "ba806a34-bbfb-455d-8197-c952d326a2a2",
         "title": "2024 Summer Internship Program - Technology",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -23710,7 +23710,7 @@
         "company_name": "Rackner",
         "id": "4b54128a-be5c-474c-ab40-b540328b59ac",
         "title": "Computer Science Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2023",
             "Summer 2023",
@@ -24225,7 +24225,7 @@
         "company_name": "STR",
         "id": "a7017717-b47f-4295-9842-1f23733068f4",
         "title": "Sensors Spring/Fall Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2023",
             "Summer 2023",
@@ -25538,7 +25538,7 @@
         "company_name": "Cloudflare",
         "id": "999524ff-f61d-4f58-b181-9fd12185e09e",
         "title": "Software Engineer \u2013 Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -27058,7 +27058,7 @@
         "company_name": "Brain Technologies",
         "id": "d278a94d-c124-4977-8a9d-75b7f685c751",
         "title": "Generative AI Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2024"
         ],
@@ -33638,7 +33638,7 @@
         "company_name": "Zoox",
         "id": "f1bb75e9-db1e-4fdc-a7d9-67e81358c97e",
         "title": "Digital Signal Processing Internship/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -36030,7 +36030,7 @@
         "company_name": "SMX",
         "id": "e06f9ffb-7fa2-4f0b-8cc9-4d60cac14e37",
         "title": "Summer Internship - Data and Software Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2023"
         ],
@@ -37834,7 +37834,7 @@
         "company_name": "Pathward",
         "id": "dbb4cfd2-b593-47c6-821d-026b4653897e",
         "title": "Data Scientist Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -42691,7 +42691,7 @@
         "company_name": "Recursion Pharmaceuticals",
         "id": "9e234a88-0053-47f8-bdb1-0985cfc2280c",
         "title": "Machine Learning Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -47324,7 +47324,7 @@
         "company_name": "Rocket Internet",
         "id": "66431fc0-fe6d-4f60-8b51-17afddeff6f5",
         "title": "Full-Time 6 months Internship @ Global Founders Capital VC",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -49452,7 +49452,7 @@
         "company_name": "Intel",
         "id": "ae09b49c-97cd-4b8a-b61e-182c309d6682",
         "title": "Undergraduate Internship - Data Science - Bachelors",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -53041,7 +53041,7 @@
         "company_name": "Forbes",
         "id": "1e49febf-daf9-4841-947d-6ae2ae0787e9",
         "title": "Forbes Summer 2024 Technology Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -55045,7 +55045,7 @@
         "company_name": "Intrinsic",
         "id": "49170562-967c-42b4-8b95-a212bfb9c307",
         "title": "Internship: Robotic Skills",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -56462,7 +56462,7 @@
         "company_name": "Openmesh Networks",
         "id": "39d7af33-a8a2-4cc5-8240-9e96bbfbad1f",
         "title": "Bachelor\u2019s in Software Engineering Internship - Engineering Honors",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -58046,7 +58046,7 @@
         "company_name": "Legend Biotech",
         "id": "6fef6f3a-ad22-4ca5-9afb-25c0b5c19416",
         "title": "Enterprise Data Governance Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -60741,7 +60741,7 @@
         "company_name": "Astranis",
         "id": "8e76ebef-0cb2-4d6a-9ca9-93b97417fcb4",
         "title": "Production Development \u2013 Intern - Fall 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2024"
         ],
@@ -60779,7 +60779,7 @@
         "company_name": "Astranis",
         "id": "5fcbbda7-a823-4b48-aa53-a4a0dda5687a",
         "title": "Production Development \u2013 Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -62101,7 +62101,7 @@
         "company_name": "Arrowhead Pharmaceuticals",
         "id": "8837878b-e04f-4516-9ccd-b6177f183c05",
         "title": "Summer Intern - Research Informatics",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -64099,7 +64099,7 @@
         "company_name": "PerformLine",
         "id": "592faaa6-d206-4c76-932d-c3f8383d6e07",
         "title": "Tech Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -66296,7 +66296,7 @@
         "company_name": "Stoke Space",
         "id": "5c947d51-5f24-4e67-bf5b-d37f6854c691",
         "title": "Intern \u2013 Fall 2024",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2024"
         ],
@@ -67196,7 +67196,7 @@
         "company_name": "Hewlett Packard (HP)",
         "id": "6923cbe5-e998-4452-b346-fe28a33ac677",
         "title": "Cloud Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -67350,7 +67350,7 @@
         "company_name": "STR",
         "id": "39ab1a83-bbbe-4c56-b4ae-939ad890901d",
         "title": "Cyber Fall Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2024"
         ],
@@ -68094,7 +68094,7 @@
         "company_name": "Oshkosh",
         "id": "3d746c9e-47c1-4d3a-ab8f-d68e1cf0a3bf",
         "title": "Youth Apprentice - Logistics/Materials",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2024"
         ],
@@ -68132,7 +68132,7 @@
         "company_name": "Openmesh Networks",
         "id": "aefa92d9-5b86-4655-87ae-d058f3ef2c61",
         "title": "Junior Data Scientist Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -69712,7 +69712,7 @@
         "company_name": "Wisk",
         "id": "5c5c9a16-97c8-4251-9b0e-b13a955415ed",
         "title": "Human Factors Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -69962,7 +69962,7 @@
         "company_name": "SharkNinja",
         "id": "8ea289fa-e7eb-4eed-aa7a-fa7bc190e167",
         "title": "Fall \u2013 Product Development Co-Op: June to December 2024",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024",
             "Fall 2024",
@@ -70137,7 +70137,7 @@
         "company_name": "SharkNinja",
         "id": "9b2c0178-6c56-4ebc-877a-fbd09d99e285",
         "title": "Fall \u2013 Ninja Product Development Co-op: June to December 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024",
             "Fall 2024",
@@ -70254,7 +70254,7 @@
         "company_name": "The Allen Institute for AI",
         "id": "63de8b8b-0009-44dc-bbd4-4de6572dd6f9",
         "title": "Artificial Intelligence Internship - Wildlands",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -70430,7 +70430,7 @@
         "company_name": "Bose",
         "id": "ae34ee60-3ea2-4821-950b-4a8e2aada120",
         "title": "Embedded DSP Engineer Co-Op",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -70469,7 +70469,7 @@
         "company_name": "Oshkosh",
         "id": "93c2aee8-6fe4-4f56-a113-99b3f992aca5",
         "title": "Engineering Intern - M&S",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -70948,7 +70948,7 @@
         "company_name": "Moxion Power",
         "id": "15b670eb-6cc7-4315-ab22-1a364558f89c",
         "title": "Manufacturing Maintenance Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -71363,7 +71363,7 @@
         "company_name": "Intel",
         "id": "e601730e-883d-44db-9565-8fb1d63368e9",
         "title": "Undergraduate Internship - Physics - Bachelors",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -71788,7 +71788,7 @@
         "company_name": "Oshkosh",
         "id": "3441194b-777f-4184-814f-b67ae6127c0d",
         "title": "CRM Intern - Dt",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -71864,7 +71864,7 @@
         "company_name": "HRL Laboratories",
         "id": "bbdeba9c-7d7b-40f3-8b33-a89943a5fb46",
         "title": "Quantum Technology Intern - Undergrad",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -72022,7 +72022,7 @@
         "company_name": "Trace3",
         "id": "974b90fb-33e8-45df-8b14-742bf0f712c1",
         "title": "Solutions Architecture Engineer Intern - Onsite",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -72123,7 +72123,7 @@
         "company_name": "Simpson Gumpertz & Heger",
         "id": "d2f6e6b9-d12e-4a88-8357-ea402ab0ebdc",
         "title": "Internship/Co-op - Building Technology - Los Angeles",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -72294,7 +72294,7 @@
         "company_name": "Stryker",
         "id": "1c7c99e8-bd72-4b80-8fb1-a678661832fc",
         "title": "Howard University-Summer Internship 2024 - Information Technology-Michigan",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -72332,7 +72332,7 @@
         "company_name": "Tender Food",
         "id": "f1b48ae7-d6b8-454e-9934-c62b965cb602",
         "title": "Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -73051,7 +73051,7 @@
         "company_name": "Samsung",
         "id": "eaee9404-e264-49b9-b950-59366df6b95e",
         "title": "Global Mobility Intern - SSD Firmware Development",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -73884,7 +73884,7 @@
         "company_name": "Palantir",
         "id": "6c761545-5d0b-4e43-b0a7-11cb186aefb3",
         "title": "Product Reliability Engineer \u2013 Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -74575,7 +74575,7 @@
         "company_name": "Guidepoint",
         "id": "a69679fa-de7f-4eb5-883a-c540a044bbd6",
         "title": "2024 Tech Intern Pool",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -75498,7 +75498,7 @@
         "company_name": "Wade Trim",
         "id": "7b2fa8e6-990a-4c39-88f2-36cb028a3286",
         "title": "Planner Summer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -75518,7 +75518,7 @@
         "company_name": "Wade Trim",
         "id": "1e2b02c5-81ea-4cd9-bce4-f80116938e4f",
         "title": "Planner Summer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -76230,7 +76230,7 @@
         "company_name": "Starburst",
         "id": "964b19a5-184d-4eed-aa7b-a84993db3709",
         "title": "Software Engineer \u2013 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -76249,7 +76249,7 @@
         "company_name": "Starburst",
         "id": "2712698b-7795-40f3-9200-a4320aafc392",
         "title": "Software Engineer \u2013 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -77111,7 +77111,7 @@
         "company_name": "Wade Trim",
         "id": "8fa9a4c1-b1b4-4c0e-978b-e01db966be23",
         "title": "Sustainability Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -77130,7 +77130,7 @@
         "company_name": "Simpson Gumpertz & Heger",
         "id": "9bc8b484-5f57-4bbb-9c91-f9cce9fba7c1",
         "title": "Internship/Co-op - Building Technology - Orange County",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -77431,5 +77431,246 @@
         "date_posted": 1712458357,
         "company_url": "",
         "is_visible": false
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Openmesh Networks",
+        "id": "acbadb87-2bbd-4daa-9621-b037e067541c",
+        "title": "API Development Intern - API Design and Integration",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1712509887,
+        "date_posted": 1712509887,
+        "url": "https://boards.greenhouse.io/openmesh/jobs/4145276007",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/4bd6e36b-9b1c-4166-ad59-f9eec0d954e6",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Bose",
+        "id": "e778f64a-7115-4d81-b550-ec95245ee031",
+        "title": "Digital Signal Processing Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1712507896,
+        "date_posted": 1712507896,
+        "url": "https://boseallaboutme.wd1.myworkdayjobs.com/en-US/Bose_Careers/job/US-MA---Framingham/Digital-Signal-Processing-Intern_R25766",
+        "locations": [
+            "Framingham, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/bose",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Intel",
+        "id": "c51476a1-935f-4eba-94d6-f556315a9160",
+        "title": "Undergraduate Internship - Electrical Engineering - Bachelors",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1712478112,
+        "date_posted": 1712478112,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Arizona-Phoenix/Undergraduate-Internship---Electrical-Engineering--Bachelors-_JR0255476",
+        "locations": [
+            "Austin, TX",
+            "Albuquerque, NM",
+            "Santa Clara, CA",
+            "Hillsboro, OR",
+            "Folsom, CA",
+            "Phoenix, AZ",
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Intel",
+        "id": "b129e35b-2df5-41fd-b840-384de2748f17",
+        "title": "Undergraduate Internship - Materials Science - Bachelors",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1712478114,
+        "date_posted": 1712478114,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Arizona-Phoenix/Undergraduate-Internship---Materials-Science---Bachelors-_JR0255501",
+        "locations": [
+            "Austin, TX",
+            "Albuquerque, NM",
+            "Santa Clara, CA",
+            "Hillsboro, OR",
+            "Folsom, CA",
+            "Phoenix, AZ",
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Openmesh Networks",
+        "id": "fba6184f-85db-480a-b2f8-b4599a9b7461",
+        "title": "Big Data Intern - Data Processing and Analytics",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1712477409,
+        "date_posted": 1712477409,
+        "url": "https://boards.greenhouse.io/openmesh/jobs/4145279007",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/4bd6e36b-9b1c-4166-ad59-f9eec0d954e6",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Openmesh Networks",
+        "id": "51ac41fa-eeb5-4735-af9a-ba85e5346a8f",
+        "title": "Junior Analyst Intern - Mathematical Sciences - BA/MS",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1712477407,
+        "date_posted": 1712477407,
+        "url": "https://boards.greenhouse.io/openmesh/jobs/4145201007",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/4bd6e36b-9b1c-4166-ad59-f9eec0d954e6",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Brain Technologies",
+        "id": "23f28f80-c21b-4f18-81f9-cd87083173b2",
+        "title": "Large Language Model Intern",
+        "active": true,
+        "terms": [
+            "Winter 2024"
+        ],
+        "date_updated": 1712476692,
+        "date_posted": 1712476692,
+        "url": "https://boards.greenhouse.io/braintechnologies/jobs/4987603004",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/brain-technologies",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Benesch",
+        "id": "2573a443-9a0e-4b27-b6c6-d0599fb70057",
+        "title": "Contract Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1712475525,
+        "date_posted": 1712475525,
+        "url": "https://www.benesch.com/job-openings/4297052007?gh_jid=4297052007",
+        "locations": [
+            "Kansas City, KS"
+        ],
+        "company_url": "https://simplify.jobs/c/Benesch",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "AEG",
+        "id": "67fd4e14-9f40-45e0-ae1b-3ef4592a87e0",
+        "title": "Summer Intern - Marketing - The Midland Theater",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1712447753,
+        "date_posted": 1712447753,
+        "url": "https://www.aegworldwide.com/jobs?gh_jid=7265497002",
+        "locations": [
+            "Kansas City, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/AEG",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "QuantCo",
+        "id": "8111efef-fc7e-4a76-99ca-8e548c76846f",
+        "title": "Data Science Intern - Causal Inference/Machine Learning",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1712159234,
+        "date_posted": 1712159234,
+        "url": "https://jobs.lever.co/quantco-/0c98283d-fd4f-4b57-b213-ab0c2e428354/apply",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/QuantCo",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Arcellx",
+        "id": "fa9bedb9-0eab-4133-b2a0-7496ed2072ad",
+        "title": "MSAT Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1710313631,
+        "date_posted": 1710313631,
+        "url": "https://boards.greenhouse.io/arcellx/jobs/4389489005",
+        "locations": [
+            "North Bethesda, MD",
+            "San Carlos, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Arcellx",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Oshkosh",
+        "id": "46b50882-5fc9-4ef5-9ba0-8dd43a391fd4",
+        "title": "Intern Summer - Human Resources",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1709943028,
+        "date_posted": 1709943028,
+        "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Garner-Iowa-United-States/Human-Resources_R26616",
+        "locations": [
+            "Mason City, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/Oshkosh",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
