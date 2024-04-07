@@ -77338,7 +77338,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1712458245,
+        "date_updated": 1712458612,
         "url": "https://apply.workable.com/j/0764303702?utm_campaign=4a7747fc82&utm_medium=eps",
         "company_name": "Mission Bit",
         "title": "Summer 2024 Lead Instructor - Intro to Web (in-person at University of SF)",
@@ -77348,13 +77348,13 @@
         "terms": [
             "Summer 2024"
         ],
-        "sponsorship": "U.S. Citizenship is Required",
+        "sponsorship": "Other",
         "active": true,
         "source": "johnnylinsf",
         "id": "5bda43c4-3e9c-4008-ae5f-85298b58d2ad",
         "date_posted": 1712458245,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1712458261,
