@@ -77317,5 +77317,24 @@
         "company_url": "https://simplify.jobs/c/3f6c26e7-8dd4-404b-bc46-2174bd73fef9",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1712458215,
+        "url": "https://wrkbl.ink/5irrQe1",
+        "company_name": "Mission Bit",
+        "title": "Summer 2024 TA - Intro to Web (in-person at University of SF)",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "source": "johnnylinsf",
+        "id": "cb892030-d172-4c4f-89f0-27c134ba3aaa",
+        "date_posted": 1712458215,
+        "company_url": "",
+        "is_visible": true
     }
 ]
