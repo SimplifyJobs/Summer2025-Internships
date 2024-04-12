@@ -78038,7 +78038,7 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1712807292,
+        "date_updated": 1712885251,
         "url": "https://simplify.jobs/p/2e62889f-a8b6-42a6-a549-ca78f7607f52/Product-Design-Intern-Secureworks-US-Remote",
         "company_name": "Dell Technologies",
         "title": "Product Design Intern",
@@ -78054,6 +78054,6 @@
         "id": "3b05cd2f-1ec1-4d2f-928c-232b5d042161",
         "date_posted": 1712807292,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     }
 ]
