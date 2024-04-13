@@ -13371,7 +13371,7 @@
         "company_name": "Konrad Group",
         "id": "a1ac3a71-82c0-473f-8276-0c9e271b469e",
         "title": "Software Developer Intern - May 2024 - 4 months",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024"
         ],
@@ -15942,7 +15942,7 @@
         "company_name": "IXL Learning",
         "id": "00f9fd1a-2575-46ff-9a07-2f58430878c5",
         "title": "Software Engineer \u2013 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -31800,7 +31800,7 @@
         "company_name": "Sigma Computing",
         "id": "3588abba-92d6-4d14-8560-f7e40c06bb3f",
         "title": "Software Engineering Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -32671,7 +32671,7 @@
         "company_name": "Schonfeld",
         "id": "2b8b13ee-7e97-4e99-8dbe-963782f97f45",
         "title": "2024 Execution Risk Analyst Summer Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -38295,7 +38295,7 @@
         "company_name": "Wing",
         "id": "13d243e1-6dc7-4cf8-8700-812c7f8445fd",
         "title": "UTM Software Engineer Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -63346,7 +63346,7 @@
         "company_name": "Wasabi Technologies",
         "id": "c305e678-ab2b-40f9-b750-f9c674f87c3a",
         "title": "Engineering Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -66963,7 +66963,7 @@
         "company_name": "Nuna",
         "id": "797800bd-c328-43e6-825c-45aa1f994e2f",
         "title": "Health Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -67331,7 +67331,7 @@
         "company_name": "STR",
         "id": "b0c4c5a3-59b5-4449-aaf0-359d25008d07",
         "title": "Cyber Fall Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2024"
         ],
@@ -69788,7 +69788,7 @@
         "company_name": "Cadence Design Systems",
         "id": "fbea7f59-717c-4e34-9c5e-bb61befc03d1",
         "title": "CFD Product Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -77697,7 +77697,7 @@
         "company_name": "Bridgewater Associates",
         "id": "24d08d8d-0e0b-438d-9afe-8da29dbf21da",
         "title": "Investment Engineer Intern - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -78555,6 +78555,85 @@
             "San Mateo, CA"
         ],
         "company_url": "https://simplify.jobs/c/Snowflake",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Cruise",
+        "id": "383e1d69-93d8-457b-b195-b53d76fb8714",
+        "title": "Machine Learning Intern - Autonomy",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1712994327,
+        "date_posted": 1712994327,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=5905576",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cruise",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Leidos",
+        "id": "88db2ddf-8291-4b12-bbae-f25d8c670d48",
+        "title": "Data Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1712966357,
+        "date_posted": 1712966357,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Tewksbury-MA/Data-Engineer-Intern_R-00133404",
+        "locations": [
+            "Tewksbury, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Leidos",
+        "id": "0b9a2a6f-040b-477f-b5d8-446987ac88a6",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1712966354,
+        "date_posted": 1712966354,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/Software-Engineer-Intern_R-00133521",
+        "locations": [
+            "Virginia Beach, VA",
+            "Long Beach, MS",
+            "Arlington, VA",
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Intel",
+        "id": "dd6cf7af-0e28-49c0-8675-72df6ca62fc6",
+        "title": "Technology Development Automation Integration Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1712887760,
+        "date_posted": 1712887760,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/Virtual-US/Technology-Development-Automation-Integration-Intern_JR0262215",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
         "is_visible": true,
         "sponsorship": "Other"
     }
