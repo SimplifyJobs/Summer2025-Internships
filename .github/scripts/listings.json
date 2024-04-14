@@ -71338,7 +71338,7 @@
         "company_name": "Intel",
         "id": "6d2e0f7d-8397-4ea3-bc79-c79bc09d5f39",
         "title": "Undergraduate Internship - Computer Engineering - Bachelors",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -77697,7 +77697,7 @@
         "company_name": "Bridgewater Associates",
         "id": "24d08d8d-0e0b-438d-9afe-8da29dbf21da",
         "title": "Investment Engineer Intern - Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -78335,7 +78335,7 @@
         "company_name": "Live Nation Entertainment",
         "id": "150ace8a-85e0-485d-bc93-6c922a8aded7",
         "title": "Software Engineer \u2013 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
