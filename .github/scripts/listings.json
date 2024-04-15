@@ -11981,7 +11981,7 @@
         "company_name": "F5",
         "id": "3526b808-5c95-4628-85a2-65d7e2da6e73",
         "title": "Summer 2024 Internship - Software Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -66353,7 +66353,7 @@
         "company_name": "Dell Technologies",
         "id": "2a499954-5997-4834-9f20-3e30a72d8dc0",
         "title": "Software Engineer Intern - Secureworks Big Data",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -67675,7 +67675,7 @@
         "company_name": "Bugcrowd",
         "id": "c1b0b71c-71b0-41fa-8804-71b32b3e094c",
         "title": "Machine Learning Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -70350,7 +70350,7 @@
         "company_name": "Rivian",
         "id": "e6b8f2a5-2201-4841-bead-91dd44177bd3",
         "title": "Engineering Intern - Supply Chain Purchasing Manager - Interiors",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -72003,7 +72003,7 @@
         "company_name": "Yahoo",
         "id": "936e7012-06bb-44f6-a53f-33775cbf3a70",
         "title": "Yahoo Summer Intern - US - Sports - Finance - Mail & More",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -77266,7 +77266,7 @@
         "company_name": "Cadence Design Systems",
         "id": "9bfd00ea-db72-43df-9db0-b06eaa19a5cd",
         "title": "Software Intern - Summer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -77697,7 +77697,7 @@
         "company_name": "Bridgewater Associates",
         "id": "24d08d8d-0e0b-438d-9afe-8da29dbf21da",
         "title": "Investment Engineer Intern - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -78061,7 +78061,7 @@
         "company_name": "Leidos",
         "id": "f2fc3d90-1e18-464d-bcce-cd77a45ce708",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -78544,7 +78544,7 @@
         "company_name": "Snowflake",
         "id": "b510a641-212d-4109-905a-523a5e43912d",
         "title": "Content Editorial Internship - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -78582,7 +78582,7 @@
         "company_name": "Leidos",
         "id": "88db2ddf-8291-4b12-bbae-f25d8c670d48",
         "title": "Data Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -78693,5 +78693,62 @@
         "date_posted": 1713198530,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Leidos",
+        "id": "bb5bdc65-f056-42bb-8cc2-16b0f62db736",
+        "title": "Software Developer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1713200540,
+        "date_posted": 1713200540,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Alexandria-VA/Software-Developer-Intern_R-00131765",
+        "locations": [
+            "Alexandria, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "AvePoint",
+        "id": "0679d33a-79eb-4d5c-8fd3-64d07a77ec2c",
+        "title": "People Analytics Internship",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1713200608,
+        "date_posted": 1713200608,
+        "url": "https://www.avepoint.com/about/careers/job-detail?gh_jid=5906869",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/AvePoint",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "AvePoint",
+        "id": "be28c455-f512-471c-a7a7-4786ffc2e4ca",
+        "title": "Marketing Data Analytics Internship",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1713200603,
+        "date_posted": 1713200603,
+        "url": "https://www.avepoint.com/about/careers/job-detail?gh_jid=5906822",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/AvePoint",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
