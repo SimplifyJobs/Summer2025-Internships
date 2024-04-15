@@ -561,7 +561,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | **[Live Nation Entertainment](https://simplify.jobs/c/Live-Nation-Entertainment)** | Software Engineer – Intern | Culver City, CA | 🔒 | Apr 10 |
 | **[GlossGenius](https://simplify.jobs/c/8a54ca8e-9967-4c01-a0c8-52606b1dab8e)** | Summer 2024 Engineering Intern | Remote in USA | 🔒 | Apr 09 |
 | **[Nutanix](https://simplify.jobs/c/Nutanix)** | Software Engineering Intern - Undergrad only | Durham, NC | 🔒 | Apr 08 |
-| **[Leidos](https://simplify.jobs/c/Leidos)** | Junior Software Engineer Intern | Tucson, AZ | 🔒 | Apr 08 |
+| **[Leidos](https://simplify.jobs/c/Leidos)** | Junior Software Engineer Intern 🇺🇸 | Tucson, AZ | 🔒 | Apr 08 |
 | **[Affirm](https://simplify.jobs/c/Affirm)** | Software Engineering Intern - Summer 2024 | SF | 🔒 | Apr 08 |
 | ↳ | Software Engineering Intern - Summer 2024 | NYC | 🔒 | Apr 08 |
 | **[Benesch](https://simplify.jobs/c/Benesch)** | Contract Analyst Intern | Kansas City, KS | 🔒 | Apr 07 |
