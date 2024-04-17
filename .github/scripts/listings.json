@@ -6292,7 +6292,7 @@
         "company_name": "Ramp",
         "id": "5f9b7b9a-7021-40dd-b619-38d144e31a6b",
         "title": "Software Engineer Internship - Backend",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -41734,7 +41734,7 @@
         "company_name": "Wayfair",
         "id": "dc294d52-ceb4-42ed-89ad-92953269e44a",
         "title": "Software Engineering Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -41792,7 +41792,7 @@
         "company_name": "Intel",
         "id": "d6d70897-d434-4697-bf59-47822e777ba0",
         "title": "Undergraduate Software Application Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -59129,7 +59129,7 @@
         "company_name": "Bose",
         "id": "a5763e14-12b6-4699-9fb6-daa4eb52b683",
         "title": "IOS or Android Mobile Application Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -60530,7 +60530,7 @@
         "company_name": "Roku",
         "id": "e9a4c863-16cf-4773-b888-cc63c9151e9e",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -60549,7 +60549,7 @@
         "company_name": "Roku",
         "id": "d04fdd7b-7df1-4e0b-9fe0-6db763536033",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -73051,7 +73051,7 @@
         "company_name": "Samsung",
         "id": "eaee9404-e264-49b9-b950-59366df6b95e",
         "title": "Global Mobility Intern - SSD Firmware Development",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -74627,7 +74627,7 @@
         "company_name": "Square",
         "id": "e5e2ef16-f6e3-412f-9a59-3e4e619ffb4e",
         "title": "Manufacturing Electrical Engineer Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -77697,7 +77697,7 @@
         "company_name": "Bridgewater Associates",
         "id": "24d08d8d-0e0b-438d-9afe-8da29dbf21da",
         "title": "Investment Engineer Intern - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -77755,7 +77755,7 @@
         "company_name": "Symbotic",
         "id": "fe2161d3-0cdd-40df-833a-b3116e29fdab",
         "title": "Intern-Robot Perception",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024",
             "Spring 2025",
@@ -77947,7 +77947,7 @@
         "company_name": "Santander",
         "id": "c3c69653-7d71-49e1-8c0b-4ff4626f8202",
         "title": "Intern CSU Argentina",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -78354,7 +78354,7 @@
         "company_name": "Western Digital",
         "id": "bc8138fc-91a8-494d-bedf-2c8352e6f04c",
         "title": "Fall 2024 Embedded Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2024"
         ],
@@ -78411,7 +78411,7 @@
         "company_name": "CACI",
         "id": "a56f592e-0a6f-49c8-b832-e3f5bf870fd9",
         "title": "Software Engineer Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -78506,7 +78506,7 @@
         "company_name": "DoubleVerify",
         "id": "77c3d2c7-ff35-4a49-825f-ab16cc70806c",
         "title": "Commercial Reporting Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -78794,7 +78794,7 @@
         "company_name": "Artisan Partners",
         "id": "50759b6a-ec65-44a1-b2fd-fce6000483e2",
         "title": "Software Developer Intern - Corporate Systems",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -78870,7 +78870,7 @@
         "company_name": "Western Digital",
         "id": "fb0fe0d8-9e38-4c0f-a824-f043198e19fb",
         "title": "Summer Intern 2024 \u2013 Software Engineering Internship - Firmware",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -78927,7 +78927,7 @@
         "company_name": "Leidos",
         "id": "848759e5-a4b3-4a24-bb13-a216ae4ec3fd",
         "title": "AI / ML Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -78946,7 +78946,7 @@
         "company_name": "Qualtrics",
         "id": "061edc6f-eef8-4fa3-821d-6bcd6d16a72c",
         "title": "SDE Intern - Reston - VA 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -78965,7 +78965,7 @@
         "company_name": "Smartsheet",
         "id": "3abbc3fd-220f-4f91-9d6a-434c945bfc29",
         "title": "Data Analytics Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -79033,6 +79033,234 @@
             "San Jose, CA"
         ],
         "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Leidos",
+        "id": "1f9e3f66-db73-409f-882d-3b4674d8297e",
+        "title": "Web Development Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1713367700,
+        "date_posted": 1713367700,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Chantilly-VA/Web-Development-Intern_R-00133557",
+        "locations": [
+            "Chantilly, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "CACI",
+        "id": "79c412fb-8903-4017-8199-c2d517f00d91",
+        "title": "GMU EIP Scholar Program \u2013 Summer 2025 Internship",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1713367697,
+        "date_posted": 1713367697,
+        "url": "https://caci.wd1.myworkdayjobs.com/External/job/US-VA-Sterling/GMU-EIP-Scholar-Program---Summer-2025-Internship_293628",
+        "locations": [
+            "Dulles, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/CACI",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "RapidSOS",
+        "id": "504ec9ab-6978-4d80-ac98-bf002cc2bd29",
+        "title": "Software Engineering Intern - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1713338834,
+        "date_posted": 1713338834,
+        "url": "https://boards.greenhouse.io/rapidsos/jobs/4345963007",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/RapidSOS",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Rockwell Automation",
+        "id": "5833bde2-2ff2-4019-b4b9-ac1cedddb007",
+        "title": "Intern \u2013 Llms for Manufacturing Operation",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1713312608,
+        "date_posted": 1713312608,
+        "url": "https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Austin-Texas-United-States/Intern--LLMs-for-Manufacturing-Operation_R24-2446-1",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Rockwell-Automation",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Intel",
+        "id": "19b6e947-79a3-4020-9cd3-658e9c7959c3",
+        "title": "Design Automation Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1713312088,
+        "date_posted": 1713312088,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/Virtual-US/Design-Automation-Intern_JR0262477",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "EnergyHub",
+        "id": "c2ace57e-24f4-42cf-8ef4-403728bfd657",
+        "title": "Data Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1713311889,
+        "date_posted": 1713311889,
+        "url": "https://www.energyhub.com/careers/job-listings?gh_jid=7333539002",
+        "locations": [
+            "Brooklyn, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/EnergyHub",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Virta Health",
+        "id": "d0a38e92-012c-4983-80cb-31f47cdf1984",
+        "title": "Intern Full-Stack Software Engineer - Adoption",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1713311718,
+        "date_posted": 1713311718,
+        "url": "https://jobs.ashbyhq.com/virtahealth/e4a171f1-8ac9-4a34-ac2e-16c7a57c4ae0/application",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Virta-Health",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Virta Health",
+        "id": "c41dcc38-9ae2-4303-ae60-1c23da860d01",
+        "title": "Applied AI Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1713311717,
+        "date_posted": 1713311717,
+        "url": "https://jobs.ashbyhq.com/virtahealth/663b91b9-4392-4da1-81d2-1876b64033c7/application",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Virta-Health",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Virta Health",
+        "id": "fc0dd1b2-61e7-48ae-a130-60fbe59555e7",
+        "title": "Insights & Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1713311715,
+        "date_posted": 1713311715,
+        "url": "https://jobs.ashbyhq.com/virtahealth/8eeefca8-fafa-48de-84f9-27bfcc09f465/application",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Virta-Health",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Perchwell",
+        "id": "26df8a06-e795-4bcb-b83d-1a3b2fab6d11",
+        "title": "Data Analyst Intern",
+        "active": true,
+        "terms": [
+            "Fall 2024"
+        ],
+        "date_updated": 1713311503,
+        "date_posted": 1713311503,
+        "url": "https://jobs.ashbyhq.com/Perchwell/2b54a4d4-41e6-4377-bfcc-2a651a170b75/application",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Perchwell",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Wunderman Thompson",
+        "id": "0ee35e2f-3036-4e6b-96ab-7ac6565115cc",
+        "title": "Intern \u2013 Analytics",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1713310145,
+        "date_posted": 1713310145,
+        "url": "https://www.vml.com/careers/job/7330377002?gh_jid=7330377002",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Wunderman-Thompson",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Wunderman Thompson",
+        "id": "04a9bfaa-1efd-4ba4-937a-842390fc85ef",
+        "title": "Intern \u2013 Discoverability",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1713301296,
+        "date_posted": 1713286491,
+        "url": "https://www.vml.com/careers/job/7330366002?gh_jid=7330366002",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Wunderman-Thompson",
         "is_visible": true,
         "sponsorship": "Other"
     }
