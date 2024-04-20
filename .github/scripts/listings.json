@@ -2340,7 +2340,7 @@
         "company_name": "Lendbuzz",
         "id": "24f9405e-dfb5-42d4-ab10-b27ebd4879ce",
         "title": "Fullstack Engineering Coop",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -53060,7 +53060,7 @@
         "company_name": "NVIDIA",
         "id": "f3622515-75b7-403d-9c90-56f360ae9ed5",
         "title": "3D Reconstruction Research Engineering Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -61698,7 +61698,7 @@
         "company_name": "Rivian",
         "id": "9e1114a3-ac8b-424a-8fef-57ce176b2995",
         "title": "Engineering Intern - Industrial Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -63808,7 +63808,7 @@
         "company_name": "iRhythm Technologies",
         "id": "d4062e9d-c73b-4286-a16a-2e974abc004f",
         "title": "Firmware Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2024",
             "Summer 2024"
@@ -64679,7 +64679,7 @@
         "company_name": "Cohere Health",
         "id": "2fef116b-faac-487f-84d4-ac5c826275aa",
         "title": "SWE CO-Op \u2013 Security - June - Nov 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -69014,7 +69014,7 @@
         "company_name": "MiQ",
         "id": "a22e4e50-1fa8-4d3b-8b47-758075a2634a",
         "title": "Product \u2013 Summer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -78099,7 +78099,7 @@
         "company_name": "SpotHero",
         "id": "2b3f53b8-cb9b-47cb-9ee8-fc3b9373f32a",
         "title": "Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024",
             "Summer 2024"
@@ -78392,7 +78392,7 @@
         "company_name": "Logitech",
         "id": "6847c328-e212-4130-8b7c-2679ef0fedee",
         "title": "Sales Ops and Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -79688,7 +79688,7 @@
         "company_name": "Western Digital",
         "id": "863946e0-b70a-44f7-8206-08c630179085",
         "title": "Summer Intern 2024 \u2013 Software Engineering Internship - Firmware",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -79783,7 +79783,7 @@
         "company_name": "SoFi",
         "id": "a1324b88-d827-459c-a3fd-aab5c9679696",
         "title": "Intern \u2013 Machine Learning",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024",
             "Fall 2024"
@@ -79871,6 +79871,234 @@
             "Alameda, CA"
         ],
         "company_url": "https://simplify.jobs/c/SilaNano",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Leidos",
+        "id": "62098c9b-c887-41cb-af59-3bcaf5dbc07e",
+        "title": "Gen AI Developer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1713569937,
+        "date_posted": 1713569937,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Remote-US/Gen-AI-Developer-Intern_R-00133880",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Leidos",
+        "id": "e1cb5ae1-45de-4d79-a618-c7ac79c9bd15",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1713569929,
+        "date_posted": 1713569929,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Lynnwood-WA/Software-Engineer-Intern_R-00134071",
+        "locations": [
+            "Lynnwood, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "CACI",
+        "id": "eaa374c8-8cb1-484c-9607-179796d8762a",
+        "title": "Software Development Intern - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1713569741,
+        "date_posted": 1713569741,
+        "url": "https://caci.wd1.myworkdayjobs.com/External/job/US-CO-Aurora/Software-Development-Intern---Summer-2024_295441-1",
+        "locations": [
+            "Aurora, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/CACI",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Applied Materials",
+        "id": "e15e12bf-f80f-492c-ac03-f00b89115a1e",
+        "title": "2024 Summer AI ML Intern - Gloucester",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1713569376,
+        "date_posted": 1713569376,
+        "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/GloucesterMA/XMLNAME-2024-Summer-AI-ML-Intern--Gloucester-_R2413465",
+        "locations": [
+            "Essex County, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/d9a164c2-2f82-4ddc-9351-708bb0a4a8b2",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Nextech Systems",
+        "id": "e84440c8-83e7-4ba5-b5e0-852d61a41ad9",
+        "title": "Summer Intern - AI - Artificial Intelligence",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1713568884,
+        "date_posted": 1713568884,
+        "url": "https://jobs.lever.co/nextech/25a1a3f1-0448-4ae2-93e1-e0ed5678599f/apply",
+        "locations": [
+            "Tampa, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/NextechSystems",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Intel",
+        "id": "6c0fdb6a-fe46-4fee-a704-660eae161155",
+        "title": "Undergraduate Internship - Computer Science - Bachelors",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1713568744,
+        "date_posted": 1713568744,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/Virtual-US/Undergraduate-Internship---Computer-Science--Bachelors-_JR0262659",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Trackonomy",
+        "id": "95daa827-04ea-4a62-be73-6cac3db9f064",
+        "title": "Firmware Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1713568679,
+        "date_posted": 1713568679,
+        "url": "https://trackonomysystems.com/career-details/?gh_jid=5159036004",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Trackonomy",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Celonis",
+        "id": "3f5fdb7c-7567-4cee-b498-4333b1ee7dd2",
+        "title": "Summernaut Intern Solutions Architect Stream",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1713568566,
+        "date_posted": 1713568566,
+        "url": "https://boards.greenhouse.io/celonis/jobs/5960286003",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Celonis",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Palantir",
+        "id": "860d8c08-7297-4a35-9f32-604912fd2830",
+        "title": "Deployment Strategist \u2013 Internship",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1713568308,
+        "date_posted": 1713568308,
+        "url": "https://jobs.lever.co/palantir/a6ba9190-115c-47e8-9915-90e68307c18f/apply",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Palantir",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "GrayMatter Robotics",
+        "id": "62b0faca-7bdd-44b2-86d8-ba2c3ccfb681",
+        "title": "Robotics Engineer: Software Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1713601911,
+        "date_posted": 1713568284,
+        "url": "https://boards.greenhouse.io/graymatterrobotics/jobs/4411085005",
+        "locations": [
+            "West Athens, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/GrayMatterRobotics",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Livefront",
+        "id": "f928e0b6-a5a1-4230-bdc8-6bf40b7dd9bf",
+        "title": "Mobile Engineering Internship",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1713568142,
+        "date_posted": 1713568142,
+        "url": "https://jobs.lever.co/livefront/454f812a-3dfc-4eab-9a31-81ba14aa6adb/apply",
+        "locations": [
+            "Minneapolis, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Livefront",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Legend Biotech",
+        "id": "7a9e1d8a-b83a-4f29-8e4a-910601f331d2",
+        "title": "R&D Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1713602004,
+        "date_posted": 1707437299,
+        "url": "https://boards.greenhouse.io/legendcareers/jobs/4366400005",
+        "locations": [
+            "Somerset County, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/Legend-Biotech",
         "is_visible": true,
         "sponsorship": "Other"
     }
