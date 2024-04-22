@@ -6871,7 +6871,7 @@
         "company_name": "Ramp",
         "id": "1dd3a459-5bdd-40c2-b78a-a2483ed064a9",
         "title": "Software Engineer Internship - Frontend",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2023"
         ],
@@ -14500,7 +14500,7 @@
         "company_name": "Stryker",
         "id": "9bf8eaff-702c-48f2-9db0-517dd11a99be",
         "title": "Florida a&M University Summer Internship 2024 - Engineering-Michigan",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -16078,7 +16078,7 @@
         "company_name": "PayPal",
         "id": "da923e9c-8a2c-45b7-b766-f6ab115d0028",
         "title": "Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -25538,7 +25538,7 @@
         "company_name": "Cloudflare",
         "id": "999524ff-f61d-4f58-b181-9fd12185e09e",
         "title": "Software Engineer \u2013 Intern - Summer 2024",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -42691,7 +42691,7 @@
         "company_name": "Recursion Pharmaceuticals",
         "id": "9e234a88-0053-47f8-bdb1-0985cfc2280c",
         "title": "Machine Learning Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -61413,7 +61413,7 @@
         "company_name": "Airbnb",
         "id": "8209e48f-1e8c-4dbb-8f2d-905d137fd155",
         "title": "Strategic Finance & Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -65372,7 +65372,7 @@
         "company_name": "Recorded Future",
         "id": "85c85440-0628-42ff-b385-9da8a6038254",
         "title": "Software Engineer Intern - Data Pipelines",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2024",
             "Summer 2024"
@@ -76978,7 +76978,7 @@
         "company_name": "Tubi",
         "id": "ce71a1cc-65ac-4060-b975-763a7b317c90",
         "title": "Product Distribution Intern - Undergraduate",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024"
         ],
@@ -79041,7 +79041,7 @@
         "company_name": "Leidos",
         "id": "1f9e3f66-db73-409f-882d-3b4674d8297e",
         "title": "Web Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -79212,7 +79212,7 @@
         "company_name": "Perchwell",
         "id": "26df8a06-e795-4bcb-b83d-1a3b2fab6d11",
         "title": "Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2024"
         ],
@@ -79631,7 +79631,7 @@
         "company_name": "Vermont Information Processing",
         "id": "fd4cc8c5-9204-4dc6-b208-1c11d903f52a",
         "title": "Software Engineer Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -79803,7 +79803,7 @@
         "company_name": "Red Ventures",
         "id": "d0f93fcc-a0e5-4792-9270-580167dde6b4",
         "title": "2024 Launch Program: Junior Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -79879,7 +79879,7 @@
         "company_name": "Leidos",
         "id": "62098c9b-c887-41cb-af59-3bcaf5dbc07e",
         "title": "Gen AI Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -79955,7 +79955,7 @@
         "company_name": "Nextech Systems",
         "id": "e84440c8-83e7-4ba5-b5e0-852d61a41ad9",
         "title": "Summer Intern - AI - Artificial Intelligence",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -80012,7 +80012,7 @@
         "company_name": "Celonis",
         "id": "3f5fdb7c-7567-4cee-b498-4333b1ee7dd2",
         "title": "Summernaut Intern Solutions Architect Stream",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -80031,7 +80031,7 @@
         "company_name": "Palantir",
         "id": "860d8c08-7297-4a35-9f32-604912fd2830",
         "title": "Deployment Strategist \u2013 Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -80069,7 +80069,7 @@
         "company_name": "Livefront",
         "id": "f928e0b6-a5a1-4230-bdc8-6bf40b7dd9bf",
         "title": "Mobile Engineering Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
