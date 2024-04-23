@@ -13044,7 +13044,7 @@
         "company_name": "Cerebras",
         "id": "8e52e09f-118a-4add-b7a0-48188893071f",
         "title": "Machine Learning Runtime Engineer \u2013 Internship - PEY 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -18570,7 +18570,7 @@
         "company_name": "CACI",
         "id": "9b8a3580-efca-4b42-be7a-48afc1a5fc83",
         "title": "Software Engineering Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -29623,7 +29623,7 @@
         "company_name": "Zoox",
         "id": "89e03e40-299a-4968-aba4-c3b1674192d4",
         "title": "Labeling & Tools \u2013 Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -46130,7 +46130,7 @@
         "company_name": "Watershed",
         "id": "fd1e2da3-d3e1-4d0c-8943-9733852ab923",
         "title": "Software engineer \u2013 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -65333,7 +65333,7 @@
         "company_name": "Five9",
         "id": "395fc7e8-252e-4196-b693-31b5587c2715",
         "title": "2024 PS Software Development Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024",
             "Summer 2024"
@@ -71199,7 +71199,7 @@
         "company_name": "Ultima Genomics",
         "id": "4fa65a0c-b7fc-467c-9b1a-b37e3f5ba9dc",
         "title": "Systems Integration Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -76559,7 +76559,7 @@
         "company_name": "EarnIn",
         "id": "99007fcc-d7b3-4c7f-ad05-77be18bd797c",
         "title": "Machine Learning Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -77149,7 +77149,7 @@
         "company_name": "Genies",
         "id": "17f51637-98bf-4256-8d4b-d332139ef2a4",
         "title": "3D Machine Learning Engineering Intern - Summer 2024",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -77697,7 +77697,7 @@
         "company_name": "Bridgewater Associates",
         "id": "24d08d8d-0e0b-438d-9afe-8da29dbf21da",
         "title": "Investment Engineer Intern - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -79993,7 +79993,7 @@
         "company_name": "Trackonomy",
         "id": "95daa827-04ea-4a62-be73-6cac3db9f064",
         "title": "Firmware Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -80099,6 +80099,180 @@
             "Somerset County, NJ"
         ],
         "company_url": "https://simplify.jobs/c/Legend-Biotech",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "SpyCloud",
+        "id": "26a5b243-d982-4b91-b0bb-90c5ceea11e0",
+        "title": "Security Data Analyst/Research Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1713852441,
+        "date_posted": 1713852441,
+        "url": "https://boards.greenhouse.io/spycloud/jobs/5961422003",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/SpyCloud",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Oshkosh",
+        "id": "2f5b2e82-a347-4a27-a3da-dd728ec828f6",
+        "title": "Engineering Intern - Autonomy",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1713852570,
+        "date_posted": 1713852570,
+        "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Pittsburgh-Pennsylvania-United-States/Engineering-Intern---Autonomy_R22463",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Oshkosh",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "SpyCloud",
+        "id": "90876d9b-e20d-45d7-a616-a77b7c845c01",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1713852435,
+        "date_posted": 1713852435,
+        "url": "https://boards.greenhouse.io/spycloud/jobs/5962969003",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/SpyCloud",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Intel",
+        "id": "ff3b0ef6-1c43-4f61-8026-1db405c89d4c",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1713852432,
+        "date_posted": 1713852432,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Arizona-Phoenix/Software-Engineering-Intern_JR0262196",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "NVIDIA",
+        "id": "1c2fe426-ddba-4ff3-a30d-216f8478bc8d",
+        "title": "Software Engineer Intern - Automated Parallel Programming - Fall 2024",
+        "active": true,
+        "terms": [
+            "Fall 2024"
+        ],
+        "date_updated": 1713852234,
+        "date_posted": 1713852234,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Software-Engineer-Intern--Automated-Parallel-Programming---Fall-2024_JR1974776",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Leidos",
+        "id": "1e069e59-9d30-40eb-a29f-3e5277f21718",
+        "title": "Junior Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1713852607,
+        "date_posted": 1713852607,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Reston-VA/Junior-Software-Engineer-Intern_R-00134172",
+        "locations": [
+            "Reston, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Seismic",
+        "id": "48d4efeb-38f7-4a33-ae08-243fad077af5",
+        "title": "Software Engineer Intern - AI/Machine Learning",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1713852103,
+        "date_posted": 1713852103,
+        "url": "https://seismic.com/company/careers/job-detail/?gh_jid=5116696004",
+        "locations": [
+            "Remote in USA",
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Seismic",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Santander",
+        "id": "8488965a-1f5a-4990-9a62-cd0a10cb36fa",
+        "title": "Data Management Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1713852872,
+        "date_posted": 1713852872,
+        "url": "https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Miami/Data-Management-Intern_Req1305602-1",
+        "locations": [
+            "Miami, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Santander",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Verana Health",
+        "id": "61098649-c050-4222-9222-ab5352097bff",
+        "title": "Data Engineer Co-Op",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1713852731,
+        "date_posted": 1713852731,
+        "url": "https://boards.greenhouse.io/veranahealth/jobs/7342991002",
+        "locations": [
+            "Knoxville, TN",
+            "SF",
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/VeranaHealth",
         "is_visible": true,
         "sponsorship": "Other"
     }
