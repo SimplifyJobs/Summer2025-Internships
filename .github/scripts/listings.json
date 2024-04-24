@@ -80276,5 +80276,24 @@
         "company_url": "https://simplify.jobs/c/VeranaHealth",
         "is_visible": false,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1713921814,
+        "url": "https://simplify.jobs/p/8d4af5bc-c3e6-4fe4-a0a2-f5195623cec0/Software-Engineer--Intern-Summer-2024",
+        "company_name": "Nominal",
+        "title": "Software Engineer \u2013 Intern",
+        "locations": [
+            "Austin, TX, USA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "Jahhx57",
+        "id": "1f3331fd-91a3-4a54-8511-88badbe96cae",
+        "date_posted": 1713921814,
+        "company_url": "",
+        "is_visible": true
     }
 ]
