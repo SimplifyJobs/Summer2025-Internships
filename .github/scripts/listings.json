@@ -80295,5 +80295,24 @@
         "date_posted": 1713921814,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1713921830,
+        "url": "https://simplify.jobs/p/f59bb4f5-6cae-4c05-80d2-b727416c9dfe/Software-Engineer--Intern-Summer-2024",
+        "company_name": "Nominal",
+        "title": "Software Engineer \u2013 Intern",
+        "locations": [
+            "New York, NY, USA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "Jahhx57",
+        "id": "3ab8a0c4-e3cd-4449-ad0d-c908758792fe",
+        "date_posted": 1713921830,
+        "company_url": "",
+        "is_visible": true
     }
 ]
