@@ -21334,7 +21334,7 @@
         "company_name": "Elevance Health",
         "id": "6157d2ac-57f5-4026-976f-d17b57852deb",
         "title": "Engineer Co-Op Undergraduate Level - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -51910,7 +51910,7 @@
         "company_name": "Waystar",
         "id": "ab224209-580a-4e61-a250-cc08564203cb",
         "title": "Application Engineer Co-Op - Summer or Fall of 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024",
             "Fall 2024"
@@ -62502,7 +62502,7 @@
         "company_name": "Hitachi Vantara",
         "id": "298d5ae2-07e1-4311-a38c-2bdd2650cd54",
         "title": "Intern \u2013 Federal Data Science",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -62521,7 +62521,7 @@
         "company_name": "Hitachi Vantara",
         "id": "b54e5a79-1235-45c0-be48-f2da27369c87",
         "title": "Intern \u2013 Federal Data Science",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -67196,7 +67196,7 @@
         "company_name": "Hewlett Packard (HP)",
         "id": "6923cbe5-e998-4452-b346-fe28a33ac677",
         "title": "Cloud Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -72686,7 +72686,7 @@
         "company_name": "Samsara",
         "id": "7ebbf274-04ad-42de-abfb-82393ba3210b",
         "title": "Machine Learning Intern - Phd",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -76826,7 +76826,7 @@
         "company_name": "Legend Biotech",
         "id": "3d120ced-0be1-4581-a362-e58d70b430ab",
         "title": "C&Q Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -77698,7 +77698,7 @@
         "company_name": "Bridgewater Associates",
         "id": "24d08d8d-0e0b-438d-9afe-8da29dbf21da",
         "title": "Investment Engineer Intern - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -78985,7 +78985,7 @@
         "company_name": "Palantir",
         "id": "a32f2e90-ea6b-4f9c-a8f8-b2f947ac7e24",
         "title": "Deployment Strategist \u2013 Internship - US Government",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -79156,7 +79156,7 @@
         "company_name": "Virta Health",
         "id": "d0a38e92-012c-4983-80cb-31f47cdf1984",
         "title": "Intern Full-Stack Software Engineer - Adoption",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -79823,7 +79823,7 @@
         "company_name": "Santander",
         "id": "5cffa429-20cd-4a17-b517-8857ce868536",
         "title": "Intern Csu Cac",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -79899,7 +79899,7 @@
         "company_name": "Leidos",
         "id": "e1cb5ae1-45de-4d79-a618-c7ac79c9bd15",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -79937,7 +79937,7 @@
         "company_name": "Applied Materials",
         "id": "e15e12bf-f80f-492c-ac03-f00b89115a1e",
         "title": "2024 Summer AI ML Intern - Gloucester",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -80320,7 +80320,7 @@
         "company_name": "Complex Care",
         "id": "46c85f08-bd8d-452b-b396-64ee6e24a5e7",
         "title": "Associate Software Engineer Intern - Summer 2024 - Ccs",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -80358,7 +80358,7 @@
         "company_name": "Inovalon",
         "id": "b8ec9cd6-bf64-4c5b-b69e-d5af2463d1c9",
         "title": "Associate Software Engineer Intern - Summer 2024 - Ccs",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -80377,7 +80377,7 @@
         "company_name": "Leidos",
         "id": "88da211e-46f4-40cb-97cc-2499c4527db4",
         "title": "Associate Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -80550,7 +80550,7 @@
         "company_name": "Intel",
         "id": "7e1bf91e-3941-4568-9841-2950e4423430",
         "title": "Software Engineer \u2013 Undergraduate Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -80619,6 +80619,140 @@
             "Hillsboro, OR"
         ],
         "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Rise8",
+        "id": "e48da94e-987a-48e6-a34c-82e0558ae8bb",
+        "title": "Skillbridge Intern - Software Engineer",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1714146198,
+        "date_posted": 1714146198,
+        "url": "https://boards.greenhouse.io/rise8/jobs/4359623007",
+        "locations": [
+            "LA",
+            "Tampa, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/f3b10e3a-a9ee-4946-95bb-f0053611ee2c",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Intel",
+        "id": "c1d8751d-c0b7-474e-986d-d036aa4c6c1f",
+        "title": "Compiler Engineering Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2024"
+        ],
+        "date_updated": 1714146168,
+        "date_posted": 1714146168,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/Canada-Toronto/Compiler-Engineering-Co-op_JR0263134",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Cadence Design Systems",
+        "id": "a013ca3b-fcac-41e5-9b81-3f87e6416c16",
+        "title": "Tensilica Embedded Systems Programming Intern - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1714146021,
+        "date_posted": 1714146021,
+        "url": "https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/SAN-JOSE/Tensilica-Embedded-Systems-Programming-Intern--Summer-2024-_R45875",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Actian",
+        "id": "ff27cb6e-1952-4c6d-9f99-06115c1272eb",
+        "title": "Gen AI Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1714145966,
+        "date_posted": 1714145966,
+        "url": "https://jobs.lever.co/actian/f56daaaf-9136-4ac6-9fc7-44d14623a4b9/apply",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/actian",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Fluxergy",
+        "id": "9372198d-0c77-4b3e-a103-45f406c950a2",
+        "title": "Software Engineer Intern - Algorithm",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1714109528,
+        "date_posted": 1714109528,
+        "url": "https://jobs.lever.co/fluxergy-2/3e33fa88-2689-41d7-8562-062eabf4f9c0/apply",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Fluxergy",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Fluxergy",
+        "id": "50298d2f-42aa-419c-a72c-d8ce29b0c06d",
+        "title": "Software Engineer Intern - Backend",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1714109526,
+        "date_posted": 1714109526,
+        "url": "https://jobs.lever.co/fluxergy-2/f25b8640-74f6-4e24-a74c-0c50f1a0cfd7/apply",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Fluxergy",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Leidos",
+        "id": "c9f3f25b-354d-4f64-ad72-18e64dafae2f",
+        "title": "Software Engineer Intern - Fall 2024",
+        "active": true,
+        "terms": [
+            "Fall 2024"
+        ],
+        "date_updated": 1714109194,
+        "date_posted": 1714109194,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/Software-Engineer-Intern---Fall-2024_R-00134270",
+        "locations": [
+            "Arlington, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
         "is_visible": true,
         "sponsorship": "Other"
     }
