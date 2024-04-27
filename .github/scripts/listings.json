@@ -15765,7 +15765,7 @@
         "company_name": "Hewlett Packard (HP)",
         "id": "61d389b0-e40a-4468-80a3-75506c4bd420",
         "title": "Personal Systems Software Engineer Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -46149,7 +46149,7 @@
         "company_name": "Hewlett Packard (HP)",
         "id": "0b1d8a2d-8056-4d1a-8608-a98bf4188e8e",
         "title": "Personal Systems Artificial Intelligence Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024"
         ],
@@ -58628,7 +58628,7 @@
         "company_name": "Nuro",
         "id": "8d300cc8-f543-4114-b324-402ea1ab6b27",
         "title": "Software Engineer \u2013 Intern - Vehicle Infrastructure",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -66353,7 +66353,7 @@
         "company_name": "Dell Technologies",
         "id": "2a499954-5997-4834-9f20-3e30a72d8dc0",
         "title": "Software Engineer Intern - Secureworks Big Data",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -66372,7 +66372,7 @@
         "company_name": "Dell Technologies",
         "id": "28c2ea56-ac13-4ebd-b976-6156713ef6ae",
         "title": "Intern Software Engineer - Platform Engineering - Remote UK",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -69438,7 +69438,7 @@
         "company_name": "XPeng Motors",
         "id": "34e41df5-95fa-426f-a0ac-def42ab0e35e",
         "title": "Tools and Infrastructure Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -77698,7 +77698,7 @@
         "company_name": "Bridgewater Associates",
         "id": "24d08d8d-0e0b-438d-9afe-8da29dbf21da",
         "title": "Investment Engineer Intern - Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -79290,7 +79290,7 @@
         "company_name": "Daniel J Edelman Holdings",
         "id": "a7ae41f6-5949-42b2-a887-d7414158da73",
         "title": "AI Platforms & Offerings Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -80704,7 +80704,7 @@
         "company_name": "Fluxergy",
         "id": "9372198d-0c77-4b3e-a103-45f406c950a2",
         "title": "Software Engineer Intern - Algorithm",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -80723,7 +80723,7 @@
         "company_name": "Fluxergy",
         "id": "50298d2f-42aa-419c-a72c-d8ce29b0c06d",
         "title": "Software Engineer Intern - Backend",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -80751,6 +80751,162 @@
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/Software-Engineer-Intern---Fall-2024_R-00134270",
         "locations": [
             "Arlington, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Cadence Design Systems",
+        "id": "4490aad8-30cb-4b5c-8d1e-575b91723ad8",
+        "title": "Software Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1714246229,
+        "date_posted": 1714246229,
+        "url": "https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/BURLINGTON-01/Software-Intern_R46461-1",
+        "locations": [
+            "Northridge, LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Leidos",
+        "id": "d337e30c-8caf-4142-92eb-0baa680fcfed",
+        "title": "Cyber Security Software Development Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1714244340,
+        "date_posted": 1714244340,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Cyber-Security-Software-Development-Intern_R-00134608",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Leidos",
+        "id": "69fa1c38-c069-480b-b057-3d59e7ec145b",
+        "title": "Cyber Security software development intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1714244334,
+        "date_posted": 1714244334,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Cyber-Security-software-development-intern_R-00134591",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Dexis Consulting Group ",
+        "id": "81e530c1-73e5-42ac-94ca-2f76d3cc53fe",
+        "title": "Registered Apprenticeship Subject Matter Expert - Department of Labor",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1714222626,
+        "date_posted": 1714222626,
+        "url": "https://dexisonline.com/jobs/?gh_jid=4413173005",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/Dexis-Consulting-Group",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Talkspace",
+        "id": "ee517b2c-2dbf-407f-bae7-b486be506412",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1714222667,
+        "date_posted": 1714222667,
+        "url": "https://www.talkspace.com/careers/job?gh_jid=5164410004",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Talkspace",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Daniel J Edelman Holdings",
+        "id": "0f866ad9-3ac4-48ce-bdc8-2e72c55099f2",
+        "title": "Intern \u2013 Market Research",
+        "active": true,
+        "terms": [
+            "Summer 2024",
+            "Fall 2024"
+        ],
+        "date_updated": 1714177148,
+        "date_posted": 1714177148,
+        "url": "https://jobs.lever.co/djeholdings/45f3bd3c-1545-4a0e-aa03-d203cf11dc5a/apply",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/2e8bd784-4875-481a-a28c-bedee902a758",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Flagship Pioneering",
+        "id": "e77bc22d-7a37-4630-977f-f099380a0089",
+        "title": "Co-op: Data Engineer",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1714177071,
+        "date_posted": 1714177071,
+        "url": "https://boards.greenhouse.io/flagshippioneeringinc/jobs/7423790002",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/FlagshipPioneering",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Leidos",
+        "id": "1a07e3a5-35c5-4e27-a956-e63eb5848325",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1714176973,
+        "date_posted": 1714176973,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/Software-Engineer-Intern_R-00134454",
+        "locations": [
+            "Virginia Beach, VA",
+            "Long Beach, MS",
+            "Arlington, VA",
+            "San Diego, CA"
         ],
         "company_url": "https://simplify.jobs/c/Leidos",
         "is_visible": true,
