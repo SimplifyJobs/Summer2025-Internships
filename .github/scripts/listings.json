@@ -77698,7 +77698,7 @@
         "company_name": "Bridgewater Associates",
         "id": "24d08d8d-0e0b-438d-9afe-8da29dbf21da",
         "title": "Investment Engineer Intern - Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -78564,7 +78564,7 @@
         "company_name": "Cruise",
         "id": "383e1d69-93d8-457b-b195-b53d76fb8714",
         "title": "Machine Learning Intern - Autonomy",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
