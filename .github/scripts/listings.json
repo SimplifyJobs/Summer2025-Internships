@@ -80953,5 +80953,24 @@
         "company_url": "https://simplify.jobs/c/Intel",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1714350877,
+        "url": "https://careers.abb/global/en/job/ABB1GLOBAL91597698EXTERNALENGLOBAL/Software-Engineer-Intern?utm_medium=phenom-feeds",
+        "company_name": "ABB",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "Senatobia, MS"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "wwwld1",
+        "id": "4fcd191e-c4f3-4c8c-8e88-6ddfca0a3969",
+        "date_posted": 1714350877,
+        "company_url": "",
+        "is_visible": true
     }
 ]
