@@ -16078,7 +16078,7 @@
         "company_name": "PayPal",
         "id": "da923e9c-8a2c-45b7-b766-f6ab115d0028",
         "title": "Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -36965,7 +36965,7 @@
         "company_name": "CACI",
         "id": "a0c4c989-6b8a-4f7e-b3df-b4d5c6202cd1",
         "title": "Junior Software Developer Internship - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -44956,7 +44956,7 @@
         "company_name": "Modernizing Medicine",
         "id": "46f5e75d-4c9c-4bb0-ba20-f7d7efa117da",
         "title": "Java Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -61776,7 +61776,7 @@
         "company_name": "Databricks",
         "id": "eb401165-358b-48ad-ab3b-001508f57677",
         "title": "IT Software Engineering Intern - 2024",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -64640,7 +64640,7 @@
         "company_name": "Cloudflare",
         "id": "26d9f4e6-8468-4a57-bf8a-7e04f0793e08",
         "title": "Marketing Analytics Intern - Regional Programs - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -64948,7 +64948,7 @@
         "company_name": "IPG DXTRA",
         "id": "2376a909-03bd-475d-af71-11e6cb94fd15",
         "title": "Strategy & Analytics Intern - New York",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -66849,7 +66849,7 @@
         "company_name": "Samsung",
         "id": "7ee2a246-f9d3-4d55-9fb5-47a377a786cf",
         "title": "Intern \u2013 Storage Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -77189,7 +77189,7 @@
         "company_name": "Intel",
         "id": "91e7df35-30c8-49d8-9dc1-9c55f1974bfe",
         "title": "Software Engineer Undergraduate Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -77698,7 +77698,7 @@
         "company_name": "Bridgewater Associates",
         "id": "24d08d8d-0e0b-438d-9afe-8da29dbf21da",
         "title": "Investment Engineer Intern - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -80089,7 +80089,7 @@
         "company_name": "Legend Biotech",
         "id": "7a9e1d8a-b83a-4f29-8e4a-910601f331d2",
         "title": "R&D Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -80531,7 +80531,7 @@
         "company_name": "Intel",
         "id": "5e2f9278-9b40-4b4c-84cc-d2d916a97a13",
         "title": "Undergraduate Software Application Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -81228,7 +81228,7 @@
         "company_name": "Applied Materials",
         "id": "80217c8a-5b3e-47b2-a7a0-fd5d7b3a2428",
         "title": "Computer Vision Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -81342,7 +81342,7 @@
         "company_name": "Age of Learning",
         "id": "d561e6c7-1838-4eb9-9f25-29ca1dc942df",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -81411,6 +81411,277 @@
             "Austin, TX"
         ],
         "company_url": "https://simplify.jobs/c/Cloudflare",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Leidos",
+        "id": "186f38e7-73ca-4305-b687-6a217d1cbf34",
+        "title": "Software Systems Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1714692126,
+        "date_posted": 1714692126,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Reston-VA/Software-Systems-Intern_R-00134969",
+        "locations": [
+            "Reston, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Leidos",
+        "id": "7786ee42-3c7f-413b-b060-afd3f2f74c60",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1714692124,
+        "date_posted": 1714692124,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/Software-Engineer-Intern_R-00134862",
+        "locations": [
+            "Arlington, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Bestpass",
+        "id": "ee6d8c70-396e-4c1a-b0a8-c13a041229d8",
+        "title": "Software Engineer Internship - Summer 2024 - Fleetworthy",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1714692161,
+        "date_posted": 1714692161,
+        "url": "https://boards.greenhouse.io/bestpass/jobs/4365332006",
+        "locations": [
+            "Madison, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/f5754f15-abf9-4bfc-845d-ec98bede5ae0",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Leidos",
+        "id": "87aaa83c-5387-49a9-a18a-dd2d8e4726a3",
+        "title": "Software Developer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1714692124,
+        "date_posted": 1714692124,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Alexandria-VA/Software-Developer-Intern_R-00134981",
+        "locations": [
+            "Alexandria, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Alamar Biosciences",
+        "id": "fac16131-841c-4217-96a0-1f07ccb88e79",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1714721973,
+        "date_posted": 1714721973,
+        "url": "https://boards.greenhouse.io/alamarbiosciences/jobs/5167286004",
+        "locations": [
+            "Fremont, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/6dbb9458-23f0-4a75-a52b-d6addbf045e9",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Western Digital",
+        "id": "4c6c8627-339f-431f-9d71-c6ce24e9c27b",
+        "title": "Summer Intern 2024 \u2013 Software Engineering Internship - Firmware",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1714691183,
+        "date_posted": 1714691183,
+        "url": "https://jobs.smartrecruiters.com/WesternDigital/743999984673543",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Western-Digital",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Fivetran",
+        "id": "641d179b-ad18-474b-8e98-b2b27bca57ac",
+        "title": "Product Summer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1714692288,
+        "date_posted": 1714692288,
+        "url": "https://www.fivetran.com/careers/job?gh_jid=5972679003",
+        "locations": [
+            "Oakland, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Fivetran",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Nutanix",
+        "id": "237d9e61-076b-4edb-bb88-238f3c8b2d0b",
+        "title": "Software Engineering Intern - C++ - Preference - Python - Rest Apis - Microservices - Linux O/S - Undergrad only",
+        "active": true,
+        "terms": [
+            "Spring 2024",
+            "Summer 2024"
+        ],
+        "date_updated": 1714691477,
+        "date_posted": 1714691477,
+        "url": "https://jobs.jobvite.com/nutanix/job/oG4ftfwc?nl=1&nl=1&fr=false",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Nutanix",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Intel",
+        "id": "0dcd2016-197f-48d0-8901-574aff7ed7e4",
+        "title": "Software Simulation Tools Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1714691706,
+        "date_posted": 1714691706,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Software-Simulation-Tools-Intern_JR0263595",
+        "locations": [
+            "Austin, TX",
+            "Hillsboro, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Intel",
+        "id": "09b45836-d99d-44ab-b3d0-e4eba4305fb6",
+        "title": "Data Analyst Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1714691707,
+        "date_posted": 1714691707,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Data-Analyst-Software-Engineer-Intern_JR0263572-1",
+        "locations": [
+            "San Jose, CA",
+            "Hillsboro, OR",
+            "Folsom, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Hewlett Packard (HP)",
+        "id": "9221353b-79fa-430e-a256-04ae5e8448f4",
+        "title": "Workforce Experience \u2013 Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1714692230,
+        "date_posted": 1714692230,
+        "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Spring-Texas-United-States-of-America/Workforce-Experience---Intern_3129439-1",
+        "locations": [
+            "Spring, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Autodesk",
+        "id": "0a615c46-3b7f-4f00-91d8-1ac4cbe6a92e",
+        "title": "Software Engineer Intern - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1714691241,
+        "date_posted": 1714691241,
+        "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Software-Engineer-Intern--Summer-2024-_24WD77195-1",
+        "locations": [
+            "Montreal, QC, Canada",
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Autodesk",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Fullscript",
+        "id": "93f34205-5263-4330-80fc-62dc7adb2c93",
+        "title": "Co-op/Intern Ruby Developer - Fall 2024",
+        "active": true,
+        "terms": [
+            "Fall 2024"
+        ],
+        "date_updated": 1714691246,
+        "date_posted": 1714691246,
+        "url": "https://jobs.lever.co/fullscript/2e813d69-b64c-416c-b79a-3d2e793c937b/apply",
+        "locations": [
+            "Remote"
+        ],
+        "company_url": "https://simplify.jobs/c/FullScript",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Anser Advisory",
+        "id": "61c86c07-51bb-4145-9407-4c2f48412145",
+        "title": "Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1714679377,
+        "date_posted": 1714575989,
+        "url": "https://jobs.lever.co/anseradvisory/01663e48-4a2a-4cf1-8b8d-afe112641951/apply",
+        "locations": [
+            "Akron, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/2480bb37-a981-40fb-bda2-42b15089d23e",
         "is_visible": true,
         "sponsorship": "Other"
     }
