@@ -63808,7 +63808,7 @@
         "company_name": "iRhythm Technologies",
         "id": "d4062e9d-c73b-4286-a16a-2e974abc004f",
         "title": "Firmware Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2024",
             "Summer 2024"
@@ -77777,7 +77777,7 @@
         "company_name": "Actian",
         "id": "af8cca0c-bea1-47b9-90d0-3b9a4aee732e",
         "title": "Engineering Intern - ZEN Software",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -78526,7 +78526,7 @@
         "company_name": "Legend Biotech",
         "id": "8f5404b7-ce41-4264-bfed-f0e52e79d05b",
         "title": "R&D Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -78814,7 +78814,7 @@
         "company_name": "Wunderman Thompson",
         "id": "f0da5fd8-2904-4563-b8bc-d1340ed1fc7a",
         "title": "Intern \u2013 Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -79251,7 +79251,7 @@
         "company_name": "Wunderman Thompson",
         "id": "04a9bfaa-1efd-4ba4-937a-842390fc85ef",
         "title": "Intern \u2013 Discoverability",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -79480,7 +79480,7 @@
         "company_name": "Spark Climate Solutions",
         "id": "e0749c27-b569-4df2-890d-fa242fc001c4",
         "title": "Ocean Carbon Dioxide Removal Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -80108,7 +80108,7 @@
         "company_name": "SpyCloud",
         "id": "26a5b243-d982-4b91-b0bb-90c5ceea11e0",
         "title": "Security Data Analyst/Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -80222,7 +80222,7 @@
         "company_name": "Seismic",
         "id": "48d4efeb-38f7-4a33-ae08-243fad077af5",
         "title": "Software Engineer Intern - AI/Machine Learning",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -80685,7 +80685,7 @@
         "company_name": "Actian",
         "id": "ff27cb6e-1952-4c6d-9f99-06115c1272eb",
         "title": "Gen AI Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -81476,7 +81476,7 @@
         "company_name": "Leidos",
         "id": "87aaa83c-5387-49a9-a18a-dd2d8e4726a3",
         "title": "Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -81632,7 +81632,7 @@
         "company_name": "Autodesk",
         "id": "0a615c46-3b7f-4f00-91d8-1ac4cbe6a92e",
         "title": "Software Engineer Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -81682,6 +81682,177 @@
             "Akron, OH"
         ],
         "company_url": "https://simplify.jobs/c/2480bb37-a981-40fb-bda2-42b15089d23e",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Zipline",
+        "id": "993ab831-b0fa-4db9-8325-ac44bd6f2c17",
+        "title": "Systems Modeling Engineering Intern - Fall 2024",
+        "active": true,
+        "terms": [
+            "Fall 2024"
+        ],
+        "date_updated": 1714806916,
+        "date_posted": 1714806916,
+        "url": "https://www.flyzipline.com/careers/open-roles?gh_jid=5962962003",
+        "locations": [
+            "San Bruno, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Zipline",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "NewsBreak",
+        "id": "6f1fa3a2-e51f-439a-b233-e01fb6a3eb52",
+        "title": "Software Engineer Intern - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1714806630,
+        "date_posted": 1714806630,
+        "url": "https://boards.greenhouse.io/newsbreak/jobs/4366335006",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NewsBreak",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "NewsBreak",
+        "id": "7a197b56-a001-4e84-8055-739c75f2b352",
+        "title": "Software Engineer Intern - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1714806626,
+        "date_posted": 1714806626,
+        "url": "https://boards.greenhouse.io/newsbreak/jobs/4366348006",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/NewsBreak",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Fluence",
+        "id": "fda8ede6-198b-4855-9d1b-0a747654069b",
+        "title": "Data Science Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1714778700,
+        "date_posted": 1714778700,
+        "url": "https://jobs.lever.co/fluence/3d63067f-49e4-4422-9ce6-1356c8ce6797/apply",
+        "locations": [
+            "Arlington, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Fluence",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Fortra",
+        "id": "4db14855-78b3-4fda-b89f-f3b1d3c9390a",
+        "title": "Software Engineer-Intern - Ibm i",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1714778253,
+        "date_posted": 1714778253,
+        "url": "https://boards.greenhouse.io/fortra/jobs/4364615006",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/22d09017-c391-425c-975e-d260b660cb64",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Intel",
+        "id": "1127af10-3ed9-4a5b-beed-d56eb7ccb4b3",
+        "title": "Software Architect Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1714777923,
+        "date_posted": 1714777923,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Massachusetts-Hudson/Software-Architect-Intern_JR0263549",
+        "locations": [
+            "Marlborough, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Leidos",
+        "id": "33d0408d-2f89-4a39-ac33-e1464a912a60",
+        "title": "Software/Controls Engineer CO-OP",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1714778555,
+        "date_posted": 1714778555,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Walled-Lake-MI/Software-Controls-Engineer-CO-OP_R-00134943",
+        "locations": [
+            "Wixom, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Western Digital",
+        "id": "8b29de79-a030-4e64-9771-4a7105d452c4",
+        "title": "Software Development & Analysis Intern - Summer 2024 - Local Candidates Only",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1714777527,
+        "date_posted": 1714777527,
+        "url": "https://jobs.smartrecruiters.com/WesternDigital/743999985024156",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Western-Digital",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Western Digital",
+        "id": "1b11a3de-bf33-4a4b-a5c8-38dbab8c03bd",
+        "title": "Software Development Engineer Intern - Firmware - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1714777555,
+        "date_posted": 1714777555,
+        "url": "https://jobs.smartrecruiters.com/WesternDigital/743999985026407",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Western-Digital",
         "is_visible": true,
         "sponsorship": "Other"
     }
