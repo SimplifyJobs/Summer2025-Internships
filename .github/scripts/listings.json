@@ -29478,7 +29478,7 @@
         "company_name": "Branch",
         "id": "9fcfa6f0-29de-4576-8599-3e3d4a092d3c",
         "title": "Backend Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -66944,7 +66944,7 @@
         "company_name": "Work & Co",
         "id": "57540406-f1a4-4530-8e8c-9f459cc58321",
         "title": "Technology Intern - Web Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -77438,7 +77438,7 @@
         "company_name": "Openmesh Networks",
         "id": "acbadb87-2bbd-4daa-9621-b037e067541c",
         "title": "API Development Intern - API Design and Integration",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -77545,7 +77545,7 @@
         "company_name": "Openmesh Networks",
         "id": "51ac41fa-eeb5-4735-af9a-ba85e5346a8f",
         "title": "Junior Analyst Intern - Mathematical Sciences - BA/MS",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -77737,7 +77737,7 @@
         "company_name": "Ultima Genomics",
         "id": "a2fbf5db-9f98-46c5-9851-b7405fd411f2",
         "title": "Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -78833,7 +78833,7 @@
         "company_name": "Wunderman Thompson",
         "id": "d51d8e40-ef72-419b-bc2b-ce29d8599155",
         "title": "Intern \u2013 Automation of Quality",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -78852,7 +78852,7 @@
         "company_name": "Wunderman Thompson",
         "id": "3327f1a4-3043-4189-a0de-1ca5a3a7929b",
         "title": "Intern \u2013 Software Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -79423,7 +79423,7 @@
         "company_name": "New Leaf Energy",
         "id": "e2ab3e8a-5405-4e60-a280-661e16102952",
         "title": "Transmission Analyst/Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -79461,7 +79461,7 @@
         "company_name": "New Leaf Energy",
         "id": "d98da656-4b16-42c6-8c16-74fa50094032",
         "title": "Transmission Analyst/Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -79651,7 +79651,7 @@
         "company_name": "Universal Electronics",
         "id": "79da33be-e5a6-40ff-95bc-ebcbf7fecbde",
         "title": "Firmware Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -81419,7 +81419,7 @@
         "company_name": "Leidos",
         "id": "186f38e7-73ca-4305-b687-6a217d1cbf34",
         "title": "Software Systems Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -81438,7 +81438,7 @@
         "company_name": "Leidos",
         "id": "7786ee42-3c7f-413b-b060-afd3f2f74c60",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -81552,7 +81552,7 @@
         "company_name": "Nutanix",
         "id": "237d9e61-076b-4edb-bb88-238f3c8b2d0b",
         "title": "Software Engineering Intern - C++ - Preference - Python - Rest Apis - Microservices - Linux O/S - Undergrad only",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024",
             "Summer 2024"
@@ -81747,7 +81747,7 @@
         "company_name": "Fluence",
         "id": "fda8ede6-198b-4855-9d1b-0a747654069b",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -81853,6 +81853,63 @@
             "Irvine, CA"
         ],
         "company_url": "https://simplify.jobs/c/Western-Digital",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Santander",
+        "id": "1173e6aa-b910-4c30-afc0-76080bd77665",
+        "title": "Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1715009186,
+        "date_posted": 1715009186,
+        "url": "https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Miami/Intern_Req1311782",
+        "locations": [
+            "Miami, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Santander",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Openmesh Networks",
+        "id": "19e4ace5-2363-4ba4-b1d9-5568f2736a12",
+        "title": "Data Analyst Intern - Data Insights and Analytics",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1714950866,
+        "date_posted": 1714950866,
+        "url": "https://boards.greenhouse.io/openmesh/jobs/4145264007",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/4bd6e36b-9b1c-4166-ad59-f9eec0d954e6",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Metagenomi",
+        "id": "447f1f97-97be-49a4-829e-85752a596460",
+        "title": "NGS Data Analysis Optimization \u2013 Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1715022599,
+        "date_posted": 1714777568,
+        "url": "https://boards.greenhouse.io/metagenomi/jobs/4416314005",
+        "locations": [
+            "Oakland, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Metagenomi",
         "is_visible": true,
         "sponsorship": "Other"
     }
