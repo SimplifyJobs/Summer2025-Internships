@@ -1631,7 +1631,7 @@
         "company_name": "Formlabs",
         "id": "526e4433-83c2-4f09-9fcb-abad3e63f4a4",
         "title": "Desktop Software Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2023"
         ],
@@ -42386,7 +42386,7 @@
         "company_name": "Samsung",
         "id": "0becf1cf-b6e0-4e69-8531-a5292d2f72f0",
         "title": "Intern \u2013 AI/ML Specialist",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -56989,7 +56989,7 @@
         "company_name": "Virtru",
         "id": "f91fe694-f057-4160-89b5-a4b643e47f27",
         "title": "Software Developer in Test \u2013 Intern - Sdet",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -57008,7 +57008,7 @@
         "company_name": "Virtru",
         "id": "de46deb1-859f-4ee8-bb84-53b410626c9d",
         "title": "Federal Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -63251,7 +63251,7 @@
         "company_name": "DoubleVerify",
         "id": "457cc285-ed36-457b-975a-f4428d9b5c26",
         "title": "Data Engineer Intern - Social Integrations",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -70605,7 +70605,7 @@
         "company_name": "Legend Biotech",
         "id": "df7c037b-a06b-4e44-9e00-bc211ac6be55",
         "title": "R&D Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -70624,7 +70624,7 @@
         "company_name": "Legend Biotech",
         "id": "2d9ee491-f763-46eb-94cd-7bd8202252f8",
         "title": "R&D Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -71275,7 +71275,7 @@
         "company_name": "Samsung",
         "id": "2632627c-d5c5-4b78-b9b0-a4a6f1ec340e",
         "title": "Intern \u2013 Power Modeling",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -73243,7 +73243,7 @@
         "company_name": "Symbotic",
         "id": "011a06b7-6dc0-4498-bf55-21327267dce0",
         "title": "Co-op \u2013 Fall - Structural/Civil Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2024"
         ],
@@ -74114,7 +74114,7 @@
         "company_name": "Work & Co",
         "id": "666f4942-0966-44b8-8f79-1d8ba5c53bfd",
         "title": "Machine Learning Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -76788,7 +76788,7 @@
         "company_name": "Rocket Lab USA",
         "id": "16a1c71a-fa44-4c1f-8274-c7fd1da68fbe",
         "title": "Software Internship - Fall 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2024"
         ],
@@ -76921,7 +76921,7 @@
         "company_name": "Woodard Curran",
         "id": "eead146b-032b-4549-8b02-c0504237a234",
         "title": "Internship - Field Monitoring - Butte - MT",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -78488,7 +78488,7 @@
         "company_name": "Intel",
         "id": "1e06fa75-c880-4447-b610-2042b3ea0462",
         "title": "New Mexico Process Engineer Undergrad Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -79937,7 +79937,7 @@
         "company_name": "Applied Materials",
         "id": "e15e12bf-f80f-492c-ac03-f00b89115a1e",
         "title": "2024 Summer AI ML Intern - Gloucester",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -80510,7 +80510,7 @@
         "company_name": "Live Nation Entertainment",
         "id": "b5270f2a-d028-46d6-bd0f-0f59691b2f98",
         "title": "Data Science Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -80608,7 +80608,7 @@
         "company_name": "Intel",
         "id": "4b2b2a73-337d-4e93-957a-1cadb78bef99",
         "title": "Undergraduate Intern - Computer Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -81000,7 +81000,7 @@
         "company_name": "AvePoint",
         "id": "31444375-7191-4633-8d79-0a24c29ea646",
         "title": "Data & AI-Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -81019,7 +81019,7 @@
         "company_name": "Globalization Partners",
         "id": "6b36547d-2cdc-48ee-b032-ac9b15d5f9b5",
         "title": "Software Engineering \u2013 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -81171,7 +81171,7 @@
         "company_name": "CACI",
         "id": "cb739ac7-100b-423b-a2b1-54a1a991606f",
         "title": "Business Development Research and Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -81323,7 +81323,7 @@
         "company_name": "Qualtrics",
         "id": "efb776b6-5d39-48f7-9eb1-114ecaefdc99",
         "title": "Data Scientist Intern - Seattle",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -81931,5 +81931,129 @@
         "date_posted": 1715056350,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "PayNearMe",
+        "id": "a524f1d4-7d35-4a77-9772-16c6a08260b0",
+        "title": "Data Analyst Intern - Remote",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1715066217,
+        "date_posted": 1715066217,
+        "url": "https://jobs.smartrecruiters.com/PayNearMe/743999985681213",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/0c33a16d-c263-4087-873b-cccdc7663068",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "HCVT",
+        "id": "54ee30a9-88dd-4df0-8a2f-bafaf6a918c3",
+        "title": "Application Developer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1715108773,
+        "date_posted": 1715038118,
+        "url": "https://jobs.lever.co/hcvt/51ae4112-1e5f-4b77-8433-4f96f1544255/apply",
+        "locations": [
+            "Camarillo, CA",
+            "Long Beach, CA",
+            "Arcadia, CA",
+            "Pasadena, CA",
+            "Irvine, CA",
+            "Encino, LA",
+            "Westlake Village, CA",
+            "Glendale, CA",
+            "Fort Worth, TX",
+            "Culver City, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/HCVT",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "UiPath",
+        "id": "10900f4f-a245-4d3c-8424-bcafdc5e0c38",
+        "title": "Incubation Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1715037711,
+        "date_posted": 1715037711,
+        "url": "https://careers.uipath.com/jobs/8790?lang=en-us&icims=1",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/UiPath",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Vendelux",
+        "id": "67697ede-f781-4855-a926-8030f7964f6c",
+        "title": "Data Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024",
+            "Fall 2024"
+        ],
+        "date_updated": 1715037440,
+        "date_posted": 1715037440,
+        "url": "https://jobs.ashbyhq.com/vendelux/30acb778-5bfd-4e51-a8ab-8e76f6bcc9fe/application",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/9a8f72b2-74a3-402a-9e09-ddb121b994ac",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "CACI",
+        "id": "73d10d47-a5b4-4e82-af26-db5b97033138",
+        "title": "Junior Software Developer Intern - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1715037368,
+        "date_posted": 1715037368,
+        "url": "https://caci.wd1.myworkdayjobs.com/External/job/US-NJ-Florham-Park/Junior-Software-Developer-Intern---Summer-2024_295954",
+        "locations": [
+            "Livingston, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/CACI",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "PMA Consultants Careers",
+        "id": "fbc3d659-cb35-4ca9-8a12-b561b06c025f",
+        "title": "Internship",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1715108683,
+        "date_posted": 1713434432,
+        "url": "https://jobs.lever.co/pmaconsultants/8c0b91ae-181a-435e-8c6a-6b528dd0ec71/apply",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/5983a120-c124-4ee9-854b-964ecf1c8c56",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
