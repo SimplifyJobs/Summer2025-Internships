@@ -81912,5 +81912,24 @@
         "company_url": "https://simplify.jobs/c/Metagenomi",
         "is_visible": false,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1715056350,
+        "url": "https://fa-exhh-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/StaplesInc/job/2449?utm_medium=jobshare",
+        "company_name": "Staples",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "Framingham, MA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "wwwld1",
+        "id": "f3efc33f-fc3b-4569-8966-6fa9c63f34d8",
+        "date_posted": 1715056350,
+        "company_url": "",
+        "is_visible": true
     }
 ]
