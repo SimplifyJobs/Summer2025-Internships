@@ -56989,7 +56989,7 @@
         "company_name": "Virtru",
         "id": "f91fe694-f057-4160-89b5-a4b643e47f27",
         "title": "Software Developer in Test \u2013 Intern - Sdet",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -57008,7 +57008,7 @@
         "company_name": "Virtru",
         "id": "de46deb1-859f-4ee8-bb84-53b410626c9d",
         "title": "Federal Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -65604,7 +65604,7 @@
         "company_name": "Cadence Design Systems",
         "id": "48226546-6f2d-4b76-b085-8a65fab2c703",
         "title": "Intern \u2013 Software Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -68075,7 +68075,7 @@
         "company_name": "Trepp",
         "id": "eb233d70-6eaf-4ec5-8192-391fd64ac126",
         "title": "Intern \u2013 Data Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -74095,7 +74095,7 @@
         "company_name": "Eulerity",
         "id": "029c4741-2e63-4f13-9053-de27d7221db9",
         "title": "Backend Java Developer Summer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -78202,7 +78202,7 @@
         "company_name": "Hewlett Packard (HP)",
         "id": "cb7b4e98-2f38-4214-8ddc-b119854ddb8c",
         "title": "AI/ML Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -79765,7 +79765,7 @@
         "company_name": "Globalization Partners",
         "id": "e8c8c8b9-4776-47b7-894e-c2019aa45fe8",
         "title": "AI \u2013 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -81592,7 +81592,7 @@
         "company_name": "Intel",
         "id": "09b45836-d99d-44ab-b3d0-e4eba4305fb6",
         "title": "Data Analyst Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -81671,7 +81671,7 @@
         "company_name": "Anser Advisory",
         "id": "61c86c07-51bb-4145-9407-4c2f48412145",
         "title": "Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -81937,7 +81937,7 @@
         "company_name": "PayNearMe",
         "id": "a524f1d4-7d35-4a77-9772-16c6a08260b0",
         "title": "Data Analyst Intern - Remote",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -82053,6 +82053,273 @@
             "Cambridge, MA"
         ],
         "company_url": "https://simplify.jobs/c/5983a120-c124-4ee9-854b-964ecf1c8c56",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Waystar",
+        "id": "446b4a36-9bcc-413d-aa09-d048d471b361",
+        "title": "Waystar Intern - Growth/Sales/Commercial Operations",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1715181978,
+        "date_posted": 1715181978,
+        "url": "https://waystar.wd1.myworkdayjobs.com/Waystar/job/Louisville/Waystar-Intern--Growth-Sales-Commercial-Operations-_R2044-1",
+        "locations": [
+            "Louisville, KY"
+        ],
+        "company_url": "https://simplify.jobs/c/Waystar",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Super",
+        "id": "8e900dde-c6aa-4e0d-bd33-409a031100e8",
+        "title": "Software Engineering Intern - Internal Tools - Remote - Fall 2024",
+        "active": true,
+        "terms": [
+            "Fall 2024"
+        ],
+        "date_updated": 1715181276,
+        "date_posted": 1715181276,
+        "url": "https://jobs.lever.co/super-com/e994110f-d3ee-4477-846c-b4c53678caba/apply",
+        "locations": [
+            "Remote"
+        ],
+        "company_url": "https://simplify.jobs/c/Super",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Super",
+        "id": "acc1b46c-5bf6-4a8c-9114-ab0599995253",
+        "title": "Software Engineering Intern - Fullstack - Product - Remote - Fall 2024",
+        "active": true,
+        "terms": [
+            "Fall 2024"
+        ],
+        "date_updated": 1715181275,
+        "date_posted": 1715181275,
+        "url": "https://jobs.lever.co/super-com/8494cc5c-c94a-415f-882a-8ea9a574b45b/apply",
+        "locations": [
+            "Remote"
+        ],
+        "company_url": "https://simplify.jobs/c/Super",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Super",
+        "id": "d32aea39-cd88-4e78-85d1-a3ca2b26fac6",
+        "title": "Software Engineering Intern - Infrastructure/Devops - Remote - Fall 2024",
+        "active": true,
+        "terms": [
+            "Fall 2024"
+        ],
+        "date_updated": 1715181274,
+        "date_posted": 1715181274,
+        "url": "https://jobs.lever.co/super-com/214ff503-7758-4956-be7d-d50b1e0ef7a3/apply",
+        "locations": [
+            "Remote"
+        ],
+        "company_url": "https://simplify.jobs/c/Super",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Super",
+        "id": "e88bb8a6-dd25-481c-a256-169944374c87",
+        "title": "Software Engineering Intern - Ops Tools - Remote - Fall 2024",
+        "active": true,
+        "terms": [
+            "Fall 2024"
+        ],
+        "date_updated": 1715181274,
+        "date_posted": 1715181274,
+        "url": "https://jobs.lever.co/super-com/fe08069d-e6db-44a8-9b1c-39aa82491d4b/apply",
+        "locations": [
+            "Remote"
+        ],
+        "company_url": "https://simplify.jobs/c/Super",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Super",
+        "id": "8340ad0f-775e-4402-b358-5d3163c03cb1",
+        "title": "Data Engineering Intern - Remote - Fall 2024",
+        "active": true,
+        "terms": [
+            "Fall 2024"
+        ],
+        "date_updated": 1715181268,
+        "date_posted": 1715181268,
+        "url": "https://jobs.lever.co/super-com/1c5a0100-8959-4847-b3ae-cebc49edb75b/apply",
+        "locations": [
+            "Remote"
+        ],
+        "company_url": "https://simplify.jobs/c/Super",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Super",
+        "id": "cdcc94f0-0119-4106-bdea-5b662f86de99",
+        "title": "Data Analyst Intern - Remote - Fall 2024",
+        "active": true,
+        "terms": [
+            "Fall 2024"
+        ],
+        "date_updated": 1715181271,
+        "date_posted": 1715181271,
+        "url": "https://jobs.lever.co/super-com/b3c07581-e79b-4bd2-a258-a025bbca4729/apply",
+        "locations": [
+            "Remote"
+        ],
+        "company_url": "https://simplify.jobs/c/Super",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Hewlett Packard (HP)",
+        "id": "60ff3195-b1a0-4648-afd4-f7326d732e8c",
+        "title": "Machine Learning Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1715195667,
+        "date_posted": 1715152887,
+        "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Palo-Alto-California-United-States-of-America/Machine-Learning-Engineering-Intern_3135595-1",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Hewlett Packard (HP)",
+        "id": "395ad59a-fb03-41a3-a073-cc5589a97915",
+        "title": "Machine Learning Egnineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1715195666,
+        "date_posted": 1715152885,
+        "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Palo-Alto-California-United-States-of-America/Machine-Learning-Egnineer-Intern_3135596-1",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Awardco",
+        "id": "53af9abb-bca8-490c-ac77-9c59d0ac5c5a",
+        "title": "Data Analyst Intern",
+        "active": true,
+        "terms": [
+            "Spring 2024",
+            "Summer 2024"
+        ],
+        "date_updated": 1715124268,
+        "date_posted": 1715124268,
+        "url": "https://award.co/position?gh_jid=5173613004",
+        "locations": [
+            "Orem, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/Awardco",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Advanced Technology Services (ATS)",
+        "id": "f8d48cfe-fc77-419a-b87d-a52d8ea68e32",
+        "title": "Engineering Summer Paid Intern - Pontiac - Illinois",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1715123937,
+        "date_posted": 1715123937,
+        "url": "https://boards.greenhouse.io/advancedtechnologyservices/jobs/4367005006",
+        "locations": [
+            "Flanagan, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Advanced-Technology-Services",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Zipline",
+        "id": "00ecdf5e-35f6-4c97-b926-ee896d9d5199",
+        "title": "Perception Software Engineering Intern - Fall 2024",
+        "active": true,
+        "terms": [
+            "Fall 2024"
+        ],
+        "date_updated": 1715123665,
+        "date_posted": 1715123665,
+        "url": "https://www.flyzipline.com/careers/open-roles?gh_jid=5958368003",
+        "locations": [
+            "San Bruno, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Zipline",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Divergent",
+        "id": "29b82044-fdb2-4016-b4f1-db355ed90ff4",
+        "title": "Software Developer Intern - Robotic Motion Planning",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1715123547,
+        "date_posted": 1715123547,
+        "url": "https://jobs.lever.co/divergent3d/c14a8e29-d59d-4422-8ac1-72526b0447f2/apply",
+        "locations": [
+            "Carson, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/732aefa5-2ad8-42de-a015-f02066b6a5af",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Foxit Software",
+        "id": "f76ca7c5-0794-4967-a881-8ceed653b4bb",
+        "title": "AI Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1715123348,
+        "date_posted": 1715123348,
+        "url": "https://jobs.lever.co/foxitsoftware/cb96cd22-4e78-4640-b491-122da90b152f/apply",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/2a8b3c14-f78a-4a16-8f17-7ad9fb1dd88b",
         "is_visible": true,
         "sponsorship": "Other"
     }
