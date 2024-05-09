@@ -82322,5 +82322,24 @@
         "company_url": "https://simplify.jobs/c/2a8b3c14-f78a-4a16-8f17-7ad9fb1dd88b",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1715281527,
+        "url": "https://www.shopify.com/careers/engineering-internships-fall-2024_61f3ac10-d485-4b03-8326-9fb949c22121",
+        "company_name": "Shopify",
+        "title": "Software Developer Intern",
+        "locations": [
+            "Toronto"
+        ],
+        "terms": [
+            "Fall 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "condyl",
+        "id": "490a6c9c-a9ff-425e-a2cd-0712968410bd",
+        "date_posted": 1715281527,
+        "company_url": "",
+        "is_visible": true
     }
 ]
