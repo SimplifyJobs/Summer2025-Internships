@@ -31800,7 +31800,7 @@
         "company_name": "Sigma Computing",
         "id": "3588abba-92d6-4d14-8560-f7e40c06bb3f",
         "title": "Software Engineering Intern - Summer 2024",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -52532,7 +52532,7 @@
         "company_name": "Alarm.com",
         "id": "242d556a-f936-4cfd-bdca-312ce584c07b",
         "title": "Software Engineer Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -65159,7 +65159,7 @@
         "company_name": "Heretic",
         "id": "5f008daa-71bf-4dc1-a363-36926c255648",
         "title": "Applied AI/ML Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024"
         ],
@@ -66811,7 +66811,7 @@
         "company_name": "Chewie Labs",
         "id": "06fa055c-e673-4cde-8526-5e796261077c",
         "title": "Firmware Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -69572,7 +69572,7 @@
         "company_name": "Intel",
         "id": "2d949336-dce5-45b9-ac43-b6c44176ec7d",
         "title": "Undergrad Intern - Design Automation",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -76673,7 +76673,7 @@
         "company_name": "Databricks",
         "id": "6289f54c-b9a0-4e8c-bfca-1205dcc2c720",
         "title": "IT Data Engineering Intern - 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -77834,7 +77834,7 @@
         "company_name": "Balbix",
         "id": "446c9f8a-d47f-4523-86a9-9759cf6fdce6",
         "title": "Full Stack Engineering Summer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -78163,7 +78163,7 @@
         "company_name": "Hewlett Packard (HP)",
         "id": "7cd7fbcc-385b-4dae-adb8-a9d3091c7575",
         "title": "AI/ML Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -79328,7 +79328,7 @@
         "company_name": "Atomic Semi",
         "id": "849a46b0-487a-4709-9931-d49ed746421e",
         "title": "Embedded Software Engineering Intern - Summer 2024",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -81956,7 +81956,7 @@
         "company_name": "HCVT",
         "id": "54ee30a9-88dd-4df0-8a2f-bafaf6a918c3",
         "title": "Application Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -82023,7 +82023,7 @@
         "company_name": "CACI",
         "id": "73d10d47-a5b4-4e82-af26-db5b97033138",
         "title": "Junior Software Developer Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -82232,7 +82232,7 @@
         "company_name": "Awardco",
         "id": "53af9abb-bca8-490c-ac77-9c59d0ac5c5a",
         "title": "Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024",
             "Summer 2024"
@@ -82341,5 +82341,81 @@
         "date_posted": 1715281527,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Rocket Lab USA",
+        "id": "6641ec6e-e0f2-4119-9d11-23625deabf48",
+        "title": "Flight Software Internship-Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1715239383,
+        "date_posted": 1715239383,
+        "url": "https://boards.greenhouse.io/rocketlab/jobs/5975927003",
+        "locations": [
+            "Littleton, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Rocket-Lab-USA",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Rocket Lab USA",
+        "id": "42e90397-f772-4522-b3d5-d0a58a6eee2e",
+        "title": "Embedded Flight Software Internship-Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1715239383,
+        "date_posted": 1715239383,
+        "url": "https://boards.greenhouse.io/rocketlab/jobs/5975939003",
+        "locations": [
+            "Long Beach, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Rocket-Lab-USA",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Antora Energy",
+        "id": "fab34097-446a-49e7-95e2-ba0a8eb21d1f",
+        "title": "Optimization and Economic Analysis Intern - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1715210268,
+        "date_posted": 1715210268,
+        "url": "https://boards.greenhouse.io/antora/jobs/5174441004",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/2fc7a3f9-b2d8-41ab-bd5f-c87c0a236980",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Antora Energy",
+        "id": "4fc6448b-7b77-49fd-923d-2935dc58d0d4",
+        "title": "Machine Learning Intern - Energy Forecasting - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1715210261,
+        "date_posted": 1715210261,
+        "url": "https://boards.greenhouse.io/antora/jobs/5175615004",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/2fc7a3f9-b2d8-41ab-bd5f-c87c0a236980",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
