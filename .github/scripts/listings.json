@@ -27671,7 +27671,7 @@
         "company_name": "Kepler Communications",
         "id": "885f601c-ee24-4bda-b176-d5ceda71f7fd",
         "title": "Embedded Software Engineer Intern - Winter 2024 - 4 - Months",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2024"
         ],
@@ -31800,7 +31800,7 @@
         "company_name": "Sigma Computing",
         "id": "3588abba-92d6-4d14-8560-f7e40c06bb3f",
         "title": "Software Engineering Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -44956,7 +44956,7 @@
         "company_name": "Modernizing Medicine",
         "id": "46f5e75d-4c9c-4bb0-ba20-f7d7efa117da",
         "title": "Java Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -54485,7 +54485,7 @@
         "company_name": "Moloco",
         "id": "a7781ca5-0d22-4a17-a592-84ec206da31e",
         "title": "Machine Learning Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024",
             "Summer 2024",
@@ -54601,7 +54601,7 @@
         "company_name": "Moloco",
         "id": "9ed53ed0-6ab0-48b1-974a-4fffd5732a2a",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024",
             "Summer 2024",
@@ -68208,7 +68208,7 @@
         "company_name": "Quest Analytics",
         "id": "966ccedf-632c-463c-891d-461741eab6e7",
         "title": "Software Support Internship - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -68419,7 +68419,7 @@
         "company_name": "Emsi",
         "id": "3449ed19-85fc-41eb-9a22-02f50ebc0fbf",
         "title": "Solutions Architect Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -73884,7 +73884,7 @@
         "company_name": "Palantir",
         "id": "6c761545-5d0b-4e43-b0a7-11cb186aefb3",
         "title": "Product Reliability Engineer \u2013 Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -79061,7 +79061,7 @@
         "company_name": "CACI",
         "id": "79c412fb-8903-4017-8199-c2d517f00d91",
         "title": "GMU EIP Scholar Program \u2013 Summer 2025 Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -80780,7 +80780,7 @@
         "company_name": "Leidos",
         "id": "d337e30c-8caf-4142-92eb-0baa680fcfed",
         "title": "Cyber Security Software Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -81133,7 +81133,7 @@
         "company_name": "Palantir",
         "id": "7d60f17a-30cd-45a6-9155-be2a323d49c4",
         "title": "Semester at Palantir \u2013 Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2024"
         ],
@@ -81533,7 +81533,7 @@
         "company_name": "Fivetran",
         "id": "641d179b-ad18-474b-8e98-b2b27bca57ac",
         "title": "Product Summer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -81804,7 +81804,7 @@
         "company_name": "Leidos",
         "id": "33d0408d-2f89-4a39-ac33-e1464a912a60",
         "title": "Software/Controls Engineer CO-OP",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -81823,7 +81823,7 @@
         "company_name": "Western Digital",
         "id": "8b29de79-a030-4e64-9771-4a7105d452c4",
         "title": "Software Development & Analysis Intern - Summer 2024 - Local Candidates Only",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -81842,7 +81842,7 @@
         "company_name": "Western Digital",
         "id": "1b11a3de-bf33-4a4b-a5c8-38dbab8c03bd",
         "title": "Software Development Engineer Intern - Firmware - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -82415,6 +82415,102 @@
             "San Jose, CA"
         ],
         "company_url": "https://simplify.jobs/c/2fc7a3f9-b2d8-41ab-bd5f-c87c0a236980",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Leidos",
+        "id": "af844947-189f-4559-be70-18f441f59f64",
+        "title": "Web Developer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1715354374,
+        "date_posted": 1715354374,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Alexandria-VA/Web-Developer-Intern_R-00135406",
+        "locations": [
+            "Alexandria, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "PMA Consultants Careers",
+        "id": "f8693968-b94e-40fa-a5ca-78d8c7154128",
+        "title": "Internship",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1715297330,
+        "date_posted": 1715297330,
+        "url": "https://jobs.lever.co/pmaconsultants/de684661-3dfb-4a60-b91a-4ff4b5faf100/apply",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/PMA-Consultants-Careers",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Schr\u00f6dinger",
+        "id": "28a56db5-c5a4-4742-a73b-da61431dfd12",
+        "title": "Software Development Intern - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1715296988,
+        "date_posted": 1715296988,
+        "url": "https://boards.greenhouse.io/schrdinger/jobs/5979120003",
+        "locations": [
+            "NYC",
+            "Portland, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/Schrodinger",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Certik",
+        "id": "f4ef1938-14e4-4b89-bb37-000dc63b2621",
+        "title": "Crypto Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1715296941,
+        "date_posted": 1715296941,
+        "url": "https://jobs.lever.co/certik/63c3a362-b5f8-4d8a-9e91-bb24c7145e6f/apply",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Certik",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Bose",
+        "id": "938e9fe4-28aa-41d0-be13-35f9bcfa6c80",
+        "title": "Bose New Technology SW Engineer Intern/Coop",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1715296909,
+        "date_posted": 1715296909,
+        "url": "https://boseallaboutme.wd1.myworkdayjobs.com/en-US/Bose_Careers/job/US-MA---Framingham/Bose-New-Technology-SW-Engineer-Intern-Coop_R26824",
+        "locations": [
+            "Framingham, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/bose",
         "is_visible": true,
         "sponsorship": "Other"
     }
