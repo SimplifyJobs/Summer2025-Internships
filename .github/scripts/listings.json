@@ -13256,7 +13256,7 @@
         "company_name": "Wayfair",
         "id": "b9a1418f-388b-42fa-93f4-30059da91a14",
         "title": "Software Engineering Internship - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -31648,7 +31648,7 @@
         "company_name": "Wayfair",
         "id": "5f918cc2-681c-4cea-83ee-dc9aac35dcb8",
         "title": "Software Engineering Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -44918,7 +44918,7 @@
         "company_name": "Modernizing Medicine",
         "id": "c5af5aed-68cc-40d1-80bf-5ebb4deb4657",
         "title": "Mmpm Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -46149,7 +46149,7 @@
         "company_name": "Hewlett Packard (HP)",
         "id": "0b1d8a2d-8056-4d1a-8608-a98bf4188e8e",
         "title": "Personal Systems Artificial Intelligence Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2024"
         ],
@@ -54949,7 +54949,7 @@
         "company_name": "AeroVect",
         "id": "13333b3e-a688-439d-91ad-5670f119fe4f",
         "title": "Planning Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -56500,7 +56500,7 @@
         "company_name": "Openmesh Networks",
         "id": "036eeff8-4d34-40de-946b-dab69c1a4f7c",
         "title": "Junior Developer in Consensus Algorithms Intern - Blockchain Consensus and Development",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -66140,7 +66140,7 @@
         "company_name": "Samsung",
         "id": "553f4ab9-eece-4115-bebc-a9f6287b4703",
         "title": "Intern \u2013 WLAN Firmware Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -71845,7 +71845,7 @@
         "company_name": "Collectors",
         "id": "5b8b7c33-903a-4f54-ac70-6f3f0ae075ed",
         "title": "Apprentice US Coin Grader",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -76673,7 +76673,7 @@
         "company_name": "Databricks",
         "id": "6289f54c-b9a0-4e8c-bfca-1205dcc2c720",
         "title": "IT Data Engineering Intern - 2024",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -80491,7 +80491,7 @@
         "company_name": "Instawork",
         "id": "4c2dd6e9-ea59-4f82-b54c-49452f76ea95",
         "title": "Intern \u2013 Client Platform",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -80818,7 +80818,7 @@
         "company_name": "Dexis Consulting Group ",
         "id": "81e530c1-73e5-42ac-94ca-2f76d3cc53fe",
         "title": "Registered Apprenticeship Subject Matter Expert - Department of Labor",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -81057,7 +81057,7 @@
         "company_name": "Santander",
         "id": "8f002467-b881-4175-b7d8-4bb07c1aa629",
         "title": "Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -81380,7 +81380,7 @@
         "company_name": "Walmart",
         "id": "083638b3-442e-4fe9-98e4-b47e537fba96",
         "title": "2025 Summer Intern: Software Engineer II",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -82404,7 +82404,7 @@
         "company_name": "Antora Energy",
         "id": "4fc6448b-7b77-49fd-923d-2935dc58d0d4",
         "title": "Machine Learning Intern - Energy Forecasting - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -82442,7 +82442,7 @@
         "company_name": "PMA Consultants Careers",
         "id": "f8693968-b94e-40fa-a5ca-78d8c7154128",
         "title": "Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -82500,7 +82500,7 @@
         "company_name": "Bose",
         "id": "938e9fe4-28aa-41d0-be13-35f9bcfa6c80",
         "title": "Bose New Technology SW Engineer Intern/Coop",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -82511,6 +82511,1064 @@
             "Framingham, MA"
         ],
         "company_url": "https://simplify.jobs/c/bose",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "TSMG",
+        "id": "2afa8914-ff13-40e1-9045-eacba4d9717f",
+        "title": "Driver / Data collector",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1715442569,
+        "date_posted": 1715442569,
+        "url": "https://jobs.lever.co/tsmg/f1cb060a-badb-454e-9d02-d3955e4ddbc1/apply",
+        "locations": [
+            "Albertville, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/TSMG",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "TSMG",
+        "id": "cdfe3c6d-3bac-4209-bf74-ee67ed44ea80",
+        "title": "Driver / Data collector",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1715442568,
+        "date_posted": 1715442568,
+        "url": "https://jobs.lever.co/tsmg/69082694-70a8-4913-b5fd-9bcd78209543/apply",
+        "locations": [
+            "Burlington, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/TSMG",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "TSMG",
+        "id": "2459db1a-dbbd-4ea2-b77f-e775898add98",
+        "title": "Driver / Data collector",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1715442567,
+        "date_posted": 1715442567,
+        "url": "https://jobs.lever.co/tsmg/16868768-8136-4150-a77e-fbf8b79b507d/apply",
+        "locations": [
+            "Montclair, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/TSMG",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Cadence Design Systems",
+        "id": "e053995b-4b63-459e-978c-f49b2e055f01",
+        "title": "Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1715442180,
+        "date_posted": 1715442180,
+        "url": "https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/SAN-JOSE/Intern_R46616-2",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "TSMG",
+        "id": "cb4f1afb-a583-48e7-96d3-e8e539f8ea15",
+        "title": "Driver / Data Collector in York - NE",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1715412092,
+        "date_posted": 1715412092,
+        "url": "https://jobs.lever.co/tsmg/19e9858e-d4ff-4113-ba14-0cc151f270f8/apply",
+        "locations": [
+            "Grand Island, NE"
+        ],
+        "company_url": "https://simplify.jobs/c/TSMG",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "TSMG",
+        "id": "4491b997-60b4-4987-8891-35ecbfae7b01",
+        "title": "Driver / Data Collector in Rochester - NY",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1715412080,
+        "date_posted": 1715412080,
+        "url": "https://jobs.lever.co/tsmg/f4cd68b3-c165-4ffd-b041-592e30248cc4/apply",
+        "locations": [
+            "Rochester, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/TSMG",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "TSMG",
+        "id": "d443726e-f065-45dc-9617-0100c79e24f1",
+        "title": "Driver / Data Collector in Omaha - NE",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1715412078,
+        "date_posted": 1715412078,
+        "url": "https://jobs.lever.co/tsmg/cb425854-d593-4e3f-881a-2cd7123b636d/apply",
+        "locations": [
+            "Omaha, NE"
+        ],
+        "company_url": "https://simplify.jobs/c/TSMG",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "TSMG",
+        "id": "ac8de14b-08d5-47cb-8b9f-4809a7ee63f7",
+        "title": "Driver / Data Collector in Marl - Germany",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1715412074,
+        "date_posted": 1715412074,
+        "url": "https://jobs.lever.co/tsmg/0d2db31c-83d7-4b4c-b815-92c21d739b5e/apply",
+        "locations": [
+            "Dothan, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/TSMG",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "TSMG",
+        "id": "5275aff7-e0d0-48b5-8c26-248c33faf9a7",
+        "title": "Driver / Data Collector in Dilica - Italy",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1715412071,
+        "date_posted": 1715412071,
+        "url": "https://jobs.lever.co/tsmg/4e9b84ed-8048-4352-8802-236d23504573/apply",
+        "locations": [
+            "Kermit, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/TSMG",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "TSMG",
+        "id": "3054b44f-fd7b-484c-be6a-d9f88ce52ba0",
+        "title": "Driver / Data Collector in Cantinella - Italy",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1715412068,
+        "date_posted": 1715412068,
+        "url": "https://jobs.lever.co/tsmg/9e83c707-c27d-42fb-b4bb-4d96beb03963/apply",
+        "locations": [
+            "Cambridge, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/TSMG",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "TSMG",
+        "id": "6abb83b5-f064-4aad-bd47-b4e00ea2f758",
+        "title": "Driver / Data Collector in Campania - Italy",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1715412067,
+        "date_posted": 1715412067,
+        "url": "https://jobs.lever.co/tsmg/dff4ca8e-270c-4e10-b367-125c86d84748/apply",
+        "locations": [
+            "Alpharetta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/TSMG",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "TSMG",
+        "id": "44558bfe-a0e7-4304-9aa6-d55e547605d3",
+        "title": "Driver / Data Collector in Bel Air South - MD",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1715412067,
+        "date_posted": 1715412067,
+        "url": "https://jobs.lever.co/tsmg/7ddd4fbf-b746-497f-a1c2-47cf03a955e9/apply",
+        "locations": [
+            "Bel Air, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/TSMG",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "TSMG",
+        "id": "3f3b13bd-c749-4ad8-88eb-eb7b486f0a26",
+        "title": "Driver / Data Collector in Campbellsville - KY",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1715412066,
+        "date_posted": 1715412066,
+        "url": "https://jobs.lever.co/tsmg/8ee1676b-25b0-4a62-afdf-1287aa643876/apply",
+        "locations": [
+            "Danville, KY"
+        ],
+        "company_url": "https://simplify.jobs/c/TSMG",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "TSMG",
+        "id": "abe0ee8e-ca9b-4361-a9ec-b8bc6302110c",
+        "title": "Driver / Data Collector in Baltimore - MD",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1715412064,
+        "date_posted": 1715412064,
+        "url": "https://jobs.lever.co/tsmg/7e973a4f-8971-4ca5-9eeb-bccd7a432f25/apply",
+        "locations": [
+            "Baltimore, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/TSMG",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "TSMG",
+        "id": "c820d8c2-8537-4c64-9ac9-247acb3fb843",
+        "title": "Driver / Data Collector in Tuscaloosa - AL",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1715412083,
+        "date_posted": 1715412083,
+        "url": "https://jobs.lever.co/tsmg/c37796bd-66ff-4f6c-a2ab-d0942941a83a/apply",
+        "locations": [
+            "Tuscaloosa, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/TSMG",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "TSMG",
+        "id": "3faaf208-51cd-4d7d-9f6f-3e4e16fdfad2",
+        "title": "Driver / Data Collector in Gary - IN",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1715412066,
+        "date_posted": 1715412066,
+        "url": "https://jobs.lever.co/tsmg/f450bdcd-4d80-4a49-95bc-188f8a4bf3a3/apply",
+        "locations": [
+            "Hobart, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/TSMG",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "TSMG",
+        "id": "5a9bc1f8-f9a1-444f-93ab-4c299746bfb3",
+        "title": "Driver / Data Collector in Richmond - IN",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1715412080,
+        "date_posted": 1715412080,
+        "url": "https://jobs.lever.co/tsmg/e9575b21-4c21-410d-9cfe-1740c88c4592/apply",
+        "locations": [
+            "Oxford, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/TSMG",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "TSMG",
+        "id": "80007ef1-3588-4e27-9e93-99192987ca57",
+        "title": "Driver / Data Collector in Ruse - Bulgaria",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1715412081,
+        "date_posted": 1715412081,
+        "url": "https://jobs.lever.co/tsmg/307890ac-23a7-436f-8587-b8ebbf3cc1eb/apply",
+        "locations": [
+            "Wichita, KS"
+        ],
+        "company_url": "https://simplify.jobs/c/TSMG",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "TSMG",
+        "id": "4bfc0f35-73e3-4ae9-a19f-855e623a1e6d",
+        "title": "Driver / Data Collector in Cammarata - Italy",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1715412066,
+        "date_posted": 1715412066,
+        "url": "https://jobs.lever.co/tsmg/0d628e98-5453-4e9b-93ac-2f37a9a3ce28/apply",
+        "locations": [
+            "DFW Airport, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/TSMG",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "WebFX",
+        "id": "d976fc06-b431-419f-8dcf-be9c0a1ff03e",
+        "title": "Jr. Front-End Web Developer",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1715411789,
+        "date_posted": 1715411789,
+        "url": "https://jobs.lever.co/webfx/e424e486-c772-443b-98cf-9088fef288d1/apply",
+        "locations": [
+            "Ann Arbor, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/WebFX",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Fivetran",
+        "id": "0b54f5de-4c62-497a-bf43-c9e4a5cb6cf4",
+        "title": "Intern Software Engineer - Systems Engineering",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1715383412,
+        "date_posted": 1715383412,
+        "url": "https://www.fivetran.com/careers/job?gh_jid=5982135003",
+        "locations": [
+            "Oakland, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Fivetran",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Seismic",
+        "id": "ead893a9-9ea4-403b-bdc3-4534be1c1229",
+        "title": "Software Engineer AI/ ML-Co-Op - PEY/ Masters",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1715382452,
+        "date_posted": 1715382452,
+        "url": "https://seismic.com/company/careers/job-detail/?gh_jid=5176605004",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Seismic",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Labelbox",
+        "id": "21131a30-3a0e-4004-a540-6043d656ea44",
+        "title": "AI Tutor \u2013 German - Project based",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1715297145,
+        "date_posted": 1715297145,
+        "url": "https://boards.greenhouse.io/labelbox/jobs/4372449007",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Labelbox",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Splunk",
+        "id": "cde87b00-1165-48c8-be59-93f8dabed9d7",
+        "title": "Software Engineer - Early in Career - Frontend",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1715037266,
+        "date_posted": 1715037266,
+        "url": "https://jobs.jobvite.com/splunk-careers/job/oeTxsfwQ?nl=1&nl=1&fr=false",
+        "locations": [
+            "Colorado",
+            "North Carolina"
+        ],
+        "company_url": "https://simplify.jobs/c/Splunk",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Point72",
+        "id": "e04142ea-01f2-4a8b-943e-0271ba1836de",
+        "title": "Point72 Academy Investment Analyst Program for Upcoming Graduates - 2025 - US",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1714662712,
+        "date_posted": 1714662712,
+        "url": "https://boards.greenhouse.io/point72/jobs/7431897002",
+        "locations": [
+            "SF",
+            "Florida",
+            "Chicago, IL",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Point72",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Ardent",
+        "id": "684e255d-7e4d-468d-9857-54f78d408cdb",
+        "title": "Apply here to be considered for future openings",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1715195896,
+        "date_posted": 1714509447,
+        "url": "https://boards.greenhouse.io/ardentmc/jobs/5006631",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/Ardent",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Keywords Studios",
+        "id": "7dfd1ae4-bfd1-4a21-974f-dc46b73072ab",
+        "title": "AI Prompt & Language Specialist - German",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1714512423,
+        "date_posted": 1714512423,
+        "url": "https://apply.workable.com/keywords-intl1/j/A5AF6EFB7E/apply",
+        "locations": [
+            "Remote"
+        ],
+        "company_url": "https://simplify.jobs/c/Keywords-Studios",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Palantir",
+        "id": "5e5e082e-1da0-42a0-8624-c4ce352ff3dc",
+        "title": "UK Summer Bootcamp",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1714458080,
+        "date_posted": 1714458080,
+        "url": "https://jobs.lever.co/palantir/54530b3f-7446-4600-aef3-bfeb47101830/apply",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Palantir",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Binance",
+        "id": "8ccc2187-2568-41df-a93a-383df48faf8f",
+        "title": "Binance Accelerator Program - Frontend Engineer - Big Data",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1714512217,
+        "date_posted": 1714512217,
+        "url": "https://jobs.lever.co/binance/1560b414-bcd6-40ef-b6c8-0a5ee816e23e/apply",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Binance",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Keywords Studios",
+        "id": "61c12c11-fcc1-4bd0-918c-c84408a0382a",
+        "title": "Sp\u00e9cialiste des requ\u00eates et du langage de l'IA - Langue Russe",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1714179622,
+        "date_posted": 1714179622,
+        "url": "https://apply.workable.com/keywords-intl1/j/13474A47E9/apply",
+        "locations": [
+            "Remote"
+        ],
+        "company_url": "https://simplify.jobs/c/Keywords-Studios",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Seismic",
+        "id": "1b0c3476-f50c-4133-af75-9dfaf056009e",
+        "title": "Data Analyst-PEY/ASIP - Month rotation",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1714176553,
+        "date_posted": 1714176553,
+        "url": "https://seismic.com/company/careers/job-detail/?gh_jid=5156011004",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Seismic",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Keywords Studios",
+        "id": "5bf109c8-a5d3-43c5-82b0-ec571a42caeb",
+        "title": "Sp\u00e9cialiste des requ\u00eates et du langage de l'IA - Langue Hindou",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1714023169,
+        "date_posted": 1714023169,
+        "url": "https://apply.workable.com/keywords-intl1/j/0EEB8F2B32/apply",
+        "locations": [
+            "Remote"
+        ],
+        "company_url": "https://simplify.jobs/c/Keywords-Studios",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Xylem",
+        "id": "8af8a139-755f-4752-af8a-e58efdf2840f",
+        "title": "Engineering Leadership Development Program",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1712913653,
+        "date_posted": 1712913653,
+        "url": "https://jobs.jobvite.com/xylem/job/oKCFrfwc?nl=1&nl=1&fr=false",
+        "locations": [
+            "Cambridge, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Xylem",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Embrace",
+        "id": "866d20d2-2691-44b3-adb6-eb6f1195dffa",
+        "title": "My Role Isn\u2019t Listed",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1713538336,
+        "date_posted": 1713538336,
+        "url": "https://boards.greenhouse.io/embrace/jobs/4150034004",
+        "locations": [
+            "Salt Lake City, UT",
+            "LA",
+            "Oakland, CA",
+            "Phoenix, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Embrace",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Skydio",
+        "id": "d6c779c0-e10e-4d5e-b046-f5e315dd8726",
+        "title": "Wireless Software Engineer - All levels",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1714506331,
+        "date_posted": 1706055094,
+        "url": "https://www.skydio.com/jobs/5866549003?gh_jid=5866549003",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Skydio",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Momentum Worldwide",
+        "id": "413aa7b5-4b5d-4afa-8a29-4c10250bf644",
+        "title": "Momentum CAN Pipeline",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1698368448,
+        "date_posted": 1694612188,
+        "url": "https://www.momentumww.com/opportunities/?gh_jid=6820353002",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Momentum-Worldwide",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Codazen",
+        "id": "072b3c31-67dc-4102-a448-8257aca7d419",
+        "title": "Full-Stack Engineer Summer 2024 New Grad",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1705623524,
+        "date_posted": 1705623524,
+        "url": "https://boards.greenhouse.io/codazen/jobs/4980889004",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Codazen",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Replicant",
+        "id": "ec7b1eb3-6306-4d5c-9dc4-f9a7fc49df02",
+        "title": "AI Data Annotator",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1715281754,
+        "date_posted": 1712966496,
+        "url": "https://jobs.lever.co/replicant/f4ebff94-d72d-4ce7-9eed-1dacc9164c69/apply",
+        "locations": [
+            "Remote"
+        ],
+        "company_url": "https://simplify.jobs/c/Replicant",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Jane Street",
+        "id": "627504f8-50a4-4683-a053-403279c50354",
+        "title": "Software Engineer",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1696029850,
+        "date_posted": 1696029850,
+        "url": "https://boards.greenhouse.io/janestreet/jobs/6860671002",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Jane-Street",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Waterfront International",
+        "id": "66ef22a4-a749-4b77-b3f9-b4615aefe5af",
+        "title": "Student Developer",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1697671405,
+        "date_posted": 1697671405,
+        "url": "https://boards.greenhouse.io/wil/jobs/1448818",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Waterfront-International",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Alchemy",
+        "id": "e466e004-6e57-4d38-bb66-1367f180c6d9",
+        "title": "Alchemy Analyst - Technical Writer - Part or Full Time",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1713908806,
+        "date_posted": 1691450686,
+        "url": "https://boards.greenhouse.io/alchemy/jobs/4282639005",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Alchemy",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Astranis",
+        "id": "3ce006f7-87d3-4f9f-b046-7d3a639d7382",
+        "title": "Flight Software Engineer - Associate Program - Fall 2024",
+        "active": true,
+        "terms": [
+            "Fall 2024"
+        ],
+        "date_updated": 1714591002,
+        "date_posted": 1711529261,
+        "url": "https://boards.greenhouse.io/astranis/jobs/4300155006",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Astranis",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Databento",
+        "id": "bc0584de-ce5e-462b-b863-3275df95c522",
+        "title": "Developer Advocate",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1703776351,
+        "date_posted": 1692083500,
+        "url": "https://boards.greenhouse.io/databento/jobs/4048885",
+        "locations": [
+            "Salt Lake City, UT",
+            "Cambridge, MA",
+            "SF",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Databento",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Splunk",
+        "id": "31bd40d2-03e5-4df7-bbcd-30c44e91ba9e",
+        "title": "Software Engineer - Early in Career - Frontend",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1712131062,
+        "date_posted": 1712102273,
+        "url": "https://jobs.jobvite.com/splunk-careers/job/on3Csfwe?nl=1&nl=1&fr=false",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Splunk",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Constellation Technologies",
+        "id": "77bb0147-1c80-4b42-9fe5-8f970a91c65e",
+        "title": "Software Engineer - Level 1 & Level 0",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1714512901,
+        "date_posted": 1702945721,
+        "url": "https://jobs.lever.co/cti-md/3eac6406-13a9-4bdc-b8f3-11b1584cd751/apply",
+        "locations": [
+            "Odenton, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Constellation-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Akuna Capital",
+        "id": "4f671015-2e62-4358-bc1c-cdfabb83940c",
+        "title": "Women in Trading Sneak Peek Week - 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1705709318,
+        "date_posted": 1705709318,
+        "url": "https://www.akunacapital.com/job-details?gh_jid=5630638",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Akuna-Capital",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Axon",
+        "id": "f870d4bc-1de5-4668-9bab-0d439441c365",
+        "title": "Firmware Engineer I - Onsite",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1713311636,
+        "date_posted": 1713311636,
+        "url": "https://boards.greenhouse.io/axon/jobs/5826570003",
+        "locations": [
+            "Scottsdale, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Axon",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Ganymede",
+        "id": "0563a972-1d1a-4dfc-8815-18a728c03f54",
+        "title": "Flexible Inquiry",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1713769637,
+        "date_posted": 1713769637,
+        "url": "https://apply.workable.com/ganymede/j/56BF3653F5/apply",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Ganymede",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Jane Street",
+        "id": "0481e8fa-bd18-44de-9877-20dac94847ac",
+        "title": "Software Engineer",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1706141305,
+        "date_posted": 1706141305,
+        "url": "https://boards.greenhouse.io/janestreet/jobs/7108437002",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Jane-Street",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Code and Theory",
+        "id": "ae48bcde-2b11-4839-b488-e8ec835ad1a0",
+        "title": "Data & Analytics Fellowship",
+        "active": true,
+        "terms": [
+            "Summer 2024",
+            "Fall 2024",
+            "Winter 2025",
+            "Spring 2025"
+        ],
+        "date_updated": 1713851222,
+        "date_posted": 1713484806,
+        "url": "https://www.codeandtheory.com/careers/7338319002?gh_jid=7338319002",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/codeandtheory",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Brain Technologies",
+        "id": "6191c43a-88e4-40ba-ad6f-f2fd13df71f4",
+        "title": "Generative AI Creator",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1696923035,
+        "date_posted": 1696923035,
+        "url": "https://boards.greenhouse.io/braintechnologies/jobs/4989823004",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/brain-technologies",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Bracebridge Capital",
+        "id": "48113f8e-71e1-419c-9245-8ab2314fe629",
+        "title": "2025 Summer Investment Analyst",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1706832661,
+        "date_posted": 1706832661,
+        "url": "https://boards.greenhouse.io/bracebridgecapital/jobs/4336156005",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Bracebridge-Capital",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Genius Sports",
+        "id": "3b097745-22b6-4322-8ee1-91a4590c989b",
+        "title": "Sports Statistician - USA Only",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1713852171,
+        "date_posted": 1713852171,
+        "url": "https://boards.greenhouse.io/geniussports/jobs/4206730003",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Genius-Sports",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Ema",
+        "id": "1afef293-f263-4e67-834b-d4c2df2a5e4a",
+        "title": "AI Resident/Data Resident - North America",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1714763789,
+        "date_posted": 1713434769,
+        "url": "https://jobs.ashbyhq.com/ema/6baac217-0690-409f-a33d-2001048e9a97/application",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Ema",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Samba TV",
+        "id": "f3052e86-5246-4db4-b51a-f5c19aa913e6",
+        "title": "Content Ingestion Assistant",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1715383377,
+        "date_posted": 1715383377,
+        "url": "https://jobs.lever.co/sambatv/8cfe503a-99e2-4a91-bb21-57b6b912e06e/apply",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/SambaTV",
         "is_visible": true,
         "sponsorship": "Other"
     }
