@@ -77698,7 +77698,7 @@
         "company_name": "Bridgewater Associates",
         "id": "24d08d8d-0e0b-438d-9afe-8da29dbf21da",
         "title": "Investment Engineer Intern - Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -79442,7 +79442,7 @@
         "company_name": "Rocket Lawyer",
         "id": "2c464f21-292b-42bf-ab7e-394c9b80ff56",
         "title": "Data Engineering Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -80936,7 +80936,7 @@
         "company_name": "Intel",
         "id": "d5b7a65e-75eb-4cf5-9fac-bfb00415aaf3",
         "title": "Software Development \u2013 Undergraduate Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -81209,7 +81209,7 @@
         "company_name": "Colibri Group",
         "id": "9c8eee96-2b72-4406-8dd3-0ed58c3fc6a8",
         "title": "Consumer Insights intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -81652,7 +81652,7 @@
         "company_name": "Fullscript",
         "id": "93f34205-5263-4330-80fc-62dc7adb2c93",
         "title": "Co-op/Intern Ruby Developer - Fall 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2024"
         ],
@@ -81785,7 +81785,7 @@
         "company_name": "Intel",
         "id": "1127af10-3ed9-4a5b-beed-d56eb7ccb4b3",
         "title": "Software Architect Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -82309,7 +82309,7 @@
         "company_name": "Foxit Software",
         "id": "f76ca7c5-0794-4967-a881-8ceed653b4bb",
         "title": "AI Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -82347,7 +82347,7 @@
         "company_name": "Rocket Lab USA",
         "id": "6641ec6e-e0f2-4119-9d11-23625deabf48",
         "title": "Flight Software Internship-Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -83995,6 +83995,82 @@
             "SF"
         ],
         "company_url": "https://simplify.jobs/c/iRhythm-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Squarepoint Capital",
+        "id": "796ab8ec-702e-486d-812c-48cdf725b8ce",
+        "title": "Intern Software Developer - Fall 2024",
+        "active": true,
+        "terms": [
+            "Fall 2024"
+        ],
+        "date_updated": 1715786759,
+        "date_posted": 1715786759,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=5956550",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Squarepoint-Capital",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Optiver",
+        "id": "e8e9aef3-8d3b-4bf7-a253-0f90da0386a3",
+        "title": "Campus: Quantitative Trader - 2024 Start - Chicago",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1715786446,
+        "date_posted": 1715786446,
+        "url": "https://boards.greenhouse.io/optiverinternreferralc4/jobs/6782278002",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Optiver",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Chainlink",
+        "id": "7f0f586f-0442-44ed-9889-a49423a78b43",
+        "title": "Research Internship",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1715729004,
+        "date_posted": 1715729004,
+        "url": "https://jobs.lever.co/chainlink/c79ebded-4d90-417f-8958-fbaffdae6018/apply",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Chainlink",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Square",
+        "id": "504e9b9e-0cd9-4468-bf34-4a0e3db61da5",
+        "title": "Deep Learning Research Intern - Fall 2024",
+        "active": true,
+        "terms": [
+            "Fall 2024"
+        ],
+        "date_updated": 1715712669,
+        "date_posted": 1715712669,
+        "url": "https://jobs.smartrecruiters.com/Square/743999987246250",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Square",
         "is_visible": true,
         "sponsorship": "Other"
     }
