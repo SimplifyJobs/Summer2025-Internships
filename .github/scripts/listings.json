@@ -76616,7 +76616,7 @@
         "company_name": "Greenlight",
         "id": "0fe9164b-a071-4c92-8fe0-87abd20f2327",
         "title": "Data Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -77208,7 +77208,7 @@
         "company_name": "MiQ",
         "id": "2b512806-0f6f-4278-9e60-92c9969adeec",
         "title": "Trading \u2013 Summer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -77698,7 +77698,7 @@
         "company_name": "Bridgewater Associates",
         "id": "24d08d8d-0e0b-438d-9afe-8da29dbf21da",
         "title": "Investment Engineer Intern - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -78564,7 +78564,7 @@
         "company_name": "Cruise",
         "id": "383e1d69-93d8-457b-b195-b53d76fb8714",
         "title": "Machine Learning Intern - Autonomy",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -82899,7 +82899,7 @@
         "company_name": "Fivetran",
         "id": "0b54f5de-4c62-497a-bf43-c9e4a5cb6cf4",
         "title": "Intern Software Engineer - Systems Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -83693,7 +83693,7 @@
         "company_name": "Geotab",
         "id": "e917a12e-2c6e-4d8b-bc42-85ad988a1bba",
         "title": "Vehicle Systems Developer Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -83731,7 +83731,7 @@
         "company_name": "Two Six Technologies",
         "id": "0741ead2-e552-4ad4-8837-3eaec5c08d5b",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -84022,7 +84022,7 @@
         "company_name": "Optiver",
         "id": "e8e9aef3-8d3b-4bf7-a253-0f90da0386a3",
         "title": "Campus: Quantitative Trader - 2024 Start - Chicago",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -84060,7 +84060,7 @@
         "company_name": "Square",
         "id": "504e9b9e-0cd9-4468-bf34-4a0e3db61da5",
         "title": "Deep Learning Research Intern - Fall 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2024"
         ],
@@ -84071,6 +84071,101 @@
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/Square",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "TSMG",
+        "id": "fafaf550-597c-48fa-8edf-ae0447acbca5",
+        "title": "Conducteur / Collecteur de donn\u00e9es \u00e0 Valence - France",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1715872311,
+        "date_posted": 1715872311,
+        "url": "https://jobs.lever.co/tsmg/14f8e8f4-0963-487a-8cc4-b62006b8872b/apply",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/TSMG",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Square",
+        "id": "1f514f67-ea0c-406c-94e3-4ce27c6613de",
+        "title": "Deep Learning Research Intern - Fall 2024",
+        "active": true,
+        "terms": [
+            "Fall 2024"
+        ],
+        "date_updated": 1715871944,
+        "date_posted": 1715871944,
+        "url": "https://jobs.smartrecruiters.com/Square/743999987785063",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Square",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Mozilla",
+        "id": "5a4f966b-de91-4804-b59b-e5510015fb52",
+        "title": "Mobile Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1715814364,
+        "date_posted": 1715814364,
+        "url": "https://boards.greenhouse.io/mozilla/jobs/5968931",
+        "locations": [
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Mozilla",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Leidos",
+        "id": "e50f4f16-9ec9-40d3-b02e-d917320f032b",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1715843725,
+        "date_posted": 1715843725,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/San-Diego-CA/Software-Engineer-Intern_R-00135785",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Leidos",
+        "id": "9fc19252-63ad-43f8-a726-75f231dc90e6",
+        "title": "Engineering Intern - Aerospace - Computer Science - AI/ML",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1715815721,
+        "date_posted": 1715815721,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Engineering-Intern---Aerospace--Computer-Science--AI-ML_R-00135734",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
         "is_visible": true,
         "sponsorship": "Other"
     }
