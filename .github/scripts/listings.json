@@ -34136,7 +34136,7 @@
         "company_name": "Recursion Pharmaceuticals",
         "id": "8e22eaad-fc3d-4b77-be49-f6a860d2e124",
         "title": "Data Science Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -67522,7 +67522,7 @@
         "company_name": "Cerebras",
         "id": "0edf7ca7-3980-4004-ad96-19143ec72f74",
         "title": "Machine Learning Developer \u2013 Internship - Software Automation - PEY 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -69886,7 +69886,7 @@
         "company_name": "Bose",
         "id": "73573b02-23c3-44e2-8f8e-374f67d4344b",
         "title": "Algorithms Software Engineer Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -79137,7 +79137,7 @@
         "company_name": "EnergyHub",
         "id": "c2ace57e-24f4-42cf-8ef4-403728bfd657",
         "title": "Data Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -79499,7 +79499,7 @@
         "company_name": "CATHEXIS",
         "id": "8a24597d-3231-4aa4-8bab-82e0249c5759",
         "title": "AI Developer and IT Operations Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -81984,7 +81984,7 @@
         "company_name": "UiPath",
         "id": "10900f4f-a245-4d3c-8424-bcafdc5e0c38",
         "title": "Incubation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -82003,7 +82003,7 @@
         "company_name": "Vendelux",
         "id": "67697ede-f781-4855-a926-8030f7964f6c",
         "title": "Data Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024",
             "Fall 2024"
@@ -82271,7 +82271,7 @@
         "company_name": "Zipline",
         "id": "00ecdf5e-35f6-4c97-b926-ee896d9d5199",
         "title": "Perception Software Engineering Intern - Fall 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2024"
         ],
@@ -82576,7 +82576,7 @@
         "company_name": "Cadence Design Systems",
         "id": "e053995b-4b63-459e-978c-f49b2e055f01",
         "title": "Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -83577,7 +83577,7 @@
         "company_name": "PayPal",
         "id": "eb1477f1-262f-4c65-b579-39b3d0fe016f",
         "title": "Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -83596,7 +83596,7 @@
         "company_name": "Oshkosh",
         "id": "32902c33-d377-4ee8-adf4-e994071fd9be",
         "title": "Engineer Intern - Software - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -83674,7 +83674,7 @@
         "company_name": "Western Digital",
         "id": "e2b1f5bc-3cba-4ecf-b31e-4e4d031376d5",
         "title": "Software Development & Analysis Intern - Summer 2024 - Local Candidates Only",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -83712,7 +83712,7 @@
         "company_name": "TSMG",
         "id": "8347f87e-515f-411a-b30f-89c6c1f1ea70",
         "title": "Driver / Data Collector in Heki - Croatia",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -84117,7 +84117,7 @@
         "company_name": "Mozilla",
         "id": "5a4f966b-de91-4804-b59b-e5510015fb52",
         "title": "Mobile Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -84136,7 +84136,7 @@
         "company_name": "Leidos",
         "id": "e50f4f16-9ec9-40d3-b02e-d917320f032b",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -84166,6 +84166,215 @@
             "Huntsville, AL"
         ],
         "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Leidos",
+        "id": "f4e232fc-cca9-48b6-85b4-b13f1b88b63f",
+        "title": "Information Systems Technology Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1715959019,
+        "date_posted": 1715959019,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Remote-US/Information-Systems-Technology-Intern_R-00135901",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Tanium",
+        "id": "3327508d-03c3-43fc-812e-ac19b92974ea",
+        "title": "Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1715958983,
+        "date_posted": 1715958983,
+        "url": "https://www.tanium.com/careers/5318876?gh_jid=5318876",
+        "locations": [
+            "Durham, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Tanium",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Autodesk",
+        "id": "42fcd08f-7530-4e78-a699-313040062f9f",
+        "title": "Software Developer Intern - Fall 2024",
+        "active": true,
+        "terms": [
+            "Fall 2024"
+        ],
+        "date_updated": 1715958533,
+        "date_posted": 1715958533,
+        "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Software-Developer-Intern--Fall-2024_24WD78431",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Autodesk",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Autodesk",
+        "id": "6c07d54f-f9ff-424f-ba63-c700619211ff",
+        "title": "Software Developer Intern - Fall",
+        "active": true,
+        "terms": [
+            "Fall 2024"
+        ],
+        "date_updated": 1715958536,
+        "date_posted": 1715958536,
+        "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Software-Developer-Intern--Fall_24WD78459-2",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Autodesk",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Autodesk",
+        "id": "04765278-eae0-44eb-961a-9756814769a4",
+        "title": "Software Developer \u2013 Intern - Fall 2024",
+        "active": true,
+        "terms": [
+            "Fall 2024"
+        ],
+        "date_updated": 1715958533,
+        "date_posted": 1715958533,
+        "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Software-Developer--Intern---Fall-2024_24WD78430-2",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Autodesk",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Leidos",
+        "id": "efa8bf6d-21bb-44fe-89cb-d7150f2bc54a",
+        "title": "Software Developer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1715901349,
+        "date_posted": 1715901349,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Beavercreek-OH/Software-Developer-Intern_R-00135825",
+        "locations": [
+            "Beavercreek, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Fairmatic",
+        "id": "e577eb86-c37e-460a-9001-824a023894c0",
+        "title": "Insurance Data Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1715954729,
+        "date_posted": 1715901140,
+        "url": "https://jobs.lever.co/fairmatic/f41c8fd5-4ed7-40ae-b5d6-454a47995909/apply",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Fairmatic",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "WebFX",
+        "id": "ce1a0aee-1a44-46f0-8f26-91c29bbc885f",
+        "title": "React Developer",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1715908138,
+        "date_posted": 1715900992,
+        "url": "https://jobs.lever.co/webfx/a0edf0cb-108b-4e9a-b8e6-76052540bbc2/apply",
+        "locations": [
+            "Ann Arbor, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/WebFX",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Divergent",
+        "id": "46390355-15fe-44b1-aa3f-8ad7f8d03c4d",
+        "title": "Summer 2025 Internship Program - Engineering",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1715908575,
+        "date_posted": 1714176885,
+        "url": "https://jobs.lever.co/divergent3d/634fc355-43ef-4b53-9ace-bc1b27cd18ec/apply",
+        "locations": [
+            "Carson, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Divergent",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Weber Shandwick",
+        "id": "c477a44c-7251-43f9-833c-2dd7e1525041",
+        "title": "Capital Markets Intern - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1715973481,
+        "date_posted": 1713851017,
+        "url": "https://www.webershandwick.com/work-at-weber/careers/?gh_jid=7246932002",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Weber-Shandwick",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "IPG DXTRA",
+        "id": "85a0533e-7783-43cc-834e-8dc1a9e27d70",
+        "title": "Capital Markets Intern - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1715972915,
+        "date_posted": 1713852729,
+        "url": "https://boards.greenhouse.io/dxacirca/jobs/7246933002",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/IPG-DXTRA",
         "is_visible": true,
         "sponsorship": "Other"
     }
