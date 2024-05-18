@@ -44918,7 +44918,7 @@
         "company_name": "Modernizing Medicine",
         "id": "c5af5aed-68cc-40d1-80bf-5ebb4deb4657",
         "title": "Mmpm Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -77150,7 +77150,7 @@
         "company_name": "Genies",
         "id": "17f51637-98bf-4256-8d4b-d332139ef2a4",
         "title": "3D Machine Learning Engineering Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -80472,7 +80472,7 @@
         "company_name": "Instawork",
         "id": "77f030ae-d00a-4ba4-aa24-e57ef5f9503f",
         "title": "Intern \u2013 Backend Platform",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -83653,7 +83653,7 @@
         "company_name": "Mercury",
         "id": "0d5d27e0-e982-4b62-ba04-a849e1e4aea2",
         "title": "Software Engineering Intern - Fall 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2024"
         ],
@@ -84193,7 +84193,7 @@
         "company_name": "Tanium",
         "id": "3327508d-03c3-43fc-812e-ac19b92974ea",
         "title": "Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -84375,6 +84375,145 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/IPG-DXTRA",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Intel",
+        "id": "6fc654f3-c3e6-43de-8143-f5e11e3f2432",
+        "title": "Tech/Data Summer Internship - Undergraduate",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1715988435,
+        "date_posted": 1715988435,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Arizona-Phoenix/Tech-Data-Summer-Internship---Undergraduate_JR0264438",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Salesforce",
+        "id": "2531a712-b4b5-46c9-ab9e-3b13ea715d5c",
+        "title": "2024 Futureforce Tech Equality Summit \u2013 Summer 2025 Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1715988158,
+        "date_posted": 1715988158,
+        "url": "https://salesforce.wd12.myworkdayjobs.com/en-us/External_Career_Site/job/California---San-Francisco/XMLNAME-2024-Futureforce-Tech-Equality-Summit---Summer-2025-Intern_JR252504-1",
+        "locations": [
+            "Seattle, WA",
+            "Indianapolis, IN",
+            "SF",
+            "Dallas, TX",
+            "Bellevue, WA",
+            "Atlanta, GA",
+            "Burlington, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Salesforce",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Waystar",
+        "id": "bc0b3e2c-27f2-4501-ad96-9b4ac1e4b465",
+        "title": "Application Engineer Apprentice",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1715988119,
+        "date_posted": 1715988119,
+        "url": "https://waystar.wd1.myworkdayjobs.com/Waystar/job/Louisville/Application-Engineer-Apprentice_R2079",
+        "locations": [
+            "Louisville, KY"
+        ],
+        "company_url": "https://simplify.jobs/c/Waystar",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Waystar",
+        "id": "b627a748-5d2a-4f22-b7bc-d3040a68e9e6",
+        "title": "Application Engineer Apprentice",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1715988119,
+        "date_posted": 1715988119,
+        "url": "https://waystar.wd1.myworkdayjobs.com/Waystar/job/Louisville/Application-Engineer-Apprentice_R2077",
+        "locations": [
+            "Louisville, KY"
+        ],
+        "company_url": "https://simplify.jobs/c/Waystar",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "AvePoint",
+        "id": "ef8b9206-7c9b-42d1-b654-b4a19d6f2811",
+        "title": "Privacy \u2013 Risk and Security Analytics Internship",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1715987673,
+        "date_posted": 1715987673,
+        "url": "https://www.avepoint.com/careers/job-detail?gh_jid=5975051",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/AvePoint",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Autodesk",
+        "id": "889b2c69-2459-4404-a834-6d0e38f80346",
+        "title": "Software Developer \u2013 Intern - Fall",
+        "active": true,
+        "terms": [
+            "Fall 2024"
+        ],
+        "date_updated": 1715987192,
+        "date_posted": 1715987192,
+        "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Software-Developer--Intern--Fall-_24WD78462-1",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Autodesk",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Autodesk",
+        "id": "f0f34472-ae3e-4d8e-8262-016abf6c4078",
+        "title": "Software Developer \u2013 Intern - Fall",
+        "active": true,
+        "terms": [
+            "Fall 2024"
+        ],
+        "date_updated": 1715987192,
+        "date_posted": 1715987192,
+        "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Software-Developer--Intern--Fall-_24WD78460-2",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Autodesk",
         "is_visible": true,
         "sponsorship": "Other"
     }
