@@ -1441,7 +1441,7 @@
         "company_name": "Northwestern Mutual",
         "id": "f2c57a9d-892a-488e-97cd-676be99ca696",
         "title": "Investment Analyst Intern - Private Debt & Equity",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -2031,7 +2031,7 @@
         "company_name": "Symplicity",
         "id": "6a960b22-4bd7-4721-9f74-e5de7eb37e36",
         "title": "Software Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -13390,7 +13390,7 @@
         "company_name": "Konrad Group",
         "id": "96ecef75-c281-436f-ba41-580103b4df16",
         "title": "Software Developer Intern - May 2024 - 4 months",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024"
         ],
@@ -13561,7 +13561,7 @@
         "company_name": "C3.ai",
         "id": "b688b7bf-2bf6-49e6-9deb-c8b5d5c0740d",
         "title": "Software Engineer \u2013 Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -14500,7 +14500,7 @@
         "company_name": "Stryker",
         "id": "9bf8eaff-702c-48f2-9db0-517dd11a99be",
         "title": "Florida a&M University Summer Internship 2024 - Engineering-Michigan",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -18668,7 +18668,7 @@
         "company_name": "Hewlett Packard (HP)",
         "id": "75aeb815-9001-4251-a70f-a1af246de451",
         "title": "Job Description HP Inc. Workforce Services & Solutions Technical Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -33638,7 +33638,7 @@
         "company_name": "Zoox",
         "id": "f1bb75e9-db1e-4fdc-a7d9-67e81358c97e",
         "title": "Digital Signal Processing Internship/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -40867,7 +40867,7 @@
         "company_name": "Quest Analytics",
         "id": "0a741c07-ddb7-4696-8905-1461d94ca2b4",
         "title": "Software Engineer Internship - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -48455,7 +48455,7 @@
         "company_name": "Plexus",
         "id": "e240cf11-8108-45ce-9a2e-4717e8a1fa68",
         "title": "Intern \u2013 Software Engineer - Spring 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025"
         ],
@@ -54115,7 +54115,7 @@
         "company_name": "Kargo",
         "id": "de14990f-7aa7-49ce-aec8-031330527fd1",
         "title": "Intern \u2013 Data Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -54834,7 +54834,7 @@
         "company_name": "Cadence Design Systems",
         "id": "a9fcc502-9309-4f23-b702-992bf0e1aec9",
         "title": "Intern Software",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -57103,7 +57103,7 @@
         "company_name": "Match Group",
         "id": "0e8acb90-345e-47a4-8dfc-463524ad6aef",
         "title": "Machine Learning Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -57160,7 +57160,7 @@
         "company_name": "Match Group",
         "id": "6810331e-90f6-4528-ad2d-eca2fcc0ea27",
         "title": "Android Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -58685,7 +58685,7 @@
         "company_name": "Cerence",
         "id": "961e6d2e-ca7a-4fdb-942e-2ff8ca656af9",
         "title": "\u00c9t\u00e9/Summer \u2013 / Software Developer Intern - D\u00e9veloppeur logiciel - Stagiaire",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -62638,7 +62638,7 @@
         "company_name": "Bose",
         "id": "907ef5ff-b540-4f61-907e-0ad749d59cd2",
         "title": "Data Engineer Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2024",
             "Spring 2024",
@@ -63808,7 +63808,7 @@
         "company_name": "iRhythm Technologies",
         "id": "d4062e9d-c73b-4286-a16a-2e974abc004f",
         "title": "Firmware Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2024",
             "Summer 2024"
@@ -65178,7 +65178,7 @@
         "company_name": "Applied Materials",
         "id": "9e26ff40-7207-4ee5-b126-d3f99f5d532d",
         "title": "2024 Summer Process Engineer Intern - Bachelor's - Boise - ID",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -66334,7 +66334,7 @@
         "company_name": "Waterfall",
         "id": "e754cca4-b470-4c47-bcc1-221d7dc9464d",
         "title": "Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -67541,7 +67541,7 @@
         "company_name": "Material Bank",
         "id": "b563009d-406f-4e01-8f78-0a4c9b081c53",
         "title": "Software Engineering Internship - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -67599,7 +67599,7 @@
         "company_name": "Sila Nanotechnologies",
         "id": "75b66de2-2891-442c-8dc3-ac7cacf70962",
         "title": "Materials Development Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -68343,7 +68343,7 @@
         "company_name": "Instrumental",
         "id": "062d3e71-1b25-433a-a8ea-964c8a7dcb80",
         "title": "Data Annotator \u2013 Contractor/Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -70719,7 +70719,7 @@
         "company_name": "Hydrow",
         "id": "28741177-ed88-438c-b384-93e4230c95c7",
         "title": "Data Intern - 1P Data",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -71044,7 +71044,7 @@
         "company_name": "Pison",
         "id": "d41f6e30-a042-48fe-b9b1-ef5edf0a56e1",
         "title": "Data Collections Intern-Summer 2024",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -71579,7 +71579,7 @@
         "company_name": "Cadence Design Systems",
         "id": "4e8f6092-1cb9-4733-b145-5cb76d237beb",
         "title": "Summer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -74211,7 +74211,7 @@
         "company_name": "Openmesh Networks",
         "id": "d9eacaf9-016d-4ba1-acd8-81ba51060c66",
         "title": "Bachelor\u2019s in Aeronautical Engineering Internship - Engineering Honors",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -77248,7 +77248,7 @@
         "company_name": "Cadence Design Systems",
         "id": "39d98581-b49c-4252-b6d5-a16bb40845a2",
         "title": "Product Engineering-Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -77967,7 +77967,7 @@
         "company_name": "Western Digital",
         "id": "ef15d4d9-668f-4dad-96bc-28b08637da85",
         "title": "Summer 2024 Firmware Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -78298,7 +78298,7 @@
         "company_name": "Hello Fresh",
         "id": "acd56be4-3c27-477f-8607-bcfd7d2dc9dd",
         "title": "Summer Intern - Supply Chain - Product Validation",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -78757,7 +78757,7 @@
         "company_name": "Seismic",
         "id": "3f74aa88-b054-46d3-87d4-6ef1af47c4a2",
         "title": "Software Engineer \u2013 Co-Op/ Pey",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -78776,7 +78776,7 @@
         "company_name": "Intel",
         "id": "196f7842-b78b-4eb7-9c0a-05213ec59b09",
         "title": "LTDM Anneal Intern - Undergrad",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -79270,7 +79270,7 @@
         "company_name": "Daniel J Edelman Holdings",
         "id": "6a5aab24-2d05-4d68-8028-40ac18ef2999",
         "title": "Intern \u2013 Market Research",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024",
             "Fall 2024"
@@ -79309,7 +79309,7 @@
         "company_name": "Atlas Energy Solutions",
         "id": "5c9c5435-6d83-4c9f-bb2b-0a5930bfcc94",
         "title": "Field Geology Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -79385,7 +79385,7 @@
         "company_name": "Rocket Lawyer",
         "id": "420bfb9c-37fb-4921-a4ef-685a5c60bc17",
         "title": "Software Engineering Intern - Mobile - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -79404,7 +79404,7 @@
         "company_name": "Rocket Lawyer",
         "id": "fed25697-5b97-49c5-8766-c256431dcb8f",
         "title": "Software Development Engineer in Test Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -79918,7 +79918,7 @@
         "company_name": "CACI",
         "id": "eaa374c8-8cb1-484c-9607-179796d8762a",
         "title": "Software Development Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -80261,7 +80261,7 @@
         "company_name": "Verana Health",
         "id": "61098649-c050-4222-9222-ab5352097bff",
         "title": "Data Engineer Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -80415,7 +80415,7 @@
         "company_name": "Aviatrix",
         "id": "eb63a1a1-4512-45e5-bd2e-e7d6acdba5e2",
         "title": "Summer Intern - React Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -80434,7 +80434,7 @@
         "company_name": "CACI",
         "id": "decd3783-c61f-4946-a184-73647f8b6d77",
         "title": "Full Stack Software Developer Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -80569,7 +80569,7 @@
         "company_name": "Bixal",
         "id": "4b36884c-7c19-4a2d-ba65-f4425569f5a0",
         "title": "Technology Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -80589,7 +80589,7 @@
         "company_name": "Leidos",
         "id": "135fa3a2-8da3-4765-9d4b-24a4ec857905",
         "title": "Energy Efficiency Engineering and Data Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -80627,7 +80627,7 @@
         "company_name": "Rise8",
         "id": "e48da94e-987a-48e6-a34c-82e0558ae8bb",
         "title": "Skillbridge Intern - Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -80799,7 +80799,7 @@
         "company_name": "Leidos",
         "id": "69fa1c38-c069-480b-b057-3d59e7ec145b",
         "title": "Cyber Security software development intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -80895,7 +80895,7 @@
         "company_name": "Leidos",
         "id": "1a07e3a5-35c5-4e27-a956-e63eb5848325",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -81880,7 +81880,7 @@
         "company_name": "Openmesh Networks",
         "id": "19e4ace5-2363-4ba4-b1d9-5568f2736a12",
         "title": "Data Analyst Intern - Data Insights and Analytics",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -82481,7 +82481,7 @@
         "company_name": "Certik",
         "id": "f4ef1938-14e4-4b89-bb37-000dc63b2621",
         "title": "Crypto Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -82690,7 +82690,7 @@
         "company_name": "TSMG",
         "id": "3054b44f-fd7b-484c-be6a-d9f88ce52ba0",
         "title": "Driver / Data Collector in Cantinella - Italy",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -82842,7 +82842,7 @@
         "company_name": "TSMG",
         "id": "80007ef1-3588-4e27-9e93-99192987ca57",
         "title": "Driver / Data Collector in Ruse - Bulgaria",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -83305,7 +83305,7 @@
         "company_name": "Astranis",
         "id": "3ce006f7-87d3-4f9f-b046-7d3a639d7382",
         "title": "Flight Software Engineer - Associate Program - Fall 2024",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2024"
         ],
@@ -83615,7 +83615,7 @@
         "company_name": "Square",
         "id": "e8be3fbb-4e8d-4229-ae3a-d8f2b39a02eb",
         "title": "Deep Learning Research Intern - Fall 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2024"
         ],
@@ -83712,7 +83712,7 @@
         "company_name": "TSMG",
         "id": "8347f87e-515f-411a-b30f-89c6c1f1ea70",
         "title": "Driver / Data Collector in Heki - Croatia",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -83769,7 +83769,7 @@
         "company_name": "Vicarious Surgical",
         "id": "5b9b4422-3b74-409e-9be6-0abbcbd52b9d",
         "title": "Document Administration Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024",
             "Fall 2024",
@@ -83904,7 +83904,7 @@
         "company_name": "Spry Methods",
         "id": "ec4aae21-ef08-4f92-ad12-9ef453a55547",
         "title": "Intelligence Analyst 1 - Students",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -83965,7 +83965,7 @@
         "company_name": "Ramp",
         "id": "b8b1153c-e286-47ea-8d03-6175c9f2218e",
         "title": "Software Engineer - Backend",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -83984,7 +83984,7 @@
         "company_name": "iRhythm Technologies",
         "id": "e20e76d5-3cb2-49f8-b528-a2459e6b1dbb",
         "title": "Human Factors Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -84079,7 +84079,7 @@
         "company_name": "TSMG",
         "id": "fafaf550-597c-48fa-8edf-ae0447acbca5",
         "title": "Conducteur / Collecteur de donn\u00e9es \u00e0 Valence - France",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -84098,7 +84098,7 @@
         "company_name": "Square",
         "id": "1f514f67-ea0c-406c-94e3-4ce27c6613de",
         "title": "Deep Learning Research Intern - Fall 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2024"
         ],
@@ -84155,7 +84155,7 @@
         "company_name": "Leidos",
         "id": "9fc19252-63ad-43f8-a726-75f231dc90e6",
         "title": "Engineering Intern - Aerospace - Computer Science - AI/ML",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -84174,7 +84174,7 @@
         "company_name": "Leidos",
         "id": "f4e232fc-cca9-48b6-85b4-b13f1b88b63f",
         "title": "Information Systems Technology Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -84269,7 +84269,7 @@
         "company_name": "Leidos",
         "id": "efa8bf6d-21bb-44fe-89cb-d7150f2bc54a",
         "title": "Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -84288,7 +84288,7 @@
         "company_name": "Fairmatic",
         "id": "e577eb86-c37e-460a-9001-824a023894c0",
         "title": "Insurance Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -84383,7 +84383,7 @@
         "company_name": "Intel",
         "id": "6fc654f3-c3e6-43de-8143-f5e11e3f2432",
         "title": "Tech/Data Summer Internship - Undergraduate",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -84514,6 +84514,312 @@
             "Montreal, QC, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Autodesk",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Seurat Technologies",
+        "id": "10886530-ffbc-41a0-b3f0-a252ac4ef66d",
+        "title": "Sustainability Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1716192793,
+        "date_posted": 1716192793,
+        "url": "https://boards.greenhouse.io/seurat/jobs/4420541005",
+        "locations": [
+            "Burlington, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Seurat-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Live Nation Entertainment",
+        "id": "c4d913ad-59f9-466e-befc-f79bc3a4d40a",
+        "title": "Zero Waste Coordinator - Huntington Bank Pavilion",
+        "active": true,
+        "terms": [
+            "Spring 2024",
+            "Summer 2024",
+            "Fall 2024"
+        ],
+        "date_updated": 1716192365,
+        "date_posted": 1716192365,
+        "url": "https://livenation.wd1.myworkdayjobs.com/en-US/LNExternalSite/job/Chicago-IL-USA/Zero-Waste-Coordinator---Huntington-Bank-Pavilion_JR-66723",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Live-Nation-Entertainment",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "TSMG",
+        "id": "4b16f125-24ed-4601-bbb4-24f7801c7355",
+        "title": "Field Data Collection Specialist\\Surveyor",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1716190343,
+        "date_posted": 1716190343,
+        "url": "https://jobs.lever.co/tsmg/618465fa-c6c8-4a93-8fbb-10554fa60b60/apply",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/TSMG",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "TSMG",
+        "id": "23124957-e8e6-4926-b754-8e8006e95ef2",
+        "title": "Field Data Collection Specialist\\Surveyor",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1716190350,
+        "date_posted": 1716190350,
+        "url": "https://jobs.lever.co/tsmg/39b57eb8-c5c3-44d3-b43a-101dd7f31807/apply",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/TSMG",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "TSMG",
+        "id": "117828af-8f80-4cee-820d-89a03493c80b",
+        "title": "Conducteur / Collecteur de donn\u00e9es \u00e0 Marle - France",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1716190180,
+        "date_posted": 1716190180,
+        "url": "https://jobs.lever.co/tsmg/bfa54507-6f27-4e63-b7e1-ddb6a0021557/apply",
+        "locations": [
+            "Greenfield, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/TSMG",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Labelbox",
+        "id": "d8176d74-471b-49b3-997a-3800b23a990c",
+        "title": "AI Tutor \u2013 Generalist - Project based",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1715038131,
+        "date_posted": 1715038131,
+        "url": "https://boards.greenhouse.io/labelbox/jobs/4368628007",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Labelbox",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Exiger",
+        "id": "19cf290c-a417-4960-8f6c-af6371ff8a8b",
+        "title": "Analyst \u2013 Intern - Department of Defense Skillbridge",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1708028207,
+        "date_posted": 1703031401,
+        "url": "https://www.exiger.com/careers/4413866004?gh_jid=4413866004",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Exiger",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Applied Materials",
+        "id": "dbe24da9-50bb-4af8-a420-5477c9476523",
+        "title": "Technical Documentation Intern - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1714483424,
+        "date_posted": 1714483424,
+        "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Technical-Documentation-Intern---Summer-2024_R2413710",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Applied-Materials",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Groq",
+        "id": "9871277e-ff9f-46fb-8741-eb8bf6943d20",
+        "title": "Revenue Opportunities",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1713037102,
+        "date_posted": 1713025989,
+        "url": "https://wow.groq.com/careers?gh_jid=5913278003",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Groq",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Skydio",
+        "id": "269d2588-ec54-4eca-8321-63f8749d4dfb",
+        "title": "Fullstack Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1716232757,
+        "date_posted": 1715987921,
+        "url": "https://www.skydio.com/jobs/5988855003?gh_jid=5988855003",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Skydio",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Energy Recovery",
+        "id": "88d5a9a7-bde7-4bb7-b6ca-05280b61306c",
+        "title": "Intern \u2013 Sustainability and Social Impact",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1715908359,
+        "date_posted": 1715066849,
+        "url": "https://jobs.lever.co/energyrecovery/dc701c9f-073d-44b6-9ae8-601febe68c78/apply",
+        "locations": [
+            "San Leandro, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Energy-Recovery",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Rocket Lab USA",
+        "id": "1d330ec6-e847-4b70-8401-34e6058aa6e2",
+        "title": "Embedded Flight Software Engineer I/II Pipeline",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1715713237,
+        "date_posted": 1715713237,
+        "url": "https://boards.greenhouse.io/rocketlab/jobs/5981950003",
+        "locations": [
+            "Littleton, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Rocket-Lab-USA",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Diligent Robotics",
+        "id": "9507aff3-c582-4265-8599-10b3f68f38eb",
+        "title": "Part Time \u2013 Clinical Robot Associate - Los Angeles - CA",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1715709266,
+        "date_posted": 1715709266,
+        "url": "https://boards.greenhouse.io/diligentrobotics/jobs/5751739003",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Diligent-Robotics",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Welocalize",
+        "id": "f6b66a4d-3a31-47b3-ad0d-4ca3d82ec7b7",
+        "title": "Remote Internet Search Quality Rater - English - United States",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1714698656,
+        "date_posted": 1711097743,
+        "url": "https://jobs.lever.co/welocalize/33babd56-f6d6-4779-8146-498c9a9e42bd/apply",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Welocalize",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "SAM Labs",
+        "id": "bfc622cc-3049-447e-80fb-ba48ecfb83b1",
+        "title": "Portland Public Schools Summer Camp STEAM Instructor - July 1 - August 1 - $35/h =",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1715973378,
+        "date_posted": 1715066498,
+        "url": "https://boards.greenhouse.io/samlabs/jobs/5949888",
+        "locations": [
+            "Portland, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/SAMLabs",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Welocalize",
+        "id": "81d73b00-80cf-4a6d-a950-5c971550cc66",
+        "title": "Scout Search Quality Rater - Simplified Chinese - Canada",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1711106580,
+        "date_posted": 1711106580,
+        "url": "https://jobs.lever.co/welocalize/3d924884-192d-428a-b683-2b1496dfb98e/apply",
+        "locations": [
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Welocalize",
         "is_visible": true,
         "sponsorship": "Other"
     }
