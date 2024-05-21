@@ -63251,7 +63251,7 @@
         "company_name": "DoubleVerify",
         "id": "457cc285-ed36-457b-975a-f4428d9b5c26",
         "title": "Data Engineer Intern - Social Integrations",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -67866,7 +67866,7 @@
         "company_name": "MiQ",
         "id": "3617fa2e-ae06-43c0-bf7a-0947fbc94b35",
         "title": "Trading \u2013 Summer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -77016,7 +77016,7 @@
         "company_name": "MiQ",
         "id": "3d67ec7b-632d-4950-8f12-374f59b833db",
         "title": "Trading \u2013 Summer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -78279,7 +78279,7 @@
         "company_name": "SentinelOne",
         "id": "c0116432-5176-4e00-b342-d1f9d18441cd",
         "title": "Data Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -79366,7 +79366,7 @@
         "company_name": "Model N",
         "id": "742fe0ba-fc96-4d0b-b824-efe79b9c55c1",
         "title": "Express Onboarding Services Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -81000,7 +81000,7 @@
         "company_name": "AvePoint",
         "id": "31444375-7191-4633-8d79-0a24c29ea646",
         "title": "Data & AI-Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -81152,7 +81152,7 @@
         "company_name": "Profitero",
         "id": "d844761c-d8c3-4737-b7b2-7e69b2113151",
         "title": "AI Intern \u2013 6 Months FTC",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -81495,7 +81495,7 @@
         "company_name": "Alamar Biosciences",
         "id": "fac16131-841c-4217-96a0-1f07ccb88e79",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -83750,7 +83750,7 @@
         "company_name": "Advanced Technology Services (ATS)",
         "id": "850d68e2-21bb-4b14-9660-bfedf608ad75",
         "title": "Software Engineer I \u2013 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -84427,7 +84427,7 @@
         "company_name": "Waystar",
         "id": "bc0b3e2c-27f2-4501-ad96-9b4ac1e4b465",
         "title": "Application Engineer Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -84446,7 +84446,7 @@
         "company_name": "Waystar",
         "id": "b627a748-5d2a-4f22-b7bc-d3040a68e9e6",
         "title": "Application Engineer Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -84657,7 +84657,7 @@
         "company_name": "Applied Materials",
         "id": "dbe24da9-50bb-4af8-a420-5477c9476523",
         "title": "Technical Documentation Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -84820,6 +84820,63 @@
             "Remote in Canada"
         ],
         "company_url": "https://simplify.jobs/c/Welocalize",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Dynatrace",
+        "id": "226af46e-aa44-41e3-bf50-d5ed07f2f538",
+        "title": "Software Engineer \u2013 Internship",
+        "active": true,
+        "terms": [
+            "Spring 2024"
+        ],
+        "date_updated": 1716304077,
+        "date_posted": 1716304077,
+        "url": "https://jobs.smartrecruiters.com/Dynatrace1/743999989193139",
+        "locations": [
+            "Stamford, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/Dynatrace",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Intel",
+        "id": "855e99cf-c9fa-4fe8-9f3a-3c8cea23ac8c",
+        "title": "Development Tools Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Winter 2024"
+        ],
+        "date_updated": 1716247603,
+        "date_posted": 1716247603,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/Canada-Toronto/Development-Tools-Software-Engineer-Intern_JR0263785-1",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Splunk",
+        "id": "6e8cb3d3-405a-4bcc-b648-e9d5248165f4",
+        "title": "Software Engineer Intern/Co-op - Backend/Full-stack - Fall 2024",
+        "active": true,
+        "terms": [
+            "Fall 2024"
+        ],
+        "date_updated": 1716247316,
+        "date_posted": 1716247316,
+        "url": "https://jobs.jobvite.com/splunk-careers/job/oPqftfwH?nl=1&nl=1&fr=false",
+        "locations": [
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Splunk",
         "is_visible": true,
         "sponsorship": "Other"
     }
