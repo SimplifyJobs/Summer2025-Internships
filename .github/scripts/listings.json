@@ -15632,7 +15632,7 @@
         "company_name": "Dun & Bradstreet",
         "id": "ba806a34-bbfb-455d-8197-c952d326a2a2",
         "title": "2024 Summer Internship Program - Technology",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -42691,7 +42691,7 @@
         "company_name": "Recursion Pharmaceuticals",
         "id": "9e234a88-0053-47f8-bdb1-0985cfc2280c",
         "title": "Machine Learning Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -57562,7 +57562,7 @@
         "company_name": "Pinterest",
         "id": "f6bee664-2e17-435c-bb35-fa1717e35c41",
         "title": "Software Engineering Intern 2024 - Toronto",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -79518,7 +79518,7 @@
         "company_name": "Larian Studios",
         "id": "77201403-cc46-4edc-a8d6-ebb42a9ff7d2",
         "title": "Gameplay Programmer Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -81514,7 +81514,7 @@
         "company_name": "Western Digital",
         "id": "4c6c8627-339f-431f-9d71-c6ce24e9c27b",
         "title": "Summer Intern 2024 \u2013 Software Engineering Internship - Firmware",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -82252,7 +82252,7 @@
         "company_name": "Advanced Technology Services (ATS)",
         "id": "f8d48cfe-fc77-419a-b87d-a52d8ea68e32",
         "title": "Engineering Summer Paid Intern - Pontiac - Illinois",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -82290,7 +82290,7 @@
         "company_name": "Divergent",
         "id": "29b82044-fdb2-4016-b4f1-db355ed90ff4",
         "title": "Software Developer Intern - Robotic Motion Planning",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -83866,7 +83866,7 @@
         "company_name": "Cask Technologies",
         "id": "45b93b76-200b-48ed-94e7-8e4115222c60",
         "title": "TYCOM C5I Integration Program Coordinator \u2013 Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -84695,7 +84695,7 @@
         "company_name": "Skydio",
         "id": "269d2588-ec54-4eca-8321-63f8749d4dfb",
         "title": "Fullstack Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -84877,6 +84877,82 @@
             "Remote in Canada"
         ],
         "company_url": "https://simplify.jobs/c/Splunk",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Leidos",
+        "id": "401a7196-e8c6-4f7d-ab95-61e64974b08f",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1716390836,
+        "date_posted": 1716390836,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Columbia-MD/Software-Engineer-Intern_R-00136137",
+        "locations": [
+            "Columbia, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Wade Trim",
+        "id": "07d0b699-e882-4faf-8b4d-6b1deef34f10",
+        "title": "IT \u2013 AI Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1716390727,
+        "date_posted": 1716390727,
+        "url": "https://jobs.lever.co/wadetrim/7b6c544d-4e9b-4bef-92b8-d827f81886e4/apply",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Wade-Trim",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Top Hat",
+        "id": "922c811f-19b0-402c-914f-ad30dfe45c81",
+        "title": "Full Stack Developer Co-op - Fall term - 2024",
+        "active": true,
+        "terms": [
+            "Fall 2024"
+        ],
+        "date_updated": 1716390633,
+        "date_posted": 1716390633,
+        "url": "https://jobs.lever.co/tophat/411be517-a529-4512-9591-ae1a889627c8/apply",
+        "locations": [
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/TopHat",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Mercedes-Benz",
+        "id": "75ac5225-58de-4e21-bb42-03ab16c3f6d5",
+        "title": "Engineering Intern - Middleware",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1716362686,
+        "date_posted": 1716362686,
+        "url": "https://jobs.lever.co/MBRDNA/125773a3-9902-4cb1-8bd8-7d9eb0830815/apply",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Mercedes-Benz",
         "is_visible": true,
         "sponsorship": "Other"
     }
