@@ -67503,7 +67503,7 @@
         "company_name": "IPG DXTRA",
         "id": "990d40f2-e226-4b0d-930f-446a115efc43",
         "title": "Data Science Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -67637,7 +67637,7 @@
         "company_name": "Weber Shandwick",
         "id": "fb8ed809-74ce-4a06-b68a-c6148fa5bb9c",
         "title": "Data Science Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -80666,7 +80666,7 @@
         "company_name": "Cadence Design Systems",
         "id": "a013ca3b-fcac-41e5-9b81-3f87e6416c16",
         "title": "Tensilica Embedded Systems Programming Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -80837,7 +80837,7 @@
         "company_name": "Talkspace",
         "id": "ee517b2c-2dbf-407f-bae7-b486be506412",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -81038,7 +81038,7 @@
         "company_name": "Zuru",
         "id": "ab62022e-cc11-4a0a-a72f-43cbd141a2df",
         "title": "Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -84522,7 +84522,7 @@
         "company_name": "Seurat Technologies",
         "id": "10886530-ffbc-41a0-b3f0-a252ac4ef66d",
         "title": "Sustainability Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -84923,7 +84923,7 @@
         "company_name": "Top Hat",
         "id": "922c811f-19b0-402c-914f-ad30dfe45c81",
         "title": "Full Stack Developer Co-op - Fall term - 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2024"
         ],
@@ -84953,6 +84953,139 @@
             "Sunnyvale, CA"
         ],
         "company_url": "https://simplify.jobs/c/Mercedes-Benz",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Intel",
+        "id": "7109e729-1043-4852-84ae-f7486f50a967",
+        "title": "Software Design Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1716420333,
+        "date_posted": 1716420333,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/Virtual-US/Software-Design-Engineer-Intern_JR0263797",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Intel",
+        "id": "b4052c34-1361-4784-b1a6-fd820c95b1e3",
+        "title": "CS \u2013 Data Scientist / Machine Learning Engineer Student",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1716420320,
+        "date_posted": 1716420320,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Arizona-Phoenix/CS---Data-Scientist---Machine-Learning-Engineer-Student_JR0264259",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Leidos",
+        "id": "68f77844-caf2-4602-a7ec-ace9faa7d4b4",
+        "title": "Simulation Development Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1716419734,
+        "date_posted": 1716419734,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Orlando-FL/Simulation-Development-Intern_R-00136145",
+        "locations": [
+            "Orlando, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "StackAdapt",
+        "id": "b726250e-46ba-4b90-bd09-6f68a096151e",
+        "title": "Data Analyst Intern - Toronto",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1716419469,
+        "date_posted": 1716419469,
+        "url": "https://jobs.lever.co/stackadapt/1490b4f9-407d-44c7-a8b6-b8cb5be79d14/apply",
+        "locations": [
+            "Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/StackAdapt",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Onbe",
+        "id": "fc9352b1-1fac-41fc-a8b1-76df0d7b6781",
+        "title": "Associate Data Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1716419253,
+        "date_posted": 1716419253,
+        "url": "https://www.onbe.com/company/careers?gh_jid=4371956006",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Onbe",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Onbe",
+        "id": "9555c2cd-a80a-4c06-a6d7-e6fd70178fc5",
+        "title": "Associate Data Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1716419252,
+        "date_posted": 1716419252,
+        "url": "https://www.onbe.com/company/careers?gh_jid=4371159006",
+        "locations": [
+            "Wheeling, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Onbe",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Onbe",
+        "id": "79acc232-25b4-465e-b0c2-42e5454eedfc",
+        "title": "Associate Data Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1716419253,
+        "date_posted": 1716419253,
+        "url": "https://www.onbe.com/company/careers?gh_jid=4371955006",
+        "locations": [
+            "Conshohocken, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Onbe",
         "is_visible": true,
         "sponsorship": "Other"
     }
