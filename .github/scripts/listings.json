@@ -58126,7 +58126,7 @@
         "company_name": "Acorns",
         "id": "994578e2-a5ec-4b5b-9a50-cbd0e787fe65",
         "title": "Software Engineer \u2013 Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -69886,7 +69886,7 @@
         "company_name": "Bose",
         "id": "73573b02-23c3-44e2-8f8e-374f67d4344b",
         "title": "Algorithms Software Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -79004,7 +79004,7 @@
         "company_name": "Eulerity",
         "id": "d420dfa7-73b6-4526-9be7-5388a10a8215",
         "title": "Web Developer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -84345,7 +84345,7 @@
         "company_name": "Weber Shandwick",
         "id": "c477a44c-7251-43f9-833c-2dd7e1525041",
         "title": "Capital Markets Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -84364,7 +84364,7 @@
         "company_name": "IPG DXTRA",
         "id": "85a0533e-7783-43cc-834e-8dc1a9e27d70",
         "title": "Capital Markets Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -85086,6 +85086,180 @@
             "Conshohocken, PA"
         ],
         "company_url": "https://simplify.jobs/c/Onbe",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Konrad Group",
+        "id": "5b63f5b0-9378-45e8-9a63-c83684b93f6a",
+        "title": "Software Developer Intern - May 2025 - 4 months",
+        "active": true,
+        "terms": [
+            "Spring 2025"
+        ],
+        "date_updated": 1716563440,
+        "date_posted": 1716563440,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=5998606003",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Konrad-Group",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Konrad Group",
+        "id": "534314ca-4dc1-46d6-9732-1f759c42383d",
+        "title": "Software Developer Intern - May 2025 - 4 months",
+        "active": true,
+        "terms": [
+            "Spring 2025"
+        ],
+        "date_updated": 1716563439,
+        "date_posted": 1716563439,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=5997801003",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Konrad-Group",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Labelbox",
+        "id": "4c15f800-a6d7-4c26-af12-a079c87e16fa",
+        "title": "AI Tutor \u2013 K-12 Education Expert - Project based",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1716535154,
+        "date_posted": 1716535154,
+        "url": "https://boards.greenhouse.io/labelbox/jobs/4372466007",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Labelbox",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Bank of Montreal (BMO)",
+        "id": "41513d7a-7e95-4848-bbf5-07bbf59a624a",
+        "title": "Software Developer \u2013 Internship - Fall 2024 - 4 months",
+        "active": true,
+        "terms": [
+            "Fall 2024"
+        ],
+        "date_updated": 1716534413,
+        "date_posted": 1716534413,
+        "url": "https://bmo.wd3.myworkdayjobs.com/External/job/San-Ramon-CA-USA/Software-Developer--Fall-2024--Internship----4-months_R240014421",
+        "locations": [
+            "San Ramon, CA",
+            "Tempe, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/BMO",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "NimbleRx",
+        "id": "0449aee1-7363-4a62-9a1c-c54ea5b94859",
+        "title": "Software Engineer Intern - Fall Session - August - December 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024",
+            "Fall 2024",
+            "Winter 2025"
+        ],
+        "date_updated": 1716506299,
+        "date_posted": 1716506299,
+        "url": "https://jobs.lever.co/nimblerx/2e79c00e-cd20-4517-b109-f26755103817/apply",
+        "locations": [
+            "San Carlos, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NimbleRx",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Elevance Health",
+        "id": "cc107e5a-6982-40fd-976a-a2f3538e1c0f",
+        "title": "Enterprise Performance Digital Transformation Internship - Undergraduate",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1716506177,
+        "date_posted": 1716506177,
+        "url": "https://elevancehealth.wd1.myworkdayjobs.com/en-US/ANT/job/GA-ATLANTA-740-W-PEACHTREE-ST-NW/Enterprise-Performance-Digital-Transformation-Internship--Undergraduate_JR118187",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/elevance-health",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Leidos",
+        "id": "c7e7fee5-2e87-4583-b844-d14cbfd68ffe",
+        "title": "Transportation Computer Science Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1716506096,
+        "date_posted": 1716506096,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Transportation-Computer-Science-Intern_R-00136329",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Labelbox",
+        "id": "5155ce47-63b5-49f8-a1ee-883ae242b9c2",
+        "title": "AI Tutor \u2013 Indonesian - Project based",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1716513533,
+        "date_posted": 1716391161,
+        "url": "https://boards.greenhouse.io/labelbox/jobs/4382714007",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Labelbox",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Labelbox",
+        "id": "11a9347f-a40d-4543-96bd-744cd11b0c1b",
+        "title": "AI Tutor \u2013 Portuguese - Project based",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1716512899,
+        "date_posted": 1716391160,
+        "url": "https://boards.greenhouse.io/labelbox/jobs/4382724007",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Labelbox",
         "is_visible": true,
         "sponsorship": "Other"
     }
