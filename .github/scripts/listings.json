@@ -85281,5 +85281,25 @@
         "company_url": "https://simplify.jobs/c/Plexus",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1716733089,
+        "url": "https://tally.so/r/woAg6X",
+        "company_name": "VecFlow AI",
+        "title": "Full-Stack, Backend, ML Engineering Intern",
+        "locations": [
+            "San Francisco, CA",
+            "Remote"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "source": "rutvikrau21",
+        "id": "55e70b7c-606d-4c5f-a47b-7ac80d182df7",
+        "date_posted": 1716733089,
+        "company_url": "",
+        "is_visible": true
     }
 ]
