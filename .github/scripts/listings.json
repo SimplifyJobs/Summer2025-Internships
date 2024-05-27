@@ -56500,7 +56500,7 @@
         "company_name": "Openmesh Networks",
         "id": "036eeff8-4d34-40de-946b-dab69c1a4f7c",
         "title": "Junior Developer in Consensus Algorithms Intern - Blockchain Consensus and Development",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -81380,7 +81380,7 @@
         "company_name": "Walmart",
         "id": "083638b3-442e-4fe9-98e4-b47e537fba96",
         "title": "2025 Summer Intern: Software Engineer II",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -84847,7 +84847,7 @@
         "company_name": "Intel",
         "id": "855e99cf-c9fa-4fe8-9f3a-3c8cea23ac8c",
         "title": "Development Tools Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2024"
         ],
@@ -85211,7 +85211,7 @@
         "company_name": "Leidos",
         "id": "c7e7fee5-2e87-4583-b844-d14cbfd68ffe",
         "title": "Transportation Computer Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -85301,5 +85301,43 @@
         "date_posted": 1716733089,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Wave Financial",
+        "id": "6b338bb7-350e-43c7-84ee-f413e37b59cd",
+        "title": "Software Engineer \u2013 Co-op - Fall",
+        "active": true,
+        "terms": [
+            "Fall 2024"
+        ],
+        "date_updated": 1716823514,
+        "date_posted": 1716823514,
+        "url": "https://jobs.lever.co/waveapps/6037c8ee-3482-475b-8bce-eaf3b45424aa/apply",
+        "locations": [
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/WaveFinancial",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Waystar",
+        "id": "445a29d3-795f-480d-abe6-9d7ae209cfb4",
+        "title": "Waystar Internship - Instructional Design",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1716794662,
+        "date_posted": 1716794662,
+        "url": "https://waystar.wd1.myworkdayjobs.com/Waystar/job/Louisville-KY/Instructional-Design-Intern_R1997-1",
+        "locations": [
+            "Louisville, KY"
+        ],
+        "company_url": "https://simplify.jobs/c/Waystar",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
