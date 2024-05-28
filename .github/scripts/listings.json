@@ -17753,7 +17753,7 @@
         "company_name": "AeroVect",
         "id": "e111bc73-6d16-412b-8e8a-f3543823eb5f",
         "title": "Perception Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2024"
         ],
@@ -17791,7 +17791,7 @@
         "company_name": "AeroVect",
         "id": "42e05c24-b77d-45ce-ab36-97be8e968fe4",
         "title": "Infrastructure Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2024"
         ],
@@ -41676,7 +41676,7 @@
         "company_name": "Zoox",
         "id": "240f0e84-5a0f-44cb-a527-00f6db58716d",
         "title": "Firmware Tools \u2013 Software Engineering Internship/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -54949,7 +54949,7 @@
         "company_name": "AeroVect",
         "id": "13333b3e-a688-439d-91ad-5670f119fe4f",
         "title": "Planning Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -67580,7 +67580,7 @@
         "company_name": "G2",
         "id": "0d1b3480-f484-4ad1-9691-892d510daaad",
         "title": "Summer Intern: Software Engineering - Ruby on Rails",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -81076,7 +81076,7 @@
         "company_name": "Visier Solutions",
         "id": "f606ebec-229d-452a-a0d8-3f5ca100a588",
         "title": "Software Developer Co-op positions - Sept 2024 - May 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024"
         ],
@@ -81304,7 +81304,7 @@
         "company_name": "Sentry",
         "id": "45de6b8f-0206-4d7c-92e1-92c2e11f1344",
         "title": "Software Engineer Intern - Fall 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2024"
         ],
@@ -81400,7 +81400,7 @@
         "company_name": "Cloudflare",
         "id": "1f8b685c-de02-45ed-b17a-5f055e64a2e5",
         "title": "Cybersecurity Analytics Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -84866,7 +84866,7 @@
         "company_name": "Splunk",
         "id": "6e8cb3d3-405a-4bcc-b648-e9d5248165f4",
         "title": "Software Engineer Intern/Co-op - Backend/Full-stack - Fall 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2024"
         ],
@@ -84885,7 +84885,7 @@
         "company_name": "Leidos",
         "id": "401a7196-e8c6-4f7d-ab95-61e64974b08f",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -84980,7 +84980,7 @@
         "company_name": "Intel",
         "id": "b4052c34-1361-4784-b1a6-fd820c95b1e3",
         "title": "CS \u2013 Data Scientist / Machine Learning Engineer Student",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -84999,7 +84999,7 @@
         "company_name": "Leidos",
         "id": "68f77844-caf2-4602-a7ec-ace9faa7d4b4",
         "title": "Simulation Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -85018,7 +85018,7 @@
         "company_name": "StackAdapt",
         "id": "b726250e-46ba-4b90-bd09-6f68a096151e",
         "title": "Data Analyst Intern - Toronto",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -85268,7 +85268,7 @@
         "company_name": "Plexus",
         "id": "097b7867-97bd-4df2-aad5-d57af4defb2a",
         "title": "Intern \u2013 Software Engineer - Spring 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025"
         ],
@@ -85307,7 +85307,7 @@
         "company_name": "Wave Financial",
         "id": "6b338bb7-350e-43c7-84ee-f413e37b59cd",
         "title": "Software Engineer \u2013 Co-op - Fall",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2024"
         ],
@@ -85337,6 +85337,82 @@
             "Louisville, KY"
         ],
         "company_url": "https://simplify.jobs/c/Waystar",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Leidos",
+        "id": "ea10ad93-c030-4f4d-91dc-6732f67edce7",
+        "title": "Generalizing Specialist \u2013 Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1716909668,
+        "date_posted": 1716909668,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Reston-VA/Generalizing-Specialist---Intern_R-00130316",
+        "locations": [
+            "Reston, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Bank of Montreal (BMO)",
+        "id": "83c9904c-b1cb-4389-b99d-2ecd482098e3",
+        "title": "Software Developer \u2013 Co-op/Internship - Fall 2024 - 8 Months",
+        "active": true,
+        "terms": [
+            "Fall 2024"
+        ],
+        "date_updated": 1716851265,
+        "date_posted": 1716851265,
+        "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Software-Developer--Fall-2024--Co-op-Internship----8-Months_R240013787-2",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/BMO",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Bank of Montreal (BMO)",
+        "id": "2f579a95-47bf-460f-96bb-9629409290b8",
+        "title": "Software Developer \u2013 Co-op/Internship - Fall 2024 - 4 Months",
+        "active": true,
+        "terms": [
+            "Fall 2024"
+        ],
+        "date_updated": 1716851264,
+        "date_posted": 1716851264,
+        "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Software-Developer--Fall-2024--Co-op-Internship----4-Months_R240013125-3",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/BMO",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Bank of Montreal (BMO)",
+        "id": "20bfd7ac-342f-48d8-b80a-643210f1604f",
+        "title": "Data Analyst \u2013 Co-op/Internship - Fall 2024 - 4 Months",
+        "active": true,
+        "terms": [
+            "Fall 2024"
+        ],
+        "date_updated": 1716851264,
+        "date_posted": 1716851264,
+        "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Data-Analyst--Fall-2024--Co-op-Internship----4-Months_R240013126-3",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/BMO",
         "is_visible": true,
         "sponsorship": "Other"
     }
