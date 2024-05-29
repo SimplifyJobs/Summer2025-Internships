@@ -78144,7 +78144,7 @@
         "company_name": "Recursion Pharmaceuticals",
         "id": "7b26ef27-5741-45eb-825f-7496475cc136",
         "title": "Machine Learning Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -79613,7 +79613,7 @@
         "company_name": "Bolt",
         "id": "191f5621-3b0b-4102-9e1a-d39aceed58b7",
         "title": "Product Analytics Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -84212,7 +84212,7 @@
         "company_name": "Autodesk",
         "id": "42fcd08f-7530-4e78-a699-313040062f9f",
         "title": "Software Developer Intern - Fall 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2024"
         ],
@@ -84231,7 +84231,7 @@
         "company_name": "Autodesk",
         "id": "6c07d54f-f9ff-424f-ba63-c700619211ff",
         "title": "Software Developer Intern - Fall",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2024"
         ],
@@ -84250,7 +84250,7 @@
         "company_name": "Autodesk",
         "id": "04765278-eae0-44eb-961a-9756814769a4",
         "title": "Software Developer \u2013 Intern - Fall 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2024"
         ],
@@ -84503,7 +84503,7 @@
         "company_name": "Autodesk",
         "id": "f0f34472-ae3e-4d8e-8262-016abf6c4078",
         "title": "Software Developer \u2013 Intern - Fall",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2024"
         ],
@@ -85409,6 +85409,120 @@
         "date_updated": 1716851264,
         "date_posted": 1716851264,
         "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Data-Analyst--Fall-2024--Co-op-Internship----4-Months_R240013126-3",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/BMO",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "ScienceLogic",
+        "id": "30b8be5e-0449-43be-ba83-9abd0ee6316f",
+        "title": "Engineering Analyst \u2013 Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1716995926,
+        "date_posted": 1716995926,
+        "url": "https://boards.greenhouse.io/sciencelogic/jobs/5990687",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/ScienceLogic",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Matterport",
+        "id": "69527505-0313-4742-82a5-513cd86fa26d",
+        "title": "Computer Vision / Machine Learning Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1716967664,
+        "date_posted": 1716967664,
+        "url": "https://jobs.lever.co/matterport/3ff11eb5-8973-4f6b-bcfb-f6da14b4d55f/apply",
+        "locations": [
+            "Remote in UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Matterport",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Mercedes-Benz",
+        "id": "fe7cb500-43c6-4f9b-8531-a73fe0b3febb",
+        "title": "Machine Learning Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1716938726,
+        "date_posted": 1716938726,
+        "url": "https://jobs.lever.co/MBRDNA/3c555740-adf3-4b25-b3ed-fd6e34beaea1/apply",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Mercedes-Benz",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Sensata",
+        "id": "aca60906-1ab9-4ea2-8cce-8a69ac012515",
+        "title": "Software Engineering Intern - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1716938705,
+        "date_posted": 1716938705,
+        "url": "https://sensata.wd1.myworkdayjobs.com/en-US/Sensata-Careers/job/Bloomington-MN/Software-Engineering-Intern---Summer-2024_IRC93263",
+        "locations": [
+            "Bloomington, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/sensata-tech",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Leidos",
+        "id": "84f7d901-b4ab-4fb4-8362-dc97e60b7c6e",
+        "title": "Software Engineer Intern - Summer",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1716938499,
+        "date_posted": 1716938499,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Gaithersburg-MD/Software-Engineer-Intern---Summer_R-00136378-1",
+        "locations": [
+            "Gaithersburg, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Bank of Montreal (BMO)",
+        "id": "fd17c5b1-da75-4881-9f6b-2f74aaf6f330",
+        "title": "Data Analyst Fall 2024 \u2013 Co-op/Internship - 4 Months",
+        "active": true,
+        "terms": [
+            "Fall 2024"
+        ],
+        "date_updated": 1716937683,
+        "date_posted": 1716937683,
+        "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Data-Analyst-Fall-2024--Co-op-Internship----4-Months_R240013242-1",
         "locations": [
             "Toronto, ON, Canada"
         ],
