@@ -17447,7 +17447,7 @@
         "company_name": "Rugged Robotics",
         "id": "461047bd-3521-43bb-888a-de27a845a135",
         "title": "Robotic Software Intern/Co-op - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -69886,7 +69886,7 @@
         "company_name": "Bose",
         "id": "73573b02-23c3-44e2-8f8e-374f67d4344b",
         "title": "Algorithms Software Engineer Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -74095,7 +74095,7 @@
         "company_name": "Eulerity",
         "id": "029c4741-2e63-4f13-9053-de27d7221db9",
         "title": "Backend Java Developer Summer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -83501,7 +83501,7 @@
         "company_name": "Bracebridge Capital",
         "id": "48113f8e-71e1-419c-9245-8ab2314fe629",
         "title": "2025 Summer Investment Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -85345,7 +85345,7 @@
         "company_name": "Leidos",
         "id": "ea10ad93-c030-4f4d-91dc-6732f67edce7",
         "title": "Generalizing Specialist \u2013 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -85421,7 +85421,7 @@
         "company_name": "ScienceLogic",
         "id": "30b8be5e-0449-43be-ba83-9abd0ee6316f",
         "title": "Engineering Analyst \u2013 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -85440,7 +85440,7 @@
         "company_name": "Matterport",
         "id": "69527505-0313-4742-82a5-513cd86fa26d",
         "title": "Computer Vision / Machine Learning Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -85478,7 +85478,7 @@
         "company_name": "Sensata",
         "id": "aca60906-1ab9-4ea2-8cce-8a69ac012515",
         "title": "Software Engineering Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -85527,6 +85527,143 @@
             "Toronto, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/BMO",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Sylvera",
+        "id": "04b0c7e9-e941-4445-96c4-c324caa8057a",
+        "title": "Product Data Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1717082204,
+        "date_posted": 1717082204,
+        "url": "https://jobs.lever.co/sylvera/1bd23cce-95d4-46b6-b343-5f093979c2c4/apply",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sylvera",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "HKS",
+        "id": "b40d81f7-3143-48d9-8c09-f40daf0f189b",
+        "title": "Marketing Communications Data Management Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024",
+            "Fall 2024"
+        ],
+        "date_updated": 1717082077,
+        "date_posted": 1717082077,
+        "url": "https://hksinc.wd5.myworkdayjobs.com/HKSStudent/job/Dallas/Marketing-Communications-Data-Management-Intern_2024-02208-1",
+        "locations": [
+            "Dallas, TX",
+            "Richmond, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/HKS",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Smarsh",
+        "id": "11b2132e-9465-4c30-b6e6-4f485d206d83",
+        "title": "Data Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1717053208,
+        "date_posted": 1717053208,
+        "url": "https://jobs.lever.co/smarsh/92b369cd-3774-45a1-ad65-2487a3e8d4a8/apply",
+        "locations": [
+            "Pleasanton, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Smarsh",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Intel",
+        "id": "a4421105-97a2-4c2e-ab37-3b90d87b1e91",
+        "title": "Firmware Developer Co-op",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1717025224,
+        "date_posted": 1717025224,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/Canada-Vancouver/Firmware-Developer-Co-op_JR0264781",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Intel",
+        "id": "6ad6ff01-f079-4d01-ac3c-d079e9d5a3ee",
+        "title": "Development Tools Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Winter 2024"
+        ],
+        "date_updated": 1717025209,
+        "date_posted": 1717025209,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/Canada-Toronto/Development-Tools-Software-Engineer-Intern_JR0263678-1",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Intel",
+        "id": "7f330418-5cb6-4fa2-8b52-dac0530e0f9f",
+        "title": "Software Development \u2013 Undergraduate Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1717025207,
+        "date_posted": 1717025207,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Software-Development---Undergraduate-Intern_JR0264850",
+        "locations": [
+            "Austin, TX",
+            "Hillsboro, OR",
+            "Folsom, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Management Leadership For Tomorrow",
+        "id": "7a901153-a445-4721-930d-04492cd94390",
+        "title": "Software Development Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1717024276,
+        "date_posted": 1717024276,
+        "url": "https://jobs.lever.co/ml4t/a9c22820-6dd6-4c02-93b1-c4a596be8cfb/apply",
+        "locations": [
+            "Bethesda, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Management-Leadership-For-Tomorrow",
         "is_visible": true,
         "sponsorship": "Other"
     }
