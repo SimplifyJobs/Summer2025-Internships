@@ -46149,7 +46149,7 @@
         "company_name": "Hewlett Packard (HP)",
         "id": "0b1d8a2d-8056-4d1a-8608-a98bf4188e8e",
         "title": "Personal Systems Artificial Intelligence Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024"
         ],
@@ -65585,7 +65585,7 @@
         "company_name": "Schonfeld",
         "id": "8e2e160c-a5cb-4b9c-aecf-539a9eeca672",
         "title": "2024 Software Developer \u2013 Sophomore Summer Internship - Treasury",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -69886,7 +69886,7 @@
         "company_name": "Bose",
         "id": "73573b02-23c3-44e2-8f8e-374f67d4344b",
         "title": "Algorithms Software Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -79023,7 +79023,7 @@
         "company_name": "Cadence Design Systems",
         "id": "016519f9-a773-4e2b-9cfb-75a4eb63027a",
         "title": "IT Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024"
         ],
@@ -80647,7 +80647,7 @@
         "company_name": "Intel",
         "id": "c1d8751d-c0b7-474e-986d-d036aa4c6c1f",
         "title": "Compiler Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2024"
         ],
@@ -84345,7 +84345,7 @@
         "company_name": "Weber Shandwick",
         "id": "c477a44c-7251-43f9-833c-2dd7e1525041",
         "title": "Capital Markets Intern - Summer 2024",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -84364,7 +84364,7 @@
         "company_name": "IPG DXTRA",
         "id": "85a0533e-7783-43cc-834e-8dc1a9e27d70",
         "title": "Capital Markets Intern - Summer 2024",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -85192,7 +85192,7 @@
         "company_name": "Elevance Health",
         "id": "cc107e5a-6982-40fd-976a-a2f3538e1c0f",
         "title": "Enterprise Performance Digital Transformation Internship - Undergraduate",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -85497,7 +85497,7 @@
         "company_name": "Leidos",
         "id": "84f7d901-b4ab-4fb4-8362-dc97e60b7c6e",
         "title": "Software Engineer Intern - Summer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -85594,7 +85594,7 @@
         "company_name": "Intel",
         "id": "a4421105-97a2-4c2e-ab37-3b90d87b1e91",
         "title": "Firmware Developer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -85653,7 +85653,7 @@
         "company_name": "Management Leadership For Tomorrow",
         "id": "7a901153-a445-4721-930d-04492cd94390",
         "title": "Software Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -85664,6 +85664,162 @@
             "Bethesda, MD"
         ],
         "company_url": "https://simplify.jobs/c/Management-Leadership-For-Tomorrow",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Capstone Investment Advisors",
+        "id": "3ca62825-c9a6-455d-a179-5f6f13de0a4d",
+        "title": "2025 Summer Internship - Investment Quant Development",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1717168965,
+        "date_posted": 1717168965,
+        "url": "https://boards.greenhouse.io/capstoneinvestmentadvisors/jobs/7470027002",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/CapstoneCo",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Capstone Investment Advisors",
+        "id": "f4603ba7-0444-4908-b2a2-da4c2a5ae98a",
+        "title": "2025 Summer Internship - Software Engineering",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1717168964,
+        "date_posted": 1717168964,
+        "url": "https://boards.greenhouse.io/capstoneinvestmentadvisors/jobs/7470796002",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/CapstoneCo",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Capstone Investment Advisors",
+        "id": "7679edbe-8e9d-489a-b273-3488d62af0ad",
+        "title": "2025 Summer Internship - Investment Quant Development",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1717168964,
+        "date_posted": 1717168964,
+        "url": "https://boards.greenhouse.io/capstoneinvestmentadvisors/jobs/7470028002",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/CapstoneCo",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Capstone Investment Advisors",
+        "id": "46169ce8-1f91-4f15-bac4-a1ca48239e86",
+        "title": "2025 Summer Internship - Software Engineering",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1717168965,
+        "date_posted": 1717168965,
+        "url": "https://boards.greenhouse.io/capstoneinvestmentadvisors/jobs/7470795002",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/CapstoneCo",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Leidos",
+        "id": "5277b479-bbd7-46ec-bc90-a4a26b81e5af",
+        "title": "Generalizing Specialist \u2013 Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1717168772,
+        "date_posted": 1717168772,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Reston-VA/Generalizing-Specialist---Intern_R-00136681",
+        "locations": [
+            "Reston, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "SandboxAQ",
+        "id": "31e7e37f-545e-4ded-aa2a-5fa80952da2f",
+        "title": "AI Backend Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024",
+            "Fall 2024",
+            "Winter 2025"
+        ],
+        "date_updated": 1717139770,
+        "date_posted": 1717139770,
+        "url": "https://www.sandboxaq.com/careers-list?gh_jid=5192545004",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/SandboxAQ",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Telesat",
+        "id": "9278c014-56c9-4c0c-8ddf-a1968cab0506",
+        "title": "LS178 \u2013 Software Engineering Coop - September - December 2024",
+        "active": true,
+        "terms": [
+            "Fall 2024",
+            "Winter 2025"
+        ],
+        "date_updated": 1717110835,
+        "date_posted": 1717110835,
+        "url": "https://jobs.lever.co/telesat/88459794-5dd4-47c6-a36c-b8fe3f1fcba1/apply",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Telesat",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Aquatic Capital Management",
+        "id": "9489bce0-5fcd-45d3-8146-b479668b7153",
+        "title": "Quantitative Researcher \u2013 Early Career - 2025",
+        "active": true,
+        "terms": [
+            "Fall 2024"
+        ],
+        "date_updated": 1717110357,
+        "date_posted": 1717110357,
+        "url": "https://boards.greenhouse.io/aquaticcapitalmanagement/jobs/7468705002",
+        "locations": [
+            "Chicago, IL",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Aquatic-Capital-Management",
         "is_visible": true,
         "sponsorship": "Other"
     }
