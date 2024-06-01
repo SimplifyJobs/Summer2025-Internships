@@ -79175,7 +79175,7 @@
         "company_name": "Virta Health",
         "id": "c41dcc38-9ae2-4303-ae60-1c23da860d01",
         "title": "Applied AI Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -79194,7 +79194,7 @@
         "company_name": "Virta Health",
         "id": "fc0dd1b2-61e7-48ae-a130-60fbe59555e7",
         "title": "Insights & Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -80761,7 +80761,7 @@
         "company_name": "Cadence Design Systems",
         "id": "4490aad8-30cb-4b5c-8d1e-575b91723ad8",
         "title": "Software Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -81899,7 +81899,7 @@
         "company_name": "Metagenomi",
         "id": "447f1f97-97be-49a4-829e-85752a596460",
         "title": "NGS Data Analysis Optimization \u2013 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -83809,7 +83809,7 @@
         "company_name": "Cadence Design Systems",
         "id": "15b37ec3-9d69-42af-bf2a-c65236bfacfb",
         "title": "Scientific Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -85765,7 +85765,7 @@
     {
         "source": "Simplify",
         "company_name": "SandboxAQ",
-        "id": "31e7e37f-545e-4ded-aa2a-5fa80952da2f",
+        "id": "8310cc49-cb53-4d9e-9c89-a4e523c03c05",
         "title": "AI Backend Software Engineer Intern",
         "active": true,
         "terms": [
@@ -85820,6 +85820,120 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/Aquatic-Capital-Management",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Kumo",
+        "id": "00cc3553-0ef7-4a6b-b63a-6412c1a7272c",
+        "title": "Software Engineer \u2013 Internship",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1717230371,
+        "date_posted": 1717230371,
+        "url": "https://jobs.lever.co/kumo/b4fe11f1-a9dd-4d52-a69e-16da25fced0a/apply",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Kumo",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Capstone Investment Advisors",
+        "id": "597adb70-318e-4245-984e-f406d68775c8",
+        "title": "2025 Summer Internship - Investment Research",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1717197693,
+        "date_posted": 1717197693,
+        "url": "https://boards.greenhouse.io/capstoneinvestmentadvisors/jobs/7470017002",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/CapstoneCo",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Capstone Investment Advisors",
+        "id": "96fe74fe-e85d-4287-8f6e-179539f5532d",
+        "title": "2025 Summer Internship - Investment Research",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1717197693,
+        "date_posted": 1717197693,
+        "url": "https://boards.greenhouse.io/capstoneinvestmentadvisors/jobs/7469982002",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/CapstoneCo",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "May Mobility",
+        "id": "4cbfd3c4-9918-41ce-bfb6-7f7b0b288c06",
+        "title": "Autonomy Intern - Data Science",
+        "active": true,
+        "terms": [
+            "Spring 2024"
+        ],
+        "date_updated": 1717197470,
+        "date_posted": 1717197470,
+        "url": "https://boards.greenhouse.io/maymobility/jobs/7473413002",
+        "locations": [
+            "Ann Arbor, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/May-Mobility",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "TransMarket Group",
+        "id": "4d87183b-3d26-47bf-9f59-f924d23070eb",
+        "title": "Algorithmic Trader Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1717197035,
+        "date_posted": 1717197035,
+        "url": "https://job-boards.greenhouse.io/transmarketgroup/jobs/4389321007",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/TransMarket-Group",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "TransMarket Group",
+        "id": "df854a47-cdbd-4634-a836-c6d9411b23c8",
+        "title": "Quantitative Trader Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1717197033,
+        "date_posted": 1717197033,
+        "url": "https://job-boards.greenhouse.io/transmarketgroup/jobs/4389345007",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/TransMarket-Group",
         "is_visible": true,
         "sponsorship": "Other"
     }
