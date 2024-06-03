@@ -6292,7 +6292,7 @@
         "company_name": "Ramp",
         "id": "5f9b7b9a-7021-40dd-b619-38d144e31a6b",
         "title": "Software Engineer Internship - Backend",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -64602,7 +64602,7 @@
         "company_name": "Pison",
         "id": "3add837d-363a-4ac5-a856-ffcbb3b67e8b",
         "title": "Algorithm Production Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -71044,7 +71044,7 @@
         "company_name": "Pison",
         "id": "d41f6e30-a042-48fe-b9b1-ef5edf0a56e1",
         "title": "Data Collections Intern-Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -80978,7 +80978,7 @@
         "company_name": "Capital One",
         "id": "501c027c-9ee3-4521-8057-24125b912ca4",
         "title": "Labs Incubator Intern - 2024 - 2025 Academic Year",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2024",
             "Winter 2025",
@@ -81457,7 +81457,7 @@
         "company_name": "Bestpass",
         "id": "ee6d8c70-396e-4c1a-b0a8-c13a041229d8",
         "title": "Software Engineer Internship - Summer 2024 - Fleetworthy",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -84828,7 +84828,7 @@
         "company_name": "Dynatrace",
         "id": "226af46e-aa44-41e3-bf50-d5ed07f2f538",
         "title": "Software Engineer \u2013 Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024"
         ],
@@ -85151,7 +85151,7 @@
         "company_name": "Bank of Montreal (BMO)",
         "id": "41513d7a-7e95-4848-bbf5-07bbf59a624a",
         "title": "Software Developer \u2013 Internship - Fall 2024 - 4 months",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2024"
         ],
@@ -85613,7 +85613,7 @@
         "company_name": "Intel",
         "id": "6ad6ff01-f079-4d01-ac3c-d079e9d5a3ee",
         "title": "Development Tools Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2024"
         ],
@@ -85748,7 +85748,7 @@
         "company_name": "Leidos",
         "id": "5277b479-bbd7-46ec-bc90-a4a26b81e5af",
         "title": "Generalizing Specialist \u2013 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -85788,7 +85788,7 @@
         "company_name": "Telesat",
         "id": "9278c014-56c9-4c0c-8ddf-a1968cab0506",
         "title": "LS178 \u2013 Software Engineering Coop - September - December 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2024",
             "Winter 2025"
@@ -85934,6 +85934,197 @@
             "Chicago, IL"
         ],
         "company_url": "https://simplify.jobs/c/TransMarket-Group",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "1Password",
+        "id": "b342f3d6-0842-484b-a6ff-2fc9481d82c4",
+        "title": "Developer Intern - Identity - People & Accounts - Fall 2024",
+        "active": true,
+        "terms": [
+            "Fall 2024"
+        ],
+        "date_updated": 1717427337,
+        "date_posted": 1717427337,
+        "url": "https://jobs.lever.co/1password/e009a8ba-9c59-48ad-94aa-08768b4b80dd/apply",
+        "locations": [
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/1Password",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "1Password",
+        "id": "de1a7724-eb32-480e-be6b-12315cf9deda",
+        "title": "Developer Intern - Billing & Payments Growth - Fall 2024",
+        "active": true,
+        "terms": [
+            "Fall 2024"
+        ],
+        "date_updated": 1717427337,
+        "date_posted": 1717427337,
+        "url": "https://jobs.lever.co/1password/781751df-e91a-4cbe-82a6-581e454bbffa/apply",
+        "locations": [
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/1Password",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "1Password",
+        "id": "c049f67e-d359-47d6-8f5a-d615d4f27be2",
+        "title": "Developer Intern - Xam - Fall 2024",
+        "active": true,
+        "terms": [
+            "Fall 2024"
+        ],
+        "date_updated": 1717427337,
+        "date_posted": 1717427337,
+        "url": "https://jobs.lever.co/1password/7255b4f7-2470-4e8b-98de-5dfff8fec6f4/apply",
+        "locations": [
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/1Password",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "1Password",
+        "id": "aae13529-5b09-46c6-81c3-42821b54e2a9",
+        "title": "Developer Intern - Platforms & Integrations Engineering - Fall 2024",
+        "active": true,
+        "terms": [
+            "Fall 2024"
+        ],
+        "date_updated": 1717427336,
+        "date_posted": 1717427336,
+        "url": "https://jobs.lever.co/1password/0c694b12-bf63-4751-8c22-f517f8f93953/apply",
+        "locations": [
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/1Password",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "1Password",
+        "id": "07614ff0-ef2a-4d95-bd4c-9b9700ec19af",
+        "title": "Data Intern - Data & Analytics Eng - Fall 2024",
+        "active": true,
+        "terms": [
+            "Fall 2024"
+        ],
+        "date_updated": 1717427336,
+        "date_posted": 1717427336,
+        "url": "https://jobs.lever.co/1password/bfd48795-b3da-4f8f-9516-62c104f268fa/apply",
+        "locations": [
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/1Password",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "1Password",
+        "id": "fde063e4-1a72-4a94-81e7-91039a69d056",
+        "title": "Developer Intern - Filling & Saving - Fall 2024",
+        "active": true,
+        "terms": [
+            "Fall 2024"
+        ],
+        "date_updated": 1717427336,
+        "date_posted": 1717427336,
+        "url": "https://jobs.lever.co/1password/9de8a1ac-8c2e-4d2b-8774-98ee7a901975/apply",
+        "locations": [
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/1Password",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "1Password",
+        "id": "9be5035d-e6a2-4b74-bf2b-c919968aaa6d",
+        "title": "Developer Intern - Developer Ecosystems - Fall 2024",
+        "active": true,
+        "terms": [
+            "Fall 2024"
+        ],
+        "date_updated": 1717427335,
+        "date_posted": 1717427335,
+        "url": "https://jobs.lever.co/1password/617b29b0-f26d-40d2-9d33-72f8161f493e/apply",
+        "locations": [
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/1Password",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "1Password",
+        "id": "3261426a-a0b3-481e-87f2-0b2fe17b927a",
+        "title": "Data Intern - Data Analytics - Fall 2024",
+        "active": true,
+        "terms": [
+            "Fall 2024"
+        ],
+        "date_updated": 1717427337,
+        "date_posted": 1717427337,
+        "url": "https://jobs.lever.co/1password/8db20cac-4a4e-4bae-bbc7-cdf307fb1745/apply",
+        "locations": [
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/1Password",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "1Password",
+        "id": "4afb94d0-3548-4850-8722-0939744d3186",
+        "title": "Developer Intern - Admin Onboarding and Provisioning - Fall 2024",
+        "active": true,
+        "terms": [
+            "Fall 2024"
+        ],
+        "date_updated": 1717427338,
+        "date_posted": 1717427338,
+        "url": "https://jobs.lever.co/1password/85314984-131e-4ce5-a660-8c32e39a469e/apply",
+        "locations": [
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/1Password",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Strider Technologies",
+        "id": "94c04a2d-1e34-4da0-9ade-84d5ab966830",
+        "title": "Data Labeling Specialist Internship",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1717442323,
+        "date_posted": 1717198009,
+        "url": "https://boards.greenhouse.io/stridertechnologies/jobs/4374159006",
+        "locations": [
+            "South Jordan, UT",
+            "Vienna, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/StriderTech",
         "is_visible": true,
         "sponsorship": "Other"
     }
