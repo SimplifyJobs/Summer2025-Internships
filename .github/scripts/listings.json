@@ -63479,7 +63479,7 @@
         "company_name": "Truveta",
         "id": "f5ec4e90-c8d6-485e-aa69-6c03cb5fb2a7",
         "title": "Undergraduate Engineering Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -67599,7 +67599,7 @@
         "company_name": "Sila Nanotechnologies",
         "id": "75b66de2-2891-442c-8dc3-ac7cacf70962",
         "title": "Materials Development Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -78393,7 +78393,7 @@
         "company_name": "Logitech",
         "id": "6847c328-e212-4130-8b7c-2679ef0fedee",
         "title": "Sales Ops and Analytics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -81190,7 +81190,7 @@
         "company_name": "Western Digital",
         "id": "62194f18-8d7f-4295-81a7-1d0fbab9cc2f",
         "title": "Fall 2024 Embedded Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2024"
         ],
@@ -85554,7 +85554,7 @@
         "company_name": "HKS",
         "id": "b40d81f7-3143-48d9-8c09-f40daf0f189b",
         "title": "Marketing Communications Data Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024",
             "Fall 2024"
@@ -85767,7 +85767,7 @@
         "company_name": "SandboxAQ",
         "id": "8310cc49-cb53-4d9e-9c89-a4e523c03c05",
         "title": "AI Backend Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024",
             "Fall 2024",
@@ -86125,6 +86125,25 @@
             "Vienna, VA"
         ],
         "company_url": "https://simplify.jobs/c/StriderTech",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "XPeng Motors",
+        "id": "e275a4c8-4f25-40d4-83ec-64c54d6d2dcf",
+        "title": "Planning Machine Learning Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1717456046,
+        "date_posted": 1717456046,
+        "url": "https://boards.greenhouse.io/xpengmotors/jobs/7477339002",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/XPengMotors",
         "is_visible": true,
         "sponsorship": "Other"
     }
