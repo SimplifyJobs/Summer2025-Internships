@@ -85094,7 +85094,7 @@
         "company_name": "Konrad Group",
         "id": "5b63f5b0-9378-45e8-9a63-c83684b93f6a",
         "title": "Software Developer Intern - May 2025 - 4 months",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025"
         ],
@@ -85516,7 +85516,7 @@
         "company_name": "Bank of Montreal (BMO)",
         "id": "fd17c5b1-da75-4881-9f6b-2f74aaf6f330",
         "title": "Data Analyst Fall 2024 \u2013 Co-op/Internship - 4 Months",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2024"
         ],
@@ -85575,7 +85575,7 @@
         "company_name": "Smarsh",
         "id": "11b2132e-9465-4c30-b6e6-4f485d206d83",
         "title": "Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -86144,6 +86144,215 @@
             "Santa Clara, CA"
         ],
         "company_url": "https://simplify.jobs/c/XPengMotors",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Symphony",
+        "id": "cd52283a-ff78-468f-af49-f08f1feef6ff",
+        "title": "Apprentice NLP Model Developer",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1717600378,
+        "date_posted": 1717600378,
+        "url": "https://symphony.com/company/apply?gh_jid=5960285",
+        "locations": [
+            "Belfast, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Symphony-Comm",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Fetch",
+        "id": "ef79c346-144e-4ab4-947b-c594589fce55",
+        "title": "Android \u2013 Apprenticeship - Mobile Engineer",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1717600095,
+        "date_posted": 1717600095,
+        "url": "https://boards.greenhouse.io/fetchrewards/jobs/6011287003",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/FetchRewards",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Fetch",
+        "id": "e34686be-bb0a-48f1-b0b2-15df26e1fb0a",
+        "title": "Backend Engineering \u2013 Apprenticeship",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1717600095,
+        "date_posted": 1717600095,
+        "url": "https://boards.greenhouse.io/fetchrewards/jobs/6011256003",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/FetchRewards",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Fetch",
+        "id": "bddf8ce2-320a-44cf-9642-0f4ffb062bc3",
+        "title": "IOS Engineer \u2013 Apprenticeship",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1717600095,
+        "date_posted": 1717600095,
+        "url": "https://boards.greenhouse.io/fetchrewards/jobs/6011281003",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/FetchRewards",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Fetch",
+        "id": "b6bd56ac-965f-4a1c-84db-1d28619501f0",
+        "title": "Backend Engineering \u2013 Apprenticeship",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1717600095,
+        "date_posted": 1717600095,
+        "url": "https://boards.greenhouse.io/fetchrewards/jobs/6011253003",
+        "locations": [
+            "Madison, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/FetchRewards",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Fetch",
+        "id": "53848010-a5c3-4101-afd7-bdd75048f5e3",
+        "title": "Android \u2013 Apprenticeship - Mobile Engineer",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1717600095,
+        "date_posted": 1717600095,
+        "url": "https://boards.greenhouse.io/fetchrewards/jobs/6011284003",
+        "locations": [
+            "Madison, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/FetchRewards",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Fetch",
+        "id": "1f815366-c275-437c-a1fc-4667d887a4aa",
+        "title": "Backend Engineering \u2013 Apprenticeship",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1717600096,
+        "date_posted": 1717600096,
+        "url": "https://boards.greenhouse.io/fetchrewards/jobs/6011255003",
+        "locations": [
+            "Birmingham, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/FetchRewards",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Hewlett Packard (HP)",
+        "id": "37a800c5-c4cc-48aa-929e-1801d49f465d",
+        "title": "Machine Learning Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1717543390,
+        "date_posted": 1717543390,
+        "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Austin-Texas-United-States-of-America/Machine-Learning-Intern_3136289-1",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Aerospike",
+        "id": "e077377e-2333-4e4b-92a4-51dd56daa32c",
+        "title": "Developer Relations Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1717543154,
+        "date_posted": 1717543154,
+        "url": "https://boards.greenhouse.io/aerospike/jobs/7479613002",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Aerospike",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Futronics",
+        "id": "aff1f219-09e1-4f53-a62c-1cd91ddf4ca3",
+        "title": "Project Assistant Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1717542579,
+        "date_posted": 1717542579,
+        "url": "https://boards.greenhouse.io/futronics/jobs/6011462003",
+        "locations": [
+            "Pasadena, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/FutronicsCorp",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Capstone Investment Advisors",
+        "id": "bff246c1-e508-48d6-8afb-ef8c3d412f71",
+        "title": "2025 Summer Internship - Quantitative Risk",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1717615022,
+        "date_posted": 1717169004,
+        "url": "https://boards.greenhouse.io/capstoneinvestmentadvisors/jobs/7470813002",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/CapstoneCo",
         "is_visible": true,
         "sponsorship": "Other"
     }
