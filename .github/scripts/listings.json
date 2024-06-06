@@ -76211,7 +76211,7 @@
         "company_name": "Waystar",
         "id": "fe7b4e50-a5ec-4cae-b5fe-8635221715a3",
         "title": "Data Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -84904,7 +84904,7 @@
         "company_name": "Wade Trim",
         "id": "07d0b699-e882-4faf-8b4d-6b1deef34f10",
         "title": "IT \u2013 AI Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -85535,7 +85535,7 @@
         "company_name": "Sylvera",
         "id": "04b0c7e9-e941-4445-96c4-c324caa8057a",
         "title": "Product Data Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -86171,7 +86171,7 @@
         "company_name": "Fetch",
         "id": "ef79c346-144e-4ab4-947b-c594589fce55",
         "title": "Android \u2013 Apprenticeship - Mobile Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -86209,7 +86209,7 @@
         "company_name": "Fetch",
         "id": "bddf8ce2-320a-44cf-9642-0f4ffb062bc3",
         "title": "IOS Engineer \u2013 Apprenticeship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -86228,7 +86228,7 @@
         "company_name": "Fetch",
         "id": "b6bd56ac-965f-4a1c-84db-1d28619501f0",
         "title": "Backend Engineering \u2013 Apprenticeship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -86247,7 +86247,7 @@
         "company_name": "Fetch",
         "id": "53848010-a5c3-4101-afd7-bdd75048f5e3",
         "title": "Android \u2013 Apprenticeship - Mobile Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -86353,6 +86353,177 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/CapstoneCo",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "PlayStation Global",
+        "id": "29e68754-68dd-4a09-abb3-d9d95cf3ff37",
+        "title": "Intern Software Development Engineer",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1717687480,
+        "date_posted": 1717687480,
+        "url": "https://boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5197219004",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/PlayStation-Global",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Bridgewater Associates",
+        "id": "5c07fd61-2cf8-4d0e-beaf-8a6aafb43173",
+        "title": "Investment Engineer Intern - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1717687375,
+        "date_posted": 1717687375,
+        "url": "https://boards.greenhouse.io/bridgewater89/jobs/7239497002",
+        "locations": [
+            "Westport, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/Bridgewater-Associates",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Businessolver",
+        "id": "0067ed0e-f851-445f-8fce-c2cbedd90c65",
+        "title": "Internship - Data & Database Engineer - Work Remotely within the United States",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1717658671,
+        "date_posted": 1717658671,
+        "url": "https://www.businessolver.com/careers/openings/?gh_jid=5885191",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Businessolver",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "MetroStar",
+        "id": "8d6449e4-ce31-4a99-9df9-0e02fcdccfe0",
+        "title": "Technology Internship Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1717629288,
+        "date_posted": 1717629288,
+        "url": "https://metrostar.com/job-post/?gh_jid=6013859003",
+        "locations": [
+            "Reston, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/MetroStarSystems",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Samba TV",
+        "id": "a1c57c34-c6f1-42ad-b4db-c1e228c763fb",
+        "title": "Intern \u2013 Programmatic Analyst",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1717629221,
+        "date_posted": 1717629221,
+        "url": "https://jobs.lever.co/sambatv/e478a1db-94ea-4027-afae-4e24f5faf8d6/apply",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/SambaTV",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "The Boeing Company",
+        "id": "ed315ad2-e568-4b6b-9f61-e2644df5e23a",
+        "title": "Software Development Intern",
+        "active": true,
+        "terms": [
+            "Fall 2024"
+        ],
+        "date_updated": 1717628918,
+        "date_posted": 1717628918,
+        "url": "https://boeing.wd1.myworkdayjobs.com/external_careers/job/CAN---Richmond-Canada/Software-Development-Intern_00000428874-2",
+        "locations": [
+            "Richmond, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Fetch",
+        "id": "3dbfab4b-dcf8-4cbe-b950-0b6f7e084482",
+        "title": "Machine Learning Engineer Apprentice",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1717628904,
+        "date_posted": 1717628904,
+        "url": "https://boards.greenhouse.io/fetchrewards/jobs/6011263003",
+        "locations": [
+            "Madison, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/FetchRewards",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "The Boeing Company",
+        "id": "9e666dfc-0e8f-4bea-ab80-bc151faa5ebb",
+        "title": "Data Science Intern",
+        "active": true,
+        "terms": [
+            "Fall 2024"
+        ],
+        "date_updated": 1717628915,
+        "date_posted": 1717628915,
+        "url": "https://boeing.wd1.myworkdayjobs.com/external_careers/job/CAN---Richmond-Canada/Data-Science-Intern_00000427747-1",
+        "locations": [
+            "Richmond, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Apeel Sciences",
+        "id": "0c409384-c4c2-4d13-b57b-7d7e5df667a7",
+        "title": "Apeel Labs Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1717628856,
+        "date_posted": 1717628856,
+        "url": "https://boards.greenhouse.io/apeel/jobs/6016457",
+        "locations": [
+            "Goleta, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Apeel-Sciences",
         "is_visible": true,
         "sponsorship": "Other"
     }
