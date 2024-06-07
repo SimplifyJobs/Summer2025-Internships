@@ -27286,7 +27286,7 @@
         "company_name": "Flawless",
         "id": "ab9d410b-00bc-4378-a55d-c62bdf987580",
         "title": "Data Engineer Internship - Deep Learning",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -51018,7 +51018,7 @@
         "company_name": "GRAIL",
         "id": "f8dbdb06-30be-428b-b3bc-dcf49d0d5d68",
         "title": "Generative AI Innovation Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -84345,7 +84345,7 @@
         "company_name": "Weber Shandwick",
         "id": "c477a44c-7251-43f9-833c-2dd7e1525041",
         "title": "Capital Markets Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -84364,7 +84364,7 @@
         "company_name": "IPG DXTRA",
         "id": "85a0533e-7783-43cc-834e-8dc1a9e27d70",
         "title": "Capital Markets Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -84714,7 +84714,7 @@
         "company_name": "Energy Recovery",
         "id": "88d5a9a7-bde7-4bb7-b6ca-05280b61306c",
         "title": "Intern \u2013 Sustainability and Social Impact",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -85364,7 +85364,7 @@
         "company_name": "Bank of Montreal (BMO)",
         "id": "83c9904c-b1cb-4389-b99d-2ecd482098e3",
         "title": "Software Developer \u2013 Co-op/Internship - Fall 2024 - 8 Months",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2024"
         ],
@@ -85383,7 +85383,7 @@
         "company_name": "Bank of Montreal (BMO)",
         "id": "2f579a95-47bf-460f-96bb-9629409290b8",
         "title": "Software Developer \u2013 Co-op/Internship - Fall 2024 - 4 Months",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2024"
         ],
@@ -85402,7 +85402,7 @@
         "company_name": "Bank of Montreal (BMO)",
         "id": "20bfd7ac-342f-48d8-b80a-643210f1604f",
         "title": "Data Analyst \u2013 Co-op/Internship - Fall 2024 - 4 Months",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2024"
         ],
@@ -86190,7 +86190,7 @@
         "company_name": "Fetch",
         "id": "e34686be-bb0a-48f1-b0b2-15df26e1fb0a",
         "title": "Backend Engineering \u2013 Apprenticeship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -86266,7 +86266,7 @@
         "company_name": "Fetch",
         "id": "1f815366-c275-437c-a1fc-4667d887a4aa",
         "title": "Backend Engineering \u2013 Apprenticeship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -86418,7 +86418,7 @@
         "company_name": "MetroStar",
         "id": "8d6449e4-ce31-4a99-9df9-0e02fcdccfe0",
         "title": "Technology Internship Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -86524,6 +86524,63 @@
             "Goleta, CA"
         ],
         "company_url": "https://simplify.jobs/c/Apeel-Sciences",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Snap Inc.",
+        "id": "930d9369-9efc-4058-b9a6-ca34a04b69cc",
+        "title": "Software Engineering Research Intern",
+        "active": true,
+        "terms": [
+            "Fall 2024"
+        ],
+        "date_updated": 1717715399,
+        "date_posted": 1717715399,
+        "url": "https://wd1.myworkdaysite.com/recruiting/snapchat/snap/job/Bellevue-Washington/Software-Engineering-Research-Intern_R0035541",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Snap",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Capstone Investment Advisors",
+        "id": "e864d143-427e-4f84-81f1-68fe08145345",
+        "title": "2025 Summer Internship - Investment Research",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1717725105,
+        "date_posted": 1717197700,
+        "url": "https://boards.greenhouse.io/capstoneinvestmentadvisors/jobs/7470458002",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/CapstoneCo",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Capstone Investment Advisors",
+        "id": "5f5934fd-116d-449d-a621-ae16adf3686d",
+        "title": "2025 Summer Internship - Investment Quant Development",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1717723497,
+        "date_posted": 1717168968,
+        "url": "https://boards.greenhouse.io/capstoneinvestmentadvisors/jobs/7470366002",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/CapstoneCo",
         "is_visible": true,
         "sponsorship": "Other"
     }
