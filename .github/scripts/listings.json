@@ -86583,5 +86583,24 @@
         "company_url": "https://simplify.jobs/c/CapstoneCo",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1717818955,
+        "url": "https://simplify.jobs/p/00548797-81d3-4c8f-a04d-d2837cf545de/Summer-2024-Media-Test-Development-Hardware-Engineering-Intern",
+        "company_name": "Western Digital",
+        "title": "Summer 2024 Media Test Development Hardware Engineering Intern",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "Jahhx57",
+        "id": "1b0365f5-d34c-4c32-9e1a-18ff9c9be6c5",
+        "date_posted": 1717818955,
+        "company_url": "",
+        "is_visible": true
     }
 ]
