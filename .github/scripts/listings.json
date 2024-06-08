@@ -86602,5 +86602,24 @@
         "date_posted": 1717818955,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1717820210,
+        "url": "https://jobs.ashbyhq.com/mind-company/8d46ed05-1b38-4c68-938e-f10b4c7d4694",
+        "company_name": "Mind Company",
+        "title": "Software Engineering Internship",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "zarahall",
+        "id": "ee85ff94-b1b2-4cde-a3f8-f5eb6c261f1e",
+        "date_posted": 1717820210,
+        "company_url": "",
+        "is_visible": true
     }
 ]
