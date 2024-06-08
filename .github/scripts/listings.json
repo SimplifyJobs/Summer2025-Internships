@@ -51018,7 +51018,7 @@
         "company_name": "GRAIL",
         "id": "f8dbdb06-30be-428b-b3bc-dcf49d0d5d68",
         "title": "Generative AI Innovation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -61776,7 +61776,7 @@
         "company_name": "Databricks",
         "id": "eb401165-358b-48ad-ab3b-001508f57677",
         "title": "IT Software Engineering Intern - 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -67158,7 +67158,7 @@
         "company_name": "Veeva Systems",
         "id": "c38a5f17-b673-4f72-8a01-882d551da0b9",
         "title": "Intern Software Engineer - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -69071,7 +69071,7 @@
         "company_name": "Applied Materials",
         "id": "721a61c3-5efd-4aa8-9f8c-d49a3e516126",
         "title": "2024 Summer Intern-Application Engineer - Bachelor's - Boise - ID",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -76673,7 +76673,7 @@
         "company_name": "Databricks",
         "id": "6289f54c-b9a0-4e8c-bfca-1205dcc2c720",
         "title": "IT Data Engineering Intern - 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -79328,7 +79328,7 @@
         "company_name": "Atomic Semi",
         "id": "849a46b0-487a-4709-9931-d49ed746421e",
         "title": "Embedded Software Engineering Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -81592,7 +81592,7 @@
         "company_name": "Intel",
         "id": "09b45836-d99d-44ab-b3d0-e4eba4305fb6",
         "title": "Data Analyst Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -86475,7 +86475,7 @@
         "company_name": "Fetch",
         "id": "3dbfab4b-dcf8-4cbe-b950-0b6f7e084482",
         "title": "Machine Learning Engineer Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -86621,5 +86621,81 @@
         "date_posted": 1717820210,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Cohere",
+        "id": "d0e637ca-72ad-49f9-ad6c-8ac54e94a8bd",
+        "title": "Machine Learning Intern/Co-op - Fall 2024",
+        "active": true,
+        "terms": [
+            "Fall 2024"
+        ],
+        "date_updated": 1717866620,
+        "date_posted": 1717866620,
+        "url": "https://jobs.lever.co/cohere/4137f619-6be7-4d08-8be0-254c92de4ab6/apply",
+        "locations": [
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Cohere",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Cohere",
+        "id": "581a0b78-a6ce-4e5e-afb3-9fbf5f76cfb3",
+        "title": "Software Engineer Intern/Co-op - Fall 2024",
+        "active": true,
+        "terms": [
+            "Fall 2024"
+        ],
+        "date_updated": 1717866624,
+        "date_posted": 1717866624,
+        "url": "https://jobs.lever.co/cohere/2227bd03-abc1-4675-8291-6dc5dfef47f7/apply",
+        "locations": [
+            "Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Cohere",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Radix Trading",
+        "id": "948bfd49-4a78-4839-a813-b864222db13a",
+        "title": "Quantitative Technologist \u2013 C++ Intern - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1717839203,
+        "date_posted": 1717839203,
+        "url": "https://boards.greenhouse.io/radixuniversity/jobs/7463231002",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Radix-Trading",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Octopus Energy",
+        "id": "890792e5-3d09-4188-b630-80d5b05e9f66",
+        "title": "Engineering Internship - Kraken Utilities",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1717814352,
+        "date_posted": 1717814352,
+        "url": "https://jobs.lever.co/octoenergy/4508fd76-3b86-4f75-bb1e-273333daf9b1/apply",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Octopus-energy",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
