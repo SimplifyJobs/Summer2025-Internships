@@ -85037,7 +85037,7 @@
         "company_name": "Onbe",
         "id": "fc9352b1-1fac-41fc-a8b1-76df0d7b6781",
         "title": "Associate Data Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -85075,7 +85075,7 @@
         "company_name": "Onbe",
         "id": "79acc232-25b4-465e-b0c2-42e5454eedfc",
         "title": "Associate Data Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -86695,6 +86695,25 @@
             "London, UK"
         ],
         "company_url": "https://simplify.jobs/c/Octopus-energy",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "d-Matrix",
+        "id": "6ce50af0-5779-4d55-97e4-038e70c9652f",
+        "title": "AI / ML Software Engineer \u2013 Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1718040492,
+        "date_posted": 1718040492,
+        "url": "https://jobs.ashbyhq.com/d-Matrix/68c2ce6a-2317-4cc9-9d6f-74d43a6caed1/application",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/d-Matrix",
         "is_visible": true,
         "sponsorship": "Other"
     }
