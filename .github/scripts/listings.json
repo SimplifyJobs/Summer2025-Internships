@@ -86736,5 +86736,25 @@
         "date_posted": 1718077110,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1718078578,
+        "url": "https://tally.so/r/w4kNN5",
+        "company_name": "FreudAI",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "Austin, TX",
+            "Remote"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "blockify-mac",
+        "id": "6f64c3ae-c41e-49f8-949f-2268d12e8c93",
+        "date_posted": 1718078578,
+        "company_url": "",
+        "is_visible": true
     }
 ]
