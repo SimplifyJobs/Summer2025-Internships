@@ -86716,5 +86716,25 @@
         "company_url": "https://simplify.jobs/c/d-Matrix",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1718077110,
+        "url": "https://www.linkedin.com/jobs/view/3942444937",
+        "company_name": "Stealth Startup",
+        "title": "Software Engineer Intern - AI/ML",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "terms": [
+            "Summer 2024",
+            "Fall 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "Nishchaypat",
+        "id": "e65ed9d5-9eaa-4c54-b50b-db5cfd549060",
+        "date_posted": 1718077110,
+        "company_url": "",
+        "is_visible": true
     }
 ]
