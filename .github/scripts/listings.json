@@ -76940,7 +76940,7 @@
         "company_name": "Bosscat",
         "id": "ff274d4d-8fe7-43dd-be4a-d80b8ff51987",
         "title": "Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -82080,7 +82080,7 @@
         "company_name": "Super",
         "id": "8e900dde-c6aa-4e0d-bd33-409a031100e8",
         "title": "Software Engineering Intern - Internal Tools - Remote - Fall 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2024"
         ],
@@ -82099,7 +82099,7 @@
         "company_name": "Super",
         "id": "acc1b46c-5bf6-4a8c-9114-ab0599995253",
         "title": "Software Engineering Intern - Fullstack - Product - Remote - Fall 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2024"
         ],
@@ -82156,7 +82156,7 @@
         "company_name": "Super",
         "id": "8340ad0f-775e-4402-b358-5d3163c03cb1",
         "title": "Data Engineering Intern - Remote - Fall 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2024"
         ],
@@ -85056,7 +85056,7 @@
         "company_name": "Onbe",
         "id": "9555c2cd-a80a-4c06-a6d7-e6fd70178fc5",
         "title": "Associate Data Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -85828,7 +85828,7 @@
         "company_name": "Kumo",
         "id": "00cc3553-0ef7-4a6b-b63a-6412c1a7272c",
         "title": "Software Engineer \u2013 Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -86304,7 +86304,7 @@
         "company_name": "Aerospike",
         "id": "e077377e-2333-4e4b-92a4-51dd56daa32c",
         "title": "Developer Relations Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
