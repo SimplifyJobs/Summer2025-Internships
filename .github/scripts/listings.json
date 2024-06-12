@@ -3131,7 +3131,7 @@
         "company_name": "Neuralink",
         "id": "9ebed577-52a5-42cb-912c-80c93a57dfa3",
         "title": "Software Engineer Intern - Implant Team",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -78757,7 +78757,7 @@
         "company_name": "Seismic",
         "id": "3f74aa88-b054-46d3-87d4-6ef1af47c4a2",
         "title": "Software Engineer \u2013 Co-Op/ Pey",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -81152,7 +81152,7 @@
         "company_name": "Profitero",
         "id": "d844761c-d8c3-4737-b7b2-7e69b2113151",
         "title": "AI Intern \u2013 6 Months FTC",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -81592,7 +81592,7 @@
         "company_name": "Intel",
         "id": "09b45836-d99d-44ab-b3d0-e4eba4305fb6",
         "title": "Data Analyst Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -82118,7 +82118,7 @@
         "company_name": "Super",
         "id": "d32aea39-cd88-4e78-85d1-a3ca2b26fac6",
         "title": "Software Engineering Intern - Infrastructure/Devops - Remote - Fall 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2024"
         ],
@@ -82137,7 +82137,7 @@
         "company_name": "Super",
         "id": "e88bb8a6-dd25-481c-a256-169944374c87",
         "title": "Software Engineering Intern - Ops Tools - Remote - Fall 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2024"
         ],
@@ -82175,7 +82175,7 @@
         "company_name": "Super",
         "id": "cdcc94f0-0119-4106-bdea-5b662f86de99",
         "title": "Data Analyst Intern - Remote - Fall 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2024"
         ],
@@ -83036,7 +83036,7 @@
         "company_name": "Palantir",
         "id": "5e5e082e-1da0-42a0-8624-c4ce352ff3dc",
         "title": "UK Summer Bootcamp",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -83790,7 +83790,7 @@
         "company_name": "Labelbox",
         "id": "a2701657-6e9b-496d-8187-3f8c581836d1",
         "title": "AI Tutor \u2013 Technical Writing - Project based",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -85132,7 +85132,7 @@
         "company_name": "Labelbox",
         "id": "4c15f800-a6d7-4c26-af12-a079c87e16fa",
         "title": "AI Tutor \u2013 K-12 Education Expert - Project based",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -85230,7 +85230,7 @@
         "company_name": "Labelbox",
         "id": "5155ce47-63b5-49f8-a1ee-883ae242b9c2",
         "title": "AI Tutor \u2013 Indonesian - Project based",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -85729,7 +85729,7 @@
         "company_name": "Capstone Investment Advisors",
         "id": "46169ce8-1f91-4f15-bac4-a1ca48239e86",
         "title": "2025 Summer Internship - Software Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -85808,7 +85808,7 @@
         "company_name": "Aquatic Capital Management",
         "id": "9489bce0-5fcd-45d3-8146-b479668b7153",
         "title": "Quantitative Researcher \u2013 Early Career - 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2024"
         ],
@@ -86361,7 +86361,7 @@
         "company_name": "PlayStation Global",
         "id": "29e68754-68dd-4a09-abb3-d9d95cf3ff37",
         "title": "Intern Software Development Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -86532,7 +86532,7 @@
         "company_name": "Snap Inc.",
         "id": "930d9369-9efc-4058-b9a6-ca34a04b69cc",
         "title": "Software Engineering Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2024"
         ],
@@ -86756,5 +86756,43 @@
         "date_posted": 1718078578,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Foxit Software",
+        "id": "7acd25c3-4a4c-43ec-ab98-810839c71762",
+        "title": "AI Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1718184956,
+        "date_posted": 1718184956,
+        "url": "https://jobs.lever.co/foxitsoftware/e6f17d78-4b0d-494d-b7aa-2b4c362ae422/apply",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Foxit-Software",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Atomic Semi",
+        "id": "e431de12-5cf8-432c-8d5c-ace93f2e62da",
+        "title": "Software Engineering Intern - Fall",
+        "active": true,
+        "terms": [
+            "Fall 2024"
+        ],
+        "date_updated": 1718140187,
+        "date_posted": 1718140187,
+        "url": "https://jobs.ashbyhq.com/atomicsemi/7ae76d58-6f33-4927-8bc5-578d879d1d68/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Atomic-Semi",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
