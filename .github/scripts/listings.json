@@ -40655,7 +40655,7 @@
         "company_name": "Autodesk",
         "id": "a4823d69-7772-4b2d-a726-79f0b99cfaff",
         "title": "Intern \u2013 Software Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -48322,7 +48322,7 @@
         "company_name": "Dataiku",
         "id": "4f8565c0-a720-43dd-8450-46924b86800f",
         "title": "Software Engineer intern - Develop an AI chatbot to help Dataiku users",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -80032,7 +80032,7 @@
         "company_name": "Palantir",
         "id": "860d8c08-7297-4a35-9f32-604912fd2830",
         "title": "Deployment Strategist \u2013 Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -81613,7 +81613,7 @@
         "company_name": "Hewlett Packard (HP)",
         "id": "9221353b-79fa-430e-a256-04ae5e8448f4",
         "title": "Workforce Experience \u2013 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -82461,7 +82461,7 @@
         "company_name": "Schr\u00f6dinger",
         "id": "28a56db5-c5a4-4742-a73b-da61431dfd12",
         "title": "Software Development Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -84402,7 +84402,7 @@
         "company_name": "Salesforce",
         "id": "2531a712-b4b5-46c9-ab9e-3b13ea715d5c",
         "title": "2024 Futureforce Tech Equality Summit \u2013 Summer 2025 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -85632,7 +85632,7 @@
         "company_name": "Intel",
         "id": "7f330418-5cb6-4fa2-8b52-dac0530e0f9f",
         "title": "Software Development \u2013 Undergraduate Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -85653,7 +85653,7 @@
         "company_name": "Management Leadership For Tomorrow",
         "id": "7a901153-a445-4721-930d-04492cd94390",
         "title": "Software Development Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -85942,7 +85942,7 @@
         "company_name": "1Password",
         "id": "b342f3d6-0842-484b-a6ff-2fc9481d82c4",
         "title": "Developer Intern - Identity - People & Accounts - Fall 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2024"
         ],
@@ -85961,7 +85961,7 @@
         "company_name": "1Password",
         "id": "de1a7724-eb32-480e-be6b-12315cf9deda",
         "title": "Developer Intern - Billing & Payments Growth - Fall 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2024"
         ],
@@ -85980,7 +85980,7 @@
         "company_name": "1Password",
         "id": "c049f67e-d359-47d6-8f5a-d615d4f27be2",
         "title": "Developer Intern - Xam - Fall 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2024"
         ],
@@ -85999,7 +85999,7 @@
         "company_name": "1Password",
         "id": "aae13529-5b09-46c6-81c3-42821b54e2a9",
         "title": "Developer Intern - Platforms & Integrations Engineering - Fall 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2024"
         ],
@@ -86018,7 +86018,7 @@
         "company_name": "1Password",
         "id": "07614ff0-ef2a-4d95-bd4c-9b9700ec19af",
         "title": "Data Intern - Data & Analytics Eng - Fall 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2024"
         ],
@@ -86037,7 +86037,7 @@
         "company_name": "1Password",
         "id": "fde063e4-1a72-4a94-81e7-91039a69d056",
         "title": "Developer Intern - Filling & Saving - Fall 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2024"
         ],
@@ -86056,7 +86056,7 @@
         "company_name": "1Password",
         "id": "9be5035d-e6a2-4b74-bf2b-c919968aaa6d",
         "title": "Developer Intern - Developer Ecosystems - Fall 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2024"
         ],
@@ -86075,7 +86075,7 @@
         "company_name": "1Password",
         "id": "3261426a-a0b3-481e-87f2-0b2fe17b927a",
         "title": "Data Intern - Data Analytics - Fall 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2024"
         ],
@@ -86094,7 +86094,7 @@
         "company_name": "1Password",
         "id": "4afb94d0-3548-4850-8722-0939744d3186",
         "title": "Developer Intern - Admin Onboarding and Provisioning - Fall 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2024"
         ],
@@ -86665,7 +86665,7 @@
         "company_name": "Radix Trading",
         "id": "948bfd49-4a78-4839-a813-b864222db13a",
         "title": "Quantitative Technologist \u2013 C++ Intern - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -86946,6 +86946,139 @@
             "Raleigh, NC"
         ],
         "company_url": "https://simplify.jobs/c/RelayPro",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Leidos",
+        "id": "2830fd2f-5b87-4f24-ace7-b5965151cac4",
+        "title": "Software Developer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1718378761,
+        "date_posted": 1718378761,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Software-Developer-Intern_R-00137610",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Hewlett Packard (HP)",
+        "id": "aca86edd-1e4d-4633-a7f0-0614bc9b2efb",
+        "title": "Associate Software Developer \u2013 Co-op position",
+        "active": true,
+        "terms": [
+            "Fall 2024"
+        ],
+        "date_updated": 1718349909,
+        "date_posted": 1718349909,
+        "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Vancouver-British-Columbia-Canada/Associate-Software-Developer---Co-op-position_3137494-1",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Hewlett Packard (HP)",
+        "id": "d69693d6-0374-477b-a898-6aa8ce86f30a",
+        "title": "Associate Software Developer \u2013 Co-op position - HP Anyware",
+        "active": true,
+        "terms": [
+            "Fall 2024"
+        ],
+        "date_updated": 1718349903,
+        "date_posted": 1718349903,
+        "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Vancouver-British-Columbia-Canada/Associate-Software-Developer---HP-Anyware--Co-op-position-_3137798-1",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Hewlett Packard (HP)",
+        "id": "25da73bd-3482-46bd-82d8-6e61c8bd4243",
+        "title": "Associate Software Developer-Cloud Solutions & Services \u2013 Co-op position",
+        "active": true,
+        "terms": [
+            "Fall 2024"
+        ],
+        "date_updated": 1718349901,
+        "date_posted": 1718349901,
+        "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Vancouver-British-Columbia-Canada/Associate-Software-Developer-Cloud-Solutions---Services--Co-op-position-_3137734",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Hewlett Packard (HP)",
+        "id": "ebf5d308-3242-4666-acba-76cfec16ec5e",
+        "title": "Associate Software Developer \u2013 Co-op position - HP Anyware Benchmarking",
+        "active": true,
+        "terms": [
+            "Fall 2024"
+        ],
+        "date_updated": 1718349910,
+        "date_posted": 1718349910,
+        "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Vancouver-British-Columbia-Canada/Associate-Software-Developer---HP-Anyware-Benchmarking--Co-op-position-_3137728-1",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Neuralink",
+        "id": "7f826bfb-a9e6-425c-a6dc-82510874e1d0",
+        "title": "Software Engineer Intern - Site Reliability Engineer",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1718349046,
+        "date_posted": 1718349046,
+        "url": "https://boards.greenhouse.io/neuralink/jobs/5469298003",
+        "locations": [
+            "Fremont, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Neuralink",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Pinterest",
+        "id": "db86cc2a-4f5b-4cfe-a083-12c52916d716",
+        "title": "Apprentice Product Researcher",
+        "active": true,
+        "terms": [
+            "Fall 2024"
+        ],
+        "date_updated": 1718392545,
+        "date_posted": 1718073407,
+        "url": "https://www.pinterestcareers.com/job-form?gh_jid=6019473",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Pinterest",
         "is_visible": true,
         "sponsorship": "Other"
     }
