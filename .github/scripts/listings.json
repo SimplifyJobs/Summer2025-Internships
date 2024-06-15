@@ -82842,7 +82842,7 @@
         "company_name": "TSMG",
         "id": "80007ef1-3588-4e27-9e93-99192987ca57",
         "title": "Driver / Data Collector in Ruse - Bulgaria",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -83248,7 +83248,7 @@
         "company_name": "Jane Street",
         "id": "627504f8-50a4-4683-a053-403279c50354",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -83267,7 +83267,7 @@
         "company_name": "Waterfront International",
         "id": "66ef22a4-a749-4b77-b3f9-b4615aefe5af",
         "title": "Student Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -83305,7 +83305,7 @@
         "company_name": "Astranis",
         "id": "3ce006f7-87d3-4f9f-b046-7d3a639d7382",
         "title": "Flight Software Engineer - Associate Program - Fall 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2024"
         ],
@@ -83384,7 +83384,7 @@
         "company_name": "Akuna Capital",
         "id": "4f671015-2e62-4358-bc1c-cdfabb83940c",
         "title": "Women in Trading Sneak Peek Week - 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -83441,7 +83441,7 @@
         "company_name": "Jane Street",
         "id": "0481e8fa-bd18-44de-9877-20dac94847ac",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -83460,7 +83460,7 @@
         "company_name": "Code and Theory",
         "id": "ae48bcde-2b11-4839-b488-e8ec835ad1a0",
         "title": "Data & Analytics Fellowship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024",
             "Fall 2024",
@@ -83482,7 +83482,7 @@
         "company_name": "Brain Technologies",
         "id": "6191c43a-88e4-40ba-ad6f-f2fd13df71f4",
         "title": "Generative AI Creator",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -83712,7 +83712,7 @@
         "company_name": "TSMG",
         "id": "8347f87e-515f-411a-b30f-89c6c1f1ea70",
         "title": "Driver / Data Collector in Heki - Croatia",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -83847,7 +83847,7 @@
         "company_name": "Groq",
         "id": "99d83b50-8dd7-4a8d-b2f2-d3ac4dc2e88f",
         "title": "Product Opportunities",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -83885,7 +83885,7 @@
         "company_name": "Dun & Bradstreet",
         "id": "5e16aba7-bfe7-47e4-8236-e4c29eb60f1f",
         "title": "2024 Technology Analyst Program",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2024"
         ],
@@ -83923,7 +83923,7 @@
         "company_name": "SMX",
         "id": "e492f13b-5407-41fb-bf54-bbb32d9a5220",
         "title": "SMX-Skillbridge Fellowship Program - Sfp",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -83942,7 +83942,7 @@
         "company_name": "Rune Labs",
         "id": "360589cf-8377-4f11-8e16-93eae446f26c",
         "title": "Future Openings - Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024",
             "Fall 2024",
@@ -84307,7 +84307,7 @@
         "company_name": "WebFX",
         "id": "ce1a0aee-1a44-46f0-8f26-91c29bbc885f",
         "title": "React Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -84541,7 +84541,7 @@
         "company_name": "Live Nation Entertainment",
         "id": "c4d913ad-59f9-466e-befc-f79bc3a4d40a",
         "title": "Zero Waste Coordinator - Huntington Bank Pavilion",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024",
             "Summer 2024",
@@ -84562,7 +84562,7 @@
         "company_name": "TSMG",
         "id": "4b16f125-24ed-4601-bbb4-24f7801c7355",
         "title": "Field Data Collection Specialist\\Surveyor",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -84581,7 +84581,7 @@
         "company_name": "TSMG",
         "id": "23124957-e8e6-4926-b754-8e8006e95ef2",
         "title": "Field Data Collection Specialist\\Surveyor",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -84600,7 +84600,7 @@
         "company_name": "TSMG",
         "id": "117828af-8f80-4cee-820d-89a03493c80b",
         "title": "Conducteur / Collecteur de donn\u00e9es \u00e0 Marle - France",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -84676,7 +84676,7 @@
         "company_name": "Groq",
         "id": "9871277e-ff9f-46fb-8741-eb8bf6943d20",
         "title": "Revenue Opportunities",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -84752,7 +84752,7 @@
         "company_name": "Diligent Robotics",
         "id": "9507aff3-c582-4265-8599-10b3f68f38eb",
         "title": "Part Time \u2013 Clinical Robot Associate - Los Angeles - CA",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -84771,7 +84771,7 @@
         "company_name": "Welocalize",
         "id": "f6b66a4d-3a31-47b3-ad0d-4ca3d82ec7b7",
         "title": "Remote Internet Search Quality Rater - English - United States",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -84809,7 +84809,7 @@
         "company_name": "Welocalize",
         "id": "81d73b00-80cf-4a6d-a950-5c971550cc66",
         "title": "Scout Search Quality Rater - Simplified Chinese - Canada",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -86914,7 +86914,7 @@
         "company_name": "Live Nation Entertainment",
         "id": "00be57b8-cd83-4f0e-81d7-47a37ad1c299",
         "title": "Zero Waste Coordinator",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -87068,7 +87068,7 @@
         "company_name": "Pinterest",
         "id": "db86cc2a-4f5b-4cfe-a083-12c52916d716",
         "title": "Apprentice Product Researcher",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2024"
         ],
@@ -87079,6 +87079,44 @@
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/Pinterest",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Palantir",
+        "id": "9a6e1962-5442-494d-b3bd-c93ebb7f642f",
+        "title": "Semester at Palantir \u2013 Internship",
+        "active": true,
+        "terms": [
+            "Fall 2024"
+        ],
+        "date_updated": 1718407536,
+        "date_posted": 1718407536,
+        "url": "https://jobs.lever.co/palantir/0adba6bd-d4b0-4fc2-9014-315f0f0b72b9/apply",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Palantir",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Workato",
+        "id": "406a21df-bb66-48f7-acca-752ee5468f2f",
+        "title": "Intern \u2013 Customer Experience",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1718407182,
+        "date_posted": 1718407182,
+        "url": "https://boards.greenhouse.io/workato/jobs/7485780002",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Workato",
         "is_visible": true,
         "sponsorship": "Other"
     }
