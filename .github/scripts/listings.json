@@ -48322,7 +48322,7 @@
         "company_name": "Dataiku",
         "id": "4f8565c0-a720-43dd-8450-46924b86800f",
         "title": "Software Engineer intern - Develop an AI chatbot to help Dataiku users",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -86665,7 +86665,7 @@
         "company_name": "Radix Trading",
         "id": "948bfd49-4a78-4839-a813-b864222db13a",
         "title": "Quantitative Technologist \u2013 C++ Intern - Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
