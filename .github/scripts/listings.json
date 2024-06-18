@@ -87272,5 +87272,24 @@
         "date_posted": 1718748284,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1718751386,
+        "url": "https://www.deshaw.com/careers/software-developer-intern-new-york-summer-2025-5137",
+        "company_name": "D.E. Shaw",
+        "title": "Software Developer Intern",
+        "locations": [
+            "New York, NY"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "yan-michael",
+        "id": "586343a4-a33e-4d3d-bb0c-caf9a5520e50",
+        "date_posted": 1718751386,
+        "company_url": "",
+        "is_visible": true
     }
 ]
