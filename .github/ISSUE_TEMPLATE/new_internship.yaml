@@ -47,10 +47,10 @@ body:
       label: What term(s) is this internship offered for?
       multiple: true
       options:
-        - Fall 2023
-        - Winter 2024
+        - Summer 2025
+        - Fall 2025
         - Spring 2024
-        - Summer 2024
+        - Winter 2024
         - Fall 2024
     validations:
       required: true
