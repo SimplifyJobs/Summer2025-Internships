@@ -49,10 +49,10 @@ body:
       label: What term(s) is this internship offered for?
       multiple: true
       options:
-        - Fall 2023
-        - Winter 2024
+        - Summer 2025
+        - Fall 2025
         - Spring 2024
-        - Summer 2024
+        - Winter 2024
         - Fall 2024
     validations:
       required: false
@@ -75,7 +75,7 @@ body:
   - type: dropdown
     id: active
     attributes:
-      label: Is this internship currently accepting applications?
+      label: Is this internship still accepting applications?
       multiple: false
       options:
         - "Yes"
@@ -85,7 +85,7 @@ body:
   - type: checkboxes
     id: is_visible
     attributes:
-      label: Remove this internship from the list?
+      label: Permanently remove this internship from the list?
       description: Only check this box if this internship is fake, does not fit the theme of the repo, or is offensive.
       options:
         - label: "Yes, remove this internship"
