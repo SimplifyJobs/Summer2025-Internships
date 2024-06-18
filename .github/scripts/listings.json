@@ -87234,5 +87234,24 @@
         "company_url": "https://simplify.jobs/c/Scout-Motors",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1718748222,
+        "url": "https://www.google.com/about/careers/applications/jobs/results/86639017272976070-software-engineering-intern-bs-summer-2025",
+        "company_name": "Google",
+        "title": "Software Engineering Intern\t",
+        "locations": [
+            "Mountain View, CA, USA Atlanta, GA + 27 more"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "yan-michael",
+        "id": "0e8422bc-3cc1-406d-b9c9-7c66d2c4b92f",
+        "date_posted": 1718748222,
+        "company_url": "",
+        "is_visible": true
     }
 ]
