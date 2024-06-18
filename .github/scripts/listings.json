@@ -87348,5 +87348,24 @@
         "date_posted": 1718754438,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1718754463,
+        "url": "https://www.linkedin.com/jobs/view/ai-ml-engineer-intern-summer-2025-at-cranium-3925803158/",
+        "company_name": "Cranium",
+        "title": "AI/ML Engineer Intern",
+        "locations": [
+            "Short Hills, NJ"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "yan-michael",
+        "id": "a1e33faf-24ec-4a5a-9775-99bc78dfb72a",
+        "date_posted": 1718754463,
+        "company_url": "",
+        "is_visible": true
     }
 ]
