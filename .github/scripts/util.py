@@ -121,8 +121,8 @@ def embedTable(listings, filepath, offSeason=False):
         f.write(newText)
 
 
-def filterSummer(listings):
-    return [listing for listing in listings if listing["is_visible"] and any("Summer" in item for item in listing["terms"])]
+def filterSummer(listings, year, earliest_date):
+    return [listing for listing in listings if listing["is_visible"] and any(f"Summer {year}" in item for item in listing["terms"]) and listing['date_posted'] > earliest_date]
 
 
 def filterOffSeason(listings):
