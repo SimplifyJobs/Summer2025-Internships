@@ -87291,5 +87291,24 @@
         "date_posted": 1718751386,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1718752650,
+        "url": "https://careers.sig.com/job/8326/Quantitative-Trader-Internship-Summer-2025",
+        "company_name": "SIG",
+        "title": "Quantitative Trader Intern",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "reddoy",
+        "id": "ef977bcb-1e8e-405e-8de5-f2fc2b64f85c",
+        "date_posted": 1718752650,
+        "company_url": "",
+        "is_visible": true
     }
 ]
