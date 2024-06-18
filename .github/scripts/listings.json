@@ -87310,5 +87310,24 @@
         "date_posted": 1718752650,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1718752677,
+        "url": "https://job-boards.greenhouse.io/chicagotradingreferral/jobs/4392223005",
+        "company_name": "Chicago Trading Company",
+        "title": "Quant Trading Associate Intern",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "reddoy",
+        "id": "01a814cb-cb46-4aeb-b582-6f031c2c54b0",
+        "date_posted": 1718752677,
+        "company_url": "",
+        "is_visible": true
     }
 ]
