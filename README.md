@@ -59,6 +59,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Ventas | Software Engineer Intern | Chicago, IL | <a href="https://ventas.wd1.myworkdayjobs.com/en-US/ventas_careers/job/Intern--Software-Engineering--Summer-2025-_R0001113?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 18 |
 | SIG | Quantitative Trader Intern | Chicago, IL | <a href="https://careers.sig.com/job/8326/Quantitative-Trader-Internship-Summer-2025?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 18 |
 | Google | Software Engineering Intern	 | Mountain View, CA, USA Atlanta, GA + 27 more | <a href="https://www.google.com/about/careers/applications/jobs/results/86639017272976070-software-engineering-intern-bs-summer-2025?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 18 |
 | D.E. Shaw | Software Developer Intern | New York, NY | <a href="https://www.deshaw.com/careers/software-developer-intern-new-york-summer-2025-5137?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 18 |
