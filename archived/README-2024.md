@@ -60,19 +60,15 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
-| **[Cadence Design Systems](https://simplify.jobs/c/Cadence-Design-Systems)** | Scientific Developer Intern | Santa Fe, NM | 🔒 | Apr 29 |
 | **[Talkspace](https://simplify.jobs/c/Talkspace)** | Software Engineering Intern | Remote in USA | 🔒 | Apr 27 |
 | **[Leidos](https://simplify.jobs/c/Leidos)** | Cyber Security Software Development Intern | Huntsville, AL | 🔒 | Apr 27 |
 | ↳ | Cyber Security software development intern | Huntsville, AL | 🔒 | Apr 27 |
 | **[Intel](https://simplify.jobs/c/Intel)** | Software Development – Undergraduate Intern | <details><summary>**5 locations**</summary>Austin, TX</br>Santa Clara, CA</br>Hillsboro, OR</br>Folsom, CA</br>Phoenix, AZ</details> | 🔒 | Apr 27 |
 | **[Cadence Design Systems](https://simplify.jobs/c/Cadence-Design-Systems)** | Software Intern | Northridge, LA | 🔒 | Apr 27 |
-| **[Seismic](https://simplify.jobs/c/Seismic)** | Data Analyst-PEY/ASIP - Month rotation | Toronto, ON, Canada | 🔒 | Apr 26 |
 | **[Rise8](https://simplify.jobs/c/f3b10e3a-a9ee-4946-95bb-f0053611ee2c)** | Skillbridge Intern - Software Engineer | LA</br>Tampa, FL | 🔒 | Apr 26 |
 | **[Leidos](https://simplify.jobs/c/Leidos)** | Software Engineer Intern | <details><summary>**4 locations**</summary>Virginia Beach, VA</br>Long Beach, MS</br>Arlington, VA</br>San Diego, CA</details> | 🔒 | Apr 26 |
-| **[Keywords Studios](https://simplify.jobs/c/Keywords-Studios)** | Spécialiste des requêtes et du langage de l'IA - Langue Russe | Remote | 🔒 | Apr 26 |
 | **[Flagship Pioneering](https://simplify.jobs/c/FlagshipPioneering)** | Co-op: Data Engineer | Cambridge, MA | 🔒 | Apr 26 |
 | **[Divergent](https://simplify.jobs/c/Divergent)** | Summer 2025 Internship Program - Engineering | Carson, CA | 🔒 | Apr 26 |
-| **[Daniel J Edelman Holdings](https://simplify.jobs/c/2e8bd784-4875-481a-a28c-bedee902a758)** | Intern – Market Research | Chicago, IL | 🔒 | Apr 26 |
 | **[Cadence Design Systems](https://simplify.jobs/c/Cadence-Design-Systems)** | Tensilica Embedded Systems Programming Intern - Summer 2024 | San Jose, CA | 🔒 | Apr 26 |
 | **[Actian](https://simplify.jobs/c/actian)** | Gen AI Intern | Remote in USA | 🔒 | Apr 26 |
 | **[Fluxergy](https://simplify.jobs/c/Fluxergy)** | Software Engineer Intern - Algorithm | Irvine, CA | 🔒 | Apr 25 |
@@ -80,9 +76,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | **[Dell Technologies](https://simplify.jobs/c/Dell-Technologies)** | Software Engineer – C++ Windows Agent Intern | Remote in USA | 🔒 | Apr 25 |
 | **[CACI](https://simplify.jobs/c/CACI)** | Full Stack Software Developer Intern - Summer 2024 | Remote in USA | 🔒 | Apr 25 |
 | **[Aviatrix](https://simplify.jobs/c/Aviatrix)** | Summer Intern - React Developer | Dallas, TX | 🔒 | Apr 25 |
-| **[Riveron](https://simplify.jobs/c/Riveron)** | Environmental – Early Career Intern - Social - And Governance - ESG | Washington, DC | 🔒 | Apr 24 |
 | **[Live Nation Entertainment](https://simplify.jobs/c/Live-Nation-Entertainment)** | Data Science Analytics Intern | Houston, TX</br>LA</br>Atlanta, GA | 🔒 | Apr 24 |
-| **[Keywords Studios](https://simplify.jobs/c/Keywords-Studios)** | Spécialiste des requêtes et du langage de l'IA - Langue Hindou | Remote | 🔒 | Apr 24 |
 | **[Intel](https://simplify.jobs/c/Intel)** | Software Engineer – Undergraduate Intern | Remote in USA | 🔒 | Apr 24 |
 | ↳ | Undergraduate Software Application Engineering Intern | Remote in USA | 🔒 | Apr 24 |
 | ↳ | Undergraduate Intern - Computer Engineering | Hillsboro, OR | 🔒 | Apr 24 |
@@ -111,7 +105,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | **[Leidos](https://simplify.jobs/c/Leidos)** | Gen AI Developer Intern | Remote in USA | 🔒 | Apr 19 |
 | ↳ | Software Engineer Intern | Lynnwood, WA | 🔒 | Apr 19 |
 | **[Intel](https://simplify.jobs/c/Intel)** | Undergraduate Internship - Computer Science - Bachelors | Remote in USA | 🔒 | Apr 19 |
-| **[Embrace](https://simplify.jobs/c/Embrace)** | My Role Isn’t Listed | <details><summary>**4 locations**</summary>Salt Lake City, UT</br>LA</br>Oakland, CA</br>Phoenix, AZ</details> | 🔒 | Apr 19 |
 | **[CACI](https://simplify.jobs/c/CACI)** | Software Development Intern - Summer 2024 | Aurora, CO | 🔒 | Apr 19 |
 | **[Applied Materials](https://simplify.jobs/c/Applied-Materials)** | 2024 Summer AI ML Intern - Gloucester | Essex County, MA | 🔒 | Apr 19 |
 | **[Rocket Lawyer](https://simplify.jobs/c/7b9938bb-1433-47a2-a43f-d3836efe4ff3)** | Software Engineering Intern - Mobile - Summer 2024 | Remote | 🔒 | Apr 18 |
@@ -130,7 +123,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | **[Western Digital](https://simplify.jobs/c/Western-Digital)** | Summer Intern 2024 – Software Engineering Internship - Firmware | Irvine, CA | 🔒 | Apr 17 |
 | **[Vermont Information Processing](https://simplify.jobs/c/7eb741a9-d4fe-48a0-9915-a0dcc6664117)** | Software Engineer Internship | Burlington, VT | 🔒 | Apr 17 |
 | **[Scythe Robotics](https://simplify.jobs/c/ScytheRobotics)** | Software Engineer Intern - Frontend Web Development | Longmont, CO | 🔒 | Apr 17 |
-| **[Santander](https://simplify.jobs/c/Santander)** | Digital Banking Intern | Miami, FL | 🔒 | Apr 17 |
 | **[RapidSOS](https://simplify.jobs/c/RapidSOS)** | Software Engineering Intern - Summer 2024 | Remote in USA | 🔒 | Apr 17 |
 | **[Leidos](https://simplify.jobs/c/Leidos)** | Web Development Intern | Chantilly, VA | 🔒 | Apr 17 |
 | **[iRhythm Technologies](https://simplify.jobs/c/iRhythm-Technologies)** | Human Factors Co-op | SF | 🔒 | Apr 17 |
@@ -157,8 +149,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | ↳ | Software Developer Intern | Alexandria, VA | 🔒 | Apr 15 |
 | **[Eulerity](https://simplify.jobs/c/Eulerity)** | Web Developer Intern | NYC | 🔒 | Apr 15 |
 | **[Autodesk](https://simplify.jobs/c/Autodesk)** | Full-Stack Developer-Intern | SF | 🔒 | Apr 15 |
-| **[Groq](https://simplify.jobs/c/Groq)** | Revenue Opportunities | Remote in USA | 🔒 | Apr 13 |
-| ↳ | Product Opportunities | Remote in USA | 🔒 | Apr 13 |
 | **[Cruise](https://simplify.jobs/c/Cruise)** | Machine Learning Intern - Autonomy | Remote in USA | 🔒 | Apr 13 |
 | **[Xylem](https://simplify.jobs/c/Xylem)** | Engineering Leadership Development Program | Cambridge, UK | 🔒 | Apr 12 |
 | **[SpotHero](https://simplify.jobs/c/SpotHero)** | Engineer Intern | Chicago, IL | 🔒 | Apr 12 |
@@ -222,31 +212,21 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | **[Asana](https://simplify.jobs/c/Asana)** | Asanaup Software Engineer Apprentice | SF | 🔒 | Apr 03 |
 | **[Applied Materials](https://simplify.jobs/c/Applied-Materials)** | New Product Manufacturing Engineering Intern - Austin - TX - Summer 2024 | Austin, TX | 🔒 | Apr 03 |
 | **[Waystar](https://simplify.jobs/c/Waystar)** | Data Analytics Intern | Atlanta, GA | 🔒 | Apr 02 |
-| **[Ware Malcomb](https://simplify.jobs/c/Ware-Malcomb)** | Cost Estimator Intern | Denver, CO | 🔒 | Apr 02 |
-| **[Uber](https://simplify.jobs/c/Uber)** | 2024 Safety & Insurance – Actuarial Analyst Intern - US | SF</br>NYC | 🔒 | Apr 02 |
-| ↳ | 2024 Safety & Insurance – Actuarial Analyst Intern - US | SF | 🔒 | Apr 02 |
-| **[Token Metrics](https://simplify.jobs/c/Token-Metrics)** | Financial Analyst Intern - Kyiv-Remote | Kyiv, Ukraine | 🔒 | Apr 02 |
 | **[Starburst](https://simplify.jobs/c/Starburst-data)** | Software Engineer – Intern | Cambridge, MA | 🔒 | Apr 02 |
 | ↳ | Software Engineer – Intern | Cambridge, MA | 🔒 | Apr 02 |
 | **[Splunk](https://simplify.jobs/c/Splunk)** | Software Engineer - Early in Career - Frontend | Vancouver, BC, Canada | 🔒 | Apr 02 |
 | **[Semtech](https://simplify.jobs/c/Semtech)** | Software Test Engineer Co-op | Richmond, BC, Canada | 🔒 | Apr 02 |
-| **[Santander](https://simplify.jobs/c/Santander)** | Intern | Miami, FL | 🔒 | Apr 02 |
-| **[Palantir](https://simplify.jobs/c/Palantir)** | Deployment Strategist – Internship - US Government | NYC | 🔒 | Apr 02 |
 | **[Nutanix](https://simplify.jobs/c/Nutanix)** | Product Management Intern | San Jose, CA | 🔒 | Apr 02 |
 | **[Live Nation Entertainment](https://simplify.jobs/c/Live-Nation-Entertainment)** | Summer Intern - Database Operations | Remote in USA | 🔒 | Apr 02 |
 | **[Leidos](https://simplify.jobs/c/Leidos)** | Software Engineer Intern | Arlington, VA | 🔒 | Apr 02 |
-| **[Intel](https://simplify.jobs/c/Intel)** | Gfx Intern | Toronto, ON, Canada | 🔒 | Apr 02 |
 | **[d-Matrix](https://simplify.jobs/c/d-Matrix)** | Compiler Software Engineer – Intern | Toronto, ON, Canada | 🔒 | Apr 02 |
 | **[CACI](https://simplify.jobs/c/CACI)** | Software Engineering Intern - Summer 2024 | Sarasota, FL | 🔒 | Apr 02 |
 | ↳ | Technology Intern - Summer 2024 | <details><summary>**4 locations**</summary>Aberdeen, MD</br>Lakehurst, NJ</br>Mt Holly, NJ</br>Fort Belvoir, VA</details> | 🔒 | Apr 02 |
-| **[AnaVation LLC](https://simplify.jobs/c/AnaVation-LLC)** | Business Analyst Internship Summer 2024 | Chantilly, VA | 🔒 | Apr 02 |
-| **[Rockwell Automation](https://simplify.jobs/c/Rockwell-Automation)** | Intern – Safety - Sensing and Industrial Components Business Operations | Milwaukee, WI | 🔒 | Apr 01 |
 | **[Rivian](https://simplify.jobs/c/Rivian)** | UIUC Research Park Intern - Embedded Software | Urbana, IL | 🔒 | Apr 01 |
 | **[Intel](https://simplify.jobs/c/Intel)** | Foundational AI Research Intern | Remote in USA | 🔒 | Apr 01 |
 | **[Thena](https://simplify.jobs/c/Thena)** | Software Engineer Intern | NYC</br>Mountain View, CA | 🔒 | Mar 31 |
 | **[Openmesh Networks](https://simplify.jobs/c/Openmesh-Networks)** | Network Engineering Intern - System Networks and Infrastructure | NYC | 🔒 | Mar 31 |
 | **[Hewlett Packard (HP)](https://simplify.jobs/c/Hewlett-Packard)** | Software Security Research Intern | Bristol, UK | 🔒 | Mar 31 |
-| **[Aircall](https://simplify.jobs/c/Aircall)** | Sales Partner intern - French Market | London, UK</br>NYC | 🔒 | Mar 31 |
 | **[Openmesh Networks](https://simplify.jobs/c/Openmesh-Networks)** | Product Management Intern - Product Development and Strategy | NYC | 🔒 | Mar 30 |
 | ↳ | Devops Engineering Intern - Systems Operations and Automation | NYC | 🔒 | Mar 30 |
 | ↳ | Product Development Intern - Design Thinking and Innovation | NYC | 🔒 | Mar 30 |
@@ -264,7 +244,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | **[Rockwell Automation](https://simplify.jobs/c/Rockwell-Automation)** | Intern – Technical Sales & Consulting - USA | <details><summary>**12 locations**</summary>Mayfield Heights, OH</br>Cambridge, MA</br>Seattle, WA</br>Houston, TX</br>Nashville, TN</br>Detroit, MI</br>LA</br>Tampa, FL</br>Dallas, TX</br>Milwaukee, WI</br>Portland, ME</br>Atlanta, GA</details> | 🔒 | Mar 28 |
 | **[ReBuild Manufacturing](https://simplify.jobs/c/ReBuild-Manufacturing)** | Design Engineering Intern | Kalamazoo, MI | 🔒 | Mar 28 |
 | **[QuantCo](https://simplify.jobs/c/QuantCo)** | Software Engineering Intern | Cambridge, MA</br>London, UK</br>SF | 🔒 | Mar 28 |
-| **[Pigment](https://simplify.jobs/c/Pigment)** | Solutions Consulting – Internship - Operations Specialist | London, UK</br>Toronto, ON, Canada</br>NYC | 🔒 | Mar 28 |
 | **[Moloco](https://simplify.jobs/c/Moloco)** | Software Engineer Intern | <details><summary>**5 locations**</summary>London, UK</br>Seattle, WA</br>SF</br>LA</br>NYC</details> | 🔒 | Mar 28 |
 | **[Illumio](https://simplify.jobs/c/Illumio)** | Cloud Engineering Intern | Sunnyvale, CA | 🔒 | Mar 28 |
 | **[Hewlett Packard (HP)](https://simplify.jobs/c/Hewlett-Packard)** | Threat Research Intern | Bristol, UK</br>Cambridge, UK | 🔒 | Mar 28 |
@@ -277,21 +256,13 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | **[Leidos](https://simplify.jobs/c/Leidos)** | Software Engineer Intern | Chantilly, VA</br>Reston, VA | 🔒 | Mar 27 |
 | **[LatchBio](https://simplify.jobs/c/LatchBio)** | Product Design and UX Intern - Summer 2024 | SF | 🔒 | Mar 27 |
 | **[First American](https://simplify.jobs/c/First-American)** | Remote – IT Internship Program - Project Management | Remote in USA | 🔒 | Mar 27 |
-| **[DriveTime](https://simplify.jobs/c/drivetime)** | Control Design Intern | Dallas, TX | 🔒 | Mar 27 |
 | **[Databricks](https://simplify.jobs/c/Databricks)** | IT Data Engineering Intern - 2024 | Mountain View, CA | 🔒 | Mar 27 |
-| **[Crowdstrike](https://simplify.jobs/c/Crowdstrike)** | Recruiting Intern - Summer 2024 - Remote | Remote in USA | 🔒 | Mar 27 |
-| **[Cirkul](https://simplify.jobs/c/c2e29277-875a-49c7-9e30-9f152aab3ca4)** | Mechatronics Intern | Tampa, FL | 🔒 | Mar 27 |
-| **[Square](https://simplify.jobs/c/Square)** | Manufacturing Electrical Engineer Intern - Summer 2024 | Remote in USA | 🔒 | Mar 26 |
-| **[Sila Nanotechnologies](https://simplify.jobs/c/SilaNano)** | EHS&S Intern | Quincy, WA | 🔒 | Mar 26 |
-| **[SharkNinja](https://simplify.jobs/c/SharkNinja)** | Fall – SQA Engineer Co-op: July to December 2024 | Needham, MA | 🔒 | Mar 26 |
 | **[Oshkosh](https://simplify.jobs/c/Oshkosh)** | DT Intern – Engineering Systems | Hagerstown, MD | 🔒 | Mar 26 |
 | **[MiQ](https://simplify.jobs/c/d3f70073-559f-423b-ba47-2709c81e233b)** | Trading – Summer Intern | LA | 🔒 | Mar 26 |
 | **[Material Bank](https://simplify.jobs/c/f7294b6d-1fdb-4c3b-b027-4e9535139697)** | Software Engineering Internship - Summer 2024 | Miami, FL</br>Boca Raton, FL | 🔒 | Mar 26 |
 | **[Leidos](https://simplify.jobs/c/Leidos)** | Software Development Intern | Remote in USA | 🔒 | Mar 26 |
 | **[Intel](https://simplify.jobs/c/Intel)** | Soc Front-End Design Engineer Undergraduate Intern | Folsom, CA | 🔒 | Mar 26 |
-| ↳ | Ocotillo Technology Fabrication Process Engineer Undergrad Intern | Phoenix, AZ | 🔒 | Mar 26 |
 | **[Helaina](https://simplify.jobs/c/8f780b7c-46a0-4b60-8543-7f18ceb48285)** | R&D Intern | NYC | 🔒 | Mar 26 |
-| **[Cross River Bank](https://simplify.jobs/c/Cross-River)** | Capital Solutions Group – Summer Analyst 2024 | Edgewater, NJ | 🔒 | Mar 26 |
 | **[Workiva](https://simplify.jobs/c/Workiva)** | 2024 Summer – Information Security Risk Intern | Remote in USA | 🔒 | Mar 25 |
 | **[Weber Shandwick](https://simplify.jobs/c/Weber-Shandwick)** | Data Science Intern - Summer 2024 | Washington, DC | 🔒 | Mar 25 |
 | **[StepStone Group](https://simplify.jobs/c/StepStoneGroup)** | 2024 SPAR Research Analytics Summer Intern | La Jolla, San Diego, CA | 🔒 | Mar 25 |
@@ -2928,7 +2899,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | Caterpillar | Software Engineering Intern | Multiple Locations | 🔒 | Jun 2023 |
 | **[Global Atlantic Financial Group](https://simplify.jobs/c/GlobalAtlantic)** | Quantitative Investment Intern  🛂 | NYC | 🔒 | Jun 2023 |
 | Royal Bank of Canada | Quantitative Technology Services Intern | Jersey City, NJ | 🔒 | Jun 2023 |
-| KeyBank | Digital Banking Intern  🛂 | Brooklyn, OH | 🔒 | Jun 2023 |
 | Blackstone | Quantitative Strategy Intern | NYC | 🔒 | Jun 2023 |
 | Nomura | 2024 - Information Technology - Summer Analyst Program | NYC | 🔒 | May 2023 |
 | Morgan Stanley | 2024 Technology Summer Analyst Program (Alpharetta) | Alpharetta, GA | 🔒 | May 2023 |
