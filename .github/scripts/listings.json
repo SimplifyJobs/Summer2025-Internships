@@ -81709,7 +81709,7 @@
         "company_name": "NewsBreak",
         "id": "6f1fa3a2-e51f-439a-b233-e01fb6a3eb52",
         "title": "Software Engineer Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -85710,7 +85710,7 @@
         "company_name": "Capstone Investment Advisors",
         "id": "7679edbe-8e9d-489a-b273-3488d62af0ad",
         "title": "2025 Summer Internship - Investment Quant Development",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -86665,7 +86665,7 @@
         "company_name": "Radix Trading",
         "id": "948bfd49-4a78-4839-a813-b864222db13a",
         "title": "Quantitative Technologist \u2013 C++ Intern - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -86973,7 +86973,7 @@
         "company_name": "Hewlett Packard (HP)",
         "id": "aca86edd-1e4d-4633-a7f0-0614bc9b2efb",
         "title": "Associate Software Developer \u2013 Co-op position",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2024"
         ],
@@ -86992,7 +86992,7 @@
         "company_name": "Hewlett Packard (HP)",
         "id": "d69693d6-0374-477b-a898-6aa8ce86f30a",
         "title": "Associate Software Developer \u2013 Co-op position - HP Anyware",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2024"
         ],
@@ -87011,7 +87011,7 @@
         "company_name": "Hewlett Packard (HP)",
         "id": "25da73bd-3482-46bd-82d8-6e61c8bd4243",
         "title": "Associate Software Developer-Cloud Solutions & Services \u2013 Co-op position",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2024"
         ],
@@ -87030,7 +87030,7 @@
         "company_name": "Hewlett Packard (HP)",
         "id": "ebf5d308-3242-4666-acba-76cfec16ec5e",
         "title": "Associate Software Developer \u2013 Co-op position - HP Anyware Benchmarking",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2024"
         ],
@@ -87125,7 +87125,7 @@
         "company_name": "Xylem",
         "id": "18b754ee-f148-415a-a7cc-eee6b88faf6b",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -87221,7 +87221,7 @@
         "company_name": "Scout Motors",
         "id": "26a59d5a-5d89-49cc-a075-c8e26f29e5a4",
         "title": "Internship - Growth - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -87405,5 +87405,123 @@
         "date_posted": 1718762836,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Blue Origin",
+        "id": "5cad79ec-1e32-4283-a449-d82267c69f65",
+        "title": "Spring 2025 Software Engineering Intern - Undergraduate",
+        "active": true,
+        "terms": [
+            "Spring 2025"
+        ],
+        "date_updated": 1718896878,
+        "date_posted": 1718896878,
+        "url": "https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Seattle-WA/Spring-2025-Software-Engineering-Intern---Undergraduate_R44510",
+        "locations": [
+            "Seattle, WA",
+            "Merritt Island, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Blue-Origin",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Intel",
+        "id": "7f28202f-58a7-42e6-98f0-d6232e1ecc48",
+        "title": "Systems and Solutions Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1718896779,
+        "date_posted": 1718896779,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Systems-and-Solutions-Engineer-Intern_JR0265611",
+        "locations": [
+            "Austin, TX",
+            "Hillsboro, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Leidos",
+        "id": "b9f93e41-37bf-4b18-8be3-01bcecb8c205",
+        "title": "Transportation Computer Science Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1718845004,
+        "date_posted": 1718845004,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Transportation-Computer-Science-Intern_R-00137998",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Leidos",
+        "id": "b32c8611-b08d-4cdd-841c-5506dc41c95c",
+        "title": "Transportation Computer Science Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1718845003,
+        "date_posted": 1718845003,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Transportation-Computer-Science-Intern_R-00137966",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Intel",
+        "id": "4b6d6746-a3f8-4c8c-9d00-3a80165583a5",
+        "title": "Data Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1718844792,
+        "date_posted": 1718844792,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Data-Analyst-Intern_JR0265612",
+        "locations": [
+            "San Jose, CA",
+            "Hillsboro, OR",
+            "Folsom, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "HRL Laboratories",
+        "id": "c86073a8-7012-4d37-b0db-80fa6e5195f9",
+        "title": "Quantum Technology Intern - Doctorate",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1715217393,
+        "date_posted": 1699523776,
+        "url": "https://jobs.lever.co/dodmg/11f7041b-5086-4167-86d1-f18524ffdf11/apply",
+        "locations": [
+            "Malibu, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/HRL-Laboratories",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
