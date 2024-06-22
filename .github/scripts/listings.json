@@ -87523,5 +87523,24 @@
         "company_url": "https://simplify.jobs/c/HRL-Laboratories",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1719083613,
+        "url": "https://jobs.bytedance.com/en/position/7377863209077917979/detail",
+        "company_name": "ByteDance",
+        "title": "Software Engineer Intern - Machine Learning System",
+        "locations": [
+            "Seattle"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "hemanthy1",
+        "id": "a6667cde-2ba3-4671-bb6b-7e7cfceef916",
+        "date_posted": 1719083613,
+        "company_url": "",
+        "is_visible": true
     }
 ]
