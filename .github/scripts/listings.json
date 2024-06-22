@@ -43956,7 +43956,7 @@
         "company_name": "Neuralink",
         "id": "f42b6aae-8434-41fa-97bf-f0f1a496395b",
         "title": "Surgery Operations Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -47324,7 +47324,7 @@
         "company_name": "Rocket Internet",
         "id": "66431fc0-fe6d-4f60-8b51-17afddeff6f5",
         "title": "Full-Time 6 months Internship @ Global Founders Capital VC",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -66716,7 +66716,7 @@
         "company_name": "Givelify",
         "id": "8b8849a0-a0ac-4aa9-a901-5bf7ab22144a",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -71864,7 +71864,7 @@
         "company_name": "HRL Laboratories",
         "id": "bbdeba9c-7d7b-40f3-8b33-a89943a5fb46",
         "title": "Quantum Technology Intern - Undergrad",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -72332,7 +72332,7 @@
         "company_name": "Tender Food",
         "id": "f1b48ae7-d6b8-454e-9934-c62b965cb602",
         "title": "Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -74211,7 +74211,7 @@
         "company_name": "Openmesh Networks",
         "id": "d9eacaf9-016d-4ba1-acd8-81ba51060c66",
         "title": "Bachelor\u2019s in Aeronautical Engineering Internship - Engineering Honors",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -85710,7 +85710,7 @@
         "company_name": "Capstone Investment Advisors",
         "id": "7679edbe-8e9d-489a-b273-3488d62af0ad",
         "title": "2025 Summer Internship - Investment Quant Development",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -86209,7 +86209,7 @@
         "company_name": "Fetch",
         "id": "bddf8ce2-320a-44cf-9642-0f4ffb062bc3",
         "title": "IOS Engineer \u2013 Apprenticeship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -86247,7 +86247,7 @@
         "company_name": "Fetch",
         "id": "53848010-a5c3-4101-afd7-bdd75048f5e3",
         "title": "Android \u2013 Apprenticeship - Mobile Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -86819,7 +86819,7 @@
         "company_name": "Global Relay",
         "id": "c96ce106-214e-4878-a2ca-b591f7e2bd8b",
         "title": "Software Development Engineer in Test \u2013 Co-op - Sdet - Fall 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2024"
         ],
@@ -86838,7 +86838,7 @@
         "company_name": "Global Relay",
         "id": "ddd71e8f-dde3-48cd-88d1-6ed464311ed4",
         "title": "Software Development Engineer in Test \u2013 Co-op - Sdet - Fall 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2024"
         ],
@@ -86933,7 +86933,7 @@
         "company_name": "Relay",
         "id": "bad2cb9a-88d9-4ad3-a546-d76c9c224aab",
         "title": "Product Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024",
             "Fall 2024",
@@ -87183,7 +87183,7 @@
         "company_name": "84.51 Degrees",
         "id": "0e7a04c2-2e59-469f-b921-86ca982680be",
         "title": "Software Engineer \u2013 Co-op Program - Fall 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2024"
         ],
@@ -87202,7 +87202,7 @@
         "company_name": "Capstone Investment Advisors",
         "id": "e3c75e39-9871-4455-a3c9-7e3e7f4badda",
         "title": "2025 Summer Internship - Quantitative Risk",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -87431,7 +87431,7 @@
         "company_name": "Intel",
         "id": "7f28202f-58a7-42e6-98f0-d6232e1ecc48",
         "title": "Systems and Solutions Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -87489,7 +87489,7 @@
         "company_name": "Intel",
         "id": "4b6d6746-a3f8-4c8c-9d00-3a80165583a5",
         "title": "Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -87542,5 +87542,138 @@
         "date_posted": 1719083613,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Democratic National Committee (DNC)",
+        "id": "5db59983-9b6f-4d2c-b78a-0129cd593bdc",
+        "title": "Fall 2024: DNC Technology Internship",
+        "active": true,
+        "terms": [
+            "Fall 2024"
+        ],
+        "date_updated": 1719012150,
+        "date_posted": 1719012150,
+        "url": "https://jobs.lever.co/dnc/bd9a7dc1-29f6-4868-b518-f02dd5abf24d/apply",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/DNC",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Hotspex Media",
+        "id": "4eb7cc4b-3283-4ebe-a721-07b97267ff07",
+        "title": "Intern \u2013 Analytics Tracking",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1719011410,
+        "date_posted": 1719011410,
+        "url": "https://jobs.ashbyhq.com/hotspexmedia/f351bdf9-ee52-48b4-968a-1ff2bd37cba4/application",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Hotspex-Media",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Hotspex Media",
+        "id": "0f7f206a-2290-4a50-8c65-69a022ef58d4",
+        "title": "Intern \u2013 Analytics Reporting",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1719011411,
+        "date_posted": 1719011411,
+        "url": "https://jobs.ashbyhq.com/hotspexmedia/bfcebbcb-4be2-4f0e-9994-f27e3db38288/application",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Hotspex-Media",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "1Password",
+        "id": "91cc4413-1821-4f2d-abc1-b84c80dd9e81",
+        "title": "Developer Intern - Confidential Computing - Fall 2024",
+        "active": true,
+        "terms": [
+            "Fall 2024"
+        ],
+        "date_updated": 1719011330,
+        "date_posted": 1719011330,
+        "url": "https://jobs.lever.co/1password/aeafe9f7-de22-40f0-9a0a-550fd4707f81/apply",
+        "locations": [
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/1Password",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Major League Baseball (MLB)",
+        "id": "07d441d4-4420-446d-8050-4ee7e8472c75",
+        "title": "Afl \u2013 Bullpen Catcher & Technology Apprentice",
+        "active": true,
+        "terms": [
+            "Fall 2024"
+        ],
+        "date_updated": 1718964958,
+        "date_posted": 1718964958,
+        "url": "https://www.mlb.com/careers/opportunities?gh_jid=6021682",
+        "locations": [
+            "Arizona"
+        ],
+        "company_url": "https://simplify.jobs/c/MLB",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Hewlett Packard (HP)",
+        "id": "666ddabe-802b-47b2-9f98-b1a3bea5db01",
+        "title": "Associate Software Developer in Test \u2013 Co-op position - System Team",
+        "active": true,
+        "terms": [
+            "Fall 2024"
+        ],
+        "date_updated": 1718926106,
+        "date_posted": 1718926106,
+        "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Vancouver-British-Columbia-Canada/Associate-Software-Developer-in-Test---System-Team--Co-op-position-_3137489-1",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "The Block",
+        "id": "bbea23c5-0a64-414f-8dbf-05dcf8a8aed1",
+        "title": "Special Projects Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1718301167,
+        "date_posted": 1718301167,
+        "url": "https://jobs.lever.co/theblockcrypto/68a6f89a-16dc-4f44-a8c4-449d8f415d66/apply",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/The-Block",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
