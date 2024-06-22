@@ -59,6 +59,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Alpha FMC | North America Technology Internship Program | Toronto, ON, Canada	 | <a href="https://boards.greenhouse.io/alphaawmnaearlycareers/jobs/7482769002"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 21 |
 | **[Point72](https://simplify.jobs/c/Point72)** | Quantitative Developer Intern | New York, NY | <a href="https://careers.point72.com/CSJobDetail?jobName=summer-2025-quantitative-developer-internship&jobCode=CSS-0012293&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 18 |
 | Google | Software Engineering Intern	 | Mountain View, CA, USA Atlanta, GA + 27 more | <a href="https://www.google.com/about/careers/applications/jobs/results/86639017272976070-software-engineering-intern-bs-summer-2025?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 18 |
 | Apple | Software Engineering Internship | United States | <a href="https://jobs.apple.com/en-us/details/200554359/software-engineering-internships?team=STDNT&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 07 |
