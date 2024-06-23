@@ -1,6 +1,6 @@
 # Off-Season Tech Internships by Pitt CSC & Simplify
 
-We're back! Use this repo to share and keep track of software, tech, CS, PM, quant internships for **Fall 2023, Winter 2024, or Spring 2024**. The list is maintained collaboratively by the [Pitt Computer Science Club](https://pittcsc.org/) and [Simplify](https://simplify.jobs/)!
+We're back! Use this repo to share and keep track of software, tech, CS, PM, quant internships for **Fall 2024, Winter 2025, or Spring 2025**. The list is maintained collaboratively by the [Pitt Computer Science Club](https://pittcsc.org/) and [Simplify](https://simplify.jobs/)!
 
 :warning: Please note that this repository is exclusively for internships/co-ops in the United States, Canada, or Remote positions :earth_americas:
 
@@ -25,17 +25,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 		<sub><i>Stop manually re-entering your information. Simplify’s extension helps you autofill internship applications on millions of sites.</i></sub>
 	</p>
 </div>
-
-<div align="center">
-  <h3>
-    Thanks for a great three years 💖💖
-  </h3>
-  <p>
-    <img src="https://api.star-history.com/svg?repos=pittcsc/Summer2024-Internships&type=Date" width="500" alt="Star History">
-  </p>
-</div>
-
----
 
 ## The List 🚴🏔
 
