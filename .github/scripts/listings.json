@@ -87451,7 +87451,7 @@
         "company_name": "Leidos",
         "id": "b9f93e41-37bf-4b18-8be3-01bcecb8c205",
         "title": "Transportation Computer Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -87470,7 +87470,7 @@
         "company_name": "Leidos",
         "id": "b32c8611-b08d-4cdd-841c-5506dc41c95c",
         "title": "Transportation Computer Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
