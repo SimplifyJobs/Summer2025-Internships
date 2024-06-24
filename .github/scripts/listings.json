@@ -87715,5 +87715,24 @@
         "date_posted": 1719239461,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1719239599,
+        "url": "https://www.konrad.com/careers/job/5997801003?gh_jid=5997801003",
+        "company_name": "Konrad",
+        "title": "Software Developer Intern",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "hemanthy1",
+        "id": "4dacf2c4-08a7-4637-ae86-509281858de7",
+        "date_posted": 1719239599,
+        "company_url": "",
+        "is_visible": true
     }
 ]
