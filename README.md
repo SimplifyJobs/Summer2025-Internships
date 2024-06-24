@@ -59,6 +59,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| RSM | Application Development Intern 🛂 | Des Moines, IA</br>Denver, CO | <a href="https://rsm.wd1.myworkdayjobs.com/en-US/RSMCareers/job/Des-Moines/Application-Development-Intern---Summer-2025_JR104149?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 24 |
 | Konrad | Software Developer Intern | Toronto, Canada | <a href="https://www.konrad.com/careers/job/5997801003?gh_jid=5997801003&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 24 |
 | Apple | Machine Learning Intern | United States | <a href="https://jobs.apple.com/en-us/details/200554363/machine-learning-ai-internships?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 24 |
 | **[Point72](https://simplify.jobs/c/Point72)** | Quantitative Developer Intern | New York, NY | <a href="https://careers.point72.com/CSJobDetail?jobName=summer-2025-quantitative-developer-internship&jobCode=CSS-0012293&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 18 |
