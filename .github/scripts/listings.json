@@ -87734,5 +87734,24 @@
         "date_posted": 1719239599,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1719252777,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=5956912003",
+        "company_name": "Celonis",
+        "title": "ML Engineer Intern",
+        "locations": [
+            "New York, US"
+        ],
+        "terms": [
+            "Fall 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "Anuttan",
+        "id": "371e198b-b14a-4433-bd5e-196912b9bc59",
+        "date_posted": 1719252777,
+        "company_url": "",
+        "is_visible": true
     }
 ]
