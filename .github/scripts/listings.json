@@ -87675,5 +87675,24 @@
         "company_url": "https://simplify.jobs/c/The-Block",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1719239279,
+        "url": "https://jobs.apple.com/en-us/details/200554363/machine-learning-ai-internships",
+        "company_name": "Apple",
+        "title": "Machine Learning Intern",
+        "locations": [
+            "United States"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "AyanT01",
+        "id": "ed4c3e59-22a6-43f2-a552-a0680669ecb5",
+        "date_posted": 1719239279,
+        "company_url": "",
+        "is_visible": true
     }
 ]
