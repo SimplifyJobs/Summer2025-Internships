@@ -1498,7 +1498,7 @@
         "company_name": "Fyusion",
         "id": "c9061fa0-beb8-4c43-b13a-ff96309fa7f3",
         "title": "Computer Vision Intern - Deep Learning",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -80917,7 +80917,7 @@
         "company_name": "Divergent",
         "id": "fbccb249-73e4-476d-83f7-ebf82b101666",
         "title": "Data Engineer Intern Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -87773,5 +87773,27 @@
         "date_posted": 1719267984,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Rockwell Automation",
+        "id": "b817e370-b924-4c5c-b5f6-23ab25a9afb3",
+        "title": "Co-op \u2013 Firmware Engineering",
+        "active": true,
+        "terms": [
+            "Fall 2024",
+            "Winter 2025",
+            "Spring 2025",
+            "Summer 2025"
+        ],
+        "date_updated": 1719270578,
+        "date_posted": 1719270578,
+        "url": "https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Cambridge-Ontario-Canada/Co-op--Firmware-Engineering_R24-4123-2",
+        "locations": [
+            "Cambridge, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Rockwell-Automation",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
