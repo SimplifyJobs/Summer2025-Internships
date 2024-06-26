@@ -1821,7 +1821,7 @@
         "company_name": "Uncountable",
         "id": "36d41c74-1e77-485c-87a4-cc7f0bd7e880",
         "title": "Full-Stack Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -87087,7 +87087,7 @@
         "company_name": "Palantir",
         "id": "9a6e1962-5442-494d-b3bd-c93ebb7f642f",
         "title": "Semester at Palantir \u2013 Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2024"
         ],
@@ -87643,7 +87643,7 @@
         "company_name": "Hewlett Packard (HP)",
         "id": "666ddabe-802b-47b2-9f98-b1a3bea5db01",
         "title": "Associate Software Developer in Test \u2013 Co-op position - System Team",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2024"
         ],
@@ -87793,6 +87793,44 @@
             "Cambridge, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Rockwell-Automation",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "AMT Engineering",
+        "id": "14f710a9-095d-4d6c-a65a-34dc51faa5b8",
+        "title": "GIS Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1719414473,
+        "date_posted": 1719414473,
+        "url": "https://jobs.lever.co/amtengineering/e8ba2131-558b-41d9-b586-aea81ed1f92d/apply",
+        "locations": [
+            "Towson, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/AMT-Engineering",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Mercedes-Benz",
+        "id": "3940abc9-dddc-4ac5-92c4-ffd5ea57ffcb",
+        "title": "Engineering Intern - Edrive Core Software",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1719357577,
+        "date_posted": 1719357577,
+        "url": "https://jobs.lever.co/MBRDNA/e8752edb-8637-4bba-b1b5-c207434b8102/apply",
+        "locations": [
+            "Southfield, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Mercedes-Benz",
         "is_visible": true,
         "sponsorship": "Other"
     }
