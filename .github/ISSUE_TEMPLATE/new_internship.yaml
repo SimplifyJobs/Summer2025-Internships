@@ -49,9 +49,8 @@ body:
       options:
         - Summer 2025
         - Fall 2025
-        - Spring 2024
-        - Winter 2024
-        - Fall 2024
+        - Winter 2025
+        - Spring 2025
     validations:
       required: true
   - type: dropdown
