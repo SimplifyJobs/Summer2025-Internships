@@ -87755,19 +87755,18 @@
         "is_visible": true
     },
     {
-        "date_updated": 1719267984,
+        "date_updated": 1719439871,
         "url": "https://rsm.wd1.myworkdayjobs.com/en-US/RSMCareers/job/Des-Moines/Application-Development-Intern---Summer-2025_JR104149",
         "company_name": "RSM",
         "title": "Application Development Intern",
         "locations": [
-            "Des Moines, IA",
-            "Denver, CO"
+            "Des Moines, IA Denver, CO"
         ],
         "terms": [
             "Summer 2025"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "source": "reddoy",
         "id": "7d5377f3-6245-48c2-8e8f-0590c578091d",
         "date_posted": 1719267984,
