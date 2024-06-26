@@ -87833,5 +87833,27 @@
         "company_url": "https://simplify.jobs/c/Mercedes-Benz",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1719435662,
+        "url": "https://jobs.us.pwc.com/job/-/-/932/66835864048",
+        "company_name": "PwC",
+        "title": "Products & Technology Intern",
+        "locations": [
+            "Dallas, TX",
+            "Tampa, FL",
+            "Chicago, IL",
+            "New York, NY"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "reddoy",
+        "id": "773bd3b3-8a21-4b6e-a283-8892ef26b987",
+        "date_posted": 1719435662,
+        "company_url": "",
+        "is_visible": true
     }
 ]
