@@ -57,8 +57,8 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 [⬇️ Jump to bottom ⬇️](https://github.com/SimplifyJobs/Summer2024-Internships#we-love-our-contributors-%EF%B8%8F%EF%B8%8F)
 <!-- Please leave a one line gap between this and the table TABLE_START (DO NOT CHANGE THIS LINE) -->
 
-| Company | Role | Location | Application/Link | Date Posted |
-| ------- | ---- | -------- | ---------------- | ----------- |
+| Company | Role | Location | Application/Link | Date Posted | Applied | Heard Back | Offer |
+| ------- | ---- | -------- | ---------------- | ----------- || ----------- | ----------- | ----------- |
 | PwC | Products & Technology Intern 🛂 | <details><summary>**4 locations**</summary>Dallas, TX</br>Tampa, FL</br>Chicago, IL</br>New York, NY</details> | <a href="https://jobs.us.pwc.com/job/-/-/932/66835864048?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 26 |
 | **[Rockwell Automation](https://simplify.jobs/c/Rockwell-Automation)** | Co-op – Firmware Engineering | Cambridge, ON, Canada | <a href="https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Cambridge-Ontario-Canada/Co-op--Firmware-Engineering_R24-4123-2?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/b817e370-b924-4c5c-b5f6-23ab25a9afb3?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jun 24 |
 | Konrad | Software Developer Intern | Toronto, Canada | <a href="https://www.konrad.com/careers/job/5997801003?gh_jid=5997801003&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 24 |
