@@ -87,7 +87,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | ↳ | 2025 Summer Internship - Investment Quant Development | London, UK | 🔒 | May 31 |
 | **[Walmart](https://simplify.jobs/c/Walmart)** | 2025 Summer Intern: Software Engineer II | Bentonville, AR</br>Sunnyvale, CA | 🔒 | Apr 30 |
 | **[Divergent](https://simplify.jobs/c/Divergent)** | Summer 2025 Internship Program - Engineering | Carson, CA | 🔒 | Apr 26 |
-| **[DriveTime](https://simplify.jobs/c/drivetime)** | Control Design Intern | Dallas, TX | 🔒 | Mar 27 |
+| **[DriveTime](https://simplify.jobs/c/drivetime)** | Control Design Intern | Dallas, TX | 🔒 | Mar 27 | | | |
 
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
 [⬆️ Back to Top ⬆️](https://github.com/SimplifyJobs/Summer2024-Internships#the-list-)
