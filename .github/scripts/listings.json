@@ -1229,7 +1229,7 @@
         "company_name": "Waabi",
         "id": "e58c393a-175d-45cf-9fb7-86989c607a83",
         "title": "Research Internship/Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -3055,7 +3055,7 @@
         "company_name": "Neuralink",
         "id": "78cde9dd-608d-4960-94f7-0213eb712231",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -3074,7 +3074,7 @@
         "company_name": "Neuralink",
         "id": "2bd98e98-5907-4ed1-a394-f0b99fc35a68",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -9622,7 +9622,7 @@
         "company_name": "Databento",
         "id": "a113d907-87db-49dd-945c-eb1a2ec2f94b",
         "title": "Software Engineer Internship - Flexible timing",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2023"
         ],
@@ -17561,7 +17561,7 @@
         "company_name": "Stevens Capital Management LP",
         "id": "49be9ce1-98f8-4c21-ba2c-6ecfd467eff0",
         "title": "Developer Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -17829,7 +17829,7 @@
         "company_name": "Arista Networks",
         "id": "af9444d4-cc93-47b4-999c-1298b95c147d",
         "title": "Professional Services Software Engineering Internship - Remote",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -18146,7 +18146,7 @@
         "company_name": "Overbond",
         "id": "035b1a87-168f-416f-96a5-34f2cee06341",
         "title": "Full-Stack Developer Intern-PEY/Co-Op",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -23710,7 +23710,7 @@
         "company_name": "Rackner",
         "id": "4b54128a-be5c-474c-ab40-b540328b59ac",
         "title": "Computer Science Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2023",
             "Summer 2023",
@@ -24225,7 +24225,7 @@
         "company_name": "STR",
         "id": "a7017717-b47f-4295-9842-1f23733068f4",
         "title": "Sensors Spring/Fall Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2023",
             "Summer 2023",
@@ -47265,7 +47265,7 @@
         "company_name": "Rocket Internet",
         "id": "f1cdbbec-a7a8-4f42-a27b-e0e6173c6d23",
         "title": "M&a and Investments Intern - US",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -52906,7 +52906,7 @@
         "company_name": "ExodusPoint",
         "id": "405dc370-0c78-4392-910f-b92e23c3b00f",
         "title": "Data Science Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -63232,7 +63232,7 @@
         "company_name": "Loop",
         "id": "b8f67b38-b5d4-47fc-9296-baad0deda9fc",
         "title": "Software Engineer Intern - Full-Stack",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -69769,7 +69769,7 @@
         "company_name": "Caldera",
         "id": "87dace74-0521-4bcf-bd55-442d5e987e15",
         "title": "Blockchain Researcher \u2013 Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -78431,7 +78431,7 @@
         "company_name": "Northwestern Mutual",
         "id": "8866bbdb-a00a-41e7-b086-369ce42d47c4",
         "title": "Investment Analyst Intern - Private Debt & Equity - Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -80627,7 +80627,7 @@
         "company_name": "Rise8",
         "id": "e48da94e-987a-48e6-a34c-82e0558ae8bb",
         "title": "Skillbridge Intern - Software Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -82918,7 +82918,7 @@
         "company_name": "Seismic",
         "id": "ead893a9-9ea4-403b-bdc3-4534be1c1229",
         "title": "Software Engineer AI/ ML-Co-Op - PEY/ Masters",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -84638,7 +84638,7 @@
         "company_name": "Exiger",
         "id": "19cf290c-a417-4960-8f6c-af6371ff8a8b",
         "title": "Analyst \u2013 Intern - Department of Defense Skillbridge",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -86133,7 +86133,7 @@
         "company_name": "XPeng Motors",
         "id": "e275a4c8-4f25-40d4-83ec-64c54d6d2dcf",
         "title": "Planning Machine Learning Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -87912,5 +87912,24 @@
         "date_posted": 1719472818,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "PolyAI",
+        "id": "79fe9cd9-2c95-4d58-8e71-d2c3f7c8e78f",
+        "title": "Software Engineer \u2013 Internship Program - Project - Fixed term contract",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1719517770,
+        "date_posted": 1719517770,
+        "url": "https://apply.workable.com/poly-ai/j/3A99EB88CF/apply",
+        "locations": [
+            "Remote in UK"
+        ],
+        "company_url": "https://simplify.jobs/c/PolyAI",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
