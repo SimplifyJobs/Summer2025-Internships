@@ -1364,7 +1364,7 @@
         "company_name": "WebFX",
         "id": "e34631c9-51fe-4c2e-b9d1-7ddf674b1777",
         "title": "Web Developer Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -1993,7 +1993,7 @@
         "company_name": "Ekimetrics",
         "id": "97964cb8-fdda-4a97-a78d-19c194e59388",
         "title": "6 months Internship in Strategy & Data Science",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -3459,7 +3459,7 @@
         "company_name": "Bodo.ai",
         "id": "e3616907-a445-4710-b6df-3cbed409f178",
         "title": "Software Engineer Intern - Cloud Infrastructure",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -47265,7 +47265,7 @@
         "company_name": "Rocket Internet",
         "id": "f1cdbbec-a7a8-4f42-a27b-e0e6173c6d23",
         "title": "M&a and Investments Intern - US",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -48723,7 +48723,7 @@
         "company_name": "The Boring Company",
         "id": "bac46378-921d-431e-a43a-5ad195a874a0",
         "title": "Software Engineering Intern - Summer 2024",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -80453,7 +80453,7 @@
         "company_name": "Marcus & Millichap",
         "id": "7496add4-d6c4-4333-a21f-28a010dbaaf5",
         "title": "Corporate Capital Markets Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2024"
         ],
@@ -82481,7 +82481,7 @@
         "company_name": "Certik",
         "id": "f4ef1938-14e4-4b89-bb37-000dc63b2621",
         "title": "Crypto Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -84484,7 +84484,7 @@
         "company_name": "Autodesk",
         "id": "889b2c69-2459-4404-a834-6d0e38f80346",
         "title": "Software Developer \u2013 Intern - Fall",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2024"
         ],
@@ -85672,7 +85672,7 @@
         "company_name": "Capstone Investment Advisors",
         "id": "3ca62825-c9a6-455d-a179-5f6f13de0a4d",
         "title": "2025 Summer Internship - Investment Quant Development",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -85691,7 +85691,7 @@
         "company_name": "Capstone Investment Advisors",
         "id": "f4603ba7-0444-4908-b2a2-da4c2a5ae98a",
         "title": "2025 Summer Internship - Software Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -85885,7 +85885,7 @@
         "company_name": "May Mobility",
         "id": "4cbfd3c4-9918-41ce-bfb6-7f7b0b288c06",
         "title": "Autonomy Intern - Data Science",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2024"
         ],
@@ -86152,7 +86152,7 @@
         "company_name": "Symphony",
         "id": "cd52283a-ff78-468f-af49-f08f1feef6ff",
         "title": "Apprentice NLP Model Developer",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -86380,7 +86380,7 @@
         "company_name": "Bridgewater Associates",
         "id": "5c07fd61-2cf8-4d0e-beaf-8a6aafb43173",
         "title": "Investment Engineer Intern - Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -87411,7 +87411,7 @@
         "company_name": "Blue Origin",
         "id": "5cad79ec-1e32-4283-a449-d82267c69f65",
         "title": "Spring 2025 Software Engineering Intern - Undergraduate",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025"
         ],
@@ -87950,5 +87950,233 @@
         "date_posted": 1719538940,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Weber Shandwick",
+        "id": "b6f76091-d004-45d1-bea9-a64859bfc70a",
+        "title": "Business Analytics Intern - Fall 2024",
+        "active": true,
+        "terms": [
+            "Fall 2024"
+        ],
+        "date_updated": 1719602966,
+        "date_posted": 1719588296,
+        "url": "https://www.webershandwick.com/work-at-weber/careers/?gh_jid=7515980002",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/Weber-Shandwick",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "IPG DXTRA",
+        "id": "4d349ff2-1182-4b55-b3e9-6addbf452d45",
+        "title": "Business Analytics Intern - Fall 2024",
+        "active": true,
+        "terms": [
+            "Fall 2024"
+        ],
+        "date_updated": 1719602719,
+        "date_posted": 1719588239,
+        "url": "https://boards.greenhouse.io/dxacirca/jobs/7515981002",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/IPG-DXTRA",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Commonwealth Fusion Systems",
+        "id": "778e5394-b27f-466d-ac47-f332b2dd4de9",
+        "title": "Intern \u2013 Software Engineer - Fall 2024",
+        "active": true,
+        "terms": [
+            "Fall 2024"
+        ],
+        "date_updated": 1719587674,
+        "date_posted": 1719587674,
+        "url": "https://jobs.lever.co/cfsenergy/7ca2ac24-c31b-4269-9ffc-cbbb3515c765/apply",
+        "locations": [
+            "Devens, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Commonwealth-Fusion-Systems",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Klue",
+        "id": "4cf32d27-dd11-42e7-98dd-ef628ba83977",
+        "title": "Data Analyst Intern",
+        "active": true,
+        "terms": [
+            "Fall 2024"
+        ],
+        "date_updated": 1719534457,
+        "date_posted": 1719534457,
+        "url": "https://jobs.lever.co/klue/6204c277-14be-4789-9e25-87c6cd8824f6/apply",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/klue",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Kargo",
+        "id": "8b6fb24e-d7ce-444e-a6a0-d5f82e59d4d2",
+        "title": "Backend Software Engineer \u2013 Internship",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1719520103,
+        "date_posted": 1719520103,
+        "url": "https://boards.greenhouse.io/kargo/jobs/5217421004",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/MyKargo",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Boingo",
+        "id": "b48badab-5f0c-4238-a9b8-9b7be78e0cbd",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1719520009,
+        "date_posted": 1719520009,
+        "url": "https://www.boingo.com/corporate/careers/?gh_jid=6024025",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Boingo",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Formlabs",
+        "id": "e2acad77-2583-4329-8d24-51cdf8586418",
+        "title": "Algorithms Software Intern - Fall 2024",
+        "active": true,
+        "terms": [
+            "Fall 2024"
+        ],
+        "date_updated": 1719520033,
+        "date_posted": 1719520033,
+        "url": "https://careers.formlabs.com/job/5935884/apply/?gh_jid=5935884",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Formlabs",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Boingo",
+        "id": "2990ec91-e842-4576-8a39-890e102d81b7",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1719520009,
+        "date_posted": 1719520009,
+        "url": "https://www.boingo.com/corporate/careers/?gh_jid=6024133",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Boingo",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Formlabs",
+        "id": "618eb61c-eac2-432e-a65b-3cea174596b2",
+        "title": "Desktop Software Intern - Fall 2024",
+        "active": true,
+        "terms": [
+            "Fall 2024"
+        ],
+        "date_updated": 1719520035,
+        "date_posted": 1719520035,
+        "url": "https://careers.formlabs.com/job/6075232/apply/?gh_jid=6075232",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Formlabs",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Autodesk",
+        "id": "dd790e08-12af-43d9-b989-2f1ea40d6fa1",
+        "title": "Software Engineer Intern - Fullstack - Fall 2024",
+        "active": true,
+        "terms": [
+            "Fall 2024"
+        ],
+        "date_updated": 1719519273,
+        "date_posted": 1719519273,
+        "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Software-Engineer-Intern---Fullstack--Fall-2024-_23WD72858-1",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Autodesk",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Intel",
+        "id": "11505e1a-be89-4e83-97c1-f13824a437e0",
+        "title": "Software Development \u2013 Undergraduate Intern",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1719519132,
+        "date_posted": 1719519132,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Software-Development---Undergraduate-Intern_JR0265789",
+        "locations": [
+            "Hillsboro, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Verkada",
+        "id": "882ffe69-feee-41f6-8b2f-f86244fc6d60",
+        "title": "Software Engineering Intern - Backend - Fall 2024",
+        "active": true,
+        "terms": [
+            "Fall 2024"
+        ],
+        "date_updated": 1719518547,
+        "date_posted": 1719518547,
+        "url": "https://boards.greenhouse.io/verkada/jobs/4376295007",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Verkada",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
