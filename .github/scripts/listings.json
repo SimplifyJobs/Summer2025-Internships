@@ -64330,7 +64330,7 @@
         "company_name": "SpaceX",
         "id": "f0dedf24-40ae-43e2-bddc-62992b4cec66",
         "title": "Fall 2024 Software Engineering Internship/Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2024"
         ],
@@ -66334,7 +66334,7 @@
         "company_name": "Waterfall",
         "id": "e754cca4-b470-4c47-bcc1-221d7dc9464d",
         "title": "Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -67904,7 +67904,7 @@
         "company_name": "Ridecell",
         "id": "67b4fd62-a851-455b-b8e9-ec3782418c30",
         "title": "Backend Intern - Platform",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -82918,7 +82918,7 @@
         "company_name": "Seismic",
         "id": "ead893a9-9ea4-403b-bdc3-4534be1c1229",
         "title": "Software Engineer AI/ ML-Co-Op - PEY/ Masters",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -86665,7 +86665,7 @@
         "company_name": "Radix Trading",
         "id": "948bfd49-4a78-4839-a813-b864222db13a",
         "title": "Quantitative Technologist \u2013 C++ Intern - Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -87411,7 +87411,7 @@
         "company_name": "Blue Origin",
         "id": "5cad79ec-1e32-4283-a449-d82267c69f65",
         "title": "Spring 2025 Software Engineering Intern - Undergraduate",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2025"
         ],
@@ -88176,6 +88176,278 @@
             "San Mateo, CA"
         ],
         "company_url": "https://simplify.jobs/c/Verkada",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Seismic",
+        "id": "275152c8-4b5d-4781-8ea7-0a4bc747bb2b",
+        "title": "Software Engineer AI/ ML-Co-Op - PEY/ Masters",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1719618162,
+        "date_posted": 1719618162,
+        "url": "https://seismic.com/company/careers/job-detail/?gh_jid=5176603004",
+        "locations": [
+            "Toronto, ON, Canada",
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Seismic",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "DataCamp",
+        "id": "7fc5d799-9833-4dbc-8f4e-2c9ae6d11f7e",
+        "title": "BI Content Development Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1719618120,
+        "date_posted": 1719618120,
+        "url": "https://boards.greenhouse.io/datacamp/jobs/6039928",
+        "locations": [
+            "London, UK",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/DataCamp",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "DataCamp",
+        "id": "464afdba-97e5-4003-ba3b-769a9c1406d2",
+        "title": "Machine Learning and Software Engineering Content Development Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1719618118,
+        "date_posted": 1719618118,
+        "url": "https://boards.greenhouse.io/datacamp/jobs/5962316",
+        "locations": [
+            "London, UK",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/DataCamp",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "AvePoint",
+        "id": "bb97201e-ab48-48e3-9085-988bed18976a",
+        "title": "Project Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1719618061,
+        "date_posted": 1719618061,
+        "url": "https://www.avepoint.com/careers/job-detail?gh_jid=5879568",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/AvePoint",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Optiver",
+        "id": "634485ed-83de-472b-90eb-aa836a5ec087",
+        "title": "Campus: Quantitative Trader Intern - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1719617641,
+        "date_posted": 1719617641,
+        "url": "https://boards.greenhouse.io/optiverprivate/jobs/7510221002",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Optiver",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Optiver",
+        "id": "57c275c2-5d14-4fd0-a8ee-dd6d85562f01",
+        "title": "Software Engineer Intern - Summer 2025 - Austin",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1719617643,
+        "date_posted": 1719617643,
+        "url": "https://boards.greenhouse.io/optiverprivate/jobs/7498434002",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Optiver",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Optiver",
+        "id": "50f1060e-6717-45e2-a821-4a5715fe1a65",
+        "title": "Software Engineer Intern - Summer 2025 - Chicago",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1719617643,
+        "date_posted": 1719617643,
+        "url": "https://boards.greenhouse.io/optiverprivate/jobs/7325586002",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Optiver",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Autodesk",
+        "id": "9de66d7c-de4c-4e7d-939c-f949510c88d4",
+        "title": "Remote iOS Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1719617431,
+        "date_posted": 1719617431,
+        "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Alberta-CAN---Remote/Remote-iOS-Engineer-Intern_24WD78965",
+        "locations": [
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Autodesk",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Capchase",
+        "id": "a11b0030-3d7f-41be-a637-18c38c17b188",
+        "title": "Software Engineer in Tools & Infrastructure Intern",
+        "active": true,
+        "terms": [
+            "Spring 2024"
+        ],
+        "date_updated": 1719617397,
+        "date_posted": 1719617397,
+        "url": "https://jobs.lever.co/capchase/67268773-7edf-47d7-ab38-b9853c875de9/apply",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Capchase",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Granicus",
+        "id": "82502ec7-5c5a-452b-8bc7-0aa04cd93db5",
+        "title": "Intern Software Engineer",
+        "active": true,
+        "terms": [
+            "Spring 2024"
+        ],
+        "date_updated": 1719616207,
+        "date_posted": 1719616207,
+        "url": "https://jobs.lever.co/granicus/a6828dc5-a517-4f94-8a6f-69b5552ac35a/apply",
+        "locations": [
+            "Remote in USA",
+            "Remote in UK",
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Granicus",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Celonis",
+        "id": "635dc423-8c56-47d3-a1bb-1e917f6a47c9",
+        "title": "Intern Celonis Services Enablement",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1719615988,
+        "date_posted": 1719615988,
+        "url": "https://boards.greenhouse.io/celonis/jobs/6020177003",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Celonis",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Celonis",
+        "id": "988338a0-d34b-43ed-abbf-6f63343a6f22",
+        "title": "Intern Data Science / Value Engineer",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1719615985,
+        "date_posted": 1719615985,
+        "url": "https://boards.greenhouse.io/celonis/jobs/5738547003",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Celonis",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "WeTransfer",
+        "id": "6beb38ec-fb0b-4f3f-acd8-313ba6ead8b3",
+        "title": "Data Intern",
+        "active": true,
+        "terms": [
+            "Spring 2024"
+        ],
+        "date_updated": 1719615594,
+        "date_posted": 1719615594,
+        "url": "https://jobs.ashbyhq.com/wetransfer/079494e9-63b6-4834-a208-e0524d104917/application",
+        "locations": [
+            "Seattle, WA",
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/WeTransfer",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Western Digital",
+        "id": "e0b5b212-b7ea-4c47-8b16-dea567d61681",
+        "title": "Summer 2024 \u2013 Data Analytics Engineering Intern - Local candidates Only",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1719615398,
+        "date_posted": 1719615398,
+        "url": "https://jobs.smartrecruiters.com/WesternDigital/743999997268361",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Western-Digital",
         "is_visible": true,
         "sponsorship": "Other"
     }
