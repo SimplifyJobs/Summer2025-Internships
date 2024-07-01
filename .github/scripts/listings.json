@@ -88479,5 +88479,24 @@
         "date_posted": 1719853112,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1719853353,
+        "url": "https://jobs.lever.co/palantir/e27af7ab-41fc-40c9-b31d-02c6cb1c505c",
+        "company_name": "Palantir",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "reddoy",
+        "id": "8e89d029-fc69-4ceb-850c-bbfddd85468a",
+        "date_posted": 1719853353,
+        "company_url": "",
+        "is_visible": true
     }
 ]
