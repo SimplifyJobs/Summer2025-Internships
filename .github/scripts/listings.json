@@ -4740,7 +4740,7 @@
         "company_name": "Palantir",
         "id": "d0302d05-c84f-4a36-a91e-cc293f08604e",
         "title": "Software Engineer \u2013 Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -5596,7 +5596,7 @@
         "company_name": "Palantir",
         "id": "e1cb71b6-18fc-4d48-9c80-55c54bb62a50",
         "title": "Software Engineer \u2013 Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -5634,7 +5634,7 @@
         "company_name": "Palantir",
         "id": "0f0aeb67-6d9f-4204-85d7-29cb04386943",
         "title": "Software Engineer \u2013 Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -8138,7 +8138,7 @@
         "company_name": "Palantir",
         "id": "b9a66fc7-950d-4574-abc7-4b409156948b",
         "title": "Software Engineer \u2013 Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2023"
         ],
@@ -81038,7 +81038,7 @@
         "company_name": "Zuru",
         "id": "ab62022e-cc11-4a0a-a72f-43cbd141a2df",
         "title": "Data Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
