@@ -88536,5 +88536,24 @@
         "date_posted": 1719853620,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1719873594,
+        "url": "https://jobs.lever.co/palantir/bdcfb29f-4f27-42de-933f-7f83a359b9f0",
+        "company_name": "Palantir",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "Washington, D.C."
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "reddoy",
+        "id": "d2a001fc-30ad-4524-9e77-588f5c4c66ad",
+        "date_posted": 1719873594,
+        "company_url": "",
+        "is_visible": true
     }
 ]
