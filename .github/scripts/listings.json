@@ -88633,5 +88633,26 @@
         "company_url": "https://simplify.jobs/c/Teleo",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1719957186,
+        "url": "https://www.citadel.com/careers/details/software-engineer-2025-intern-us-2/",
+        "company_name": "Citadel",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "Chicago, IL",
+            "Miami, FL",
+            "New York, NY"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "reddoy",
+        "id": "96557b32-06eb-4f75-ae7b-6ee2b929a91e",
+        "date_posted": 1719957186,
+        "company_url": "",
+        "is_visible": true
     }
 ]
