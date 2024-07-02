@@ -6871,7 +6871,7 @@
         "company_name": "Ramp",
         "id": "1dd3a459-5bdd-40c2-b78a-a2483ed064a9",
         "title": "Software Engineer Internship - Frontend",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -17561,7 +17561,7 @@
         "company_name": "Stevens Capital Management LP",
         "id": "49be9ce1-98f8-4c21-ba2c-6ecfd467eff0",
         "title": "Developer Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -23710,7 +23710,7 @@
         "company_name": "Rackner",
         "id": "4b54128a-be5c-474c-ab40-b540328b59ac",
         "title": "Computer Science Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2023",
             "Summer 2023",
@@ -24366,7 +24366,7 @@
         "company_name": "Futronics",
         "id": "b44f1e21-bf02-456b-a7ca-7f568049466d",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -66334,7 +66334,7 @@
         "company_name": "Waterfall",
         "id": "e754cca4-b470-4c47-bcc1-221d7dc9464d",
         "title": "Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -67904,7 +67904,7 @@
         "company_name": "Ridecell",
         "id": "67b4fd62-a851-455b-b8e9-ec3782418c30",
         "title": "Backend Intern - Platform",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -74095,7 +74095,7 @@
         "company_name": "Eulerity",
         "id": "029c4741-2e63-4f13-9053-de27d7221db9",
         "title": "Backend Java Developer Summer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -78393,7 +78393,7 @@
         "company_name": "Logitech",
         "id": "6847c328-e212-4130-8b7c-2679ef0fedee",
         "title": "Sales Ops and Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -80627,7 +80627,7 @@
         "company_name": "Rise8",
         "id": "e48da94e-987a-48e6-a34c-82e0558ae8bb",
         "title": "Skillbridge Intern - Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -82918,7 +82918,7 @@
         "company_name": "Seismic",
         "id": "ead893a9-9ea4-403b-bdc3-4534be1c1229",
         "title": "Software Engineer AI/ ML-Co-Op - PEY/ Masters",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -84465,7 +84465,7 @@
         "company_name": "AvePoint",
         "id": "ef8b9206-7c9b-42d1-b654-b4a19d6f2811",
         "title": "Privacy \u2013 Risk and Security Analytics Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -85729,7 +85729,7 @@
         "company_name": "Capstone Investment Advisors",
         "id": "46169ce8-1f91-4f15-bac4-a1ca48239e86",
         "title": "2025 Summer Internship - Software Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -86627,7 +86627,7 @@
         "company_name": "Cohere",
         "id": "d0e637ca-72ad-49f9-ad6c-8ac54e94a8bd",
         "title": "Machine Learning Intern/Co-op - Fall 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2024"
         ],
@@ -86646,7 +86646,7 @@
         "company_name": "Cohere",
         "id": "581a0b78-a6ce-4e5e-afb3-9fbf5f76cfb3",
         "title": "Software Engineer Intern/Co-op - Fall 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2024"
         ],
@@ -86665,7 +86665,7 @@
         "company_name": "Radix Trading",
         "id": "948bfd49-4a78-4839-a813-b864222db13a",
         "title": "Quantitative Technologist \u2013 C++ Intern - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -86800,7 +86800,7 @@
         "company_name": "Cerebras",
         "id": "060730f5-ef5e-4584-96eb-dc347a23a24b",
         "title": "AI Compute Infrastructure Engineer \u2013 Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -86895,7 +86895,7 @@
         "company_name": "Spot Freight",
         "id": "6f6d8bfb-4452-4648-8e96-b89cfeaf381b",
         "title": "Software Developer Internship - Fall 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2024"
         ],
@@ -87411,7 +87411,7 @@
         "company_name": "Blue Origin",
         "id": "5cad79ec-1e32-4283-a449-d82267c69f65",
         "title": "Spring 2025 Software Engineering Intern - Undergraduate",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025"
         ],
@@ -87662,7 +87662,7 @@
         "company_name": "The Block",
         "id": "bbea23c5-0a64-414f-8dbf-05dcf8a8aed1",
         "title": "Special Projects Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -87800,7 +87800,7 @@
         "company_name": "AMT Engineering",
         "id": "14f710a9-095d-4d6c-a65a-34dc51faa5b8",
         "title": "GIS Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -87994,7 +87994,7 @@
         "company_name": "Commonwealth Fusion Systems",
         "id": "778e5394-b27f-466d-ac47-f332b2dd4de9",
         "title": "Intern \u2013 Software Engineer - Fall 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2024"
         ],
@@ -88013,7 +88013,7 @@
         "company_name": "Klue",
         "id": "4cf32d27-dd11-42e7-98dd-ef628ba83977",
         "title": "Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2024"
         ],
@@ -88051,7 +88051,7 @@
         "company_name": "Boingo",
         "id": "b48badab-5f0c-4238-a9b8-9b7be78e0cbd",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -88089,7 +88089,7 @@
         "company_name": "Boingo",
         "id": "2990ec91-e842-4576-8a39-890e102d81b7",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -88127,7 +88127,7 @@
         "company_name": "Autodesk",
         "id": "dd790e08-12af-43d9-b989-2f1ea40d6fa1",
         "title": "Software Engineer Intern - Fullstack - Fall 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2024"
         ],
@@ -88184,7 +88184,7 @@
         "company_name": "Seismic",
         "id": "275152c8-4b5d-4781-8ea7-0a4bc747bb2b",
         "title": "Software Engineer AI/ ML-Co-Op - PEY/ Masters",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -88204,7 +88204,7 @@
         "company_name": "DataCamp",
         "id": "7fc5d799-9833-4dbc-8f4e-2c9ae6d11f7e",
         "title": "BI Content Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -88224,7 +88224,7 @@
         "company_name": "DataCamp",
         "id": "464afdba-97e5-4003-ba3b-769a9c1406d2",
         "title": "Machine Learning and Software Engineering Content Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -88244,7 +88244,7 @@
         "company_name": "AvePoint",
         "id": "bb97201e-ab48-48e3-9085-988bed18976a",
         "title": "Project Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -88263,7 +88263,7 @@
         "company_name": "Optiver",
         "id": "634485ed-83de-472b-90eb-aa836a5ec087",
         "title": "Campus: Quantitative Trader Intern - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -88358,7 +88358,7 @@
         "company_name": "Granicus",
         "id": "82502ec7-5c5a-452b-8bc7-0aa04cd93db5",
         "title": "Intern Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024"
         ],
@@ -88379,7 +88379,7 @@
         "company_name": "Celonis",
         "id": "635dc423-8c56-47d3-a1bb-1e917f6a47c9",
         "title": "Intern Celonis Services Enablement",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -88398,7 +88398,7 @@
         "company_name": "Celonis",
         "id": "988338a0-d34b-43ed-abbf-6f63343a6f22",
         "title": "Intern Data Science / Value Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -88417,7 +88417,7 @@
         "company_name": "WeTransfer",
         "id": "6beb38ec-fb0b-4f3f-acd8-313ba6ead8b3",
         "title": "Data Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024"
         ],
@@ -88555,5 +88555,83 @@
         "date_posted": 1719873594,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Numerade",
+        "id": "396e3ae5-cf03-4a0e-a3fb-7b596ee62ae1",
+        "title": "Data Scientist Intern",
+        "active": true,
+        "terms": [
+            "Winter 2025",
+            "Spring 2025",
+            "Summer 2025"
+        ],
+        "date_updated": 1719933021,
+        "date_posted": 1719933021,
+        "url": "http://www.numerade.com/careers?gh_jid=5221314004",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Numerade",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Capital One",
+        "id": "618bfd5c-a695-4534-8292-8bb5a0223326",
+        "title": "Fullstack Engineer Fall co op 2024",
+        "active": true,
+        "terms": [
+            "Fall 2024"
+        ],
+        "date_updated": 1719933034,
+        "date_posted": 1719933034,
+        "url": "https://capitalone.wd1.myworkdayjobs.com/Capital_One/job/Toronto-ON/Fullstack-Engineer-Fall-co-op-2024_R190925",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Capital-One",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Roku",
+        "id": "d6bd7701-e579-4141-a719-c0da78b432a6",
+        "title": "SW Engineer Intern - Mobile",
+        "active": true,
+        "terms": [
+            "Fall 2024"
+        ],
+        "date_updated": 1719932750,
+        "date_posted": 1719932750,
+        "url": "https://www.weareroku.com/jobs/5729905?gh_jid=5729905",
+        "locations": [
+            "Manchester, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Roku",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Teleo",
+        "id": "a0117387-55c8-4681-873a-1ea19836a5cd",
+        "title": "Firmware Engineer Internship/Co-op - Fall 2024",
+        "active": true,
+        "terms": [
+            "Fall 2024"
+        ],
+        "date_updated": 1719875554,
+        "date_posted": 1719875554,
+        "url": "https://jobs.lever.co/teleo/63fe96ee-74dc-41eb-80bc-6f80133c9ffa/apply",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Teleo",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
