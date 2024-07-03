@@ -88452,28 +88452,18 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1719853112,
+        "date_updated": 1720013424,
         "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210527407/?keyword=2025+Software+Engineer+Program+-+Summer+Internship+%E2%80%93+United+States&mode=location",
         "company_name": "J. P. Morgan",
         "title": "Software Engineer Intern",
         "locations": [
-            "Atlanta, GA",
-            "Chicago, IL",
-            "Columbus, OH",
-            "Houston, TX",
-            "Jersey City, NJ",
-            "Palo Alto, CA",
-            "New York, NY",
-            "Plano, TX",
-            "Seattle, WA",
-            "Tampa, FL",
-            "Austin, TX"
+            "Atlanta, GA Chicago, IL Columbus, OH Houston, TX Jersey City, NJ Palo Alto, CA New York, NY Plano, TX Seattle, WA Tampa, FL Austin, TX"
         ],
         "terms": [
             "Summer 2025"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "source": "reddoy",
         "id": "5c01ea70-5a11-452e-95ad-072e71881e5f",
         "date_posted": 1719853112,
