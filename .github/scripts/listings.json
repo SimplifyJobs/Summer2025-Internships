@@ -4310,7 +4310,7 @@
         "company_name": "Achronix Semiconductor",
         "id": "78052e54-5868-40b8-bf29-8c6d2f3ad11e",
         "title": "FPGA Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -17829,7 +17829,7 @@
         "company_name": "Arista Networks",
         "id": "af9444d4-cc93-47b4-999c-1298b95c147d",
         "title": "Professional Services Software Engineering Internship - Remote",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -87605,7 +87605,7 @@
         "company_name": "1Password",
         "id": "91cc4413-1821-4f2d-abc1-b84c80dd9e81",
         "title": "Developer Intern - Confidential Computing - Fall 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2024"
         ],
@@ -88572,7 +88572,7 @@
         "company_name": "Capital One",
         "id": "618bfd5c-a695-4534-8292-8bb5a0223326",
         "title": "Fullstack Engineer Fall co op 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2024"
         ],
@@ -88644,5 +88644,101 @@
         "date_posted": 1719957186,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Autodesk",
+        "id": "5bf2ae8b-bd46-48c0-9640-1f55107c0055",
+        "title": "Marketing Analytics Intern",
+        "active": true,
+        "terms": [
+            "Fall 2024"
+        ],
+        "date_updated": 1720019776,
+        "date_posted": 1720019776,
+        "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Marketing-Analytics-Intern_24WD79662-1",
+        "locations": [
+            "Montreal, QC, Canada",
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Autodesk",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Logitech",
+        "id": "f0300178-0331-4798-a9a1-72c2596ce3be",
+        "title": "Sourcing Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1720019666,
+        "date_posted": 1720019666,
+        "url": "https://jobs.jobvite.com/logitech/job/ozs4tfwi?nl=1&nl=1&fr=false",
+        "locations": [
+            "Lausanne, Switzerland"
+        ],
+        "company_url": "https://simplify.jobs/c/Logitech",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Roku",
+        "id": "f380b0df-8245-4c17-ac7a-3a201f4c35df",
+        "title": "SW Engineer Intern - Mobile",
+        "active": true,
+        "terms": [
+            "Fall 2024"
+        ],
+        "date_updated": 1720019159,
+        "date_posted": 1720019159,
+        "url": "https://www.weareroku.com/jobs/6085360?gh_jid=6085360",
+        "locations": [
+            "Cambridge, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Roku",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Applied Materials",
+        "id": "19f41d6e-b3d6-48ab-aeb3-389406f2db1a",
+        "title": "2024 Fall AI ML Co-op - Part-time - Gloucester - MA",
+        "active": true,
+        "terms": [
+            "Fall 2024"
+        ],
+        "date_updated": 1719990650,
+        "date_posted": 1719990650,
+        "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/GloucesterMA/XMLNAME-2024-Fall-AI-ML-Co-op--Part-time----Gloucester--MA_R2414076",
+        "locations": [
+            "Essex County, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Applied-Materials",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "OfferUp",
+        "id": "7106730e-7acc-4cee-b236-f2481b8d7478",
+        "title": "Software Development Engineer Intern - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1719962633,
+        "date_posted": 1719962633,
+        "url": "https://boards.greenhouse.io/offerup/jobs/6084534",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/OfferUp",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
