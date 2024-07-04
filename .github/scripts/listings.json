@@ -88670,7 +88670,7 @@
         "company_name": "Logitech",
         "id": "f0300178-0331-4798-a9a1-72c2596ce3be",
         "title": "Sourcing Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -88738,6 +88738,25 @@
             "Bellevue, WA"
         ],
         "company_url": "https://simplify.jobs/c/OfferUp",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Air Company",
+        "id": "9f26c37b-dc9b-4f89-b5bb-9cb030a30736",
+        "title": "Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1720048398,
+        "date_posted": 1720048398,
+        "url": "https://boards.greenhouse.io/aircompany/jobs/4440209005",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Air-Company",
         "is_visible": true,
         "sponsorship": "Other"
     }
