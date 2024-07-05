@@ -88759,5 +88759,24 @@
         "company_url": "https://simplify.jobs/c/Air-Company",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Quanterix",
+        "id": "e328e447-f30c-436c-bda3-d31c357f4ecf",
+        "title": "Data Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1720192737,
+        "date_posted": 1720192737,
+        "url": "https://www.quanterix.com/careers/job?gh_jid=6088572",
+        "locations": [
+            "Billerica, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Quanterix",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
