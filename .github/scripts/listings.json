@@ -88797,5 +88797,43 @@
         "date_posted": 1720226246,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Optiver",
+        "id": "e21ffb1f-6844-42af-809a-1ab69a22dd45",
+        "title": "Quantitative Trader Intern - Summer 2025 - Chicago",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1720221884,
+        "date_posted": 1720221884,
+        "url": "https://optiver.com/working-at-optiver/career-opportunities/7480659002/?gh_jid=7480659002",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Optiver",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Optiver",
+        "id": "4671de18-c10d-486f-b3a7-7a86467900d3",
+        "title": "Quantitative Research Intern - MS/BS",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1720221887,
+        "date_posted": 1720221887,
+        "url": "https://optiver.com/working-at-optiver/career-opportunities/7499032002/?gh_jid=7499032002",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Optiver",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
