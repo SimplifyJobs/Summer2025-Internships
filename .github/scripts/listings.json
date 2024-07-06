@@ -88778,5 +88778,24 @@
         "company_url": "https://simplify.jobs/c/Quanterix",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1720226246,
+        "url": "https://apply.workable.com/capula-investment-management-ltd/j/CADD57CDA5/",
+        "company_name": "Capula",
+        "title": "Trading and Research Summer Internship",
+        "locations": [
+            "New York, New York, United States"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "JihuiTanUchicago",
+        "id": "330e0143-b984-451c-8e54-229b5620b343",
+        "date_posted": 1720226246,
+        "company_url": "",
+        "is_visible": true
     }
 ]
