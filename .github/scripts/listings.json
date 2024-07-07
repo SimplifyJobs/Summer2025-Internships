@@ -290,7 +290,7 @@
         "company_name": "PDT Partners",
         "id": "25342808-efbf-49cd-83be-6c0a809f5e22",
         "title": "Software Engineering Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
