@@ -85440,7 +85440,7 @@
         "company_name": "Matterport",
         "id": "69527505-0313-4742-82a5-513cd86fa26d",
         "title": "Computer Vision / Machine Learning Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -85632,7 +85632,7 @@
         "company_name": "Intel",
         "id": "7f330418-5cb6-4fa2-8b52-dac0530e0f9f",
         "title": "Software Development \u2013 Undergraduate Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -86152,7 +86152,7 @@
         "company_name": "Symphony",
         "id": "cd52283a-ff78-468f-af49-f08f1feef6ff",
         "title": "Apprentice NLP Model Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -88437,7 +88437,7 @@
         "company_name": "Western Digital",
         "id": "e0b5b212-b7ea-4c47-8b16-dea567d61681",
         "title": "Summer 2024 \u2013 Data Analytics Engineering Intern - Local candidates Only",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -88833,6 +88833,63 @@
             "Austin, TX"
         ],
         "company_url": "https://simplify.jobs/c/Optiver",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "DRW",
+        "id": "d2065aff-504d-46e6-ab22-c96e4d06c1b0",
+        "title": "User-Interface \u2013 Engineer Intern - UI",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1720465476,
+        "date_posted": 1720452003,
+        "url": "https://boards.greenhouse.io/drweng/jobs/6071639",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/DRW",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "DRW",
+        "id": "5f101583-a472-4d80-875e-3adb94eb2fdf",
+        "title": "Quantitative Trading Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1720451989,
+        "date_posted": 1720451989,
+        "url": "https://boards.greenhouse.io/drweng/jobs/6041641",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/DRW",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Matterport",
+        "id": "48ae7684-58f0-4dbd-ace9-a8d33b27f1d0",
+        "title": "Computer Vision / Machine Learning Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1720422743,
+        "date_posted": 1720422743,
+        "url": "https://jobs.lever.co/matterport/8f080ac0-4f3c-4f87-89c0-b1c7beb98d44/apply",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Matterport",
         "is_visible": true,
         "sponsorship": "Other"
     }
