@@ -88879,11 +88879,11 @@
         "company_name": "Matterport",
         "id": "48ae7684-58f0-4dbd-ace9-a8d33b27f1d0",
         "title": "Computer Vision / Machine Learning Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
-        "date_updated": 1720422743,
+        "date_updated": 1720489238,
         "date_posted": 1720422743,
         "url": "https://jobs.lever.co/matterport/8f080ac0-4f3c-4f87-89c0-b1c7beb98d44/apply",
         "locations": [
