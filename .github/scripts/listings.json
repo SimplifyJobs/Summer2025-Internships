@@ -88912,5 +88912,24 @@
         "date_posted": 1720487360,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1720489251,
+        "url": "https://blackrock.tal.net/vx/lang-en-GB/mobile-0/brand-3/xf-42e764beb7f7/candidate/so/pm/1/pl/1/opp/8163-2025-Summer-Internship-Program-AMERS/en-GB",
+        "company_name": "BlackRock",
+        "title": "2025 Summer Internship Program - AMERS",
+        "locations": [
+            "Americas"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "seanlewertow",
+        "id": "6f3bd059-0ffc-4194-8e87-58356c25d1db",
+        "date_posted": 1720489251,
+        "company_url": "",
+        "is_visible": true
     }
 ]
