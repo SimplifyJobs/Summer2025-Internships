@@ -18668,7 +18668,7 @@
         "company_name": "Hewlett Packard (HP)",
         "id": "75aeb815-9001-4251-a70f-a1af246de451",
         "title": "Job Description HP Inc. Workforce Services & Solutions Technical Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -85672,7 +85672,7 @@
         "company_name": "Capstone Investment Advisors",
         "id": "3ca62825-c9a6-455d-a179-5f6f13de0a4d",
         "title": "2025 Summer Internship - Investment Quant Development",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -88967,6 +88967,44 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/Tower-Research-Capital",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Strider Technologies",
+        "id": "9c871a95-1566-4a9f-be6f-085c49133eb0",
+        "title": "Research Assistant Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1720566779,
+        "date_posted": 1720566779,
+        "url": "https://boards.greenhouse.io/stridertechnologies/jobs/4375683006",
+        "locations": [
+            "Vienna, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/StriderTech",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Formlabs",
+        "id": "7a4ae199-9b73-4733-9b0d-1632b8ab6f99",
+        "title": "Manufacturing Data Analysis Intern - Fall 2024",
+        "active": true,
+        "terms": [
+            "Fall 2024"
+        ],
+        "date_updated": 1720639910,
+        "date_posted": 1719520041,
+        "url": "https://careers.formlabs.com/job/6007626/apply/?gh_jid=6007626",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Formlabs",
         "is_visible": true,
         "sponsorship": "Other"
     }
