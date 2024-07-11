@@ -85632,7 +85632,7 @@
         "company_name": "Intel",
         "id": "7f330418-5cb6-4fa2-8b52-dac0530e0f9f",
         "title": "Software Development \u2013 Undergraduate Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -85885,7 +85885,7 @@
         "company_name": "May Mobility",
         "id": "4cbfd3c4-9918-41ce-bfb6-7f7b0b288c06",
         "title": "Autonomy Intern - Data Science",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024"
         ],
@@ -89005,6 +89005,26 @@
             "Cambridge, MA"
         ],
         "company_url": "https://simplify.jobs/c/Formlabs",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "GPTZero",
+        "id": "85d9aada-1016-4113-88e9-ad05a178e614",
+        "title": "Machine Learning Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1720710369,
+        "date_posted": 1720710369,
+        "url": "https://jobs.ashbyhq.com/GPTZero/d7e6f3ee-8446-4ac4-b1f8-e79c9876c31a/application",
+        "locations": [
+            "Toronto, ON, Canada",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/GPTZero",
         "is_visible": true,
         "sponsorship": "Other"
     }
