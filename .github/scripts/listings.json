@@ -86247,7 +86247,7 @@
         "company_name": "Fetch",
         "id": "53848010-a5c3-4101-afd7-bdd75048f5e3",
         "title": "Android \u2013 Apprenticeship - Mobile Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -89025,6 +89025,66 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/GPTZero",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Splunk",
+        "id": "68b6e6dd-7661-4ed5-bd6e-262f6f0b0c79",
+        "title": "Software Engineer Intern - Backend/Full-stack - US Remote - Fall 2024",
+        "active": true,
+        "terms": [
+            "Fall 2024"
+        ],
+        "date_updated": 1720739878,
+        "date_posted": 1720739878,
+        "url": "https://jobs.jobvite.com/splunk-careers/job/oKvqtfwS?nl=1&nl=1&fr=false",
+        "locations": [
+            "Texas",
+            "Remote in USA",
+            "Colorado",
+            "North Carolina"
+        ],
+        "company_url": "https://simplify.jobs/c/Splunk",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Intel",
+        "id": "08e3170d-d913-4b04-b342-23c8d2f5083e",
+        "title": "Ocotillo Technology Fabrication Yield Undergrad Internship",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1720739804,
+        "date_posted": 1720739804,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Arizona-Phoenix/Ocotillo-Technology-Fabrication-Yield-Undergrad-Internship_JR0266224",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Sanctuary AI",
+        "id": "fe0b5eea-9fcf-4645-9010-41923cd7dddd",
+        "title": "Software Co-op: Machine Learning Operations - Fall 2024",
+        "active": true,
+        "terms": [
+            "Fall 2024"
+        ],
+        "date_updated": 1720739509,
+        "date_posted": 1720739509,
+        "url": "https://jobs.lever.co/sanctuary/8a13c020-b65b-4ac9-878d-5569224b2546/apply",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Sanctuary-AI",
         "is_visible": true,
         "sponsorship": "Other"
     }
