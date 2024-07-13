@@ -88765,7 +88765,7 @@
         "company_name": "Quanterix",
         "id": "e328e447-f30c-436c-bda3-d31c357f4ecf",
         "title": "Data Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -89085,6 +89085,65 @@
             "Vancouver, BC, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Sanctuary-AI",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Second Front Systems",
+        "id": "553a2b4e-0ad2-4858-8238-a25cc6d09fd5",
+        "title": "Skillbridge Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1720854702,
+        "date_posted": 1720854702,
+        "url": "https://jobs.lever.co/secondfrontsystems/dc771da9-8b58-4fc7-9625-ff9ec2249efe/apply",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/SecondFrontSys",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Motorola",
+        "id": "4dd0efcf-535a-4155-8823-87633d1f443f",
+        "title": "Android Applications Developer Co-Op - Fall 2024",
+        "active": true,
+        "terms": [
+            "Fall 2024"
+        ],
+        "date_updated": 1720827008,
+        "date_posted": 1720827008,
+        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Android-Applications-Developer-Co-Op--Summer-2024-_R46398",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/MotorolaSolutions",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Western Digital",
+        "id": "fc8cbcf0-5fa1-4ea4-b456-33d20f80c04b",
+        "title": "Software Engineering Co-Op - January-August 2025",
+        "active": true,
+        "terms": [
+            "Winter 2026",
+            "Spring 2026",
+            "Summer 2026"
+        ],
+        "date_updated": 1720825593,
+        "date_posted": 1720825593,
+        "url": "https://jobs.smartrecruiters.com/WesternDigital/744000000225574",
+        "locations": [
+            "Rochester, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Western-Digital",
         "is_visible": true,
         "sponsorship": "Other"
     }
