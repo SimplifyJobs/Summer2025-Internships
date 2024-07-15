@@ -89112,7 +89112,7 @@
         "company_name": "Motorola",
         "id": "4dd0efcf-535a-4155-8823-87633d1f443f",
         "title": "Android Applications Developer Co-Op - Fall 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2024"
         ],
@@ -89165,5 +89165,43 @@
         "date_posted": 1721069437,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "IMC Trading",
+        "id": "ff2a0b0d-eef4-4929-8247-0eff30725baf",
+        "title": "Software Engineer Intern - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1721056229,
+        "date_posted": 1721056229,
+        "url": "https://boards.eu.greenhouse.io/imc/jobs/4347765101",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/IMC-Trading",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "IMC Trading",
+        "id": "9c63f232-24d3-47c5-bb33-ab038e311250",
+        "title": "Quant Trader Intern - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1721056228,
+        "date_posted": 1721056228,
+        "url": "https://boards.eu.greenhouse.io/imc/jobs/4345621101",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/IMC-Trading",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
