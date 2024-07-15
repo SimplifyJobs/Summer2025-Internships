@@ -89148,7 +89148,7 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1721069437,
+        "date_updated": 1721085190,
         "url": "https://simplify.jobs/p/ff2a0b0d-eef4-4929-8247-0eff30725baf/Software-Engineer-Intern",
         "company_name": "IMC Trading",
         "title": "Software Engineer Intern",
@@ -89158,13 +89158,13 @@
         "terms": [
             "Summer 2025"
         ],
-        "sponsorship": "Offers Sponsorship",
+        "sponsorship": "Other",
         "active": true,
         "source": "yan-michael",
         "id": "38513447-2e1c-4a90-81cd-b9bae7c9268e",
         "date_posted": 1721069437,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "source": "Simplify",
