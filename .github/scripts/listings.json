@@ -89203,5 +89203,24 @@
         "company_url": "https://simplify.jobs/c/IMC-Trading",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1721145386,
+        "url": "https://akunacapital.com/job-details?gh_jid=6080090",
+        "company_name": "Akuna Capital",
+        "title": "Software Engineer Intern - C++",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "reddoy",
+        "id": "5b439155-d5a9-4f00-9add-0c5318cc0e51",
+        "date_posted": 1721145386,
+        "company_url": "",
+        "is_visible": true
     }
 ]
