@@ -63232,7 +63232,7 @@
         "company_name": "Loop",
         "id": "b8f67b38-b5d4-47fc-9296-baad0deda9fc",
         "title": "Software Engineer Intern - Full-Stack",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -87510,7 +87510,7 @@
         "company_name": "HRL Laboratories",
         "id": "c86073a8-7012-4d37-b0db-80fa6e5195f9",
         "title": "Quantum Technology Intern - Doctorate",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -88320,7 +88320,7 @@
         "company_name": "Autodesk",
         "id": "9de66d7c-de4c-4e7d-939c-f949510c88d4",
         "title": "Remote iOS Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -88937,7 +88937,7 @@
         "company_name": "OfferUp",
         "id": "8960a5c9-4a5f-4a76-b640-97697b7f9fe9",
         "title": "Data Science Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -89217,8 +89217,8 @@
         ],
         "sponsorship": "Offers Sponsorship",
         "active": true,
-        "source": "reddoy",
-        "id": "5b439155-d5a9-4f00-9add-0c5318cc0e51",
+        "source": "Simplify",
+        "id": "71cf7b3f-5fb9-4eba-acf3-e1a7cf8c8b34",
         "date_posted": 1721145386,
         "company_url": "",
         "is_visible": true
@@ -89236,8 +89236,8 @@
         ],
         "sponsorship": "Offers Sponsorship",
         "active": true,
-        "source": "reddoy",
-        "id": "25585cff-57e5-4123-9179-a472c45e2840",
+        "source": "Simplify",
+        "id": "c35870e3-8698-436f-9f06-543b17107b44",
         "date_posted": 1721145492,
         "company_url": "",
         "is_visible": true
@@ -89255,10 +89255,143 @@
         ],
         "sponsorship": "Offers Sponsorship",
         "active": true,
-        "source": "reddoy",
-        "id": "4e742aa7-0d35-4652-8b2a-1a2f240d8563",
+        "source": "Simplify",
+        "id": "b1b5b35e-aae8-47db-bda8-c44c9719e0b1",
         "date_posted": 1721145558,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Splunk",
+        "id": "d6d3f7e8-eacf-49e4-a3f9-f47d859b27e0",
+        "title": "Software Engineer Intern - Frontend - US Remote - Fall 2024",
+        "active": true,
+        "terms": [
+            "Fall 2024"
+        ],
+        "date_updated": 1721085907,
+        "date_posted": 1721085907,
+        "url": "https://jobs.jobvite.com/splunk-careers/job/owVstfw6?nl=1&nl=1&fr=false",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Splunk",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "IXL Learning",
+        "id": "deea3e24-1c94-4276-8517-9f7d16dbe624",
+        "title": "Software Engineer \u2013 Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1721085841,
+        "date_posted": 1721085841,
+        "url": "https://www.ixl.com/company/jobs?gh_jid=7535510002",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/IXL-Learning",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "IXL Learning",
+        "id": "8ca0c749-e89e-4d5e-b537-7d4c18f08e9c",
+        "title": "Software Engineer \u2013 Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1721085842,
+        "date_posted": 1721085842,
+        "url": "https://www.ixl.com/company/jobs?gh_jid=7535493002",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/IXL-Learning",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Klue",
+        "id": "00347dd3-7eb0-4322-888f-e7334b4a36e0",
+        "title": "Data Analyst Intern",
+        "active": true,
+        "terms": [
+            "Fall 2024"
+        ],
+        "date_updated": 1721085402,
+        "date_posted": 1721085402,
+        "url": "https://jobs.ashbyhq.com/klue/329ca111-0653-490d-9a9c-3776c3b58e77/application",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/klue",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Point72",
+        "id": "793bcd34-4a64-46a3-a84a-2cd684a0bef8",
+        "title": "2024 Software Engineer Internship - Long/Short Equities",
+        "active": true,
+        "terms": [
+            "Fall 2024"
+        ],
+        "date_updated": 1721085402,
+        "date_posted": 1721085402,
+        "url": "https://boards.greenhouse.io/point72/jobs/7534587002",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Point72",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Akuna Capital",
+        "id": "df1b789e-f7a1-4ef8-999e-88a393e5e169",
+        "title": "Trader Intern - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1721085371,
+        "date_posted": 1721085371,
+        "url": "https://www.akunacapital.com/job-details?gh_jid=6075208",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Akuna-Capital",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Akuna Capital",
+        "id": "87d18c63-3a25-45cc-ab10-d99c351a6a8c",
+        "title": "Quantitative Development Internship - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1721085368,
+        "date_posted": 1721085368,
+        "url": "https://www.akunacapital.com/job-details?gh_jid=5744527",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Akuna-Capital",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
