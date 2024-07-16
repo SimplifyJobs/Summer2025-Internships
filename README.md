@@ -84,7 +84,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | **[Point72](https://simplify.jobs/c/Point72)** | Quantitative Developer Intern | New York, NY | <a href="https://careers.point72.com/CSJobDetail?jobName=summer-2025-quantitative-developer-internship&jobCode=CSS-0012293&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 18 |
 | Apple | Software Engineering Internship | United States | <a href="https://jobs.apple.com/en-us/details/200554359/software-engineering-internships?team=STDNT&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 07 |
 | **[Bridgewater Associates](https://simplify.jobs/c/Bridgewater-Associates)** | Investment Engineer Intern - Summer 2025 | Westport, CT | <a href="https://boards.greenhouse.io/bridgewater89/jobs/7239497002?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/5c07fd61-2cf8-4d0e-beaf-8a6aafb43173?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jun 06 |
-| Ventas | Software Engineer Intern | Chicago, IL | <a href="https://ventas.wd1.myworkdayjobs.com/en-US/ventas_careers/job/Intern--Software-Engineering--Summer-2025-_R0001113?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 26 |
 | SIG | Quantitative Trader Intern | Chicago, IL | <a href="https://careers.sig.com/job/8326/Quantitative-Trader-Internship-Summer-2025?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 24 |
 | D.E. Shaw | Software Developer Intern | New York, NY | <a href="https://www.deshaw.com/careers/software-developer-intern-new-york-summer-2025-5137?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 22 |
 | Cranium | AI/ML Engineer Intern | Short Hills, NJ | <a href="https://www.linkedin.com/jobs/view/ai-ml-engineer-intern-summer-2025-at-cranium-3925803158/?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 13 |
@@ -105,6 +104,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | ↳ | 2025 Summer Internship - Investment Quant Development | NYC | 🔒 | May 31 |
 | ↳ | 2025 Summer Internship - Software Engineering | NYC | 🔒 | May 31 |
 | ↳ | 2025 Summer Internship - Investment Quant Development | London, UK | 🔒 | May 31 |
+| Ventas | Software Engineer Intern | NYC | 🔒 | May 26 |
 | **[Walmart](https://simplify.jobs/c/Walmart)** | 2025 Summer Intern: Software Engineer II | Bentonville, AR</br>Sunnyvale, CA | 🔒 | Apr 30 |
 | **[Divergent](https://simplify.jobs/c/Divergent)** | Summer 2025 Internship Program - Engineering | Carson, CA | 🔒 | Apr 26 |
 | **[DriveTime](https://simplify.jobs/c/drivetime)** | Control Design Intern | Dallas, TX | 🔒 | Mar 27 |
