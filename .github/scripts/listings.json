@@ -89241,5 +89241,24 @@
         "date_posted": 1721145492,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1721145558,
+        "url": "https://akunacapital.com/job-details?gh_jid=6037985",
+        "company_name": "Akuna Capital",
+        "title": "Software Engineer Intern - Python",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "reddoy",
+        "id": "4e742aa7-0d35-4652-8b2a-1a2f240d8563",
+        "date_posted": 1721145558,
+        "company_url": "",
+        "is_visible": true
     }
 ]
