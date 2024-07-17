@@ -4310,7 +4310,7 @@
         "company_name": "Achronix Semiconductor",
         "id": "78052e54-5868-40b8-bf29-8c6d2f3ad11e",
         "title": "FPGA Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -69962,7 +69962,7 @@
         "company_name": "SharkNinja",
         "id": "8ea289fa-e7eb-4eed-aa7a-fa7bc190e167",
         "title": "Fall \u2013 Product Development Co-Op: June to December 2024",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024",
             "Fall 2024",
@@ -88650,7 +88650,7 @@
         "company_name": "Autodesk",
         "id": "5bf2ae8b-bd46-48c0-9640-1f55107c0055",
         "title": "Marketing Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2024"
         ],
@@ -88708,7 +88708,7 @@
         "company_name": "Applied Materials",
         "id": "19f41d6e-b3d6-48ab-aeb3-389406f2db1a",
         "title": "2024 Fall AI ML Co-op - Part-time - Gloucester - MA",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2024"
         ],
@@ -89093,7 +89093,7 @@
         "company_name": "Second Front Systems",
         "id": "553a2b4e-0ad2-4858-8238-a25cc6d09fd5",
         "title": "Skillbridge Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -89438,5 +89438,43 @@
         "date_posted": 1721243616,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Hewlett Packard (HP)",
+        "id": "6f1b8f29-37a4-48ac-8fcd-05fed8cdd2cf",
+        "title": "Software Engineer Intern-HP Wolf Security - 9 months",
+        "active": true,
+        "terms": [
+            "Fall 2024"
+        ],
+        "date_updated": 1721229980,
+        "date_posted": 1721229980,
+        "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Cambridge-Cambridgeshire-United-Kingdom/Graduate-Software-Engineer---HP-Wolf-Security_3128407-1",
+        "locations": [
+            "Cambridge, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Leidos",
+        "id": "3080cc3e-ee65-468d-88d4-a00629eb79c2",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1721229268,
+        "date_posted": 1721229268,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Vista-CA/Software-Engineer-Intern_R-00139462",
+        "locations": [
+            "Oceanside, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
