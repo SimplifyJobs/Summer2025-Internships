@@ -95,7 +95,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | D.E. Shaw | Software Developer Intern | New York, NY | <a href="https://www.deshaw.com/careers/software-developer-intern-new-york-summer-2025-5137?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 22 |
 | Cranium | AI/ML Engineer Intern | Short Hills, NJ | <a href="https://www.linkedin.com/jobs/view/ai-ml-engineer-intern-summer-2025-at-cranium-3925803158/?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 13 |
 | Epic | Software Developer Intern 🛂 | Madison, WI | <a href="https://epic.avature.net/Careers/FolderDetail/Verona-Wisconsin-United-States-Software-Developer-Intern-Summer-2025/25624?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 03 |
-| **[Chicago Trading Company](https://simplify.jobs/c/ChicagoTradingCo)** | Quant Trading Associate Intern | Chicago, IL | <a href="https://job-boards.greenhouse.io/chicagotradingreferral/jobs/4392223005?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 02 |
 | **[Matterport](https://simplify.jobs/c/Matterport)** | Computer Vision / Machine Learning Intern | Remote in USA | 🔒 | Jul 08 |
 | **[Quanterix](https://simplify.jobs/c/Quanterix)** | Data Analytics Intern | Billerica, MA | 🔒 | Jul 05 |
 | J. P. Morgan | Software Engineer Intern 🛂 | Atlanta, GA Chicago, IL Columbus, OH Houston, TX Jersey City, NJ Palo Alto, CA New York, NY Plano, TX Seattle, WA Tampa, FL Austin, TX | 🔒 | Jul 01 |
@@ -112,6 +111,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | ↳ | 2025 Summer Internship - Software Engineering | NYC | 🔒 | May 31 |
 | ↳ | 2025 Summer Internship - Investment Quant Development | London, UK | 🔒 | May 31 |
 | Ventas | Software Engineer Intern | NYC | 🔒 | May 26 |
+| **[Chicago Trading Company](https://simplify.jobs/c/ChicagoTradingCo)** | Quant Trading Associate Intern | Chicago,IL | 🔒 | May 02 |
 | **[Walmart](https://simplify.jobs/c/Walmart)** | 2025 Summer Intern: Software Engineer II | Bentonville, AR</br>Sunnyvale, CA | 🔒 | Apr 30 |
 | **[Divergent](https://simplify.jobs/c/Divergent)** | Summer 2025 Internship Program - Engineering | Carson, CA | 🔒 | Apr 26 |
 | **[DriveTime](https://simplify.jobs/c/drivetime)** | Control Design Intern | Dallas, TX | 🔒 | Mar 27 |
