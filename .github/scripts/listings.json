@@ -89412,5 +89412,31 @@
         "date_posted": 1721170683,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1721243616,
+        "url": "https://www.wellsfargojobs.com/en/jobs/r-385829/2025-technology-summer-internship-early-careers-software-or-data-engineer/",
+        "company_name": "Wells Fargo",
+        "title": "Software Engineering Intern",
+        "locations": [
+            "Charlotte, NC",
+            "Chandler, AZ",
+            "Phoenix, AZ",
+            "Summit, NJ",
+            "Irving, TX",
+            "Addison. TX",
+            "Minneapolis, MN",
+            "Saint Louis, MO"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "jerhe3",
+        "id": "b5981e4a-fac6-47af-97e2-d3cc9b93d05f",
+        "date_posted": 1721243616,
+        "company_url": "",
+        "is_visible": true
     }
 ]
