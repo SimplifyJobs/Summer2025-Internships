@@ -27058,7 +27058,7 @@
         "company_name": "Brain Technologies",
         "id": "d278a94d-c124-4977-8a9d-75b7f685c751",
         "title": "Generative AI Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2024"
         ],
@@ -77564,7 +77564,7 @@
         "company_name": "Brain Technologies",
         "id": "23f28f80-c21b-4f18-81f9-cd87083173b2",
         "title": "Large Language Model Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2024"
         ],
@@ -78005,7 +78005,7 @@
         "company_name": "Marcus & Millichap",
         "id": "40dfc019-f516-443d-b53b-468d2e87fee9",
         "title": "Corporate Capital Markets Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024"
         ],
@@ -80453,7 +80453,7 @@
         "company_name": "Marcus & Millichap",
         "id": "7496add4-d6c4-4333-a21f-28a010dbaaf5",
         "title": "Corporate Capital Markets Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024"
         ],
@@ -84484,7 +84484,7 @@
         "company_name": "Autodesk",
         "id": "889b2c69-2459-4404-a834-6d0e38f80346",
         "title": "Software Developer \u2013 Intern - Fall",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2024"
         ],
@@ -87918,7 +87918,7 @@
         "company_name": "PolyAI",
         "id": "79fe9cd9-2c95-4d58-8e71-d2c3f7c8e78f",
         "title": "Software Engineer \u2013 Internship Program - Project - Fixed term contract",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -88146,7 +88146,7 @@
         "company_name": "Intel",
         "id": "11505e1a-be89-4e83-97c1-f13824a437e0",
         "title": "Software Development \u2013 Undergraduate Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -89444,7 +89444,7 @@
         "company_name": "Hewlett Packard (HP)",
         "id": "6f1b8f29-37a4-48ac-8fcd-05fed8cdd2cf",
         "title": "Software Engineer Intern-HP Wolf Security - 9 months",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2024"
         ],
@@ -89463,7 +89463,7 @@
         "company_name": "Leidos",
         "id": "3080cc3e-ee65-468d-88d4-a00629eb79c2",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -89474,6 +89474,63 @@
             "Oceanside, CA"
         ],
         "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Sunwater Capital",
+        "id": "e098c292-137b-44ae-913a-16754a5663f9",
+        "title": "Sunwater Institute Congressional Data Internship",
+        "active": true,
+        "terms": [
+            "Fall 2024"
+        ],
+        "date_updated": 1721316005,
+        "date_posted": 1721316005,
+        "url": "https://jobs.lever.co/sunwatercapital/2ea3dcf2-2b94-4ac2-864e-e08688539830/apply",
+        "locations": [
+            "North Bethesda, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/SunwaterCapital",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Sunwater Capital",
+        "id": "24bd39ce-3dbc-465b-8597-103dd32ed06e",
+        "title": "Sunwater Institute Data Science Intern",
+        "active": true,
+        "terms": [
+            "Fall 2024"
+        ],
+        "date_updated": 1721316004,
+        "date_posted": 1721316004,
+        "url": "https://jobs.lever.co/sunwatercapital/5c255114-0dc9-4a94-995f-0daefb727b1f/apply",
+        "locations": [
+            "North Bethesda, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/SunwaterCapital",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Pison",
+        "id": "1585093a-69dd-4004-97e1-ad05820646ac",
+        "title": "Data Collection Fall Intern",
+        "active": true,
+        "terms": [
+            "Fall 2024"
+        ],
+        "date_updated": 1721315187,
+        "date_posted": 1721315187,
+        "url": "https://jobs.lever.co/pison/942dbddb-f6d1-459b-8281-271e8734388c/apply",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/PisonTech",
         "is_visible": true,
         "sponsorship": "Other"
     }
