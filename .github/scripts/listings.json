@@ -89609,5 +89609,24 @@
         "company_url": "https://simplify.jobs/c/BMO",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1721426831,
+        "url": "https://careers.tiktok.com/position/7390530196414613811/detail",
+        "company_name": "TikTok",
+        "title": "Mobile Software Engineer Intern - User Relation",
+        "locations": [
+            "Los Angeles, CA"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "boatnoah",
+        "id": "d23da8df-6a60-4723-80c6-cea4c82be5c5",
+        "date_posted": 1721426831,
+        "company_url": "",
+        "is_visible": true
     }
 ]
