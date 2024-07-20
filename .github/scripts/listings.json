@@ -89628,5 +89628,43 @@
         "date_posted": 1721426831,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Snowflake",
+        "id": "29f89d47-b853-4568-bb41-c00705e348af",
+        "title": "Data Scientist Intern - Fall 2024",
+        "active": true,
+        "terms": [
+            "Fall 2024"
+        ],
+        "date_updated": 1721431482,
+        "date_posted": 1721431482,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=7559273002",
+        "locations": [
+            "Dublin, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Snowflake",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Litmus",
+        "id": "2d9c4af1-18e6-4eac-9ec3-41f3a2036eed",
+        "title": "Solutions Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1721430494,
+        "date_posted": 1721430494,
+        "url": "https://boards.greenhouse.io/litmus46/jobs/4435534005",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/LitmusAutomation",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
