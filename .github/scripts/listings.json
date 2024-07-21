@@ -2299,7 +2299,7 @@
         "company_name": "Squarepoint Capital",
         "id": "2c334a12-438c-49bb-8cf8-53a3ebc22b33",
         "title": "Intern Quant Researcher",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -89266,7 +89266,7 @@
         "company_name": "Splunk",
         "id": "d6d3f7e8-eacf-49e4-a3f9-f47d859b27e0",
         "title": "Software Engineer Intern - Frontend - US Remote - Fall 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2024"
         ],
