@@ -89666,5 +89666,24 @@
         "company_url": "https://simplify.jobs/c/LitmusAutomation",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1721605521,
+        "url": "https://www.ixl.com/company/careers?gh_jid=7535493002",
+        "company_name": "IXL Learning",
+        "title": "Software Engineer, Intern",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "Linchen-Xu",
+        "id": "fbdfc060-eea5-43f5-839b-ef5f2f685f81",
+        "date_posted": 1721605521,
+        "company_url": "",
+        "is_visible": true
     }
 ]
