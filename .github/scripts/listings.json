@@ -43745,7 +43745,7 @@
         "company_name": "Simbe Robotics",
         "id": "8d738c60-4866-4302-8564-a738a0d9cd48",
         "title": "Robotics Software Engineer \u2013 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2023",
             "Spring 2024",
@@ -84484,7 +84484,7 @@
         "company_name": "Autodesk",
         "id": "889b2c69-2459-4404-a834-6d0e38f80346",
         "title": "Software Developer \u2013 Intern - Fall",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2024"
         ],
@@ -86399,7 +86399,7 @@
         "company_name": "Businessolver",
         "id": "0067ed0e-f851-445f-8fce-c2cbedd90c65",
         "title": "Internship - Data & Database Engineer - Work Remotely within the United States",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -87624,7 +87624,7 @@
         "company_name": "Major League Baseball (MLB)",
         "id": "07d441d4-4420-446d-8050-4ee7e8472c75",
         "title": "Afl \u2013 Bullpen Catcher & Technology Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2024"
         ],
@@ -88591,7 +88591,7 @@
         "company_name": "Roku",
         "id": "d6bd7701-e579-4141-a719-c0da78b432a6",
         "title": "SW Engineer Intern - Mobile",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2024"
         ],
@@ -88689,7 +88689,7 @@
         "company_name": "Roku",
         "id": "f380b0df-8245-4c17-ac7a-3a201f4c35df",
         "title": "SW Engineer Intern - Mobile",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2024"
         ],
@@ -88907,8 +88907,8 @@
         ],
         "sponsorship": "Offers Sponsorship",
         "active": true,
-        "source": "reddoy",
-        "id": "f4d15bae-ef35-443b-a4da-03e0473e5387",
+        "source": "Simplify",
+        "id": "e779e175-1975-4cdd-9e87-4d13b859e266",
         "date_posted": 1720487360,
         "company_url": "",
         "is_visible": true
@@ -89596,7 +89596,7 @@
         "company_name": "Bank of Montreal (BMO)",
         "id": "aa689b43-ea55-47d2-b63b-053d2a5851ea",
         "title": "Analyst \u2013 Co-op/Internship - Fall 2024 - 8 Months",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2024"
         ],
@@ -89685,5 +89685,24 @@
         "date_posted": 1721605521,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "T. Rowe Price",
+        "id": "2545afb8-201e-4ab1-910c-f8fc06be7c60",
+        "title": "2025 Global Trading Internship Program",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1721661564,
+        "date_posted": 1721661564,
+        "url": "https://troweprice.wd5.myworkdayjobs.com/en-US/TRowePrice/job/Baltimore-MD/XMLNAME-2025-Global-Trading-Internship-Program_72418",
+        "locations": [
+            "Baltimore, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/t-rowe-price",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
