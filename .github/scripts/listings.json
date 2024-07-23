@@ -89712,18 +89712,16 @@
         "title": "UIUC Reseach Park Intern - Camera Imaging",
         "active": true,
         "terms": [
-            "Fall 2024",
-            "Spring 2025",
             "Summer 2025"
         ],
-        "date_updated": 1721748070,
+        "date_updated": 1721774271,
         "date_posted": 1721748070,
         "url": "https://careers.rivian.com/jobs/18226?lang=en-us&icims=1",
         "locations": [
             "Urbana, IL"
         ],
         "company_url": "https://simplify.jobs/c/Rivian",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
