@@ -52906,7 +52906,7 @@
         "company_name": "ExodusPoint",
         "id": "405dc370-0c78-4392-910f-b92e23c3b00f",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -69769,7 +69769,7 @@
         "company_name": "Caldera",
         "id": "87dace74-0521-4bcf-bd55-442d5e987e15",
         "title": "Blockchain Researcher \u2013 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -69962,7 +69962,7 @@
         "company_name": "SharkNinja",
         "id": "8ea289fa-e7eb-4eed-aa7a-fa7bc190e167",
         "title": "Fall \u2013 Product Development Co-Op: June to December 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024",
             "Fall 2024",
@@ -72332,7 +72332,7 @@
         "company_name": "Tender Food",
         "id": "f1b48ae7-d6b8-454e-9934-c62b965cb602",
         "title": "Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -72504,7 +72504,7 @@
         "company_name": "WebFX",
         "id": "f57fcc74-19dd-47a4-9d11-99e5fd1a32e0",
         "title": "Web Project Coordinator Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -75441,7 +75441,7 @@
         "company_name": "Neuralink",
         "id": "130954a1-4505-43eb-b09b-15b064aff60b",
         "title": "Robot Optics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -81038,7 +81038,7 @@
         "company_name": "Zuru",
         "id": "ab62022e-cc11-4a0a-a72f-43cbd141a2df",
         "title": "Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -82481,7 +82481,7 @@
         "company_name": "Certik",
         "id": "f4ef1938-14e4-4b89-bb37-000dc63b2621",
         "title": "Crypto Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -84638,7 +84638,7 @@
         "company_name": "Exiger",
         "id": "19cf290c-a417-4960-8f6c-af6371ff8a8b",
         "title": "Analyst \u2013 Intern - Department of Defense Skillbridge",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -86113,7 +86113,7 @@
         "company_name": "Strider Technologies",
         "id": "94c04a2d-1e34-4da0-9ade-84d5ab966830",
         "title": "Data Labeling Specialist Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -87106,7 +87106,7 @@
         "company_name": "Workato",
         "id": "406a21df-bb66-48f7-acca-752ee5468f2f",
         "title": "Intern \u2013 Customer Experience",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -87548,7 +87548,7 @@
         "company_name": "Democratic National Committee (DNC)",
         "id": "5db59983-9b6f-4d2c-b78a-0129cd593bdc",
         "title": "Fall 2024: DNC Technology Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2024"
         ],
@@ -87819,7 +87819,7 @@
         "company_name": "Mercedes-Benz",
         "id": "3940abc9-dddc-4ac5-92c4-ffd5ea57ffcb",
         "title": "Engineering Intern - Edrive Core Software",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -88975,7 +88975,7 @@
         "company_name": "Strider Technologies",
         "id": "9c871a95-1566-4a9f-be6f-085c49133eb0",
         "title": "Research Assistant Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -89055,7 +89055,7 @@
         "company_name": "Intel",
         "id": "08e3170d-d913-4b04-b342-23c8d2f5083e",
         "title": "Ocotillo Technology Fabrication Yield Undergrad Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -89482,7 +89482,7 @@
         "company_name": "Sunwater Capital",
         "id": "e098c292-137b-44ae-913a-16754a5663f9",
         "title": "Sunwater Institute Congressional Data Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2024"
         ],
@@ -89841,7 +89841,7 @@
         "company_name": "GuidePoint Security",
         "id": "13d5f359-e39e-4760-b537-3a7994e11388",
         "title": "Resource Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -89874,5 +89874,43 @@
         "date_posted": 1721779939,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "CACI",
+        "id": "37e50883-22f2-4b23-96a5-8422c3cd08f3",
+        "title": "Software Developer Intern - Fall 2024",
+        "active": true,
+        "terms": [
+            "Fall 2024"
+        ],
+        "date_updated": 1721776081,
+        "date_posted": 1721776081,
+        "url": "https://caci.wd1.myworkdayjobs.com/External/job/US-VA-Charlottesville/Software-Developer-Intern---Fall-2024_299212-1",
+        "locations": [
+            "Charlottesville, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/CACI",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Akuna Capital",
+        "id": "b13ff4b5-fbc9-4fcd-8ec5-08c3e510f67c",
+        "title": "Performance Engineer Intern - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1721085376,
+        "date_posted": 1721085376,
+        "url": "https://www.akunacapital.com/job-details?gh_jid=5744699",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Akuna-Capital",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
