@@ -17950,7 +17950,7 @@
         "company_name": "Matroid",
         "id": "84b371d0-4623-4124-9aac-1c18f5cb917c",
         "title": "Full Stack Engineer Intern for Computer Vision Products - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -36810,7 +36810,7 @@
         "company_name": "Astranis",
         "id": "42844860-966a-4756-a373-2c6fe3007c5c",
         "title": "Software Systems Hardware Integration Engineer \u2013 Intern - Fall 2024",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2024"
         ],
@@ -75441,7 +75441,7 @@
         "company_name": "Neuralink",
         "id": "130954a1-4505-43eb-b09b-15b064aff60b",
         "title": "Robot Optics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -76463,7 +76463,7 @@
         "company_name": "Elastic",
         "id": "70bc32be-538a-4c01-a10f-b9d9e6dacabb",
         "title": "Skillbridge Intern - Consulting Architect - Search",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2024"
         ],
@@ -87819,7 +87819,7 @@
         "company_name": "Mercedes-Benz",
         "id": "3940abc9-dddc-4ac5-92c4-ffd5ea57ffcb",
         "title": "Engineering Intern - Edrive Core Software",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -89055,7 +89055,7 @@
         "company_name": "Intel",
         "id": "08e3170d-d913-4b04-b342-23c8d2f5083e",
         "title": "Ocotillo Technology Fabrication Yield Undergrad Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -89634,7 +89634,7 @@
         "company_name": "Snowflake",
         "id": "29f89d47-b853-4568-bb41-c00705e348af",
         "title": "Data Scientist Intern - Fall 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2024"
         ],
@@ -89691,7 +89691,7 @@
         "company_name": "T. Rowe Price",
         "id": "2545afb8-201e-4ab1-910c-f8fc06be7c60",
         "title": "2025 Global Trading Internship Program",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -89910,6 +89910,67 @@
             "Chicago, IL"
         ],
         "company_url": "https://simplify.jobs/c/Akuna-Capital",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Gordian Biotechnology",
+        "id": "277bad20-b5f4-4158-9b18-e9584db29d59",
+        "title": "Gordian Apprenticeship - Data Science",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1721892531,
+        "date_posted": 1721892531,
+        "url": "https://jobs.lever.co/gordian-bio/8c0b28f2-ed01-450d-a9eb-758073638050/apply",
+        "locations": [
+            "San Bruno, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Gordian-Biotechnology",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "ATPCO",
+        "id": "787289d2-3d47-4052-88f0-88833953a6aa",
+        "title": "Systems Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1721720089,
+        "date_posted": 1721720089,
+        "url": "https://jobs.smartrecruiters.com/ATPCO1/744000000717125",
+        "locations": [
+            "Remote in USA",
+            "Dulles, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/e38ff337-ef4e-42b4-b1fc-e1834b3b603f",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Rivos",
+        "id": "9f55fb4b-5ccf-48ff-9654-a2fd4b002062",
+        "title": "Silicon Formal Verification \u2013 Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1719518910,
+        "date_posted": 1719518910,
+        "url": "https://jobs.lever.co/rivosinc/53230c5e-cec1-4069-9771-1ce7b525d71c/apply",
+        "locations": [
+            "Austin, TX",
+            "Santa Clara, CA",
+            "Fort Collins, CO",
+            "Portland, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/Rivos",
         "is_visible": true,
         "sponsorship": "Other"
     }
