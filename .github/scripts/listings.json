@@ -87834,7 +87834,7 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1719435662,
+        "date_updated": 1721951532,
         "url": "https://jobs.us.pwc.com/job/-/-/932/66835864048",
         "company_name": "PwC",
         "title": "Products & Technology Intern",
@@ -87847,13 +87847,13 @@
         "terms": [
             "Summer 2025"
         ],
-        "sponsorship": "Does Not Offer Sponsorship",
+        "sponsorship": "Other",
         "active": true,
         "source": "reddoy",
         "id": "773bd3b3-8a21-4b6e-a283-8892ef26b987",
         "date_posted": 1719435662,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1719436099,
