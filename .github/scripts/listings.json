@@ -89748,7 +89748,7 @@
         "company_name": "Publicis Groupe",
         "id": "0d7bdeca-4c3b-4d75-b20e-e5b452696031",
         "title": "Digital Business Trainee",
-        "active": true,
+        "active": false,
         "terms": [],
         "date_updated": 1721720870,
         "date_posted": 1721720870,
@@ -89918,7 +89918,7 @@
         "company_name": "Gordian Biotechnology",
         "id": "277bad20-b5f4-4158-9b18-e9584db29d59",
         "title": "Gordian Apprenticeship - Data Science",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -89971,6 +89971,107 @@
             "Portland, OR"
         ],
         "company_url": "https://simplify.jobs/c/Rivos",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "The Boeing Company",
+        "id": "ab56bdbe-af2c-43bf-a044-c5ac8cb0a04b",
+        "title": "Technical Apprentice Nondestructive Testing - Ndt - Hiring Our Heroes Military Spouse Fellowship",
+        "active": true,
+        "terms": [
+            "Fall 2024"
+        ],
+        "date_updated": 1722008163,
+        "date_posted": 1722008163,
+        "url": "https://boeing.wd1.myworkdayjobs.com/external_careers/job/USA---Charleston-SC/Technical-Apprentice-Nondestructive-Testing--NDT---Hiring-Our-Heroes-Military-Spouse-Fellowship-_00000432349-1",
+        "locations": [
+            "Tukwila, WA",
+            "Everett, WA",
+            "Auburn, WA",
+            "Charleston, SC",
+            "Hazelwood, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Hootsuite",
+        "id": "0052c8f6-f3e0-40b1-ba27-2a45e751bbe0",
+        "title": "Co-Op \u2013 Software Development",
+        "active": true,
+        "terms": [
+            "Fall 2024"
+        ],
+        "date_updated": 1721951725,
+        "date_posted": 1721951725,
+        "url": "https://careers.hootsuite.com/job/?gh_jid=6135603",
+        "locations": [
+            "Alberta, Canada",
+            "Ontario, Canada",
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/a8d5c1d3-09fb-4507-921e-c80da80d0843",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Lakeside Software",
+        "id": "8032c990-ffcf-49fa-b2ec-09a0739a731b",
+        "title": "Technical Translator Intern - Spanish/French/German - Multiple Openings",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1721949395,
+        "date_posted": 1721949395,
+        "url": "https://job-boards.greenhouse.io/lakesidesoftware/jobs/4389030006",
+        "locations": [
+            "Ann Arbor, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Lakeside-Software",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Lakeside Software",
+        "id": "5e2c74de-af4c-4afb-9a89-49f9dafe93d5",
+        "title": "Technical Translator Intern - Spanish/French/German - Multiple Openings",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1721949393,
+        "date_posted": 1721949393,
+        "url": "https://job-boards.greenhouse.io/lakesidesoftware/jobs/4389024006",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Lakeside-Software",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Puffco",
+        "id": "248fab31-97ec-412b-809f-2c9e3e84654f",
+        "title": "Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1721957243,
+        "date_posted": 1721949364,
+        "url": "https://job-boards.greenhouse.io/puffco/jobs/4386520006",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Puffco",
         "is_visible": true,
         "sponsorship": "Other"
     }
