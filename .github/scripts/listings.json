@@ -90095,7 +90095,7 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1722116067,
+        "date_updated": 1722119270,
         "url": "https://sensata.wd1.myworkdayjobs.com/Sensata-Careers/job/Attleboro-Massachusetts/Software-Engineer-Intern---Summer-2025_IRC93689",
         "company_name": "Sensata Technologies",
         "title": "Software Engineer Intern",
@@ -90105,12 +90105,12 @@
         "terms": [
             "Summer 2025"
         ],
-        "sponsorship": "Offers Sponsorship",
+        "sponsorship": "Other",
         "active": true,
         "source": "cboiteux2765",
         "id": "34262757-5e58-4e1d-850a-1df65ba9cc3b",
         "date_posted": 1722116067,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     }
 ]
