@@ -90112,5 +90112,24 @@
         "date_posted": 1722116067,
         "company_url": "",
         "is_visible": false
+    },
+    {
+        "date_updated": 1722290788,
+        "url": "https://www.amazon.jobs/en/jobs/2713207/2025-program-manager-intern",
+        "company_name": "Amazon",
+        "title": "Program Manager Intern",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "cboiteux2765",
+        "id": "8c6d28fe-5a2f-4b72-83e0-1698f9c6f3c0",
+        "date_posted": 1722290788,
+        "company_url": "",
+        "is_visible": true
     }
 ]
