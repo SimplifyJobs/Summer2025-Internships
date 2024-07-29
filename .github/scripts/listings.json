@@ -90176,5 +90176,27 @@
         "date_posted": 1722290850,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1722290924,
+        "url": "https://www.mwam.com/technology-internship-programme/",
+        "company_name": "Marshall Wace",
+        "title": "Software Engineering Intern",
+        "locations": [
+            "London",
+            "NYC",
+            "Singapore",
+            "Hong Kong"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "mwam-hackathon",
+        "id": "9d0b9909-60b8-417e-aac0-b81de149569e",
+        "date_posted": 1722290924,
+        "company_url": "",
+        "is_visible": true
     }
 ]

@@ -59,6 +59,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Marshall Wace | Software Engineering Intern | <details><summary>**4 locations**</summary>London</br>NYC</br>Singapore</br>Hong Kong</details> | <a href="https://www.mwam.com/technology-internship-programme/?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 29 |
 | L3Harris Technologies | Software Engineer Intern 1 🇺🇸 | Canoga Park, CA | <a href="https://careers.l3harris.com/job/-/-/4832/67443054544?src=SNS-10240&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 29 |
 | Bank of America | Global Technology Analyst Intern | <details><summary>**8 locations**</summary>Charlotte, NC</br>Chicago, IL</br>Dallas Metro, TX</br>Denver, CO</br>NY Metro</br>Pennington, NJ</br>Richmond, VA</br>Washington, DC</details> | <a href="https://campus.bankofamerica.com/careers/global_technology_summer_analyst_program__2025.html?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 29 |
 | Amazon | Program Manager Intern 🛂 | Seattle, WA | <a href="https://www.amazon.jobs/en/jobs/2713207/2025-program-manager-intern?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 29 |
