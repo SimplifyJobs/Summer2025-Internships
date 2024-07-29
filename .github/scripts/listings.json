@@ -90157,5 +90157,24 @@
         "date_posted": 1722290812,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1722290850,
+        "url": "https://careers.l3harris.com/job/-/-/4832/67443054544?src=SNS-10240",
+        "company_name": "L3Harris Technologies",
+        "title": "Software Engineer Intern 1",
+        "locations": [
+            "Canoga Park, CA"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "source": "cboiteux2765",
+        "id": "1d79d15a-76f0-4b6c-9c88-63e0a0334ef0",
+        "date_posted": 1722290850,
+        "company_url": "",
+        "is_visible": true
     }
 ]
