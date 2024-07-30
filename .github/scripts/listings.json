@@ -90275,5 +90275,25 @@
         "company_url": "https://simplify.jobs/c/DRW",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1722383729,
+        "url": "https://app.ripplematch.com/v2/public/job/70fb2330/details?from_page=tracking_link&tl=1edfe69a",
+        "company_name": "Notion",
+        "title": "Software Engineer Intern, Mobile (Summer 2025)",
+        "locations": [
+            "San Francisco, CA",
+            "New York, NY"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "dhruvb26",
+        "id": "df88ff39-8a23-40cb-817c-c99a45deb5e6",
+        "date_posted": 1722383729,
+        "company_url": "",
+        "is_visible": true
     }
 ]
