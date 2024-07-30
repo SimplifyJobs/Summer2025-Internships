@@ -90295,5 +90295,25 @@
         "date_posted": 1722383729,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1722383767,
+        "url": "https://app.ripplematch.com/v2/public/job/46c48ab1/details?from_page=tracking_link&tl=1edfe69a",
+        "company_name": "Notion",
+        "title": "Software Engineering Intern (Summer 2025)",
+        "locations": [
+            "San Francisco, CA",
+            "New York, NY"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "dhruvb26",
+        "id": "0ee65bfa-60fa-49ec-b38b-1ad124b49717",
+        "date_posted": 1722383767,
+        "company_url": "",
+        "is_visible": true
     }
 ]
