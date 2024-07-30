@@ -126,7 +126,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | ↳ | 2025 Summer Internship - Investment Quant Development | NYC | 🔒 | May 31 |
 | ↳ | 2025 Summer Internship - Software Engineering | NYC | 🔒 | May 31 |
 | ↳ | 2025 Summer Internship - Investment Quant Development | London, UK | 🔒 | May 31 |
-| Ventas | Software Engineer Intern | NYC | 🔒 | May 26 |
+| Ventas | Software Engineer Intern | Chicago, IL | 🔒 | May 26 |
 | **[Chicago Trading Company](https://simplify.jobs/c/ChicagoTradingCo)** | Quant Trading Associate Intern | Chicago,IL | 🔒 | May 02 |
 | **[Walmart](https://simplify.jobs/c/Walmart)** | 2025 Summer Intern: Software Engineer II | Bentonville, AR</br>Sunnyvale, CA | 🔒 | Apr 30 |
 | **[Divergent](https://simplify.jobs/c/Divergent)** | Summer 2025 Internship Program - Engineering | Carson, CA | 🔒 | Apr 26 |
