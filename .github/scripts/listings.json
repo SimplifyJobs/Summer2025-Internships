@@ -89856,19 +89856,18 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1721779939,
+        "date_updated": 1722463156,
         "url": "https://troweprice.wd5.myworkdayjobs.com/en-US/TRowePrice/job/Owings-Mills-MD/XMLNAME-2025-Global-Technology---Software-Engineering-Internship-Program_72424",
         "company_name": "T. Rowe Price",
-        "title": "Software Engineering Intern",
+        "title": "Software Engineering Intern \ud83d\udec2",
         "locations": [
-            "Owings Mills, MD",
-            "Baltimore, MD"
+            "Owings Mills, MD Baltimore, MD"
         ],
         "terms": [
             "Summer 2025"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "source": "reddoy",
         "id": "3988479d-6075-4c78-a2c4-3a48f2fe458c",
         "date_posted": 1721779939,
