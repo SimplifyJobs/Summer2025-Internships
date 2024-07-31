@@ -88146,7 +88146,7 @@
         "company_name": "Intel",
         "id": "11505e1a-be89-4e83-97c1-f13824a437e0",
         "title": "Software Development \u2013 Undergraduate Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -89979,7 +89979,7 @@
         "company_name": "The Boeing Company",
         "id": "ab56bdbe-af2c-43bf-a044-c5ac8cb0a04b",
         "title": "Technical Apprentice Nondestructive Testing - Ndt - Hiring Our Heroes Military Spouse Fellowship",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2024"
         ],
@@ -90334,5 +90334,157 @@
         "date_posted": 1722384083,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Cerence",
+        "id": "b7fa3761-f688-48c2-b5ed-330b522da862",
+        "title": "Autumne/Fall \u2013 / Software Developer Intern - D\u00e9veloppeur logiciel - Stagiaire",
+        "active": true,
+        "terms": [
+            "Fall 2024"
+        ],
+        "date_updated": 1722440134,
+        "date_posted": 1722440134,
+        "url": "https://cerence.wd5.myworkdayjobs.com/Cerence/job/Montreal/XMLNAME--AUTUMNE-FALL--Dveloppeur-logiciel--Stagiaire----Software-Developer-Intern_R0005392",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Cerence",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Motorola",
+        "id": "8db4c69b-6130-4eec-bad0-5cb1b98566ad",
+        "title": "Android Platform Software Engineering Intern - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1722440030,
+        "date_posted": 1722440030,
+        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/Android-Platform-Software-Engineering-Intern---Summer-2025_R48957",
+        "locations": [
+            "Hoffman Estates, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/MotorolaSolutions",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Motorola",
+        "id": "9848f73e-d513-4a10-a8fa-f58d103116f3",
+        "title": "Android Platform Software Engineering Intern - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1722440029,
+        "date_posted": 1722440029,
+        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/Android-Platform-Software-Engineering-Intern---Summer-2025_R48956",
+        "locations": [
+            "Plantation, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/MotorolaSolutions",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Motorola",
+        "id": "15ec9061-c555-4af6-8a79-830b0bcd1697",
+        "title": "Android Platform Software Engineering Intern - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1722440027,
+        "date_posted": 1722440027,
+        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/Android-Platform-Software-Engineering-Intern---Summer-2025_R48958",
+        "locations": [
+            "Hoffman Estates, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/MotorolaSolutions",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Codeium",
+        "id": "446c997d-cb9d-4543-ae37-e2557540b729",
+        "title": "Software Engineer Intern - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1722411190,
+        "date_posted": 1722411190,
+        "url": "https://jobs.ashbyhq.com/codeium/fdd799a9-72a2-41d4-bf55-4f562b9403f2/application",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/5db7086b-b6ff-42a7-8f16-5967451d29bf",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Codeium",
+        "id": "670503b1-248c-4d7f-92a0-b3468a85a1e3",
+        "title": "Software Engineer Intern - Spring 2025",
+        "active": true,
+        "terms": [
+            "Spring 2025"
+        ],
+        "date_updated": 1722411187,
+        "date_posted": 1722411187,
+        "url": "https://jobs.ashbyhq.com/codeium/a08eeff7-e0e3-4f80-a729-674726871528/application",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/5db7086b-b6ff-42a7-8f16-5967451d29bf",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Heretic",
+        "id": "3f652d57-4fdd-43e6-b5e6-03a783c08064",
+        "title": "Fall 2024 \u2013 Applied AI/ML Engineering Intern",
+        "active": true,
+        "terms": [
+            "Fall 2024"
+        ],
+        "date_updated": 1722381862,
+        "date_posted": 1722381862,
+        "url": "https://jobs.lever.co/heretic-fund/a3ae87c5-f77a-4fe6-90f7-42af5f667a77/apply",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/HereticVentures",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Leidos",
+        "id": "08bed13d-8378-4ee9-8349-8df9b733209e",
+        "title": "Simulation Development Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1722381828,
+        "date_posted": 1722381828,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Orlando-FL/Simulation-Development-Intern_R-00140517",
+        "locations": [
+            "Orlando, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
