@@ -90638,5 +90638,24 @@
         "company_url": "https://simplify.jobs/c/Leidos",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1722634792,
+        "url": "https://careers.salesforce.com/en/jobs/jr261131/summer-2025-intern-associate-product-manager-apm/",
+        "company_name": "Salesforce",
+        "title": "Associate Product Manager",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "reddoy",
+        "id": "28e2b7ba-7f7a-4979-8760-afe0b41f7d8d",
+        "date_posted": 1722634792,
+        "company_url": "",
+        "is_visible": true
     }
 ]
