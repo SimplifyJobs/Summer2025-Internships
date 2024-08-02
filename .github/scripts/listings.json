@@ -16135,7 +16135,7 @@
         "company_name": "Zello",
         "id": "0c77230c-f2f8-4c83-b95a-88c36a14bbc5",
         "title": "Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -62811,7 +62811,7 @@
         "company_name": "Simbe Robotics",
         "id": "977b607f-6171-4bd6-a099-749d7956380e",
         "title": "Computer Vision Software Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2024",
             "Spring 2025",
@@ -89653,7 +89653,7 @@
         "company_name": "Litmus",
         "id": "2d9c4af1-18e6-4eac-9ec3-41f3a2036eed",
         "title": "Solutions Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -90472,7 +90472,7 @@
         "company_name": "Leidos",
         "id": "08bed13d-8378-4ee9-8349-8df9b733209e",
         "title": "Simulation Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -90596,6 +90596,44 @@
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Bethesda-MD/Software-Developer-Co-op_R-00140627",
         "locations": [
             "Bethesda, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "HPR (Hyannis Port Research)",
+        "id": "97a69c42-89b3-4409-9891-4b877d0f8716",
+        "title": "Software Engineering Intern - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1722555928,
+        "date_posted": 1722555928,
+        "url": "https://job-boards.greenhouse.io/hyannisportresearch/jobs/6038522003",
+        "locations": [
+            "Needham, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/HyannisPortResearch",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Leidos",
+        "id": "93b3f1c0-4f15-441b-81a7-f0e0b4e1cb8b",
+        "title": "Junior Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1722554545,
+        "date_posted": 1722554545,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Tucson-AZ/Junior-Software-Engineer-Intern_R-00140738",
+        "locations": [
+            "Tucson, AZ"
         ],
         "company_url": "https://simplify.jobs/c/Leidos",
         "is_visible": true,
