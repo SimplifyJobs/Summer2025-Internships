@@ -59,6 +59,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Five Rings | Software Developer Intern | New York | <a href="https://job-boards.greenhouse.io/fiveringsllc/jobs/4090996008?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 03 |
 | Ventas | Intern, Software Engineering (Summer 2025) | Chicago, IL | <a href="https://ventas.wd1.myworkdayjobs.com/VTR_NonPublic/job/IL---Chicago/Intern--Software-Engineering--Summer-2025-_R0001113-2?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 02 |
 | **[Salesforce](https://simplify.jobs/c/Salesforce)** | Associate Product Manager | San Francisco, CA | <a href="https://careers.salesforce.com/en/jobs/jr261131/summer-2025-intern-associate-product-manager-apm/?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 02 |
 | **[Sentry](https://simplify.jobs/c/Sentry)** | Software Engineer Intern - Summer 2025 | SF | <a href="https://boards.greenhouse.io/sentry/jobs/6145556?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/3d7dbe8a-e064-464f-9b63-3cf9db7fe68a?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Aug 01 |
