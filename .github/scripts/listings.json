@@ -90695,5 +90695,24 @@
         "date_posted": 1722712102,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Golden Hippo",
+        "id": "53242b59-192e-4238-9a9b-2c3542e6c53d",
+        "title": "Customer Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1722648094,
+        "date_posted": 1722066219,
+        "url": "https://www.golden-careers.com/jobs/4444087005?gh_jid=4444087005",
+        "locations": [
+            "Canoga Park, LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Golden-Hippo",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
