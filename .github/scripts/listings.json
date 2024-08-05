@@ -90776,5 +90776,24 @@
         "date_posted": 1722886379,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1722886404,
+        "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/57957?bid=326&tid=x_7e024e72-9265-4f2c-ba2f-59998a99af38&utm_medium=Jobboard",
+        "company_name": "BNY",
+        "title": "Internship Program - Engineering (Developer)",
+        "locations": [
+            "Pittsburgh, PA, United States"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "aroramrinaal",
+        "id": "d9cc11df-a46e-4d4b-a188-1f09a39e87c2",
+        "date_posted": 1722886404,
+        "company_url": "",
+        "is_visible": true
     }
 ]
