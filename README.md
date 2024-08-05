@@ -59,6 +59,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Confluent | Software Engineering Intern | Austin, TX</br>Remote | <a href="https://careers.confluent.io/jobs/14738285-2025-software-engineering-intern?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 04 |
 | Five Rings | Software Developer Intern | New York | <a href="https://job-boards.greenhouse.io/fiveringsllc/jobs/4090996008?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 03 |
 | Ventas | Intern, Software Engineering (Summer 2025) | Chicago, IL | <a href="https://ventas.wd1.myworkdayjobs.com/VTR_NonPublic/job/IL---Chicago/Intern--Software-Engineering--Summer-2025-_R0001113-2?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 02 |
 | **[Salesforce](https://simplify.jobs/c/Salesforce)** | Associate Product Manager | San Francisco, CA | <a href="https://careers.salesforce.com/en/jobs/jr261131/summer-2025-intern-associate-product-manager-apm/?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 02 |

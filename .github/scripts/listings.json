@@ -90714,5 +90714,25 @@
         "company_url": "https://simplify.jobs/c/Golden-Hippo",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1722830699,
+        "url": "https://careers.confluent.io/jobs/14738285-2025-software-engineering-intern",
+        "company_name": "Confluent",
+        "title": "Software Engineering Intern",
+        "locations": [
+            "Austin, TX",
+            "Remote"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "Aparna-Rajesh",
+        "id": "161a9d8a-d750-4015-bd48-29b5a5c0a290",
+        "date_posted": 1722830699,
+        "company_url": "",
+        "is_visible": true
     }
 ]
