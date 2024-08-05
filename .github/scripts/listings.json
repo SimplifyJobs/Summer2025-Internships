@@ -90795,5 +90795,24 @@
         "date_posted": 1722886404,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1722886425,
+        "url": "https://careers.tiktok.com/position/7397158652886763814/detail?spread=5MWH5CQ",
+        "company_name": "TikTok",
+        "title": "Software Engineer Intern (Data-TnS-Eng-Biz Arch)",
+        "locations": [
+            "Vancouver, Canada"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "GaryZhous",
+        "id": "18c8e7e4-5277-4f4b-aefd-ff03ba11bd2a",
+        "date_posted": 1722886425,
+        "company_url": "",
+        "is_visible": true
     }
 ]
