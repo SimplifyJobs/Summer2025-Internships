@@ -90755,5 +90755,26 @@
         "date_posted": 1722886357,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1722886379,
+        "url": "https://apply.deloitte.com/careers/JobDetail/Deloitte-Consulting-Software-Engineering-Summer-Scholar/185362",
+        "company_name": "Deloitte",
+        "title": "Software Engineering Summer Scholar",
+        "locations": [
+            "San Francisco, CA",
+            "Austin, TX",
+            "New York, NY"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "aroramrinaal",
+        "id": "0a80b128-095b-43aa-b1b8-ea4756e4cefb",
+        "date_posted": 1722886379,
+        "company_url": "",
+        "is_visible": true
     }
 ]
