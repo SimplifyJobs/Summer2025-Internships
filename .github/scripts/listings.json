@@ -87956,7 +87956,7 @@
         "company_name": "Weber Shandwick",
         "id": "b6f76091-d004-45d1-bea9-a64859bfc70a",
         "title": "Business Analytics Intern - Fall 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2024"
         ],
@@ -87975,7 +87975,7 @@
         "company_name": "IPG DXTRA",
         "id": "4d349ff2-1182-4b55-b3e9-6addbf452d45",
         "title": "Business Analytics Intern - Fall 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2024"
         ],
@@ -90530,7 +90530,7 @@
         "company_name": "Sentry",
         "id": "3d7dbe8a-e064-464f-9b63-3cf9db7fe68a",
         "title": "Software Engineer Intern - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -90834,5 +90834,45 @@
         "date_posted": 1722886569,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Capital One",
+        "id": "8bcf2fdf-f9ad-41ff-aa38-f4d302df0d7e",
+        "title": "Technology Early Internship Program - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1722872896,
+        "date_posted": 1722872896,
+        "url": "https://capitalone.wd1.myworkdayjobs.com/Capital_One/job/McLean-VA/Technology-Early-Internship-Program---Summer-2025_R189734-1",
+        "locations": [
+            "McLean, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Capital-One",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Rivian",
+        "id": "0c7d989d-b12b-4bcd-a23c-5f767a57e466",
+        "title": "UIUC Research Park Intern - Special Projects",
+        "active": true,
+        "terms": [
+            "Fall 2024",
+            "Spring 2025",
+            "Summer 2025"
+        ],
+        "date_updated": 1722872096,
+        "date_posted": 1722872096,
+        "url": "https://careers.rivian.com/jobs/17928?lang=en-us&icims=1",
+        "locations": [
+            "Urbana, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Rivian",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
