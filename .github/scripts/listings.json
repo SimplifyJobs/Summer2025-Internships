@@ -90938,5 +90938,24 @@
         "date_posted": 1722973590,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1722973636,
+        "url": "https://www.databricks.com/company/careers/university-recruiting/software-engineering-intern-2025-6866527002",
+        "company_name": "Databricks",
+        "title": "Software Engineering Intern",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "reddoy",
+        "id": "8cf0fbbe-2048-4ef7-a8f0-5e18c53fb7e1",
+        "date_posted": 1722973636,
+        "company_url": "",
+        "is_visible": true
     }
 ]
