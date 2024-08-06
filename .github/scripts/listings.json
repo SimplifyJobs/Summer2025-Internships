@@ -90874,5 +90874,31 @@
         "company_url": "https://simplify.jobs/c/Rivian",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1722973379,
+        "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Summer-2025-Intern---Software-Engineer_JR262842-2",
+        "company_name": "Salesforce",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "San Francisco, CA",
+            "Boston, MA",
+            "Seattle, WA",
+            "Burlington, MA",
+            "Bellevue, WA",
+            "Dallas, TX",
+            "Atlanta, GA",
+            "Indianapolis, IN"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "omarmneimneh",
+        "id": "ae867571-5668-412f-8bb8-ebc20c87cf3c",
+        "date_posted": 1722973379,
+        "company_url": "",
+        "is_visible": true
     }
 ]
