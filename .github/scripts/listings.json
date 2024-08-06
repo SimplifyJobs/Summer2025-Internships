@@ -88146,7 +88146,7 @@
         "company_name": "Intel",
         "id": "11505e1a-be89-4e83-97c1-f13824a437e0",
         "title": "Software Development \u2013 Undergraduate Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -90957,5 +90957,381 @@
         "date_posted": 1722973636,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "DraftKings",
+        "id": "8831bece-b16b-4bd4-96c3-3b5801d8040a",
+        "title": "Apprentice Data Science Engineer",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1722959260,
+        "date_posted": 1722959260,
+        "url": "https://draftkings.wd1.myworkdayjobs.com/en-us/draftkings/job/London-UK/Associate-Data-Science-Engineer_JR09472",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/DraftKings",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Asana",
+        "id": "af953e8e-bfed-4f7c-9cae-31984e95f581",
+        "title": "YVR Summer Data Science Internship",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1722959006,
+        "date_posted": 1722959006,
+        "url": "https://www.asana.com/jobs/apply/6151419?gh_jid=6151419",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Asana",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Asana",
+        "id": "9968d289-d751-463c-a4cb-db298af64306",
+        "title": "SF Summer Data Science Internship",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1722959005,
+        "date_posted": 1722959005,
+        "url": "https://www.asana.com/jobs/apply/6151422?gh_jid=6151422",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Asana",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Asana",
+        "id": "c3734e48-b850-4dfc-9d9b-91408b4e65d7",
+        "title": "YVR Summer Software Engineering Internship",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1722959005,
+        "date_posted": 1722959005,
+        "url": "https://www.asana.com/jobs/apply/6151401?gh_jid=6151401",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Asana",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Asana",
+        "id": "badd0ae9-41e1-45b1-ab7b-27dd7ce5e5ec",
+        "title": "SF Summer Software Engineering Internship",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1722959002,
+        "date_posted": 1722959002,
+        "url": "https://www.asana.com/jobs/apply/6151381?gh_jid=6151381",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Asana",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Asana",
+        "id": "ddf6566c-2648-4479-b9b5-ff0aa07e3a22",
+        "title": "NYC Summer Software Engineering Internship",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1722958999,
+        "date_posted": 1722958999,
+        "url": "https://www.asana.com/jobs/apply/6151417?gh_jid=6151417",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Asana",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Asana",
+        "id": "0d2aa9e1-0396-4c1a-9ebb-47a24ec4c729",
+        "title": "NYC Summer Data Science Internship",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1722958998,
+        "date_posted": 1722958998,
+        "url": "https://www.asana.com/jobs/apply/6151418?gh_jid=6151418",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Asana",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Palantir",
+        "id": "4a30dd71-73a0-48c8-9e4a-9422a6952920",
+        "title": "Software Engineer \u2013 Internship - Defense Tech",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1722930379,
+        "date_posted": 1722930379,
+        "url": "https://jobs.lever.co/palantir/f17e98d0-046a-4e6e-9d65-ed0b12dd0ff7/apply",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/Palantir",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Palantir",
+        "id": "c8c5aa40-1271-42fb-937f-a311fcaf917d",
+        "title": "Software Engineer \u2013 Internship - Defense Tech",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1722930378,
+        "date_posted": 1722930378,
+        "url": "https://jobs.lever.co/palantir/a483f41b-0da9-42ea-8ed6-cbf6eb93cc6d/apply",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Palantir",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Palantir",
+        "id": "01a5ff88-29a2-4b09-9814-582b4e1fe212",
+        "title": "Software Engineer \u2013 Internship - Defense Tech",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1722930377,
+        "date_posted": 1722930377,
+        "url": "https://jobs.lever.co/palantir/8bcf4f33-0a79-4248-bbfd-49ac4be9dd8e/apply",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Palantir",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Capital One",
+        "id": "26de3324-48b9-4efa-9f37-360b1776c12b",
+        "title": "Technology Internship Program - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1722901684,
+        "date_posted": 1722901684,
+        "url": "https://capitalone.wd1.myworkdayjobs.com/Capital_One/job/McLean-VA/Technology-Internship-Program---Summer-2025_R189727-1",
+        "locations": [
+            "Plano, TX",
+            "McLean, VA",
+            "Richmond, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Capital-One",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Databricks",
+        "id": "8acf89ce-695c-4859-95c3-bf5a153edb59",
+        "title": "Software Engineering Intern - 2025",
+        "active": true,
+        "terms": [
+            "Winter 2025",
+            "Spring 2025",
+            "Summer 2025"
+        ],
+        "date_updated": 1722901618,
+        "date_posted": 1722901618,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=6866527002",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Databricks",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Databricks",
+        "id": "3c4fd433-d0f1-4616-9949-70e4b7c5c452",
+        "title": "Software Engineering Intern - 2025",
+        "active": true,
+        "terms": [
+            "Winter 2025",
+            "Spring 2025",
+            "Summer 2025"
+        ],
+        "date_updated": 1722901617,
+        "date_posted": 1722901617,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=6865687002",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Databricks",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Databricks",
+        "id": "6e28daf9-962d-4405-9e24-bf175b13e7b8",
+        "title": "Software Engineering Intern - 2025",
+        "active": true,
+        "terms": [
+            "Winter 2025",
+            "Spring 2025",
+            "Summer 2025"
+        ],
+        "date_updated": 1722901616,
+        "date_posted": 1722901616,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=6866529002",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Databricks",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Arrowstreet Capital",
+        "id": "70df288c-a26d-4892-8843-ab3a862ac9c5",
+        "title": "Quantitative Developer Intern - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1722901604,
+        "date_posted": 1722901604,
+        "url": "https://arrowstreetcapital.wd5.myworkdayjobs.com/en-US/Arrowstreet/job/Boston/Quantitative-Developer-Intern--Summer-2025_R1117",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Arrowstreet-Capital",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Arrowstreet Capital",
+        "id": "0daa975d-9f39-4bba-91c9-12e32d1af8ae",
+        "title": "Quantitative Researcher Intern - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1722901604,
+        "date_posted": 1722901604,
+        "url": "https://arrowstreetcapital.wd5.myworkdayjobs.com/en-US/Arrowstreet/job/Boston/Quantitative-Researcher-Intern--Summer-2025_R1118",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Arrowstreet-Capital",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Salesforce",
+        "id": "fa063a1b-3bfe-48f4-a5e9-6cc2d0253b0a",
+        "title": "Summer 2025 Intern - Software Engineer",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1722901102,
+        "date_posted": 1722901102,
+        "url": "https://salesforce.wd12.myworkdayjobs.com/en-us/External_Career_Site/job/California---San-Francisco/Summer-2025-Intern---Software-Engineer_JR262842-2",
+        "locations": [
+            "Boston, MA",
+            "Seattle, WA",
+            "Indianapolis, IN",
+            "SF",
+            "Dallas, TX",
+            "Bellevue, WA",
+            "Atlanta, GA",
+            "Burlington, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Salesforce",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Capstone Investment Advisors",
+        "id": "bff02a0d-f389-4473-b6ab-f93b56427d0f",
+        "title": "2025 Summer Internship - Quantitative Risk Technology",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1722901065,
+        "date_posted": 1722901065,
+        "url": "https://boards.greenhouse.io/capstoneinvestmentadvisors/jobs/7582422002",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/CapstoneCo",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Capstone Investment Advisors",
+        "id": "c050b237-c757-4fb8-be33-9434aff91618",
+        "title": "2025 Summer Internship - Quantitative Risk Technology",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1722901001,
+        "date_posted": 1722901001,
+        "url": "https://boards.greenhouse.io/capstoneinvestmentadvisors/jobs/7582423002",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/CapstoneCo",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
