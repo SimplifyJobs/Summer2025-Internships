@@ -90001,7 +90001,7 @@
         "company_name": "Hootsuite",
         "id": "0052c8f6-f3e0-40b1-ba27-2a45e751bbe0",
         "title": "Co-Op \u2013 Software Development",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2024"
         ],
@@ -90840,7 +90840,7 @@
         "company_name": "Capital One",
         "id": "8bcf2fdf-f9ad-41ff-aa38-f4d302df0d7e",
         "title": "Technology Early Internship Program - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -91331,6 +91331,83 @@
             "London, UK"
         ],
         "company_url": "https://simplify.jobs/c/CapstoneCo",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "InvoiceCloud, Inc.",
+        "id": "375ca168-2645-4aab-8b77-e14300150ad2",
+        "title": "Data Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1722987827,
+        "date_posted": 1722987827,
+        "url": "http://invoicecloud.net/careers/open-positions?gh_jid=6080179003",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/EngageSmart",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Airwallex",
+        "id": "55313742-d369-47e7-b9d3-f82b64fb3f1f",
+        "title": "Software Engineer Intern Program",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1723058585,
+        "date_posted": 1722987466,
+        "url": "https://jobs.ashbyhq.com/airwallex/ea995984-1069-405c-87b8-f69b823fb6aa/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Airwallex",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Pison",
+        "id": "53cf16d6-f684-4c13-be99-2062440dfae8",
+        "title": "Software Engineer Intern-Fall 2024",
+        "active": true,
+        "terms": [
+            "Fall 2024"
+        ],
+        "date_updated": 1722986982,
+        "date_posted": 1722986982,
+        "url": "https://jobs.lever.co/pison/17d1b96d-eee2-4825-9c4c-6acb95a550bd/apply",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/PisonTech",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Strider Technologies",
+        "id": "e2906226-b81e-4a45-9f94-6318e7715d59",
+        "title": "Intelligence Specialist Internship - China Focus",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1723058855,
+        "date_posted": 1722986867,
+        "url": "https://job-boards.greenhouse.io/stridertechnologies/jobs/4391299006",
+        "locations": [
+            "South Jordan, UT",
+            "Vienna, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/StriderTech",
         "is_visible": true,
         "sponsorship": "Other"
     }
