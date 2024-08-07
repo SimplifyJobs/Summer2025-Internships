@@ -91410,5 +91410,24 @@
         "company_url": "https://simplify.jobs/c/StriderTech",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1723074693,
+        "url": "https://quantiqpartners.zohorecruit.com/forms/1965216ed406321a2f6e355156f0e94ea7405c37b4ef00a027ca731b06e9be8d",
+        "company_name": "Quantiq Partners",
+        "title": "Software Developer Intern",
+        "locations": [
+            "Austin, TX"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "reddoy",
+        "id": "bb25316f-1804-4786-9b68-5478b8d6e14f",
+        "date_posted": 1723074693,
+        "company_url": "",
+        "is_visible": true
     }
 ]
