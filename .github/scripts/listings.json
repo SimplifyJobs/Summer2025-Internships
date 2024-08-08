@@ -86113,7 +86113,7 @@
         "company_name": "Strider Technologies",
         "id": "94c04a2d-1e34-4da0-9ade-84d5ab966830",
         "title": "Data Labeling Specialist Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -91301,7 +91301,7 @@
         "company_name": "Capstone Investment Advisors",
         "id": "bff02a0d-f389-4473-b6ab-f93b56427d0f",
         "title": "2025 Summer Internship - Quantitative Risk Technology",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -91429,5 +91429,126 @@
         "date_posted": 1723074693,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Uber",
+        "id": "d703240b-6786-487b-854b-8d9fcba5f430",
+        "title": "2025 Software Engineering Internship - Uber Career Prep - United States",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1723073827,
+        "date_posted": 1723073827,
+        "url": "https://www.uber.com/global/en/careers/list/134090/",
+        "locations": [
+            "Seattle, WA",
+            "SF",
+            "NYC",
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Uber",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Uber",
+        "id": "b0b86a8d-9442-447c-990a-9162ceab2b79",
+        "title": "2025 Software Engineering Uberstar Internship - Uber Career Prep - United States",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1723073816,
+        "date_posted": 1723073816,
+        "url": "https://www.uber.com/global/en/careers/list/133321/",
+        "locations": [
+            "Seattle, WA",
+            "SF",
+            "NYC",
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Uber",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Uber",
+        "id": "3b74e193-a7b0-4520-ab54-f4869ab7464a",
+        "title": "2025 Software Engineering Uberstar Internship - Uber Career Prep - Canada",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1723073803,
+        "date_posted": 1723073803,
+        "url": "https://www.uber.com/global/en/careers/list/133322/",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Uber",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "CACI",
+        "id": "c18587ca-ec6e-4156-a1c0-c28940a20138",
+        "title": "Data Engineering Intern - Fall 2024",
+        "active": true,
+        "terms": [
+            "Fall 2024"
+        ],
+        "date_updated": 1723073790,
+        "date_posted": 1723073790,
+        "url": "https://caci.wd1.myworkdayjobs.com/External/job/US-VA-Charlottesville/Data-Engineering-Intern---Fall-2024_300181-1",
+        "locations": [
+            "Charlottesville, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/CACI",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Strider Technologies",
+        "id": "d9e43004-e348-42db-8fff-6cc0f8c285d6",
+        "title": "Intelligence Specialist Internship - Russia Focus",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1723073210,
+        "date_posted": 1723073210,
+        "url": "https://job-boards.greenhouse.io/stridertechnologies/jobs/4392246006",
+        "locations": [
+            "South Jordan, UT",
+            "Vienna, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/StriderTech",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Oshkosh",
+        "id": "9a6ac910-8614-4ebb-8577-4da79c550223",
+        "title": "Data Engineer Intern - Advanced Analytics",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1723073079,
+        "date_posted": 1723073079,
+        "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Oshkosh-Wisconsin-United-States/Data-Engineer-Intern---Advanced-Analytics_R30731",
+        "locations": [
+            "Oshkosh, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Oshkosh",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
