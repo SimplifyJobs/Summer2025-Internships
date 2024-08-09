@@ -84041,7 +84041,7 @@
         "company_name": "Chainlink",
         "id": "7f0f586f-0442-44ed-9889-a49423a78b43",
         "title": "Research Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -89074,7 +89074,7 @@
         "company_name": "Sanctuary AI",
         "id": "fe0b5eea-9fcf-4645-9010-41923cd7dddd",
         "title": "Software Co-op: Machine Learning Operations - Fall 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2024"
         ],
@@ -90203,7 +90203,7 @@
         "company_name": "Western Digital",
         "id": "1835d5b8-d862-4843-a543-77867071987a",
         "title": "Co-op \u2013 Jan - Jul 2025 - Software Engineer - System Testing",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -90491,7 +90491,7 @@
         "company_name": "Capital One",
         "id": "84df4421-8696-42e9-8d42-62ccfa178310",
         "title": "Data Analyst Intern - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -91153,7 +91153,7 @@
         "company_name": "Capital One",
         "id": "26de3324-48b9-4efa-9f37-360b1776c12b",
         "title": "Technology Internship Program - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -91339,7 +91339,7 @@
         "company_name": "InvoiceCloud, Inc.",
         "id": "375ca168-2645-4aab-8b77-e14300150ad2",
         "title": "Data Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -91435,7 +91435,7 @@
         "company_name": "Uber",
         "id": "d703240b-6786-487b-854b-8d9fcba5f430",
         "title": "2025 Software Engineering Internship - Uber Career Prep - United States",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -91457,7 +91457,7 @@
         "company_name": "Uber",
         "id": "b0b86a8d-9442-447c-990a-9162ceab2b79",
         "title": "2025 Software Engineering Uberstar Internship - Uber Career Prep - United States",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -91548,6 +91548,82 @@
             "Oshkosh, WI"
         ],
         "company_url": "https://simplify.jobs/c/Oshkosh",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Jump Trading",
+        "id": "b04ab8c0-6ce1-4f7d-97ea-0e5149889bd9",
+        "title": "Campus Web Dev / UI Software Engineer \u2013 Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1723218194,
+        "date_posted": 1723218194,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=6165570",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Jump-Trading",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Jump Trading",
+        "id": "aa3c9a39-b03d-4365-9290-d29f2effa2a4",
+        "title": "Campus Quantitative Trader \u2013 Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1723218040,
+        "date_posted": 1723218040,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=6163189",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Jump-Trading",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Jump Trading",
+        "id": "32736356-8893-4912-92c8-03a1009f748c",
+        "title": "Campus Quantitative Researcher \u2013 Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1723218042,
+        "date_posted": 1723218042,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=6142397",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Jump-Trading",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Jump Trading",
+        "id": "d44d2a3b-10ac-4215-a600-6530f5dfdab3",
+        "title": "Campus Software Engineer \u2013 Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1723218041,
+        "date_posted": 1723218041,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=6165360",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Jump-Trading",
         "is_visible": true,
         "sponsorship": "Other"
     }
