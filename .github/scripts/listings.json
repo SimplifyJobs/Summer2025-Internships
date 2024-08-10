@@ -89765,7 +89765,7 @@
         "company_name": "Antimetal",
         "id": "b06d0184-d0f8-4fc4-99ca-32df25fd6848",
         "title": "Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -91477,7 +91477,7 @@
         "company_name": "Uber",
         "id": "3b74e193-a7b0-4520-ab54-f4869ab7464a",
         "title": "2025 Software Engineering Uberstar Internship - Uber Career Prep - Canada",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -91622,6 +91622,121 @@
             "Chicago, IL"
         ],
         "company_url": "https://simplify.jobs/c/Jump-Trading",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Belvedere Trading",
+        "id": "654fd797-bda0-4a6d-ab70-e56869309ada",
+        "title": "Quantitative Trading Intern - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1723246977,
+        "date_posted": 1723246977,
+        "url": "https://jobs.lever.co/belvederetrading/123fcb8a-ad4b-4c12-8de7-87a3d22f531a/apply",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Belvedere-Trading",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "ghSMART",
+        "id": "84e8239b-9b18-425f-9d58-22852556d849",
+        "title": "Data Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1723246846,
+        "date_posted": 1723246846,
+        "url": "https://jobs.lever.co/ghsmartjobs/988d98cb-d16c-485d-8ca5-d52483e8f419/apply",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/ghSMART",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Belvedere Trading",
+        "id": "a2ebef78-c272-4060-a8d4-7336a4f6ce27",
+        "title": "Software Engineer Intern - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1723246710,
+        "date_posted": 1723246710,
+        "url": "https://jobs.lever.co/belvederetrading/6841e5b2-65ad-4be1-9654-4565ba163cf8/apply",
+        "locations": [
+            "Chicago, IL",
+            "Boulder, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Belvedere-Trading",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Intel",
+        "id": "2d6d268a-4aa7-47af-9062-c74123b9e0fc",
+        "title": "Software Engineer \u2013 PEY Intern",
+        "active": true,
+        "terms": [
+            "Winter 2024"
+        ],
+        "date_updated": 1723246020,
+        "date_posted": 1723246020,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/Canada-Toronto/Software-Engineer---PEY-Intern_JR0266629",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Neuralink",
+        "id": "0b651fbf-acad-4f2d-8006-98119aaffc93",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1723245281,
+        "date_posted": 1723245281,
+        "url": "https://boards.greenhouse.io/neuralink/jobs/6084031003",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Neuralink",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Neuralink",
+        "id": "ae08c445-487d-48cb-8271-cd7838993757",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1723245277,
+        "date_posted": 1723245277,
+        "url": "https://boards.greenhouse.io/neuralink/jobs/6083990003",
+        "locations": [
+            "Fremont, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Neuralink",
         "is_visible": true,
         "sponsorship": "Other"
     }
