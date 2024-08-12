@@ -90587,7 +90587,7 @@
         "company_name": "Leidos",
         "id": "91f8f4fd-6701-44fe-9adc-af9c7e92afe6",
         "title": "Software Developer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -91273,7 +91273,7 @@
         "company_name": "Salesforce",
         "id": "fa063a1b-3bfe-48f4-a5e9-6cc2d0253b0a",
         "title": "Summer 2025 Intern - Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -91649,7 +91649,7 @@
         "company_name": "ghSMART",
         "id": "84e8239b-9b18-425f-9d58-22852556d849",
         "title": "Data Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -91758,5 +91758,62 @@
         "date_posted": 1723483977,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "DV Trading",
+        "id": "0dd9b2d0-85cc-47dd-8389-c22d0d74888c",
+        "title": "2025 Summer Internship - Algo Trader",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1723477509,
+        "date_posted": 1723477509,
+        "url": "https://boards.greenhouse.io/dvtrading/jobs/4458656005",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/DV-Trading",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Vestmark",
+        "id": "f581bc67-2efe-4ffc-94e5-c03bd2f65a22",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1723477188,
+        "date_posted": 1723477188,
+        "url": "https://boards.greenhouse.io/vestmark/jobs/6074962",
+        "locations": [
+            "Wakefield, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Vestmark",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Virtu Financial",
+        "id": "27afcb9c-7621-48df-a585-c2ff51a90a1d",
+        "title": "Women's Winternship",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1723476191,
+        "date_posted": 1723476191,
+        "url": "https://job-boards.greenhouse.io/virtu/jobs/7505552002",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Virtu-Financial",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
