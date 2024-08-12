@@ -90640,18 +90640,18 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1722634792,
+        "date_updated": 1723483955,
         "url": "https://careers.salesforce.com/en/jobs/jr261131/summer-2025-intern-associate-product-manager-apm/",
         "company_name": "Salesforce",
-        "title": "Associate Product Manager",
+        "title": "Software Engineer Intern",
         "locations": [
             "San Francisco, CA"
         ],
         "terms": [
             "Summer 2025"
         ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "reddoy",
         "id": "28e2b7ba-7f7a-4979-8760-afe0b41f7d8d",
         "date_posted": 1722634792,
