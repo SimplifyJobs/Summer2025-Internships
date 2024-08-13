@@ -92060,5 +92060,24 @@
         "company_url": "https://simplify.jobs/c/Boeing",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1723584315,
+        "url": "https://jobs.careers.microsoft.com/global/en/job/1751922/Software-Engineer%3A-Fullstack-Intern-Opportunities-for-University-Students%2C-Redmond",
+        "company_name": "Microsoft",
+        "title": "Software Engineer: Fullstack Intern",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "reddoy",
+        "id": "e2a5d2fe-78c0-4291-9ae0-a5972a26efc3",
+        "date_posted": 1723584315,
+        "company_url": "",
+        "is_visible": true
     }
 ]
