@@ -92136,5 +92136,24 @@
         "date_posted": 1723584456,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1723584475,
+        "url": "https://careers.roblox.com/jobs/6086765",
+        "company_name": "Roblox",
+        "title": "[Summer 2025] Software Engineer - InternNew Internship",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "ShreyashDhamane",
+        "id": "49b20c4d-48d3-401a-8832-0b37282299a0",
+        "date_posted": 1723584475,
+        "company_url": "",
+        "is_visible": true
     }
 ]
