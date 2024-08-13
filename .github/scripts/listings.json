@@ -11551,7 +11551,7 @@
         "company_name": "Tombras",
         "id": "ed6d6fa5-d7ca-4fc0-8b27-045fe535537e",
         "title": "Analytics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -76463,7 +76463,7 @@
         "company_name": "Elastic",
         "id": "70bc32be-538a-4c01-a10f-b9d9e6dacabb",
         "title": "Skillbridge Intern - Consulting Architect - Search",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2024"
         ],
@@ -82918,7 +82918,7 @@
         "company_name": "Seismic",
         "id": "ead893a9-9ea4-403b-bdc3-4534be1c1229",
         "title": "Software Engineer AI/ ML-Co-Op - PEY/ Masters",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -89879,7 +89879,7 @@
         "company_name": "CACI",
         "id": "37e50883-22f2-4b23-96a5-8422c3cd08f3",
         "title": "Software Developer Intern - Fall 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2024"
         ],
@@ -91356,7 +91356,7 @@
         "company_name": "Airwallex",
         "id": "55313742-d369-47e7-b9d3-f82b64fb3f1f",
         "title": "Software Engineer Intern Program",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -91783,7 +91783,7 @@
         "company_name": "Vestmark",
         "id": "f581bc67-2efe-4ffc-94e5-c03bd2f65a22",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -91813,6 +91813,251 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/Virtu-Financial",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Boston Dynamics AI Institute",
+        "id": "9f7e93cb-c0cb-4f37-a79c-9f0e1a5b6bab",
+        "title": "Simulation Software Engineer \u2013 Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1723576934,
+        "date_posted": 1723564152,
+        "url": "https://jobs.lever.co/bostondynamicsaiinstitute/ddaa9783-052c-4144-b788-4294896c862d/apply",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/BDAI-Institute",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Jump Trading",
+        "id": "488d5ffc-e39a-47fd-b83a-0b71be5f12d0",
+        "title": "Campus Quantitative Researcher \u2013 M1/M2 Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1723563372,
+        "date_posted": 1723563372,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=5624760",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Jump-Trading",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Jump Trading",
+        "id": "a71836f3-4646-4002-9758-f1e365e6fdeb",
+        "title": "Campus Quantitative Researcher \u2013 Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1723563370,
+        "date_posted": 1723563370,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=5624781",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Jump-Trading",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Jump Trading",
+        "id": "918337d5-7822-4184-960a-d52fafb46921",
+        "title": "Campus Software Engineer \u2013 Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024",
+            "Winter 2025",
+            "Spring 2025",
+            "Fall 2025"
+        ],
+        "date_updated": 1723506418,
+        "date_posted": 1723506418,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=5624727",
+        "locations": [
+            "Bristol, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Jump-Trading",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Western Digital",
+        "id": "37a5a6c1-dce1-40b7-87ac-dec874a0697f",
+        "title": "Ramp Co Op - Jan 2025 - July 2025 - SIT-Lab Engineer",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1723506418,
+        "date_posted": 1723506418,
+        "url": "https://jobs.smartrecruiters.com/WesternDigital/744000006327672",
+        "locations": [
+            "Rochester, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Western-Digital",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Jump Trading",
+        "id": "d2abd211-c477-435e-aabc-5fbacfb31392",
+        "title": "Campus UI Software Engineer \u2013 Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024",
+            "Winter 2025",
+            "Spring 2025",
+            "Fall 2025"
+        ],
+        "date_updated": 1723506420,
+        "date_posted": 1723506420,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=5624713",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Jump-Trading",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Jump Trading",
+        "id": "885362e5-31ed-4f04-8f72-87ff0c2cfd60",
+        "title": "Campus Software Engineer \u2013 Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024",
+            "Winter 2025",
+            "Spring 2025",
+            "Fall 2025"
+        ],
+        "date_updated": 1723506421,
+        "date_posted": 1723506421,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=5624032",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Jump-Trading",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Intel",
+        "id": "4fb5070e-9cc4-4d45-82b0-0d84f5a5a440",
+        "title": "Software Engineer \u2013 PEY Intern",
+        "active": true,
+        "terms": [
+            "Winter 2024"
+        ],
+        "date_updated": 1723505741,
+        "date_posted": 1723505741,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/Canada-Toronto/Software-Engineer---PEY-Intern_JR0266625",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Intel",
+        "id": "4cc0f3c7-4e1b-49a2-883c-fd6042e7dee1",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Winter 2024"
+        ],
+        "date_updated": 1723505742,
+        "date_posted": 1723505742,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/Canada-Toronto/Software-Engineer-Intern_JR0267056",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Uber",
+        "id": "b5d6183d-0b3d-440c-a465-adedcce1fd4f",
+        "title": "2025 Software Engineering Uberstar Internship - Uber Career Prep - United States",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1723505393,
+        "date_posted": 1723505393,
+        "url": "https://university-uber.icims.com/jobs/133321/job",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Uber",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "The Boeing Company",
+        "id": "b27f5b96-3966-4a1c-97d6-55dc5d6a25e4",
+        "title": "Boeing Summer 2025 Internship Program - Paid - Information Technology - IT - And Data Analytics - Da - And Digital Aviation Solutions - Das",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1723504978,
+        "date_posted": 1723504978,
+        "url": "https://boeing.wd1.myworkdayjobs.com/external_careers/job/USA---Everett-WA/Boeing-Summer-2025-Internship-Program--Paid----Information-Technology--IT--and-Data-Analytics--DA--and-Digital-Aviation-Solutions--DAS-_00000434120-1",
+        "locations": [
+            "Seattle, WA",
+            "Chester, PA",
+            "Long Beach, CA",
+            "Mesa, AZ",
+            "Colorado Springs, CO",
+            "Dallas, TX",
+            "Fairfax, VA",
+            "Plano, TX",
+            "Chicago, IL",
+            "Seal Beach, CA",
+            "Tukwila, WA",
+            "St Charles, MO",
+            "San Antonio, TX",
+            "Arlington, VA",
+            "Everett, WA",
+            "Auburn, WA",
+            "Reston, VA",
+            "Oklahoma City, OK",
+            "Kent, WA",
+            "Charleston, SC",
+            "Bellevue, WA",
+            "Atlanta, GA",
+            "Huntsville, AL",
+            "North Charleston, SC",
+            "Huntington Beach, CA",
+            "Hazelwood, MO",
+            "Mukilteo, WA",
+            "El Segundo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
         "is_visible": true,
         "sponsorship": "Other"
     }
