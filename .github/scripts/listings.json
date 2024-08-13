@@ -92079,5 +92079,24 @@
         "date_posted": 1723584315,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1723584340,
+        "url": "https://careers.qualcomm.com/careers/job/446700989859",
+        "company_name": "Qualcomm",
+        "title": "Embedded Engineering Internship - Summer 2025",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "harshvardhan-sharma1",
+        "id": "fdf2d109-3dcb-48be-8dc9-3bc6fb32e019",
+        "date_posted": 1723584340,
+        "company_url": "",
+        "is_visible": true
     }
 ]
