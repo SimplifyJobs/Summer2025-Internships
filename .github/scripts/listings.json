@@ -89055,7 +89055,7 @@
         "company_name": "Intel",
         "id": "08e3170d-d913-4b04-b342-23c8d2f5083e",
         "title": "Ocotillo Technology Fabrication Yield Undergrad Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -91821,7 +91821,7 @@
         "company_name": "Boston Dynamics AI Institute",
         "id": "9f7e93cb-c0cb-4f37-a79c-9f0e1a5b6bab",
         "title": "Simulation Software Engineer \u2013 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -92179,5 +92179,106 @@
         "date_posted": 1723584637,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "PayPal",
+        "id": "3a961820-edc1-4f45-adac-bb33fba9b0e0",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Spring 2025",
+            "Fall 2025"
+        ],
+        "date_updated": 1723649973,
+        "date_posted": 1723649973,
+        "url": "https://wd1.myworkdaysite.com/recruiting/paypal/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer-Intern_R0115646",
+        "locations": [
+            "Austin, TX",
+            "San Jose, CA",
+            "Chicago, IL",
+            "Omaha, NE",
+            "Scottsdale, AZ",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/PayPal",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Domo",
+        "id": "88d2e533-77af-4b66-884c-e94ec9678c97",
+        "title": "Web Developer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1723592669,
+        "date_posted": 1723592669,
+        "url": "https://job-boards.greenhouse.io/domo/jobs/6176416",
+        "locations": [
+            "American Fork, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/Domo",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Hewlett Packard (HP)",
+        "id": "6e1e5854-1c24-42fc-a3cf-0cfc1da086f4",
+        "title": "Software Developer Co-op",
+        "active": true,
+        "terms": [
+            "Spring 2023"
+        ],
+        "date_updated": 1723592602,
+        "date_posted": 1723592602,
+        "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Kitchener-Ontario-Canada/Software-Developer-Co-op_3139863-1",
+        "locations": [
+            "Kitchener, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Hewlett Packard (HP)",
+        "id": "e66b6be3-37c9-42b0-a330-467cc206e7bd",
+        "title": "Software Developer Co-op",
+        "active": true,
+        "terms": [
+            "Spring 2023"
+        ],
+        "date_updated": 1723592428,
+        "date_posted": 1723592428,
+        "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Kitchener-Ontario-Canada/Software-Developer-Co-op_3139862-1",
+        "locations": [
+            "Kitchener, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Figure",
+        "id": "8865b037-be3d-42f0-b59a-15740ef5ec46",
+        "title": "Full-Stack Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1723664009,
+        "date_posted": 1723591023,
+        "url": "https://job-boards.greenhouse.io/figureai/jobs/4393829006",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Figure-AI",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
