@@ -91741,7 +91741,7 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1723483977,
+        "date_updated": 1723694803,
         "url": "https://careers.qualcomm.com/careers?query=internship&pid=446700989850&domain=qualcomm.com&sort_by=relevance&triggerGoButton=false",
         "company_name": "Qualcomm",
         "title": "Software Engineering Intern",
@@ -91751,13 +91751,13 @@
         "terms": [
             "Summer 2025"
         ],
-        "sponsorship": "Offers Sponsorship",
+        "sponsorship": "Other",
         "active": true,
         "source": "nicolasgarza",
         "id": "935bcff9-fdcd-4097-a946-c414a242f8d0",
         "date_posted": 1723483977,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "source": "Simplify",
