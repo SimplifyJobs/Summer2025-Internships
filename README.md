@@ -59,6 +59,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Cargill | Software Engineering Intern 🛂 | Atlanta, GA | <a href="https://careers.cargill.com/en/job/-/-/23251/68562383440?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 14 |
 | **[Roblox](https://simplify.jobs/c/Roblox)** | [Summer 2025] Software Engineer - InternNew Internship 🛂 | San Mateo, CA | <a href="https://careers.roblox.com/jobs/6086765?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 13 |
 | Qualcomm | Embedded Engineering Internship - Summer 2025 | San Diego, CA | <a href="https://careers.qualcomm.com/careers/job/446700989859?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 13 |
 | **[PayPal](https://simplify.jobs/c/PayPal)** | Software Engineer Intern | <details><summary>**6 locations**</summary>San Jose, CA</br>Chicago, IL</br>Omaha, NE</br>Scottsdale, AZ</br>New York City, NY</br>Austin, TX</details> | <a href="https://paypal.eightfold.ai/careers?query=R0115646&pid=274902335251&domain=paypal.com&sort_by=relevance&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 13 |

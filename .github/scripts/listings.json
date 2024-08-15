@@ -92280,5 +92280,24 @@
         "company_url": "https://simplify.jobs/c/Figure-AI",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1723694701,
+        "url": "https://careers.cargill.com/en/job/-/-/23251/68562383440",
+        "company_name": "Cargill",
+        "title": "Software Engineering Intern",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "haozhou1919",
+        "id": "8c798a50-fad6-435a-8362-2bab6528b87c",
+        "date_posted": 1723694701,
+        "company_url": "",
+        "is_visible": true
     }
 ]
