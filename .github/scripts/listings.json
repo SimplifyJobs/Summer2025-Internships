@@ -91688,7 +91688,7 @@
         "company_name": "Intel",
         "id": "2d6d268a-4aa7-47af-9062-c74123b9e0fc",
         "title": "Software Engineer \u2013 PEY Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2024"
         ],
@@ -92229,7 +92229,7 @@
         "company_name": "Hewlett Packard (HP)",
         "id": "6e1e5854-1c24-42fc-a3cf-0cfc1da086f4",
         "title": "Software Developer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2023"
         ],
@@ -92248,7 +92248,7 @@
         "company_name": "Hewlett Packard (HP)",
         "id": "e66b6be3-37c9-42b0-a330-467cc206e7bd",
         "title": "Software Developer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2023"
         ],
@@ -92411,6 +92411,256 @@
             "Austin, TX"
         ],
         "company_url": "https://simplify.jobs/c/General-Assembly",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "The Boeing Company",
+        "id": "07655a4e-fb81-48c5-b166-43a42e59570b",
+        "title": "Software Development Intern",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1723823270,
+        "date_posted": 1723823270,
+        "url": "https://boeing.wd1.myworkdayjobs.com/external_careers/job/CAN---Richmond-Canada/Software-Development-Intern_00000436305-2",
+        "locations": [
+            "Richmond, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Boston Dynamics AI Institute",
+        "id": "c8577f3c-d4bc-4dd7-9948-102be88aa769",
+        "title": "Legged Robotics Software Engineer INTERN",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1723822928,
+        "date_posted": 1723822928,
+        "url": "https://jobs.lever.co/bostondynamicsaiinstitute/ae47fabf-267b-4c5c-be34-041ae3d93fc9/apply",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/BDAI-Institute",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "The Boeing Company",
+        "id": "f199758a-2427-49cb-b20b-d1bdb0e60c49",
+        "title": "Data Science Intern",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1723794577,
+        "date_posted": 1723794577,
+        "url": "https://boeing.wd1.myworkdayjobs.com/external_careers/job/CAN---Richmond-Canada/Data-Science-Intern_00000436119-2",
+        "locations": [
+            "Richmond, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Palantir",
+        "id": "84ebdbe7-6484-44c0-bf7f-73c5eba09d83",
+        "title": "Accelerate \u2013 Internship",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1723836446,
+        "date_posted": 1723765495,
+        "url": "https://jobs.lever.co/palantir/abc4192c-8edc-4472-b3d7-9e37c0f2a913/apply",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/Palantir",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Palantir",
+        "id": "03cb9aee-1081-462c-b14c-d1dcf2d883a3",
+        "title": "Accelerate \u2013 Internship",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1723836248,
+        "date_posted": 1723765495,
+        "url": "https://jobs.lever.co/palantir/58456ed3-61be-4b16-b57f-7d30942e0170/apply",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Palantir",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Point72",
+        "id": "82ee8323-e8cf-4bd4-86bc-fdc0f069d1a8",
+        "title": "Quantitative Software Developer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1723765343,
+        "date_posted": 1723765343,
+        "url": "https://job-boards.greenhouse.io/point72/jobs/7297666002",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Point72",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Syska Hennessy Group",
+        "id": "50c3f5ba-1810-4393-a77a-2f3be728fafe",
+        "title": "Innovations Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1723765126,
+        "date_posted": 1723765126,
+        "url": "https://syska.com/join-us/job_application/?gh_jid=6183361",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Syska-Hennessy-Group",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Point72",
+        "id": "56e1cdf8-25ee-475c-86f0-87d73eea4d0b",
+        "title": "Quantitative Researcher \u2013 Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1723765164,
+        "date_posted": 1723765164,
+        "url": "https://job-boards.greenhouse.io/point72/jobs/7297657002",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Point72",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Point72",
+        "id": "a81c5682-3dca-47ef-808f-2e64793ae29f",
+        "title": "Quantitative Research Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1723764948,
+        "date_posted": 1723764948,
+        "url": "https://job-boards.greenhouse.io/point72/jobs/7297667002",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Point72",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Point72",
+        "id": "0a61c01c-d6c3-41b7-8e79-ecde5bae7780",
+        "title": "Summer 2025 Quantitative Developer Internship",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1723764952,
+        "date_posted": 1723764952,
+        "url": "https://job-boards.greenhouse.io/point72/jobs/7297613002",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Point72",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Fetch",
+        "id": "dc0da6a0-114e-44cd-8640-6bbcc9dc1eb4",
+        "title": "IOS Engineer \u2013 Apprenticeship",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1723764677,
+        "date_posted": 1723764677,
+        "url": "https://boards.greenhouse.io/fetchrewards/jobs/6011278003",
+        "locations": [
+            "Madison, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/FetchRewards",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Fetch",
+        "id": "c4f3c3fb-fa73-4a8f-93c2-ce5e3a525849",
+        "title": "IOS Engineer \u2013 Apprenticeship",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1723764674,
+        "date_posted": 1723764674,
+        "url": "https://boards.greenhouse.io/fetchrewards/jobs/6011280003",
+        "locations": [
+            "Birmingham, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/FetchRewards",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Salesforce",
+        "id": "3d0efd81-c286-46aa-93be-ee58e76b91aa",
+        "title": "Summer 2025 Intern - Software Engineer",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1723764615,
+        "date_posted": 1723764615,
+        "url": "https://salesforce.wd12.myworkdayjobs.com/en-us/External_Career_Site/job/Washington---Bellevue/Summer-2025-Intern---Software-Engineer_JR263200-1",
+        "locations": [
+            "Seattle, WA",
+            "SF",
+            "Bellevue, WA",
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Salesforce",
         "is_visible": true,
         "sponsorship": "Other"
     }
