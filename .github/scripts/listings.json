@@ -92683,5 +92683,26 @@
         "date_posted": 1723855653,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1723855727,
+        "url": "https://www.goldmansachs.com/careers/students/programs-and-internships/americas/2025-summer-analyst-program",
+        "company_name": "Goldman Sachs",
+        "title": "2025 Summer Analyst Program",
+        "locations": [
+            "Dallas, TX",
+            "NYC, NY",
+            "Salt lake City, UT"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "Felomondi",
+        "id": "e3e9c1bd-3334-4968-ad5c-891d63acbbc4",
+        "date_posted": 1723855727,
+        "company_url": "",
+        "is_visible": true
     }
 ]
