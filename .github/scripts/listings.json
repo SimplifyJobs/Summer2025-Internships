@@ -62811,7 +62811,7 @@
         "company_name": "Simbe Robotics",
         "id": "977b607f-6171-4bd6-a099-749d7956380e",
         "title": "Computer Vision Software Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2024",
             "Spring 2025",
@@ -88994,7 +88994,7 @@
         "company_name": "Formlabs",
         "id": "7a4ae199-9b73-4733-9b0d-1632b8ab6f99",
         "title": "Manufacturing Data Analysis Intern - Fall 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2024"
         ],
@@ -92723,5 +92723,309 @@
         "date_posted": 1723855836,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Chicago Trading Company",
+        "id": "37f9b264-0f7c-498f-a8f8-a3f17bc434c0",
+        "title": "Software Engineer Internship - Summer 2025 - New York",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1723880394,
+        "date_posted": 1723880394,
+        "url": "https://job-boards.greenhouse.io/chicagotradingcampus/jobs/4462729005",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/ChicagoTradingCo",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Chicago Trading Company",
+        "id": "be0b643c-7e67-46db-ba2f-187ee3617805",
+        "title": "Software Engineer Internship - Summer 2025 - Chicago",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1723880292,
+        "date_posted": 1723880292,
+        "url": "https://job-boards.greenhouse.io/chicagotradingcampus/jobs/4462727005",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/ChicagoTradingCo",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Chicago Trading Company",
+        "id": "99d2e5dc-1b16-4a09-95e0-bace562a80a0",
+        "title": "Quant Trading Associate Internship - Summer 2025 - London",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1723880291,
+        "date_posted": 1723880291,
+        "url": "https://job-boards.greenhouse.io/chicagotradingcampus/jobs/4462731005",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/ChicagoTradingCo",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Chicago Trading Company",
+        "id": "c4a49da7-88a9-4943-a484-e284bcd64301",
+        "title": "Quant Trading Associate Internship - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1723880291,
+        "date_posted": 1723880291,
+        "url": "https://job-boards.greenhouse.io/chicagotradingcampus/jobs/4462730005",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/ChicagoTradingCo",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Stoke Space",
+        "id": "1ab51cc0-1667-4d7e-a9e3-b4d04d51064d",
+        "title": "Software Intern - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1723879029,
+        "date_posted": 1723879029,
+        "url": "https://stokespace.com/careers/current-openings?gh_jid=5258722004",
+        "locations": [
+            "Kent, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Stoke-Space",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Leidos",
+        "id": "b62b149e-5229-4155-8e5d-541a7b446639",
+        "title": "Software Engineer Intern - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1723852147,
+        "date_posted": 1723852147,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/Software-Engineer-Intern---Summer-2025_R-00141899",
+        "locations": [
+            "Arlington, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Leidos",
+        "id": "71214d6e-ccd4-47c0-a3f5-90ddd35d613d",
+        "title": "Data Scientist Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1723852153,
+        "date_posted": 1723852153,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/San-Diego-CA/Data-Scientist-Intern_R-00141740",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Ontario Teachers' Pension Plan",
+        "id": "e1ea1b3e-00b8-4b3d-a4e9-ec0a6d5c5273",
+        "title": "Intern \u2013 Trading Floor Risk Analyst - Fall 2024 - Month term",
+        "active": true,
+        "terms": [
+            "Fall 2024"
+        ],
+        "date_updated": 1723851626,
+        "date_posted": 1723851626,
+        "url": "https://otppb.wd3.myworkdayjobs.com/OntarioTeachers_Careers/job/Toronto-Canada/Intern---Trading-Floor-Risk-Analyst--Fall-2024---12-Month-term-_6012",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Ontario-Teachers'-Pension-Plan",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Hudl",
+        "id": "cb20a3fa-dff5-4043-8ca8-fc22fd9a29d0",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1723851522,
+        "date_posted": 1723851522,
+        "url": "https://boards.greenhouse.io/hudl/jobs/6176329",
+        "locations": [
+            "Lincoln, NE"
+        ],
+        "company_url": "https://simplify.jobs/c/Hudl",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Point72",
+        "id": "82f27fc8-ced8-4c52-9863-fbb4b9fe1125",
+        "title": "2025 Summer Internship - Data Engineer - Proprietary Research",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1723851091,
+        "date_posted": 1723851091,
+        "url": "https://job-boards.greenhouse.io/point72/jobs/7600132002",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Point72",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Point72",
+        "id": "ba286e2d-d413-49a0-a1e5-981d9fcc982e",
+        "title": "2025 Summer Internship - Data Scientist - Proprietary Research",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1723851091,
+        "date_posted": 1723851091,
+        "url": "https://job-boards.greenhouse.io/point72/jobs/7600241002",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Point72",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Fannie Mae",
+        "id": "9576758a-8215-4e79-8eca-2fa96f96db5d",
+        "title": "Campus \u2013 Technology Program Intern - Flexible Hybrid",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1723850260,
+        "date_posted": 1723850260,
+        "url": "https://jobs.smartrecruiters.com/FannieMae/744000007297652",
+        "locations": [
+            "Reston, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/05025fbc-c8e6-4e31-bac9-fa60992ee4a2",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Fannie Mae",
+        "id": "cec82391-8794-4bc0-bef9-b3ebc14fa704",
+        "title": "Campus \u2013 Technology Program Intern - Flexible Hybrid",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1723850259,
+        "date_posted": 1723850259,
+        "url": "https://jobs.smartrecruiters.com/FannieMae/744000007300395",
+        "locations": [
+            "Plano, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/05025fbc-c8e6-4e31-bac9-fa60992ee4a2",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Fannie Mae",
+        "id": "df41bfce-d6ab-45b1-b365-78c8b3cde704",
+        "title": "Campus \u2013 Technology Program Intern - Flexible Hybrid",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1723850259,
+        "date_posted": 1723850259,
+        "url": "https://jobs.smartrecruiters.com/FannieMae/744000007300305",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/05025fbc-c8e6-4e31-bac9-fa60992ee4a2",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Altera Digital Health",
+        "id": "6e6e36a2-9cda-4087-8b2c-a632e5258965",
+        "title": "Implementation Analyst \u2013 Intern - Remote",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1723850134,
+        "date_posted": 1723850134,
+        "url": "https://job-boards.greenhouse.io/alteradigitalhealth/jobs/4474580007",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Altera-Digital-Health",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Bank of Montreal (BMO)",
+        "id": "2c37de1b-7340-4d35-8385-6b2ceb5b14b8",
+        "title": "Data Analytics Developer \u2013 Co-op/Internship - Fall 2024 - 4 Months",
+        "active": true,
+        "terms": [
+            "Fall 2024"
+        ],
+        "date_updated": 1723849959,
+        "date_posted": 1723849959,
+        "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Data-Analytics-Developer---Fall-2024--Co-op-Internship----4-Months_R240021904-1",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/BMO",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
