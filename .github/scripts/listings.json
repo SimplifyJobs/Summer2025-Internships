@@ -92663,5 +92663,25 @@
         "company_url": "https://simplify.jobs/c/Salesforce",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1723855653,
+        "url": "https://jobs.boeing.com/job/richmond/data-science-intern/185/68796050496",
+        "company_name": "Boeing Canada",
+        "title": "Data Science Intern",
+        "locations": [
+            "Richmond, BC",
+            "Hybrid"
+        ],
+        "terms": [
+            "Winter 2025"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "asagu383",
+        "id": "3a734143-8730-4f95-bff3-fa1d159dee23",
+        "date_posted": 1723855653,
+        "company_url": "",
+        "is_visible": true
     }
 ]
