@@ -92704,5 +92704,24 @@
         "date_posted": 1723855727,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1723855836,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9923/?lastSelectedFacet=TITLES&location=Canada&locationId=300000000471544&locationLevel=country&mode=location&selectedTitlesFacet=TRA",
+        "company_name": "Nokia",
+        "title": "Web Portal Developer Co-op/Intern",
+        "locations": [
+            "Ottawa, ON"
+        ],
+        "terms": [
+            "Winter 2025"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "asagu383",
+        "id": "9fdf79e1-809d-45eb-812f-0c2bd0280c44",
+        "date_posted": 1723855836,
+        "company_url": "",
+        "is_visible": true
     }
 ]
