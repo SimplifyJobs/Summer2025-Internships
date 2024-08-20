@@ -59,6 +59,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Adobe | Intern - Software Engineer | Various Locations | <a href="https://careers.adobe.com/us/en/job/R147746/2025-Intern-Software-Engineer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 20 |
 | Microsoft | Software Engineer: Fullstack Intern Opportunities for University Students, Mountain View | Mountain View, CA | <a href="https://jobs.careers.microsoft.com/global/en/share/1755483?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 19 |
 | Hudson River Trading (HRT) | Software Engineering / Algorithm Developer Internship | New York | <a href="https://www.hudsonrivertrading.com/careers/job?gh_jid=6139035&req_id=482&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 19 |
 | Cisco | Software Engineer I (Intern) 🛂 | San Jose | <a href="https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-I-Intern-United-States/1427387?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 19 |
