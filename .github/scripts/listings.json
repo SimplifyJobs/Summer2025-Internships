@@ -89729,7 +89729,7 @@
         "company_name": "Rivian",
         "id": "4f0bb45d-bcb3-490b-b3bb-98ee26f4910a",
         "title": "UIUC Research Park Intern - Machine Learning",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -90530,7 +90530,7 @@
         "company_name": "Sentry",
         "id": "3d7dbe8a-e064-464f-9b63-3cf9db7fe68a",
         "title": "Software Engineer Intern - Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -92210,7 +92210,7 @@
         "company_name": "Domo",
         "id": "88d2e533-77af-4b66-884c-e94ec9678c97",
         "title": "Web Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -92267,7 +92267,7 @@
         "company_name": "Figure",
         "id": "8865b037-be3d-42f0-b59a-15740ef5ec46",
         "title": "Full-Stack Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -92533,7 +92533,7 @@
         "company_name": "Syska Hennessy Group",
         "id": "50c3f5ba-1810-4393-a77a-2f3be728fafe",
         "title": "Innovations Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -92959,7 +92959,7 @@
         "company_name": "Fannie Mae",
         "id": "cec82391-8794-4bc0-bef9-b3ebc14fa704",
         "title": "Campus \u2013 Technology Program Intern - Flexible Hybrid",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -92978,7 +92978,7 @@
         "company_name": "Fannie Mae",
         "id": "df41bfce-d6ab-45b1-b365-78c8b3cde704",
         "title": "Campus \u2013 Technology Program Intern - Flexible Hybrid",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -92997,7 +92997,7 @@
         "company_name": "Altera Digital Health",
         "id": "6e6e36a2-9cda-4087-8b2c-a632e5258965",
         "title": "Implementation Analyst \u2013 Intern - Remote",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -93086,5 +93086,387 @@
         "date_posted": 1724128140,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Plexus",
+        "id": "a1d15775-526b-437a-b567-4ce22e1796cf",
+        "title": "Intern \u2013 Product Engineer - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1724166578,
+        "date_posted": 1724166578,
+        "url": "https://plexus.wd5.myworkdayjobs.com/en-US/Plexus_Careers/job/Nampa-ID/Intern---Product-Engineer---Summer-2025_R030199",
+        "locations": [
+            "Nampa, ID"
+        ],
+        "company_url": "https://simplify.jobs/c/Plexus",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Hudson River Trading",
+        "id": "a973b049-0598-4be0-9f52-96a953db5a3c",
+        "title": "Software Engineering Internship - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1724109989,
+        "date_posted": 1724109989,
+        "url": "https://boards.greenhouse.io/wehrtyou/jobs/6139035",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Hudson-River-Trading",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Hudson River Trading",
+        "id": "9d05df62-d415-4946-8941-978f9dc08702",
+        "title": "Algorithm Development Internship - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1724109975,
+        "date_posted": 1724109975,
+        "url": "https://boards.greenhouse.io/wehrtyou/jobs/6139121",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Hudson-River-Trading",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "SGNL",
+        "id": "3a05957d-934f-41d3-a9df-d476f95c951e",
+        "title": "Software Engineering Intern - Fall 2024",
+        "active": true,
+        "terms": [
+            "Fall 2024"
+        ],
+        "date_updated": 1724116755,
+        "date_posted": 1724103652,
+        "url": "https://sgnl.ai/careers/?gh_jid=4462531005",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/SGNLai",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Accenture Federal Services",
+        "id": "566fd0f6-9820-43f2-81b7-fb0e01a397c9",
+        "title": "Technology Development Internship Program",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1724103551,
+        "date_posted": 1724103551,
+        "url": "https://boards.greenhouse.io/accenturefederalservices/jobs/4392377006",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/AccentureFederalServices",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Motorola",
+        "id": "0e997eb2-3739-4d66-a5df-f9beef7eb436",
+        "title": "Google Applications Developer Internship - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1724103544,
+        "date_posted": 1724103544,
+        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/New-York-US-Offsite/Google-Applications-Developer-Internship--Summer-2025-_R49034",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/MotorolaSolutions",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Verkada",
+        "id": "c58565b4-d15a-4b04-a45c-e0357d612cbc",
+        "title": "Software Engineering Intern - Backend - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1724103451,
+        "date_posted": 1724103451,
+        "url": "https://job-boards.greenhouse.io/verkada/jobs/4477721007",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Verkada",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Figma",
+        "id": "f337ea26-620b-4bb7-9c85-8400e337c3dd",
+        "title": "Software Engineer \u2013 Intern - 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1724103348,
+        "date_posted": 1724103348,
+        "url": "https://job-boards.greenhouse.io/figma/jobs/5232157004",
+        "locations": [
+            "SF",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Figma",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Figma",
+        "id": "9bad9011-46e0-4b9d-9579-3a54f49beb62",
+        "title": "Data Scientist \u2013 Intern - 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1724103279,
+        "date_posted": 1724103279,
+        "url": "https://job-boards.greenhouse.io/figma/jobs/5227937004",
+        "locations": [
+            "SF",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Figma",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Verkada",
+        "id": "5c5c02d5-a49b-4fb5-8c05-4f4648b62439",
+        "title": "Software Engineering Intern - Frontend - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1724103230,
+        "date_posted": 1724103230,
+        "url": "https://job-boards.greenhouse.io/verkada/jobs/4477761007",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Verkada",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Verkada",
+        "id": "f4811d43-a764-42f8-8429-e09974e9cf27",
+        "title": "Software Engineering Intern - Frontend - Winter 2025",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1724102621,
+        "date_posted": 1724102621,
+        "url": "https://job-boards.greenhouse.io/verkada/jobs/4482688007",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Verkada",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Verkada",
+        "id": "f25f46a4-ab96-49e7-849b-cd4b70e4b29f",
+        "title": "Software Engineering Intern - Embedded - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1724102620,
+        "date_posted": 1724102620,
+        "url": "https://job-boards.greenhouse.io/verkada/jobs/4477801007",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Verkada",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Verkada",
+        "id": "ffcdfe7f-4317-40d5-b9d6-2777fbdc117f",
+        "title": "Software Engineering Intern - Backend - Winter 2025",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1724102619,
+        "date_posted": 1724102619,
+        "url": "https://job-boards.greenhouse.io/verkada/jobs/4482665007",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Verkada",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Verkada",
+        "id": "397dc4f6-31d6-498e-b128-67d3b7b415b4",
+        "title": "Security Software Engineering Intern - Backend - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1724102613,
+        "date_posted": 1724102613,
+        "url": "https://job-boards.greenhouse.io/verkada/jobs/4483295007",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Verkada",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Verkada",
+        "id": "cc22a5b1-d887-40f7-9b04-8ee61321a911",
+        "title": "Android Engineering Intern - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1724102447,
+        "date_posted": 1724102447,
+        "url": "https://job-boards.greenhouse.io/verkada/jobs/4483442007",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Verkada",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Bank of Montreal (BMO)",
+        "id": "777c4b5c-ca62-4685-a7d1-c0a0b24581c3",
+        "title": "Data Analytics and Reporting Analyst \u2013 Co-op/Internship - Fall 2024 - 8 Months",
+        "active": true,
+        "terms": [
+            "Fall 2024"
+        ],
+        "date_updated": 1724102374,
+        "date_posted": 1724102374,
+        "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Data-Analytics-and-Reporting-Analyst---Fall-2024--Co-op-Internship----8-Months_R240021972",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/BMO",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Pison",
+        "id": "9cdfb579-69c6-48c8-b21d-cf0022065919",
+        "title": "Software Intern-Fall",
+        "active": true,
+        "terms": [
+            "Fall 2024"
+        ],
+        "date_updated": 1724101982,
+        "date_posted": 1724101982,
+        "url": "https://jobs.lever.co/pison/3ca2210d-2b4b-445d-9077-f97127e24b2d/apply",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/PisonTech",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Sony Music Entertainment UK",
+        "id": "18a8669b-316b-4a2e-a76a-87888296bc2e",
+        "title": "Insight & Analytics Intern",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1724101909,
+        "date_posted": 1724101909,
+        "url": "https://www.sonymusic.co.uk/careers/job-description/?gh_jid=7569235002",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/SonyMusicEnt-UK",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Verkada",
+        "id": "608329ef-256c-49f8-91db-966901cd5e21",
+        "title": "IOS Engineering Intern - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1724101527,
+        "date_posted": 1724101527,
+        "url": "https://job-boards.greenhouse.io/verkada/jobs/4484581007",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Verkada",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "STR",
+        "id": "e600e563-d15e-4a2e-bb2f-3a810e17cc55",
+        "title": "Research Engineer Spring Co-Op",
+        "active": true,
+        "terms": [
+            "Spring 2024"
+        ],
+        "date_updated": 1724167358,
+        "date_posted": 1723707347,
+        "url": "https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4394265006",
+        "locations": [
+            "Burlington, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/STR",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
