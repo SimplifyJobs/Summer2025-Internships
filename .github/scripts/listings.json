@@ -93067,5 +93067,24 @@
         "date_posted": 1724128060,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724128140,
+        "url": "https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-I-Intern-United-States/1427387",
+        "company_name": "Cisco",
+        "title": "Software Engineer I (Intern)",
+        "locations": [
+            "San Jose"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "Ayush971107",
+        "id": "033d92ed-c865-444f-bb63-2aada766ed09",
+        "date_posted": 1724128140,
+        "company_url": "",
+        "is_visible": true
     }
 ]
