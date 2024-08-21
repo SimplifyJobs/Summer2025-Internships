@@ -90857,7 +90857,7 @@
         "company_name": "Rivian",
         "id": "0c7d989d-b12b-4bcd-a23c-5f767a57e466",
         "title": "UIUC Research Park Intern - Special Projects",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2024",
             "Spring 2025",
@@ -92438,7 +92438,7 @@
         "company_name": "Boston Dynamics AI Institute",
         "id": "c8577f3c-d4bc-4dd7-9948-102be88aa769",
         "title": "Legged Robotics Software Engineer INTERN",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -93487,5 +93487,157 @@
         "date_posted": 1724205012,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Pocket Worlds",
+        "id": "bb4551f2-3af7-407d-aa29-afb4743850a7",
+        "title": "Software Development Residency",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1724253520,
+        "date_posted": 1724253520,
+        "url": "https://jobs.ashbyhq.com/pocket%20worlds/f644f0df-3ef8-4947-bca4-fdf5f86d1c6a/application",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Pocket-Worlds",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Flawless",
+        "id": "cd8c1dcc-dbc8-45b8-b24f-ebeaa1f2bf15",
+        "title": "Deep Learning Data Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1724197238,
+        "date_posted": 1724197238,
+        "url": "https://jobs.lever.co/flawlessai/3c86dea3-2b45-4846-ba42-0d7e545a9b27/apply",
+        "locations": [
+            "Santa Monica, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Flawless",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Astranis",
+        "id": "356896a6-3295-46b4-81aa-8e37717864cb",
+        "title": "Flight Software Intern - Winter 2025",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1724197115,
+        "date_posted": 1724197115,
+        "url": "https://job-boards.greenhouse.io/astranis/jobs/4394953006",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Astranis",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Plexus",
+        "id": "c40ed880-2766-4afc-9ffe-728cf7c29575",
+        "title": "Intern \u2013 Product Engineer - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1724267337,
+        "date_posted": 1724196252,
+        "url": "https://plexus.wd5.myworkdayjobs.com/en-US/Plexus_Careers/job/Neenah-WI/Intern---Product---Summer-2025_R029837-1",
+        "locations": [
+            "Neenah, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Plexus",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Plexus",
+        "id": "8c5ec152-c856-471c-9e30-edabb29ffcdd",
+        "title": "Intern \u2013 Manufacturing Systems Engineer - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1724196252,
+        "date_posted": 1724196252,
+        "url": "https://plexus.wd5.myworkdayjobs.com/en-US/Plexus_Careers/job/Nampa-ID/Intern---Manufacturing-Systems-Engineer---Summer-2025_R030200",
+        "locations": [
+            "Nampa, ID"
+        ],
+        "company_url": "https://simplify.jobs/c/Plexus",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Plexus",
+        "id": "205968f9-bd13-4e18-9cf1-7109ceb1b0e0",
+        "title": "Intern \u2013 Product Engineer - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1724196244,
+        "date_posted": 1724196244,
+        "url": "https://plexus.wd5.myworkdayjobs.com/en-US/Plexus_Careers/job/Buffalo-Grove-IL/Intern---Product-Engineer---Summer-2025_R030205",
+        "locations": [
+            "Wheeling, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Plexus",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Fannie Mae",
+        "id": "f2e86804-0d07-4f1b-9d2e-a309b6c0b07c",
+        "title": "Campus \u2013 Technology Program Intern - Flexible Hybrid",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1724195804,
+        "date_posted": 1724195804,
+        "url": "https://jobs.smartrecruiters.com/FannieMae/744000008172571",
+        "locations": [
+            "Plano, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/05025fbc-c8e6-4e31-bac9-fa60992ee4a2",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Fannie Mae",
+        "id": "939f7e5f-d119-41fa-bcb2-3a5e63aa87d3",
+        "title": "Campus \u2013 Technology Program Intern - Flexible Hybrid",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1724195814,
+        "date_posted": 1724195814,
+        "url": "https://jobs.smartrecruiters.com/FannieMae/744000008172836",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/05025fbc-c8e6-4e31-bac9-fa60992ee4a2",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
