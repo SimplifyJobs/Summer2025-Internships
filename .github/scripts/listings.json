@@ -90755,7 +90755,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1722886379,
+        "date_updated": 1724287669,
         "url": "https://apply.deloitte.com/careers/JobDetail/Deloitte-Consulting-Software-Engineering-Summer-Scholar/185362",
         "company_name": "Deloitte",
         "title": "Software Engineering Summer Scholar",
@@ -90767,13 +90767,13 @@
         "terms": [
             "Summer 2025"
         ],
-        "sponsorship": "Does Not Offer Sponsorship",
+        "sponsorship": "Other",
         "active": true,
         "source": "aroramrinaal",
         "id": "0a80b128-095b-43aa-b1b8-ea4756e4cefb",
         "date_posted": 1722886379,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1722886404,
