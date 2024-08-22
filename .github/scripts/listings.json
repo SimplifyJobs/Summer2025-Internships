@@ -89710,7 +89710,7 @@
         "company_name": "Rivian",
         "id": "bddad21d-4c97-49b3-b805-28a759600ce2",
         "title": "UIUC Reseach Park Intern - Camera Imaging",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -91318,7 +91318,7 @@
         "company_name": "Capstone Investment Advisors",
         "id": "c050b237-c757-4fb8-be33-9434aff91618",
         "title": "2025 Summer Internship - Quantitative Risk Technology",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -92001,7 +92001,7 @@
         "company_name": "Uber",
         "id": "b5d6183d-0b3d-440c-a465-adedcce1fd4f",
         "title": "2025 Software Engineering Uberstar Internship - Uber Career Prep - United States",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -92419,7 +92419,7 @@
         "company_name": "The Boeing Company",
         "id": "07655a4e-fb81-48c5-b166-43a42e59570b",
         "title": "Software Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -92457,7 +92457,7 @@
         "company_name": "The Boeing Company",
         "id": "f199758a-2427-49cb-b20b-d1bdb0e60c49",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -93696,5 +93696,63 @@
         "date_posted": 1724287728,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Leidos",
+        "id": "790221fc-b25f-4646-8043-c5903f46d9b8",
+        "title": "Software Engineer Intern - Spring 2025",
+        "active": true,
+        "terms": [
+            "Spring 2025"
+        ],
+        "date_updated": 1724340204,
+        "date_posted": 1724340204,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/Software-Engineer-Intern---Spring-2025_R-00142183-1",
+        "locations": [
+            "Arlington, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Leidos",
+        "id": "f5c0aa0d-ddd2-4327-a13e-d0ffc0c88460",
+        "title": "Software Engineer Intern - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1724340203,
+        "date_posted": 1724340203,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/Software-Engineer-Intern---Summer-2025_R-00142184",
+        "locations": [
+            "Arlington, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "DriveTime",
+        "id": "6675a0c9-148e-4095-ad5d-e711c67a3daa",
+        "title": "Data Analytics Intern - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1724282975,
+        "date_posted": 1724282975,
+        "url": "https://drivetime.wd1.myworkdayjobs.com/DriveTime/job/1720-W-Rio-Salado-Pkwy-Tempe-AZ-85281/Data-Analytics-Intern--Summer-2025-_R9141",
+        "locations": [
+            "Texas",
+            "Arizona"
+        ],
+        "company_url": "https://simplify.jobs/c/drivetime",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
