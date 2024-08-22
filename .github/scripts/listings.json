@@ -93658,5 +93658,24 @@
         "date_posted": 1724287691,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724287712,
+        "url": "https://www.geckorobotics.com/careers?ashby_jid=23c70fb7-0cf2-4d16-b081-aa2286f09c53#open-positions",
+        "company_name": "Gecko Robotics",
+        "title": "Embedded Software Engineer - Intern",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "jkahn33",
+        "id": "9f8832a7-95d9-4352-9dec-a219fbed714e",
+        "date_posted": 1724287712,
+        "company_url": "",
+        "is_visible": true
     }
 ]
