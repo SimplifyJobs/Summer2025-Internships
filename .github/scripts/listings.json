@@ -90900,7 +90900,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1722973491,
+        "date_updated": 1724350112,
         "url": "https://www.databricks.com/company/careers/university-recruiting/software-engineering-intern-2025-6866529002?gh_jid=6866529002&gh_src=62a881d62",
         "company_name": "Databricks",
         "title": "Software Engineering Intern",
@@ -90910,13 +90910,13 @@
         "terms": [
             "Summer 2025"
         ],
-        "sponsorship": "Offers Sponsorship",
+        "sponsorship": "Other",
         "active": true,
         "source": "reddoy",
         "id": "ca4d8473-0dec-49a6-b9b7-5b0c65cd32df",
         "date_posted": 1722973491,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1724350096,
