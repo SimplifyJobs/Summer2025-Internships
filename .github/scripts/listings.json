@@ -93639,5 +93639,24 @@
         "company_url": "https://simplify.jobs/c/05025fbc-c8e6-4e31-bac9-fa60992ee4a2",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1724287691,
+        "url": "https://www.geckorobotics.com/careers?ashby_jid=324af8fa-cab0-47b2-908c-f26fbd54d668#open-positions",
+        "company_name": "Gecko Robotics",
+        "title": "Software Engineer - Intern",
+        "locations": [
+            "Boston, MA"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "jkahn33",
+        "id": "59eda13c-9e1d-4e12-8408-3ae7d9e3a2a7",
+        "date_posted": 1724287691,
+        "company_url": "",
+        "is_visible": true
     }
 ]
