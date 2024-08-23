@@ -47459,7 +47459,7 @@
         "company_name": "Moveworks",
         "id": "97c683f0-5e4d-4d17-ad82-f383623bdf7b",
         "title": "Machine Learning Engineer Intern - Conversational Search",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -47478,7 +47478,7 @@
         "company_name": "Moveworks",
         "id": "9bbc3cc0-a9f8-40e9-8db1-b4d34cadaace",
         "title": "Machine Learning Engineer Intern - NLU & ML Infra",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -89323,7 +89323,7 @@
         "company_name": "Klue",
         "id": "00347dd3-7eb0-4322-888f-e7334b4a36e0",
         "title": "Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2024"
         ],
@@ -90022,7 +90022,7 @@
         "company_name": "Lakeside Software",
         "id": "8032c990-ffcf-49fa-b2ec-09a0739a731b",
         "title": "Technical Translator Intern - Spanish/French/German - Multiple Openings",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -90041,7 +90041,7 @@
         "company_name": "Lakeside Software",
         "id": "5e2c74de-af4c-4afb-9a89-49f9dafe93d5",
         "title": "Technical Translator Intern - Spanish/French/German - Multiple Openings",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -90339,7 +90339,7 @@
         "company_name": "Cerence",
         "id": "b7fa3761-f688-48c2-b5ed-330b522da862",
         "title": "Autumne/Fall \u2013 / Software Developer Intern - D\u00e9veloppeur logiciel - Stagiaire",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2024"
         ],
@@ -90453,7 +90453,7 @@
         "company_name": "Heretic",
         "id": "3f652d57-4fdd-43e6-b5e6-03a783c08064",
         "title": "Fall 2024 \u2013 Applied AI/ML Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2024"
         ],
@@ -90701,7 +90701,7 @@
         "company_name": "Golden Hippo",
         "id": "53242b59-192e-4238-9a9b-2c3542e6c53d",
         "title": "Customer Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -93016,7 +93016,7 @@
         "company_name": "Bank of Montreal (BMO)",
         "id": "2c37de1b-7340-4d35-8385-6b2ceb5b14b8",
         "title": "Data Analytics Developer \u2013 Co-op/Internship - Fall 2024 - 4 Months",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2024"
         ],
@@ -93774,5 +93774,161 @@
         "date_posted": 1724391556,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Leidos",
+        "id": "122e2b9f-e626-47d0-b3ed-e82ca8124fc3",
+        "title": "Physics and Data Science Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1724427161,
+        "date_posted": 1724427161,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/San-Diego-CA/Physics-and-Data-Science-Intern_R-00141566-1",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Point72",
+        "id": "39a2963a-48e4-4f01-a586-bd256301bf19",
+        "title": "Quantitative Developer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1724426671,
+        "date_posted": 1724426671,
+        "url": "https://job-boards.greenhouse.io/point72/jobs/7609197002",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Point72",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Chamberlain Group",
+        "id": "a6a79073-609f-4d9a-8dfd-9f0d28153d50",
+        "title": "Intern \u2013 Engineering - Test Automation - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1724426601,
+        "date_posted": 1724426601,
+        "url": "https://chamberlain.wd1.myworkdayjobs.com/Chamberlain_Group/job/Elmhurst-IL/Intern--Engineering---Test-Automation--Summer-2025-_JR27862",
+        "locations": [
+            "Western Springs, IL",
+            "Elmhurst, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Chamberlain-Group",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Chamberlain Group",
+        "id": "7349c3ec-da49-4f30-a311-cfaea3dbd8a6",
+        "title": "Intern \u2013 Myq Front End Engineer - Android or iOS - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1724426596,
+        "date_posted": 1724426596,
+        "url": "https://chamberlain.wd1.myworkdayjobs.com/Chamberlain_Group/job/Oak-Brook-IL/Intern--myQ-Front-End-Engineer--Android-or-iOS---Summer-2025-_JR27800",
+        "locations": [
+            "Western Springs, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Chamberlain-Group",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Stripe",
+        "id": "2cd3eb08-6a76-457c-8442-94397da5ed3e",
+        "title": "Software Engineer \u2013 Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1724398564,
+        "date_posted": 1724398564,
+        "url": "https://stripe.com/jobs/search?gh_jid=6142753",
+        "locations": [
+            "Seattle, WA",
+            "SF",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Stripe",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Workiva",
+        "id": "28a5430a-ae25-4db4-a0df-25f9cf18d409",
+        "title": "2025 Summer Intern - Software Engineer",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1724369921,
+        "date_posted": 1724369921,
+        "url": "https://workiva.wd1.myworkdayjobs.com/careers/job/USA---Remote/XMLNAME-2025-Summer-Intern---Software-Engineer_R9088",
+        "locations": [
+            "Ames, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/Workiva",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Workiva",
+        "id": "47dca1f4-f047-4148-94eb-3eef6577d9f7",
+        "title": "2025 Summer Intern - Data Science",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1724369920,
+        "date_posted": 1724369920,
+        "url": "https://workiva.wd1.myworkdayjobs.com/careers/job/Denver/Intern---Data-Science_R8720",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Workiva",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Workiva",
+        "id": "729b7840-d448-4591-bdbf-28c01ecfa822",
+        "title": "2025 Summer Intern - Machine Learning Engineering",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1724369763,
+        "date_posted": 1724369763,
+        "url": "https://workiva.wd1.myworkdayjobs.com/careers/job/USA---Remote/Intern---Machine-Learning-Engineering_R8718-1",
+        "locations": [
+            "Remote in USA",
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Workiva",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
