@@ -93754,5 +93754,25 @@
         "company_url": "https://simplify.jobs/c/drivetime",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1724391556,
+        "url": "https://app.ripplematch.com/v2/public/job/f6d4d8b9?tl=58c02b67&from_page=tracking_link",
+        "company_name": "Robinhood",
+        "title": "Software Engineering Intern, Web",
+        "locations": [
+            "Menlo Park, CA",
+            "New York, NY"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "reddoy",
+        "id": "0560b8a6-17bb-48ad-b2a9-89a73d51196f",
+        "date_posted": 1724391556,
+        "company_url": "",
+        "is_visible": true
     }
 ]
