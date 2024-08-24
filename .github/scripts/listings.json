@@ -92647,7 +92647,7 @@
         "company_name": "Salesforce",
         "id": "3d0efd81-c286-46aa-93be-ee58e76b91aa",
         "title": "Summer 2025 Intern - Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -93928,6 +93928,160 @@
             "Denver, CO"
         ],
         "company_url": "https://simplify.jobs/c/Workiva",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "OpenAI",
+        "id": "ada9adb0-8a49-45cf-ae8a-ad2bd8ee5606",
+        "title": "Residency \u2013 Model Behavior",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1724485327,
+        "date_posted": 1724485327,
+        "url": "https://jobs.ashbyhq.com/openai/9c411fcb-b2f2-4f20-b9f8-243136b7ea28/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/OpenAI",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Semgrep",
+        "id": "e60d9a1d-27e7-4b2a-8ef9-f84cb048397e",
+        "title": "Software Engineer Intern - Program Analysis",
+        "active": true,
+        "terms": [
+            "Spring 2025",
+            "Summer 2025"
+        ],
+        "date_updated": 1724455480,
+        "date_posted": 1724455480,
+        "url": "https://job-boards.greenhouse.io/semgrep/jobs/4489641007",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Semgrep",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Semgrep",
+        "id": "f56737be-dcf8-4449-a651-917c2d83e547",
+        "title": "Software Engineer Intern - Cloud Platform",
+        "active": true,
+        "terms": [
+            "Spring 2025",
+            "Summer 2025"
+        ],
+        "date_updated": 1724455479,
+        "date_posted": 1724455479,
+        "url": "https://job-boards.greenhouse.io/semgrep/jobs/4489659007",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Semgrep",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Fannie Mae",
+        "id": "11191ff6-efba-490d-9ca4-31275d153382",
+        "title": "Campus \u2013 Intern - Data Science - Analytics and Modeling Program - Flexible Hybrid",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1724455301,
+        "date_posted": 1724455301,
+        "url": "https://jobs.smartrecruiters.com/FannieMae/744000008992215",
+        "locations": [
+            "Plano, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/05025fbc-c8e6-4e31-bac9-fa60992ee4a2",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Fannie Mae",
+        "id": "57ba51e1-8269-4ff0-b42e-59242838612a",
+        "title": "Campus \u2013 Intern - Data Science - Analytics and Modeling Program - Flexible Hybrid",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1724455300,
+        "date_posted": 1724455300,
+        "url": "https://jobs.smartrecruiters.com/FannieMae/744000008991374",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/05025fbc-c8e6-4e31-bac9-fa60992ee4a2",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Fannie Mae",
+        "id": "259b8895-3ae7-491b-b5e5-dc09707f1b23",
+        "title": "Campus \u2013 Intern - Data Science - Analytics and Modeling Program - Flexible Hybrid",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1724455301,
+        "date_posted": 1724455301,
+        "url": "https://jobs.smartrecruiters.com/FannieMae/744000008992045",
+        "locations": [
+            "Reston, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/05025fbc-c8e6-4e31-bac9-fa60992ee4a2",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Nextdoor",
+        "id": "d7411e6b-7edf-4a7e-9665-5e5a5038826d",
+        "title": "Software Engineer Intern - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1724455115,
+        "date_posted": 1724455115,
+        "url": "https://about.nextdoor.com/careers-list/?gh_jid=6202946",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Nextdoor",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Nextdoor",
+        "id": "2c9fe708-596e-4006-9aac-e4c1fffc66d9",
+        "title": "Data Science \u2013 Intern 2025",
+        "active": true,
+        "terms": [
+            "Fall 2024"
+        ],
+        "date_updated": 1724455113,
+        "date_posted": 1724455113,
+        "url": "https://about.nextdoor.com/careers-list/?gh_jid=6202940",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Nextdoor",
         "is_visible": true,
         "sponsorship": "Other"
     }
