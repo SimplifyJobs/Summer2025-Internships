@@ -93818,7 +93818,7 @@
         "company_name": "Chamberlain Group",
         "id": "a6a79073-609f-4d9a-8dfd-9f0d28153d50",
         "title": "Intern \u2013 Engineering - Test Automation - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -94104,5 +94104,24 @@
         "date_posted": 1724549281,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Wealthsimple",
+        "id": "a3bde42a-bdf0-456e-9380-2bc061807d4f",
+        "title": "Intern \u2013 Data Science - Fall 2024",
+        "active": true,
+        "terms": [
+            "Fall 2024"
+        ],
+        "date_updated": 1724571953,
+        "date_posted": 1724571953,
+        "url": "https://jobs.lever.co/wealthsimple/a7527ab5-15e5-4a46-97e3-49dcb89d3908/apply",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Wealthsimple",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
