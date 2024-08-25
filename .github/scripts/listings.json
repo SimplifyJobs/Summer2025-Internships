@@ -94084,5 +94084,25 @@
         "company_url": "https://simplify.jobs/c/Nextdoor",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1724549281,
+        "url": "https://aexp.eightfold.ai/careers/job/24674562",
+        "company_name": "American Express",
+        "title": "Technology Software Engineer Summer Internship",
+        "locations": [
+            "Phoenix, AZ",
+            "Hybrid"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "LuaanNguyen",
+        "id": "2705b4d0-086f-42ae-97f0-cb9f1b53547d",
+        "date_posted": 1724549281,
+        "company_url": "",
+        "is_visible": true
     }
 ]
