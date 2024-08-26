@@ -94218,5 +94218,25 @@
         "date_posted": 1724703970,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724704028,
+        "url": "https://careers.truist.com/us/en/job/R0092584",
+        "company_name": "Truist",
+        "title": "2025 Technology and Innovation Internship",
+        "locations": [
+            "Charlotte, NC",
+            "Atlanta, GA"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "ajain02",
+        "id": "e2e9bbd7-d8d2-4c17-ac83-c17ad1ee00d2",
+        "date_posted": 1724704028,
+        "company_url": "",
+        "is_visible": true
     }
 ]
