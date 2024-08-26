@@ -94257,5 +94257,24 @@
         "date_posted": 1724704071,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724704096,
+        "url": "https://geico.wd1.myworkdayjobs.com/en-US/External/details/Software-Development-Intern_R0051950?q=software%20engineer%20intern",
+        "company_name": "GEICO",
+        "title": "Software Development Intern",
+        "locations": [
+            "Remote"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "LuaanNguyen",
+        "id": "62f6dc11-e342-4c62-9755-ed40b8232803",
+        "date_posted": 1724704096,
+        "company_url": "",
+        "is_visible": true
     }
 ]
