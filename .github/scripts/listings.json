@@ -90453,7 +90453,7 @@
         "company_name": "Heretic",
         "id": "3f652d57-4fdd-43e6-b5e6-03a783c08064",
         "title": "Fall 2024 \u2013 Applied AI/ML Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2024"
         ],
@@ -91273,7 +91273,7 @@
         "company_name": "Salesforce",
         "id": "fa063a1b-3bfe-48f4-a5e9-6cc2d0253b0a",
         "title": "Summer 2025 Intern - Software Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -91496,7 +91496,7 @@
         "company_name": "CACI",
         "id": "c18587ca-ec6e-4156-a1c0-c28940a20138",
         "title": "Data Engineering Intern - Fall 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2024"
         ],
@@ -92609,7 +92609,7 @@
         "company_name": "Fetch",
         "id": "dc0da6a0-114e-44cd-8640-6bbcc9dc1eb4",
         "title": "IOS Engineer \u2013 Apprenticeship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -92628,7 +92628,7 @@
         "company_name": "Fetch",
         "id": "c4f3c3fb-fa73-4a8f-93c2-ce5e3a525849",
         "title": "IOS Engineer \u2013 Apprenticeship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -93512,7 +93512,7 @@
         "company_name": "Flawless",
         "id": "cd8c1dcc-dbc8-45b8-b24f-ebeaa1f2bf15",
         "title": "Deep Learning Data Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -93702,7 +93702,7 @@
         "company_name": "Leidos",
         "id": "790221fc-b25f-4646-8043-c5903f46d9b8",
         "title": "Software Engineer Intern - Spring 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025"
         ],
@@ -93721,7 +93721,7 @@
         "company_name": "Leidos",
         "id": "f5c0aa0d-ddd2-4327-a13e-d0ffc0c88460",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -93740,7 +93740,7 @@
         "company_name": "DriveTime",
         "id": "6675a0c9-148e-4095-ad5d-e711c67a3daa",
         "title": "Data Analytics Intern - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -93780,7 +93780,7 @@
         "company_name": "Leidos",
         "id": "122e2b9f-e626-47d0-b3ed-e82ca8124fc3",
         "title": "Physics and Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -93838,7 +93838,7 @@
         "company_name": "Chamberlain Group",
         "id": "7349c3ec-da49-4f30-a311-cfaea3dbd8a6",
         "title": "Intern \u2013 Myq Front End Engineer - Android or iOS - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -94052,7 +94052,7 @@
         "company_name": "Nextdoor",
         "id": "d7411e6b-7edf-4a7e-9665-5e5a5038826d",
         "title": "Software Engineer Intern - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -94071,7 +94071,7 @@
         "company_name": "Nextdoor",
         "id": "2c9fe708-596e-4006-9aac-e4c1fffc66d9",
         "title": "Data Science \u2013 Intern 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2024"
         ],
@@ -94121,6 +94121,82 @@
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/Wealthsimple",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Chamberlain Group",
+        "id": "614c09eb-c369-4bdf-bf62-037f69d02019",
+        "title": "Intern \u2013 Machine Learning - Computer Vision - And AI - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1724685533,
+        "date_posted": 1724685533,
+        "url": "https://chamberlain.wd1.myworkdayjobs.com/Chamberlain_Group/job/Oak-Brook-IL/Intern--Machine-Learning--Computer-Vision--and-AI--Summer-2025-_JR27785",
+        "locations": [
+            "Western Springs, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Chamberlain-Group",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "DV Trading",
+        "id": "ef491a99-b19a-4e4d-b330-0c01b5fda069",
+        "title": "2025 Summer Internship - Trader - DV Energy",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1724658286,
+        "date_posted": 1724658286,
+        "url": "https://boards.greenhouse.io/dvtrading/jobs/4446153005",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/DV-Trading",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "DV Trading",
+        "id": "2a49cf78-6b4f-4f55-9daa-cd4d1b2493fa",
+        "title": "2025 Summer Internship - Trader - DV Energy",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1724658287,
+        "date_posted": 1724658287,
+        "url": "https://boards.greenhouse.io/dvtrading/jobs/4443923005",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/DV-Trading",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "DV Trading",
+        "id": "4255b0ba-3ffb-4574-8456-dcf4a8d407c7",
+        "title": "2025 Summer Internship - Software Developer - DV Energy",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1724658285,
+        "date_posted": 1724658285,
+        "url": "https://boards.greenhouse.io/dvtrading/jobs/4443921005",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/DV-Trading",
         "is_visible": true,
         "sponsorship": "Other"
     }
