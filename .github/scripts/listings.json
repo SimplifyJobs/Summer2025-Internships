@@ -94199,5 +94199,24 @@
         "company_url": "https://simplify.jobs/c/DV-Trading",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1724703970,
+        "url": "https://www.mathworks.com/company/jobs/opportunities/25610-multiple-openings-engineering-development-group-internship?source=19813&s_eid=Rci_19813",
+        "company_name": "MathWorks",
+        "title": "Software Engineer",
+        "locations": [
+            "Natick, MA"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "nothans",
+        "id": "5967940f-b8ae-4217-9675-c441d4a48ffc",
+        "date_posted": 1724703970,
+        "company_url": "",
+        "is_visible": true
     }
 ]
