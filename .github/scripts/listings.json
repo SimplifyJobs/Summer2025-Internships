@@ -94390,5 +94390,24 @@
         "company_url": "https://simplify.jobs/c/Vectra",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1724790573,
+        "url": "https://careers.thomsonreuters.com/us/en/job/JREQ181909/Software-Engineering-Intern-Summer-2025",
+        "company_name": "Thompson Reuters",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "Eagan, MN"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "akhmadmamirov",
+        "id": "980c23ef-0d73-4b35-aa20-21425ed3d773",
+        "date_posted": 1724790573,
+        "company_url": "",
+        "is_visible": true
     }
 ]
