@@ -84003,7 +84003,7 @@
         "company_name": "Squarepoint Capital",
         "id": "796ab8ec-702e-486d-812c-48cdf725b8ce",
         "title": "Intern Software Developer - Fall 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2024"
         ],
@@ -86209,7 +86209,7 @@
         "company_name": "Fetch",
         "id": "bddf8ce2-320a-44cf-9642-0f4ffb062bc3",
         "title": "IOS Engineer \u2013 Apprenticeship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -86665,7 +86665,7 @@
         "company_name": "Radix Trading",
         "id": "948bfd49-4a78-4839-a813-b864222db13a",
         "title": "Quantitative Technologist \u2013 C++ Intern - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -88070,7 +88070,7 @@
         "company_name": "Formlabs",
         "id": "e2acad77-2583-4329-8d24-51cdf8586418",
         "title": "Algorithms Software Intern - Fall 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2024"
         ],
@@ -88108,7 +88108,7 @@
         "company_name": "Formlabs",
         "id": "618eb61c-eac2-432e-a65b-3cea174596b2",
         "title": "Desktop Software Intern - Fall 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2024"
         ],
@@ -91273,7 +91273,7 @@
         "company_name": "Salesforce",
         "id": "fa063a1b-3bfe-48f4-a5e9-6cc2d0253b0a",
         "title": "Summer 2025 Intern - Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -91535,7 +91535,7 @@
         "company_name": "Oshkosh",
         "id": "9a6ac910-8614-4ebb-8577-4da79c550223",
         "title": "Data Engineer Intern - Advanced Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -91900,7 +91900,7 @@
         "company_name": "Western Digital",
         "id": "37a5a6c1-dce1-40b7-87ac-dec874a0697f",
         "title": "Ramp Co Op - Jan 2025 - July 2025 - SIT-Lab Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -92185,7 +92185,7 @@
         "company_name": "PayPal",
         "id": "3a961820-edc1-4f45-adac-bb33fba9b0e0",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2025",
             "Fall 2025"
@@ -92400,7 +92400,7 @@
         "company_name": "General Assembly",
         "id": "94255a57-3b11-4f5f-a6fa-12c082f16a7b",
         "title": "Data Analyst Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -92729,7 +92729,7 @@
         "company_name": "Chicago Trading Company",
         "id": "37f9b264-0f7c-498f-a8f8-a3f17bc434c0",
         "title": "Software Engineer Internship - Summer 2025 - New York",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -92748,7 +92748,7 @@
         "company_name": "Chicago Trading Company",
         "id": "be0b643c-7e67-46db-ba2f-187ee3617805",
         "title": "Software Engineer Internship - Summer 2025 - Chicago",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -92767,7 +92767,7 @@
         "company_name": "Chicago Trading Company",
         "id": "99d2e5dc-1b16-4a09-95e0-bace562a80a0",
         "title": "Quant Trading Associate Internship - Summer 2025 - London",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -92786,7 +92786,7 @@
         "company_name": "Chicago Trading Company",
         "id": "c4a49da7-88a9-4943-a484-e284bcd64301",
         "title": "Quant Trading Associate Internship - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -93936,7 +93936,7 @@
         "company_name": "OpenAI",
         "id": "ada9adb0-8a49-45cf-ae8a-ad2bd8ee5606",
         "title": "Residency \u2013 Model Behavior",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -94129,7 +94129,7 @@
         "company_name": "Chamberlain Group",
         "id": "614c09eb-c369-4bdf-bf62-037f69d02019",
         "title": "Intern \u2013 Machine Learning - Computer Vision - And AI - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -94276,5 +94276,119 @@
         "date_posted": 1724704096,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Workiva",
+        "id": "7b3f5893-7eb9-4364-a0d6-61965dae9199",
+        "title": "2025 Summer Intern - Software Developer",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1724744483,
+        "date_posted": 1724744483,
+        "url": "https://workiva.wd1.myworkdayjobs.com/careers/job/Sault-Ste-Marie/XMLNAME-2025-Summer-Intern---Software-Developer_R8998",
+        "locations": [
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Workiva",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Artisan Partners",
+        "id": "7b96a7c4-a46c-4860-980b-1ea8faaf9e08",
+        "title": "Software Developer Intern - Marketing & Distribution",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1724717403,
+        "date_posted": 1724717403,
+        "url": "https://boards.greenhouse.io/artisanpartners/jobs/6204908",
+        "locations": [
+            "Milwaukee, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Artisan-Partners",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Northwestern Mutual",
+        "id": "7a54e963-165c-4cd4-b9ea-44ddebdc3385",
+        "title": "Public Investments \u2013 Quantitative Analyst Internship - Undergraduate-level",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1724717512,
+        "date_posted": 1724717512,
+        "url": "https://northwesternmutual.wd5.myworkdayjobs.com/corporate-careers/job/Milwaukee-WI-Corporate/Public-Investments---Quantitative-Analyst-Internship--undergraduate-level-_JR-41641",
+        "locations": [
+            "Milwaukee, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Northwestern-Mutual",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Stripe",
+        "id": "a6e4aee9-405b-4f2a-95fa-d5018b1b536a",
+        "title": "Software Engineer \u2013 Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1724717036,
+        "date_posted": 1724717036,
+        "url": "https://stripe.com/jobs/search?gh_jid=6172089",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Stripe",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Chamberlain Group",
+        "id": "d7b80da4-d6a1-431b-9535-1e6a3f61e228",
+        "title": "Intern \u2013 Myq Front End Developer - Android or iOS - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1724716480,
+        "date_posted": 1724716480,
+        "url": "https://chamberlain.wd1.myworkdayjobs.com/Chamberlain_Group/job/Oak-Brook-IL/Intern--myQ-Front-End-Developer--Android-or-iOS---Summer-2025-_JR27802",
+        "locations": [
+            "Western Springs, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Chamberlain-Group",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Vectra",
+        "id": "4b1b5d88-3a23-4901-bf4f-84b181138bf1",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1724716712,
+        "date_posted": 1724716712,
+        "url": "https://boards.greenhouse.io/vectranetworks/jobs/6142052",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Vectra",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
