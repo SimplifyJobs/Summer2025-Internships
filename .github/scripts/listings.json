@@ -94409,5 +94409,24 @@
         "date_posted": 1724790573,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724790618,
+        "url": "https://careers.tiktok.com/position/7393130155009886501/detail",
+        "company_name": "TikTok",
+        "title": "Front-End Engineer Intern - (User and Creator Product)",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "LuaanNguyen",
+        "id": "69f0ba39-5782-45e4-92aa-4cea02b5a3ab",
+        "date_posted": 1724790618,
+        "company_url": "",
+        "is_visible": true
     }
 ]
