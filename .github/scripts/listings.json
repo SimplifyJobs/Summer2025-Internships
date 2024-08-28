@@ -94625,5 +94625,24 @@
         "date_posted": 1724883879,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724886741,
+        "url": "https://jobs.ericsson.com/careers/job/563121760620475?domain=ericsson.com",
+        "company_name": "Ericsson",
+        "title": "Software Developer Intern",
+        "locations": [
+            "Plano, TX"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "Ziqi-M",
+        "id": "d842c2d7-f6c4-487a-a7ba-4d881af5fc81",
+        "date_posted": 1724886741,
+        "company_url": "",
+        "is_visible": true
     }
 ]
