@@ -31211,7 +31211,7 @@
         "company_name": "Garda Capital Partners",
         "id": "56ebfe80-1f42-4d51-90e4-6148e81c8539",
         "title": "Software Engineer Intern - .Net",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2023"
         ],
@@ -33676,7 +33676,7 @@
         "company_name": "Garda Capital Partners",
         "id": "119df024-d1de-42c5-a042-ab00810574cb",
         "title": "Software Engineer Intern - Python",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -55619,7 +55619,7 @@
         "company_name": "Chime",
         "id": "9a9a225e-af02-46c8-856b-978b14084681",
         "title": "Data Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -88551,7 +88551,7 @@
         "company_name": "Numerade",
         "id": "396e3ae5-cf03-4a0e-a3fb-7b596ee62ae1",
         "title": "Data Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025",
             "Spring 2025",
@@ -91802,7 +91802,7 @@
         "company_name": "Virtu Financial",
         "id": "27afcb9c-7621-48df-a585-c2ff51a90a1d",
         "title": "Women's Winternship",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -92185,7 +92185,7 @@
         "company_name": "PayPal",
         "id": "3a961820-edc1-4f45-adac-bb33fba9b0e0",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025",
             "Fall 2025"
@@ -93149,7 +93149,7 @@
         "company_name": "SGNL",
         "id": "3a05957d-934f-41d3-a9df-d476f95c951e",
         "title": "Software Engineering Intern - Fall 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2024"
         ],
@@ -94428,5 +94428,141 @@
         "date_posted": 1724790618,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Squarepoint Capital",
+        "id": "3ec91fbf-4e9b-4ad8-a8e9-0878aa80cad8",
+        "title": "Intern Software Developer - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1724859825,
+        "date_posted": 1724859825,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=6201998",
+        "locations": [
+            "Montreal, QC, Canada",
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Squarepoint-Capital",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Stryker",
+        "id": "bfc0e1c7-165e-4391-959b-be29352c580f",
+        "title": "Kettering University Engineering Co-op - B Section - R&D - Npd",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1724859255,
+        "date_posted": 1724859255,
+        "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Portage-Michigan/Kettering-University-Engineering-Co-op--B-Section---R-D---NPD_R527277-1",
+        "locations": [
+            "Portage, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Stryker",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Numerade",
+        "id": "b6847303-0840-4823-8eb1-98ef4f4119b5",
+        "title": "Data Scientist Intern",
+        "active": true,
+        "terms": [
+            "Winter 2025",
+            "Spring 2025",
+            "Summer 2025"
+        ],
+        "date_updated": 1724858988,
+        "date_posted": 1724858988,
+        "url": "http://www.numerade.com/careers?gh_jid=5283710004",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Numerade",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Workiva",
+        "id": "fdcc1103-f637-4d22-a925-a90e71c04347",
+        "title": "2025 Summer Intern - Data Engineering",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1724802096,
+        "date_posted": 1724802096,
+        "url": "https://workiva.wd1.myworkdayjobs.com/careers/job/Denver/XMLNAME-2025-Summer-Intern---Data-Engineering_R9028",
+        "locations": [
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Workiva",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Reinventing Geospatial",
+        "id": "b9e214c0-e503-4a5f-ac24-1e31f027ce65",
+        "title": "Software Engineer \u2013 Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1724801954,
+        "date_posted": 1724801954,
+        "url": "https://jobs.lever.co/rgi/72f108b1-274a-4d59-a74f-28bc7a6051af/apply",
+        "locations": [
+            "Fairfax, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/RGi",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Bank of Montreal (BMO)",
+        "id": "7eaf7f31-02b4-442d-b346-ad020fe9b736",
+        "title": "Data Analyst \u2013 Co-op/Internship - Winter 2025 - 4 Months",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1724800423,
+        "date_posted": 1724800423,
+        "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Data-Analyst---Winter-2025--Co-op-Internship----4-Months_R240022717",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/BMO",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Garda Capital Partners",
+        "id": "de1d68c3-aa4f-4c9e-9244-aa0cde552ef6",
+        "title": "Software Engineer Intern - .Net",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1724800315,
+        "date_posted": 1724800315,
+        "url": "https://job-boards.greenhouse.io/gardacp/jobs/4174191004",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Garda-Capital-Partners",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
