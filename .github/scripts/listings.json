@@ -94564,5 +94564,24 @@
         "company_url": "https://simplify.jobs/c/Garda-Capital-Partners",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1724882063,
+        "url": "https://jobs.grainger.com/job/CHICAGO-GTG-Intern-Software-Engineer-IL-60661-4555/1203361600/",
+        "company_name": "Grainger",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "LuaanNguyen",
+        "id": "e085d954-9873-4fae-a4ca-e2f8041a3653",
+        "date_posted": 1724882063,
+        "company_url": "",
+        "is_visible": true
     }
 ]
