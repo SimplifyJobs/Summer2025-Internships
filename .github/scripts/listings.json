@@ -94606,5 +94606,24 @@
         "date_posted": 1724882154,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724883879,
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/255786",
+        "company_name": "Oracle",
+        "title": "Software Engineer Intern - Fusion Applications Development",
+        "locations": [
+            "Redwood City, CA"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "GaryZhous",
+        "id": "7e36a527-5a82-4672-90ef-fbe2297eb1ad",
+        "date_posted": 1724883879,
+        "company_url": "",
+        "is_visible": true
     }
 ]
