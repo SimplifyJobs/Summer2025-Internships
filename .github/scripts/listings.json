@@ -94644,5 +94644,24 @@
         "date_posted": 1724886741,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724887017,
+        "url": "https://www.jobs-ups.com/job/-/-/1187/69216247280",
+        "company_name": "UPS",
+        "title": "Technology Group Summer 2025 Internship",
+        "locations": [
+            "Parsippany, NJ"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "Ziqi-M",
+        "id": "3a883a7e-8935-4b57-b992-b3d7fc8f2406",
+        "date_posted": 1724887017,
+        "company_url": "",
+        "is_visible": true
     }
 ]
