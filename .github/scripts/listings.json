@@ -94583,5 +94583,29 @@
         "date_posted": 1724882063,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724882154,
+        "url": "https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---CO-Westminster/Software-Engineering-Intern_R45675?utm_medium=jobboard",
+        "company_name": "Trimble",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "Sunnyvale, CA",
+            "Westminster, CO",
+            "Knoxville, TN",
+            "Portland, OR",
+            "Dayton, OH",
+            "Princeton, NJ"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "source": "LuaanNguyen",
+        "id": "4d85d964-992e-4923-acb9-1b0964010b17",
+        "date_posted": 1724882154,
+        "company_url": "",
+        "is_visible": true
     }
 ]
