@@ -59,6 +59,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Ericsson | Software Developer Intern 🇺🇸 | Plano, Texas, United States | <a href="https://jobs.ericsson.com/careers/752785?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 29 |
 | UPS | Technology Group Summer 2025 Internship | Parsippany, NJ | <a href="https://www.jobs-ups.com/job/-/-/1187/69216247280?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 28 |
 | Trimble | Software Engineer Intern 🇺🇸 | <details><summary>**6 locations**</summary>Sunnyvale, CA</br>Westminster, CO</br>Knoxville, TN</br>Portland, OR</br>Dayton, OH</br>Princeton, NJ</details> | <a href="https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---CO-Westminster/Software-Engineering-Intern_R45675?utm_medium=jobboard&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 28 |
 | TD | 2025 Summer Internship Program - Platforms & Technology - Software Engineer 🛂 | Mount Laurel, NJ | <a href="https://td.wd3.myworkdayjobs.com/fr-CA/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2025-Summer-Internship-Program----Platforms---Technology---Software-Engineer_R_1365598?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 28 |
