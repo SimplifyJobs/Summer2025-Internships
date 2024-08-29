@@ -16135,7 +16135,7 @@
         "company_name": "Zello",
         "id": "0c77230c-f2f8-4c83-b95a-88c36a14bbc5",
         "title": "Data Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -82918,7 +82918,7 @@
         "company_name": "Seismic",
         "id": "ead893a9-9ea4-403b-bdc3-4534be1c1229",
         "title": "Software Engineer AI/ ML-Co-Op - PEY/ Masters",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -86209,7 +86209,7 @@
         "company_name": "Fetch",
         "id": "bddf8ce2-320a-44cf-9642-0f4ffb062bc3",
         "title": "IOS Engineer \u2013 Apprenticeship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -87164,7 +87164,7 @@
         "company_name": "Atomic Semi",
         "id": "b8c856c3-c308-4b02-ac68-8c670815071e",
         "title": "Software Engineering Intern - Fall",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2024"
         ],
@@ -89577,7 +89577,7 @@
         "company_name": "Flow Traders",
         "id": "ea8bb611-8208-4c07-83cc-c95dd6ec119b",
         "title": "Trading Intern Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -92343,7 +92343,7 @@
         "company_name": "Capital One",
         "id": "449c21e3-67b3-4ee8-91d9-ed2d33d29780",
         "title": "Data Analyst \u2013 Co Op - Winter 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -92362,7 +92362,7 @@
         "company_name": "Capital One",
         "id": "c217d0c1-93e6-4395-818e-a0628e35a3fe",
         "title": "Data Scientist \u2013 Co Op - Winter 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -93379,7 +93379,7 @@
         "company_name": "Bank of Montreal (BMO)",
         "id": "777c4b5c-ca62-4685-a7d1-c0a0b24581c3",
         "title": "Data Analytics and Reporting Analyst \u2013 Co-op/Internship - Fall 2024 - 8 Months",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2024"
         ],
@@ -94357,7 +94357,7 @@
         "company_name": "Chamberlain Group",
         "id": "d7b80da4-d6a1-431b-9535-1e6a3f61e228",
         "title": "Intern \u2013 Myq Front End Developer - Android or iOS - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -94512,7 +94512,7 @@
         "company_name": "Reinventing Geospatial",
         "id": "b9e214c0-e503-4a5f-ac24-1e31f027ce65",
         "title": "Software Engineer \u2013 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -94797,5 +94797,240 @@
         "date_posted": 1724957204,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Scale AI",
+        "id": "7c41425a-635e-4787-93c2-dd2cd5f5d073",
+        "title": "Software Engineering Intern - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1724951610,
+        "date_posted": 1724951610,
+        "url": "https://job-boards.greenhouse.io/scaleai/jobs/4462132005",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Scale-AI",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Neo Cybernetica",
+        "id": "2c4bb7db-e592-4ff4-b6f1-ce2f04536f75",
+        "title": "Robot Control Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1724948286,
+        "date_posted": 1724948286,
+        "url": "https://job-boards.greenhouse.io/neocybernetica/jobs/4464943005",
+        "locations": [
+            "Bedford, NH"
+        ],
+        "company_url": "https://simplify.jobs/c/Neo-Cybernetica",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Neo Cybernetica",
+        "id": "f5fab946-1a49-475b-9656-38ad1c98199f",
+        "title": "Robot AI Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1724948285,
+        "date_posted": 1724948285,
+        "url": "https://job-boards.greenhouse.io/neocybernetica/jobs/4464940005",
+        "locations": [
+            "Bedford, NH"
+        ],
+        "company_url": "https://simplify.jobs/c/Neo-Cybernetica",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Palantir",
+        "id": "da1074aa-7344-4ad3-9b53-078f1dbd2edc",
+        "title": "Software Engineer \u2013 Internship",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1724916615,
+        "date_posted": 1724916615,
+        "url": "https://jobs.lever.co/palantir/373eb939-6f57-4836-8479-be79a5e07249/apply",
+        "locations": [
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Palantir",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "NVIDIA",
+        "id": "bc979b06-5560-42e8-b548-1a417716a298",
+        "title": "NVIDIA 2025 Internships: Systems Software Engineering",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1724888788,
+        "date_posted": 1724888788,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2025-Internships--Systems-Software-Engineering_JR1986534",
+        "locations": [
+            "Remote in USA",
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "NVIDIA",
+        "id": "b9b4e75e-9aa8-4526-aac7-15efa7ae7c97",
+        "title": "NVIDIA 2025 Internships: Software Engineering",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1724888787,
+        "date_posted": 1724888787,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2025-Internships--Software-Engineering_JR1986535",
+        "locations": [
+            "Remote in USA",
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "NVIDIA",
+        "id": "a4315235-93be-4391-83a5-321e5cc79042",
+        "title": "NVIDIA 2025 Internships: Artificial Intelligence and Deep Learning",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1724888788,
+        "date_posted": 1724888788,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2025-Internships--Artificial-Intelligence-and-Deep-Learning_JR1986536",
+        "locations": [
+            "Remote in USA",
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "NVIDIA",
+        "id": "09160c63-5372-4624-9c59-0f5b24dd2458",
+        "title": "NVIDIA 2025 Internships: Deep Learning Computer Architecture",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1724888786,
+        "date_posted": 1724888786,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2025-Internships--Deep-Learning-Computer-Architecture_JR1986533",
+        "locations": [
+            "Remote in USA",
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Valkyrie Trading",
+        "id": "d651f0f5-675b-4ae3-8157-c4d678b12bde",
+        "title": "Quantitative Researcher Intern - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1724888345,
+        "date_posted": 1724888345,
+        "url": "https://jobs.lever.co/valkyrietrading/c015dd83-5316-4430-b345-76a01e23eba3/apply",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Valkyrie-Trading",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Workiva",
+        "id": "7af034fd-d034-46ee-a1e0-1c7f9c5af440",
+        "title": "2025 Spring and Summer Intern - Sales Business Intelligence Analyst",
+        "active": true,
+        "terms": [
+            "Spring 2025",
+            "Summer 2025"
+        ],
+        "date_updated": 1724888345,
+        "date_posted": 1724888345,
+        "url": "https://workiva.wd1.myworkdayjobs.com/careers/job/USA---Remote/XMLNAME-2025-Spring-and-Summer-Intern---Business-Intelligence-Analyst_R9185",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Workiva",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Epic Games",
+        "id": "51519136-54e0-4a33-aca6-05f43f47503e",
+        "title": "Capture Technician Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1724888143,
+        "date_posted": 1724888143,
+        "url": "https://job-boards.greenhouse.io/epicgames/jobs/5267671004",
+        "locations": [
+            "Morrisville, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Epic-Games",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Splunk",
+        "id": "d5a5310b-26e4-4ebc-94ba-e2993a74b066",
+        "title": "Software Engineer Intern - Backend/Full Stack - Remote US - Winter 2025",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1724886968,
+        "date_posted": 1724886968,
+        "url": "https://jobs.jobvite.com/splunk-careers/job/oE4pufwl?nl=1&nl=1&fr=false",
+        "locations": [
+            "Remote in USA",
+            "Colorado",
+            "North Carolina"
+        ],
+        "company_url": "https://simplify.jobs/c/Splunk",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
