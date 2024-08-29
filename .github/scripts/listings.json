@@ -94663,5 +94663,25 @@
         "date_posted": 1724887017,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724903956,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/details/NVIDIA-2025-Internships--Software-Engineering_JR1986535",
+        "company_name": "NVIDIA",
+        "title": "Software Engineering Internships",
+        "locations": [
+            "US, CA, Santa Clara",
+            "US, Remote"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "Ziqi-M",
+        "id": "83343f2a-fcad-446b-8bbb-7f19ae42090f",
+        "date_posted": 1724903956,
+        "company_url": "",
+        "is_visible": true
     }
 ]
