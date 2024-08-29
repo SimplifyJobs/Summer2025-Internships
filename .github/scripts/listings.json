@@ -94740,5 +94740,24 @@
         "date_posted": 1724946652,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724947534,
+        "url": "https://jobs.cisco.com/jobs/ProjectDetail/Full-Stack-Intern-FY25-Summer-2025-Meraki/1427972",
+        "company_name": "Cisco",
+        "title": "Full Stack Intern FY25 (Summer 2025) Meraki",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "GaryZhous",
+        "id": "fad4500f-9efe-4d77-bfbc-ae590e50f3b8",
+        "date_posted": 1724947534,
+        "company_url": "",
+        "is_visible": true
     }
 ]
