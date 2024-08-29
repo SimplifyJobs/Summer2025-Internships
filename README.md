@@ -59,6 +59,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| **[Scale AI](https://simplify.jobs/c/Scale-AI)** | Software Engineering Intern (Summer 2025) | San Francisco, CA | <a href="https://scale.com/careers/4462132005?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 29 |
 | Ericsson | Software Developer Intern 🇺🇸 | Plano, Texas, United States | <a href="https://jobs.ericsson.com/careers/752785?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 29 |
 | Cisco | Full Stack Intern FY25 (Summer 2025) Meraki 🛂 | San Francisco, CA | <a href="https://jobs.cisco.com/jobs/ProjectDetail/Full-Stack-Intern-FY25-Summer-2025-Meraki/1427972?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 29 |
 | UPS | Technology Group Summer 2025 Internship | Parsippany, NJ | <a href="https://www.jobs-ups.com/job/-/-/1187/69216247280?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 28 |
