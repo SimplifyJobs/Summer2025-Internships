@@ -94778,5 +94778,24 @@
         "date_posted": 1724956733,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724957204,
+        "url": "https://careers.ibm.com/job/20939608/back-end-developer-intern-2025-remote",
+        "company_name": "IBM",
+        "title": "Back End Developer Intern",
+        "locations": [
+            "Research Triangle Park, NC"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "GaryZhous",
+        "id": "1e58ff9e-6fcc-4cc1-b687-79a486a488db",
+        "date_posted": 1724957204,
+        "company_url": "",
+        "is_visible": true
     }
 ]
