@@ -12987,7 +12987,7 @@
         "company_name": "Cerebras",
         "id": "dbb12bfe-8c8d-4ca6-81e8-7da1d470a48f",
         "title": "Kernel Engineer \u2013 Internship - PEY 2024",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -13044,7 +13044,7 @@
         "company_name": "Cerebras",
         "id": "8e52e09f-118a-4add-b7a0-48188893071f",
         "title": "Machine Learning Runtime Engineer \u2013 Internship - PEY 2024",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -86665,7 +86665,7 @@
         "company_name": "Radix Trading",
         "id": "948bfd49-4a78-4839-a813-b864222db13a",
         "title": "Quantitative Technologist \u2013 C++ Intern - Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -92729,7 +92729,7 @@
         "company_name": "Chicago Trading Company",
         "id": "37f9b264-0f7c-498f-a8f8-a3f17bc434c0",
         "title": "Software Engineer Internship - Summer 2025 - New York",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -92748,7 +92748,7 @@
         "company_name": "Chicago Trading Company",
         "id": "be0b643c-7e67-46db-ba2f-187ee3617805",
         "title": "Software Engineer Internship - Summer 2025 - Chicago",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -92767,7 +92767,7 @@
         "company_name": "Chicago Trading Company",
         "id": "99d2e5dc-1b16-4a09-95e0-bace562a80a0",
         "title": "Quant Trading Associate Internship - Summer 2025 - London",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -92786,7 +92786,7 @@
         "company_name": "Chicago Trading Company",
         "id": "c4a49da7-88a9-4943-a484-e284bcd64301",
         "title": "Quant Trading Associate Internship - Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -93455,7 +93455,7 @@
         "company_name": "STR",
         "id": "e600e563-d15e-4a2e-bb2f-3a810e17cc55",
         "title": "Research Engineer Spring Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024"
         ],
@@ -94433,7 +94433,7 @@
         "company_name": "Squarepoint Capital",
         "id": "3ec91fbf-4e9b-4ad8-a8e9-0878aa80cad8",
         "title": "Intern Software Developer - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -94822,7 +94822,7 @@
         "company_name": "Neo Cybernetica",
         "id": "2c4bb7db-e592-4ff4-b6f1-ce2f04536f75",
         "title": "Robot Control Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -94841,7 +94841,7 @@
         "company_name": "Neo Cybernetica",
         "id": "f5fab946-1a49-475b-9656-38ad1c98199f",
         "title": "Robot AI Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -95108,5 +95108,310 @@
         "date_posted": 1725047858,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Atomic Semi",
+        "id": "de568bcc-76dd-4574-b0ad-3f4c4dc1f4b4",
+        "title": "Embedded SWE Intern - Winter",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1725047180,
+        "date_posted": 1725047180,
+        "url": "https://jobs.ashbyhq.com/atomicsemi/870a7a1a-289a-40df-87b2-4b0d1ab0e092/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Atomic-Semi",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Epic Games",
+        "id": "199ef0d6-69f1-421e-b7c6-cb530ac25e71",
+        "title": "Gameplay Programmer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1725037323,
+        "date_posted": 1725037323,
+        "url": "https://job-boards.greenhouse.io/epicgames/jobs/5290673004",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Epic-Games",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Epic Games",
+        "id": "60038ed5-8519-40ce-9266-199f00d4a9e4",
+        "title": "Gameplay Programmer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1725037323,
+        "date_posted": 1725037323,
+        "url": "https://job-boards.greenhouse.io/epicgames/jobs/5278904004",
+        "locations": [
+            "Morrisville, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Epic-Games",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Cerebras",
+        "id": "606a8b75-585b-4e10-8a90-9bddd81fd96d",
+        "title": "Compiler Engineer \u2013 Internship - PEY 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1725034542,
+        "date_posted": 1725034542,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=5317304003",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Cerebras-Systems",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Cerebras",
+        "id": "8edd6a99-da28-4e28-b1f9-bfd31341c1b6",
+        "title": "Machine Learning Software Engineer \u2013 Internship - PEY 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1725034540,
+        "date_posted": 1725034540,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=4696427003",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Cerebras-Systems",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Cerebras",
+        "id": "f7d9f940-73db-49a1-a7af-5e481f893dab",
+        "title": "Machine Learning Stack Engineer \u2013 Internship - PEY 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1725034540,
+        "date_posted": 1725034540,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=4738279003",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Cerebras-Systems",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Leidos",
+        "id": "d34122ef-c876-4402-94df-2edf967eb6b5",
+        "title": "AI / ML Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1725003567,
+        "date_posted": 1725003567,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Reston-VA/AI---ML-Intern_R-00142755",
+        "locations": [
+            "Remote in USA",
+            "Reston, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Tanium",
+        "id": "5768b126-9f93-4ac4-bb30-da0b17e43ca0",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1724974879,
+        "date_posted": 1724974879,
+        "url": "https://www.tanium.com/careers/6208649?gh_jid=6208649",
+        "locations": [
+            "Addison, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Tanium",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Tanium",
+        "id": "95538628-052e-4451-ab45-680cf879bf91",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1724974881,
+        "date_posted": 1724974881,
+        "url": "https://www.tanium.com/careers/6187797?gh_jid=6187797",
+        "locations": [
+            "Durham, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Tanium",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Tanium",
+        "id": "d6a612b3-407d-4677-ade9-05ab454c80cf",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1724974880,
+        "date_posted": 1724974880,
+        "url": "https://www.tanium.com/careers/6208641?gh_jid=6208641",
+        "locations": [
+            "Oakland, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tanium",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Oshkosh",
+        "id": "fb3b1d34-f835-4c7c-b86e-eca279d8f15d",
+        "title": "Digital Technology Intern - Application Development - Year Round",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1724974340,
+        "date_posted": 1724974340,
+        "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Greenville-Wisconsin-United-States/Digital-Technology-Intern---Application-Development--Year-Round-_R31731",
+        "locations": [
+            "Appleton, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Oshkosh",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Oshkosh",
+        "id": "a3e3e614-0b12-44fe-9899-206a02448d67",
+        "title": "Digital Technology Intern - Manufacturing Support - Year Round",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1724974338,
+        "date_posted": 1724974338,
+        "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Greenville-Wisconsin-United-States/Digital-Technology-Intern---Manufacturing-Support--Year-Round-_R31734",
+        "locations": [
+            "Appleton, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Oshkosh",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Atomic Semi",
+        "id": "62e0787a-abd2-444a-bcc8-38de407c81f5",
+        "title": "Embedded SWE Intern - Summer",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1724974272,
+        "date_posted": 1724974272,
+        "url": "https://jobs.ashbyhq.com/atomicsemi/42c79ce3-8b1c-4df6-b09f-5614bec93ec0/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Atomic-Semi",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Fetch",
+        "id": "84465aa7-2dfe-4156-af79-ddbc583aa4e7",
+        "title": "Android Engineer \u2013 Apprenticeship",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1724974084,
+        "date_posted": 1724974084,
+        "url": "https://boards.greenhouse.io/fetchrewards/jobs/6104824003",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/FetchRewards",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Dropbox",
+        "id": "22413c88-be70-4bfc-bb09-3df070be342e",
+        "title": "Software Engineer Intern - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1725045882,
+        "date_posted": 1724973329,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=6209859",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Dropbox",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Dropbox",
+        "id": "f8735120-517e-45a7-a611-e6b82b81bd8d",
+        "title": "Software Engineer Intern - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1725045888,
+        "date_posted": 1724973328,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=6209863",
+        "locations": [
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Dropbox",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
