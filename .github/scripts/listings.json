@@ -94665,7 +94665,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1724903956,
+        "date_updated": 1725038314,
         "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/details/NVIDIA-2025-Internships--Software-Engineering_JR1986535",
         "company_name": "NVIDIA",
         "title": "Software Engineering Internships",
@@ -94676,13 +94676,13 @@
         "terms": [
             "Summer 2025"
         ],
-        "sponsorship": "Offers Sponsorship",
+        "sponsorship": "Other",
         "active": true,
         "source": "Ziqi-M",
         "id": "83343f2a-fcad-446b-8bbb-7f19ae42090f",
         "date_posted": 1724903956,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1724911403,
