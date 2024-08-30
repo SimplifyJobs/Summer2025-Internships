@@ -92157,7 +92157,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1723584637,
+        "date_updated": 1725038952,
         "url": "https://paypal.eightfold.ai/careers?query=R0115646&pid=274902335251&domain=paypal.com&sort_by=relevance",
         "company_name": "PayPal",
         "title": "Software Engineer Intern",
@@ -92172,8 +92172,8 @@
         "terms": [
             "Summer 2025"
         ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "reddoy",
         "id": "98d3716e-7a1b-4a49-9395-728821ec1d6a",
         "date_posted": 1723584637,
