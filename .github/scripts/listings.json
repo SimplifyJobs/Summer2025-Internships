@@ -95051,5 +95051,24 @@
         "date_posted": 1725002962,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725004267,
+        "url": "https://jobs.danaher.com/global/en/job/DANAGLOBALR1271899EXTERNALENGLOBAL/Software-Engineering-Intern",
+        "company_name": "Leica Biosystems",
+        "title": "Software Engineering Intern",
+        "locations": [
+            "Vista, CA"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "Ziqi-M",
+        "id": "2c24f7f5-222b-44c7-bc8b-a7b0baa03397",
+        "date_posted": 1725004267,
+        "company_url": "",
+        "is_visible": true
     }
 ]
