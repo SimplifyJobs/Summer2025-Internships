@@ -95089,5 +95089,24 @@
         "date_posted": 1725004312,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725047858,
+        "url": "https://zebra.eightfold.ai/careers?pid=343621712678",
+        "company_name": "Zebra Technologies",
+        "title": "2025 Summer Internship (US) - Software Engineering",
+        "locations": [
+            "Lincolnshire, IL"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "GaryZhous",
+        "id": "a8bebc1e-85a0-4e1f-85d0-0833a3dcea71",
+        "date_posted": 1725047858,
+        "company_url": "",
+        "is_visible": true
     }
 ]

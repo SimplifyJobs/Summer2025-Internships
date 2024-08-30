@@ -59,6 +59,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Zebra Technologies | 2025 Summer Internship (US) - Software Engineering 🛂 | Lincolnshire, IL | <a href="https://zebra.eightfold.ai/careers?pid=343621712678&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 30 |
 | **[MongoDB](https://simplify.jobs/c/MongoDB)** | Software Engineering, Product - Intern - 2025 | New York, NY | <a href="https://app.ripplematch.com/v2/public/job/09e1dc0b/details?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 30 |
 | Leica Biosystems | Software Engineering Intern | Vista, CA | <a href="https://jobs.danaher.com/global/en/job/DANAGLOBALR1271899EXTERNALENGLOBAL/Software-Engineering-Intern?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 30 |
 | Estée Lauder | Summer 2025 Intern, Information Technology A.I. | United States | <a href="https://jobs.elcompanies.com/estee-lauder-companies/jobs/2410822?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 30 |
