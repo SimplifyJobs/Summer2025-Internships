@@ -94723,18 +94723,18 @@
         "is_visible": true
     },
     {
-        "date_updated": 1724946652,
+        "date_updated": 1725003635,
         "url": "https://jobs.ericsson.com/careers/752785",
         "company_name": "Ericsson",
         "title": "Software Developer Intern",
         "locations": [
-            "Plano, Texas, United States"
+            "Plano, TX"
         ],
         "terms": [
             "Summer 2025"
         ],
-        "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": false,
         "source": "LuaanNguyen",
         "id": "0c0cda16-668e-4954-a154-26c2d0b57b34",
         "date_posted": 1724946652,
