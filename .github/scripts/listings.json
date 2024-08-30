@@ -95070,5 +95070,24 @@
         "date_posted": 1725004267,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725004312,
+        "url": "https://jobs.elcompanies.com/estee-lauder-companies/jobs/2410822",
+        "company_name": "Est\u00e9e Lauder",
+        "title": "Summer 2025 Intern, Information Technology A.I.",
+        "locations": [
+            "United States"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "Ziqi-M",
+        "id": "3a579f0c-7123-4ecc-b645-44e0b715c501",
+        "date_posted": 1725004312,
+        "company_url": "",
+        "is_visible": true
     }
 ]
