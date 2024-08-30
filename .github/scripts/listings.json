@@ -94761,7 +94761,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1724956733,
+        "date_updated": 1724978416,
         "url": "https://scale.com/careers/4462132005",
         "company_name": "Scale AI",
         "title": "Software Engineering Intern (Summer 2025)",
@@ -94771,13 +94771,13 @@
         "terms": [
             "Summer 2025"
         ],
-        "sponsorship": "Offers Sponsorship",
+        "sponsorship": "Other",
         "active": true,
         "source": "GaryZhous",
         "id": "25878b96-17cf-404f-8a5f-6fab115f0eb7",
         "date_posted": 1724956733,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1724957204,
