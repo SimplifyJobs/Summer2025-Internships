@@ -95432,5 +95432,24 @@
         "company_url": "https://simplify.jobs/c/IBKR",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Zip",
+        "id": "5147b477-34a0-43c6-8443-664728e41c9b",
+        "title": "Software Engineer Intern - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1725061374,
+        "date_posted": 1725061374,
+        "url": "https://job-boards.greenhouse.io/zip/jobs/5268304004",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Zip",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
