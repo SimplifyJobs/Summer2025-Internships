@@ -46130,7 +46130,7 @@
         "company_name": "Watershed",
         "id": "fd1e2da3-d3e1-4d0c-8943-9733852ab923",
         "title": "Software engineer \u2013 Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -86665,7 +86665,7 @@
         "company_name": "Radix Trading",
         "id": "948bfd49-4a78-4839-a813-b864222db13a",
         "title": "Quantitative Technologist \u2013 C++ Intern - Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -92729,7 +92729,7 @@
         "company_name": "Chicago Trading Company",
         "id": "37f9b264-0f7c-498f-a8f8-a3f17bc434c0",
         "title": "Software Engineer Internship - Summer 2025 - New York",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -92748,7 +92748,7 @@
         "company_name": "Chicago Trading Company",
         "id": "be0b643c-7e67-46db-ba2f-187ee3617805",
         "title": "Software Engineer Internship - Summer 2025 - Chicago",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -92767,7 +92767,7 @@
         "company_name": "Chicago Trading Company",
         "id": "99d2e5dc-1b16-4a09-95e0-bace562a80a0",
         "title": "Quant Trading Associate Internship - Summer 2025 - London",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -92786,7 +92786,7 @@
         "company_name": "Chicago Trading Company",
         "id": "c4a49da7-88a9-4943-a484-e284bcd64301",
         "title": "Quant Trading Associate Internship - Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -95451,44 +95451,5 @@
         "company_url": "https://simplify.jobs/c/Zip",
         "is_visible": true,
         "sponsorship": "Other"
-    },
-    {
-        "date_updated": 1725075071,
-        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/256285",
-        "company_name": "Oracle",
-        "title": "Software Engineer Intern - NetSuite",
-        "locations": [
-            "Austin, TX",
-            "Redwood City, CA"
-        ],
-        "terms": [
-            "Summer 2025"
-        ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "source": "wanhaozhou",
-        "id": "d33018c6-f751-4ec6-9e37-b1098b9c3694",
-        "date_posted": 1725075071,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1725075133,
-        "url": "https://jobs.dropbox.com/listing/6209863",
-        "company_name": "Dropbox",
-        "title": "Software Engineer Intern",
-        "locations": [
-            "Remote in Canada (BC, AB, SK, ON only)"
-        ],
-        "terms": [
-            "Summer 2025"
-        ],
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
-        "source": "aaaka5h",
-        "id": "d3ed2953-6396-4f86-ab16-3e4d617e755f",
-        "date_posted": 1725075133,
-        "company_url": "",
-        "is_visible": true
     }
 ]
