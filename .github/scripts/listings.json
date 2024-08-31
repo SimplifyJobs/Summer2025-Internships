@@ -95471,5 +95471,25 @@
         "date_posted": 1725075359,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725079867,
+        "url": "https://www.amazon.jobs/en/jobs/2750122/amazon-robotics-software-development-engineer-sde-intern-summer-2025?cmpid=SPLICX0248M",
+        "company_name": "Amazon",
+        "title": "Amazon Robotics - Software Development Engineer (SDE) Intern",
+        "locations": [
+            "Westborough, MA",
+            "North Reading, MA"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "GaryZhous",
+        "id": "b70f645b-ba01-4fa0-b074-0332bd8da1ad",
+        "date_posted": 1725079867,
+        "company_url": "",
+        "is_visible": true
     }
 ]
