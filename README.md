@@ -59,6 +59,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Zebra Technologies | 2025 Summer Internship - Software Engineer, RFID 🛂 | Holtsville, NY | <a href="https://zebra.eightfold.ai/careers?src=srm_linkedin_jb&domain=zebra.com&pid=343621946480&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 31 |
 | **[Zip](https://simplify.jobs/c/Zip)** | Software Engineer Intern - Summer 2025 | SF | <a href="https://job-boards.greenhouse.io/zip/jobs/5268304004?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/5147b477-34a0-43c6-8443-664728e41c9b?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Aug 30 |
 | Zebra Technologies | 2025 Summer Internship (US) - Software Engineering 🛂 | Lincolnshire, IL | <a href="https://zebra.eightfold.ai/careers?pid=343621712678&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 30 |
 | **[MongoDB](https://simplify.jobs/c/MongoDB)** | Software Engineering, Product - Intern - 2025 | New York, NY | <a href="https://app.ripplematch.com/v2/public/job/09e1dc0b/details?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 30 |

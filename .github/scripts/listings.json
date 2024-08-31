@@ -95491,5 +95491,24 @@
         "date_posted": 1725079867,
         "company_url": "",
         "is_visible": false
+    },
+    {
+        "date_updated": 1725130251,
+        "url": "https://zebra.eightfold.ai/careers?src=srm_linkedin_jb&domain=zebra.com&pid=343621946480",
+        "company_name": "Zebra Technologies",
+        "title": "2025 Summer Internship - Software Engineer, RFID",
+        "locations": [
+            "Holtsville, NY"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "GaryZhous",
+        "id": "bf40b0bf-e8d0-4dc1-999a-2fe9c0b81cbc",
+        "date_posted": 1725130251,
+        "company_url": "",
+        "is_visible": true
     }
 ]
