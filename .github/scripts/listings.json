@@ -95510,5 +95510,25 @@
         "date_posted": 1725130251,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725130461,
+        "url": "https://jobs.siemens.com/careers/job/563156120579876?hl=en&domain=siemens.com",
+        "company_name": "Siemens",
+        "title": "Grid Software Internship: Software Developer",
+        "locations": [
+            "Remote in USA",
+            "Minnetonka, MN"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "GaryZhous",
+        "id": "e305e717-2858-4a8e-929a-fc0c6e789a47",
+        "date_posted": 1725130461,
+        "company_url": "",
+        "is_visible": true
     }
 ]
