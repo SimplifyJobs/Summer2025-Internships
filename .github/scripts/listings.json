@@ -95530,5 +95530,25 @@
         "date_posted": 1725130461,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725163542,
+        "url": "https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?jobid=305740&siteid=5131&partnerid=25008&PageType=JobDetails#jobDetails=305740_5131",
+        "company_name": "UBS",
+        "title": "2025 Summer Internship Program - Technology",
+        "locations": [
+            "New York, NY",
+            "Weehawken, NJ"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "GaryZhous",
+        "id": "e8443463-1544-4709-98f3-bdb525b49765",
+        "date_posted": 1725163542,
+        "company_url": "",
+        "is_visible": true
     }
 ]
