@@ -95590,5 +95590,26 @@
         "company_url": "https://simplify.jobs/c/84-51",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "84.51 Degrees",
+        "id": "8b67b6c1-1028-4826-a1ad-41a779b71958",
+        "title": "Software Engineer \u2013 Internship Program 2025",
+        "active": true,
+        "terms": [
+            "Spring 2027",
+            "Summer 2027"
+        ],
+        "date_updated": 1725174413,
+        "date_posted": 1725174413,
+        "url": "https://job-boards.greenhouse.io/8451university/jobs/7579605002",
+        "locations": [
+            "Chicago, IL",
+            "Cincinnati, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/84-51",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
