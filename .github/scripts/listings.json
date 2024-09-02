@@ -95688,5 +95688,24 @@
         "date_posted": 1725250873,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725251234,
+        "url": "https://job-boards.greenhouse.io/watershedclimate/jobs/4096445004",
+        "company_name": "Watershed",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "LuaanNguyen",
+        "id": "575cc211-7838-4b9c-ab1e-d0a9f3cdaf80",
+        "date_posted": 1725251234,
+        "company_url": "",
+        "is_visible": true
     }
 ]

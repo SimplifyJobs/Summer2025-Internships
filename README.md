@@ -59,6 +59,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| **[Watershed](https://simplify.jobs/c/Watershed)** | Software Engineer Intern | San Francisco, CA | <a href="https://job-boards.greenhouse.io/watershedclimate/jobs/4096445004?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 01 |
 | Qorvo | Software Engineer Intern | San Jose, CA, US | <a href="https://careers.qorvo.com/job/Software-Engineering-Intern-CA/1207468600/?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 01 |
 | Newrez | Software Engineer Intern | Coppell, TX</br>Onsite | <a href="https://newrez.wd1.myworkdayjobs.com/NRZ/job/TX-Coppell/XMLNAME-2025-Summer-Internship---Software-Engineering_R6412-1?source=APPLICANT_SOURCE-3-158&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 01 |
 | Deutsche Bank | Deutsche Bank Internship Programme – Quants – New York – 2025 | New York, NY | <a href="https://db.recsolu.com/external/requisitions/6D4d0CCEl7qoGsP_YCwqYA?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 01 |
