@@ -95785,5 +95785,43 @@
         "company_url": "https://simplify.jobs/c/Duolingo",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Epic Games",
+        "id": "652c7422-7682-4b0f-9992-3112df9b6b89",
+        "title": "Tools Programmer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1725319885,
+        "date_posted": 1725319885,
+        "url": "https://job-boards.greenhouse.io/epicgames/jobs/5278879004",
+        "locations": [
+            "Morrisville, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Epic-Games",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Epic Games",
+        "id": "ff8119e6-fa0d-436d-be6f-aa426116c5b7",
+        "title": "Tools Programmer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1725319884,
+        "date_posted": 1725319884,
+        "url": "https://job-boards.greenhouse.io/epicgames/jobs/5278881004",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Epic-Games",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
