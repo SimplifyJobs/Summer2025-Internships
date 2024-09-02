@@ -95611,5 +95611,25 @@
         "company_url": "https://simplify.jobs/c/84-51",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1725242569,
+        "url": "https://newrez.wd1.myworkdayjobs.com/NRZ/job/TX-Coppell/XMLNAME-2025-Summer-Internship---Software-Engineering_R6412-1?source=APPLICANT_SOURCE-3-158",
+        "company_name": "Newrez",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "Coppell, TX",
+            "Onsite"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "LuaanNguyen",
+        "id": "f9ef44b2-0dbc-477b-a5f7-193cf862933c",
+        "date_posted": 1725242569,
+        "company_url": "",
+        "is_visible": true
     }
 ]

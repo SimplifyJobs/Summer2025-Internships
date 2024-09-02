@@ -59,6 +59,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Newrez | Software Engineer Intern | Coppell, TX</br>Onsite | <a href="https://newrez.wd1.myworkdayjobs.com/NRZ/job/TX-Coppell/XMLNAME-2025-Summer-Internship---Software-Engineering_R6412-1?source=APPLICANT_SOURCE-3-158&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 01 |
 | Zebra Technologies | 2025 Summer Internship - Software Engineer, RFID 🛂 | Holtsville, NY | <a href="https://zebra.eightfold.ai/careers?src=srm_linkedin_jb&domain=zebra.com&pid=343621946480&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 31 |
 | UBS | 2025 Summer Internship Program - Technology 🛂 | New York, NY</br>Weehawken, NJ | <a href="https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?jobid=305740&siteid=5131&partnerid=25008&PageType=JobDetails#jobDetails=305740_5131&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 31 |
 | Siemens | Grid Software Internship: Software Developer 🛂 | Remote in USA</br>Minnetonka, MN | <a href="https://jobs.siemens.com/careers/job/563156120579876?hl=en&domain=siemens.com&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 31 |
