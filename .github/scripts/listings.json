@@ -95669,5 +95669,24 @@
         "date_posted": 1725246425,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725250873,
+        "url": "https://db.recsolu.com/external/requisitions/6D4d0CCEl7qoGsP_YCwqYA",
+        "company_name": "Deutsche Bank",
+        "title": "Deutsche Bank Internship Programme \u2013 Quants \u2013 New York \u2013 2025",
+        "locations": [
+            "New York, NY"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "GaryZhous",
+        "id": "3575c28b-db93-4ee2-95c0-fb980b69820d",
+        "date_posted": 1725250873,
+        "company_url": "",
+        "is_visible": true
     }
 ]
