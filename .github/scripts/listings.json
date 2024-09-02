@@ -95766,5 +95766,24 @@
         "company_url": "https://simplify.jobs/c/Maven-Securities",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Duolingo",
+        "id": "224caf18-baae-4cb5-9fd5-dd5f3b321a5a",
+        "title": "Software Engineer \u2013 Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1725306979,
+        "date_posted": 1725306979,
+        "url": "https://job-boards.greenhouse.io/duolingo/jobs/7582860002",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Duolingo",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
