@@ -95631,5 +95631,24 @@
         "date_posted": 1725242569,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725245350,
+        "url": "https://amazon.jobs/en/jobs/2740350/data-engineer-summer-internship-2025-us",
+        "company_name": "Amazon",
+        "title": "Data Engineer Intern",
+        "locations": [
+            "USA, WA, Seattle"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "LuaanNguyen",
+        "id": "da995daa-8db8-42d3-b256-889a27d093cf",
+        "date_posted": 1725245350,
+        "company_url": "",
+        "is_visible": true
     }
 ]
