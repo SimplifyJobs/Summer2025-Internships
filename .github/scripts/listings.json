@@ -76211,7 +76211,7 @@
         "company_name": "Waystar",
         "id": "fe7b4e50-a5ec-4cae-b5fe-8635221715a3",
         "title": "Data Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -88746,7 +88746,7 @@
         "company_name": "Air Company",
         "id": "9f26c37b-dc9b-4f89-b5bb-9cb030a30736",
         "title": "Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
