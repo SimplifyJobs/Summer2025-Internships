@@ -95823,5 +95823,64 @@
         "company_url": "https://simplify.jobs/c/Epic-Games",
         "is_visible": false,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Stryker",
+        "id": "55ddc67e-7ded-44f7-b7e5-e5149927edf2",
+        "title": "Summer 2025 Intern - Data Science - Michigan",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1725348532,
+        "date_posted": 1725348532,
+        "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Portage-Michigan/Summer-2025-Intern---Data-Science---Michigan_R527632",
+        "locations": [
+            "Portage, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Stryker",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Stryker",
+        "id": "ca51a901-a03d-432a-8349-6bade70a1206",
+        "title": "Summer 2025 Intern - Data Science - Texas",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1725348532,
+        "date_posted": 1725348532,
+        "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Flower-Mound-Texas/Summer-2025-Intern---Data-Science---Texas_R527620",
+        "locations": [
+            "Flower Mound, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Stryker",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Alcon",
+        "id": "2b140cac-74b8-42de-8d7e-9b8e67a8df74",
+        "title": "2025 R&D Summer Intern - Track 2",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1725348213,
+        "date_posted": 1725348213,
+        "url": "https://alcon.wd5.myworkdayjobs.com/careers_alcon/job/Fort-Worth-Texas/XMLNAME-2025-R-D-Summer-Intern---Track-2_R-2024-34753",
+        "locations": [
+            "Lake Forest, CA",
+            "Johns Creek, GA",
+            "Fort Worth, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/alcon",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
