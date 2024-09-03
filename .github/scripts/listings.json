@@ -91963,7 +91963,7 @@
         "company_name": "Intel",
         "id": "4fb5070e-9cc4-4d45-82b0-0d84f5a5a440",
         "title": "Software Engineer \u2013 PEY Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2024"
         ],
@@ -91982,7 +91982,7 @@
         "company_name": "Intel",
         "id": "4cc0f3c7-4e1b-49a2-883c-fd6042e7dee1",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2024"
         ],
@@ -96061,7 +96061,7 @@
         "company_name": "Dev Technology Group",
         "id": "5bdff058-4a4b-4c2d-b45a-5875789e04db",
         "title": "Summer Servicenow Application Developer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -96080,7 +96080,7 @@
         "company_name": "Dev Technology Group",
         "id": "51f69fa4-d93b-440c-8b44-505066e242e3",
         "title": "Summer Java Application Developer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -96099,7 +96099,7 @@
         "company_name": "Dev Technology Group",
         "id": "a1566eec-cf5f-40ec-9b2b-9d48f855ca46",
         "title": "Summer React/Node Application Developer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -96195,7 +96195,7 @@
         "company_name": "Dev Technology Group",
         "id": "26652ed4-7caa-46ad-81f7-af24cd2af336",
         "title": "Summer M365/Power Platform Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -96443,6 +96443,63 @@
             "Omaha, NE"
         ],
         "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Stryker",
+        "id": "b1fb92cc-ea31-4c89-8f8b-48ad7e10ecaf",
+        "title": "Summer 2025 Intern - Software Digital Engineering - Florida",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1725393894,
+        "date_posted": 1725393894,
+        "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Fort-Lauderdale-Florida/Summer-2025-Intern---Software-Digital-Engineering---Florida_R527507",
+        "locations": [
+            "Fort Lauderdale, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Stryker",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Dev Technology Group",
+        "id": "bde2eed1-2719-4a13-938e-6a527bc5af75",
+        "title": "Summer AI/ML Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1725393759,
+        "date_posted": 1725393759,
+        "url": "https://boards.greenhouse.io/devtechnology/jobs/7601730002",
+        "locations": [
+            "Reston, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/DevTechGrp",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Riot Games",
+        "id": "22882091-23ef-4962-aa19-5040ce237ec7",
+        "title": "Software Engineering Intern - Summer 2025 - Remote",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1725393643,
+        "date_posted": 1725393643,
+        "url": "https://www.riotgames.com/en/work-with-us/job/6176784?gh_jid=6176784",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Riot-Games",
         "is_visible": true,
         "sponsorship": "Other"
     }
