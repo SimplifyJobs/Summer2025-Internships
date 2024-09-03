@@ -96208,5 +96208,24 @@
         "company_url": "https://simplify.jobs/c/DevTechGrp",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "ZipRecruiter",
+        "id": "842e1d9f-952f-48fb-9814-7d2413637979",
+        "title": "Software Engineer \u2013 Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1725391337,
+        "date_posted": 1725391337,
+        "url": "https://job-boards.greenhouse.io/ziprecruiter/jobs/6165255",
+        "locations": [
+            "Santa Monica, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ZipRecruiter",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
