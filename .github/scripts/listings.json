@@ -96246,5 +96246,204 @@
         "company_url": "https://simplify.jobs/c/C3ai",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Blue Origin",
+        "id": "a280c71e-f8ce-451f-a324-8947acca98f6",
+        "title": "Summer 2025 Software Applications Engineering Intern - Undergraduate",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1725393603,
+        "date_posted": 1725393603,
+        "url": "https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Seattle-WA/Summer-2025-Software-Applications-Engineering-Intern---Undergraduate_R46737",
+        "locations": [
+            "Seattle, WA",
+            "Merritt Island, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Blue-Origin",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Blue Origin",
+        "id": "0f8c69e6-20c6-4b21-bcb2-d0c64f2ec52f",
+        "title": "Summer 2025 Avionics Software Engineering Intern - Undergraduate",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1725393601,
+        "date_posted": 1725393601,
+        "url": "https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Seattle-WA/Summer-2025-Avionics-Software-Engineering-Intern---Undergraduate_R46733",
+        "locations": [
+            "Seattle, WA",
+            "Merritt Island, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Blue-Origin",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Yext",
+        "id": "ef258108-b5fb-4de4-adf7-611e0feb135a",
+        "title": "2025 Software Engineer Summer DC Intern - Product",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1725393213,
+        "date_posted": 1725393213,
+        "url": "https://job-boards.greenhouse.io/yext/jobs/6204273",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/Yext",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Yext",
+        "id": "820730f0-bb40-44f7-9352-fdaad62a78de",
+        "title": "2025 Software Engineer Summer NYC Intern - Product",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1725393213,
+        "date_posted": 1725393213,
+        "url": "https://job-boards.greenhouse.io/yext/jobs/6204204",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Yext",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Epic Games",
+        "id": "7fc161f8-fe00-4e1b-9509-5404fb23942a",
+        "title": "Gameplay Programmer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1725393087,
+        "date_posted": 1725393087,
+        "url": "https://job-boards.greenhouse.io/epicgames/jobs/5278324004",
+        "locations": [
+            "Morrisville, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Epic-Games",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Epic Games",
+        "id": "78f96ab1-e760-4c5b-b6cc-1210a101f0b4",
+        "title": "Backend Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1725393077,
+        "date_posted": 1725393077,
+        "url": "https://job-boards.greenhouse.io/epicgames/jobs/5299257004",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Epic-Games",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Moloco",
+        "id": "11915fcc-ba27-4306-95b3-a257e7f530ef",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Spring 2025",
+            "Summer 2025",
+            "Fall 2025"
+        ],
+        "date_updated": 1725393058,
+        "date_posted": 1725393058,
+        "url": "https://boards.greenhouse.io/moloco/jobs/6101745003",
+        "locations": [
+            "Seattle, WA",
+            "San Carlos, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Moloco",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Moloco",
+        "id": "422b3cf1-308d-4bba-a6fe-daac924959df",
+        "title": "Machine Learning Engineer Intern",
+        "active": true,
+        "terms": [
+            "Spring 2025",
+            "Summer 2025",
+            "Fall 2025"
+        ],
+        "date_updated": 1725393057,
+        "date_posted": 1725393057,
+        "url": "https://boards.greenhouse.io/moloco/jobs/6101870003",
+        "locations": [
+            "San Carlos, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Moloco",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Moloco",
+        "id": "d5ce9fec-c9dd-42ca-aec2-68af16e6d415",
+        "title": "Data Science Intern",
+        "active": true,
+        "terms": [
+            "Spring 2025",
+            "Summer 2025",
+            "Fall 2025"
+        ],
+        "date_updated": 1725393048,
+        "date_posted": 1725393048,
+        "url": "https://boards.greenhouse.io/moloco/jobs/6097498003",
+        "locations": [
+            "San Carlos, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Moloco",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Leidos",
+        "id": "87d3c076-6325-4899-893f-727215cad757",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1725392939,
+        "date_posted": 1725392939,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Omaha-NE/Software-Engineer-Intern_R-00142809",
+        "locations": [
+            "Omaha, NE"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
