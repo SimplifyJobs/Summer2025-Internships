@@ -96189,5 +96189,24 @@
         "company_url": "https://simplify.jobs/c/Epic-Games",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Dev Technology Group",
+        "id": "26652ed4-7caa-46ad-81f7-af24cd2af336",
+        "title": "Summer M365/Power Platform Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1725378296,
+        "date_posted": 1725378296,
+        "url": "https://boards.greenhouse.io/devtechnology/jobs/7601798002",
+        "locations": [
+            "Reston, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/DevTechGrp",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
