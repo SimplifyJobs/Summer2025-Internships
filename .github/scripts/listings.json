@@ -96055,5 +96055,139 @@
         "company_url": "https://simplify.jobs/c/Datadog",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Dev Technology Group",
+        "id": "5bdff058-4a4b-4c2d-b45a-5875789e04db",
+        "title": "Summer Servicenow Application Developer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1725378294,
+        "date_posted": 1725378294,
+        "url": "https://boards.greenhouse.io/devtechnology/jobs/7601769002",
+        "locations": [
+            "Reston, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/DevTechGrp",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Dev Technology Group",
+        "id": "51f69fa4-d93b-440c-8b44-505066e242e3",
+        "title": "Summer Java Application Developer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1725378293,
+        "date_posted": 1725378293,
+        "url": "https://boards.greenhouse.io/devtechnology/jobs/7606188002",
+        "locations": [
+            "Reston, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/DevTechGrp",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Dev Technology Group",
+        "id": "a1566eec-cf5f-40ec-9b2b-9d48f855ca46",
+        "title": "Summer React/Node Application Developer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1725378291,
+        "date_posted": 1725378291,
+        "url": "https://boards.greenhouse.io/devtechnology/jobs/7601786002",
+        "locations": [
+            "Reston, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/DevTechGrp",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Capital One",
+        "id": "f9f7b3c7-12bf-45f0-9ab9-83e34927b2f4",
+        "title": "Labs Incubator Intern - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1725378281,
+        "date_posted": 1725378281,
+        "url": "https://capitalone.wd1.myworkdayjobs.com/Capital_One/job/McLean-VA/Labs-Incubator-Intern---Summer-2025_R195345-1",
+        "locations": [
+            "McLean, VA",
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Capital-One",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "SEP",
+        "id": "080cced9-12c3-4d81-b1e0-7736f544d7bf",
+        "title": "Software Engineering Intern - Summer 2025 - In person",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1725378038,
+        "date_posted": 1725378038,
+        "url": "https://jobs.lever.co/sep/8706239c-eb71-4027-a550-901332d8f3cb/apply",
+        "locations": [
+            "Carmel, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/SEP",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Epic Games",
+        "id": "8879905d-2018-4269-8ba9-af576794c51b",
+        "title": "Programming Language Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1725378023,
+        "date_posted": 1725378023,
+        "url": "https://job-boards.greenhouse.io/epicgames/jobs/5278843004",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Epic-Games",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Epic Games",
+        "id": "4e43f08f-6acd-4ef7-b584-5ee1e340764a",
+        "title": "Programming Language Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1725378022,
+        "date_posted": 1725378022,
+        "url": "https://job-boards.greenhouse.io/epicgames/jobs/5278841004",
+        "locations": [
+            "Morrisville, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Epic-Games",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
