@@ -64330,7 +64330,7 @@
         "company_name": "SpaceX",
         "id": "f0dedf24-40ae-43e2-bddc-62992b4cec66",
         "title": "Fall 2024 Software Engineering Internship/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2024"
         ],
@@ -96500,6 +96500,23 @@
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/Riot-Games",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "RVO Health",
+        "id": "ff117a92-97e8-4c34-9bcb-202940bb2a6c",
+        "title": "2025 Early Career Program: Software Engineering Intern",
+        "active": true,
+        "terms": [],
+        "date_updated": 1725393746,
+        "date_posted": 1725393746,
+        "url": "https://job-boards.greenhouse.io/rvohealth/jobs/4468377005",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/RVO-Health",
         "is_visible": true,
         "sponsorship": "Other"
     }
