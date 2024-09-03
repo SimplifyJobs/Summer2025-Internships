@@ -95305,7 +95305,7 @@
         "company_name": "Oshkosh",
         "id": "fb3b1d34-f835-4c7c-b86e-eca279d8f15d",
         "title": "Digital Technology Intern - Application Development - Year Round",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -95324,7 +95324,7 @@
         "company_name": "Oshkosh",
         "id": "a3e3e614-0b12-44fe-9899-206a02448d67",
         "title": "Digital Technology Intern - Manufacturing Support - Year Round",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
