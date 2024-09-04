@@ -96921,5 +96921,26 @@
         "company_url": "https://simplify.jobs/c/Plexus",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Visier Solutions",
+        "id": "4ffcee86-9f76-4e96-b15b-d21ac1982986",
+        "title": "Software Developer Co-op - January 2025 to August 2025",
+        "active": true,
+        "terms": [
+            "Winter 2026",
+            "Spring 2026",
+            "Summer 2026"
+        ],
+        "date_updated": 1725478885,
+        "date_posted": 1725478885,
+        "url": "https://job-boards.greenhouse.io/visiersolutionsinc/jobs/4399913006",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Visier",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
