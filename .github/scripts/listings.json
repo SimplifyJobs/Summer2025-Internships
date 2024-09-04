@@ -96690,5 +96690,25 @@
         "company_url": "https://simplify.jobs/c/Red-Hat",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1725462161,
+        "url": "https://careers-cnhind.icims.com/jobs/26236/software-engineer-intern/job?mode=apply&iis=LinkedIn",
+        "company_name": "CNH",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "Sioux Falls, SD",
+            "Oak Brook, IL"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "LuaanNguyen",
+        "id": "15c8691a-a5e4-4da0-84ee-f7e3794c96c5",
+        "date_posted": 1725462161,
+        "company_url": "",
+        "is_visible": true
     }
 ]
