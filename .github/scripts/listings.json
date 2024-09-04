@@ -93955,7 +93955,7 @@
         "company_name": "Semgrep",
         "id": "e60d9a1d-27e7-4b2a-8ef9-f84cb048397e",
         "title": "Software Engineer Intern - Program Analysis",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025",
             "Summer 2025"
@@ -93975,7 +93975,7 @@
         "company_name": "Semgrep",
         "id": "f56737be-dcf8-4449-a651-917c2d83e547",
         "title": "Software Engineer Intern - Cloud Platform",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025",
             "Summer 2025"
@@ -96157,7 +96157,7 @@
         "company_name": "Epic Games",
         "id": "8879905d-2018-4269-8ba9-af576794c51b",
         "title": "Programming Language Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -96176,7 +96176,7 @@
         "company_name": "Epic Games",
         "id": "4e43f08f-6acd-4ef7-b584-5ee1e340764a",
         "title": "Programming Language Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
