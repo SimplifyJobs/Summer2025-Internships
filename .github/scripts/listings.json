@@ -97019,5 +97019,25 @@
         "company_url": "https://simplify.jobs/c/Epic-Games",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1725485261,
+        "url": "https://explore.jobs.netflix.net/careers/job/790298739171",
+        "company_name": "Netflix",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "Los Gatos, CA",
+            "Los Angeles, CA"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "dubemnwiz",
+        "id": "dc6e1f88-88eb-4a2e-baeb-ca67e8b755c4",
+        "date_posted": 1725485261,
+        "company_url": "",
+        "is_visible": true
     }
 ]
