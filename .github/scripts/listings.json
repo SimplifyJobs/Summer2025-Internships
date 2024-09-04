@@ -6928,7 +6928,7 @@
         "company_name": "Garda Capital Partners",
         "id": "85ee89b7-aa57-42c2-b96b-b74c12fff638",
         "title": "Quantitative Development Intern - Equities & Commodity Derivatives",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -96525,7 +96525,7 @@
         "company_name": "Chamberlain Group",
         "id": "0c5d4d4c-355a-4a29-9caf-1aad0449f219",
         "title": "Intern \u2013 Myq Middleware - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -96544,7 +96544,7 @@
         "company_name": "Saronic",
         "id": "1ee4f6f9-5a8e-4d40-8bd9-3a8af2d17ac9",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -96730,5 +96730,81 @@
         "date_posted": 1725462377,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Plexus",
+        "id": "12972942-c735-4cae-a224-34d066b85e2c",
+        "title": "Intern \u2013 Software Engineer - Fall 2025",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1725463039,
+        "date_posted": 1725463039,
+        "url": "https://plexus.wd5.myworkdayjobs.com/en-US/Plexus_Careers/job/Neenah-WI/Intern---Software-Engineer---Fall-2025_R030249",
+        "locations": [
+            "Neenah, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Plexus",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Plexus",
+        "id": "5895d527-3cbb-4b9b-ba09-1610c658c331",
+        "title": "Intern \u2013 Software Engineer - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1725463039,
+        "date_posted": 1725463039,
+        "url": "https://plexus.wd5.myworkdayjobs.com/en-US/Plexus_Careers/job/Raleigh-NC/Intern---Software-Engineer---Summer-2025_R030238",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Plexus",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Plexus",
+        "id": "36b14131-dbd1-4e01-b060-1891d48df867",
+        "title": "Intern \u2013 Software Engineer - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1725463039,
+        "date_posted": 1725463039,
+        "url": "https://plexus.wd5.myworkdayjobs.com/en-US/Plexus_Careers/job/Neenah-WI/Intern---Software-Engineer---Summer-2025_R030226",
+        "locations": [
+            "Neenah, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Plexus",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Garda Capital Partners",
+        "id": "154b838f-0cfb-4da6-b3f2-bbc93fc472aa",
+        "title": "Trading Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1725462433,
+        "date_posted": 1725462433,
+        "url": "https://job-boards.greenhouse.io/gardacp/jobs/4158626004",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Garda-Capital-Partners",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
