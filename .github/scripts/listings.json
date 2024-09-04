@@ -97000,5 +97000,24 @@
         "company_url": "https://simplify.jobs/c/Dun-and-Bradstreet",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Epic Games",
+        "id": "5d109a20-a190-4f04-b667-c3b9991b7497",
+        "title": "Tools Programmer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1725484197,
+        "date_posted": 1725484197,
+        "url": "https://job-boards.greenhouse.io/epicgames/jobs/5281373004",
+        "locations": [
+            "Morrisville, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Epic-Games",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
