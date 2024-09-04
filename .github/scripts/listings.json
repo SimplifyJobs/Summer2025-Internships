@@ -88032,7 +88032,7 @@
         "company_name": "Kargo",
         "id": "8b6fb24e-d7ce-444e-a6a0-d5f82e59d4d2",
         "title": "Backend Software Engineer \u2013 Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -91802,7 +91802,7 @@
         "company_name": "Virtu Financial",
         "id": "27afcb9c-7621-48df-a585-c2ff51a90a1d",
         "title": "Women's Winternship",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
