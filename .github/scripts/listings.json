@@ -96844,5 +96844,82 @@
         "company_url": "https://simplify.jobs/c/InterSystems",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Viam",
+        "id": "a94d71a1-7cab-48a5-8b45-1ab70dbe84cc",
+        "title": "Software Engineering Intern - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1725477167,
+        "date_posted": 1725477167,
+        "url": "https://job-boards.greenhouse.io/viamrobotics/jobs/5237733004",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Viam",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Formlabs",
+        "id": "6b08a958-5af0-469c-9bc6-d8cebecd6142",
+        "title": "Manufacturing Data Analysis Intern - Winter/Spring 2025",
+        "active": true,
+        "terms": [
+            "Winter 2026",
+            "Spring 2026"
+        ],
+        "date_updated": 1725476665,
+        "date_posted": 1725476665,
+        "url": "https://careers.formlabs.com/job/6208972/apply/?gh_jid=6208972",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Formlabs",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Red Hat",
+        "id": "07a17367-1924-4607-a9ec-cccca35eac92",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1725476605,
+        "date_posted": 1725476605,
+        "url": "https://redhat.wd5.myworkdayjobs.com/jobs/job/Raleigh/Software-Engineering-Intern_R-041327",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Red-Hat",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Plexus",
+        "id": "9e96c34b-c9e8-4d70-880a-a3ba400eee9f",
+        "title": "Intern \u2013 Software Engineer - Spring 2025",
+        "active": true,
+        "terms": [
+            "Spring 2025"
+        ],
+        "date_updated": 1725463037,
+        "date_posted": 1725463037,
+        "url": "https://plexus.wd5.myworkdayjobs.com/en-US/Plexus_Careers/job/Raleigh-NC/Intern---Software-Engineer---Spring-2025_R030244",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Plexus",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
