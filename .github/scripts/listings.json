@@ -96080,7 +96080,7 @@
         "company_name": "Dev Technology Group",
         "id": "51f69fa4-d93b-440c-8b44-505066e242e3",
         "title": "Summer Java Application Developer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -96195,7 +96195,7 @@
         "company_name": "Dev Technology Group",
         "id": "26652ed4-7caa-46ad-81f7-af24cd2af336",
         "title": "Summer M365/Power Platform Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -96330,7 +96330,7 @@
         "company_name": "Epic Games",
         "id": "7fc161f8-fe00-4e1b-9509-5404fb23942a",
         "title": "Gameplay Programmer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -96978,6 +96978,26 @@
             "Austin, TX"
         ],
         "company_url": "https://simplify.jobs/c/CesiumAstro",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Dun & Bradstreet",
+        "id": "b57eaaa7-328e-48f2-987d-568d0d5a3805",
+        "title": "2025 Summer Internship Program - Technology",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1725481531,
+        "date_posted": 1725481531,
+        "url": "https://jobs.lever.co/dnb/1f4e2397-33cb-4304-b19a-7533a9b2dd97/apply",
+        "locations": [
+            "Austin, TX",
+            "Jacksonville, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Dun-and-Bradstreet",
         "is_visible": true,
         "sponsorship": "Other"
     }
