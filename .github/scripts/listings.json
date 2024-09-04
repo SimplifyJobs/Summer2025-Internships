@@ -86665,7 +86665,7 @@
         "company_name": "Radix Trading",
         "id": "948bfd49-4a78-4839-a813-b864222db13a",
         "title": "Quantitative Technologist \u2013 C++ Intern - Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -92729,7 +92729,7 @@
         "company_name": "Chicago Trading Company",
         "id": "37f9b264-0f7c-498f-a8f8-a3f17bc434c0",
         "title": "Software Engineer Internship - Summer 2025 - New York",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -92748,7 +92748,7 @@
         "company_name": "Chicago Trading Company",
         "id": "be0b643c-7e67-46db-ba2f-187ee3617805",
         "title": "Software Engineer Internship - Summer 2025 - Chicago",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -92767,7 +92767,7 @@
         "company_name": "Chicago Trading Company",
         "id": "99d2e5dc-1b16-4a09-95e0-bace562a80a0",
         "title": "Quant Trading Associate Internship - Summer 2025 - London",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -92786,7 +92786,7 @@
         "company_name": "Chicago Trading Company",
         "id": "c4a49da7-88a9-4943-a484-e284bcd64301",
         "title": "Quant Trading Associate Internship - Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -96652,5 +96652,43 @@
         "date_posted": 1725423550,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Red Hat",
+        "id": "de595ad4-7fc5-4375-86b3-05cd270205b0",
+        "title": "Data Engineer Internship",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1725447995,
+        "date_posted": 1725447995,
+        "url": "https://redhat.wd5.myworkdayjobs.com/jobs/job/Raleigh/Data-Engineer-Internship_R-041161",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Red-Hat",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Red Hat",
+        "id": "8cae4931-3476-4872-be96-725d20970d9f",
+        "title": "Data Science Internship",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1725447997,
+        "date_posted": 1725447997,
+        "url": "https://redhat.wd5.myworkdayjobs.com/jobs/job/Raleigh/Data-Science-Internship_R-041162",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Red-Hat",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
