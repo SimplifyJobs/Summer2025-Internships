@@ -95810,7 +95810,7 @@
         "company_name": "Epic Games",
         "id": "ff8119e6-fa0d-436d-be6f-aa426116c5b7",
         "title": "Tools Programmer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -96099,7 +96099,7 @@
         "company_name": "Dev Technology Group",
         "id": "a1566eec-cf5f-40ec-9b2b-9d48f855ca46",
         "title": "Summer React/Node Application Developer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
