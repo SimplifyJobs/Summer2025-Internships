@@ -5615,7 +5615,7 @@
         "company_name": "Palantir",
         "id": "d58f726c-620e-4c0c-89d7-8b54421280ab",
         "title": "Forward Deployed Software Engineer \u2013 Internship - US Government",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -5653,7 +5653,7 @@
         "company_name": "Palantir",
         "id": "e0e2d81b-c99d-4f8d-a2fa-73f8125abc80",
         "title": "Forward Deployed Software Engineer \u2013 Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -91982,7 +91982,7 @@
         "company_name": "Intel",
         "id": "4cc0f3c7-4e1b-49a2-883c-fd6042e7dee1",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2024"
         ],
@@ -93569,7 +93569,7 @@
         "company_name": "Plexus",
         "id": "8c5ec152-c856-471c-9e30-edabb29ffcdd",
         "title": "Intern \u2013 Manufacturing Systems Engineer - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -94453,7 +94453,7 @@
         "company_name": "Stryker",
         "id": "bfc0e1c7-165e-4391-959b-be29352c580f",
         "title": "Kettering University Engineering Co-op - B Section - R&D - Npd",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -94978,7 +94978,7 @@
         "company_name": "Workiva",
         "id": "7af034fd-d034-46ee-a1e0-1c7f9c5af440",
         "title": "2025 Spring and Summer Intern - Sales Business Intelligence Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025",
             "Summer 2025"
@@ -97341,6 +97341,25 @@
             "Washington, DC"
         ],
         "company_url": "https://simplify.jobs/c/Palantir",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Oshkosh",
+        "id": "761bb486-4c95-41f5-ad69-0bc24f1a95ef",
+        "title": "Engineering Intern - Autonomy - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1725477776,
+        "date_posted": 1725477776,
+        "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Oshkosh-Wisconsin-United-States/Engineering-Intern---Autonomy_R32222",
+        "locations": [
+            "Oshkosh, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Oshkosh",
         "is_visible": true,
         "sponsorship": "Other"
     }
