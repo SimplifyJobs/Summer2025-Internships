@@ -51567,7 +51567,7 @@
         "company_name": "Point72",
         "id": "dc8c7221-ace8-40d1-9e01-255a9203e851",
         "title": "2025 Point72 Academy Investment Analyst Summer Internship Program - US",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -77526,7 +77526,7 @@
         "company_name": "Openmesh Networks",
         "id": "fba6184f-85db-480a-b2f8-b4599a9b7461",
         "title": "Big Data Intern - Data Processing and Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -81880,7 +81880,7 @@
         "company_name": "Openmesh Networks",
         "id": "19e4ace5-2363-4ba4-b1d9-5568f2736a12",
         "title": "Data Analyst Intern - Data Insights and Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -86665,7 +86665,7 @@
         "company_name": "Radix Trading",
         "id": "948bfd49-4a78-4839-a813-b864222db13a",
         "title": "Quantitative Technologist \u2013 C++ Intern - Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -92729,7 +92729,7 @@
         "company_name": "Chicago Trading Company",
         "id": "37f9b264-0f7c-498f-a8f8-a3f17bc434c0",
         "title": "Software Engineer Internship - Summer 2025 - New York",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -92748,7 +92748,7 @@
         "company_name": "Chicago Trading Company",
         "id": "be0b643c-7e67-46db-ba2f-187ee3617805",
         "title": "Software Engineer Internship - Summer 2025 - Chicago",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -92767,7 +92767,7 @@
         "company_name": "Chicago Trading Company",
         "id": "99d2e5dc-1b16-4a09-95e0-bace562a80a0",
         "title": "Quant Trading Associate Internship - Summer 2025 - London",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -92786,7 +92786,7 @@
         "company_name": "Chicago Trading Company",
         "id": "c4a49da7-88a9-4943-a484-e284bcd64301",
         "title": "Quant Trading Associate Internship - Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -97216,7 +97216,7 @@
         "company_name": "Openmesh Networks",
         "id": "7e72bc16-ba0e-4047-b7a7-7c8f4f620d66",
         "title": "Smart Contract Development Intern - Blockchain Technology and Security",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -97659,6 +97659,25 @@
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/National-Information-Solutions-Cooperative-(NISC)",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Genesis Therapeutics",
+        "id": "afba7098-7508-4a1a-9426-f55103bcfb3f",
+        "title": "Software Engineer Intern - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1725579841,
+        "date_posted": 1725579841,
+        "url": "https://jobs.lever.co/genesistherapeutics/d13c7dea-6c8c-4741-9220-a6dd6300a175/apply",
+        "locations": [
+            "Burlingame, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Genesis-Thera",
         "is_visible": true,
         "sponsorship": "Other"
     }
