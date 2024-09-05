@@ -90316,7 +90316,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1722384083,
+        "date_updated": 1725516969,
         "url": "https://jobs.bytedance.com/en/position/7397256395883006258/detail?spread=BSPP2KS",
         "company_name": "ByteDance",
         "title": "Software Engineer Intern (AI Platform)",
@@ -90326,8 +90326,8 @@
         "terms": [
             "Summer 2025"
         ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "reddoy",
         "id": "dbc1d8ba-bfe3-43eb-8847-03c93c2b30b5",
         "date_posted": 1722384083,
