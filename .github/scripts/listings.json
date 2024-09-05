@@ -87087,7 +87087,7 @@
         "company_name": "Palantir",
         "id": "9a6e1962-5442-494d-b3bd-c93ebb7f642f",
         "title": "Semester at Palantir \u2013 Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2024"
         ],
@@ -97524,6 +97524,102 @@
             "San Mateo, CA"
         ],
         "company_url": "https://simplify.jobs/c/Gilead-Sciences",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Epic Games",
+        "id": "b4b438a0-07ed-4fa1-bb56-9d148fa06e2f",
+        "title": "Salesforce Developer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1725566064,
+        "date_posted": 1725566064,
+        "url": "https://job-boards.greenhouse.io/epicgames/jobs/5267665004",
+        "locations": [
+            "Morrisville, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Epic-Games",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Epic Games",
+        "id": "0ef984c0-4193-44a8-a660-f0e1533a7682",
+        "title": "Engine Programmer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1725566049,
+        "date_posted": 1725566049,
+        "url": "https://job-boards.greenhouse.io/epicgames/jobs/5285509004",
+        "locations": [
+            "Morrisville, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Epic-Games",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Epic Games",
+        "id": "3495de9e-6fef-4876-8fa4-f78cc6a873c1",
+        "title": "Engine Programmer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1725566048,
+        "date_posted": 1725566048,
+        "url": "https://job-boards.greenhouse.io/epicgames/jobs/5285503004",
+        "locations": [
+            "Morrisville, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Epic-Games",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Epic Games",
+        "id": "06a7f603-2373-4623-829c-ad6406287f5e",
+        "title": "Engine Programmer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1725566047,
+        "date_posted": 1725566047,
+        "url": "https://job-boards.greenhouse.io/epicgames/jobs/5285486004",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Epic-Games",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "DriveTime",
+        "id": "d50d8b02-3fc5-40a1-80d1-945c93a1ee16",
+        "title": "Data Science Intern - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1725565656,
+        "date_posted": 1725565656,
+        "url": "https://drivetime.wd1.myworkdayjobs.com/DriveTime/job/1720-W-Rio-Salado-Pkwy-Tempe-AZ-85281/Data-Science-Intern--Summer-2025-_R9320",
+        "locations": [
+            "Texas",
+            "Arizona"
+        ],
+        "company_url": "https://simplify.jobs/c/drivetime",
         "is_visible": true,
         "sponsorship": "Other"
     }
