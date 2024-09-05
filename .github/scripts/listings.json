@@ -97248,5 +97248,24 @@
         "company_url": "https://simplify.jobs/c/Openmesh-Networks",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1725509566,
+        "url": "https://jobs.keysight.com/external/jobs/44329?mode=apply",
+        "company_name": "Keysight Technologies",
+        "title": "Full Stack Software Development Internship",
+        "locations": [
+            "Colorado Springs, CO"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "GaryZhous",
+        "id": "1d390d27-ae34-40f7-8ecf-711dc492503d",
+        "date_posted": 1725509566,
+        "company_url": "",
+        "is_visible": true
     }
 ]
