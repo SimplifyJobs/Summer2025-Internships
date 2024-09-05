@@ -97324,5 +97324,24 @@
         "company_url": "https://simplify.jobs/c/Fort-Robotics",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Palantir",
+        "id": "fe77f108-84fc-48fd-bc64-dfd8921d203f",
+        "title": "Forward Deployed Software Engineer \u2013 Internship - Defense Tech",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1722930369,
+        "date_posted": 1722930369,
+        "url": "https://jobs.lever.co/palantir/cccfe1bd-f15b-4fe5-b044-c793e7961c1b/apply",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/Palantir",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
