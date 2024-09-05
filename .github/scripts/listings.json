@@ -97362,5 +97362,43 @@
         "company_url": "https://simplify.jobs/c/Oshkosh",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Stryker",
+        "id": "22acdd5c-fcf3-4201-a6ec-66c42aed2968",
+        "title": "Summer 2025 Intern - Software Documentation Design - Texas",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1725393896,
+        "date_posted": 1725393896,
+        "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Flower-Mound-Texas/Summer-2025-Intern---Software-Documentation-Design---Texas_R527512",
+        "locations": [
+            "Flower Mound, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Stryker",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Akuna Capital",
+        "id": "36410d58-e379-40c3-aa0c-726b28199c7f",
+        "title": "Quantitative Strategist Intern - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1723167202,
+        "date_posted": 1721085367,
+        "url": "https://www.akunacapital.com/job-details?gh_jid=5744549",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Akuna-Capital",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
