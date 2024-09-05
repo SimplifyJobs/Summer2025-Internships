@@ -97153,5 +97153,24 @@
         "company_url": "https://simplify.jobs/c/allegion",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "ServiceNow",
+        "id": "de783f42-46cb-49b6-934d-b1b46e3e2e3e",
+        "title": "Utg \u2013 Software Engineer Internships - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1725503557,
+        "date_posted": 1725503557,
+        "url": "https://jobs.smartrecruiters.com/ServiceNow/744000011666405",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ServiceNow",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
