@@ -97267,5 +97267,24 @@
         "date_posted": 1725509566,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Cerebras",
+        "id": "de78af21-7b53-487f-9a89-52d253e6fc27",
+        "title": "Performance Engineer \u2013 Internship - PEY 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1725034545,
+        "date_posted": 1725034545,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=5321473003",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Cerebras-Systems",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
