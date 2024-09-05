@@ -88975,7 +88975,7 @@
         "company_name": "Strider Technologies",
         "id": "9c871a95-1566-4a9f-be6f-085c49133eb0",
         "title": "Research Assistant Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -91193,7 +91193,7 @@
         "company_name": "Databricks",
         "id": "3c4fd433-d0f1-4616-9949-70e4b7c5c452",
         "title": "Software Engineering Intern - 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025",
             "Spring 2025",
@@ -91214,7 +91214,7 @@
         "company_name": "Databricks",
         "id": "6e28daf9-962d-4405-9e24-bf175b13e7b8",
         "title": "Software Engineering Intern - 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025",
             "Spring 2025",
@@ -97284,6 +97284,44 @@
             "Toronto, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Cerebras-Systems",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Walmart",
+        "id": "00a27cc7-3d5e-4c1f-bd3b-4caea86728c2",
+        "title": "2024 Intern Conversion \u2013 2025 Return Intern: Sr. Data Scientist",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1725515164,
+        "date_posted": 1725515164,
+        "url": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/XMLNAME-2024-Intern-Conversion---2025-Return-Intern--Sr-Data-Scientist_R-1961846",
+        "locations": [
+            "Bentonville, AR"
+        ],
+        "company_url": "https://simplify.jobs/c/Walmart",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Fort Robotics",
+        "id": "982c6174-ef84-478e-98f5-49ba6e75c190",
+        "title": "Co-Op & Internship Resume Submissions",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1725514461,
+        "date_posted": 1725514461,
+        "url": "https://boards.greenhouse.io/fortrobotics/jobs/4293779005",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Fort-Robotics",
         "is_visible": true,
         "sponsorship": "Other"
     }
