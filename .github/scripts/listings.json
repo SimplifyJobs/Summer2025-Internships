@@ -4759,7 +4759,7 @@
         "company_name": "Palantir",
         "id": "61538fd3-f0aa-476a-a62f-e101cd0f4c6f",
         "title": "Forward Deployed Software Engineer \u2013 Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -5577,7 +5577,7 @@
         "company_name": "Palantir",
         "id": "0503901e-622f-4d1b-b7f9-29d44e59eaab",
         "title": "Forward Deployed Software Engineer \u2013 Internship - US Government",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -86342,7 +86342,7 @@
         "company_name": "Capstone Investment Advisors",
         "id": "bff246c1-e508-48d6-8afb-ef8c3d412f71",
         "title": "2025 Summer Internship - Quantitative Risk",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -91318,7 +91318,7 @@
         "company_name": "Capstone Investment Advisors",
         "id": "c050b237-c757-4fb8-be33-9434aff91618",
         "title": "2025 Summer Internship - Quantitative Risk Technology",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -92647,7 +92647,7 @@
         "company_name": "Salesforce",
         "id": "3d0efd81-c286-46aa-93be-ee58e76b91aa",
         "title": "Summer 2025 Intern - Software Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -96986,7 +96986,7 @@
         "company_name": "Dun & Bradstreet",
         "id": "b57eaaa7-328e-48f2-987d-568d0d5a3805",
         "title": "2025 Summer Internship Program - Technology",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
