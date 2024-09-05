@@ -52906,7 +52906,7 @@
         "company_name": "ExodusPoint",
         "id": "405dc370-0c78-4392-910f-b92e23c3b00f",
         "title": "Data Science Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
