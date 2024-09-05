@@ -97641,5 +97641,25 @@
         "company_url": "https://simplify.jobs/c/allegion",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "National Information Solutions Cooperative (NISC)",
+        "id": "6865821a-2a3d-4093-9c0a-7cb07888d7e9",
+        "title": "Intern \u2013 Applications & Data Analyst",
+        "active": true,
+        "terms": [
+            "Spring 2025",
+            "Summer 2025"
+        ],
+        "date_updated": 1725578666,
+        "date_posted": 1725578666,
+        "url": "https://boards.greenhouse.io/nisc/jobs/6235434",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/National-Information-Solutions-Cooperative-(NISC)",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
