@@ -68284,7 +68284,7 @@
         "company_name": "Openmesh Networks",
         "id": "6e6199cd-9df5-47aa-b837-d5c18bd84d49",
         "title": "Researcher in Zero Knowledge Protocols Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -77545,7 +77545,7 @@
         "company_name": "Openmesh Networks",
         "id": "51ac41fa-eeb5-4735-af9a-ba85e5346a8f",
         "title": "Junior Analyst Intern - Mathematical Sciences - BA/MS",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -86665,7 +86665,7 @@
         "company_name": "Radix Trading",
         "id": "948bfd49-4a78-4839-a813-b864222db13a",
         "title": "Quantitative Technologist \u2013 C++ Intern - Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -92729,7 +92729,7 @@
         "company_name": "Chicago Trading Company",
         "id": "37f9b264-0f7c-498f-a8f8-a3f17bc434c0",
         "title": "Software Engineer Internship - Summer 2025 - New York",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -92748,7 +92748,7 @@
         "company_name": "Chicago Trading Company",
         "id": "be0b643c-7e67-46db-ba2f-187ee3617805",
         "title": "Software Engineer Internship - Summer 2025 - Chicago",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -92786,7 +92786,7 @@
         "company_name": "Chicago Trading Company",
         "id": "c4a49da7-88a9-4943-a484-e284bcd64301",
         "title": "Quant Trading Associate Internship - Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -96061,7 +96061,7 @@
         "company_name": "Dev Technology Group",
         "id": "5bdff058-4a4b-4c2d-b45a-5875789e04db",
         "title": "Summer Servicenow Application Developer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -96080,7 +96080,7 @@
         "company_name": "Dev Technology Group",
         "id": "51f69fa4-d93b-440c-8b44-505066e242e3",
         "title": "Summer Java Application Developer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -96195,7 +96195,7 @@
         "company_name": "Dev Technology Group",
         "id": "26652ed4-7caa-46ad-81f7-af24cd2af336",
         "title": "Summer M365/Power Platform Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -96470,7 +96470,7 @@
         "company_name": "Dev Technology Group",
         "id": "bde2eed1-2719-4a13-938e-6a527bc5af75",
         "title": "Summer AI/ML Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -97417,6 +97417,93 @@
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/DataGrail",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "National Information Solutions Cooperative (NISC)",
+        "id": "129f0856-64e2-46e3-ba9a-2dab5b0c08b9",
+        "title": "Intern \u2013 Software Development - IOS",
+        "active": true,
+        "terms": [
+            "Spring 2025",
+            "Summer 2025"
+        ],
+        "date_updated": 1725555722,
+        "date_posted": 1725555722,
+        "url": "https://boards.greenhouse.io/nisc/jobs/6235211",
+        "locations": [
+            "Bismarck, ND",
+            "Lake St Louis, MO",
+            "Cedar Rapids, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/National-Information-Solutions-Cooperative-(NISC)",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "National Information Solutions Cooperative (NISC)",
+        "id": "3ce96083-8fbc-4266-9dc7-c7caa50d1c2c",
+        "title": "Intern \u2013 Software Development",
+        "active": true,
+        "terms": [
+            "Spring 2025",
+            "Summer 2025"
+        ],
+        "date_updated": 1725555529,
+        "date_posted": 1725555529,
+        "url": "https://boards.greenhouse.io/nisc/jobs/6138297",
+        "locations": [
+            "Bismarck, ND",
+            "Lake St Louis, MO",
+            "Cedar Rapids, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/National-Information-Solutions-Cooperative-(NISC)",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "National Information Solutions Cooperative (NISC)",
+        "id": "27d647d4-4a79-466a-934e-52a80965af92",
+        "title": "Intern \u2013 Database Conversion Programming",
+        "active": true,
+        "terms": [
+            "Spring 2025",
+            "Summer 2025"
+        ],
+        "date_updated": 1725555350,
+        "date_posted": 1725555350,
+        "url": "https://boards.greenhouse.io/nisc/jobs/6235377",
+        "locations": [
+            "Bismarck, ND",
+            "Lake St Louis, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/National-Information-Solutions-Cooperative-(NISC)",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "National Information Solutions Cooperative (NISC)",
+        "id": "7b1fc6c5-1c0e-4040-b988-fe5bf5680e20",
+        "title": "Intern \u2013 Software Development - Machine Learning",
+        "active": true,
+        "terms": [
+            "Spring 2025",
+            "Summer 2025"
+        ],
+        "date_updated": 1725555021,
+        "date_posted": 1725555021,
+        "url": "https://boards.greenhouse.io/nisc/jobs/6235244",
+        "locations": [
+            "Bismarck, ND",
+            "Lake St Louis, MO",
+            "Cedar Rapids, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/National-Information-Solutions-Cooperative-(NISC)",
         "is_visible": true,
         "sponsorship": "Other"
     }
