@@ -97756,5 +97756,25 @@
         "company_url": "https://simplify.jobs/c/Snowflake",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Hewlett Packard (HP)",
+        "id": "57164b0d-178f-4775-8056-1f3cbfe5c9ea",
+        "title": "Imaging and Print Software Internship",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1725580838,
+        "date_posted": 1725580838,
+        "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Vancouver-Washington-United-States-of-America/Imaging-and-Print-Software-Internship_3141394",
+        "locations": [
+            "Boise, ID",
+            "Vancouver, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
