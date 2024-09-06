@@ -86665,7 +86665,7 @@
         "company_name": "Radix Trading",
         "id": "948bfd49-4a78-4839-a813-b864222db13a",
         "title": "Quantitative Technologist \u2013 C++ Intern - Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -92729,7 +92729,7 @@
         "company_name": "Chicago Trading Company",
         "id": "37f9b264-0f7c-498f-a8f8-a3f17bc434c0",
         "title": "Software Engineer Internship - Summer 2025 - New York",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -92748,7 +92748,7 @@
         "company_name": "Chicago Trading Company",
         "id": "be0b643c-7e67-46db-ba2f-187ee3617805",
         "title": "Software Engineer Internship - Summer 2025 - Chicago",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -92786,7 +92786,7 @@
         "company_name": "Chicago Trading Company",
         "id": "c4a49da7-88a9-4943-a484-e284bcd64301",
         "title": "Quant Trading Associate Internship - Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -97983,6 +97983,101 @@
             "Washington, DC"
         ],
         "company_url": "https://simplify.jobs/c/AccentureFederalServices",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Reliable Robotics",
+        "id": "918c28d7-dfd0-41bb-9e38-36d2551c95cd",
+        "title": "Flight Software Engineer \u2013 Summer 2025 Internship",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1725650967,
+        "date_posted": 1725650967,
+        "url": "https://jobs.lever.co/reliable/816a551e-e70f-4e28-9d59-220326d81d32/apply",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Reliable-Robotics",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Reliable Robotics",
+        "id": "217a0bf9-9605-4551-941b-9e97cc8b486f",
+        "title": "Embedded Systems Engineer \u2013 Summer 2025 Internship",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1725650964,
+        "date_posted": 1725650964,
+        "url": "https://jobs.lever.co/reliable/0e4ad15e-ef30-4a91-a48f-65f352f8a936/apply",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Reliable-Robotics",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Lyft",
+        "id": "d6152489-a4ce-46db-ab99-1171ea64a91e",
+        "title": "Software Engineer Intern - Frontend - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1725650577,
+        "date_posted": 1725650577,
+        "url": "https://app.careerpuck.com/job-board/lyft/job/7617883002?gh_jid=7617883002",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Lyft",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Lyft",
+        "id": "40eebfcb-3f83-4691-a8b5-ee93e2b7f9d0",
+        "title": "Software Engineer Intern - Backend - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1725650577,
+        "date_posted": 1725650577,
+        "url": "https://app.careerpuck.com/job-board/lyft/job/7608809002?gh_jid=7608809002",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Lyft",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Lyft",
+        "id": "6a1f18c7-a96d-4d28-abbc-37e66769a113",
+        "title": "Software Engineer Intern - Backend - Toronto - Canada - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1725650576,
+        "date_posted": 1725650576,
+        "url": "https://app.careerpuck.com/job-board/lyft/job/7612143002?gh_jid=7612143002",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Lyft",
         "is_visible": true,
         "sponsorship": "Other"
     }
