@@ -80032,7 +80032,7 @@
         "company_name": "Palantir",
         "id": "860d8c08-7297-4a35-9f32-604912fd2830",
         "title": "Deployment Strategist \u2013 Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -92729,7 +92729,7 @@
         "company_name": "Chicago Trading Company",
         "id": "37f9b264-0f7c-498f-a8f8-a3f17bc434c0",
         "title": "Software Engineer Internship - Summer 2025 - New York",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -92767,7 +92767,7 @@
         "company_name": "Chicago Trading Company",
         "id": "99d2e5dc-1b16-4a09-95e0-bace562a80a0",
         "title": "Quant Trading Associate Internship - Summer 2025 - London",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -92786,7 +92786,7 @@
         "company_name": "Chicago Trading Company",
         "id": "c4a49da7-88a9-4943-a484-e284bcd64301",
         "title": "Quant Trading Associate Internship - Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -96061,7 +96061,7 @@
         "company_name": "Dev Technology Group",
         "id": "5bdff058-4a4b-4c2d-b45a-5875789e04db",
         "title": "Summer Servicenow Application Developer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -96080,7 +96080,7 @@
         "company_name": "Dev Technology Group",
         "id": "51f69fa4-d93b-440c-8b44-505066e242e3",
         "title": "Summer Java Application Developer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -96099,7 +96099,7 @@
         "company_name": "Dev Technology Group",
         "id": "a1566eec-cf5f-40ec-9b2b-9d48f855ca46",
         "title": "Summer React/Node Application Developer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -96195,7 +96195,7 @@
         "company_name": "Dev Technology Group",
         "id": "26652ed4-7caa-46ad-81f7-af24cd2af336",
         "title": "Summer M365/Power Platform Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -96470,7 +96470,7 @@
         "company_name": "Dev Technology Group",
         "id": "bde2eed1-2719-4a13-938e-6a527bc5af75",
         "title": "Summer AI/ML Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -98233,6 +98233,141 @@
             "Cary, IL"
         ],
         "company_url": "https://simplify.jobs/c/Stryker",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Stryker",
+        "id": "3d7dc036-7b3d-4ed2-b20f-77b50b5e21a1",
+        "title": "2025 Summer Intern - Data Engineering - California",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1725666341,
+        "date_posted": 1725666341,
+        "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/San-Jose-California/XMLNAME-2025-Summer-Intern---Data-Engineering---California_R527423",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Stryker",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Santander",
+        "id": "09895717-9451-49bc-837c-40d83f56e83e",
+        "title": "Technology Intern - Chief Data Office",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1725666166,
+        "date_posted": 1725666166,
+        "url": "https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Dorchester/Technology-Intern--Chief-Data-Office_Req1363712-2",
+        "locations": [
+            "Quincy, MA",
+            "Dorchester, Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Santander",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Aigen",
+        "id": "0f444ac3-e644-444a-a08a-28646986cf2d",
+        "title": "Field Robot Operator \u2013 Summer Interns 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1725666098,
+        "date_posted": 1725666098,
+        "url": "https://jobs.lever.co/aigen/d4d276f8-f8ae-49c0-89f4-be12ed676ab4/apply",
+        "locations": [
+            "Fargo, ND"
+        ],
+        "company_url": "https://simplify.jobs/c/Aigen",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Okta",
+        "id": "a1a82ac3-0bc1-4466-aab1-a5eee4fccc3c",
+        "title": "Software Engineer Intern - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1725665907,
+        "date_posted": 1725665907,
+        "url": "https://www.okta.com/company/careers/opportunity/6233281?gh_jid=6233281",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Okta",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Picknik",
+        "id": "0f704521-8611-4fb3-a142-a2e3d5b1f2cd",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1725665902,
+        "date_posted": 1725665902,
+        "url": "https://picknik.ai/job/?gh_jid=6108832003",
+        "locations": [
+            "Boulder, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/6679356e-edc4-4405-9b14-7a99164652af",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Okta",
+        "id": "aeda015e-a11a-414e-8a24-2d25212cda8f",
+        "title": "Machine Learning Engineer Intern - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1725665886,
+        "date_posted": 1725665886,
+        "url": "https://www.okta.com/company/careers/opportunity/6202021?gh_jid=6202021",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Okta",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Truveta",
+        "id": "5e780f52-a437-4de3-b1b9-d5a4c143a365",
+        "title": "Undergrad Software Engineering Intern - Service Quality",
+        "active": true,
+        "terms": [
+            "Spring 2024",
+            "Fall 2024"
+        ],
+        "date_updated": 1725665429,
+        "date_posted": 1725665429,
+        "url": "https://job-boards.greenhouse.io/truveta/jobs/5306101004",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Truveta",
         "is_visible": true,
         "sponsorship": "Other"
     }
