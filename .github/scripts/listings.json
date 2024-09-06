@@ -96061,7 +96061,7 @@
         "company_name": "Dev Technology Group",
         "id": "5bdff058-4a4b-4c2d-b45a-5875789e04db",
         "title": "Summer Servicenow Application Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -96195,7 +96195,7 @@
         "company_name": "Dev Technology Group",
         "id": "26652ed4-7caa-46ad-81f7-af24cd2af336",
         "title": "Summer M365/Power Platform Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -98172,6 +98172,44 @@
         "date_updated": 1725652370,
         "date_posted": 1725652370,
         "url": "https://jobs.lever.co/wealthsimple/1d39e81a-bcfa-425a-a330-a15c0fcb3446/apply",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Wealthsimple",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Santander",
+        "id": "849851a5-18f9-41e5-af56-94882510ee04",
+        "title": "Finance and Data Analysis Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1725654485,
+        "date_posted": 1725654485,
+        "url": "https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Boston/Finance-and-Data-Analysis-Intern_Req1363520-1",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Santander",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Wealthsimple",
+        "id": "827b6bc1-630d-4152-a066-454d3b7bbe47",
+        "title": "Intern \u2013 Software Development - Winter 2025",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1725654301,
+        "date_posted": 1725654301,
+        "url": "https://jobs.lever.co/wealthsimple/a1b94931-2fa0-4bde-bd6f-f6bcdb4cbfca/apply",
         "locations": [
             "Remote in USA"
         ],
