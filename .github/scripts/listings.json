@@ -92767,7 +92767,7 @@
         "company_name": "Chicago Trading Company",
         "id": "99d2e5dc-1b16-4a09-95e0-bace562a80a0",
         "title": "Quant Trading Associate Internship - Summer 2025 - London",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -98078,6 +98078,85 @@
             "Toronto, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Lyft",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Leidos",
+        "id": "5e667339-e653-40f1-9b3b-50e34cd77e74",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1725651703,
+        "date_posted": 1725651703,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Software-Engineer-Intern_R-00143150",
+        "locations": [
+            "Maryland",
+            "Illinois"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Leidos",
+        "id": "f18dd843-d90e-4557-abdc-c7a6938f327a",
+        "title": "Data Engineer/Analyst Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1725651707,
+        "date_posted": 1725651707,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Shiloh-IL/Data-Engineer-Analyst-Intern_R-00143154",
+        "locations": [
+            "O'Fallon, IL",
+            "Illinois"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Leidos",
+        "id": "a15487ea-5f80-46f1-a4ba-1693c8b87b9a",
+        "title": "Network Engineering/Software Development Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1725651700,
+        "date_posted": 1725651700,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Shiloh-IL/Network-Engineering-Software-Development-Intern_R-00143151-1",
+        "locations": [
+            "O'Fallon, IL",
+            "Illinois"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "CoVar",
+        "id": "87b9fcde-0dc8-4fed-88bc-ba8a41970d84",
+        "title": "Machine Learning Internship - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1725651588,
+        "date_posted": 1725651588,
+        "url": "https://job-boards.greenhouse.io/covar/jobs/4500169007",
+        "locations": [
+            "Durham, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/CoVar",
         "is_visible": true,
         "sponsorship": "Other"
     }
