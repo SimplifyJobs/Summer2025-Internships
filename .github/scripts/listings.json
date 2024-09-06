@@ -97680,5 +97680,81 @@
         "company_url": "https://simplify.jobs/c/Genesis-Thera",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Appian",
+        "id": "45274461-7c5c-446d-9a28-a9510ec349c5",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1725580728,
+        "date_posted": 1725580728,
+        "url": "https://boards.greenhouse.io/appian/jobs/6236838",
+        "locations": [
+            "McLean, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Appian",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Groq",
+        "id": "c26cd0b6-0a60-4dcf-94a3-d061534ef3a3",
+        "title": "Winter Internship Opportunities",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1725580257,
+        "date_posted": 1725580257,
+        "url": "https://groq.com/careers?gh_jid=6107171003",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Groq",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Epic Games",
+        "id": "173e760d-9ece-465f-bbe7-81067363a494",
+        "title": "Engine Programmer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1725566046,
+        "date_posted": 1725566046,
+        "url": "https://job-boards.greenhouse.io/epicgames/jobs/5285492004",
+        "locations": [
+            "Morrisville, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Epic-Games",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Snowflake",
+        "id": "743ad175-e435-430b-8cd1-0b09d8e6b054",
+        "title": "Software Engineer Intern - Pey",
+        "active": true,
+        "terms": [
+            "Spring 2025"
+        ],
+        "date_updated": 1725047033,
+        "date_posted": 1725047033,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=7618740002",
+        "locations": [
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Snowflake",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
