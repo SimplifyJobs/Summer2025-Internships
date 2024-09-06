@@ -97852,5 +97852,24 @@
         "date_posted": 1725593701,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Blue Origin",
+        "id": "b213b26e-2419-47e4-a508-54c1fd96964c",
+        "title": "Summer 2025 Honeybee Robotics Software Engineering Intern - Undergraduate",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1725594287,
+        "date_posted": 1725594287,
+        "url": "https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Los-Angeles-CA/Summer-2025-Honeybee-Robotics-Software-Engineering-Intern---Undergraduate_R46845",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Blue-Origin",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
