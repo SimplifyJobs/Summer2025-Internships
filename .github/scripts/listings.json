@@ -97833,5 +97833,24 @@
         "date_posted": 1725593668,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725593701,
+        "url": "https://grnh.se/9a5dd53e1us",
+        "company_name": "Stevens Capital Management LP",
+        "title": "Developer Intern",
+        "locations": [
+            "Radnor, PA"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "insikizi23",
+        "id": "4f119462-71fa-4165-ba58-fa617e051552",
+        "date_posted": 1725593701,
+        "company_url": "",
+        "is_visible": true
     }
 ]
