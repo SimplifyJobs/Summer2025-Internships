@@ -97890,5 +97890,24 @@
         "date_posted": 1725598837,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725631617,
+        "url": "https://careers.ibm.com/job/20978143/software-developer-intern-2025-remote/",
+        "company_name": "IBM",
+        "title": "Software Developer Intern",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "GaryZhous",
+        "id": "f9259b9f-cfe5-4b75-81bb-56938d58cd20",
+        "date_posted": 1725631617,
+        "company_url": "",
+        "is_visible": true
     }
 ]
