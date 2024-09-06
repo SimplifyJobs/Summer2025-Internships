@@ -97814,5 +97814,24 @@
         "company_url": "https://simplify.jobs/c/Earnin",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1725593668,
+        "url": "https://grnh.se/6ece2b6e1us",
+        "company_name": "Stevens Capital Management LP",
+        "title": "Quant Intern",
+        "locations": [
+            "Radnor, PA"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "insikizi23",
+        "id": "1bce2c48-9490-45da-b757-068bed8627bc",
+        "date_posted": 1725593668,
+        "company_url": "",
+        "is_visible": true
     }
 ]
