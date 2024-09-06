@@ -97966,5 +97966,24 @@
         "company_url": "https://simplify.jobs/c/CACI",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Accenture Federal Services",
+        "id": "25c82e99-58da-4061-aaca-d5691a205c9d",
+        "title": "Technology Development Internship Program",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1725637574,
+        "date_posted": 1725637574,
+        "url": "https://boards.greenhouse.io/accenturefederalservices/jobs/4400728006",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/AccentureFederalServices",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
