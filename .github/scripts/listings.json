@@ -95286,7 +95286,7 @@
         "company_name": "Tanium",
         "id": "d6a612b3-407d-4677-ade9-05ab454c80cf",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
