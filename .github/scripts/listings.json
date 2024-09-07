@@ -98389,5 +98389,24 @@
         "date_posted": 1725673173,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725735422,
+        "url": "https://jobs.spectrum.com/job/-/-/4673/69642849232",
+        "company_name": "Spectrum",
+        "title": "2025 Summer Intern: Software Engineer",
+        "locations": [
+            "Maryland Heights, MO"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "GaryZhous",
+        "id": "65c9cc6a-6fd7-49ac-8321-cf8f385b9e40",
+        "date_posted": 1725735422,
+        "company_url": "",
+        "is_visible": true
     }
 ]
