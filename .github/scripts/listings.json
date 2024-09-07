@@ -98370,5 +98370,24 @@
         "company_url": "https://simplify.jobs/c/Truveta",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1725673173,
+        "url": "https://careers.united.com/us/en/job/WHQ00024020/Intern-Digital-technology-Summer-2025",
+        "company_name": "United Airlines",
+        "title": "Digital Technology Intern",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "JohnathanLiu34",
+        "id": "32890b6e-e485-4a79-9c6b-95793c2b843e",
+        "date_posted": 1725673173,
+        "company_url": "",
+        "is_visible": true
     }
 ]
