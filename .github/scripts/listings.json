@@ -97041,7 +97041,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1725492795,
+        "date_updated": 1725836714,
         "url": "https://careers-iridium.icims.com/jobs/4049/intern%2c-software-development/job?mode=submit_apply&ref=Simplify&src=Simplify",
         "company_name": "Iridium",
         "title": "Software Development Intern",
@@ -97051,8 +97051,8 @@
         "terms": [
             "Summer 2025"
         ],
-        "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "LuaanNguyen",
         "id": "26260f1e-4576-47aa-8951-883c5b370653",
         "date_posted": 1725492795,
