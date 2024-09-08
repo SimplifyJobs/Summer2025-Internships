@@ -98409,5 +98409,24 @@
         "date_posted": 1725735422,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "VAST",
+        "id": "b40a2735-de02-4583-93af-a549cc192f0f",
+        "title": "Summer 2025 Internship - Software Engineering",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1725837055,
+        "date_posted": 1725837055,
+        "url": "https://boards.greenhouse.io/vast/jobs/4401100006",
+        "locations": [
+            "Long Beach, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/VastSpace",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
