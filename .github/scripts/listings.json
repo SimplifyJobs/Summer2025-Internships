@@ -97801,7 +97801,7 @@
         "company_name": "EarnIn",
         "id": "35dbb9db-a889-4211-8e9d-234ff8db2483",
         "title": "Machine Learning Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
