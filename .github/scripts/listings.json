@@ -98527,5 +98527,24 @@
         "company_url": "https://simplify.jobs/c/Wellmark",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Wayfair",
+        "id": "36fa73df-2fde-4bb6-b023-c7defc3c141b",
+        "title": "Software Engineering Intern - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1725909497,
+        "date_posted": 1725909497,
+        "url": "https://www.wayfair.com/careers/jobs/7630459002?gh_jid=7630459002",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Wayfair",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
