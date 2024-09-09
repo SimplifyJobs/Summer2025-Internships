@@ -99016,5 +99016,24 @@
         "date_posted": 1725926105,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725926142,
+        "url": "https://bostonscientific.eightfold.ai/careers/job/563602797229955?domain=bostonscientific.com",
+        "company_name": "Boston Scientific",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "Maple Grove, MN"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "LuaanNguyen",
+        "id": "2db1dbb9-218f-490f-b352-16ddb546a210",
+        "date_posted": 1725926142,
+        "company_url": "",
+        "is_visible": true
     }
 ]
