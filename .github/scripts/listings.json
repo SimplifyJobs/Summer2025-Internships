@@ -98689,7 +98689,7 @@
         "company_name": "Chime",
         "id": "0b16d322-277e-4285-9dd7-b3dab8e42f37",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -98815,6 +98815,64 @@
             "Morrisville, NC"
         ],
         "company_url": "https://simplify.jobs/c/Epic-Games",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "ManTech",
+        "id": "06320da5-f061-4527-8bca-7d56b7208406",
+        "title": "Dod Skillbridge CNO Developer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1725923672,
+        "date_posted": 1725923672,
+        "url": "https://mantech.wd1.myworkdayjobs.com/en-US/External/job/USA-MD-Hanover/DoD-SkillBridge-CNO-Developer-Fellow_R51227",
+        "locations": [
+            "San Antonio, TX",
+            "Hanover, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/c6651565-44c8-4050-8412-111c54942390",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "ManTech",
+        "id": "538d34f6-fe0a-4fb9-a88b-1f2b9331688d",
+        "title": "Dod Skillbridge Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1725923667,
+        "date_posted": 1725923667,
+        "url": "https://mantech.wd1.myworkdayjobs.com/en-US/External/job/USA-VA-Herndon/Software-Engineering-SkillBridge-Fellow_R50810",
+        "locations": [
+            "Reston, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/c6651565-44c8-4050-8412-111c54942390",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Marvell",
+        "id": "e14a6592-4123-4e9c-85bf-eba6ed1a8f5a",
+        "title": "Firmware Engineer Intern - Bachelors",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1725923258,
+        "date_posted": 1725923258,
+        "url": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers2/job/Westlake-Village-CA/Firmware-Engineer-Intern---Bachelors_2401849",
+        "locations": [
+            "Westlake Village, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/80961b05-9ed3-462d-aef9-4b418c7fb796",
         "is_visible": true,
         "sponsorship": "Other"
     }
