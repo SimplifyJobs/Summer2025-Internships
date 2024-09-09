@@ -92324,7 +92324,7 @@
         "company_name": "CACI",
         "id": "6814e858-9b31-4794-af25-682817c62cd5",
         "title": "Software Engineering Intern - Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -98487,5 +98487,24 @@
         "date_posted": 1725896709,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Grammarly",
+        "id": "c651243d-5389-4864-98e9-b14b4ebda2a5",
+        "title": "Software Engineering Intern - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1725897602,
+        "date_posted": 1725897602,
+        "url": "https://job-boards.greenhouse.io/grammarly/jobs/6232386",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Grammarly",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
