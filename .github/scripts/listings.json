@@ -98428,5 +98428,24 @@
         "company_url": "https://simplify.jobs/c/VastSpace",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1725852849,
+        "url": "https://salesforce.wd12.myworkdayjobs.com/Slack/job/California---San-Francisco/Summer-2025-Intern---Software-Engineer_JR262842-3",
+        "company_name": "Slack",
+        "title": "SWE Intern",
+        "locations": [
+            "Multiple"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "omavashia2005",
+        "id": "d5c7df2c-f7b5-4e5b-bf29-7135e03ad612",
+        "date_posted": 1725852849,
+        "company_url": "",
+        "is_visible": true
     }
 ]
