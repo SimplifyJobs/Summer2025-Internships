@@ -96195,7 +96195,7 @@
         "company_name": "Dev Technology Group",
         "id": "26652ed4-7caa-46ad-81f7-af24cd2af336",
         "title": "Summer M365/Power Platform Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -98739,6 +98739,82 @@
             "Austin, TX"
         ],
         "company_url": "https://simplify.jobs/c/CACI",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "MarketAxess",
+        "id": "1023b0c6-218f-45a0-a557-bdd32b69a6c3",
+        "title": "Software Engineering Intern 2025",
+        "active": true,
+        "terms": [
+            "Spring 2024"
+        ],
+        "date_updated": 1725912365,
+        "date_posted": 1725912365,
+        "url": "https://www.marketaxess.com/careers/current-openings/detail/jobs/4400248006?gh_jid=4400248006",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/MarketAxess",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Persona",
+        "id": "dc2c8422-a682-4007-a7ef-2863f0468c37",
+        "title": "Software Engineer \u2013 Intern - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1725912236,
+        "date_posted": 1725912236,
+        "url": "https://jobs.lever.co/persona/8f0a4284-8cf9-4904-b5b7-c4845199b7db/apply",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Persona",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Motorola",
+        "id": "a2f60cbc-f893-4e01-8117-02e2aada45ab",
+        "title": "Software Engineering Intern - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1725912151,
+        "date_posted": 1725912151,
+        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/Software-Engineering-Intern---Summer-2025_R49599",
+        "locations": [
+            "Plantation, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/MotorolaSolutions",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Epic Games",
+        "id": "fc20b50e-c7c7-44e6-8b6c-2c8e5959900f",
+        "title": "Engine Programmer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1725912115,
+        "date_posted": 1725912115,
+        "url": "https://job-boards.greenhouse.io/epicgames/jobs/5285474004",
+        "locations": [
+            "Morrisville, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Epic-Games",
         "is_visible": true,
         "sponsorship": "Other"
     }
