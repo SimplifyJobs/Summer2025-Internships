@@ -59,6 +59,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Ansys | Summer 2025 Intern - Software Development - Release (Bachelors) | Canonsburg, PA | <a href="https://careers.ansys.com/job/Canonsburg-Summer-2025-Intern-Software-Development-Release-%28Bachelors%29-PA-15317/1209826700/?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 09 |
 | **[VAST](https://simplify.jobs/c/VastSpace)** | Summer 2025 Internship - Software Engineering | Long Beach, CA | <a href="https://boards.greenhouse.io/vast/jobs/4401100006?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/b40a2735-de02-4583-93af-a549cc192f0f?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Sep 08 |
 | Slack | SWE Intern | Multiple | <a href="https://salesforce.wd12.myworkdayjobs.com/Slack/job/California---San-Francisco/Summer-2025-Intern---Software-Engineer_JR262842-3?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 08 |
 | Spectrum | 2025 Summer Intern: Software Engineer 🛂 | Maryland Heights, MO | <a href="https://jobs.spectrum.com/job/-/-/4673/69642849232?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 07 |

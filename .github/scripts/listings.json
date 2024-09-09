@@ -98447,5 +98447,24 @@
         "date_posted": 1725852849,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725895673,
+        "url": "https://careers.ansys.com/job/Canonsburg-Summer-2025-Intern-Software-Development-Release-%28Bachelors%29-PA-15317/1209826700/",
+        "company_name": "Ansys",
+        "title": "Summer 2025 Intern - Software Development - Release (Bachelors)",
+        "locations": [
+            "Canonsburg, PA"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "GaryZhous",
+        "id": "f1109112-025b-4734-bd5f-7580c1d87432",
+        "date_posted": 1725895673,
+        "company_url": "",
+        "is_visible": true
     }
 ]
