@@ -95453,7 +95453,7 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1725075359,
+        "date_updated": 1725852804,
         "url": "https://www.amazon.jobs/en/jobs/2750122/amazon-robotics-software-development-engineer-sde-intern-summer-2025",
         "company_name": "Amazon",
         "title": "Amazon Robotics - Software Development Engineer (SDE) Intern",
@@ -95464,8 +95464,8 @@
         "terms": [
             "Summer 2025"
         ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "Ziqi-M",
         "id": "803e4a6d-e082-472d-825a-d2f46dffb243",
         "date_posted": 1725075359,
