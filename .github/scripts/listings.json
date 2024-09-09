@@ -56462,7 +56462,7 @@
         "company_name": "Openmesh Networks",
         "id": "39d7af33-a8a2-4cc5-8240-9e96bbfbad1f",
         "title": "Bachelor\u2019s in Software Engineering Internship - Engineering Honors",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -56500,7 +56500,7 @@
         "company_name": "Openmesh Networks",
         "id": "036eeff8-4d34-40de-946b-dab69c1a4f7c",
         "title": "Junior Developer in Consensus Algorithms Intern - Blockchain Consensus and Development",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -68265,7 +68265,7 @@
         "company_name": "Openmesh Networks",
         "id": "c2c22626-48f3-4e15-b2ee-c68140ab1da7",
         "title": "Bachelor\u2019s in Advanced Computing Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -83634,7 +83634,7 @@
         "company_name": "Openmesh Networks",
         "id": "b06010da-39aa-482f-8984-fb0db580a6be",
         "title": "Junior Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -86665,7 +86665,7 @@
         "company_name": "Radix Trading",
         "id": "948bfd49-4a78-4839-a813-b864222db13a",
         "title": "Quantitative Technologist \u2013 C++ Intern - Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -97178,7 +97178,7 @@
         "company_name": "Openmesh Networks",
         "id": "6604aa9a-7b7f-4e48-89bb-415b3cd500f5",
         "title": "Mathematician Intern - Quantitative Analysis and Problem-Solving",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -97197,7 +97197,7 @@
         "company_name": "Openmesh Networks",
         "id": "e6d74d97-da13-4b88-b29c-8ca7f87c3c54",
         "title": "Networking Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -98873,6 +98873,69 @@
             "Westlake Village, CA"
         ],
         "company_url": "https://simplify.jobs/c/80961b05-9ed3-462d-aef9-4b418c7fb796",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Symbotic",
+        "id": "fd3ffc08-9601-4315-9947-0eeb41ace8d9",
+        "title": "Intern \u2013 Routing",
+        "active": true,
+        "terms": [
+            "Summer 2024",
+            "Spring 2025",
+            "Fall 2025"
+        ],
+        "date_updated": 1725924140,
+        "date_posted": 1725924140,
+        "url": "https://symbotic.wd1.myworkdayjobs.com/en-US/Symbotic/job/USA-Wilmington--MA---HQ/Intern---Routing_R3934",
+        "locations": [
+            "Burlington, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/symbotic",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Symbotic",
+        "id": "f0322943-ec96-4ae5-975d-d16889067179",
+        "title": "Intern \u2013 Front End Software Engineer",
+        "active": true,
+        "terms": [
+            "Summer 2024",
+            "Spring 2025",
+            "Fall 2025"
+        ],
+        "date_updated": 1725924133,
+        "date_posted": 1725924133,
+        "url": "https://symbotic.wd1.myworkdayjobs.com/en-US/Symbotic/job/USA-Wilmington--MA---HQ/Intern---Front-End-Software-Engineer_R3927",
+        "locations": [
+            "Burlington, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/symbotic",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Symbotic",
+        "id": "e07bd8f5-b3c5-4838-863c-5f631eb21099",
+        "title": "Intern \u2013 Back End Software Engineer",
+        "active": true,
+        "terms": [
+            "Summer 2024",
+            "Spring 2025",
+            "Fall 2025"
+        ],
+        "date_updated": 1725924129,
+        "date_posted": 1725924129,
+        "url": "https://symbotic.wd1.myworkdayjobs.com/en-US/Symbotic/job/USA-Wilmington--MA---HQ/Intern---Back-End-Software-Engineer_R3928",
+        "locations": [
+            "Burlington, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/symbotic",
         "is_visible": true,
         "sponsorship": "Other"
     }
