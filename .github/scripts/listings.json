@@ -98466,5 +98466,26 @@
         "date_posted": 1725895673,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725896709,
+        "url": "https://careers.travelers.com/job/20959829/engineering-development-program-edp-intern-hartford-ct/",
+        "company_name": "Travelers Insurance",
+        "title": "EDP Intern (Software, Data, Cloud Platform)",
+        "locations": [
+            "Hartford CT",
+            "St. Paul MN",
+            "Atlanta, GA"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "A-K-Erol",
+        "id": "51d6a678-dc7c-46a1-9a09-ba1c5162dfb9",
+        "date_posted": 1725896709,
+        "company_url": "",
+        "is_visible": true
     }
 ]
