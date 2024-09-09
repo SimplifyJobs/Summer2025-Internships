@@ -89074,7 +89074,7 @@
         "company_name": "Sanctuary AI",
         "id": "fe0b5eea-9fcf-4645-9010-41923cd7dddd",
         "title": "Software Co-op: Machine Learning Operations - Fall 2024",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2024"
         ],
@@ -96061,7 +96061,7 @@
         "company_name": "Dev Technology Group",
         "id": "5bdff058-4a4b-4c2d-b45a-5875789e04db",
         "title": "Summer Servicenow Application Developer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -96080,7 +96080,7 @@
         "company_name": "Dev Technology Group",
         "id": "51f69fa4-d93b-440c-8b44-505066e242e3",
         "title": "Summer Java Application Developer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -96099,7 +96099,7 @@
         "company_name": "Dev Technology Group",
         "id": "a1566eec-cf5f-40ec-9b2b-9d48f855ca46",
         "title": "Summer React/Node Application Developer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -96195,7 +96195,7 @@
         "company_name": "Dev Technology Group",
         "id": "26652ed4-7caa-46ad-81f7-af24cd2af336",
         "title": "Summer M365/Power Platform Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -96470,7 +96470,7 @@
         "company_name": "Dev Technology Group",
         "id": "bde2eed1-2719-4a13-938e-6a527bc5af75",
         "title": "Summer AI/ML Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -98563,6 +98563,182 @@
             "Raleigh, NC"
         ],
         "company_url": "https://simplify.jobs/c/Lucid",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Plotly",
+        "id": "218790fa-9b6f-4eb8-a1f8-bd1927ae7773",
+        "title": "Software Engineering Intern - 2025 Winter - 8 Months",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1725911969,
+        "date_posted": 1725911969,
+        "url": "https://boards.greenhouse.io/plotly/jobs/7630263002",
+        "locations": [
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Plotly",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Allegion",
+        "id": "cd0e404c-c82a-44f0-8f78-e9c6b67ba5f4",
+        "title": "Software Engineering Intern - Devops",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1725911860,
+        "date_posted": 1725911860,
+        "url": "https://allegion.wd5.myworkdayjobs.com/careers/job/Golden-CO/Software-Engineering-Intern--DevOps-_JR30457-1",
+        "locations": [
+            "Remote in USA",
+            "Golden, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/allegion",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Gilead Sciences",
+        "id": "9b5c6547-c9d5-47ca-8c90-7d516538e284",
+        "title": "Intern \u2013 IT - Software Engineer",
+        "active": true,
+        "terms": [
+            "Spring 2024",
+            "Summer 2024"
+        ],
+        "date_updated": 1725911768,
+        "date_posted": 1725911768,
+        "url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---North-Carolina---Raleigh/Intern---IT--Software-Engineer_R0042297",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Gilead-Sciences",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Gilead Sciences",
+        "id": "d368fa90-fb74-4fe4-8fe1-ec9b82af6576",
+        "title": "Intern \u2013 Programming Data Analyst - Pharmacometrics",
+        "active": true,
+        "terms": [
+            "Spring 2024",
+            "Summer 2024"
+        ],
+        "date_updated": 1725911766,
+        "date_posted": 1725911766,
+        "url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---Programming-Data-Analyst--Pharmacometrics_R0042351",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Gilead-Sciences",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Tessera Therapeutics",
+        "id": "d0c61c83-f979-43a1-9b1f-d4de0e6e8bc0",
+        "title": "Co-op \u2013 Data Engineer",
+        "active": true,
+        "terms": [
+            "Winter 2025",
+            "Summer 2025"
+        ],
+        "date_updated": 1725911670,
+        "date_posted": 1725911670,
+        "url": "https://job-boards.greenhouse.io/tesseratherapeutics/jobs/4503885007",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/TesseraTx",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Lucid Motors",
+        "id": "887e0e86-0015-4b92-8c35-c6bac3867398",
+        "title": "Intern \u2013 Battery Cell Engineer - Data Science - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1725911572,
+        "date_posted": 1725911572,
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/4470564007",
+        "locations": [
+            "Newark, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Lucid-Motors",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Chime",
+        "id": "0b16d322-277e-4285-9dd7-b3dab8e42f37",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1725911445,
+        "date_posted": 1725911445,
+        "url": "https://boards.greenhouse.io/chime/jobs/7629595002",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Chime",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "CACI",
+        "id": "28902964-2b71-4a1c-9835-1c5fef3dd312",
+        "title": "Software Engineering Intern - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1725911396,
+        "date_posted": 1725911396,
+        "url": "https://caci.wd1.myworkdayjobs.com/External/job/US-VA-Herndon/Software-Engineering-Intern---Summer-2025_301565-1",
+        "locations": [
+            "Oxnard, CA",
+            "Reston, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/CACI",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "CACI",
+        "id": "f61af6ad-1835-420b-8c70-f6abc7acae44",
+        "title": "Software Test Engineering Intern - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1725911396,
+        "date_posted": 1725911396,
+        "url": "https://caci.wd1.myworkdayjobs.com/External/job/US-TX-Austin/Software-Test-Engineering-Internship---Summer-2025_301417-1",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/CACI",
         "is_visible": true,
         "sponsorship": "Other"
     }
