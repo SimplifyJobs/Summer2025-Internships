@@ -98430,17 +98430,24 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1725852849,
+        "date_updated": 1725982670,
         "url": "https://salesforce.wd12.myworkdayjobs.com/Slack/job/California---San-Francisco/Summer-2025-Intern---Software-Engineer_JR262842-3",
         "company_name": "Slack",
         "title": "SWE Intern",
         "locations": [
-            "Multiple"
+            "SF, CA",
+            "Boston, MA",
+            "Seattle, WA",
+            "Burlington, MA",
+            "Bellevue, WA",
+            "Dallas, TX",
+            "Atlanta, GA",
+            "Indianapolis, IN"
         ],
         "terms": [
             "Summer 2025"
         ],
-        "sponsorship": "Offers Sponsorship",
+        "sponsorship": "Other",
         "active": true,
         "source": "omavashia2005",
         "id": "d5c7df2c-f7b5-4e5b-bf29-7135e03ad612",
