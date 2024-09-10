@@ -100525,5 +100525,62 @@
         "company_url": "https://simplify.jobs/c/Chamberlain-Group",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "ICF",
+        "id": "02cf2ccd-3aa8-46e6-8bab-669404351ee0",
+        "title": "2025 Summer Intern - Data Analyst - Bachelors; Remote or Hybrid from Reston - VA",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1726010197,
+        "date_posted": 1726010197,
+        "url": "https://icf.wd5.myworkdayjobs.com/en-US/ICFExternal_Career_Site/job/Reston-VA/XMLNAME-2025-Summer-Intern--Data-Analyst--Bachelors--Remote-or-Hybrid-from-Reston--VA-_R2403479",
+        "locations": [
+            "Reston, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/750f50d0-c3f8-4334-822f-fb70fa81b529",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "PatientPoint",
+        "id": "cfbf4f38-d230-4aac-b7b1-ed021cfbbb23",
+        "title": "Data and Analytics Summer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1726010163,
+        "date_posted": 1726010163,
+        "url": "https://job-boards.greenhouse.io/patientpoint/jobs/4470974005",
+        "locations": [
+            "Cincinnati, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/PatientPoint",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Vermeer",
+        "id": "bfd581a8-efe5-42f4-b402-c58225c2d737",
+        "title": "Embedded Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1726010142,
+        "date_posted": 1726010142,
+        "url": "https://vermeer.wd5.myworkdayjobs.com/en-US/externalcareersite/job/Ames-Iowa-USA/Embedded-Software-Engineer-Intern_REQ-18664",
+        "locations": [
+            "Ames, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/9ff05b27-3c7e-4c70-82e2-d3bfb40bb992",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
