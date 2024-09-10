@@ -99534,5 +99534,25 @@
         "company_url": "https://simplify.jobs/c/MarketAxess",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "ManTech",
+        "id": "e15cf92b-83b8-4ced-ad3f-97c3ccc20393",
+        "title": "Dod Skillbridge CNO Developer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1725923672,
+        "date_posted": 1725923672,
+        "url": "https://mantech.wd1.myworkdayjobs.com/en-US/External/job/USA-MD-Hanover/DoD-SkillBridge-CNO-Software-Developer-Fellow_R51228",
+        "locations": [
+            "San Antonio, TX",
+            "Hanover, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/c6651565-44c8-4050-8412-111c54942390",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
