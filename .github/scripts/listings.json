@@ -100372,5 +100372,26 @@
         "company_url": "https://simplify.jobs/c/f4ca773e-168e-4f3d-bc3d-e0cc32345fc6",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "TransUnion",
+        "id": "0f57eaf4-e63d-46bc-892c-5c5ce2e81011",
+        "title": "Data Science Internship 2025",
+        "active": true,
+        "terms": [
+            "Spring 2025",
+            "Summer 2025"
+        ],
+        "date_updated": 1725997149,
+        "date_posted": 1725997149,
+        "url": "https://transunion.wd5.myworkdayjobs.com/en-US/TransUnion/job/Chicago-Illinois/Data-Science-Internship-2025_19031639",
+        "locations": [
+            "Chicago, IL",
+            "Alpharetta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/00cf2cf8-458d-4e49-8d00-a1a897d7294a",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
