@@ -92729,7 +92729,7 @@
         "company_name": "Chicago Trading Company",
         "id": "37f9b264-0f7c-498f-a8f8-a3f17bc434c0",
         "title": "Software Engineer Internship - Summer 2025 - New York",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -92786,7 +92786,7 @@
         "company_name": "Chicago Trading Company",
         "id": "c4a49da7-88a9-4943-a484-e284bcd64301",
         "title": "Quant Trading Associate Internship - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -95577,7 +95577,7 @@
         "company_name": "84.51 Degrees",
         "id": "483c3c62-9171-4405-8ef6-52f02391afcc",
         "title": "Software Engineer \u2013 Co-op Program - Spring 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025"
         ],
