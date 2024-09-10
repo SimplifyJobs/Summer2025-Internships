@@ -92748,7 +92748,7 @@
         "company_name": "Chicago Trading Company",
         "id": "be0b643c-7e67-46db-ba2f-187ee3617805",
         "title": "Software Engineer Internship - Summer 2025 - Chicago",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -99431,7 +99431,7 @@
         "company_name": "Relativity Space",
         "id": "1097f6c6-8757-4cae-9291-13f827004121",
         "title": "Software Engineer Intern - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -100391,6 +100391,25 @@
             "Alpharetta, GA"
         ],
         "company_url": "https://simplify.jobs/c/00cf2cf8-458d-4e49-8d00-a1a897d7294a",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Vermeer",
+        "id": "c5a844fd-55d1-4f96-8cc0-e05154cca470",
+        "title": "Standard Repair Time Analyst Intern - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1725927250,
+        "date_posted": 1725927250,
+        "url": "https://vermeer.wd5.myworkdayjobs.com/en-US/externalcareersite/job/Pella-Iowa-USA---Global-Parts-Distribution-Center-Front-Office/Standard-Repair-Time-Analyst-Intern_REQ-18665",
+        "locations": [
+            "Newton, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/9ff05b27-3c7e-4c70-82e2-d3bfb40bb992",
         "is_visible": true,
         "sponsorship": "Other"
     }
