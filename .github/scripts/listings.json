@@ -99726,5 +99726,27 @@
         "company_url": "https://simplify.jobs/c/Lucid-Motors",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Rockwell Automation",
+        "id": "b2d5c22c-f5db-410e-a137-5a20561698c8",
+        "title": "Intern in Training Acceleration Program \u2013 Process Project Co-op - Lcs",
+        "active": true,
+        "terms": [
+            "Winter 2025",
+            "Summer 2025",
+            "Spring 2026"
+        ],
+        "date_updated": 1725953863,
+        "date_posted": 1725953863,
+        "url": "https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Intern-in-Training-Acceleration-Program--LCS---Process-Project-Co-op_R24-4731-1",
+        "locations": [
+            "Mayfield Heights, OH",
+            "Baton Rouge, LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Rockwell-Automation",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
