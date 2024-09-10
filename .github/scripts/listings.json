@@ -99707,5 +99707,24 @@
         "company_url": "https://simplify.jobs/c/Lucid-Motors",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Lucid Motors",
+        "id": "f8d0360a-d427-41b6-89f3-682ff2ea259a",
+        "title": "Intern \u2013 Embedded and Platform Software Engineer - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1725950847,
+        "date_posted": 1725950847,
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/4475740007",
+        "locations": [
+            "Newark, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Lucid-Motors",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
