@@ -96080,7 +96080,7 @@
         "company_name": "Dev Technology Group",
         "id": "51f69fa4-d93b-440c-8b44-505066e242e3",
         "title": "Summer Java Application Developer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -96099,7 +96099,7 @@
         "company_name": "Dev Technology Group",
         "id": "a1566eec-cf5f-40ec-9b2b-9d48f855ca46",
         "title": "Summer React/Node Application Developer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -99424,7 +99424,7 @@
         "company_name": "Relativity Space",
         "id": "1097f6c6-8757-4cae-9291-13f827004121",
         "title": "Software Engineer Intern - Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -99443,7 +99443,7 @@
         "company_name": "Relativity Space",
         "id": "794b3115-8814-4939-aa7c-04c7e699be09",
         "title": "Data Science & Simulation Intern - Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -99462,7 +99462,7 @@
         "company_name": "Relativity Space",
         "id": "c7b0af27-7a35-426a-b039-0e7599cdf4fb",
         "title": "Robotics Software Engineer Intern - Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -99588,6 +99588,102 @@
         "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/4469192007",
         "locations": [
             "Newark, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Lucid-Motors",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Gecko Robotics",
+        "id": "336bb4f4-afac-46c4-ac03-d60f7850edc4",
+        "title": "Embedded Software Engineer \u2013 Intern",
+        "active": true,
+        "terms": [
+            "Spring 2025",
+            "Summer 2025"
+        ],
+        "date_updated": 1725941430,
+        "date_posted": 1725941430,
+        "url": "https://jobs.ashbyhq.com/gecko-robotics/23c70fb7-0cf2-4d16-b081-aa2286f09c53/application",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Gecko-Robotics",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Lucid Motors",
+        "id": "b60a585c-f47e-44a7-8221-4d2fe709f57c",
+        "title": "Intern \u2013 Software Engineer - Supply Chain - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1725940577,
+        "date_posted": 1725940577,
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/4472018007",
+        "locations": [
+            "Newark, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Lucid-Motors",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Lucid Motors",
+        "id": "cae0844f-611c-41a2-9742-cb8b21f2f6b4",
+        "title": "Intern \u2013 Mobile Application Software Engineer - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1725940575,
+        "date_posted": 1725940575,
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/4469169007",
+        "locations": [
+            "Newark, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Lucid-Motors",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Lucid Motors",
+        "id": "892ccd26-edc3-4330-aea3-a5e2ebde0878",
+        "title": "Intern \u2013 Cloud Microservices Software Engineer - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1725940518,
+        "date_posted": 1725940518,
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/4469265007",
+        "locations": [
+            "Newark, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Lucid-Motors",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Lucid Motors",
+        "id": "089af1e3-9081-4a10-b881-4805aeee8898",
+        "title": "Intern \u2013 Embedded Software Engineer - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1725940516,
+        "date_posted": 1725940516,
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/4468123007",
+        "locations": [
+            "Seattle, WA"
         ],
         "company_url": "https://simplify.jobs/c/Lucid-Motors",
         "is_visible": true,
