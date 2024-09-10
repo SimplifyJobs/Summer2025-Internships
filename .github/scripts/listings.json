@@ -99515,5 +99515,24 @@
         "company_url": "https://simplify.jobs/c/Gecko-Robotics",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "MarketAxess",
+        "id": "3cdb8768-36d2-479e-8f33-7bd9d111a62e",
+        "title": "Data Software Engineering Intern 2025",
+        "active": true,
+        "terms": [
+            "Spring 2024"
+        ],
+        "date_updated": 1725912366,
+        "date_posted": 1725912366,
+        "url": "https://www.marketaxess.com/careers/current-openings/detail/jobs/4400274006?gh_jid=4400274006",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/MarketAxess",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
