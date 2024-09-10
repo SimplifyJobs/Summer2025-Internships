@@ -92786,7 +92786,7 @@
         "company_name": "Chicago Trading Company",
         "id": "c4a49da7-88a9-4943-a484-e284bcd64301",
         "title": "Quant Trading Associate Internship - Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -96432,7 +96432,7 @@
         "company_name": "Leidos",
         "id": "87d3c076-6325-4899-893f-727215cad757",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -99881,6 +99881,27 @@
             "Ottawa, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/0985b121-88fd-4402-aea9-c0c55bfbbc99",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Blockhouse",
+        "id": "10a8a534-fc93-49ad-a5c4-9f32964836c8",
+        "title": "Full Stack Developer Intern",
+        "active": true,
+        "terms": [
+            "Winter 2025",
+            "Spring 2025",
+            "Summer 2025"
+        ],
+        "date_updated": 1725967972,
+        "date_posted": 1725967972,
+        "url": "https://jobs.ashbyhq.com/blockhouse/b515de85-da97-48fd-b66d-a5c8fcf9d821/application",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/f3c7b41f-e7d9-4771-b0c7-f54003717b71",
         "is_visible": true,
         "sponsorship": "Other"
     }
