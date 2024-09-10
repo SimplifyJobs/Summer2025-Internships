@@ -18282,7 +18282,7 @@
         "company_name": "Perpay",
         "id": "9cbd92a5-bad6-41d7-b1ee-fb170ceb8a49",
         "title": "Software Engineering Internship - 2024",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -18320,7 +18320,7 @@
         "company_name": "Perpay",
         "id": "2eee6626-9257-4fab-b76a-0a8674d9aa8a",
         "title": "Data Science Internship - 2024",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -18339,7 +18339,7 @@
         "company_name": "Perpay",
         "id": "2d992297-70f1-4f62-852b-75acf2b9ef3b",
         "title": "Strategic Analytics Internship - 2024",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -86665,7 +86665,7 @@
         "company_name": "Radix Trading",
         "id": "948bfd49-4a78-4839-a813-b864222db13a",
         "title": "Quantitative Technologist \u2013 C++ Intern - Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -92729,7 +92729,7 @@
         "company_name": "Chicago Trading Company",
         "id": "37f9b264-0f7c-498f-a8f8-a3f17bc434c0",
         "title": "Software Engineer Internship - Summer 2025 - New York",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -92748,7 +92748,7 @@
         "company_name": "Chicago Trading Company",
         "id": "be0b643c-7e67-46db-ba2f-187ee3617805",
         "title": "Software Engineer Internship - Summer 2025 - Chicago",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -92767,7 +92767,7 @@
         "company_name": "Chicago Trading Company",
         "id": "99d2e5dc-1b16-4a09-95e0-bace562a80a0",
         "title": "Quant Trading Associate Internship - Summer 2025 - London",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -92786,7 +92786,7 @@
         "company_name": "Chicago Trading Company",
         "id": "c4a49da7-88a9-4943-a484-e284bcd64301",
         "title": "Quant Trading Associate Internship - Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -96061,7 +96061,7 @@
         "company_name": "Dev Technology Group",
         "id": "5bdff058-4a4b-4c2d-b45a-5875789e04db",
         "title": "Summer Servicenow Application Developer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -96080,7 +96080,7 @@
         "company_name": "Dev Technology Group",
         "id": "51f69fa4-d93b-440c-8b44-505066e242e3",
         "title": "Summer Java Application Developer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -96099,7 +96099,7 @@
         "company_name": "Dev Technology Group",
         "id": "a1566eec-cf5f-40ec-9b2b-9d48f855ca46",
         "title": "Summer React/Node Application Developer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -96195,7 +96195,7 @@
         "company_name": "Dev Technology Group",
         "id": "26652ed4-7caa-46ad-81f7-af24cd2af336",
         "title": "Summer M365/Power Platform Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -96470,7 +96470,7 @@
         "company_name": "Dev Technology Group",
         "id": "bde2eed1-2719-4a13-938e-6a527bc5af75",
         "title": "Summer AI/ML Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -99431,7 +99431,7 @@
         "company_name": "Relativity Space",
         "id": "1097f6c6-8757-4cae-9291-13f827004121",
         "title": "Software Engineer Intern - Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -99450,7 +99450,7 @@
         "company_name": "Relativity Space",
         "id": "794b3115-8814-4939-aa7c-04c7e699be09",
         "title": "Data Science & Simulation Intern - Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -99469,7 +99469,7 @@
         "company_name": "Relativity Space",
         "id": "c7b0af27-7a35-426a-b039-0e7599cdf4fb",
         "title": "Robotics Software Engineer Intern - Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -100409,6 +100409,120 @@
             "Newton, IA"
         ],
         "company_url": "https://simplify.jobs/c/9ff05b27-3c7e-4c70-82e2-d3bfb40bb992",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Oshkosh",
+        "id": "166f83dd-6187-4317-a762-5f610fc3ba52",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1726010032,
+        "date_posted": 1726010032,
+        "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Greencastle-Pennsylvania-United-States/Software-Engineering-Intern_R30892",
+        "locations": [
+            "Waynesboro, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Oshkosh",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Oshkosh",
+        "id": "f15eaec3-d5f4-4699-bac7-a2bd4ceeffc4",
+        "title": "AI/Autonomy Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1726010038,
+        "date_posted": 1726010038,
+        "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Hagerstown-Maryland-United-States/AI-Autonomy-Engineering-Intern_R30897",
+        "locations": [
+            "Hagerstown, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Oshkosh",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Oshkosh",
+        "id": "0c223bd5-29a1-4697-821d-b8429ee22f98",
+        "title": "AI/Autonomy Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1726010038,
+        "date_posted": 1726010038,
+        "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Hagerstown-Maryland-United-States/AI-Autonomy-Engineering-Intern_R30898",
+        "locations": [
+            "Hagerstown, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Oshkosh",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Saviynt",
+        "id": "85564e7e-3a5f-4355-9702-4ebe9ba52fc8",
+        "title": "Engineering Intern - UI - Software Engineering",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1726009920,
+        "date_posted": 1726009920,
+        "url": "https://jobs.lever.co/saviynt/04d8dcbd-9c1f-4500-9c4f-a5e5756e0372/apply",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Saviynt",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Okta",
+        "id": "c17e44b5-965e-46e9-b758-0207ba4a1d42",
+        "title": "Software Engineer Intern - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1726009885,
+        "date_posted": 1726009885,
+        "url": "https://www.okta.com/company/careers/opportunity/6246072?gh_jid=6246072",
+        "locations": [
+            "Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Okta",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Chamberlain Group",
+        "id": "905e3d3e-3969-4804-85df-dc2f5b8c528b",
+        "title": "Co-op \u2013 Machine Learning - Computer Vision - And AI - Spring 2025",
+        "active": true,
+        "terms": [
+            "Spring 2025"
+        ],
+        "date_updated": 1726009699,
+        "date_posted": 1726009699,
+        "url": "https://chamberlain.wd1.myworkdayjobs.com/Chamberlain_Group/job/Oak-Brook-IL/Co-op--Machine-Learning--Computer-Vision--and-AI--Spring-2025-_JR27898",
+        "locations": [
+            "Western Springs, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Chamberlain-Group",
         "is_visible": true,
         "sponsorship": "Other"
     }
