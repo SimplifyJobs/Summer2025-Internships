@@ -86665,7 +86665,7 @@
         "company_name": "Radix Trading",
         "id": "948bfd49-4a78-4839-a813-b864222db13a",
         "title": "Quantitative Technologist \u2013 C++ Intern - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -92729,7 +92729,7 @@
         "company_name": "Chicago Trading Company",
         "id": "37f9b264-0f7c-498f-a8f8-a3f17bc434c0",
         "title": "Software Engineer Internship - Summer 2025 - New York",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -92748,7 +92748,7 @@
         "company_name": "Chicago Trading Company",
         "id": "be0b643c-7e67-46db-ba2f-187ee3617805",
         "title": "Software Engineer Internship - Summer 2025 - Chicago",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -96563,7 +96563,7 @@
         "company_name": "Glean",
         "id": "bd92cc96-a931-4615-9d3d-2cdbd093c941",
         "title": "Software Engineer \u2013 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -98989,7 +98989,7 @@
         "company_name": "ICF",
         "id": "74bbabb8-879c-42aa-b760-1f17564e1841",
         "title": "2025 Summer Intern - Software Developer - Bachelors; Remote",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -99547,7 +99547,7 @@
         "company_name": "ManTech",
         "id": "e15cf92b-83b8-4ced-ad3f-97c3ccc20393",
         "title": "Dod Skillbridge CNO Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -100023,6 +100023,25 @@
             "Raleigh, NC"
         ],
         "company_url": "https://simplify.jobs/c/1495091e-1f19-4c30-a48a-5afa4aa5e7dd",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Lucid Motors",
+        "id": "ca722184-b0f3-44b5-98ae-61f7cfb31df7",
+        "title": "Intern \u2013 Software Tools - Diagnostic System - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1725990759,
+        "date_posted": 1725990759,
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/4472061007",
+        "locations": [
+            "Newark, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Lucid-Motors",
         "is_visible": true,
         "sponsorship": "Other"
     }
