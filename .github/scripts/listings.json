@@ -99688,5 +99688,24 @@
         "company_url": "https://simplify.jobs/c/Lucid-Motors",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Lucid Motors",
+        "id": "d19601ff-c81d-42c3-bf3d-cf64ae822fbc",
+        "title": "Intern \u2013 Tooling Analyst - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1725944530,
+        "date_posted": 1725944530,
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/4483337007",
+        "locations": [
+            "Newark, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Lucid-Motors",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
