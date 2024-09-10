@@ -100063,5 +100063,314 @@
         "company_url": "https://simplify.jobs/c/Badger-Meter",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Anduril",
+        "id": "dd9480f3-1e1f-453f-a50d-6b94ae23a024",
+        "title": "Software Engineering Intern - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1725997151,
+        "date_posted": 1725997151,
+        "url": "https://boards.greenhouse.io/andurilindustries/jobs/4512223007",
+        "locations": [
+            "Boston, MA",
+            "Seattle, WA",
+            "Newport Beach, CA",
+            "Reston, VA",
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Anduril",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Anduril",
+        "id": "9a45b334-96cd-44c2-8611-a2036f12ad81",
+        "title": "Mission Software Engineer Co-op - Anduril Maritime Fall 2025",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1725997123,
+        "date_posted": 1725997123,
+        "url": "https://boards.greenhouse.io/andurilindustries/jobs/4512401007",
+        "locations": [
+            "Quincy, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Anduril",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Anduril",
+        "id": "6dc1c511-40b2-4663-842b-88d63e0325f7",
+        "title": "Firmware Engineer Intern - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1725997106,
+        "date_posted": 1725997106,
+        "url": "https://boards.greenhouse.io/andurilindustries/jobs/4512362007",
+        "locations": [
+            "Newport Beach, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Anduril",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Waystar",
+        "id": "61df5c32-4411-44f5-944c-7eacf6644404",
+        "title": "Application Engineer: Co-Op",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1725997091,
+        "date_posted": 1725997091,
+        "url": "https://waystar.wd1.myworkdayjobs.com/Waystar/job/Atlanta/Application-Engineer--Co-Op_R2262",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Waystar",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Super",
+        "id": "3eb69fb1-0cdf-449b-9ab6-bf77a245906e",
+        "title": "Software Engineering Intern - Infrastructure/Devops - Remote - Waterloo Winter 2025",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1725996976,
+        "date_posted": 1725996976,
+        "url": "https://jobs.lever.co/super-com/fb2a12cf-34a3-4083-9035-587ed67385c8/apply",
+        "locations": [
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Super",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Super",
+        "id": "6d25e009-b307-46c0-b7fb-ae0d9ff0939a",
+        "title": "Data Engineering Intern - Remote - Waterloo Winter 2025",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1725996966,
+        "date_posted": 1725996966,
+        "url": "https://jobs.lever.co/super-com/059370b5-5f38-48a6-ad0e-2dcef647c258/apply",
+        "locations": [
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Super",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Super",
+        "id": "432eb6df-4adf-417d-aacd-02a511cb4f27",
+        "title": "Software Engineering Intern - Fullstack - Product - Remote - Waterloo Winter 2025",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1725996971,
+        "date_posted": 1725996971,
+        "url": "https://jobs.lever.co/super-com/4cbcde78-1d89-49b7-8c56-9a1b1820842a/apply",
+        "locations": [
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Super",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Super",
+        "id": "b673f898-a601-4633-a54f-72417bb81525",
+        "title": "Software Engineering Intern - Internal Tools - Remote - Waterloo Winter 2025",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1725996972,
+        "date_posted": 1725996972,
+        "url": "https://jobs.lever.co/super-com/c3bf50f6-9ebc-46df-b9a0-145742a76f75/apply",
+        "locations": [
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Super",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Super",
+        "id": "be8227f6-bf37-4965-afd3-ea24455d5e98",
+        "title": "Software Engineering Intern - Ops Tools - Remote - Waterloo Winter 2025",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1725996971,
+        "date_posted": 1725996971,
+        "url": "https://jobs.lever.co/super-com/bf111261-4c23-4a4a-9334-d5ad1b6966c2/apply",
+        "locations": [
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Super",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Super",
+        "id": "6e5253f0-e74a-4723-86c4-a9bc16410e25",
+        "title": "Data Analyst Intern - Remote - Waterloo Winter 2025",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1725996964,
+        "date_posted": 1725996964,
+        "url": "https://jobs.lever.co/super-com/ad37e189-03af-4ab9-8a21-a8760195cf90/apply",
+        "locations": [
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Super",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Epic Games",
+        "id": "53c3037f-19d4-46cb-b2b7-c7f59a170301",
+        "title": "Gameplay Programmer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1725996892,
+        "date_posted": 1725996892,
+        "url": "https://job-boards.greenhouse.io/epicgames/jobs/5314732004",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Epic-Games",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Oshkosh",
+        "id": "47992b5d-6c29-4608-a3a3-24a57a30a2b9",
+        "title": "Engineer Intern - Software - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1725996809,
+        "date_posted": 1725996809,
+        "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Oshkosh-Wisconsin-United-States/Engineer-Intern---Software--Summer-2025-_R31824",
+        "locations": [
+            "Appleton, WI",
+            "Oshkosh, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Oshkosh",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "STR",
+        "id": "4e17cd90-2d1e-47c1-9652-6c7410e34780",
+        "title": "Undergraduate Summer Internship",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1725996768,
+        "date_posted": 1725996768,
+        "url": "https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4399886006",
+        "locations": [
+            "Arlington, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/STR",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "STR",
+        "id": "5944d78c-05da-4846-a771-22e2e7c4f940",
+        "title": "Undergraduate Summer Internship",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1725996757,
+        "date_posted": 1725996757,
+        "url": "https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4399845006",
+        "locations": [
+            "Dayton, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/STR",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "STR",
+        "id": "9d81886f-882c-4e82-ae10-c0a2a2af3494",
+        "title": "Undergraduate Summer Internship",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1725996758,
+        "date_posted": 1725996758,
+        "url": "https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4399844006",
+        "locations": [
+            "Burlington, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/STR",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Disney Careers",
+        "id": "b0c7ced2-1ed7-44eb-9a76-5e0c52fe1dd8",
+        "title": "Commercial Strategy Data Science Intern - Spring 2025",
+        "active": true,
+        "terms": [
+            "Spring 2025"
+        ],
+        "date_updated": 1725996671,
+        "date_posted": 1725996671,
+        "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Lake-Buena-Vista-FL-USA/Commercial-Strategy-Data-Science-Intern--Spring-2025_10100587",
+        "locations": [
+            "Celebration, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/f4ca773e-168e-4f3d-bc3d-e0cc32345fc6",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
