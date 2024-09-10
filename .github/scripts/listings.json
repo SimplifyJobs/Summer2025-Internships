@@ -99554,5 +99554,43 @@
         "company_url": "https://simplify.jobs/c/c6651565-44c8-4050-8412-111c54942390",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Lucid Motors",
+        "id": "30fe2dda-7d12-472c-8b7e-7b078add8e01",
+        "title": "Intern \u2013 ADAS Mapping and Navigation Engineer - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1725925872,
+        "date_posted": 1725925872,
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/4473458007",
+        "locations": [
+            "Newark, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Lucid-Motors",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Lucid Motors",
+        "id": "714e4d00-9424-4b97-9658-71cdf0159a64",
+        "title": "Intern \u2013 Android Infotainment Software Engineer - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1725925868,
+        "date_posted": 1725925868,
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/4469192007",
+        "locations": [
+            "Newark, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Lucid-Motors",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
