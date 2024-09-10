@@ -92748,7 +92748,7 @@
         "company_name": "Chicago Trading Company",
         "id": "be0b643c-7e67-46db-ba2f-187ee3617805",
         "title": "Software Engineer Internship - Summer 2025 - Chicago",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -92767,7 +92767,7 @@
         "company_name": "Chicago Trading Company",
         "id": "99d2e5dc-1b16-4a09-95e0-bace562a80a0",
         "title": "Quant Trading Associate Internship - Summer 2025 - London",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -96470,7 +96470,7 @@
         "company_name": "Dev Technology Group",
         "id": "bde2eed1-2719-4a13-938e-6a527bc5af75",
         "title": "Summer AI/ML Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -99443,7 +99443,7 @@
         "company_name": "Relativity Space",
         "id": "794b3115-8814-4939-aa7c-04c7e699be09",
         "title": "Data Science & Simulation Intern - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
