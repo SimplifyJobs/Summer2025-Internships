@@ -100837,5 +100837,43 @@
         "company_url": "https://simplify.jobs/c/Sigma-Computing",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Redhorse",
+        "id": "47d8f5ff-bc95-4c74-b14d-24f5db270c5e",
+        "title": "Machine Learning Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1726083117,
+        "date_posted": 1726083117,
+        "url": "https://jobs.lever.co/redhorsecorp/fae272c3-b2bc-4f63-83a6-0de63bbc1d14/apply",
+        "locations": [
+            "Arlington, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Redhorse",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Epic Games",
+        "id": "b654a1d8-5ca2-4f9d-9d2e-249e8ace9ab5",
+        "title": "Gameplay Programmer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1726083043,
+        "date_posted": 1726083043,
+        "url": "https://job-boards.greenhouse.io/epicgames/jobs/5314851004",
+        "locations": [
+            "Morrisville, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Epic-Games",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
