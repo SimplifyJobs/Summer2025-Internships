@@ -80627,7 +80627,7 @@
         "company_name": "Rise8",
         "id": "e48da94e-987a-48e6-a34c-82e0558ae8bb",
         "title": "Skillbridge Intern - Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -87049,7 +87049,7 @@
         "company_name": "Neuralink",
         "id": "7f826bfb-a9e6-425c-a6dc-82510874e1d0",
         "title": "Software Engineer Intern - Site Reliability Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -91193,7 +91193,7 @@
         "company_name": "Databricks",
         "id": "3c4fd433-d0f1-4616-9949-70e4b7c5c452",
         "title": "Software Engineering Intern - 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025",
             "Spring 2025",
@@ -91554,7 +91554,7 @@
         "company_name": "Jump Trading",
         "id": "b04ab8c0-6ce1-4f7d-97ea-0e5149889bd9",
         "title": "Campus Web Dev / UI Software Engineer \u2013 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -91573,7 +91573,7 @@
         "company_name": "Jump Trading",
         "id": "aa3c9a39-b03d-4365-9290-d29f2effa2a4",
         "title": "Campus Quantitative Trader \u2013 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -91611,7 +91611,7 @@
         "company_name": "Jump Trading",
         "id": "d44d2a3b-10ac-4215-a600-6530f5dfdab3",
         "title": "Campus Software Engineer \u2013 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -91707,7 +91707,7 @@
         "company_name": "Neuralink",
         "id": "0b651fbf-acad-4f2d-8006-98119aaffc93",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -91726,7 +91726,7 @@
         "company_name": "Neuralink",
         "id": "ae08c445-487d-48cb-8271-cd7838993757",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -91840,7 +91840,7 @@
         "company_name": "Jump Trading",
         "id": "488d5ffc-e39a-47fd-b83a-0b71be5f12d0",
         "title": "Campus Quantitative Researcher \u2013 M1/M2 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -91878,7 +91878,7 @@
         "company_name": "Jump Trading",
         "id": "918337d5-7822-4184-960a-d52fafb46921",
         "title": "Campus Software Engineer \u2013 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024",
             "Winter 2025",
@@ -91919,7 +91919,7 @@
         "company_name": "Jump Trading",
         "id": "d2abd211-c477-435e-aabc-5fbacfb31392",
         "title": "Campus UI Software Engineer \u2013 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024",
             "Winter 2025",
@@ -91941,7 +91941,7 @@
         "company_name": "Jump Trading",
         "id": "885362e5-31ed-4f04-8f72-87ff0c2cfd60",
         "title": "Campus Software Engineer \u2013 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024",
             "Winter 2025",
@@ -95791,7 +95791,7 @@
         "company_name": "Epic Games",
         "id": "652c7422-7682-4b0f-9992-3112df9b6b89",
         "title": "Tools Programmer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -95810,7 +95810,7 @@
         "company_name": "Epic Games",
         "id": "ff8119e6-fa0d-436d-be6f-aa426116c5b7",
         "title": "Tools Programmer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -96330,7 +96330,7 @@
         "company_name": "Epic Games",
         "id": "7fc161f8-fe00-4e1b-9509-5404fb23942a",
         "title": "Gameplay Programmer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -96349,7 +96349,7 @@
         "company_name": "Epic Games",
         "id": "78f96ab1-e760-4c5b-b6cc-1210a101f0b4",
         "title": "Backend Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -96582,7 +96582,7 @@
         "company_name": "Epic Games",
         "id": "0cb8053d-1100-4662-bedd-f32934086388",
         "title": "Backend Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -96927,7 +96927,7 @@
         "company_name": "Visier Solutions",
         "id": "4ffcee86-9f76-4e96-b15b-d21ac1982986",
         "title": "Software Developer Co-op - January 2025 to August 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -96948,7 +96948,7 @@
         "company_name": "Epic Games",
         "id": "70948d2c-c10a-492e-a93d-ce5702e32178",
         "title": "Gameplay Programmer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -97006,7 +97006,7 @@
         "company_name": "Epic Games",
         "id": "5d109a20-a190-4f04-b667-c3b9991b7497",
         "title": "Tools Programmer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -97532,7 +97532,7 @@
         "company_name": "Epic Games",
         "id": "b4b438a0-07ed-4fa1-bb56-9d148fa06e2f",
         "title": "Salesforce Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -97589,7 +97589,7 @@
         "company_name": "Epic Games",
         "id": "06a7f603-2373-4623-829c-ad6406287f5e",
         "title": "Engine Programmer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -97724,7 +97724,7 @@
         "company_name": "Epic Games",
         "id": "173e760d-9ece-465f-bbe7-81067363a494",
         "title": "Engine Programmer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -97934,7 +97934,7 @@
         "company_name": "Neon",
         "id": "6ed236b1-8b43-4027-8c51-6e70fb4f22bc",
         "title": "System Software Engineer \u2013 Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -98811,7 +98811,7 @@
         "company_name": "Epic Games",
         "id": "fc20b50e-c7c7-44e6-8b6c-2c8e5959900f",
         "title": "Engine Programmer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -100262,7 +100262,7 @@
         "company_name": "Epic Games",
         "id": "53c3037f-19d4-46cb-b2b7-c7f59a170301",
         "title": "Gameplay Programmer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -100862,7 +100862,7 @@
         "company_name": "Epic Games",
         "id": "b654a1d8-5ca2-4f9d-9d2e-249e8ace9ab5",
         "title": "Gameplay Programmer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -100931,6 +100931,120 @@
             "Seattle, WA"
         ],
         "company_url": "https://simplify.jobs/c/Truveta",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Achievers",
+        "id": "d0e8d64b-ec07-42a3-9e7a-2de6a0c20ad6",
+        "title": "Software Developer Co-op - 4 months",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1726096676,
+        "date_posted": 1726096676,
+        "url": "https://jobs.lever.co/achievers/7dfdb8a3-b649-4be2-82d6-ddadd7f00483/apply",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Achievers",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Marvell",
+        "id": "3d053314-a839-4ebf-8277-cf03c36e193b",
+        "title": "Product Engineer Intern - Bachelors",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1726096689,
+        "date_posted": 1726096689,
+        "url": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers2/job/Santa-Clara-CA/Product-Engineer-Intern---Bachelors_2401898",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/80961b05-9ed3-462d-aef9-4b418c7fb796",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Motorola",
+        "id": "7c2f83a4-fbbd-4c57-9e94-4120e64ce4d8",
+        "title": "Software Engineer Intern - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1726096627,
+        "date_posted": 1726096627,
+        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/Software-Engineer-Intern---Summer-2025_R49943",
+        "locations": [
+            "Hoffman Estates, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/MotorolaSolutions",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Motorola",
+        "id": "92caa2d6-dc02-4718-90a3-076f876070b9",
+        "title": "Software Engineer Intern - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1726096625,
+        "date_posted": 1726096625,
+        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/Software-Engineer-Intern---Summer-2025_R49908",
+        "locations": [
+            "Hoffman Estates, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/MotorolaSolutions",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Oshkosh",
+        "id": "7375f2a6-9631-492b-94f2-5a9696f525bf",
+        "title": "Advance Technologies Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1726096545,
+        "date_posted": 1726096545,
+        "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Greencastle-Pennsylvania-United-States/Engineering-Intern_R30900",
+        "locations": [
+            "Waynesboro, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Oshkosh",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Figure",
+        "id": "4f0aaffd-abff-4630-885d-6b95b8dbadf4",
+        "title": "Embedded Software Intern - Winter 2025",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1724887020,
+        "date_posted": 1724887020,
+        "url": "https://job-boards.greenhouse.io/figureai/jobs/4397706006",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Figure-AI",
         "is_visible": true,
         "sponsorship": "Other"
     }
