@@ -100699,5 +100699,24 @@
         "company_url": "https://simplify.jobs/c/CACI",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Capital One",
+        "id": "63695765-58f3-42c9-bdef-403db4306574",
+        "title": "Full Stack Software Engineer \u2013 Intern - Winter 2025",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1726081800,
+        "date_posted": 1726081800,
+        "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Full-Stack-Software-Engineer--Intern--Winter-2025-_R196674",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Capital-One",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
