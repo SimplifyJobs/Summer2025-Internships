@@ -97705,7 +97705,7 @@
         "company_name": "Groq",
         "id": "c26cd0b6-0a60-4dcf-94a3-d061534ef3a3",
         "title": "Winter Internship Opportunities",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -99164,7 +99164,7 @@
         "company_name": "Vermeer",
         "id": "0f9fd226-7fa5-47ee-be75-5a7c0ddc67c9",
         "title": "Data Analytics Intern - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
