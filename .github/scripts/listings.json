@@ -18146,7 +18146,7 @@
         "company_name": "Overbond",
         "id": "035b1a87-168f-416f-96a5-34f2cee06341",
         "title": "Full-Stack Developer Intern-PEY/Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -38990,7 +38990,7 @@
             "Summer 2024"
         ],
         "sponsorship": "Other",
-        "active": false,
+        "active": true,
         "source": "Simplify",
         "id": "9afc8966-ab32-4ef5-b5a5-4184349198ae",
         "date_posted": 1700259061,
@@ -89803,7 +89803,7 @@
         "company_name": "Codeium",
         "id": "8c071f6e-a41b-4034-8f1e-34d82a4c940e",
         "title": "Software Engineering Intern - Fall 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2024"
         ],
@@ -91056,7 +91056,7 @@
         "company_name": "Asana",
         "id": "ddf6566c-2648-4479-b9b5-ff0aa07e3a22",
         "title": "NYC Summer Software Engineering Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -96658,7 +96658,7 @@
         "company_name": "Red Hat",
         "id": "de595ad4-7fc5-4375-86b3-05cd270205b0",
         "title": "Data Engineer Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -96889,7 +96889,7 @@
         "company_name": "Red Hat",
         "id": "07a17367-1924-4607-a9ec-cccca35eac92",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -97292,7 +97292,7 @@
         "company_name": "Walmart",
         "id": "00a27cc7-3d5e-4c1f-bd3b-4caea86728c2",
         "title": "2024 Intern Conversion \u2013 2025 Return Intern: Sr. Data Scientist",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -97469,7 +97469,7 @@
         "company_name": "National Information Solutions Cooperative (NISC)",
         "id": "27d647d4-4a79-466a-934e-52a80965af92",
         "title": "Intern \u2013 Database Conversion Programming",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025",
             "Summer 2025"
@@ -97667,7 +97667,7 @@
         "company_name": "Genesis Therapeutics",
         "id": "afba7098-7508-4a1a-9426-f55103bcfb3f",
         "title": "Software Engineer Intern - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -98203,7 +98203,7 @@
         "company_name": "Wealthsimple",
         "id": "827b6bc1-630d-4152-a066-454d3b7bbe47",
         "title": "Intern \u2013 Software Development - Winter 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -100167,7 +100167,7 @@
         "company_name": "Super",
         "id": "6d25e009-b307-46c0-b7fb-ae0d9ff0939a",
         "title": "Data Engineering Intern - Remote - Waterloo Winter 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -100243,7 +100243,7 @@
         "company_name": "Super",
         "id": "6e5253f0-e74a-4723-86c4-a9bc16410e25",
         "title": "Data Analyst Intern - Remote - Waterloo Winter 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -100436,7 +100436,7 @@
         "company_name": "Oshkosh",
         "id": "f15eaec3-d5f4-4699-bac7-a2bd4ceeffc4",
         "title": "AI/Autonomy Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -100455,7 +100455,7 @@
         "company_name": "Oshkosh",
         "id": "0c223bd5-29a1-4697-821d-b8429ee22f98",
         "title": "AI/Autonomy Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -100843,7 +100843,7 @@
         "company_name": "Redhorse",
         "id": "47d8f5ff-bc95-4c74-b14d-24f5db270c5e",
         "title": "Machine Learning Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -101133,6 +101133,63 @@
             "Greenwich, CT"
         ],
         "company_url": "https://simplify.jobs/c/Anteriad",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Crusoe",
+        "id": "efafb530-0d2a-465d-84d6-573a2d85c576",
+        "title": "University Software Engineer \u2013 Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1725664438,
+        "date_posted": 1725664438,
+        "url": "https://jobs.ashbyhq.com/Crusoe/2a6925c6-cf93-4e3c-862a-06e5814fecad/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Crusoe",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "WillowTree",
+        "id": "fd4ac6db-3811-45dd-9182-790a7188f733",
+        "title": "Software Engineering Intern/Co-Op - Canada - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1725393373,
+        "date_posted": 1725393373,
+        "url": "https://boards.greenhouse.io/willowtree/jobs/7602775002",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/WillowTree",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "The Voleon Group",
+        "id": "f8559f30-e4a2-4a26-824b-258ec0dae6e2",
+        "title": "Trading Intern - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1724801623,
+        "date_posted": 1724801623,
+        "url": "https://jobs.lever.co/voleon/9ffefa6d-f066-47ee-89b3-29b9deb3ec26/apply",
+        "locations": [
+            "Berkeley, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/The-Voleon-Group",
         "is_visible": true,
         "sponsorship": "Other"
     }
