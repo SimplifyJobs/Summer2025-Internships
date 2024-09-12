@@ -101561,5 +101561,43 @@
         "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "ServiceNow",
+        "id": "2f64f891-c6c6-4de6-a370-889abade9e3c",
+        "title": "Intern \u2013 Data Scientist",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1726118430,
+        "date_posted": 1726118430,
+        "url": "https://jobs.smartrecruiters.com/ServiceNow/744000013301765",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ServiceNow",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Wellmark",
+        "id": "3e6c8330-1920-44ac-afe3-bfeaf3ca2997",
+        "title": "Data Analytics Internship - Technology & Experience Analytics",
+        "active": true,
+        "terms": [
+            "Spring 2025"
+        ],
+        "date_updated": 1726118148,
+        "date_posted": 1726118148,
+        "url": "https://jobs.smartrecruiters.com/WellmarkInc/744000013295400",
+        "locations": [
+            "Des Moines, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/Wellmark",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
