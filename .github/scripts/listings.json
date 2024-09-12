@@ -100417,7 +100417,7 @@
         "company_name": "Oshkosh",
         "id": "166f83dd-6187-4317-a762-5f610fc3ba52",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -101318,7 +101318,7 @@
         "company_name": "Tencent",
         "id": "ad3a5d93-a0e2-43bc-8a7a-66e7c6896b07",
         "title": "Game Research & Development Intern - Engine Research",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
