@@ -97570,7 +97570,7 @@
         "company_name": "Epic Games",
         "id": "3495de9e-6fef-4876-8fa4-f78cc6a873c1",
         "title": "Engine Programmer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -101297,7 +101297,7 @@
         "company_name": "Tencent",
         "id": "d43dcaa5-407a-446c-82a4-df46050925d4",
         "title": "Game Research & Development Intern - Engine Research",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
