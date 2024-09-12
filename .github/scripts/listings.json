@@ -101837,5 +101837,44 @@
         "company_url": "https://simplify.jobs/c/SymmetrySystems",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Qumulo",
+        "id": "2487f92a-acde-4d22-bebd-df3d7c6c299a",
+        "title": "Software Development Engineer \u2013 Summer Internship 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1726182940,
+        "date_posted": 1726182940,
+        "url": "https://boards.greenhouse.io/qumulo/jobs/6252299",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Qumulo",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Walmart",
+        "id": "90661bd1-fac3-49c8-bbbd-d11b3596c568",
+        "title": "2025 Summer Intern: Software Engineer II",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1726182775,
+        "date_posted": 1726182775,
+        "url": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/XMLNAME-2025-Summer-Intern--Software-Engineer-II_R-1977954",
+        "locations": [
+            "Bentonville, AR",
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Walmart",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
