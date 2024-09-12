@@ -92748,7 +92748,7 @@
         "company_name": "Chicago Trading Company",
         "id": "be0b643c-7e67-46db-ba2f-187ee3617805",
         "title": "Software Engineer Internship - Summer 2025 - Chicago",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -92767,7 +92767,7 @@
         "company_name": "Chicago Trading Company",
         "id": "99d2e5dc-1b16-4a09-95e0-bace562a80a0",
         "title": "Quant Trading Associate Internship - Summer 2025 - London",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -94998,7 +94998,7 @@
         "company_name": "Epic Games",
         "id": "51519136-54e0-4a33-aca6-05f43f47503e",
         "title": "Capture Technician Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -97551,7 +97551,7 @@
         "company_name": "Epic Games",
         "id": "0ef984c0-4193-44a8-a660-f0e1533a7682",
         "title": "Engine Programmer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -101717,6 +101717,31 @@
             "Carson, CA"
         ],
         "company_url": "https://simplify.jobs/c/Epirus",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Booz Allen",
+        "id": "75ca00a8-dc9a-4cb7-ac3f-2ee31780f588",
+        "title": "Data Scientist Intern",
+        "active": true,
+        "terms": [
+            "Spring 2025",
+            "Summer 2025",
+            "Fall 2025",
+            "Winter 2026",
+            "Spring 2026",
+            "Summer 2026",
+            "Fall 2026"
+        ],
+        "date_updated": 1726169180,
+        "date_posted": 1726169180,
+        "url": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Diego-CA/Data-Scientist-Intern_R0205765",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/45cb775d-2ca3-49ea-810f-65334ec70079",
         "is_visible": true,
         "sponsorship": "Other"
     }
