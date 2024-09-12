@@ -94201,7 +94201,7 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1724703970,
+        "date_updated": 1726156592,
         "url": "https://www.mathworks.com/company/jobs/opportunities/25610-multiple-openings-engineering-development-group-internship?source=19813&s_eid=Rci_19813",
         "company_name": "MathWorks",
         "title": "Software Engineer",
@@ -94211,8 +94211,8 @@
         "terms": [
             "Summer 2025"
         ],
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "nothans",
         "id": "5967940f-b8ae-4217-9675-c441d4a48ffc",
         "date_posted": 1724703970,
