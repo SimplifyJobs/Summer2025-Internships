@@ -100724,7 +100724,7 @@
         "company_name": "Span",
         "id": "730dd0d4-3379-4ef1-a94a-27e26948e011",
         "title": "Mobile Engineering Co-op January-June 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -101207,6 +101207,29 @@
             "Des Moines, IA"
         ],
         "company_url": "https://simplify.jobs/c/Wellmark",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Vantage Data Centers",
+        "id": "c1bb1b5f-7c70-4491-89ad-09613488ef94",
+        "title": "Vantage Data Centers Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1725924426,
+        "date_posted": 1725924426,
+        "url": "https://vantagedc.wd1.myworkdayjobs.com/en-US/Vantage/job/Denver-Colorado/Vantage-Data-Centers-Intern--NA_R13288",
+        "locations": [
+            "Quincy, WA",
+            "Santa Clara, CA",
+            "Ashburn, VA",
+            "Phoenix, AZ",
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/62df3370-bf7b-46b7-8619-e32dcd7d3fb3",
         "is_visible": true,
         "sponsorship": "Other"
     }
