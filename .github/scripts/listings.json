@@ -90549,7 +90549,7 @@
         "company_name": "Codeium",
         "id": "21309919-68fe-4bc7-9637-aadc734b0fd3",
         "title": "Software Engineering Intern - Spring 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025"
         ],
@@ -98165,7 +98165,7 @@
         "company_name": "Wealthsimple",
         "id": "5c96f4ba-9d18-44c5-b741-2e5008430144",
         "title": "Intern \u2013 Data Science - Winter 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -98280,7 +98280,7 @@
         "company_name": "Aigen",
         "id": "0f444ac3-e644-444a-a08a-28646986cf2d",
         "title": "Field Robot Operator \u2013 Summer Interns 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -99335,7 +99335,7 @@
         "company_name": "Center for AI Safety",
         "id": "947fa70f-4819-4a67-8984-e39ccf19097d",
         "title": "Research Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -99896,7 +99896,7 @@
         "company_name": "Blockhouse",
         "id": "10a8a534-fc93-49ad-a5c4-9f32964836c8",
         "title": "Full Stack Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025",
             "Spring 2024"
@@ -100148,7 +100148,7 @@
         "company_name": "Super",
         "id": "3eb69fb1-0cdf-449b-9ab6-bf77a245906e",
         "title": "Software Engineering Intern - Infrastructure/Devops - Remote - Waterloo Winter 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -100186,7 +100186,7 @@
         "company_name": "Super",
         "id": "432eb6df-4adf-417d-aacd-02a511cb4f27",
         "title": "Software Engineering Intern - Fullstack - Product - Remote - Waterloo Winter 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -100205,7 +100205,7 @@
         "company_name": "Super",
         "id": "b673f898-a601-4633-a54f-72417bb81525",
         "title": "Software Engineering Intern - Internal Tools - Remote - Waterloo Winter 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -100224,7 +100224,7 @@
         "company_name": "Super",
         "id": "be8227f6-bf37-4965-afd3-ea24455d5e98",
         "title": "Software Engineering Intern - Ops Tools - Remote - Waterloo Winter 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -100745,7 +100745,7 @@
         "company_name": "Span",
         "id": "8729238e-cc23-4573-97ea-9e07afd16a74",
         "title": "R&D Infrastructure Software Engineering Co-op January-June 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -101045,6 +101045,94 @@
             "Sunnyvale, CA"
         ],
         "company_url": "https://simplify.jobs/c/Figure-AI",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Hewlett Packard (HP)",
+        "id": "54c0ff90-ea2f-4a1a-88cb-60a2d37b057f",
+        "title": "Workforce Services and Solutions Software Internship",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1725940974,
+        "date_posted": 1725940974,
+        "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Spring-Texas-United-States-of-America/Workforce-Services-and-Solutions-Software-Internship_3141434-1",
+        "locations": [
+            "Spring, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "The Walt Disney Company",
+        "id": "d47b3671-0c16-40ad-aef7-a640013ac5c7",
+        "title": "Business Intelligence Graduate Intern - Spring 2025",
+        "active": true,
+        "terms": [
+            "Spring 2025"
+        ],
+        "date_updated": 1725926152,
+        "date_posted": 1725926152,
+        "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Celebration-FL-USA/Business-Intelligence-Graduate-Intern--Spring-2025_10098134",
+        "locations": [
+            "Celebration, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Disney",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "AeroVironment",
+        "id": "c95421b8-d427-47e4-a88a-d008b6c8b4fb",
+        "title": "2025 Summer Internship - Software Engineering",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1724716609,
+        "date_posted": 1724716609,
+        "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Simi-Valley-CA/XMLNAME-2025-Summer-Internship---Software-Engineering_4871",
+        "locations": [
+            "Arlington, VA",
+            "Melbourne, FL",
+            "Petaluma, CA",
+            "Lawrence, KS",
+            "Minneapolis, MN",
+            "Huntsville, AL",
+            "San Diego, CA",
+            "Moorpark, CA",
+            "Simi Valley, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/AeroVironment",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Anteriad",
+        "id": "192dabdb-99eb-4216-8efe-85162dbd021e",
+        "title": "Marketing Data Analyst Intern",
+        "active": true,
+        "terms": [
+            "Fall 2024",
+            "Winter 2025",
+            "Spring 2025",
+            "Summer 2025",
+            "Fall 2025"
+        ],
+        "date_updated": 1724699323,
+        "date_posted": 1723736273,
+        "url": "https://boards.greenhouse.io/anteriad/jobs/5257161004",
+        "locations": [
+            "Greenwich, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/Anteriad",
         "is_visible": true,
         "sponsorship": "Other"
     }
