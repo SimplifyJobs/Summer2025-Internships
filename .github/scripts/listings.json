@@ -101618,5 +101618,24 @@
         "company_url": "https://simplify.jobs/c/MotorolaSolutions",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Wayfair",
+        "id": "a45fb354-9088-4bd3-ac09-86de0f335101",
+        "title": "Software Engineering Co-op - January 2025",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1726154098,
+        "date_posted": 1726154098,
+        "url": "https://www.wayfair.com/careers/jobs/7630511002?gh_jid=7630511002",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Wayfair",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
