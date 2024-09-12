@@ -89013,7 +89013,7 @@
         "company_name": "GPTZero",
         "id": "85d9aada-1016-4113-88e9-ad05a178e614",
         "title": "Machine Learning Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -91630,7 +91630,7 @@
         "company_name": "Belvedere Trading",
         "id": "654fd797-bda0-4a6d-ab70-e56869309ada",
         "title": "Quantitative Trading Intern - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -94939,7 +94939,7 @@
         "company_name": "NVIDIA",
         "id": "09160c63-5372-4624-9c59-0f5b24dd2458",
         "title": "NVIDIA 2025 Internships: Deep Learning Computer Architecture",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -96986,7 +96986,7 @@
         "company_name": "Dun & Bradstreet",
         "id": "b57eaaa7-328e-48f2-987d-568d0d5a3805",
         "title": "2025 Summer Internship Program - Technology",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -99048,7 +99048,7 @@
         "company_name": "Carter's Careers",
         "id": "028ca418-4914-44cd-97d5-a893f42e0f71",
         "title": "Marketing Data Analytics Intern - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -100609,7 +100609,7 @@
         "company_name": "Altruist",
         "id": "41114bcd-196c-4c40-8edd-1e79de006a21",
         "title": "2025 Technology and Innovation Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -101230,6 +101230,44 @@
             "Denver, CO"
         ],
         "company_url": "https://simplify.jobs/c/62df3370-bf7b-46b7-8619-e32dcd7d3fb3",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Chatham Financial",
+        "id": "3a46da13-5a7a-48b0-a1f5-c02841d65c88",
+        "title": "2025 Quantitative Analyst Internship",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1725925699,
+        "date_posted": 1725925699,
+        "url": "https://boards.greenhouse.io/chathamfinancial/jobs/6209887",
+        "locations": [
+            "West Chester, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/73e27fa4-30a7-4b07-b2e9-002fbcef664b",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "AQR Capital Management",
+        "id": "1c42a0e3-fb44-473e-9a65-edc3b1404926",
+        "title": "2025 Portfolio Implementation \u2013 Trading and Portfolio Finance Summer Analyst",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1723707031,
+        "date_posted": 1723707031,
+        "url": "https://careers.aqr.com/jobs?gh_jid=6179304&gh_jid=6179304",
+        "locations": [
+            "Greenwich, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/AQR-Capital-Management",
         "is_visible": true,
         "sponsorship": "Other"
     }
