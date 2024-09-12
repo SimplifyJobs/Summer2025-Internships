@@ -92767,7 +92767,7 @@
         "company_name": "Chicago Trading Company",
         "id": "99d2e5dc-1b16-4a09-95e0-bace562a80a0",
         "title": "Quant Trading Associate Internship - Summer 2025 - London",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -93187,7 +93187,7 @@
         "company_name": "Motorola",
         "id": "0e997eb2-3739-4d66-a5df-f9beef7eb436",
         "title": "Google Applications Developer Internship - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -96099,7 +96099,7 @@
         "company_name": "Dev Technology Group",
         "id": "a1566eec-cf5f-40ec-9b2b-9d48f855ca46",
         "title": "Summer React/Node Application Developer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -99240,7 +99240,7 @@
         "company_name": "Disney Careers",
         "id": "1bfbcf92-258d-472d-9f9b-d6b156290a12",
         "title": "System App Dev & Sustainment Intern - Spring 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025"
         ],
@@ -99992,7 +99992,7 @@
         "company_name": "RELX",
         "id": "40006e91-701a-4b8a-9327-f987933f48de",
         "title": "2025 Data Science Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -101742,6 +101742,44 @@
             "San Diego, CA"
         ],
         "company_url": "https://simplify.jobs/c/45cb775d-2ca3-49ea-810f-65334ec70079",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Pendo",
+        "id": "9e7c3991-97b0-4c95-bea7-53093234b5ab",
+        "title": "Summer 2025 Software Engineering Internship - Front End/Back End/Site Reliability/Security",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1726169627,
+        "date_posted": 1726169627,
+        "url": "https://boards.greenhouse.io/pendo/jobs/7636210002",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Pendo",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Oshkosh",
+        "id": "43e1751f-b102-4631-874a-53828b450117",
+        "title": "Advance Technologies Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1726169278,
+        "date_posted": 1726169278,
+        "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Hagerstown-Maryland-United-States/Advance-Technologies-Engineering-Intern_R30899",
+        "locations": [
+            "Hagerstown, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Oshkosh",
         "is_visible": true,
         "sponsorship": "Other"
     }
