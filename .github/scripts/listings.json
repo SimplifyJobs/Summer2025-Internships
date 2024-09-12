@@ -98850,7 +98850,7 @@
         "company_name": "ManTech",
         "id": "538d34f6-fe0a-4fb9-a88b-1f2b9331688d",
         "title": "Dod Skillbridge Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -100129,7 +100129,7 @@
         "company_name": "Waystar",
         "id": "61df5c32-4411-44f5-944c-7eacf6644404",
         "title": "Application Engineer: Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -101190,6 +101190,23 @@
             "Berkeley, CA"
         ],
         "company_url": "https://simplify.jobs/c/The-Voleon-Group",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Wellmark",
+        "id": "1b92bac7-5559-4627-a8bd-664db70b43ab",
+        "title": "Data Science - Part-Time Student - Spring and Summer 2025",
+        "active": true,
+        "terms": [],
+        "date_updated": 1726094314,
+        "date_posted": 1726094314,
+        "url": "https://jobs.smartrecruiters.com/WellmarkInc/744000013170115",
+        "locations": [
+            "Des Moines, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/Wellmark",
         "is_visible": true,
         "sponsorship": "Other"
     }
