@@ -100011,7 +100011,7 @@
         "company_name": "RELX",
         "id": "ec8a6b0e-fee9-41f6-b597-2771f4577baf",
         "title": "2025 Software Engineer Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -100977,7 +100977,7 @@
         "company_name": "Motorola",
         "id": "7c2f83a4-fbbd-4c57-9e94-4120e64ce4d8",
         "title": "Software Engineer Intern - Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
