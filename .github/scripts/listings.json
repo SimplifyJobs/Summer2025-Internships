@@ -96195,7 +96195,7 @@
         "company_name": "Dev Technology Group",
         "id": "26652ed4-7caa-46ad-81f7-af24cd2af336",
         "title": "Summer M365/Power Platform Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -96470,7 +96470,7 @@
         "company_name": "Dev Technology Group",
         "id": "bde2eed1-2719-4a13-938e-6a527bc5af75",
         "title": "Summer AI/ML Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -102145,6 +102145,102 @@
             "Montreal, QC, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Lyft",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Schonfeld",
+        "id": "0788a26b-f235-4f10-8c89-704727687e1a",
+        "title": "2025 Software Engineering Summer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1726257779,
+        "date_posted": 1726257779,
+        "url": "https://job-boards.greenhouse.io/schonfeld/jobs/6253829",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Schonfeld",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Carter's Careers",
+        "id": "bbeadf1c-ea8a-4f8a-afd6-7a484dc37a74",
+        "title": "Data Engineering Intern",
+        "active": true,
+        "terms": [
+            "Spring 2024",
+            "Summer 2024"
+        ],
+        "date_updated": 1726257775,
+        "date_posted": 1726257775,
+        "url": "https://carters.wd1.myworkdayjobs.com/en-US/CartersCareers/job/Atlanta-GA/Data-Engineering-Intern_JR35353",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/65a3e9ca-0aaa-423e-a372-a8f6a6cb9ea0",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Kodiak Robotics",
+        "id": "01d9989b-6700-4e80-9e70-774402c42db0",
+        "title": "Computer Vision and Machine Learning Intern",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1726257737,
+        "date_posted": 1726257737,
+        "url": "https://jobs.lever.co/kodiak/89a618ba-2746-4188-9f26-2110b8763e85/apply",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Kodiak-Robotics",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Motorola",
+        "id": "33807144-25d3-4ddf-9220-c53b8a2277ad",
+        "title": "Software Engineer Fall 2024 Co-Op - Research Park",
+        "active": true,
+        "terms": [
+            "Fall 2024"
+        ],
+        "date_updated": 1726257643,
+        "date_posted": 1726257643,
+        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Champaign-IL-IL169/Software-Engineer-Fall-2024-Co-Op--Research-Park-_R49817",
+        "locations": [
+            "Urbana, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/MotorolaSolutions",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Span",
+        "id": "1669166f-7f62-4ae2-a976-0762f7ad833b",
+        "title": "Device Software Engineering Internship-Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1726257605,
+        "date_posted": 1726257605,
+        "url": "https://boards.greenhouse.io/spanio/jobs/6144559003",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Span",
         "is_visible": true,
         "sponsorship": "Other"
     }
