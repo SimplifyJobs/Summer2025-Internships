@@ -102030,5 +102030,25 @@
         "company_url": "https://simplify.jobs/c/BMO",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1726244034,
+        "url": "https://jobs.careers.microsoft.com/global/en/job/1769194/",
+        "company_name": "Microsoft",
+        "title": "Software Engineer: Internship Opportunities - CTJ - Top Secret",
+        "locations": [
+            "Redmond, WA",
+            "Reston, VA"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "source": "GaryZhous",
+        "id": "657a8234-c05b-41d6-a239-17e08ba377ed",
+        "date_posted": 1726244034,
+        "company_url": "",
+        "is_visible": true
     }
 ]
