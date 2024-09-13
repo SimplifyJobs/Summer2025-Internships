@@ -92729,7 +92729,7 @@
         "company_name": "Chicago Trading Company",
         "id": "37f9b264-0f7c-498f-a8f8-a3f17bc434c0",
         "title": "Software Engineer Internship - Summer 2025 - New York",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -92748,7 +92748,7 @@
         "company_name": "Chicago Trading Company",
         "id": "be0b643c-7e67-46db-ba2f-187ee3617805",
         "title": "Software Engineer Internship - Summer 2025 - Chicago",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -92767,7 +92767,7 @@
         "company_name": "Chicago Trading Company",
         "id": "99d2e5dc-1b16-4a09-95e0-bace562a80a0",
         "title": "Quant Trading Associate Internship - Summer 2025 - London",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -96061,7 +96061,7 @@
         "company_name": "Dev Technology Group",
         "id": "5bdff058-4a4b-4c2d-b45a-5875789e04db",
         "title": "Summer Servicenow Application Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -96080,7 +96080,7 @@
         "company_name": "Dev Technology Group",
         "id": "51f69fa4-d93b-440c-8b44-505066e242e3",
         "title": "Summer Java Application Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -96099,7 +96099,7 @@
         "company_name": "Dev Technology Group",
         "id": "a1566eec-cf5f-40ec-9b2b-9d48f855ca46",
         "title": "Summer React/Node Application Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -96195,7 +96195,7 @@
         "company_name": "Dev Technology Group",
         "id": "26652ed4-7caa-46ad-81f7-af24cd2af336",
         "title": "Summer M365/Power Platform Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -96470,7 +96470,7 @@
         "company_name": "Dev Technology Group",
         "id": "bde2eed1-2719-4a13-938e-6a527bc5af75",
         "title": "Summer AI/ML Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -99450,7 +99450,7 @@
         "company_name": "Relativity Space",
         "id": "794b3115-8814-4939-aa7c-04c7e699be09",
         "title": "Data Science & Simulation Intern - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -100900,7 +100900,7 @@
         "company_name": "Samsung Research America",
         "id": "3ab740d7-c75d-409a-8ae8-81d279b51f89",
         "title": "2024 Fall Intern - Android - Digital Health",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2024"
         ],
@@ -102241,6 +102241,125 @@
             "SF"
         ],
         "company_url": "https://simplify.jobs/c/Span",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "SingleStore",
+        "id": "511c0d0a-ebff-46d9-b65d-9220d7be8fc3",
+        "title": "Software Engineer \u2013 Managed Service Intern - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1726257407,
+        "date_posted": 1726257407,
+        "url": "https://boards.greenhouse.io/singlestore/jobs/6249895",
+        "locations": [
+            "Seattle, WA",
+            "SF",
+            "Raleigh, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/SingleStore",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Schonfeld",
+        "id": "01be5c79-6b5b-4c32-9804-1d6642500752",
+        "title": "2025 Quant Research Summer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1726257766,
+        "date_posted": 1726257766,
+        "url": "https://job-boards.greenhouse.io/schonfeld/jobs/6250099",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Schonfeld",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Gilead Sciences",
+        "id": "0ac1dd04-d0fc-4d07-a32c-1e4e371036e2",
+        "title": "Intern \u2013 IT - Machine Learning Engineer / Data Scientist",
+        "active": true,
+        "terms": [
+            "Spring 2024",
+            "Summer 2024"
+        ],
+        "date_updated": 1726257434,
+        "date_posted": 1726257434,
+        "url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---North-Carolina---Raleigh/Intern----IT--Machine-Learning-Engineer---Data-Scientist_R0042298",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Gilead-Sciences",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Carter's Careers",
+        "id": "dd7ac7bc-763e-4978-8919-b4c527d5225c",
+        "title": "Full Stack Developer \u2013 Ecomm Intern",
+        "active": true,
+        "terms": [
+            "Spring 2024",
+            "Summer 2024"
+        ],
+        "date_updated": 1726257774,
+        "date_posted": 1726257774,
+        "url": "https://carters.wd1.myworkdayjobs.com/en-US/CartersCareers/job/Atlanta-GA/Full-Stack-Developer--eComm-Intern_JR35351",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/65a3e9ca-0aaa-423e-a372-a8f6a6cb9ea0",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Gilead Sciences",
+        "id": "f9503927-d6a4-4c58-9173-96ac27120f52",
+        "title": "Intern \u2013 Quality-Machine Learning Engineer / Data Scientist",
+        "active": true,
+        "terms": [
+            "Spring 2024",
+            "Summer 2024"
+        ],
+        "date_updated": 1726257430,
+        "date_posted": 1726257430,
+        "url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---Quality--Machine-Learning-Engineer---Data-Scientist_R0042419",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Gilead-Sciences",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Wellington Management",
+        "id": "60cf3f7f-859a-4c52-8d19-78e7a120cd7a",
+        "title": "Summer 2025 Technology Undergraduate Intern - Boston",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1726259408,
+        "date_posted": 1726259408,
+        "url": "https://wellington.wd5.myworkdayjobs.com/Campus/job/Boston-MA-United-States/Summer-2025-Technology-Undergraduate-Intern---Boston_R91208",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Wellington",
         "is_visible": true,
         "sponsorship": "Other"
     }
