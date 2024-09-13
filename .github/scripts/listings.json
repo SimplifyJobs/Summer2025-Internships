@@ -92729,7 +92729,7 @@
         "company_name": "Chicago Trading Company",
         "id": "37f9b264-0f7c-498f-a8f8-a3f17bc434c0",
         "title": "Software Engineer Internship - Summer 2025 - New York",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -92748,7 +92748,7 @@
         "company_name": "Chicago Trading Company",
         "id": "be0b643c-7e67-46db-ba2f-187ee3617805",
         "title": "Software Engineer Internship - Summer 2025 - Chicago",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -96099,7 +96099,7 @@
         "company_name": "Dev Technology Group",
         "id": "a1566eec-cf5f-40ec-9b2b-9d48f855ca46",
         "title": "Summer React/Node Application Developer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -100900,7 +100900,7 @@
         "company_name": "Samsung Research America",
         "id": "3ab740d7-c75d-409a-8ae8-81d279b51f89",
         "title": "2024 Fall Intern - Android - Digital Health",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2024"
         ],
@@ -102050,5 +102050,102 @@
         "date_posted": 1726244034,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "SingleStore",
+        "id": "ffd9baf1-9c2e-4e5e-b9e3-dc99837c02dd",
+        "title": "Software Engineer \u2013 DB Engine Intern - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1726257408,
+        "date_posted": 1726257408,
+        "url": "https://boards.greenhouse.io/singlestore/jobs/6249890",
+        "locations": [
+            "Seattle, WA",
+            "SF",
+            "Raleigh, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/SingleStore",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Lyft",
+        "id": "75a04548-5d17-44fe-bf97-10279668a16a",
+        "title": "Software Engineer Intern - Mobile Android - Toronto - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1726257016,
+        "date_posted": 1726257016,
+        "url": "https://app.careerpuck.com/job-board/lyft/job/7629317002?gh_jid=7629317002",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Lyft",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Lyft",
+        "id": "78a6c258-4ae0-4282-a086-283f6f14250a",
+        "title": "Software Engineer Intern - Mobile iOS - Toronto - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1726257015,
+        "date_posted": 1726257015,
+        "url": "https://app.careerpuck.com/job-board/lyft/job/7629311002?gh_jid=7629311002",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Lyft",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Lyft",
+        "id": "1242c916-6926-4cd0-ae47-ae2a2e814344",
+        "title": "Software Engineer Intern - Mobile Android - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1726257015,
+        "date_posted": 1726257015,
+        "url": "https://app.careerpuck.com/job-board/lyft/job/7632834002?gh_jid=7632834002",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Lyft",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Lyft",
+        "id": "74b41ee5-101d-42ff-8fa2-8fb1bd478223",
+        "title": "Software Engineering Intern - Backend - Montreal - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1726257014,
+        "date_posted": 1726257014,
+        "url": "https://app.careerpuck.com/job-board/lyft/job/7619583002?gh_jid=7619583002",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Lyft",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
