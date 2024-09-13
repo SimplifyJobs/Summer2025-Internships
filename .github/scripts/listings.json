@@ -101876,5 +101876,26 @@
         "company_url": "https://simplify.jobs/c/Walmart",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1726196796,
+        "url": "https://jobs.keysight.com/external/jobs/44447",
+        "company_name": "Keysight Technologies",
+        "title": "Software Intern",
+        "locations": [
+            "Atlanta, GA",
+            "Colorado Springs, CO",
+            "Santa Rosa, CA"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "GaryZhous",
+        "id": "9753f01e-9193-4a01-9482-20b5ee3fdb1f",
+        "date_posted": 1726196796,
+        "company_url": "",
+        "is_visible": true
     }
 ]
