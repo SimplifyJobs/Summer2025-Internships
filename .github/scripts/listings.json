@@ -101825,15 +101825,17 @@
         "source": "Simplify",
         "company_name": "Symmetry Systems",
         "id": "956cda9a-1e3f-4649-81a7-7b78729c6e0d",
-        "title": "Full Stack Software Engineer \u2013 2025 Summer Intern - Austin TX",
+        "title": "Full Stack Software Engineer \u2013 2025 Summer Intern",
         "active": true,
         "terms": [
             "Summer 2025"
         ],
-        "date_updated": 1726182719,
+        "date_updated": 1726287767,
         "date_posted": 1726182719,
         "url": "https://jobs.lever.co/SymmetrySystems/0b0641c0-b639-4d95-a871-98b80eaed1a6/apply",
-        "locations": [],
+        "locations": [
+            "Austin, TX"
+        ],
         "company_url": "https://simplify.jobs/c/SymmetrySystems",
         "is_visible": true,
         "sponsorship": "Other"
