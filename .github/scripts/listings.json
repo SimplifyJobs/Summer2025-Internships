@@ -102500,5 +102500,24 @@
         "date_posted": 1726286868,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726287122,
+        "url": "https://app.ripplematch.com/v2/public/job/4b1e6e0d/details",
+        "company_name": "ULINE Inc.",
+        "title": "Network Engineer Intern",
+        "locations": [
+            "Pleasant Prairie, W"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "mtlogs",
+        "id": "93b7db5f-bc2f-469f-8080-19f9e4091099",
+        "date_posted": 1726287122,
+        "company_url": "",
+        "is_visible": true
     }
 ]
