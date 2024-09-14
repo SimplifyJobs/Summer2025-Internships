@@ -102459,5 +102459,27 @@
         "company_url": "https://simplify.jobs/c/Wurl",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1726286775,
+        "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Spring-Texas-United-States-of-America/Personal-Systems-Software-Engineer-Internship_3141362-1?src=HPCompanyWebsite",
+        "company_name": "HP",
+        "title": "Personal Systems Software Engineer Internship",
+        "locations": [
+            "Spring, Texas, United States of America",
+            "Palo Alto, California, United States of America",
+            "Fort Collins, Colorado, United States of America",
+            "Austin, Texas, United States of America"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "GiridharRNair",
+        "id": "9773e5b8-3641-4673-bf3f-9e8c92b76a10",
+        "date_posted": 1726286775,
+        "company_url": "",
+        "is_visible": true
     }
 ]
