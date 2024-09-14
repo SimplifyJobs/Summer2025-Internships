@@ -102481,5 +102481,24 @@
         "date_posted": 1726286775,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726286868,
+        "url": "https://app.ripplematch.com/v2/public/job/ea284763/details",
+        "company_name": "Greif",
+        "title": "Summer 2025 Engineering/Automation Intern",
+        "locations": [
+            "Alsip, IL"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "mtlogs",
+        "id": "03168838-a75d-40a0-9ebb-1f8a213397a3",
+        "date_posted": 1726286868,
+        "company_url": "",
+        "is_visible": true
     }
 ]
