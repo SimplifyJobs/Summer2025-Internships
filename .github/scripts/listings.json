@@ -102560,5 +102560,24 @@
         "company_url": "https://simplify.jobs/c/Walmart",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1726350248,
+        "url": "https://careers.ibm.com/job/20954180/back-end-qa-developer-intern-2025-houston-tx/?codes=WEB_SEARCH_EMEA",
+        "company_name": "IBM",
+        "title": "Back-end /QA Developer Intern: 2025",
+        "locations": [
+            "Houston, TX"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "GaryZhous",
+        "id": "00729e75-a1a5-4a68-b1d8-54a180c2486d",
+        "date_posted": 1726350248,
+        "company_url": "",
+        "is_visible": true
     }
 ]
