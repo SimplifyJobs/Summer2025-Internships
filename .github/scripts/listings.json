@@ -98597,7 +98597,7 @@
         "company_name": "Allegion",
         "id": "cd0e404c-c82a-44f0-8f78-e9c6b67ba5f4",
         "title": "Software Engineering Intern - Devops",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -101643,7 +101643,7 @@
         "company_name": "Booz Allen",
         "id": "33d143e2-e733-4f81-bacb-c91e9814ce71",
         "title": "University \u2013 Data Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025",
             "Summer 2025",
