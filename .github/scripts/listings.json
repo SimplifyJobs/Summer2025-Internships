@@ -102694,5 +102694,72 @@
         "date_posted": 1726499095,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Fidelity Investments",
+        "id": "fbccc515-2c13-4ce1-a9ea-7f10afda79bf",
+        "title": "Summer 2025 Undergraduate Internship - Technology",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1726500258,
+        "date_posted": 1726500258,
+        "url": "https://wd1.myworkdaysite.com/recruiting/fmr/FidelityCareers/job/Boston-MA/Summer-2025-Undergraduate-Internship---Technology_2098649",
+        "locations": [
+            "Salt Lake City, UT",
+            "Boston, MA",
+            "Westlake, TX",
+            "Durham, NC",
+            "Smithfield, RI",
+            "Merrimack, NH",
+            "NYC",
+            "Cincinnati, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Fidelity",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Bose",
+        "id": "556b2171-0583-4172-9fba-f3c525ba0cdf",
+        "title": "Embedded Software Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1726499940,
+        "date_posted": 1726499940,
+        "url": "https://boseallaboutme.wd1.myworkdayjobs.com/en-US/Bose_Careers/job/US-MA---Framingham/Embedded-Software-Intern_R27531",
+        "locations": [
+            "Framingham, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/bose",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Bose",
+        "id": "4047d954-19e4-4019-b0f5-a3a2bd5481d8",
+        "title": "Data Science Co-Op - NLP",
+        "active": true,
+        "terms": [
+            "Winter 2026",
+            "Spring 2026",
+            "Summer 2026"
+        ],
+        "date_updated": 1726499937,
+        "date_posted": 1726499937,
+        "url": "https://boseallaboutme.wd1.myworkdayjobs.com/en-US/Bose_Careers/job/US-MA---Framingham/Data-Science-Co-Op--NLP-_R27421",
+        "locations": [
+            "Framingham, MA",
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/bose",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
