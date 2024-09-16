@@ -92729,7 +92729,7 @@
         "company_name": "Chicago Trading Company",
         "id": "37f9b264-0f7c-498f-a8f8-a3f17bc434c0",
         "title": "Software Engineer Internship - Summer 2025 - New York",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -92767,7 +92767,7 @@
         "company_name": "Chicago Trading Company",
         "id": "99d2e5dc-1b16-4a09-95e0-bace562a80a0",
         "title": "Quant Trading Associate Internship - Summer 2025 - London",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -92786,7 +92786,7 @@
         "company_name": "Chicago Trading Company",
         "id": "c4a49da7-88a9-4943-a484-e284bcd64301",
         "title": "Quant Trading Associate Internship - Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -101396,7 +101396,7 @@
         "company_name": "Cadence Design Systems",
         "id": "ed952e07-2218-41f9-956f-d5b4cb161e2b",
         "title": "WFO Application Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -101472,7 +101472,7 @@
         "company_name": "Cadence Design Systems",
         "id": "60b2b741-85aa-45ab-aa96-32abb6ff6ae6",
         "title": "WFO Application Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -101510,7 +101510,7 @@
         "company_name": "Cadence Design Systems",
         "id": "ffe7cf1c-5853-4fb1-b9d6-8a493ffba258",
         "title": "WFO Application Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -101548,7 +101548,7 @@
         "company_name": "Cadence Design Systems",
         "id": "f3494748-eefe-4ce8-b16e-2849f0779ab3",
         "title": "WFO Application Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -102759,6 +102759,122 @@
             "Atlanta, GA"
         ],
         "company_url": "https://simplify.jobs/c/bose",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Galaxy",
+        "id": "d16abc67-b490-4184-ae51-f22402adac95",
+        "title": "2025 Sales & Trading Intern - NYC",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1726514214,
+        "date_posted": 1726514214,
+        "url": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/5320664004",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Galaxy",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "State Street",
+        "id": "b563e1ed-9299-4d76-8fd8-2f60fb1338a4",
+        "title": "Audit Data Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1726514176,
+        "date_posted": 1726514176,
+        "url": "https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Boston-Massachusetts/Audit-Data-Analyst-Intern_R-757843",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/d1ef45b2-fd52-4e9d-9d7d-dc3d5386744f",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Visa",
+        "id": "0f39d2d3-f0ef-4495-94a5-2d85eaefcc42",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1726514165,
+        "date_posted": 1726514165,
+        "url": "https://jobs.smartrecruiters.com/Visa/744000014254245",
+        "locations": [
+            "Ashburn, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Visa",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Visa",
+        "id": "96f09d80-a934-4531-afc3-44bdd3b09529",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1726514162,
+        "date_posted": 1726514162,
+        "url": "https://jobs.smartrecruiters.com/Visa/744000014253576",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Visa",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Symbotic",
+        "id": "0f48d1d2-9532-4bb2-b394-31b8f4592661",
+        "title": "Co-op-Front End Software Engineer",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1726514096,
+        "date_posted": 1726514096,
+        "url": "https://symbotic.wd1.myworkdayjobs.com/en-US/Symbotic/job/USA-Wilmington--MA---HQ/Co-op--Front-End-Software-Engineer_R3996",
+        "locations": [
+            "Burlington, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/symbotic",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Symbotic",
+        "id": "aa309a8a-f4ae-41bb-8e64-5ea742d60a4d",
+        "title": "Intern \u2013 Bot Controls",
+        "active": true,
+        "terms": [
+            "Summer 2024",
+            "Spring 2025",
+            "Fall 2025"
+        ],
+        "date_updated": 1726514043,
+        "date_posted": 1725924137,
+        "url": "https://symbotic.wd1.myworkdayjobs.com/en-US/Symbotic/job/USA-Wilmington--MA---HQ/Intern---Bot-Controls_R3930",
+        "locations": [
+            "Burlington, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/symbotic",
         "is_visible": true,
         "sponsorship": "Other"
     }
