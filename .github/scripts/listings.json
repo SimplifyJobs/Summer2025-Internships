@@ -102675,5 +102675,24 @@
         "company_url": "https://simplify.jobs/c/Oshkosh",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1726499095,
+        "url": "https://boards.greenhouse.io/scm/jobs/721888?gh_src=9a5dd53e1us",
+        "company_name": "Stevens Capital Management",
+        "title": "Developer Intern",
+        "locations": [
+            "Radnor, PA"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "nij-patel",
+        "id": "4eb9a2d8-c442-47d7-baa5-ec709eb8d882",
+        "date_posted": 1726499095,
+        "company_url": "",
+        "is_visible": true
     }
 ]
