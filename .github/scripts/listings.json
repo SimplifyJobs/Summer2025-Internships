@@ -89216,7 +89216,7 @@
             "Summer 2025"
         ],
         "sponsorship": "Offers Sponsorship",
-        "active": false,
+        "active": true,
         "source": "Simplify",
         "id": "71cf7b3f-5fb9-4eba-acf3-e1a7cf8c8b34",
         "date_posted": 1721145386,
@@ -92748,7 +92748,7 @@
         "company_name": "Chicago Trading Company",
         "id": "be0b643c-7e67-46db-ba2f-187ee3617805",
         "title": "Software Engineer Internship - Summer 2025 - Chicago",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -96061,7 +96061,7 @@
         "company_name": "Dev Technology Group",
         "id": "5bdff058-4a4b-4c2d-b45a-5875789e04db",
         "title": "Summer Servicenow Application Developer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -96080,7 +96080,7 @@
         "company_name": "Dev Technology Group",
         "id": "51f69fa4-d93b-440c-8b44-505066e242e3",
         "title": "Summer Java Application Developer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -96195,7 +96195,7 @@
         "company_name": "Dev Technology Group",
         "id": "26652ed4-7caa-46ad-81f7-af24cd2af336",
         "title": "Summer M365/Power Platform Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -100609,7 +100609,7 @@
         "company_name": "Altruist",
         "id": "41114bcd-196c-4c40-8edd-1e79de006a21",
         "title": "2025 Technology and Innovation Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -101434,7 +101434,7 @@
         "company_name": "Cadence Design Systems",
         "id": "6fd4728e-1e59-4086-8d8f-37cde21b0bd7",
         "title": "WFO Application Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -102875,6 +102875,158 @@
             "Burlington, MA"
         ],
         "company_url": "https://simplify.jobs/c/symbotic",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Bose",
+        "id": "9ea52046-ccda-47cb-8347-b98fb2cb87c0",
+        "title": "Embedded Software Engineer Co-op",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1726514533,
+        "date_posted": 1726514533,
+        "url": "https://boseallaboutme.wd1.myworkdayjobs.com/en-US/Bose_Careers/job/US-MA---Framingham/Embedded-Software-Engineer-Co-op_R27474-1",
+        "locations": [
+            "Framingham, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/bose",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Visa",
+        "id": "b6989823-e07a-43f3-9929-68dc5f78d100",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1726514163,
+        "date_posted": 1726514163,
+        "url": "https://jobs.smartrecruiters.com/Visa/744000014253581",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Visa",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Visa",
+        "id": "afdca83d-e589-4f80-b6db-25bb942884a5",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1726514175,
+        "date_posted": 1726514175,
+        "url": "https://jobs.smartrecruiters.com/Visa/744000014256745",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Visa",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Visa",
+        "id": "061a6dec-f500-4d27-b2b5-fa4fb6e322f8",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1726514163,
+        "date_posted": 1726514163,
+        "url": "https://jobs.smartrecruiters.com/Visa/744000014255436",
+        "locations": [
+            "Highlands Ranch, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Visa",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Bristol-Myers Squibb",
+        "id": "3168a7eb-fda2-4535-9301-1c6ee21e4963",
+        "title": "Co-Op \u2013 Machine Learning - Spring 2025",
+        "active": true,
+        "terms": [
+            "Spring 2025"
+        ],
+        "date_updated": 1726514373,
+        "date_posted": 1726514373,
+        "url": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/en-US/BMS/job/Cambridge-Crossing---MA---US/Co-Op---Machine-Learning--Spring-2025-_R1585534",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Bristol-Myers-Squibb",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Galaxy",
+        "id": "9ed25ce2-e689-4723-854d-e21c3c0df2db",
+        "title": "2025 Blockchain Engineering Intern - London",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1726514217,
+        "date_posted": 1726514217,
+        "url": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/5329547004",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Galaxy",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Visa",
+        "id": "702e6a72-01c4-4e63-a1de-523e6b58ab2e",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1726514163,
+        "date_posted": 1726514163,
+        "url": "https://jobs.smartrecruiters.com/Visa/744000014255255",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Visa",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Sentry Insurance",
+        "id": "dc5fd824-b32b-4ff5-b021-f6867a17239a",
+        "title": "Software Developer Co-op - Madison - WI Student Opportunity",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1726514426,
+        "date_posted": 1726514426,
+        "url": "https://sentryinsurance.wd1.myworkdayjobs.com/en-US/SentryCareers/job/Madison-WI/Software-Developer-Co-op---Madison--WI-Student-Opportunity_JR-137070",
+        "locations": [
+            "Madison, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/782e6c3f-aff3-4aed-9d50-50676cb8ed7f",
         "is_visible": true,
         "sponsorship": "Other"
     }
