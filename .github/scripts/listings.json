@@ -99720,7 +99720,7 @@
         "company_name": "Lucid Motors",
         "id": "f8d0360a-d427-41b6-89f3-682ff2ea259a",
         "title": "Intern \u2013 Embedded and Platform Software Engineer - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -103027,6 +103027,26 @@
             "Madison, WI"
         ],
         "company_url": "https://simplify.jobs/c/782e6c3f-aff3-4aed-9d50-50676cb8ed7f",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Motorola",
+        "id": "3a5ad663-2662-4f96-9651-28568fb4ace1",
+        "title": "Data Engineer Intern - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1726514716,
+        "date_posted": 1726514716,
+        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/Data-Engineer-Intern---Summer-2025_R50049",
+        "locations": [
+            "Chicago, IL",
+            "Hoffman Estates, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/MotorolaSolutions",
         "is_visible": true,
         "sponsorship": "Other"
     }
