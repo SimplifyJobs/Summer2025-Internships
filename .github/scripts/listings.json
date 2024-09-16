@@ -102579,5 +102579,24 @@
         "date_posted": 1726350248,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726458651,
+        "url": "https://careers.ameriprise.com/search-jobs/r24_0000002803/technology-intern/",
+        "company_name": "Ameriprise Financial",
+        "title": "Technology Intern",
+        "locations": [
+            "Minneapolis MN"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "A-K-Erol",
+        "id": "bdbd07e6-9f72-43ee-851b-1418fc59a0d0",
+        "date_posted": 1726458651,
+        "company_url": "",
+        "is_visible": true
     }
 ]
