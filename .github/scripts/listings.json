@@ -102370,7 +102370,7 @@
         "company_name": "YOU.com",
         "id": "c8987857-ce03-4ef1-a197-ad62bb03a5f8",
         "title": "Software Engineering Intern - Frontend",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -103226,7 +103226,7 @@
         "company_name": "Oshkosh",
         "id": "08fad577-c9de-4356-80d8-674cb58599de",
         "title": "Engineer Intern - Software - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -103539,6 +103539,67 @@
             "Chicago, IL"
         ],
         "company_url": "https://simplify.jobs/c/Minitab",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Booz Allen",
+        "id": "83eefff5-a3dc-4eb9-9395-45386e7c2949",
+        "title": "Data Scientist Intern",
+        "active": true,
+        "terms": [
+            "Spring 2025"
+        ],
+        "date_updated": 1726586341,
+        "date_posted": 1726586341,
+        "url": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Atlanta-GA/Data-Scientist-Intern_R0205248",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/45cb775d-2ca3-49ea-810f-65334ec70079",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Rockwell Automation",
+        "id": "f211aba9-cef3-4f83-9ea1-da39bb74c595",
+        "title": "Co-op \u2013 Software Engineering",
+        "active": true,
+        "terms": [
+            "Spring 2024",
+            "Summer 2024",
+            "Fall 2024",
+            "Winter 2025"
+        ],
+        "date_updated": 1726586183,
+        "date_posted": 1726586183,
+        "url": "https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Co-op--Software-Engineering_R24-5171-2",
+        "locations": [
+            "Mayfield Heights, OH",
+            "Milwaukee, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Rockwell-Automation",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "The Walt Disney Company",
+        "id": "b432e2fb-5ae4-4c0e-86de-5201ea12b783",
+        "title": "Decision Science Data Engineering Intern - Spring 2025",
+        "active": true,
+        "terms": [
+            "Spring 2025"
+        ],
+        "date_updated": 1726275944,
+        "date_posted": 1726257523,
+        "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Lake-Buena-Vista-FL-USA/Decision-Science-Data-Engineering-Intern--Spring-2025_10101234",
+        "locations": [
+            "Celebration, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Disney",
         "is_visible": true,
         "sponsorship": "Other"
     }
