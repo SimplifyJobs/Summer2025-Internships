@@ -103766,5 +103766,105 @@
         "company_url": "https://simplify.jobs/c/Wellmark",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Clio",
+        "id": "23548c7d-01ff-437f-ae9c-07e51f4c86b4",
+        "title": "Software Developer \u2013 Co-op",
+        "active": true,
+        "terms": [
+            "Winter 2026",
+            "Spring 2026",
+            "Summer 2026"
+        ],
+        "date_updated": 1726600451,
+        "date_posted": 1726600451,
+        "url": "https://clio.wd3.myworkdayjobs.com/en-US/ClioCareerSite/job/Vancouver/Software-Developer--Co-op_REQ-1577",
+        "locations": [
+            "Toronto, ON, Canada",
+            "Calgary, AB, Canada",
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Clio",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "F5",
+        "id": "21f6d894-76a9-426f-b6d7-3f3b28ec3c4d",
+        "title": "Software Engineer Intern - Seattle",
+        "active": true,
+        "terms": [
+            "Spring 2025",
+            "Summer 2025"
+        ],
+        "date_updated": 1726601270,
+        "date_posted": 1726601270,
+        "url": "https://ffive.wd5.myworkdayjobs.com/en-US/f5jobs/job/Seattle/Software-Engineer-Intern--Seattle-_RP1031548",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/f5",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Cohere",
+        "id": "d67baf33-510a-4966-b59c-0f40f6c5860d",
+        "title": "Machine Learning Intern/Co-op - Winter 2025",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1726601022,
+        "date_posted": 1726601022,
+        "url": "https://jobs.lever.co/cohere/67b8ef9e-cf7b-4373-a6a1-8b98906fa719/apply",
+        "locations": [
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Cohere",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Cohere",
+        "id": "da3e4c38-43a9-4963-af44-5b74076d88a6",
+        "title": "Software Engineer Intern/Co-op - Winter 2025",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1726601021,
+        "date_posted": 1726601021,
+        "url": "https://jobs.lever.co/cohere/5a5e777a-8259-447d-b8bf-7b67c7b093b7/apply",
+        "locations": [
+            "Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Cohere",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Minitab",
+        "id": "e2cdd16f-153a-424f-88e7-54abdc27405b",
+        "title": "Intern Opportunities - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1726600544,
+        "date_posted": 1726600544,
+        "url": "https://job-boards.greenhouse.io/minitab/jobs/6210280003",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Minitab",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
