@@ -99761,7 +99761,7 @@
         "company_name": "Booz Allen",
         "id": "20a15b1d-7aa8-4238-88d0-1df25e9c79ae",
         "title": "2025 Cyber Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025",
             "Spring 2025",
@@ -103621,5 +103621,24 @@
         "date_posted": 1726591837,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Curri",
+        "id": "09a70bbe-03be-4341-8e3d-d8de2f8c7bc9",
+        "title": "Software Engineer Intern - Full-Time",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1726600277,
+        "date_posted": 1726600277,
+        "url": "https://jobs.lever.co/curri/1ef189c5-e7a5-4cfb-9cf6-9739be780987/apply",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Curri",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
