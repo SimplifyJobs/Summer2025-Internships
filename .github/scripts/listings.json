@@ -100609,7 +100609,7 @@
         "company_name": "Altruist",
         "id": "41114bcd-196c-4c40-8edd-1e79de006a21",
         "title": "2025 Technology and Innovation Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -103697,6 +103697,54 @@
             "SF"
         ],
         "company_url": "https://simplify.jobs/c/Humane",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Elevance Health",
+        "id": "758e1b35-3b6b-4803-8981-40fee5e1b31f",
+        "title": "Data Intern-Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1726601532,
+        "date_posted": 1726601532,
+        "url": "https://elevancehealth.wd1.myworkdayjobs.com/en-US/ANT/job/GA-ATLANTA-740-W-PEACHTREE-ST-NW/Data-Intern--Summer-2025_JR129207",
+        "locations": [
+            "Indianapolis, IN",
+            "Richmond, VA",
+            "Chicago, IL",
+            "Mason, OH",
+            "Norfolk, VA",
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/elevance-health",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Elevance Health",
+        "id": "1d6f686a-a047-4a50-8f33-ff526f11227b",
+        "title": "Engineering Internship-Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1726601536,
+        "date_posted": 1726601536,
+        "url": "https://elevancehealth.wd1.myworkdayjobs.com/en-US/ANT/job/GA-ATLANTA-740-W-PEACHTREE-ST-NW/Engineering-Internship--Summer-2025_JR129192-1",
+        "locations": [
+            "Indianapolis, IN",
+            "Richmond, VA",
+            "Chicago, IL",
+            "Mason, OH",
+            "Norfolk, VA",
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/elevance-health",
         "is_visible": true,
         "sponsorship": "Other"
     }
