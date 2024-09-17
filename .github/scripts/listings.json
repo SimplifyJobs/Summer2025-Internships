@@ -90549,7 +90549,7 @@
         "company_name": "Codeium",
         "id": "21309919-68fe-4bc7-9637-aadc734b0fd3",
         "title": "Software Engineering Intern - Spring 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2025"
         ],
@@ -91056,7 +91056,7 @@
         "company_name": "Asana",
         "id": "ddf6566c-2648-4479-b9b5-ff0aa07e3a22",
         "title": "NYC Summer Software Engineering Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -97647,7 +97647,7 @@
         "company_name": "National Information Solutions Cooperative (NISC)",
         "id": "6865821a-2a3d-4093-9c0a-7cb07888d7e9",
         "title": "Intern \u2013 Applications & Data Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025",
             "Summer 2025"
@@ -99528,7 +99528,7 @@
         "company_name": "MarketAxess",
         "id": "3cdb8768-36d2-479e-8f33-7bd9d111a62e",
         "title": "Data Software Engineering Intern 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024"
         ],
@@ -100493,7 +100493,7 @@
         "company_name": "Okta",
         "id": "c17e44b5-965e-46e9-b758-0207ba4a1d42",
         "title": "Software Engineer Intern - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -101276,7 +101276,7 @@
         "company_name": "Tencent",
         "id": "eab42f0d-234b-45ae-a30b-d1ee63f3d08e",
         "title": "Game Research & Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -103419,6 +103419,47 @@
             "London, UK"
         ],
         "company_url": "https://simplify.jobs/c/Visa",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Red Hat",
+        "id": "3243bf9f-a377-4ce1-8d0a-9bfbaf2beebd",
+        "title": "Software Engineering Internship",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1725447998,
+        "date_posted": 1725447998,
+        "url": "https://redhat.wd5.myworkdayjobs.com/jobs/job/Boston/Software-Engineering-Internship_R-041167",
+        "locations": [
+            "Boston, MA",
+            "Raleigh, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Red-Hat",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "WillowTree",
+        "id": "85807221-a9b3-4ec8-b9c9-896d918315aa",
+        "title": "Software Engineering Intern - US - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1725377862,
+        "date_posted": 1725377862,
+        "url": "https://boards.greenhouse.io/willowtree/jobs/7596209002",
+        "locations": [
+            "Durham, NC",
+            "Columbus, OH",
+            "Charlottesville, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/WillowTree",
         "is_visible": true,
         "sponsorship": "Other"
     }
