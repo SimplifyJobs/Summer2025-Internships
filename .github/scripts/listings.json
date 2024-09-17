@@ -1612,7 +1612,7 @@
         "company_name": "Covariant",
         "id": "6c3f7766-854b-4b07-a73b-cbfa529ef5a2",
         "title": "Machine Learning - AI Research Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2023"
         ],
@@ -89803,7 +89803,7 @@
         "company_name": "Codeium",
         "id": "8c071f6e-a41b-4034-8f1e-34d82a4c940e",
         "title": "Software Engineering Intern - Fall 2024",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2024"
         ],
@@ -91630,7 +91630,7 @@
         "company_name": "Belvedere Trading",
         "id": "654fd797-bda0-4a6d-ab70-e56869309ada",
         "title": "Quantitative Trading Intern - Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -98165,7 +98165,7 @@
         "company_name": "Wealthsimple",
         "id": "5c96f4ba-9d18-44c5-b741-2e5008430144",
         "title": "Intern \u2013 Data Science - Winter 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -100588,7 +100588,7 @@
         "company_name": "Numerade",
         "id": "4d9ce4b0-99ec-4add-907c-76b2d7745864",
         "title": "Data Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025",
             "Spring 2025",
@@ -101339,7 +101339,7 @@
         "company_name": "Tencent",
         "id": "c3d973a9-8b5d-429c-9176-c35b65424bf2",
         "title": "Game Client Development intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
