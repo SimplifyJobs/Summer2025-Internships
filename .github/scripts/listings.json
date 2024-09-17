@@ -21938,7 +21938,7 @@
         "company_name": "Awardco",
         "id": "c64a512f-2622-44bb-9b61-40e707833008",
         "title": "Back-End Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -21957,7 +21957,7 @@
         "company_name": "Awardco",
         "id": "b7be327f-10fa-4775-8a1c-183ea4b062ce",
         "title": "Front-End Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -96099,7 +96099,7 @@
         "company_name": "Dev Technology Group",
         "id": "a1566eec-cf5f-40ec-9b2b-9d48f855ca46",
         "title": "Summer React/Node Application Developer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -99431,7 +99431,7 @@
         "company_name": "Relativity Space",
         "id": "1097f6c6-8757-4cae-9291-13f827004121",
         "title": "Software Engineer Intern - Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -99469,7 +99469,7 @@
         "company_name": "Relativity Space",
         "id": "c7b0af27-7a35-426a-b039-0e7599cdf4fb",
         "title": "Robotics Software Engineer Intern - Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -103988,6 +103988,70 @@
             "Las Vegas, NV"
         ],
         "company_url": "https://simplify.jobs/c/c955eac9-1026-451b-95fe-582bb7c07c4c",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Pinterest",
+        "id": "ec30b20d-57c5-4607-9036-e3a439a9d090",
+        "title": "Mobile Engineer Intern 2025 - USA",
+        "active": true,
+        "terms": [
+            "Spring 2025",
+            "Summer 2025",
+            "Fall 2025"
+        ],
+        "date_updated": 1726614876,
+        "date_posted": 1726614876,
+        "url": "https://www.pinterestcareers.com/job-form?gh_jid=6213897",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Pinterest",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Patreon",
+        "id": "2834e3af-155e-4c50-8a9d-72aaec4b9af5",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Spring 2025",
+            "Summer 2025",
+            "Fall 2025"
+        ],
+        "date_updated": 1726614370,
+        "date_posted": 1726614370,
+        "url": "https://jobs.ashbyhq.com/patreon/281934d5-df77-42ec-a5a1-c06563b9df2a/application",
+        "locations": [
+            "SF",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Patreon",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Pinterest",
+        "id": "0de3234a-ead0-475f-82b0-76bada912b7f",
+        "title": "Mobile Engineer Intern 2025 - San Francisco",
+        "active": true,
+        "terms": [
+            "Spring 2025",
+            "Summer 2025",
+            "Fall 2025"
+        ],
+        "date_updated": 1726614874,
+        "date_posted": 1726614874,
+        "url": "https://www.pinterestcareers.com/job-form?gh_jid=6256269",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Pinterest",
         "is_visible": true,
         "sponsorship": "Other"
     }
