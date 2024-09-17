@@ -103239,5 +103239,24 @@
         "company_url": "https://simplify.jobs/c/Oshkosh",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Sayari",
+        "id": "b26fa41b-5ee1-441f-96ce-32cd2330339f",
+        "title": "Research Intern",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1723558997,
+        "date_posted": 1723045310,
+        "url": "https://jobs.lever.co/sayari/b27b2d5c-7ec8-4423-bff4-b7d417afeb3b/apply",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/Sayari",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
