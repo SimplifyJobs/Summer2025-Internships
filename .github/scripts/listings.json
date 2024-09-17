@@ -103602,5 +103602,24 @@
         "company_url": "https://simplify.jobs/c/Disney",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1726591837,
+        "url": "https://jobs.smartrecruiters.com/Visa/744000014256745-software-engineer-intern",
+        "company_name": "Visa",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "GaryZhous",
+        "id": "d986c4cc-154f-445d-8e3e-d0ef4510b867",
+        "date_posted": 1726591837,
+        "company_url": "",
+        "is_visible": true
     }
 ]
