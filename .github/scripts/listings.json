@@ -104110,5 +104110,24 @@
         "company_url": "https://simplify.jobs/c/9b240811-be36-4b51-8f40-6973a27e1f62",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Visa",
+        "id": "1e26f896-043d-48bb-9afc-902ecbe6009c",
+        "title": "Systems Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1726630163,
+        "date_posted": 1726630163,
+        "url": "https://jobs.smartrecruiters.com/Visa/744000014671585",
+        "locations": [
+            "Highlands Ranch, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Visa",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
