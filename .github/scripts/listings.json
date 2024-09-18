@@ -104129,5 +104129,24 @@
         "company_url": "https://simplify.jobs/c/Visa",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1726633178,
+        "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/Software-Engineering-Intern---Summer-2025--Undergraduate-_R1748",
+        "company_name": "Medtronic",
+        "title": "Software Engineering Intern \u2013 Summer 2025 (Undergraduate)",
+        "locations": [
+            "Multiple Locations"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "aborra02",
+        "id": "529f68b5-0b76-4933-92c0-223aa40a2bf3",
+        "date_posted": 1726633178,
+        "company_url": "",
+        "is_visible": true
     }
 ]
