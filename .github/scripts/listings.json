@@ -104167,5 +104167,24 @@
         "date_posted": 1726633204,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "OakNorth Bank",
+        "id": "15d466bb-a146-4345-89b7-1ad5e46b1cbe",
+        "title": "Associate/Internship \u2013 Senior Managing Director's Office",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1726668733,
+        "date_posted": 1726601003,
+        "url": "https://jobs.lever.co/oaknorth.ai/5818e3d2-cf9d-4f02-9c9a-7eba2ca047e6/apply",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/OakNorthBank",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
