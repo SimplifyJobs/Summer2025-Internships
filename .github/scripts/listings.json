@@ -90980,7 +90980,7 @@
         "company_name": "Asana",
         "id": "af953e8e-bfed-4f7c-9cae-31984e95f581",
         "title": "YVR Summer Data Science Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -90999,7 +90999,7 @@
         "company_name": "Asana",
         "id": "9968d289-d751-463c-a4cb-db298af64306",
         "title": "SF Summer Data Science Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -91018,7 +91018,7 @@
         "company_name": "Asana",
         "id": "c3734e48-b850-4dfc-9d9b-91408b4e65d7",
         "title": "YVR Summer Software Engineering Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -91037,7 +91037,7 @@
         "company_name": "Asana",
         "id": "badd0ae9-41e1-45b1-ab7b-27dd7ce5e5ec",
         "title": "SF Summer Software Engineering Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -91056,7 +91056,7 @@
         "company_name": "Asana",
         "id": "ddf6566c-2648-4479-b9b5-ff0aa07e3a22",
         "title": "NYC Summer Software Engineering Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -91075,7 +91075,7 @@
         "company_name": "Asana",
         "id": "0d2aa9e1-0396-4c1a-9ebb-47a24ec4c729",
         "title": "NYC Summer Data Science Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
