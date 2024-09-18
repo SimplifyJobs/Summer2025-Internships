@@ -104309,5 +104309,26 @@
         "company_url": "https://simplify.jobs/c/FullScript",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Fidelity Investments",
+        "id": "a5401268-3a2b-4ac7-a789-84989b4b134c",
+        "title": "Quantitative Development & Data Science Internship",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1726701355,
+        "date_posted": 1726701355,
+        "url": "https://wd1.myworkdaysite.com/recruiting/fmr/FidelityCareers/job/Boston-MA/Quantitative-Development---Data-Science-Internship_2100935-1",
+        "locations": [
+            "Boston, MA",
+            "Merrimack, NH",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Fidelity",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
