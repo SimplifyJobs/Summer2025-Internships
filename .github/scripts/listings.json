@@ -98299,7 +98299,7 @@
         "company_name": "Okta",
         "id": "a1a82ac3-0bc1-4466-aab1-a5eee4fccc3c",
         "title": "Software Engineer Intern - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -98338,7 +98338,7 @@
         "company_name": "Okta",
         "id": "aeda015e-a11a-414e-8a24-2d25212cda8f",
         "title": "Machine Learning Engineer Intern - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -99431,7 +99431,7 @@
         "company_name": "Relativity Space",
         "id": "1097f6c6-8757-4cae-9291-13f827004121",
         "title": "Software Engineer Intern - Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -99469,7 +99469,7 @@
         "company_name": "Relativity Space",
         "id": "c7b0af27-7a35-426a-b039-0e7599cdf4fb",
         "title": "Robotics Software Engineer Intern - Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -102232,7 +102232,7 @@
         "company_name": "Span",
         "id": "1669166f-7f62-4ae2-a976-0762f7ad833b",
         "title": "Device Software Engineering Internship-Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -104249,6 +104249,26 @@
             "Hoffman Estates, IL"
         ],
         "company_url": "https://simplify.jobs/c/MotorolaSolutions",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Q2",
+        "id": "cd913a03-70ed-4cd7-beee-68b9e7069ecb",
+        "title": "Engineering/Data Science Internship",
+        "active": true,
+        "terms": [
+            "Spring 2024",
+            "Summer 2024"
+        ],
+        "date_updated": 1726687746,
+        "date_posted": 1726687746,
+        "url": "https://q2ebanking.wd5.myworkdayjobs.com/en-US/Q2/job/Austin-TX/Engineering-Data-Science-Internship_REQ-10697",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Q2Software",
         "is_visible": true,
         "sponsorship": "Other"
     }
