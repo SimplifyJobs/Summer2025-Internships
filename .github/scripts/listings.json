@@ -104587,5 +104587,27 @@
         "company_url": "https://simplify.jobs/c/bose",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1726779653,
+        "url": "https://jobs.intuit.com/job/-/-/27595/70124805024?cid=pjob_li_click_us_swe-other-fy25_cn_text_job_int-tm&iis=pjob&iisn=li&p_sid=9LlaBCb&p_uid=tyVpQb0LKb&ss=paid&utm_campaign=&utm_content=pj_board&utm_medium=jobad",
+        "company_name": "Intuit",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "Mountain View, CA",
+            "San Diego, CA",
+            "New York, NY",
+            "Atlanta, GA"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "LuaanNguyen",
+        "id": "ff7959d4-d6fe-4f90-a40b-1a534a74e331",
+        "date_posted": 1726779653,
+        "company_url": "",
+        "is_visible": true
     }
 ]
