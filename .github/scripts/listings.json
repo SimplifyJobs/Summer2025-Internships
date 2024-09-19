@@ -104396,5 +104396,24 @@
         "company_url": "https://simplify.jobs/c/Humane",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1726720362,
+        "url": "https://sentryinsurance.wd1.myworkdayjobs.com/SentryCareers/job/Stevens-Point-WI/Software-Engineer-Internship--Summer-2025_JR-137167",
+        "company_name": "Sentry",
+        "title": "Software Engineer Internship- Summer 2025",
+        "locations": [
+            "Stevens Point, WI"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "GaryZhous",
+        "id": "28882356-6c5b-4bb0-86cf-d10d89ecbecb",
+        "date_posted": 1726720362,
+        "company_url": "",
+        "is_visible": true
     }
 ]
