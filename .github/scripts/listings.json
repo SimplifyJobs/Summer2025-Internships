@@ -104530,5 +104530,43 @@
         "company_url": "https://simplify.jobs/c/Demiurge-Studios",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Visa",
+        "id": "8ceb06f7-fd42-4ef9-8110-cc70b1640265",
+        "title": "Data Engineer \u2013 Intern - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1726774356,
+        "date_posted": 1726774356,
+        "url": "https://jobs.smartrecruiters.com/Visa/744000015185403",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Visa",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Visa",
+        "id": "b96fa42a-d28a-4c13-9115-dd9e5f0b6369",
+        "title": "Data Engineer \u2013 Intern - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1726774356,
+        "date_posted": 1726774356,
+        "url": "https://jobs.smartrecruiters.com/Visa/744000015189165",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Visa",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
