@@ -104330,5 +104330,24 @@
         "company_url": "https://simplify.jobs/c/Fidelity",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1726708487,
+        "url": "https://careers.confluent.io/jobs/14941884-2025-software-engineering-intern",
+        "company_name": "Confluent",
+        "title": "2025 Software Engineering Intern",
+        "locations": [
+            "Remote in Canada"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "GaryZhous",
+        "id": "56fd60a2-0efa-457b-a119-a59cff657ce6",
+        "date_posted": 1726708487,
+        "company_url": "",
+        "is_visible": true
     }
 ]
