@@ -104434,5 +104434,44 @@
         "date_posted": 1726720549,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Wayfair",
+        "id": "f47e6eb9-adeb-456e-9d66-91d0534d4580",
+        "title": "Data Scientist Intern-Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1726758107,
+        "date_posted": 1726758107,
+        "url": "https://www.wayfair.com/careers/jobs/7617146002?gh_jid=7617146002",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Wayfair",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Duolingo",
+        "id": "2884a800-0120-4af8-a039-6c17317534c4",
+        "title": "Data Scientist \u2013 Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1726757585,
+        "date_posted": 1726672199,
+        "url": "https://job-boards.greenhouse.io/duolingo/jobs/7643898002",
+        "locations": [
+            "Pittsburgh, PA",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Duolingo",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
