@@ -92748,7 +92748,7 @@
         "company_name": "Chicago Trading Company",
         "id": "be0b643c-7e67-46db-ba2f-187ee3617805",
         "title": "Software Engineer Internship - Summer 2025 - Chicago",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -92786,7 +92786,7 @@
         "company_name": "Chicago Trading Company",
         "id": "c4a49da7-88a9-4943-a484-e284bcd64301",
         "title": "Quant Trading Associate Internship - Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -94899,7 +94899,7 @@
         "company_name": "NVIDIA",
         "id": "b9b4e75e-9aa8-4526-aac7-15efa7ae7c97",
         "title": "NVIDIA 2025 Internships: Software Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -104717,7 +104717,7 @@
         "company_name": "NinjaTrader",
         "id": "a601b641-24bb-487d-8a31-d6d308db1311",
         "title": "Software Engineer Intern - Fcm - Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -104831,7 +104831,7 @@
         "company_name": "NinjaTrader",
         "id": "7c4eb28a-6bd8-45ec-951f-6e7d08e82d35",
         "title": "Software Developer in Test Intern - Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -105052,6 +105052,44 @@
             "Toronto, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Astranis",
+        "id": "2da81e78-4b39-452f-974e-7caff2be995c",
+        "title": "Full Stack Developer \u2013 Intern - Network Software - Spring 2025",
+        "active": true,
+        "terms": [
+            "Spring 2025"
+        ],
+        "date_updated": 1726874059,
+        "date_posted": 1726874059,
+        "url": "https://job-boards.greenhouse.io/astranis/jobs/4400091006",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Astranis",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Astranis",
+        "id": "f008700a-117b-4b47-87ec-308512d1d596",
+        "title": "Full Stack Developer \u2013 Intern - Network Software - Winter 2025",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1726874058,
+        "date_posted": 1726874058,
+        "url": "https://job-boards.greenhouse.io/astranis/jobs/4400090006",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Astranis",
         "is_visible": true,
         "sponsorship": "Other"
     }
