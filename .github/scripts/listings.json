@@ -96061,7 +96061,7 @@
         "company_name": "Dev Technology Group",
         "id": "5bdff058-4a4b-4c2d-b45a-5875789e04db",
         "title": "Summer Servicenow Application Developer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -104717,7 +104717,7 @@
         "company_name": "NinjaTrader",
         "id": "a601b641-24bb-487d-8a31-d6d308db1311",
         "title": "Software Engineer Intern - Fcm - Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -104736,7 +104736,7 @@
         "company_name": "NinjaTrader",
         "id": "bfa39b01-6af3-416f-90df-7124d63d72e0",
         "title": "Data Analytics Intern - Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -104755,7 +104755,7 @@
         "company_name": "NinjaTrader",
         "id": "7b6b563c-ea8c-49bd-b5fa-a73278c0575c",
         "title": "Data Engineer Intern - Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -104774,7 +104774,7 @@
         "company_name": "NinjaTrader",
         "id": "ef54770b-b354-41ff-96ce-c396c2fa1836",
         "title": "Software Engineer Intern - Trading Services - Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -104812,7 +104812,7 @@
         "company_name": "NinjaTrader",
         "id": "32b3b579-cbf6-457c-8b16-69e473465d3f",
         "title": "Web Engineer Intern - Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -104831,7 +104831,7 @@
         "company_name": "NinjaTrader",
         "id": "7c4eb28a-6bd8-45ec-951f-6e7d08e82d35",
         "title": "Software Developer in Test Intern - Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -104900,6 +104900,63 @@
             "Greenwich, CT"
         ],
         "company_url": "https://simplify.jobs/c/AQR-Capital-Management",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Thrivent",
+        "id": "30c6b4ad-f683-479c-9961-7af3543a0811",
+        "title": "Software Developer Intern - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1726845439,
+        "date_posted": 1726845439,
+        "url": "https://thrivent.wd5.myworkdayjobs.com/external/job/Remote-Minnesota/Software-Developer-Intern---Summer-2025_REQ-40181",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Thrivent",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Thrivent",
+        "id": "426b9829-bf5b-4d16-afa3-022d15506273",
+        "title": "IT Application Engineer Intern - Investments - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1726845440,
+        "date_posted": 1726845440,
+        "url": "https://thrivent.wd5.myworkdayjobs.com/external/job/Mpls-Investments-Office/IT-Application-Engineer-Intern--Investments---Summer-2025_REQ-40179",
+        "locations": [
+            "Minneapolis, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Thrivent",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Thrivent",
+        "id": "6dbb30ce-27a2-4ac2-b605-ee9986dc3c42",
+        "title": "Data Analyst Intern - Investments - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1726845433,
+        "date_posted": 1726845433,
+        "url": "https://thrivent.wd5.myworkdayjobs.com/external/job/Mpls-Investments-Office/Data-Analyst-Intern--Investments---Summer-2025_REQ-40180",
+        "locations": [
+            "Minneapolis, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Thrivent",
         "is_visible": true,
         "sponsorship": "Other"
     }
