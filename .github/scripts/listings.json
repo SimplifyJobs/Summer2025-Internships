@@ -104959,5 +104959,24 @@
         "company_url": "https://simplify.jobs/c/Thrivent",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Leidos",
+        "id": "ac05ce8e-d37e-4826-816f-9d85ee4b12cb",
+        "title": "Software Developer Co-op",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1726845134,
+        "date_posted": 1726845134,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Manassas-VA/Software-Developer-Co-op_R-00144119",
+        "locations": [
+            "Manassas, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
