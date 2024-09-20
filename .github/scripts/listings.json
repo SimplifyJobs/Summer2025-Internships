@@ -94899,7 +94899,7 @@
         "company_name": "NVIDIA",
         "id": "b9b4e75e-9aa8-4526-aac7-15efa7ae7c97",
         "title": "NVIDIA 2025 Internships: Software Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -104717,7 +104717,7 @@
         "company_name": "NinjaTrader",
         "id": "a601b641-24bb-487d-8a31-d6d308db1311",
         "title": "Software Engineer Intern - Fcm - Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -104736,7 +104736,7 @@
         "company_name": "NinjaTrader",
         "id": "bfa39b01-6af3-416f-90df-7124d63d72e0",
         "title": "Data Analytics Intern - Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -104755,7 +104755,7 @@
         "company_name": "NinjaTrader",
         "id": "7b6b563c-ea8c-49bd-b5fa-a73278c0575c",
         "title": "Data Engineer Intern - Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -104774,7 +104774,7 @@
         "company_name": "NinjaTrader",
         "id": "ef54770b-b354-41ff-96ce-c396c2fa1836",
         "title": "Software Engineer Intern - Trading Services - Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -104812,7 +104812,7 @@
         "company_name": "NinjaTrader",
         "id": "32b3b579-cbf6-457c-8b16-69e473465d3f",
         "title": "Web Engineer Intern - Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -104831,7 +104831,7 @@
         "company_name": "NinjaTrader",
         "id": "7c4eb28a-6bd8-45ec-951f-6e7d08e82d35",
         "title": "Software Developer in Test Intern - Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -104995,6 +104995,44 @@
             "Sarasota, FL"
         ],
         "company_url": "https://simplify.jobs/c/CACI",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "ICF",
+        "id": "94e181b8-5549-4cbf-bd77-c51e41ac4805",
+        "title": "2025 Summer Intern - Generative AI Research - Global Health - Bachelors/Masters - Remote",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1726861142,
+        "date_posted": 1726861142,
+        "url": "https://icf.wd5.myworkdayjobs.com/en-US/ICFExternal_Career_Site/job/Rockville-MD/XMLNAME-2025-Summer-Intern--Generative-AI-Research---Global-Health--Bachelors-Masters--Remote-_R2403658",
+        "locations": [
+            "North Bethesda, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/750f50d0-c3f8-4334-822f-fb70fa81b529",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Marvell",
+        "id": "2dbf5447-be70-44a8-9b87-9640973456e6",
+        "title": "Application Engineering Intern - Bachelors",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1726860837,
+        "date_posted": 1726860837,
+        "url": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers2/job/Santa-Clara-CA/Application-Engineering-Intern---Bachelors_2401788",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/80961b05-9ed3-462d-aef9-4b418c7fb796",
         "is_visible": true,
         "sponsorship": "Other"
     }
