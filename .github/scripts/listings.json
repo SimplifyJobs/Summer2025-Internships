@@ -105130,5 +105130,24 @@
         "company_url": "https://simplify.jobs/c/Bristol-Myers-Squibb",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1726892646,
+        "url": "https://careers.roblox.com/jobs/6257413?gh_jid=6257413&gh_src=da92d0c91",
+        "company_name": "Roblox",
+        "title": "Software Engineer, Community Apprenticeship - Intern",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "GaryZhous",
+        "id": "9249f0b5-5c90-404b-bbe3-7fb15f8c52a3",
+        "date_posted": 1726892646,
+        "company_url": "",
+        "is_visible": true
     }
 ]
