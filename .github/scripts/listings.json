@@ -99431,7 +99431,7 @@
         "company_name": "Relativity Space",
         "id": "1097f6c6-8757-4cae-9291-13f827004121",
         "title": "Software Engineer Intern - Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -99450,7 +99450,7 @@
         "company_name": "Relativity Space",
         "id": "794b3115-8814-4939-aa7c-04c7e699be09",
         "title": "Data Science & Simulation Intern - Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -99469,7 +99469,7 @@
         "company_name": "Relativity Space",
         "id": "c7b0af27-7a35-426a-b039-0e7599cdf4fb",
         "title": "Robotics Software Engineer Intern - Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -104717,7 +104717,7 @@
         "company_name": "NinjaTrader",
         "id": "a601b641-24bb-487d-8a31-d6d308db1311",
         "title": "Software Engineer Intern - Fcm - Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
