@@ -18551,7 +18551,7 @@
         "company_name": "Garda Capital Partners",
         "id": "22af376d-6088-4acc-ad84-0257ded57916",
         "title": "Trading Assistant Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -99431,7 +99431,7 @@
         "company_name": "Relativity Space",
         "id": "1097f6c6-8757-4cae-9291-13f827004121",
         "title": "Software Engineer Intern - Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -99450,7 +99450,7 @@
         "company_name": "Relativity Space",
         "id": "794b3115-8814-4939-aa7c-04c7e699be09",
         "title": "Data Science & Simulation Intern - Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -99469,7 +99469,7 @@
         "company_name": "Relativity Space",
         "id": "c7b0af27-7a35-426a-b039-0e7599cdf4fb",
         "title": "Robotics Software Engineer Intern - Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -104717,7 +104717,7 @@
         "company_name": "NinjaTrader",
         "id": "a601b641-24bb-487d-8a31-d6d308db1311",
         "title": "Software Engineer Intern - Fcm - Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -104736,7 +104736,7 @@
         "company_name": "NinjaTrader",
         "id": "bfa39b01-6af3-416f-90df-7124d63d72e0",
         "title": "Data Analytics Intern - Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -104755,7 +104755,7 @@
         "company_name": "NinjaTrader",
         "id": "7b6b563c-ea8c-49bd-b5fa-a73278c0575c",
         "title": "Data Engineer Intern - Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -104774,7 +104774,7 @@
         "company_name": "NinjaTrader",
         "id": "ef54770b-b354-41ff-96ce-c396c2fa1836",
         "title": "Software Engineer Intern - Trading Services - Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -104812,7 +104812,7 @@
         "company_name": "NinjaTrader",
         "id": "32b3b579-cbf6-457c-8b16-69e473465d3f",
         "title": "Web Engineer Intern - Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -104831,7 +104831,7 @@
         "company_name": "NinjaTrader",
         "id": "7c4eb28a-6bd8-45ec-951f-6e7d08e82d35",
         "title": "Software Developer in Test Intern - Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -105003,7 +105003,7 @@
         "company_name": "ICF",
         "id": "94e181b8-5549-4cbf-bd77-c51e41ac4805",
         "title": "2025 Summer Intern - Generative AI Research - Global Health - Bachelors/Masters - Remote",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -105264,6 +105264,25 @@
             "Montreal, QC, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Autodesk",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "OpenAI",
+        "id": "0559dbe7-6905-4c1e-85f2-8b03cd46d8a0",
+        "title": "Software Engineer Internship / Co-op - Applied Emerging Talent",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1727104720,
+        "date_posted": 1727104720,
+        "url": "https://jobs.ashbyhq.com/openai/6d1b3df9-b086-4e9f-8568-434c5493a00b/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/OpenAI",
         "is_visible": true,
         "sponsorship": "Other"
     }
