@@ -91688,7 +91688,7 @@
         "company_name": "Intel",
         "id": "2d6d268a-4aa7-47af-9062-c74123b9e0fc",
         "title": "Software Engineer \u2013 PEY Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2024"
         ],
@@ -96195,7 +96195,7 @@
         "company_name": "Dev Technology Group",
         "id": "26652ed4-7caa-46ad-81f7-af24cd2af336",
         "title": "Summer M365/Power Platform Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -99431,7 +99431,7 @@
         "company_name": "Relativity Space",
         "id": "1097f6c6-8757-4cae-9291-13f827004121",
         "title": "Software Engineer Intern - Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -99450,7 +99450,7 @@
         "company_name": "Relativity Space",
         "id": "794b3115-8814-4939-aa7c-04c7e699be09",
         "title": "Data Science & Simulation Intern - Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -99469,7 +99469,7 @@
         "company_name": "Relativity Space",
         "id": "c7b0af27-7a35-426a-b039-0e7599cdf4fb",
         "title": "Robotics Software Engineer Intern - Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -104714,7 +104714,7 @@
         "company_name": "NinjaTrader",
         "id": "a601b641-24bb-487d-8a31-d6d308db1311",
         "title": "Software Engineer Intern - Fcm - Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -104733,7 +104733,7 @@
         "company_name": "NinjaTrader",
         "id": "bfa39b01-6af3-416f-90df-7124d63d72e0",
         "title": "Data Analytics Intern - Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -104752,7 +104752,7 @@
         "company_name": "NinjaTrader",
         "id": "7b6b563c-ea8c-49bd-b5fa-a73278c0575c",
         "title": "Data Engineer Intern - Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -104771,7 +104771,7 @@
         "company_name": "NinjaTrader",
         "id": "ef54770b-b354-41ff-96ce-c396c2fa1836",
         "title": "Software Engineer Intern - Trading Services - Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -104828,7 +104828,7 @@
         "company_name": "NinjaTrader",
         "id": "7c4eb28a-6bd8-45ec-951f-6e7d08e82d35",
         "title": "Software Developer in Test Intern - Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -105506,5 +105506,48 @@
         "date_posted": 1727125349,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Salesforce",
+        "id": "8567dab1-84c6-450d-b220-b39a9ac162b5",
+        "title": "Summer 2025 Intern - Business Insights Analyst",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1727133882,
+        "date_posted": 1727133882,
+        "url": "https://salesforce.wd12.myworkdayjobs.com/en-us/External_Career_Site/job/California---San-Francisco/Summer-2025-Intern---Business-Insights-Analyst_JR264521-2",
+        "locations": [
+            "Seattle, WA",
+            "Indianapolis, IN",
+            "SF",
+            "Bellevue, WA",
+            "Atlanta, GA",
+            "Burlington, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Salesforce",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Anchorage",
+        "id": "6bf3cc31-1f81-4497-8858-33100c68c13d",
+        "title": "Software Engineering Internship - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1727133431,
+        "date_posted": 1727133431,
+        "url": "https://jobs.lever.co/anchorage/702cc421-edfb-4e1c-a549-38041306b442/apply",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Anchorage",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
