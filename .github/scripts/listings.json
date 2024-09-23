@@ -105468,5 +105468,24 @@
         "company_url": "https://simplify.jobs/c/Autodesk",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1727125306,
+        "url": "https://delta.avature.net/en_US/careers/JobDetail/Co-op-Delta-Wellness-Data-Science-Summer-2025/25829?jobId=25829#/",
+        "company_name": "Delta",
+        "title": "Co-op, Delta Wellness - Data Science (Summer, 2025)",
+        "locations": [
+            "Atlanta, Georgia"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "source": "rose-deasha",
+        "id": "32643fd7-c3cf-44b6-830a-20d85210e413",
+        "date_posted": 1727125306,
+        "company_url": "",
+        "is_visible": true
     }
 ]
