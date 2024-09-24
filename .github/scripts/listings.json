@@ -105606,5 +105606,24 @@
         "date_posted": 1727156632,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727156991,
+        "url": "https://zebra.eightfold.ai/careers?pid=343621981043",
+        "company_name": "Zebra Technologies",
+        "title": "2025 Summer Internship (US) - Android Software Engineer",
+        "locations": [
+            "Holtsville, NY"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "GaryZhous",
+        "id": "26e7b736-e149-4565-bce2-a023f1b3be8e",
+        "date_posted": 1727156991,
+        "company_url": "",
+        "is_visible": true
     }
 ]
