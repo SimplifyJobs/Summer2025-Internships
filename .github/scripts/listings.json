@@ -85653,7 +85653,7 @@
         "company_name": "Management Leadership For Tomorrow",
         "id": "7a901153-a445-4721-930d-04492cd94390",
         "title": "Software Development Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -105625,5 +105625,155 @@
         "date_posted": 1727156991,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Potential Motors",
+        "id": "174713df-8044-47ad-a035-86b884678c5b",
+        "title": "AI Software Intern",
+        "active": true,
+        "terms": [
+            "Spring 2025"
+        ],
+        "date_updated": 1727190883,
+        "date_posted": 1727190883,
+        "url": "https://jobs.lever.co/PotentialMotors/2a707752-8f00-45e0-8e46-6b742cd00422/apply",
+        "locations": [
+            "Fredericton, NB, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/PotentialMotors",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "TSC",
+        "id": "a2623778-df37-42e9-9c15-56f2b2cdd0ab",
+        "title": "Internship - Software Engineer",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1727190933,
+        "date_posted": 1727190933,
+        "url": "https://tsc.wd12.myworkdayjobs.com/en-US/TSC-Careers/job/Silver-Spring-MD/Internship---Software-Engineer_JR1742-1",
+        "locations": [
+            "Silver Spring, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/3d3125df-3bbc-48fc-993c-8e2d0db65649",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Potential Motors",
+        "id": "bf63d028-20da-4f51-a92c-5fd039d41742",
+        "title": "Data Science Intern",
+        "active": true,
+        "terms": [
+            "Spring 2025"
+        ],
+        "date_updated": 1727190879,
+        "date_posted": 1727190879,
+        "url": "https://jobs.lever.co/PotentialMotors/5bb700a4-07bb-4479-a48a-eba719825910/apply",
+        "locations": [
+            "Fredericton, NB, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/PotentialMotors",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Marvell",
+        "id": "ffe81eec-0cfb-4683-87d3-c2c3f92b99e6",
+        "title": "Field Application Engineering Intern - Bachelor's Degree",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1727190832,
+        "date_posted": 1727190832,
+        "url": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers2/job/Santa-Clara-CA/Field-Application-Engineering-Intern---Bachelor-s-Degree_2401846",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/80961b05-9ed3-462d-aef9-4b418c7fb796",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Galaxy",
+        "id": "0aeb3459-ac8c-4a72-9d83-a6420cf29d22",
+        "title": "2025 Data Engineer Intern - NYC",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1727190551,
+        "date_posted": 1727190551,
+        "url": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/5337595004",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Galaxy",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Galaxy",
+        "id": "97857706-0904-49f9-8579-1341e8d68130",
+        "title": "2025 Derivatives Engineer Intern - NYC",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1727190556,
+        "date_posted": 1727190556,
+        "url": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/5337628004",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Galaxy",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Visa",
+        "id": "36efc28e-d101-496a-918b-2c0f0f46b675",
+        "title": "Software Engineer - Months Placement Student",
+        "active": true,
+        "terms": [],
+        "date_updated": 1727190467,
+        "date_posted": 1727190467,
+        "url": "https://jobs.smartrecruiters.com/Visa/744000016088096",
+        "locations": [
+            "Belfast, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Visa",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Wayfair",
+        "id": "1f00d68e-10cf-4eaf-96b2-45737b37dcee",
+        "title": "Software Engineering Internship - Summer 2025 - Austin - TX",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1727190428,
+        "date_posted": 1727190428,
+        "url": "https://www.wayfair.com/careers/jobs/7653561002?gh_jid=7653561002",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Wayfair",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
