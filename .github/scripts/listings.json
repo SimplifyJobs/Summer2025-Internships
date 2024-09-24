@@ -105587,5 +105587,24 @@
         "company_url": "https://simplify.jobs/c/9b240811-be36-4b51-8f40-6973a27e1f62",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1727156632,
+        "url": "https://talent.lowes.com/us/en/job/JR-01879296/Software-Engineer-Undergraduate-Internship",
+        "company_name": "Lowe's Companies, Inc.",
+        "title": "Software Engineer, Undergraduate Internship",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "GaryZhous",
+        "id": "01e05446-62af-4ea5-be0b-c2638c0abcfb",
+        "date_posted": 1727156632,
+        "company_url": "",
+        "is_visible": true
     }
 ]
