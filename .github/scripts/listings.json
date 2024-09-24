@@ -106048,5 +106048,24 @@
         "company_url": "https://simplify.jobs/c/Badger-Meter",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Kodiak Robotics",
+        "id": "58f57c98-06a9-4c56-9de7-52f361deb514",
+        "title": "Winter 2025 Operations Research Intern",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1727220091,
+        "date_posted": 1727220091,
+        "url": "https://jobs.lever.co/kodiak/07f37351-2ba1-4ca2-985c-a6529d11b4ac/apply",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Kodiak-Robotics",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
