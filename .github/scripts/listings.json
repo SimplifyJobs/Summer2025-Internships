@@ -90396,7 +90396,7 @@
         "company_name": "Motorola",
         "id": "15ec9061-c555-4af6-8a79-830b0bcd1697",
         "title": "Android Platform Software Engineering Intern - Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -106008,6 +106008,44 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/PayPal",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Leidos",
+        "id": "f562abb9-75e9-4afa-82b9-d4700814af86",
+        "title": "Systems Integrator and Developer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1727219487,
+        "date_posted": 1727219487,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Bowie-MD/Systems-Integrator-and-Developer-Intern_R-00143574",
+        "locations": [
+            "Bowie, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Badger Meter",
+        "id": "678f91c5-adab-4e00-aed9-f83412b1efba",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1727219327,
+        "date_posted": 1727219327,
+        "url": "https://badgermeter.wd5.myworkdayjobs.com/US_CareerSite/job/Los-Gatos-CA/Software-Engineering-Intern_3516",
+        "locations": [
+            "Los Gatos, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Badger-Meter",
         "is_visible": true,
         "sponsorship": "Other"
     }
