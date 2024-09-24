@@ -94453,7 +94453,7 @@
         "company_name": "Stryker",
         "id": "bfc0e1c7-165e-4391-959b-be29352c580f",
         "title": "Kettering University Engineering Co-op - B Section - R&D - Npd",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -96252,7 +96252,7 @@
         "company_name": "Blue Origin",
         "id": "a280c71e-f8ce-451f-a324-8947acca98f6",
         "title": "Summer 2025 Software Applications Engineering Intern - Undergraduate",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -97349,7 +97349,7 @@
         "company_name": "Oshkosh",
         "id": "761bb486-4c95-41f5-ad69-0bc24f1a95ef",
         "title": "Engineering Intern - Autonomy - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -99278,7 +99278,7 @@
         "company_name": "Lucid Motors",
         "id": "5c97d004-b827-492d-9c77-dafc9d4cc21e",
         "title": "Intern \u2013 ADAS Tooling - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -99567,7 +99567,7 @@
         "company_name": "Lucid Motors",
         "id": "30fe2dda-7d12-472c-8b7e-7b078add8e01",
         "title": "Intern \u2013 ADAS Mapping and Navigation Engineer - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -99761,7 +99761,7 @@
         "company_name": "Booz Allen",
         "id": "20a15b1d-7aa8-4238-88d0-1df25e9c79ae",
         "title": "2025 Cyber Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025",
             "Spring 2025",
