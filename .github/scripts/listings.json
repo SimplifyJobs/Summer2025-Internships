@@ -85653,7 +85653,7 @@
         "company_name": "Management Leadership For Tomorrow",
         "id": "7a901153-a445-4721-930d-04492cd94390",
         "title": "Software Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -89898,7 +89898,7 @@
         "company_name": "Akuna Capital",
         "id": "b13ff4b5-fbc9-4fcd-8ec5-08c3e510f67c",
         "title": "Performance Engineer Intern - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -96927,7 +96927,7 @@
         "company_name": "Visier Solutions",
         "id": "4ffcee86-9f76-4e96-b15b-d21ac1982986",
         "title": "Software Developer Co-op - January 2025 to August 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
