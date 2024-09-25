@@ -106107,5 +106107,24 @@
         "company_url": "https://simplify.jobs/c/Wispr-AI",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1727241294,
+        "url": "https://ats.rippling.com/rippling/jobs/b34c83f3-0a18-4415-9daa-fffc85cd2684",
+        "company_name": "Rippling",
+        "title": "Data Science Intern - Summer 2025",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "GaryZhous",
+        "id": "1ed8f24c-364d-4bc0-8cb4-615526a98b17",
+        "date_posted": 1727241294,
+        "company_url": "",
+        "is_visible": true
     }
 ]
