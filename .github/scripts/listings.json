@@ -102726,7 +102726,7 @@
         "company_name": "Bose",
         "id": "556b2171-0583-4172-9fba-f3c525ba0cdf",
         "title": "Embedded Software Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -106163,6 +106163,87 @@
             "Longmont, CO"
         ],
         "company_url": "https://simplify.jobs/c/Western-Digital",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Litify",
+        "id": "7aceea15-a01e-4d8e-a07f-3be5ab1ce809",
+        "title": "Software Engineer Co-op - Cooperative Education",
+        "active": true,
+        "terms": [
+            "Winter 2024"
+        ],
+        "date_updated": 1727277647,
+        "date_posted": 1727277647,
+        "url": "https://boards.greenhouse.io/litify/jobs/6279684",
+        "locations": [
+            "New Orleans, LA",
+            "NYC",
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Litify",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "State Street",
+        "id": "dc6561bf-7374-4c0b-ae1d-64bf229a5b8c",
+        "title": "Charles River Spring 2025 Co-Op \u2013 Co-Op - Crd",
+        "active": true,
+        "terms": [
+            "Spring 2025"
+        ],
+        "date_updated": 1727277688,
+        "date_posted": 1727277688,
+        "url": "https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Burlington-Massachusetts/Charles-River-Spring-2025-Co-Op--CRD--Co-Op_R-758488",
+        "locations": [
+            "Burlington, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/d1ef45b2-fd52-4e9d-9d7d-dc3d5386744f",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Uber",
+        "id": "934a5930-192c-4485-a868-68fd733852d8",
+        "title": "2025 Software Engineering Internship - United States",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1727277532,
+        "date_posted": 1727277532,
+        "url": "https://www.uber.com/global/en/careers/list/135629/",
+        "locations": [
+            "Seattle, WA",
+            "SF",
+            "NYC",
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Uber",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Lumentum",
+        "id": "6bbc3052-c522-417e-9b59-64a86a84c8b2",
+        "title": "Optical Algorithms and Analytics Engineering Co-op/Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1727277350,
+        "date_posted": 1727277350,
+        "url": "https://lumentum.wd5.myworkdayjobs.com/en-US/LITE/job/Canada---Ottawa-Bill-Leathem/Optical-Algorithms-and-Analytics-Engineering-Co-op-Intern_2024998",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/0985b121-88fd-4402-aea9-c0c55bfbbc99",
         "is_visible": true,
         "sponsorship": "Other"
     }
