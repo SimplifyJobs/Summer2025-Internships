@@ -106126,5 +106126,25 @@
         "date_posted": 1727241294,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727241412,
+        "url": "https://ats.rippling.com/rippling/jobs/74bd4650-9855-4bd9-806a-95b8bf006c2b",
+        "company_name": "Rippling",
+        "title": "Software Engineer Intern - Summer 2025",
+        "locations": [
+            "San Francisco, CA",
+            "New York, NY"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "GaryZhous",
+        "id": "6653c620-f956-41b7-a509-b1ef23fed744",
+        "date_posted": 1727241412,
+        "company_url": "",
+        "is_visible": true
     }
 ]
