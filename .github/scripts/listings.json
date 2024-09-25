@@ -100531,7 +100531,7 @@
         "company_name": "ICF",
         "id": "02cf2ccd-3aa8-46e6-8bab-669404351ee0",
         "title": "2025 Summer Intern - Data Analyst - Bachelors; Remote or Hybrid from Reston - VA",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -105372,7 +105372,7 @@
         "company_name": "Intel",
         "id": "12d300b4-df8a-4234-9423-017c5f076586",
         "title": "Graduate Intern - Software Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -106305,6 +106305,65 @@
             "San Mateo, CA"
         ],
         "company_url": "https://simplify.jobs/c/Verkada",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Motorola",
+        "id": "148404ba-21d3-457c-bb26-d8dc1d797503",
+        "title": "Supply Chain Data Analyst Internship 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1727306188,
+        "date_posted": 1727306188,
+        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Supply-Chain-Data-Analyst-Internship-2025_R50113",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/MotorolaSolutions",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Nelnet",
+        "id": "d7cd7c80-8a2d-46e5-b336-ca086e09f99c",
+        "title": "Intern \u2013 Software Engineer",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1727306152,
+        "date_posted": 1727306152,
+        "url": "https://nelnet.wd1.myworkdayjobs.com/en-US/MyNelnet/job/Lincoln-NE/Intern---Software-Engineer_R20060",
+        "locations": [
+            "Madison, WI",
+            "Centennial, CO",
+            "Lincoln, NE"
+        ],
+        "company_url": "https://simplify.jobs/c/d7662126-9bc7-4ec4-b3e6-a9a3ae307c5d",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Trimble",
+        "id": "7d797cc8-973c-4ef7-842e-58c4b0b4d664",
+        "title": "Data Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1727306125,
+        "date_posted": 1727306125,
+        "url": "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---OH-Dayton/Intern-Undergraduate---Non-Technical_R45891",
+        "locations": [
+            "Dayton, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Trimble",
         "is_visible": true,
         "sponsorship": "Other"
     }
