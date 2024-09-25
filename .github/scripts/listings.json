@@ -106067,5 +106067,45 @@
         "company_url": "https://simplify.jobs/c/Kodiak-Robotics",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Autodesk",
+        "id": "23150fa3-0144-47b7-bbbd-a44fe319e12e",
+        "title": "Intern \u2013 Data Developer",
+        "active": true,
+        "terms": [
+            "Winter 2025",
+            "Spring 2025",
+            "Summer 2025"
+        ],
+        "date_updated": 1727233667,
+        "date_posted": 1727233667,
+        "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Intern--Data-Developer_24WD82136-1",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Autodesk",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Wispr AI",
+        "id": "def15281-efb9-4a2a-8109-eef491dbb9c8",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1727233596,
+        "date_posted": 1727233596,
+        "url": "https://jobs.lever.co/WisprAI/d72ed5b5-5185-47f2-985e-51f0423d2589/apply",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Wispr-AI",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
