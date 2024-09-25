@@ -99259,7 +99259,7 @@
         "company_name": "Lucid Motors",
         "id": "3ea35ae5-7736-4052-918f-86aa15b795cc",
         "title": "Intern \u2013 Powertrain Data Scientist - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -103264,7 +103264,7 @@
         "company_name": "Fetch",
         "id": "ad50b352-1e23-4fe6-903b-0fd9c0f4d07f",
         "title": "Android Software Engineering Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025",
             "Summer 2025"
@@ -103285,7 +103285,7 @@
         "company_name": "Fetch",
         "id": "ae915db5-5caf-4651-a366-bdfe7d767454",
         "title": "IOS Software Engineering Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025",
             "Summer 2025"
@@ -103306,7 +103306,7 @@
         "company_name": "Fetch",
         "id": "5a764ad7-35b5-4ae1-9167-ee590dd9eacc",
         "title": "Front-end Software Engineering Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025",
             "Summer 2025"
@@ -103327,7 +103327,7 @@
         "company_name": "Fetch",
         "id": "a5082961-899f-4624-a26f-303f90a02b17",
         "title": "Machine Learning Software Engineering Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025",
             "Summer 2025"
@@ -103348,7 +103348,7 @@
         "company_name": "Fetch",
         "id": "458eb070-d4e6-4543-b985-6f4955f83c29",
         "title": "Backend Software Engineering Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025",
             "Summer 2025"
@@ -105451,7 +105451,7 @@
         "company_name": "Autodesk",
         "id": "415a0700-b6e0-4b2a-89c6-26fb107c3819",
         "title": "Intern \u2013 Data Engineer - Vancouver",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025",
             "Spring 2025"
