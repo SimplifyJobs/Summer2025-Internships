@@ -106146,5 +106146,24 @@
         "date_posted": 1727241412,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Western Digital",
+        "id": "a248c697-6ba0-441f-aca0-9769c87aaf88",
+        "title": "Spring 2025 Embedded Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Spring 2025"
+        ],
+        "date_updated": 1727277033,
+        "date_posted": 1727277033,
+        "url": "https://jobs.smartrecruiters.com/WesternDigital/744000016337525",
+        "locations": [
+            "Longmont, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Western-Digital",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
