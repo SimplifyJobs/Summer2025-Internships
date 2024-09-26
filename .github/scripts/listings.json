@@ -96432,7 +96432,7 @@
         "company_name": "Leidos",
         "id": "87d3c076-6325-4899-893f-727215cad757",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -106756,7 +106756,7 @@
         "company_name": "Workato",
         "id": "41b99b36-e56e-43ab-9737-aa493fb94c71",
         "title": "Intern \u2013 Software Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
