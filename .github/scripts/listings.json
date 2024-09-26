@@ -107587,5 +107587,561 @@
         "company_url": "https://simplify.jobs/c/Flynn-Companies",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Uber",
+        "id": "265288be-f9df-4cf7-9311-8d1bd00211a0",
+        "title": "2025 Software Engineering Uberstar Internship - Kennesaw State University",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1727379631,
+        "date_posted": 1727379631,
+        "url": "https://university-uber.icims.com/jobs/135628/job",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Uber",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Uber",
+        "id": "e50d19cb-3d36-4d16-9d39-64d943a1aa17",
+        "title": "2025 Software Engineering Intern - Prairie View a&M University",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1727379074,
+        "date_posted": 1727379074,
+        "url": "https://www.uber.com/global/en/careers/list/135730/",
+        "locations": [
+            "Seattle, WA",
+            "SF",
+            "NYC",
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Uber",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Uber",
+        "id": "9152eb2a-b292-4144-ac0a-8edb54772f04",
+        "title": "2025 Software Engineering Uberstar Internship - University of Texas at San Antonio",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1727379079,
+        "date_posted": 1727379079,
+        "url": "https://www.uber.com/global/en/careers/list/135655/",
+        "locations": [
+            "Seattle, WA",
+            "SF",
+            "NYC",
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Uber",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Uber",
+        "id": "ca6a0fb7-28fa-4236-afa0-b613b275b4e1",
+        "title": "2025 Software Engineering Intern - Texas a&M University",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1727379069,
+        "date_posted": 1727379069,
+        "url": "https://www.uber.com/global/en/careers/list/135731/",
+        "locations": [
+            "Seattle, WA",
+            "SF",
+            "NYC",
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Uber",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Uber",
+        "id": "8a34ad65-fcf4-42e6-99c6-60621f8334c5",
+        "title": "2025 Software Engineering Uberstar Internship - Texas a&M University",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1727379057,
+        "date_posted": 1727379057,
+        "url": "https://www.uber.com/global/en/careers/list/135683/",
+        "locations": [
+            "Seattle, WA",
+            "SF",
+            "NYC",
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Uber",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Uber",
+        "id": "7675b2da-a6ee-4911-9bc7-8232f21e0423",
+        "title": "2025 Software Engineering Internship - Stanford University",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1727379044,
+        "date_posted": 1727379044,
+        "url": "https://www.uber.com/global/en/careers/list/135738/",
+        "locations": [
+            "Seattle, WA",
+            "SF",
+            "NYC",
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Uber",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Uber",
+        "id": "afef980e-d7ef-4c46-9cc6-b3a4c996f65a",
+        "title": "2025 Software Engineering Intern - University of Texas San Antonio",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1727379034,
+        "date_posted": 1727379034,
+        "url": "https://www.uber.com/global/en/careers/list/135729/",
+        "locations": [
+            "Seattle, WA",
+            "SF",
+            "NYC",
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Uber",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Uber",
+        "id": "c439159c-72dd-4a2b-9bbf-b7eeed5531a0",
+        "title": "2025 Software Engineering Uberstar Internship - Prairie View a&M University",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1727379015,
+        "date_posted": 1727379015,
+        "url": "https://www.uber.com/global/en/careers/list/135673/",
+        "locations": [
+            "Seattle, WA",
+            "SF",
+            "NYC",
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Uber",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "PatientPoint",
+        "id": "d7a8d43f-96ea-4c14-804a-b2eef1679d2e",
+        "title": "Upcoming Patientpoint Internship Opportunities",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1727378781,
+        "date_posted": 1727378781,
+        "url": "https://job-boards.greenhouse.io/patientpoint/jobs/4432629005",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/PatientPoint",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Uber",
+        "id": "4a2bd5ea-563a-4bc7-bb63-f3b5fc51e597",
+        "title": "2025 Software Engineering Uberstar Internship - University of Maryland - College Park",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1727378735,
+        "date_posted": 1727378735,
+        "url": "https://university-uber.icims.com/jobs/135638/job",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Uber",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Uber",
+        "id": "3886d067-7b14-4174-92da-832616fdc3d2",
+        "title": "2025 Software Engineering Internship - Georgia State University",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1727378735,
+        "date_posted": 1727378735,
+        "url": "https://university-uber.icims.com/jobs/135645/job",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Uber",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Uber",
+        "id": "e54f6061-d0ba-485d-ac4e-51ed50ef61f7",
+        "title": "2025 Software Engineering Uberstar Internship - Georgia State University",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1727378734,
+        "date_posted": 1727378734,
+        "url": "https://university-uber.icims.com/jobs/135630/job",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Uber",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Uber",
+        "id": "5533cfeb-0088-4da0-8ce7-5f6e466c4c46",
+        "title": "2025 Software Engineering Uberstar Internship - Towson University",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1727378734,
+        "date_posted": 1727378734,
+        "url": "https://university-uber.icims.com/jobs/135636/job",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Uber",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Uber",
+        "id": "a4c6a101-22e8-4764-b109-23b2bd4f1c11",
+        "title": "2025 Software Engineering Uberstar Internship - Howard University",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1727378734,
+        "date_posted": 1727378734,
+        "url": "https://university-uber.icims.com/jobs/135641/job",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Uber",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Uber",
+        "id": "0a91bc98-8baf-4370-80b2-1cb09c12abfa",
+        "title": "2025 Software Engineering Uberstar Internship - University of Texas at San Antonio",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1727378734,
+        "date_posted": 1727378734,
+        "url": "https://university-uber.icims.com/jobs/135655/job",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Uber",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Uber",
+        "id": "b41ef198-038a-4ca8-8cc5-0f0d20d7a2e4",
+        "title": "2025 Software Engineering Uberstar Internship - Prairie View a&M University",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1727378733,
+        "date_posted": 1727378733,
+        "url": "https://university-uber.icims.com/jobs/135673/job",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Uber",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Uber",
+        "id": "b0f50d41-5160-4c4f-8179-a9e70e9668cd",
+        "title": "2025 Software Engineering Uberstar Internship - Texas a&M University",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1727378732,
+        "date_posted": 1727378732,
+        "url": "https://university-uber.icims.com/jobs/135683/job",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Uber",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Uber",
+        "id": "cf037056-3adf-4d14-b4be-eae10f1cf4a8",
+        "title": "2025 Software Engineering Internship - Towson University",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1727378732,
+        "date_posted": 1727378732,
+        "url": "https://university-uber.icims.com/jobs/135648/job",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Uber",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Uber",
+        "id": "180077b2-0b6d-4c4a-b2ca-83223a230dbf",
+        "title": "2025 Software Engineering Intern - Texas a&M University",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1727378733,
+        "date_posted": 1727378733,
+        "url": "https://university-uber.icims.com/jobs/135731/job",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Uber",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Uber",
+        "id": "d49feea1-94a9-45bf-9133-48348dcdbf08",
+        "title": "2025 Software Engineering Intern - University of Texas San Antonio",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1727378734,
+        "date_posted": 1727378734,
+        "url": "https://university-uber.icims.com/jobs/135729/job",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Uber",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Uber",
+        "id": "2673d22d-fa3e-4fc3-b005-348fa4e531dd",
+        "title": "2025 Software Engineering Uberstar Internship - Bowie State University",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1727378731,
+        "date_posted": 1727378731,
+        "url": "https://university-uber.icims.com/jobs/135640/job",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Uber",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Uber",
+        "id": "e44df3ff-3896-40d9-a6fe-83cecf757202",
+        "title": "2025 Software Engineering Internship - Howard University",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1727378729,
+        "date_posted": 1727378729,
+        "url": "https://university-uber.icims.com/jobs/135642/job",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Uber",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Uber",
+        "id": "30ae6c2d-1fbc-46e3-a62d-60bb45ae5a8e",
+        "title": "2025 Software Engineering Uberstar Internship - Clark Atlanta University - Morehouse College - Or Spelman College - Aucc",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1727378727,
+        "date_posted": 1727378727,
+        "url": "https://university-uber.icims.com/jobs/135633/job",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Uber",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Uber",
+        "id": "ecd29bcc-a8fb-484d-998a-011204615de1",
+        "title": "2025 Software Engineering Internship - Clark Atlanta University - Morehouse College - Or Spelman College - Aucc",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1727378726,
+        "date_posted": 1727378726,
+        "url": "https://university-uber.icims.com/jobs/135650/job",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Uber",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Uber",
+        "id": "86d47b5a-d192-4f86-90d2-773be4dec2a5",
+        "title": "2025 Software Engineering Internship - Kennesaw State University",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1727378730,
+        "date_posted": 1727378730,
+        "url": "https://university-uber.icims.com/jobs/135646/job",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Uber",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Uber",
+        "id": "a4e7d34f-274a-4a70-b463-0544473d361a",
+        "title": "2025 Software Engineering Internship - Bowie State University",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1727378727,
+        "date_posted": 1727378727,
+        "url": "https://university-uber.icims.com/jobs/135643/job",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Uber",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Uber",
+        "id": "50655465-02ae-4a31-abad-896ef239ffe7",
+        "title": "2025 Software Engineering Internship - University of Maryland - College Park",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1727378727,
+        "date_posted": 1727378727,
+        "url": "https://university-uber.icims.com/jobs/135644/job",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Uber",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Uber",
+        "id": "b055cc40-da76-4c76-a0ea-c356eb9350e7",
+        "title": "2025 Software Engineer Internship - Michigan",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1727363896,
+        "date_posted": 1727363896,
+        "url": "https://www.uber.com/global/en/careers/list/135413/",
+        "locations": [
+            "Seattle, WA",
+            "SF",
+            "NYC",
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Uber",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
