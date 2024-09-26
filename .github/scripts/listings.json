@@ -105451,7 +105451,7 @@
         "company_name": "Autodesk",
         "id": "415a0700-b6e0-4b2a-89c6-26fb107c3819",
         "title": "Intern \u2013 Data Engineer - Vancouver",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025",
             "Spring 2025"
@@ -106383,6 +106383,349 @@
             "Santa Clara, CA"
         ],
         "company_url": "https://simplify.jobs/c/ServiceNow",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "ClickTime",
+        "id": "41cb1247-ff8b-410e-97bf-6779e95eeb1b",
+        "title": "Software Development Intern - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1727320525,
+        "date_posted": 1727320525,
+        "url": "https://jobs.lever.co/clicktime/b6295815-e79e-4756-8d85-856e9b5c2aa3/apply",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/b25c917a-0ff5-4565-8853-4e248a3dfad3",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Altruist",
+        "id": "796a3c98-4ec5-4de6-95b5-c17cd222159b",
+        "title": "Quantitative Engineering Intern - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1727320516,
+        "date_posted": 1727320516,
+        "url": "https://altruist.com/join-altruist/5329400004?gh_jid=5329400004",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/fd33cc05-7479-4979-9bc3-fcf69310e14d",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Altruist",
+        "id": "05c18c74-a59d-4cb6-9622-d3d86115526e",
+        "title": "Software Engineering Intern - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1727320515,
+        "date_posted": 1727320515,
+        "url": "https://altruist.com/join-altruist/5329402004?gh_jid=5329402004",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/fd33cc05-7479-4979-9bc3-fcf69310e14d",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Prosek Partners",
+        "id": "6cddf156-f1a5-4bca-a5b5-5342694b99b8",
+        "title": "Data & Analytics Apprentice",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1727320514,
+        "date_posted": 1727320514,
+        "url": "https://boards.greenhouse.io/prosek/jobs/6255694",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/63ddda67-86f9-48e2-bd99-1e5e29efcac6",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Altruist",
+        "id": "38d9e90f-60a6-4463-a07d-2470718e982c",
+        "title": "Software Engineering Intern - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1727320511,
+        "date_posted": 1727320511,
+        "url": "https://altruist.com/join-altruist/5335996004?gh_jid=5335996004",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/fd33cc05-7479-4979-9bc3-fcf69310e14d",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Kognitos",
+        "id": "a40ce448-a45e-401e-96b8-993b779fbe8f",
+        "title": "Software Engineer \u2013 Intern",
+        "active": true,
+        "terms": [
+            "Fall 2024",
+            "Winter 2025"
+        ],
+        "date_updated": 1727320499,
+        "date_posted": 1727320499,
+        "url": "https://jobs.ashbyhq.com/Kognitos/d63ef3cf-ea29-4259-af85-dd8def262215/application",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/142611da-5149-464d-b83b-10184af37def",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "National Information Solutions Cooperative (NISC)",
+        "id": "f642531a-46a4-4df2-9d7c-4f4e98cd7ae5",
+        "title": "Intern \u2013 Software Development",
+        "active": true,
+        "terms": [
+            "Spring 2025",
+            "Summer 2025"
+        ],
+        "date_updated": 1727320023,
+        "date_posted": 1727320023,
+        "url": "https://boards.greenhouse.io/testnisc/jobs/6235419",
+        "locations": [
+            "Bismarck, ND",
+            "Lake St Louis, MO",
+            "Cedar Rapids, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/National-Information-Solutions-Cooperative-(NISC)",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "National Information Solutions Cooperative (NISC)",
+        "id": "e577404e-f7ba-46bb-8459-47b790606c07",
+        "title": "Intern \u2013 Software Development",
+        "active": true,
+        "terms": [
+            "Spring 2025",
+            "Summer 2025"
+        ],
+        "date_updated": 1727320025,
+        "date_posted": 1727320025,
+        "url": "https://boards.greenhouse.io/testnisc/jobs/6235408",
+        "locations": [
+            "Bismarck, ND",
+            "Lake St Louis, MO",
+            "Cedar Rapids, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/National-Information-Solutions-Cooperative-(NISC)",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "National Information Solutions Cooperative (NISC)",
+        "id": "c205ab5c-848d-458d-9077-0dcc18585d54",
+        "title": "Intern \u2013 Software Development - Machine Learning",
+        "active": true,
+        "terms": [
+            "Spring 2025",
+            "Summer 2025"
+        ],
+        "date_updated": 1727320026,
+        "date_posted": 1727320026,
+        "url": "https://boards.greenhouse.io/testnisc/jobs/6235870",
+        "locations": [
+            "Bismarck, ND",
+            "Lake St Louis, MO",
+            "Cedar Rapids, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/National-Information-Solutions-Cooperative-(NISC)",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "National Information Solutions Cooperative (NISC)",
+        "id": "aee95eca-f79c-4d67-8c31-a15521c100af",
+        "title": "Intern \u2013 Software Development",
+        "active": true,
+        "terms": [
+            "Spring 2025",
+            "Summer 2025"
+        ],
+        "date_updated": 1727320024,
+        "date_posted": 1727320024,
+        "url": "https://boards.greenhouse.io/testnisc/jobs/6235412",
+        "locations": [
+            "Lake St Louis, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/National-Information-Solutions-Cooperative-(NISC)",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "National Information Solutions Cooperative (NISC)",
+        "id": "a9fd804a-2091-4366-9317-64825ee92ee6",
+        "title": "Intern \u2013 Software Development - IOS",
+        "active": true,
+        "terms": [
+            "Spring 2025",
+            "Summer 2025"
+        ],
+        "date_updated": 1727320023,
+        "date_posted": 1727320023,
+        "url": "https://boards.greenhouse.io/testnisc/jobs/6235238",
+        "locations": [
+            "Cedar Rapids, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/National-Information-Solutions-Cooperative-(NISC)",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "National Information Solutions Cooperative (NISC)",
+        "id": "6abf04c8-6f31-4cbd-bda1-007b7e430658",
+        "title": "Intern \u2013 Software Development - IOS",
+        "active": true,
+        "terms": [
+            "Spring 2025",
+            "Summer 2025"
+        ],
+        "date_updated": 1727320024,
+        "date_posted": 1727320024,
+        "url": "https://boards.greenhouse.io/testnisc/jobs/6235240",
+        "locations": [
+            "North Dakota",
+            "Iowa",
+            "Lake St Louis, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/National-Information-Solutions-Cooperative-(NISC)",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "National Information Solutions Cooperative (NISC)",
+        "id": "2d128eea-4e91-4573-a23d-57810476b833",
+        "title": "Intern \u2013 Software Development - Machine Learning",
+        "active": true,
+        "terms": [
+            "Spring 2025",
+            "Summer 2025"
+        ],
+        "date_updated": 1727320025,
+        "date_posted": 1727320025,
+        "url": "https://boards.greenhouse.io/testnisc/jobs/6235874",
+        "locations": [
+            "Bismarck, ND"
+        ],
+        "company_url": "https://simplify.jobs/c/National-Information-Solutions-Cooperative-(NISC)",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "National Information Solutions Cooperative (NISC)",
+        "id": "124b0e63-062a-4d34-ba99-c372a2752dcb",
+        "title": "Intern \u2013 Software Development - IOS",
+        "active": true,
+        "terms": [
+            "Spring 2025",
+            "Summer 2025"
+        ],
+        "date_updated": 1727320023,
+        "date_posted": 1727320023,
+        "url": "https://boards.greenhouse.io/testnisc/jobs/6235239",
+        "locations": [
+            "Bismarck, ND"
+        ],
+        "company_url": "https://simplify.jobs/c/National-Information-Solutions-Cooperative-(NISC)",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "National Information Solutions Cooperative (NISC)",
+        "id": "0e829def-1fba-46a0-bc0c-7908dba0a836",
+        "title": "Intern \u2013 Software Development - Machine Learning",
+        "active": true,
+        "terms": [
+            "Spring 2025",
+            "Summer 2025"
+        ],
+        "date_updated": 1727320025,
+        "date_posted": 1727320025,
+        "url": "https://boards.greenhouse.io/testnisc/jobs/6235866",
+        "locations": [
+            "Bismarck, ND",
+            "Lake St Louis, MO",
+            "Cedar Rapids, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/National-Information-Solutions-Cooperative-(NISC)",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Noah Medical",
+        "id": "d30c1e03-a6d8-4837-b9d7-f9db7518e8e5",
+        "title": "System Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1727319944,
+        "date_posted": 1727319944,
+        "url": "https://boards.greenhouse.io/noahmedical/jobs/4135743008",
+        "locations": [
+            "San Carlos, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NoahMedical",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Noah Medical",
+        "id": "143b9986-4852-4208-840c-9df055074d0b",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1727319940,
+        "date_posted": 1727319940,
+        "url": "https://boards.greenhouse.io/noahmedical/jobs/4126024008",
+        "locations": [
+            "San Carlos, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NoahMedical",
         "is_visible": true,
         "sponsorship": "Other"
     }
