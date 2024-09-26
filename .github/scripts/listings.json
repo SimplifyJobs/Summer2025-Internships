@@ -108162,5 +108162,109 @@
         "company_url": "https://simplify.jobs/c/ServiceNow",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Nelnet",
+        "id": "300862e9-4eef-4449-9fe3-f560d61735cb",
+        "title": "Intern-IT Software Engineer-NDS",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1727392627,
+        "date_posted": 1727392627,
+        "url": "https://nelnet.wd1.myworkdayjobs.com/en-US/MyNelnet/job/Lincoln-NE/Intern-IT-Software-Engineer-NDS_R20061",
+        "locations": [
+            "Madison, WI",
+            "Sidney, NE",
+            "Centennial, CO",
+            "Lincoln, NE"
+        ],
+        "company_url": "https://simplify.jobs/c/d7662126-9bc7-4ec4-b3e6-a9a3ae307c5d",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Nelnet",
+        "id": "51fe11bc-0f3c-46ab-a9cb-ca506e0f2bc1",
+        "title": "Intern-IT Software Engineer-NDS",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1727392630,
+        "date_posted": 1727392630,
+        "url": "https://nelnet.wd1.myworkdayjobs.com/en-US/MyNelnet/job/Lincoln-NE/Intern-IT-Software-Engineer-NDS_R20063",
+        "locations": [
+            "Madison, WI",
+            "Sidney, NE",
+            "Centennial, CO",
+            "Lincoln, NE"
+        ],
+        "company_url": "https://simplify.jobs/c/d7662126-9bc7-4ec4-b3e6-a9a3ae307c5d",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Uber",
+        "id": "6758878f-45fa-4384-a264-806adcf9841e",
+        "title": "2025 Software Engineering Uberstar Internship - Carnegie Mellon University",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1727392606,
+        "date_posted": 1727392606,
+        "url": "https://www.uber.com/global/en/careers/list/135747/",
+        "locations": [
+            "Seattle, WA",
+            "SF",
+            "NYC",
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Uber",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Oshkosh",
+        "id": "f16d2116-7243-4720-9e2d-486677ce2067",
+        "title": "Engineer Intern - Software - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1727392435,
+        "date_posted": 1727392435,
+        "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Oshkosh-Wisconsin-United-States/Engineer-Intern---Software--Summer-2025-_R32918",
+        "locations": [
+            "Oshkosh, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Oshkosh",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Uber",
+        "id": "0c8e6476-49a5-436c-81ae-272c80cc75e7",
+        "title": "2025 Software Engineering Intern - Prairie View a&M University",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1727378737,
+        "date_posted": 1727378737,
+        "url": "https://university-uber.icims.com/jobs/135730/job",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Uber",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
