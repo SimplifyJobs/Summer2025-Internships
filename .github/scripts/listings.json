@@ -21938,7 +21938,7 @@
         "company_name": "Awardco",
         "id": "c64a512f-2622-44bb-9b61-40e707833008",
         "title": "Back-End Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -21957,7 +21957,7 @@
         "company_name": "Awardco",
         "id": "b7be327f-10fa-4775-8a1c-183ea4b062ce",
         "title": "Front-End Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
