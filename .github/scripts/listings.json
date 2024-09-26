@@ -108266,5 +108266,109 @@
         "company_url": "https://simplify.jobs/c/Uber",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Oshkosh",
+        "id": "d4dcbf55-3c03-4f0a-b779-272469b8ea1f",
+        "title": "Engineer Intern - Software - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1727392434,
+        "date_posted": 1727392434,
+        "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Oshkosh-Wisconsin-United-States/Engineer-Intern---Software--Summer-2025-_R32919",
+        "locations": [
+            "Oshkosh, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Oshkosh",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "The Allen Institute for AI",
+        "id": "2c889233-5be5-4333-a079-467784b67829",
+        "title": "Research Intern - Semantic Scholar",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1727392722,
+        "date_posted": 1727392722,
+        "url": "https://job-boards.greenhouse.io/thealleninstitute/jobs/6277798",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/allenai",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Nelnet",
+        "id": "ca374206-f314-4b86-a92c-96202ce44f12",
+        "title": "Intern-IT Software Engineer-NDS",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1727392628,
+        "date_posted": 1727392628,
+        "url": "https://nelnet.wd1.myworkdayjobs.com/en-US/MyNelnet/job/Lincoln-NE/Intern-IT-Software-Engineer-NDS_R20064",
+        "locations": [
+            "Madison, WI",
+            "Sidney, NE",
+            "Centennial, CO",
+            "Lincoln, NE"
+        ],
+        "company_url": "https://simplify.jobs/c/d7662126-9bc7-4ec4-b3e6-a9a3ae307c5d",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Uber",
+        "id": "990b6f3b-4756-4faf-b734-6ae6b4c7fdba",
+        "title": "2025 Software Engineering Uberstar Internship - Stanford University",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1727392714,
+        "date_posted": 1727392714,
+        "url": "https://www.uber.com/global/en/careers/list/135748/",
+        "locations": [
+            "Seattle, WA",
+            "SF",
+            "NYC",
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Uber",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Uber",
+        "id": "1f6932d2-1103-4697-b2dd-ea769ad7bc71",
+        "title": "2025 Software Engineering Internship - Carnegie Mellon University",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1727392652,
+        "date_posted": 1727392652,
+        "url": "https://www.uber.com/global/en/careers/list/135672/",
+        "locations": [
+            "Seattle, WA",
+            "SF",
+            "NYC",
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Uber",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
