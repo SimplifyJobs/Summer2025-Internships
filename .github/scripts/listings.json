@@ -106728,5 +106728,27 @@
         "company_url": "https://simplify.jobs/c/NoahMedical",
         "is_visible": true,
         "sponsorship": "Does Not Offer Sponsorship"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Uber",
+        "id": "482075a5-76d1-4629-8a8f-951277b7bbd8",
+        "title": "2025 Software Engineering Internship - United States",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1727334800,
+        "date_posted": 1727334800,
+        "url": "https://university-uber.icims.com/jobs/135629/job",
+        "locations": [
+            "Seattle, WA",
+            "SF",
+            "NYC",
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Uber",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
