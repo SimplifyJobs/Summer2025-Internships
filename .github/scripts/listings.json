@@ -106271,7 +106271,7 @@
         "company_name": "Amazon",
         "id": "8c9f42dc-4728-4ad8-9e1f-c20b8c372c10",
         "title": "Software Development Engineer - Artificial General Intelligence",
-        "active": true,
+        "active": false,
         "terms": [],
         "date_updated": 1727305952,
         "date_posted": 1727305952,
@@ -108726,6 +108726,25 @@
             "London, UK"
         ],
         "company_url": "https://simplify.jobs/c/Visa",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Uber",
+        "id": "460a2bdb-3df2-475c-a29f-39d464ff9790",
+        "title": "2025 Software Engineering Internship - Stanford University",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1727449990,
+        "date_posted": 1727449990,
+        "url": "https://university-uber.icims.com/jobs/135738/job",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Uber",
         "is_visible": true,
         "sponsorship": "Other"
     }
