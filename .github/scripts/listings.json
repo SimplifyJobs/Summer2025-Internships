@@ -108370,5 +108370,47 @@
         "company_url": "https://simplify.jobs/c/Uber",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Uber",
+        "id": "d0b8453b-c3ef-4835-a743-e8006abd265a",
+        "title": "2025 Software Engineering Uberstar Internship - University of Texas at El Paso",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1727406918,
+        "date_posted": 1727406918,
+        "url": "https://www.uber.com/global/en/careers/list/135752/",
+        "locations": [
+            "Seattle, WA",
+            "SF",
+            "NYC",
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Uber",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "NimbleRx",
+        "id": "9d374275-1a72-41f1-b883-472b4cf9f6b2",
+        "title": "Software Engineer Intern - Winter / Spring Session - January - April 2025",
+        "active": true,
+        "terms": [
+            "Winter 2026",
+            "Spring 2026"
+        ],
+        "date_updated": 1727406839,
+        "date_posted": 1727406839,
+        "url": "https://jobs.lever.co/nimblerx/50238c70-4ff2-4166-8149-afb233bde2ca/apply",
+        "locations": [
+            "San Carlos, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NimbleRx",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
