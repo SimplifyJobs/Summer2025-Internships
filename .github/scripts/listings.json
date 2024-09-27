@@ -25367,7 +25367,7 @@
         "company_name": "Zoox",
         "id": "d2af021d-1a9f-4978-ae03-7cbbc05dd974",
         "title": "Enterprise Data Governance Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -27096,7 +27096,7 @@
         "company_name": "Zoox",
         "id": "b5778e87-34ad-4cbb-8adb-5c33abf179f0",
         "title": "Software Development Engineer in Test \u2013 Intern - Sdet",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -91688,7 +91688,7 @@
         "company_name": "Intel",
         "id": "2d6d268a-4aa7-47af-9062-c74123b9e0fc",
         "title": "Software Engineer \u2013 PEY Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2024"
         ],
@@ -108783,6 +108783,27 @@
             "Boston, MA"
         ],
         "company_url": "https://simplify.jobs/c/Vectra",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Nelnet",
+        "id": "4830ff05-9cc6-4bcc-934a-6ba32234d838",
+        "title": "Intern \u2013 Software Engineer - RPG/Cobol",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1727479024,
+        "date_posted": 1727479024,
+        "url": "https://nelnet.wd1.myworkdayjobs.com/en-US/MyNelnet/job/Lincoln-NE/Intern---Software-Engineer--RPG-Cobol-_R20077",
+        "locations": [
+            "Madison, WI",
+            "Centennial, CO",
+            "Lincoln, NE"
+        ],
+        "company_url": "https://simplify.jobs/c/d7662126-9bc7-4ec4-b3e6-a9a3ae307c5d",
         "is_visible": true,
         "sponsorship": "Other"
     }
