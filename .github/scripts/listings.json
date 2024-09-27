@@ -108473,5 +108473,49 @@
         "company_url": "https://simplify.jobs/c/Uber",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Uber",
+        "id": "a44fb47c-4279-43b6-abe5-412434f28adc",
+        "title": "2025 Software Engineering Internship - University of Washington",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1727406971,
+        "date_posted": 1727406971,
+        "url": "https://www.uber.com/global/en/careers/list/135742/",
+        "locations": [
+            "Seattle, WA",
+            "SF",
+            "NYC",
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Uber",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Uber",
+        "id": "5d79a922-9424-4c46-93ee-a81662b9c00a",
+        "title": "2025 Software Engineering Internship - University of Texas at El Paso",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1727406932,
+        "date_posted": 1727406932,
+        "url": "https://www.uber.com/global/en/careers/list/135746/",
+        "locations": [
+            "Seattle, WA",
+            "SF",
+            "NYC",
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Uber",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
