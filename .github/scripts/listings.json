@@ -101943,7 +101943,7 @@
         "company_name": "Second Dinner",
         "id": "7b4ae134-bc71-4b43-bbee-49a9e5306ca3",
         "title": "Summer 2025] Software Engineer Intern - Tools",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -105372,7 +105372,7 @@
         "company_name": "Intel",
         "id": "12d300b4-df8a-4234-9423-017c5f076586",
         "title": "Graduate Intern - Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
