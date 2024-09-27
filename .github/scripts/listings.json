@@ -102883,7 +102883,7 @@
         "company_name": "Bose",
         "id": "9ea52046-ccda-47cb-8347-b98fb2cb87c0",
         "title": "Embedded Software Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -103729,7 +103729,7 @@
         "company_name": "Elevance Health",
         "id": "1d6f686a-a047-4a50-8f33-ff526f11227b",
         "title": "Engineering Internship-Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
