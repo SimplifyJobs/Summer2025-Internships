@@ -92919,7 +92919,7 @@
         "company_name": "Point72",
         "id": "ba286e2d-d413-49a0-a1e5-981d9fcc982e",
         "title": "2025 Summer Internship - Data Scientist - Proprietary Research",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -108745,6 +108745,44 @@
             "SF"
         ],
         "company_url": "https://simplify.jobs/c/Uber",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Vectra",
+        "id": "90fb5b52-40d3-4ff3-bde5-9bde1fbcc670",
+        "title": "Data Science Internship - San Jose",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1727478564,
+        "date_posted": 1727478564,
+        "url": "https://boards.greenhouse.io/vectranetworks/jobs/6258867",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Vectra",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Vectra",
+        "id": "78e3e066-3205-4d87-bc4e-9c2383fc985d",
+        "title": "Data Science Internship - Boston - MA",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1727478563,
+        "date_posted": 1727478563,
+        "url": "https://boards.greenhouse.io/vectranetworks/jobs/6258849",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Vectra",
         "is_visible": true,
         "sponsorship": "Other"
     }
