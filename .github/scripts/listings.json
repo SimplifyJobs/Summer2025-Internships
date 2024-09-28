@@ -89803,7 +89803,7 @@
         "company_name": "Codeium",
         "id": "8c071f6e-a41b-4034-8f1e-34d82a4c940e",
         "title": "Software Engineering Intern - Fall 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2024"
         ],
@@ -105269,7 +105269,7 @@
         "company_name": "OpenAI",
         "id": "0559dbe7-6905-4c1e-85f2-8b03cd46d8a0",
         "title": "Software Engineer Internship / Co-op - Applied Emerging Talent",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
