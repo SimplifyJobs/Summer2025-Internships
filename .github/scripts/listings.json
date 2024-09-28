@@ -108827,5 +108827,24 @@
         "company_url": "https://simplify.jobs/c/Genesis-Thera",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Applied Materials",
+        "id": "34a18706-d629-4860-ae2b-2702f68ac556",
+        "title": "Summer 2025 Undergrad Computer Science Intern - Austin - TX",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1727493330,
+        "date_posted": 1727493330,
+        "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/AustinTX/Summer-2025-Undergrad-Computer-Science-Intern--Austin--TX-_R2416839",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Applied-Materials",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
