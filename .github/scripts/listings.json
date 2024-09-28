@@ -108440,16 +108440,16 @@
         "company_name": "Uber",
         "id": "270ee1b2-fb10-4185-af42-f9430e2b8800",
         "title": "2025 Software Engineering Uberstar Internship - University of Washington",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
-        "date_updated": 1727406966,
+        "date_updated": 1727499036,
         "date_posted": 1727406966,
         "url": "https://www.uber.com/global/en/careers/list/135751/",
         "locations": [],
         "company_url": "https://simplify.jobs/c/Uber",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
