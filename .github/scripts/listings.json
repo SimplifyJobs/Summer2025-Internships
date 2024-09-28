@@ -108806,5 +108806,26 @@
         "company_url": "https://simplify.jobs/c/d7662126-9bc7-4ec4-b3e6-a9a3ae307c5d",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Genesis Therapeutics",
+        "id": "ed7573e9-70c2-428a-9f96-99be0a3a6134",
+        "title": "ML Research Intern - Winter/Summer 2025",
+        "active": true,
+        "terms": [
+            "Winter 2026",
+            "Spring 2026",
+            "Summer 2026"
+        ],
+        "date_updated": 1727485865,
+        "date_posted": 1725579842,
+        "url": "https://jobs.lever.co/genesistherapeutics/cac2bff2-50ad-46a9-9e3d-c37ca24a4b54/apply",
+        "locations": [
+            "Burlingame, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Genesis-Thera",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
