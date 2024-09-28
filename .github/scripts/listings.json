@@ -108457,11 +108457,11 @@
         "company_name": "Uber",
         "id": "ea8b6381-3859-4716-b5a6-1471558dcbbf",
         "title": "2025 Software Engineering Intern - University of Illinois Urbana-Champaign",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
-        "date_updated": 1727406962,
+        "date_updated": 1727515359,
         "date_posted": 1727406962,
         "url": "https://www.uber.com/global/en/careers/list/135740/",
         "locations": [
@@ -108471,7 +108471,7 @@
             "Sunnyvale, CA"
         ],
         "company_url": "https://simplify.jobs/c/Uber",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
