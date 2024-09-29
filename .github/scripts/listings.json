@@ -93878,7 +93878,7 @@
         "company_name": "Workiva",
         "id": "28a5430a-ae25-4db4-a0df-25f9cf18d409",
         "title": "2025 Summer Intern - Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -93897,7 +93897,7 @@
         "company_name": "Workiva",
         "id": "47dca1f4-f047-4148-94eb-3eef6577d9f7",
         "title": "2025 Summer Intern - Data Science",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -93916,7 +93916,7 @@
         "company_name": "Workiva",
         "id": "729b7840-d448-4591-bdbf-28c01ecfa822",
         "title": "2025 Summer Intern - Machine Learning Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
