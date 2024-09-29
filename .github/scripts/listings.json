@@ -94281,7 +94281,7 @@
         "company_name": "Workiva",
         "id": "7b3f5893-7eb9-4364-a0d6-61965dae9199",
         "title": "2025 Summer Intern - Software Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -101668,7 +101668,7 @@
         "company_name": "Santander",
         "id": "787fc0cb-49aa-4973-a224-b07c447e4387",
         "title": "Technology and Data Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
