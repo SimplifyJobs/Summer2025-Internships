@@ -59,6 +59,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| **[The Walt Disney Company](https://simplify.jobs/c/Disney)** | Yield Optimization Intern - Summer 2025 | Celebration, FL | <a href="https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Lake-Buena-Vista-FL-USA/Yield-Optimization-Intern--Summer-2025_10100242-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/7cfde97d-405d-45eb-a046-fb39584163b8?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Sep 30 |
 | NICE | DevOps Intern | Richardson, TX | <a href="https://job-boards.eu.greenhouse.io/nice/jobs/4368079101?gh_jid=4368079101&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 29 |
 | BorgWarner | IT Co-op/Intern | Ithaca, NY | <a href="https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Ithaca---New-York---USA/IT-Co-op-Intern_R2024-3066?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 29 |
 | Meta | Meta University | Menlo Park, CA | <a href="https://www.metacareers.com/jobs/995447835688062/?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 28 |
