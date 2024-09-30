@@ -108656,7 +108656,7 @@
         "company_name": "Uber",
         "id": "962b18ef-a0d3-40fa-aab9-73f287498c1c",
         "title": "2025 Software Engineering Uberstar Internship - University of Texas at El Paso",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -109292,6 +109292,46 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/Cockroach-Labs",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Wing",
+        "id": "b45b7a81-c9a5-44b3-86ff-de2260141d3e",
+        "title": "Simulation Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Spring 2024",
+            "Summer 2024"
+        ],
+        "date_updated": 1727737814,
+        "date_posted": 1727737814,
+        "url": "https://wing.com/careers/7653734002?gh_jid=7653734002",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Wing",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Wing",
+        "id": "d0098792-d28e-4243-a84c-08ffd7e8bf9d",
+        "title": "GNC Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Spring 2024",
+            "Summer 2024"
+        ],
+        "date_updated": 1727737806,
+        "date_posted": 1727737806,
+        "url": "https://wing.com/careers/7653910002?gh_jid=7653910002",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Wing",
         "is_visible": true,
         "sponsorship": "Other"
     }
