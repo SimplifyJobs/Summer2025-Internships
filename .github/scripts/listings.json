@@ -105412,7 +105412,7 @@
         "company_name": "ICF",
         "id": "196b4943-b97d-447c-b5d2-51b69fe03e8b",
         "title": "2025 Summer Intern - Generative AI Research - Global Health - Bachelors/Masters - Hybrid or Remote",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -109034,6 +109034,82 @@
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/May-Mobility",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Two Six Technologies",
+        "id": "6299627d-447c-415c-88a7-87912e3ac78e",
+        "title": "Summer Research Intern - Front End",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1727709273,
+        "date_posted": 1727709273,
+        "url": "https://job-boards.greenhouse.io/twosixtechnologies/jobs/5339043004",
+        "locations": [
+            "Arlington, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Two-Six-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Two Six Technologies",
+        "id": "2258025c-0dfe-4fe4-918a-80933566cb8f",
+        "title": "Embedded Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1727709263,
+        "date_posted": 1727709263,
+        "url": "https://job-boards.greenhouse.io/twosixtechnologies/jobs/5338690004",
+        "locations": [
+            "Arlington, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Two-Six-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Expedia",
+        "id": "7bc02bfe-d78c-44e5-9b5f-8a36de58d80b",
+        "title": "Technical Program Management Intern - June 2025 - London",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1727709292,
+        "date_posted": 1727709292,
+        "url": "https://expedia.wd5.myworkdayjobs.com/search/job/UK---London/Technical-Program-Management-Intern---June-2025---London_R-90394-1",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Expedia",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Two Six Technologies",
+        "id": "baa1f81f-7d6f-4266-9ea9-13c293e79805",
+        "title": "Summer Research Intern - Application Development",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1727709281,
+        "date_posted": 1727709281,
+        "url": "https://job-boards.greenhouse.io/twosixtechnologies/jobs/5338806004",
+        "locations": [
+            "Arlington, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Two-Six-Technologies",
         "is_visible": true,
         "sponsorship": "Other"
     }
