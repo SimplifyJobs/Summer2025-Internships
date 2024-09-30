@@ -96793,7 +96793,7 @@
         "company_name": "Garda Capital Partners",
         "id": "154b838f-0cfb-4da6-b3f2-bbc93fc472aa",
         "title": "Trading Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -99316,7 +99316,7 @@
         "company_name": "Lucid Motors",
         "id": "3f60e486-2527-4741-a8e6-5ba9932c5c4a",
         "title": "Intern \u2013 Android Applications Software Engineer - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -103666,7 +103666,7 @@
         "company_name": "Bristol-Myers Squibb",
         "id": "ec3ab055-1c9f-4a75-9539-18a6d63bfe7d",
         "title": "Summer 2025 \u2013 Clinical Pharmacology Analysis and Reporting/Data Science Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -105913,7 +105913,7 @@
         "company_name": "skillz",
         "id": "ff5d142f-195f-45b0-8816-4604e5e1e448",
         "title": "Data Engineering \u2013 2025 Spring Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025"
         ],
@@ -105932,7 +105932,7 @@
         "company_name": "Leidos",
         "id": "00ba9011-4d9a-4da2-a328-77ec9037ebb7",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -106974,7 +106974,7 @@
         "company_name": "Uber",
         "id": "85d69f30-c397-4fe5-8b69-ee78075cda25",
         "title": "2025 Software Engineering Internship - Clark Atlanta University - Morehouse College - Or Spelman College - Aucc",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -107191,7 +107191,7 @@
         "company_name": "Uber",
         "id": "d803fa3f-b027-4e48-a1ab-5628394c116a",
         "title": "2025 Software Engineering Uberstar Internship - Bowie State University",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -107213,7 +107213,7 @@
         "company_name": "Uber",
         "id": "b77be0ba-b5e9-4dbc-b142-85c8a6d73d63",
         "title": "2025 Software Engineering Internship - Bowie State University",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -107323,7 +107323,7 @@
         "company_name": "Uber",
         "id": "bc33c4eb-d9f8-4127-8447-a268a56e9a12",
         "title": "2025 Software Engineering Uberstar Internship - University of Maryland - College Park",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -109166,7 +109166,7 @@
         "company_name": "ManTech",
         "id": "66bc9963-fc0a-469c-a5dd-3876490e1793",
         "title": "Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
