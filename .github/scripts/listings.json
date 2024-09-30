@@ -84942,7 +84942,7 @@
         "company_name": "Mercedes-Benz",
         "id": "75ac5225-58de-4e21-bb42-03ab16c3f6d5",
         "title": "Engineering Intern - Middleware",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -108637,7 +108637,7 @@
         "company_name": "Uber",
         "id": "b854e44a-4ab0-4933-b288-32f77d9dde5a",
         "title": "2025 Software Engineering Uberstar Internship - Carnegie Mellon University",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -108694,7 +108694,7 @@
         "company_name": "Uber",
         "id": "011d0108-c420-43f7-8b53-4fa5ff225f0b",
         "title": "2025 Software Engineering Uberstar Internship - University of Washington",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
