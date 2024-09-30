@@ -108922,5 +108922,119 @@
         "company_url": "https://simplify.jobs/c/Disney",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Expedia",
+        "id": "e44b9c72-f9f1-4add-8774-d4e5cc6dd17b",
+        "title": "Software Development Engineering Intern - June 2025 - London",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1727709288,
+        "date_posted": 1727709288,
+        "url": "https://expedia.wd5.myworkdayjobs.com/search/job/UK---London/Software-Development-Engineering-Intern---June-2025---London_R-91379-1",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Expedia",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Expedia",
+        "id": "050cec36-c125-414f-a46f-1d46c4f5f9ce",
+        "title": "Data Science \u2013 Analytics Intern - June 2025 - London",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1727709285,
+        "date_posted": 1727709285,
+        "url": "https://expedia.wd5.myworkdayjobs.com/search/job/UK---London/Data-Science--Analytics-Intern---June-2025---London_R-90396-1",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Expedia",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Two Six Technologies",
+        "id": "4f618c83-921c-4212-8bd0-7dba77691b8c",
+        "title": "Summer Research Intern - Infrastructure Support",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1727709275,
+        "date_posted": 1727709275,
+        "url": "https://job-boards.greenhouse.io/twosixtechnologies/jobs/5339017004",
+        "locations": [
+            "Arlington, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Two-Six-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Two Six Technologies",
+        "id": "3c22b742-89b2-4945-935c-427701512dc8",
+        "title": "Summer Research Intern - Software Testing",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1727709273,
+        "date_posted": 1727709273,
+        "url": "https://job-boards.greenhouse.io/twosixtechnologies/jobs/5339066004",
+        "locations": [
+            "Arlington, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Two-Six-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Two Six Technologies",
+        "id": "1ddcb59f-888b-4187-abd4-fd4922381a3d",
+        "title": "Summer Research Intern - Data",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1727709275,
+        "date_posted": 1727709275,
+        "url": "https://job-boards.greenhouse.io/twosixtechnologies/jobs/5338956004",
+        "locations": [
+            "Arlington, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Two-Six-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "May Mobility",
+        "id": "3b3f5fe0-2649-4f3d-9736-b444ec8ce926",
+        "title": "Autonomy \u2013 Data Science Intern",
+        "active": true,
+        "terms": [
+            "Spring 2024"
+        ],
+        "date_updated": 1727709122,
+        "date_posted": 1727709122,
+        "url": "https://boards.greenhouse.io/maymobility/jobs/7661566002",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/May-Mobility",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
