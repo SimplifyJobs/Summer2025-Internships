@@ -108903,5 +108903,24 @@
         "date_posted": 1727670397,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "The Walt Disney Company",
+        "id": "7cfde97d-405d-45eb-a046-fb39584163b8",
+        "title": "Yield Optimization Intern - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1727680343,
+        "date_posted": 1727680343,
+        "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Lake-Buena-Vista-FL-USA/Yield-Optimization-Intern--Summer-2025_10100242-1",
+        "locations": [
+            "Celebration, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Disney",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
