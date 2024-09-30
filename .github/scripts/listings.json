@@ -109112,5 +109112,53 @@
         "company_url": "https://simplify.jobs/c/Two-Six-Technologies",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1727712121,
+        "url": "https://www.google.com/about/careers/applications/jobs/results/133334514184135366-software-engineering-intern-bs-summer-2025",
+        "company_name": "Google",
+        "title": "Software Engineering Intern",
+        "locations": [
+            "Mountain View, CA, USA",
+            "Atlanta, GA, USA",
+            "Austin, TX, USA",
+            "Boulder, CO, USA",
+            "Cambridge, MA, USA",
+            "Bellevue, WA, USA",
+            "Chicago, IL, USA",
+            "Irvine, CA, USA",
+            "Kirkland, WA, USA",
+            "Los Angeles, CA, USA",
+            "Madison, WI, USA",
+            "New York, NY, USA",
+            "Palo Alto, CA, USA",
+            "Portland, OR, USA",
+            "Pittsburgh, PA, USA",
+            "Raleigh, NC, USA",
+            "Durham, NC, USA",
+            "Reston, VA, USA",
+            "Redmond, WA, USA",
+            "Redwood City, CA, USA",
+            "San Diego, CA, USA",
+            "Goleta, CA, USA",
+            "San Bruno, CA, USA",
+            "Seattle, WA, USA",
+            "San Francisco, CA, USA",
+            "San Jose, CA, USA",
+            "Santa Cruz, CA, USA",
+            "South San Francisco, CA, USA",
+            "Sunnyvale, CA, USA",
+            "Washington D.C., DC, USA"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "DanielPHenricks",
+        "id": "7798b748-e0c2-45ce-bee3-e661c5894f1e",
+        "date_posted": 1727712121,
+        "company_url": "",
+        "is_visible": true
     }
 ]
