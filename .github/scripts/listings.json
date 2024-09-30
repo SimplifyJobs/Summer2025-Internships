@@ -108599,7 +108599,7 @@
         "company_name": "Uber",
         "id": "e57c0be2-104a-4744-889c-f06840dab69a",
         "title": "2025 Software Engineering Internship - University of Washington",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -109253,6 +109253,45 @@
             "Rochester, MN"
         ],
         "company_url": "https://simplify.jobs/c/Western-Digital",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Rivian",
+        "id": "63154598-ad12-433e-9fb8-44f165c03446",
+        "title": "Software Engineering Internship - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1727724098,
+        "date_posted": 1727724098,
+        "url": "https://careers.rivian.com/jobs/19340?lang=en-us&icims=1",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Rivian",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Cockroach Labs",
+        "id": "59d64bb2-56df-4381-8bbf-5cd71e5fff7e",
+        "title": "Engineering Internships 2025",
+        "active": true,
+        "terms": [
+            "Spring 2024",
+            "Summer 2024"
+        ],
+        "date_updated": 1727725136,
+        "date_posted": 1727725136,
+        "url": "https://www.cockroachlabs.com/careers/job/?gh_jid=6291435",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Cockroach-Labs",
         "is_visible": true,
         "sponsorship": "Other"
     }
