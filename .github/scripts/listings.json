@@ -25348,7 +25348,7 @@
         "company_name": "Zoox",
         "id": "e8f2a42e-cd74-48ae-8160-1f33a63dfd84",
         "title": "Test Infrastructure Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -100996,7 +100996,7 @@
         "company_name": "Motorola",
         "id": "92caa2d6-dc02-4718-90a3-076f876070b9",
         "title": "Software Engineer Intern - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -107235,7 +107235,7 @@
         "company_name": "Uber",
         "id": "a96c7949-1e45-45b8-b491-1c46dc0dc15a",
         "title": "2025 Software Engineering Internship - Kennesaw State University",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -108542,7 +108542,7 @@
         "company_name": "Uber",
         "id": "6b08836d-3ae3-40b7-9e96-c95463c9ecdd",
         "title": "2025 Software Engineering Uberstar Internship - University of Illinois Urbana-Champaign",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -108580,7 +108580,7 @@
         "company_name": "Uber",
         "id": "506af898-892c-4570-bda5-c4b2144b7531",
         "title": "2025 Software Engineering Uberstar Internship - Stanford University",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -108656,7 +108656,7 @@
         "company_name": "Uber",
         "id": "962b18ef-a0d3-40fa-aab9-73f287498c1c",
         "title": "2025 Software Engineering Uberstar Internship - University of Texas at El Paso",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -108734,7 +108734,7 @@
         "company_name": "Uber",
         "id": "460a2bdb-3df2-475c-a29f-39d464ff9790",
         "title": "2025 Software Engineering Internship - Stanford University",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -109160,5 +109160,100 @@
         "date_posted": 1727712121,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "ManTech",
+        "id": "66bc9963-fc0a-469c-a5dd-3876490e1793",
+        "title": "Software Developer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1727724550,
+        "date_posted": 1727724550,
+        "url": "https://mantech.wd1.myworkdayjobs.com/en-US/External/job/USA-Remote-Work/Software-Developer-Intern_R55102",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/c6651565-44c8-4050-8412-111c54942390",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Shamrock Trading",
+        "id": "5fe00066-f3ec-42e1-b9c7-e82846f10958",
+        "title": "Software Developer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1727723362,
+        "date_posted": 1727723362,
+        "url": "https://jobs.jobvite.com/shamrock/job/owFAufwZ?nl=1&nl=1&fr=false",
+        "locations": [
+            "Overland Park, KS"
+        ],
+        "company_url": "https://simplify.jobs/c/Shamrock-Trading",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Rivian",
+        "id": "76f0d6c2-9929-435d-ad5d-2d27fb914638",
+        "title": "Data Science \u2013 & Analytics Internship - Engineering - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1727724075,
+        "date_posted": 1727724075,
+        "url": "https://careers.rivian.com/jobs/19371?lang=en-us&icims=1",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Rivian",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Rivian",
+        "id": "d5b4fc9d-d3fe-4bb8-b1d6-1928f5e0daa3",
+        "title": "Embedded Software/Firmware Internship - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1727724045,
+        "date_posted": 1727724045,
+        "url": "https://careers.rivian.com/jobs/19368?lang=en-us&icims=1",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Rivian",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Western Digital",
+        "id": "d3ec064d-1811-4ffb-82bd-a47630b5e0fb",
+        "title": "Software Engineering \u2013 Intern Spring 2025 - Embedded",
+        "active": true,
+        "terms": [
+            "Spring 2025"
+        ],
+        "date_updated": 1727723717,
+        "date_posted": 1727380180,
+        "url": "https://jobs.smartrecruiters.com/WesternDigital/744000017344445",
+        "locations": [
+            "Rochester, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Western-Digital",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
