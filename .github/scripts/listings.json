@@ -108884,5 +108884,24 @@
         "date_posted": 1727670184,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727670397,
+        "url": "https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Ithaca---New-York---USA/IT-Co-op-Intern_R2024-3066",
+        "company_name": "BorgWarner",
+        "title": "IT Co-op/Intern",
+        "locations": [
+            "Ithaca, NY"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "GaryZhous",
+        "id": "fc754c0e-2358-4394-a553-ad4b83578eed",
+        "date_posted": 1727670397,
+        "company_url": "",
+        "is_visible": true
     }
 ]
