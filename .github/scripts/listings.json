@@ -92476,7 +92476,7 @@
         "company_name": "Palantir",
         "id": "84ebdbe7-6484-44c0-bf7f-73c5eba09d83",
         "title": "Accelerate \u2013 Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -92495,7 +92495,7 @@
         "company_name": "Palantir",
         "id": "03cb9aee-1081-462c-b14c-d1dcf2d883a3",
         "title": "Accelerate \u2013 Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -104060,7 +104060,7 @@
         "company_name": "Medtronic",
         "id": "29952ced-774c-43b5-b8e8-125921938668",
         "title": "This Post IS Intended For Students Seeking a Summer 2025 Internship Attending the 2024 SWE.",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -106863,7 +106863,7 @@
         "company_name": "Uber",
         "id": "0f67f000-a5b6-427e-98c1-6e47ae0c6e06",
         "title": "2025 Software Engineer Internship - UC Berkeley",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -106885,7 +106885,7 @@
         "company_name": "Uber",
         "id": "61b32718-e761-4858-b4da-b782e4a61792",
         "title": "2025 Software Engineering Uberstar Internship - Michigan",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -106908,7 +106908,7 @@
         "company_name": "Uber",
         "id": "cd52e792-dfa7-4902-b756-a35cec61ad14",
         "title": "2025 Software Engineer Internship - Canadian Schools",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -107125,7 +107125,7 @@
         "company_name": "Uber",
         "id": "28294108-0a32-4e96-adc3-ab8d4f423825",
         "title": "2025 Software Engineer Internship - Cornell",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -107147,7 +107147,7 @@
         "company_name": "Uber",
         "id": "5522a205-22a9-4233-97b5-e921e86399b5",
         "title": "2025 Software Engineering Uberstar Internship - Canadian Schools",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -107169,7 +107169,7 @@
         "company_name": "Uber",
         "id": "55c37b6f-2cd6-4649-9268-9978f28130c7",
         "title": "2025 Software Engineering Uberstar Internship - Cornell",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -107301,7 +107301,7 @@
         "company_name": "Uber",
         "id": "7206e696-920d-42f3-a118-812b960d514c",
         "title": "2025 Software Engineering Uberstar Internship - UC Berkeley",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -107364,7 +107364,7 @@
         "company_name": "Uber",
         "id": "e7b6cde7-3012-4e07-bb17-a6192dee8884",
         "title": "2025 Software Engineering Uberstar Internship - UC Berkeley",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -107383,7 +107383,7 @@
         "company_name": "Uber",
         "id": "e1aa5a2d-5fa6-437f-b3b3-d3a4dc954677",
         "title": "2025 Software Engineering Uberstar Internship - Michigan",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -107422,7 +107422,7 @@
         "company_name": "Uber",
         "id": "aa8a542e-513d-421a-9bd8-6d4fd46fbd06",
         "title": "2025 Software Engineer Internship - Canadian Schools",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -107441,7 +107441,7 @@
         "company_name": "Uber",
         "id": "a9a6a266-ee47-4e7b-b5d2-5834f518ecf9",
         "title": "2025 Software Engineering Uberstar Internship - Cornell",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -107460,7 +107460,7 @@
         "company_name": "Uber",
         "id": "a50afc6c-0d3d-488f-8c84-b66ae4319d51",
         "title": "2025 Software Engineer Internship - Cornell",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -107498,7 +107498,7 @@
         "company_name": "Uber",
         "id": "419ca3b8-3683-4ab1-b119-57686a35aa62",
         "title": "2025 Software Engineer Internship - Michigan",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -107536,7 +107536,7 @@
         "company_name": "Uber",
         "id": "044e1894-4326-4d2a-9083-ee147a87a5a8",
         "title": "2025 Software Engineering Uberstar Internship - Canadian Schools",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -107555,7 +107555,7 @@
         "company_name": "Uber",
         "id": "772f0cad-00bc-4a2c-a665-7f3fbd0f2f41",
         "title": "2025 Software Engineer Internship - UC Berkeley",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -107574,7 +107574,7 @@
         "company_name": "Flynn Companies",
         "id": "96926ba6-7b24-4d01-9253-f7259def1201",
         "title": "Innovation and Strategic Development Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -108127,7 +108127,7 @@
         "company_name": "Uber",
         "id": "b055cc40-da76-4c76-a0ea-c356eb9350e7",
         "title": "2025 Software Engineer Internship - Michigan",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -108354,7 +108354,7 @@
         "company_name": "Uber",
         "id": "1f6932d2-1103-4697-b2dd-ea769ad7bc71",
         "title": "2025 Software Engineering Internship - Carnegie Mellon University",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -108457,7 +108457,7 @@
         "company_name": "Uber",
         "id": "ea8b6381-3859-4716-b5a6-1471558dcbbf",
         "title": "2025 Software Engineering Intern - University of Illinois Urbana-Champaign",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -108561,7 +108561,7 @@
         "company_name": "Uber",
         "id": "cfd955bd-2543-4d48-a0d5-5a77dddc8be7",
         "title": "2025 Software Engineering Intern - University of Illinois Urbana-Champaign",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -108618,7 +108618,7 @@
         "company_name": "Uber",
         "id": "d21fad77-9d59-4914-adcd-444a3568b6b1",
         "title": "2025 Software Engineering Internship - Carnegie Mellon University",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
