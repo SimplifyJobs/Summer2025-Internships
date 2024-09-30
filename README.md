@@ -59,6 +59,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| NICE | DevOps Intern | Richardson, TX | <a href="https://job-boards.eu.greenhouse.io/nice/jobs/4368079101?gh_jid=4368079101&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 29 |
 | Meta | Meta University | Menlo Park, CA | <a href="https://www.metacareers.com/jobs/995447835688062/?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 28 |
 | **[Vectra](https://simplify.jobs/c/Vectra)** | Data Science Internship - San Jose | San Jose, CA | <a href="https://boards.greenhouse.io/vectranetworks/jobs/6258867?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/90fb5b52-40d3-4ff3-bde5-9bde1fbcc670?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Sep 27 |
 | ↳ | Data Science Internship - Boston - MA | Boston, MA | <a href="https://boards.greenhouse.io/vectranetworks/jobs/6258849?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/78e3e066-3205-4d87-bc4e-9c2383fc985d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Sep 27 |

@@ -108865,5 +108865,24 @@
         "date_posted": 1727515395,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727670184,
+        "url": "https://job-boards.eu.greenhouse.io/nice/jobs/4368079101?gh_jid=4368079101",
+        "company_name": "NICE",
+        "title": "DevOps Intern",
+        "locations": [
+            "Richardson, TX"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "GaryZhous",
+        "id": "d722492f-406b-4fd3-a6a6-7a86685c00ef",
+        "date_posted": 1727670184,
+        "company_url": "",
+        "is_visible": true
     }
 ]
