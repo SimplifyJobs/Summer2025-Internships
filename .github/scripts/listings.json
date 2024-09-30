@@ -11551,7 +11551,7 @@
         "company_name": "Tombras",
         "id": "ed6d6fa5-d7ca-4fc0-8b27-045fe535537e",
         "title": "Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -99354,7 +99354,7 @@
         "company_name": "Chatham Financial",
         "id": "7fdb9e5d-ea56-464c-a914-c8e74c37a9a6",
         "title": "2025 Full Stack Developer Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -101238,7 +101238,7 @@
         "company_name": "Chatham Financial",
         "id": "3a46da13-5a7a-48b0-a1f5-c02841d65c88",
         "title": "2025 Quantitative Analyst Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -104315,7 +104315,7 @@
         "company_name": "Fidelity Investments",
         "id": "a5401268-3a2b-4ac7-a789-84989b4b134c",
         "title": "Quantitative Development & Data Science Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -106841,7 +106841,7 @@
         "company_name": "Uber",
         "id": "b8218102-2d1d-45ef-a1d7-b49ffad01ef9",
         "title": "2025 Software Engineering Internship - University of Maryland - College Park",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -108272,7 +108272,7 @@
         "company_name": "Oshkosh",
         "id": "d4dcbf55-3c03-4f0a-b779-272469b8ea1f",
         "title": "Engineer Intern - Software - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
