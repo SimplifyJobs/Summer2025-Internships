@@ -109392,5 +109392,24 @@
         "company_url": "https://simplify.jobs/c/Nutanix",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Zoox",
+        "id": "74f8fcc5-2fc9-478d-8d52-c9dd7a789088",
+        "title": "Data Engineering \u2013 Content Internship/Co-op",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1727752610,
+        "date_posted": 1727752610,
+        "url": "https://jobs.lever.co/zoox/cc1ca970-6ddf-4740-8f91-7b8491b52440/apply",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Zoox",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
