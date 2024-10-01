@@ -105781,7 +105781,7 @@
         "company_name": "PayPal",
         "id": "1aa6f194-41cd-4370-884e-65af499b74ce",
         "title": "Frontend Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025",
             "Fall 2025"
@@ -105806,7 +105806,7 @@
         "company_name": "PayPal",
         "id": "589b9879-72c3-4b6c-9fe9-7cb48b6c5420",
         "title": "Backend Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025",
             "Fall 2025"
@@ -105831,7 +105831,7 @@
         "company_name": "PayPal",
         "id": "d97ceebb-96b8-4e50-ba0c-7441801dfb0e",
         "title": "Full Stack Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025",
             "Fall 2025"
@@ -105991,7 +105991,7 @@
         "company_name": "PayPal",
         "id": "ef95d06a-985b-4ab8-8a2e-d9d65d5c6c8e",
         "title": "Mobile Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025",
             "Fall 2025"
@@ -106734,7 +106734,7 @@
         "company_name": "Uber",
         "id": "482075a5-76d1-4629-8a8f-951277b7bbd8",
         "title": "2025 Software Engineering Internship - United States",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -107403,7 +107403,7 @@
         "company_name": "Uber",
         "id": "bf8129a7-3599-4fbe-943f-57514e3359dd",
         "title": "2025 Software Engineering Internship - MESA Program",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -107479,7 +107479,7 @@
         "company_name": "Uber",
         "id": "9b75e45a-4b95-4413-9669-d71846d89f2a",
         "title": "2025 Software Engineering Uberstar Internship - MESA Program",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -107517,7 +107517,7 @@
         "company_name": "Uber",
         "id": "34f1d111-758c-4146-b288-7bd22904013b",
         "title": "2025 Software Engineering Uberstar Internship - United States",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -107880,7 +107880,7 @@
         "company_name": "Uber",
         "id": "0a91bc98-8baf-4370-80b2-1cb09c12abfa",
         "title": "2025 Software Engineering Uberstar Internship - University of Texas at San Antonio",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -107899,7 +107899,7 @@
         "company_name": "Uber",
         "id": "b41ef198-038a-4ca8-8cc5-0f0d20d7a2e4",
         "title": "2025 Software Engineering Uberstar Internship - Prairie View a&M University",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -107918,7 +107918,7 @@
         "company_name": "Uber",
         "id": "b0f50d41-5160-4c4f-8179-a9e70e9668cd",
         "title": "2025 Software Engineering Uberstar Internship - Texas a&M University",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -107956,7 +107956,7 @@
         "company_name": "Uber",
         "id": "180077b2-0b6d-4c4a-b2ca-83223a230dbf",
         "title": "2025 Software Engineering Intern - Texas a&M University",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -107975,7 +107975,7 @@
         "company_name": "Uber",
         "id": "d49feea1-94a9-45bf-9133-48348dcdbf08",
         "title": "2025 Software Engineering Intern - University of Texas San Antonio",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -108253,7 +108253,7 @@
         "company_name": "Uber",
         "id": "0c8e6476-49a5-436c-81ae-272c80cc75e7",
         "title": "2025 Software Engineering Intern - Prairie View a&M University",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
