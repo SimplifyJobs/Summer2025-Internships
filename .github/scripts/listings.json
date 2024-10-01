@@ -109567,5 +109567,25 @@
         "company_url": "https://simplify.jobs/c/Challenge-Manufacturing",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Western Digital",
+        "id": "1bfdf63c-0daa-4bb1-8a49-5626798e81f9",
+        "title": "RAMP Co-Op Read/Write Channel Firmware Engineer - Spring-Summer",
+        "active": true,
+        "terms": [
+            "Spring 2024",
+            "Summer 2024"
+        ],
+        "date_updated": 1727812236,
+        "date_posted": 1727812236,
+        "url": "https://jobs.smartrecruiters.com/WesternDigital/744000017695744",
+        "locations": [
+            "Rochester, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Western-Digital",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
