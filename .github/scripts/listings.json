@@ -109166,7 +109166,7 @@
         "company_name": "ManTech",
         "id": "66bc9963-fc0a-469c-a5dd-3876490e1793",
         "title": "Software Developer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -109464,6 +109464,25 @@
             "Reading, UK"
         ],
         "company_url": "https://simplify.jobs/c/Visa",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "ManTech",
+        "id": "0007a655-9b1f-4c75-9c90-54dd9b3aca21",
+        "title": "Software Developer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1727795819,
+        "date_posted": 1727795819,
+        "url": "https://mantech.wd1.myworkdayjobs.com/en-US/External/job/USA-Remote-Work/Software-Developer-Intern_R54739",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/c6651565-44c8-4050-8412-111c54942390",
         "is_visible": true,
         "sponsorship": "Other"
     }
