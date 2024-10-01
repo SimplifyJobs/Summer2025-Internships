@@ -109440,10 +109440,12 @@
         "terms": [
             "Summer 2025"
         ],
-        "date_updated": 1727795527,
+        "date_updated": 1727798628,
         "date_posted": 1727795527,
         "url": "https://jobs.jobvite.com/nutanix/job/o92Bufw0?nl=1&nl=1&fr=false",
-        "locations": [],
+        "locations": [
+            "San Jose, CA"
+        ],
         "company_url": "https://simplify.jobs/c/Nutanix",
         "is_visible": true,
         "sponsorship": "Other"
