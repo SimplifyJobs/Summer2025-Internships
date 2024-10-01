@@ -105932,7 +105932,7 @@
         "company_name": "Leidos",
         "id": "00ba9011-4d9a-4da2-a328-77ec9037ebb7",
         "title": "Data Science Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -106734,7 +106734,7 @@
         "company_name": "Uber",
         "id": "482075a5-76d1-4629-8a8f-951277b7bbd8",
         "title": "2025 Software Engineering Internship - United States",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -109606,5 +109606,176 @@
         "date_posted": 1727822700,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Old Mission",
+        "id": "1ad42a96-f65f-4927-8913-e2786e57c3aa",
+        "title": "Micro-Internship - Quant Trader - January 2025",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1727824666,
+        "date_posted": 1727824666,
+        "url": "https://www.oldmissioncapital.com/careers/?gh_jid=6228031003",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Old-Mission",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Splunk",
+        "id": "f309b652-814d-4255-bd64-280a56ac4038",
+        "title": "Software Engineer Intern - Backend/Full-stack - Boulder - CO - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1727824603,
+        "date_posted": 1727824603,
+        "url": "https://jobs.jobvite.com/splunk-careers/job/oTXtufwx?nl=1&nl=1&fr=false",
+        "locations": [
+            "Boulder, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Splunk",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Splunk",
+        "id": "e244e1a3-3910-4d11-b074-e899b19f628f",
+        "title": "Software Engineer Intern - Frontend - Boulder - CO - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1727824604,
+        "date_posted": 1727824604,
+        "url": "https://jobs.jobvite.com/splunk-careers/job/oFXtufwj?nl=1&nl=1&fr=false",
+        "locations": [
+            "Boulder, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Splunk",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "SeatGeek",
+        "id": "2d9fbd4d-757c-4f29-83f3-19e5dfab55f6",
+        "title": "Data Analyst \u2013 Internship",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1727824524,
+        "date_posted": 1727824524,
+        "url": "https://seatgeek.com/jobs/6295872?gh_jid=6295872",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/SeatGeek",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Marvell",
+        "id": "e01762b3-744d-48c8-bd4c-fba79100c800",
+        "title": "Software Engineer Intern - Bachelor's Degree",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1727824436,
+        "date_posted": 1727824436,
+        "url": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers2/job/Santa-Clara-CA/Software-Engineer-Intern---Bachelor-s-Degree_2401916",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/80961b05-9ed3-462d-aef9-4b418c7fb796",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Leidos",
+        "id": "e6a509a9-cf54-4297-8ea2-50c8a81ef013",
+        "title": "Data Scientist Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1727824251,
+        "date_posted": 1727824251,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/Data-Scientist-Intern_R-00144661",
+        "locations": [
+            "Arlington, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Berkshire Grey",
+        "id": "e5968d4c-395c-45fb-99ea-cc1049c6c667",
+        "title": "Spring 2025 Software UIUX Co-op",
+        "active": true,
+        "terms": [
+            "Spring 2025"
+        ],
+        "date_updated": 1727823992,
+        "date_posted": 1727823992,
+        "url": "https://berkshiregrey.bamboohr.com/careers/578/",
+        "locations": [
+            "Bedford, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/BerkshireGrey",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Berkshire Grey",
+        "id": "578f4b8e-046f-4355-b4dc-1fde3a5f92c5",
+        "title": "Spring 2025 Software Applications Co-op",
+        "active": true,
+        "terms": [
+            "Spring 2025"
+        ],
+        "date_updated": 1727823991,
+        "date_posted": 1727823991,
+        "url": "https://berkshiregrey.bamboohr.com/careers/577/",
+        "locations": [
+            "Bedford, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/BerkshireGrey",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Berkshire Grey",
+        "id": "f3872797-332e-49f1-8a3a-fcde209f446c",
+        "title": "Spring 2025 Software Co-op",
+        "active": true,
+        "terms": [
+            "Spring 2025"
+        ],
+        "date_updated": 1727823976,
+        "date_posted": 1727823976,
+        "url": "https://berkshiregrey.bamboohr.com/careers/574/",
+        "locations": [
+            "Bedford, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/BerkshireGrey",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
