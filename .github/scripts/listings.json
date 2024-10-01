@@ -109587,5 +109587,24 @@
         "company_url": "https://simplify.jobs/c/Western-Digital",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1727822700,
+        "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/7000-Target-Pkwy-NNCD-0375-Brooklyn-ParkMN-55445/Software-Engineering-Summer-Internship-Minneapolis--MN--Starting-June-2025-_R0000355051",
+        "company_name": "Target",
+        "title": "Software Engineering Summer Internship",
+        "locations": [
+            "Brooklyn Park, MN"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "MaxMaeder",
+        "id": "8c53e271-f436-4dfe-9f5c-2a33551d7241",
+        "date_posted": 1727822700,
+        "company_url": "",
+        "is_visible": true
     }
 ]
