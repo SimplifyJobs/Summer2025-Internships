@@ -109334,5 +109334,63 @@
         "company_url": "https://simplify.jobs/c/Wing",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Rocket Lab USA",
+        "id": "01d6eda4-6d1c-4a2b-95b3-ffed7fd92f16",
+        "title": "Software Intern - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1727752469,
+        "date_posted": 1727752469,
+        "url": "https://job-boards.greenhouse.io/rocketlab/jobs/6216766003",
+        "locations": [
+            "Littleton, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Rocket-Lab-USA",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Rocket Lab USA",
+        "id": "698e3894-30c4-4654-8b5d-d76aebae56ca",
+        "title": "Flight Software Intern - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1727752443,
+        "date_posted": 1727752443,
+        "url": "https://job-boards.greenhouse.io/rocketlab/jobs/6216762003",
+        "locations": [
+            "Littleton, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Rocket-Lab-USA",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Nutanix",
+        "id": "7bf539e4-dab0-4150-bc80-01394fc01db1",
+        "title": "Data Science Intern",
+        "active": true,
+        "terms": [
+            "Spring 2025",
+            "Summer 2025"
+        ],
+        "date_updated": 1727752305,
+        "date_posted": 1727752305,
+        "url": "https://jobs.jobvite.com/nutanix/job/owAlufwF?nl=1&nl=1&fr=false",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Nutanix",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
