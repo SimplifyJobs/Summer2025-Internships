@@ -100068,7 +100068,7 @@
         "company_name": "Anduril",
         "id": "dd9480f3-1e1f-453f-a50d-6b94ae23a024",
         "title": "Software Engineering Intern - Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -109409,6 +109409,61 @@
             "San Mateo, CA"
         ],
         "company_url": "https://simplify.jobs/c/Zoox",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "KKR",
+        "id": "0d48201f-42db-4531-8e1d-a059f769946a",
+        "title": "2025 Technology Summer Internship Program",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1727795629,
+        "date_posted": 1727795629,
+        "url": "https://www.kkr.com/careers/career-opportunities?gh_jid=5318257004",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/KKR",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Nutanix",
+        "id": "c134fc85-037f-458a-ba69-20e83d986106",
+        "title": "Software Engineering Intern Summer 2025 - Undergraduate - Only",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1727795527,
+        "date_posted": 1727795527,
+        "url": "https://jobs.jobvite.com/nutanix/job/o92Bufw0?nl=1&nl=1&fr=false",
+        "locations": [],
+        "company_url": "https://simplify.jobs/c/Nutanix",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Visa",
+        "id": "e787962f-4b90-4633-bebe-a1b4329e69a7",
+        "title": "Summer Intern - Software Engineering and Testing",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1727795428,
+        "date_posted": 1727795428,
+        "url": "https://jobs.smartrecruiters.com/Visa/744000017673425",
+        "locations": [
+            "Reading, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Visa",
         "is_visible": true,
         "sponsorship": "Other"
     }
