@@ -109436,7 +109436,7 @@
         "company_name": "Nutanix",
         "id": "c134fc85-037f-458a-ba69-20e83d986106",
         "title": "Software Engineering Intern Summer 2025 - Undergraduate - Only",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -109775,6 +109775,44 @@
             "Bedford, MA"
         ],
         "company_url": "https://simplify.jobs/c/BerkshireGrey",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Leidos",
+        "id": "28dd6bbe-bbab-46d3-a67f-ef1b2a57584b",
+        "title": "Research Scientist Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1727824250,
+        "date_posted": 1727824250,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/McLean-VA/Research-Scientist-Intern_R-00145102",
+        "locations": [
+            "McLean, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Leidos",
+        "id": "f9114e5c-fe45-4156-847e-44697329d177",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1727824247,
+        "date_posted": 1727824247,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Shiloh-IL/Software-Engineer-Intern_R-00145097",
+        "locations": [
+            "O'Fallon, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
         "is_visible": true,
         "sponsorship": "Other"
     }
