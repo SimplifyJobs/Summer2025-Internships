@@ -105932,7 +105932,7 @@
         "company_name": "Leidos",
         "id": "00ba9011-4d9a-4da2-a328-77ec9037ebb7",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
