@@ -109834,5 +109834,62 @@
         "company_url": "https://simplify.jobs/c/80961b05-9ed3-462d-aef9-4b418c7fb796",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Harmonia",
+        "id": "bc48004d-d70d-4cde-aeea-8dd9fbb24530",
+        "title": "Software/Data Engineering Internship",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1727882088,
+        "date_posted": 1727882088,
+        "url": "https://www.harmonia.com/job-application/?gh_jid=6228985003",
+        "locations": [
+            "McLean, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/ba0c3269-d801-4a03-822e-801359d1ec6b",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Marvell",
+        "id": "2cea654a-969f-4142-9a74-070744c777a2",
+        "title": "Engineering Project Analyst Intern - Pey - Bachelor\u2019s degree",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1727882032,
+        "date_posted": 1727882032,
+        "url": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers2/job/Toronto-Canada/Engineering-Project-Analyst-Intern---PEY----Bachelor-s-degree_2401842",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/80961b05-9ed3-462d-aef9-4b418c7fb796",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Axon",
+        "id": "16c39ca9-a7ac-4f8b-b823-155a9bb0569f",
+        "title": "2025 London SWE Internship",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1727881644,
+        "date_posted": 1727881644,
+        "url": "https://boards.greenhouse.io/axon/jobs/6211868003",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Axon",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
