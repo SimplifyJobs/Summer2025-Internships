@@ -97349,7 +97349,7 @@
         "company_name": "Oshkosh",
         "id": "761bb486-4c95-41f5-ad69-0bc24f1a95ef",
         "title": "Engineering Intern - Autonomy - Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -109984,6 +109984,25 @@
             "Toronto, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/BMO",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Rivian",
+        "id": "e4876e08-2e65-44e3-a9b8-14c85f435721",
+        "title": "AI \u2013 Summer 2025 Internships - ML and Computer Vision Software",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1727897975,
+        "date_posted": 1727897975,
+        "url": "https://careers.rivian.com/jobs/19407?lang=en-us&icims=1",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Rivian",
         "is_visible": true,
         "sponsorship": "Other"
     }
