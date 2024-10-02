@@ -109280,7 +109280,7 @@
         "company_name": "Cockroach Labs",
         "id": "59d64bb2-56df-4381-8bbf-5cd71e5fff7e",
         "title": "Engineering Internships 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2024",
             "Summer 2024"
@@ -110024,5 +110024,24 @@
         "date_posted": 1727899349,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Zoox",
+        "id": "4af9f279-457e-4e60-b30d-16ae64e1cd04",
+        "title": "Safety Learnings Data Scientist Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1727911070,
+        "date_posted": 1727911070,
+        "url": "https://jobs.lever.co/zoox/7d81def2-c9b2-4726-bd85-ffa7099322c0/apply",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Zoox",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
