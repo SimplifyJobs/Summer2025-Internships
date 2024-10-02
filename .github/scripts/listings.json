@@ -102959,7 +102959,7 @@
         "company_name": "Bristol-Myers Squibb",
         "id": "3168a7eb-fda2-4535-9301-1c6ee21e4963",
         "title": "Co-Op \u2013 Machine Learning - Spring 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2025"
         ],
@@ -103977,7 +103977,7 @@
         "company_name": "skillz",
         "id": "63c5953e-f2ee-4657-916f-2176c4d43eec",
         "title": "Software Engineer \u2013 2025 Spring Co-Op",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2025"
         ],
