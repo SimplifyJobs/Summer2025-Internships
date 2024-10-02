@@ -64544,7 +64544,7 @@
         "company_name": "Snackpass",
         "id": "0fcee3b4-d66b-4f8b-a3a5-f589a7d814e1",
         "title": "Software Engineer \u2013 Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2024",
             "Summer 2024"
@@ -109889,6 +109889,25 @@
             "London, UK"
         ],
         "company_url": "https://simplify.jobs/c/Axon",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Worldcoin",
+        "id": "303b62d5-9910-4125-8afc-0ae3a85610c6",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1727882263,
+        "date_posted": 1727882263,
+        "url": "https://job-boards.greenhouse.io/worldcoinorg/jobs/5343776004",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Worldcoin",
         "is_visible": true,
         "sponsorship": "Other"
     }
