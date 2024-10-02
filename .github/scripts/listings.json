@@ -110005,5 +110005,24 @@
         "company_url": "https://simplify.jobs/c/Rivian",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1727899349,
+        "url": "https://jobs.careers.microsoft.com/global/en/job/1773452/Explore-Program-Internship-Opportunities:-Second-Year-Students,-Redmond",
+        "company_name": "Microsoft",
+        "title": "Microsoft Explore",
+        "locations": [
+            "Redmond, Washington, USA"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "danielaflrs",
+        "id": "a5322694-c27f-4928-b0c2-394a7cea26fb",
+        "date_posted": 1727899349,
+        "company_url": "",
+        "is_visible": true
     }
 ]
