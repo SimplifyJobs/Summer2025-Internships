@@ -109910,5 +109910,24 @@
         "company_url": "https://simplify.jobs/c/Worldcoin",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "CesiumAstro",
+        "id": "a1adc9b0-a3f7-445d-87a3-3e6ad92e2c5a",
+        "title": "Summer 2025 \u2013 Embedded Software Engineering Internship",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1727882197,
+        "date_posted": 1727882197,
+        "url": "https://jobs.lever.co/CesiumAstro/b98dfc8d-5c28-449b-b5fd-62cfa34c1230/apply",
+        "locations": [
+            "Broomfield, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/CesiumAstro",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
