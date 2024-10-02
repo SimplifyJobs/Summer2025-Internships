@@ -109929,5 +109929,24 @@
         "company_url": "https://simplify.jobs/c/CesiumAstro",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Snackpass",
+        "id": "5a96a832-a1e6-44f0-9c98-ff93659d741f",
+        "title": "Software Engineer \u2013 Intern - Summer",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1727882275,
+        "date_posted": 1727882275,
+        "url": "https://job-boards.greenhouse.io/snackpasspt/jobs/5343803004",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Snackpass",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
