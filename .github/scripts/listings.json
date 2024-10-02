@@ -104905,7 +104905,7 @@
         "company_name": "Thrivent",
         "id": "30c6b4ad-f683-479c-9961-7af3543a0811",
         "title": "Software Developer Intern - Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -109946,6 +109946,44 @@
             "SF"
         ],
         "company_url": "https://simplify.jobs/c/Snackpass",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Yahoo",
+        "id": "8168435e-2b8c-40ab-bdce-e9c1c1946bcd",
+        "title": "All Yahoo Software Engineering Internships - US - Summer - Apply Here",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1727897119,
+        "date_posted": 1727897119,
+        "url": "https://ouryahoo.wd5.myworkdayjobs.com/en-US/careers/job/United-States-of-America---Remote/ALL-Yahoo-Software-Engineering-Internships--US--Summer----Apply-Here-_JR0024964",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Yahoo",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Bank of Montreal",
+        "id": "f342a668-4767-45c8-b9c1-62ff62c52fde",
+        "title": "Junior Software Developer \u2013 Co-op/Internship - Winter 2025 - 4 months",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1727896279,
+        "date_posted": 1727896279,
+        "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Junior-Software-Developer--Winter-2025--Co-op-Internship----4-months_R240025926",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/BMO",
         "is_visible": true,
         "sponsorship": "Other"
     }
