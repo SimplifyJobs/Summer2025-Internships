@@ -106819,7 +106819,7 @@
         "company_name": "Uber",
         "id": "5222708f-8592-46c6-8feb-b5bed6642370",
         "title": "2025 Software Engineering Uberstar Internship - MESA Program",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -110129,7 +110129,7 @@
         "company_name": "Enfusion",
         "id": "8081a5f8-203b-47ca-9cfe-9ce05344ec66",
         "title": "Software Engineer Intern - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -110148,7 +110148,7 @@
         "company_name": "Enfusion",
         "id": "eb944b4e-51f9-4e21-86e6-debdf182cc91",
         "title": "Software Engineer Intern - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -110159,6 +110159,26 @@
             "Chicago, IL"
         ],
         "company_url": "https://simplify.jobs/c/Enfusion",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Point72",
+        "id": "d8875a31-3826-43d8-93b3-1f1720ae0edd",
+        "title": "2025 Technology Internship - Software Engineer",
+        "active": true,
+        "terms": [
+            "Spring 2025",
+            "Fall 2025"
+        ],
+        "date_updated": 1727983046,
+        "date_posted": 1727983046,
+        "url": "https://job-boards.greenhouse.io/point72/jobs/7665630002",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Point72",
         "is_visible": true,
         "sponsorship": "Other"
     }
