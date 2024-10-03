@@ -110431,5 +110431,62 @@
         "company_url": "https://simplify.jobs/c/Leidos",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Zoox",
+        "id": "ae4cd494-1eae-49a5-8c80-733410313238",
+        "title": "ML Sensor Simulation Software Engineer Internship/Co-op",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1727997417,
+        "date_posted": 1727997417,
+        "url": "https://jobs.lever.co/zoox/1c612a77-dbe7-4d65-8f91-21667765f68d/apply",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Zoox",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Amazon",
+        "id": "7e1a001f-2860-41ca-ad42-3d22f50ed2e5",
+        "title": "Software Development Engineer Intern 2025 - Canada - Artificial General Intelligence",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1727997394,
+        "date_posted": 1727997394,
+        "url": "https://amazon.jobs/en/jobs/2795155/software-development-engineer-intern-2025-canada-artificial-general-intelligence",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Vail Systems",
+        "id": "1d64881f-6a81-443e-a41c-95b914c2e364",
+        "title": "C++ Software Engineer Intern - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1727997381,
+        "date_posted": 1727997381,
+        "url": "https://jobs.lever.co/vailsys/46716d73-d9e9-4d1b-abd1-46762f6e8863/apply",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Vail-Systems",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
