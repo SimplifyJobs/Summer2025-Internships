@@ -110084,5 +110084,82 @@
         "company_url": "https://simplify.jobs/c/Crowdstrike",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Amazon",
+        "id": "dc1de366-2c74-495f-b840-ba4a1cc54f48",
+        "title": "Software Dev Engineer Intern - Compiler - Annapurna ML",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1727968694,
+        "date_posted": 1727968694,
+        "url": "https://amazon.jobs/en/jobs/2794068/software-dev-engineer-intern-compiler-annapurna-ml",
+        "locations": [
+            "Cupertino, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Amazon",
+        "id": "f947af8c-32d5-41f7-ab82-b8d28b343671",
+        "title": "Software Dev Engineer Intern - Embedded - Runtime - Storage - System & Performance - Annapurna ML",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1727968683,
+        "date_posted": 1727968683,
+        "url": "https://amazon.jobs/en/jobs/2794071/software-dev-engineer-intern-embedded-runtime-storage-system-performance-annapurna-ml",
+        "locations": [
+            "Seattle, WA",
+            "Cupertino, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Enfusion",
+        "id": "8081a5f8-203b-47ca-9cfe-9ce05344ec66",
+        "title": "Software Engineer Intern - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1727968647,
+        "date_posted": 1727968647,
+        "url": "https://www.enfusion.com/open-positions/?gh_jid=6229945003",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Enfusion",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Enfusion",
+        "id": "eb944b4e-51f9-4e21-86e6-debdf182cc91",
+        "title": "Software Engineer Intern - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1727968647,
+        "date_posted": 1727968647,
+        "url": "https://www.enfusion.com/open-positions/?gh_jid=6229938003",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Enfusion",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
