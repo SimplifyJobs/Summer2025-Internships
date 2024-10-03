@@ -110043,5 +110043,25 @@
         "company_url": "https://simplify.jobs/c/Zoox",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Oshkosh",
+        "id": "27004f91-df55-4bf5-ac32-2cba0a4e88bc",
+        "title": "Digital Technology \u2013 Intern - Dt - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1727925169,
+        "date_posted": 1727925169,
+        "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Hagerstown-Maryland-United-States/Digital-Technology--DT--Intern--Summer-2025-_R30954",
+        "locations": [
+            "Chambersburg, PA",
+            "Hagerstown, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Oshkosh",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
