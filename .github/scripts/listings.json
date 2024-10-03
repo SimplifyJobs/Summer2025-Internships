@@ -109166,7 +109166,7 @@
         "company_name": "ManTech",
         "id": "66bc9963-fc0a-469c-a5dd-3876490e1793",
         "title": "Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -109878,7 +109878,7 @@
         "company_name": "Axon",
         "id": "16c39ca9-a7ac-4f8b-b823-155a9bb0569f",
         "title": "2025 London SWE Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
