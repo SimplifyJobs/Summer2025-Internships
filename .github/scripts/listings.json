@@ -103245,7 +103245,7 @@
         "company_name": "Sayari",
         "id": "b26fa41b-5ee1-441f-96ce-32cd2330339f",
         "title": "Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
