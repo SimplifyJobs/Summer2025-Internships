@@ -100068,7 +100068,7 @@
         "company_name": "Anduril",
         "id": "dd9480f3-1e1f-453f-a50d-6b94ae23a024",
         "title": "Software Engineering Intern - Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -101238,7 +101238,7 @@
         "company_name": "Chatham Financial",
         "id": "3a46da13-5a7a-48b0-a1f5-c02841d65c88",
         "title": "2025 Quantitative Analyst Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -110239,6 +110239,25 @@
             "SF"
         ],
         "company_url": "https://simplify.jobs/c/Samsara",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Cyberark",
+        "id": "79d7c13c-d905-46cc-9d40-965bbf31d977",
+        "title": "C&I Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1727984351,
+        "date_posted": 1727984351,
+        "url": "https://jobs.smartrecruiters.com/Cyberark1/744000018365625",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/ad82fc6f-2c63-4173-8dcd-2209d5a97368",
         "is_visible": true,
         "sponsorship": "Other"
     }
