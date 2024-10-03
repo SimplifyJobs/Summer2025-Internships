@@ -110260,5 +110260,25 @@
         "company_url": "https://simplify.jobs/c/ad82fc6f-2c63-4173-8dcd-2209d5a97368",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1727990578,
+        "url": "https://www.energysage.com/about-us/careers/?gh_jid=4530574007",
+        "company_name": "EnergySage",
+        "title": "Software Engineering Intern",
+        "locations": [
+            "Boston, MA"
+        ],
+        "terms": [
+            "Summer 2025",
+            "Spring 2025"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "zoemyatt",
+        "id": "bf7abed3-ca42-4280-9a5a-faaf386f482f",
+        "date_posted": 1727990578,
+        "company_url": "",
+        "is_visible": true
     }
 ]
