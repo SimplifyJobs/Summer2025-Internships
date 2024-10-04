@@ -100068,7 +100068,7 @@
         "company_name": "Anduril",
         "id": "dd9480f3-1e1f-453f-a50d-6b94ae23a024",
         "title": "Software Engineering Intern - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -109897,7 +109897,7 @@
         "company_name": "Worldcoin",
         "id": "303b62d5-9910-4125-8afc-0ae3a85610c6",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
