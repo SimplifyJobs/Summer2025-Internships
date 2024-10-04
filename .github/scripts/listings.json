@@ -107612,7 +107612,7 @@
         "company_name": "Uber",
         "id": "e50d19cb-3d36-4d16-9d39-64d943a1aa17",
         "title": "2025 Software Engineering Intern - Prairie View a&M University",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -109242,7 +109242,7 @@
         "company_name": "Western Digital",
         "id": "d3ec064d-1811-4ffb-82bd-a47630b5e0fb",
         "title": "Software Engineering \u2013 Intern Spring 2025 - Embedded",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025"
         ],
