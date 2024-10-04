@@ -104615,7 +104615,7 @@
         "company_name": "Kodiak Robotics",
         "id": "7c8462d2-feaf-4283-b094-55aee91c4eb3",
         "title": "Winter 2025 Data Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -108168,7 +108168,7 @@
         "company_name": "Nelnet",
         "id": "300862e9-4eef-4449-9fe3-f560d61735cb",
         "title": "Intern-IT Software Engineer-NDS",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -110601,6 +110601,105 @@
             "Vancouver, BC, Canada"
         ],
         "company_url": "https://simplify.jobs/c/MotorolaSolutions",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Amazon",
+        "id": "e8334ea4-7f00-4496-8110-4570f4b54f96",
+        "title": "Software Dev Engineer Intern 2025 - Automated Reasoning",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1728070608,
+        "date_posted": 1728070608,
+        "url": "https://amazon.jobs/en/jobs/2795898/software-dev-engineer-intern-2025-automated-reasoning",
+        "locations": [
+            "Seattle, WA",
+            "Arlington, VA",
+            "NYC",
+            "Portland, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Motorola",
+        "id": "22d4a198-e683-43b9-9724-e265fec38436",
+        "title": "IT Data Analytics \u2013 2025 Summer Internship - IL Hybrid",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1728070701,
+        "date_posted": 1728070701,
+        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/IT-Data-Analytics---2025-Summer-Internship--IL-Hybrid-_R50462",
+        "locations": [
+            "Chicago, IL",
+            "Hoffman Estates, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/MotorolaSolutions",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Shield AI",
+        "id": "23ec8038-f399-443a-8b3f-6606aef948bd",
+        "title": "Embedded Software Engineering Intern \u2013 2025 Summer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1728070290,
+        "date_posted": 1728070290,
+        "url": "https://jobs.lever.co/shieldai/84ed6c2d-a904-4459-9ddb-254561df2439/apply",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Shield-AI",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Shield AI",
+        "id": "bea5266a-0c4e-44ea-83a2-9fa0ffd2412e",
+        "title": "Software Engineering Intern \u2013 2025 Summer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1728070290,
+        "date_posted": 1728070290,
+        "url": "https://jobs.lever.co/shieldai/da49232a-dc28-4085-a9b9-9059e643bc7f/apply",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Shield-AI",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Leidos",
+        "id": "50f1f3c3-f1d6-4cb9-a5d0-533274346fb9",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1728069859,
+        "date_posted": 1728069859,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Gaithersburg-MD/Software-Engineer-Intern_R-00145380",
+        "locations": [
+            "Gaithersburg, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
         "is_visible": true,
         "sponsorship": "Other"
     }
