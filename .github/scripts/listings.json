@@ -109783,7 +109783,7 @@
         "company_name": "Leidos",
         "id": "28dd6bbe-bbab-46d3-a67f-ef1b2a57584b",
         "title": "Research Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -110248,7 +110248,7 @@
         "company_name": "Cyberark",
         "id": "79d7c13c-d905-46cc-9d40-965bbf31d977",
         "title": "C&I Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
