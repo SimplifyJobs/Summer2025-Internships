@@ -110488,5 +110488,24 @@
         "company_url": "https://simplify.jobs/c/Vail-Systems",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Telesat",
+        "id": "11bd8e7b-5821-4d6a-a0bb-9659d9079de4",
+        "title": "Winter 2025 Systems Engineering Co-Op",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1728011343,
+        "date_posted": 1728011343,
+        "url": "https://jobs.lever.co/telesat/ef9482d9-0e9c-467e-9b42-9ebf63c78cfc/apply",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Telesat",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
