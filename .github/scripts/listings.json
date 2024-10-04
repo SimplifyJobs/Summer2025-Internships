@@ -101668,7 +101668,7 @@
         "company_name": "Santander",
         "id": "787fc0cb-49aa-4973-a224-b07c447e4387",
         "title": "Technology and Data Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -109707,7 +109707,7 @@
         "company_name": "Leidos",
         "id": "e6a509a9-cf54-4297-8ea2-50c8a81ef013",
         "title": "Data Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
