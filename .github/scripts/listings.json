@@ -110476,7 +110476,7 @@
         "company_name": "Vail Systems",
         "id": "1d64881f-6a81-443e-a41c-95b914c2e364",
         "title": "C++ Software Engineer Intern - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -110584,5 +110584,24 @@
         "date_posted": 1728018086,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Motorola",
+        "id": "9af5b299-2975-4ecd-8d5d-b5a8e945fc6f",
+        "title": "Imaging Specialist \u2013 Co-Op",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1728055219,
+        "date_posted": 1728055219,
+        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Vancouver-Canada/Imaging-Specialist--Co-Op_R50707",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/MotorolaSolutions",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
