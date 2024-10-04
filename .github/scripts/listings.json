@@ -110702,5 +110702,121 @@
         "company_url": "https://simplify.jobs/c/Leidos",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Hudson River Trading",
+        "id": "c310c18f-7f50-4591-9a95-9793d393490b",
+        "title": "Women in Trading Technology Internship - Witti - Winter 2025",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1728083797,
+        "date_posted": 1728083797,
+        "url": "https://boards.greenhouse.io/wehrtyou/jobs/6305711",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Hudson-River-Trading",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Brown Brothers Harriman",
+        "id": "69fe89b6-9ac4-4e49-b8d6-f2717549c91c",
+        "title": "2025 Technology Intern - Application Development & Business Analysis",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1728083854,
+        "date_posted": 1728083854,
+        "url": "https://bbh.wd5.myworkdayjobs.com/en-US/BBH/job/Jersey-City/XMLNAME-2025-Technology-Intern---Application-Development---Business-Analysis_64700",
+        "locations": [
+            "Boston, MA",
+            "Philadelphia, PA",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/8daaaedd-ec77-45a3-ab9c-dc153ae865ed",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Zipline",
+        "id": "ab1cba46-2a26-4f6f-96b3-34d21997ae51",
+        "title": "Firmware/ Embedded Engineering Intern - Spring 2025",
+        "active": true,
+        "terms": [
+            "Spring 2025"
+        ],
+        "date_updated": 1728083660,
+        "date_posted": 1728083660,
+        "url": "https://www.flyzipline.com/careers/open-roles?gh_jid=6221371003",
+        "locations": [
+            "San Bruno, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Zipline",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Skyryse",
+        "id": "ca2c0c57-58ea-4014-889a-e3534a2cec96",
+        "title": "Software Engineering Intern - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1728083675,
+        "date_posted": 1728083675,
+        "url": "https://boards.greenhouse.io/skyryse/jobs/6305643",
+        "locations": [
+            "El Segundo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Skyryse",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Cloudflare",
+        "id": "b54624db-b991-42c4-bb29-4068891707c9",
+        "title": "Software Engineer Intern - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1728083438,
+        "date_posted": 1728083438,
+        "url": "https://boards.greenhouse.io/cloudflare/jobs/6243679",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Cloudflare",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Wayfair",
+        "id": "3874f472-d0d5-4d32-8fda-eb78c6bd760c",
+        "title": "Software Engineering Intern - Summer 2025 - Toronto",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1728083145,
+        "date_posted": 1728083145,
+        "url": "https://www.wayfair.com/careers/jobs/7665154002?gh_jid=7665154002",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Wayfair",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
