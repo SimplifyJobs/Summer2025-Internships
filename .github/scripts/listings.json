@@ -110565,5 +110565,24 @@
         "company_url": "https://simplify.jobs/c/Astranis",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1728018086,
+        "url": "https://careers.ibm.com/job/21104620/developer-intern-austin-tx/",
+        "company_name": "IBM",
+        "title": "Developer Intern",
+        "locations": [
+            "Austin, TX"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "GaryZhous",
+        "id": "0e490470-741d-42bb-896a-dafb3e1b4f0f",
+        "date_posted": 1728018086,
+        "company_url": "",
+        "is_visible": true
     }
 ]
