@@ -110507,5 +110507,62 @@
         "company_url": "https://simplify.jobs/c/Telesat",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Zoox",
+        "id": "db6735fc-07e3-4794-a4ae-add9d39935d4",
+        "title": "Backend Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1728011802,
+        "date_posted": 1728011802,
+        "url": "https://jobs.lever.co/zoox/548bdfae-9858-4b7b-b3e4-d71f3ac55fbc/apply",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Zoox",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Astranis",
+        "id": "78e5df1b-47e0-4e18-9bc6-695c9ded0218",
+        "title": "Ground Software Engineer \u2013 Intern - Winter 2025",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1728011730,
+        "date_posted": 1728011730,
+        "url": "https://job-boards.greenhouse.io/astranis/jobs/4408509006",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Astranis",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Astranis",
+        "id": "7644c6a6-8173-4b95-92a4-1718f41f8391",
+        "title": "Ground Software Engineer \u2013 Intern - Spring 2025",
+        "active": true,
+        "terms": [
+            "Spring 2025"
+        ],
+        "date_updated": 1728011726,
+        "date_posted": 1728011726,
+        "url": "https://job-boards.greenhouse.io/astranis/jobs/4408512006",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Astranis",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
