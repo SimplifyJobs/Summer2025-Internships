@@ -110818,5 +110818,24 @@
         "company_url": "https://simplify.jobs/c/Wayfair",
         "is_visible": true,
         "sponsorship": "Does Not Offer Sponsorship"
+    },
+    {
+        "date_updated": 1728105901,
+        "url": "https://careers.t-mobile.com/summer-2025-machine-learning-ai-intern/job/CC2528375D7C5C53F4B03E07F28DF8AC",
+        "company_name": "T-Mobile",
+        "title": "Summer 2025 Machine Learning & AI Intern",
+        "locations": [
+            "Coppell, TX"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "GaryZhous",
+        "id": "66557a84-58bd-4a14-92dc-278ba821c5f5",
+        "date_posted": 1728105901,
+        "company_url": "",
+        "is_visible": true
     }
 ]
