@@ -110876,5 +110876,24 @@
         "date_posted": 1728237572,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Applied Materials",
+        "id": "d852e131-fe55-4b56-a054-9bf51fe1f480",
+        "title": "2025 Spring AI ML Co-op - Part-time - Gloucester - MA",
+        "active": true,
+        "terms": [
+            "Spring 2025"
+        ],
+        "date_updated": 1728256598,
+        "date_posted": 1728256598,
+        "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/GloucesterMA/XMLNAME-2025-Spring-AI-ML-Co-op--Part-time--Gloucester--MA_R2414075",
+        "locations": [
+            "Essex County, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Applied-Materials",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
