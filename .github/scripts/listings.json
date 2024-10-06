@@ -110837,5 +110837,25 @@
         "date_posted": 1728105901,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728237193,
+        "url": "https://jobs.siemens.com/careers/job/563156121257878",
+        "company_name": "Siemens",
+        "title": "Software Engineering Intern - Chicago/Buffalo Grove",
+        "locations": [
+            "Chicago, IL",
+            "Buffalo Grove, IL"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "GaryZhous",
+        "id": "25776c59-ed6d-405c-8f08-98c11a480baa",
+        "date_posted": 1728237193,
+        "company_url": "",
+        "is_visible": true
     }
 ]
