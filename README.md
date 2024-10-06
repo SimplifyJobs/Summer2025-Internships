@@ -59,6 +59,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Spectrum | 2025 Summer Intern: Platforms Engineer 🛂 | Greenwood Village, CO | <a href="https://jobs.spectrum.com/job/-/-/4673/69922681200?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 06 |
 | Siemens | Software Engineering Intern - Chicago/Buffalo Grove 🛂 | Chicago, IL</br>Buffalo Grove, IL | <a href="https://jobs.siemens.com/careers/job/563156121257878?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 06 |
 | **[Wayfair](https://simplify.jobs/c/Wayfair)** | Software Engineering Intern - Summer 2025 - Toronto 🛂 | Toronto, ON, Canada | <a href="https://www.wayfair.com/careers/jobs/7665154002?gh_jid=7665154002&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/3874f472-d0d5-4d32-8fda-eb78c6bd760c?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Oct 04 |
 | T-Mobile | Summer 2025 Machine Learning & AI Intern 🛂 | Coppell, TX | <a href="https://careers.t-mobile.com/summer-2025-machine-learning-ai-intern/job/CC2528375D7C5C53F4B03E07F28DF8AC?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 04 |

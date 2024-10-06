@@ -110857,5 +110857,24 @@
         "date_posted": 1728237193,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728237572,
+        "url": "https://jobs.spectrum.com/job/-/-/4673/69922681200",
+        "company_name": "Spectrum",
+        "title": "2025 Summer Intern: Platforms Engineer",
+        "locations": [
+            "Greenwood Village, CO"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "GaryZhous",
+        "id": "db7fcda8-2857-4960-b1d0-480a69f4c08a",
+        "date_posted": 1728237572,
+        "company_url": "",
+        "is_visible": true
     }
 ]
