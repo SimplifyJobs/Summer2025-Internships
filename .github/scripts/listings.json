@@ -111187,5 +111187,46 @@
         "company_url": "https://simplify.jobs/c/Loop-Returns",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Amazon",
+        "id": "7662002a-77ed-449a-b1fd-53ad0e042d3a",
+        "title": "Software Dev Engineer Intern 2025 - Automated Reasoning",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1728343084,
+        "date_posted": 1728343084,
+        "url": "https://amazon.jobs/en/jobs/2798104/software-dev-engineer-intern-2025-automated-reasoning",
+        "locations": [
+            "Seattle, WA",
+            "Arlington, VA",
+            "NYC",
+            "Portland, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Northwestern Mutual",
+        "id": "8a12f295-2219-4688-8ee5-7e8497089f13",
+        "title": "Specialty Markets Data Analyst Intern - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1728342564,
+        "date_posted": 1728342564,
+        "url": "https://northwesternmutual.wd5.myworkdayjobs.com/corporate-careers/job/Milwaukee-WI-Corporate/Specialty-Markets-Data-Analyst-Intern--Summer-2025_JR-41933",
+        "locations": [
+            "Milwaukee, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Northwestern-Mutual",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
