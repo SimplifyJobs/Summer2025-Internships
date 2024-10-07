@@ -111051,5 +111051,64 @@
         "company_url": "https://simplify.jobs/c/Leidos",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Santander",
+        "id": "9bcb4318-4ccb-4c79-afb3-48ccf39b2a40",
+        "title": "Data Science Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1728314447,
+        "date_posted": 1728314447,
+        "url": "https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Boston/Data-Science-Intern_Req1364943",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Santander",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Motorola",
+        "id": "616e565b-b414-4d89-8058-8ce00c4eb71c",
+        "title": "Critical Communication Networks Software Engineer \u2013 Summer 2025 Internship",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1728314304,
+        "date_posted": 1728314304,
+        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/Critical-Communication-Networks-Software-Engineer---Summer-2025-Internship_R50656",
+        "locations": [
+            "Chicago, IL",
+            "Hoffman Estates, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/MotorolaSolutions",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Moderna",
+        "id": "5f26e438-6565-49bc-9aaf-cf096aecb0c3",
+        "title": "2025 Co-Op - Quantum Algorithms and Applications",
+        "active": true,
+        "terms": [
+            "Winter 2026",
+            "Spring 2026"
+        ],
+        "date_updated": 1728314143,
+        "date_posted": 1728314143,
+        "url": "https://modernatx.wd1.myworkdayjobs.com/en-US/M_tx/job/Cambridge-Massachusetts/XMLNAME-2025-Co-Op--Quantum-Algorithms-and-Applications_R16966",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Moderna",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
