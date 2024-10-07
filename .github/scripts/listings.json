@@ -110895,5 +110895,123 @@
         "company_url": "https://simplify.jobs/c/Applied-Materials",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "The Walt Disney Company",
+        "id": "8cc1c4d1-9c35-4e7c-bf83-5d763717f379",
+        "title": "Disney Experiences Software Engineering Intern - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1728285184,
+        "date_posted": 1728285184,
+        "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Orlando-FL-USA/Disney-Experiences-Software-Engineering-Intern--Summer-2025_10102694-1",
+        "locations": [
+            "Orlando, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Disney",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "The Walt Disney Company",
+        "id": "cab207b4-279e-47a1-b6ec-c2077b767dc1",
+        "title": "Lucasfilm Technology Intern - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1728285183,
+        "date_posted": 1728285183,
+        "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/San-Francisco-CA-USA/Lucasfilm-Technology-Intern--Summer-2025_10100807",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Disney",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "The Walt Disney Company",
+        "id": "bc5b9bd6-a31c-4ff6-a7f8-d708a5469900",
+        "title": "Disney Entertainment and ESPN Technology Software Engineering Intern - Socal - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1728285182,
+        "date_posted": 1728285182,
+        "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Santa-Monica-CA-USA/Disney-Entertainment-and-ESPN-Technology-Software-Engineering-Intern--SoCal--Summer-2025_10102395",
+        "locations": [
+            "Santa Monica, CA",
+            "Burbank, CA",
+            "Glendale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Disney",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "The Walt Disney Company",
+        "id": "b3b8f78d-b9de-41c6-95a4-b84df04eb245",
+        "title": "Enterprise Technology Software Engineering Intern - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1728285184,
+        "date_posted": 1728285184,
+        "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Orlando-FL-USA/Enterprise-Technology-Software-Engineering-Intern--Summer-2025_10102902-2",
+        "locations": [
+            "Orlando, FL",
+            "Burbank, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Disney",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "The Walt Disney Company",
+        "id": "ca1d6020-c9fd-4e36-932a-3fc719c241fb",
+        "title": "Disney Entertainment and ESPN Technology Software Engineering Intern - Bristol - CT - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1728285180,
+        "date_posted": 1728285180,
+        "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Bristol-CT-USA/Disney-Entertainment-and-ESPN-Technology-Software-Engineering-Intern--Bristol--CT--Summer-2025_10102393-1",
+        "locations": [
+            "Bristol, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/Disney",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "The Walt Disney Company",
+        "id": "c7fc6958-da17-4e56-9bf2-08617e1871cb",
+        "title": "Enterprise Technology Data Analyst Intern - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1728285178,
+        "date_posted": 1728285178,
+        "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Orlando-FL-USA/Enterprise-Technology-Data-Analyst-Intern--Summer-2025_10102906-2",
+        "locations": [
+            "Orlando, FL",
+            "Burbank, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Disney",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
