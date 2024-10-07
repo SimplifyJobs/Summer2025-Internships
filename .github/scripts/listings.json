@@ -103547,7 +103547,7 @@
         "company_name": "Booz Allen",
         "id": "83eefff5-a3dc-4eb9-9395-45386e7c2949",
         "title": "Data Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025"
         ],
