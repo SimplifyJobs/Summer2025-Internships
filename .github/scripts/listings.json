@@ -107083,7 +107083,7 @@
         "company_name": "Uber",
         "id": "fc72b49b-0a96-40ff-a7a5-a49e31dd4c3e",
         "title": "2025 Software Engineering Internship - MESA Program",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -108501,7 +108501,7 @@
         "company_name": "Uber",
         "id": "5d79a922-9424-4c46-93ee-a81662b9c00a",
         "title": "2025 Software Engineering Internship - University of Texas at El Paso",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
