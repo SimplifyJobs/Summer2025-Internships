@@ -100068,7 +100068,7 @@
         "company_name": "Anduril",
         "id": "dd9480f3-1e1f-453f-a50d-6b94ae23a024",
         "title": "Software Engineering Intern - Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -111127,6 +111127,64 @@
             "Ottawa, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/0985b121-88fd-4402-aea9-c0c55bfbbc99",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Telesat",
+        "id": "1c48f92a-d608-4070-b7e6-416164b80037",
+        "title": "LS442 \u2013 Software Engineering Coop",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1728328712,
+        "date_posted": 1728328712,
+        "url": "https://jobs.lever.co/telesat/4ca58338-9d53-4037-9c91-d81a21dd4a97/apply",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Telesat",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "WeRide",
+        "id": "91a0e08b-523d-4c4a-b89b-1d92081c027f",
+        "title": "2025 Summer Intern - Software Engineer",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1728329734,
+        "date_posted": 1728329734,
+        "url": "https://jobs.lever.co/weride/d935a87c-c332-4a6f-bab8-86fc41910b67/apply",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/WeRide",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Loop Returns",
+        "id": "9c1c4167-fd18-42f0-abf2-39d914f65a23",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Spring 2024",
+            "Summer 2024"
+        ],
+        "date_updated": 1728329883,
+        "date_posted": 1728329883,
+        "url": "https://jobs.lever.co/loopreturns/17a16f96-4d64-4c1a-94bd-be6a80e3d517/apply",
+        "locations": [
+            "Columbus, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Loop-Returns",
         "is_visible": true,
         "sponsorship": "Other"
     }
