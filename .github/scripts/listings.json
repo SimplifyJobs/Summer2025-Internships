@@ -100281,7 +100281,7 @@
         "company_name": "Oshkosh",
         "id": "47992b5d-6c29-4608-a3a3-24a57a30a2b9",
         "title": "Engineer Intern - Software - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -111116,7 +111116,7 @@
         "company_name": "Lumentum",
         "id": "81c0e5d7-c508-474b-9c1e-0ec21979ed40",
         "title": "Optical Algorithms & Analytics Engineer \u2013 Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025"
         ],
