@@ -111271,5 +111271,85 @@
         "company_url": "https://simplify.jobs/c/PlayStation-Global",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "PlayStation Global",
+        "id": "dbb97bda-5ce8-424d-b591-91418cbec5a0",
+        "title": "Software Engineering Intern - Undergraduate",
+        "active": true,
+        "terms": [
+            "Spring 2024",
+            "Summer 2024",
+            "Fall 2024"
+        ],
+        "date_updated": 1728357303,
+        "date_posted": 1728357303,
+        "url": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5342873004",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/PlayStation-Global",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "PlayStation Global",
+        "id": "c269174b-4f4f-4c2b-bf8a-2e97fce1e2a2",
+        "title": "Software Engineering Intern - Undergraduate",
+        "active": true,
+        "terms": [
+            "Spring 2024",
+            "Summer 2024",
+            "Fall 2024"
+        ],
+        "date_updated": 1728357303,
+        "date_posted": 1728357303,
+        "url": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5342902004",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/PlayStation-Global",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Zoox",
+        "id": "2cf4ae32-e3ff-45c1-a7c5-d639abf9fc30",
+        "title": "Software Engineer \u2013 Robot Software Infrastructure Internship/Co-op",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1728357356,
+        "date_posted": 1728357356,
+        "url": "https://jobs.lever.co/zoox/04c16c10-a6e9-4281-9a68-81e8c73b8057/apply",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Zoox",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Zoox",
+        "id": "1d5ff256-b73e-49b6-86e4-85a885a617f7",
+        "title": "Data Scientist Internship/Co-op",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1728357341,
+        "date_posted": 1728357341,
+        "url": "https://jobs.lever.co/zoox/6dca92e6-68ef-44bc-a3ba-99fe3a3ed850/apply",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Zoox",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
