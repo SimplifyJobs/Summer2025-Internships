@@ -111545,5 +111545,102 @@
         "company_url": "https://simplify.jobs/c/PlayStation-Global",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Teleo",
+        "id": "62c8cff3-2184-44b6-b278-2ddfa49c2069",
+        "title": "Machine Learning \u2013 Perception Internship/Co-op - Winter/Spring 2025",
+        "active": true,
+        "terms": [
+            "Winter 2026",
+            "Spring 2026"
+        ],
+        "date_updated": 1728429247,
+        "date_posted": 1728429247,
+        "url": "https://jobs.lever.co/teleo/cd4e0769-10c1-45cd-bb26-7286343a0c61/apply",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Teleo",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Northwestern Mutual",
+        "id": "a3b2c634-a737-47b9-be2e-2d28922c1928",
+        "title": "Data Analyst Intern",
+        "active": true,
+        "terms": [
+            "Spring 2025",
+            "Summer 2025"
+        ],
+        "date_updated": 1728428960,
+        "date_posted": 1728428960,
+        "url": "https://northwesternmutual.wd5.myworkdayjobs.com/corporate-careers/job/Milwaukee-WI-Corporate/Data-Analyst-Intern_JR-41726-1",
+        "locations": [
+            "Milwaukee, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Northwestern-Mutual",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Northwestern Mutual",
+        "id": "b897b8f5-c318-4eed-862e-eb4b6cfcff9d",
+        "title": "Wealth Data Analytics Intern - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1728428955,
+        "date_posted": 1728428955,
+        "url": "https://northwesternmutual.wd5.myworkdayjobs.com/corporate-careers/job/Milwaukee-WI-Corporate/Wealth-Data-Analytics-Intern--Summer-2025_JR-41982",
+        "locations": [
+            "Milwaukee, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Northwestern-Mutual",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Apex",
+        "id": "0fa527d1-8b32-4a4a-9568-5b31e638ac1c",
+        "title": "Software Engineer Internship - Summer",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1728428960,
+        "date_posted": 1728428960,
+        "url": "https://jobs.lever.co/apex/de4c8b3a-44d0-4ec6-a05f-da97a843625a/apply",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/ApexSpace",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Northwestern Mutual",
+        "id": "7dff9794-a687-4849-a533-3db83593d80d",
+        "title": "Software Engineering Intern - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1728428956,
+        "date_posted": 1728428956,
+        "url": "https://northwesternmutual.wd5.myworkdayjobs.com/corporate-careers/job/Milwaukee-WI-Corporate/Software-Engineering-Intern--Summer-2025_JR-41901",
+        "locations": [
+            "Milwaukee, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Northwestern-Mutual",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
