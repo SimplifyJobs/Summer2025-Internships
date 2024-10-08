@@ -100512,7 +100512,7 @@
         "company_name": "Chamberlain Group",
         "id": "905e3d3e-3969-4804-85df-dc2f5b8c528b",
         "title": "Co-op \u2013 Machine Learning - Computer Vision - And AI - Spring 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025"
         ],
@@ -111135,7 +111135,7 @@
         "company_name": "Telesat",
         "id": "1c48f92a-d608-4070-b7e6-416164b80037",
         "title": "LS442 \u2013 Software Engineering Coop",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
