@@ -91318,7 +91318,7 @@
         "company_name": "Capstone Investment Advisors",
         "id": "c050b237-c757-4fb8-be33-9434aff91618",
         "title": "2025 Summer Internship - Quantitative Risk Technology",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -92324,7 +92324,7 @@
         "company_name": "CACI",
         "id": "6814e858-9b31-4794-af25-682817c62cd5",
         "title": "Software Engineering Intern - Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -111455,6 +111455,27 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/MarketAxess",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Rivian",
+        "id": "6ba77184-816b-42a3-8ad1-534053499e03",
+        "title": "UIUC Research Park Intern - Machine Learning",
+        "active": true,
+        "terms": [
+            "Fall 2024",
+            "Spring 2025",
+            "Summer 2025"
+        ],
+        "date_updated": 1728415607,
+        "date_posted": 1728415607,
+        "url": "https://careers.rivian.com/jobs/19516?lang=en-us&icims=1",
+        "locations": [
+            "Urbana, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Rivian",
         "is_visible": true,
         "sponsorship": "Other"
     }
