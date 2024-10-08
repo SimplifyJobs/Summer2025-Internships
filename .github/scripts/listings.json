@@ -111438,5 +111438,24 @@
         "company_url": "https://simplify.jobs/c/PlayStation-Global",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "MarketAxess",
+        "id": "84a10623-8c69-4268-b085-fb46b4f747fc",
+        "title": "Trading Systems Intern 2025",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1728400612,
+        "date_posted": 1728400612,
+        "url": "https://www.marketaxess.com/careers/current-openings/detail/jobs/4400322006?gh_jid=4400322006",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/MarketAxess",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
