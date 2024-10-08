@@ -103389,7 +103389,7 @@
         "company_name": "Motorola",
         "id": "ea4bca9a-7497-436e-bc50-056e34105289",
         "title": "Supply Chain Data Analyst Internship 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -106313,7 +106313,7 @@
         "company_name": "Motorola",
         "id": "148404ba-21d3-457c-bb26-d8dc1d797503",
         "title": "Supply Chain Data Analyst Internship 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -111640,6 +111640,27 @@
             "Milwaukee, WI"
         ],
         "company_url": "https://simplify.jobs/c/Northwestern-Mutual",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "PlayStation Global",
+        "id": "7bab1660-437e-490c-be82-02918c4eaf86",
+        "title": "Software Development Engineer in Test Intern - Undergraduate",
+        "active": true,
+        "terms": [
+            "Spring 2024",
+            "Summer 2024",
+            "Fall 2024"
+        ],
+        "date_updated": 1728429338,
+        "date_posted": 1728429338,
+        "url": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5342921004",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/PlayStation-Global",
         "is_visible": true,
         "sponsorship": "Other"
     }
