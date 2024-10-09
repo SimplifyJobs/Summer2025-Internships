@@ -105094,7 +105094,7 @@
         "company_name": "Bristol-Myers Squibb",
         "id": "341b2552-1ade-42bf-aeab-1b33732baf1d",
         "title": "Summer 2025 \u2013 Hydrogen-Deuterium Exchange data analysis Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -112100,6 +112100,25 @@
             "Boston, MA"
         ],
         "company_url": "https://simplify.jobs/c/Force-Factor",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Waymo",
+        "id": "faf0cf3c-4b3f-4212-b848-9e571fb7f25f",
+        "title": "2025 Summer Intern - Waymo Commercialization - Taas",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1728515464,
+        "date_posted": 1728515464,
+        "url": "https://careers.withwaymo.com/jobs?gh_jid=6319584",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Waymo",
         "is_visible": true,
         "sponsorship": "Other"
     }
