@@ -111663,5 +111663,25 @@
         "company_url": "https://simplify.jobs/c/PlayStation-Global",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Gilead Sciences",
+        "id": "2a51114c-5bbd-4344-88bd-883f820d2048",
+        "title": "Intern \u2013 IT - Kite Techops",
+        "active": true,
+        "terms": [
+            "Spring 2024",
+            "Summer 2024"
+        ],
+        "date_updated": 1728443537,
+        "date_posted": 1728443537,
+        "url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---IT--Kite-TechOps_R0042353",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Gilead-Sciences",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
