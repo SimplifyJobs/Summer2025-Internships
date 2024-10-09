@@ -90716,18 +90716,17 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1722830699,
+        "date_updated": 1728497703,
         "url": "https://careers.confluent.io/jobs/14738285-2025-software-engineering-intern",
         "company_name": "Confluent",
         "title": "Software Engineering Intern",
         "locations": [
-            "Austin, TX",
-            "Remote"
+            "Austin, TX"
         ],
         "terms": [
             "Summer 2025"
         ],
-        "sponsorship": "Offers Sponsorship",
+        "sponsorship": "Other",
         "active": true,
         "source": "Aparna-Rajesh",
         "id": "161a9d8a-d750-4015-bd48-29b5a5c0a290",
