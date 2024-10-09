@@ -104059,7 +104059,7 @@
         "company_name": "Medtronic",
         "id": "29952ced-774c-43b5-b8e8-125921938668",
         "title": "This Post IS Intended For Students Seeking a Summer 2025 Internship Attending the 2024 SWE.",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -105450,7 +105450,7 @@
         "company_name": "Autodesk",
         "id": "415a0700-b6e0-4b2a-89c6-26fb107c3819",
         "title": "Intern \u2013 Data Engineer - Vancouver",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025",
             "Spring 2025"
@@ -111756,6 +111756,350 @@
             "Milwaukee, WI"
         ],
         "company_url": "https://simplify.jobs/c/Northwestern-Mutual",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Snowflake",
+        "id": "a32fa1ab-2d65-4d63-971b-590f9e41deeb",
+        "title": "Software Engineer Intern - Core Engineering - Spring 2025",
+        "active": true,
+        "terms": [
+            "Spring 2025"
+        ],
+        "date_updated": 1728502469,
+        "date_posted": 1728502469,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=7635022002",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Snowflake",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Snowflake",
+        "id": "96e5ca0f-6829-49e3-950c-ad8d418d1dc9",
+        "title": "Software Engineer Intern - Infrastructure Automation - Spring 2025",
+        "active": true,
+        "terms": [
+            "Spring 2025"
+        ],
+        "date_updated": 1728502468,
+        "date_posted": 1728502468,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=7635093002",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Snowflake",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Snowflake",
+        "id": "ccfefb85-235e-4ad3-bd85-23a88d8cc76e",
+        "title": "Software Engineer Intern - Core Engineering - Spring 2025",
+        "active": true,
+        "terms": [
+            "Spring 2025"
+        ],
+        "date_updated": 1728502467,
+        "date_posted": 1728502467,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=7634989002",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Snowflake",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Snowflake",
+        "id": "288a86d5-8686-47d2-be54-4da24ddfeb4e",
+        "title": "Software Engineer Intern - Infrastructure Automation - Spring 2025",
+        "active": true,
+        "terms": [
+            "Spring 2025"
+        ],
+        "date_updated": 1728502467,
+        "date_posted": 1728502467,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=7635091002",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Snowflake",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Snowflake",
+        "id": "03d417ad-648d-4265-87ed-a7e280d23de2",
+        "title": "Software Engineer Intern - Infrastructure Automation - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1728502466,
+        "date_posted": 1728502466,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=7635094002",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Snowflake",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Snowflake",
+        "id": "3c971623-ed4b-451d-a667-0fb0aad06bc5",
+        "title": "Software Engineer Intern - Database Engineering - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1728502466,
+        "date_posted": 1728502466,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=7634965002",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Snowflake",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Snowflake",
+        "id": "5bfc6a45-2283-446f-960c-4d632e352697",
+        "title": "Software Engineer Intern - Database Engineering - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1728502465,
+        "date_posted": 1728502465,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=7634956002",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Snowflake",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Snowflake",
+        "id": "912f5034-868f-477b-8ed1-5e6acf0dee7a",
+        "title": "Software Engineer Intern - Core Engineering - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1728502465,
+        "date_posted": 1728502465,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=7635036002",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Snowflake",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Snowflake",
+        "id": "b499826c-b68a-487f-acd4-f5ac3a5d9232",
+        "title": "Software Engineer Intern - Infrastructure Automation - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1728502465,
+        "date_posted": 1728502465,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=7635105002",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Snowflake",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Snowflake",
+        "id": "7e07e424-7e4e-4505-a7e9-cdb16df1fb82",
+        "title": "Software Engineer Intern - Database Engineering - Spring 2025",
+        "active": true,
+        "terms": [
+            "Spring 2025"
+        ],
+        "date_updated": 1728502465,
+        "date_posted": 1728502465,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=7634518002",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Snowflake",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Snowflake",
+        "id": "52ce2d5d-424a-4555-a2bb-4c95a0c98fde",
+        "title": "Software Engineer Intern - Database Engineering - Spring 2025",
+        "active": true,
+        "terms": [
+            "Spring 2025"
+        ],
+        "date_updated": 1728502465,
+        "date_posted": 1728502465,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=7634943002",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Snowflake",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Snowflake",
+        "id": "d571702c-e813-40b2-ab13-a88419e1af7c",
+        "title": "Software Engineer Intern - Core Engineering - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1728502466,
+        "date_posted": 1728502466,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=7635023002",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Snowflake",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Snowflake",
+        "id": "0b19d21c-4ca0-48b7-b264-7c37fd212104",
+        "title": "Software Engineer Intern - AI/ML - Spring 2025",
+        "active": true,
+        "terms": [
+            "Spring 2025"
+        ],
+        "date_updated": 1728502463,
+        "date_posted": 1728502463,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=7635191002",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Snowflake",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Snowflake",
+        "id": "43a231b8-6975-442a-b56e-04187b166ff3",
+        "title": "Software Engineer Intern - AI/ML - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1728502463,
+        "date_posted": 1728502463,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=7635215002",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Snowflake",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Snowflake",
+        "id": "90762762-b41f-4b5a-aa27-dddf91ef9475",
+        "title": "Software Engineer Intern - AI/ML - Spring 2025",
+        "active": true,
+        "terms": [
+            "Spring 2025"
+        ],
+        "date_updated": 1728502462,
+        "date_posted": 1728502462,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=7635186002",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Snowflake",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Booz Allen",
+        "id": "a7c59d2f-c7ce-4046-82e4-b03ae4659d83",
+        "title": "University \u2013 Systems Engineer Intern",
+        "active": true,
+        "terms": [
+            "Winter 2025",
+            "Spring 2025",
+            "Summer 2025"
+        ],
+        "date_updated": 1728502441,
+        "date_posted": 1728502441,
+        "url": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fayetteville-NC/University--Systems-Engineer-Intern_R0207658",
+        "locations": [
+            "Fayetteville, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/45cb775d-2ca3-49ea-810f-65334ec70079",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Force Factor",
+        "id": "4b16b02f-3e54-4af7-afb1-001ffd362831",
+        "title": "AI Spring Co-Op",
+        "active": true,
+        "terms": [
+            "Spring 2024"
+        ],
+        "date_updated": 1728502346,
+        "date_posted": 1728502346,
+        "url": "https://forcefactor.com/pages/job-openings?gh_jid=5350197004",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Force-Factor",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Force Factor",
+        "id": "12a97ad0-ada3-4b08-b286-e0ab0b7e12cc",
+        "title": "Summer 2025 AI Internship",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1728502350,
+        "date_posted": 1728502350,
+        "url": "https://forcefactor.com/pages/job-openings?gh_jid=5350201004",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Force-Factor",
         "is_visible": true,
         "sponsorship": "Other"
     }
