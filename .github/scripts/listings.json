@@ -111057,7 +111057,7 @@
         "company_name": "Santander",
         "id": "9bcb4318-4ccb-4c79-afb3-48ccf39b2a40",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
