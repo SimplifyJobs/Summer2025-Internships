@@ -89074,7 +89074,7 @@
         "company_name": "Sanctuary AI",
         "id": "fe0b5eea-9fcf-4645-9010-41923cd7dddd",
         "title": "Software Co-op: Machine Learning Operations - Fall 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2024"
         ],
@@ -111483,7 +111483,7 @@
         "company_name": "Booz Allen",
         "id": "c4ec108d-b28d-49a6-b2f7-b7dda1483b9a",
         "title": "University \u2013 Data Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025",
             "Summer 2025",
