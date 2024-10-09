@@ -111483,7 +111483,7 @@
         "company_name": "Booz Allen",
         "id": "c4ec108d-b28d-49a6-b2f7-b7dda1483b9a",
         "title": "University \u2013 Data Scientist Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2025",
             "Summer 2025",
@@ -112011,7 +112011,7 @@
         "company_name": "Snowflake",
         "id": "43a231b8-6975-442a-b56e-04187b166ff3",
         "title": "Software Engineer Intern - AI/ML - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
