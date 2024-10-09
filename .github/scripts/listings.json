@@ -111683,5 +111683,24 @@
         "company_url": "https://simplify.jobs/c/Gilead-Sciences",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1728447163,
+        "url": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5342967004",
+        "company_name": "Sony Interactive Entertainment",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "GaryZhous",
+        "id": "2d10962a-7b86-479b-9680-094c695ce9d5",
+        "date_posted": 1728447163,
+        "company_url": "",
+        "is_visible": true
     }
 ]
