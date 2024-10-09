@@ -104653,7 +104653,7 @@
         "company_name": "Braze",
         "id": "95547e62-ac14-46cc-8d04-9685ef3c2d06",
         "title": "Software Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -111721,5 +111721,43 @@
         "date_posted": 1728447433,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Motorola",
+        "id": "511d150a-b025-4d95-a9bc-c1c24b89f6c0",
+        "title": "Software Engineering \u2013 Co-Op - Digital Signal Processing - Spring 2025",
+        "active": true,
+        "terms": [
+            "Spring 2025"
+        ],
+        "date_updated": 1728486954,
+        "date_posted": 1728486954,
+        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/Software-Engineering--Digital-Signal-Processing--Co-Op---Spring-2025_R50232",
+        "locations": [
+            "Plantation, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/MotorolaSolutions",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Northwestern Mutual",
+        "id": "029a8092-192b-4a99-831d-b7049b3e09fd",
+        "title": "Software Engineering Intern - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1728486560,
+        "date_posted": 1728486560,
+        "url": "https://northwesternmutual.wd5.myworkdayjobs.com/corporate-careers/job/Milwaukee-WI-Corporate/Software-Engineering-Intern--Summer-2025_JR-41902",
+        "locations": [
+            "Milwaukee, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Northwestern-Mutual",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
