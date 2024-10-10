@@ -112444,5 +112444,63 @@
         "company_url": "https://simplify.jobs/c/drivetime",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "HCSC",
+        "id": "398e19fe-c3e8-4b0e-92b0-c37cd1b7eedb",
+        "title": "University Relations \u2013 Associate Developer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1728589147,
+        "date_posted": 1728589147,
+        "url": "https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/MT---Helena/University-Relations---Associate-Developer-Intern_R0042360",
+        "locations": [
+            "Helena, MT"
+        ],
+        "company_url": "https://simplify.jobs/c/de9db5fc-93ac-4e2a-873c-61d8a830873c",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Alchemy",
+        "id": "d728c7a5-7f01-4946-857e-59e752481e4e",
+        "title": "Engineering Internship - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1728588960,
+        "date_posted": 1728588960,
+        "url": "https://job-boards.greenhouse.io/alchemy/jobs/4480513005",
+        "locations": [
+            "SF",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Alchemy",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Weber Shandwick",
+        "id": "7cf07d70-7b85-4688-92a6-7a5004988f45",
+        "title": "Capital Markets Intern - Spring 2025",
+        "active": true,
+        "terms": [
+            "Spring 2025"
+        ],
+        "date_updated": 1728588758,
+        "date_posted": 1728588758,
+        "url": "https://www.webershandwick.com/work-at-weber/careers/?gh_jid=7663533002",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Weber-Shandwick",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
