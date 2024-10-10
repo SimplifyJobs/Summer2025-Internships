@@ -112563,5 +112563,62 @@
         "company_url": "https://simplify.jobs/c/Live-Ramp",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Hewlett Packard (HP)",
+        "id": "18dcfbf2-9848-411b-b176-1663be1bce18",
+        "title": "Associated Software Developer \u2013 Co-op position - Rapid Response",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1728602386,
+        "date_posted": 1728602386,
+        "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Vancouver-British-Columbia-Canada/Associated-Software-Developer---Rapid-Response--Co-op-position-_3142356-1",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Hewlett Packard (HP)",
+        "id": "d5a75174-610c-4071-82be-4060a45d0aaa",
+        "title": "Fullstack Application Developer \u2013 Co-op position",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1728602385,
+        "date_posted": 1728602385,
+        "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Vancouver-British-Columbia-Canada/Fullstack-Application-Developer----Co-op-position-_3142624-1",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Hewlett Packard (HP)",
+        "id": "87e74dbd-b001-4b83-af34-7108eb137f0f",
+        "title": "Associate Software Developer \u2013 Co-op position - Anyware Endpoints",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1728602384,
+        "date_posted": 1728602384,
+        "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Vancouver-British-Columbia-Canada/Associate-Software-Developer---Anyware-Endpoints--Co-op-position-_3142353-1",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
