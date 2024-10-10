@@ -112235,5 +112235,43 @@
         "company_url": "https://simplify.jobs/c/Gearset",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Chamberlain Group",
+        "id": "7928c42a-3236-4f9e-a8c3-fb1ead9f7d02",
+        "title": "Intern \u2013 Implementation Consultant - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1728572932,
+        "date_posted": 1728572932,
+        "url": "https://chamberlain.wd1.myworkdayjobs.com/Chamberlain_Group/job/Oak-Brook-IL/Intern--Implementation-Consultant--Summer-2025-_JR28002",
+        "locations": [
+            "Western Springs, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Chamberlain-Group",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Acadian Asset Management",
+        "id": "f7640bfd-2a24-4b6a-9335-4e0411494e58",
+        "title": "Quant Developer Intern - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1728572850,
+        "date_posted": 1728572850,
+        "url": "https://www.acadian-asset.com/careers/open-positions?gh_jid=4409144006",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/acadian-asset-management",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
