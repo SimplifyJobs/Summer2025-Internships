@@ -112216,5 +112216,24 @@
         "company_url": "https://simplify.jobs/c/Leidos",
         "is_visible": true,
         "sponsorship": "U.S. Citizenship is Required"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Gearset",
+        "id": "ad6f190a-84c1-4c80-9d6a-3da2d342fce8",
+        "title": "Software Engineering Intern 2025",
+        "active": true,
+        "terms": [
+            "Fall 2024"
+        ],
+        "date_updated": 1728559030,
+        "date_posted": 1728559030,
+        "url": "https://jobs.lever.co/gearset/ea8c0165-1a29-40ed-b335-3d804a4d474c/apply",
+        "locations": [
+            "Cambridge, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Gearset",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
