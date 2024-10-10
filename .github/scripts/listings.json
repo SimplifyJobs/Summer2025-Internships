@@ -112121,5 +112121,100 @@
         "company_url": "https://simplify.jobs/c/Waymo",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Kognitos",
+        "id": "07f91406-4025-4590-b4dd-017ede99ce97",
+        "title": "Software Engineer \u2013 Intern - Winter 2025",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1728530013,
+        "date_posted": 1728530013,
+        "url": "https://jobs.ashbyhq.com/Kognitos/0494f0ce-1019-469b-bd38-73775d108a8e/application",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/142611da-5149-464d-b83b-10184af37def",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Kognitos",
+        "id": "1318ba6c-f8f6-499e-8646-c2048a2516d6",
+        "title": "Software Engineer \u2013 Intern - Winter 2025",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1728530012,
+        "date_posted": 1728530012,
+        "url": "https://jobs.ashbyhq.com/Kognitos/994c4cf7-ba32-42ce-99bc-0212cead2acb/application",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/142611da-5149-464d-b83b-10184af37def",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Kognitos",
+        "id": "32f15aec-0627-490a-8b8f-79bb2e9c7562",
+        "title": "Software Engineer \u2013 Intern - Winter 2025",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1728530010,
+        "date_posted": 1728530010,
+        "url": "https://jobs.ashbyhq.com/Kognitos/bcf51e9a-b384-4bbf-9d4c-eb6d2f233928/application",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/142611da-5149-464d-b83b-10184af37def",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Leidos",
+        "id": "4efd4e26-d188-4fbc-9694-2d96d52efa52",
+        "title": "AI Web Application Developer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1728529817,
+        "date_posted": 1728529817,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/AI-Web-Application-Developer-Intern_R-00145781",
+        "locations": [
+            "Arlington, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Leidos",
+        "id": "7201389a-aaff-47a0-b7bd-81b1a8acf4af",
+        "title": "Data Scientist Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1728529811,
+        "date_posted": 1728529811,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Data-Scientist-Intern_R-00145783",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
