@@ -103368,7 +103368,7 @@
         "company_name": "Motorola",
         "id": "08bf4abd-3509-49b9-bf83-163e0e887c85",
         "title": "Supply Chain Data Analytics Internship 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -112500,6 +112500,67 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/Weber-Shandwick",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Pinterest",
+        "id": "295fc430-7a33-4598-a2ee-bf0a3fd1828b",
+        "title": "IT Data Engineer Intern - USA",
+        "active": true,
+        "terms": [
+            "Spring 2025",
+            "Summer 2025",
+            "Fall 2025"
+        ],
+        "date_updated": 1728602043,
+        "date_posted": 1728602043,
+        "url": "https://www.pinterestcareers.com/job-form?gh_jid=6319528",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Pinterest",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Pinterest",
+        "id": "c1cc25af-2498-4bf0-93eb-5c7fcb07bb2c",
+        "title": "IT Systems Engineering Intern - USA",
+        "active": true,
+        "terms": [
+            "Spring 2025",
+            "Summer 2025",
+            "Fall 2025"
+        ],
+        "date_updated": 1728602042,
+        "date_posted": 1728602042,
+        "url": "https://www.pinterestcareers.com/job-form?gh_jid=6319532",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Pinterest",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Live Ramp",
+        "id": "2bbf958c-8f5d-4ce2-a83d-6a3366db3473",
+        "title": "Software Engineer Co-Op",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1728601580,
+        "date_posted": 1728601580,
+        "url": "https://liveramp.wd5.myworkdayjobs.com/en-US/LiveRampCareers/job/San-Francisco/Software-Engineer-Co-Op_JR011332",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Live-Ramp",
         "is_visible": true,
         "sponsorship": "Other"
     }
