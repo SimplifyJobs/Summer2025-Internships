@@ -109706,7 +109706,7 @@
         "company_name": "Leidos",
         "id": "e6a509a9-cf54-4297-8ea2-50c8a81ef013",
         "title": "Data Scientist Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -110418,7 +110418,7 @@
         "company_name": "Leidos",
         "id": "fe811bfd-8a1f-4f72-b149-4804a5b6653f",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
