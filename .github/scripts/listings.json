@@ -104236,7 +104236,7 @@
         "company_name": "Motorola",
         "id": "545fc5f4-0bac-40a0-bc29-fa8243933b22",
         "title": "Software Engineer Intern - Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -106270,7 +106270,7 @@
         "company_name": "Amazon",
         "id": "8c9f42dc-4728-4ad8-9e1f-c20b8c372c10",
         "title": "Software Development Engineer - Artificial General Intelligence",
-        "active": false,
+        "active": true,
         "terms": [],
         "date_updated": 1727305952,
         "date_posted": 1727305952,
@@ -112271,6 +112271,25 @@
             "Boston, MA"
         ],
         "company_url": "https://simplify.jobs/c/acadian-asset-management",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Motorola",
+        "id": "bcc7ec07-1cb5-431d-8a89-c25b4d15ce02",
+        "title": "Software Engineer Summer 2025 Internship - UIUC Research Park",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1728573358,
+        "date_posted": 1728573358,
+        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Champaign-IL-IL169/Software-Engineer-Summer-2025-Internship--UIUC-Research-Park-_R50649",
+        "locations": [
+            "Urbana, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/MotorolaSolutions",
         "is_visible": true,
         "sponsorship": "Other"
     }
