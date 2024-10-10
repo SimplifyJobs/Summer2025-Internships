@@ -111214,7 +111214,7 @@
         "company_name": "Northwestern Mutual",
         "id": "8a12f295-2219-4688-8ee5-7e8497089f13",
         "title": "Specialty Markets Data Analyst Intern - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -112290,6 +112290,25 @@
             "Urbana, IL"
         ],
         "company_url": "https://simplify.jobs/c/MotorolaSolutions",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "IPG DXTRA",
+        "id": "159ec0ab-1501-489b-82be-9322abe49797",
+        "title": "Capital Markets Intern - Spring 2025",
+        "active": true,
+        "terms": [
+            "Spring 2025"
+        ],
+        "date_updated": 1728587915,
+        "date_posted": 1728587915,
+        "url": "https://job-boards.greenhouse.io/dxacirca/jobs/7663534002",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/IPG-DXTRA",
         "is_visible": true,
         "sponsorship": "Other"
     }
