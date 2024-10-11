@@ -112924,5 +112924,27 @@
         "company_url": "https://simplify.jobs/c/80961b05-9ed3-462d-aef9-4b418c7fb796",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Hewlett Packard (HP)",
+        "id": "6812e468-6429-4348-bc49-5d3839423c50",
+        "title": "Personal Systems AI/Machine Learning Internship",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1728688647,
+        "date_posted": 1728688647,
+        "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Spring-Texas-United-States-of-America/Personal-Systems-AI-Machine-Learning-Internship_3142200-1",
+        "locations": [
+            "Palo Alto, CA",
+            "Austin, TX",
+            "Spring, TX",
+            "Boise, ID"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
