@@ -109512,7 +109512,7 @@
         "company_name": "Khan Academy",
         "id": "ce5e6613-4951-4f0d-a8af-9785c4f1f88e",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -112752,6 +112752,140 @@
             "Carmel, IN"
         ],
         "company_url": "https://simplify.jobs/c/allegion",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Solidigm",
+        "id": "ba54553f-829e-47ac-aa42-0541db30c163",
+        "title": "Customer Tools Software Engineering Undergraduate Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1728675828,
+        "date_posted": 1728675828,
+        "url": "https://jobs.smartrecruiters.com/Solidigm/744000019969711",
+        "locations": [
+            "Rancho Cordova, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Solidigm",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Visa",
+        "id": "ca49b9fd-222c-4397-af45-d2f2ae31a75d",
+        "title": "Data Storage Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1728675743,
+        "date_posted": 1728675743,
+        "url": "https://jobs.smartrecruiters.com/Visa/744000019945615",
+        "locations": [
+            "Highlands Ranch, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Visa",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Visa",
+        "id": "fa3c1a59-5912-43fb-b1aa-a34431f95897",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1728675719,
+        "date_posted": 1728675719,
+        "url": "https://jobs.smartrecruiters.com/Visa/744000019962855",
+        "locations": [
+            "Miami, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Visa",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Visa",
+        "id": "767f0e40-58d2-4806-b377-b412a2cc0b7a",
+        "title": "Systems Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1728675704,
+        "date_posted": 1728675704,
+        "url": "https://jobs.smartrecruiters.com/Visa/744000019961577",
+        "locations": [
+            "Highlands Ranch, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Visa",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Visa",
+        "id": "47ba5cc9-2de2-491f-b208-cb898e530fa9",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1728675705,
+        "date_posted": 1728675705,
+        "url": "https://jobs.smartrecruiters.com/Visa/744000019954505",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Visa",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "EUNA Solutions",
+        "id": "033978f1-a7c2-4589-90ee-ad702af34688",
+        "title": "Software Developer Co-Op - React/Nodejs",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1728675704,
+        "date_posted": 1728675704,
+        "url": "https://euna.bamboohr.com/careers/208/",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/86636c38-0e05-4ec1-b699-ea03e743f151",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Udig",
+        "id": "95b50947-b7fe-4f8a-b05f-fe7c3afce12c",
+        "title": "Technical Consultant Summer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1728675343,
+        "date_posted": 1728675343,
+        "url": "https://udig.com/careers/job-listing/?gh_jid=6113363003",
+        "locations": [
+            "Nashville, TN",
+            "Richmond, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Udig",
         "is_visible": true,
         "sponsorship": "Other"
     }
