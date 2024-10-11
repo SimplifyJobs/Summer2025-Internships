@@ -112658,5 +112658,25 @@
         "company_url": "https://simplify.jobs/c/Epic-Games",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1728625577,
+        "url": "https://careers.se.com/jobs/77783",
+        "company_name": "Schneider Electric",
+        "title": "Software Engineer Intern (Summer 2025)",
+        "locations": [
+            "North Andover, MA",
+            "Boston, MA"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "GaryZhous",
+        "id": "09b949a7-eb4f-4354-b3b4-cb6e4659608f",
+        "date_posted": 1728625577,
+        "company_url": "",
+        "is_visible": true
     }
 ]
