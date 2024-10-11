@@ -112639,5 +112639,24 @@
         "company_url": "https://simplify.jobs/c/Hewlett-Packard",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Epic Games",
+        "id": "da41d756-6fb1-4a6a-aded-18b0d309d2d7",
+        "title": "Game Security Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1728616353,
+        "date_posted": 1728616353,
+        "url": "https://epicgames.com/careers/jobs/5281072004?gh_jid=5281072004",
+        "locations": [
+            "Morrisville, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Epic-Games",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
