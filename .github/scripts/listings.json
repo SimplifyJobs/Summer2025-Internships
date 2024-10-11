@@ -112678,5 +112678,24 @@
         "date_posted": 1728625577,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Monzo",
+        "id": "554e86b8-c059-4947-8605-e2f4187fe2d4",
+        "title": "Software Engineering Internship - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1728645277,
+        "date_posted": 1728645277,
+        "url": "https://job-boards.greenhouse.io/monzo/jobs/6266518",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Monzo",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
