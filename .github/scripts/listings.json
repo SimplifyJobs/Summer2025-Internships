@@ -100704,7 +100704,7 @@
         "company_name": "Capital One",
         "id": "63695765-58f3-42c9-bdef-403db4306574",
         "title": "Full Stack Software Engineer \u2013 Intern - Winter 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -102350,7 +102350,7 @@
         "company_name": "Wellington Management",
         "id": "60cf3f7f-859a-4c52-8d19-78e7a120cd7a",
         "title": "Summer 2025 Technology Undergraduate Intern - Boston",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -105874,7 +105874,7 @@
         "company_name": "Athena Health",
         "id": "d035d135-849e-4160-aadd-b238627a9b4d",
         "title": "2025 Summer Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -109706,7 +109706,7 @@
         "company_name": "Leidos",
         "id": "e6a509a9-cf54-4297-8ea2-50c8a81ef013",
         "title": "Data Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -110418,7 +110418,7 @@
         "company_name": "Leidos",
         "id": "fe811bfd-8a1f-4f72-b149-4804a5b6653f",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
