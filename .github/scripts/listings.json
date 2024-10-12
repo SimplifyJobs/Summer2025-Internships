@@ -46861,7 +46861,7 @@
         "company_name": "Uber",
         "id": "ae93fb9a-c5cc-4cb1-801f-adf4ce90e48c",
         "title": "2024 Software Engineering Uberstar Internship - UC Berkeley",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -46883,7 +46883,7 @@
         "company_name": "Uber",
         "id": "26e2087a-1820-40dd-b365-7308e8768454",
         "title": "2024 Software Engineering Uberstar Internship - UC Berkeley",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -106862,7 +106862,7 @@
         "company_name": "Uber",
         "id": "0f67f000-a5b6-427e-98c1-6e47ae0c6e06",
         "title": "2025 Software Engineer Internship - UC Berkeley",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -107300,7 +107300,7 @@
         "company_name": "Uber",
         "id": "7206e696-920d-42f3-a118-812b960d514c",
         "title": "2025 Software Engineering Uberstar Internship - UC Berkeley",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -107363,7 +107363,7 @@
         "company_name": "Uber",
         "id": "e7b6cde7-3012-4e07-bb17-a6192dee8884",
         "title": "2025 Software Engineering Uberstar Internship - UC Berkeley",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -107554,7 +107554,7 @@
         "company_name": "Uber",
         "id": "772f0cad-00bc-4a2c-a665-7f3fbd0f2f41",
         "title": "2025 Software Engineer Internship - UC Berkeley",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -112964,6 +112964,26 @@
             "Palo Alto, CA"
         ],
         "company_url": "https://simplify.jobs/c/Wing",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Galaxy",
+        "id": "640a1f9f-0e8e-4af1-8afe-18b60e092ada",
+        "title": "2025 Sales and Trading Intern - London",
+        "active": true,
+        "terms": [
+            "Summer 2025",
+            "Fall 2025"
+        ],
+        "date_updated": 1728702496,
+        "date_posted": 1728702496,
+        "url": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/5353435004",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Galaxy",
         "is_visible": true,
         "sponsorship": "Other"
     }
