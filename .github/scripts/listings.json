@@ -112946,5 +112946,25 @@
         "company_url": "https://simplify.jobs/c/Hewlett-Packard",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Wing",
+        "id": "65640aae-0d90-48dc-b1ff-74cf856f4890",
+        "title": "Backend Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Spring 2024",
+            "Summer 2024"
+        ],
+        "date_updated": 1728688175,
+        "date_posted": 1728688175,
+        "url": "https://wing.com/careers/7654026002?gh_jid=7654026002",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Wing",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
