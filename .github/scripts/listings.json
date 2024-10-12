@@ -112988,5 +112988,24 @@
         "company_url": "https://simplify.jobs/c/Galaxy",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1728708385,
+        "url": "https://careers.hologic.com/search/300000366609685/intern-r-d-software-engineering",
+        "company_name": "Hologic",
+        "title": "Intern, R&D Software Engineering",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "GaryZhous",
+        "id": "ca79ed89-bd57-4747-b02e-f63f7fc33382",
+        "date_posted": 1728708385,
+        "company_url": "",
+        "is_visible": true
     }
 ]
