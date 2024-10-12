@@ -110262,7 +110262,7 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1727990578,
+        "date_updated": 1728706990,
         "url": "https://www.energysage.com/about-us/careers/?gh_jid=4530574007",
         "company_name": "EnergySage",
         "title": "Software Engineering Intern",
@@ -110274,7 +110274,7 @@
             "Spring 2025"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "zoemyatt",
         "id": "bf7abed3-ca42-4280-9a5a-faaf386f482f",
         "date_posted": 1727990578,
