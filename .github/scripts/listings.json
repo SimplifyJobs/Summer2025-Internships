@@ -113027,5 +113027,24 @@
         "company_url": "https://simplify.jobs/c/d1ef45b2-fd52-4e9d-9d7d-dc3d5386744f",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1728794250,
+        "url": "https://www.northropgrumman.com/jobs/Administrative-Services/Intern/United-States-of-America/Colorado/Aurora/R10173947/2025-software-engineer-intern-aurora-co?code=JB-18202",
+        "company_name": "Northrop Grumman",
+        "title": "2025 Software Engineer Intern",
+        "locations": [
+            "Aurora CO"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "GaryZhous",
+        "id": "cab97ba5-27a6-48f7-88ab-718d2de56c79",
+        "date_posted": 1728794250,
+        "company_url": "",
+        "is_visible": true
     }
 ]
