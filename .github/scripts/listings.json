@@ -104059,7 +104059,7 @@
         "company_name": "Medtronic",
         "id": "29952ced-774c-43b5-b8e8-125921938668",
         "title": "This Post IS Intended For Students Seeking a Summer 2025 Internship Attending the 2024 SWE.",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -104078,7 +104078,7 @@
         "company_name": "Medtronic",
         "id": "c9d4b6cc-0d99-42c4-9d10-d7d6239d34a2",
         "title": "Software Engineering Intern - Summer 2025 - Undergraduate",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
