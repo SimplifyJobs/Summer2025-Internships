@@ -113103,5 +113103,24 @@
         "date_posted": 1728881192,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Amazon",
+        "id": "4a2aa6e0-21eb-45c5-bc91-39bc121dd662",
+        "title": "Associate Professional Services Consultant Intern 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1728904691,
+        "date_posted": 1728904691,
+        "url": "https://amazon.jobs/en/jobs/2804060/associate-professional-services-consultant-intern-2025",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
