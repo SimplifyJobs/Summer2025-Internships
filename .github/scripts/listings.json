@@ -97685,7 +97685,7 @@
         "company_name": "Appian",
         "id": "45274461-7c5c-446d-9a28-a9510ec349c5",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -108579,7 +108579,7 @@
         "company_name": "Uber",
         "id": "506af898-892c-4570-bda5-c4b2144b7531",
         "title": "2025 Software Engineering Uberstar Internship - Stanford University",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -108733,7 +108733,7 @@
         "company_name": "Uber",
         "id": "460a2bdb-3df2-475c-a29f-39d464ff9790",
         "title": "2025 Software Engineering Internship - Stanford University",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -113159,6 +113159,68 @@
             "Andover, MA"
         ],
         "company_url": "https://simplify.jobs/c/4b2e56dd-7341-4054-bc71-20c6f9f2736b",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Symphony",
+        "id": "916e0948-c9b3-41f3-91f4-87d39641fac8",
+        "title": "Intern \u2013 Product & Engineering",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1728934129,
+        "date_posted": 1728934129,
+        "url": "https://symphony.com/company/apply?gh_jid=6283242",
+        "locations": [
+            "Belfast, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Symphony-Comm",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "The Allen Institute for AI",
+        "id": "06d0273f-0275-4e49-af67-6697bf1d41af",
+        "title": "Research Internship - Olmo",
+        "active": true,
+        "terms": [
+            "Spring 2024",
+            "Summer 2024",
+            "Fall 2024",
+            "Winter 2025",
+            "Spring 2025",
+            "Summer 2025"
+        ],
+        "date_updated": 1728934129,
+        "date_posted": 1728934129,
+        "url": "https://job-boards.greenhouse.io/thealleninstitute/jobs/6322728",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/allenai",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Leidos",
+        "id": "69676762-4733-4768-9e1f-d4a1e59bae74",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1728933650,
+        "date_posted": 1728933650,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Tucson-AZ/Software-Engineer-Intern_R-00145578",
+        "locations": [
+            "Tucson, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
         "is_visible": true,
         "sponsorship": "Other"
     }
