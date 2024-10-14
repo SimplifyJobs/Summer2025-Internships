@@ -113344,5 +113344,25 @@
         "company_url": "https://simplify.jobs/c/Northwestern-Mutual",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "T. Rowe Price",
+        "id": "b9436abe-3b2b-4217-9d14-b5e46a6e95a8",
+        "title": "2024 SHPE National Convention \u2013 2025 Summer Software Engineering Internship Program - SHPE Student Attendees ONLY - Global Technology",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1728947955,
+        "date_posted": 1728947955,
+        "url": "https://troweprice.wd5.myworkdayjobs.com/en-US/TRowePrice/job/Owings-Mills-MD/XMLNAME-2024-SHPE-National-Convention--SHPE-Student-Attendees-ONLY--Global-Technology---2025-Summer-Software-Engineering-Internship-Program_73777",
+        "locations": [
+            "Owings Mills, MD",
+            "Baltimore, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/t-rowe-price",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
