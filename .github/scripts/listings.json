@@ -91962,7 +91962,7 @@
         "company_name": "Intel",
         "id": "4fb5070e-9cc4-4d45-82b0-0d84f5a5a440",
         "title": "Software Engineer \u2013 PEY Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2024"
         ],
@@ -113120,6 +113120,26 @@
             "London, UK"
         ],
         "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Snyk",
+        "id": "f90a6973-9818-4940-8e7b-9479505cf112",
+        "title": "Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1728918964,
+        "date_posted": 1728918964,
+        "url": "https://boards.greenhouse.io/snyk/jobs/7682064002",
+        "locations": [
+            "Boston, MA",
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Snyk",
         "is_visible": true,
         "sponsorship": "Other"
     }
