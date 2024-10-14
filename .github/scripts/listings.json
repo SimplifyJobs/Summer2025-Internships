@@ -113084,5 +113084,24 @@
         "company_url": "https://simplify.jobs/c/Two-Six-Technologies",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1728881192,
+        "url": "https://jobs.comcast.com/job/-/-/45483/70239974992",
+        "company_name": "Comcast",
+        "title": "AI-Driven Software Development Intern",
+        "locations": [
+            "West Chester, PA"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "GaryZhous",
+        "id": "ea8529fa-0c1d-4fa3-aead-f7ec9159a65f",
+        "date_posted": 1728881192,
+        "company_url": "",
+        "is_visible": true
     }
 ]
