@@ -113142,5 +113142,24 @@
         "company_url": "https://simplify.jobs/c/Snyk",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Fresenius Medical Care",
+        "id": "8d7e0889-a008-4de7-88e6-e41e957261fc",
+        "title": "Software Engineering Co-op",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1728919068,
+        "date_posted": 1728919068,
+        "url": "https://freseniusmedicalcare.wd3.myworkdayjobs.com/en-US/fme/job/Lawrence-MA-USA/Software-Engineering-Co-op_R0176395",
+        "locations": [
+            "Andover, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/4b2e56dd-7341-4054-bc71-20c6f9f2736b",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
