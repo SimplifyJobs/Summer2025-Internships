@@ -113223,5 +113223,84 @@
         "company_url": "https://simplify.jobs/c/Leidos",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "HCSC",
+        "id": "511a4dee-5eaa-47dc-8070-bc94659fb12a",
+        "title": "University Relations \u2013 Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1728934480,
+        "date_posted": 1728934480,
+        "url": "https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/TX---Richardson/University-Relations---Analytics-Intern_R0042310",
+        "locations": [
+            "Richardson, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/de9db5fc-93ac-4e2a-873c-61d8a830873c",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "TransUnion",
+        "id": "14cca158-3ded-4ae7-83da-d33e5bd14744",
+        "title": "Business Analytics Internship Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1728934642,
+        "date_posted": 1728934642,
+        "url": "https://transunion.wd5.myworkdayjobs.com/en-US/TransUnion/job/White-Plains-New-York/Business-Analytics-Internship-Summer-2025_19032230",
+        "locations": [
+            "White Plains, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/00cf2cf8-458d-4e49-8d00-a1a897d7294a",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "HCSC",
+        "id": "bb85d199-9d66-415f-a64c-b94c2e2d13a4",
+        "title": "University Relations \u2013 Associate Data Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1728934483,
+        "date_posted": 1728934483,
+        "url": "https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/IL---Chicago/University-Relations---Associate-Data-Analyst-Intern_R0042322",
+        "locations": [
+            "Chicago, IL",
+            "Richardson, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/de9db5fc-93ac-4e2a-873c-61d8a830873c",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Nelnet",
+        "id": "37639749-4a87-4339-842d-13bb60053f31",
+        "title": "Intern \u2013 Software Engineer - Application Security - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1728934347,
+        "date_posted": 1728934347,
+        "url": "https://nelnet.wd1.myworkdayjobs.com/en-US/MyNelnet/job/Madison-WI/Intern---Software-Engineer---Application-Security---Summer-2025_R20147",
+        "locations": [
+            "Madison, WI",
+            "Centennial, CO",
+            "Lincoln, NE"
+        ],
+        "company_url": "https://simplify.jobs/c/d7662126-9bc7-4ec4-b3e6-a9a3ae307c5d",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
