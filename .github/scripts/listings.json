@@ -113046,5 +113046,43 @@
         "date_posted": 1728794250,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Mach Industries",
+        "id": "7a132c30-a474-4ae9-a695-c6050190d08a",
+        "title": "Summer Intern 2025 - Software Engineer",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1728875812,
+        "date_posted": 1728875812,
+        "url": "https://jobs.ashbyhq.com/mach/ae1694b8-509d-4ce3-84eb-0a4ccab4870e/application",
+        "locations": [
+            "Huntington Beach, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Mach-Industries",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Two Six Technologies",
+        "id": "cd2b7adc-763a-41c7-bf5c-bf06092ced2f",
+        "title": "Summer Research Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1728875658,
+        "date_posted": 1728875658,
+        "url": "https://job-boards.greenhouse.io/twosixtechnologies/jobs/5343484004",
+        "locations": [
+            "Arlington, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Two-Six-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
