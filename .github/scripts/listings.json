@@ -104015,23 +104015,21 @@
         "source": "Simplify",
         "company_name": "Patreon",
         "id": "2834e3af-155e-4c50-8a9d-72aaec4b9af5",
-        "title": "Software Engineering Intern",
+        "title": "Software Engineering Intern\t",
         "active": true,
         "terms": [
-            "Spring 2025",
-            "Summer 2025",
-            "Fall 2025"
+            "Summer 2025"
         ],
-        "date_updated": 1726614370,
+        "date_updated": 1729035900,
         "date_posted": 1726614370,
         "url": "https://jobs.ashbyhq.com/patreon/281934d5-df77-42ec-a5a1-c06563b9df2a/application",
         "locations": [
-            "SF",
-            "NYC"
+            "NYC",
+            "SF"
         ],
         "company_url": "https://simplify.jobs/c/Patreon",
         "is_visible": true,
-        "sponsorship": "Other"
+        "sponsorship": "Offers Sponsorship"
     },
     {
         "source": "Simplify",
