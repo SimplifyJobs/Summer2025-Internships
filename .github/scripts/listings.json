@@ -113407,5 +113407,32 @@
         "date_posted": 1728965691,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728966276,
+        "url": "https://jobs.thecignagroup.com/us/en/job/24012109/Technology-Development-Program-TECDP-Summer-Internship%E2%80%AF2025",
+        "company_name": "Cigna",
+        "title": "Technology Development Program (TECDP) Summer Internship\u202f2025",
+        "locations": [
+            "St. Louis, MO",
+            "Austin, TX",
+            "Bloomfield, CT",
+            "Bloomington, MN",
+            "Denver, CO",
+            "Morris Plains, NJ",
+            "Philadelphia, PA",
+            "Nashville, TN",
+            "Franklin, TN"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "GaryZhous",
+        "id": "78af1ee5-712e-43ee-97a7-ad559fdae329",
+        "date_posted": 1728966276,
+        "company_url": "",
+        "is_visible": true
     }
 ]
