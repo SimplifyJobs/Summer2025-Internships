@@ -113568,5 +113568,24 @@
         "company_url": "https://simplify.jobs/c/Two-Six-Technologies",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Solidigm",
+        "id": "f289aacb-93a1-49fb-b43d-e95e1308ed5e",
+        "title": "SSD Validation Development Undergrad Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1729021599,
+        "date_posted": 1729021599,
+        "url": "https://jobs.smartrecruiters.com/Solidigm/744000020506065",
+        "locations": [
+            "Rancho Cordova, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Solidigm",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
