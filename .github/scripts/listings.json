@@ -101197,7 +101197,7 @@
         "company_name": "Wellmark",
         "id": "1b92bac7-5559-4627-a8bd-664db70b43ab",
         "title": "Data Science - Part-Time Student - Spring and Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [],
         "date_updated": 1726094314,
         "date_posted": 1726094314,
@@ -110399,7 +110399,7 @@
         "company_name": "Leidos",
         "id": "8b5e68de-e405-4ed3-893f-bd1d42dc15a0",
         "title": "Embedded Software Engineer \u2013 Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -113471,6 +113471,25 @@
             "SF"
         ],
         "company_url": "https://simplify.jobs/c/Live-Ramp",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Skydio",
+        "id": "bef8710c-fd94-4b9a-89ef-0b42463081c1",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1729020095,
+        "date_posted": 1729020095,
+        "url": "https://www.skydio.com/jobs/6220519003?gh_jid=6220519003",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Skydio",
         "is_visible": true,
         "sponsorship": "Other"
     }
