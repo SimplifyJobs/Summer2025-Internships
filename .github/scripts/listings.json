@@ -113383,5 +113383,29 @@
         "company_url": "https://simplify.jobs/c/9b240811-be36-4b51-8f40-6973a27e1f62",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1728965691,
+        "url": "https://jobs.thecignagroup.com/us/en/summer-internship-program",
+        "company_name": "Cigna",
+        "title": "Software Engineering Internship",
+        "locations": [
+            "Philadelphia, PA",
+            "Bloomfield, CT",
+            "St. Louis, MO",
+            "Denver, CO l Morris Plains, NJ l Nashville/Franklin, TN",
+            "Austin, TX",
+            "Bloomington, MN"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "maxgoldberg25",
+        "id": "8f4741b5-eca8-4bf5-b83d-20fd6319e9f1",
+        "date_posted": 1728965691,
+        "company_url": "",
+        "is_visible": true
     }
 ]
