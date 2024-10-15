@@ -113385,7 +113385,7 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1728965691,
+        "date_updated": 1728965873,
         "url": "https://jobs.thecignagroup.com/us/en/summer-internship-program",
         "company_name": "Cigna",
         "title": "Software Engineering Internship",
@@ -113400,12 +113400,12 @@
         "terms": [
             "Summer 2025"
         ],
-        "sponsorship": "Offers Sponsorship",
+        "sponsorship": "Other",
         "active": true,
         "source": "maxgoldberg25",
         "id": "8f4741b5-eca8-4bf5-b83d-20fd6319e9f1",
         "date_posted": 1728965691,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     }
 ]
