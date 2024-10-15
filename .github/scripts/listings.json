@@ -113364,5 +113364,24 @@
         "company_url": "https://simplify.jobs/c/t-rowe-price",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Medtronic",
+        "id": "f7c26017-da16-46aa-bb37-d603cbbf5def",
+        "title": "Intern Rotation-2024 Digital Services Centre of Excellence",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1728962109,
+        "date_posted": 1728962109,
+        "url": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/London-London-United-Kingdom/Digital-Services-Trainee-1_R3002-1",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/9b240811-be36-4b51-8f40-6973a27e1f62",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
