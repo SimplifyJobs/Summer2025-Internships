@@ -113454,5 +113454,24 @@
         "company_url": "https://simplify.jobs/c/d1f5dbd0-ca93-42bc-a680-4b4613524aae",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Live Ramp",
+        "id": "92ea7b8b-06df-44ca-a90b-d7ed99e21713",
+        "title": "Software Engineer Co - Op",
+        "active": true,
+        "terms": [
+            "Spring 2025"
+        ],
+        "date_updated": 1729019478,
+        "date_posted": 1729019478,
+        "url": "https://liveramp.wd5.myworkdayjobs.com/en-US/LiveRampCareers/job/San-Francisco/Software-Engineer-Co---Op_JR010541",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Live-Ramp",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
