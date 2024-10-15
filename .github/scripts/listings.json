@@ -113587,5 +113587,24 @@
         "company_url": "https://simplify.jobs/c/Solidigm",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Shield AI",
+        "id": "e5ec76ac-ef44-457c-a5df-2db158638b12",
+        "title": "Software Engineering Simulation Intern \u2013 2025 Summer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1729034088,
+        "date_posted": 1729034088,
+        "url": "https://jobs.lever.co/shieldai/88bde188-a407-4903-874f-dbb255100f3f/apply",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Shield-AI",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
