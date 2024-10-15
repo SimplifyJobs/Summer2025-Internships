@@ -113434,5 +113434,25 @@
         "date_posted": 1728966276,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Sophos",
+        "id": "7f01b19c-7631-4475-b7c3-adc9146fe5ec",
+        "title": "Software Engineering Intern - Month Fixed Term Placement - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1728990609,
+        "date_posted": 1728990609,
+        "url": "https://jobs.lever.co/sophos/05d3036e-0136-4706-9db7-886720467a6a/apply",
+        "locations": [
+            "Remote in UK",
+            "Oxford, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/d1f5dbd0-ca93-42bc-a680-4b4613524aae",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
