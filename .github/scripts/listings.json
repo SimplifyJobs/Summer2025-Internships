@@ -46861,7 +46861,7 @@
         "company_name": "Uber",
         "id": "ae93fb9a-c5cc-4cb1-801f-adf4ce90e48c",
         "title": "2024 Software Engineering Uberstar Internship - UC Berkeley",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -46883,7 +46883,7 @@
         "company_name": "Uber",
         "id": "26e2087a-1820-40dd-b365-7308e8768454",
         "title": "2024 Software Engineering Uberstar Internship - UC Berkeley",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -95380,7 +95380,7 @@
         "company_name": "Dropbox",
         "id": "22413c88-be70-4bfc-bb09-3df070be342e",
         "title": "Software Engineer Intern - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -95399,7 +95399,7 @@
         "company_name": "Dropbox",
         "id": "f8735120-517e-45a7-a611-e6b82b81bd8d",
         "title": "Software Engineer Intern - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -103054,7 +103054,7 @@
         "company_name": "Western Digital",
         "id": "5433ee73-9173-4937-9878-669333bcf5cc",
         "title": "Ramp Co Op - Jan 2025 - July 2025 - SIT-Lab Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -105511,7 +105511,7 @@
         "company_name": "Salesforce",
         "id": "8567dab1-84c6-450d-b220-b39a9ac162b5",
         "title": "Summer 2025 Intern - Business Insights Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -106862,7 +106862,7 @@
         "company_name": "Uber",
         "id": "0f67f000-a5b6-427e-98c1-6e47ae0c6e06",
         "title": "2025 Software Engineer Internship - UC Berkeley",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -112550,7 +112550,7 @@
         "company_name": "Live Ramp",
         "id": "2bbf958c-8f5d-4ce2-a83d-6a3366db3473",
         "title": "Software Engineer Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
