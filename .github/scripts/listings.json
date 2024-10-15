@@ -110979,7 +110979,7 @@
         "company_name": "The Walt Disney Company",
         "id": "ca1d6020-c9fd-4e36-932a-3fc719c241fb",
         "title": "Disney Entertainment and ESPN Technology Software Engineering Intern - Bristol - CT - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -113385,7 +113385,7 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1728965873,
+        "date_updated": 1728965691,
         "url": "https://jobs.thecignagroup.com/us/en/summer-internship-program",
         "company_name": "Cigna",
         "title": "Software Engineering Internship",
@@ -113400,12 +113400,12 @@
         "terms": [
             "Summer 2025"
         ],
-        "sponsorship": "Other",
+        "sponsorship": "Offers Sponsorship",
         "active": true,
         "source": "maxgoldberg25",
         "id": "8f4741b5-eca8-4bf5-b83d-20fd6319e9f1",
         "date_posted": 1728965691,
         "company_url": "",
-        "is_visible": false
+        "is_visible": true
     }
 ]
