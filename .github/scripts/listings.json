@@ -113624,5 +113624,24 @@
         "date_posted": 1729035875,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729035962,
+        "url": "https://jobs.dolby.com/careers/job/25268410",
+        "company_name": "Dolby",
+        "title": "Software Development Engineering Intern (Summer 2025)",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "devabhixda",
+        "id": "51cfc736-f71d-48ee-bdf7-c392fc17a92e",
+        "date_posted": 1729035962,
+        "company_url": "",
+        "is_visible": true
     }
 ]
