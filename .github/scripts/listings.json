@@ -113606,5 +113606,25 @@
         "company_url": "https://simplify.jobs/c/Shield-AI",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1729035875,
+        "url": "https://careers.ibm.com/job/21086670/front-end-developer-intern-2025-tucson-az/",
+        "company_name": "IBM",
+        "title": "Front End Developer Intern",
+        "locations": [
+            "Tuscon, AZ",
+            "Rochester, MN"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "hamim23z",
+        "id": "55ddd6e6-2a1f-49ce-8703-d20dde3c8fe1",
+        "date_posted": 1729035875,
+        "company_url": "",
+        "is_visible": true
     }
 ]
