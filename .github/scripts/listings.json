@@ -113492,5 +113492,81 @@
         "company_url": "https://simplify.jobs/c/Skydio",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "PitchBook",
+        "id": "b31d1aa0-f6ac-43ea-9876-e4a7ea7437d7",
+        "title": "Software Development Engineer \u2013 Summer Intern - Back End",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1729021023,
+        "date_posted": 1729021023,
+        "url": "https://job-boards.greenhouse.io/pitchbookdata/jobs/4410343006",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/PitchBook",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Oshkosh",
+        "id": "e95f7bbf-c00b-4018-885d-fc64ea9820b3",
+        "title": "Knowledge Management Development Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1729020558,
+        "date_posted": 1729020558,
+        "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/McConnellsburg-Pennsylvania-United-States/Knowledge-Management-Development-Intern_R30816",
+        "locations": [
+            "Chambersburg, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Oshkosh",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "PitchBook",
+        "id": "e0155a54-aecf-4855-b646-1dcebfea66a7",
+        "title": "Software Development Platform Engineer Summer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1729021030,
+        "date_posted": 1729021030,
+        "url": "https://job-boards.greenhouse.io/pitchbookdata/jobs/4409657006",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/PitchBook",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Two Six Technologies",
+        "id": "c72b7f6a-da28-408e-8f2c-838fa1d69969",
+        "title": "Summer Research Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1729020773,
+        "date_posted": 1729020773,
+        "url": "https://job-boards.greenhouse.io/twosixtechnologies/jobs/5339070004",
+        "locations": [
+            "Arlington, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Two-Six-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
