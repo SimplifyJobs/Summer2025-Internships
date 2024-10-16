@@ -114226,5 +114226,83 @@
         "company_url": "https://simplify.jobs/c/Snowflake",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Leidos",
+        "id": "0b047df8-1eee-4dd1-92fb-1010ec14f51b",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1729107146,
+        "date_posted": 1729107146,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Omaha-NE/Software-Engineer-Intern_R-00146200",
+        "locations": [
+            "Omaha, NE"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "PlayStation Global",
+        "id": "70d22c23-1aa3-4cd6-b8a3-36dd4a07f1ac",
+        "title": "Software Engineering Intern - Undergraduate",
+        "active": true,
+        "terms": [
+            "Spring 2024",
+            "Summer 2024",
+            "Fall 2024"
+        ],
+        "date_updated": 1729107751,
+        "date_posted": 1729107751,
+        "url": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5340492004",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/PlayStation-Global",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Galaxy",
+        "id": "ac6e2c7e-98ee-4e62-a358-a48505950924",
+        "title": "2025 Strategic Opportunities Intern - London",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1729107016,
+        "date_posted": 1729107016,
+        "url": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/5357092004",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Galaxy",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Workleap",
+        "id": "0017b3dd-c924-4057-b888-bd98ec16347e",
+        "title": "Software Developer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1729107426,
+        "date_posted": 1729107426,
+        "url": "https://job-boards.greenhouse.io/workleap/jobs/4541542007",
+        "locations": [
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Workleap",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
