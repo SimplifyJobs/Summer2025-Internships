@@ -106369,7 +106369,7 @@
         "company_name": "ServiceNow",
         "id": "c460ec74-5440-4a34-8ad3-30232eda1d38",
         "title": "Digital Technology \u2013 Associate Data Informatics Analyst Intern - Dt",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -108146,7 +108146,7 @@
         "company_name": "ServiceNow",
         "id": "5367a7d6-26b8-4ca0-af59-5085ace7d3d6",
         "title": "Digital Technology \u2013 Data Scientist Intern - Dt",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -114232,7 +114232,7 @@
         "company_name": "Leidos",
         "id": "0b047df8-1eee-4dd1-92fb-1010ec14f51b",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
