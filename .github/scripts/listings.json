@@ -69438,7 +69438,7 @@
         "company_name": "XPeng Motors",
         "id": "34e41df5-95fa-426f-a0ac-def42ab0e35e",
         "title": "Tools and Infrastructure Software Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -86838,7 +86838,7 @@
         "company_name": "Global Relay",
         "id": "ddd71e8f-dde3-48cd-88d1-6ed464311ed4",
         "title": "Software Development Engineer in Test \u2013 Co-op - Sdet - Fall 2024",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2024"
         ],
@@ -114302,6 +114302,63 @@
             "Remote in Canada"
         ],
         "company_url": "https://simplify.jobs/c/Workleap",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Shield AI",
+        "id": "6642c07d-a94e-40a3-8573-495b7b7cee48",
+        "title": "Frontend Software Engineering Intern \u2013 2025 Summer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1729120460,
+        "date_posted": 1729120460,
+        "url": "https://jobs.lever.co/shieldai/ff659629-7332-417a-bfc8-ad77cf844004/apply",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Shield-AI",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Global Relay",
+        "id": "523e8cbc-9141-4fcc-8b3b-674d5d0e8383",
+        "title": "Co-op Java Developer - Winter 2025",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1729120430,
+        "date_posted": 1729120430,
+        "url": "https://www.globalrelay.com/careers/jobs/?gh_jid=4912634004",
+        "locations": [
+            "Halifax Regional Municipality, NS, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Global-Relay",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Taboola",
+        "id": "e6706a9d-cad1-4e46-949f-85cbc7a8447f",
+        "title": "Frontend Engineer Intern",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1729120033,
+        "date_posted": 1729120033,
+        "url": "https://www.taboola.com/careers/job/6330625?gh_jid=6330625",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Taboola",
         "is_visible": true,
         "sponsorship": "Other"
     }
