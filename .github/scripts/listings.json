@@ -96543,7 +96543,7 @@
         "company_name": "Saronic",
         "id": "1ee4f6f9-5a8e-4d40-8bd9-3a8af2d17ac9",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -114205,6 +114205,25 @@
             "Arlington, VA"
         ],
         "company_url": "https://simplify.jobs/c/Two-Six-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Snowflake",
+        "id": "fc807623-95a7-4783-bc3b-54941c72ae98",
+        "title": "Software Engineer Intern - Toronto - Spring 2025",
+        "active": true,
+        "terms": [
+            "Spring 2025"
+        ],
+        "date_updated": 1729107608,
+        "date_posted": 1729107608,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=7687059002",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Snowflake",
         "is_visible": true,
         "sponsorship": "Other"
     }
