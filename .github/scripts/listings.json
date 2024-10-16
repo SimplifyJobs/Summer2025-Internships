@@ -113662,5 +113662,24 @@
         "date_posted": 1729051338,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729051422,
+        "url": "https://careers.t-mobile.com/summer-2025-it-software-engineering-intern/job/07C769F277C965E150ABE210654D80A4",
+        "company_name": "T-Mobile",
+        "title": "Summer 2025 IT Software Engineering Intern",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "GaryZhous",
+        "id": "b491d763-218b-49b5-824b-8a6b1ef9d78d",
+        "date_posted": 1729051422,
+        "company_url": "",
+        "is_visible": true
     }
 ]
