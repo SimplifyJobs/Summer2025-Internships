@@ -113643,5 +113643,24 @@
         "date_posted": 1729035962,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729051338,
+        "url": "https://careers.pitchbook.com/global/en/job/PIDAGLOBAL4409657006EXTERNALENGLOBAL/Software-Development-Platform-Engineer-Summer-Intern",
+        "company_name": "PitchBook",
+        "title": "Software Development Platform Engineer Summer Intern",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "GaryZhous",
+        "id": "c34646c6-440b-45b3-bd53-21884528a620",
+        "date_posted": 1729051338,
+        "company_url": "",
+        "is_visible": true
     }
 ]
