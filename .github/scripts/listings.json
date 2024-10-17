@@ -114595,5 +114595,44 @@
         "company_url": "https://simplify.jobs/c/Waymo",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Commonwealth Fusion Systems",
+        "id": "6ba9d01b-95d7-46fb-b656-84e3a415b64d",
+        "title": "Intern \u2013 Software Engineer - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1729193076,
+        "date_posted": 1729193076,
+        "url": "https://jobs.lever.co/cfsenergy/110dc08e-653e-4b28-aa7b-96af26f6d55a/apply",
+        "locations": [
+            "Cambridge, MA",
+            "Devens, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Commonwealth-Fusion-Systems",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Vail Systems",
+        "id": "60cb9fb6-f233-48e3-9bf9-18082f52d6b7",
+        "title": "Data Analyst Intern - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1729193710,
+        "date_posted": 1729193710,
+        "url": "https://jobs.lever.co/vailsys/495c7319-44f6-4efa-8c4d-c4dcbe02c67d/apply",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Vail-Systems",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
