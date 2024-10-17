@@ -114750,5 +114750,24 @@
         "company_url": "https://simplify.jobs/c/Aurora-Innovation",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1729200136,
+        "url": "https://careers-iridium.icims.com/jobs/4089/intern%2c-software-automation/job?in_iframe=1",
+        "company_name": "Iridium Satellite",
+        "title": "Software Automation Intern",
+        "locations": [
+            "Chandler, AZ"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "jordany33",
+        "id": "21736907-8780-4827-9b72-3033ce492418",
+        "date_posted": 1729200136,
+        "company_url": "",
+        "is_visible": true
     }
 ]
