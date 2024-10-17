@@ -114769,5 +114769,65 @@
         "date_posted": 1729200136,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Humane",
+        "id": "e6b86092-638f-4a53-9924-e30f713232dc",
+        "title": "Software Engineering Intern - Web",
+        "active": true,
+        "terms": [
+            "Spring 2025",
+            "Summer 2025",
+            "Fall 2025"
+        ],
+        "date_updated": 1729206857,
+        "date_posted": 1729206857,
+        "url": "https://job-boards.greenhouse.io/humane/jobs/5356913004",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Humane",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Clay",
+        "id": "f4b469ab-d276-49a7-a06c-2965587b0999",
+        "title": "Software Engineer Intern - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1729206797,
+        "date_posted": 1729206797,
+        "url": "https://jobs.ashbyhq.com/claylabs/634ea713-8b29-4ed9-b3e8-d543744f8589/application",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Clay",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Wing",
+        "id": "caa887a4-681b-4ef5-803e-0ad35856e184",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Spring 2024",
+            "Summer 2024"
+        ],
+        "date_updated": 1729206562,
+        "date_posted": 1729206562,
+        "url": "https://wing.com/careers/7653909002?gh_jid=7653909002",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Wing",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
