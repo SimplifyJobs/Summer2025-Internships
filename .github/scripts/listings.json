@@ -114479,5 +114479,24 @@
         "date_posted": 1729140924,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Adobe",
+        "id": "5814aca6-2014-4538-bc50-717922343639",
+        "title": "2025 Intern - Engineering",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1729163812,
+        "date_posted": 1729163812,
+        "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Edinburgh/XMLNAME-2025-Intern---Engineering_R148131-1",
+        "locations": [
+            "Edinburgh, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Adobe",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
