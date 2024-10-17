@@ -102861,7 +102861,7 @@
         "company_name": "Symbotic",
         "id": "aa309a8a-f4ae-41bb-8e64-5ea742d60a4d",
         "title": "Intern \u2013 Bot Controls",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024",
             "Spring 2025",
@@ -114672,6 +114672,82 @@
             "Lehi, UT"
         ],
         "company_url": "https://simplify.jobs/c/Adobe",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "HRL Laboratories",
+        "id": "7b70772f-6796-4576-bbda-a6b8796c50fd",
+        "title": "Quantum Technology Intern - Masters",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1729193571,
+        "date_posted": 1729193571,
+        "url": "https://jobs.lever.co/dodmg/7dce176a-5852-4ae8-a3c5-74eb88c02681/apply",
+        "locations": [
+            "Malibu, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/HRL-Laboratories",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "HRL Laboratories",
+        "id": "d7052c68-d1df-4044-89b6-9b474adaa88a",
+        "title": "Quantum Technology Intern - Undergrad",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1729193559,
+        "date_posted": 1729193559,
+        "url": "https://jobs.lever.co/dodmg/20f625ab-f596-475c-8342-fcb0e7a0788c/apply",
+        "locations": [
+            "Malibu, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/HRL-Laboratories",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Rivian",
+        "id": "5d067d28-670a-420f-b331-78f16bcdb3c3",
+        "title": "Engineering Intern \u2013 Winter 2025 Co-Op - Machine Learning",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1729193242,
+        "date_posted": 1729193242,
+        "url": "https://careers.rivian.com/jobs/19675?lang=en-us&icims=1",
+        "locations": [
+            "Normal, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Rivian",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Aurora Innovation",
+        "id": "9ae4317b-f6fc-4eaa-849b-bf6c5b3cf972",
+        "title": "Software Engineering Internship - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1729193575,
+        "date_posted": 1729193575,
+        "url": "https://aurora.tech/jobs/7665039002?gh_jid=7665039002",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Aurora-Innovation",
         "is_visible": true,
         "sponsorship": "Other"
     }
