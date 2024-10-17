@@ -114441,5 +114441,24 @@
         "company_url": "https://simplify.jobs/c/Taboola",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1729140706,
+        "url": "https://careers.t-mobile.com/summer-2025-software-internship/job/4370630814E3C9854ECB7EB643DFF9C0",
+        "company_name": "T-Mobile",
+        "title": "Summer 2025 Software Internship",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "GaryZhous",
+        "id": "de005990-82fb-4381-a763-7e65c0f58d4f",
+        "date_posted": 1729140706,
+        "company_url": "",
+        "is_visible": true
     }
 ]
