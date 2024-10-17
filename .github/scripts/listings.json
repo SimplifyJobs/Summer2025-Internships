@@ -114557,5 +114557,43 @@
         "company_url": "https://simplify.jobs/c/PlayStation-Global",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Aurora Innovation",
+        "id": "20c65877-aeed-4493-9442-d2f9c9a12ae5",
+        "title": "Software Engineering Internship - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1729193574,
+        "date_posted": 1729193574,
+        "url": "https://aurora.tech/jobs/7665041002?gh_jid=7665041002",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Aurora-Innovation",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Waymo",
+        "id": "a88ccf65-b84b-42b2-bc4c-06388cba4d4c",
+        "title": "2025 Summer Intern - BS/MS - ML Infra - Full-Stack Software Engineer",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1729193167,
+        "date_posted": 1729193167,
+        "url": "https://careers.withwaymo.com/jobs?gh_jid=6328028",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Waymo",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
