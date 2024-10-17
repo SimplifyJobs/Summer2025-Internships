@@ -94997,7 +94997,7 @@
         "company_name": "Epic Games",
         "id": "51519136-54e0-4a33-aca6-05f43f47503e",
         "title": "Capture Technician Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -114632,6 +114632,46 @@
             "Chicago, IL"
         ],
         "company_url": "https://simplify.jobs/c/Vail-Systems",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Snowflake",
+        "id": "a0751477-f1a1-4345-8b81-61289fa05af1",
+        "title": "Software Engineer Intern - Toronto - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1729193718,
+        "date_posted": 1729193718,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=7688688002",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Snowflake",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Adobe",
+        "id": "57204454-af31-41eb-9a26-cefa44fb110d",
+        "title": "2025 Intern - Software Engineer",
+        "active": true,
+        "terms": [
+            "Spring 2024",
+            "Summer 2024",
+            "Fall 2024"
+        ],
+        "date_updated": 1729193746,
+        "date_posted": 1729193746,
+        "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Lehi/XMLNAME-2025-Intern---Software-Engineer_R148756",
+        "locations": [
+            "Lehi, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/Adobe",
         "is_visible": true,
         "sponsorship": "Other"
     }
