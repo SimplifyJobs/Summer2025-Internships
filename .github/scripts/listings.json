@@ -114361,5 +114361,26 @@
         "company_url": "https://simplify.jobs/c/Taboola",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Autodesk",
+        "id": "9eb7f287-e8c5-4915-9180-e1a3a66abbf8",
+        "title": "Intern \u2013 Technology Consultant - Discrete Event Simulation",
+        "active": true,
+        "terms": [
+            "Spring 2025",
+            "Summer 2025",
+            "Fall 2025"
+        ],
+        "date_updated": 1729127749,
+        "date_posted": 1727291618,
+        "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Utah-USA---Remote/Intern--Technology-Consultant_24WD82032-1",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Autodesk",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
