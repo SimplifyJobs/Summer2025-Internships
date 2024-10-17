@@ -114829,5 +114829,105 @@
         "company_url": "https://simplify.jobs/c/Wing",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Transparent Partners",
+        "id": "14c8798b-5f34-4bb4-8f86-8b9eee057549",
+        "title": "Internship - Data & Analytics",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1729207048,
+        "date_posted": 1729207048,
+        "url": "https://jobs.lever.co/transparentpartners/d0207eda-493a-46ca-9e6b-7c8a7e3f74a0/apply",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/TransparentPartners",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Transparent Partners",
+        "id": "7fbf2fa4-2f4b-4c47-a49f-36ce95ba4c7d",
+        "title": "Internship - Technology",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1729207048,
+        "date_posted": 1729207048,
+        "url": "https://jobs.lever.co/transparentpartners/b287fb2f-7a75-4103-92b9-373c03dd2c50/apply",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/TransparentPartners",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Amazon",
+        "id": "5fb127f1-ea2d-461d-a236-31b8f479b09a",
+        "title": "Software Development Engineer Internship - 2025 - US",
+        "active": true,
+        "terms": [
+            "Fall 2025",
+            "Winter 2026",
+            "Spring 2026",
+            "Summer 2026",
+            "Fall 2026",
+            "Winter 2027",
+            "Spring 2027",
+            "Summer 2027",
+            "Fall 2027",
+            "Winter 2028",
+            "Spring 2028",
+            "Summer 2028",
+            "Fall 2028"
+        ],
+        "date_updated": 1729206980,
+        "date_posted": 1729206980,
+        "url": "https://amazon.jobs/en/jobs/2808739/software-development-engineer-internship-2025-us",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Amazon",
+        "id": "d3f6ba67-1d15-48d3-9f5e-66eb4eac513a",
+        "title": "Software Development Engineer Intern - 2025 - Canada",
+        "active": true,
+        "terms": [
+            "Fall 2025",
+            "Winter 2026",
+            "Spring 2026",
+            "Summer 2026",
+            "Fall 2026",
+            "Winter 2027",
+            "Spring 2027",
+            "Summer 2027",
+            "Fall 2027",
+            "Winter 2028",
+            "Spring 2028",
+            "Summer 2028",
+            "Fall 2028"
+        ],
+        "date_updated": 1729206969,
+        "date_posted": 1729206969,
+        "url": "https://amazon.jobs/en/jobs/2808730/software-development-engineer-intern-2025-canada",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
