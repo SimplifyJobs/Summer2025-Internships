@@ -114382,5 +114382,64 @@
         "company_url": "https://simplify.jobs/c/Autodesk",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Global Relay",
+        "id": "870a3c39-8658-4000-848e-97037a857dfd",
+        "title": "Co-op Java Developer - Winter 2025",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1729134742,
+        "date_posted": 1729134742,
+        "url": "https://www.globalrelay.com/careers/jobs/?gh_jid=5086546004",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Global-Relay",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Adobe",
+        "id": "031254e1-cde2-4763-980a-845699fdb8f2",
+        "title": "2025 Intern - Machine Learning Engineer",
+        "active": true,
+        "terms": [
+            "Spring 2024",
+            "Summer 2024",
+            "Fall 2024"
+        ],
+        "date_updated": 1729134867,
+        "date_posted": 1729134867,
+        "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2025-Intern---Machine-Learning-Engineer_R149339",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Adobe",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Taboola",
+        "id": "1072a509-c837-4c0c-950d-5df2e924eb54",
+        "title": "Frontend Engineer Intern",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1729134373,
+        "date_posted": 1729134373,
+        "url": "https://www.taboola.com/careers/job/6336423?gh_jid=6336423",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Taboola",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
