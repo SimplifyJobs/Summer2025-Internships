@@ -114460,5 +114460,24 @@
         "date_posted": 1729140706,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729140924,
+        "url": "https://ea.gr8people.com/jobs/185762/software-engineer-intern-league-operations-apex-legends-esports",
+        "company_name": "Electronic Arts",
+        "title": "Software Engineer Intern, League Operations, Apex Legends Esports",
+        "locations": [
+            "Redwood City, CA"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "GaryZhous",
+        "id": "c659ae17-e946-4f8a-8a92-7b10f2308f20",
+        "date_posted": 1729140924,
+        "company_url": "",
+        "is_visible": true
     }
 ]
