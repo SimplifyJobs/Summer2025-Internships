@@ -81361,7 +81361,7 @@
         "company_name": "Turing AI",
         "id": "86db55e7-b025-4fe2-93fe-d6368a36ba85",
         "title": "React Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -100381,7 +100381,7 @@
             "Spring 2025",
             "Summer 2025"
         ],
-        "date_updated": 1729203318,
+        "date_updated": 1725997149,
         "date_posted": 1725997149,
         "url": "https://transunion.wd5.myworkdayjobs.com/en-US/TransUnion/job/Chicago-Illinois/Data-Science-Internship-2025_19031639",
         "locations": [
@@ -100389,7 +100389,7 @@
             "Alpharetta, GA"
         ],
         "company_url": "https://simplify.jobs/c/00cf2cf8-458d-4e49-8d00-a1a897d7294a",
-        "is_visible": false,
+        "is_visible": true,
         "sponsorship": "Other"
     },
     {
@@ -110226,7 +110226,7 @@
         "company_name": "Samsara",
         "id": "11cc0427-47bd-4e15-803b-a47e385ba23c",
         "title": "Firmware Intern - Mcu",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -110397,7 +110397,7 @@
         "company_name": "Leidos",
         "id": "8b5e68de-e405-4ed3-893f-bd1d42dc15a0",
         "title": "Embedded Software Engineer \u2013 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -113900,7 +113900,7 @@
         "company_name": "Adobe",
         "id": "8a02b98c-d771-4b5e-92e1-e097881fe948",
         "title": "2025 Intern - Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024",
             "Summer 2024",
@@ -114542,7 +114542,7 @@
         "company_name": "PlayStation Global",
         "id": "3ed5a143-4f13-4a17-b403-49dd9fb94cf9",
         "title": "Software Engineering Intern - Graphics",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024",
             "Summer 2024",
