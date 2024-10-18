@@ -113458,7 +113458,7 @@
         "company_name": "Live Ramp",
         "id": "92ea7b8b-06df-44ca-a90b-d7ed99e21713",
         "title": "Software Engineer Co - Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025"
         ],
@@ -114291,7 +114291,7 @@
         "company_name": "Workleap",
         "id": "0017b3dd-c924-4057-b888-bd98ec16347e",
         "title": "Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -114428,7 +114428,7 @@
         "company_name": "Taboola",
         "id": "1072a509-c837-4c0c-950d-5df2e924eb54",
         "title": "Frontend Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
