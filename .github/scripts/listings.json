@@ -115157,5 +115157,44 @@
         "company_url": "https://simplify.jobs/c/PlayStation-Global",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Wing",
+        "id": "090c2aa4-42ce-4eaf-aa24-58ffd809e0b2",
+        "title": "Backend Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Spring 2024",
+            "Summer 2024"
+        ],
+        "date_updated": 1729279352,
+        "date_posted": 1729279352,
+        "url": "https://wing.com/careers/7654023002?gh_jid=7654023002",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Wing",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Leidos",
+        "id": "0b6ecb9a-6b4a-4b5d-8b04-7862bec48c9a",
+        "title": "Database Development and Administration Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1729279368,
+        "date_posted": 1729279368,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Bowie-MD/Database-Development-and-Administration-Intern_R-00145056",
+        "locations": [
+            "Bowie, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
