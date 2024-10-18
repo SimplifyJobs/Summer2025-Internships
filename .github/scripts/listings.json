@@ -113146,7 +113146,7 @@
         "company_name": "Fresenius Medical Care",
         "id": "8d7e0889-a008-4de7-88e6-e41e957261fc",
         "title": "Software Engineering Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
