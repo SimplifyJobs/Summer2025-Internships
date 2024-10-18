@@ -115052,5 +115052,24 @@
         "date_posted": 1729224415,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729224607,
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/4486844007",
+        "company_name": "Lucid Motors",
+        "title": "Intern, IT Strategy , Summer 2025",
+        "locations": [
+            "Newark, CA"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "GaryZhous",
+        "id": "fd80e92b-90a8-4e77-8302-01d211d379f2",
+        "date_posted": 1729224607,
+        "company_url": "",
+        "is_visible": true
     }
 ]
