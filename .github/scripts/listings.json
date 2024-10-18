@@ -109551,7 +109551,7 @@
         "company_name": "Challenge Manufacturing",
         "id": "83d6b176-94e6-4dc7-b78f-ff78c2fd2cba",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -110724,7 +110724,7 @@
         "company_name": "Brown Brothers Harriman",
         "id": "69fe89b6-9ac4-4e49-b8d6-f2717549c91c",
         "title": "2025 Technology Intern - Application Development & Business Analysis",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
