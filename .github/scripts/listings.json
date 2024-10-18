@@ -92646,7 +92646,7 @@
         "company_name": "Salesforce",
         "id": "3d0efd81-c286-46aa-93be-ee58e76b91aa",
         "title": "Summer 2025 Intern - Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -102641,7 +102641,7 @@
         "company_name": "NVIDIA",
         "id": "ac4c005f-2624-4810-b0b3-caa3e232b8bb",
         "title": "NVIDIA 2025 Ignite Internships: Software Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -104378,7 +104378,7 @@
         "company_name": "Humane",
         "id": "8dce53af-b258-4d47-bc30-5e6de388c758",
         "title": "Software Engineering Intern - Device Automation",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025",
             "Summer 2025",
