@@ -98499,7 +98499,7 @@
         "company_name": "Grammarly",
         "id": "c651243d-5389-4864-98e9-b14b4ebda2a5",
         "title": "Software Engineering Intern - Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -115071,5 +115071,91 @@
         "date_posted": 1729224607,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "PlayStation Global",
+        "id": "f6fdd5a6-1161-480e-895b-18b9eab1ff2b",
+        "title": "Software Engineering Intern - Undergraduate",
+        "active": true,
+        "terms": [
+            "Spring 2024",
+            "Summer 2024",
+            "Fall 2024"
+        ],
+        "date_updated": 1729235628,
+        "date_posted": 1729235628,
+        "url": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5340602004",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/PlayStation-Global",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "PlayStation Global",
+        "id": "f1216052-1b0a-4a13-808a-ce8ebfc38ecf",
+        "title": "PSN Network Services Intern - Undergraduate",
+        "active": true,
+        "terms": [
+            "Spring 2024",
+            "Summer 2024",
+            "Fall 2024"
+        ],
+        "date_updated": 1729235624,
+        "date_posted": 1729235624,
+        "url": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5340598004",
+        "locations": [
+            "California",
+            "San Diego, CA",
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/PlayStation-Global",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "PlayStation Global",
+        "id": "4a87a399-f7c7-4560-a7c0-efaff6a14004",
+        "title": "Software Engineer Intern - Tools and Infrastructure - Undergraduate",
+        "active": true,
+        "terms": [
+            "Spring 2024",
+            "Summer 2024",
+            "Fall 2024"
+        ],
+        "date_updated": 1729235626,
+        "date_posted": 1729235626,
+        "url": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5340582004",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/PlayStation-Global",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "PlayStation Global",
+        "id": "edbe9f94-8d22-45b2-9ac6-1bb2afdaa842",
+        "title": "Software Engineer Intern - Undergraduate",
+        "active": true,
+        "terms": [
+            "Spring 2024",
+            "Summer 2024",
+            "Fall 2024"
+        ],
+        "date_updated": 1729235623,
+        "date_posted": 1729235623,
+        "url": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5340590004",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/PlayStation-Global",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
