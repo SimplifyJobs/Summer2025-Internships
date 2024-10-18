@@ -102641,7 +102641,7 @@
         "company_name": "NVIDIA",
         "id": "ac4c005f-2624-4810-b0b3-caa3e232b8bb",
         "title": "NVIDIA 2025 Ignite Internships: Software Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -112182,7 +112182,7 @@
         "company_name": "Leidos",
         "id": "4efd4e26-d188-4fbc-9694-2d96d52efa52",
         "title": "AI Web Application Developer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -113146,7 +113146,7 @@
         "company_name": "Fresenius Medical Care",
         "id": "8d7e0889-a008-4de7-88e6-e41e957261fc",
         "title": "Software Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -114232,7 +114232,7 @@
         "company_name": "Leidos",
         "id": "0b047df8-1eee-4dd1-92fb-1010ec14f51b",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
