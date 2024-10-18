@@ -115196,5 +115196,63 @@
         "company_url": "https://simplify.jobs/c/Leidos",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "The New York Times",
+        "id": "c980caeb-7992-47ec-8ecf-2a3224e41602",
+        "title": "Data Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1729293281,
+        "date_posted": 1729293281,
+        "url": "https://boards.greenhouse.io/thenewyorktimes/jobs/4487948005",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/The-New-York-Times",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "The New York Times",
+        "id": "63150213-83cf-4389-8937-cca79bb173b8",
+        "title": "Advertising Business Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1729293280,
+        "date_posted": 1729293280,
+        "url": "https://boards.greenhouse.io/thenewyorktimes/jobs/4486743005",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/The-New-York-Times",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Sigma Computing",
+        "id": "eb2b9162-2be6-4b3f-b6c5-b53f7eed3cd9",
+        "title": "Software Engineering Intern - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1729293124,
+        "date_posted": 1729293124,
+        "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/6086991003",
+        "locations": [
+            "SF",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Sigma-Computing",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
