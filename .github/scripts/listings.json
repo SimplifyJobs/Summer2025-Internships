@@ -115033,5 +115033,24 @@
         "company_url": "https://simplify.jobs/c/Lucid-Motors",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1729224415,
+        "url": "https://www.amazon.jobs/en/jobs/2808739/software-development-engineer-internship-2025-us",
+        "company_name": "Amazon",
+        "title": "Software Development Engineer Internship - 2025 (US)",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "GaryZhous",
+        "id": "ea736f24-829f-44bd-8433-4db2816ba85b",
+        "date_posted": 1729224415,
+        "company_url": "",
+        "is_visible": true
     }
 ]
