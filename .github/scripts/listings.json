@@ -104571,7 +104571,7 @@
         "company_name": "Bose",
         "id": "00687d55-a8f7-4516-81aa-de71c1aa3e7b",
         "title": "Embedded Firmware Coop - Sensors",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2024"
         ],
