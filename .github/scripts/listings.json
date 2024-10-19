@@ -115273,5 +115273,24 @@
         "company_url": "https://simplify.jobs/c/Pure-Storage",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1729312721,
+        "url": "https://schneiderjobs.com/search-office-jobs/details/242680",
+        "company_name": "Schneider",
+        "title": "Software Engineering Intern",
+        "locations": [
+            "Green Bay, WI"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "GaryZhous",
+        "id": "e67defdb-0a56-4b19-b7f4-95b6104229d7",
+        "date_posted": 1729312721,
+        "company_url": "",
+        "is_visible": true
     }
 ]
