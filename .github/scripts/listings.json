@@ -102641,7 +102641,7 @@
         "company_name": "NVIDIA",
         "id": "ac4c005f-2624-4810-b0b3-caa3e232b8bb",
         "title": "NVIDIA 2025 Ignite Internships: Software Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
