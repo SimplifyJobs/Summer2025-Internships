@@ -112952,7 +112952,7 @@
         "company_name": "Wing",
         "id": "65640aae-0d90-48dc-b1ff-74cf856f4890",
         "title": "Backend Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024",
             "Summer 2024"
@@ -115163,7 +115163,7 @@
         "company_name": "Wing",
         "id": "090c2aa4-42ce-4eaf-aa24-58ffd809e0b2",
         "title": "Backend Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024",
             "Summer 2024"
