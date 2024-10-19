@@ -115254,5 +115254,24 @@
         "company_url": "https://simplify.jobs/c/Sigma-Computing",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Pure Storage",
+        "id": "9a11053a-2a3f-4079-bfd4-8eea0e4acf53",
+        "title": "Software Engineer Intern for Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1729307260,
+        "date_posted": 1729307260,
+        "url": "https://boards.greenhouse.io/purestorage/jobs/6280293",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Pure-Storage",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
