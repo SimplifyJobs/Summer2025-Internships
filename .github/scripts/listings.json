@@ -115351,5 +115351,24 @@
         "date_posted": 1729405745,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729464449,
+        "url": "https://www.linkedin.com/jobs/view/4055625282",
+        "company_name": "Knead",
+        "title": "Fintech Startup Frontend Developer",
+        "locations": [
+            "Remote"
+        ],
+        "terms": [
+            "Winter 2025"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "StrBoll",
+        "id": "6a600588-2b59-4aad-ae4e-ceab9dc64ac0",
+        "date_posted": 1729464449,
+        "company_url": "",
+        "is_visible": true
     }
 ]
