@@ -115311,5 +115311,25 @@
         "date_posted": 1729385928,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729405653,
+        "url": "https://careers.expediagroup.com/jobs/job/?Mobile+Engineering+Intern+-+2025+-+Seattle%2C+Chicago-Seattle-Washington-j-R-91372",
+        "company_name": "Expedia Group",
+        "title": "Mobile Engineering Intern",
+        "locations": [
+            "Seattle, WA",
+            "Chicago, IL"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "GaryZhous",
+        "id": "1e540ab6-4d03-493d-85a9-8ab7b4773ecc",
+        "date_posted": 1729405653,
+        "company_url": "",
+        "is_visible": true
     }
 ]
