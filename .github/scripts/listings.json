@@ -115292,5 +115292,24 @@
         "date_posted": 1729312721,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729385928,
+        "url": "https://boards.greenhouse.io/thenewyorktimes/jobs/4486222005",
+        "company_name": "The New York Times",
+        "title": "Backend Engineering Intern",
+        "locations": [
+            "NYC"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "iman2153",
+        "id": "f72b2473-3816-44d8-b166-c8fa8a49cbf0",
+        "date_posted": 1729385928,
+        "company_url": "",
+        "is_visible": true
     }
 ]
