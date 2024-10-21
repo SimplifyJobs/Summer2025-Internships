@@ -100376,7 +100376,7 @@
         "company_name": "TransUnion",
         "id": "0f57eaf4-e63d-46bc-892c-5c5ce2e81011",
         "title": "Data Science Internship 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025",
             "Summer 2025"
@@ -114998,7 +114998,7 @@
         "company_name": "Snap Inc.",
         "id": "86db3d5e-7b29-409b-85f2-c0c0c4906c18",
         "title": "Software Engineer Intern - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
