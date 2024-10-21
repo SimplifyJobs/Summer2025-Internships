@@ -59,6 +59,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Northrop Grumman | 2025 Software Engineer Intern 🇺🇸 | Bethpage, NY | <a href="https://www.northropgrumman.com/jobs/Administrative-Services/Intern/United-States-of-America/New-York/Bethpage/R10174644/2025-software-engineer-intern-bethpage-ny?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 20 |
 | **[The New York Times](https://simplify.jobs/c/The-New-York-Times)** | Backend Engineering Intern | NYC | <a href="https://boards.greenhouse.io/thenewyorktimes/jobs/4486222005?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 19 |
 | GM Financial | Intern - Software Development Engineer (Summer 2025) | Irving, Texas</br>Arlington, Texas | <a href="https://careers.gmfinancial.com/jobs/47844?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 19 |
 | Expedia Group | Mobile Engineering Intern | Seattle, WA</br>Chicago, IL | <a href="https://careers.expediagroup.com/jobs/job/?Mobile+Engineering+Intern+-+2025+-+Seattle%2C+Chicago-Seattle-Washington-j-R-91372&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 19 |
