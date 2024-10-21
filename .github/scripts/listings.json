@@ -115389,5 +115389,24 @@
         "date_posted": 1729484310,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729484521,
+        "url": "https://www.hitachienergy.com/careers/open-jobs/details/JID3-100833",
+        "company_name": "Hitachi Energy",
+        "title": "2025 Summer Data Analyst/Information Systems Intern",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "GaryZhous",
+        "id": "22d25f66-f023-4dca-81d6-3e4737c3c9f5",
+        "date_posted": 1729484521,
+        "company_url": "",
+        "is_visible": true
     }
 ]
