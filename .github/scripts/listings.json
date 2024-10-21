@@ -115488,5 +115488,24 @@
         "company_url": "https://simplify.jobs/c/allegion",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Eulerity",
+        "id": "3fc69980-7a02-4aa6-af59-78376499ace5",
+        "title": "Web Developer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1729539045,
+        "date_posted": 1729539045,
+        "url": "https://job-boards.greenhouse.io/eulerity/jobs/4412443006",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Eulerity",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
