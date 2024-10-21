@@ -115590,5 +115590,43 @@
         "company_url": "https://simplify.jobs/c/Axon",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Zoox",
+        "id": "fc7291a2-d086-4789-84b7-5301840cd8f0",
+        "title": "Mobile Development Internship/Co-op",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1729552665,
+        "date_posted": 1729552665,
+        "url": "https://jobs.lever.co/zoox/b5cfd6d5-2d3f-40b3-9bda-618e615d8162/apply",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Zoox",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Reliable Robotics",
+        "id": "042633a6-f967-4702-8c59-d7ccbd542658",
+        "title": "Displays Software Engineer \u2013 Summer 2025 Internship",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1729552633,
+        "date_posted": 1729552633,
+        "url": "https://jobs.lever.co/reliable/9770398b-5d28-4e6f-919c-d51c46d6503f/apply",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Reliable-Robotics",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
