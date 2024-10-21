@@ -112047,7 +112047,7 @@
         "company_name": "Booz Allen",
         "id": "a7c59d2f-c7ce-4046-82e4-b03ae4659d83",
         "title": "University \u2013 Systems Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025",
             "Spring 2025",
@@ -113477,7 +113477,7 @@
         "company_name": "Skydio",
         "id": "bef8710c-fd94-4b9a-89ef-0b42463081c1",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -114232,7 +114232,7 @@
         "company_name": "Leidos",
         "id": "0b047df8-1eee-4dd1-92fb-1010ec14f51b",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
