@@ -99487,7 +99487,7 @@
         "company_name": "Gecko Robotics",
         "id": "57b1e7d2-d496-48a1-ab1d-e0c85deb5df5",
         "title": "Software Engineer \u2013 Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2025",
             "Summer 2025"
@@ -105266,7 +105266,7 @@
         "company_name": "OpenAI",
         "id": "0559dbe7-6905-4c1e-85f2-8b03cd46d8a0",
         "title": "Software Engineer Internship / Co-op - Applied Emerging Talent",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -114232,7 +114232,7 @@
         "company_name": "Leidos",
         "id": "0b047df8-1eee-4dd1-92fb-1010ec14f51b",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -115444,6 +115444,48 @@
             "Stamford, CT"
         ],
         "company_url": "https://simplify.jobs/c/WorldQuant",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Allegion",
+        "id": "68e37450-3f36-4b2a-85e0-6b36e3754c37",
+        "title": "Software Engineering Verification Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1729523801,
+        "date_posted": 1729523801,
+        "url": "https://allegion.wd5.myworkdayjobs.com/careers/job/Golden-CO/Software-Engineering-Verification-Intern_JR30519-2",
+        "locations": [
+            "Remote in USA",
+            "Golden, CO",
+            "Boulder, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/allegion",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Allegion",
+        "id": "7a2e0b29-5711-40e3-bb8a-a214cbbd0faf",
+        "title": "Software Engineering Intern - Mobile",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1729523799,
+        "date_posted": 1729523799,
+        "url": "https://allegion.wd5.myworkdayjobs.com/careers/job/Golden-CO/Software-Engineering-Intern--Mobile-_JR30520-2",
+        "locations": [
+            "Remote in USA",
+            "Golden, CO",
+            "Boulder, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/allegion",
         "is_visible": true,
         "sponsorship": "Other"
     }
