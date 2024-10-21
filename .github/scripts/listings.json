@@ -114601,7 +114601,7 @@
         "company_name": "Commonwealth Fusion Systems",
         "id": "6ba9d01b-95d7-46fb-b656-84e3a415b64d",
         "title": "Intern \u2013 Software Engineer - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -114659,7 +114659,7 @@
         "company_name": "Adobe",
         "id": "57204454-af31-41eb-9a26-cefa44fb110d",
         "title": "2025 Intern - Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024",
             "Summer 2024",
