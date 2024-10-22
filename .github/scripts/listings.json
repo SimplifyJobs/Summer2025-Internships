@@ -88860,7 +88860,7 @@
         "company_name": "DRW",
         "id": "5f101583-a472-4d80-875e-3adb94eb2fdf",
         "title": "Quantitative Trading Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -101863,7 +101863,7 @@
         "company_name": "Walmart",
         "id": "90661bd1-fac3-49c8-bbbd-d11b3596c568",
         "title": "2025 Summer Intern: Software Engineer II",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -106230,7 +106230,7 @@
         "company_name": "Lumentum",
         "id": "6bbc3052-c522-417e-9b59-64a86a84c8b2",
         "title": "Optical Algorithms and Analytics Engineering Co-op/Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -115202,7 +115202,7 @@
         "company_name": "The New York Times",
         "id": "c980caeb-7992-47ec-8ecf-2a3224e41602",
         "title": "Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -115494,7 +115494,7 @@
         "company_name": "Eulerity",
         "id": "3fc69980-7a02-4aa6-af59-78376499ace5",
         "title": "Web Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -115725,6 +115725,45 @@
             "Chicago, IL"
         ],
         "company_url": "https://simplify.jobs/c/Optiver",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Autodesk",
+        "id": "f728d564-601a-49ca-a1b6-a1f33dc48d25",
+        "title": "Intern \u2013 Software Developer /Stagiaire - D\u00e9veloppeur.D\u00e9veloppeuse logiciels",
+        "active": true,
+        "terms": [
+            "Winter 2026",
+            "Spring 2026"
+        ],
+        "date_updated": 1729610397,
+        "date_posted": 1729610397,
+        "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Intern--Software-Developer_24WD82069",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Autodesk",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Amazon",
+        "id": "6115baff-e2c4-454b-8106-fd5f11f03242",
+        "title": "2025 Business Intelligence Engineer Internship",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1729610165,
+        "date_posted": 1729610165,
+        "url": "https://amazon.jobs/en/jobs/2790327/2025-business-intelligence-engineer-internship",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
         "is_visible": true,
         "sponsorship": "Other"
     }
