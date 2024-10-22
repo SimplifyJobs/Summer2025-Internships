@@ -100880,7 +100880,7 @@
         "company_name": "Optiver",
         "id": "f3a3d84b-670b-406d-92c3-518e0db867f6",
         "title": "Trading Operations Analyst Intern - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -115706,6 +115706,25 @@
             "San Jose, CA"
         ],
         "company_url": "https://simplify.jobs/c/PayPal",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Optiver",
+        "id": "7c90faf6-25a9-43a9-b5f0-272bdd4dea88",
+        "title": "Trading Operations Analyst Intern - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1729609907,
+        "date_posted": 1729609907,
+        "url": "https://optiver.com/working-at-optiver/career-opportunities/7694481002/?gh_jid=7694481002",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Optiver",
         "is_visible": true,
         "sponsorship": "Other"
     }
