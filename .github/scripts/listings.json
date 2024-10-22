@@ -115785,5 +115785,24 @@
         "company_url": "https://simplify.jobs/c/Intradiem",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "AQR Capital Management",
+        "id": "14453965-9450-4ece-bd59-a5ff58875f5d",
+        "title": "2025 Software Engineering Summer Analyst - Enterprise Engineering",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1729627746,
+        "date_posted": 1729627746,
+        "url": "https://careers.aqr.com/jobs?gh_jid=6345613&gh_jid=6345613",
+        "locations": [
+            "Greenwich, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/AQR-Capital-Management",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
