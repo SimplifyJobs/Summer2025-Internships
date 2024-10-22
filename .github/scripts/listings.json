@@ -115823,5 +115823,66 @@
         "company_url": "https://simplify.jobs/c/Parafin",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Adobe",
+        "id": "692a41c2-32df-4457-8925-8504c6f06ac1",
+        "title": "2025 Intern - Software Engineer",
+        "active": true,
+        "terms": [
+            "Spring 2024",
+            "Summer 2024",
+            "Fall 2024"
+        ],
+        "date_updated": 1729628180,
+        "date_posted": 1729628180,
+        "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2025-Intern---Software-Engineer_R148757",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Adobe",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Adobe",
+        "id": "5b77fd54-90fc-47bd-97fc-1a6a33e7165a",
+        "title": "2025 Intern - Software Engineer",
+        "active": true,
+        "terms": [
+            "Spring 2024",
+            "Summer 2024",
+            "Fall 2024"
+        ],
+        "date_updated": 1729628182,
+        "date_posted": 1729628182,
+        "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2025-Intern---Software-Engineer_R148748",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Adobe",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Intradiem",
+        "id": "1675255c-1057-4e5e-81e9-f5abe8240569",
+        "title": "AI/ML Intern",
+        "active": true,
+        "terms": [
+            "Spring 2024"
+        ],
+        "date_updated": 1729626135,
+        "date_posted": 1729626135,
+        "url": "https://job-boards.greenhouse.io/intradiem/jobs/4408361006",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Intradiem",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
