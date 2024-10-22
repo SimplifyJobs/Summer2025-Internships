@@ -115372,18 +115372,18 @@
         "is_visible": true
     },
     {
-        "date_updated": 1729484310,
+        "date_updated": 1729568595,
         "url": "https://www.northropgrumman.com/jobs/Administrative-Services/Intern/United-States-of-America/New-York/Bethpage/R10174644/2025-software-engineer-intern-bethpage-ny",
         "company_name": "Northrop Grumman",
-        "title": "2025 Software Engineer Intern",
+        "title": "2025 Software Engineer Intern us",
         "locations": [
             "Bethpage, NY"
         ],
         "terms": [
             "Summer 2025"
         ],
-        "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "GaryZhous",
         "id": "cf858777-728e-4fca-8b7b-714c45f97655",
         "date_posted": 1729484310,
