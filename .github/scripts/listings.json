@@ -115574,7 +115574,7 @@
         "company_name": "Axon",
         "id": "1484e885-992e-46d8-bb49-67855fc07607",
         "title": "Software Engineering Internship - Afrotech Candidates Only",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -115802,6 +115802,25 @@
             "Greenwich, CT"
         ],
         "company_url": "https://simplify.jobs/c/AQR-Capital-Management",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Parafin",
+        "id": "ce05394d-0f7e-4943-a80c-0631e3398712",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1729627616,
+        "date_posted": 1729627616,
+        "url": "https://jobs.ashbyhq.com/parafin/a39ec055-fcf9-45be-8822-0bcb78c592a4/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Parafin",
         "is_visible": true,
         "sponsorship": "Other"
     }
