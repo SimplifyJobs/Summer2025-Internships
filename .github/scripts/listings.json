@@ -115766,5 +115766,24 @@
         "company_url": "https://simplify.jobs/c/Amazon",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Intradiem",
+        "id": "fca66a6f-4570-45f6-8415-cd89f97dfafd",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Spring 2024"
+        ],
+        "date_updated": 1729626118,
+        "date_posted": 1729626118,
+        "url": "https://job-boards.greenhouse.io/intradiem/jobs/4408395006",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Intradiem",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
