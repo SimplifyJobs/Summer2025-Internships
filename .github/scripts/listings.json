@@ -99681,7 +99681,7 @@
         "company_name": "Lucid Motors",
         "id": "089af1e3-9081-4a10-b881-4805aeee8898",
         "title": "Intern \u2013 Embedded Software Engineer - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -104650,7 +104650,7 @@
         "company_name": "Braze",
         "id": "95547e62-ac14-46cc-8d04-9685ef3c2d06",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
