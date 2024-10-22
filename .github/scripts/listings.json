@@ -115628,5 +115628,24 @@
         "company_url": "https://simplify.jobs/c/Reliable-Robotics",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Stryker",
+        "id": "ededec3b-5724-4025-ab07-d3c59935be23",
+        "title": "Summer 2025 Intern - Product Safety Engineer - New Jersey",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1729579602,
+        "date_posted": 1729579602,
+        "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Mahwah-New-Jersey/Summer-2025-Intern---Product-Safety-Engineer---New-Jersey_R527454",
+        "locations": [
+            "Mahwah, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/Stryker",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
