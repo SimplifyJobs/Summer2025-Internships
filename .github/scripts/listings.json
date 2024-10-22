@@ -96754,7 +96754,7 @@
         "company_name": "Plexus",
         "id": "5895d527-3cbb-4b9b-ba09-1610c658c331",
         "title": "Intern \u2013 Software Engineer - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -103407,7 +103407,7 @@
         "company_name": "Visa",
         "id": "25a7eb3b-231d-408b-a3b7-1d659986c658",
         "title": "Consulting & Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2024"
         ],
@@ -115433,7 +115433,7 @@
         "company_name": "WorldQuant",
         "id": "cdd23c53-a5e0-4adc-97fd-13584a21e682",
         "title": "Quantitative Execution Services & Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
