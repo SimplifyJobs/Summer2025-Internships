@@ -115884,5 +115884,26 @@
         "company_url": "https://simplify.jobs/c/Intradiem",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "PayPal",
+        "id": "9346d576-08fb-4f9c-a83e-8403cb050db8",
+        "title": "RPA Developer Intern",
+        "active": true,
+        "terms": [
+            "Spring 2025",
+            "Fall 2025"
+        ],
+        "date_updated": 1729624894,
+        "date_posted": 1729624894,
+        "url": "https://wd1.myworkdaysite.com/recruiting/paypal/jobs/job/Austin-Texas-United-States-of-America/RPA-Developer-Intern_R0118095-1",
+        "locations": [
+            "Austin, TX",
+            "Scottsdale, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/PayPal",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
