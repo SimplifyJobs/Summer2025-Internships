@@ -115647,5 +115647,24 @@
         "company_url": "https://simplify.jobs/c/Stryker",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Live Nation Entertainment",
+        "id": "460e98da-f2fc-4648-9e37-55debd904cca",
+        "title": "Mobile Developer Intern",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1729579835,
+        "date_posted": 1729579835,
+        "url": "https://livenation.wd1.myworkdayjobs.com/en-US/LNExternalSite/job/Toronto-ON-CA/Mobile-Developer-Intern_JR-73965-1",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Live-Nation-Entertainment",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
