@@ -115666,5 +115666,47 @@
         "company_url": "https://simplify.jobs/c/Live-Nation-Entertainment",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "PayPal",
+        "id": "1acf2639-0738-4336-a218-74fbf9755b2a",
+        "title": "Dev Ops Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Spring 2025",
+            "Fall 2025"
+        ],
+        "date_updated": 1729580746,
+        "date_posted": 1729580746,
+        "url": "https://wd1.myworkdaysite.com/recruiting/paypal/jobs/job/San-Jose-California-United-States-of-America/Dev-Ops-Software-Engineer-Intern_R0118884",
+        "locations": [
+            "San Jose, CA",
+            "Chicago, IL",
+            "Scottsdale, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/PayPal",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "PayPal",
+        "id": "dcb3a28a-4bb9-4601-b2d0-d6d0186ef388",
+        "title": "Machine Learning Intern",
+        "active": true,
+        "terms": [
+            "Spring 2025",
+            "Fall 2025"
+        ],
+        "date_updated": 1729580741,
+        "date_posted": 1729580741,
+        "url": "https://wd1.myworkdaysite.com/recruiting/paypal/jobs/job/San-Jose-California-United-States-of-America/Machine-Learning-Intern_R0118881",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/PayPal",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
