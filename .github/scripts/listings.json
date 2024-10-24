@@ -95208,7 +95208,7 @@
         "company_name": "Cerebras",
         "id": "f7d9f940-73db-49a1-a7af-5e481f893dab",
         "title": "Machine Learning Stack Engineer \u2013 Internship - PEY 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -97272,7 +97272,7 @@
         "company_name": "Cerebras",
         "id": "de78af21-7b53-487f-9a89-52d253e6fc27",
         "title": "Performance Engineer \u2013 Internship - PEY 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -114272,7 +114272,7 @@
         "company_name": "Galaxy",
         "id": "ac6e2c7e-98ee-4e62-a358-a48505950924",
         "title": "2025 Strategic Opportunities Intern - London",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -116564,6 +116564,48 @@
             "Rochester, MN"
         ],
         "company_url": "https://simplify.jobs/c/Western-Digital",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Solidigm",
+        "id": "b9c8d902-85c9-4db6-8383-8dd69b10c983",
+        "title": "SSD Firmware Development undergrad intern",
+        "active": true,
+        "terms": [
+            "Spring 2025",
+            "Summer 2025"
+        ],
+        "date_updated": 1729801734,
+        "date_posted": 1729801734,
+        "url": "https://jobs.smartrecruiters.com/Solidigm/744000022574662",
+        "locations": [
+            "Rancho Cordova, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Solidigm",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Uber",
+        "id": "6749faa6-4de5-40df-8350-d6e2bd6d85c2",
+        "title": "2025 Winter Software Engineering Co-op - US",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1729800872,
+        "date_posted": 1729800872,
+        "url": "https://www.uber.com/global/en/careers/list/136689/",
+        "locations": [
+            "Seattle, WA",
+            "SF",
+            "NYC",
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Uber",
         "is_visible": true,
         "sponsorship": "Other"
     }
