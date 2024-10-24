@@ -115924,5 +115924,24 @@
         "date_posted": 1729749088,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729749125,
+        "url": "https://careers.snowflake.com/us/en/job/SNCOUSAEF1E85D07BE43FEA8066CBEBB9E6A99EXTERNALENUS3377623AEF974EAFABF5C29180040540/Software-Engineer-Intern-Database-Engineering-Summer-2025",
+        "company_name": "Snowflake",
+        "title": "Software Engineer Intern (Database Engineering)",
+        "locations": [
+            "Bellevue, Washington"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "haozhou1919",
+        "id": "b0317cb6-5daa-4b38-b79c-9ab2cb7fcab6",
+        "date_posted": 1729749125,
+        "company_url": "",
+        "is_visible": true
     }
 ]
