@@ -116646,5 +116646,24 @@
         "company_url": "https://simplify.jobs/c/84f3bc2b-33c1-4bb0-af43-21bb8d59d639",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Uber",
+        "id": "bf0655cc-ee12-44cc-a42d-3fd367148ba2",
+        "title": "2025 Winter Software Engineering Co-op - US",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1729800730,
+        "date_posted": 1729800730,
+        "url": "https://university-uber.icims.com/jobs/136689/job",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Uber",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
