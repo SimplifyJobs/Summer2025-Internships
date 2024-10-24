@@ -115905,5 +115905,24 @@
         "company_url": "https://simplify.jobs/c/PayPal",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1729749088,
+        "url": "https://careers.staples.com/en/job/-/-/44412/71693915760",
+        "company_name": "Staples",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "Framingham, MA"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "GaryZhous",
+        "id": "a7fa83eb-06f1-400c-b2e2-2419b9bab257",
+        "date_posted": 1729749088,
+        "company_url": "",
+        "is_visible": true
     }
 ]
