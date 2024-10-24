@@ -105016,7 +105016,7 @@
         "company_name": "Marvell",
         "id": "2dbf5447-be70-44a8-9b87-9640973456e6",
         "title": "Application Engineering Intern - Bachelors",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -116105,7 +116105,7 @@
         "company_name": "Hewlett Packard (HP)",
         "id": "fa327d89-b413-4d1d-900e-4e0728777a7b",
         "title": "Apprentice - Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025"
         ],
