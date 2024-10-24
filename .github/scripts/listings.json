@@ -116608,5 +116608,43 @@
         "company_url": "https://simplify.jobs/c/Uber",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Marvell",
+        "id": "015a8ae6-831a-4bc4-b61d-052f88ded9bb",
+        "title": "Software Engineer Intern - Bachelor's/Master's degree",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1729811664,
+        "date_posted": 1729811664,
+        "url": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers2/job/Santa-Clara-CA/Software-Engineer-Intern---Bachelor-s-Master-s-degree_2402130",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/80961b05-9ed3-462d-aef9-4b418c7fb796",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Corelogic",
+        "id": "0ba9263d-3c3a-484c-952e-c907d530639c",
+        "title": "Intern \u2013 Customer Success Data Analyst",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1729811365,
+        "date_posted": 1729811365,
+        "url": "https://corelogic.wd5.myworkdayjobs.com/en-US/Global/job/United-States/Intern---Customer-Success-Data-Analyst_REQ15702",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/84f3bc2b-33c1-4bb0-af43-21bb8d59d639",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
