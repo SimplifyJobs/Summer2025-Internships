@@ -116547,5 +116547,24 @@
         "company_url": "https://simplify.jobs/c/PlayStation-Global",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Western Digital",
+        "id": "5c887dab-98b9-4b34-a5eb-e415c673161e",
+        "title": "Summer 2025 \u2013 Co-Op - Software Engineer - Testing",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1729800429,
+        "date_posted": 1729800429,
+        "url": "https://jobs.smartrecruiters.com/WesternDigital/744000022564052",
+        "locations": [
+            "Rochester, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Western-Digital",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
