@@ -103526,7 +103526,7 @@
         "company_name": "Minitab",
         "id": "245a58fe-9bf6-4d73-aa00-d5c3e034476b",
         "title": "Intern Opportunities - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -114680,7 +114680,7 @@
         "company_name": "HRL Laboratories",
         "id": "7b70772f-6796-4576-bbda-a6b8796c50fd",
         "title": "Quantum Technology Intern - Masters",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
