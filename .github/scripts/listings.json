@@ -103263,7 +103263,7 @@
         "company_name": "Fetch",
         "id": "ad50b352-1e23-4fe6-903b-0fd9c0f4d07f",
         "title": "Android Software Engineering Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2025",
             "Summer 2025"
@@ -103852,7 +103852,7 @@
         "company_name": "Minitab",
         "id": "e2cdd16f-153a-424f-88e7-54abdc27405b",
         "title": "Intern Opportunities - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -114699,7 +114699,7 @@
         "company_name": "HRL Laboratories",
         "id": "d7052c68-d1df-4044-89b6-9b474adaa88a",
         "title": "Quantum Technology Intern - Undergrad",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -116663,6 +116663,25 @@
             "SF"
         ],
         "company_url": "https://simplify.jobs/c/Uber",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Western Digital",
+        "id": "837b2871-04ed-4ff8-9c11-50a66e3de37d",
+        "title": "Summer 2025 \u2013 Software Engineer Intern - System Test",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1729800418,
+        "date_posted": 1729800418,
+        "url": "https://jobs.smartrecruiters.com/WesternDigital/744000022565418",
+        "locations": [
+            "Rochester, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Western-Digital",
         "is_visible": true,
         "sponsorship": "Other"
     }
