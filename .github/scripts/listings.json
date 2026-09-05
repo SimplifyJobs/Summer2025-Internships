@@ -377107,7 +377107,7 @@
         "company_name": "AArete",
         "id": "4450e57d-6850-4b61-b0f6-39350674e9d9",
         "title": "Business Analytics Intern - Summer 2027",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -378318,6 +378318,100 @@
         "sponsorship": "Other",
         "degrees": [
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Fab2",
+        "id": "5bd0d89c-2824-48b3-b41a-d61a035ae36f",
+        "title": "Automation Software Engineering Intern - Summer",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1788647761,
+        "date_posted": 1788647655,
+        "url": "https://jobs.ashbyhq.com/fab2/602d73a8-d190-4fc1-97e9-99b7f5fa7475/application?embed=true",
+        "locations": [
+            "SF",
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Fab2",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Fab2",
+        "id": "5388c1d5-9cfb-47cb-a19b-4772ec63a368",
+        "title": "Rust Software Engineer Intern - Chip Design Tools - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1788647881,
+        "date_posted": 1788647655,
+        "url": "https://jobs.ashbyhq.com/fab2/2b0ab443-c7d8-4547-9766-111747f0b361/application?embed=true",
+        "locations": [
+            "SF",
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Fab2",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Fab2",
+        "id": "1382cd76-4956-4de0-8d73-6880a4b56d5d",
+        "title": "Embedded Software Engineer Intern - Summer",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1788647875,
+        "date_posted": 1788647655,
+        "url": "https://jobs.ashbyhq.com/fab2/15020e6e-be1c-4455-95a3-aa798474cec4/application?embed=true",
+        "locations": [
+            "SF",
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Fab2",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Fab2",
+        "id": "e435361a-f6e4-4d40-a169-9d5acffb23fb",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1788647876,
+        "date_posted": 1788647655,
+        "url": "https://jobs.ashbyhq.com/fab2/36ab33ab-82e7-4cc4-8137-f451fd6036a0/application?embed=true",
+        "locations": [
+            "SF",
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Fab2",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
