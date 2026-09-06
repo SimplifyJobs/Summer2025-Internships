@@ -281133,7 +281133,7 @@
         "company_name": "Chicago Trading Company",
         "id": "9ec52711-cf87-406e-83ad-c5bb73c1e65d",
         "title": "Quant Trading Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -324884,7 +324884,7 @@
         "company_name": "Marsh",
         "id": "2e60bfbc-eba1-46bb-b68b-c273e8465412",
         "title": "Government Health Consulting Informatics Intern - College Program",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -327119,7 +327119,7 @@
         "company_name": "Freddie Mac",
         "id": "f9295e59-0d52-4f80-8bcb-f16c1b4fc75d",
         "title": "Multifamily Software Development Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
