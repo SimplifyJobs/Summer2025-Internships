@@ -377491,5 +377491,54 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "GE Aerospace",
+        "id": "37f5de8f-da79-4e88-801b-65f4b77bd4e5",
+        "title": "Software Engineering Placement - Month Placement",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1788656957,
+        "date_posted": 1788652800,
+        "url": "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Cheltenham/GE-Aerospace-Software-Engineering---12-Month-Placement_R5039374-2",
+        "locations": [
+            "Bristol, UK",
+            "Cheltenham, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Aerospace",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "GE Aerospace",
+        "id": "e50e21b7-95d2-497c-9bca-f25e90e4cfd7",
+        "title": "Data Science Placement - Month Placement",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1788656951,
+        "date_posted": 1788652800,
+        "url": "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Eastleigh/GE-Aerospace-Data-Science---12-Month-Placement--Eastleigh_R5039365-1",
+        "locations": [
+            "Eastleigh, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Aerospace",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
