@@ -269825,7 +269825,7 @@
         "company_name": "CTGT",
         "id": "8c8a1f21-e711-48d0-8cec-601018138920",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -281663,7 +281663,7 @@
         "company_name": "Google",
         "id": "817799e0-f2c4-4c4c-8634-508da3e89b72",
         "title": "Student Researcher",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -291552,7 +291552,7 @@
         "company_name": "Copart",
         "id": "c63937cc-49b3-4672-b316-c4e35731c6af",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -319642,7 +319642,7 @@
         "company_name": "NVIDIA",
         "id": "c61cdf4f-3d6a-41b3-90d6-c83ad103fffd",
         "title": "Hardware Design for Test Intern - DFT",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -343901,7 +343901,7 @@
         "company_name": "WhatNot",
         "id": "59b37959-7280-4f60-aad9-0c9a3265acc7",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -368868,7 +368868,7 @@
         "company_name": "Micron Technology",
         "id": "ac51c04c-ef1b-4705-8b2c-8001da135c28",
         "title": "DRAM Design Rules Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -374305,7 +374305,7 @@
         "company_name": "Kinaxis",
         "id": "d5e526d4-218c-453d-99d1-8fc6b59a6f06",
         "title": "Software Developer Co-op/Intern - Core Algorithms",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
