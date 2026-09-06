@@ -262423,7 +262423,7 @@
         "company_name": "Copart",
         "id": "26ca5f88-4aa3-47dd-b7c2-3d192287ce69",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -292957,7 +292957,7 @@
         "company_name": "Brio Water Technology",
         "id": "18f9ec09-a50a-4e02-bb0b-47cdeb648ccc",
         "title": "AI Automation & Business Analytics Intern - Rotational Program",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -324575,7 +324575,7 @@
         "company_name": "Capacity",
         "id": "16d31201-b650-445a-bd1c-acf6b02d80b7",
         "title": "Speech Technology Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -336460,7 +336460,7 @@
         "company_name": "Tencent",
         "id": "275b40b6-35f1-4ef6-9c1b-741a35b72c1f",
         "title": "Multimodal Algorithm Researcher Intern - Omni-Modal",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -337485,7 +337485,7 @@
         "company_name": "Brunswick",
         "id": "1a7cd887-6c00-45f3-bf3d-87fa5aebe90f",
         "title": "Reinforcement Learning Intern - Boating Intelligence Design Lab",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2027",
             "Summer 2027",
@@ -348456,7 +348456,7 @@
         "company_name": "General Motors",
         "id": "3c4d2405-fb79-4cb1-9bfa-63018d8026b3",
         "title": "Mechatronic Infrastructure Diagnostic Systems Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -375624,7 +375624,7 @@
         "company_name": "AArete",
         "id": "4450e57d-6850-4b61-b0f6-39350674e9d9",
         "title": "Business Analytics Intern - Summer 2027",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
