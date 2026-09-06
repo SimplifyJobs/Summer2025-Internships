@@ -260388,7 +260388,7 @@
         "company_name": "Copart",
         "id": "7e13e0d3-bd62-458e-869e-bb070af80106",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -324884,7 +324884,7 @@
         "company_name": "Marsh",
         "id": "2e60bfbc-eba1-46bb-b68b-c273e8465412",
         "title": "Government Health Consulting Informatics Intern - College Program",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -347450,7 +347450,7 @@
         "company_name": "Magna",
         "id": "47d95f89-f763-477d-a29f-ec7b46b0f160",
         "title": "Software Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -371988,7 +371988,7 @@
         "company_name": "Prysmian Cables & Systems",
         "id": "7ed5f8a7-365f-4795-bb28-dd68ad3dfbcf",
         "title": "AI Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
