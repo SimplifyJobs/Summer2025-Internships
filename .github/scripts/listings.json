@@ -165,76 +165,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "LMI ",
-        "id": "e172cba2-a66f-44e7-b71f-5ccb23383037",
-        "title": "Power Platform Intern - Summer 2026",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1767977796,
-        "date_posted": 1767977796,
-        "url": "https://careers-lmi.icims.com/jobs/13504/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Vienna, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/LMI",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "AbbVie",
-        "id": "f4e5b8a0-a720-4957-a8d2-12339c9a6aa3",
-        "title": "Business Technology Solutions Intern - Software Engineer",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1767977261,
-        "date_posted": 1767977261,
-        "url": "https://jobs.smartrecruiters.com/AbbVie/3743990010999336",
-        "locations": [
-            "Waukegan, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/AbbVie",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "AstraZeneca",
-        "id": "daa39393-3def-49c6-8fec-06f6fdc08de9",
-        "title": "Machine Learning and a.1. Intern - Undergraduate Students",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1767976806,
-        "date_posted": 1767976806,
-        "url": "https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/US---Gaithersburg---MD/Machine-Learning-and-AI-Intern---Undergraduate-Students_R-243182",
-        "locations": [
-            "Gaithersburg, MD"
-        ],
-        "company_url": "https://simplify.jobs/c/AstraZeneca",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Vertex Pharmaceuticals",
         "id": "35d50217-b2f3-4152-add2-1c1585c44fe7",
         "title": "Vertex Intern",
@@ -162783,29 +162713,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Eurofins",
-        "id": "4cebd7e3-5455-4983-b475-3512278305c2",
-        "title": "Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1774954621,
-        "date_posted": 1767977283,
-        "url": "https://jobs.smartrecruiters.com/Eurofins/744000102593098",
-        "locations": [
-            "Hayward, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Eurofins",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
     },
     {
         "source": "Simplify",
