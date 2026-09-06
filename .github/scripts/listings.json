@@ -1,102 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Cinemark Theatres",
-        "id": "fa346f7a-b97d-4464-98d0-b57c62343db2",
-        "title": "Technology Operations and Presentation Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1767942863,
-        "date_posted": 1767942863,
-        "url": "https://cinemark.wd1.myworkdayjobs.com/cinemark/job/CORP---Cinemark-Service-Center-Plano-TX/Technology-Operations-and-Presentation-Intern_R34558",
-        "locations": [
-            "Plano, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Cinemark-Theatres",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Microsoft",
-        "id": "e1b1af7f-63fd-43b7-bfc0-316a65e72d90",
-        "title": "Software Engineer \u2013 Top Secret: Internship Opportunities - Ctj",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1767942747,
-        "date_posted": 1767942747,
-        "url": "https://apply.careers.microsoft.com/careers/job/1970393556657568",
-        "locations": [
-            "Redmond, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Microsoft",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Microsoft",
-        "id": "4fd8fd5d-00f7-420f-a9b9-81a7573accd1",
-        "title": "Software Engineer \u2013 Top Secret: Internship Opportunities - Ctj",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1767942721,
-        "date_posted": 1767942721,
-        "url": "https://apply.careers.microsoft.com/careers/job/1970393556654056",
-        "locations": [
-            "Redmond, WA",
-            "Reston, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Microsoft",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Peter Millar",
-        "id": "1639da33-c0f8-4934-b302-87228f1650fd",
-        "title": "Application Engineer Internship",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1767942768,
-        "date_posted": 1767942768,
-        "url": "https://petermillarllc.wd12.myworkdayjobs.com/PMI/job/Research-Triangle-Park-NC/Application-Engineer-Internship_JR100528",
-        "locations": [
-            "Raleigh, NC",
-            "Durham, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/Peter-Millar",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Nokia",
         "id": "2dca2ddf-8d63-43ee-85f1-3705c37dff8c",
@@ -8889,29 +8793,6 @@
             "Kitchener, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Sun-Life",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Mach9",
-        "id": "b1e01270-5032-45fe-a7ca-e4a54d60d895",
-        "title": "Software Engineering Intern - Summer 2026",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1767942795,
-        "date_posted": 1767942795,
-        "url": "https://jobs.ashbyhq.com/mach9/c6a9ab04-d9ba-4b09-9d2e-1f0e2441e580/application",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Mach9",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
@@ -343174,7 +343055,7 @@
         "company_name": "The Walt Disney Company",
         "id": "4c156969-fd34-489d-ad5b-48960e322f49",
         "title": "Revenue Planning & Analytics Intern - Spring 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
