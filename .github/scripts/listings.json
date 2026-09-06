@@ -1,53 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Carpenter Technology",
-        "id": "6a93962b-599e-41cf-b0f8-270eb40e13a3",
-        "title": "Digital Technologies Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1767980472,
-        "date_posted": 1767980472,
-        "url": "https://cartech.wd5.myworkdayjobs.com/CTCExternal/job/Reading-PA/Digital-Technologies-Intern_26019",
-        "locations": [
-            "Reading, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Carpenter-Technology",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "CoLab Software",
-        "id": "d72200cf-3764-4949-b661-7940f80f7061",
-        "title": "Software Developer \u2013 Co-op",
-        "active": false,
-        "terms": [
-            "Winter 2026",
-            "Spring 2026",
-            "Summer 2026",
-            "Fall 2026"
-        ],
-        "date_updated": 1767980118,
-        "date_posted": 1767980118,
-        "url": "https://job-boards.greenhouse.io/colabsoftware/jobs/5022855008",
-        "locations": [
-            "St. John's, NL, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/CoLab-Software",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Vertex Pharmaceuticals",
         "id": "35d50217-b2f3-4152-add2-1c1585c44fe7",
