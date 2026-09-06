@@ -193819,7 +193819,7 @@
         "company_name": "University of Arkansas",
         "id": "e4f4a19a-0777-4687-9441-b8f377f86167",
         "title": "Graduate Research Assistant Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -262423,7 +262423,7 @@
         "company_name": "Copart",
         "id": "26ca5f88-4aa3-47dd-b7c2-3d192287ce69",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -336460,7 +336460,7 @@
         "company_name": "Tencent",
         "id": "275b40b6-35f1-4ef6-9c1b-741a35b72c1f",
         "title": "Multimodal Algorithm Researcher Intern - Omni-Modal",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -337485,7 +337485,7 @@
         "company_name": "Brunswick",
         "id": "1a7cd887-6c00-45f3-bf3d-87fa5aebe90f",
         "title": "Reinforcement Learning Intern - Boating Intelligence Design Lab",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027",
             "Summer 2027",
@@ -365011,7 +365011,7 @@
         "company_name": "Magna",
         "id": "0eeebf48-28fc-4b4f-99b6-aae802696f60",
         "title": "Optics Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
