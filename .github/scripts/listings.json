@@ -355163,7 +355163,7 @@
         "company_name": "Intel",
         "id": "fbbaa89d-fca9-49aa-9d4a-14d71883ea4a",
         "title": "Silicon Hardware Engineering Intern - Graduate",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027",
             "Summer 2027"
@@ -372744,7 +372744,7 @@
         "company_name": "Marvell",
         "id": "2efbdbb6-799e-4b37-8c81-68bf168efb5f",
         "title": "Functional Validation Intern - BS",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
