@@ -317318,7 +317318,7 @@
         "company_name": "NVIDIA",
         "id": "790a9545-abe4-4bd0-af4b-55b368673465",
         "title": "Computer Architecture and Systems Intern - Research",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -317632,7 +317632,7 @@
         "company_name": "NVIDIA",
         "id": "78faf2f2-9391-4542-b593-468ce69a67b5",
         "title": "Mixed Signal Design Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -341393,7 +341393,7 @@
         "company_name": "Manulife Financial",
         "id": "78fab1c2-9f47-412d-8659-873843843c0a",
         "title": "Quantitative Analyst Co-op Intern - Derivative and Asset Modeling",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -367193,7 +367193,7 @@
         "company_name": "Walmart",
         "id": "9a65a8df-82be-4934-8e8f-0308d4a7686a",
         "title": "Software Engineer 2 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -374556,7 +374556,7 @@
         "company_name": "Marvell",
         "id": "769667d7-3030-4678-96db-9cd5a6787b75",
         "title": "Design Verification Intern - MS",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
