@@ -354956,7 +354956,7 @@
         "company_name": "The Walt Disney Company",
         "id": "dc1477e7-ee9a-4e9b-b8d7-9299d95745e8",
         "title": "Figure Programming Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -355245,7 +355245,7 @@
         "company_name": "Intel",
         "id": "b854fca7-7546-478f-937b-a76b8dbbddae",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027",
             "Summer 2027"
@@ -367193,7 +367193,7 @@
         "company_name": "Walmart",
         "id": "9a65a8df-82be-4934-8e8f-0308d4a7686a",
         "title": "Software Engineer 2 Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
