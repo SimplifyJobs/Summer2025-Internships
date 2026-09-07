@@ -355245,7 +355245,7 @@
         "company_name": "Intel",
         "id": "b854fca7-7546-478f-937b-a76b8dbbddae",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2027",
             "Summer 2027"
