@@ -346031,7 +346031,7 @@
         "company_name": "United Airlines",
         "id": "dbd78176-bb77-49e4-9500-82a26610cfbb",
         "title": "Research Scholar Intern - Statistics",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -375027,7 +375027,7 @@
         "company_name": "Airbus",
         "id": "0af1cc0e-a58e-4da3-ba05-773b55177492",
         "title": "Full-Stack Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
