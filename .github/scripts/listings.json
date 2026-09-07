@@ -324939,7 +324939,7 @@
         "company_name": "InfiniteQuant",
         "id": "d55a832d-489f-468a-8688-f419fb8b1b38",
         "title": "Quantitative Developer Internship - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -328022,7 +328022,7 @@
         "company_name": "InfiniteQuant",
         "id": "925fd340-08ca-444f-ab27-237fdfe56b27",
         "title": "Quantitative Researcher Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -375027,7 +375027,7 @@
         "company_name": "Airbus",
         "id": "0af1cc0e-a58e-4da3-ba05-773b55177492",
         "title": "Full-Stack Software Developer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -376573,6 +376573,102 @@
             "Bachelor's",
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "incident.io",
+        "id": "ed68772a-4ef4-445f-ae7d-35a26fa9cf11",
+        "title": "Product Engineer Placement - 6 Months",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1788791041,
+        "date_posted": 1788791002,
+        "url": "https://jobs.ashbyhq.com/incident/470989ec-6ac5-4800-beb1-0ba1684ec1ee/application?embed=true",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Incident-Io",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "incident.io",
+        "id": "56542a8e-855c-488c-913e-1d63b6c0a8d6",
+        "title": "Product Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1788790639,
+        "date_posted": 1788790463,
+        "url": "https://jobs.ashbyhq.com/incident/35461290-c0fe-449a-bed4-5ee873f868fd/application?embed=true",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Incident-Io",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "InfiniteQuant",
+        "id": "bc1ac794-99ab-4455-8429-f33091dc70b1",
+        "title": "Quantitative Researcher Intern - Summer 2027",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1788790560,
+        "date_posted": 1788426253,
+        "url": "https://jobs.smartrecruiters.com/InfiniteQuant/744000147161390",
+        "locations": [
+            "Dubai - United Arab Emirates",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/InfiniteQuant",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "InfiniteQuant",
+        "id": "cebe2404-0f14-43f7-a80e-93b201cd0441",
+        "title": "Quantitative Developer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1788790562,
+        "date_posted": 1788426251,
+        "url": "https://jobs.smartrecruiters.com/InfiniteQuant/744000147163879",
+        "locations": [
+            "Dubai - United Arab Emirates",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/InfiniteQuant",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
