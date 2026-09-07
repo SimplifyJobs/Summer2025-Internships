@@ -317318,7 +317318,7 @@
         "company_name": "NVIDIA",
         "id": "790a9545-abe4-4bd0-af4b-55b368673465",
         "title": "Computer Architecture and Systems Intern - Research",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -317632,7 +317632,7 @@
         "company_name": "NVIDIA",
         "id": "78faf2f2-9391-4542-b593-468ce69a67b5",
         "title": "Mixed Signal Design Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -328143,7 +328143,7 @@
         "company_name": "Celonis",
         "id": "8d9e3fac-74a7-4c48-9788-7e80245bc5fc",
         "title": "Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -336027,7 +336027,7 @@
         "company_name": "Charles Schwab",
         "id": "93f4951e-c280-428f-8f6f-a0611c97b96e",
         "title": "Data Engineering Intern - Data Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -341393,7 +341393,7 @@
         "company_name": "Manulife Financial",
         "id": "78fab1c2-9f47-412d-8659-873843843c0a",
         "title": "Quantitative Analyst Co-op Intern - Derivative and Asset Modeling",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -356311,7 +356311,7 @@
         "company_name": "Northrop Grumman",
         "id": "68f77e24-7325-4a04-9e6f-048e16a551a1",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -372485,7 +372485,7 @@
         "company_name": "Marvell",
         "id": "54dcd1fc-97a6-477a-a5c4-fd602806eaf1",
         "title": "Firmware Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027",
             "Fall 2027",
@@ -374556,7 +374556,7 @@
         "company_name": "Marvell",
         "id": "769667d7-3030-4678-96db-9cd5a6787b75",
         "title": "Design Verification Intern - MS",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
