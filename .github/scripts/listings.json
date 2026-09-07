@@ -45665,7 +45665,7 @@
         "company_name": "Cresta",
         "id": "7ba71986-7f36-4096-9d70-31f988a5cd08",
         "title": "Forward Deployed Engineering Intern - AI Agent",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -314038,7 +314038,7 @@
         "company_name": "Intel",
         "id": "2d8fe16e-0d23-496c-9f2a-a5a1dd0f386a",
         "title": "Software Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -334242,7 +334242,7 @@
         "company_name": "Hoffman Construction",
         "id": "47aa8cc5-ef85-4dfe-8a06-89c593ea541a",
         "title": "Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -353643,7 +353643,7 @@
         "company_name": "Manulife Financial",
         "id": "2fc117c6-a5e8-431c-a872-5d5445afc539",
         "title": "Reporting Analyst Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -358974,7 +358974,7 @@
         "company_name": "GE Appliances",
         "id": "31b163c5-2933-4708-b57f-40ac28e156d1",
         "title": "Electrical Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -369816,7 +369816,7 @@
         "company_name": "RTX",
         "id": "30250e27-717d-446e-8475-adb57356ac21",
         "title": "Work Transfer Analyst Intern - Global Work Transfer Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -374339,7 +374339,7 @@
         "company_name": "Marvell",
         "id": "2f6cedc3-6aa5-4caa-825b-45cf2ac41248",
         "title": "Design Verification Intern - MS",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
