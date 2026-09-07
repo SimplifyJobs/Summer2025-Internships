@@ -349216,7 +349216,7 @@
         "company_name": "Apple",
         "id": "cac7a43b-cccf-4bfa-b133-5951ab620317",
         "title": "Design Verification Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -353524,7 +353524,7 @@
         "company_name": "Eaton",
         "id": "bb18db16-00f5-47bf-bcc1-72fa233f144d",
         "title": "Engineering Technology Intern - Embedded Systems - Research & Development Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
