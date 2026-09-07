@@ -356871,7 +356871,7 @@
         "company_name": "Microsoft",
         "id": "aaa4dbfe-e609-475c-a90f-8f7f5e42a589",
         "title": "Optical Communications Resident",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
