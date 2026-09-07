@@ -2,30 +2,6 @@
     {
         "source": "Simplify",
         "category": "Hardware",
-        "company_name": "Woven",
-        "id": "1e2469ef-e9ea-420b-b1c9-00bc1dcdf61b",
-        "title": "Software Engineering Intern - Embedded",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1768051749,
-        "date_posted": 1768051749,
-        "url": "https://jobs.lever.co/woven-by-toyota/77cac944-392e-4a8c-b427-532076f8521d/apply",
-        "locations": [
-            "Ann Arbor, MI"
-        ],
-        "company_url": "https://simplify.jobs/c/Woven-Planet",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
         "company_name": "General Dynamics UK",
         "id": "0d61233a-b2e8-40b3-8450-e4ad741fc999",
         "title": "Co-op Intern - Software Engineer",
@@ -199019,7 +198995,7 @@
         "company_name": "Tencent",
         "id": "f975268a-bc73-4167-8e73-024443cbc1f2",
         "title": "Game Research & Development Intern - Engine Research",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -346055,7 +346031,7 @@
         "company_name": "United Airlines",
         "id": "dbd78176-bb77-49e4-9500-82a26610cfbb",
         "title": "Research Scholar Intern - Statistics",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -355163,7 +355139,7 @@
         "company_name": "Intel",
         "id": "fbbaa89d-fca9-49aa-9d4a-14d71883ea4a",
         "title": "Silicon Hardware Engineering Intern - Graduate",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2027",
             "Summer 2027"
@@ -372744,7 +372720,7 @@
         "company_name": "Marvell",
         "id": "2efbdbb6-799e-4b37-8c81-68bf168efb5f",
         "title": "Functional Validation Intern - BS",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
