@@ -260460,7 +260460,7 @@
         "company_name": "Liberty University",
         "id": "ea053f2a-38d8-4cc1-af0b-e280de37935e",
         "title": "Business Analyst Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -345345,7 +345345,7 @@
         "company_name": "Magna",
         "id": "aa975266-5fe4-4030-a4d9-2b7f6ba7f717",
         "title": "ADAS Feature Owner Intern - Systems Organization",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -348371,7 +348371,7 @@
         "company_name": "United Airlines",
         "id": "97b4860b-2ba5-4a16-b270-99e61c276351",
         "title": "Sales Product Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -355006,7 +355006,7 @@
         "company_name": "Intel",
         "id": "ca96c441-d218-4a8a-b6f6-a035b101c51b",
         "title": "Platform Hardware and Systems Engineering Intern - Bachelor's",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2027",
             "Summer 2027"
@@ -373336,7 +373336,7 @@
         "company_name": "United Airlines",
         "id": "84931b36-7f3b-47fb-b070-d043b32eeef0",
         "title": "Clubs & Lounges Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
