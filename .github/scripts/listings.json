@@ -286720,7 +286720,7 @@
         "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Later",
-        "id": "1cbb5b37-ad0e-460b-8c1a-ed4441db8c04",
+        "id": "230714a7-6047-4f24-882a-5616896d2794",
         "title": "Data/Analytics Co-op",
         "active": true,
         "terms": [
@@ -296664,7 +296664,7 @@
         "company_name": "Microsoft",
         "id": "25286ad8-8260-4a0d-9ab1-89a677c29b20",
         "title": "Software Engineer: AI/ML & LLM Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -308887,7 +308887,7 @@
         "company_name": "KPMG",
         "id": "69547881-4d9f-4102-b3f4-b7142cd55636",
         "title": "Product Specialist Intern Co-op - Asset Management Digital Solutions",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -317342,7 +317342,7 @@
         "company_name": "NVIDIA",
         "id": "02243e49-7e4c-44aa-9dd1-0ba4a235d93d",
         "title": "Developer and Performance Technology Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -343688,7 +343688,7 @@
         "company_name": "Southwest Airlines",
         "id": "12b17910-1400-4c7f-8d78-7adcf8b6ad4a",
         "title": "Software Engineer Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -352647,7 +352647,7 @@
         "company_name": "Berkshire Grey",
         "id": "8f1fa8ec-4211-47c4-979a-817136da7e97",
         "title": "Hardware Quality Co-op - Verification & Validation",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -362930,7 +362930,7 @@
         "company_name": "Magna",
         "id": "0eeebf48-28fc-4b4f-99b6-aae802696f60",
         "title": "Optics Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -378130,6 +378130,29 @@
             "MBA",
             "PhD",
             "JD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "United Airlines",
+        "id": "0b6231bf-1510-4b9c-b81b-7dbc9d578158",
+        "title": "Operations Strategy Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1788857430,
+        "date_posted": 1788287331,
+        "url": "https://careers.united.com/us/en/job/WHQ00026638",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/United-Airlines",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
