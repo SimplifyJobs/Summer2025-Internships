@@ -323568,7 +323568,7 @@
         "company_name": "Ontario Teachers' Pension Plan",
         "id": "5761cdd3-b449-4610-ad4d-378a789eb3ed",
         "title": "Total Fund Risk Intern - Months",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -347561,7 +347561,7 @@
         "company_name": "Tencent",
         "id": "de610830-2f60-4805-baf7-ae776ebdaeb4",
         "title": "Communications Platform as a Service Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -349146,7 +349146,7 @@
         "company_name": "McGill University",
         "id": "f16e2aa3-1ed7-4c90-b233-9d4aa6ee0b23",
         "title": "Web Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -351685,7 +351685,7 @@
         "company_name": "Andersen Corporation",
         "id": "c9ff9182-9268-4f02-a005-5706911147d0",
         "title": "Sustainability Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
