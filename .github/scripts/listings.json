@@ -7187,31 +7187,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "UiPath",
-        "id": "6e3e8655-203d-4fa8-aa49-ac4cfcb65769",
-        "title": "Software Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1768152446,
-        "date_posted": 1768152446,
-        "url": "https://jobs.ashbyhq.com/uipath/18034904-7114-4efc-884b-66caf1adc1f3/application",
-        "locations": [
-            "Bellevue, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/UiPath",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Auctane",
         "id": "9a4bb2dd-90a7-47b4-bbc8-f65bfe3a038b",
@@ -193100,7 +193075,7 @@
         "company_name": "Haize Labs",
         "id": "01b73789-a55c-4227-864d-4e1c9f06b059",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -340804,7 +340779,7 @@
         "company_name": "PricewaterhouseCoopers (PwC)",
         "id": "3230c951-623b-444c-b001-114c9819cad7",
         "title": "Market Information and Data Analytics Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
