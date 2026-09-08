@@ -333938,7 +333938,7 @@
         "company_name": "Wells Fargo",
         "id": "b65737b1-c2b8-4f39-b037-a5467fd163ff",
         "title": "Applied Computational Intelligence Intern - ACI Masters - Early Careers",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -375607,7 +375607,7 @@
         "company_name": "Ciena",
         "id": "6d2ff45c-d542-446b-8c33-2a28cce8c21b",
         "title": "MCP Applications Co-op - UI or BE",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
