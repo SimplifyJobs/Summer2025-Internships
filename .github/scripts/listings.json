@@ -345297,7 +345297,7 @@
         "company_name": "Microsoft",
         "id": "66d274be-a1a8-4da4-92a0-2cbe5b7198e5",
         "title": "Software Engineer Intern - AI and ML",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -378080,6 +378080,56 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Zions Bank",
+        "id": "2a92c757-3cf3-472c-ae04-1df20bde3598",
+        "title": "Process Automation Developer Intern",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1788852123,
+        "date_posted": 1788851985,
+        "url": "https://zionsbancorp.taleo.net/careersection/joinexternalmobile/jobdetail.ftl?job=071580",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Zions-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Kite Pharma",
+        "id": "d86e44b9-4c31-4fce-9921-62b882b53084",
+        "title": "Kite Development Intern - Tech Ops - Process Development",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1788852025,
+        "date_posted": 1788825600,
+        "url": "https://gilead.wd1.myworkdayjobs.com/kitepharmacareers/job/United-States---California---Santa-Monica/Intern---Kite-Development---Tech-Ops--Process-Development-_R0054669",
+        "locations": [
+            "Santa Monica, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Kite-Pharma",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "MBA",
+            "PhD",
+            "JD"
         ]
     }
 ]
