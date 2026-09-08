@@ -311495,7 +311495,7 @@
         "company_name": "Goldman Sachs",
         "id": "bc2e9762-a592-48ef-9e42-21dfdec88ec4",
         "title": "Quantitative Strategist Associate Intern - Asset and Wealth Management",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -323524,7 +323524,7 @@
         "company_name": "RTX",
         "id": "740d3c67-d925-48d7-995a-410073f010e8",
         "title": "Industrialization Intern - Industrialization Production Readiness",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
@@ -327999,7 +327999,7 @@
         "company_name": "InfiniteQuant",
         "id": "925fd340-08ca-444f-ab27-237fdfe56b27",
         "title": "Quantitative Researcher Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -332256,7 +332256,7 @@
         "company_name": "Goldman Sachs",
         "id": "bec41fe0-ae4c-44d3-bddd-15ca4a245c18",
         "title": "Summer Associate Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -341820,7 +341820,7 @@
         "company_name": "WhatNot",
         "id": "59b37959-7280-4f60-aad9-0c9a3265acc7",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -367355,7 +367355,7 @@
         "company_name": "Goldman Sachs",
         "id": "b6a6b28f-c858-4ef8-b6b4-aeda2206e9ad",
         "title": "Summer Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -367485,7 +367485,7 @@
         "company_name": "Goldman Sachs",
         "id": "a815c1a3-823d-405a-99ea-e82fbbb247cd",
         "title": "Quantitative Strategist Intern - Americas - The Core Quantitative Strats",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -367696,7 +367696,7 @@
         "company_name": "Goldman Sachs",
         "id": "b2b3a7df-bea1-4290-b988-4c3e567814b8",
         "title": "Summer Analyst Intern - Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -368789,7 +368789,7 @@
         "company_name": "AstraZeneca",
         "id": "72f2b8b3-1d66-4b17-a2a1-5626baa27ee2",
         "title": "Digital & Data Improvement Specialist Intern - University Industrial Placement Student",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -373959,7 +373959,7 @@
         "company_name": "Moderna",
         "id": "8d22f8a9-8149-4eae-b028-aebc30c9280c",
         "title": "Applied Technologies Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -374056,7 +374056,7 @@
         "company_name": "Johnson Controls",
         "id": "73e4ce20-6a87-4c11-85a0-52fdf043464a",
         "title": "Software/Controls Engineering Graduate Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -374730,7 +374730,7 @@
         "company_name": "Marvell",
         "id": "7519dee0-35e8-42b9-ad9c-71201febe2bd",
         "title": "Advanced Packaging Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027",
             "Fall 2027",
@@ -376605,7 +376605,7 @@
         "company_name": "InfiniteQuant",
         "id": "bc1ac794-99ab-4455-8429-f33091dc70b1",
         "title": "Quantitative Researcher Intern - Summer 2027",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -378531,6 +378531,29 @@
             "London, UK"
         ],
         "company_url": "https://simplify.jobs/c/BNY",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "United Airlines",
+        "id": "328b3420-d343-4ef8-ac99-d5b626d3490e",
+        "title": "Onboard Experience Intern - Summer 2027",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1788865506,
+        "date_posted": 1788307143,
+        "url": "https://careers.united.com/us/en/job/WHQ00026534",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/United-Airlines",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
