@@ -296805,7 +296805,7 @@
         "company_name": "Microsoft",
         "id": "7e143f06-1c28-41b7-9291-53a869d86325",
         "title": "Software Engineer Intern - Cloud & Distributed Backend",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -347678,7 +347678,7 @@
         "company_name": "RTX",
         "id": "ffd397b2-8311-43d4-b913-acf01647f231",
         "title": "Technical Publications Technical Developer Intern - Artificial Intelligence/Machine Learning",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
