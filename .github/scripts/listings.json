@@ -3,54 +3,6 @@
         "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Woven",
-        "id": "66ef628d-4eae-4d7b-9d03-896f837927c7",
-        "title": "Machine Learning Intern - Autolabeling",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1768140318,
-        "date_posted": 1768140318,
-        "url": "https://jobs.lever.co/woven-by-toyota/24cceda1-b852-413c-8e60-039280a1c849/apply",
-        "locations": [
-            "Palo Alto, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Woven-Planet",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Woven",
-        "id": "56ad64c8-97db-44c9-b5e7-e35b9199050c",
-        "title": "Machine Learning Intern - Vehicle Perception",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1768140341,
-        "date_posted": 1768140341,
-        "url": "https://jobs.lever.co/woven-by-toyota/b5e4fe1a-240d-433d-ac40-e2cc04588985/apply",
-        "locations": [
-            "Palo Alto, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Woven-Planet",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Woven",
         "id": "04ba6b12-1c6a-4940-822e-3e83a4b81d90",
         "title": "Software Engineering Intern - Data Search",
         "active": false,
@@ -198972,7 +198924,7 @@
         "company_name": "Tencent",
         "id": "f975268a-bc73-4167-8e73-024443cbc1f2",
         "title": "Game Research & Development Intern - Engine Research",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -300830,7 +300782,7 @@
         "company_name": "Canva",
         "id": "8695d3de-326d-44ff-976a-ba070dbbe750",
         "title": "PhD Research Scientist Intern - Reinforcement Learning - Images",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -308368,7 +308320,7 @@
         "company_name": "InfiniteQuant",
         "id": "9bd5bf91-17e4-4d57-9268-dd61b4b3cdf4",
         "title": "Quantitative Researcher Intern - Summer 2027",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -323568,7 +323520,7 @@
         "company_name": "Ontario Teachers' Pension Plan",
         "id": "5761cdd3-b449-4610-ad4d-378a789eb3ed",
         "title": "Total Fund Risk Intern - Months",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -324916,7 +324868,7 @@
         "company_name": "InfiniteQuant",
         "id": "d55a832d-489f-468a-8688-f419fb8b1b38",
         "title": "Quantitative Developer Internship - Summer 2027",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -339709,7 +339661,7 @@
         "company_name": "Manulife Financial",
         "id": "5520ba3c-2420-49b4-9e71-e8a3b6fa4399",
         "title": "Product Analyst Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -347037,7 +346989,7 @@
         "company_name": "Geotab",
         "id": "c000d17c-b16e-450d-839c-842ffd8be4b3",
         "title": "Embedded Developer Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
@@ -347561,7 +347513,7 @@
         "company_name": "Tencent",
         "id": "de610830-2f60-4805-baf7-ae776ebdaeb4",
         "title": "Communications Platform as a Service Product Management Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -353224,7 +353176,7 @@
         "company_name": "RTX",
         "id": "eaf4c7cf-4e64-4286-8d4e-01db86f66220",
         "title": "Electrical Engineer Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -355116,7 +355068,7 @@
         "company_name": "Intel",
         "id": "fbbaa89d-fca9-49aa-9d4a-14d71883ea4a",
         "title": "Silicon Hardware Engineering Intern - Graduate",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027",
             "Summer 2027"
@@ -357058,7 +357010,7 @@
         "company_name": "Micron Technology",
         "id": "f03e18cd-43a7-42fb-95e7-609dd0d670d8",
         "title": "Advanced DRAM Cell & Device Technology Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -376605,7 +376557,7 @@
         "company_name": "InfiniteQuant",
         "id": "bc1ac794-99ab-4455-8429-f33091dc70b1",
         "title": "Quantitative Researcher Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -376630,7 +376582,7 @@
         "company_name": "InfiniteQuant",
         "id": "cebe2404-0f14-43f7-a80e-93b201cd0441",
         "title": "Quantitative Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -378582,6 +378534,174 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Apple",
+        "id": "4bcd5c66-dd7f-4827-9604-aaf0042ab85a",
+        "title": "GPU Intern - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Fall 2026",
+            "Winter 2026",
+            "Spring 2027",
+            "Summer 2027"
+        ],
+        "date_updated": 1788877257,
+        "date_posted": 1788876650,
+        "url": "https://jobs.apple.com/en-us/details/200682357",
+        "locations": [
+            "London, UK",
+            "Cambridge, UK",
+            "St Albans, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "BJC HealthCare",
+        "id": "0d841cc8-6e91-43dd-8425-aeaf1e9aeb1f",
+        "title": "RPA Automation Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1788877229,
+        "date_posted": 1788876581,
+        "url": "https://jobs.bjc.org/jobs/116509?icims=1",
+        "locations": [
+            "St. Louis, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/BJC-HealthCare",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "ID.me",
+        "id": "4dd3e095-652b-420e-ac75-fd7089db30f1",
+        "title": "Associate Product Manager New Grad",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1788877211,
+        "date_posted": 1788876624,
+        "url": "https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7986694003",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/IDme",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "ID.me",
+        "id": "1dbaaa95-dacf-4709-a836-79579d54610e",
+        "title": "Product Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1788877204,
+        "date_posted": 1788876629,
+        "url": "https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7986695003",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/IDme",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "United Launch Alliance",
+        "id": "e6dbbc55-6f12-4929-aae1-6c7b7e14a24b",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1788877199,
+        "date_posted": 1788876571,
+        "url": "https://jobs.ulalaunch.com/job/Centennial-Software-Engineering-Internship-Summer-2027-CO-80112/1427398300/?ats=successfactors",
+        "locations": [
+            "Centennial, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/United-Launch-Alliance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "RRS Group",
+        "id": "3ac62200-3982-43c3-aff6-564b774138d0",
+        "title": "Data Engineering Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1788876723,
+        "date_posted": 1788876318,
+        "url": "https://jobs.smartrecruiters.com/RRSGroup/744000148188340",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/RRS-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "M3USA",
+        "id": "f399fec7-04c5-4420-adfe-5cdef6866b8a",
+        "title": "AI Engineering Intern",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1788876362,
+        "date_posted": 1788876321,
+        "url": "https://jobs.smartrecruiters.com/M3USA/744000148244649",
+        "locations": [
+            "Fort Washington, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/M3USA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
