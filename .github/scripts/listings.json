@@ -313109,7 +313109,7 @@
         "company_name": "Suncor",
         "id": "e11d6b76-ac03-48af-b34e-a9c1933babfc",
         "title": "Data Science Student",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
