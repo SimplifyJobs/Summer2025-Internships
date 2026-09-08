@@ -252938,7 +252938,7 @@
         "company_name": "Intel",
         "id": "438a49bd-1732-4815-b2b2-e048f205949f",
         "title": "AI Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -373491,7 +373491,7 @@
         "company_name": "PayPal",
         "id": "30829caf-2d43-4e4c-aeb6-aa37a19f224b",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
