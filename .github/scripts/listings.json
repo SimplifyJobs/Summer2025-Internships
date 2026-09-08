@@ -311446,7 +311446,7 @@
         "company_name": "Goldman Sachs",
         "id": "629fac72-4880-42e9-b648-cdfa036a00ac",
         "title": "Summer Associate Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -317465,7 +317465,7 @@
         "company_name": "NVIDIA",
         "id": "3affcaac-d7f9-45d1-8139-19defc762e13",
         "title": "Deep Learning Computer Architecture Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -319238,7 +319238,7 @@
         "company_name": "Goldman Sachs",
         "id": "de048c9f-8cf0-45fe-b307-40b9a04a9416",
         "title": "Summer Analyst Intern - Americas - AWM Product Management",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -319373,7 +319373,7 @@
         "company_name": "thyssenkrupp",
         "id": "bbda7e7c-7de0-4db9-91d9-c5964f94704a",
         "title": "Sustainability Systems Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -333095,7 +333095,7 @@
         "company_name": "Leidos",
         "id": "49e6ace2-42ca-46a7-81f9-59a39844f75f",
         "title": "Computer Engineering Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027",
             "Summer 2027"
@@ -334686,7 +334686,7 @@
         "company_name": "Brunswick",
         "id": "596095d8-4722-4847-8780-041d4934008f",
         "title": "Engineering Validation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -356449,7 +356449,7 @@
         "company_name": "Amgen",
         "id": "3b323906-0f7b-4f16-ad94-c2ca7c17d499",
         "title": "Business Analyst Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
@@ -357416,7 +357416,7 @@
         "company_name": "Copart",
         "id": "3975a833-570a-4c3b-bbe6-af2ed466f0f7",
         "title": "Software Engineer Intern - JavaScript/Frontend Developer",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -367420,7 +367420,7 @@
         "company_name": "Goldman Sachs",
         "id": "60f69f38-4cc3-4dbd-a041-e8208a00725c",
         "title": "Summer Analyst Intern - The Core Quantitative Strats",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -367441,7 +367441,7 @@
         "company_name": "Goldman Sachs",
         "id": "5a49d74c-fa9f-4dd4-a66b-24fc3d9c1def",
         "title": "Summer Analyst Intern - Americas - Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -367555,7 +367555,7 @@
         "company_name": "Goldman Sachs",
         "id": "765bb91e-34d7-4746-8e11-8598e700e845",
         "title": "Quantitative Strategist Intern - Americas - The Core Quantitative Strats",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -367578,7 +367578,7 @@
         "company_name": "Goldman Sachs",
         "id": "5bdec003-2a02-42a4-a602-467541840552",
         "title": "Summer Analyst Intern - Americas - Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -367719,7 +367719,7 @@
         "company_name": "Goldman Sachs",
         "id": "792220f4-3ba1-4cf8-843e-e23208ba8d24",
         "title": "Summer Analyst Intern - Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -371600,7 +371600,7 @@
         "company_name": "RTX",
         "id": "4871fff1-8cd6-4f52-8e7e-00e136877c80",
         "title": "Proactive Engine Performance Monitoring Intern - Proactive DPHM",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -373749,7 +373749,7 @@
         "company_name": "Zipline",
         "id": "b4226799-e9a0-4472-bb83-fd8e4c46a84f",
         "title": "Aircraft Software Integration Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2027"
         ],
@@ -378485,6 +378485,29 @@
             "Columbus, OH"
         ],
         "company_url": "https://simplify.jobs/c/Nationwide",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Airbus",
+        "id": "4dc86313-ac1f-4d5e-a766-6c8629caffcf",
+        "title": "Satellite Digital Systems",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1788863276,
+        "date_posted": 1788739200,
+        "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Stevenage/Satellite-Digital-Systems-Placement--12-months-_JR10426316",
+        "locations": [
+            "Stevenage, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Airbus",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
