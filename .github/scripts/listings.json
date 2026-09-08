@@ -318921,7 +318921,7 @@
         "company_name": "Abundant",
         "id": "ce6bb4b3-0f2f-4eb0-b490-e518ef1dba06",
         "title": "Member of Technical Staff Intern - Research",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -334076,7 +334076,7 @@
         "company_name": "AnaVation",
         "id": "d50e0c94-1355-4bbe-a720-1a1937f238f7",
         "title": "Computer Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -361286,7 +361286,7 @@
         "company_name": "TSC",
         "id": "e7e0f5e2-d3cf-4079-a788-9c21963d93ee",
         "title": "Robotics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
