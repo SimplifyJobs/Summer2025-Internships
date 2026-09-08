@@ -294969,7 +294969,7 @@
         "company_name": "Microsoft",
         "id": "9fe00265-7716-44f9-bc43-1017aa863220",
         "title": "Software Engineer Intern - CoreAI",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -324916,7 +324916,7 @@
         "company_name": "InfiniteQuant",
         "id": "d55a832d-489f-468a-8688-f419fb8b1b38",
         "title": "Quantitative Developer Internship - Summer 2027",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -327999,7 +327999,7 @@
         "company_name": "InfiniteQuant",
         "id": "925fd340-08ca-444f-ab27-237fdfe56b27",
         "title": "Quantitative Researcher Intern - Summer 2027",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -351261,7 +351261,7 @@
         "company_name": "Michelin",
         "id": "23d6cc2e-855b-4458-a689-002cda7f4705",
         "title": "Data Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -352647,7 +352647,7 @@
         "company_name": "Berkshire Grey",
         "id": "8f1fa8ec-4211-47c4-979a-817136da7e97",
         "title": "Hardware Quality Co-op - Verification & Validation",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2027"
         ],
@@ -376605,7 +376605,7 @@
         "company_name": "InfiniteQuant",
         "id": "bc1ac794-99ab-4455-8429-f33091dc70b1",
         "title": "Quantitative Researcher Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -376630,7 +376630,7 @@
         "company_name": "InfiniteQuant",
         "id": "cebe2404-0f14-43f7-a80e-93b201cd0441",
         "title": "Quantitative Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -378149,6 +378149,52 @@
             "Chicago, IL"
         ],
         "company_url": "https://simplify.jobs/c/United-Airlines",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Marvell",
+        "id": "185a7671-20a9-4d9b-b2d1-54fcd0ec81d1",
+        "title": "Reliability Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1788858986,
+        "date_posted": 1788566400,
+        "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Reliability-Intern_2604001",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Marvell",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "GE Appliances",
+        "id": "1e3d3a80-84e2-4576-8274-bb56e5167f47",
+        "title": "Electrical Engineer Co-op",
+        "active": true,
+        "terms": [
+            "Spring 2027"
+        ],
+        "date_updated": 1788859479,
+        "date_posted": 1782561268,
+        "url": "https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-Louisville-KY/Electrical-Engineering-Co-op-Spring-2027_REQ-24834",
+        "locations": [
+            "Louisville, KY"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Appliances",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
