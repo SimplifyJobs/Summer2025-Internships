@@ -284708,7 +284708,7 @@
         "company_name": "Tenstorrent",
         "id": "3084c516-85ae-493d-a322-241adba5a8ed",
         "title": "Software Engineer Intern - Power Modeling & AI Tools",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Summer 2026",
@@ -290512,7 +290512,7 @@
         "company_name": "PSECU",
         "id": "c798be75-f002-4735-ae90-3a77727b897e",
         "title": "Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -360572,7 +360572,7 @@
         "company_name": "Toyota Research Institute",
         "id": "e5f8a85e-932c-4e67-b965-44c9946b5a23",
         "title": "Robotics Research Intern - Post-Training",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -365362,7 +365362,7 @@
         "company_name": "Red Bull",
         "id": "6c1b495d-c993-4a1e-80fc-bb8b295e7c8b",
         "title": "Academy Scouting Intern - Academy Scout",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -365385,7 +365385,7 @@
         "company_name": "Marquee Brands",
         "id": "cc58fac9-b0fa-47d6-8d76-5a9b5e373147",
         "title": "Consumer Insights Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
