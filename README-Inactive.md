@@ -6,7 +6,7 @@
 
 ---
 
-### Browse 592 Inactive Internship Roles by Category
+### Browse 597 Inactive Internship Roles by Category
 
 💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (191)
 
@@ -14,9 +14,9 @@
 
 🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (178)
 
-📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-quantitative-finance-internship-roles-inactive)** (117)
+📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-quantitative-finance-internship-roles-inactive)** (121)
 
-🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-hardware-engineering-internship-roles-inactive)** (78)
+🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-hardware-engineering-internship-roles-inactive)** (79)
 
 ---
 
@@ -3127,6 +3127,13 @@
 </tr>
 <tr>
 <td>↳</td>
+<td>Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats</td>
+<td>London, UK</td>
+<td>🔒</td>
+<td>24d</td>
+</tr>
+<tr>
+<td>↳</td>
 <td>Quantitative Strategist Intern - Multiple Teams</td>
 <td>London, UK</td>
 <td>🔒</td>
@@ -3143,6 +3150,13 @@
 <td>↳</td>
 <td>Summer Analyst Intern</td>
 <td>NYC</td>
+<td>🔒</td>
+<td>24d</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Quantitative Strats Analyst Intern - Americas - Investment Banking</td>
+<td>Dallas, TX</td>
 <td>🔒</td>
 <td>24d</td>
 </tr>
@@ -3183,7 +3197,21 @@
 </tr>
 <tr>
 <td>↳</td>
+<td>Quantitative Strategist Intern - Americas - The Core Quantitative Strats</td>
+<td>Salt Lake City, UT</td>
+<td>🔒</td>
+<td>24d</td>
+</tr>
+<tr>
+<td>↳</td>
 <td>Summer Analyst Intern - FICC & Equities - Sales & Trading</td>
+<td>London, UK</td>
+<td>🔒</td>
+<td>24d</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Quantitative Strategist Associate Intern - The Core Quantitative Strats 🎓</td>
 <td>London, UK</td>
 <td>🔒</td>
 <td>24d</td>
@@ -3780,6 +3808,13 @@
 <td><strong><a href="https://simplify.jobs/c/Boston-Scientific?utm_source=GHList&utm_medium=company">Boston Scientific</a></strong></td>
 <td>R&D Hardware Engineer Intern - Interns/Graduates</td>
 <td>Arden Hills, MN</td>
+<td>🔒</td>
+<td>6d</td>
+</tr>
+<tr>
+<td>🔥 <strong><a href="https://simplify.jobs/c/Intel?utm_source=GHList&utm_medium=company">Intel</a></strong></td>
+<td>Platform Hardware and Systems Engineering Intern - Bachelor's</td>
+<td><details><summary><strong>5 locations</strong></summary>Austin, TX<br>Santa Clara, CA<br>Hillsboro, OR<br>Folsom, CA<br>Phoenix, AZ</details></td>
 <td>🔒</td>
 <td>6d</td>
 </tr>
