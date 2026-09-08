@@ -289050,7 +289050,7 @@
         "company_name": "RapDev",
         "id": "1fd1fcc8-fade-4579-a322-2bc276d73ca7",
         "title": "ServiceNow Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -346302,7 +346302,7 @@
         "company_name": "General Motors",
         "id": "3c4d2405-fb79-4cb1-9bfa-63018d8026b3",
         "title": "Mechatronic Infrastructure Diagnostic Systems Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -355408,7 +355408,7 @@
         "company_name": "RTX",
         "id": "3d0e1910-9334-4bac-8624-3ab24c74aee6",
         "title": "Software Engineer Co-op - Summer/Fall 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027",
             "Fall 2027"
@@ -369624,7 +369624,7 @@
         "company_name": "DRW",
         "id": "800d88a6-9478-48b0-a57a-3ee1a1c93228",
         "title": "Trade Support Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
