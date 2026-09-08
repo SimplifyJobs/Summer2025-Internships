@@ -353899,7 +353899,7 @@
         "company_name": "RTX",
         "id": "d6adfc0f-f025-42f9-9f5b-0a52306e7501",
         "title": "Software Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Spring 2027"
@@ -382430,6 +382430,30 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Schonfeld",
+        "id": "ef2721e7-d76b-48da-a16f-bbc0ef2757aa",
+        "title": "Quantitative Researcher Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1788908456,
+        "date_posted": 1788908336,
+        "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8187178",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Schonfeld",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
         ]
     }
 ]
