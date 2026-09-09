@@ -321148,7 +321148,7 @@
         "company_name": "RTX",
         "id": "4c51462d-b2c3-4a43-8b72-30b1c98fdf33",
         "title": "Digital Support & Business Intelligence Intern - Computer Science",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -346151,7 +346151,7 @@
         "company_name": "University of Arkansas",
         "id": "b218bf15-2003-4ac5-96ea-f112ba777c56",
         "title": "Razorback Analytic Fellow",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -352710,7 +352710,7 @@
         "company_name": "Manulife Financial",
         "id": "4f3e401c-7208-4d5f-9349-638b02652ffa",
         "title": "Reporting Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -381695,7 +381695,7 @@
         "company_name": "Interstates",
         "id": "a7affbd0-b700-4e3d-9af7-9bfcd32733a3",
         "title": "Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
