@@ -285328,7 +285328,7 @@
         "company_name": "Later",
         "id": "230714a7-6047-4f24-882a-5616896d2794",
         "title": "Data/Analytics Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -287617,7 +287617,7 @@
         "company_name": "Virtu Financial",
         "id": "d8419553-b116-44e9-8ec0-d1ae843c6512",
         "title": "Frontend Developer Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
