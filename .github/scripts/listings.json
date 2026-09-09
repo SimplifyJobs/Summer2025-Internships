@@ -2,73 +2,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Sun Life",
-        "id": "0678fc40-8696-421d-821c-39eadb9ccb53",
-        "title": "Student Data Governance Analyst - Data Governance",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1768184322,
-        "date_posted": 1768184322,
-        "url": "https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Toronto-Ontario/Student--Data-Governance-Analyst--Summer-2026-_JR00117800",
-        "locations": [
-            "Toronto, ON, Canada",
-            "Kitchener, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Sun-Life",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Warner Bros.",
-        "id": "ca0b33b4-9f0d-4ac0-a3bf-8e8614e475da",
-        "title": "Insights & Analytics Placement Internships",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1768183856,
-        "date_posted": 1768183856,
-        "url": "https://warnerbros.wd5.myworkdayjobs.com/global/job/London-160-Old-Street/Insights---Analytics-Placement-Internships_R000101847",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Warner-Bros",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Definity Financial",
-        "id": "82cae332-afd7-49bd-a010-167c3d6b42fd",
-        "title": "Analyst \u2013 Summer 2026 Co-op - Product & Underwriting - Personal Insurance",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1768183703,
-        "date_posted": 1768183703,
-        "url": "https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8831",
-        "locations": [
-            "Toronto, ON, Canada",
-            "Kitchener, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Definity-Financial",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Arrowhead Pharmaceuticals",
         "id": "ca60233b-1294-43d4-9526-1eb42bc14456",
         "title": "Intern - Digital Workplace AI",
@@ -6510,29 +6443,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Sun Life",
-        "id": "44d2d459-f10b-4c7f-9947-25fa3bcc2b2a",
-        "title": "Student Developer - Digital Finance Transformation",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1768184329,
-        "date_posted": 1768184329,
-        "url": "https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Toronto-Ontario/Student--Developer--Digital-Finance-Transformation--Summer-2026-_JR00118495",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Sun-Life",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
     },
     {
         "source": "Simplify",
@@ -361621,7 +361531,7 @@
         "company_name": "Marvell",
         "id": "ffed4c0e-ef20-4b01-b9fd-db56428a85d5",
         "title": "Analog Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
