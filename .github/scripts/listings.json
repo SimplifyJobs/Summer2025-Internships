@@ -316526,7 +316526,7 @@
         "company_name": "NVIDIA",
         "id": "26db23e0-d70f-49b8-ab98-f6c54330d92b",
         "title": "Hardware Physical Design / VLSI Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -321489,7 +321489,7 @@
         "company_name": "Brunswick",
         "id": "c4bfe952-8e9a-4599-966c-127295b128ad",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -331062,7 +331062,7 @@
         "company_name": "Alberta Investment Management Corporation",
         "id": "26dd4c1c-9a56-441c-8796-514ac7b5dcc4",
         "title": "Data Governance Student",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -340787,7 +340787,7 @@
         "company_name": "RTX",
         "id": "b6296fe8-f9f1-44dd-94f1-590c275ba224",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -355586,7 +355586,7 @@
         "company_name": "Amgen",
         "id": "3b323906-0f7b-4f16-ad94-c2ca7c17d499",
         "title": "Business Analyst Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
@@ -371575,7 +371575,7 @@
         "company_name": "Marvell",
         "id": "54dcd1fc-97a6-477a-a5c4-fd602806eaf1",
         "title": "Firmware Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027",
             "Fall 2027",
@@ -374095,7 +374095,7 @@
         "company_name": "Airbus",
         "id": "c22bc27e-38ff-437b-89e0-136cb456c08a",
         "title": "Landing Gear Engineering AI & Data Analytics Placement",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -377634,7 +377634,7 @@
         "company_name": "Airbus",
         "id": "4dc86313-ac1f-4d5e-a766-6c8629caffcf",
         "title": "Satellite Digital Systems",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -382682,6 +382682,52 @@
             "Columbus, OH"
         ],
         "company_url": "https://simplify.jobs/c/NiSource",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Hewlett Packard",
+        "id": "3724b7cc-4130-4342-8c6b-9df8f51c6e78",
+        "title": "Business Intelligence and Infrastructure Analyst Intern",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1788957573,
+        "date_posted": 1788739200,
+        "url": "https://hp.wd5.myworkdayjobs.com/externalcareersite/job/Vancouver-Washington-United-States-of-America/Business-Intelligence-and-Infrastructure-Analysts--Intern_UNI4669-1",
+        "locations": [
+            "Vancouver, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Hewlett Packard",
+        "id": "bd38d152-e148-4279-8cb3-65b6b9aa6637",
+        "title": "Business Intelligence and Infrastructure Analyst Intern",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1788957042,
+        "date_posted": 1788739200,
+        "url": "https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Vancouver-Washington-United-States-of-America/Business-Intelligence-and-Infrastructure-Analysts--Intern_UNI4669",
+        "locations": [
+            "Vancouver, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
