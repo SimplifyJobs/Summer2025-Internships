@@ -370096,7 +370096,7 @@
         "company_name": "Citi",
         "id": "a1778bdd-fefe-4dec-b4f4-9b9811e1f239",
         "title": "Quantitative Risk Management Summer Analyst Intern - Functions",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -382901,5 +382901,26 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "K2 Space",
+        "id": "20b0f4b1-dafa-4b0c-bebe-41e1e3676175",
+        "title": "Simulation Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1788935961,
+        "date_posted": 1788935810,
+        "url": "https://job-boards.greenhouse.io/k2spacecorporation/jobs/5418727008",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/K2-Space",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
