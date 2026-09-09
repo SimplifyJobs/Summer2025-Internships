@@ -358777,7 +358777,7 @@
         "company_name": "Hendrick Motorsports",
         "id": "a35d2ba1-466d-4ac1-9fa6-940f683c64b0",
         "title": "Electrical Engineer Intern - Unmanned Vehicles - UXVs",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -365049,7 +365049,7 @@
         "company_name": "Shawbrook",
         "id": "7381d9f4-f8b7-43ea-a761-dc7a6ea7679e",
         "title": "Risk Analyst Apprentice - Risk Analytics and Decision Science",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -377485,7 +377485,7 @@
         "company_name": "Dick's Sporting Goods",
         "id": "b3bc4c87-0bb5-4127-a2de-463445ff1e29",
         "title": "Data Analytics & Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
