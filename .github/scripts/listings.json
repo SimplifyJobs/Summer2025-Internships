@@ -367455,7 +367455,7 @@
         "company_name": "Sunbird Software",
         "id": "972cd555-e10c-4357-929d-a4829145ed7b",
         "title": "DCIM Technical Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -383812,6 +383812,233 @@
             "Vienna, VA"
         ],
         "company_url": "https://simplify.jobs/c/Navy-Federal",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Pomerleau",
+        "id": "aed38d9f-616d-4a6a-9e72-430249c9a2be",
+        "title": "AI Product Analyst Intern",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1788967496,
+        "date_posted": 1788967395,
+        "url": "https://pomerleau.avature.net/en_US/Jobs/JobDetail/3620",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Pomerleau",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Zions Bank",
+        "id": "a8f74022-e7f9-431a-a969-0b7d525a735c",
+        "title": "Quantitative Modeling Analyst Intern - Corporate Quantitative Analytics",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1788967471,
+        "date_posted": 1788967271,
+        "url": "https://zionsbancorp.taleo.net/careersection/joinexternalmobile/jobdetail.ftl?job=071620",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Zions-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Pomerleau",
+        "id": "831e3b5f-e77f-4237-8a89-6d6a6f1b3643",
+        "title": "Software Developer Intern",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1788967476,
+        "date_posted": 1788967395,
+        "url": "https://pomerleau.avature.net/en_US/Jobs/JobDetail/3476",
+        "locations": [
+            "Montreal, QC, Canada",
+            "Laval, QC, Canada",
+            "Longueuil, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Pomerleau",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Pomerleau",
+        "id": "3c2cdff3-52f8-4549-bc68-2ca61fc61b9b",
+        "title": "Forward Deployed AI Solutions Intern",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1788967476,
+        "date_posted": 1788967394,
+        "url": "https://pomerleau.avature.net/en_US/Jobs/JobDetail/3619",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Pomerleau",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Fervo Energy",
+        "id": "cf492442-c433-4d16-92c0-de54db2f3c90",
+        "title": "Seismology Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1788966362,
+        "date_posted": 1788931763,
+        "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4488075",
+        "locations": [
+            "Houston, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Fervo-Energy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Amentum",
+        "id": "4a009563-7222-4cb3-b58d-930cdc0c5a55",
+        "title": "Software Programmer Intern",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1788966362,
+        "date_posted": 1788912000,
+        "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-TN-Tullahoma/Software-Programmer-Intern_R0169775",
+        "locations": [
+            "Tullahoma, TN"
+        ],
+        "company_url": "https://simplify.jobs/c/Amentum",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Amentum",
+        "id": "02534a25-59a8-4b77-8837-adb01da24e8d",
+        "title": "Software Programmer Intern",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1788966362,
+        "date_posted": 1788912000,
+        "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-MI-Detroit/Software-Programmer-Intern_R0169773",
+        "locations": [
+            "Detroit, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Amentum",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Ascension",
+        "id": "62576249-c677-47a6-ac06-9e631007cd2a",
+        "title": "Software Engineer Intern - Studio Engineering Product Delivery",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1788966254,
+        "date_posted": 1788966130,
+        "url": "https://jobs.ascension.org/us/en/job/462970",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Ascension",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Auto-Owners Insurance",
+        "id": "ecfcd54c-d907-4dac-8649-56d9a8f24394",
+        "title": "IT Document Automation Developer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1788966051,
+        "date_posted": 1788912000,
+        "url": "https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/IT-Document-Automation-Developer-Internship---Summer-2027_R_14471",
+        "locations": [
+            "Lansing, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Auto-Owners-Insurance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Auto-Owners Insurance",
+        "id": "30f6a8d2-2959-422e-977f-26acdf02c387",
+        "title": "Intelligent Automation Developer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1788966064,
+        "date_posted": 1788912000,
+        "url": "https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Intelligent-Automation-Developer-Internship---Summer-2027_R_14474",
+        "locations": [
+            "Lansing, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Auto-Owners-Insurance",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
