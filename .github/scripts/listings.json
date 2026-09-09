@@ -1,29 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Woven",
-        "id": "04ba6b12-1c6a-4940-822e-3e83a4b81d90",
-        "title": "Software Engineering Intern - Data Search",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1768178595,
-        "date_posted": 1768178595,
-        "url": "https://jobs.lever.co/woven-by-toyota/2bf660e9-2218-4aff-b2dc-ad45a9f134e7/apply",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Woven-Planet",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "NVIDIA",
         "id": "4b68494d-c386-4ad6-a4c3-d1fc3fbc78d0",
@@ -205,96 +182,6 @@
             "Vancouver, BC, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Mastercard",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Veeva Systems",
-        "id": "953b3a18-4e7e-4d20-99f9-cb3fd5c7d56f",
-        "title": "Intern Software Engineer - Summer 2026",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1768179059,
-        "date_posted": 1768179059,
-        "url": "https://jobs.lever.co/veeva/4df9c2ca-d702-4d41-af82-290deff66564/apply",
-        "locations": [
-            "Pleasanton, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Veeva-Systems",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "General Dynamics UK",
-        "id": "5a654ff9-e4b5-4703-9757-9108befcc945",
-        "title": "Co-op Intern - Software Engineer",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1768178267,
-        "date_posted": 1768178267,
-        "url": "https://jobs.smartrecruiters.com/GDMSI/744000102720543",
-        "locations": [
-            "Ottawa, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/General-Dynamics-UK",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Ciena",
-        "id": "4b4baf97-471c-4ce0-a022-b534198333fc",
-        "title": "Electrical/Optical Test and Automation Engineer Co-op - 8 month - May 2026",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1768178333,
-        "date_posted": 1768178333,
-        "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Electrical-Optical-Test-and-Automation-Engineer-Co-op--8-month---May-2026-_R029724",
-        "locations": [
-            "Ottawa, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Ciena",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "General Dynamics UK",
-        "id": "124e62e4-6260-4dd0-ae14-a3a4fb6ffa6e",
-        "title": "Co-op Intern - Software Engineer",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1768178269,
-        "date_posted": 1768178269,
-        "url": "https://jobs.smartrecruiters.com/GDMSI/744000102723245",
-        "locations": [
-            "Calgary, AB, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/General-Dynamics-UK",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
@@ -5902,29 +5789,6 @@
         "degrees": [
             "Bachelor's",
             "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "AbbVie",
-        "id": "8c1ca538-1ea8-470e-94b2-a06bec13dbbc",
-        "title": "2026 Business Technology Solutions Extern",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1768179395,
-        "date_posted": 1768179395,
-        "url": "https://jobs.smartrecruiters.com/AbbVie/3743990010808539",
-        "locations": [
-            "Vernon Hills, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/AbbVie",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -17994,30 +17858,6 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Woven",
-        "id": "3c39fdd6-5148-44f2-bf89-51b6e7d5a0b0",
-        "title": "Software Engineer \u2013 Internship - Tooling",
-        "active": false,
-        "terms": [
-            "Winter 2026"
-        ],
-        "date_updated": 1769076864,
-        "date_posted": 1768178615,
-        "url": "https://jobs.lever.co/woven-by-toyota/2146e4cc-76bb-4f6f-a26f-d9838ae20653/apply",
-        "locations": [
-            "Ann Arbor, MI"
-        ],
-        "company_url": "https://simplify.jobs/c/Woven-Planet",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
         ]
     },
     {
@@ -375773,7 +375613,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "c17a22a0-2149-430c-8981-371cf35b9426",
         "title": "Developer - Amplify",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
