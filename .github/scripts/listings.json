@@ -310140,7 +310140,7 @@
         "company_name": "Epia Neuro",
         "id": "12e327b7-5cf4-4218-a9c8-d367012a7526",
         "title": "Hardware Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -361531,7 +361531,7 @@
         "company_name": "Marvell",
         "id": "ffed4c0e-ef20-4b01-b9fd-db56428a85d5",
         "title": "Analog Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
