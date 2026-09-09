@@ -276389,7 +276389,7 @@
         "company_name": "CuspAI",
         "id": "6b1b10ea-f6d5-4ef2-893e-11b5c623b352",
         "title": "Chemistry Intern - MLFF Distillation & GCMC Integration",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -304683,7 +304683,7 @@
         "company_name": "ByteDance",
         "id": "e670d442-7188-4ebf-a019-6706835ae548",
         "title": "Agent Evaluation & Evolution Machine Learning Engineer Intern - Applied Machine Learning Ark",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -307551,7 +307551,7 @@
         "company_name": "InfiniteQuant",
         "id": "d15c2dd4-7288-4110-bf59-550c753167ab",
         "title": "Quantitative Developer Intern - Summer 2027",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -310653,7 +310653,7 @@
         "company_name": "Goldman Sachs",
         "id": "bc2e9762-a592-48ef-9e42-21dfdec88ec4",
         "title": "Quantitative Strategist Associate Intern - Asset and Wealth Management",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -331414,7 +331414,7 @@
         "company_name": "Goldman Sachs",
         "id": "bec41fe0-ae4c-44d3-bddd-15ca4a245c18",
         "title": "Summer Associate Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -354664,7 +354664,7 @@
         "company_name": "Stryker",
         "id": "61029f11-ef86-4f8a-bf15-92d10b7cf4dc",
         "title": "Electrical Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -355468,7 +355468,7 @@
         "company_name": "Magna",
         "id": "604dd172-892e-44a4-b56d-bb1dd2f776c3",
         "title": "Software Engineer Intern - Engineering Software",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -368760,7 +368760,7 @@
         "company_name": "AQR Capital Management",
         "id": "da858cff-a5e2-4d14-802a-be39fa5cf5c0",
         "title": "Portfolio Solutions Group Summer Analyst Intern - Portfolio Solutions Group",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -369812,7 +369812,7 @@
         "company_name": "Citi",
         "id": "6dc73acd-b55b-41dd-8103-a79c586a597a",
         "title": "Quantitative Risk Management Summer Analyst Intern - Functions",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -372816,7 +372816,7 @@
         "company_name": "Allied Solutions",
         "id": "92416bd1-1305-45ff-8558-9427fd6cc2bb",
         "title": "Sales Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -375788,7 +375788,7 @@
         "company_name": "InfiniteQuant",
         "id": "cebe2404-0f14-43f7-a80e-93b201cd0441",
         "title": "Quantitative Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -377365,7 +377365,7 @@
         "company_name": "RTX",
         "id": "9e5585e8-3db5-4e95-8509-57e16ce4b0e3",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
