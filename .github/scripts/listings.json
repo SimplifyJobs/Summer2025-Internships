@@ -382613,5 +382613,172 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Gallup",
+        "id": "ad3bdd89-905d-467f-a04f-55d5e7b18954",
+        "title": "Data Science Intern - Summer 2027",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1788918861,
+        "date_posted": 1788918775,
+        "url": "https://job-boards.greenhouse.io/gallup/jobs/4395491009",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Gallup",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Gallup",
+        "id": "8803001e-f0a9-470c-aabe-54792dc5ae04",
+        "title": "Fintech Intern - Summer 2027",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1788918861,
+        "date_posted": 1788918775,
+        "url": "https://job-boards.greenhouse.io/gallup/jobs/4393289009",
+        "locations": [
+            "Omaha, NE"
+        ],
+        "company_url": "https://simplify.jobs/c/Gallup",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Gallup",
+        "id": "6ec4dc7c-08c6-44e6-9c5b-c979a4e6c33c",
+        "title": "Artificial Intelligence/Machine Learning Research Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1788918883,
+        "date_posted": 1788918773,
+        "url": "https://job-boards.greenhouse.io/gallup/jobs/4395921009",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Gallup",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Gallup",
+        "id": "554ed556-de9e-4fdd-9011-1d52a9228cf0",
+        "title": "Software Engineer Intern - Summer 2027",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1788918861,
+        "date_posted": 1788918776,
+        "url": "https://job-boards.greenhouse.io/gallup/jobs/4395897009",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Gallup",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Gallup",
+        "id": "35f89fc9-30ca-497a-a6a0-ed005cf0e2af",
+        "title": "Data Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1788918861,
+        "date_posted": 1788918774,
+        "url": "https://job-boards.greenhouse.io/gallup/jobs/4395454009",
+        "locations": [
+            "Omaha, NE"
+        ],
+        "company_url": "https://simplify.jobs/c/Gallup",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Allen Control Systems",
+        "id": "a5ff80d4-465e-4791-95fa-4e3daa029541",
+        "title": "Systems Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1788917601,
+        "date_posted": 1788917355,
+        "url": "https://jobs.ashbyhq.com/allen-control-systems/9945f76d-6d03-45f0-b431-fc69d31f5476/application?embed=true",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Allen-Control-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Intact",
+        "id": "1bbe07ad-f4ee-48a8-945f-7c0c84ffde75",
+        "title": "Data Analyst Intern Co-op - Winter 2027",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1788917491,
+        "date_posted": 1788825600,
+        "url": "https://intactfc.wd3.myworkdayjobs.com/en-US/intactfc/job/Montral-Quebec-CAN/Data-Analyst-I---4-Month-Internship-Coop--Winter-2027--_R155138",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Intact",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
