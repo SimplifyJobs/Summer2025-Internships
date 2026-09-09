@@ -1,121 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "TD Bank",
-        "id": "a593215e-a92b-4278-b591-669679e48837",
-        "title": "Colleague Readiness & Communications \u2013 Product Analyst Intern/Co-op - Summer 2026",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1768235647,
-        "date_posted": 1768235647,
-        "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Colleague-Readiness---Communications---Product-Analyst-Co-op-Intern--SUMMER-2026-_R_1466103",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/TD-Bank",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Generate Biomedicines",
-        "id": "7543945d-a738-4fcd-b511-cebcdf0df2d3",
-        "title": "Machine Learning Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1768235656,
-        "date_posted": 1768235656,
-        "url": "https://generatebiomedicines.com/open-positions?gh_jid=4643136006",
-        "locations": [
-            "Cambridge, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/GenerateBiomedicines",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "U.S. Bank",
-        "id": "0d4b3fa2-e220-4d7b-a14a-49da9a6635dd",
-        "title": "2026 Product Management Summer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1768235719,
-        "date_posted": 1768235719,
-        "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Minneapolis-MN/XMLNAME-2026-Product-Management-Summer-Intern_2025-0030068",
-        "locations": [
-            "Minneapolis, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/US-Bank",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "GlobalFoundries",
-        "id": "72d1da6b-1dbe-41b4-861c-f859e371d194",
-        "title": "Software Engineering Intern - Cloud Platform",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1768235747,
-        "date_posted": 1768235747,
-        "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/Santa-Clara/Software-Engineering-Intern--Cloud-Platform--Summer-2026-_JR-2504800",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/GlobalFoundries",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Sezzle",
-        "id": "166d7d11-6c92-426f-aa0c-44b0b83b895d",
-        "title": "Product Intern - Quality & Feature Validation",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1768235704,
-        "date_posted": 1768235704,
-        "url": "https://job-boards.greenhouse.io/sezzle/jobs/7586520003",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Sezzle",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "LinkedIn",
         "id": "aafa7740-5a85-4214-bda2-806643f66707",
@@ -268176,7 +268061,7 @@
         "company_name": "Orennia",
         "id": "3f040704-5c6c-4d37-b7d2-019837f8b910",
         "title": "Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -350573,7 +350458,7 @@
         "company_name": "Steel Dynamics",
         "id": "afb93f48-440f-40ac-ad4c-0c537578cbff",
         "title": "Software Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -365431,7 +365316,7 @@
         "company_name": "Corteva",
         "id": "04fa737d-39fc-4d4c-a941-98752f72b8ec",
         "title": "Research and Development Intern - Computer and Data Science",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
