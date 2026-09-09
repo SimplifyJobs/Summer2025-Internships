@@ -315358,7 +315358,7 @@
         "company_name": "RTX",
         "id": "9591653b-a693-4b79-853f-dcd9a85971fd",
         "title": "Manufacturing & Quality Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -324175,7 +324175,7 @@
         "company_name": "Freddie Mac",
         "id": "f9295e59-0d52-4f80-8bcb-f16c1b4fc75d",
         "title": "Multifamily Software Development Intern - Summer 2027",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -371575,7 +371575,7 @@
         "company_name": "Marvell",
         "id": "54dcd1fc-97a6-477a-a5c4-fd602806eaf1",
         "title": "Firmware Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027",
             "Fall 2027",
@@ -377634,7 +377634,7 @@
         "company_name": "Airbus",
         "id": "4dc86313-ac1f-4d5e-a766-6c8629caffcf",
         "title": "Satellite Digital Systems",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
