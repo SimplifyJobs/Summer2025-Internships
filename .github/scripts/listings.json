@@ -198198,7 +198198,7 @@
         "company_name": "Tencent",
         "id": "ebfbd4aa-1575-4433-ae61-19d71eac1f5d",
         "title": "Game Research & Development Intern - Engine Research",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -250328,7 +250328,7 @@
         "company_name": "Evolver",
         "id": "2283b39a-bd55-4fc6-8bb7-6e3a6a999b59",
         "title": "Applied Data Science Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -267116,7 +267116,7 @@
         "company_name": "Tower Research Capital",
         "id": "f48a8b1a-b2ba-48ce-becd-612e1c0a2198",
         "title": "Quantitative Trader Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -312196,7 +312196,7 @@
         "company_name": "Hilton Worldwide",
         "id": "f585bde5-311b-4e38-b814-787eb3d19819",
         "title": "Corporate Summer Internship - Technology, Software Engineering and Cyber",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -312317,7 +312317,7 @@
         "company_name": "Capital One",
         "id": "bcf0ca2a-3b0d-408b-809c-b5ddf36b64e4",
         "title": "Full Stack Software Engineer Intern - Team Pickle",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -321004,7 +321004,7 @@
         "company_name": "LPL Financial Holdings",
         "id": "194afda8-ace4-46b3-b795-65651541bfd3",
         "title": "Data Analytics Intern - FAR Program",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -337749,7 +337749,7 @@
         "company_name": "Medline",
         "id": "f71509d5-e6a6-4016-a57d-e56cd20c0298",
         "title": "RPA & Agentic AI Software Technologies Intern - Summer 2027",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -345512,7 +345512,7 @@
         "company_name": "General Motors",
         "id": "3c4d2405-fb79-4cb1-9bfa-63018d8026b3",
         "title": "Mechatronic Infrastructure Diagnostic Systems Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
@@ -355937,7 +355937,7 @@
         "company_name": "Sensata",
         "id": "820195d1-965f-496e-8386-73082f4f9b42",
         "title": "Electrical Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -359757,7 +359757,7 @@
         "company_name": "Toyota Research Institute",
         "id": "e5f8a85e-932c-4e67-b965-44c9946b5a23",
         "title": "Robotics Research Intern - Post-Training",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -361434,7 +361434,7 @@
         "company_name": "Magna",
         "id": "a7beff09-b326-4679-a544-c614e04aa701",
         "title": "Robotics AI Algorithm Intern - Research and Development",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -380993,7 +380993,7 @@
         "company_name": "TJX",
         "id": "4685735f-a237-4659-9634-7269cc04f41c",
         "title": "Merchandise Operations Analyst Co-op Intern - Winter Term",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -383403,5 +383403,419 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Bank of Montreal",
+        "id": "33255c48-a961-49e1-841c-e4c4810ece51",
+        "title": "Hardware Asset Management Analyst Co-op Intern - 8 months",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1788965973,
+        "date_posted": 1788912000,
+        "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Hardware-Asset-Management-Analyst--Winter-2027--Co-op-Internship----8-months_R260026279-2",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/BMO",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Bank of Montreal",
+        "id": "32750662-1c75-4dc5-8f2d-9a04bcdc82fa",
+        "title": "Hardware Asset Management Analyst Co-op Intern - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1788965960,
+        "date_posted": 1788912000,
+        "url": "https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/Hardware-Asset-Management-Analyst--Winter-2027--Co-op-Internship----8-months_R260026279-3",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/BMO",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CAE",
+        "id": "673f25da-a007-4065-9bbc-3bb07080ba59",
+        "title": "Junior Data Analyst Intern",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1788965952,
+        "date_posted": 1788912000,
+        "url": "https://cae.wd3.myworkdayjobs.com/career/job/Halifax/XMLNAME----C-DS-902-Junior-Data-Analytics-Intern_123391",
+        "locations": [
+            "Halifax Regional Municipality, NS, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/CAE",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Leidos",
+        "id": "c6d54dd8-e714-4f4b-876c-4953542761fa",
+        "title": "Software Developer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1788965946,
+        "date_posted": 1788912000,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Annapolis-Junction-MD/Software-Developer-Intern_R-00191713",
+        "locations": [
+            "Annapolis Junction, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Verizon Communications",
+        "id": "a6556164-3a4b-4673-ac5d-c68da66d752d",
+        "title": "AI/ML Engineering Intern - Consumer Group",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1788965918,
+        "date_posted": 1788912000,
+        "url": "https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Basking-Ridge-New-Jersey/Verizon-Consumer-Group--AI-ML-Engineering-Summer-2027-Internship_R-1100605",
+        "locations": [
+            "Basking Ridge, Bernards, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/Verizon-Communications",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Royal Bank of Canada",
+        "id": "be407afd-9fb7-45bc-91ec-bbb50e925784",
+        "title": "Capital Markets Winter Analyst - AidenEdge Program",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1788965867,
+        "date_posted": 1788912000,
+        "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Capital-Markets--AidenEdge-Program-Winter-Analyst--4-Months-_R-0000187318",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Applied Materials",
+        "id": "441d92c8-bb63-49f4-94cb-afcd777fa84a",
+        "title": "Electrical Engineer Co-op",
+        "active": true,
+        "terms": [
+            "Spring 2027"
+        ],
+        "date_updated": 1788965843,
+        "date_posted": 1788912000,
+        "url": "https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2027-Spring-Electrical-Engineer-Co-op-BS-or-MS--Gloucester--MA-_R2628288-1",
+        "locations": [
+            "Gloucester, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Applied-Materials",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "CACI",
+        "id": "418c3798-31ed-4e61-ae84-88b7627eee40",
+        "title": "Software Engineer Intern - Summer 2027",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1788965783,
+        "date_posted": 1788912000,
+        "url": "https://caci.wd1.myworkdayjobs.com/external/job/Lisle-IL-US/Software-Engineering-Intern---Summer-2027_331742",
+        "locations": [
+            "Lisle, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/CACI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Marvell",
+        "id": "f110d4a7-32ed-49ae-a14e-357e17fe995a",
+        "title": "Test Solutions Engineering Intern - BS - Post-Silicon Hardware Validation",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1788965549,
+        "date_posted": 1788912000,
+        "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Burlington-VT/Test-Solutions-Engineering-Intern--BS---Summer-2027_2603835-1",
+        "locations": [
+            "Burlington, VT"
+        ],
+        "company_url": "https://simplify.jobs/c/Marvell",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Marvell",
+        "id": "e01c6336-8606-4375-b8f5-69be1e983e2f",
+        "title": "Test Solutions Engineering Intern - BS - Post-Silicon Hardware Validation",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1788965554,
+        "date_posted": 1788912000,
+        "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Burlington-VT/Test-Solutions-Engineering-Intern--BS---Summer-2027_2603835",
+        "locations": [
+            "Burlington, VT"
+        ],
+        "company_url": "https://simplify.jobs/c/Marvell",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Peraton",
+        "id": "53214376-dcb6-4b32-99dd-b69bd332ee7e",
+        "title": "Engineer Co-op",
+        "active": true,
+        "terms": [
+            "Spring 2027"
+        ],
+        "date_updated": 1788965375,
+        "date_posted": 1788965220,
+        "url": "https://careers-peraton.icims.com/jobs/170319/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Blacksburg, VA",
+            "Herndon, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Peraton",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Peraton",
+        "id": "a3c8fc71-5658-4914-be57-ce61c100da82",
+        "title": "Data Science Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1788965350,
+        "date_posted": 1788965220,
+        "url": "https://careers-peraton.icims.com/jobs/170320/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Blacksburg, VA",
+            "Herndon, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Peraton",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "GE Vernova",
+        "id": "e72e90f8-0dd1-4dc5-8357-93d6af0e6d5c",
+        "title": "Research & Innovation Intern",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1788964870,
+        "date_posted": 1788912000,
+        "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Stafford/Research---Innovation---Intern_R5052249",
+        "locations": [
+            "Stafford, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Vernova",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "GE Vernova",
+        "id": "f2ae7111-d087-4a82-b8fa-18fbe8b01901",
+        "title": "Energy Optimization Software Engineer Intern - Summer 2027",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1788964844,
+        "date_posted": 1788912000,
+        "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Bellevue/GE-Vernova---Energy-Optimization-Software-Engineer-Intern---Summer-2027_R5050015-2",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Vernova",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "GE Vernova",
+        "id": "50656933-26e4-497e-99e3-1114aaae5ed4",
+        "title": "Energy Optimization Software Engineer Intern - Summer 2027",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1788964839,
+        "date_posted": 1788912000,
+        "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Bellevue/GE-Vernova---Energy-Optimization-Software-Engineer-Intern---Summer-2027_R5050015-1",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Vernova",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "GE Vernova",
+        "id": "54be38d1-f36c-496c-9d3f-6ea5eec4fbf1",
+        "title": "Research & Innovation Intern",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1788964861,
+        "date_posted": 1788912000,
+        "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Stafford/Research---Innovation---Intern_R5052249-3",
+        "locations": [
+            "Stafford, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Vernova",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Navy Federal",
+        "id": "a58125b0-2c66-4d05-ad80-42c3a6df7526",
+        "title": "AI Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1788963728,
+        "date_posted": 1788963390,
+        "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32261",
+        "locations": [
+            "Vienna, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Navy-Federal",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Navy Federal",
+        "id": "b71e17fa-8cfc-4470-998c-563ade508ae9",
+        "title": "Business Intelligence Analyst Intern - Consumer Lending",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1788963715,
+        "date_posted": 1788963394,
+        "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32321",
+        "locations": [
+            "Pensacola, FL",
+            "Vienna, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Navy-Federal",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
