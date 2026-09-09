@@ -316526,7 +316526,7 @@
         "company_name": "NVIDIA",
         "id": "26db23e0-d70f-49b8-ab98-f6c54330d92b",
         "title": "Hardware Physical Design / VLSI Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -316602,7 +316602,7 @@
         "company_name": "NVIDIA",
         "id": "3affcaac-d7f9-45d1-8139-19defc762e13",
         "title": "Deep Learning Computer Architecture Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -321489,7 +321489,7 @@
         "company_name": "Brunswick",
         "id": "c4bfe952-8e9a-4599-966c-127295b128ad",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -339762,7 +339762,7 @@
         "company_name": "PricewaterhouseCoopers (PwC)",
         "id": "4b6066cd-8c05-4586-80d1-c1500ceb094b",
         "title": "Diligence Analytics Intern - Deals",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -340787,7 +340787,7 @@
         "company_name": "RTX",
         "id": "b6296fe8-f9f1-44dd-94f1-590c275ba224",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -355586,7 +355586,7 @@
         "company_name": "Amgen",
         "id": "3b323906-0f7b-4f16-ad94-c2ca7c17d499",
         "title": "Business Analyst Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -374095,7 +374095,7 @@
         "company_name": "Airbus",
         "id": "c22bc27e-38ff-437b-89e0-136cb456c08a",
         "title": "Landing Gear Engineering AI & Data Analytics Placement",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -382659,6 +382659,29 @@
             "Hawthorne, CA"
         ],
         "company_url": "https://simplify.jobs/c/Reflect-Orbital",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "NiSource",
+        "id": "7b3ab200-a8aa-4170-877f-21d8c1d2a2b5",
+        "title": "Change Management Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1788955742,
+        "date_posted": 1788134400,
+        "url": "https://nisource.wd1.myworkdayjobs.com/NiSource/job/Columbus-OH---Arena-District/Intern-People-Analytics---Change-Management_R00943378",
+        "locations": [
+            "Columbus, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/NiSource",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
