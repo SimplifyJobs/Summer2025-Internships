@@ -1,27 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "AstraZeneca",
-        "id": "0b07e9e8-5733-4784-a2a7-f08afe76b974",
-        "title": "Level 6 Digital & Technology Solutions Apprentice",
-        "active": false,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1768219132,
-        "date_posted": 1768219132,
-        "url": "https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/UK---Macclesfield/Level-6-Digital---Technology-Solutions-Apprentice_R-241422",
-        "locations": [
-            "Buxton, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/AstraZeneca",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Northumbria University",
         "id": "deb85c2c-cf26-443d-9af6-616e84fc9004",
@@ -270898,7 +270877,7 @@
         "company_name": "Pylon",
         "id": "f0aadc2c-2a47-404c-bc18-f3863ab3e456",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -295637,7 +295616,7 @@
         "company_name": "CNO Financial Group ",
         "id": "4eea3ea9-aa50-418f-912f-105c7ecd705a",
         "title": "Artificial Intelligence Information Technology Intern - AI",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -316043,7 +316022,7 @@
         "company_name": "Space Dynamics Laboratory",
         "id": "9402b8bf-beb0-4608-8f7a-2ffde99dd0b2",
         "title": "Web Developer Assistant - Enterprise Application Support",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -316623,7 +316602,7 @@
         "company_name": "NVIDIA",
         "id": "3affcaac-d7f9-45d1-8139-19defc762e13",
         "title": "Deep Learning Computer Architecture Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -320471,7 +320450,7 @@
         "company_name": "Ontario Teachers' Pension Plan",
         "id": "deafc16b-b9d8-4b84-b748-2dafcb25b2c7",
         "title": "Business Insights and Analytics Intern - Member Services",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -337652,7 +337631,7 @@
         "company_name": "Mastercard",
         "id": "e42ba45d-b2f8-4b3e-82ea-a28a0016584f",
         "title": "Data Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -340808,7 +340787,7 @@
         "company_name": "RTX",
         "id": "b6296fe8-f9f1-44dd-94f1-590c275ba224",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -380875,7 +380854,7 @@
         "company_name": "COUNTRY Financial",
         "id": "a70cad86-89f9-4f7c-881d-a22840ad91ee",
         "title": "Information Technology Services Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
