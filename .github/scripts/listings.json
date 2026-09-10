@@ -337163,7 +337163,7 @@
         "company_name": "PricewaterhouseCoopers (PwC)",
         "id": "2f2aadeb-1b18-46b7-8798-5eaf3007f689",
         "title": "Connected Physical Products Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -348210,7 +348210,7 @@
         "company_name": "Geotab",
         "id": "bf70d356-7a69-475a-810c-61b2d54e251c",
         "title": "Product Management Intern - Growth & Marketplace",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -368998,7 +368998,7 @@
         "company_name": "Marvell",
         "id": "704ba07f-0e70-41ce-a17e-face649ad4bc",
         "title": "Firmware Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -370908,7 +370908,7 @@
         "company_name": "Marvell",
         "id": "bab771b3-ac96-486f-9e4a-e48811b37eab",
         "title": "Physical Design Engineer Intern - MS - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -385300,6 +385300,29 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TD Bank",
+        "id": "5c97952b-4d8f-49c5-8265-8e697873743a",
+        "title": "Data Engineer Intern/Co-op - Winter 2027",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1789046461,
+        "date_posted": 1788825600,
+        "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Data-Engineer-Co-op---Intern---Winter-2027-_R_1509826",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/TD-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
