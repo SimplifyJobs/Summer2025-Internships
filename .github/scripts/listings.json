@@ -293820,7 +293820,7 @@
         "company_name": "Arlo Technologies",
         "id": "76df4fdb-356f-4182-a791-572c79929f45",
         "title": "Firmware Developer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -356781,7 +356781,7 @@
         "company_name": "MSA Safety",
         "id": "4fe22344-e640-43e0-8fcb-53e78dcc3439",
         "title": "Electrical Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
