@@ -376184,7 +376184,7 @@
         "company_name": "CHAOS Industries",
         "id": "5cbde73c-a6c2-4f24-b4f4-6e72facd6756",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -381366,7 +381366,7 @@
         "company_name": "Ascension",
         "id": "62576249-c677-47a6-ac06-9e631007cd2a",
         "title": "Software Engineer Intern - Studio Engineering Product Delivery",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
