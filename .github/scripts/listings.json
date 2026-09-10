@@ -195512,7 +195512,7 @@
         "company_name": "Tencent",
         "id": "ebfbd4aa-1575-4433-ae61-19d71eac1f5d",
         "title": "Game Research & Development Intern - Engine Research",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -307923,7 +307923,7 @@
         "company_name": "Goldman Sachs",
         "id": "bc2e9762-a592-48ef-9e42-21dfdec88ec4",
         "title": "Quantitative Strategist Associate Intern - Asset and Wealth Management",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -313893,7 +313893,7 @@
         "company_name": "NVIDIA",
         "id": "3affcaac-d7f9-45d1-8139-19defc762e13",
         "title": "Deep Learning Computer Architecture Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -321107,7 +321107,7 @@
         "company_name": "Freddie Mac",
         "id": "7d622bf2-9241-4e85-b72d-dc305db65752",
         "title": "Quantitative Risk Management Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -337423,7 +337423,7 @@
         "company_name": "Brunswick",
         "id": "85b3e408-7ae2-4096-98fa-2eac99fa020a",
         "title": "Software Controls Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -352715,7 +352715,7 @@
         "company_name": "Agilent Technologies",
         "id": "41d04fba-69e4-43b4-9d16-09a4917d76aa",
         "title": "Predictive Sales Prospecting Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -373305,7 +373305,7 @@
         "company_name": "Walmart",
         "id": "5fb29a7b-45e4-42fd-8b5d-e87ba55aa181",
         "title": "Transportation Data Analyst 2 Intern - Intern Conversion",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
