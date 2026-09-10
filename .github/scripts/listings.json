@@ -300220,7 +300220,7 @@
         "company_name": "Saint Leo University",
         "id": "89c1ce2d-139c-480e-a662-32a660975dc4",
         "title": "Student Worker - Institutional Research",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -339220,7 +339220,7 @@
         "company_name": "Emerson Electric",
         "id": "528416aa-09e4-4f9c-a145-9747f978fe5d",
         "title": "Data Science Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -348743,7 +348743,7 @@
         "company_name": "Acumatica",
         "id": "5a875ca9-f702-430e-95ef-602f35afa359",
         "title": "AI & Automation Intern - Office of the CFO",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
