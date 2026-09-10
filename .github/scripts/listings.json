@@ -370223,7 +370223,7 @@
         "company_name": "Susquehanna International Group",
         "id": "4fa9bd6c-ef64-4ae9-96b4-d236c66a5ecf",
         "title": "Technology Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
