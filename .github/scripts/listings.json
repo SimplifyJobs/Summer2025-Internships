@@ -261692,7 +261692,7 @@
         "company_name": "Lila Sciences",
         "id": "c625bdf8-bb79-49ff-ad24-a9edc7c39f8d",
         "title": "Autonomous SEM Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
