@@ -298908,7 +298908,7 @@
         "company_name": "Systems Planning and Analysis (SPA)",
         "id": "0c687375-0fdb-4eb5-b7da-1951113f5b0a",
         "title": "Science & Technology Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -322636,7 +322636,7 @@
         "company_name": "Brunswick",
         "id": "23283fde-40f1-42d9-bf10-9b7362a6c553",
         "title": "Software Engineer Intern - Boating Intelligence Design Lab",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
