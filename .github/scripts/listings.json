@@ -224592,7 +224592,7 @@
         "company_name": "Quadric",
         "id": "683140b0-3387-4bc2-b341-7ea5fa65f78f",
         "title": "Design Verification Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -368372,7 +368372,7 @@
         "company_name": "Texas Instruments",
         "id": "4494b591-4110-46e8-84bb-6f5752c5e2a3",
         "title": "Systems Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
