@@ -134,7 +134,7 @@
 <td>Software Development Intern</td>
 <td>Fort Wayne, IN</td>
 <td>🔒</td>
-<td>7d</td>
+<td>8d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Textron?utm_source=GHList&utm_medium=company">Textron</a></strong></td>
