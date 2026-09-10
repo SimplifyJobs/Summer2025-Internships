@@ -1695,7 +1695,7 @@
 <td>Acoustic Algorithm Development Engineer Intern</td>
 <td>Laurel, MD</td>
 <td>🔒</td>
-<td>6d</td>
+<td>7d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/RSM?utm_source=GHList&utm_medium=company">RSM</a></strong></td>
