@@ -3140,27 +3140,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "PTC",
-        "id": "5725737f-d4b8-4d90-8b3e-1ec468b57bdf",
-        "title": "Pricing Data and Analytics Intern",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1768321970,
-        "date_posted": 1768321970,
-        "url": "https://ptc.wd1.myworkdayjobs.com/ptc/job/Boston-MA-USA/Pricing-Data-and-Analytics-Intern_JR111449",
-        "locations": [
-            "Boston, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/PTC",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Product",
         "company_name": "Zurn Elkay Water Solutions",
         "id": "aab8689a-a04b-4dbb-88a3-94575f49bdce",
@@ -318562,7 +318541,7 @@
         "company_name": "Capacity",
         "id": "16d31201-b650-445a-bd1c-acf6b02d80b7",
         "title": "Speech Technology Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
