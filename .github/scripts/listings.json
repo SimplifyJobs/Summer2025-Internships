@@ -243949,7 +243949,7 @@
         "company_name": "Tesla",
         "id": "eb82c528-1521-4b17-a1c4-5f5f979c84d9",
         "title": "AI Performance Engineer Intern - AI Performance Engineer - Performance Optimization",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -323875,7 +323875,7 @@
         "company_name": "AMD",
         "id": "a554688a-fa61-4d32-8d02-a22d0e78ac6a",
         "title": "Research Engineering Intern/Co-op - AMD Research",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Summer 2027"
@@ -353439,7 +353439,7 @@
         "company_name": "Nokia",
         "id": "4b4991d9-71f6-40f8-9428-6310f4a53655",
         "title": "Embedded C/C++ IP Routing Software Developer Student Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -363905,7 +363905,7 @@
         "company_name": "Wipfli",
         "id": "48a47871-0dd7-4632-893f-fd6c01e8d77c",
         "title": "Product Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
