@@ -1,74 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Sigma Computing",
-        "id": "334fbd19-26cd-4df2-9c4c-767bf9514348",
-        "title": "Software Engineering Intern - Summer 2026",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1768289229,
-        "date_posted": 1768289229,
-        "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/7588094003",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Sigma-Computing",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Nokia",
-        "id": "5f7f8ea0-cc7b-46b6-9acd-29f0409f5740",
-        "title": "Customer Applications Engineer Intern/Co-op",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1768288319,
-        "date_posted": 1768288319,
-        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/28080",
-        "locations": [
-            "Ottawa, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Nokia",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Commvault",
-        "id": "c6de2776-dffd-48d6-a05e-3e84d0e0bbad",
-        "title": "Technical Enablement Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1768288766,
-        "date_posted": 1768288766,
-        "url": "https://job-boards.greenhouse.io/commvault/jobs/5051679008",
-        "locations": [
-            "Shrewsbury, NJ"
-        ],
-        "company_url": "https://simplify.jobs/c/Commvault",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Product",
         "company_name": "Sigma Computing",
         "id": "4bafe0b5-f17f-45e2-9cb3-51c529b8c67d",
@@ -382238,7 +382170,7 @@
         "company_name": "Centific",
         "id": "aa85a66b-b7ad-40d5-b986-339012d241c9",
         "title": "Technical Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
