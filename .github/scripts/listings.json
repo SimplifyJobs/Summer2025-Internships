@@ -321107,7 +321107,7 @@
         "company_name": "Freddie Mac",
         "id": "7d622bf2-9241-4e85-b72d-dc305db65752",
         "title": "Quantitative Risk Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -373305,7 +373305,7 @@
         "company_name": "Walmart",
         "id": "5fb29a7b-45e4-42fd-8b5d-e87ba55aa181",
         "title": "Transportation Data Analyst 2 Intern - Intern Conversion",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -377311,7 +377311,7 @@
         "company_name": "RTX",
         "id": "c782a0fa-e20c-43ce-a32c-51fd89919b77",
         "title": "Digital Design Electrical Engineer Intern - Summer 2027",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -377336,7 +377336,7 @@
         "company_name": "RTX",
         "id": "c57e2c6f-2938-4b78-bfba-117161231118",
         "title": "Software Engineering Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027",
             "Spring 2027"
