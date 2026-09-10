@@ -276336,7 +276336,7 @@
         "company_name": "Kirin",
         "id": "dd09b631-b758-451e-b3f1-067cadf66b69",
         "title": "Quantitative Research Intern - Prediction Markets",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -321369,7 +321369,7 @@
         "company_name": "InfiniteQuant",
         "id": "d55a832d-489f-468a-8688-f419fb8b1b38",
         "title": "Quantitative Developer Internship - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -328003,7 +328003,7 @@
         "company_name": "RTX",
         "id": "6c4b58d2-9722-4496-844f-1f28eef54ff2",
         "title": "Customer Data Management and Analysis Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
@@ -328709,7 +328709,7 @@
         "company_name": "Goldman Sachs",
         "id": "bec41fe0-ae4c-44d3-bddd-15ca4a245c18",
         "title": "Summer Associate Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -341266,7 +341266,7 @@
         "company_name": "ZS",
         "id": "bfd24658-9d27-4663-b02c-2b76b6042f78",
         "title": "Decision Analytics Associate Intern - University Students",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -344707,7 +344707,7 @@
         "company_name": "United Airlines",
         "id": "b2910d1a-df08-4c5a-9ad6-88cf9a60ff6f",
         "title": "Air Traffic Strategy Data Analytics Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -363599,7 +363599,7 @@
         "company_name": "Walmart",
         "id": "9a65a8df-82be-4934-8e8f-0308d4a7686a",
         "title": "Software Engineer 2 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -363808,7 +363808,7 @@
         "company_name": "Goldman Sachs",
         "id": "b6a6b28f-c858-4ef8-b6b4-aeda2206e9ad",
         "title": "Summer Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -373083,7 +373083,7 @@
         "company_name": "InfiniteQuant",
         "id": "cebe2404-0f14-43f7-a80e-93b201cd0441",
         "title": "Quantitative Developer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -385255,5 +385255,52 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Blue Origin",
+        "id": "7fedfbc6-98b6-4de0-b225-0a62b5515501",
+        "title": "Electrical Systems Engineer Co-op - Fixed Term",
+        "active": true,
+        "terms": [
+            "Winter 2027",
+            "Spring 2027"
+        ],
+        "date_updated": 1789035303,
+        "date_posted": 1788825600,
+        "url": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Los-Angeles-CA/Electronics-Electrical-Systems-Engineer-Co-Op_R71548",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Blue-Origin",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Ohio State University",
+        "id": "8929009f-4d91-48b7-a216-bb0aedca2ce6",
+        "title": "Metadata Student Assistant",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1789035481,
+        "date_posted": 1788134400,
+        "url": "https://osu.wd1.myworkdayjobs.com/OSUCareers/job/Remote-Location/Metadata-Student-Assistant_R157294-2",
+        "locations": [
+            "Ohio"
+        ],
+        "company_url": "https://simplify.jobs/c/Ohio-State-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
     }
 ]
