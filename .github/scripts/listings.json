@@ -1,29 +1,5 @@
 [
     {
-        "date_updated": 1771250196,
-        "sponsorship": "Offers Sponsorship",
-        "active": false,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://amazon.jobs/en/jobs/3137751/cloud-support-engineer-internship-2026-us",
-        "company_name": "Amazon",
-        "title": "Cloud Support Engineer Internship",
-        "locations": [
-            "Herdon, VA",
-            "Dallas, TX"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "matthewjyhan",
-        "id": "2f3a8b0f-69a9-41c3-9f22-07a97ffaae34",
-        "date_posted": 1768312722,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "source": "Simplify",
         "category": "Software",
         "company_name": "Visa",
