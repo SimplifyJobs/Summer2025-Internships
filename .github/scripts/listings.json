@@ -386315,5 +386315,231 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Mackenzie Investments",
+        "id": "2da1b9a8-c42c-4490-ab77-7b152c46c02e",
+        "title": "Winter Intern - Investment Management - Multi-Asset",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1789051576,
+        "date_posted": 1789051450,
+        "url": "https://careersen-mackenzieinvestments.icims.com/jobs/6008/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Winnipeg, MB, Canada",
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Mackenzie-Investments",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Hudl",
+        "id": "d3494dea-dbb5-4557-a1f2-4676143b6cd5",
+        "title": "Product Management Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1789051321,
+        "date_posted": 1789051173,
+        "url": "https://job-boards.greenhouse.io/hudl/jobs/8155103",
+        "locations": [
+            "Lincoln, NE"
+        ],
+        "company_url": "https://simplify.jobs/c/Hudl",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "The MJ Companies",
+        "id": "1307add2-6463-4f8d-ba8b-6c10196c7d64",
+        "title": "Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1789050814,
+        "date_posted": 1789050752,
+        "url": "https://job-boards.greenhouse.io/themjcos/jobs/5420406008",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/The-MJ-Companies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "AstraZeneca",
+        "id": "d778c6d4-6ce5-40c6-8cb7-41d5b2f39824",
+        "title": "AI Solutions & Automation Intern",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1789050601,
+        "date_posted": 1788998400,
+        "url": "https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/Canada---Mississauga/AI-Solutions---Automation-Intern_R-259241",
+        "locations": [
+            "Mississauga, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/AstraZeneca",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Barclays",
+        "id": "2a1bc16a-fdaf-4a6c-b4c7-61479a915a58",
+        "title": "Technology Analyst Apprentice - AI and Data Science",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1789050655,
+        "date_posted": 1788998400,
+        "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/XMLNAME-2027-Technology-Analyst-AI-and-Data-Science-Graduate-Apprenticeship-Programme-Glasgow_JR-0000129128",
+        "locations": [
+            "Glasgow, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Barclays",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "L3Harris Technologies",
+        "id": "b8fc0d7e-aa3b-4cca-9332-12187015202c",
+        "title": "Electrical Engineer Co-op",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1789050201,
+        "date_posted": 1789049901,
+        "url": "https://jobs.l3harris.com/job/Waterdown-Electrical-Engineering-Co-Op-(Waterdown,-CAN)-ON-L9H-0C5/1428467800/?ats=successfactors",
+        "locations": [
+            "Waterdown, Hamilton, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Planview",
+        "id": "3e0882ef-3682-46f4-b5a5-bf8dadcf4a08",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1789050188,
+        "date_posted": 1789049891,
+        "url": "https://careers.planview.com/jobs/5128?icims=1",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Planview",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "General Dynamics Mission Systems",
+        "id": "013b4e53-9d70-4bca-9c0f-1231cfe46dbb",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1789050190,
+        "date_posted": 1789049905,
+        "url": "https://careers-gdms.icims.com/jobs/74880/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Manassas, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "BDC Venture Capital",
+        "id": "27bfa036-d73f-448b-969a-af83a317d8e7",
+        "title": "Student Analyst - Business Performance and Analytics",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1789050061,
+        "date_posted": 1788998400,
+        "url": "https://bdc.wd10.myworkdayjobs.com/BDC_Careers/job/Montreal/STUDENT-ANALYST---BUSINESS-PERFORMANCE-AND-ANALYTICS_R-8214",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/BDC-Venture-Capital",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Microsoft",
+        "id": "12081dae-1434-4294-84d6-903009f0c86b",
+        "title": "Robotics Systems and Control Intern",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1789050440,
+        "date_posted": 1789050259,
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393556991724",
+        "locations": [
+            "Cambridge, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Microsoft",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
     }
 ]
