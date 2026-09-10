@@ -1,127 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "The Coca-Cola Company",
-        "id": "50ee75e4-5506-4be2-9086-d9ac93e6b1a8",
-        "title": "Revenue Growth Management Data Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1768270694,
-        "date_posted": 1768270694,
-        "url": "https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/US---GA---Atlanta/Revenue-Growth-Management-Data-Engineering-Intern_R-133413",
-        "locations": [
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/The-Coca-Cola-Company",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Cisco",
-        "id": "cb82dd7e-9134-467b-85ca-0be3e8b240ff",
-        "title": "Product Management MBA \u2013 Intern - United States",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1768270406,
-        "date_posted": 1768270406,
-        "url": "https://careers.cisco.com/global/en/job/2006085",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Cisco",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "MBA"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Genentech",
-        "id": "68215c3c-d059-41df-aab4-f786b7f63681",
-        "title": "Intern - DDC",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1768270297,
-        "date_posted": 1768270297,
-        "url": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2026-Summer-Intern---DDC_202601-100487",
-        "locations": [
-            "San Bruno, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Genentech",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Commvault",
-        "id": "181fede8-9d34-4d1e-a8e2-4c91c9641247",
-        "title": "Field CTO Intern - USA",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1768270848,
-        "date_posted": 1768270848,
-        "url": "https://job-boards.greenhouse.io/commvault/jobs/5051673008",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Commvault",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "RTX",
-        "id": "ddeec651-b4fe-4d1c-8e51-2f0766079091",
-        "title": "2026 Intern - Data Management Analyst",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1768270533,
-        "date_posted": 1768270533,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/AZ807-RMS-AP-Bldg-807-1151-East-Hermans-Road-Building-807-Tucson-AZ-85756-USA/XMLNAME-2026-Intern---Data-Management-Analyst---Onsite_01816048",
-        "locations": [
-            "Tucson, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "MBA",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "CAE",
         "id": "e41c6963-3461-46e0-b78e-2af0f6520b3e",
@@ -137,30 +16,6 @@
             "Montreal, QC, Canada"
         ],
         "company_url": "https://simplify.jobs/c/0584b8e0-c24c-4b9b-9e06-b2484d8779bf",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "T-Mobile",
-        "id": "65f6901a-b4a0-475a-9f7e-ca4c0978cf9e",
-        "title": "Summer 2026 Software Engineering Internship",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1768271062,
-        "date_posted": 1768271062,
-        "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Atlanta-Georgia/Summer-2026-Software-Engineering-Internship_REQ341138",
-        "locations": [
-            "Bellevue, WA",
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/T-Mobile",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
@@ -191,54 +46,6 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "T-Mobile",
-        "id": "d7347550-5463-4d23-a4da-97472cb64bec",
-        "title": "Summer 2026 Software Engineering Internship",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1768271063,
-        "date_posted": 1768271063,
-        "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Atlanta-Georgia/Summer-2026-Software-Engineering-Internship_REQ341139",
-        "locations": [
-            "Bellevue, WA",
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/T-Mobile",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Microsoft",
-        "id": "1e89c37c-372a-447a-ba03-5b8c0d1c2220",
-        "title": "Research Intern - Foundations of GenAI",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1768270157,
-        "date_posted": 1768270157,
-        "url": "https://apply.careers.microsoft.com/careers/job/1970393556659148",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Microsoft",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's",
-            "PhD"
         ]
     },
     {
@@ -305,27 +112,6 @@
             "Shrewsbury, NJ"
         ],
         "company_url": "https://simplify.jobs/c/Commvault",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "The Walt Disney Company",
-        "id": "c14bc108-3251-4c4c-8316-8b3ddc76926e",
-        "title": "Software Engineering Intern - Summer 2026",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1768270811,
-        "date_posted": 1768270811,
-        "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Orlando-FL-USA/Software-Engineering-Intern--Summer-2026_10135702-1",
-        "locations": [
-            "Orlando, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/Disney",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
