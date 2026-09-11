@@ -48,126 +48,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Visa",
-        "id": "ae957e0a-a4a9-4c43-994f-431be9849925",
-        "title": "Software Engineer Intern",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1768407492,
-        "date_posted": 1768407492,
-        "url": "https://jobs.smartrecruiters.com/Visa/744000103521140",
-        "locations": [
-            "Cambridge, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Visa",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Western Digital",
-        "id": "4aa9ca31-f0c1-42d9-8282-50ffd3a6339b",
-        "title": "Intern - Cryogenic Probe Station",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1768407041,
-        "date_posted": 1768407041,
-        "url": "https://jobs.smartrecruiters.com/WesternDigital/744000103546084",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Western-Digital",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "General Dynamics Mission Systems",
-        "id": "f21cd6fc-a4ee-489c-a2a3-0ce00bc468b0",
-        "title": "Intern Administrative / Data Analytics",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1768407898,
-        "date_posted": 1768407898,
-        "url": "https://careers-gdms.icims.com/jobs/70112/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Chantilly, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Eli Lilly and Company",
-        "id": "7e13e823-f711-43e9-94d0-9b57fe7d2f8d",
-        "title": "AI & Automation Solutions Intern - May 2026 - May 2027",
-        "active": false,
-        "terms": [
-            "Summer 2026",
-            "Summer 2027"
-        ],
-        "date_updated": 1768408216,
-        "date_posted": 1768408216,
-        "url": "https://lilly.wd5.myworkdayjobs.com/en-US/LLY/job/CA-Toronto-ON/AI---Automation-Solutions-Intern--May-2026---May-2027-_R-98997",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Eli-Lilly-And-Company",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Autodesk",
-        "id": "030b5630-aec5-4865-a5f3-282b61a0a822",
-        "title": "Intern AI Developer",
-        "active": false,
-        "terms": [
-            "Winter 2026",
-            "Summer 2026"
-        ],
-        "date_updated": 1768408090,
-        "date_posted": 1768408090,
-        "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Intern--AI-Developer---Stagiaire-en-dveloppement-IA_25WD93809-2",
-        "locations": [
-            "Montreal, QC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Autodesk",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Exiger",
         "id": "30c82b8e-f98b-431a-a1a5-8b463af71cdb",
@@ -234595,7 +234475,7 @@
         "company_name": "Meta",
         "id": "41d0ba32-8c09-48c5-917a-2ee8e6af3a8d",
         "title": "Research Scientist Intern - Language & Multimodal Foundations",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -355485,7 +355365,7 @@
         "company_name": "Teledyne",
         "id": "4899def5-70ad-47d2-aa3d-96e343f593aa",
         "title": "Electrical Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -364078,7 +363958,7 @@
         "company_name": "RTX",
         "id": "30250e27-717d-446e-8475-adb57356ac21",
         "title": "Work Transfer Analyst Intern - Global Work Transfer Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
