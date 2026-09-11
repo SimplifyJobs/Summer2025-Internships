@@ -328587,7 +328587,7 @@
         "company_name": "The Walt Disney Company",
         "id": "fa4df455-e120-4359-91a9-60d0361df6e0",
         "title": "Pricing & Product Development Intern - Spring 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -342037,7 +342037,7 @@
         "company_name": "L3Harris Technologies",
         "id": "70637f48-372f-47ac-9ea0-d8cc4f9c42b0",
         "title": "Software Engineer Intern - Digital Signal Processing",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -372756,7 +372756,7 @@
         "company_name": "RRS Group",
         "id": "3ac62200-3982-43c3-aff6-564b774138d0",
         "title": "Data Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
