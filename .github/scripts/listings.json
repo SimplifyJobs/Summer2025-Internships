@@ -1,29 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Northrop Grumman",
-        "id": "5086a7a4-c800-4747-a5fe-80cbf2779235",
-        "title": "2026 Software Engineering Intern - San Diego CA",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1768357829,
-        "date_posted": 1768357829,
-        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2026-Software-Engineering-Intern---San-Diego-CA_R10219296",
-        "locations": [
-            "San Diego, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Roche",
         "id": "173c84e8-91ae-48a9-ba8d-ffa13347f779",
@@ -43,50 +20,6 @@
         "sponsorship": "Other",
         "degrees": [
             "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Western Digital",
-        "id": "c206a49e-5b10-4b65-9261-503b4cec7f34",
-        "title": "Summer 2026 Intern - Cryogenic Probe Station",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1768356422,
-        "date_posted": 1768356422,
-        "url": "https://jobs.smartrecruiters.com/WesternDigital/744000103398775",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Western-Digital",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Sanctuary AI",
-        "id": "a5837323-9023-4131-8dc1-f6d9563aee6b",
-        "title": "Product Management Intern - May 2026",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1768356433,
-        "date_posted": 1768356433,
-        "url": "https://jobs.lever.co/sanctuary/db39fce9-8b6b-45dc-a388-f1d90d0a81bc/apply",
-        "locations": [
-            "Vancouver, BC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Sanctuary-AI",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -4222,30 +4155,6 @@
             "Reston, VA"
         ],
         "company_url": "https://simplify.jobs/c/ICF-International",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "John Deere",
-        "id": "3694f898-b3c8-4c04-83e2-a1db63a0fa73",
-        "title": "Part-Time Student-Product Engineering-Ames IA OR Silvis - IL - Product Engineering (CA)",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1768556669,
-        "date_posted": 1768356661,
-        "url": "https://johndeere.eightfold.ai/careers/job/137478559284",
-        "locations": [
-            "Ames, IA",
-            "Davenport, IA"
-        ],
-        "company_url": "https://simplify.jobs/c/John-Deere",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
@@ -100414,30 +100323,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "UntilLabs",
-        "id": "42e2cffa-94e0-4216-9ce6-9b9a091a7561",
-        "title": "Engineering Applied Physics Materials Science Intern",
-        "active": false,
-        "terms": [
-            "Spring 2026",
-            "Summer 2026"
-        ],
-        "date_updated": 1772533604,
-        "date_posted": 1768356760,
-        "url": "https://jobs.lever.co/until/2f72302a-09ed-466f-930e-76521721f1f4/apply",
-        "locations": [
-            "California"
-        ],
-        "company_url": "https://simplify.jobs/c/UntilLabs",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
     },
     {
         "source": "Simplify",
