@@ -253,14 +253,14 @@
 <td>Product Engineer Intern - Summer 2027</td>
 <td>Macomb, IL</td>
 <td>🔒</td>
-<td>9d</td>
+<td>10d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Product Engineer Intern - Summer 2027</td>
 <td>Ocala, FL</td>
 <td>🔒</td>
-<td>9d</td>
+<td>10d</td>
 </tr>
 <tr>
 <td>🔥 <strong><a href="https://simplify.jobs/c/Microsoft?utm_source=GHList&utm_medium=company">Microsoft</a></strong></td>
@@ -575,7 +575,7 @@
 <td>Technology Fintern - Software Engineering - Product Management</td>
 <td><details><summary><strong>4 locations</strong></summary>Austin, TX<br>Dallas, TX<br>Chicago, IL<br>NYC</details></td>
 <td>🔒</td>
-<td>16d</td>
+<td>17d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
