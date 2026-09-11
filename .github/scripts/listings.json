@@ -358928,7 +358928,7 @@
         "company_name": "Mercer University",
         "id": "a065a01f-5cde-4807-bc8c-a7ef84dcf2f1",
         "title": "Summer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
