@@ -328200,7 +328200,7 @@
         "company_name": "Marsh",
         "id": "d51eb451-9f91-449d-8c96-b84c35fbfb16",
         "title": "Summer Analyst - Data and Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -328224,7 +328224,7 @@
         "company_name": "Marsh",
         "id": "30f88aa1-c8c9-4587-808f-a3954162cf45",
         "title": "Summer Analyst Intern - Data and Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -371200,7 +371200,7 @@
         "company_name": "Marsh",
         "id": "bf10b85e-3c76-4d76-b8d1-e2e1ed813b56",
         "title": "Data & Analytics Industrial Placement",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -387511,5 +387511,372 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "GrayMatter Robotics",
+        "id": "89ec8845-ea94-482e-9c4f-909bc1a1c017",
+        "title": "Robotics Engineering Intern - Systems & Applications",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1789090118,
+        "date_posted": 1789089936,
+        "url": "https://jobs.ashbyhq.com/graymatter-robotics/aa7c2419-7bb9-4080-9403-937c4db01bb6/application?embed=true",
+        "locations": [
+            "LA",
+            "Carson, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/GrayMatterRobotics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Bedrock Robotics",
+        "id": "588eebca-a359-4ea4-b1a2-ceec017877dc",
+        "title": "Hardware Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1789090111,
+        "date_posted": 1789089971,
+        "url": "https://jobs.ashbyhq.com/bedrock-robotics/949feb1b-c60f-43c5-94de-7dd9cd70ba4a/application?embed=true",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Bedrock-Robotics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Vertiv",
+        "id": "48fe73cf-84c7-4a22-bfd9-952a666e8607",
+        "title": "Innovation Lab Engineering Intern 2",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1789089793,
+        "date_posted": 1789089654,
+        "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20280129",
+        "locations": [
+            "Delaware, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Vertiv",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Boeing",
+        "id": "e9253098-9370-47cb-b8ef-4727e7aa04f9",
+        "title": "Data Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1789089661,
+        "date_posted": 1789084800,
+        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/GBR---Bristol-UK/Data-Analytics-Intern---12-Month-Placement_JR2026523726",
+        "locations": [
+            "Bristol, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Definity Financial",
+        "id": "d6a5db71-c047-4a5e-851b-2772d2aa52b8",
+        "title": "Business Intelligence Co-op",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1789089762,
+        "date_posted": 1789089641,
+        "url": "https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9351",
+        "locations": [
+            "Toronto, ON, Canada",
+            "Waterloo, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Definity-Financial",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Definity Financial",
+        "id": "8373a309-03ed-4b9d-adb6-b3c22f3506a8",
+        "title": "Commercial Insurance Portfolio Analyst Co-op Intern",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1789089770,
+        "date_posted": 1789089641,
+        "url": "https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9349",
+        "locations": [
+            "Toronto, ON, Canada",
+            "Waterloo, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Definity-Financial",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Vertiv",
+        "id": "571e7550-1637-482e-9a38-7d49957afb03",
+        "title": "Innovation Lab Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1789089778,
+        "date_posted": 1789089654,
+        "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20280126",
+        "locations": [
+            "Delaware, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Vertiv",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Definity Financial",
+        "id": "213789cc-7456-41e6-9357-10360bde8a2b",
+        "title": "Commercial Insurance Product Owner Co-op Intern",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1789089768,
+        "date_posted": 1789089642,
+        "url": "https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9354",
+        "locations": [
+            "Waterloo, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Definity-Financial",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Boeing",
+        "id": "2e644f8f-171e-4397-97e7-d521c7f3b0e9",
+        "title": "Data Analytics Intern - 6 Months",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1789089661,
+        "date_posted": 1789084800,
+        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/GBR---Bristol-UK/Data-Analytics-Intern---6-Months_JR2026523727-1",
+        "locations": [
+            "Bristol, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Definity Financial",
+        "id": "1793df2d-cc5e-4feb-b988-ce8b961350fc",
+        "title": "Analyst Co-op Intern - Consumer Insights & Market Research",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1789089776,
+        "date_posted": 1789089640,
+        "url": "https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9344",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Definity-Financial",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Entegris",
+        "id": "c6f585f9-1dc2-4b7b-87f8-b7e1ede0e71b",
+        "title": "Portfolio Analytics Co-op",
+        "active": true,
+        "terms": [
+            "Spring 2027"
+        ],
+        "date_updated": 1789089542,
+        "date_posted": 1788998400,
+        "url": "https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Danbury-CT/Portfolio-Analytics-Analyst-Co-Op_REQ-14499",
+        "locations": [
+            "Danbury, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/Entegris",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Visier Solutions",
+        "id": "abca08df-81cc-4033-8740-151c214e5686",
+        "title": "Software Developer Co-op",
+        "active": true,
+        "terms": [
+            "Winter 2027",
+            "Spring 2027",
+            "Summer 2027"
+        ],
+        "date_updated": 1789089301,
+        "date_posted": 1789089292,
+        "url": "https://job-boards.greenhouse.io/visiersolutionsinc/jobs/4711071006",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Visier",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Emerson Electric",
+        "id": "fce07d58-8d51-46a0-9ac2-6f8f9be4da7f",
+        "title": "Software Engineer Co-op",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1789089345,
+        "date_posted": 1789089225,
+        "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010738",
+        "locations": [
+            "Eden Prairie, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Emerson-Electric",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Visier Solutions",
+        "id": "22d56fc9-ccc4-4ffa-a3da-8e67f2c0df38",
+        "title": "Test Developer Co-op",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1789089301,
+        "date_posted": 1789089293,
+        "url": "https://job-boards.greenhouse.io/visiersolutionsinc/jobs/4711073006",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Visier",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Walmart",
+        "id": "f00e8399-0777-4e56-b2cb-0fd0631a0655",
+        "title": "Software Engineer 2 Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1789089180,
+        "date_posted": 1788998400,
+        "url": "https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-ISD-Office---DGTC-AR-BENTONVILLE-Home-Office/Summer-2027-Intern---Software-Engineer-II_R-2630029-1",
+        "locations": [
+            "Bentonville, AR",
+            "Bellevue, WA",
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Walmart",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Geotab",
+        "id": "e0a4c475-6f3c-4f3e-a7ad-2e4046a608dd",
+        "title": "Embedded Developer Intern - Engine Data Reliability",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1789077964,
+        "date_posted": 1789077910,
+        "url": "https://job-boards.greenhouse.io/internshiplist2000/jobs/5396891008",
+        "locations": [
+            "Oakville, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Geotab",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
