@@ -365316,7 +365316,7 @@
         "company_name": "Principal Financial Group",
         "id": "12e13643-ecc8-42a5-b20c-2c17fd0c17a0",
         "title": "Software Engineer Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -365811,7 +365811,7 @@
         "company_name": "Kimley-Horn",
         "id": "18309c3c-eeeb-46d5-af59-0aed871733dd",
         "title": "GIS Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
