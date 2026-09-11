@@ -2,50 +2,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Uline",
-        "id": "26cd32f6-45cf-489b-b614-7d195ef04f84",
-        "title": "Financial Data Analyst Internship - Summer 2026",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1768393233,
-        "date_posted": 1768393233,
-        "url": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Financial-Data-Analyst-Internship---Summer-2026_R260525",
-        "locations": [
-            "Pleasant Prairie, WI"
-        ],
-        "company_url": "https://simplify.jobs/c/Uline",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "FactSet",
-        "id": "453e74ab-1f39-48d5-ace7-f526f01e0a7e",
-        "title": "Buy-Side Analytics Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1768393360,
-        "date_posted": 1768393360,
-        "url": "https://factset.wd108.myworkdayjobs.com/FactSetCareers/job/London-GBR/Buy-Side-Analytics-Internship----London--Summer-2026-_R30900",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/FactSet",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Geotab",
         "id": "87f9be9a-5e5d-431e-8108-49174ec58a0e",
         "title": "Data Platform Developer Intern - Orchestration",
@@ -311503,7 +311459,7 @@
         "company_name": "NVIDIA",
         "id": "4ef3c3eb-baad-42c0-8e30-0a1ff84931c0",
         "title": "Ph.D. Research Autonomous Vehicles Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -316705,7 +316661,7 @@
         "company_name": "Brunswick",
         "id": "c4bfe952-8e9a-4599-966c-127295b128ad",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -338264,7 +338220,7 @@
         "company_name": "Edison International",
         "id": "eac0d398-9f96-4736-880f-8b8bd6a17886",
         "title": "Summer Internship - Data Analytics/Science/Applied Math",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -360677,7 +360633,7 @@
         "company_name": "RTX",
         "id": "c48914ab-1f0c-4a5e-a350-c3cf1fbdf3a6",
         "title": "Performance Indicator Development and Process and Project Management Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
@@ -361499,7 +361455,7 @@
         "company_name": "Walmart",
         "id": "9a65a8df-82be-4934-8e8f-0308d4a7686a",
         "title": "Software Engineer 2 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -368804,7 +368760,7 @@
         "company_name": "Marvell",
         "id": "c59f85f4-61b5-40c1-886f-14943e17c10e",
         "title": "Physical Design Engineer Intern - BS",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -375510,7 +375466,7 @@
         "company_name": "RTX",
         "id": "74da0ee7-75ae-4580-86dd-14d8b4f2e8ab",
         "title": "Data Science and Advanced Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -376070,7 +376026,7 @@
         "company_name": "COUNTRY Financial",
         "id": "a70cad86-89f9-4f7c-881d-a22840ad91ee",
         "title": "Information Technology Services Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -383209,7 +383165,7 @@
         "company_name": "Domino Data Lab",
         "id": "eabf370c-678d-4de3-925f-22d7298aeb68",
         "title": "Forward Deployed Engineer Intern - Campus Recruiting 2027",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2027"
         ],
@@ -387837,5 +387793,26 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "University of St. Thomas",
+        "id": "e5f69b72-256c-4f21-aa77-aafbcc580de9",
+        "title": "Elevating the Arts Undergraduate Assistant",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1789128361,
+        "date_posted": 1788559984,
+        "url": "https://studentemployment-stthomas.icims.com/jobs/9615/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "St Paul, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/University-Of-St-Thomas",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
