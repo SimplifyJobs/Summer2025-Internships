@@ -350331,7 +350331,7 @@
         "company_name": "Agilent Technologies",
         "id": "41d04fba-69e4-43b4-9d16-09a4917d76aa",
         "title": "Predictive Sales Prospecting Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -359177,7 +359177,7 @@
         "company_name": "Arizona State University",
         "id": "c66c3340-0aec-44ce-b4dd-c59a57148290",
         "title": "Strategic Research Analyst Student - Launch Studio",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
