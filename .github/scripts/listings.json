@@ -2,137 +2,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Roche",
-        "id": "173c84e8-91ae-48a9-ba8d-ffa13347f779",
-        "title": "2026 \u2013 Data Science Associate Intern MDSAI",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1768358296,
-        "date_posted": 1768358296,
-        "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Mississauga/XMLNAME-2026---Data-Science-Associate-Intern-MDSAI_202601-100604-1",
-        "locations": [
-            "Mississauga, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Roche",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "PlayStation",
-        "id": "bdce1d0a-a3eb-45a5-840f-203e15163c25",
-        "title": "Software Developer Intern/Co-op - Front End",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1768358208,
-        "date_posted": 1768358206,
-        "url": "https://job-boards.greenhouse.io/waterloocoop/jobs/5763849004",
-        "locations": [
-            "Kitchener, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/PlayStation",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "PlayStation",
-        "id": "cc851b4f-7aa3-4421-b1c9-ff0321900e31",
-        "title": "Software Engineer Intern - Christina Wang",
-        "active": false,
-        "terms": [
-            "Winter 2026"
-        ],
-        "date_updated": 1768358214,
-        "date_posted": 1768358214,
-        "url": "https://job-boards.greenhouse.io/waterloocoop/jobs/5763868004",
-        "locations": [
-            "Kitchener, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/PlayStation",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "PlayStation",
-        "id": "5bdd56f8-755c-4e2a-ae4a-49ca599fcb10",
-        "title": "Software Developer Co-op - Back End",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1768358214,
-        "date_posted": 1768358214,
-        "url": "https://job-boards.greenhouse.io/waterloocoop/jobs/5763841004",
-        "locations": [
-            "Kitchener, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/PlayStation",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "PlayStation",
-        "id": "18b73d97-8d90-469f-a3b1-dd9364cb876a",
-        "title": "Software Developer Intern/Co-op - Back End - James Stewart",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1768358216,
-        "date_posted": 1768358214,
-        "url": "https://job-boards.greenhouse.io/waterloocoop/jobs/5763878004",
-        "locations": [
-            "Kitchener, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/PlayStation",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "NVIDIA",
-        "id": "22275c53-e09d-4bc4-b0d4-78c91f90a509",
-        "title": "DFT Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1768358619,
-        "date_posted": 1768358619,
-        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/DFT-Intern---Summer-2026_JR2006274",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/NVIDIA",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "OLG",
         "id": "b5806442-ed47-4767-a4a0-9e7141a9fe28",
         "title": "Digital Analytics Co-op Student",
@@ -321118,7 +320987,7 @@
         "company_name": "Brunswick",
         "id": "7194b5a6-5ff2-4d30-8f27-55c669757b74",
         "title": "Computer Graphics Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
