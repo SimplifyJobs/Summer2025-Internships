@@ -310662,7 +310662,7 @@
         "company_name": "Zipline",
         "id": "24c4a1ab-ac3a-4010-8111-bc59706b756e",
         "title": "Enterprise Systems Software Engineer Intern - Spring 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -311315,7 +311315,7 @@
         "company_name": "NVIDIA",
         "id": "790a9545-abe4-4bd0-af4b-55b368673465",
         "title": "Computer Architecture and Systems Intern - Research",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -311410,7 +311410,7 @@
         "company_name": "NVIDIA",
         "id": "79fa5677-0cf7-4393-b826-2aa0806bbcd9",
         "title": "Ph.D. Research Graphics and Simulation Intern - Graphics and Simulation",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -368100,7 +368100,7 @@
         "company_name": "Johnson Controls",
         "id": "73e4ce20-6a87-4c11-85a0-52fdf043464a",
         "title": "Software/Controls Engineering Graduate Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
