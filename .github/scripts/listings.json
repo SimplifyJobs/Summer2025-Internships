@@ -348936,7 +348936,7 @@
         "company_name": "Shure",
         "id": "5ea0f850-a40e-4b33-8998-b57f63ea8379",
         "title": "Embedded Software Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -366844,7 +366844,7 @@
         "company_name": "Marvell",
         "id": "aeaa549f-9971-4a44-87a4-e897549cde00",
         "title": "Design for Test Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -373896,7 +373896,7 @@
         "company_name": "Eudia",
         "id": "c22731f2-f61b-4501-b5da-2982b9588453",
         "title": "AI Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026",
             "Summer 2026"
@@ -380046,7 +380046,7 @@
         "company_name": "Ovintiv",
         "id": "aefb70e4-21a0-4269-b8c0-5a30ccdfa355",
         "title": "Technology Intern - Data & Digital",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -384850,7 +384850,7 @@
         "company_name": "Marvell",
         "id": "9c3c759c-4a1c-4b6f-8f1c-51e5c4fdb90d",
         "title": "Ph.D. Intern - AI/ML & Design Automation",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -384996,7 +384996,7 @@
         "company_name": "Polar Semiconductor",
         "id": "9bd16ba6-5f88-4345-9093-de6c410b805b",
         "title": "Industrial Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
