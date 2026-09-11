@@ -349558,7 +349558,7 @@
         "company_name": "Geotab",
         "id": "49a0917b-97ea-4ff8-809e-87ace1070b2f",
         "title": "Software Developer Intern - Months",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -370842,7 +370842,7 @@
         "company_name": "Marsh",
         "id": "bf10b85e-3c76-4d76-b8d1-e2e1ed813b56",
         "title": "Data & Analytics Industrial Placement",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -375217,7 +375217,7 @@
         "company_name": "RTX",
         "id": "c57e2c6f-2938-4b78-bfba-117161231118",
         "title": "Software Engineering Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027",
             "Spring 2027"
@@ -385091,7 +385091,7 @@
         "company_name": "Wellington Management",
         "id": "baa23a3b-d414-4373-9c07-e1c15ba9f262",
         "title": "Technology Undergraduate Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -386835,7 +386835,7 @@
         "company_name": "RTX",
         "id": "b698f712-411d-4005-b00c-49d33f52731c",
         "title": "Software Engineer Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -388246,6 +388246,144 @@
             "Columbus, OH"
         ],
         "company_url": "https://simplify.jobs/c/Citizens-Financial-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Ciena",
+        "id": "2d7cf9e5-bb8b-45ac-9e32-aadc612bb2f4",
+        "title": "NPI Hardware Co-op - 8 month",
+        "active": true,
+        "terms": [
+            "Winter 2027",
+            "Summer 2027"
+        ],
+        "date_updated": 1789137721,
+        "date_posted": 1789084800,
+        "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/NPI-Hardware-Co-op--8-month---January-2027-_R031642",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Ciena",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "NAV CANADA",
+        "id": "b390603c-6b52-4862-8f16-1da7aad0a2d8",
+        "title": "Air Traffic Management Engineering Co-op Student - ATM - Tower Products",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1789137693,
+        "date_posted": 1789084800,
+        "url": "https://navcanada.wd10.myworkdayjobs.com/NAV_Careers/job/Ottawa/Air-Traffic-Management--ATM--Tower-Products---Winter-2027-Coop-Student---2-positions_JR-8366",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/NAV-CANADA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Vishay Intertechnology",
+        "id": "62fa11fb-2b9b-447b-85b5-8549eec6428f",
+        "title": "R&D Engineer Intern",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1789137703,
+        "date_posted": 1789084800,
+        "url": "https://vishay.wd3.myworkdayjobs.com/VishayCareers/job/Yankton-SD/R-D-Engineering-Intern_JR-20288",
+        "locations": [
+            "Yankton, SD"
+        ],
+        "company_url": "https://simplify.jobs/c/Vishay-Intertechnology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Tesla",
+        "id": "d5c67b95-ec5f-4c2d-b9dc-68c0a2efad5d",
+        "title": "Vehicle Accessories & Merchandise Product Intern - Global Merchandise",
+        "active": true,
+        "terms": [
+            "Winter 2027",
+            "Spring 2027"
+        ],
+        "date_updated": 1789137441,
+        "date_posted": 1789137290,
+        "url": "https://www.tesla.com/careers/search/job/283137",
+        "locations": [
+            "Hawthorne, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tesla",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Tesla",
+        "id": "a6be63fe-0ed7-4ad2-a4f7-774bd97b77b8",
+        "title": "Software Engineer Intern - Data Platforms",
+        "active": true,
+        "terms": [
+            "Spring 2027"
+        ],
+        "date_updated": 1789137439,
+        "date_posted": 1789137299,
+        "url": "https://www.tesla.com/careers/search/job/283117",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tesla",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Tesla",
+        "id": "43f7ea35-f35d-4add-a344-e6dc42c8dbaa",
+        "title": "Robotics Physics Modeling Engineer Intern - Model Based Design - Optimus",
+        "active": true,
+        "terms": [
+            "Spring 2027"
+        ],
+        "date_updated": 1789137734,
+        "date_posted": 1789137294,
+        "url": "https://www.tesla.com/careers/search/job/283128",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tesla",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
