@@ -313591,7 +313591,7 @@
         "company_name": "Goldman Sachs",
         "id": "de048c9f-8cf0-45fe-b307-40b9a04a9416",
         "title": "Summer Analyst Intern - Americas - AWM Product Management",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -316705,7 +316705,7 @@
         "company_name": "Brunswick",
         "id": "c4bfe952-8e9a-4599-966c-127295b128ad",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -338264,7 +338264,7 @@
         "company_name": "Edison International",
         "id": "eac0d398-9f96-4736-880f-8b8bd6a17886",
         "title": "Summer Internship - Data Analytics/Science/Applied Math",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -360677,7 +360677,7 @@
         "company_name": "RTX",
         "id": "c48914ab-1f0c-4a5e-a350-c3cf1fbdf3a6",
         "title": "Performance Indicator Development and Process and Project Management Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -366844,7 +366844,7 @@
         "company_name": "Marvell",
         "id": "aeaa549f-9971-4a44-87a4-e897549cde00",
         "title": "Design for Test Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -368804,7 +368804,7 @@
         "company_name": "Marvell",
         "id": "c59f85f4-61b5-40c1-886f-14943e17c10e",
         "title": "Physical Design Engineer Intern - BS",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -373896,7 +373896,7 @@
         "company_name": "Eudia",
         "id": "c22731f2-f61b-4501-b5da-2982b9588453",
         "title": "AI Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026",
             "Summer 2026"
@@ -376070,7 +376070,7 @@
         "company_name": "COUNTRY Financial",
         "id": "a70cad86-89f9-4f7c-881d-a22840ad91ee",
         "title": "Information Technology Services Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -380046,7 +380046,7 @@
         "company_name": "Ovintiv",
         "id": "aefb70e4-21a0-4269-b8c0-5a30ccdfa355",
         "title": "Technology Intern - Data & Digital",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -383209,7 +383209,7 @@
         "company_name": "Domino Data Lab",
         "id": "eabf370c-678d-4de3-925f-22d7298aeb68",
         "title": "Forward Deployed Engineer Intern - Campus Recruiting 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
