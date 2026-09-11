@@ -2,151 +2,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Geotab",
-        "id": "87f9be9a-5e5d-431e-8108-49174ec58a0e",
-        "title": "Data Platform Developer Intern - Orchestration",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1768408771,
-        "date_posted": 1768408771,
-        "url": "https://job-boards.greenhouse.io/internshiplist2000/jobs/5013013008",
-        "locations": [
-            "Toronto, ON, Canada",
-            "Oakville, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Geotab",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Cadence Design Systems",
-        "id": "a2e487e0-ed11-4aad-be2c-c0ae30ef36bd",
-        "title": "Intern \u2013 Software Engineering",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1768408546,
-        "date_posted": 1768408546,
-        "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/LONDON-01/Intern---Software-Engineering_R52689",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Exiger",
-        "id": "30c82b8e-f98b-431a-a1a5-8b463af71cdb",
-        "title": "AI Data Engineer Intern - Summer 2026",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1768408825,
-        "date_posted": 1768408825,
-        "url": "https://www.exiger.com/careers/5751828004?gh_jid=5751828004",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Exiger",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Fifth Third Bank",
-        "id": "c6d861fc-b734-4bd1-bca3-db0e2f15151b",
-        "title": "Software Engineer Co-op - Enterprise Finance Applications - Fall 2026",
-        "active": false,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1768408677,
-        "date_posted": 1768408677,
-        "url": "https://fifththird.wd5.myworkdayjobs.com/en-US/53careers/job/Cincinnati-OH/Software-Engineer-Co-op---Enterprise-Finance-Applications---Fall-2026_R63536",
-        "locations": [
-            "Cincinnati, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Fifth-Third-Bank",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Fifth Third Bank",
-        "id": "27832ef3-f060-4c14-b103-5632d2defa84",
-        "title": "Enterprise Data Office College Co-op - Fall 2026 - Cincinnati",
-        "active": false,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1768408672,
-        "date_posted": 1768408672,
-        "url": "https://fifththird.wd5.myworkdayjobs.com/en-US/53careers/job/Cincinnati-OH/Enterprise-Data-Office-College-Co-op---Fall-2026---Cincinnati_R64382",
-        "locations": [
-            "Cincinnati, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Fifth-Third-Bank",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Jones Lang LaSalle (JLL)",
-        "id": "456dddaf-3532-4b0a-83f8-9a86d9fdc284",
-        "title": "Technology Analyst Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1768408591,
-        "date_posted": 1768408591,
-        "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Chicago-IL/Technology-Analyst-Summer-2026-Internship_REQ478662",
-        "locations": [
-            "Phoenix, AZ",
-            "Albany, NY",
-            "Chicago, IL",
-            "LA",
-            "Columbus, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Jones-Lang-LaSalle",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Intapp",
         "id": "ee7b6b7a-9f50-43b0-912a-8b19ba2332e6",
         "title": "Data AI Intern",
@@ -328799,7 +328654,7 @@
         "company_name": "The Walt Disney Company",
         "id": "16964152-6459-4e36-9a3a-588afcf03bb0",
         "title": "Park Yield Optimization Intern - Spring 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -346017,7 +345872,7 @@
         "company_name": "Geotab",
         "id": "601b8e44-66b1-4f9e-b181-e3173fc68750",
         "title": "Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
