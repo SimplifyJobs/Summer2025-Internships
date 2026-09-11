@@ -353184,7 +353184,7 @@
         "company_name": "Ontario Teachers' Pension Plan",
         "id": "1c09445e-a943-4258-9c49-7bf34a1087dd",
         "title": "Risk Intern - Models and Asset Liability",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -366300,7 +366300,7 @@
         "company_name": "Garmin",
         "id": "09df6596-53d1-4585-a544-3614d26f1de7",
         "title": "Software Engineer Intern - Aviation Web Development",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -372491,7 +372491,7 @@
         "company_name": "United Airlines",
         "id": "0b6231bf-1510-4b9c-b81b-7dbc9d578158",
         "title": "Operations Strategy Analytics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -372896,7 +372896,7 @@
         "company_name": "United Airlines",
         "id": "328b3420-d343-4ef8-ac99-d5b626d3490e",
         "title": "Onboard Experience Intern - Summer 2027",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -385578,7 +385578,7 @@
         "company_name": "Canadian Tire",
         "id": "1b3aec3c-4c0c-4efb-a5bc-1e8fc5416875",
         "title": "Data Analyst Student - Winter Term 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
