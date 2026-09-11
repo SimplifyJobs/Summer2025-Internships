@@ -311526,7 +311526,7 @@
         "company_name": "NVIDIA",
         "id": "31523bd0-3228-448d-b0ce-f99812c17fca",
         "title": "Generative AI Ph.D. Research Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -315832,7 +315832,7 @@
         "company_name": "Ontario Teachers' Pension Plan",
         "id": "563165c9-79ea-427e-a9f7-ac43878f12f6",
         "title": "Portfolio Engineer Intern - Capital Markets - CMIA",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -326020,7 +326020,7 @@
         "company_name": "Realm",
         "id": "3c0eb87e-dc03-4ec2-a2f7-754825edf8ce",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -341937,7 +341937,7 @@
         "company_name": "Tencent",
         "id": "571dc222-d134-45dd-8547-ba1ce9e2c5a4",
         "title": "CPaaS Product Management Intern - Cloud & Smart Industries Group",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -361773,7 +361773,7 @@
         "company_name": "Goldman Sachs",
         "id": "60f69f38-4cc3-4dbd-a041-e8208a00725c",
         "title": "Summer Analyst Intern - The Core Quantitative Strats",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -367050,7 +367050,7 @@
         "company_name": "Marvell",
         "id": "2efbdbb6-799e-4b37-8c81-68bf168efb5f",
         "title": "Functional Validation Intern - BS",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -367896,7 +367896,7 @@
         "company_name": "AArete",
         "id": "4450e57d-6850-4b61-b0f6-39350674e9d9",
         "title": "Business Analytics Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -368645,7 +368645,7 @@
         "company_name": "Marvell",
         "id": "2f6cedc3-6aa5-4caa-825b-45cf2ac41248",
         "title": "Design Verification Intern - MS",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -369279,7 +369279,7 @@
         "company_name": "Marvell",
         "id": "56f40262-c4cd-4b41-a304-a541df7d38a7",
         "title": "Advanced Packaging Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027",
             "Fall 2027",
@@ -374110,7 +374110,7 @@
         "company_name": "Northrop Grumman",
         "id": "e7f91d55-7af9-4814-886b-7cec1ce1222e",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -374925,7 +374925,7 @@
         "company_name": "AArete",
         "id": "0ce18659-d44b-4bc1-8341-275eda5c3c69",
         "title": "Data Architecture & Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -378581,7 +378581,7 @@
         "company_name": "Kinaxis",
         "id": "5ac1d7a8-5581-4468-b12a-92c221dd3cd0",
         "title": "Developer Intern - AI Solutions",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
@@ -380609,7 +380609,7 @@
         "company_name": "Collier Aerospace",
         "id": "3c16cf25-2344-4449-8c12-a8dd16ebdaf2",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -387777,7 +387777,7 @@
         "company_name": "Kinaxis",
         "id": "5b07d830-b50d-4cff-a64a-555dad0ea478",
         "title": "Developer Intern - Clients - Front End Technologies",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
