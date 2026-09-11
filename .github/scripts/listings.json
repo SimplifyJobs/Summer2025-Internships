@@ -54242,7 +54242,7 @@
         "company_name": "Hunt Oil Company",
         "id": "38bff1c7-62f2-4905-a514-c01224657e91",
         "title": "SAP BTP Application Developer Intern - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -310618,7 +310618,7 @@
         "company_name": "Zipline",
         "id": "26ab432a-efdf-4282-a102-5fe08a924dec",
         "title": "Enterprise Systems Software Engineer Intern - Spring 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -311654,7 +311654,7 @@
         "company_name": "NVIDIA",
         "id": "d8ff5790-a34b-425f-b812-2e10a1350a70",
         "title": "Computer Vision and Deep Learning Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -354021,7 +354021,7 @@
         "company_name": "NVIDIA",
         "id": "a26a9ad9-27d4-4902-827c-2c0a5e75a365",
         "title": "Robotics Intern - Ph.D. Research",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -359995,7 +359995,7 @@
         "company_name": "Emerson Electric",
         "id": "8e33e85a-9875-440c-9d9c-9944a3368a68",
         "title": "Test Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
