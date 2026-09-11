@@ -186070,7 +186070,7 @@
         "company_name": "University of Arkansas",
         "id": "e4f4a19a-0777-4687-9441-b8f377f86167",
         "title": "Graduate Research Assistant Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -195456,7 +195456,7 @@
         "company_name": "Corpay",
         "id": "3f608301-24e9-44cc-a414-5e9d5f26a2d3",
         "title": "Software Developer \u2013 Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -311459,7 +311459,7 @@
         "company_name": "NVIDIA",
         "id": "4ef3c3eb-baad-42c0-8e30-0a1ff84931c0",
         "title": "Ph.D. Research Autonomous Vehicles Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -315670,7 +315670,7 @@
         "company_name": "Ontario Teachers' Pension Plan",
         "id": "705aa0dc-9caf-4a10-8196-9c201a884e84",
         "title": "Finance Intern - Risk Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -318278,7 +318278,7 @@
         "company_name": "The Walt Disney Company",
         "id": "ee239b53-fb7d-46b7-b98b-900f2b504f38",
         "title": "Transportation Logistics & Analytics Intern - Spring 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -361455,7 +361455,7 @@
         "company_name": "Walmart",
         "id": "9a65a8df-82be-4934-8e8f-0308d4a7686a",
         "title": "Software Engineer 2 Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -366826,7 +366826,7 @@
         "company_name": "Marvell",
         "id": "f0664bf2-ffd2-483a-90dd-8d16a1040261",
         "title": "Analog Design Intern - MS",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -375466,7 +375466,7 @@
         "company_name": "RTX",
         "id": "74da0ee7-75ae-4580-86dd-14d8b4f2e8ab",
         "title": "Data Science and Advanced Analytics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
@@ -378764,7 +378764,7 @@
         "company_name": "Marvell",
         "id": "f110d4a7-32ed-49ae-a14e-357e17fe995a",
         "title": "Test Solutions Engineering Intern - BS - Post-Silicon Hardware Validation",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
