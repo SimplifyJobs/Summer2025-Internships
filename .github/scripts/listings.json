@@ -1,147 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "GE Healthcare",
-        "id": "9de46a5a-36d3-49b7-8a37-d19329562db9",
-        "title": "Field Engineer Apprentice",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1768461621,
-        "date_posted": 1768461621,
-        "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Detroit/Field-Engineer-Apprentice--Detroit--MI-_R4034610-1",
-        "locations": [
-            "Detroit, MI"
-        ],
-        "company_url": "https://simplify.jobs/c/GE-Healthcare",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "Associate's",
-            "Certificate"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Magna",
-        "id": "8a2e2cf9-0caf-442e-8323-d2737bc6de48",
-        "title": "Student \u2013 Engineering Software",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1768461360,
-        "date_posted": 1768461360,
-        "url": "https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Lowell-Massachusetts-US/Student--Engineering-Software_R00221212",
-        "locations": [
-            "Lowell, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Magna",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Verkada",
-        "id": "aeb00ec5-11ab-4337-8c4d-2793b0120f38",
-        "title": "Hardware Engineer - Co-op",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1768461989,
-        "date_posted": 1768461989,
-        "url": "https://job-boards.greenhouse.io/verkada/jobs/4135120007",
-        "locations": [
-            "San Mateo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Verkada",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "ICF International",
-        "id": "af38cf36-39d6-4c44-ada0-9b83fb166ccf",
-        "title": "Intern - Renewable Energy",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1768461965,
-        "date_posted": 1768461965,
-        "url": "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2026-Summer-Intern--Renewable-Energy--Remote-_R2600120",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/ICF-International",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Northrop Grumman",
-        "id": "4a1bd1ef-befa-46ba-9732-455d4b6fa6fd",
-        "title": "Software College Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1768462040,
-        "date_posted": 1768462040,
-        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2026-Software-College-Intern---Rolling-Meadows-IL_R10219490",
-        "locations": [
-            "Palatine, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "ICF International",
-        "id": "149d40d2-a33e-4e0a-a825-2f40afcb4ce2",
-        "title": "2026 Summer Intern - Grid Modeling & Analytics",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1768461959,
-        "date_posted": 1768461959,
-        "url": "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2026-Summer-Intern--Grid-Modeling---Analytics_R2600129",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/ICF-International",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "British Columbia Investment",
         "id": "efcf2bcd-b5e8-4c93-a2db-7d560e17f645",
@@ -2313,29 +2172,6 @@
             "Belfast, UK"
         ],
         "company_url": "https://simplify.jobs/c/Thales",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "ICF International",
-        "id": "3f4e0896-7f13-4a69-926a-4455480723c1",
-        "title": "Grid Planning Intern - Grid Planning",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1768565297,
-        "date_posted": 1768461956,
-        "url": "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2026-Summer-Intern--Grid-Planning_R2600130",
-        "locations": [
-            "Reston, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/ICF-International",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
@@ -341976,7 +341812,7 @@
         "company_name": "Microsoft",
         "id": "8df7539c-d0c7-4783-8d10-a19510da93da",
         "title": "Data Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
