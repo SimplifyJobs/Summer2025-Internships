@@ -238881,7 +238881,7 @@
         "company_name": "Rippling",
         "id": "0271dfee-afcf-4a95-ad39-156710edc8ce",
         "title": "Machine Learning Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
@@ -272995,7 +272995,7 @@
         "company_name": "LightGuide, Inc.",
         "id": "045f6eba-6e94-4fbc-85c8-1ba3affc21d4",
         "title": "Product Innovation Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -290552,7 +290552,7 @@
         "company_name": "The Federal Reserve System",
         "id": "1924d443-3b61-47d4-addf-d6db4308935b",
         "title": "Graduate Statistical Analysis Intern - Regional & Community Outreach",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -314415,7 +314415,7 @@
         "company_name": "LPL Financial Holdings",
         "id": "194afda8-ace4-46b3-b795-65651541bfd3",
         "title": "Data Analytics Intern - FAR Program",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -364963,7 +364963,7 @@
         "company_name": "The Walt Disney Company",
         "id": "385e4006-fa14-4333-8ccf-6fcb41423831",
         "title": "Commercial Data Science Intern - Spring 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -365528,7 +365528,7 @@
         "company_name": "Schonfeld",
         "id": "20aa7ab0-ffba-4efb-abf1-15d3064172be",
         "title": "Quantitative Research Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -365576,7 +365576,7 @@
         "company_name": "Schonfeld",
         "id": "ff867ed1-cf5a-4419-a4d7-47d1b9066205",
         "title": "Fixed Income Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -385905,7 +385905,7 @@
         "company_name": "TD Bank",
         "id": "194a2192-6413-4ed0-9957-dfe5dc3f3f0c",
         "title": "Software Engineer Co-op - Global Technology & Solutions",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
