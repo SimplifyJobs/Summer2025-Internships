@@ -296906,7 +296906,7 @@
         "company_name": "Sun Life",
         "id": "765f9438-c57a-4035-9229-8b41b835beeb",
         "title": "Digital Analytics Student",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
