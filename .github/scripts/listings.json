@@ -336410,7 +336410,7 @@
         "company_name": "Edison International",
         "id": "77203ce5-b7d4-43d5-a610-f97e1ddee542",
         "title": "Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -352573,7 +352573,7 @@
         "company_name": "NVIDIA",
         "id": "51a4a857-a381-433e-a84a-c418a90df692",
         "title": "Digital Circuit Design Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -358685,7 +358685,7 @@
         "company_name": "RTX",
         "id": "4fb34804-5a77-473d-9fdf-a34420e9e45b",
         "title": "Advanced Analytics Products & Change Management Intern - Advanced Analytics AI Evolution Project",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
@@ -365013,7 +365013,7 @@
         "company_name": "Marvell",
         "id": "4d5f11db-f4d3-45a0-aaa1-9a429091be83",
         "title": "Design for Test Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -367278,7 +367278,7 @@
         "company_name": "Marvell",
         "id": "7519dee0-35e8-42b9-ad9c-71201febe2bd",
         "title": "Advanced Packaging Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027",
             "Fall 2027",
@@ -371045,7 +371045,7 @@
         "company_name": "Airbus",
         "id": "4dc86313-ac1f-4d5e-a766-6c8629caffcf",
         "title": "Satellite Digital Systems",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -380257,7 +380257,7 @@
         "company_name": "RTX",
         "id": "757ed4c0-2f8e-4285-a0dd-e82bb8698fb7",
         "title": "Software Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027",
             "Summer 2027"
@@ -385260,7 +385260,7 @@
         "company_name": "RTX",
         "id": "73822e9d-adcc-479f-b12b-a9bcdd16fed4",
         "title": "Engine Test Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
