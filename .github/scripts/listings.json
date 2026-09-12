@@ -92,29 +92,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "John Deere",
-        "id": "9ac65767-6798-4989-bbf6-d109b442420c",
-        "title": "Part-Time Student - Simulation - Austin TX Product Engineering CA",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1768433896,
-        "date_posted": 1768433896,
-        "url": "https://johndeere.eightfold.ai/careers/job/137478547341",
-        "locations": [
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/John-Deere",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "GXO Logistics",
         "id": "2cf756ed-022c-4ffe-afe3-eddc3596355c",
@@ -221,52 +198,6 @@
             "Columbus, MS"
         ],
         "company_url": "https://simplify.jobs/c/Paccar",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "John Deere",
-        "id": "0e03e7ea-ebe3-4a91-a115-2a149ff346ef",
-        "title": "Part-Time Student-Product Engineering",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1768433870,
-        "date_posted": 1768433870,
-        "url": "https://johndeere.eightfold.ai/careers/job/137478513500",
-        "locations": [
-            "Ames, IA"
-        ],
-        "company_url": "https://simplify.jobs/c/John-Deere",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "AAR",
-        "id": "6463eafb-5647-4b03-a9ea-4d06bcb83a09",
-        "title": "Product Line Intern Electronics - Electronics",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1768433866,
-        "date_posted": 1768433866,
-        "url": "https://aarcorp.taleo.net/careersection/aar_mobile/jobdetail.ftl?job=18031",
-        "locations": [
-            "Elk Grove Village, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/AAR",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
@@ -578,29 +509,6 @@
         "degrees": [
             "Bachelor's",
             "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "John Deere",
-        "id": "506ba5a8-2056-4889-bb8e-c4dc2713fbcf",
-        "title": "Part-Time Student - Software Engineer - Champaign IL Technology CA",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1768433926,
-        "date_posted": 1768433926,
-        "url": "https://johndeere.eightfold.ai/careers/job/137478547780",
-        "locations": [
-            "Urbana, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/John-Deere",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -290571,7 +290479,7 @@
         "company_name": "Tesla",
         "id": "4afc774c-1a8c-44d6-b0c6-ebae36dfd0b9",
         "title": "Data Engineer Intern - Cell Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Spring 2027"
@@ -305423,7 +305331,7 @@
         "company_name": "Abridge",
         "id": "7b78baf6-f74f-4d7b-924f-a68d5e0e0dbf",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -307224,7 +307132,7 @@
         "company_name": "Capital One",
         "id": "bcf0ca2a-3b0d-408b-809c-b5ddf36b64e4",
         "title": "Full Stack Software Engineer Intern - Team Pickle",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
@@ -351318,7 +351226,7 @@
         "company_name": "Hewlett Packard",
         "id": "cee7024e-305b-4327-b730-0cf293d44668",
         "title": "Quality Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -380511,7 +380419,7 @@
         "company_name": "Barclays",
         "id": "e3d70ac5-dc1d-4c06-b733-8c76af99ef70",
         "title": "Technology Developer Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -381969,7 +381877,7 @@
         "company_name": "Tradeweb",
         "id": "ff7a5dc0-ac69-4d08-b776-4be6c49870fe",
         "title": "AI Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -391150,6 +391058,441 @@
             "Plantation, FL"
         ],
         "company_url": "https://simplify.jobs/c/MotorolaSolutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "MegazoneCloud",
+        "id": "7c26ef09-c2c9-47e6-b9a9-1e62b056f9dd",
+        "title": "Data Engineer Co-op",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1789171116,
+        "date_posted": 1789170797,
+        "url": "https://jobs.ashbyhq.com/megazone/fde09888-986f-4207-88fe-3ff5b921a1fa/application?embed=true",
+        "locations": [
+            "Rochester, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/MegazoneCloud",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "SCOR",
+        "id": "678495bb-e157-455e-8bb4-01d862999751",
+        "title": "Strategy & Business Intelligence Intern",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1789170841,
+        "date_posted": 1789170802,
+        "url": "https://fa-errt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/5394",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/SCOR",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "GE Healthcare",
+        "id": "e5c8303e-444a-4707-bf65-53bb4b87042b",
+        "title": "Software Engineering Co-op - LSS",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1789171145,
+        "date_posted": 1789084800,
+        "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Madison/LSS-Software-Engineering-Co-op---Madison--WI_R4046263-1",
+        "locations": [
+            "Madison, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Healthcare",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "MegazoneCloud",
+        "id": "27deb3b5-50a4-4bab-9656-57bb2dd34ead",
+        "title": "Software Engineer Co-op",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1789171126,
+        "date_posted": 1789170797,
+        "url": "https://jobs.ashbyhq.com/megazone/e2889469-cf20-4227-bf24-2a6e885f8dca/application?embed=true",
+        "locations": [
+            "Rochester, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/MegazoneCloud",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Businessolver",
+        "id": "4cc8603a-045d-4506-b7d3-d174a4194ef0",
+        "title": "Business Intelligence Intern - Innovation & Data Science",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1789171094,
+        "date_posted": 1789170767,
+        "url": "https://job-boards.greenhouse.io/businessolverinvitationonly/jobs/8189738",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Businessolver",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Cone Health",
+        "id": "60bd3418-218f-4b15-8d31-ef859ef98887",
+        "title": "Healthcare Innovation Intern - AI",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1789171094,
+        "date_posted": 1789170757,
+        "url": "https://careers.conehealth.com/us/en/job/JR155166",
+        "locations": [
+            "Greensboro, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Cone-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Commure",
+        "id": "6a833744-e49d-4159-a168-e07ab82f981b",
+        "title": "Software Engineer Intern - Summer 2027",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1789171068,
+        "date_posted": 1789170712,
+        "url": "https://jobs.ashbyhq.com/Commure/62841aa1-3ee5-4547-8380-637b737b2cb3/application?embed=true",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Commure",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ibotta",
+        "id": "eb4588fd-1b28-4f95-b27c-2742b4ca906e",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1789170661,
+        "date_posted": 1789170645,
+        "url": "https://jobs.ashbyhq.com/ibotta/3130669e-16aa-4f63-834d-b83571c8d269/application?embed=true",
+        "locations": [
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Ibotta",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Avis Budget Group",
+        "id": "eda842f1-d620-457e-ae05-ed16e654890f",
+        "title": "Revenue Management Intern - Accelerate",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1789170945,
+        "date_posted": 1789084800,
+        "url": "https://avisbudget.wd1.myworkdayjobs.com/abg_careers/job/379-Interpace-Pkwy-Parsippany-07054/Accelerate---Revenue-Management-Summer-2027-Intern_R0190482",
+        "locations": [
+            "Parsippany-Troy Hills, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/Avis-Budget-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "American University",
+        "id": "eba00ed8-3e9c-4bab-878a-f40c09762da2",
+        "title": "Quantitative Support Programmer - Student",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1789170963,
+        "date_posted": 1789084800,
+        "url": "https://american.wd1.myworkdayjobs.com/au/job/Main-Campus-Washington-DC/Quantitative-Support-Programmer--Student-_R4952",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/American-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Avis Budget Group",
+        "id": "8262d1b0-a155-42eb-b4f5-a14a377ffb1b",
+        "title": "Transformation Engineer Intern - Accelerate",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1789170927,
+        "date_posted": 1789084800,
+        "url": "https://avisbudget.wd1.myworkdayjobs.com/abg_careers/job/379-Interpace-Pkwy-Parsippany-07054/Accelerate---Transformation-Engineer-Summer-2027-Intern_R0190388",
+        "locations": [
+            "Parsippany-Troy Hills, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/Avis-Budget-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Allegion",
+        "id": "792ba5ee-a91f-4674-a32b-415aec46bf35",
+        "title": "Hardware Engineer Intern - Product Lifecycle Engineering",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1789170935,
+        "date_posted": 1789084800,
+        "url": "https://allegion.wd5.myworkdayjobs.com/careers/job/Indianapolis-IN---Hague-Rd/Summer-Intern---Hardware-Engineering---Indianapolis--Indiana_JR37467-1",
+        "locations": [
+            "Indianapolis, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/Allegion",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Cozey",
+        "id": "d7f0c23e-9959-43e2-8078-887a76fc2142",
+        "title": "Product Management Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1789170911,
+        "date_posted": 1789170608,
+        "url": "https://ats.rippling.com/cozey-internships/jobs/2b4bb455-c5c3-41ee-9bc8-b9fd889d35ea",
+        "locations": [
+            "Mount Royal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/63700e00-0cb3-4c30-914b-c05cb8626d52",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Cozey",
+        "id": "9b456cb3-5f2b-4380-9ecc-9b0e2767ce3a",
+        "title": "Data Science Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1789170911,
+        "date_posted": 1789170609,
+        "url": "https://ats.rippling.com/cozey-internships/jobs/d19a9f0b-e828-436b-890f-a6f2216c6888",
+        "locations": [
+            "Mount Royal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/63700e00-0cb3-4c30-914b-c05cb8626d52",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Cozey",
+        "id": "ff16852d-9fff-4f7a-818e-26728a2ad542",
+        "title": "Data Science Intern",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1789170909,
+        "date_posted": 1789170608,
+        "url": "https://ats.rippling.com/cozey-internships/jobs/1e50d436-06c1-447c-b676-5e487b19433c",
+        "locations": [
+            "Mount Royal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/63700e00-0cb3-4c30-914b-c05cb8626d52",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Dialogue",
+        "id": "54eb0c26-8ef9-4cbc-95de-a14051e13044",
+        "title": "Full Stack Developer Intern - Euse",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1789170907,
+        "date_posted": 1789170608,
+        "url": "https://ats.rippling.com/dialogue-fr/jobs/8b2f0f5d-c830-48ab-9b48-14e2bfdb91cd",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Dialogue",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Cozey",
+        "id": "c23e28d2-825b-4ccc-a647-74cfdfc4b83d",
+        "title": "Product Management Intern",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1789170905,
+        "date_posted": 1789170608,
+        "url": "https://ats.rippling.com/cozey-internships/jobs/b1f3e185-e5d7-4baf-b67f-10f8703b130a",
+        "locations": [
+            "Mount Royal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/63700e00-0cb3-4c30-914b-c05cb8626d52",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "EMC Insurance",
+        "id": "80ed798a-4740-4572-bb0b-e99439246dcf",
+        "title": "Data Science Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1789170901,
+        "date_posted": 1789084800,
+        "url": "https://emcins.wd5.myworkdayjobs.com/en-US/EMC_Careers/job/Iowa/Intern--Data-Science_R6524",
+        "locations": [
+            "Iowa"
+        ],
+        "company_url": "https://simplify.jobs/c/EMC-Insurance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Central Hudson",
+        "id": "414ce8a0-05fe-46fd-a8bd-13cd73881a14",
+        "title": "Data Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1789170661,
+        "date_posted": 1789084800,
+        "url": "https://cenhud.wd5.myworkdayjobs.com/cenhud/job/Poughkeepsie/Data-Analytics-Intern_R2141",
+        "locations": [
+            "Poughkeepsie, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Central-Hudson",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
