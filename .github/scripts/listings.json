@@ -297873,7 +297873,7 @@
         "company_name": "Micron Technology",
         "id": "cac1f15d-cf74-42c8-b16e-6781eacbab92",
         "title": "DRAM IP Circuits Design Engineer Intern - IP Development",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -305349,7 +305349,7 @@
         "company_name": "DiDi Global",
         "id": "04e15531-638a-4578-bc04-9d717f8f01f0",
         "title": "Motion Planning Engineer Intern - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -390836,6 +390836,29 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "DiDi Global",
+        "id": "b8b44917-e950-4ffd-96b3-06c801348283",
+        "title": "Motion Planning Engineer Intern - PhD",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1789177015,
+        "date_posted": 1789176832,
+        "url": "https://job-boards.greenhouse.io/didi/jobs/8198303",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/DiDi-Global",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
         ]
     }
 ]
