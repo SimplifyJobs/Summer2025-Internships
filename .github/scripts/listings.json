@@ -161516,7 +161516,7 @@
         "company_name": "TikTok",
         "id": "73b43840-d6dc-4026-acc9-485fffbb96dd",
         "title": "Software Engineer Project Intern - Model Infrastructure",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -191405,7 +191405,7 @@
         "company_name": "Tencent",
         "id": "ba133a6e-7d68-423a-a0ab-6235909272c2",
         "title": "Game Research & Development Intern - Engine Research",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -309842,7 +309842,7 @@
         "company_name": "NVIDIA",
         "id": "bb48b7b8-29e9-4f8f-8817-54e325180735",
         "title": "Deep Learning Intern - Deep Learning Applications and Algorithms - Deep Learning Frameworks and Libraries",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -319253,7 +319253,7 @@
         "company_name": "TikTok",
         "id": "4890aa3f-9b23-4f72-8e21-fa891322a004",
         "title": "Product Manager Intern - Pgc",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -319277,7 +319277,7 @@
         "company_name": "TikTok",
         "id": "63b147f7-67e5-40ea-bf27-906ad1de151c",
         "title": "Product Operations Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -321171,7 +321171,7 @@
         "company_name": "Brunswick",
         "id": "bbd6e777-012d-4311-bbee-2f7372acaa9d",
         "title": "Product Management Intern - Oils & Lubricants",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -322563,7 +322563,7 @@
         "company_name": "Sun Life",
         "id": "b2d3a293-02ed-4860-a76b-6098d2adfcfe",
         "title": "Automation Specialist Student",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -327813,7 +327813,7 @@
         "company_name": "Booz Allen",
         "id": "7cef83de-ff10-493e-abfb-9def6ada06d0",
         "title": "AI Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -362408,7 +362408,7 @@
         "company_name": "Pennsylvania State University",
         "id": "93e325b1-07c2-48a6-97eb-affa3dd10b6a",
         "title": "AI/ML Research Support Intern - Visualization and Decision Support Division",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026",
             "Spring 2027"
@@ -363563,7 +363563,7 @@
         "company_name": "RTX",
         "id": "b93f4f27-8809-4c89-b68d-0c388c5948e1",
         "title": "Digital Transformation of Aeronautic Manufacturing Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -384518,7 +384518,7 @@
         "company_name": "Marvell",
         "id": "b993dfd1-18f6-4fe1-97b4-b37792dd18ae",
         "title": "Architecture, DSP & Systems Architecture Ph.D. Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
