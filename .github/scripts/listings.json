@@ -309721,7 +309721,7 @@
         "company_name": "NVIDIA",
         "id": "31523bd0-3228-448d-b0ce-f99812c17fca",
         "title": "Generative AI Ph.D. Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -364519,7 +364519,7 @@
         "company_name": "The Walt Disney Company",
         "id": "a878e206-e09a-4e2d-a2a6-10c94b04cf61",
         "title": "Commercial Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -380515,7 +380515,7 @@
         "company_name": "Tradeweb",
         "id": "cfcf9dcd-330d-431b-8720-ccdbd7192fea",
         "title": "Credit Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
