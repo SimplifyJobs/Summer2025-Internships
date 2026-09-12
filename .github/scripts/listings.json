@@ -290552,7 +290552,7 @@
         "company_name": "The Federal Reserve System",
         "id": "1924d443-3b61-47d4-addf-d6db4308935b",
         "title": "Graduate Statistical Analysis Intern - Regional & Community Outreach",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -314415,7 +314415,7 @@
         "company_name": "LPL Financial Holdings",
         "id": "194afda8-ace4-46b3-b795-65651541bfd3",
         "title": "Data Analytics Intern - FAR Program",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -359622,7 +359622,7 @@
         "company_name": "Walmart",
         "id": "20632827-008e-4260-aec0-fd4d5db58b42",
         "title": "Software Engineer 2 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -359694,7 +359694,7 @@
         "company_name": "Walmart",
         "id": "9a65a8df-82be-4934-8e8f-0308d4a7686a",
         "title": "Software Engineer 2 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -365576,7 +365576,7 @@
         "company_name": "Schonfeld",
         "id": "ff867ed1-cf5a-4419-a4d7-47d1b9066205",
         "title": "Fixed Income Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -385905,7 +385905,7 @@
         "company_name": "TD Bank",
         "id": "194a2192-6413-4ed0-9957-dfe5dc3f3f0c",
         "title": "Software Engineer Co-op - Global Technology & Solutions",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2027"
         ],
