@@ -365731,7 +365731,7 @@
         "company_name": "AArete",
         "id": "4450e57d-6850-4b61-b0f6-39350674e9d9",
         "title": "Business Analytics Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -372760,7 +372760,7 @@
         "company_name": "AArete",
         "id": "0ce18659-d44b-4bc1-8341-275eda5c3c69",
         "title": "Data Architecture & Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
