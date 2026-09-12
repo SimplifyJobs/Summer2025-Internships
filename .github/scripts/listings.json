@@ -161516,7 +161516,7 @@
         "company_name": "TikTok",
         "id": "73b43840-d6dc-4026-acc9-485fffbb96dd",
         "title": "Software Engineer Project Intern - Model Infrastructure",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -359548,7 +359548,7 @@
         "company_name": "Walmart",
         "id": "9145a4f8-536c-4cf7-9763-5724c53579f1",
         "title": "Data Scientist 3 Intern - 2026 Intern Conversion: 2027 FT",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Summer 2027"
@@ -359765,7 +359765,7 @@
         "company_name": "Walmart",
         "id": "926d0b7b-a700-40fb-a9c0-6d9f5095bf8d",
         "title": "Software Engineer 2 Intern - Bellevue",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -362408,7 +362408,7 @@
         "company_name": "Pennsylvania State University",
         "id": "93e325b1-07c2-48a6-97eb-affa3dd10b6a",
         "title": "AI/ML Research Support Intern - Visualization and Decision Support Division",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026",
             "Spring 2027"
@@ -367278,7 +367278,7 @@
         "company_name": "Marvell",
         "id": "7519dee0-35e8-42b9-ad9c-71201febe2bd",
         "title": "Advanced Packaging Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027",
             "Fall 2027",
@@ -380257,7 +380257,7 @@
         "company_name": "RTX",
         "id": "757ed4c0-2f8e-4285-a0dd-e82bb8698fb7",
         "title": "Software Engineering Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2027",
             "Summer 2027"
@@ -380930,7 +380930,7 @@
         "company_name": "Charles Schwab",
         "id": "a6063334-5bb1-4e13-b02e-d2d9b9c069fb",
         "title": "Product Management Intern - Thinkorswim",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -385260,7 +385260,7 @@
         "company_name": "RTX",
         "id": "73822e9d-adcc-479f-b12b-a9bcdd16fed4",
         "title": "Engine Test Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -390628,5 +390628,26 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Stand Together",
+        "id": "b8af3c73-ae72-4e65-9e91-d90b4215c39d",
+        "title": "Strategic Research Intern - Pacific Legal Foundation",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1789212150,
+        "date_posted": 1788993129,
+        "url": "https://jobs.lever.co/standtogether/e4dd1d3c-79a0-435d-87b3-eac542b4c2b5/apply",
+        "locations": [
+            "Arlington County, Arlington, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Stand-Together",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
