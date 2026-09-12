@@ -2,30 +2,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Geotab",
-        "id": "aa189ec4-6b0e-44d7-a2ad-8ff65ee4da63",
-        "title": "Data Scientist Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1768495286,
-        "date_posted": 1768495286,
-        "url": "https://job-boards.greenhouse.io/internshiplist2000/jobs/5018105008",
-        "locations": [
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Geotab",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Olsson",
         "id": "ce534c37-ec54-4ce5-9c8a-b1c154f9575d",
         "title": "GIS Student Internship",
@@ -116654,31 +116630,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Akuna Capital",
-        "id": "533c5cbc-2c31-4f95-b3ee-c79ed5b904ce",
-        "title": "Software Engineer Intern - Python",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1768494701,
-        "date_posted": 1768494701,
-        "url": "https://www.akunacapital.com/job-details?gh_jid=7055471",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Akuna-Capital",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
     },
     {
         "source": "Simplify",
@@ -334178,7 +334129,7 @@
         "company_name": "Trane Technologies",
         "id": "a3a30f46-fe3b-48db-8f94-28a5b0a06d39",
         "title": "AI & Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -389725,7 +389676,7 @@
         "company_name": "Cozey",
         "id": "c23e28d2-825b-4ccc-a647-74cfdfc4b83d",
         "title": "Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -389884,7 +389835,7 @@
         "company_name": "Dialogue Health Technologies",
         "id": "c3e1b101-501d-47e1-b873-a26101c80c91",
         "title": "Full Stack Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
