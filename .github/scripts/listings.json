@@ -104761,7 +104761,7 @@
         "company_name": "Tencent",
         "id": "f682356d-55da-4f90-987d-77f140cc652d",
         "title": "Hunyuan Multimodal Algorithm Researcher Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -255236,7 +255236,7 @@
         "company_name": "Copart",
         "id": "b5e81d8d-839a-4ffb-b147-0a513ffea0a8",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -297082,7 +297082,7 @@
         "company_name": "LPL Financial Holdings",
         "id": "14051ce6-a050-4a8e-851b-555583f7ba2c",
         "title": "Data Engineer Intern - Data",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -297108,7 +297108,7 @@
         "company_name": "SkyGig",
         "id": "87e1bcd4-c2d1-41b8-bd8e-f853c69f7050",
         "title": "RFIC Design Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -325520,7 +325520,7 @@
         "company_name": "Leidos",
         "id": "49e6ace2-42ca-46a7-81f9-59a39844f75f",
         "title": "Computer Engineering Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027",
             "Summer 2027"
@@ -353580,7 +353580,7 @@
         "company_name": "OceanComm",
         "id": "4d73ee07-1a9f-463a-af8b-89f1101f9965",
         "title": "Engineering Intern/Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -356865,7 +356865,7 @@
         "company_name": "Marvell",
         "id": "853f43c9-8095-4fb8-880b-20c796875015",
         "title": "Analog Engineer Intern - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -383606,7 +383606,7 @@
         "company_name": "The Toro Company",
         "id": "e13a168f-e9f4-443e-a4a8-201a41e45246",
         "title": "Test Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
