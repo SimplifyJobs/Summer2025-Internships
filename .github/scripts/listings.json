@@ -309721,7 +309721,7 @@
         "company_name": "NVIDIA",
         "id": "31523bd0-3228-448d-b0ce-f99812c17fca",
         "title": "Generative AI Ph.D. Research Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -336410,7 +336410,7 @@
         "company_name": "Edison International",
         "id": "77203ce5-b7d4-43d5-a610-f97e1ddee542",
         "title": "Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -349372,7 +349372,7 @@
         "company_name": "Hewlett Packard",
         "id": "185284ab-d314-416c-8a28-44c6b1938920",
         "title": "Quality Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -352573,7 +352573,7 @@
         "company_name": "NVIDIA",
         "id": "51a4a857-a381-433e-a84a-c418a90df692",
         "title": "Digital Circuit Design Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -358685,7 +358685,7 @@
         "company_name": "RTX",
         "id": "4fb34804-5a77-473d-9fdf-a34420e9e45b",
         "title": "Advanced Analytics Products & Change Management Intern - Advanced Analytics AI Evolution Project",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -365013,7 +365013,7 @@
         "company_name": "Marvell",
         "id": "4d5f11db-f4d3-45a0-aaa1-9a429091be83",
         "title": "Design for Test Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -371045,7 +371045,7 @@
         "company_name": "Airbus",
         "id": "4dc86313-ac1f-4d5e-a766-6c8629caffcf",
         "title": "Satellite Digital Systems",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -373406,7 +373406,7 @@
         "company_name": "RTX",
         "id": "f99a0505-2be8-4e53-b830-b3183561a0a0",
         "title": "Mechanical Product Line Management Co-op - Spring/Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027",
             "Summer 2027"
@@ -378427,7 +378427,7 @@
         "company_name": "Northrop Grumman",
         "id": "ee67af4a-8753-4241-9b42-a9a820130aa6",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -390604,6 +390604,29 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "USAA",
+        "id": "8b696511-3eb6-46d7-bd8a-1a07e56a2349",
+        "title": "Product Management Analyst Intern - Property and Casualty",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1789208183,
+        "date_posted": 1789084800,
+        "url": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/P-C-Product-Management-Analyst-Intern_R0120949",
+        "locations": [
+            "San Antonio, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/USAA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
