@@ -120,29 +120,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Beth Israel Lahey Health",
-        "id": "a707c1b4-451c-436d-96e9-fc0ef61f2c49",
-        "title": "Neurology Postdoctoral Fellow - Data Science",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1768437579,
-        "date_posted": 1768437579,
-        "url": "https://bilh.wd1.myworkdayjobs.com/External/job/Beth-Israel-Deaconess-Medical-Center/Neurology-Postdoctoral-Fellow---Data-Science_JR89768",
-        "locations": [
-            "Boston, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Beth-Israel-Lahey-Health",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Ryan",
         "id": "60fb668f-f91e-41d6-a62c-0c82a1201591",
         "title": "Data Science Intern",
@@ -183,29 +160,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Stanley Black & Decker",
-        "id": "7b648c5f-686d-42a7-99f9-3bb5ce4beabd",
-        "title": "Embedded Engineering Summer Intern 2026",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1768437426,
-        "date_posted": 1768437426,
-        "url": "https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/Embedded-Engineering-Summer-Intern-2026_REQ-1000045296",
-        "locations": [
-            "Towson, MD"
-        ],
-        "company_url": "https://simplify.jobs/c/Stanley-Black-Decker",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
     },
     {
         "source": "Simplify",
@@ -252,28 +206,6 @@
         "degrees": [
             "Bachelor's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Axos Bank",
-        "id": "c3cc7689-cedc-4a08-a874-30562496c63e",
-        "title": "AI Solutions & Analyst Intern - AI Solutions & Analyst",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1768437238,
-        "date_posted": 1768437238,
-        "url": "https://axos.wd5.myworkdayjobs.com/Axos/job/HQ---San-Diego-CA/AI-Solutions---Analyst-Intern_JR3549",
-        "locations": [
-            "Centennial, CO",
-            "San Diego, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Axos-Bank",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -356987,7 +356919,7 @@
         "company_name": "GlobalFoundries",
         "id": "a2f5245b-818e-4da4-b14b-935303a46f72",
         "title": "Silicon Photonics Advanced Packaging Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
