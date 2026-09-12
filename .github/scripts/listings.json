@@ -332838,7 +332838,7 @@
         "company_name": "Micron Technology",
         "id": "805fde66-d91e-43be-84ba-4c4f79fa2ae1",
         "title": "Design Architecture Intern - HBM",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -370919,7 +370919,7 @@
         "company_name": "RTX",
         "id": "9e5585e8-3db5-4e95-8509-57e16ce4b0e3",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -373815,7 +373815,7 @@
         "company_name": "RTX",
         "id": "ce4fe8a4-cdaa-4b4e-9502-a07e904fba4e",
         "title": "Artificial Intelligence / Machine Learning Methods Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -377073,7 +377073,7 @@
         "company_name": "Verizon Communications",
         "id": "a6556164-3a4b-4673-ac5d-c68da66d752d",
         "title": "AI/ML Engineering Intern - Consumer Group",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
