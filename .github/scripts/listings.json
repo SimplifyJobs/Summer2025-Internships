@@ -184186,7 +184186,7 @@
         "company_name": "University of Arkansas",
         "id": "e4f4a19a-0777-4687-9441-b8f377f86167",
         "title": "Graduate Research Assistant Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -252885,7 +252885,7 @@
         "company_name": "Liberty University",
         "id": "ea053f2a-38d8-4cc1-af0b-e280de37935e",
         "title": "Business Analyst Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -321071,7 +321071,7 @@
         "company_name": "Brunswick",
         "id": "9f7c7e8c-1d6a-4fa5-8877-36b26f0b630a",
         "title": "Product Management Intern - Parts & Accessories",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -355470,7 +355470,7 @@
         "company_name": "Brunswick",
         "id": "e6071b93-7dbd-4e00-9f95-3aedd8bda97c",
         "title": "Power BI/Ops Analytics Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027",
             "Spring 2027",
@@ -373210,7 +373210,7 @@
         "company_name": "RTX",
         "id": "76730cc1-91aa-4e2a-84db-89852233810d",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -376880,7 +376880,7 @@
         "company_name": "Marvell",
         "id": "f110d4a7-32ed-49ae-a14e-357e17fe995a",
         "title": "Test Solutions Engineering Intern - BS - Post-Silicon Hardware Validation",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -383115,7 +383115,7 @@
         "company_name": "Insulet",
         "id": "502dd44b-9ee1-4d08-b39c-a54f98a1aa2d",
         "title": "Electrical Engineering Co-op - R&D",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
@@ -384996,7 +384996,7 @@
         "company_name": "Procter & Gamble",
         "id": "40230ab3-ddc1-4540-b302-39c127c06640",
         "title": "Data Science and Machine Learning PhD Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -385043,7 +385043,7 @@
         "company_name": "Procter & Gamble",
         "id": "e556f0eb-1ee9-4cd0-b6f2-502f5ba3d435",
         "title": "Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -387320,7 +387320,7 @@
         "company_name": "Fidelity Investments",
         "id": "93e9a550-3500-4f48-a9fa-0b883b696038",
         "title": "Risk Data Analyst Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
