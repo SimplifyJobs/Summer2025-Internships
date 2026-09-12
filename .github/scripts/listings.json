@@ -390561,5 +390561,29 @@
         "degrees": [
             "PhD"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TikTok",
+        "id": "e7d90cdc-955f-4bb2-8a94-81ea48265d84",
+        "title": "Software Engineer Intern - Ads Infrastructure - 2026 Summer - BS/MS",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1788456622,
+        "date_posted": 1781503928,
+        "url": "https://lifeattiktok.com/search/7572665884037826869",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
