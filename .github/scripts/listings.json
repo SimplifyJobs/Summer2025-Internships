@@ -366255,7 +366255,7 @@
         "company_name": "AArete",
         "id": "4450e57d-6850-4b61-b0f6-39350674e9d9",
         "title": "Business Analytics Intern - Summer 2027",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -373284,7 +373284,7 @@
         "company_name": "AArete",
         "id": "0ce18659-d44b-4bc1-8341-275eda5c3c69",
         "title": "Data Architecture & Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -390669,6 +390669,100 @@
             "Baltimore, MD"
         ],
         "company_url": "https://simplify.jobs/c/Constellation-Energy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Axon",
+        "id": "f968b448-0edf-43ed-9f4c-8954bef0183b",
+        "title": "Software Engineer Intern - R&D Program",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1789194864,
+        "date_posted": 1789194770,
+        "url": "https://job-boards.greenhouse.io/axontalentcommunity/jobs/7993376003",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Axon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Energy Transfer Partners",
+        "id": "0d6e7377-fae5-4c85-8452-8ee419b90b6a",
+        "title": "Power Optimization Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1789194861,
+        "date_posted": 1789194642,
+        "url": "https://energytransfer.taleo.net/careersection/etp_ext/jobdetail.ftl?job=2610003535",
+        "locations": [
+            "Houston, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Energy-Transfer-Partners",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Energy Transfer Partners",
+        "id": "0248d8cd-ddf4-40c9-8021-92f8972c9c6e",
+        "title": "Engineering Intern",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1789194861,
+        "date_posted": 1789194643,
+        "url": "https://energytransfer.taleo.net/careersection/etp_ext/jobdetail.ftl?job=2610003366",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Energy-Transfer-Partners",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "AfterQuery",
+        "id": "7c1ab0e2-c11d-4d40-b0a5-af075f866cec",
+        "title": "AI/ML Research Intern",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1789194601,
+        "date_posted": 1789194512,
+        "url": "https://jobs.ashbyhq.com/AfterQuery/00cd591f-6894-4259-83b6-36c999351dde/application?embed=true",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/AfterQuery",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
